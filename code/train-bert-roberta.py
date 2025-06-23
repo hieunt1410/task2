@@ -7,7 +7,7 @@ from model import *
 from logger import *
 from data_set import *
 from loss import TranslatedReLU, SmoothK2Loss
-from utils import predict_all_bert, predict_all_bm25, eval_end_model
+from bert import predict_all_bert, predict_all_bm25, eval_end_model
 
 import sys
 import random
