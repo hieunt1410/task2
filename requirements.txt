@@ -8,3 +8,4 @@ fsspec
 jsonlines
 spacy
 tqdm
+pyserini==0.44.0

@@ -6,8 +6,8 @@ import subprocess
 from tqdm import tqdm
 import sys
 import shutil
-from utils import preprocess_case_data, save_json, load_json, get_data, predict_all_bm25
-import json
+from utils import preprocess_case_data, save_json, load_json, get_data
+from bert import predict_all_bm25
 
 def parse_args():
     parser = argparse.ArgumentParser()
