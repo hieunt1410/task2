@@ -1,0 +1,480 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Boudreau v. Can. (A.G.) (2011), 394 F.T.R. 98 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2011] F.T.R. TBEd. AU.010 
+ 
+ 
+ 
+ Roy Leslie Boudreau (applicant) v. Attorney General of Canada (respondent) 
+ 
+ (T-1699-10; 2011 FC 868) 
+ 
+ 
+ 
+ Indexed As: Boudreau v. Canada (Attorney General) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Martineau, J. 
+ 
+ July 12, 2011. 
+ 
+ 
+ 
+ Summary: 
+ 
+ An adjudicator designated pursuant to s. 209 of the Public Service Labour Relations Act dismissed Boudreau's grievance against the employer (Department of National Defence) on the basis of lack of jurisdiction. Boudreau applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Labour Law - Topic 9102 
+ 
+ Public service labour relations - Grievances - Matters referable to adjudication - Boudreau filed a grievance stating that the employer (Department of National Defence) violated its harassment policies - After exhaustion of the internal grievance procedure, the union referred the grievance to adjudication - Under s. 209(1) of the Public Service Labour Relations Act there were generally two streams allowing grievable matters to be referred to adjudication: disciplinary actions and collective agreement issues - The union reframed the issue and, for the first time, identified clause 16.01 of the collective agreement as the subject of the grievance - Clause 16.01 provided that "The Employer shall make all reasonable provisions for the occupational safety and health of employees" - The union contended that the issue throughout the grievance process had been the employer's delay in investigating harassment complaints against Boudreau, and the impact of that delay on his health - The adjudicator dismissed the grievance on the basis of lack of jurisdiction under s. 209(1) of the Act - Boudreau applied for judicial review - The Federal Court dismissed the application - It was open to the adjudicator to find that the essence of the grievance was that the employer had failed to abide by specific policy requirements regarding the timely conduct of harassment investigations - Since the harassment policies did not form part of the collective agreement, their application could not be adjudicated under s. 209(1)(a) of the Act - An employee could not alter the nature of their grievance so that an adjudicator could acquire jurisdiction. 
+ 
+ 
+ 
+ Labour Law - Topic 9128 
+ 
+ Public service labour relations - Adjudication of grievances - Jurisdiction of adjudicators or boards - [See  
+ Labour Law - Topic 9102 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Vaughan v. Canada, [2005] 1 S.C.R. 146; 331 N.R. 64; 2005 SCC 11, refd to. [para. 7]. 
+ 
+ Burchill v. Canada (Attorney General), [1981] 1 F.C. 109; 37 N.R. 530 (F.C.A.), refd to. [para. 12]. 
+ 
+ Social Services Administration Board (Parry Sound District) v. Ontario Public Service Employees Union, Local 324 et al., [2003] 2 S.C.R. 157; 308 N.R. 271; 177 O.A.C. 235; 2003 SCC 42, refd to. [para. 14]. 
+ 
+ Robillard v. Canada (Attorney General) (2008), 330 F.T.R. 31; 2008 FC 510, refd to. [para. 15]. 
+ 
+ New Brunswick (Board of Management) v. Dunsmuir, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, refd to. [para. 16]. 
+ 
+ Blouin Drywall Contractors Ltd. v. United Brotherhood of Carpenters and Joiners of America, Local 2486 (1975), 8 O.R.(2d) 103 (C.A.), refd to. [para. 18]. 
+ 
+ Canada (Conseil du Trésor) v. Rinaldi (1997), 127 F.T.R. 60 (T.D.), refd to. [para. 19]. 
+ 
+ Schofield v. Canada (Attorney General), [2004] F.T.R. Uned. 395; 2004 FC 622, refd to. [para. 19]. 
+ 
+ Canada (Attorney General) v. Shneidman (2007), 365 N.R. 285; 2007 FCA 192, refd to. [para. 19]. 
+ 
+ Galarneau et al. v. Treasury Board (Correctional Service of Canada), 2009 PSLRB 70, refd to. [para. 23]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Public Service Labour Relations Act, R.S.C. 2003, c. 22, sect. 209 [para. 6]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Ronald A. Pink, Q.C., for the applicant; 
+ 
+ Richard E. Fader, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Pink Larkin, Halifax, Nova Scotia, for the applicant; 
+ 
+ Myles J. Kirvan, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard on June 15, 2011, at Halifax, Nova Scotia, before Martineau, J., of the Federal Court, who delivered the following decision on July 12, 2011. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Martineau, J. 
+ : The applicant, Mr. Roy Leslie Boudreau, challenges the legality of the decision (2010 PSLRB 100), made on September 21, 2010, by Mr. Dan Butler (the adjudicator), an adjudicator designated pursuant to section 209 of the  
+ Public Service Labour Relations Act 
+ , RSC 2003 c 22 (the Act), dismissing his grievance against the Treasury Board (Department of National Defence) (the employer) on the basis of lack of jurisdiction. For the reasons below, there is no reason to set aside the impugned decision. 
+ 
+ 
+ 
+ [2] 
+  The applicant is an employee of the Department of National Defence (DND). He is represented by the Federal Government Dockyard Chargehands Association (the union) who acts as bargaining agent. Between 2002 and 2005, four harassment complaints were filed against the applicant. All four were dealt with by the employer only after fairly long delays: the 2002 complaint was dismissed in 2003, the 2003 complaint was investigated in 2005 and dismissed in 2007, and the 2004 and 2005 complaints were also dismissed in 2007. During this time period, the applicant also received a death threat. 
+ 
+ 
+ 
+ [3] 
+  The applicant's supervisor became concerned about the applicant's health and suggested that he seek medical help. Upon doing so, the applicant was advised that he should not return to work. The applicant was approved for injury-on-duty leave in September 2005. He remained off work for 17 months. On March 30, 2007, he filed a grievance stating that the employer had violated DAOD 5012-0 Harassment Prevention and Resolution Policy and Guidelines, and the Treasury Board's Policy on the Prevention and Resolution of Harassment in the Workplace (the Harassment policies). 
+ 
+ 
+ 
+ [4] 
+  On December 18, 2007, the applicant met with the employer at the second level of the grievance procedure; the matter was not resolved to his satisfaction. The union referred the grievance to adjudication, leading to the employer's objection on jurisdictional grounds and which was ultimately granted by the adjudicator. Before examining the parties' arguments and the adjudicator's reasoning, however, it is worthwhile to first examine the legal framework. 
+ 
+ 
+ 
+ [5] 
+  Section 208 of the Act allows employees to grieve a wide range of matters affecting the terms and conditions of their employment. However, section 209 of the Act only allows specific grievances to be referred to adjudication. There are generally two streams allowing grievable matters to be referred to adjudication: disciplinary actions (including non-disciplinary termination/demotion) and collective agreement issues. 
+ 
+ 
+ 
+ [6] 
+  Section 209 provides as follows: 
+ 
+ 
+ 
+ 209. (1) An employee may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the grievance is related to 
+ 
+ 
+ 
+ (a) the interpretation or application in respect of the employee of a provision of a collective agreement or an arbitral award; 
+ 
+ 
+ 
+ (b) a disciplinary action resulting in termination, demotion, suspension or financial penalty; 
+ 
+ 
+ 
+ (c) in the case of an employee in the core public administration, 
+ 
+ 
+ 
+ (i) demotion or termination under paragraph 12(1)(d) of the Financial Administration Act for unsatisfactory performance or under paragraph 12(1)(e) of that Act for any other reason that does not relate to a breach of discipline or misconduct, or 
+ 
+ 
+ 
+ (ii) deployment under the Public Service Employment Act without the employee's consent where consent is required; or 
+ 
+ 
+ 
+ (d) in the case of an employee of a separate agency designated under subsection (3), demotion or termination for any reason that does not relate to a breach of discipline or misconduct. 
+ 
+ 
+ 
+ (2) Before referring an individual grievance related to matters referred to in paragraph (1)(a), the employee must obtain the approval of his or her bargaining agent to represent him or her in the adjudication proceedings. 
+ 
+ 
+ 
+ (3) The Governor in Council may, by order, designate any separate agency for the purposes of paragraph (1)(d). 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ 209. (1) Après l'avoir porté jusqu'au dernier palier de la procédure applicable sans avoir obtenu satisfaction, le fonctionnaire peut renvoyer à l'arbitrage tout grief individuel portant sur: 
+ 
+ 
+ 
+ a) soit l'interprétation ou l'application, à son égard, de toute disposition d'une convention collective ou d'une décision arbitrale; 
+ 
+ 
+ 
+ b) soit une mesure disciplinaire entraînant le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire; 
+ 
+ 
+ 
+ c) soit, s'il est un fonctionnaire de l'administration publique centrale: 
+ 
+ 
+ 
+ (i) la rétrogradation ou le licenciement imposé sous le régime soit de l'alinéa 12(1)d) de la Loi sur la gestion des finances publiques pour rendement insuffisant, soit de l'alinéa 12(1)e) de cette loi pour toute raison autre que l'insuffisance du rendement, un manquement à la discipline ou une inconduite, 
+ 
+ 
+ 
+ (ii) la mutation sous le régime de la Loi sur l'emploi dans la fonction publique sans son consentement alors que celui-ci était nécessaire; 
+ 
+ 
+ 
+ d) soit la rétrogradation ou le licenciement imposé pour toute raison autre qu'un manquement à la discipline ou une inconduite, s'il est un fonctionnaire d'un organisme distinct désigné au titre du paragraphe (3). 
+ 
+ 
+ 
+ (2) Pour que le fonctionnaire puisse renvoyer à l'arbitrage un grief individuel du type visé à l'alinéa (1)a), il faut que son agent négociateur accepte de le représenter dans la procédure d'arbitrage. 
+ 
+ 
+ 
+ (3) Le gouverneur en conseil peut par décret désigner, pour l'application de l'alinéa (1)d), tout organisme distinct. 
+ 
+ 
+ 
+ [7] 
+  Referral to adjudication of an individual grievance related to the interpretation or application of the collective agreement, pursuant to paragraph 209(1)(a) of the Act, requires the approval of the bargaining agent. On the other hand, for matters that are grievable but not referable to adjudication, the decision at the last level of the grievance procedure is "final and binding" (section 214 of the Act), subject to judicial review ( 
+ Vaughan v. Canada 
+ , 2005 SCC 11). 
+ 
+ 
+ 
+ [8] 
+  In the case at bar, the grievance made by the applicant exclusively referred to the Harassment policies. Following the exhaustion of the internal grievance procedure, the union initially characterized the employer's actions as "disciplinary" and first filed the reference to adjudication under paragraph 209(1)(b) of the Act, which as aforesaid, refers to a disciplinary action. The union then corrected the reference to adjudication, reframing the issue as a matter coming under paragraph 209(1)(a) of the Act. It is only at this stage that the union specifically identified clause 16.01 of the collective agreement as the subject of the grievance for the first time. 
+ 
+ 
+ 
+ [9] 
+  Clause 16.01 of the collective agreement reads as follows: 
+ 
+ 
+ 
+ 16.01 The Employer shall make all reasonable provisions for the occupational safety and health of employees. The Employer will welcome suggestions on the subject from the Association and the parties undertake to consult with a view to adopting and expeditiously carrying out reasonable procedures and techniques designed or intended to prevent or reduce the risk of employment injury. The Association agrees to encourage its members to observe and promote all safety rules and to use all appropriate protective equipment and safeguards. 
+ 
+ 
+ 
+ [10] 
+  From the union's point of view, the issue throughout the grievance process has been the employer's delay in investigating the harassment complaints against the applicant, and the impact of this delay on his health. The employer has not disputed that general depiction but argues that this does not change the essence of the grievance, which was that the employer had failed to abide by specific requirements regarding the timely conduct of harassment investigations. 
+ 
+ 
+ 
+ [11] 
+  At the adjudication, the employer thus raised the preliminary objection of lack of jurisdiction. 
+ 
+ 
+ 
+ [12] 
+  Essentially, the employer claimed that at no point during the grievance process was the issue the employer's failure to respect the collective agreement. Since the specific requirements found in the Harassment policies do not form part of the collective agreement, the employer submitted that the union was now attempting to change the true nature of the grievance by identifying clause 16.01 of the collective agreement as the subject of the reference to adjudication. According to the employer, such a change was not permissible as already long established by the Federal Court of Appeal's decision in  
+ Burchill v. Attorney General of Canada 
+ , [1981] 1 FC 109 (CA) at para 5 ( 
+ Burchill 
+ ). Thus, the matter could not come within the ambit of section 209(1) of the Act and the adjudicator ought to dismiss the grievance for lack of jurisdiction. 
+ 
+ 
+ 
+ [13] 
+  In response, the union submitted that the reference to adjudication did not change the nature of the grievance. The essence of the applicant's case was that he suffered undue stress and illness and had to remain off work for 17 months because the employer did not comply with its harassment policies. This failure to comply with its policies violated the collective agreement and the reference made to clause 16.01 did not change the legal issues and facts to be determined, but merely made explicit what had been implicit from the start. In any case, the union argued that the employer had not provided any evidence that it had suffered prejudice from the reference to clause 16.01 of the collective agreement. 
+ 
+ 
+ 
+ [14] 
+  The union attempted to distinguish  
+ Burchill 
+ , above, by stating that the reference to adjudication did not raise a new issue, as was the main problem in  
+ Burchill 
+ , above. Rather, the issue of the applicant's health had been raised throughout the grievance process. The employer was thus not deprived of the opportunity to address the subject matter of the grievance. The union also submitted that the courts have given grievors significant latitude in drafting their grievances and that courts, arbitrators and adjudicators have consistently held that cases should not be won or lost on a technicality of form. The union heavily relied on the directions of the Supreme Court of Canada in  
+ Parry Sound (District) Social Services Administration Board v. Ontario Public Service Employees Union, Local 324 
+ , 2003 SCC 42 at paras 67-71 ( 
+ Parry Sound 
+ ). 
+ 
+ 
+ 
+ [15] 
+  The Court is now called to determine whether the adjudicator committed a reviewable error in allowing the employer's objection and dismissing the grievance for lack of jurisdiction. Both parties today essentially repeated the arguments that were submitted by the union and the employer to the adjudicator. In this respect, it is recognized that the Public Service Labour Relations Board and its adjudicators enjoy a high level of expertise in the area of labour and employment law, including matters mentioned in section 209 of the Act. Indeed, it is agreed by both parties that the appropriate standard of review in this case is that of reasonableness (because it involves mixed questions of fact and law, or fact alone). See  
+ Robillard v. Canada (Attorney General) 
+ , 2008 FC 510 at para 23. 
+ 
+ 
+ 
+ [16] 
+  According to  
+ Dunsmuir v. New Brunswick 
+  (2008 SCC 9 at para 47), reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law. In the case at bar, the Court concludes that the adjudicator's finding that the union was attempting to change the nature of the grievance is supported by the evidence. Moreover, the adjudicator clearly explained his reasoning that he does not have jurisdiction under section 209 of the Act and has made a decision that falls within a range of possible and acceptable outcomes defensible in respect of the facts and the law. 
+ 
+ 
+ 
+ [17] 
+  The applicant submits to the Court that the "strict" approach adopted by the Federal Court of Appeal in  
+ Burchill 
+  in 1980 has been replaced or runs contrary to the "soft" approach endorsed by the Supreme Court of Canada in  
+ Parry Sound 
+  in 2003, who has acknowledged "the general consensus among arbitrators that, the greatest extent possible, a grievance should not be won or lost on the technicality of form, but on its merits" ( 
+ Parry Sound 
+ , above, at para 68). 
+ 
+ 
+ 
+ [18] 
+  The Court notes that the arbitral decisions referred to by the Supreme Court in  
+ Parry Sound 
+ , above, establish that "the grievance should be liberally construed so that the real complaint is dealt with" ( 
+ Re Blouin Drywall Contractors Ltd. and United Brotherhood of Carpenters and Jeiners of America, Local 2486 
+ , (1975) 8 OR (2d) 103 (CA) at page 108) and, as stated by the Supreme Court of Canada in  
+ Parry Sound 
+ , above, at para 69, reflect the view that procedural requirements should not be stringently enforced in those instances in which the employer suffers no prejudice. The Court sees no inconsistencies with these principles and what the Federal Court of Appeal has decided in  
+ Burchill 
+ , above, as long as the referral to adjudication under section 209 of the Act does not change the nature of the grievance originally filed by an employee or the bargaining agent under section 208 of the Act or the collective agreement. 
+ 
+ 
+ 
+ [19] 
+  In the Court's opinion, the rules of procedural fairness dictate that employer should not be required to defend in arbitration against a substantially different characterization of the issues than it encountered during the grievance procedure. This is not merely a technicality, but is fundamental to the proper functioning of the dispute resolution system for labour disputes in the federal public administration. See  
+ Burchill 
+ , above, at para 5,  
+ Canada (Treasury Board) 
+   
+ v. Rinaldi 
+ , [1997] FCJ No 225 at para 28 (FCTD) and  
+ Shofield v. Canada (Attorney General) 
+ , [2004] FCJ No 784, 2004 FC 622, cited in approval and discussed by the Federal Court of Appeal in  
+ Shneidman v. Canada (Customs and Revenue Agency) 
+ , 2007 FCA 192 at paras 26-28. 
+ 
+ 
+ 
+ [20] 
+  The Court has already noted that there is a sharp divide between matters that can be referred to adjudication and those that cannot under the scheme of the Act (sections 208 and 209). Therefore, court decisions having to do with grievances made in accordance with other federal and provincial labour relations statutes must be approached with great caution, considering that the scope of matters that can go to adjudication may be broader in those instances. That said, it is not challenged that the Harassment policies are not part of the collective agreement. In this context, given the different treatment awarded to adjudicable and non-adjudicable matters under section 209 of the Act, an essential element of this system is that employees are not permitted to alter the nature of their grievances during the grievance process or upon referral to adjudication. Otherwise, employees who had grieved a matter not adjudicable under section 209 of the Act would alter their grievances so that an adjudicator could acquire jurisdiction. 
+ 
+ 
+ 
+ [21] 
+  In  
+ Shneidman 
+ , above, which was decided in 2007, that is four years after  
+ Parry Sound 
+ , above, the Federal Court of Appeal states at paras 24, 26, 27, 28 and 29: 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ [24] In my view, however, before considering the breadth of the grievance, it was necessary to ask whether Ms. Shneidman "presented a grievance" regarding the violation of her rights under article 17.02 of the collective agreement to the final level within the meaning of the opening words of subsection 92(1) of the PSSRA [now 209(1) of the Act].  
+ Whether or not the language of the grievance is potentially broad enough to include a complaint that the collective agreement has been violated, the complaint will not be permitted to proceed to adjudication, and thus will not be in the adjudicator's jurisdiction, unless it has been specifically raised at the final level. 
+  Neither the Adjudicator nor Justice Simpson considered this preliminary question of whether the specific claims relied upon by Ms. Shneidman before the Adjudicator had been raised at the final level. After considering this question, I find no basis for interfering with Simpson J.'s conclusion that the Adjudicator erred in taking jurisdiction over Ms. Shneidman's complaint that her collective agreement rights were violated. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ [26] To refer a complaint to adjudication, the grievor must have given her employer notice of the specific nature of her complaints throughout the internal grievance procedure:  
+ FRAGMENT_SUPPRESSED. As Thurlow C.J. (as he then was) indicated in  
+ Burchill v. Canada 
+ , [1981] 1 F.C. 109 (F.C.A.), only those grievances that have been presented to and dealt with by all internal levels of the grievance process may subsequently be referred to adjudication: 
+ 
+ 
+ 
+ In our view,  
+ it was not open to the applicant, after losing at the final level of the grievance procedure the only grievance presented, either to refer a new or different grievance to adjudication or to turn the grievance so presented into a grievance complaining of disciplinary action leading to discharge within the meaning of subsection 91(1) 
+ . [Now 209(1) of the Act] Under that provision it is only a grievance that has been presented and dealt with under section 90 and that falls within the limits of paragraph 91(1)(a) or (b) that may be referred to adjudication. In our view the applicant having failed to set out in his grievance the complaint upon which he sought to rely before the Adjudicator, namely, that his being laid off was really a camouflaged disciplinary action, the foundation for clothing the Adjudicator with jurisdiction under subsection 91(1) was not laid. Consequently, he had no such jurisdiction. 
+ 
+ 
+ 
+ (See also  
+ Schofield v. Canada (Attorney General) 
+ , 2004 FC 622) 
+ 
+ 
+ 
+ [27] Where the grievance on its face is sufficiently detailed, the employer will have notice of the nature of the employee's grievance at all levels.  
+ However, where, as here, it is not clear on the face of the grievance what grounds of unlawfulness will be relied upon by the employee, the employee must provide further specification at each stage of the internal grievance process as to the exact nature of her complaint if she intends to refer the matter to adjudication 
+ . 
+ 
+ 
+ 
+ [28] Both parties benefit from this notice requirement. The employer must understand the nature of the allegations to be able to adequately respond to them. The employee likewise benefits from the notice requirement because it allows her to understand the reasons why the employer has rejected her grievance.  
+ Indeed, the notice requirement has been found to be a critical component of the conciliation process provided for in the PSSRA 
+ :  
+ Rinaldi 
+  at paragraph 22. 
+ 
+ 
+ 
+ [29] In the present case,  
+ although the wording of Ms. Shneidman's grievance might arguably have been broad enough to encompass violations of contractual due process, a person reading the grievance would not know that she intended to allege that her rights to union representation under article 17.02 of the collective agreement had been violated 
+ . Ms. Shneidman implicitly acknowledged this fact when she advised the Public Service Staff Relations Board by letter one week prior to the hearing before the Adjudicator of her intention to raise the issue of the violation of the collective agreement at the outset of the hearing. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ (my emphasis) 
+ 
+ 
+ 
+ [22] 
+  In allowing the employer's objection, the adjudicator also specifically addressed the union's argument that case law cautions against an overly technical or demanding approach to the drafting and prosecution of grievances. While he accepted that grievances should not be decided on irrelevant technicalities, he took the position that it is not overly exacting in the circumstances of the case to require during the grievance procedure a more forthright identification of the substantive issue as a matter involving the employer's occupational safety and health obligations under clause 16.01 of the collective agreement. Again, this conclusion is defensible in respect of the facts and the law. 
+ 
+ 
+ 
+ [23] 
+  While the adjudicator recognized that the issue of the applicant's health had been on the table during the grievance proceedings, this was not sufficient to confer him jurisdiction. The adjudicator accepted that in some cases, the issue of an employee's health could be addressed as a matter involving a collective agreement provision such as clause 16.01 (provided that it had been initially raised in the grievance). He noted that in  
+ Galarneau et al. v. Treasury Board (Correctional Service of Canada) 
+ , 2009 PSLRB 70, such a proposition had been accepted by another adjudicator. However, he reasonably concluded that the adjudicator's finding in  
+ Galarneau 
+ , above, does not mean that every grievance involving alleged harm to a grievor's health will necessarily entail the interpretation of the occupational health and safety provisions of a collective agreement. Such a determination will depend on the nature and specific facts of the grievance. 
+ 
+ 
+ 
+ [24] 
+  Be that as it may, it was open to the adjudicator to conclude that in the particular case before him, the facts as asserted by the union and the grievor (now applicant) suggested that the essential nature of the grievance was not about occupational health and safety. According to the wording of the grievance, its objective was to direct the employer to follow its own harassment policy requirements, and the compensation sought by the grievor was for the negative effects of the employer's alleged failure to have done so. The adjudicator was not convinced that the employer's occupational safety and health obligations under clause 16.01 of the collective agreement were or should have been understood by the employer to be at issue, and were certainly not explicitly addressed by the grievor or the union during the grievance process. His conclusion is defensible in respect of the facts and the law. 
+ 
+ 
+ 
+ [25] 
+  There was no error of law made by the adjudicator. The issue is simply one of the qualification of the true nature of the grievance. It was open to the adjudicator to find that the essence of the grievance was that the employer had failed to abide by specific policy requirements regarding the timely conduct of harassment investigations. Since the Harassment policies do not form part of the collective agreement, their application could not be adjudicated under paragraph 209(1)(a) of the Act. In final analysis, the adjudicator reasonably concluded that in agreeing to hear the grievance on its merits as a matter involving clause 16.01 of the collective agreement, he would condone the type of reformulation of the grievance that the Federal Court of Appeal in  
+ Burchill 
+  said should not occur. 
+ 
+ 
+ 
+ [26] 
+  The Court fails to see any defect in the adjudicator's logical conclusion of lack of jurisdiction. The applicant and the union may disagree with the adjudicator's conclusions and decision, as they see fit. However, the adjudicator considered all of the arguments before him, addressed them, and reached a decision that falls within a range of possible outcomes, according to the law and the facts. 
+ 
+ 
+ 
+ [27] 
+  For all these reasons, the present application must fail. In view of the result, costs shall be in favor of the respondent. The Court accepts the suggestion made at the hearing by respondent's counsel that, in such an eventuality, fixed costs should be assessed. Accordingly, an amount of $3,500, which the Court finds reasonable, shall be allowed to the respondent. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [28] 
+   
+ THIS COURT'S JUDGMENT is that 
+  the application in judicial review made by the applicant be dismissed with fixed costs in the amount of $3,500 in favour of the respondent. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

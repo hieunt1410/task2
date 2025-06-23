@@ -1,0 +1,493 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equifax Can. Co. v. Can. (2014), 455 F.T.R. 164 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2014] F.T.R. TBEd. JL.061 
+ 
+ 
+ 
+ Equifax Canada Co. (applicant) v. Minister of Public Works and Government Services Canada and The Information Commissioner of Canada (respondents) 
+ 
+ (T-1003-13) 
+ 
+ 
+ 
+ Equifax Canada Co. (applicant) v. Minister of Human Resources and Skills Development and The Information Commissioner of Canada (respondent) 
+ 
+ (T-1300-13; 2014 FC 487; 2014 CF 487) 
+ 
+ 
+ 
+ Indexed As: Equifax Canada Co. v. Canada (Minister of Public Works and Government Services) et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Manson, J. 
+ 
+ May 21, 2014. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Pursuant to s. 44(1) of the Access to Information Act, Equifax Canada Co. brought two challenges to the disclosure of information. The issue in the first application (T-1003-13) was whether the price for a contract with Equifax regarding credit protection services offered to Canada Student Loan Program participants whose personal information was on a hard drive lost by or stolen from Human Resources and Skills Development Canada should be exempt from disclosure under ss. 20(1)(c) and 20(1)(d) of the Access to Information Act. The issue in the second application (T-1300-13) was whether certain portions of contracts entered into between Human Resources and Skills Development Canada and Equifax since 2006 should be exempt from disclosure under ss. 20(1)(c) and 20(1)(d) of the Act. 
+ 
+ 
+ 
+ The Federal Court allowed the application in T-1003-13 under s. 20(1)(c) of the Act, holding that the contract price was exempt from disclosure. The court dismissed the application in T-1300-13. 
+ 
+ 
+ 
+ Crown - Topic 7168.1 
+ 
+ Examination of public documents - Freedom of information - Legislation - Disclosure of details of contract to supply goods or services to public body - [See both  
+ Crown - Topic 7173 
+ ]. 
+ 
+ 
+ 
+ Crown - Topic 7173 
+ 
+ Examination of public documents - Freedom of information - Legislation - Disclosure of information where disclosure could result in financial loss or prejudice to competitive position - Pursuant to s. 44(1) of the Access to Information Act, Equifax Canada Co. challenged a decision by the Minister of Public Works and Government Services Canada and the Information Commissioner of Canada - At issue was whether the price for a contract with Equifax regarding credit protection services offered to Canada Student Loan Program participants whose personal information was on a hard drive lost by or stolen from Human Resources and Skills Development Canada should be exempt from disclosure under ss. 20(1)(c) and 20(1)(d) of the Act - The Federal Court allowed the application - To the extent that Equifax claimed an exemption under s. 20(1)(d) of the Act, at best it had a basis for arguing that disclosure of the contract price could make future negotiations more competitive - That was insufficient for Equifax to fall under the exemption requirements in s. 20(1)(d) - However, Equifax met the threshold established under s. 20(1)(c) of the Act to justify exemption of the contract price - By disclosing the contract price, there was a real, objective risk that this information would give competitors a head start or "spring board" in developing competitive bids against Equifax for future contracts for data protection services - That risk was greater than a mere possibility - See paragraphs 17 to 30. 
+ 
+ 
+ 
+ Crown - Topic 7173 
+ 
+ Examination of public documents - Freedom of information - Legislation - Disclosure of information where disclosure could result in financial loss or prejudice to competitive position - Pursuant to s. 44(1) of the Access to Information Act, Equifax Canada Co. challenged a decision by the Minister of Human Resources and Skills Development Canada and the Information Commissioner of Canada - At issue was whether certain portions of contracts entered into between Human Resources and Skills Development Canada (HRSDC) and Equifax since 2006 should be exempt from disclosure under ss. 20(1)(c) and 20(1)(d) of the Act - Equifax noted several areas of disclosure which would prejudice their competitive position: a. location of the HRSDC office which provided the contracts at issue; b. the name and phone number of the HRSDC employee who issued the contracts; c. type of security access granted to Equifax; d. the products offered; and e. the total price of the contracts - The Federal Court dismissed the application - Equifax argued that disclosure of the contract price could make future negotiations more competitive - Based on the speculative nature of the evidence on this issue, Equifax had not met the threshold for an exemption under s. 20(1)(d) - While Equifax's argument that the information contained in the disclosure might more easily facilitate the attempted entry into the market for government services by a rival company had some merit, it did not meet the threshold for an exemption under s. 20(1)(c) - See paragraphs 31 to 38. 
+ 
+ 
+ 
+ Crown - Topic 7174 
+ 
+ Examination of public documents - Freedom of information - Legislation - Disclosure of information which could interfere with contractual or other negotiations - [See both  
+ Crown - Topic 7173 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Dagg v. Canada (Minister of Finance), [1997] 2 S.C.R. 403; 213 N.R. 161, refd to. [para. 16]. 
+ 
+ Hi-Rise Group Inc. v. Canada (Minister of Public Works and Government Services) (2004), 318 N.R. 242; 2004 FCA 99, refd to. [para. 16]. 
+ 
+ Merck Frosst Canada Ltd. v. Canada (Minister of Health) (2012), 426 N.R. 200; 2012 SCC 3, refd to. [para. 18]. 
+ 
+ 1488245 Ontario Ltd. v. Riska et al., [2010] O.T.C. Uned. 6780; 2010 ONSC 6780, refd to. [para. 19]. 
+ 
+ DCR Strategies Inc. v. Vector Card Services LLC et al., [2011] O.T.C. Uned. 5473; 2011 ONSC 5473, refd to. [para. 19]. 
+ 
+ Canada Post Corp. v. National Capital Commission (2002), 221 F.T.R. 56; 2002 FCT 700, refd to. [para. 23]. 
+ 
+ Aventis Pasteur Ltd. v. Canada (Attorney General) (2004), 262 F.T.R. 73; 2004 FC 1371, consd. [para. 28]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Access to Information Act, R.S.C. 1985 c. A-1, sect. 20(1)(c), sect 20(1)(d) [para. 4]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Stephen Schwartz, for the applicant; 
+ 
+ Eric Peterson, for the respondent, Public Works and Government Services; 
+ 
+ Michael De Santis and Jill Copeland, for the respondent, Information Commissioner of Canada. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Chaitons LLP, Toronto, Ontario, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent, Public Works and Government Services; 
+ 
+ Office of the Information Commissioner, Gatineau, Quebec, for the respondent, Information Commissioner of Canada. 
+ 
+ 
+ 
+ These applications were heard on May 13, 2014, at Toronto, Ontario, before Manson, J., of the Federal Court, who delivered the following decision on May 21, 2014. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Manson, J. 
+ : These proceedings constitute two related challenges to the disclosure of information pursuant to subsection 44(1) of the  
+ Access to Information Act 
+ , RSC 1985 C A-1 [the Act]. Both challenges are brought by Equifax Canada Co [the Applicant]. 
+ 
+ 
+ 
+ [2] 
+  The first, court file number T-1003-13, challenges a decision by the Minister of Public Works and Government Services Canada and the Information Commissioner of Canada [PWGSC]. 
+ 
+ 
+ 
+ [3] 
+  The second, court file number T-1300-13, challenges a decision by the Minister of Human Resources and Skills Development Canada and the Information Commissioner of Canada [HRSDC]. 
+ 
+ 
+ 
+ I.  
+ Issues 
+ 
+ 
+ 
+ [4] 
+  The issue in file T-1003-13 is whether the price for a contract should be exempt from disclosure under sections 20(1)(c) and 20(1)(d) of the Act. 
+ 
+ 
+ 
+ [5] 
+  The issue in file T-1330-13 is whether certain portions of contracts entered into between HRSDC and the Applicant since 2006 should be exempt from disclosure under sections 20(1)(c) and 20(1)(d) of the Act. 
+ 
+ 
+ 
+ II.  
+ Background 
+ 
+ 
+ 
+ [6] 
+  The Applicant is a large credit reporting agency in Canada. It also provides credit protection, fraud management and credit management services. It has entered into contracts with many government departments, including PWGSC and HRSDC. The services provided through these contracts include commercial credit scores, consumer credit checks, employee screening, authentication services, and various analytic services. 
+ 
+ 
+ 
+ A.  
+ T-1003-13 
+ 
+ 
+ 
+ [7] 
+  In January, 2013, an electronic storage device containing the personal information of 583,000 student loan borrowers, who were clients of the Canada Student Loans Program from 2000 to 2006, was lost from an HRSDC office in Gatineau, Quebec. The personal information included social insurance numbers, dates of birth, and names. HRSDC approached the Applicant and requested a proposal for credit and fraud protection services for the individuals affected by this loss of data. According to the affidavit of Carol Gray, the president of the Applicant, TransUnion of Canada Inc, a competitor of the Applicant, submitted a proposal for the same work. According to Ms. Gray, the proposal submitted by the Applicant involved a unique suite of services and was priced below market value. 
+ 
+ 
+ 
+ [8] 
+  HRSDC selected the Applicant's proposal and began negotiating the broad terms of a contract to provide the proposed services [the Contract]. Responsibility for the Contract was then transferred to PWGSC to finalize its terms. The Contract was concluded on January 18, 2013, with an understanding between the parties that its total value would remain confidential subject to any operation of law. 
+ 
+ 
+ 
+ [9] 
+  On February 25, 2013, the Applicant was notified by the Access to Information and Privacy Office [ATIP] that PWGSC had received a request pursuant to the Act for the following records: 
+ 
+ 
+ 
+ Contract with Equifax Canada (and/or Equifax Inc.) regarding credit protection services offered to Canada Student Loan Program participants whose personal information was on the hard drive lost by or stolen from HRSDC. 
+ 
+ 
+ 
+ [10] 
+  ATIP invited the Applicant to make written representations as to why the records requested should not be disclosed. 
+ 
+ 
+ 
+ [11] 
+  On March 5, 2013, John Russo, Vice-President, Legal Counsel of the Applicant, wrote to ATIP to request that the pricing, statement of work and the implementation plan for the Contract be exempt from the Act's disclosure requirements pursuant to 20(1)(b) and 20(1)(c) of the Act. Mr. Russo stated that the release of this otherwise confidential information would cause economic harm to the Applicant if it were disclosed. 
+ 
+ 
+ 
+ [12] 
+  On May 16, 2013, ATIP wrote to the Applicant, indicating that after considering Mr. Russo's March 5, 2013 letter, it had exempted certain records pursuant to 19(1), 20(1)(b) and 20(1)(c) of the Act. However, ATIP did not exempt the disclosure of the contract price or the payment terms. 
+ 
+ 
+ 
+ B.  
+ T-1300-13 
+ 
+ 
+ 
+ [13] 
+  On March 12, 2013, ATIP notified the Applicant that HRSDC had received the following request pursuant to the Act: 
+ 
+ 
+ 
+ Aside from the contract between Equifax and HRSDC regarding the 583,000 individuals that were part of the Canada Student Loan Program and that were affected by the Department's loss of personal information, provide any other contracts that HRSDC has with Equifax in Canada or Equifax in the United States since 2006. 
+ 
+ 
+ 
+ [14] 
+  On April 1, 2013, Mr. Russo wrote to ATIP to request that pricing and service description terms for the various contracts at issue should be exempt from disclosure pursuant to 20(1)(b) and 20(1)(c) of the Act. Mr. Russo stated that the release of this otherwise confidential information would cause economic harm to the Applicant if it were disclosed. 
+ 
+ 
+ 
+ [15] 
+  On July 15, 2013, ATIP wrote to the Applicant, stating that after considering the representations in Mr. Russo's March 5, 2013, letter, it had exempted certain records. However, ATIP did not exempt certain terms of the various contracts. In particular, ATIP did not exempt HRSDC contact information for contract administrators, term and renewal dates of contracts, the type of security and protocol access granted to the Applicant, the products offered, and the total price of contracts. 
+ 
+ 
+ 
+ III.  
+ Analysis 
+ 
+ 
+ 
+ [16] 
+  For both proceedings, the parties agree that under the Act, access is the general rule and that public disclosure is a fundamental means to hold the government accountable for its expenditures ( 
+ Dagg v Canada (Minister of Finance) 
+ , [1997] 2 SCR 403 at 428;  
+ Canada (Public Works and Government Services Canada) v Hi-Rise Group 
+ , 2004 FCA 99 at para 42). 
+ 
+ 
+ 
+ A.  
+ T-1003-13 
+ 
+ 
+ 
+ [17] 
+  The Applicant's reasons for claiming that the Contract price should be exempt under section 20(1)(c), include: 
+ 
+ 
+ 
+ a. the disclosure of the Contract would provide TransUnion, the Applicant's main competitor, and any other competitors, with a competitive advantage, by being able to use that information to undercut future bids by the Applicant; 
+ 
+ 
+ 
+ b. the benchmark Contract price in this matter, if known to competitors, would inevitably result in an uneven playing field for future contracts: the Applicant has no such benchmark to compare to a competitor's pricing for a comparable scope of work. 
+ 
+ 
+ 
+ [18] 
+  The Applicant acknowledges it bears the burden of proving that 20(1)(c) is made out, but that the burden of proof required is less than the balance of probabilities ( 
+ Merck Frosst Canada Ltd v Canada (Health) 
+ , 2012 SCC 3 at paras 196, 206 [ 
+ Merck 
+ ]). 
+ 
+ 
+ 
+ [19] 
+  The Applicant also argues that confidential information can include special knowledge that makes it possible to undercut the competition ( 
+ 1488245 Ontario Ltd v Riska 
+ , 2010 ONSC 6780 at para 22;  
+ DCR Strategies Inc v Vector Card Services LLC, 
+  2011 ONSC 5473 at para 42). 
+ 
+ 
+ 
+ [20] 
+  Moreover, the Applicant implicitly argues that 20(1)(d) of the Act also applies, as the revelation of the Contract price could make future negotiations with the federal government more difficult. 
+ 
+ 
+ 
+ [21] 
+  The Respondents acknowledge certain financial terms and business related information of the Contract should be exempt from disclosure. However, they are not prepared to consider the contract price as being exempt, notwithstanding the Applicant's objections. 
+ 
+ 
+ 
+ [22] 
+  The Respondents argue that the Contract was based on a unique set of circumstances which is unlikely to occur again. Given this, there is an insufficient likelihood that revealing the total Contract price could prejudice the Applicant's competitive position or result in financial loss under 20(1)(c) or interfere with future negotiations under 20(1)(d). 
+ 
+ 
+ 
+ [23] 
+  To the extent that the Applicant claimed an exemption under 20(1)(d) of the Act, the Applicant at best has a basis for arguing that disclosure of the Contract price could make future negotiations more competitive. This is insufficient for the Applicant to fall under the exemption requirements in 20(1)(d) of the Act ( 
+ Canada Post Corp v National Capital Commission), 
+  2002 FCT 700 at para 18 [ 
+ Canada Post 
+ ]). 
+ 
+ 
+ 
+ [24] 
+  However, I find that the Applicant meets the threshold established under 20(1)(c) of the Act to justify exemption of the Contract price. 
+ 
+ 
+ 
+ [25] 
+  To satisfy 20(1)(c), the Applicant must show that the disclosure of the information at issue could be reasonably be expected to result in prejudice to its competitive position  
+ or 
+  a financial loss. The information at issue should be examined in its entirety in order to determine the likely impact of its disclosure ( 
+ Merck 
+  at paras 196, 219). 
+ 
+ 
+ 
+ [26] 
+  The Applicant must show that there is a "...reasonable expectation of probable harm" ( 
+ Merck 
+  at para 192). This degree of likelihood is less than the balance of probabilities, but greater than a mere possibility. 
+ 
+ 
+ 
+ [27] 
+  The affidavit of Ms. Gray has clearly set out the circumstances under which the Contract with HRSDC was entered into: 
+ 
+ 
+ 
+ a. e-mails establishing that both the Applicant and HRSDC understood that the terms of the agreement would remain confidential, and that the Contract price was not to be shared with any other government departments or outside government; 
+ 
+ 
+ 
+ b. the only proviso to (a), above, was that non-disclosure was subject to any applicable legislation, law, decisions from a competent court of law, or any Ministerial duties and/or obligations with respect to federal accountability. 
+ 
+ 
+ 
+ [28] 
+ FRAGMENT_SUPPRESSED 
+ , the Court describes how the total contract price could, when read in context, reveal more detailed information that could reasonably be expected prejudice the applicants: 
+ 
+ 
+ 
+FRAGMENT_SUPPRESSED 
+ 
+ 
+ 
+ [29] 
+  As in  
+ Aventis Pasteur, 
+  the total Contract price might be of little use to competitors in isolation. However, the number of individuals affected by the data breach is publicly known. These pieces of information, together with the description of services provided by the Applicant in the Contract, provides a ready benchmark on which competitors could base future bids for data protection services with the government. 
+ 
+ 
+ 
+ [30] 
+  While I agree with the parties that the circumstances which led to the Contract were unique, I have little doubt that the government will more than likely require similar data protection services in the future. I am satisfied that by disclosing the Contract price, there is a real, objective risk that this information will give competitors a head start or "spring board" in developing competitive bids against the Applicant for future contracts for data protection services. This risk is greater than a mere possibility. An exemption for non disclosure of the Contract price under section 20(1)(c) is warranted 
+ 
+ 
+ 
+ B.  
+ T-1300-13 
+ 
+ 
+ 
+ [31] 
+  The Applicant notes several areas of disclosure which would prejudice their competitive position: 
+ 
+ 
+ 
+ a. Location of the particular HRSDC office which provides contracts at issue; 
+ 
+ 
+ 
+ b. The name and phone number of the HRSDC employee who issues the contracts; 
+ 
+ 
+ 
+ c. Type of security access granted to the Applicant; 
+ 
+ 
+ 
+ d. The products offered; and 
+ 
+ 
+ 
+ e. The total price of the contracts 
+ 
+ 
+ 
+ [32] 
+  Cumulatively, this information provides instructions for the competition as to how to contact the relevant individuals within HRSDC and determine the type of products the government agencies are purchasing. It is argued that this would give competitors an advantage. 
+ 
+ 
+ 
+ [33] 
+  As with T-1003-13, the Applicant has argued that disclosure of the Contract price could make future negotiations more competitive. Based on the speculative nature of the evidence on this issue, I find that the Applicant has not met the threshold for an exemption under 20(1)(d) ( 
+ Canada Post 
+  at para 18). 
+ 
+ 
+ 
+ [34] 
+  While the Applicant's argument that the information contained in the disclosure might more easily facilitate the attempted entry into the market for government services by a rival company has some merit, I do not think it meets the threshold for an exemption under 20(1)(c). 
+ 
+ 
+ 
+ [35] 
+  With regard to the contact information for individuals responsible with contracting at HRSDC, I am not satisfied that the Applicant has satisfied its burden, given that, with some effort by an interested competitor, appropriate contacts could be determined through the government's online directory and through other government sources designed to facilitate business with government. Given that the Treasury Board Contracting Policy encourages openness, competition and fairness, I am not persuaded on the evidence before me that such information reasonably needs the cloak of confidentiality in this business context. 
+ 
+ 
+ 
+ [36] 
+  Moreover, by its own admission, the Applicant currently has no substantial competition for government contracts. While I agree that TransUnion or another competitor could enter the market, the fact that no competition currently exists makes the potential of a reasonable expectation of probable harm relatively remote. 
+ 
+ 
+ 
+ [37] 
+  Lastly, pricing for specific components of the contracts were redacted by HRSDC, while the total Contract price was disclosed. As was described above with respect to T-1003-13, per-unit pricing was the basis for the court applying the exception in 20(1)(c) of the Act in  
+ Aventis Pasteur 
+ , not the total contract price. Consequently,  
+ Aventis Pasteur 
+  would suggest that the pricing information at issue does not meet the threshold in  
+ Merck 
+ . 
+ 
+ 
+ 
+ [38] 
+  Given the above, I am not convinced that the totality of the information in this case meets the threshold for an exemption pursuant to 20(1)(c) of the Act. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [39] 
+   
+ THIS COURT'S JUDGMENT is that 
+ : 
+ 
+ 
+ 
+ 1. The Applicant's application in T-1300-13 is dismissed; 
+ 
+ 
+ 
+ 2. The Applicant's application in T-1003-13 is allowed under section 20(1)(c) of the Act and the Contract price is exempt from disclosure; 
+ 
+ 
+ 
+ 3. As success is divided, no costs are awarded. 
+ 
+ 
+ 
+ Order accordingly. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/vnh 
+ 
+ 
+ 
+

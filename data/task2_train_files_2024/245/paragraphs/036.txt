@@ -1,0 +1,49 @@
+[36]
+My view is reinforced by
+Johal et al. v. Canada Revenue Agency et al.
+, [2009] F.C.J. No. 1198; 394 N.R. 114; 312 D.L.R.(4th) 663; 2009 FCA 276, a case decided after
+Dunsmuir
+by the Federal Court of Appeal ("
+Johal
+"). In that case, the issue was similar to the one herein. The question to be decided in that case was whether the appellants were barred from presenting individual grievances under the
+Public Service Labour Relations
+Act
+, S.C. 2003, c. 22, as their employer's staffing program addressed the subject matter of the grievance. While the Federal Court of Appeal found that arbitration was available to the appellants, it applied a standard of correctness in interpreting the various statutory provisions at issue. Evans, J.A., noted the following in
+Johal
+at paras. 28 to 30:
+"28. There is no case precisely on point. However, in similar contexts this Court has held that determining whether employees come within statutory exclusion clauses analogous to subsection 208(2) is a jurisdictional question, and therefore reviewable on a standard of correctness: see, for example,
+Canada Post Corp. v. Pollard
+, [1994] 1 F.C. 652 (F.C.A.) ('
+Pollard
+') and
+Byers Transport Ltd. v. Kosanovich
+, [1995] 3 F.C. 354 at 371 and 373 ('
+Byers
+') (
+Canada Labour Code
+), and
+Canada (Attorney General) v. Boutilier
+, [2000] 3 F.C. 27 ('
+Boutilier
+') (
+Public Service Staff Relations Act
+, the predecessor of the
+PSLRA
+).
+"29. After those cases were decided,
+Dunsmuir
+(at para 54) expanded the scope of judicial deference to specialized tribunals' interpretation of their 'home' legislation, and legislation closely related to it, emphasizing (at para. 59) that only the interpretation of those statutory provisions which raise 'true' questions of jurisdiction or vires is reviewable on a standard of correctness. Further, writing for the Court in
+Nolan v. Kerry (Canada) Inc.
+, 2009 SCC 39, Justice Rothstein inferred from
+Dunsmuir
+that reviewing courts must exercise caution in characterizing an issue as jurisdictional, and (at para. 34)
+'... will only exceptionally apply a correctness of [sic ] standard when interpretation of [the tribunal's home statute] raises a broad question of the tribunal's authority.'
+"30. In my opinion, correctness is the applicable standard of review in the present case because subsection 208(2) of the
+PSLRA
+and section 54 of the
+CRAA
+demarcate the jurisdiction of competing administrative processes, namely, that created under subsection 208(1) and that provided by the CRA's Staffing Program. According to
+Dunsmuir
+(at para. 61), correctness is normally the standard of review for such questions. I see no reason not to apply that principle here, even though final level decisions are subject to the 'final and binding' provision in section 214 of the
+PSLRA
+."

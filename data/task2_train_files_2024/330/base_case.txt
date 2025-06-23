@@ -1,0 +1,73 @@
+[1]
+Rouleau, J.
+[Translation]: The defendants Les Entreprises Denis Darveau Inc. and les Equipments d'Erablière C.D.L. Inc. filed in this court an application requesting the court to order the plaintiff to file and serve on the said defendants further and better particulars on certain vague and ambiguous allegations in its statement of claim.
+[2]
+The facts leading to this application may be summarized as follows.
+[3]
+On October 24, 1994 the plaintiff, who operated a business manufacturing, selling and distributing a device for filtering a crude liquid with recirculation, in association with the trade mark "Airablo", brought an action against the defendants for patent infringement.
+[4]
+On November 15, 1994 the defendant Les Entreprises Denis Darveau Inc. asked the plaintiff to provide it with particulars and documents relating to certain vague and ambiguous allegations in the statement of claim. On November 16, 1994 the defendant Les Equipments d'Erablière C.D.L. Inc. asked the plaintiff to provide it with the same particulars and documents as those requested by the defendant Les Entreprises Denis Darveau Inc. in its letter of November 15, 1994.
+[5]
+On November 22, 1994 the plaintiff furnished the defendants with certain of the replies and documents requested. However, on November 25, 1994 the defendants informed the plaintiff that they regarded these responses as incomplete in certain respects and insisted on obtaining the missing responses.
+[6]
+On November 28, 1994 the plaintiff refused to provide the latter and suggested that the defendants file the appropriate application with this court.
+[7]
+The defendants used rule 415 of the
+Federal Court Rules
+in support of their application.
+"Rule 415(1) Subject to paragraph (2), every pleading shall contain the necessary particulars of any allegation including, without prejudice to the generality of the foregoing words,
+(a) particulars of any misrepresentation, fraud, breach of trust, wilful default or undue influence on which the party pleading relies; and
+(b) where a party pleading alleges any condition of the mind of any person, whether any disorder or disability of mind or any malice, fraudulent intention or other condition of mind except knowledge, particulars of the facts on which the party relies.
+"(2) Where in any case it seems more convenient to do so, particulars may be set out in a separate document attached as a schedule to the pleading.
+"(3) The court may order a party to file and serve on any other party further and better particulars of any allegation in his pleading, or a further and better statement of the nature of the case on which he relies, and the order may be made on such terms as seem just.
+"(4) Without limiting the generality of paragraph (3), where a party alleges as a fact that a person had knowledge or notice of some fact, matter or thing, the court may, on such terms as seem just, order that party to file and serve on any other party
+(a) where he alleges knowledge, particulars of the facts on which he relies; and
+(b) where he alleges notice, particulars of the notice.
+"(5) Where the applicant for an order under this Rule did not apply in writing to the party against whom the order is sought for the particulars that he requires, the court may in its discretion refuse to make the order unless of opinion that there were sufficient reasons for such an application in writing not having been made or may take such omission into account in deciding what order to make as to the costs of the application."
+[8]
+By this application the defendants sought to obtain particulars on paragraphs 6, 12, and 17 of the plaintiff's statement of claim. The paragraphs of the statement of claim in question are as follow:
+"Paragraph 6
+Canadian patent 2,048,423, titled 'Filtration device with recirculation', was issued by the Patent Office to the plaintiff A. PELLERIN ET FILS LTEE on August 2, 1994, the application for the said patent having been filed on August 2, 1991 and opened for public inspection on February 3, 1993.
+"Paragraph 12
+The defendant LES ENTREPRISES DENIS DARVEAU INC., without licence, permission or consent from the plaintiff, has since at least spring 1993, that is subsequent to the date on which the application leading to Canadian patent 2,048,423 was open for public inspection, manufactured, caused to be manufactured, distributed and sold in Canada a filtration device with recirculation that is an infringement of claims 1, 2 and 3, as well as claim 5 when associated with claims 1, 2 or 3, of Canadian patent 2,048,423, and has thereby infringed the exclusive rights of the plaintiff in exploiting the invention described in the said claims.
+"Paragraph 17
+A representative of the plaintiff was able to ascertain the details of the construction of the filtration device with recirculation manufactured by the defendant LES ENTREPRISES DENIS DARVEAU INC. and distributed by the defendants LES EQUIPEMENTS D'ERABLIERE C.D.L. INC. and EVAPORATEURS SMALL FRERES INC., and took photographs of this device so that the plaintiff could check on the infringement."
+The particulars sought by the defendants are as follows:
+1) with respect to paragraph 6 of the statement of claim, how the plaintiff acquired its rights in Canadian patent 2,048,423;
+2) with respect to paragraph 12 of the statement of claim, where in Canada the defendant Les Entreprises Denis Darveau Inc. allegedly manufactured, distributed and sold a device which was an infringement of certain of the claims of the plaintiff's patent;
+3) with respect to paragraph 17 of the statement of claim, whether the report supplied by the plaintiff in fact consists only of the comments accompanying each photograph.
+[9]
+In support of their application the defendants alleged that these particulars are necessary in order to determine the limits of the discussion, so they can defend themselves adequately and make intelligent submissions. For its part, the plaintiff stated that the request was dilatory and lacked foundation. I will analyse each request for particulars separately.
+[10]
+To begin with, the defendants wished to know, on the ground that title to a patent is of the first importance, how the plaintiff acquired the rights in the patent since it is not the inventor. However, the plaintiff refused to answer, raising the presumption that a patent is valid found in s. 43 of the
+Patent Act
+, R.S.C. 1985, c. P-4, which reads as follows:
+"Form of issue
+"43. Subject to section 46, every patent granted under this Act shall be issued under signature of the Commissioner and the seal of the Patent Office, shall bear on its face the date of the filing of the application for the patent, the date on which the application became open to the inspection of the public under section 10 and the date on which the patent is granted and issued and it shall thereafter, in the absence of any evidence to the contrary, be valid and avail the grantee and the legal representatives of the grantee for the term mentioned in section 44 or 45, whichever is applicable."
+[11]
+After reviewing the precedents on the point, I am persuaded that the s. 43 presumption also includes validity of the title. In this regard I think it is apt to cite a brief passage from
+Créations 2000 Inc. et al. v. Canper Industrial Products Ltd. et al.
+(1988), 22 F.T.R. 180; 22 C.P.R.(3d) 389, at p. 392 (T.D.):
+"This presumption of validity applies to the patent as a whole and any party contesting such validity is undertaking an onerous task."
+[12]
+Accordingly, if the defendants wish to challenge the validity of the title held by the plaintiff, they must do so in their defence.
+[13]
+Secondly, the defendants wished to obtain the place(s) in Canada at which they "manufactured, caused to be manufactured, distributed and sold" the filtration device which is the subject of the action for infringement as stated in paragraph 12 of the plaintiff's statement of claim. In support of this request the defendants alleged that this paragraph, which is the very basis of the action for infringement brought by the plaintiff, is much to vague.
+[14]
+For its part, the plaintiff maintained that the place where the filtration device was purchased really changes nothing in an action for infringement since under s. 42 of the
+Patent Act
+a monopoly is granted to the patentee from manufacture to sale.
+"Content of patent
+"42. Every patent granted under this Act shall contain the title or name of the invention, with a reference to the specification, and shall, subject to this Act, grant to the patentee and the patentee's legal representatives for the term of the patent, from the granting of the patent, the exclusive right, privilege and liberty of making, constructing and using the invention and selling it to others to be used, subject to adjudication in respect thereof before any court of competent jurisdiction."
+[15]
+In the case at bar I am persuaded that it was sufficient for the plaintiff to allege that the defendant Les Entreprises Denis Darveau Inc. had "manufactured, caused to be manufactured, distributed and sold" a device which was an infringement of some of the claims of the patent held by it, named two distributors of the said device and filed photographs showing the infringement. The defendants are in a better position themselves to determine the locations where the said device was manufactured.
+[16]
+Finally, the defendants wished to obtain an answer to the following question: does a report exist other than the commentaries accompanying the photographs attached to the plaintiff's responses? - and if so they wish a copy of the said report, since although the plaintiff attached to its responses a "copy of the report accompanying the photograph[s]", only one copy of the photographs with comments by its representative was attached to its responses.
+[17]
+In the case at bar I consider that the information thus requested by the defendants meets the requirements for granting particulars stated by FRAGMENT_SUPPRESSED
+[18]
+The plaintiff should accordingly respond to the defendants' question and file the said report, if any, within ten days of this judgment.
+[19]
+For these reasons the application is allowed in part, the whole with costs to follow.
+Application allowed in part.
+Editor: Angela E. McKay/saf

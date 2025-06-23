@@ -1,0 +1,240 @@
+INTRODUCTION
+[1]
+Shore, J.
+[Translation]: It is well established in the case law that judicial review of a decision should proceed only on the basis of the evidence before the decision-maker. (
+Gallardo et al. v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.C.J. No. 52; 230 F.T.R. 110; 2003 FCT 45, at paragraphs 7 and 8;
+Asafov v. Canada (Minister of Citizenship and Immigration)
+, [1994] F.C.J. No. 713 (T.D.);
+Lemiecha Litigation Guardian) v. Canada (Minister of Employment and Immigration)
+, [1993] F.C.J. No. 1333; 72 F.T.R. 49.
+BACKGROUND
+[2]
+A pre-removal risk assessment (PRRA) application made by a person whose claim has been rejected by the Refugee Protection Division (Board) because he or she is excluded under section 1F of the
+Convention relating to the Status of Refugees
+(
+Convention
+) is not assessed on the basis of the definition of "Convention refugee", but rather on the grounds specified in section 97 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+Act
+).
+[3]
+This requires the applicant to adduce evidence that he or she would be subjected to a danger of torture, a risk to his or her life, or a risk of cruel and unusual treatment or punishment if he or she had to return to his or her country of origin.
+[4]
+In the case at bar, Abraham Bahaty Bayavuge, did not discharge this burden, because he did not specify in his PRRA what risks he would face in his country of origin. In addition, he did not make any submissions or file any evidence in support of his application.
+[5]
+Mr. Bayavuge cannot be allowed to ascribe any fault whatsoever to the PRRA officer and has only himself to blame for the rejection of his PRRA application. He was the person who failed to file any evidence in support of his PRRA application.
+LEGAL PROCEEDINGS
+[6]
+This is an application for leave and for judicial review of a decision of a PRRA officer dated May 12, 2006, by which it was determined that Mr. Bayavuge did not risk torture, cruel and unusual treatment or punishment, or death threats if he were removed to his country of nationality.
+FACTS
+[7]
+The following facts concerning Mr. Bayavuge are drawn from the record submitted to the Court.
+[8]
+The applicant is a citizen of the Democratic Republic of the Congo and is 43 years of age. He arrived in Canada on December 6, 2001, and made a claim for refugee protection.
+[9]
+On August 9, 2004, the Board concluded that Mr. Bayavuge was not a "Convention refugee" because he is excluded under Article 1F(a) of the
+Convention
+by reason of his years of service in various security forces in Zaire during the Mobutu regime and in the Democratic Republic of the Congo during the Kabila regime. According to the Board, Mr. Bayavuge's service with the Agence National d'Immigration (ANI), the Service National de l'Intelligence et de Protection (SNIP) and the Direction Générale de Migration (DGM), which are all security services, made him complicit in the acts blamed on these organizations. Mr Bayavuge voluntarily joined the ANI by using the contacts he had to be freely recruited, without any coercion, because he wanted to work in the security services of his country. He also voluntarily joined other services. Therefore, Mr. Bayavuge fears reprisals for his past years of service.
+[10]
+On April 18, 2006, Mr. Bayavuge received a notice to apply for a PRRA under section 160 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (
+Regulations
+). Pursuant to section 162 of the
+Regulations
+, Mr. Bayavuge had until May 3, 2006, to file his application for protection if he wanted his application not to be decided until at least 30 days after notification under section 160 was given.
+[11]
+On May 8, 2006, that is, after the expiry of the 15-day time limit after notification was given under section 160, Mr. Bayavuge submitted only his completed, but unsigned, PRRA form. He did not submit any documentary evidence or other document in support of his PRRA application. In his PRRA application, Mr. Bayavuge stated that some evidence would be submitted later on.
+[12]
+On May 9, 2006, Citizenship and Immigration Canada contacted Mr. Bayavuge by facsimile, asking him to sign his PRRA application.
+[13]
+On May 11, 2006, Mr. Bayavuge sent a facsimile of the signature page, signed and dated May 11, 2006.
+[14]
+According to section 163 of the
+Regulations
+, because Mr. Bayavuge submitted his application after the expiry of the time limit of 15 days following the receipt of a notice to submit his application, he had to enclose his written submissions with the application. This provision does not mention any restriction as to how much time a PRRA officer may take to render a decision.
+[15]
+Therefore, on May 12, 2006, the PRRA officer studied Mr. Bayavuge's PRRA application, which did not contain any submissions or evidence, and concluded that Mr. Bayavuge had not discharged the burden of establishing serious reasons to believe that his removal to his country would subject him to a danger of torture, a risk to his life or a risk of cruel and unusual treatment or punishment.
+PRRA OFFICER'S DECISION
+[16]
+The PRRA officer studied the application solely in terms of section 97 of the
+Act
+, because of the application of paragraph 112(3)(c):
+"(3) Refugee protection may not result from an application for protection if the person
+. . . . .
+(c) made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention."
+[17]
+The PRRA officer concluded that Mr. Bayavuge did not discharge the burden of establishing that he would be subject to a danger of torture, a risk to his life or a risk of cruel and unusual treatment or punishment in his country.
+[18]
+The PRRA officer reached this conclusion because Mr. Bayavuge had not specified in his PRRA form the danger to which he was subject in his country. Mr. Bayavuge did not specify how or why he would be subject to a risk in his country, nor did he submit any evidence showing that he was subject to any risk.
+ISSUES
+[19]
+The issues in dispute may be expressed as follows:
+(1) Before making a decision, was the PRRA officer required to give Mr. Bayavuge a written assessment under subsection 172(2) of the
+Regulations
+?
+(2) Could the PRRA officer reasonably reject Mr. Bayavuge's PRRA application in spite of the decision rendered by the Board in his case?
+ANALYSIS
+[20]
+It is well established in case law that judicial review of a decision should proceed only on the basis of the evidence before the decision-maker. (
+Gallardo
+, supra, at paragraphs 7 and 8;
+Asafov
+, supra;
+Lemiecha
+, supra,)
+(1) Before making a decision, was the PRRA officer required to give Mr. Bayavuge a written assessment under subsection 172(2) of the Regulations?
+[21]
+Mr. Bayavuge completely ignores subsection 172(4) of the
+Regulations
+when he submits that before making his decision the PRRA officer should have given him a written assessment under subsection 172(2) of the
+Regulations
+.
+[22]
+It is true that Mr. Bayavuge is described in paragraph 112(3)(c) of the
+Act
+, as he was excluded by the Board under Article 1F(a) of the
+Convention
+. It is also true that PRRA applications by persons described in one of the paragraphs of subsection 112(3) are subject to a special assessment, as set out in paragraph 113(d) of the
+Act
+.
+[23]
+In fact, subsection 172(2) of the
+Regulations
+provides that a written assessment on the basis of the factors set out in section 97 of the
+Act
+and a written assessment on the basis of the factors set out in subparagraph 113(d)(i) or (ii) of the
+Act
+must be given to Mr. Bayavuge, an applicant described in subsection 112(3) of the
+Act
+.
+[24]
+However, subsection 172(4) of the
+Regulations
+, which applies to Mr. Bayavuge as an applicant described in subsection 112(3) of the
+Act
+, provides that if a person is not described in section 97 of the
+Act
+, as is the case with Mr. Bayavuge, the application must be rejected.
+[25]
+Subsection 172(4) of the
+Regulations
+reads as follows:
+"Applicant not described in s. 97 of the Act
+"(4) Despite subsections (1) to (3), if the Minister decides on the basis of the factors set out in section 97 of the Act that the applicant is not described in that section,
+(a) no written assessment on the basis of the factors set out in subparagraph 113(d)(i) or (ii) of the Act need be made; and
+(b) the application is rejected."
+[26]
+Under this provision, it is clear that the condition precedent for applying subsections (1) to (3) of section 172 of the
+Regulations
+to the applicant is that he be described in section 97 of the
+Act
+.
+[27]
+Therefore, when the risk assessment is negative, as in this case, subsections 172(1) to (3) of the
+Regulations
+respecting a written assessment do not apply.
+[28]
+Section 14 of chapter PP3 of the Protected Persons Manual confirms that it is only when the PRRA officer concludes that the risk assessment is positive that he or she must conduct an assessment of the factors set out in paragraph 113(d) of the
+Act
+and give the applicant a written assessment:
+"The PRRA officer must follow the following process:
+- Should the risk assessment be negative, the PRRA officer will make the final decision to reject the application for protection.
+- Should the risk assessment be positive on the basis of the existence of danger of torture, risk to life or risk of cruel and unusual treatment or punishment, an opinion will be prepared by Case Management on whether the person is a danger to the public in Canada or, in security cases, whether the applicant should be removed because of the nature and severity of the acts committed or danger the applicant constitutes to the security of Canada. Once the danger opinion is completed, both risk and danger opinions are disclosed to the applicant for submissions. The final decision, to allow or reject the application for protection, is based on a balancing of the conflicting interests: the risk to the individual against the risk to society."
+[29]
+The rationale for this written assessment is to allow an applicant who is facing removal to a country where he or she runs the risk of being tortured to make comments about the assessment conducted by the decision-maker based on the factors set out in section 97 and subparagraph 113(d)(i) or (ii) of the
+Act
+.
+[30]
+In the case at bar, since the PRRA officer concluded that Mr. Bayavuge had not established any danger of torture or risk of cruel and unusual treatment or punishment, he was not obliged to give Mr. Bayavuge a written assessment or to conduct an assessment of the factors set out in paragraph 113(d) of the
+Act
+. Accordingly, the officer had to reject the PRRA application.
+[31]
+Therefore, the PRRA officer did not err in not giving Mr. Bayavuge the written assessment set out in subsection 172(2) of the
+Regulations
+. No intervention is warranted by the Court on this point.
+2. Could the PRRA officer reasonably reject Mr. Bayavuge's PRRA application in spite of the decision rendered by the Board in his case?
+[32]
+Mr. Bayavuge submits that the PRRA officer ignored the decision rendered by the Board, which, according to him, acknowledged that the facts alleged in support of his claim for refugee protection were true.
+[33]
+According to Mr. Bayavuge, the PRRA officer could not reasonably conclude that he (Translation) "did not explain why he is wanted or why he is subject to mistreatment in the DRC" on the basis of the allegations he submitted in support of his claim for refugee protection.
+[34]
+In other words, Mr. Bayavuge submits that even though he did not specify in his PRRA application to what risks he was subject in his country or provide any supporting evidence, submissions or the decision of the Board concerning him, the PRRA officer should have taken into consideration, in the assessment of his PRRA application, the submissions he made in support of his claim for refugee protection nearly two years earlier.
+The Board never ruled on Mr. Bayavuge's risks of return
+[35]
+In this case, it is important to properly understand the decision rendered by the Board in the case of Mr. Bayavuge and his family.
+[36]
+Contrary to what Mr. Bavayuge submits, the Board never concluded that the facts alleged by him were true. At most, it concluded that the facts "could" be true. It seems to have given the benefit of the doubt to Mr. Bayavuge's family members, thereby recognizing them as "Convention refugees". (Reasons for Decision of the Board, page 10, paragraphs 2-3: Applicant's Record, page 57)
+[37]
+Having recognized Mr. Bayavuge's family members as Convention refugees within the meaning of section 96 of the
+Act
+, the Board did not draw any conclusion with regard to the requirements of section 97 of the
+Act
+for recognition of "person in need of protection" status.
+[38]
+Therefore, Mr. Bayavuge cannot validly claim that the Board concluded that there is a danger of torture for himself and his family within the meaning of section 97 of the
+Act
+, especially since the Board never considered the issue of Mr. Bayavuge's inclusion.
+[39]
+In fact, having concluded that Mr. Bayavuge was excluded, the Board did not consider whether he met the criteria of the definition of "Convention refugee" or that of "a person in need of protection".
+[40]
+Even if, as the PRRA officer stated in his Notes to File, (Translation) "It is implicit in this conclusion that the panel is of the opinion the applicant is in danger of being persecuted for this reason", the fact is that according to section 97 of the
+Act
+, the only issue considered is whether there is a danger of torture, a risk to his life or a risk of cruel and unusual treatment or punishment, and not if there is a risk of persecution. (PRRA officer's Notes to File, page 2, second-to-last paragraph; Applicant's Record, page 7).
+[41]
+Because the Board did not rule on the issue of Mr. Bayavuge's inclusion, the PRRA officer had to assess whether Mr. Bayavuge met the requirements of section 97 of the
+Act
+.
+The PRRA officer had no submission or evidence before him
+[42]
+To show the PRRA officer that he was subject to a risk in his country within the meaning of section 97, Mr. Bayavuge had to specify in his application what risks he faces in his country of origin and support his allegations with evidence.
+[43]
+It is trite law that in PRRA applications, the burden of proof is on the person claiming protection under subsection 114(1) of the
+Act
+. It is up to that person to establish that protection must be granted to him or her. (
+FRAGMENT_SUPPRESSED).
+[44]
+In this case, Mr. Bayavuge did not make any submissions and did not submit any documentary or other evidence in support of his PRRA application.
+[45]
+In his application, Mr. Bayavuge did not specify what risk he would be personally subject to if he returned to his country. (PRRA officer's Notes to File, page 2, paragraph 1; Applicant's Record, page 7)
+[46]
+Therefore, the PRRA officer had to reject Mr. Bayavuge's application for protection because he obviously did not discharge his burden of proof.
+The PRRA officer was not required to take into consideration the evidence which was not submitted by Mr. Bayavuge in support of his PRRA application.
+[47]
+Contrary to what Mr. Bayavuge alleges, in order to decide his PRRA application, the PRRA officer did not have to refer to the facts he had submitted to the Board for his claim for refugee protection.
+[48]
+It was up to Mr. Bayavuge to submit these facts in evidence to the PRRA officer. As the officer states in the Notes to File, (Translation) "In his PRRA application, the applicant did not specify how or why he is subject to a risk in the DRC and did not refer to the IRB decision". (PRRA officer's Notes to File, page 2; Applicant's Record, page 7).
+[49]
+Mr. Bayavuge could not expect the PRRA officer to take into consideration the evidence he submitted in support of his claim for refugee protection, because he did not submit this evidence in support of his PRRA application. Nothing shows that this evidence was in the file Citizenship and Immigration Canada had concerning Mr. Bayavuge.
+[50]
+If Mr. Bayavuge wanted the PRRA officer to consider the evidence he submitted to the Board, the onus was on him to submit this evidence in support of his PRRA application, which he did not do.
+[51]
+The PRRA officer most certainly did not have to search Mr. Bayavuge's immigration file to try to discover if there was evidence which could in some way establish the existence of a risk for Mr. Bayavuge in his country of origin.
+[52]
+It must be noted that the PRRA officer was well aware of the decision rendered by the Board. However, he noted that the Board had not commented on or reached any conclusion about the likelihood of a risk to his life, a danger of torture or a risk of cruel and unusual treatment or punishment, which is absolutely true. (PRRA officer's Notes to File, page 2, second-to-last paragraph; Applicant's Record, page 7).
+[53]
+Therefore, because no examination of inclusion was conducted by the Board, and because it never determined that the facts alleged by Mr. Bayavuge were true and established the existence of a personalized risk to himself within the meaning of section 97 of the
+Act
+, the PRRA officer had to reach his own conclusions on the basis of the evidence before him.
+[54]
+The PRRA officer did not have any submissions, documentary evidence or other documents to establish the existence of a personalized risk for Mr. Bayavuge in his country of origin. Mr. Bayavuge did not even specify in his application the risk to which he personally would be subjected if he returned to his country. (PRRA officer's Notes to File, page 2; Applicant's Record, page 7).
+[55]
+It was not up to the PRRA officer to speculate on the risk to which Mr. Bayavuge could personally run
+now
+if he had to return to his country.
+[56]
+The PRRA officer could only exercise the jurisdiction granted to him, no more, no less. With no evidence submitted to him, no submissions made and no details adduced about the possible risk, he had no other choice but to reject Mr. Bayavuge's application for protection.
+[57]
+In this case, the PRRA officer properly considered Mr. Bayavuge's PRRA application. He is blameless in this. The application was rejected because Mr. Bayavuge failed to file evidence in support of his PRRA application.
+CONCLUSION
+[58]
+For these reasons, Mr. Bayavuge has not established that intervention by this Court would be warranted, given the PRRA officer's decision in his case. The application for judicial review is therefore dismissed.
+JUDGMENT
+[59]
+THE COURT ORDERS that
+1. The application for judicial review be dismissed;
+2. No serious question of general importance be certified.
+Application dismissed.
+Editor: Angela E. McKay/vnh

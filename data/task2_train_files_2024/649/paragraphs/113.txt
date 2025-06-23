@@ -1,0 +1,4 @@
+[113]
+Then: "The Segregation Review Board is required to review your case by ... November 23rd, 1986." And they did. Section 40 of the
+Penitentiary Service Regulations
+discusses the reasons for segregation and authority to place in segregation "for the good order of the Institution" which is the common phrase.

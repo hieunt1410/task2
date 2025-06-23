@@ -1,0 +1,96 @@
+[50]
+In
+Boisvert v. Canada (Attorney General)
+, [2009] F.T.R. Uned. 880; 2009 FC 735, Justice de Montigny has recently considered in some detail the general framework and principles for deciding this issue:
+"23. Entitlement to a pension is provided under s. 21 of the
+Pension Act
+. Pension eligibility differs depending on whether the person concerned was a member of the Forces during war or in peace time: if service was during war, it is paragraph 21(1)(a) that applies; if in peace time, it is paragraph 21(2)(a). The latter provision reads as follows:
+'PART III
+PENSIONS
+'Service during war, or special duty service
+'21(1) ...
+'Service in militia or reserve army and in peace time
+'(2)
+'In respect of military service rendered in the non-permanent active militia or in the reserve army during World War II and in respect of military service in peace time,
+(a) where a member of the forces suffers disability resulting from an injury or disease or an aggravation thereof that arose out of or was directly connected with such military service, a pension shall, on application, be awarded to or in respect of the member in accordance with the rates for basic and additional pension set out in Schedule I;'
+. . . . .
+[translation omitted]
+"24. As already noted by Justice Nadon, then of the Federal Court, in
+King v. Canada (Veterans Review and Appeal Board)
+, [2001] F.C.J. No. 850; 2001 FCT 535 (at paragraph 65), paragraph 21(2)(a) is more narrow in scope than paragraph 21(1)(a). While the latter refers to an injury or disease 'that was attributable to or was incurred during such military service', paragraph 21(2)(a) refers instead to an injury or disease 'that arose out of or was directly connected with such military service'. In other words, the member of the Forces who suffered an injury or disease in peace time must establish that military service was the 'primary cause' of the injury or the disability and must establish causation. See also:
+Leclerc v. Canada (Attorney General)
+, [1996] F.C.J. No. 1425; 126 F.T.R. 94, at paragraphs 18-21.
+"25. It should be pointed out that subsection 21(3) of the same
+Act
+establishes a presumption as to the existence of the causal connection required under paragraph 21(2)(a) between the incident cited and the injury or disease suffered. The provision specifies that an injury or disease shall be presumed, in the absence of evidence to the contrary, 'to have arisen out of or to have been directly connected with military service' if it was incurred in the course of any of the circumstances listed in the subsection's various paragraphs:
+'Presumption
+'(3) For the purposes of subsection (2), an injury or disease, or the aggravation of an injury or disease, shall be presumed, in the absence of evidence to the contrary, to have arisen out of or to have been directly connected with military service of the kind described in that subsection if the injury or disease or the aggravation thereof was incurred in the course of
+(a) any physical training or any sports activity in which the member was participating that was authorized or organized by a military authority, or performed in the interests of the service although not authorized or organized by a military authority;
+(b) any activity incidental to or directly connected with an activity described in paragraph (a), including the transportation of the member by any means between the place the member normally performed duties and the place of that activity;
+(c) the transportation of the member, in the course of duties, in a military vessel, vehicle or aircraft or by any means of transportation authorized by a military authority, or any act done or action taken by the member or any other person that was incidental to or directly connected with that transportation;
+(d) the transportation of the member while on authorized leave by any means authorized by a military authority, other than public transportation, between the place the member normally performed duties and the place at which the member was to take leave or a place at which public transportation was available;
+(e) service in an area in which the prevalence of the disease contracted by the member, or that aggravated an existing disease or injury of the member, constituted a health hazard to persons in that area;
+(f) any military operation, training or administration, either as a result of a specific order or established military custom or practice, whether or not failure to perform the act that resulted in the disease or injury or aggravation thereof would have resulted in disciplinary action against the member; and
+(g) the performance by the member of any duties that exposed the member to an environmental hazard that might reasonably have caused the disease or injury or the aggravation thereof.'
+. . . . .
+[translation omitted]
+"26. Attention should also be drawn to s. 2 of the
+Pension Act
+and s. 3 of the
+Board Act
+, which call for a broad and liberal construction and interpretation of the provisions of these two statutes in recognition of what the members of the Forces have done for their country. These provisions read as follows:
+'
+Pension Act
+:
+'CONSTRUCTION
+'
+Construction
+'2. The provisions of this Act shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to provide compensation to those members of the forces who have been disabled or have died as a result of military service, and to their dependants, may be fulfilled.'
+. . . . .
+[translation omitted]
+'
+Board Act
+:
+'Construction
+'3. The provisions of this Act and of any other Act of Parliament or of any regulations made under this or any other Act of Parliament conferring or imposing jurisdiction, powers, duties or functions on the Board shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who have served their country so well and to their dependants may be fulfilled.'
+. . . . .
+[translation omitted]
+"27. Finally, another provision that must be taken into account is s. 39 of the
+Board Act
+, which sets out rules favouring the applicant with respect to his or her burden of proof:
+'Rules of evidence
+'39. In all proceedings under this Act, the Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case.'
+. . . . .
+[translation omitted]
+"28. This provision, which generally gives the applicant or appellant the benefit of the doubt, has occasioned much debate over the nature of the evidence that will allow the applicant or appellant to succeed. The decisions of this Court and of the Court of Appeal instruct us that the effect of this provision is not to compel the Board to accept all of the allegations made by a veteran. Under the terms of paragraph 21(2)(a), the applicant must establish, on the standard of proof applicable in civil matters (a balance of probabilities), that he or she suffers from a disability and that this disability arose out of or was directly connected with his or her military service. It is the member who must prove causation between the alleged incident and the condition cited. Justice Sharlow, writing for the Court of Appeal, summarized the impact of s. 39 well in
+Canada (Attorney General) v. Wannamaker
+, 2007 FCA 126, at paragraphs 5 and 6:
+'Section 39 ensures that the evidence in support of a pension application is considered in the best light possible. However, s. 39 does not relieve the pension applicant of the burden of proving on a balance of probabilities the facts required to establish entitlement to a pension:
+Wood v. Canada (Attorney General)
+(2001), 199 F.T.R. 133 (F.C.T.D.);
+Cundell v. Canada (Attorney General)
+(2000), 180 F.T.R. 193 (F.C.T.D).
+'Nor does s. 39 require the Board to accept all evidence presented by the applicant. The Board is not obliged to accept evidence presented by the applicant if the Board finds that evidence not to be credible, even if the evidence is not contradicted, although the Board may be obliged to explain why it finds evidence not to be credible:
+MacDonald v. Canada (Attorney General)
+(1999), 164 F.T.R. 42, at paragraphs 22 and 29. Evidence is credible if it is plausible, reliable and logically capable of proving the fact it is intended to prove.
+'See also:
+Nisbet v. Canada (Attorney General)
+, 2004 FC 1106, at paras. 17-19;
+Moar v. Canada (Attorney General)
+, 2006 FC 610, at paras. 10 and 29;
+Currie v. Canada (Attorney General)
+, 2005 FC 1512, at para. 9;
+Comeau v. Canada (Attorney General)
+, 2005 FC 1648, at paras. 22-25;
+McTague v. Canada (Attorney General)
+, [2000] 1 F.C. 647;
+Gillis v. Canada (Attorney General)
+, 2004 FC 751.'
+. . . . .
+"36. The Court must therefore ask itself whether the Board's decision, in terms of both form and substance, can be considered reasonable. In terms of form, the reasonableness of the decision will be assessed according to its justification, transparency and intelligibility, whereas in terms of substance, it must fall within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (
+Dunsmuir
+, above, at paragraph 47). As the Supreme Court took pains to point out, this new single standard does not call for greater judicial interference in the administrative process. Indeed, the courts must not lose sight of the fact that such questions when submitted to administrative boards and tribunals can often lead to more than one reasonable outcome and that it is not up to the reviewing court to substitute the decision it might have made if it, and not the administrative board or tribunal, had dealt with the question."
+T-288-10: Hearing Loss

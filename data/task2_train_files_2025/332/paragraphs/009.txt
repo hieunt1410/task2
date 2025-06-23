@@ -1,0 +1,12 @@
+[9]
+In 1985 the Act was amended by a new s. 225.1 (enacted S.C. 1985, c. 45, s. 116(1)) to introduce restrictions on collection processes so that in the ordinary course these would be postponed during the time limited by the Act for filing a Notice of Objection or for appealing in relation to an assessment of tax made by or on behalf of the Minister. Thus, for example, s. 225.1 (1), as now amended, provides:
+"225.1(1) Collection restrictions. - Where a taxpayer is liable for the payment of an amount assessed under this Act (in this subsection referred to as the 'unpaid amount'), other than an amount payable under subs. 227(9), the Minister shall not, for the purpose of collecting the unpaid amount,
+(a) commence legal proceedings in a court,
+(b) certify the unpaid amount under s. 223(1),
+(c) require a person to make a payment under subs. 224(1),
+(d) require an institution or person to make a payment under subs. 224(1.1),
+(e) require the retention of the unpaid amount by way of deduction or set-off under s. 224.1,
+(f) require a person to turn over moneys under subs. 224.3(1), or
+(g) give a notice, issue a certificate or make a direction under subs. 225(1)
+before the day that is 90 days after the day of mailing of the notice of assessment."
+Other paragraphs of s. 225.1 deal with restrictions of collection processes during the course of an appeal.

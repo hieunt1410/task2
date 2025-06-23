@@ -1,0 +1,59 @@
+Rimoldi v. Can. (M.C.I.), [2003] F.T.R. Uned. 899 (FC)
+MLB unedited judgment
+Marcelo Fabian Ferreira Rimoldi (applicant) and  The Minister of Citizenship and Immigration (respondent)
+Indexed As: Rimoldi v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2003] F.T.R. Uned. 899
+Federal Court
+von Finckenstein, J.
+December 17, 2003.
+(IMM-9716-03; 2003 FC 1481)
+Counsel:
+Krassina Kostadinov, for the applicant;
+Martin Anderson, for the respondent.
+Solicitors of Record:
+Waldman & Associates, Toronto, Ontario, for the applicant;
+Morris Rosenberg, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+von Finckenstein, J.
+: Mr. Ferreira is Uruguayan and came to Canada in December 2001. He made a refugee claim, which was denied on October 30, 2002 and for which he did not seek judicial review. He filed a pre-removal risk assessment application ("PRRA application"), which was denied November 7, 2003. On November 12, 2003 he was advised that his removal is scheduled for December 18, 2003.
+[2]
+Mr. Ferreira's wife and her now 7 year old daughter joined him in Canada on October 2002 and also made a refugee claim. In addition, Mr. Ferreira with his wife and daughter on August 19, 2003 filed an application for landing on humanitarian and compassionate grounds (the "H & C application"). Both of these applications are pending.
+[3]
+Mr. Ferreira is now applying for a stay of his removal order pending the outcome of the family's H & C application.
+[4]
+Removal officer John McGarry deposed the following reasons for denying the deferral of Mr. Ferreira's removal:
+5. With respect to the Applicant's request to defer his removal, I did give consideration to the matter of hardship brought on by separation, but did not find any compelling reasons. The Applicant, as stated above, made a claim for refugee status in December 2001, but his wife and child did not make their claims until October 2002, and thus have already had a lengthy separation. In light of that, I did not feel that undue hardship would be incurred by a separation.
+6. I also looked into the fact that the Applicant was the main financial supporter in the family, he is doing this without the benefit of a valid work permit. In light of this, I could not give positive consideration to the Applicant's support when the method of providing that support is illegal.
+7. In regards to the best interest of the child, I would again refer to the fact that there has already been a lengthy separation of the member of this family. I did take into consideration the Martinez decision, but did not find it compelling under these circumstances.
+[5]
+To be granted a stay, the applicant must meet the three elements of the test set out in Toth v. Canada (Minister of Employment and Immigration), [1988] 86 N.R. 302 (F.C.A.). He must demonstrate: a) that there is a serious issue to be tried; b) that the applicant would suffer irreparable harm if the stay was not granted; and c) that the balance of convenience favours the granting of the stay.
+[6]
+As irreparable harm Mr. Ferreira advances the interests of the child. According to the applicant, 'the best interest of the child' is a right enshrined in the United Nation's Convention on the Rights of the Child. By virtue of s. 3(3)(f) of the Immigration and Refugee Protection Act that right has been incorporated into Canadian law. Section 3(3)(f) reads as follows:
+ANNEX
+Immigration and Refugee Protection Act, S.C. 2001, c. 27
+Application
+3. (3) This Act is to be construed and applied in a manner that:
+. . . . .
+(f) complies with international human rights instruments to which Canada is signatory.
+Loi sur l'immigration et la protection des réfugiés, S.C. 2001, ch. 27
+Interprétation et mise en oeuvre
+3. (3) L'interprétation et la mise en oeuvre de la présente loi doivent avoir pour effet:
+[...]
+f) de se conformer aux instruments internationaux portant sur les droits de l'homme dont le Canada est signataire.
+[7]
+The applicant relies on FRAGMENT_SUPPRESSED
+[8]
+It is clear from Martinez, supra, that there has to be "consideration of the best interest of the child" when a pre-removal risk assessment decision (PRRA) or a removal order is being made. However, that was done in this case. It does not necessarily follow that the consideration must always result in a stay order. The above cited passages from the affidavit of the removal officer make it clear that he complied with the requirements but did not find them compelling.
+[9]
+As has been pointed out many times, deportation decisions in a family context are difficult decisions, which may bring about unpleasant results. See: Melo v. Canada (Minister of Citizenship and Immigration) (2000), 188 F.T.R. 39 at para. 21, [2000] F.C.J. No. 403 (T.D.) (QL). The finding of irreparable harm in Martinez, supra, is grounded on the facts of that case. As described above, the applicant father in Martinez, supra, his spouse and their children all had different nationalities. The only place where the children could access as of right the opportunity to be cared for by their father was in Canada, if the father was granted the right to remain. It was this implied lack of another country for the children to go to that drove the irreparable harm determination.
+[10]
+I, therefore, find that the applicant has not established irreparable harm. Given that the test in Toth, supra, is conjunctive, I need not consider seriousness of the issue or balance of convenience.
+[11]
+This application for stay will be denied.
+ORDER
+[12]
+THIS COURT ORDERS that:
+1. This application for stay is denied.
+[End of document]

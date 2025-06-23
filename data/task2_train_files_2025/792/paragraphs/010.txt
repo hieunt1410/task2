@@ -1,0 +1,6 @@
+[10]
+The documents at issue are not covered by a litigation privilege. Therefore they must be considered under the principles of the solicitor-client relationship. Two quotes from the Report of the Special Committee of the Canadian Bar Association - Ontario, (1985), referred to in R v. B (1995) B.C.J. No. 41 (S.C.) are germane:
+- "In order for the privilege to apply, a further four conditions must be established. These conditions may be put as follows:
+. . . . .
+4. the communication must be directly related to the seeking, formulating as giving of legal advice."
+- "... evidence as to what monies a solicitor holds, has received, or has paid on behalf of a client is not privileged because the handling of a client's funds is considered to be an act, not a communication."

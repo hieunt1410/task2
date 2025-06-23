@@ -1,0 +1,18 @@
+[40]
+Given that the Court is in no position to consider or to dictate the substance of the regulatory scheme anticipated by the
+Act
+, it seems to me to be highly unlikely that Parliament intended that the 180-day timeframe be mandatory and justiciable. Indeed, I question whether, outside of the constitutional context, the Court has any role to play in controlling or directing the other branches of government in the conduct of their legislative and regulatory functions. This was the view of Justice Barry Strayer in
+Alexander Indian Band No. 134 et al. v. Canada (Minister of Indian Affairs and Northern Development)
+, [1991] 2 F.C. 3; [1990] F.C.J. No. 1085; 39 F.T.R. 142 (T.D.), where he observed that the enactment of regulations must be seen as primarily the performance of a political duty which is not judicially enforceable. Support for this view can also be found in the following passage from the decision of Justice Steele in
+Pim v. Ontario Minister of the Environment et al.
+(1978), 23 O.R.(2d) 45; 94 D.L.R.(3d) 254 (Div. Ct.), at p. 9:
+"21 It may not be necessary to add anything further, but if it is, it is my opinion that I would not exercise the discretion of the Court with respect to the application in the nature of mandamus. I would dismiss that application because even if there had been a mandatory date for the Lieutenant-Governor in Council to enact regulations which I have found there was not, I believe that it would be totally improper for this Court to order the Lieutenant-Governor in Council to enact regulations relating to a matter of which the Court has no knowledge. The Court has no concept of what should be included therein or within what time frame they should be made. This is not the type of case where a mandatory order of the Court could properly be enforced by the Court and, therefore, it should not be granted."
+A very similar view was expressed by Justice Richard Mosley in
+Canadian Union of Public Employees v. Canada (Minister of Health),
+[2004] F.C.J. No. 1582; 2004 FC 1334:
+"43 The applicants' argument in relation to the provinces controlling the nature and extent of the information provided to the federal Minister is predicated, in my view, on an underlying challenge to the Governor in Council's failure to make regulations to require the provinces to provide prescribed information to the federal Minister concerning their health insurance plans. This cannot sustain a justiciable issue. The lack of such regulations is not a matter for the courts, as the
+Act
+does not oblige the Minister to propose them nor the Governor in Council to make them. The enabling authority, set out in paragraph 22(1)(c) of the
+Act
+, is strictly permissive and not mandatory."
+Sections 8 and 9

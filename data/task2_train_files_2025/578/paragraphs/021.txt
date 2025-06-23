@@ -1,0 +1,27 @@
+[21]
+The leading authority on the application of the doctrine of functus officio in the administrative law setting is
+Chandler v. Alberta Association of Architects
+, [1989] 6 W.W.R. 521; 101 A.R. 321; 99 N.R. 277 (S.C.R.). So­pinka, J., considered the matter and wrote at page 541:
+"I do not understand Martland, J., to go so far as to hold that functus officio has no application to administrative tribunals. Apart from the English practice, which is based on a reluctance to amend or reopen formal judgments, there is a sound policy reason for recognizing the finality of pro­ceedings before administrative tribunals. As a general rule, once such a tribunal has reached a final decision in respect to the matter that is before it in accordance with its enabling statute, that decision cannot be revisited because the tribunal has changed its mind, made an error within jurisdiction or because there has been a change of circumstances. It can only do so if
+autho­rized by statute or if there has been a slip or error
+within the exceptions enunciated in
+Paper Machinery Ltd. v. J.O. Ross Engr. Corp.
+, supra. (own underlining)
+"To this extent, the principle of functus officio applies. It is based, however, on the policy ground which favours finality of proceedings rather than the rule which was developed with respect to formal judg­ments of a court whose decision was sub­ject to a full appeal. For this reason I am of the opinion that its application must be more flexible and less formalistic in respect to the decisions of administrative tribunals which are subject to appeal only on a point of law. Justice may require the reopening of administrative proceedings in order to provide relief which would other­wise be available on appeal.
+. . . . .
+"Furthermore, if the tribunal has failed to dispose of an issue which is fairly raised by the proceedings and of which the tribu­nal is empowered by its enabling statute to dispose,
+it ought to be allowed to complete its statutory task
+. If, however, the adminis­trative entity is empowered to dispose of a matter by one or more specified remedies or by alternative remedies, the fact that one is selected does not entitle it to reopen proceedings to make another or further selection. Nor will reserving the right to do so preserve the continuing jurisdiction of the tribunal unless a power to make provi­sional or interim orders had been conferred on it by statute: see
+Huneault v. C.M.H.C.
+(1981), 41 N.R. 214 (Fed. C.A.)." (own underlining)
+At page 542 he cited from
+Trizec Equities Ltd. v. Burnaby-New Westminster Area Assessor
+(1983), 45 B.C.L.R. 258; 22 M.P.L.R. 318; 147 D.L.R.(3d) 637 (S.C.), McLachlin, J. (as she then was), summarized the law in this respect in the following passage, at p. 643:
+"I am satisfied both as a matter of logic and on the authorities that a tribunal which makes a decision in the purported exercise of its power which is a nullity, may there­after enter upon a proper hearing and render a valid decision:
+Lange v. Board of School Trustees of School District No. 42 (Maple Ridge)
+(1978), 9 B.C.L.R. 232 (B.C.S.C.);
+Posluns v. Toronto Stock Exchange et al.
+(1968), 67 D.L.R.(2d) 165, [1968] S.C.R. 330. In the latter case, the Supreme Court of Canada quoted from Lord Reid's reasons for judgment in
+Ridge v. Baldwin
+, [1964] A.C. 40 at p. 79, where he said:
+'I do not doubt that if an officer or body realises that it has acted hastily and recon­siders the whole matter afresh, after af­fording to the person affected a proper opportunity to present its case, then its later decision will be valid.'"

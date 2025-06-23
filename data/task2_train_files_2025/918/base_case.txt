@@ -1,0 +1,109 @@
+[1]
+Heneghan, J.
+: This is an application to review the decision rendered by the Minister of Public Works and Government Services Canada (the "Minister"), dated June 28, 1999. In this decision, the Minister decided to disclose information concerning the pricing offered by StenoTran Services (the "applicant"), a contractor who was awarded Solicitation No. 4R001-9-100/A for reporting services at the Competition Tribunal.
+[2]
+On February 9, 1999, Public Works invited bids for a contract involving court reporting at the Competition Tribunal. Bidding companies were required to provide quotes for pricing and the résumés of the reporters. Further to this bidding process, on March 17, 1999, the applicant was awarded Solicitation No. 4R001-9-100/A on the basis that it had the lowest unit prices.
+[3]
+On March 22, 1999, the Minister received a request under the
+Access to Information Act
+[see footnote 1]
+("
+Act
+") to disclose the unit prices and associated documentation of the contractor who was awarded the Competition Tribunal contract. Following the request, the Minister informed the applicant that it would disclose the unit prices.
+[4]
+On May 19, 1999, the applicant objected to the release of the unit prices as well as the names and résumés of its reporters. In response to this objection, the applicant was informed that certain portions of the material would be exempted but that the unit prices and the names of the reporters would be released. At the time of the hearing, the Minister indicated that the names of the court reporters would not be released. Accordingly, this decision will focus on reviewing the Minister's decision not to exempt disclosure of StenoTran's unit prices pursuant to paragraph 20(1)(b) of the
+Act
+.
+[5]
+Paragraph 20(1)(b) of the
+Act
+provides:
+"20(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;"
+[6]
+Paragraph 20(1)(b) provides that government institutions can refuse to disclose a record if (1) the record is financial, commercial, scientific or technical; (2) the material is confidential; (3) the material was supplied to a government institution by a third party and (4) the material is consistently treated in a confidential manner by the third party.
+[7]
+The applicant submits that the unit prices and the names of the reporters satisfy the criteria articulated under paragraph 20(1)(b) of the
+Act
+and should not be released. It argues the information is commercial, confidential, was supplied to a government institution and was treated by the applicant as being confidential.
+[8]
+The Minister agrees that the material is "commercial" and was supplied by the applicant to a government institution. However, the Minister disagrees with the applicant on the issue of confidentiality. The respondent submits that the information is not confidential and was not treated in a confidential manner by the applicant.
+[9]
+In
+FRAGMENT_SUPPRESSEDestablished the criteria governing whether information will be considered "confidential". Justice MacKay stressed that it is an objective standard which must be applied in making the determination of whether something is confidential. He wrote:
+"The second requirement under s. 20(1)(b), that the information be confidential, has been dealt with in a number of decisions. These establish that the information must be confidential in its nature by some objective standard which takes account of the content of information, its purposes and the conditions under which it was prepared and communicated (per Jerome, A.C.J., in
+Montana
+, supra, at pp. 76-7). It is not sufficient that the third party state, without further evidence, that it is confidential: see e.g.,
+Merck Frosst Canada Inc.
+, supra;
+Re Noel and Great Lakes Pilotage Authority Ltd.
+(1988), 45 D.L.R.(4th) 127; [1988] 2 F.C. 77; 8 A.C.W.S.(3d) 99 (T.D.). Information has not been held to be confidential, even if the third party considered it so, where it has been available to the public from some other source (
+Canada Packers Inc. v. Canada (Minister of Agriculture)
+, [1988] 1 F.C. 483; 8 A.C.W.S.(3d) 48 (T.D.), and related cases; appeal dismissed with variation as to reasons on other grounds, 26 C.P.R.(3d) 407; 53 D.L.R.(4th) 246; [1989] 1 F.C. 47 (C.A.)), or where it has been available at an earlier time or in another form from government (
+Canada Packers Inc.
+, supra;
+Merck Frosst Canada Inc.
+, supra). Information is not confidential where it could be obtained by observation albeit with more effort by the requestor (Noel, supra). As outlined by Jerome, A.C.J., in earlier cases dealing with s. 20(1)(b):
+'It is not sufficient that [the applicant] considered the information to be confidential ... It must also have been kept confidential by both parties and ... must not have been otherwise disclosed, or available from sources to which the public has access.'
+(
+Maislin Industries Ltd. v. Minister for Industry, Trade & Commerce
+(1984), 80 C.P.R.(2d) 253, at p. 257; 10 D.L.R.(4th) 417; [1984] 1 F.C. 939 (T.D.);
+DMR & Associates v. Minister of Supply & Services
+(1984), 11 C.P.R.(3d) 87, at p. 91 (F.C.T.D.)." [see footnote 3]
+Justice MacKay continued at p. 202 [C.P.R.]:
+"My review of the authorities, facilitated in part by submissions of counsel, is undertaken in order to construe the term 'confidential information' as used in s. 20(1)(b) in a manner consistent with the purposes of the
+Act
+in a case where the records in question under control of a government department consist of documents originating in the department and outside the department. This review leads me to consider the following as an elaboration of the formulation by Jerome, A.C.J., in
+Montana
+, supra, that whether information is confidential will depend upon its content, its purposes and the circumstances in which it is compiled and communicated, namely:
+(a) that the content of the record be such that the information it contains is not available from sources otherwise accessible by the public or that could not be obtained by observation or independent study by a member of the public acting on his own,
+(b) that the information originate and be communicated in a reasonable expectation of confidence that it will not be disclosed, and
+(c) that the information be communicated, whether required by law or supplied gratuitously, in a relationship between government and the party supplying it that is either a fiduciary relationship or one that is not contrary to the public interest, and which relationship will be fostered for public benefit by confidential communication." [see footnote 4]
+[10]
+In
+Société Gamma Inc. v. Canada (Secretary of State)
+[see footnote 5], Justice Strayer decided an access to information case surrounding the disclosure of a "proposal format" which arose following a competition for translation services:
+"After a careful review of the expurgated versions of the proposals which the respondent is prepared to disclose, I am unable to conclude that what remains is confidential. As has been well established, whether information is confidential must be decided objectively: see, e.g.,
+Maislin Industries Ltd. v. Canada (Minister for Industry, Trade and Commerce)
+(1984), 80 C.P.R.(2d) 253, at p. 259; 10 D.L.R.(4th) 417; [1984] 1 F.C. 939 (T.D.);
+Ottawa Football Club v. Canada (Minister of Fitness and Amateur Sports)
+(1989), 23 C.P.R.(3d) 297; [1989] 2 F.C. 480; 24 F.T.R. 62 sub nom.
+C.F.L. v. Canada (Minister for Fitness and Amateur Sports)
+(T.D.), and
+FRAGMENT_SUPPRESSED I do not believe that the material from the applicant's proposals which the respondent intends to disclose can be regarded as confidential by its intrinsic nature. In the first place the format of the proposals, to which the applicant attaches such importance, is really with the exception of two paragraphs (1.7, 1.8), a simple rendition of the items listed in the 'grille d'evaluation', one of the documents distributed by the government as part of its request for proposals. As for the information provided within that format, some of it is clearly material already in the public domain such as the judgments of court included as samples of the applicant's work. General information about the applicant and the nature and quality of its work not otherwise exempted appears to me to be of a nature not inherently confidential. One must keep in mind that these proposals are put together for the purpose of obtaining a government contract, with payment to come from public funds. While there may be much to be said for proposals or tenders being treated as confidential until a contract is granted, once the contract is either granted or withheld there would not, except in special cases, appear to be a need for keeping tenders secret. In other words, when a would-be contractor sets out to win a government contract he should not expect that the terms upon which he is prepared to contract, including the capacities his firm brings to the task, are to be kept fully insulated from the disclosure obligations of the Government of Canada as part of its accountability. The onus, as has been well established, is always on the person claiming an exemption from disclosure to show that the material in question comes within one of the criteria of s. 20(1) and I do not think that the claimant here has adequately demonstrated that, tested objectively, this material is of a confidential nature. I accept that the applicant and, up to now, the respondent, have treated this material as confidential but that is only one part of the test prescribed in s. 20(1)(b) for confidentiality." [see footnote 6]
+[11]
+The applicant states that in the Request for Standing Offer, a confidentiality clause guaranteed that the information in the bid would be considered confidential under the
+Access to Information Act
+if the bidder identified the information as confidential, which the applicant claims it did:
+"Should the Bidder provide the requested information to Canada in confidence while indicating that the disclosed information is confidential, then Canada will treat the information in a confidential manner as provided in the
+Access to Information Act
+."
+[12]
+In my opinion, this confidentiality clause only ensures that the information will be treated as confidential pursuant to the provisions found in the
+Act
+. Moreover, having regard to the provisions found in paragraph 20(1)(b) of the
+Act
+, it must be noted that the Standing Offer also contains a disclosure clause:
+"The Offeror agrees to the disclosure of its standing offer unit prices by Canada, and further agrees that it shall have no right to claim against Canada, the Minister, the Identified User, their employees, agents or servants, or any of them, in relation to such disclosure."
+[13]
+The applicant submits that the disclosure clause limits disclosure to other government departments. It states that had the government intended to cover disclosure to non-government entities, it should have expressly stated this.
+[14]
+The Minister states that there was no undertaking as to confidentiality given by the Minister nor a provision in the Standing Offer to this effect. The Minister submits that, on the contrary, there are disclosure of information clauses in both the Request for Standing Offer and the Standing Offer which clearly state that the applicant agrees to the disclosure of all unit prices by the Minister. The Minister also submits that the disclosure clause is not limited to government entities.
+[15]
+In the present case, the applicant bears the burden of proving that the information should not be disclosed. In light of this, as well as the existence of a disclosure clause, which I do not accept as applying only to other government bodies, I am dismissing the application to review the Minister's decision to disclose the unit pricing. Having reviewed the information, the disclosure clause is not compatible with the notion that this information is objectively "confidential".
+ORDER
+[16]
+IT IS ORDERED that
+this application pursuant to section 44 of the
+Act
+be dismissed.
+Application dismissed.
+Editor: Jocelyne M. Caissie/saf
+Footnotes
+1. R.S.C. 1985, c. A-1.
+2. (1989), 27 F.T.R. 194; 27 C.P.R.(3d) 180 (T.D.).
+3. Ibid. at p. 199.
+4. Supra at p. 201.
+5. (1994), 79 F.T.R. 42; 56 C.P.R.(3d) 58 (T.D.).
+6. Ibid. at p. 63-64.
+[End of document]

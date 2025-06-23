@@ -1,0 +1,75 @@
+[54]
+But, on cross-examination Mr. Fernström conceded that prior art mechanical parallel designs, such as the Zax boom, achieved just as quick positioning and that any type of parallel keeping saves the time mentioned. The time chart provided by Mr. Fernström (supra, page 15) indicated a savings of time available. The cross-examination reads as follows:
+"Q.	You testified about the
+time taken to drill a number of holes in a round
+and you said that the--that without parallel holding, the total drill time for 70 to 80 holes would be four hours.
+A.	Yes. I have shown some example of drilling time--
+Q.	Yes.
+A.	- and positioning time and that hopefully amounts up to that figure.
+Q.	Right.
+A.	This is just an example.
+Q.	Okay, And with parallel holding, you have 2.5 hours. Do you have those figures in front of you now?
+A.	Yes.
+Q.
+There is a big difference in the per-hole drilling time, is there not, from three minutes to one-and-a-half minutes
+.
+A.
+The difference between pneumatic rock drills and hydraulic rock drills.
+Q.
+Nothing to do with these inventions
+.
+A.
+No
+.
+Q.	And--
+A.	It is the second part that has to do with the invention, that our hole positioning time compared to a boom without parallel holding and a boom with parallel holding.
+Q.	Yes, and you have taken that time by taking 70 to 80 holes and multiplying it by these figures. Is that right?
+A.	Something like that.
+Q.	But you just told me that all the jumbos have two booms.
+A.	I have not told you that boom--they can have anything from--
+Q.	No, but--
+A.	- one boom up to six booms.
+Q.	You just told me that it was usual to have at least two booms on a jumbo.
+A.	Um-hmm, yes.
+Q.
+So these figures are twice as high as they should be because--
+A.	In a bigger tunnel, you can have maybe 120, 150 holes and then the saving is--
+Q.	But on a two-boom jumbo which you have said is the normal type of jumbo, the four hours should really have reduced to two--
+A.
+For big tunnels, it can be anything from two to four booms
+.
+Q.
+And then the numbers would even go down--it would be even faster, would it not
+?
+A.
+I have given this as an example
+.
+Q.
+Yes, but your example is wrong, is it not, because that example has one boom drilling 70 to 80 holes
+.
+A.	Should I calculate? What do you want me to do?
+Q.	I am just asking you. If you need to recalculate--
+A.	The important thing is that our hole positioning time without parallel holding will take over one minute; with parallel holding, it will take less than half a minute to go from one hole to the other.
+Q.	What if that was parallel holding with the Zax?
+A.	We will still have the same--I am comparing it a catesian boom without parallel holding to--with parallel holding. I am talking about with parallel holding--
+Q.	But a drill--sorry.
+A drill rig with a Zax would have obtained just as quick positioning as your boom
+.
+A.
+Yes
+.
+Q.	Right. So, there is no real advantage over the prior design--the prior Zax design here.
+A.	We are comparing different boom types--all our booms and cartesian booms, and our patent deals with cartesian booms.
+Q.	I notice that you have been very careful on this. But what you are trying--what you have been saying here is that your invention had commercial success because of certain advantages.
+And one of the advantages, as you said is it made things so much faster and you did not mention that there was the prior Zax boom which would be just as fast.
+Now it is polar coordinates instead of cartesian coordinates, but you have also told me that polar coordinates were known and cartesian coordinates were known.
+A.	Yes, comparing a boom without parallel holding with a boom with parallel holding, this is exact, but nothing else.
+Q.	Okay. But the same result occurs, the same speed wit the Zax, right?
+A.	With a mechanical parallel with the limitation that that boom can only be used for straight tunnels and small tunnels.
+Q.	Well, we will come to that. I don't think that that is necessarily correct either.
+But any type of parallel keeping would save the time that you mentioned here
+.
+A.
+Yes
+."
+(underlining added)

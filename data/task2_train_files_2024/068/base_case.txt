@@ -1,0 +1,434 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vaillancourt v. Can. (2007), 321 F.T.R. 113 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2007] F.T.R. TBEd. JL.010 
+ 
+ 
+ 
+ Daniel Vaillancourt (applicant) v. Ministry of Human Resources (respondent) 
+ 
+ (T-403-06; 2007 FC 663) 
+ 
+ 
+ 
+ Indexed As: Vaillancourt v. Canada (Minister of Human Resources and Social Development) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Blanchard, J. 
+ 
+ June 20, 2007. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Vaillancourt applied under s. 84(2) of the Canada Pension Plan to have a 1998 decision to terminate his disability pension reopened and reviewed. The Minister of Social Development refused the application because the information submitted by Vaillancourt did not constitute new facts for the purposes of s. 84(2). Vaillancourt applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Government Programs - Topic 1227 
+ 
+ Canada Pension Plan - Entitlement - Rescission or amendment of decision on new facts - Section 84(2) of the Canada Pension Plan provided that the Minister, a review tribunal or the Pension Appeals Board could rescind or amend a decision made under the Act on the basis of new facts - The Federal Court stated that the s. 84(2) applied in exceptional circumstances where, despite due diligence, relevant material became available to a current application outside the expiration of the appeal limitation - Review of a s. 84(2) determination engaged a two-step process - First, a determination on whether the information submitted constituted new facts - Second, a decision on entitlement if there were new facts - Absent new facts, the prior decision stood - To be considered new facts for the purposes of s. 84(2), the new information must not have been previously discoverable with reasonable diligence at the time of the original hearing - This implied that the information must have existed at that time - Further, to be considered new facts, the information had to also be material - The new facts test required that the applicant prove on a balance of probabilities that the new evidence, which existed at the time of the original hearing, could not have been discovered with reasonable diligence and that, had it been made available to the decision maker, it could reasonably be expected to have affected the result of the prior hearing - See paragraphs 24 to 29. 
+ 
+ 
+ 
+ Government Programs - Topic 1227 
+ 
+ Canada Pension Plan - Entitlement - Rescission or amendment of decision on new facts - Vaillancourt applied under s. 84(2) of the Canada Pension Plan to have an August 27, 1998 decision to terminate his disability pension reopened and reviewed - Vaillancourt submitted the following as new facts: (1) a transcript of his day timer containing entries indicating the hours that he worked per month from 1998 through 2001, and notations concerning his medical condition during that time; (2) excerpts from a medical text; and (3) his completed 1998 questionnaire that had been originally faxed to him by the Minister on August 25, 1998 - The Minister refused the application because the information did not constitute new facts for the purposes of s. 84(2) - The Federal Court affirmed the decision - The entries prior to August 27, 1998, did not constitute new facts where they were clearly known and therefore discoverable prior to the August 27, 1998 decision - The subsequent entries would have been of no assistance in addressing Vaillancourt's capacity where they did not exist at the time of decision - Consequently, they were not material and therefore were not new facts - The medical text excerpts did not address Vaillancourt's capacity to work as of August 27, 1998 - The information was not material and therefore did not constitute new facts - The questionnaire was before the Minister when the 1998 decision was rendered and clearly did not constitute new facts - See paragraph 30 to 35. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Canada (Minister of Human Resources Development) v. Landry (2005), 334 N.R. 176; 2005 FCA 167, refd to. [para. 26]. 
+ 
+ Peplinski v. Canada (Minister of National Health and Welfare), [1993] 1 F.C. 222; 58 F.T.R. 247 (T.D.), refd to. [para. 27]. 
+ 
+ Canada (Minister of Human Resources Development) v. Macdonald, [2002] N.R. Uned. 26; 2002 FCA 48, refd to. [para. 22]. 
+ 
+ Leskiw v. Canada (Attorney General), [2003] N.R. Uned. 182; 2003 FCA 345, refd to. [para. 28]. 
+ 
+ BC Tel v. Seabird Island Indian Band, [2003] 1 F.C. 475; 292 N.R. 120; 2002 FCA 288, refd to. [para. 28]. 
+ 
+ Sketchley v. Canada (Attorney General) (2005), 344 N.R. 257; 2005 FCA 404, refd to. [para. 35]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Canada Pension Plan Act, R.S.C. 1985, c. C-8, sect. 84(2) [para. 24]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Daniel Vaillancourt, on his own behalf; 
+ 
+ James Gray, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard at Vancouver, British Columbia, on January 31, 2007, by Blanchard, J., of the Federal Court, who delivered the following reasons for order on June 20, 2007. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ I. Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Blanchard, J. 
+ : The Applicant, Daniel Vaillancourt, seeks judicial review of the January 18, 2006, decision by the Minister of Social Development (the Minister) under subsection 84(2) of the  
+ Canada Pension Plan 
+ , R.S. 1985, c. C-8 (the  
+ CPP 
+ ) not to reopen and review the August 28, 1998 decision to terminate the Applicant's disability pension as of May 1998. 
+ 
+ 
+ 
+ II. Facts 
+ 
+ 
+ 
+ [2] 
+  The Applicant became disabled in 1989 as a result of a failed three-level discectomy of his lumbar spine and arachnoiditis. The physical disability is allegedly incurable and permanent, and he claims, as a consequence, to be unable to sustain regular employment. 
+ 
+ 
+ 
+ [3] 
+  The Applicant first applied for disability benefits in December 1990. His application was approved with the payment of benefits commencing in October 1990. 
+ 
+ 
+ 
+ [4] 
+  In January 1998, the Applicant obtained his life insurance sales license and attempted self-employment as an insurance broker. He advised the Canada Pension Plan office of this fact as required by the  
+ CPP 
+ . 
+ 
+ 
+ 
+ [5] 
+  On January 26, 1998, the Applicant's wife, who was also receiving  
+ CPP 
+  disability benefits, informed the Respondent that she and her husband were considering starting a business. On February 25, 1998, the Respondent sent a Disability Reassessment Questionnaire and an Authorization to Disclose Medical Information to the Applicant. The forms were not received because of a change of address and were re-sent on March 26, 1998. The Applicant sought clarification in respect of these forms and eventually the Applicant's wife informed the Respondent that the Applicant was working at that time as a Life Insurance Policy Salesman and doing well. 
+ 
+ 
+ 
+ [6] 
+  On May 1, 1998, the Respondent again wrote to the Applicant seeking a response to the February 25 and March 26 letters. Eventually, the Applicant responded advising that he had returned to work in January 1998 and that he would not be providing the information requested by the Respondent for the review. In his April 11, 1998 letter the Applicant wrote in part: 
+ 
+ 
+ 
+ "After a great many inquiries to  
+ CPP 
+  I have finally discovered that I make too much money to continue to qualify for benefits [sic]. It would seem impractical to sift through 10 years of medical information for benefits [sic] that I no [sic] longer qualify for and would be redundant to ask the tax payers, the Drs [sic] and yourselves to spend the time and money to process the information." 
+ 
+ 
+ 
+ [7] 
+  On May 28, 1998, and again on August 14, 1998, the Respondent sought confirmation that the Applicant was capable of returning to work. In a fax dated August 25, 1998, the Applicant confirmed that he had returned to work in January 1998, and noted that he worked two to three hours per day, earning an average monthly commission of $2,000.00 to $2,500.00. 
+ 
+ 
+ 
+ [8] 
+  The review of the Applicant's eligibility for disability benefits was completed and the Respondent determined that the Applicant was no longer disabled as defined in the  
+ CPP 
+  by reason of his return to work and his monthly earnings. The Applicant was allowed a three-month trial work period form January to April 1998, during which time benefits continued. Benefits eventually ceased as of April 30, 1998. 
+ 
+ 
+ 
+ [9] 
+  By letter dated September 18, 1998, the Applicant was informed of the decision to cease benefits and that he could appeal the decision by asking that the decision be reconsidered within 90 days. The Applicant did not appeal the decision. 
+ 
+ 
+ 
+ [10] 
+  On May 10, 1999, the Respondent wrote the Applicant asking for repayment of the $695.19, representing disability benefits for May 1998, which the Applicant was not entitled to receive. The Applicant's wife authorized a $25.00 deduction from her benefits to be applied against the overpayment debt. 
+ 
+ 
+ 
+ [11] 
+  The Applicant made his second application for disability benefits on January 27, 2004. The application was deemed to have been made on March 18, 2003, the "protected date", since this is the date the Applicant's M.P. had first made an inquiry on behalf of the Applicant. In this second application, the Applicant submitted that he was working one to three days per week for one to three hours per day as an insurance salesman and that his ongoing chronic conditions prevented him from working more. 
+ 
+ 
+ 
+ [12] 
+  The Applicant's second application was allowed. The "fast-track" provisions, a program which allows for a finding of disability to be made up to 12 months prior to the receipt of the application, resulted in the Applicant's claim being backdated to March 2002, 12 months prior to the protected date. Disability payments commenced in April 2002. The Applicant was informed of this decision on April 3, 2004. He continues to receive these benefits today. 
+ 
+ 
+ 
+ [13] 
+  On June 3, 2004, the Applicant wrote the Respondent appealing the decision determining the effective date for the commencement of payments. The Applicant requested that the payment of benefits commence as of May 1998, when the benefits he received as a result of his first application were terminated by the Respondent. 
+ 
+ 
+ 
+ [14] 
+  On September 27, 2004, the Respondent informed the Applicant that the maximum amount of retroactivity allowed has already been awarded in his case. The Applicant was then informed that he could appeal the decision to the Office of the Commissioner of Review Tribunals (OCRT). 
+ 
+ 
+ 
+ [15] 
+  In a letter dated October 4, 2004, the Applicant informed the Respondent of his intention to appeal the Respondent's decision. The letter was forwarded to the OCRT on October 8, 2004, and on November 2, 2004, the OCRT informed the Respondent that the Applicant's letter had been accepted as a Notice of Appeal. 
+ 
+ 
+ 
+ [16] 
+  On June 9, 2005, the OCRT informed the Applicant that it did not have jurisdiction to backdate the commencement of his  
+ CPP 
+  benefits and suggested, as a possible recourse, that he proceed under subsections 66(4) or 84(2) of the  
+ Act 
+ , the "administrative error" and "new facts" provisions. 
+ 
+ 
+ 
+ [17] 
+  The Applicant subsequently requested that the Respondent exercise discretion under subsection 66(4) of the  
+ CPP 
+  on the grounds of administrative error. On August 9, 2005, the Respondent informed the Applicant of the Minister's decision that no administrative error had been made. The Applicant was also informed that he could seek judicial review of this decision. No application seeking judicial review of the Minister's decision was filed. 
+ 
+ 
+ 
+ [18] 
+  On December 1, 2005, the Applicant requested that the Respondent reopen its 1998 decision ceasing his disability benefits on the basis of new facts pursuant to subsection 84(2) of the  
+ CPP 
+ . 
+ 
+ 
+ 
+ [19] 
+  In his application, the Applicant submitted the following as new facts: 
+ 
+ 
+ 
+ (a) A transcript of the Applicant's day-timer entries indicating the number of hours he worked per month for the year 1998, and indicating the number of hours he worked in the years 1999, 2000, and 2001. The applicant also submitted his handwritten notations concerning his medical condition during those years 
+ 
+ 
+ 
+ (b) Excerpts from the medical text Neurology in Clinical Practice with regard to chronic adhesive arachnoiditis, and idiopathic adhesive arachnoiditis, and 
+ 
+ 
+ 
+ (c) The Respondent's May 28, 1998 questionnaire originally faxed to the Respondent on August 25, 1998. 
+ 
+ 
+ 
+ [20] 
+  On January 18, 2006, the Respondent informed the Applicant that his application to reopen the Decision had been considered and denied. The Respondent determined that the information submitted by the Applicant did not constitute new facts for the purposes of subsection 84(2) of the  
+ CPP 
+ . 
+ 
+ 
+ 
+ [21] 
+  On March 6, 2006, the Applicant brought the within application for judicial review of the Respondent's January 18, 2006 decision. 
+ 
+ 
+ 
+ III. Impugned Decision 
+ 
+ 
+ 
+ [22] 
+  In dismissing the application, the Respondent determined that the entries in the medical text  
+ Neurology in Clinical Practice 
+  did not address the Applicant's functional capacity and therefore would not have impacted the Respondent's August 1998 decision. The Respondent further noted that while the information contained in the Applicant's handwritten notes concerning events from 1999 to 2001 had not been discoverable in 1998, it could not be considered material to his functional capacity as of August 1998 and therefore would not have impacted the Respondent's decision. The Respondent informed the Applicant that his handwritten notes containing information concerning events of 1998 were discoverable at the time of the August 1998 decision, and therefore could not be considered new facts. The Respondent further noted that the copy of its May 28, 1998 questionnaire, which the Applicant had faxed to the Respondent in August 1998, had been considered by the Respondent when the Respondent made its August 1998 decision and therefore could not be considered to be new facts. 
+ 
+ 
+ 
+ IV. Issue 
+ 
+ 
+ 
+ [23] 
+  The only issue raised in this application is whether the Minister erred in dismissing the Applicant's request pursuant to subsection 84(2) of the  
+ CPP 
+  by reason of his determination that the information submitted by the Applicant in his request did not constitute new facts. 
+ 
+ 
+ 
+ V. The Law 
+ 
+ 
+ 
+ [24] 
+  Subsection 84(2) of the  
+ CPP 
+  provides as follows: 
+ 
+ 
+ 
+ "(2) The Minister, a Review Tribunal or the Pension Appeals Board may, notwithstanding subsection (1), on new facts, rescind or amend a decision under this Act given by him, Tribunal or the Board, as the case may be." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "84(2) Indépendamment du paragraphe (1), le ministre, un tribunal de révision ou la Commission d'appel des pensions peut, en se fondant sur des faits nouveaux, annuler ou modifier une décision qu'il a lui-même rendue ou qu'elle a elle-même rendue conformément à la présente loi." 
+ 
+ 
+ 
+ [25] 
+  Decisions made under the  
+ CPP 
+  are subject to the appeal process set out the legislation, which is generally considered binding and final. Subsection 84(2) of the  
+ CPP 
+  provides that the Minister, the Review Tribunal or the Pension Appeals Board may rescind or amend a decision made under the  
+ CPP 
+  on the basis of new facts. 
+ 
+ 
+ 
+ [26] 
+  Subsection 84(2) of the  
+ CPP 
+  has been narrowly interpreted by the courts. The intrinsic limitation of the provision was acknowledged by the Federal Court of Appeal in  
+ Canada (Minister of Human Resources Development) v. Landry 
+  (2005), 334 N.R. 176; 2005 FCA 167, at paragraph 7. The provision is applicable in exceptional circumstances where, despite due diligence, relevant material becomes available to a current application outside the expiration of the appeal limitation. 
+ 
+ 
+ 
+ [27] 
+  Review of a subsection 84(2) determination engages a two-step process: first, a determination on whether the information submitted constitutes new facts; second, a decision on entitlement takes place if there are new facts.  
+ FRAGMENT_SUPPRESSED If there are no new facts, then the prior decision stands. As will become evident below, I need only address the first part of this process. 
+ 
+ 
+ 
+ [28] 
+  To be considered new facts for the purposes of subsection 84(2) of  
+ CPP 
+ , new information must not have been previously discoverable with reasonable diligence at the time of the original hearing ( 
+ Canada (Minister of Human Resources Development) v. Macdonald 
+ , [2002] N.R. Uned. 26; [2002] F.C.J. No. 197; 2002 FCA 48). This implies that the information must have existed at that time. Further, to be considered new facts, the information must also be material. The Federal Court of Appeal in  
+ Leskiw v. Canada (Attorney General) 
+ , [2003] N.R. Uned. 182; 2003 FCA 345, at paragraph 5 of its reasons for decision held that, to be material, the new evidence must be "practically conclusive". The Federal Court of Appeal in  
+ BC Tel v. Seabird Island Indian Band 
+ , [2003] 1 F.C. 475; 292 N.R. 120; 2002 FCA 288, elaborated on this test by finding that new evidence has been held to be practically conclusive if it could reasonably be expected to affect the result of the prior hearing. 
+ 
+ 
+ 
+ [29] 
+  I agree with the Respondent that the new facts test requires that the Applicant prove on a balance of probabilities that the new evidence, which existed at the time of the original hearing, could not have been discovered with reasonable diligence and that, had it been made available to the decision maker, it could reasonably be expected to have affected the result of the prior hearing. 
+ 
+ 
+ 
+ VI. Analysis 
+ 
+ 
+ 
+ [30] 
+  In applying the new facts test, as articulated above, to the documents submitted by the Applicant, I find that the information does not meet the criteria for new facts. Below, I consider each document in turn. 
+ 
+ 
+ 
+ [31] 
+  The first document submitted as new facts consists of the transcription of the Applicant's "day timer", which includes information detailing the number of hours worked by the Applicant on a monthly basis for the years 1998 through 2001, and handwritten notations concerning his medical condition during this time. The entries made prior to the August 27, 1998 decision said to be prepared by the Applicant were in his possession. These entries were the creation of the Applicant and the information contained therein was clearly known and therefore discoverable prior to the August, 27, 1998 decision. As a consequence, they do not constitute new facts under subsection 84(2) of the  
+ CPP 
+ . I come to the same conclusion with respect to the "day timer" entries made subsequent to August 27, 1998. While these entries were not in existence at that time and therefore not discoverable, they are of little assistance in addressing the Applicant's capacity to engage in substantially gainful employment as of May 1998. This is so because this information could not have been available to the Minister since it did not exist at the time of the decision. In the result, the information cannot be said to be material, that is to say "practically conclusive" with respect to the issue of whether the Applicant remained disabled within the meaning of the  
+ CPP 
+  on or after April 30, 1998. 
+ 
+ 
+ 
+ [32] 
+  The second document tendered as new facts is an excerpt from a medical text  
+ Neurology in Clinical Practice 
+ . The excerpt does not address the Applicant's capacity to work as of August 27, 1998. The information is not material to the issue which was the subject of the August 27, 1998 decision and is therefore not new facts evidence. 
+ 
+ 
+ 
+ [33] 
+  The final document tendered by the Applicant as new facts is the 1998 completed questionnaire. The document was before the Respondent when the August 27, 1998 decision was rendered. It is clearly not new facts evidence. 
+ 
+ 
+ 
+ [34] 
+  In my view, the Respondent was correct in finding that none of the evidence tendered by the Applicant as new facts evidence meets the new facts tests. In the result, the Minister did not err in dismissing the Applicant's subsection 84(2) application on that basis. 
+ 
+ 
+ 
+ [35] 
+  The Respondent contends that the applicable standard of review of a decision on eligibility for disability or a determination of new facts under subsection 84(2) of the  
+ CPP 
+  is that of patent unreasonableness. The authorities cited by the Respondent in support of this position are decisions of the Federal Court of Appeal which pre-date  
+ Sketchley v. Canada (Attorney General) 
+  (2005), 344 N.R. 257; 2005 FCA 404. In Sketchley, the Court of Appeal held that it was necessary to conduct a pragmatic and functional analysis with respect to the particular questions at issue in order to ascertain the applicable standard of review. Here, the issue involves applying the new facts test to the documents tendered by the Applicant. The issue involves a question of mixed fact and law. It is unnecessary to determine the applicable standard in the circumstances since I find that, on any standard of review, the Court's intervention is not warranted. The Respondent correctly decided that the tendered documents do not constitute new facts for the purpose of the Applicant's subsection 84(2) application. 
+ 
+ 
+ 
+ VII. Conclusion 
+ 
+ 
+ 
+ [36] 
+  For the above reasons, the within application for judicial review will be dismissed with costs. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [37] 
+   
+ THIS COURT ORDERS that: 
+ 
+ 
+ 
+ The application for judicial review of the January 18, 2006, decision of the Minister of Human Resources and Social Development Canada, not to reopen the 1998 decision to terminate the Applicant's disability pension is dismissed, with costs. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Gary W. McLaughlin/pdk 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

@@ -1,0 +1,26 @@
+[27]
+After certification by the Minister that tax payable has not been paid when required, garnishment and other collection proceedings may be taken. While undoubtedly collection proceedings under the
+Federal Court Act
+and rules will clearly be judicial in nature, they follow from what, with nothing more, may appear to be the unilateral judgment of the Minister that taxes are owing. However, s. 53.3 of the
+Excise Tax Act
+, which came into force on May 1, 1986 precludes governmental officials from taking collection action while a taxpayer asserts specified rights through the various official levels and courts having jurisdiction to deal with the matter. Under s. 53.3(4), the Minister may not make a certificate under s. 53 until ninety days after a notice of assessment is sent to the taxpayer. Under subs. (5) and (6), if the taxpayer files a notice of objection within the prescribed period, the Minister may not take collection action until the notice of objection and any appeals following therefrom have been disposed of.
+(S.C. 1986, c. 9, s. 40, now R.S.C. 1985, c. E-15, s. 86, which is substantially the same.
+"53.3(1) Subsections 52(3) and (5) and sections 53 to 53.2 do not apply in respect of any penalty or fine imposed pursuant to a conviction for an offence under this Act.
+"(2) The Minister shall not certify under section 53 that a sum has not been paid, unless the person by whom the sum is payable has been assessed for that sum under this Part.
+"(3) The Minister shall not
+(a) serve a notice under section 53.1 in respect of a sum payable under this Act, or
+(b) require under section 53.2 the retention of an amount in respect of a sum payable under this Act,
+unless the person by whom the sum is payable has been assessed for that sum under this Part or a judgment against that person for the payment of that sum has been rendered by a court of competent jurisdiction.
+"(4) Where a person has been assessed for any sum payable under this Act, otherwise than pursuant to subsection 51.15(4) or 51.38(1), the Minister shall not, for the purpose of collecting that sum,
+(a) commence legal proceedings in a court,
+(b) make a certificate under section 53,
+(c) serve a notice under section 53.1, or
+(d) require under section 53.2 the retention of an amount
+before ninety days after the day on which the notice of assessment is sent to that person.
+"(5) Where a person has served a notice of objection under section 51.15, otherwise than pursuant to section 51.33, the Minister shall not, for the purpose of collecting the sum in controversy, take any of the actions described in paragraphs (4)(a) to (d) before ninety days after the day on which the notice of decision is sent to that person.
+"(6) Where a person has appealed to the Board or the Federal Court—Trial Division under this Part, otherwise than pursuant to section 51.33, in respect of an assessment, the Minister shall not, for the purpose of collecting the sum in controversy, take any of the actions described in paragraphs (4)(a) to (d),
+(a) where the appeal is to the Board, before the day on which a copy of the decision of the Board is sent to that person or that person discontinues the appeal; and
+(b) where the appeal is to the Federal Court—Trial Division, before the day on which the judgment of the Court is rendered or that person discontinues the appeal.
+"(7) Where a person is named in a reference under section 51.36, agrees to a reference under section 51.37 or appears as a party at the hearing of any such reference, the Minister shall not, for the purpose of collecting any sum for which that person has been assessed and of which the liability for payment will be affected by the determination of the question, take any of the actions described in paragraphs (4)(a) to (d) before the day on which the question is determined by the Court.
+"(8) Notwithstanding subsections (1) to (7), where a person has served a notice of objection under section 51.15 or has appealed to the Board or the Federal Court—Trial Division under this Part, otherwise than pursuant to section 51.33, in respect of an assessment and agrees in writing with the Minister to delay proceedings on the objection or appeal until a decision or judgment is rendered in another action before the Board, the Federal Court or the Supreme Court of Canada in which the issue is the same or substantially the same as that raised in the objection or appeal of that person, the Minister may take any of the actions described in paragraphs (4)(a) to (d) for the purpose of collecting any sum for which that person has been assessed determined in a manner consistent with the decision or judgment of the Board or Court in the other action at any time after the Minister notifies that person in writing that such decision or judgment has been rendered.
+"(9) Subsections (2) and (3) do not apply in respect of any amount deemed to be a tax by subsection 51.39(2) or (3).")

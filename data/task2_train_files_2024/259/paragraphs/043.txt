@@ -1,0 +1,25 @@
+[43]
+The Federal Court of Appeal has also considered section 55.2 of the
+Patent
+Act
+and the
+PMNOC Regulations
+. In
+AB Hassle v. Canada (Minister of National Health and Welfare)
+(2000), 7 C.P.R.(4th) 272, Stone, J.A., for the Court at paragraphs 5, 18 and 19 commented upon section 8 as providing for compensation to a second person for loss and the advantage provided by the
+Regulations
+in imposing a 24 month stay, and the disadvantage in that section 8 provides for liability for compensation:
+"5. Section 8 of the
+Regulations
+renders a first person liable to compensate a second person for loss suffered by that person in the circumstances described in that section.
+. . . . .
+"18. From the point of view of the patentee, the opportunity to initiate a section 6 proceeding presents advantages and disadvantages. The main advantage is that by paragraph 7(1)(e) the Minister of National Health and Welfare is not to issue the NOC for up to 24 months after receipt of proof of the making of the application for prohibition pursuant to section 6 of the
+Regulations
+. The effect, as was pointed out by Mahoney, J.A., in
+Bayer AG
+, supra, at 337 'is tantamount to an interlocutory injunction' for up to the now reduced period of 24 months. This advantage, while significant, is short term. The principal disadvantage is that where the section 6 proceeding is withdrawn, discontinued or dismissed the patentee is liable to compensate the second person for its loss incurred during the period described in subsection 8(1) of the
+Regulations
+. Hence the patentee would have less reason than formerly to be tardy in prosecuting a section 6 proceeding. On the other hand, the assurance that compensation must be paid to a second person at the end of an unsuccessful section 6 proceeding is no guarantee that the second person will act with dispatch in that proceeding.
+"19. The detailed statement is not a pleading per se but represents a pivotal step in the process leading up to the issuance of an NOC. By taking that step the second person puts the patentee on notice of the grounds on which he or she considers that the making, constructing, using or selling of the drug will not infringe the second person's patent rights during the unexpired term of the patent. In theory, this procedure ought to enable the patentee to confidently decide within the 45 day time limit whether to resist the issuance of an NOC. It is to be noted that, subject to business exigencies, the second person had no obligation to make its allegation and provide its detailed statement by an imposed deadline. As much time as the second person deems necessary is available under the scheme of the
+Regulations
+."

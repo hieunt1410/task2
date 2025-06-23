@@ -1,0 +1,33 @@
+[29]
+There is a line of authority establishing the requisites for mandamus. In the decision of the Ontario Court of Appeal in
+Karavos v. Toronto (City) and Gillies
+, [1948] 3 D.L.R. 294, at p. 297, Mr. Justice of Appeal Laidlaw set out the fundamental criteria for mandamus:
+"[Mandamus] is appropriate to overcome the inaction or misconduct of persons charged with the performance of duties of a public nature.
+. . . . .
+"Before the remedy can be given, the applicant for it must show
+(1) '
+a clear legal right
+to have the thing sought by it done, and done in the manner and by the person sought to be coerced' ...
+(2) '
+The duty whose performance it is sought to coerce by mandamus must be actually due
+and incumbent upon the officer at the time of seeking the relief, and the writ will not lie to compel the doing of an act which he is not yet under obligation to perform' ...
+(3)
+That duty must be purely ministerial in nature
+, 'plainly incumbent upon an officer by operation of law or by virtue of his office, and concerning which he possesses no discretionary powers' ...
+(4)
+There must be a demand and refusal
+to perform the act which it is sought to coerce by legal remedy ..." (emphasis added)
+Brown and Evans on Judicial Review
+(Canvasback, Toronto, 1998) refer to
+Karavos
+as the leading decision (p. 1-33) comment upon these four specific requirements:
+"Where these conditions have been met, mandamus can issue regardless of the classification of the duty as judicial, administrative or legislative in nature." (p. 1-34)
+I am aware of the eight part test for mandamus set out by the Federal Court of Appeal in
+Apotex Inc. v. Merck & Co. and Merck Frosst
+, [1994] 1 F.C. 742; 162 N.R. 177, at p. 766, affirmed without comment [1994] 3 S.C.R. 1100; 176 N.R. 1. In
+Apotex Inc.
+the Court of Appeal refers to
+Karavos
+. I have not followed the fuller analysis set out in Apotex for the essential elements are found in
+Karavos
+. However, in all probability Rocky Mountain would fare less well under the Apotex analysis.

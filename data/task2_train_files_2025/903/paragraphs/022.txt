@@ -1,0 +1,11 @@
+[22]
+Specific vocational preparation (SVP) was factor 2, had a maximum number of 18 units and the criteriae are described in the following way:
+"To be measured by the amount of formal, professional, vocational, apprenticeship, in-plant or on the job training specified in the Canadian Classification and Dictionary of Occupations, printed under the authority of the Minister, as necessary to acquire the information, techniques and skills required for the average performance of the occupation in which the applicant is assessed under Item 4 (occupational demand). Units of assessment shall be awarded as follows:
+(a) when the amount of training required is up to and including 30 days, one unit;
+(b) when the amount of training required is more than 30 days, up to and including three months, three units;
+(c) when the amount of training required is more than three months, up to and including six months, five units;
+(d) when the amount of training required is more than six months up to and including one year, seven units;
+(e) when the amount of training required is more than one year up to and including two years, 11 units;
+(f) when the amount of training required is more than two years up to and including four years, 15 units;
+(g) when the amount of training required is more than four years up to and including 10 years, 18 units;
+(h) when the amount of training required is more than 10 years, 18 units."

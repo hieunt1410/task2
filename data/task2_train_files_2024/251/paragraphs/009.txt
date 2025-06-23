@@ -1,0 +1,8 @@
+[9]
+In the present case, the implied exception (
+generalia specialibus non derogant
+) is, I think, the relevant technique to apply. It is described in
+Driedger
+in the following manner at page 186:
+"Where two provisions are in conflict and one of them deals specifically with the matter in question while the other is of general application, the conflict may be avoided by applying the specific provision to the exclusion of the more general one. The specific prevails over the general; it does not matter which was enacted first.
+"... in effect, the specific provision implicitly carves out an exception to the general one."

@@ -1,0 +1,11 @@
+[96]
+In
+Pfizer v Ratiopharm
+, the Federal Court of Appeal considered whether amlodipine besylate was anticipated by a prior European patent application that disclosed amlodipine and its pharmaceutically acceptable salts (including besylate). The Court agreed with the Applications Judge and held that the patent in issue was not anticipated:
+"[36] This is a difficult test to meet. The Applications Judge held that a person skilled in the art would not know why to select Besylate as one of the initial choices of salt, would not know whether it would form a salt of amlodipine in the solid state and would not know the particular properties of Besylate or their advantage for pharmaceutical formulation. As a result of these facts, he found that a person skilled in the art would not in every case and without possibility of error be led to the claimed invention. ..."
+(
+Pfizer v. Ratiopharm
+, above at paras. 34-36.)
+Application to the facts
+The '840 patent:
+The 840 patent does not provide directions to produce levofloxacin

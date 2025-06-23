@@ -1,0 +1,13 @@
+[78]
+A similar situation arose in
+Pfizer Canada Inc. et al. v. Canada (Minister of Health) et al.
+, [2008] F.C.J. No. 630; 326 F.T.R. 88; 2008 FC 500 (
+Pfizer v. Pharmascience
+), at paragraphs 11 and 17, involving the compound amlodipine besylate. Whether Apotex infringed claims 11, 12 and 13 of the patent at issue depended on the construction of these claims, in particular, whether they covered the hydrated forms of the besylate salt of amlodipine. Justice Hughes found as follows:
+"[14] Here claims 11, 12 and 13 represent the claims at issue:
+11. The besylate salt of amlodipine.
+12. A pharmaceutical composition for use as an anti-ischaemic or anti-hypertensive agent, comprising a therapeutically effective amount of the besylate salt of amlodipine together with a pharmaceutically acceptable diluent or carrier.
+13. A tablet formulation for use as an anti-ischaemic or anti-hypertensive agent, comprising a therapeutically effective amount of besylate salt of amlodipine in admixture with excipients.
+"[15] These claims are simple and clear on their face and need no further analysis save for one issue raised by Pharmascience, that of hydration.
+. . . . .
+"[17] The claims, exemplified by 11, 12 and 13 and all others make no distinction as to whether the amlodipine besylate exists as an anhydrate, monohydrate or other hydrate form. The specification is of no assistance. Pfizer's expert Dr. McGinity, at pages 69-70 of his cross-examination said that he would understand that all forms of amlodipine besylate would be included. I so find as well, all forms of amlodipine besylate, anhydrous and hydrated are included in the claims."

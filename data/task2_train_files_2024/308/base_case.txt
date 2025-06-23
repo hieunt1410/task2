@@ -1,0 +1,170 @@
+[1]
+Mactavish, J.
+: Harpreet Mann moves to set aside a "jeopardy order" issued on an ex parte basis by this Court on August 28, 2006. This order permitted the Minister of National Revenue to seize $129,000 that had previously been held by the Royal Canadian Mounted Police as the suspected proceeds of crime.
+[2]
+Mr. Mann asserts that the affidavit material relied upon by the Minister in support of the request for ex parte order was misleading. Having failed to meet the level of full and frank disclosure required in the circumstances, Mr. Mann says, the order granted in reliance on that material should be set aside.
+[3]
+Mr. Mann further asserts that the evidence now before the Court does not support a finding that the payment of the monies that he allegedly owes for unpaid taxes is in jeopardy. As a consequence, he submits that the Court should decline to extend the order.
+[4]
+For the reasons that follow, I am of the view that the jeopardy order should be confirmed.
+Did the Minister Make Full and Frank Disclosure?
+[5]
+There is no question that there is an obligation on a moving party seeking ex parte relief in a case such as this to make full and frank disclosure: see
+FRAGMENT_SUPPRESSED
+[6]
+Mr. Mann has identified four areas in which he says that the disclosure made by the Minister was deficient. Each of these will be considered in turn.
+Was Mr. Mann in Default of his Obligation to File a 2005 Tax Return?
+[7]
+In identifying the various ways in which Mr. Mann had conducted his affairs in an unorthodox manner, the August 23, 2006 affidavit of Brian Fowles relied upon in support of the Minister's ex parte motion states that Mr. Mann had failed to file an income tax return for 2005.
+[8]
+The affidavit of Mandeep Singh Brar, Mr. Mann's accountant, was filed by Mr. Mann in the review proceedings. This affidavit states that Mr. Mann's 2005 tax return was filed "well before August 2006", although Mr. Brar cannot indicate when precisely it was that the return was filed.
+[9]
+Mr. Fowles' subsequent affidavits indicate that he based his August 23 statement on a search of the Canada Revenue Agency's computer database. A subsequent search revealed that Mr. Mann's 2005 income tax return was filed on August 28, 2005. A copy of that return was produced by Mr. Fowles in his November 1, 2006 affidavit. The return bears a date stamp indicating that it had been filed "overcounter" on August 28, 2005.
+[10]
+I prefer the evidence of Mr. Fowles on this point to that of Mr. Brar. Mr. Brar's evidence was vague and imprecise, and the document appended to his affidavit does not establish when it was that Mr. Mann's tax return was actually filed. In contrast, Mr. Fowles' evidence is supported by documentary proof of the fact that Mr. Mann was indeed in default of his obligations under the
+Income Tax Act
+, R.S.C. 1985, c. 1 (5th Supp.), at the time that Mr. Fowles' swore his original affidavit on August 23, 2006.
+[11]
+As a result, Mr. Mann has failed to persuade me that there was any material non-disclosure on the part of the Minister in this regard.
+The Outcome of the Criminal Charges Against Mr. Mann
+[12]
+In further support of the Minister's claim that Mr. Mann had conducted his affairs in an unorthodox manner, Mr. Fowles stated in his August 23, 2006 affidavit that Mr. Mann had been charged with seven criminal offences including Possession of a Controlled Substance for the Purpose of Trafficking, Possession of Prohibited Weapons, and Possession of Explosive Substances.
+[13]
+In addition to attaching a copy of the Information laid against Mr. Mann, Mr. Fowles also attached a copy of an Order issued by the British Columbia Supreme Court, wherein Mr. Mann forfeited over $90,000 to Her Majesty the Queen in Right of Canada pursuant to the provisions of the
+Controlled Drugs and Substances Act
+, S.C. 1996, c. 19.
+[14]
+Mr. Mann deposes that five of the seven charges against him were withdrawn by the Crown, upon his agreeing to plead guilty to charges of Uttering a Threat and Possession of a Prohibited Weapon. This evidently took place well before Mr. Fowles swore his August 23, 2006 affidavit.
+[15]
+According to Mr. Mann, the failure of the Minister to disclose that the charges relating to the "enterprise" crimes that he had been charged with had been withdrawn amounts to a material non-disclosure.
+[16]
+Mr. Fowles swears that he did not know what had happened to the other charges that Mr. Mann faced when he swore his August 23, 2006 affidavit. While it would have been preferable had Mr. Fowles followed up on the outcome of the criminal proceedings against Mr. Mann, I am not persuaded that, in the circumstances of this case, the fact that he did not do so resulted in the failure on the part of the Minister to provide full and frank disclosure of material evidence.
+[17]
+The fact is that Mr. Mann was convicted of two criminal offences. Moreover, as part of his plea arrangement, Mr. Mann consented to an order under the provisions of the
+Controlled Drugs and Substances Act
+forfeiting a sizeable amount of money, which he admitted were the proceeds of crime. In these circumstances, I am not persuaded that the fact that Mr. Mann had not actually been convicted of any drug offences was sufficiently material as to justify setting aside the Court's August 28, 2006 Order.
+The Ownership of the Disputed Properties
+[18]
+The third area in which Mr. Mann asserts that the August 23, 2006 affidavit of Mr. Fowles was deficient related to the ownership of two properties in the Vancouver area.
+[19]
+In his August 23, 2006 affidavit, Mr. Fowles deposes that according to R.C.M.P. documents, the R.C.M.P. suspected that Mr. Mann is the beneficial owner of two properties registered in the names of Mr. Mann's parents. Mr. Mann says that Mr. Fowles failed to disclose that the R.C.M.P. Integrated Proceeds of Crime Unit had conducted a detailed investigation into whether Mr. Mann was the beneficial owner of the properties in question, and had concluded that he was not.
+[20]
+There is no indication in Mr. Mann's affidavit as to the source of his information, and accordingly, this portion of his affidavit fails to comply with the requirements of subsection 225.2(4) of the
+Income Tax Act
+, which requires that statements on information and belief in affidavits filed in the context of these types of proceedings must identify the grounds for that belief.
+[21]
+Moreover, there is no evidence before the Court to indicate that the fact that these properties were not seized means that the Crown and the R.C.M.P. accepted that Mr. Mann was not their beneficial owner.
+[22]
+In these circumstances, I am not persuaded that there was any material non-disclosure on the part of the Minister in this regard.
+The Illegal Source of the Monies in Issue
+[23]
+The final area in which Mr. Mann asserts that the August 23, 2006 affidavit of Mr. Fowles was deficient relates to Mr. Fowles' statement that the $129,000 in issue in this proceeding is "believed to be illegally obtained".
+[24]
+Mr. Mann asserts that the affidavit is deficient, as Mr. Fowles failed to identify the source of his belief in this regard. Moreover, he says that this statement is misleading, as Mr. Fowles failed to disclose that the Crown did not seek forfeiture of these monies in the course of the criminal proceedings. Not only this, Mr. Mann says, at the time that the forfeiture application was heard, the Crown Attorney involved in his case confirmed in Court that the Crown stated that it took "no issue that Mr. Mann is the lawful owner of all of the items seized".
+[25]
+I am not persuaded that there has been a lack of compliance with the requirements of subsection 225.2(4) of the
+Income Tax Act
+in relation to Mr. Fowles' assertion that the monies in question are believed to have been obtained illegally. The introductory paragraphs of Mr. Fowles' affidavit identify the source of his information, and affirm his belief that the statement relied upon in the affidavit are true.
+[26]
+I am also not persuaded that the failure of Mr. Fowles to refer to the statement of the Crown Attorney amounts to a material non-disclosure. A review of the transcript of the forfeiture hearing discloses that what the Crown actually said was that "having regard to the Crown's facts in possession, that we take no issue that Mr. Mann is the lawful owner of all of the items seized".
+[27]
+It must be kept in mind that to be entitled to an order of forfeiture, the Crown must prove its case beyond a reasonable doubt. It is clear that in this case, the facts in the possession of the Crown did not prove beyond a reasonable doubt that the funds in dispute were illegally obtained.
+[28]
+The fact that the Crown could not prove this beyond a reasonable doubt does not call into question the bona fides of the authorities' belief that the funds were illegally obtained.
+Conclusion on the Issue of Non-Disclosure
+[29]
+For these reasons, Mr. Mann has not persuaded me that there was any material non-disclosure on the part of the Minister that would justify the setting aside of the ex parte order granted by this Court on August 28, 2006, without an examination of its merits.
+[30]
+The question then remains as to whether the jeopardy order should be continued, based upon the evidence that is now before the Court. This issue will be considered next.
+Should the Jeopardy Order be Continued?
+[31]
+The question for the Court is whether there are reasonable grounds to believe that the collection of the income tax debt owed by Mr. Mann (estimated to be $149,823.95 to the end of 2004) would be jeopardized by a delay in the collection of the $129,000 that was seized by the R.C.M.P.: see subsection 225.2(2),
+Income Tax Act
+.
+[32]
+In this regard, the burden is on Mr. Mann to show that there are reasonable grounds to doubt that the test under subsection 225.2(2) has been met. That is, the burden is on the taxpayer to provide a factual basis that casts doubt on the allegation of the Minister that collection would be jeopardized by delay: see
+Minister of National Revenue v. Quesnel
+, [2001] B.C.T.C. 267; 2001 D.T.C. 5602 (S.C.), at ¶ 5, and
+Minister of National Revenue v. Satellite Earth Station Technology Inc.
+(1989), 30 F.T.R. 94; 89 D.T.C. 5506 (T.D.).
+[33]
+When the taxpayer meets this initial burden, the onus will then shift to the Minister to justify the jeopardy order: see
+Services M.L. Marengère Inc. v. Minister of National Revenue
+(1999), 176 F.T.R. 1; 2000 D.T.C. 6032 (T.D.), at ¶ 63. See also
+Quesnel
+, above, at ¶ 25.
+[34]
+The standard of proof in this regard is that of the balance of probabilities:
+Services M.L. Marengère Inc.
+, at ¶ 63.
+[35]
+Mr. Mann has raised several arguments as to why the August 28, 2006 jeopardy order should not be continued, based upon the new evidence that is now before the Court. Each of these will be addressed in turn.
+The Inconsistency of the Minister's Position With Respect to Mr. Mann's Ownership of the Disputed Properties
+[36]
+The first argument raised by Mr. Mann is the inherent inconsistency in the Minister's position with respect to the ownership of the disputed properties. On the one hand, Mr. Mann's alleged ownership of these properties was relied upon in the net worth assessment of his income tax liability. On the other hand, the Minister asserts that the $129,000 should be seized immediately, as it is Mr. Mann's only exigible asset.
+[37]
+According to Mr. Mann, the Minister cannot have it both ways. Either he does own the properties, in which case there are other assets available to satisfy his income tax indebtedness, or he does not own the properties, in which case, the net worth assessments are seriously flawed.
+[38]
+It is clear that the propriety of the net worth assessments is not a question for this Court, but should instead be dealt with through the reassessment process, and, ultimately, by the Tax Court. It remains to be seen whether the Crown will be able to establish that Mr. Mann is indeed the beneficial owner of the properties in question in the face of Mr. Mann's denials.
+[39]
+Insofar as this proceeding is concerned, however, the Minister asserts that the $129,000 sum is Mr. Mann's only known asset. Mr. Mann himself states that he does not own the disputed properties, and has acknowledged that he has few other assets available to satisfy his tax debt. As a consequence, his argument in this regard does not cast doubt on the Minister's allegation that collection of Mr. Mann's income tax debt would be jeopardized by a delay in collection.
+Mr. Mann's Explanation as to the Source of the Funds
+[40]
+Mr. Mann deposes that the monies in issue were primarily received by him as wedding gifts, and were not obtained by illegal means.
+[41]
+Strictly speaking, whether the funds in question were obtained by legitimate or illegitimate means is not the point - the question is whether there are reasonable grounds to believe that the collection of the income tax debt owed by Mr. Mann would be jeopardized by a delay in the collection.
+[42]
+That said, I do not accept Mr. Mann's explanation as to the source of the funds. He provides no information in this regard, beyond the bare assertion that the funds were wedding gifts. Not only does he provide no indication as to who any of the donors were, he doesn't even indicate when it was that he got married.
+[43]
+Moreover, the way in which the funds were stored is not consistent with their having a legitimate source. The sum of $118,000 in cash was found in a safety deposit box, whereas $11,100 in cash was found in a filing cabinet in Mr. Mann's house. A further $1,100 was found in a pocket in a house coat.
+Mr. Mann's Plan to Invest the Funds
+[44]
+Mr. Mann also says that he intends to invest the monies in issue in a contracting business, and has produced a letter from his proposed business associate confirming this arrangement. According to Mr. Mann, not only will the funds generate additional income which would then be available to satisfy the tax debt, the funds themselves will also remain available to satisfy the debt.
+[45]
+I do not accept this submission. The contract that Mr. Mann has produced with respect to his proposed involvement in the contracting business is between a third party and a numbered company, and not with Mr. Mann himself. In addition, the building project was evidently conditional on a number of approvals having been obtained by the end of August. There is no evidence that any of these approvals have yet been obtained.
+[46]
+Moreover, should the project actually go ahead, there is no indication as to how much Mr. Mann himself will earn through these endeavours.
+[47]
+Finally, Mr. Mann says that he will use the monies to purchase building materials to construct the houses. In my view, investing the disputed monies in buildings owned by a third party would only serve to put them further out of reach of the Minister.
+[48]
+As a result, this argument does not cast doubt on the Minister's allegation that collection of Mr. Mann's income tax debt would be jeopardized by a delay in collection.
+Why the Jeopardy Order Should be Continued
+[49]
+Not only has Mr. Mann not given me reasonable grounds to doubt that the test under subsection 225.2(2) has been met, I am satisfied that the evidence before the Court demonstrates that there are good reasons to believe that the collection of the income tax debt owed by Mr. Mann would indeed be jeopardized by a delay in collection.
+[50]
+The jurisprudence establishes that unorthodox behaviour which raises a reasonable apprehension that it would be difficult to trace funds or recover them to satisfy a tax debt may provide reasonable grounds for believing that the collection of a tax debt would be jeopardized by a delay in the collection: see
+Quesnel
+, above, at ¶ 27.
+[51]
+I am satisfied that Mr. Mann has conducted his affairs in a most unorthodox manner, which raises serious concerns with respect to the ability of the Minister to collect the monies owing by him, should the jeopardy order not be continued.
+[52]
+Mr. Mann's income tax returns indicate that he has earned little or no money for the last decade. At the same time, he has been able to accumulate more than $200,000 in cash. Mr. Mann's reported income is not sufficient to account for this asset accumulation.
+[53]
+A substantial portion of these monies are admittedly the proceeds of crime, and Mr. Mann has not provided an acceptable explanation as to the source of the other funds.
+[54]
+Moreover, Mr. Mann has not been compliant with his obligations under the
+Income Tax Act
+. In this regard, even Mr. Mann's own counsel conceded that the more than $90,000 forfeited to the Crown should perhaps have been declared as income by Mr. Mann, and was not.
+[55]
+Mr. Mann has admittedly been involved in serious criminal activity. He has consented to a forfeiture order under the provisions of the
+Controlled Drugs and Substances Act
+, which suggests his involvement in the drug trade leading to his accumulation of assets.
+[56]
+Moreover, in the agreed statement of facts filed in support of the request for the forfeiture order, Mr. Mann acknowledged that eight and a half pounds of cannabis had been seized at his residence.
+[57]
+Mr. Mann also has no current source of income which could be attached to satisfy his income tax debt, and he himself acknowledges that he has few other assets available for this purpose. Moreover, his evidence with respect to his proposed plans for the money raises more questions than it answers.
+[58]
+Finally, the monies in question, being liquid in nature, would be easily put beyond the reach of the Minister.
+Conclusion
+[59]
+In these circumstances, I am satisfied that it is more probable than not that the ability of the Minister to collect Mr. Mann's tax indebtedness would be jeopardized by a delay in the collection of the $129,000 that was seized by the R.C.M.P. As a consequence, in accordance with the provisions of subsection 225.2(11) of the
+Income Tax Act
+, Mr. Mann's motion to have the jeopardy order set aside is dismissed, and the jeopardy order issued by this Court on August 28, 2006 is confirmed.
+ORDER
+[60]
+THIS COURT ORDERS that
+Mr. Mann's motion is dismissed. The Order of Justice Nöel pronounced on August 28, 2006, in Court File T-1535-06, is confirmed.
+Motion dismissed;
+jeopardy order confirmed.
+Editor: Rodney A. Jordan/pdk
+[End of document]

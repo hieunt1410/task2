@@ -1,0 +1,21 @@
+[88]
+The plaintiff alleged that the advantage of the patent was that it would reduce the blind spot, and clearly, as the evidence showed, that was already accomplished by the prior art, by the base rotation booms and by the axial rotation booms. There is no problem in the area where the boom operates because they are all 2-boom machines so that if one has a blind spot that it cannot reach, the other boom can reach it. The Madison patent (Exhibit D-8) was cited for both anticipation and obviousness. Dr. Lundquist testified that the Madison patent shows all of the elements of claim 1 in the feed rollover patent. Because of its importance I am encorporating Exhibit D-63 in these reasons:
+"
+Claim 1 of C.P. 893,025 Barendsen et al.
+A drill boom structure
+comprising a boom mounted on a substruture at one end so as to be laterally and vertically swingable
+a boom head pivotably mounted on the opposite end of said boom for motor actuated swinging about a first axis
+a carrier privotably mounted on said boom head for swinging about a second axis perpendicular to said first axis
+a feed bar for guiding a rock drill in a feeding direction mounted on said carrier
+said carrier comprising hinge means for swinging said feed bar through a wide angle about a third axis which is perpendicular to said second axis and normally parallel with said feeding direction independently of the direction of the carrier relative to the boom
+and hydraulic motor means for actuating said hinge means disposed co-axial to said third axis."
+"Madison et al. U.S.P. 3,218,893
+Boom 34, drill feed 54
+Boom 34 mounted on vehicle 30. Lateral swinging around pivot 47 (figure 1). Vertical swinging around pivot 47 (figure 2). Boom is laterally and vertically swingable as shown by dotted positions in figures 1 and 2.
+Boom head 72, 74 is pivotably mounted at pivot 70 for swinging about a first axis cylinder. Motor 86 acts on lever 90 to control the swinging (figures 5, 6). See figure 6, column 5, lines 40-46 and 55-64.
+Carrier 78 is carried on shaft 76 for swinging about an axis perpendicular to the first axis (figure 7). See column 5, lines 48-51).
+Drill feed 54 (figure 5). See column 5, lines 24-26.
+Ear and pivot combination 80 and 82 swings drill feed through a wide angle of at least 90
+o
+perpendicular to the second axis and parallel to the feed direction. This is independent of the direction of the carrier relative to the boom (figure 5, 6). See column 5, lines 50-54.
+Hydraulic cylinder 114 operates through piston 114a and link 116 to pivot the pivot 80 (figures 5, 8). See column 6, lines 12-28."

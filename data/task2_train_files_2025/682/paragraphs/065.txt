@@ -1,0 +1,5 @@
+[65]
+Counsel for the applicants referred often and vigorously to Mr. Justice Richard's decision in
+Pfizer Canada Inc. v. Apotex Inc.
+(1997), 134 F.T.R. 201 (T.D.). Mr. Justice Richard held that the essence of the invention to which the patent relates was fluconazole and its therapeutic properties, not the process by which it was created. Thus, it was held that the process by which fluconazole was made was not an essential element of the patent:
+"But for section 41(1), the patentee would have been entitled to a product per se claim to the compound fluconazole when made by any process. The types of reactions included in the claims were general reactions known at the time of the Pfizer Patent and there was nothing inventive in the idea of using these reactions. These were only included to comply with section 41(1) in order that the claims of the patent include process limitations. Therefore, these features are not essential features. This conclusion is supported by the fact that the underlying invention is fluconazole and not the claimed process."

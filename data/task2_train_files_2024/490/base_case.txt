@@ -1,0 +1,103 @@
+[1]
+O'Keefe, J.
+: This is an application pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+IRPA
+) for judicial review of a decision of the Refugee Protection Division of the Immigration and Refugee Board (the Board), dated March 8, 2005, which determined that the respondent is a Convention refugee.
+[2]
+The applicant asked for an order setting aside the decision of the Board pertaining to the respondent and referring the matter for redetermination by a differently constituted panel of the Board.
+Background
+[3]
+Asif Sartaj (the respondent) is a citizen of Pakistan who alleged a well-founded fear of persecution in Pakistan at the hands of the Sipah-e-Sahaba Pakistan (SSP) because he is an active Shia Muslim. He also alleged that he was persecuted in Costa Rica, where he had permanent residence, by his wife's father because of his marriage and conversion of his wife to Islam.
+[4]
+The respondent lived in the Dominican Republic from 1996 to 1999 where he obtained a medical degree. After graduation, he returned to Pakistan to complete his medical school residency requirement. He worked at a hospital in Pakistan from February 1999 to June 1999, during which time he was physically attacked by the SSP for his religious activities. In October 1999, he went to Costa Rica to work as a physician, and in February 2002 he became a permanent resident of Costa Rica. He also secretly married a Costa Rican citizen. His wife converted to Islam from Catholicism. His wife's father, upon learning of the marriage and her conversion to Islam, threatened and attacked the respondent.
+[5]
+The respondent and his wife resided in Costa Rica until they came to Canada in May 2002. They subsequently claimed refugee status in Canada. In a decision dated March 8, 2005, the Board refused the respondent's wife's claim but allowed the respondent's claim. This is the judicial review of the decision in respect of the respondent's claim.
+Analysis and Decision
+[6]
+The issues are whether the Board erred in finding that the respondent was excluded from refugee protection by virtue of Article 1E of the
+UN Refugee Convention
+and whether the Board erred in finding that the respondent was a Convention refugee after having determined that he was excluded from refugee protection under Article 1E.
+[7]
+A review of the Board's decision shows that the Board first determined that the respondent was excluded from refugee protection under Article 1E of the
+UN Refugee Convention
+. For ease of reference, Article 1E is reproduced:
+"This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country."
+[8]
+Again, for ease of reference, section 98 of
+IRPA
+states:
+"98. A person referred to in section E or F of Article 1 of the Refugee Convention is not a Convention refugee or a person in need of protection."
+[9]
+In
+Shamlou v. Canada (Minister of Citizenship and Immigration)
+(1995), 103 F.T.R. 241 (T.D.), Justice Teitelbaum stated at paragraph 29:
+"Lorne Waldman, in
+Immigration Law and Practice
+, vol. 1, submits that:
+'... [A] person should be excluded from the
+Convention
+based upon Art. 1E only in circumstances where it is clear that the person has obtained all of the most fundamental basic rights associated with nationality of a country. Although it is not possible to make an exhaustive list of all the rights, these would include, at minimum, the right to return, the right to reside for an unlimited period of time, the right to study, the right to work, and access to basic social services.'"
+[10]
+The Board, in the present case, considered whether these factors or criteria were met by the respondent. The Board found that these criteria were satisfied as the respondent testified that during his stay in Costa Rica, he was free to leave and re-enter Costa Rica to travel to Saudi Arabia and Pakistan; he was able to work freely as a physician; he had full access to social services; and he was not denied the right of education.
+[11]
+The Board concluded as follows:
+"
+Conclusion
+Based on the foregoing analysis and in the absence of any proof to the contrary, I accept the prima facie evidence presented by the minister's counsel and determine that the male claimant is excluded under Article 1E of the
+UN Refugee Convention
+."
+[12]
+The Board then went on to find that the respondent was a Convention refugee based on a claim against Pakistan. The applicant alleged that this was an error in that once the Board found that the respondent was excluded under Article 1E, that was the end of the matter as section 98 of
+IRPA
+made the respondent not a Convention refugee or a person in need of protection.
+[13]
+The respondent submitted that the Board member did not mean that he was finally excluded and that the words prima facie should be moved so as to read "prima facie excluded". The respondent also submitted that his permanent residence status in Costa Rica expired while he was in Canada and therefore, he had no right to return to Costa Rica.
+[14]
+I agree with the Board's conclusion that Article 1E applies to the respondent. The uncontroverted evidence supports this conclusion. I do not agree that the words of the Board's decision can be moved. The Court must take this decision as written. In addition, the jurisprudence of this Court indicates that it is the date of the claimant's application for refugee protection that is used to determine whether a claimant has a right to return to a country, in this case, Costa Rica (see
+FRAGMENT_SUPPRESSED). In the present case, the respondent was still a permanent resident of Costa Rica when he applied for protection in Canada. The
+Shamlou
+factors have been satisfied.
+[15]
+The final question that needs to be answered is whether once the Board found the respondent to be excluded under Article 1E, it could still find the respondent to be a Convention refugee. I am of the view that once the respondent was found to be excluded by Article 1E, the Board made an error of law in finding the respondent to be a Convention refugee. Section 98 of
+IRPA
+is very clear that a person who is found to be excluded by Article 1E is neither a Convention refugee nor a person in need of protection.
+[16]
+The Federal Court of Appeal in
+Gonzalez v. Minister of Employment and Immigration
+, [1994] 3 F.C. 646; 170 N.R. 302 (F.C.A.), stated when considering an exclusion under Article 1F(a):
+"I find nothing in the
+Act
+that would permit the Refugee Division to weigh the severity of potential persecution against the gravity of the conduct which has led it to conclude that what was done was an art. 1F(a) crime. The exclusion of art. 1F(a) is, by statute, integral to the definition. Whatever merit there might otherwise be to the claim, if the exclusion applies, the claimant simply cannot be a Convention refugee."
+[17]
+The applicant's application for judicial review is allowed and the matter is referred back to a different panel of the Refugee Protection Division for redetermination.
+[18]
+Neither party wished to submit a serious question of general importance for certification for my consideration.
+JUDGMENT
+[19]
+IT IS ORDERED that the application for judicial review is allowed and the matter is referred back to a different panel of the Refugee Protection Division for redetermination.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+ANNEX
+Relevant Legislation
+Paragraph 95(1)(b) of
+IRPA
+provides that refugee protection is conferred on a person who is determined by the Board to be a Convention refugee or a person in need of protection.
+95(1) Refugee protection is conferred on a person when
+. . . . .
+(b) the Board determines the person to be a Convention refugee or a person in need of protection; or
+95(1) L'asile est la protection conférée à toute personne dès lors que, selon le cas:
+. . . . .
+b) la Commission lui reconnaît la qualité de réfugié ou celle de personne à protéger;
+Section 98 of
+IRPA
+excludes certain persons from being considered a Convention refugee or a person in need of protection. It provides:
+98. A person referred to in section E or F of Article 1 of the Refugee Convention is not a Convention refugee or a person in need of protection.
+98. La personne visée aux sections E ou F de l'article premier de la Convention sur les réfugiés ne peut avoir la qualité de réfugié ni de personne à protéger.
+Article 1E of the
+UN Refugee Convention
+provides:
+This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+Cette Convention ne sera pas applicable à une personne considérée par les autorités compétentes du pays dans lequel cette personne a établi sa résidence comme ayant les droits et les obligations attachés à la possession de la nationalité de ce pays.
+[End of document]

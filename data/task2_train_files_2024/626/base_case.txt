@@ -1,0 +1,171 @@
+[1]
+Layden-Stevenson, J.
+: The issue to be determined is whether the respondent, Donald Neil MacIver, should be permitted to amend his notice of motion dated August 27, 2001 (the main motion).
+[2]
+The relevant factual history, for purposes of this motion, is that the Minister of National Revenue (the Minister) on May 8, 1996, obtained a jeopardy order against Mr. MacIver (the respondent) under subsection 225.3(8) of the
+Income Tax Act
+, R.S.C. 1985, (5th Supp.) c. 1. The jeopardy order authorized the Minister to take action against the respondent's tax liability. Mr. MacIver applied for judicial review of the jeopardy order and attempted, unsuccessfully, to have it set aside or varied. In June, 2001, the Minister began using the statutory set-off provision of the jeopardy order with respect to the respondent's Canada Pension Plan (CPP) and Old Age Security (OAS) benefits. Mr. MacIver filed the main motion for variation of the jeopardy order, seeking to exempt his CPP and OAS benefits from set-off on the ground that he requires the benefits to survive.
+[3]
+The main motion was originally scheduled for hearing in September, 2001 and has been adjourned, on consent, various times. The most recent adjournment on April 29, 2002 was for the purpose of permitting the respondent to bring this motion to vary the main motion. Mr. MacIver seeks to amend to rely on further grounds and in particular to rely on:
+(a) sections 7 and 15 of the
+Canadian Charter of Rights and Freedoms
+;
+(b) Part I, 1(a) of the
+Canadian Bill of Rights
+;
+(c) Articles 1, 2, 3, 4, 17.2, 22 and 25 of the
+Universal Declaration of Human Rights, 1948
+, and
+(d) The
+English Bill of Rights, 1689
+.
+[4]
+The Minister opposes the motion and refers to
+Fox Lake Indian Band et al. v. Reid Crowthers & Partners Ltd. et al.
+, [2002] F.C.J. No. 823; 219 F.T.R. 134; 2002 FCT 630 (T.D.), wherein Prothonotary Hargrave provides a comprehensive analysis and review of the law in relation to amendments. The Minister relies heavily on the following statement:
+"That a court, dealing with an application to amend, must both assume that the facts pleaded are true (see
+Visx Inc. v. Nidek Co.
+(1997), 209 N.R. 342 (F.C.A.), at 347) and apply the same rule as in striking out a pleading, that it will only deny an amendment in a plain and obvious case where the situation is beyond doubt, deserves emphasis."
+[5]
+The Minister submits that it is plain and obvious that Mr. MacIver cannot succeed on the main motion. It is equally plain and obvious that the additional grounds upon which he seeks to rely raise issues where the law is well settled and beyond doubt. Therefore, there is no chance of success and the motion should be dismissed. The Minister addresses each of the proposed amendments and argues as follows:
+(a)
+Canadian Charter of Rights and Freedoms
+- Section 7 does not afford economic rights or economic security nor does it protect property rights:
+FRAGMENT_SUPPRESSED, leave to appeal refused (2000), 252 N.R. 393 (S.C.C.). Breach of section 15 requires that there be a distinction made between Mr. MacIver and others based on personal characteristics:
+Olympia Interiors Ltd.
+, supra. The statutory provisions in the main motion do not distinguish between the respondent and others based on personal characteristics and even if they did, the claim of impecuniosity is not one of the prohibited or analogous grounds. Level of income is not a personal characteristic enumerated in section 15 of the
+Charter
+, nor is it a characteristic analogous to those which are enumerated:
+Stanwick v. Canada
+(1999), 235 N.R. 315 (F.C.A.).
+(b)
+Canadian Bill of Rights
+- Since the Bill of Rights is not a true constitutional document, there is no mandate to set aside the will of Parliament through judicial review. Paragraph 1(a) of the
+Canadian Bill of Rights
+, which protects property rights through a "due process" clause was not replicated in the
+Charter
+and the right to "enjoyment of property" is not a constitutionally protected, fundamental part of Canadian society. Furthermore, in contrast to the
+Charter of Rights and Freedoms
+, the due process provision of paragraph 1(a) of the
+Canadian Bill of Rights
+is procedural as opposed to substantive:
+R. v. Bryan (D.M.)
+(1999), 134 Man.R.(2d) 61; 193 W.A.C. 61; 170 D.L.R.(4th) 487 (C.A.).
+(c)
+Universal Declaration of Human Rights, 1948
+- The document does not have the force of law such that it could be used to strike down the application of the impugned provisions of the
+Income Tax Act
+. International treaties and conventions are not part of Canadian law unless they have been implemented by statute. Such a document is only used as an aid to interpreting domestic law:
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817; 243 N.R. 22; 174 D.L.R.(4th) 193.
+(d)
+English Bill of Rights, 1689
+- The respondent's reliance on this document could not, at best, meet with any more success than an argument founded on the
+Canadian Bill of Rights
+. The respondent's attempt to place meritless arguments before the Court, by relying on such documents, constitutes an attempt to put the Minister through unnecessary time and expense and frustrates the Minister's and the Court's ability to deal with the merits of the main motion.
+[6]
+In summary, the Minister submits that if the respondent is seeking declaratory relief concerning constitutional issues, it should not be granted on a motion:
+Compania Peruana de Vapores S.A. v. Canada
+(1986), 6 F.T.R. 113 (T.D.);
+International Longshoremen's and Warehousemen's Union v. Canada
+, [1989] 1 F.C. 444 (T.D.). If the Court concludes that the additional grounds are capable of being heard in a summary proceeding such as the main motion, the amendments should not be allowed on the basis that:
+(a) it is plain, obvious and beyond doubt that the additional grounds the respondent relies on cannot succeed:
+Hoechst Aktiengesellschaft v. Adir et al.
+(1998), 153 F.T.R. 52 (T.D.);
+(b) the amendments, if allowed, will cause the Minister considerable time and expense and will protract the summary disposition of the motion. Accordingly, the Court should take a hard look at the merits of the proposed amendments as it is unlikely the Minister would recover any costs awarded.
+[7]
+The respondent's written submission is comprised of a notice of motion containing the proposed amendments (the amendments being underlined) with the full texts of the applicable documents attached and a list of the grounds relied upon with respect to the motion. The "grounds" are that the respondent "mistakenly thought that the statutes, etc. now raised could be raised under existing ground (c)". Ground (c) in the main motion referred to "such further and other grounds the respondent may advise and this honourable Court may allow". The respondent's submission states that the amendments are necessary to ensure that all relevant material is considered and to ensure if the matter goes to appeal, it will not involve trying to put forward a different case than what is being put forward before the original tribunal. Also, the applicant will not suffer any prejudice which cannot be compensated by allowing them the necessary time to prepare.
+[8]
+For purposes of clarity and future reference, it is noted that Mr. MacIver had, apparently on more than one occasion, undertaken to the Court to provide financial disclosure to the Minister. At the outset of the hearing of this motion, the Minister had not received financial disclosure. During the hearing, Mr. MacIver requested that the sealed envelope, which he had earlier filed with the Court, be opened and its contents provided to the Minister in satisfaction of his undertaking. The Court did unseal the envelope and after seeking clarification and confirmation from Mr. MacIver that he wanted the material provided to the Minister, acceded to his request. Counsel for the Minister undertook to photocopy the documents, file one copied set of the documents with the Court and return the originals to the respondent. The Court did not examine the documents since they were not relevant to the issue to be determined on the motion to amend. Whether the documents constitute fulfillment of Mr. MacIver's undertaking is a matter which may or may not require attention at another time.
+[9]
+At the hearing, the respondent's oral argument was confined to submissions regarding the alleged
+Charter
+violations and for the most part, section 7 of the
+Charter
+. The argument on section 15 consisted of a quotation of five lines from
+Law v. Minister of Employment and Immigration
+, [1999] 1 S.C.R. 497; 236 N.R. 1; 170 D.L.R.(4th) 1. In dealing with the
+Canadian Bill of Rights
+, Mr. MacIver submitted that it speaks for itself and that he relied on paragraph 1(a) except the "enjoyment of property" portion which he specifically excluded. Regarding the
+Universal Declaration of Human Rights, 1948
+and the
+English Bill of Rights, 1689
+the respondent offered no argument. He stated that Canada had proclaimed the
+Declaration of Human Rights
+and whether or not it had been officially enacted, Canada was pursuing it. The remainder of Mr. MacIver's submissions consisted of a recitation of various sections of the documents referred to, without more.
+[10]
+It is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment. The general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real question in controversy between the parties provided that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice:
+Minister of National Revenue v. Canderel Ltd.
+, [1994] 1 F.C. 3; 157 N.R. 380 (F.C.A.). The Court should deny amendments only in plain and obvious cases where the matter is beyond doubt. Amendments should not be denied when one is dealing with an area of the law that cannot be said to be settled with certainty.
+Hoechst Aktiengesellschaft
+, supra. Another significant factor is whether the amendments sought will facilitate the Court's consideration of the true substance of the dispute on its merits.
+Continental Bank Leasing Corp. v. Canada
+(1993), 93 D.T.C. 298 (T.C.C.).
+[11]
+Here, it is significant that the most recent adjournment was granted "to allow a motion to be brought to amend the variation motion to include a breach of charter rights argument":
+Order of Federal Court of Canada, Trial Division
+dated April 29, 2002. The respondent's proposed amendments go considerably further than that authorized by the order of the Court. Moreover, as stated earlier, Mr. MacIver did not submit argument on any of the proposed amendments other than those related to the
+Charter
+. This approach is particularly disturbing in view of the Minister's service and filing of written submissions with respect to the proposed amendments. The respondent was fully informed of the Minister's position and had ample opportunity to prepare a responsive position. Despite his awareness of the Minister's position that it was plain, obvious and without doubt that none of the amendments should be allowed, the respondent addressed only the proposed
+Charter
+amendment. The recitation of various sections, without more, is not argument. It is not for the Court to argue a party's case. Accordingly, I will consider only the proposed
+Charter
+amendment.
+[12]
+As I understand the respondent's argument with respect to section 7, it is: when the Minister applied the set-off provision of the jeopardy order, the respondent's right to life, liberty and security of the person was breached. The respondent relies on
+Irwin Toy Ltd. v. Québec (Procureur général)
+, [1989] 1 S.C.R. 927; 94 N.R. 167; 24 Q.A.C. 2; 58 D.L.R.(4th) 577; 25 C.P.R.(3d) 417, in support of his argument that the
+Charter
+does protect some economic rights. I am mindful of
+Olympia Interiors
+, supra, relied upon by the Minister. However, the statement of the Court, regarding economic rights, in that case is one of general application. A review of the case law reveals the Courts' reluctance to include economic rights under section 7: J.B. Laskin et al.
+Canadian Charter of Rights Annotated
+, Looseleaf (Aurora: Canada Law Book Inc., 2002) but the question of whether section 7 protects a basic minimum of social assistance is still unresolved: R.J. Sharpe and K. Swinton,
+Essentials of Canadian Law: The Charter of Rights and Freedoms
+(Toronto: Irwin Law, 1998). In support for the latter statement, the authors refer to
+Irwin Toy
+, supra. Leave to appeal to the Supreme Court has been granted ((2000), 257 N.R. 395 (S.C.C.)) in
+Gosselin v. Québec (Procureur général)
+, [1999] R.J.Q. 1033 (C.A.), wherein the Court determined that certain restrictions on social assistance were outside the realm of section 7. It appears that the Supreme Court will be considering basic economic rights in the context of section 7 of the
+Charter
+. It is not clear that the law respecting section 7 is settled. It seems to me that the respondent should have the opportunity to explore this issue. It is not plain and obvious that the amendment could not succeed.
+[13]
+I agree with the Minister's submissions regarding section 15 of the
+Charter
+that the statutory provisions in issue in the main motion do not distinguish between the respondent and others based on personal characteristics.
+[14]
+For the reasons given, I would grant leave to amend the main motion to include the respondent's reliance on section 7 of the
+Canadian Charter of Rights and Freedoms
+. Leave with respect to all other proposed amendments is denied.
+[15]
+I would add that, in spite of Mr MacIver's failure to make submissions with respect to the proposed amendments, other than the
+Charter
+, I have reviewed each of them. The respondent has not suggested that the provisions of the
+Income Tax Act
+in the main motion were not validly enacted. Hence, for purposes of the
+Canadian Bill of Rights
+, any argument that the respondent has not been afforded due process would fail. The
+Universal Declaration of Human Rights, 1948
+forms no part of domestic law and cannot be relied on to create substantive rights. It is plain and obvious that such a claim would not succeed. Having reviewed the provisions of the
+English Bill of Rights, 1689
+, I cannot find what "principles espoused therein" could possibly assist the respondent. Therefore, I find that it is plain and obvious that reliance on the
+English Bill of Rights
+would not succeed. Permitting amendment for the purpose of relying on section 7 of the
+Charter
+, in my view, would serve the interests of justice in this matter.
+[16]
+Regarding the Minister's argument that a declaration is not available on an interlocutory proceeding, that is a matter to be determined by the motions judge who hears the main motion. Regarding the remaining requests made by the Minister, I do not feel I have jurisdiction to insist that the respondent provide a section 57 notice to the Attorney General at a time earlier than that mandated by the
+Federal Court Act
+, R.S.C. 1985, c. F-7, as amended. The respondent is, or should be, aware of the provisions of section 57. With respect to the request that the main motion be heard at a special sitting, it is open to either party to utilize the provisions of Rule 35(2) of the
+Federal Court Rules, 1998
+regarding a special sitting. It is readily apparent that the main motion will require more time than is available during general sittings. Lastly, regarding the request for a schedule for the conduct of this matter to ensure that the motion proceeds in an expeditious manner, the following schedule is ordered:
+The respondent will serve and file any additional affidavits within 20 days of the date of the order to accompany these reasons;
+The Minister will serve and file additional affidavits, if any, within 20 days of the service of the respondent's affidavits;
+Cross-examinations will be completed within 20 days of the service of the Minister's affidavits;
+The respondent's amended record will be served and filed within 20 days of completion of cross-examinations;
+The Minister's amended record will be served and filed within 20 days of service of the respondent's record.
+[17]
+Both parties achieved partial success on the motion. There will be no order for costs.
+Motion allowed.
+Editor: Rodney A. Jordan/pdk
+[End of document]

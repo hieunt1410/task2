@@ -1,0 +1,6 @@
+[20]
+The evidence of Mr. Orr is supported by the affidavit of Dr. Howard Cottam [see footnote 5], also submitted by the applicants. At paragraphs 6 and 7 he states:
+"6. After having reviewed the details of the process described in the '264 Patent, it is my opinion that this process as described is suitable and practical for only small scale preparation of the nucleoside; that is, in amounts that are typically considered as research laboratory scale as opposed to industrial scale amounts. The '264 Patent, in my opinion, teaches only the process of preparation of nucleoside using the purified enzyme, and base and sugar mentioned in the patent,
+only
+on a milligram scale and does not teach a method for its large scale preparation. A milligram scale is not suitable for the preparation of even a single dose of medicine.
+"7. It is my further opinion that if one were to attempt to use this process on a large scale, that is, in amounts useful for pharmaceutical application (i.e., kilogram amounts), the total cost would certainly be prohibitive due to the cost and limited availability of the enzyme and sugar materials. Indeed, this process, in my opinion, cannot be used for even the preparation of gram quantities of nucleoside; that is, in amounts necessary to provide for a single pharmaceutical dose of the substance which is about six grams."

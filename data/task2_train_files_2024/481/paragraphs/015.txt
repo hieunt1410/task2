@@ -1,0 +1,26 @@
+[15]
+In
+Eli Lilly & Co. et al. v. Novopharm Ltd. et al.
+, [1998] 2 S.C.R. 129; 227 N.R. 201 at p. 144 [S.C.R.], Iacobucci, J., writing for the court, approved the following summary of the legislative scheme in the
+Patented Medicines (Notice of Compliance) Regulations
+:
+"The new NOC regime is lucidly summarized in the following excerpt from the judgment of Teitelbaum, J., in
+Glaxo Wellcome Inc. v. Canada (Minister of National Health and Welfare)
+(1997), 75 C.P.R.(3d) 129 (F.C.T.D.), at pp. 131-32:
+'A NOC, which formally authorizes a drug to be sold, is issued by the Minister after a drug manufacturer has complied on two fronts. The first element of compliance concerns the overall safety and efficacy of the drug: (see regulation C.08.004 of the
+Food and Drug Regulations
+, C.R.C. 1978, c. 870). The second element of compliance figures on the drug manufacturer's non-infringement of certain patents embodied in the drug. This second, rather more unexpected, patent-related requirement came into existence after changes to the compulsory licensing regime. Formerly, under a compulsory license, a generic drug manufacturer could obtain a licensed supply of a patented drug from the patent owner. The NOC process did not then concern itself with questions of patent infringement. However, with the abolition of compulsory licenses under the
+Patent Act Amendment Act, 1992
+, ... (the "
+Patent Act
+") the regime for obtaining NOCs also changed. Generic drug manufacturers now seeking NOCs must file what is called a Notice of Allegation under section 5 of the
+Regulations
+.
+. . . . .
+'In effect, under section 5(3) of the
+Regulations
+, in a "Notice of Allegation", the generic drug manufacturer, "the second person", signals its compliance with the patents embodied in a medicine. Under section 4 of the
+Regulations
+, the patent owner or licensee, usually a brand name drug manufacturer like the applicants, submits a list of the patents that contain claims for the medicine itself or the use of the medicine. Under section 3 of the
+Regulations
+, the Minister compiles the patent lists into a public document called the "Patent Register".'"

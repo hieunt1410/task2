@@ -1,0 +1,7 @@
+[213]
+The principle of common law waiver is described by Justice MacGuigan in
+Energy and Chemical Workers' Union and Atomic Energy of Canada Ltd., Re
+, [1986] 1 F.C. 103; 64 N.R. 126; 24 D.L.R.(4th) 675 (F.C.A.), leave to appeal to S.C.C. refused, [1986] 2 S.C.R. v; 72 N.R. 77. Justice MacGuigan stated that at common law, even an implied waiver of objection to an adjudicator at the initial stages is sufficient to invalidate a later objection. Justice MacGuigan noted:
+"
+The only reasonable course of conduct for a party reasonably apprehensive of bias would be to allege a violation of natural justice at the earliest practicable opportunity.
+Here, AECL called witnesses, cross-examined the witnesses called by the Commission, made many submissions to the Tribunal, and took proceedings before both the Trial Division and this Court, all without challenge to the independence of the Commission. In short, it ... impliedly ... waived its right to object." (Emphasis added)

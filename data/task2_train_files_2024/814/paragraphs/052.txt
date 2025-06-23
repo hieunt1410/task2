@@ -1,0 +1,28 @@
+[52]
+In 2001, as another part of Canada’s response to 9 / 11, Parliament created new crimes in connection with which it legislated a definition of “terrorist activity” as paragraph 83.01(1)(b) of the Criminal Code, RSC, 1985, c C-46:
+terrorist activity means
+activité terroriste
+[…]
+[…]
+b)an act or omission, in or outside Canada,
+b)soit un acte — action ou omission, commise au Canada ou à l’étranger:
+(i) that is committed
+(i) d’une part, commis à la fois:
+(A) in whole or in part for a political, religious or ideological purpose, objective or cause, and
+(A) au nom — exclusivement ou non — d’un but, d’un objectif ou d’une cause de nature politique, religieuse ou idéologique,
+(B) in whole or in part with the intention of intimidating the public, or a segment of the public, with regard to its security, including its economic security, or compelling a person, a government or a domestic or an international organization to do or to refrain from doing any act, whether the public or the person, government or organization is inside or outside Canada, and
+B) en vue — exclusivement ou non — d’intimider tout ou partie de la population quant à sa sécurité, entre autres sur le plan économique, ou de contraindre une personne, un gouvernement ou une organisation nationale ou internationale à accomplir un acte ou à s’en abstenir, que la personne, la population, le gouvernement ou l’organisation soit ou non au Canada,
+(ii) that intentionally
+(ii) d’autre part, qui intentionnellement, selon le cas :
+(A) causes death or serious bodily harm to a person by the use of violence,
+A) cause des blessures graves à une personne ou la mort de celle-ci, par l’usage de la violence,
+(B) endangers a person’s life,
+B) met en danger la vie d’une personne,
+(C) causes a serious risk to the health or safety of the public or any segment of the public,
+C) compromet gravement la santé ou la sécurité de tout ou partie de la population,
+(D) causes substantial property damage, whether to public or private property, if causing such damage is likely to result in the conduct or harm referred to in any of clauses (A) to (C), or
+D) cause des dommages matériels considérables, que les biens visés soient publics ou privés, dans des circonstances telles qu’il est probable que l’une des situations mentionnées aux divisions (A) à (C) en résultera,
+(E) causes serious interference with or serious disruption of an essential service, facility or system, whether public or private, other than as a result of advocacy, protest, dissent or stoppage of work that is not intended to result in the conduct or harm referred to in any of clauses (A) to (C),
+E) perturbe gravement ou paralyse des services, installations ou systèmes essentiels, publics ou privés, sauf dans le cadre de revendications, de protestations ou de manifestations d’un désaccord ou d’un arrêt de travail qui n’ont pas pour but de provoquer l’une des situations mentionnées aux divisions (A) à (C).
+and includes a conspiracy, attempt or threat to commit any such act or omission, or being an accessory after the fact or counselling in relation to any such act or omission, but, for greater certainty, does not include an act or omission that is committed during an armed conflict and that, at the time and in the place of its commission, is in accordance with customary international law or conventional international law applicable to the conflict, or the activities undertaken by military forces of a state in the exercise of their official duties, to the extent that those activities are governed by other rules of international law. (activité terroriste)
+Sont visés par la présente définition, relativement à un tel acte, le complot, la tentative, la menace, la complicité après le fait et l’encouragement à la perpétration; il est entendu que sont exclus de la présente définition l’acte — action ou omission — commis au cours d’un conflit armé et conforme, au moment et au lieu de la perpétration, au droit international coutumier ou au droit international conventionnel applicable au conflit ainsi que les activités menées par les forces armées d’un État dans l’exercice de leurs fonctions officielles, dans la mesure où ces activités sont régies par d’autres règles de droit international. (terrorist activity)

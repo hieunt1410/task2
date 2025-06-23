@@ -1,0 +1,14 @@
+[15]
+There are limits, however, on the types of claims the Commission may make, according to s. 41, which reads, in part:
+"41(1) [...] the Commission shall deal with any complaint filed with it unless in respect of that complaint it appears to the Commission that:
+(a) the alleged victim of the discriminatory practice to which the complaint relates ought to exhaust grievance or review procedures otherwise reasonably available;
+(b) the complaint is one that could more appropriately be dealt with, initially or completely, according to a procedure provided for under an Act of Parliament other than this Act;
+(c) the complaint is beyond the jurisdiction of the Commission;
+(d) the complaint is trivial, frivolous, vexatious or made in bad faith; or
+(e) the complaint is based on acts or omissions the last of which occurred more than one year, or such longer period of time as the Commission considers appropriate in the circumstances, before receipt of the complaint."
+"41(1) [...] la Commission statue sur toute plainte dont elle est saisie à moins qu'elle estime celle-ci irrecevable pour un des motifs suivants:
+a) la victime présumée de l'acte discriminatoire devrait épuiser d'abord les recours internes ou les procédures d'appel ou de règlement des griefs qui lui sont normalement ouverts;
+b) la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par une autre loi fédérale;
+c) la plainte n'est pas de sa compétence;
+d) la plainte est frivole, vexatoire ou entachée de mauvaise foi;
+e) la plainte a été déposée après l'expiration d'un délai d'un an après le dernier des faits sur lesquels elle est fondée, ou de tout délai supérieur que la Commission estime indiqué dans les circonstances."

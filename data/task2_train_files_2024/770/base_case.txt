@@ -1,0 +1,292 @@
+[1]
+Tremblay-Lamer, J.
+: This is an application for judicial review of a decision of the Appeal Division of the Immigration and Refugee Board ("IAD"). The IAD dismissed the applicant's appeal of an exclusion order made against him by an adjudicator on April 20, 2001.
+FACTS
+[2]
+The applicant, Ke Yu Wang, is a citizen of China. He submitted an application for immigration to Canada as an independent immigrant on April 30, 1997. At the time, he was not married. However, on May 1, 1997, the applicant married. He was subsequently interviewed by an immigration officer on April 17, 1998. It would appear that, during this interview, the applicant did not disclose his change of marital status. Following the interview, the visa officer determined that the applicant met the selection criteria. The applicant was issued a Canadian immigrant visa on June 23, 1998, pursuant to section 9 of the
+Immigration Act
+, R.S.C. 1985, c. I-2 as am. (the "
+Act
+").
+[3]
+The applicant's son was born on November 3, 1998. On May 3, 1999, the applicant arrived in Canada, at which time he was interviewed by an immigration officer at the port of entry, as required by subsection 12(1) of the
+Act
+. During this interview, he revealed that he was married and had a son. As a result, the immigration officer issued a report pursuant to paragraph 20(1)(a) of the
+Act
+, stating that, in his opinion, it would be contrary to the
+Act
+and the
+Immigration Regulations, 1978
+, SOR/78-172 as am. (the "
+Regulations
+") to grant the applicant admission to Canada.
+[4]
+At his immigration inquiry, held on April 20, 2000, the adjudicator found that the applicant did not comply with section 12 of the
+Regulations
+, in that the visa officer was not informed of the existence of the applicant's dependants so that their eligibility for landing might be assessed.
+[5]
+The adjudicator concluded that the applicant was a member of an inadmissible class as described in paragraph 19(2)(d) of the
+Act
+.
+[6]
+The applicant appealed this decision to the IAD, pursuant to subsection 70(2) of the
+Act
+, on the basis that the exclusion order was invalid in law. In the alternative, the applicant based his appeal on the ground that, having regard to the existence of compassionate or humanitarian considerations, he should not be removed from Canada.
+APPEAL DIVISION'S DECISION
+[7]
+In evaluating the validity of the exclusion order, the IAD first discussed section 9 of the
+Act
+. Subsection 9(1.1) permits a person to apply for a visa for his accompanying dependants.
+[8]
+Subsection 9(2) specifies that the visa officer shall assess the application for the purpose of determining whether the applicant and all of his dependants appear to be persons who may be granted landing.
+[9]
+The IAD noted that, given the distinction between subsection 9(1.1), which refers to "accompanying dependants," and subsection 9(2), which refers to "every dependant", it appears clear that subsection 9(2) refers to all of the applicant's dependants, whether accompanying the applicant or not. This distinction is maintained within subsection 9(4) of the
+Act
+.
+[10]
+Thus, the IAD concluded that section 12 of the
+Regulations
+was consistent with the statutory intention of the
+Act
+, and therefore not ultra vires.
+[11]
+The IAD also held that the applicant had not met the burden found in section 8 of the
+Act
+of proving that he had a right to come into Canada or that his admission would not be contrary to the
+Act
+, because the applicant's dependants had not been assessed for their admissibility as required by subsection 9(2) of the
+Act
+. Consequently, the applicant was a member of an inadmissible class because he did not fulfil or comply with the requirements of the
+Act
+pursuant to section 12 of the
+Regulations
+.
+[12]
+Concerning the granting of discretionary relief, the IAD was not satisfied that the circumstances presented by the applicant were sufficient to override the legitimate community interest in ensuring that the admission requirements of the
+Act
+and
+Regulations
+are respected. It held that the circumstances in this case did not meet the test established in
+Chirwa v. Canada (Minister of Manpower and Immigration)
+(1970), 4 I.A.C. 338 (I.A.B.), at 350, in that there were insufficient compassionate or humanitarian factors in this case "to excite in a reasonable man a desire to relieve the misfortunes of another ..."
+ISSUES
+1. Did the IAD err in its interpretation of the statutory requirements?
+2. Did the IAD err in making its determination concerning humanitarian and compassionate relief?
+RELEVANT PROVISIONS
+[13]
+Section 9 of the
+Act
+:
+"9(1) Except in such cases as are prescribed, and subject to subsection (1.1), every immigrant and visitor shall make an application for and obtain a visa before that person appears at a port of entry.
+"(1.1) A person who makes an application for a visa may apply on behalf of that person and every accompanying dependant.
+"(1.2) A person who makes an application for a visitor's visa shall satisfy a visa officer that the person is not an immigrant.
+"(2) An application for an immigrant's visa shall be assessed by a visa officer for the purpose of determining whether the person making the application and every dependant of that person appear to be persons who may be granted landing.
+"(2.1) An application for a visitor's visa shall be assessed by a visa officer for the purpose of determining whether the person making the application and every accompanying dependant of that person appear to be persons who may be granted entry.
+"(3) Every person shall answer truthfully all questions put to that person by a visa officer and shall produce such documentation as may be required by the visa officer for the purpose of establishing that his admission would not be contrary to this Act or the regulations.
+"(4) Subject to subsection (5), where a visa officer is satisfied that it would not be contrary to this Act or the regulations to grant landing or entry, as the case may be, to a person who has made an application pursuant to subsection (1) and to the person's dependants, the visa officer may issue a visa to that person and to each of that person's accompanying dependants for the purpose of identifying the holder thereof as an immigrant or a visitor, as the case may be, who, in the opinion of the visa officer, meets the requirements of this Act and the regulations.
+"(5) A visa officer may refuse to issue a visa on the grounds that the person who made an application pursuant to subsection (1), or any of the person's dependants, is a member of an inadmissible class described in paragraph 19(1)(k) only with the written approval of the Minister and the Solicitor General of Canada."
+"9(1) Sous réserve du paragraphe (1.1), sauf cas prévus par règlement, les immigrants et visiteurs doivent demander et obtenir un visa avant de se présenter à un point d'entrée.
+"(1.1) La personne qui demande un visa pour elle-même peut également en demander un pour chacune des personnes à charge qui l'accompagnent.
+"(1.2) La personne qui demande un visa de visiteur doit convaincre l'agent des visas qu'elle n'est pas un immigrant.
+"(2) Le cas du demandeur de visa d'immigrant est apprécié par l'agent des visas qui détermine si le demandeur et chacune des personnes à sa charge semblent répondre aux critères de l'établissement.
+"(2.1) Le cas du demandeur de visa de visiteur est apprécié par l'agent des visas qui détermine si le demandeur et chacune des personnes à sa charge qui l'accompagne semblent répondre aux critères de l'autorisation de séjour.
+"(3) Toute personne doit répondre franchement aux questions de l'agent des visas et produire toutes les pièces qu'exige celui-ci pour établir que son admission ne contreviendrait pas à la présente loi ni à ses règlements.
+"(4) Sous réserve du paragraphe (5), l'agent des visas qui est convaincu que l'établissement ou le séjour au Canada du demandeur et des personnes à sa charge ne contreviendrait pas à la présente loi ni à ses règlements peut délivrer à ce dernier et aux personnes à charge qui l'accompagnent un visa précisant leur qualité d'immigrant ou de visiteur et attestant qu'à son avis, ils satisfont aux exigences de la présente loi et de ses règlements.
+"(5) L'agent des visas ne peut refuser de délivrer un visa à la personne qui a présenté la demande prévue au paragraphe (1) et aux personnes à sa charge parce que la personne, ou l'une des personnes à sa charge, appartient à la catégorie non admissible visée à l'alinéa 19(1)k) qu'avec l'approbation écrite du ministre et du solliciteur général."
+[14]
+Subsection 12(1) of the
+Act
+:
+"Subject to the regulations, every person seeking to come into Canada shall appear before an immigration officer at a port of entry, or at such other place as may be designated by a senior immigration officer, for examination to determine whether that person is a person who shall be allowed to come into Canada or may be granted admission."
+"Sous réserve des règlements, quiconque cherche à entrer au Canada est tenu de se présenter devant un agent d'immigration à un point d'entrée ou à tout autre lieu désigné par l'agent principal en vue de l'interrogatoire visant à déterminer s'il est autorisé à entrer au Canada ou s'il peut y être admis."
+[15]
+Paragraph 19(2)(d) of the
+Act
+:
+"No immigrant and, except as provided in subsection (3), no visitor shall be granted admission if the immigrant or visitor is a member of any of the following classes:
+. . . . .
+(d) persons who cannot or do not fulfil or comply with any of the conditions or requirements of this Act or the regulations or any orders or directions lawfully made or given under this Act or the regulations."
+"Appartiennent à une catégorie non admissible les immigrants et, sous réserve du paragraphe (3), les visiteurs qui:
+. . . . .
+d) soit ne se conforment pas aux conditions prévues à la présente loi et à ses règlements ou aux mesures ou instructions qui en procèdent, soit ne peuvent le faire."
+[16]
+Section 12 of the
+Regulations
+:
+"An immigrant who has been issued a visa and who appears before an immigration officer at a port of entry for examination pursuant to subsection 12(1) of the Act is required
+(a) if his marital status has changed since the visa was issued to him, or
+(b) if any other facts relevant to the issuance of the visa have changed since the visa was issued to him or were not disclosed at the time of issue thereof,
+to establish that at the time of the examination
+(c) the immigrant and the immigrant's dependants, whether accompanying dependants or not, where a visa was issued to the immigrant pursuant to subsection 6(1), section 9 or subsection 10(1) or (1.1) or 11(3) or (4), or
+(d) the immigrant and the immigrant's accompanying dependants, in any other case,
+meet the requirements of the Act, these Regulations and the Humanitarian Designated Classes Regulations, including the requirements for the issuance of the visa."
+"Un immigrant à qui un visa a été délivré et qui se présente pour examen devant un agent d'immigration à un point d'entrée, conformément au paragraphe 12(1) de la Loi, doit
+a) si son état matrimonial a changé depuis la délivrance du visa, ou
+b) si des faits influant sur la délivrance du visa ont changé depuis que le visa a été délivré ou n'ont pas été révélés au moment où le visa a été délivré,
+établir
+c) que lui-même et les personnes à sa charge, qu'elles l'accompagnent ou non, dans le cas où un visa a été délivré à l'immigrant conformément au paragraphe 6(1), à l'article 9 ou aux paragraphes 10(1) ou (1.1) ou 11(3) ou (4),
+d) que lui-même et les personnes à sa charge qui l'accompagnent, dans tout autre cas,
+satisfont, au moment de l'examen, aux exigences de la Loi et du présent règlement ainsi qu'à celles du Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire, y compris les exigences relatives à la délivrance du visa."
+ANALYSIS
+1. Validity of section 12 of the Regulations
+[17]
+The applicant submits that it is only those seeking admission and their accompanying dependants seeking entry that are governed by the terms of the
+Act
+. There is nothing in the
+Act
+that renders him inadmissible due to the inadmissibility of a non-accompanying family member. According to the applicant, to interpret section 12 of the
+Regulations
+as did the IAD would render it ultra vires the
+Act
+. I disagree.
+[18]
+The Board was correct in law in determining that section 12 of the
+Regulations
+was consistent with the statutory scheme.
+[19]
+As noted by the Board in subsections 9(1.1) and 9(4) of the
+Act
+, Parliament refers to "every accompanying dependant," while in subsection 9(2), Parliament only refers to "every dependant." In reading a statute, words should not be added or deleted and the reader should not try to fill in any gaps he thinks he sees (E.A. Driedger,
+Construction of Statutes
+(2nd Ed.) (Toronto: Butterworths, 1983) at 94; see also P.A. Côté,
+Interprétation des lois
+(3rd Ed.) (Montréal: Éditions Thémis, 1999) at 349-350). If Parliament had wanted to exclude non-accompanying dependants from the ambit of subsection 9(2), surely it would have done so explicitly, as it has for subsections 9(1.1) and 9(4).
+[20]
+I find support for this view in
+Singh (Ahmar) v. Canada (Minister of Citizenship and Immigration)
+(1996), 123 F.T.R. 241 (T.D.). In that case, the applicant sought a declaration that the
+Act
+did not empower the Governor-in-Council to pass regulations barring the admission of any immigrant because a non-accompanying dependant was a member of an inadmissible class. Muldoon, J., held that an applicant for permanent residence was legitimately required to disclose the existence and identity of all dependants, whether accompanying or non-accompanying, and denied the relief sought. He stated at FRAGMENT_SUPPRESSED
+[21]
+The Federal Court of Appeal affirmed Muldoon, J.'s, decision that the impugned regulations were within the powers of the Governor-in-Council. In my opinion, the applicant's argument that section 12 of the
+Regulations
+is ultra vires must therefore fail.
+[22]
+Section 12 of the
+Regulations
+clearly requires that "the immigrant and the immigrant's dependants,
+whether accompanying dependants or not
+... [must] meet the requirements of the
+Act
+, these
+Regulations
+and the
+Humanitarian Designated Classes Regulations
+, including the requirements for the issuance of the visa." (Emphasis added). As a result, if a person fails to meet these requirements, he or she may be denied entry to Canada, or, as in the case at bar, denied the right to remain in Canada.
+[23]
+Thus, the applicant's argument, that only those seeking admission or their accompanying dependants seeking entry are governed by the terms of the
+Act
+, is not sustainable.
+[24]
+Further, contrary to the applicant's submission, disclosure at the port of entry is not sufficient to comply with the
+Act
+. (See
+Valdez v. Canada (Minister of Citizenship and Immigration)
+, [1999] F.C.J. No. 365; [1999] F.T.R. Uned. 171 (T.D.)). Section 12 of the
+Regulations
+clearly requires that where a change occurs in facts that may have influenced the issuing of a visa, its holder must show, at the port of entry, that the change has not affected his or her ability to meet the requirements for granting the visa. This was explained in
+Ministre de l'Emploi et de l'Immigration v. De DeCaro
+, [1993] 2 F.C. 408; 155 N.R. 129 (F.C.A.), Marceau, J.A., stated at 421-422 [F.C.]:
+"As we know, issuing an immigrant visa is not the granting of landing. Such issuance simply means that the visa officer has formed the opinion that the applicant meets the requirements of the
+Act
+and
+Regulations
+for admission to Canada. The granting of a visa is undoubtedly not simply an academic exercise with no practical value or effect. The visa is evidence of a conclusion by an immigration officer, whose function is to determine from outside Canada whether applicants are admissible, and that conclusion will usually be accepted as such by his colleague at the port of entry. However, the rule is still that a foreign national arriving in Canada with a view to residing here must satisfy the immigration officer of his admissibility at the port of entry (subsection 12(1) of the
+Act
+). This is the context in which section 12 of the
+Regulations
+applies. First, it imposes on an immigrant a duty to disclose any change in the facts which may have influenced the issuing of the visa which he holds, and if there has been such a change, it requires the immigrant to meet new requirements. The visa is not void, but as we know the visa in itself does not confer a right of entry; it is the new requirements of section 12 of the
+Regulations
+that must be met."
+[25]
+Marceau, J.'s, analysis was later adopted by the Federal Court of Appeal in
+McLeod v. Canada (Minister of Citizenship and Immigration)
+, [1999] 1 F.C. 257; 234 N.R. 89 (F.C.A.).
+[26]
+In the case at bar, the applicant did not disclose the changes in fact which may have influenced the issuing of the visa which he held, nor did he meet the requirements of the
+Act
+and
+Regulations
+.
+[27]
+The applicant has not established that he is admissible. He failed to comply with section 12 of the
+Regulations
+. Thus, he was found to be a member of an inadmissible class as set out in paragraph 19(2)(d) of the
+Act
+. Consequently, an exclusion order was properly made against him pursuant to paragraph 32(5)(b) of the
+Act
+.
+2. The Appeal Division's determination concerning humanitarian and compassionate relief
+[28]
+The applicant submits that the IAD erred first in noting that it did not have jurisdiction to consider foreign hardship and then in its analysis of foreign hardship by engaging "in a polycentric balancing of competing interests", contrary to the decision of the Supreme Court of Canada in
+Chieu v. Canada (Minister of Citizenship and Immigration)
+, [2002] S.C.J. No. 1; 280 N.R. 268 (S.C.C.).
+[29]
+First, I would point out that the Board did not err in applying the law as it stood at the time it heard the matter. A similar issue was considered in
+A.B.Z. v. Canada (Minister of Citizenship and Immigration)
+, [2001] F.T.R. Uned. 321; [2001] F.C.J. No. 804 (T.D.), where the applicant argued that the IAD erred in not considering factors set out in
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817; 243 N.R. 22, which was decided after the decision of the IAD. McKeown, J., held that the IAD's power on motions to re-open does not extend to applying the law retroactively.
+[30]
+Second, as I noted at the hearing of the judicial review, although the IAD held that it did not have jurisdiction to consider foreign hardship, it nevertheless engaged in a careful and thorough analysis of the possible hardships that the applicant could face in his country of origin. However, it found that the applicant's circumstances were not "sufficient to override the legitimate community interest in ensuring that the admission requirements of the
+Act
+and
+Regulations
+are respected". Thus, I am satisfied that the decision of the IAD on the existence of humanitarian or compassionate factors in the present case was reasonable.
+ORDER
+THIS COURT HEREBY ORDERS:
+[31]
+For these reasons, this application for judicial review is dismissed.
+[32]
+Counsel for the applicant has submitted the following questions for certification:
+1. Is section 12 of the
+Immigration Regulations
+, in purporting to require the non-accompanying members of an independent class immigrant visa holder to meet the requirements of the
+Act
+, notwithstanding they have not applied to accompany, ultra vires the scheme of the
+Act
+itself in sections 8, 9, 11, 14 and 19(2)(c)?
+2. If section 12 of the
+Immigration Regulations
+is not ultra vires the
+Act
+, can the independent immigrant visa holder, under s. 12, "establish that at the time of examination ...", being the port of entry, before the Adjudicator, or the IAD, that his non-accompanying dependents meet the requirements of the
+Act
+and
+Regulations
+without being first deported?
+3. Did the IAD, contrary to the statement in paragraph 26 of the decision of the Supreme Court of Canada in
+Chieu v. Canada
+, [2002] S.C.J. No. 1, after erroneously having held that it did not have jurisdiction to consider foreign hardship, apply the wrong test by engaging "in a polycentric balancing of
+competing interests
+" (
+Chieu
+, para. 26) when it held "although his removal from Canada will cause him hardship, I am not satisfied that the circumstances presented by the Appellant are sufficient to override the legitimate
+community interest
+in ensuring that the admission requirements of the
+Act
+and
+Regulations
+are respected."
+[33]
+I generally agree with the written submissions made by counsel for the respondent (letter dated January 22, 2002, filed on the same day) opposing the certification of the "Proposed Questions for Certification" filed by the applicant. Indeed, I am of the view that the proposed questions do not meet the requirements of subsection 83(1) of the
+Act
+as explained by Décary, J.A., of the Federal Court of Appeal in
+Liyanagamage v. Canada (Minister of Citizenship and Immigration)
+(1994), 176 N.R. 4 (F.C.A.), at 5:
+"In order to be certified pursuant to subsection 83(1), a question must be one which, in the opinion of the motions judge,
+transcends the interests of the immediate parties to the litigation and contemplates issues of broad significance or general application
+(see the useful analysis of the concept of 'importance' by Catzman, J., in
+Rankin v. McLeod, Young, Weir Ltd. et al.
+(1986), 57 O.R.(2) 569 (H.C.))
+but it must also be one that is determinative of the appeal
+. The certification process contemplated by section 83 of the
+Immigration Act
+is neither to be equated with the reference process established by section 18.3 of the
+Federal Court Act
+, nor is it to be used as a tool to obtain from the Court of Appeal declaratory judgments on fine questions which need not be decided in order to dispose of a particular case." (Emphasis added by the defendant).
+[34]
+Consequently, the proposed questions will not be certified.
+Application dismissed.
+Editor: Angela E. McKay/pdk
+[End of document]

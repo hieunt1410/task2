@@ -1,0 +1,505 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can. (A.G.) v. Almalki (2010), 372 F.T.R. 309 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2010] F.T.R. TBEd. JL.016 
+ 
+ 
+ 
+ The Attorney General of Canada (applicant/responding party) v. Abdullah Almalki, Khuzaimah Kalifah, Abdulrahman Almalki, by his Litigation Guardian Khuzaimah Kalifah, Sajeda Almalki, by her Litigation Guardian Khuzaimah Kalifah, Muaz Almalki, by his Litigation Guardian Khuzaimah Kalifah, Zakariyy A Almalki, by his Litigation Guardian Khuzaimah Kalifah, Nadim Almalki, Fatima Almalki, Ahmad Abou-Elmaati, Badr Abou-Elmaati, Samira Al Shallash, Rasha Abou-Elmaati, Muayyed Nureddin, Abdul Jabbar Nureddin, Fadila Siddiqu, Mofak Nureddin, Aydin Nureddin, Yashar Nureddin, Ahmed Nureddin, Sarab Nureddin, Byda Nureddin (respondents/moving parties) 
+ 
+ (DES-1-10; 2010 FC 733) 
+ 
+ 
+ 
+ Indexed As: Canada (Attorney General) v. Almalki et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Mosley, J. 
+ 
+ July 7, 2010. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The respondents were Canadian citizens who made claims in the Superior Court of Justice of Ontario against the government of Canada and certain named officials, as represented by the Attorney General of Canada, for complicity in the torture of the three principle respondents. The respondents sought the discovery of documents relating to the claims. The Attorney General produced approximately 400 documents, portions of which were redacted. The Attorney General applied under s. 38.04 of the Canada Evidence Act to authorize non-disclosure of the information redacted in the documents on the ground that it was sensitive or injurious within the meaning of the Act. The respondents moved for an order that the documents filed by the Attorney General in support of its application be treated as confidential. 
+ 
+ 
+ 
+ The Federal Court adjourned the motion sine die. 
+ 
+ 
+ 
+ Courts - Topic 1408 
+ 
+ Administration - General - Sealing of documents - The respondents were Canadian citizens who made claims in the Superior Court of Justice of Ontario against the government of Canada and certain named officials, as represented by the Attorney General of Canada, for complicity in the torture of the three principle respondents - The respondents sought the discovery of documents relating to the claims - The Attorney General produced approximately 400 documents, portions of which were redacted - The Attorney General applied under s. 38.04 of the Canada Evidence Act to authorize non-disclosure of the information redacted in the documents on the ground that it was sensitive or injurious within the meaning of the Act - The respondents moved for an order that the documents filed by the Attorney General in support of its application be treated as confidential - The Federal Court adjourned the motion sine die - While the court was sympathetic to the respondents' submissions that they had suffered gravely from uncontrolled publication of information about themselves, due to their involvement in very public proceedings, the court was unable to find that the respondents had established a "real and substantial" risk of harm that was "well-grounded in the evidence" - The respondents had the onus of demonstrating that the test for the issuance of a confidentiality order had been met - The concerns cited by the respondents, absent subjective and objective criteria on which to assess them, did not appear to be sufficient to grant the requested order - The respondents had given the court no indication of what specific information was to be treated as confidential, requesting only "sealing the disk of redacted public documents, filed by the Attorney General as Exhibit 1 to the Affidavit of Pamela Dawson" and that they file a "further-redacted version of those documents within 60 days." - This request for a confidentiality order was not tailored to the information that had to be kept confidential - The court did not have sufficient evidence on which to grant the requested sealing order. 
+ 
+ 
+ 
+ Practice - Topic 3712 
+ 
+ Evidence - Sealed evidence - When available - [See  
+ Courts - Topic 1408 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ Counsel: 
+ 
+ Linda Wall and Catherine Lawrence, for the applicant; 
+ 
+ Aaron Dantowitz, M. Philip Tunley and Owen Rees, for the respondents, Abdullah Almalki, Khuzaimah Kalifah, Abdulrahman Almalki, by his litigation guardian Khuzaimah Kalifah; Sajeda Almalki, by her litigation guardian Khuzaimah Kalifah; Muaz Almalki, by his litigation guardian Khuzaimah Kalifah, Zakariyya Almalki, by his litigation guardian Khuzaimah Kalifah; Nadim Almalki and Fatima Almalki; 
+ 
+ Aaron Dantowitz, M. Philip Tunley, Owen Rees and Barbara Jackman, for the respondents, Ahmad Abou-Elmaati, Badr Abou-Elmaati, Samira Al-Shallash and Rasha Abou-Elmaati; 
+ 
+ Aaron Dantowitz, M. Philip Tunley, Owen Rees, Barbara Jackman and Hadayt Nazami, for the respondents, Muayyed Nureddin, Abdul Jabbar Nureddin, Fadila Siddiqu, Mofak Nureddin, Aydin Nureddin, Yashar Nureddin, Ahmed Nureddin, Sarab Nureddin, Byda Nureddin; 
+ 
+ François Dadour and Bernard Grenier, Amici Curiae. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Myles J. Kirvan, Deputy Attorney General of Canada, Ottawa, Ontario, for the applicant; 
+ 
+ Stockwoods, LLP, Toronto Ontario, and Jackman and Associates, LLP, Toronto, Ontario for the respondents; 
+ 
+ Poupart, Dadour et associés, Montreal, Quebec, and Schurman, Longo, Grenier, Montreal, Quebec, Amici Curiae. 
+ 
+ 
+ 
+ This motion was heard between April 6 and June 24, 2010, at Ottawa, Ontario, and Toronto, Ontario, by Mosley, J., of the Federal Court, who delivered the following judgment on July 7, 2010. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Mosley, J. 
+ : Pursuant to section 38.04 of the  
+ Canada Evidence Act 
+ , R.S. 1985, c. C-5 (the " 
+ CEA 
+ "), the Attorney General of Canada has applied to the Federal Court to authorize the non-disclosure of information that is the subject of discovery proceedings in actions filed in the Superior Court of Justice of Ontario. By motion in writing dated May 13, 2010, the respondents seek an order that documents filed by the Attorney General in support of the application in the Federal Court Registry shall be treated as confidential. 
+ 
+ 
+ 
+ [2] 
+  Upon the Court being informed of the respondents' intent to bring this motion, the Registry was instructed to withhold the documents from public access pending a decision. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [3] 
+  The respondents are Canadian citizens who have made claims in the Superior Court of Justice of Ontario against the Government of Canada and certain named officials, as represented by the applicant, for complicity in the torture of the three principle plaintiffs, Mr. Almalki, Mr. Elmaati, and Mr. Nureddin. These claims were held in abeyance until the conclusion of the  
+ Commission of Inquiry into the  
+ Act 
+ ions of Canadian Officials in Relation to Maher Arar 
+ , and the consequent report (the  
+ O'Connor Report 
+ ), and the  
+ Internal Commission of Inquiry into the  
+ Act 
+ ions of Canadian Officials in Relation to Abdullah Almalki, Abou-Elmaati, and Nuayyed Nureddin 
+ , and the consequent report (the  
+ Iacobucci Report 
+ ). 
+ 
+ 
+ 
+ [4] 
+  Following publication of the  
+ Iacobucci Report 
+ , the respondents sought the discovery of documents relating to the claims and, in particular, documents referenced by Commissioner Iacobucci in making his findings. On July 17, 2009 counsel for the Attorney General produced approximately 400 documents, portions of which were redacted, in the context of preparation for mediation in the civil actions. For reasons which are not material to this motion, the mediation did not proceed. 
+ 
+ 
+ 
+ [5] 
+  On February 9, 2010, the Attorney General of Canada filed an application pursuant to section 38.04 of the  
+ CEA 
+ , for an order with respect to the disclosure of information redacted in the documents on the ground that it is sensitive or injurious within the meaning of those terms in the  
+ CEA 
+ . 
+ 
+ 
+ 
+ [6] 
+  On or about March 19, 2010, the Attorney General filed documents with the Federal Court Registry as part of the record in the section 38 proceeding. Clear, unredacted versions of these documents were tendered as exhibits to private and ex parte affidavits pursuant to section 38.11 of the  
+ CEA 
+ . The unredacted versions are kept in the Court's secure facilities and are not accessible to the public. 
+ 
+ 
+ 
+ [7] 
+  Redacted versions of the documents were filed by the Attorney General as an exhibit in the form of a disk attached to the public affidavit of Pamela Dawson and are, presumptively, accessible to the public. It is these documents which the respondents wish to have sealed. The respondents propose that as conditions for the issuance of the order that they be ordered to file a further redacted version of the documents within 60 days, that the nature of the further redactions be limited and that notice of the order be given to the major Canadian media outlets. The practical effect of this request, if granted, would be to allow the respondents to redact information that the government is not seeking to protect from disclosure in the public versions of the documents. 
+ 
+ 
+ 
+ Issue 
+ 
+ 
+ 
+ [8] 
+  The issue in this motion is whether the respondents have demonstrated that the test for the issuance of a confidentiality order has been met? 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ [9] 
+  The grounds asserted by the respondents in support of the motion are: 
+ 
+ 
+ 
+ a. Rule 151 of the  
+ Federal Courts Rules 
+  authorizes the Court to issue a confidentiality order when it is satisfied that the material should be treated as confidential notwithstanding the public interest in open and accessible court proceedings; 
+ 
+ 
+ 
+ b. that the documents are the subject of the discovery process in civil proceedings which the respondents have brought in the Superior Court of Justice of Ontario and in the normal course of those proceedings would not be placed on the court record and would not be accessible to the public until introduced as evidence in those civil actions; 
+ 
+ 
+ 
+ c. that in the circumstances, not sealing the documents would endanger family and associates of the respondents living outside of Canada and that the Government of Canada would not be able to render assistance to the family and associates if they were so endangered; 
+ 
+ 
+ 
+ d. that the respondents, in particular, the minor respondents, have a right to privacy which would be violated by placing of the documents on the public record; and 
+ 
+ 
+ 
+ e. that the proposed conditions of the sealing order are sufficient to ensure that the open court principle is not significantly compromised. 
+ 
+ 
+ 
+ [10] 
+  The Attorney General's position is that the unredacted content of the versions attached to the public affidavits is not secret and the filed documents are presumptively public, as this court has previously held:  
+ Toronto Star Newspapers Ltd. et al. v. Canada 
+ , [2007] F.C.J. No. 165; 308 F.T.R. 196; 2007 FC 128 (" 
+ Toronto Star Newspapers Ltd. 
+ "). The Attorney General submits that the respondents' assertion of the need for confidentiality of this information does not meet the legal requirements for such an order. 
+ 
+ 
+ 
+ [11] 
+  I note that the Attorney General does not, on the face of the matter, have a direct interest in the outcome of this motion. In oral submissions, counsel for the respondents was critical of the Attorney General's opposition to this motion. That criticism was misplaced, in my view, as the Attorney General has a duty to assist the Court in the proper interpretation and application of the law. 
+ 
+ 
+ 
+ [12] 
+  The requirements for a confidentiality order were framed by the Supreme Court of Canada in  
+ Sierra Club of Canada v. Canada (Minister of Finance) et al. 
+ , [2002] S.C.J. No. 42; 287 N.R. 203; 2002 SCC 41, at para. 53, as follows: 
+ 
+ 
+ 
+ "A confidentiality order under Rule 151 should only be granted when: 
+ 
+ 
+ 
+ (a) such an order is necessary in order  
+ to prevent a serious risk 
+  to an important interest, including a commercial interest, in the context of litigation  
+ because reasonably alternative measures will not prevent the risk 
+ ; and 
+ 
+ 
+ 
+ (b) the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings." (My emphasis) 
+ 
+ 
+ 
+ [13] 
+  The purpose of a protective order is to allow the exchange of confidential documents between the parties while preventing access by others:  
+ Procter & Gamble Co. v. Kimberley-Clark of Canada Ltd. 
+ , [1989] F.C.J. No. 134; 25 C.P.R.(3d) 12 (F.C.A.). The procedure for filing and handling documents subject to such an order is set out in Rule 152. Unless otherwise ordered by the Court, only a solicitor of record or solicitor assisting in the proceeding is entitled to have access to confidential material. Release of the material to a solicitor requires a written non-disclosure undertaking. Rule 152(3) provides that a confidentiality order continues in effect until the Court orders otherwise, including after final judgment and the duration of any appeal. Such orders may remain in place, therefore, indefinitely. 
+ 
+ 
+ 
+ [14] 
+  The respondents submit that they have endured years of public scrutiny and continuing public allegations that they are involved in terrorism. Despite the highly-publicized O'Connor and Iacobucci Inquiries, such allegations continue to arise, they say. No judicial process, in their submission, can prevent information being misused against the respondents once that information is on the public record. The past violation of the respondents' privacy is said to be beyond prevention, but the public filing of the Exhibit 1 documents would lead to further violations, in their submission. They fear retaliation against themselves and their family members in circumstances where the Canadian government has no power to protect against or mitigate that risk. 
+ 
+ 
+ 
+ [15] 
+  I note that the Elmaati respondents filed some of the redacted documents in support of a motion for production of documents in the Ontario Superior Court. A preliminary jurisdictional issue was then raised. The documents were attached to an affidavit of Ephry Mudryk sworn March 19, 2010. No confidentiality order appears to have been requested for that affidavit in the Superior Court proceedings. Subsequently, at the request of the Chief Justice of the Federal Court during a case management teleconference in the  
+ CEA 
+  section 38 proceedings, the respondents filed the same Mudryk affidavit for the information of this Court. 
+ 
+ 
+ 
+ [16] 
+  The Attorney General submits that information contained in the exhibits is also referenced in other public documents, such as the Iacobucci Report, and in public court filings including the statements of claim and defence in the underlying civil actions. 
+ 
+ 
+ 
+ [17] 
+  This Court has held that confidentiality "will not be lightly ordered and such provisions will not be ordered based on "bald" assertions of the need for such protection:  
+ Rivard Instruments Inc. v. Ideal Instruments Inc. 
+ , [2006] F.C.J. No. 1711; 302 F.T.R. 301; 2006 FC 1338, at para. 2;  
+ Lundbeck Canada Inc. v. Canada (Minister of Health) et al. 
+ , [2007] F.C.J. No. 564; 312 F.T.R. 1; 2007 FC 412, at para. 18. The moving party, the respondents in this case, bears a "heavy onus" and must present evidence demonstrating the need for such an order:  
+ Abbott Laboratories Ltd. et al. v. Canada (Minister of Health) et al. 
+ , [2005] F.C.J. No. 1319; 277 F.T.R. 111; 2005 FC 989, at para. 68; citing  
+ A.C. and B.D. v. Canada (Minister of Citizenship and Immigration) 
+ , [2003] F.C.J. No. 1861; 243 F.T.R. 211; 2003 FC 1452, at paras. 18-19. 
+ 
+ 
+ 
+ [18] 
+  I also take into consideration the following statement of Justice Eleanor Dawson in  
+ McCabe v. Canada (Attorney General) 
+ , [2000] F.T.R. Uned. 756; [2000] F.C.J. No. 1262; 99 A.C.W.S.(3d) 241 (T.D.), at para. 8, indicating that the reliance on one's interest in privacy to request a confidentiality order offers no legal grounds for such an order: 
+ 
+ 
+ 
+ "8  
+ The justifiable desire to keep one's affairs private is not, as a matter of law, a sufficient ground on which to seek a confidentiality order 
+ . In order to obtain relief under Rule 151, the Court must be satisfied that both a subjective and an objective test are met. See:  
+ AB Hassle v. Canada (Minister of National Health and Welfare) 
+ , [1999] F.C.J. No. 808 (A-289-98, A-315-98, A-316-98, May 11, 1999 (F.C.A.)) affirming (1998) 81 C.P.R.(3d) 121. Subjectively, the party seeking relief must establish that it believes its interest would be harmed by disclosure.  
+ Objectively, the party seeking relief must prove, on a balance of probabilities, that the information is in fact confidential. 
+ " (My emphasis) 
+ 
+ 
+ 
+ [19] 
+  In the normal course of discovery in civil actions, a confidentiality order is not required as the documents produced by the parties are not filed in Court and are subject to an implied undertaking at common law that they will not be disclosed to third parties or used for other purposes. Subrule 30.1.01 (3) of the Ontario  
+ Rules of Civil Procedure 
+ , R.R.O. 1990, Reg. 194, provides that all parties and their lawyers are deemed to undertake not to use evidence or information obtained under discovery for any purposes other than those of the proceedings in which the evidence was obtained: O. Reg 575/07, s. 4, Rule 152 of the  
+ Federal Courts Rules 
+  requires a written undertaking before material filed under a confidentiality order is released to a solicitor. 
+ 
+ 
+ 
+ [20] 
+  Documents produced for the purposes of discovery remain the property of the party that produces them:  
+ Vickery v. Prothonotary, Supreme Court (N.S.) 
+ , [1991] 1 S.C.R. 671; [1991] S.C.J. No. 23; 124 N.R. 95; 104 N.S.R.(2d) 181; 283 A.P.R. 181;  
+ R. v. K.M.E. 
+ , [2001] B.C.T.C. 470; [2001] B.C.J. No. 722; 2001 BCSC 470, at para. 43;  
+ R. v. Canadian Broadcasting Corp. 
+ , [2006] O.T.C. 405; [2006] O.J. No. 1685; 208 C.C.C.(3d) 257 (Sup. Ct.), at paras. 13-14;  
+ R. v. Giles (D.F.) et al. 
+ , [2008] B.C.T.C. Uned. H57; [2008] B.C.J. No. 2830; 2008 BCSC 1900, at para. 64. 
+ 
+ 
+ 
+ [21] 
+  Prior to the  
+ Toronto Star Newspapers Ltd. 
+  decision, above, the question of public access to the documents filed as exhibits in support of applications under section 38.04 of the  
+ CEA 
+  did not arise. That is because the  
+ Act 
+  required that the proceedings and the information which was the subject matter of the proceedings be kept confidential. In  
+ Toronto Star Newspapers Ltd. 
+ , Chief Justice Lutfy held that these confidentiality requirements infringed on the open court principle. He read the access limitations down to apply only to court sessions held in private and to court records containing secret information. 
+ 
+ 
+ 
+ [22] 
+  The open court principle, a core democratic value, is inextricably linked to the fundamental freedoms of expression and of the media protected under section 2(b) of the  
+ Canadian Charter of Rights and Freedoms 
+ :  
+ Toronto Star Newspapers Ltd. 
+ , above, at paras. 2 and 24. 
+ 
+ 
+ 
+ [23] 
+  In considering the open court principle ( 
+ Ruby v. Royal Canadian Mounted Police et al. 
+ , [2002] 4 S.C.R. 3; [2002] S.C.J. No. 73; 295 N.R. 353; 2002 SCC 75, at para. 59) and that the impugned exhibit remains the property of the party that produces them for discovery purposes, I adopt the views of Chief Justice Lutfy in  
+ Toronto Star Newspapers Ltd. 
+ , at para. 80, stating that "subsections 38.04(4) and 38.12(1) reflect Parliament's intent to afford the designated judge the discretion to adopt any confidentiality measures required to safeguard  
+ secret information 
+ " (My emphasis). 
+ 
+ 
+ 
+ [24] 
+   
+ Toronto Star 
+   
+ Newspapers Ltd. 
+ , has since been consistently followed in other section 38 proceedings: see for example,  
+ Canada (Attorney General) v. Khawaja 
+ , [2007] F.C.J. No. 622; 312 F.T.R. 217; 2007 FC 490;  
+ Canada (Attorney General) v. Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar et al. 
+ , [2008] 3 F.C.R. 248; [2007] F.C.J. No. 1081; 316 F.T.R. 279 (F.C.), at para. 22;  
+ Khadr v. Canada (Attorney General) 
+ , [2008] F.C.J. No. 770; 329 F.T.R. 80; 2008 FC 549. 
+ 
+ 
+ 
+ [25] 
+  As a result, in keeping with the open court principle, in section 38 proceedings a public file is now maintained by the Federal Court Registry in addition to the private file. The public file includes documents such as the Attorney-General's Notice of Application, affidavits and the written representations of the parties which do not contain sensitive information, and is accessible to the public. The public file will also contain the unredacted and presumptively public versions of the documents that are the subject-matter of the application, attached as exhibits to the affidavits of witnesses for the Attorney-General. 
+ 
+ 
+ 
+ [26] 
+  In  
+ Vickery 
+ , above, at para. 9, the Supreme Court of Canada emphasised that the Court is the keeper of its records and may exercise its discretion in excluding them from public access where the circumstances require. As Chief Justice Dickson said in  
+ MacIntyre v. Nova Scotia (Attorney General), Grainger and Canada (Attorney General) et al. 
+ , [1982] 1 S.C.R. 175; 40 N.R. 181; 49 N.S.R.(2d) 609; 96 A.P.R. 609, at p. 189 [S.C.R.], "... every court has a supervisory and protecting power over its own records." This Court has the right to inquire into the use to be made of the exhibit and the right to regulate that use:  
+ Giles 
+ , above, at para. 64; citing  
+ Blue Line Hockey Acquisition Co. et al. v. Orca Bay Hockey Limited Partnership et al. 
+ , [2007] B.C.T.C. Uned. F56; [2007] B.C.J. No. 2167; 2007 BCSC 1483, at para. 37; and  
+ K.M.E. 
+ , above, at para. 43;  
+ Canadian Broadcasting Corp. 
+ , above, at paras. 13-14. 
+ 
+ 
+ 
+ [27] 
+  Again in  
+ Vickery 
+ , above, at para. 19, the Supreme Court of Canada identified four significant factors to be assessed when deciding whether access to exhibits (including the ability to copy and disseminate) should be permitted: (1) the nature of the exhibits as part of the court record; (2) the right of the court to inquire into the use to be made of access, and to regulate it; (3) the fact that the exhibits, having been produced at trial and open to public scrutiny and discussion, means the open justice requirement has been met; and (4) the fact that different considerations may govern when the proceedings have concluded and the discussion is removed from the hearing context: see also  
+ Hyde, Re 
+ , [2010] N.S.J. No. 109; 292 N.S.R.(2d) 39; 925 A.P.R. 39; 2010 NSPC 21, at para. 11. 
+ 
+ 
+ 
+ [28] 
+  In relation to the instant case, I adopt the recent views of Judge Anne Derrick of the Nova Scotia Provincial Court in  
+ Hyde (Re) 
+ , above, at para. 12, summarizing the important observations of the majority in  
+ Vickery 
+ , above: 
+ 
+ 
+ 
+ a. Exhibits are not the property of the court. Others will have a proprietary interest in them. "Once exhibits have served their purpose in the court process, the argument based on unfettered access as part of the open process lying at the heart of the administration of justice loses some of its preeminence." (paragraphs 20-23) 
+ 
+ 
+ 
+ b. The court is the custodian of the exhibit and "fully entitled" to regulate the use to which the exhibit is to be put by the access-seeker "by securing appropriate undertakings and assurances if those be advisable to protect competing interests ..." the court must "protect [someone with a legitimate competing interest] and accommodate the public interest in access." (paragraphs 24-25) 
+ 
+ 
+ 
+ c. The open justice requirement is met by production at trial of an exhibit and its exposure to public scrutiny and discussion. Privacy rights may be surrendered during a court proceeding, but they are not "surrendered for all time." (paragraphs 26-29) 
+ 
+ 
+ 
+ d. Public access to and reporting of proceedings is a price to be paid in the interests of ensuring accountability of those engaged in the administration of justice. "The subsequent release of selected exhibits is fraught with risk of partiality, with a lack of fairness." (paragraphs 30-31) 
+ 
+ 
+ 
+ [29] 
+  In this case, the respondents' privacy is somewhat surrendered to the judicial process that is taking place due to the claims that they filed in the Superior Court of Justice of Ontario against the Government of Canada. It is trite law that public access to and reporting of those proceedings is a price that the respondents must pay in the interests of ensuring the accountability of those engaged in the administration of justice:  
+ Vickery 
+ , above, at para, 31;  
+ Hyde (Re) 
+ , above, at para. 12. 
+ 
+ 
+ 
+ [30] 
+  In  
+ Khawaja 
+ , above, the documents that were the subject of the Attorney General's application for a protection order were disclosed to Mr. Khawaja and his counsel in keeping with the Crown's disclosure obligations. Redacted and unredacted versions of these documents were filed in the Federal Court Registry as exhibits to public and private affidavits. In response to requests by members of the press to examine the redacted versions of the documents, I directed the Registry not to permit access to the documents. My primary reason for doing so was that this information would not form part of the court record in the criminal proceedings unless and until it was introduced as evidence by either party. To permit access to the information filed in the Federal Court could have resulted in prejudice to the accused's fair trial rights in another court. That consideration does not arise in this case. 
+ 
+ 
+ 
+ [31] 
+  While I am sympathetic to the respondents' submissions that they have suffered gravely from uncontrolled publication of information about themselves, due to their involvement in very public proceedings, I am unable to find that the respondents have established a "real and substantial" risk of harm that is "well-grounded in the evidence (...)":  
+ Abbott Laboratories Ltd. 
+ , above, at para. 68; citing  
+ A.C. 
+ , above, at paras. 18-19. The respondents have the onus of demonstrating that the test for the issuance of a confidentiality order has been met. 
+ 
+ 
+ 
+ [32] 
+  In this case, the concerns cited by the respondents, absent subjective and objective criteria on which to assess them, do not appear to be sufficient to grant the requested order:  
+ Charkaoui, Re 
+ , [2009] F.C.J. No. 396; 353 F.T.R. 165; 2009 FC 342, at para. 39; citing  
+ McCabe 
+ , above, at para. 8;  
+ Canada (Minister of Citizenship and Immigration) v. Fazalbhoy 
+ , [1999] F.C.J. No. 51; 162 F.T.R. 57 (T.D.), at para. 11. 
+ 
+ 
+ 
+ [33] 
+  In the present motion, the respondents have given the Court no indication of what specific information is to be treated as confidential, requesting only "sealing the disk of redacted public documents, filed by the Attorney General as Exhibit 1 to the Affidavit of Pamela Dawson" and that they file a "further-redacted version of those documents within 60 days." This request for a confidentiality order is, in my view, not tailored to the information that must be kept confidential:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [34] 
+  In the circumstances, I do not consider that I have sufficient evidence before me on which I could grant the requested sealing order. I recognize, however, that afforded the opportunity the respondents may be able to present evidence sufficient to demonstrate that disclosure of the information would present a serious risk to an important interest. I am also mindful of the fact that these proceedings are taking place at an early stage of a discovery process that is likely to be lengthy and involve many thousands of documents. If the actions proceed to trial, any documents tendered in evidence will be submitted in an open court process. 
+ 
+ 
+ 
+ [35] 
+  This motion is, therefore, adjourned sine die without prejudice to the motion being brought back on before the undersigned with a particularized list of the information which the respondents wish be kept confidential and evidence of the harm that disclosure of that information would cause. In the interim, and pending the disposition of this application, the direction to the Registry to withhold the exhibits from public access will be maintained. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [36] 
+   
+ THIS COURT ORDERS 
+  that the respondents' motion is adjourned sine die. The Registry is directed to withhold the exhibits attached to the public affidavit of Pamela Dawson from public access pending further direction from the Court. 
+ 
+ 
+ 
+ Motion adjourned. 
+ 
+ 
+ 
+ Editor: Anick Ouellette-Levesque/pdk 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+

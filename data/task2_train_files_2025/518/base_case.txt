@@ -1,0 +1,269 @@
+[1]
+Teitelbaum, J.
+: These reasons shall apply to both file T-1242-89 and file T-2927-90 as the parties to these proceedings and the facts are the same except that the Notices of Reassessments are for different years, that is, for the taxation years 1985 and 1986 (Tab "O", Agreed Statement of Facts and Exhibits).
+[2]
+This is an appeal by the plaintiff, John M. Tennant, from the decision of the Minister of National Revenue (hereinafter referred to as the M.N.R.), pursuant to Notices of Reassessment in respect of the plaintiff's 1985 and 1986 taxation years whereby the M.N.R. disallowed the plaintiff's claim for the deduction of interest expenses, incurred on a loan, in accordance with s. 20(1)(c) of the
+Income Tax Act (Act)
+, S.C. 1970-71-72, c. 63, as amended. The plaintiff is seeking "an order that his appeal herein be allowed and that the said Notices of Reassessment be vacated". The grounds for the appeal as appear in the Statement of Claim are, as the plaintiff states:
+"The interest paid by the plaintiff on the Royal Bank loan was pursuant to a legal obligation to pay interest and the borrowed funds were used for the purpose of earning income from a property, namely, shares in the capital stock of Realwest and accordingly, such interest was properly deductible by the plaintiff in his 1985 and 1986 taxation years pursuant to the provisions of s. 20(1)(c) of the
+Income Tax Act
+.
+"The income earning purpose of the Royal Bank Loan continued after the property originally purchased with the loan was exchanged for other property namely, shares in TWL Holdings Ltd., which like the original property, were acquired for the purpose of earning and accordingly, the interest continued to be deductible pursuant to s. 20(1)(c) of the
+Income Tax Act
+throughout the plaintiff's 1985 and 1986 taxation years."
+Facts
+[3]
+The parties proceeded by way of an Agreed Statement of Facts & Issue, supported by an agreed number of documents, which served as the whole evidence in the present case. A summary of those facts is as follows:
+[4]
+On May 6 and 13, 1981 the plaintiff borrowed a total of $1,000,000 (hereinafter referred to as the "loan") from the Royal Bank of Canada and used the loan to acquire from treasury 1,000,000 common, voting, participating shares of an arm's length corporation named Realwest Energy Corporation (hereinafter referred to as Realwest) at $1 per share. These facts are evidenced by copies of the plaintiff's Subscription Agreement with Realwest, Realwest's resolution to issue the 1,000,000 shares to the plaintiff and the share certificate for the 1,000,000 shares which was cancelled on July 25, 1985, as well as two promissory notes, from the plaintiff to the Royal Bank of Canada, for a total of $1,000,000.
+[5]
+From May, 1981 to December 31, 1986 the plaintiff had a legal obligation to pay interest to the Royal Bank of Canada on the loan. Counsel has referred me to the attached Exhibit E, which is a copy of a letter from the Royal Bank to the plaintiff with a schedule showing the interest rate and the amount of interest paid on the loan.
+[6]
+By an Agreement of Purchase and Sale dated July 25, 1985 the plaintiff disposed of his shares to an arm's length holding company named TWL Holdings Ltd. (hereinafter referred to as TWL). The consideration received by the plaintiff for the sale was 1,000 Class B Common, nonvoting, participating shares of TWL with a par value of $1 per share. At the time of the disposition the declared fair market value of the shares and the agreed purchase price of the 1,000 Class B TWL shares was $1,000.
+[7]
+The plaintiff and TWL entered into the Agreement of Purchase and sale pursuant to s. 85 of the
+Income Tax Act
+. The plaintiff and TWL jointly filed the election form T2057 "Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation" in respect of the sale.
+[8]
+Between July 25, 1985 and December 31, 1986 other shareholders of Realwest transferred Realwest common shares to TWL in exchange for Class B common shares. At any particular time between July 25, 1985 and December 31, 1986, the plaintiff's interest in TWL's Class B shares, expressed as a percentage of those shares, multiplied by the number of Realwest common shares owned by TWL, at that time, equalled 1,000,000.
+[9]
+The disposition of the plaintiff's shares to TWL entitled him to claim an allowable business investment loss pursuant to ss. 38(c) and 39(1)(c) of the
+Act
+. Based on the Agreement of Purchase and Sale between the plaintiff and TWL and the election of $1,000 as the tax cost of the TWL shares, the plaintiff claimed a business investment loss of $1,004,000 in his 1985 taxation year and was allowed the business investment loss of $502,000, pursuant to ss. 38(c) and 39(1)(c) of the
+Act
+.
+[10]
+From July 25, 1985 to December 31, 1986, the plaintiff had a reasonable expectation of earning a profit from his investment in the 1,000 Class B shares of TWL at a cost of $1 per share.
+[11]
+In April 1987, Realwest underwent a significant share restructuring which required a third party to acquire 10,000,000 Realwest common shares and to inject $10,000,000 of new capital by way of Realwest preferred shares. Following the restructuring, on April 28, 1987, Realwest paid a dividend to the holders of its common shares (including TWL) of $1,892,691. On July 20, 1987 TWL used a portion of its Realwest dividend to pay a dividend to the plaintiff on his Class B shares of $316,232.62. Both corporations elected to pay the dividends out of their capital dividend accounts, pursuant to subs. 83(2) of the
+Act
+.
+[12]
+As is evidenced by the plaintiff's Royal Bank Account Statement, on July 20, 1987, the plaintiff paid $327,088.77 as a partial repayment of the loan. This sum represents the $316,233.62 of dividend money plus an additional $10,856.15.
+[13]
+Prior to July 25, 1985, the plaintiff paid interest to the Royal Bank of Canada on the full amount of the loan and, for income tax purposes, the plaintiff claimed a deduction of the full amount of the interest under s. 20(1)(c)(i) of the
+Act
+. This deduction was allowed by the defendant.
+[14]
+However, after July 25, 1985 (being the date the plaintiff disposed of his Realwest shares to TWL in exchange for 1,000 shares of TWL) the plaintiff continued to pay interest to the Royal Bank of Canada on the full amount of the loan, and for the 1985 and 1986 taxation years the plaintiff continued to claim a deduction for the full amount of this interest.
+[15]
+By Notices of Reassessment, the defendant, the Minister of National Revenue, reassessed the plaintiff in respect of his 1985 and 1986 taxation years and disallowed the full deduction of interest paid on the loan. The defendant allowed the plaintiff a deduction pursuant to s. 20(1)(c)(i) of the
+Act
+only for the amount of interest which the plaintiff would have paid to the Royal Bank of Canada if the loan had been equal to the cost to the plaintiff of $1,000 for his 1,000 Class B shares in TWL.
+[16]
+As a result, the plaintiff filed two Statements of Claim with the Federal Court of Canada and hence the present proceedings.
+Reasons For The Minister's Ruling
+[17]
+In assessing the plaintiff as he did, by disallowing the full deduction of interest paid on the $1,000,000 loan, the Minister did so based on the following assumptions, as contained in the Statement of Defence:
+"(1) After the July 25, 1985 transfer, pursuant to s. 85(1) of the
+Act
+, of the plaintiff's Realwest shares to TWL in exchange for 1000 Class B nonvoting participating shares, with an elected value of $1,000, the plaintiff no longer owned or controlled the 1,000,000 shares in Realwest.
+"(2) Being that the Royal Bank loan was taken out to acquire the 1,000,000 Realwest shares, and being that the plaintiff no longer owned the Realwest shares, the interest expense with respect to such loan for the Realwest shares no longer qualified for deduction pursuant to the
+Act
+.
+"(3) The only remaining investment of the plaintiff in which money borrowed by him was used for the purpose of earning income from business or property was his investment of $1,000 for the 1000 Class B nonvoting participating shares in TWL.
+"(4) After his disposition of the Realwest shares to TWL on July 25, 1985 the plaintiff was not entitled to deduct interest in his 1985 and 1986 taxation years on borrowed money in excess of $1,000 as such money was no longer used for the purpose of gaining or producing income from the shares in Realwest for which the plaintiff claimed a business investment loss of $1,004,000 on disposition."
+Minister's Position
+[18]
+The Minister contends that the statutory scheme with regard to the deductibility of interest expenses is to be found in ss. 18(1)(a) and (b) and 20(1)(c) and 20(3) of the
+Act
+. Specifically, s. 20(1)(c) contains the requirement that, for deductibility, the amount of money borrowed must be used for the purpose of earning income from a property, other than a property the income of which is exempt.
+[19]
+The Minister submits that originally, in the present case, the plaintiff borrowed $1,000,000 from the Royal Bank for the purpose of acquiring the Realwest shares and thus to earn income from property. However, after July 25, 1985 when the Realwest shares were rolled over into TWL, pursuant to s. 85(1), the plaintiff lessened his income earning source when he reduced his capital investment from $1,000,000 to $1,000.
+[20]
+This is indicated by the fact that the original $1,000,000 income earning source no longer exists. Here, the Minister refers to s. 85(1) and the claim thereupon of an allowable business investment loss. The plaintiff himself claimed that all but $1,000 of his investment was lost, and thus the only current income earning source for the plaintiff is the $1,000 investment in TWL.
+[21]
+The Minister's position is that the interest deductibility section is related to the current and direct use of the borrowed money and that in the present case the only source from which the plaintiff can earn income, which relates to the borrowed money, is his TWL shares acquired at $1,000. After July 25, 1985, it cannot be said that the borrowed money was used directly to earn income. The direct use to which the borrowed money was put, after all the Realwest shares had been sold and the loss on the disposition claimed, was only to acquire shares in TWL for the $1,000. Thus, the only source from which the plaintiff had a reasonable expectation of profit was derived from his $1,000 investment in TWL.
+[22]
+The Minister characterizes the s. 85 rollover of Realwest shares into TWL as a disposition and acquisition of assets and not as a mere change in the form of ownership. The Minister contends that the true legal aspect of the transaction is that the plaintiff disposed of the Realwest shares, claimed a loss in respect thereof and then used the proceeds of the disposition to acquire $1,000 worth of TWL shares. Therefore, the plaintiff had no control over the Realwest shares. The mere fact that TWL paid the plaintiff a dividend in 1987 as part of the dividend payment made by Realwest to TWL does not mean the plaintiff can lift the corporate veil and look through to the Realwest shares.
+[23]
+The Minister submits that it has been held that the s. 20(1)(c)(i) interest deductibility provision requires that the income be derived from the property itself and not from the use of power attached to that property or the indirect actions taken by the intermediary TWL to pay dividends to their shareholders out of the dividend payments received through TWL's asset holdings in Realwest.
+Taxpayer's Position
+[24]
+The plaintiff submits that he is entitled to the deduction of the interest claimed in his 1985 and 1986 taxation years, with respect to the $1,000,000 Royal Bank loan, pursuant to s. 20(1)(c) of the
+Act
+, as the full amount of the borrowed funds continued to be used for the purpose of earning income from property.
+[25]
+The plaintiff maintains that the Minister erred in concluding that the only remaining investment from which the $1,000,000 loan was used for the purpose of earning income from property was $1000, representing the elected tax cost for the 1000 Class B non-voting, participating shares in TWL.
+[26]
+The plaintiff's position is that the s. 85 rollover of the Realwest shares into TWL in exchange for the 1000 TWL shares in no way altered the income earning purpose of the full original $1,000,000 loan. Plaintiff's counsel states that at all times the investment vehicle which was acquired by use of the $1,000,000 loan continued to be in existence even after the s. 85 rollover was effected.
+[27]
+The plaintiff submits that the Minister erred in concluding that the interest deductibility provision is tied to the concept of cost. Based on a strict interpretation of the deductibility provision, s. 20(1)(c) only requires that the borrowed money currently be used to acquire property which has the potential to earn income, but does not require that the "current value" of the asset be equal to the amount of money borrowed. Thus, the mere fact that the TWL shares had an elected tax cost of $1000 should not undermine the fact that the full $1,000,000 loan was being used to acquire property from which the plaintiff had a reasonable expectation of earning profit.
+[28]
+In addition, counsel for the plaintiff argues that I must look beyond the form of the investment and instead focus on the substance and commercial reality of the situation. Here it is submitted that although after July 25, 1985 the form of the investment was in the TWL shares and thus the plaintiff no longer retained an equitable or legal title to the Realwest shares, it was to those shares that the plaintiff continued to look to derive his profit. Thus the remaining investment acquired, using the $1,000,000 loan, remained intact as an economic interest, which is a recognizable interest in law.
+[29]
+Plaintiff's counsel argues that where the words of the interest deductibility provision are ambiguous, reference should be made to Parliament's intent. Here it is argued that a schematic and purposive interpretation of the
+Act
+reveals that the plaintiff is not automatically precluded from taking advantage of the interest deductibility provision merely because he effected a s. 85 rollover and claimed an allowable investment loss with respect to the exchange of Realwest shares for shares in TWL. Both the allowable business loss provision and s. 20(1)(c) are incentive provisions of which nothing in the legislative history indicates that a taxpayer was to be prevented from taking advantage of the two incentives at the same time.
+[30]
+It has also been submitted that s. 20(1)(c), the s. 85 rollover provision and the ss. 38(c) and 39(1)(c) allowable business loss provisions, are all contained in completely separate parts of the
+Act
+and therefore are indicative of Parliament's intent to keep these concepts of income tax distinct and independent of the other. From this, it follows that interest deductibility is not limited by the fact that the plaintiff, on one hand, based on the continued existence of the Realwest shares, disposed of his Realwest shares and claimed a business investment loss while, on the other hand, he continued to claim a deduction of interest on the full $1,000,000 loan.
+Issue:
+[31]
+The issue to be determined centres upon the deductibility of interest from a loan used for the purpose of earning income from property. That issue in turn raises the following question:
+"Is the plaintiff entitled by s. 20(1)(c)(i) of the
+Act
+to deduct the full amount of interest paid on the loan after disposing of the shares on July 25, 1985 pursuant to a s. 85 rollover for the 1,000 Class B shares of TWL?"
+Relevant Statutory Provisions
+[32]
+For the taxation years 1985 and 1986 the relevant statutory provisions are ss. 18(1)(a) and (b), 20(1)(c)(i), 38(c) and 39(1)(c) of the
+Income Tax Act
+, S.C. 1970-71-72, c. 63, as amended. The relevant parts of the sections read as follows:
+"18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a)
+General Limitation
+- an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property.
+(b)
+Capital outlay or loss
+- an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part.
+"20(1) Notwithstanding paras. 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may be reasonably regarded as applicable thereto:
+(c)
+Interest
+- an amount paid in the year or payable in respect of the year (depending upon the method regularly followed by the taxpayer in computing his income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy).
+"38.
+Meaning of Taxable capital gain and allowable capital loss
+.
+"For the purposes of this Act,
+(c) a taxpayer's allowable business investment loss for a taxation year from the disposition of any property is ½ of his business investment loss for the year from the disposition of that property.
+"39.
+Meaning of capital gain and capital loss.
+"(1) For the Purposes of this Act,
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which his capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom he was dealing at arm's length of any property that is
+(iii) a share of the capital stock of a Canadian-controlled private corporation
+exceeds the aggregate of ..."
+Analysis
+[33]
+Section 20(1)(c)(i) was the subject of consideration by the Supreme Court of Canada in
+Minister of National Revenue v. Bronfman Trust
+, [1987] 1 S.C.R. 32; 71 N.R. 134; 87 D.T.C. 5059, where Chief Justice Dickson, (as he then was), assessed the purpose of the provision and provided for what, in my view, is the proper interpretation of the provision.
+[34]
+The facts of the case are worthy of summary. The trustees of the Phyllis Bronfman Trust arranged bank loans to partially fund capital distributions made to the beneficiary of the trust. The trustees preferred to borrow money to make a payment rather than sell income producing property of the trust. Revenue Canada sought to disallow the deduction of interest paid by the trust, on the borrowed money, on the grounds that the money had not been "used for the purpose of earning income from a business or property" as required by s. 20(1)(c)(i).
+[35]
+In deciding the case, the Chief Justice eloquently appraised the purpose of the interest deductibility section as follows, at p. 5064:
+"It is perhaps otiose to note at the outset that in the absence of a provision such as s. 20(1)(c) specifically authorizing the deduction from income of interest payments in certain circumstances, no such deductions could generally be taken by the taxpayer ...
+"I agree with Marceau, J., as to the purpose of the interest deduction provision. Parliament created s. 20(1)(c)(i) and made it operate notwithstanding s. 18(1)(b),
+in order to encourage the accumulation of capital which would produce taxable income
+...
+"The statutory deduction thus requires a characterization of the use of borrowed money as between the eligible use of earning nonexempt income from a business or property and a variety of possible ineligible uses.
+The onus is on the taxpayer to trace the borrowed funds to an identifiable use which triggers the deduction
+...
+"The interest deduction provision
+requires not only a characterization of the use of borrowed funds, but also a characterization of 'purpose'. Eligibility for the deduction is contingent on the use of borrowed money for the purpose of earning income
+. It is well-established in the jurisprudence, however that it is not the purpose of the borrowing itself which is relevant. What is relevant, rather, is the taxpayer's purpose in using the borrowed money in a particular manner:
+Auld v. Minister of National Revenue
+, 62 D.T.C. 27 (T.A.B.). Consequently, the focus on the inquiry must be centered on the use to which the taxpayer put the borrowed funds." (Underlining is mine)
+[36]
+Dickson, C.J., then went on to emphasize that it is the
+current use and not the original use
+of the borrowed money that determines the eligibility of the deduction. The Chief Justice stated that the focus must be
+on the direct use
+to which a taxpayer puts borrowed money. In this regard he emphasized, at pp. 5065-5066, that the court should not overlook an ineligible direct use of borrowed money for the sake of finding an indirect eligible use of borrowed funds:
+"In my view, neither the
+Income Tax Act
+nor the weight of judicial authority permits the courts to ignore the direct use to which a taxpayer puts borrowed money ...
+"One finds in the
+Act
+not only the distinction within s. 20(1)(c)(i) between eligible and ineligible uses of funds but other provisions which also require the tracing of funds to particular use in a manner inconsistent with the argument of the Trust ...
+"The leading case from this court on the availability of the interest deduction,
+Canada Safeway Ltd. v. Minister of National Revenue
+, also demonstrates a reluctance to overlook a clearly ineligible direct use of borrowed money in order to favour the taxpayer by characterizing the transaction on the basis of a less direct eligible use of borrowing."
+[37]
+Based on the foregoing, the Supreme Court of Canada held that, except in exceptional cases, s. 20(1)(c) of the
+Act
+requires that the use of borrowed money be traced to a specific eligible use, and that it be demonstrated that the borrowed funds are used directly and immediately to earn income from a business or property (See also
+FRAGMENT_SUPPRESSED where Pinard, J., restated and applied the principles of law enunciated in
+Bronfman Trust
+, supra).
+[38]
+In the present case, the plaintiff did not dispute the principle of law enunciated in
+Bronfman Trust
+, supra, which requires that a taxpayer trace the borrowed funds through to a current, direct and eligible use. However, the plaintiff claimed that the decision in
+Bronfman
+is distinguishable from the present facts at hand in that the tracing principle was only meant to apply in situations where the second investment was a separate income earning property which was purchased with the proceeds of the sale of the first investment.
+[39]
+Counsel for the plaintiff submitted that unlike the
+Bronfman Trust
+scenario, here the TWL shares were not a second, separate investment vehicle, apart from their ability to pass onto the plaintiff the dividends received from the Realwest shares. It was argued that at all times the source of income, which was acquired by the plaintiff using the $1,000,000 borrowed funds, remained intact. Accordingly, the s. 85 rollover did not change the real source of the plaintiff's income, rather it was only the form of the investment which was altered. Thus, counsel for the plaintiff contended that there is no need to point out the existence of an indirect source of income when, from an economic and practical point of view, the real source of income, being the Realwest shares, continued to exist.
+[40]
+Counsel for the plaintiff put great emphasis on the need for the court to look beyond the mere form of the investment to the substance and economic reality of the situation. In
+Bronfman Trust
+, supra, at p. 5067 where Dickson, C.J., stated that when faced with an attempt to counter the words of a taxing statute, instead of extending its meaning the courts should look at the economic reality of what was done by the taxpayer to determine whether or not it has met the object and the spirit of the legislation:
+"This is, I believe, a laudable trend provided it is consistent with the text and purposes of the taxation statute. Assessment of taxpayers' transactions with an eye to commercial and economic realities, rather than juristic classification of form, may help to avoid the inequity of tax liability being dependent upon the taxpayer's sophistication at manipulating a sequence of events to achieve a patina of compliance with the apparent prerequisites for a tax deduction."
+[41]
+The plaintiff attached a considerable amount of importance to the fact that irrespective of the fact that after July 25, 1985 he did not retain an equitable or legal title to the Realwest shares, those shares and his remaining $999,000 investment remained intact as an economic interest because the dividends he received were dividends that flowed from Realwest through TWL, which would not have been possible had the plaintiff disposed of his shares to a third party and then used the proceeds thereof to acquire a second independent investment vehicle.
+[42]
+I have weighed the plaintiff's submissions, and while I am in agreement that I must give consideration to the economic and commercial reality of the transfer of Realwest shares to TWL, in my mind, the plaintiff's characterization of the facts is fallacious.
+[43]
+The transfer of the Realwest shares to TWL, pursuant to the s. 85 rollover, does not, in my view, constitute a mere change in the form of the investment but a change of investment. This conclusion is clear on the basis that the plaintiff was allowed to claim a business investment loss under ss. 38(c) and 39(1)(c) upon the transfer of the Realwest shares to TWL. According to the language of s. 38(c) a taxpayer will be allowed to claim a business investment loss
+"from the disposition of that property"
+. The word "disposition" is defined in
+Black's Law Dictionary
+as follows:
+"
+Disposition
+. Act of disposing; transferring to the care or possession of another. The parting with, alienation of, or giving up property."
+[44]
+This definition appears to suggest that where a person is said to have "disposed" of property, then that person has not only formulated the intention to give up the property but that he has, in fact, alienated the property to the point where he no longer retains a legal interest in it. Thus, once a taxpayer has "disposed" of an asset and claimed a business investment loss, he therefore should be precluded from maintaining the position that this original investment vehicle did not disappear, but merely changed its form.
+[45]
+Moreover, by virtue of s. 39(1)(c) a business investment loss will be allowed where the disposition of property is made "to a person with whom he was dealing at arm's length". Turning to the present set of facts, I find that since the plaintiff was dealing at arm's length with TWL he cannot now say that the transfer of the Realwest shares to TWL, in exchange for 1000 shares of TWL constitutes the mere insertion of a holding company between himself and Realwest.
+[46]
+Having regard to the economic and legal reality of the transaction leads me to the conclusion that after July 25, 1985 the plaintiff's only source of income which remained was the TWL shares acquired at a cost of $1000. Although the plaintiff was, as a shareholder of TWL, entitled to receive dividends from TWL
+whatever the source of such amounts to be
+, the plaintiff did not retain control over the flow of the dividend income from Realwest through TWL to himself. As such the plaintiff could not be said to have any legal or equitable interest in the Realwest shares.
+[47]
+Counsel for the plaintiff is asking me to lift the corporate veil and look through to TWL's assets in Realwest as being a direct investment of the plaintiff. In support of this argument I have been referred to
+Kosmopoulos v. Constitution Insurance Company
+, [1987] 1 S.C.R. 2; 74 N.R. 360; 21 O.A.C. 4; 34 D.L.R.(4th) 208 (S.C.C.) and
+C.I.R. v. Brierly
+, [1990] 3 N.Z.L.R. 303 (C.A.). In
+Kosmopoulos
+, supra, the Supreme Court of Canada went beyond the strict interpretation of a transaction and applied the economic reality test in order to pierce the corporate veil. The majority of the court, per Madame Justice Wilson (as she then was), allowed the sole shareholder of a corporation to insure the assets of the corporation to which he had no legal or equitable title. The decision centered on the fact that the shareholder had a sufficient interest, in the assets, on the basis that he looked to those assets to derive a benefit (i.e., income via dividends).
+[48]
+In my opinion
+Kosmopoulos
+, supra, is inapplicable to the case at bar because the decision in
+Kosmopoulos
+was so affected by its facts. There the court was willing to lift the corporate veil and find that Mr. Kosmopoulos had a clear economic interest in those assets largely because he remained the sole shareholder of the corporation. Similarly in
+Brierly
+, supra, the court lifted the corporate veil on the basis that the taxpayer remained a shareholder of the company from which he received dividends. These cases are distinguishable from the present set of facts since, here, the plaintiff is no longer a shareholder of Realwest but is merely one of many shareholders of TWL.
+[49]
+The principle of law, enunciated in
+Bronfman Trust
+, supra, as it relates to when a s. 20(1)(c) interest deduction may be made is clear, in that it is the direct and actual use of the borrowed money that is important and not an indirect use from which a benefit might be derived. Turning to the present facts at bar, I cannot accept the plaintiff's contention that the original $1,000,000 loan continued to be used during his 1985 and 1986 taxation years to earn income from property. After July 25, 1985, the only source from which the plaintiff continued to directly earn income, which related to the borrowed funds, was via his 1,000 TWL shares.
+[50]
+The fact that the plaintiff indirectly earned income from Realwest through TWL does not mean that the Realwest shares survived as a source of income to the plaintiff. It became a source of income for TWL.
+[51]
+On the facts as outlined, I am satisfied that it cannot be said that the full $1,000,000 Royal Bank loan continued to be used directly and actually by the plaintiff to earn income from the Realwest shares, as he, as of July 25, 1985 no longer legally or equitably owned the shares. They, the shares, were owned by TWL.
+[52]
+I do not believe it is necessary for me to consider a schematic interpretation of the
+Act
+or to examine extrinsic evidence of Parliamentary intent in regards to s. 20(1)(c)(i) and the plaintiff's ability to take advantage of both an allowable business investment loss and the interest deductibility provision. In my opinion the language of s. 20(1)(c) is not ambiguous when read in conjunction with s. 20(1). It is clear that the amount borrowed by the taxpayer must relate to a source from which the taxpayer has a reasonable expectation of profit.
+[53]
+As previously stated the plaintiff upon effecting the s. 85 rollover disposed of his Realwest shares, and received as proceeds from the disposition 1,000 shares of TWL of a par value of $1 each. Therefore, I conclude that as of July 25, 1985, the plaintiff only invested $1000 of the $1,000,000 original investment and thus the TWL shares are the only source to which the interest expense can be applied.
+[54]
+In the event that I am incorrect in concluding that the language of the interest deductibility provision is unambiguous, the recent decision of the Supreme Court of Canada in
+Stubart Investments Ltd. v. Minister of National Revenue
+, [1984] 1 S.C.R. 536; 53 N.R. 241; 84 D.T.C. 6305 is of assistance in regard to the appropriate method of interpreting taxing statutes. Mr. Justice Estey said, at p. 6323, that the taxing statute should be interpreted "with the words used therein read in their entire context and in harmony with the scheme of the
+Act
+, the object of the
+Act
+, and the intention of Parliament". His reasoning is contained at p. 6322 where he states:
+"In short, the tax statute, by this interpretative technique, is extended to reach the conduct of the taxpayer which clearly falls within 'the object and spirit' of the taxing provisions ... The desired objective is a simple rule which will provide uniformity of the application of the
+Act
+across the community and, at the same time, reduce the attraction of elaborate and intricate tax avoidance plans, and reduce the rewards to those best able to afford the service of the tax technicians."
+[55]
+Therefore, since the plaintiff has claimed the allowable business investment loss he is deemed to have disposed of the Realwest shares. I believe it would be contrary to Parliament's intent to allow a taxpayer to, at one level, defer a capital gain where a disposition of property has occurred, and at another level to allow the taxpayer to bring themselves within the interest deductibility provision that requires that the source of the income continue to exist.
+Conclusion
+[56]
+Relating the above analysis to the facts of the present case, I am satisfied that, after July 25, 1985 only $1000 of the $1,000,000 loan continued to be used for the purpose of earning income from property within the meaning of s. 20(1)(c)(i) of the
+Act
+. As such, it is consistent with s. 20(1)(c) that for the 1985 and 1986 taxation years the plaintiff be entitled to deduct only the interest paid on $1000 of the $1,000,000 Royal Bank loan.
+[57]
+Therefore plaintiff's appeal is denied and the Minister's Notices of Reassessment for the 1985 and 1986 taxation years are upheld.
+Appeal dismissed.
+Editor: Janette Blue/sg
+[End of document]

@@ -1,0 +1,7 @@
+[16]
+Section 18(1) sets out the grounds on which the registration of a trademark is invalid:
+"18(1) The registration of a trademark is invalid if
+(a) the trademark was not registrable at the date of registration,
+(b) the trademark is not distinctive at the time proceedings bringing the validity of the registration into question are commenced, or
+(c) the trademark has been abandoned,
+and subject to s. 17, it is invalid if the applicant for registration was not the person entitled to secure the registration."

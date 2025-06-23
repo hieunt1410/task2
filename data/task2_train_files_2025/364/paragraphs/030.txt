@@ -1,0 +1,7 @@
+[30]
+Section 46 first came to the attention of the Federal Court of Appeal in
+Incremona-Salerno Marmi Affini Siciliani (I.S.M.A.S.) s.n.c. et al. v. Ship Castor et al.
+, [2003] 3 F.C. 220; 297 N.R. 151; 2002 FCA 479. That case dealt with a shipment from Italy to Canada under a Bill of Lading which provided for German jurisdiction. The section came into force after the cause of action arose, but before the defendants' stay motion was heard. It was held that the section did not have retroactive effect. However, Mr. Justice Nadon opined at paragraph 13:
+"The effect of the subsection is to remove from this Court its discretion under section 50 of the
+Federal Courts Act
+to stay proceedings on the ground of a jurisdiction or arbitration clause where the requirements of paragraphs 46(1)(a), (b) or (c) are met. In the case at bar, if the Motion judge is correct in his view of the matter, paragraph 46(1)(a) would prevent the appellants from obtaining a stay based on clause 25 of the bill of lading, since the port of discharge was the port of Halifax. Consequently, if subsection 46(1) applies to these proceedings, the appellants' stay applications will likely be dismissed."

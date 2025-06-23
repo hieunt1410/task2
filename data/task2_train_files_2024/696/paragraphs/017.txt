@@ -1,0 +1,2 @@
+[17]
+The block feeding system allows a flaker to flake a continuous feed of a given sized bundle of log pieces. In this system, logs of whatever original length are cut into blocks of slightly less than the width of the flaking compartment. Bundles of these blocks are then delivered to a conveyor and the conveyor in turn delivers these bundles continuously into the flaking compartment.

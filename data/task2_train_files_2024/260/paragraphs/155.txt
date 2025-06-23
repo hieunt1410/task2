@@ -1,0 +1,4 @@
+[155]
+Dr. Rodricks' conclusion that it is 99.4% certain that the LD
+50
+'s of 208 mg/kg and 244 mg/kg for ofloxacin and levofloxacin are different and distinguishable, despite marginal overlap in the 95% confidence intervals, is based on the "likelihood ratio test", a statistical test specifically for this purpose. Confidence intervals are not for use in determining whether two different values are statistically, significantly different. (Rodricks Affidavit at para. 49, AR, v. 24, Tab 34, p. 7126; Rodricks Cross at q. 141, AR, v. 29, Tab 40, p. 9012.)

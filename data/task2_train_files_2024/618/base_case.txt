@@ -1,0 +1,260 @@
+[1]
+Hargrave, Prothonotary
+: The plaintiffs seek amendments to the Statement of Claim, which I have allowed. In reaching that conclusion I have considered, among other authorities
+Scottish & York Insurance Co. et al. v. Canada
+(2000), 180 F.T.R. 115 (T.D.), a decision of Mr. Justice Teitelbaum in action T-2384-86.
+Scottish & York
+explores, for the first time, the relationship among Rule 75, dealing generally with amendments, Rule 76, amendments to correct the name of a party or the capacity in which the party sues and Rule 201, amendments to add new causes of action. I now consider this in more detail, beginning with some relevant background material.
+BACKGROUND
+[2]
+This action arises out of the surrender of petroleum, natural gas and mining rights, in connection with reserve land, to the Federal Crown, by the Saddle Lake Band in about April and May of 1941 and by the Whitefish Band in about June of 1949. The surrender of these interests was on the written understanding that the Crown would hold them in trust and lease out the oil and gas rights on terms most conducive to the welfare of the Saddle Lake and Whitefish Bands, with the lease proceeds and interest to go to the credit of the Bands. The plaintiffs say there was a breach of this trust, from which damages flow.
+[3]
+In more detail, the plaintiffs say that the defendant was obliged to act in a manner consistent with the best interests of and conducive to the welfare of the plaintiffs. The Statement of Claim, issued 28 April 1986 seeks, among other things, damages for breach of duties and obligations as trustees. These breaches were, in the original Statement of Claim, said to have been ongoing since about 1979 when the Crown allowed the lessees to deduct amounts from royalty payments which the plaintiffs say were excessive. In that Statement of Claim the plaintiffs seek declaratory relief that there were breaches, on the part of the defendant, of obligations under the surrender agreements, of the Crown's duties and obligations as trustee and of the Crown's fiduciary duties and obligations to the plaintiffs principally by way of excessive gas cost allowances or alternatively, by way of allowing excessive deductions from royalties. The plaintiffs go on, in the relief sought, to ask that the Crown be enjoined from allowing further deductions under the gas cost allowance, or otherwise, that there be an accounting and damages and interest to reflect the improper deductions.
+[4]
+Turning to the amendments, the subject of this application, the plaintiffs seek minor housekeeping amendments in paragraphs 7, 10 and 26, to which no objection has been made, but fairly extensive amendments in proposed new paragraphs 9 and 14. To summarize proposed paragraph 9, it is to the effect that the Crown has breached its duties as a trustee and fiduciary. It sets out a number of failures as trustee and fiduciary including the crediting of money received for the lease of the mineral rights, payment of interest, verification of the accuracy and reasonableness of royalty calculations, adoption of measures to ensure timely payment or interest in lieu, establishment of minimum production requirements and ensuring systematic, orderly and cost effective development of the mineral rights.
+[5]
+Paragraph 14 sets out ways in which the Crown is alleged to have acted in a manner contrary to and inconsistent with its fiduciary duty. These failures are quite wide ranging and include abdications of fiduciary responsibilities, specific improper delegations and assorted further failures including as to verification of the accuracy of various deductions, establishment of minimum production requirements, the ensuring of ongoing development in an orderly and cost effective manner and, alternatively, a failure to restrict the allowance given to the lessees who failed to properly develop the mineral rights.
+[6]
+The Crown objects to most of the amendments put forward as paragraph 9 on the basis that they add new causes of action, causes of action which might go back to a time before gas production commenced in 1976, indeed perhaps back to the time of the surrenders. Moreover the Crown takes the position that any claim founded on a failure to place money to the credit of the plaintiffs ought to be subject to a six year limitation.
+[7]
+The Crown objects to many of the amendments put forward as paragraph 14 either on the basis that there might be a specific limitation period of six years applicable or, as in the case of some of the paragraph 9 amendments, they might allow the plaintiffs to question the Crown's actions going back to the 1940s. As I say, I have allowed the amendments. I now turn to the analysis of this conclusion.
+ANALYSIS
+[8]
+Initially, in their motion brief, the plaintiffs took two approaches by which to bring the desired amendments, to which the Crown objects, within the Rules as proper amendments, citing Rules 75 and 201 as alternatives. I put no great emphasis on the argument that the defendant may have lulled the plaintiffs into believing that the amendment would go by consent: that material merely adds to the evidence that the amendments, on which there already has been some examination for discovery, come as no surprise. Indeed the defendant has had a copy of the proposed amended Statement of Claim since 1994.
+[9]
+In the first instance, dealing with Rule 75, the plaintiffs submit that the disputed amendments are no more than particulars. In the second instance, dealing with Rule 201, the plaintiffs submit, in their original motion brief, that the amendments should be allowed even if the effect is to add a new cause of action, so long as the amendments are based on facts already pleaded and the defendant would suffer no prejudice, here citing the Federal Court of Appeal decision in
+Martel Building Ltd. v. Canada
+(1998), 229 N.R. 187, affirming (1998), 163 D.L.R.(4th) 504, a case based on the former
+Federal Court Rules
+.
+[10]
+After the motion briefs had been exchanged, but before the motion was heard, counsel for the plaintiffs became aware of
+Scottish & York Insurance Co.
+, supra, an apt decision in the present instance, for it deals with amendment and explains the interplay among Rules 75, 76 and 201, which I will set out in due course. I therefore asked counsel to provide me with their further views, that being accomplished through supplemental briefs. All of the material filed by counsel, the original motion records and the supplemental briefs, have proven interesting and useful.
+[11]
+In these reasons I have touched upon the plaintiffs' argument that the amendments are particulars, an argument which I find acceptable. However I believe to allow the amendment under Rule 201 to be more apt.
+Some Relevant Legislation
+[12]
+The relevant
+Federal Court Rules
+, for the purpose of this motion, are 75(1), 76, 77 and 201:
+"75(1) Subject to subsection (2) and rule 76, the Court may, on motion, at any time, allow a party to amend a document, on such terms as will protect the rights of all parties.
+"76. With leave of the Court, an amendment may be made
+(a) to correct the name of a party, if the Court is satisfied that the mistake sought to be corrected was not such as to cause a reasonable doubt as to the identity of the party, or
+(b) to alter the capacity in which a party is bringing a proceeding, if the party could have commenced the proceeding in its altered capacity at the date of commencement of the proceeding, unless to do so would result in prejudice to a party that would not be compensable by costs or an adjournment.
+"77. The Court may allow an amendment under rule 76 notwithstanding the expiration of a relevant period of limitation that had not expired at the date of commencement of the proceeding.
+"201. An amendment may be made under rule 76 notwithstanding that the effect of the amendment will be to add or substitute a new cause of action, if the new cause of action arises out of substantially the same facts as a cause of action in respect of which the party seeking the amendment has already claimed relief in the action."
+[13]
+Perhaps also relevant are two limitation provisions, the first from the
+Limitations Act
+, R.S.A. (1998), c. L-15.1 and the second from the predecessor legislation, the
+Limitation of Actions Act
+, R.S.A. (1980), c. L-15:
+"13. An action brought, after the coming into force of this Act, by an aboriginal people against the Crown based on a breach of fiduciary duty alleged to be owed by the Crown to those people is governed by the law of limitation of actions as if the Limitation of Actions Act had not be repealed and this Act were not in force." (
+1998 Limitations Act of Alberta
+)
+and:
+"40. Subject to the provisions of this part, no claim of a cestui que trust against his trustee for any property held on an express trust, or in respect of a breach of trust, shall be barred by this Act." (
+Alberta Limitations of Actions Act - 1980
+)
+In effect it is the 1980 legislation which would apply in the present instance in the case of a breach of trust, being an allegation made by the plaintiffs in this instance. The defendant submits that all of the proposed amendments may not fall within s. 40 of the
+Limitation of Actions Act
+.
+Basic Principles
+[14]
+There are some basis principles which apply to amendments. I do not believe the parties are in disagreement here. Indeed, while the principles are, for the most part, common place, it is useful to set them out.
+[15]
+To begin, amendments to determine real questions in controversy, the determination of which would serve the interests of justice, ought to be allowed so long as they do not work an injustice incapable of being compensated by costs. This is set out in clear language by Mr. Justice Blais, in
+Almecon Industries Ltd. v. Anchortek Ltd. et al.
+, [1999] F.T.R. Uned. 23; 85 C.P.R.(3d) 216 (T.D.), at 218:
+"It is my opinion that the amendments should be allowed for determining the real questions in controversy provided that they do not result in an injustice to the defendants not capable of being compensated for by an award of costs and that the amendments would serve the interest of justice."
+[16]
+The Court of Appeal in
+Minister of National Revenue v. Canderel Ltd.
+, [1994] 1 F.C. 3; 157 N.R. 380, quoted
+Continental Bank Leasing Corp. et al. v. Minister of National Revenue
+(1993), 93 D.T.C. 298 (Tax. C.C.), in which Mr. Justice Bowman touched upon a number of factors to be considered when dealing with an amendment but concluded that "Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.":
+Canderel
+at page 12,
+Continental Bank
+at page 302.
+[17]
+Mr. Justice Bowman touches upon the concepts of fairness and justice. The counterpart to that is prejudice to a respondent in allowing an amendment. The Court of Appeal, in
+Andersen Consulting v. Canada
+, [1998] 1 F.C. 605; 220 N.R. 35 (F.C.A.), pointed out that prejudice to a respondent is not measured by whether an amendment will make the case more difficult for the other side to win:
+"The fact that the proposed amendments might make the case more difficult for a party to win is not the kind of prejudice that is in issue on motions to amend the pleadings." (Page 613)
+Nor is it a major consideration that an amendment will expose a party to increased financial liability:
+Taiyo Gyogyo K.K. et al. v. Ship Tuo Hai et al.
+, [1995] 1 F.C. 407; 85 F.T.R. 251 (T.D.), at 418, where Madame Justice Reed pointed out that the main prejudice to the Crown, arising from the amendment, would be increased financial liability but that this did not weigh "heavily enough in the balance to justify denying the amendment.".
+[18]
+There is a final pertinent area to deal with: as a general principle I ought to accept the amendments at face value, assuming the facts pleaded in the amendments are true, and not accept evidence on the application unless it is need to clarify the nature of the amendments:
+Visx Inc. v. Nidek Co. et al.
+(1997), 209 N.R. 342, at 347 (F.C.A.). Nor ought I to anticipate whether the amendment will be successful at trial:
+Gleason Works v. Excalibar Tool Inc.
+(1996), 66 C.P.R.(3d) 139 (F.C.T.D.), at 140, in which Associate Chief Justice Jerome, being satisfied that the amendments clarified an issue and caused no injustice, referred to
+Société Canadienne Métaux Reynolds v. Fednav Ltd.
+(1989), 18 A.C.W.S.(3d) 1234 (F.C.T.D.), in which Mr. Justice Dubé wrote that "the motions judge does not anticipate whether an amendment will be successful at trial, he merely decides whether or not it ought to be filed". This is in line with what the Court of Appeal said in
+Cardinal et al. v. Canada
+, [1994] 3 C.N.L.R. 41; 164 N.R. 301: the test for disallowing a proposed amendment is that it be plain, obvious and beyond doubt that it will not succeed. In
+Enoch Band
+the Court of Appeal commented upon the test to be applied under both Rule 419, for striking out pleadings, and Rule 420, the amendment of pleadings, noting it really did not matter which Rule was applied in the instance. The Court of Appeal then said:
+"We have heard the appeals on the basic assumption that in these areas the court will only strike pleadings or deny amendments in plain and obvious cases where the case is beyond doubt." (p. 42)
+"... we are dealing here with an area of the law which cannot be said to be settled with certainty. Accordingly we think the appellants should have a chance to raise the whole issue of trust at trial." (p. 43)
+Interestingly
+Enoch Band
+dealt with the surrender of Indian Lands and the denial, at the trial level, overturned by the Court of Appeal, of an amendment to allege a trust and a breach of trust, involving money held in trust by the Crown for the Band. I now turn to the first justification for the amendments, that they are merely particulars of the cause of action which has already been alleged.
+Amendments as Particulars
+[19]
+While there are a number of functions which particulars address, the underlying purpose of particulars is so that each party may know the case that his or her opponent intends to make at trial and so prevent the confusion, prejudice, expense and delay which would arise at trial if he or she were taken by surprise. To achieve this end particulars elaborate on and explain the cause or causes of action set out in the pleadings, although they are not for the purpose of filling in gaps in a pleading.
+[20]
+As I understand the defendants argument it is that the plaintiffs' proposed amendments are not particulars but rather, to quote the written argument, are a whole "series of new actions.". To arrive at this position the defendant submits that the amendments go beyond the question of the propriety of the gas cost allowance deductions granted by the Crown, that issue, in the defendant's view, being the sole issue pleaded in the original Statement of Claim.
+[21]
+During argument the Crown submitted that the amendments were in fact new causes of action, rather than particulars, differentiating particulars from causes of action by reason of particulars not standing on their own, as does a cause of action.
+[22]
+Mr. Justice Brandon pointed out in
+Ship Katcher I, Re
+, [1968] 1 Lloyd's 232, at 235, that it is not always easy to make the fine distinction between an amendment adding a new cause of action and an amendment which extended or varied the particulars of a cause of action, referring, in that passage, to
+Collins v. Hertfordshire County Council
+, [1947] K.B. 598 and
+Dornan v. Ellis (J.W.) & Co.
+, [1962] 1 Q.B. 583, a decision of the Court of Appeal.
+[23]
+In
+Collins v. Hertfordshire
+the cause of action was the negligence of the Hertfordshire County Council in and about the conduct of their hospital. Initially the allegations were directed at the resident medical officer and at a visiting surgeon, both paid by the defendant. After limitation had run the plaintiff sought to add a claim that the hospital was also liable for the negligence of their pharmacist. In allowing the amendment Mr. Justice Hilbery pointed out that "The alleged negligence of the pharmacist was not a new cause of action; it was a new particular: that is all it is." (Page 622).
+[24]
+In
+Dornan v. Ellis
+at issue were damages for personal injuries caused by the negligence or breach of statutory duty of the defendants, their servants or agents. The initial particulars of the negligence, in substance, were that the defendants had neglected to provide a workman with means of protecting his eyes against a defective tool. At trial the plaintiff sought to amend by adding to the particulars of negligence an allegation to the effect that the accident had been caused by the negligence of a fellow worker, or other servants or agents of the defendants and that the defendants were thus vicariously liable. At trial the judge refused the amendment as raising a fresh cause of action which would be statute barred at that date. The Court of Appeal pointed out that the new particulars of negligence, while different in quality from the original particulars, did not raise a new cause of action nor a different case of negligence, but rather invited a different approach to the same facts. Thus the Court of Appeal was not precluded from exercising discretion and allowing the amendment after the limitation period had run. This is essentially what is set out in two passages at pages 592 and 593:
+"... I find myself unable to share the judge's view that this is a case where, as a matter of principle, no amendment can be allowed. The fresh allegations do not introduce a new cause of action, nor, in my view, 'a new set of ideas'. The original allegations were not against Stewart: but they were allegations that the defendant company's servants or agents had failed in the provision of goggles and a proper drill. Admittedly that was an allegation of breach of duty for which the company could not avoid liability under the former doctrine of common employment. But it was all part of the allegation that through lack of proper care of the defendants, their servants or agents, the plaintiff suffered injury. The allegation against a fellow-workman was an extension of the case rather than a new case. It must be a question of degree in each case on its particular facts. I regard this as a difficult case which is near the line." (p. 592)
+Lord Justice Holroyd Pearce referred to and contrasted the present situation with
+Batting v. London Passenger Transport Board
+, [1941] 1 All E.R. 228 (C.A.) and
+Marshall v. London Passenger Transport Board
+, [1936] 3 All E.R. 83 (C.A.), in which the amendments set up new and different causes of action and then went on to say:
+"Mr. Taylor, for the defendants, contends that the present case is in the same class as
+Marshall's
+case and
+Batting's
+case. But not without hesitation I have come to the view that it is not. The story that is now set up by the plaintiff is the same story as that set up all along, namely, that the plaintiff lost his eye from a piece of the drill which was being operated by Stewart. And, as I think, what is now sought to be done is not to make out a new case of negligence, but to persist in the old story and invite the judge at the trial to approach it, to interpret it, from a different angle or aspect. It is a different approach to the same main story of the accident." (pp. 593-94)
+In the present instance, if the underlying cause of action persists and if it is appropriately broad, the amendments may be merely new particulars which invite a judge to approach and interpret the wrong, here a breach of trust, from a different angle or aspect.
+[25]
+My reading of the Statement of Claim is influenced by the above comments in
+The Katcher I
+,
+Collins v. Hertfordshire
+and
+Dornan v. Ellis
+and is a little more expansive than that of the defendant. The cause of action is somewhat broader, encompassing obligations and duties arising out of the surrender of mineral rights, which duties and obligations were breached not only by the allowance to lessees of a gas cost allowance deduction from royalties and an increase of that allowance, but also by a failure to pay all royalty money to the plaintiffs. The plaintiffs allege a breach of s. 53(1) of the
+Indian Act
+, which allows the Minister, in accordance with the legislation and the terms of surrender, to manage, lease or carry out other transactions pertinent to the land that has been surrendered. Most, but not all of the breaches referred to the original Statement of Claim, are aspects of the gas cost allowance. However there are broad references to breaches in the context of s. 53(1) of the
+Indian Act
+, the
+Indian Oil and Gas Act
+and the
+Indian Oil and Gas Regulations
+, including by way of s. 4 of the
+Indian Oil and Gas Regulations
+, which section brings in the issue of ensuring compliance by lessees with all of the provisions of the
+Indian Act
+and the
+Indian Oil and Gas Regulations
+. Such a broad plea begs for limiting particulars, such as those which the plaintiffs now seek to file.
+[26]
+In my view the amendments are just such particulars. The claims that the particulars illuminate may be difficult to prove, but one cannot say either that they are forlorn or that it is plain and obvious that they cannot succeed, the test applied on amendment by the Court of Appeal in
+Enoch Band
+, supra.
+[27]
+That the amendments may make the case a more difficult one for the Crown to successfully defend is not prejudice to the Crown:
+Andersen Consulting
+, supra.
+[28]
+The defendant Crown suggests witnesses who might know about the early development of the gas fields and their management may be impossible to find or may have memories which have faded. The defendant Crown also speculates on problems it might have in tracing money it received. All of this, as injustice or prejudice, is conjectural and has no place, without some solid evidence, in submissions in opposition to the amendment.
+[29]
+The Crown does, however, raise an interesting point: an amendment alleging a new cause of action may not be retroactive, in the face of a limitation statute, unless the court allowing the amendment actually rules on the issue of limitation. In
+FRAGMENT_SUPPRESSED
+This view, that an amendment may not be retroactive until the issue of limitation is decided does not of course prevent the amendment at this point. There are a number of possibilities which may flow from the amendments if they are not merely particulars which do not raise a new cause of action: the limitation provisions from the applicable Alberta Limitation Statutes, which I set out earlier, may or may not apply; the limitation defence, which I expect the defendant will now plead, may well be one to which the plaintiffs have an answer; contrary to
+Boothman
+there is substantial case law to the effect that a limitation point ought not to be decided in the context of striking out a statement of claim or by extension when an amendment is granted, but rather it should await a trial where it may be argued in full before a judge hearing the application, a judge who has access to all of the facts; or, if there is a new cause of action contained in the amendments,
+Scottish & York
+, supra, may provide a complete answer, a point to which I now turn.
+Amendment Pursuant to Rule 201
+[30]
+The plaintiffs submit that they also have the ability to amend under Rule 201, in effect adding a new cause of action, arising out of substantially the same facts, even where a limitation might have run.
+[31]
+Under former Rules 424 through 427 amendments were allowed after a limitation had run in certain instances. For example, an amendment was allowed after a limitation had run where the defendant had always known the facts underlying the amendment, which merely served to make the damage claim more precise:
+U & R Tax Services Ltd. v. H & R Block Canada Inc.
+(1993), 167 N.R. 82 (F.C.A.). Similarly, Rule 427, combined with Rule 424, specifically allowed an amendment which would add or substitute a new cause of action if that new cause of action arose out of the same facts, or substantially the same facts, in respect of which relief is already claimed: see for example
+Canadian Motor Sales Corp. v. Ship Madonna
+, [1972] F.C. 25; 24 D.L.R.(3d) 573 (T.D.) and
+Francoeur et al. v. Minister of National Revenue
+(1992), 140 N.R. 389 (F.C.A.), at page 391. Important to note here is that it must also be just to allow the amendment to be made.
+[32]
+The present Rules are less clear than Rule 427 which, as I say, unambiguously allowed the court the discretion to allow an amendment after time had run. Present Rule 201, together with Rule 77, set out earlier, parallel the language found in former Rule 427, grant the discretion to allow such an amendment but, arguably, limit such an amendment to the name or capacity of a party. The question then becomes whether an amendment adding a new cause of action, arising out of the same or substantially the same fact pattern as is pleaded, is barred on the basis of early case law which precluded amendment to the body of the Statement of Claim when such might deprive a defendant of a limitation defence: see for example
+Weldon v. Neal
+(1887), 19 Q.B.D. 394 (C.A.) and
+Mabro v. Eagle Star and British Dominion Insurance Co.
+, [1932] 1 K.B. 485, at 487 and 489 (C.A.).
+[33]
+Our old Rule 427 is similar to the English Order 20 Rule 5, a new provision which, in 1964, allowed for the first time amendment after the running of a limitation date. This was a clear relaxation from the former practice, a practice clearly set out by Lord Justice Scrutton in
+Mabro
+, supra, at page 487:
+"In my experience the court has always refused to allow a party or a cause of action to be added where, if it were allowed, the defence of the Statute of Limitations would be defeated. The court has never treated it as just to deprive a defendant of a legal defence. If the facts show either that the particular plaintiff or the new cause of action sought to be added are barred, I am unable to understand how it is possible for the court to disregard the statute."
+The history of the practice in England, leading up to Order 20 Rule 5, is set out in
+Rodriguez v. Parker
+, [1967] 1 Q.B. 116.
+[34]
+The earlier cases had been decided, for the most part on the view that a defendant had a right under the statute of limitations, which ought not to be taken away by an amendment to a writ. Lord Denning pointed out in
+Mitchell v. Harris Engineering Co.
+[1967] 2 Q.B. 703 (C.A.), at 718 that the statute of limitations had not conferred any right upon a defendant, but only a limit on a plaintiff. Thus, when a writ was issued in a timely manner, but was defective, a defendant had no right to have it remain defective. Rather a court might cure the defect by an amendment and that is what was done by Order 20 Rule 5.
+[35]
+Until the new
+Federal Court Rules
+came into being in April of 1998, the English Rules as to amendment and the
+Federal Court Rules
+as to amendment were similar and so was the jurisprudence.
+[36]
+In
+Scottish & York
+, supra, Mr. Justice Teitelbaum was faced with the argument, by the defendant, that a new cause of action might be raised, notwithstanding a limitation period, only where there were special circumstances which invoke Rule 76. Rule 76, which is set out earlier, allows an amendment to correct the name of a party or alter the capacity in which a party is bringing a proceeding. Rule 77 goes on to set out that an amendment under Rule 76 may be allowed, not withstanding the expiration of a limitation period. Rule 201 seems to cover much the same ground, providing that an amendment might be made under Rule 76 even though the effect will be to add or substitute a new cause of action, so long as the new cause of action arises substantially out of the same facts as that already pleaded. From all of this the defendant, in
+Scottish & York
+, submitted that amendments might be allowed after a limitation had run, so long as it was purely an amendment within Rule 76, but such a discretion did not apply to an amendment sought pursuant to Rule 75, the general right to amend a document.
+[37]
+Mr. Justice Teitelbaum found for the plaintiff, in
+Scottish & York
+, setting out that where amendments arise from the same factual situation as set out in the initial Statement of Claim, then there is no new cause of action and the amendments must be allowed:
+"I am in agreement with the plaintiffs that if the allegations contained in the subparagraphs sought to be added to paragraph 18 arise from the same factual situation as was before the Court in the Statement of Claim of 1987, then there is no new cause of action and the amendments must be allowed."
+However he then went on to examine new Rules 76, 77 and 201. He concluded that the only question raised on the motion was whether the amendments were based on substantially the same facts as those contained in the original Statement of Claim, but then offered his view on Rule 201:
+"Having said that, I am of the view that rule 201 must be interpreted broadly. The wording is unambiguous – 'if the new cause of action arises out of substantially the same facts as a cause of action in respect of which the parties seeking the amendment has already claimed relief in the action.'
+"In my view, the two new subparagraphs sought to be added by the plaintiffs by paragraph 18 of the Amended Statement of Claim arise out of substantially the same set of facts as the cause of action for which they have already claimed relief. Thus, the amendments must be allowed pursuant to Rule 201.
+"Furthermore I am satisfied that rule 75 permits the court, on a motion, to allow a party to make an amendment. Rule 75 is not limited to make [sic] amendments subject to Rule 76."
+[38]
+The result of all of this would seem to be that Mr. Justice Teitelbaum, despite the perhaps ambiguous wording of the new
+Federal Court Rules
+, was not about to turn his back upon the previous practice, a practice established many decades ago in England and carried through in the original
+Federal Court Rules
+, merely because of some arguably ambiguous drafting in the new
+Rules
+. In summary where paragraphs sought to be added as amendments arise substantially out of the same facts as alleged in the original Statement of Claim it is irrelevant whether or not the amendments raise a new cause of action which is barred by a limitation period.
+CONCLUSION
+[39]
+In the present instance one should look at the overall content of the Statement of Claim and to the breach of duties founded on the agreements by which the land was surrendered. The obligations, duties and powers of the defendant are as a trustee and as a fiduciary and arise as a result of those surrender agreements. The pleading is broad enough and here I would include the breaches pleaded in the context of the
+Indian Act
+, the
+Indian Oil and Gas Act
+and
+Regulations
+, so that the amendments may be categorized as particulars and granted under Rule 75. However, the line between particulars and a new cause of action, as pointed out by Mr. Justice Brandon in
+The Katcher I
+, supra, is not always an easy distinction to make. Thus the use of Rule 201 and the granting of the amendment as a new cause of action, even though there is the possibility that a limitation has run, may be the better approach.
+[40]
+Returning to some of the basic principles which I set out earlier, these amendments are necessary to determine real questions in controversy and in doing so serve the interests of justice. By allowing the amendment, even where a limitation may have run, the defendant has not lost a right, a point made by Lord Denning in
+Mitchell v. Harris
+, supra. Certainly the case may be a more difficult one for the defendant to successfully defend against and it may expose the defendant to increase financial liability. However, as I have pointed out in referring to
+Andersen Consulting
+, supra and to
+The Tuo Hai
+, supra, this is not real prejudice. Thus the amendments are allowed under Rule 201. There will be an appropriate order as to costs to compensate the defendant.
+Amendments allowed.
+Editor: Sharon J. McLaughlin/gs
+[End of document]

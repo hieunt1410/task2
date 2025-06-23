@@ -1,0 +1,239 @@
+[1]
+Hargrove, Prothonotary
+: This litigation seeks relief arising out of alleged infringement of the plaintiffs' trademark
+Pulmicort
+. The plaintiffs seek, among other things, that the defendant's trademark
+Pneumocort
+be struck from the Register of Trademarks.
+[2]
+These reasons arise out of the defendant's motion, which the parties agreed to be dealt with in writing pursuant to rule 324, for particulars of the allegations set out in paragraph 21 of the statement of claim which reads:
+"21. Further still, in view of the aforesaid, the defendant's said registration of the PNEUMOCORT trademark is invalid and ought to be expunged as:
+(a) the PNEUMOCORT trademark was not registrable at the date of registration;
+(b) the PNEUMOCORT trademark was not distinctive at the date this proceeding was commenced; and
+(c) the defendant was not the person entitled to secure the PNEUMOCORT registration."
+[3]
+The statement of claim leads up to the conclusions of law in paragraph 21 by means of a dozen paragraphs setting out background facts. Notwithstanding the underpinnings to the conclusions of law, the reference to various sections of the
+Trade-marks Act
+in paragraph 23 of the statement of claim, and attached registration particulars of the trademark
+Pulmicort
+in favour of Astra Aktiebolag as owner of the trademark, the defendant seeks particulars of paragraph 21.
+Defendant's Request For Particulars
+[4]
+The defendant sets out in its motion, but not in any affidavit material, that in order to plead to the statement of claim it requires
+a) particulars of the grounds upon which it is alleged that the trademark was not registrable at the date of registration;
+b) particulars of the grounds upon which it is alleged that the trademark was not distinctive at the date this proceeding was commenced; and
+c) particulars of the grounds upon which it is alleged that the defendant was not the person entitled to secure the PNEUMOCOURT (sic) registration.
+[5]
+In addition, counsel for the defendant submits that the defendant needs particulars in order to prepare for trial (p. 5 of written submissions filed May 3, 1995), however, the motion is only for particulars necessary for pleading.
+Analysis
+[6]
+This motion was initially to have been dealt with on a regular motions' day. In preparation for the expected oral presentations by counsel, I read the statement of claim, the defendant's motion and affidavit in support, and the relevant portions of the
+Trade-marks Act
+. It seemed to me, on my initial reading of the material, that the defendant, on the basis of the statement of claim, had reasonable particulars in order to file a defence. My initial reaction was bolstered by the fact that the defendant did not file affidavit evidence setting out the need for further particulars in order to file a defence. Further particulars, or broader particulars, might be necessary for trial and those, if the defendant so desired, might be forthcoming on examination for discovery, but that is another issue.
+[7]
+I have now had the benefit of substantial written argument, including case authorities, from both counsel.
+Need For Particulars
+[8]
+The plaintiffs, in response to the defendant's motion for particulars, takes the point that the motion is not supported by any affidavit evidence setting out the need for particulars. The supporting affidavit merely attaches copies of correspondence in which counsel for the defendant asks that further and better particulars be provided, without going into reasons why they are needed, and the response that counsel for the plaintiffs has carefully considered the request and is of the view that further particulars are not necessary given the facts already pleaded.
+[9]
+Mr. Justice Teitelbaum, in
+Flexi-Coil Ltd. v. Bourgault (F.P.) Industries Air Seeder Division Ltd.
+(1988), 19 C.P.R.(3d) 125 (F.C.T.D.), considered a motion for particulars. While there were affidavits in support, none of them either showed the need for particulars or suggested that the defendant could not plead to the statement of claim until it had particulars. Mr. Justice Teitelbaum conceded that rule 319(2), which provides:
+"A motion shall be supported by affidavit as to all the facts on which the motion is based do not appear from the record, which affidavit shall be filed; ..."
+was not a hard and fast rule in that the court might waive compliance. However, he declined to do so and dismissed the application on the basis of insufficient affidavit material in support.
+[10]
+Associate Chief Justice Jerome pointed out in
+Windsurfing International Inc. v. Novaction Sports Inc. and Teasdale
+(1987), 15 F.T.R. 302; 18 C.P.R.(3d) 230 (T.D.):
+"As a general rule, particulars will not be ordered unless the defendant establishes that they are both necessary for pleading and not within its knowledge, unless of course the pleadings are, on their face, inadequate or in violation of the rules: ... (p. 237)"
+[11]
+In the present instance, counsel for the defendant refers to
+P.L.G. Research Ltd. et al. v. Jannock Steel Fabricating Co. et al.
+(1991), 46 F.T.R. 25; 35 C.P.R.(3d) 344 (T.D. Prothonotary), a decision in which the Associate Senior Prothonotary, Mr. Giles, ordered particulars, notwithstanding the absence of an affidavit indicating the necessity for particulars, on the common sense basis that the pleadings were deficient on their face, and thus no affidavit evidence was required to substantiate the claim for particulars.
+Consideration Of
+Statement Of Claim
+[12]
+As I have indicated, my initial reaction, taking the statement of claim as a whole, was that there were sufficient particulars. Given the substantial written submissions, I have worked through the statement of claim to consider again whether it is deficient on its face as to particulars. This further, more detailed consideration really entails considering whether there are sufficient particulars to meet the applicable English
+White Book
+(The Supreme Court Practice) functions required of particulars, which in the 1988 edition are set out at p. 287:
+(1) to inform the other side of the nature of the case they have to meet as distinguished from the mode in which that case is to be proved ...
+(2) to prevent the other side from being taken by surprise at the trial ...
+(3) to enable the other side to know what evidence they ought to be prepared with and to prepare for trial ...
+(4) to limit the generality of the pleadings ...
+(5) to limit and define the issues to be tried, and as to which discovery is required ...
+(6) to tie the hands of the party so that he cannot without leave go into any matters not included ...
+which functions were approved by the Federal Court of Appeal in
+Gulf Canada Ltd. v. Tug Mary Mackin and Sea-West Holdings Ltd.
+, [1984] 1 F.C. 884; 52 N.R. 282 (F.C.A.). However, I have kept in mind that there is a distinction between particulars needed before pleading and those needed before trial, the former required so as to intelligently plead and the latter, much broader, being any particulars required to properly prepare for trial: see for example
+CAT Productions Ltd. v. Macedo et al.
+(1984), 1 C.P.R.(3d) 517 (F.C.T.D.), at pp. 519-520.
+[13]
+I have also kept in mind that it is improper to make bare assertions of conclusions of law in a pleading. However, they are permissable so long as supported by the material facts on which the conclusions are based: FRAGMENT_SUPPRESSED.
+[14]
+Turning to the statement of claim and beginning at paragraph 4, it sets out that the plaintiffs, who are in the business of pharmaceuticals for the treatment of pulmonary disease, are the owners and licensees of the trademark
+Pulmicort
+, registered April 9, 1976, as set out in particulars of registration which are attached as Schedule "A" to the statement of claim.
+[15]
+According to the statement of claim, the plaintiffs are, broadly speaking, in the business of research, development, manufacture, promotion, and sale of pharmaceutical preparations. In this context, the Canadian licensee has promoted
+Pulmicort
+pharmaceutical preparations for the treatment of pulmonary disease since 1988 and as of about a year ago had a 34% share of the Canadian market for inhaled steroids for pulmonary disease. These products are prescribed by physicians and administered both by health care professionals and by patients themselves. The plaintiffs go on to say that
+Pulmicort
+is a highly-regarded and reputable brand name, with valuable goodwill among those involved in health care and pharmaceuticals and, indeed, among patients themselves.
+[16]
+The plaintiffs allege that the defendant filed an application to register
+Pneumocort
+on February 26, 1993, as a pharmaceutical trademark for drugs used in the treatment of inflammation and asthma, marketing those preparations in Canada, and as a result
+Pneumocort
+was registered in the name of the defendant on May 27, 1994, the particulars of which are set out in Schedule "B" to the statement of claim.
+[17]
+Paragraphs 13 and 14 of the statement of claim set out the use of the defendant's
+Pneumocort
+trademark in Canada in respect of drugs for the treatment of inflammation and asthma, and that
+Pneumocort
+brand products are for the treatment of pulmonary disease. These
+Pneumocort
+brand products are, as in the case of the plaintiffs'
+Pulmicort
+brand products, prescribed by physicians, dispensed by pharmacists, and administered by those in health care to patients, or administered by patients themselves.
+[18]
+As a result of all of this, the plaintiffs say that the defendant is using their
+Pneumocort
+trademark in such a way as to cause or to be likely to cause confusion with the plaintiffs'
+Pulmicort
+trademark and further that the defendant's activities are both an infringement of the plaintiffs' rights in the
+Pulmicort
+trademark and will likely have the effect of depreciating the value of the goodwill attached to the plaintiffs'
+Pulmicort
+trademark.
+[19]
+At this point in the statement of claim, we reach paragraph 21, setting out that:
+"21. Further still, in view of the aforesaid, the defendant's said registration of the PNEUMOCORT trademark is invalid and ought to be expunged as:
+(a) the PNEUMOCORT trademark was not registrable at the date of registration;
+(b) the PNEUMOCORT trademark was not distinctive at the date this proceeding was commenced; and
+(c) the defendant was not the person entitled to secure the PNEUMOCORT registration."
+This is the paragraph about which the defendant submits needs particulars.
+[20]
+The plaintiffs then go on to say that the
+Pneumocort
+trademark ought to be struck from the Register as it does not accurately express or define the existing rights of the defendant as registered owner of the trademark. The plaintiffs then, in paragraph 23 "... rely on the provisions of the
+Trade-marks Act
+, R.S. 1985, c. T-13, as amended, including ss. 6, 7(b), 12(1)(d), 16(3)(a), 17, 18, 19, 20, 22, 55, 57(1), and 58 thereof".
+[21]
+A cursory inspection, the statement of claim, which is of a reasonable length and clearly written, would seem to leave little or no doubt as to the plaintiffs' case. However, the defendant raises a number of points. As to paragraph 21(a) of the statement of claim the defendant says that it does not know which part of s. 12(1) of the
+Trade-marks Act
+applies. This is not a point which impresses me, for given the background information set out in the statement of claim it is clear that the defendant's trademark is not registerable because it was confusing with a registered trademark, that of the plaintiffs, as provided for in s. 12(1)(d) of the
+Trade-marks Act
+:
+"12.1	Subject to s. 13, a trademark is registerable if it is not ...
+(d) confusing with a registered trademark; ... "
+[22]
+Paragraph 21(b) of the statement of claim, taken together with the background information set out in paragraphs 5 through 20, concludes that the defendant's
+Pneumocort
+trademark was not distinctive, given the confusion that it has caused or is likely to cause with the plaintiffs' trademark. The defendant, in a reply to the plaintiffs' submissions, raises an argument based on the
+Trade-marks Act
+definition of "distinctive" in s. 2, about adaption of the trademark to distinguish wares, as opposed to actually distinguishing wares: this is something best left to be explored on discovery, or argued at trial.
+[23]
+The defendant, in its motion, sets out that the particulars are necessary for pleading. Particulars before a defence and for the purpose of pleading are not as broad as those furnished for the purposes of trial. A request for particulars is not a fishing expedition. The test is whether a defendant has enough information to be able to understand the plaintiffs' position and to prepare a responsive defence:
+"A defendant should not be allowed to use a request for particulars as a means to pry into the brief of his opponent with a view to finding out about the scope of the evidence that might be produced against him at trial, nor should he be allowed to use such a request as a means to go on a sort of fishing expedition in order to discover some grounds of defence still unknown to him. At that early stage, a defendant is entitled to be furnished all particulars which will enable him to better understand the position of the plaintiff, see the basis of the case made against him and appreciate the facts on which it is founded so that he may reply intelligently to the statement of claim and state properly the grounds of defence on which he himself relies, but he is not entitled to go any further and require more than that. (
+Embee Electronic Agencies Ltd. v. Agence Sherwood Agencies Inc. et al.
+(1979), 43 C.P.R.(2d) 285 (F.C.), at pp. 286-287)."
+[24]
+The defendant, in its submissions, relies on the functions of particulars as set out in the
+White Book
+and referred to in The
+"Mary Mackin"
+, supra. In that the present particulars are requested in the defendant's motion for the purpose of pleading to the statement of claim, the second and third functions of particulars set out in the
+White Book
+, to prevent surprise at trial and to enable the other side to know what evidence they ought to be prepared with and to prepare for trial, are not applicable in this instance as they relate to trial and not directly to pleading and, indeed, if discovery should take place, may not be needed as particulars per say. I therefore turn to the four remaining functions.
+Nature Of Case To Be Met
+[25]
+This function, as set out in the
+White Book
+, is "to inform the other side of the nature of the case they have to meet as distinguished from the mode in which the case is to be proved".
+[26]
+The nature of the case to be met is reasonably clear in that the plaintiffs, in pleading that the defendant's
+Pneumocort
+trademark was not registerable, are looking to s. 12(1)(d) of the
+Trade-marks Act
+, for that is a section of the
+Act
+referred to in paragraph 23 of the statement of claim; the paragraphs in the statement of claim leading up to the allegation that the
+Pneumocort
+trademark was not registerable certainly point to confusion between the two trademarks; s. 12(1)(d) is, by a process of elimination, the only option; and finally, the applicant, in paragraph 13 of written argument on this motion, recognizes that it is in fact the applicable section, before getting into rhetorical speculation as to what the other possibilities might be.
+[27]
+Again, paragraph 21(b) of the statement of claim, which sets out that the
+Pneumocort
+trademark is not distinctive, is, given the factual material which precedes it and the sections of the
+Trade-marks Act
+which follow it, sufficient from the point of view of explaining the nature of the case to be met, to inform the defendant that, from the plaintiffs' point of view, there has been and may in future be confusion between the trademarks and a resulting lack of distinctiveness.
+[28]
+In answer to the defendant's concern as to the meaning of paragraph 21(c) of the statement of claim, which says that the defendant was not entitled to procure the
+Pneumocort
+trademark registration, the plaintiffs have referred to s. 16(3)(a) of the
+Trade-marks Act
+, which entitles a person to register a trademark, subject to confusion with a trademark previously used in Canada. The background as to the prior and ongoing use of the plaintiffs' trademark, including the scheduled particulars of registration of the
+Pulmicort
+and
+Pneumocort
+trademarks, and the alleged confusion between the two trademarks, leaves no doubt as to the case the defendant must meet.
+[29]
+In summary, there are enough particulars contained in the statement of claim and attached Schedules to enable the defendant to know the nature of the case to be met. If the plaintiffs were required to give much further information, it would at least be a fishing expedition and might well touch on how the case is to be proven.
+Limiting The Generality
+Of Pleadings
+[30]
+The defendant's specific complaint here is that paragraph 21(b) of the statement of claim, which alleges that the
+Pneumocort
+trademark is not distinctive, is overly general and does not alert the defendant to the case it must prepare for trial (paragraph 14 of written submissions). Leaving aside that here the defendant's complaint is one in connection with preparation for trial, as opposed to particulars for pleading, the plaintiffs have again led up to the distinctiveness point and conclusion of law by being very specific as to the use of the plaintiffs' trademark; the specific wares, drugs for the treatment of pulmonary disease marketed under the trademark; the method in which they are used; the similarity of the defendant's trademark, wares, and manner in which they are used; the importance of the trademark to the plaintiffs, including as to market share; and the confusion that has resulted or may result in future. All of this clearly indicates what the conclusions of law in paragraph 21 of the statement of claim refer to and make the pleadings quite specific.
+[31]
+In summary, the plaintiffs' statement of claim, taken as a whole, is specific and not general.
+To Limit The Issues
+For Discovery
+[32]
+The fifth test set out in the
+White Book
+, as a function of particulars, is "to limit and define the issues to be tried, and as to which discovery is required".
+[33]
+The statement of claim, which contains a number of short and quite concise paragraphs, is a good deal more brief than many statements of claim in patent and trademark litigation. Brevity in a statement of claim, so long as it does not either leave the defendant guessing or make the hearing of the action difficult to regulate when the case is tried, is a virtue. Others might draft the statement of claim differently than has been done here. That is not a ground to say that this statement of claim does not limit and define the issues to be tried.
+[34]
+As to the second branch, limiting and defining the issues as to which discovery is required, the statement of claim is sufficient. Reduced to its essentials, the statement of claim sets out a prior registration of the plaintiffs' trademark, promotion, and use of the trademark in order to obtain sales equating to a very substantial market share, confusion over the defendant's use of a similar trademark, and an infringement which has damaged the goodwill attached to the plaintiffs'
+Pulmicort
+trademark, all of which lead to the three propositions of law set out in paragraph 21 of the statement of claim.
+[35]
+In summary, the statement of claim is quite specific and leaves little doubt as to areas to be explored on examination for discovery.
+To Limit The Plaintiffs' Scope
+[36]
+The sixth test, set out in the
+White Book
+, is "to tie the hands of the party so that he cannot without leave go into any matters not included ...". This is peripherally related to pleadings in that the defendant should be able to understand the plaintiff's case and plead on point to it, thus assisting in limiting the matters which the parties then need to explore.
+[37]
+The defendant says that the plaintiffs have referred to the applicable sections of the
+Trade-marks Act
+, in paragraph 23, as including those sections which are specifically enumerated and as a result the pleading is ambiguous, open-ended, and leaves the possibility of raising other grounds of unregisterability or lack of entitlement.
+[38]
+The word "including" generally, but does not always, enlarges the scope of enumerated items: see for example
+Dilworth v. Commissioner of Stamps
+, [1899] A.C. 99 (P.C.), at pp. 105-106. In other instances the use of the word "including" may extend scope, but not, I believe, to an indefinite and unnatural extent.
+[39]
+In the context of the plaintiffs relying on provisions of the
+Trade-marks Act
+, "including" various enumerated sections of the
+Act
+, one should look at the statement of claim as a whole. The sections of the
+Trade-marks Act
+available to the plaintiffs to use are limited, by the facts set out in the statement of claim, to those sections of the
+Act
+specifically set out in paragraph 23 of the statement of claim and to any necessarily incidental provisions, for example those dealing with definition or interpretation.
+[40]
+In summary, the facts and conclusions of law, set out in paragraphs 5 through 22 of the statement of claim, adequately tie the hands of the plaintiffs. That the plaintiffs may appear to be trying to broaden the scope of their attack, by including unspecified sections of the
+Trade-marks Act
+, is an illusion: if the plaintiffs in fact wished to broaden the scope of the matter, beyond the facts they have pleaded, they would need leave to amend.
+Conclusion
+[41]
+The defendant has made the point, several places in the written argument, that it would be simple enough for the plaintiff to plead exactly what it is relying upon. The contrary view is that the motion should not have been brought in the first place, for the plaintiffs' case is abundantly clear.
+[42]
+The defendant, who has not filed affidavit evidence as to the need for particulars for pleading, has not convinced me that, on the face of the statement of claim, it is deficient in particulars. Indeed, even if the application had been supported by affidavit evidence as to the necessity for particulars, I would have reached the same conclusion.
+[43]
+The defendant's motion is dismissed, with costs to the plaintiffs in any event.
+Motion dismissed.
+Editor: Reginald W. Curtis/gs
+[End of document]

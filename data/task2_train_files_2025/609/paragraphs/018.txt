@@ -1,0 +1,11 @@
+[18]
+As the Privacy Commissioner argued, if Alta Flights had successfully recorded its employees' conversations, there would be a prima facie violation of
+PIPEDA
+. This does not seem to be a fact disputed by any of the parties, Alta Flights included. Only following this finding would the debate then turn to whether Alta Flights may rely on the exemption provided for in s. 7(1)(b). This section reads as follows:
+"7(1) [...] an organization may collect personal information without the knowledge or consent of the individual only if
+(b) it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;"
+"7(1) [...] l'organisation ne peut recueillir de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+b) il est raisonnable de s'attendre à ce que la collecte effectuée au su ou avec le consentement de l'intéressé puisse compromettre l'exactitude du renseignement ou l'accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d'un accord ou la contravention du droit fédéral ou provincial;"
+During the hearing, Alta Flights admitted that it could not rely upon this exception and that if the Court concluded that either actual personal information was recorded by Ms. Hobbs or that the attempt to record such information was also a breach under the
+Act
+, it was subject to exemplary damages.

@@ -1,0 +1,9 @@
+[17]
+Justice Barnes considered the question of whether conduct constitutes discipline in
+Canada (Attorney General) v. Frazee
+, [2007] F.C.J. No. 1548; 319 F.T.R. 192; 2007 FC 1176 (T.D.):
+"[19] Whether an employer's conduct constitutes discipline has been the subject of a number of arbitral and judicial decisions from which several accepted principles have emerged. A useful summary of the authorities is contained within the following passage from Brown and Beatty,
+Canadian Labour Arbitration
+(4th Ed.), at para. 7:4210:
+"In deciding whether an employee has been disciplined or not, arbitrators look at both the purpose and effect of the employer's action. The essential characteristic of disciplinary action is an intention to correct bad behaviour on an employee's part by punishing the employee in some way. An employer's assurance that it did not intend its action to be disciplinary often, but not always, settles the question.
+"Where an employee's behaviour is not culpable and/or the employer's purpose is not to punish, whatever action is taken will generally be characterized as non-disciplinary. On the basis of this definition, arbitrators have ruled that suspensions that required an employee to remain off work on account of his or her health, or pending the resolution of criminal charges, were not disciplinary sanctions. ..."

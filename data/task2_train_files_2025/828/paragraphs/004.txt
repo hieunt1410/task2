@@ -1,0 +1,41 @@
+[4]
+The standard of review to be applied to discretionary orders of a prothonotary was stated by the Federal Court of Appeal in
+Merck & Co. et al.
+v.
+Apotex Inc.
+(2003), 30 C.P.R. (4th) 40 at paragraphs 17 to 20:
+17. This Court, in
+Canada
+v.
+Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425 (F.C.A.), set out the standard of review to be applied to discretionary orders of prothonotaries in the following terms:
+Following in particular Lord Wright in
+Evans
+v.
+Bartlam
+, [1937] A.C. 473 (H.L.) at page 484, and Lacourcière J.A. in
+Stoicevski
+v.
+Casement
+(1983), 43 O.R. (2d) 436 (Div. Ct.), discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion
+de novo
+. [MacGuigan J.A., at pp. 462-463; footnote omitted.]
+18. MacGuigan J.A. went on, at pp. 464-465, to explain that whether a question was vital to the final issue of the case was to be determined without regard to the actual answer given by the prothonotary:
+It seems to me that a decision which can thus be either interlocutory or final depending on how it is decided, even if interlocutory because of the result, must nevertheless be considered vital to the final resolution of the case. Another way of putting the matter would be to say that for the test as to relevance to the final issue of the case, the issue to be decided should be looked to before the question is answered by the prothonotary, whereas that as to whether it is interlocutory or final (which is purely a
+pro forma
+matter) should be put after the prothonotary's decision. Any other approach, is seems to me, would reduce the more substantial question of "vital to the issue of the case" to the merely procedural issue of interlocutory or final, and preserve all interlocutory rulings from attack (except in relation to errors of law).
+This is why, I suspect, he uses the words "they [being the orders] raise questions vital to the final issue of the case", rather than "they [being the orders] are vital to the final issue of the case". The emphasis is put on the subject of the orders, not on their effect. In a case such as the present one, the question to be asked is whether the proposed amendments are vital in themselves, whether they be allowed or not. If they are vital, the judge must exercise his or her discretion
+de novo
+.
+19. To avoid the confusion which we have seen from time to time arising from the wording used by MacGuigan J.A., I think it is appropriate to slightly reformulate the test for the standard of review. I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read:
+Discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+a) the questions raised in the motion arevital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.
+20. With respect to the test to be applied by this Court on an appeal from a judge's decision, the Supreme Court of Canada, in
+Z.I. Pompey Industrie
+v.
+Ecu-Line N.V.
+(2003), 224 D.L.R. (4th) 577, held at para. 18 that the Federal Court of Appeal may only interfere with the decision of the applications judge where the judge "had no grounds to interfere with the prothonotary's decision or, in the event such grounds existed, if [the judge's decision] was arrived at on a wrong basis or was plainly wrong".

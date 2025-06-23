@@ -1,0 +1,28 @@
+[70]
+The damaging aspect of the evidence is highlighted by counsel for the defendant at page 1998 of the transcript:
+"Now, what evidence of essentiality do we have? The hydraulic locks 31 and 32--these ones across the cylinder--are admitted to be old. It is admitted that they were in the Zax machine. It is admitted that this has been known to put them across a cylinder for a very long time. In fact, that is shown in Exhibit P-75; the 1949 book.
+"It is these hydraulic locks, 35 and 36, that Mr. Fernström--and only Mr. Fernström--said were necessary for accuracy. Mr. Rönne was not nearly so sold on hydraulic locks. He said they were not essential if a closed centre valve was used. And again, he admitted that hydraulic locks on cylinders 31 and 32--this use--was already known.
+"He also admitted--and I think this is very important--that the use at positions 35 and 36 on the adjustment circuit was for exactly the same purpose as on the cylinders.
+"Now, Mr. Rönne's testimony, at page 659 to page 663 is, in my submission, very important and I have set it out there. First, he admits that it was not something that he invented--the use of a double pilot operated check valve--as such, and he admits that a double pilot operated check valve in association with a cylinder had been used before this invention. He admits that double pilot operated check valves work so that flow in one direction and two lines is stopped, unless there is pressure in one of the two lines. And he admits that, then, when there is pressure in one of the two lines it opens the other line so that the flow is permitted.
+"Now going over to page 14:
+"Q.	So, what you were basically doing here was putting the hydraulic lock here because you knew that if you used a spool valve at T25 it would leak, and you did not want it to leak. So, you just put the hydraulic lock in the circuit so that you would not have leakage out of the spool valve; is that right?
+A.	Yes.
+Q.	But if you had put a closed centre valve there, you would not have had the need for the hydraulic locks 35 and 36?
+A.	No.
+"So, you see, it is just a matter of choice, whichever valve they use. If they have a valve that does not leak, they do not need them. If they have a valve that leaks, they need them.
+"And the same reason that the hydraulic locks were put in at the positions 31 and 32 is so that there will not be leakage or flow out of the cylinder when the hydraulic lock is closed?
+"A.	There are two reasons. One is that the cylinder shall stand still during the drilling.
+"In other words, it freezes the cylinder. It locks the cylinder so it cannot move.
+"The other is security.
+"Q.	So, when the cylinder stands still during the drilling, that means there is no flow out through the hydraulic lock, and that was the reason I gave you, to prevent leakage or flow out of the cylinder.
+A.	Yes...
+Q.	So, the use of the hydraulic locks 35 and 36 for that first reason is exactly the same as the use of the hydraulic locks 31 and 32 in Figure 1?
+A.	Yes.
+Q.	Now, the second reason that you said in the cylinder was for security, and what you mean there--correct me if I am wrong--is that if there is a rupture somewhere in the line, like 30 or 29 or even 33 or 34, if the other hydraulic locks are open and you lose pressure, then the hydraulic locks 31 and 32 close and the cylinder does not move; is that right?
+A.	Yes.
+Q.	And again, you had that same reason for putting the hydraulic locks 35 and 36 where they are, so that if there is a rupture in line 33 or line 34 the hydraulic lock will close and you will not lose the pressure; is that right?
+A.	Yes.
+And then the final question:
+"Q.	So, the purpose of the hydraulic locks 35 and 36 is exactly the same as the purposes of the hydraulic locks 31 and 32; is that right?
+A.	Yes.
+"So, I draw from this testimony of Mr. Rönne--and remember, he is the inventor; he knew why he put it there--that it is a mere matter of choice, and that if a closed centre valve has been used instead of spool valve no hydraulic locks would have been needed."

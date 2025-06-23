@@ -1,0 +1,98 @@
+[1]
+Muldoon, J.
+: The applicant challenges by way of judicial review the decision, dated 10 August 1998, made by designated immigration officer Lily Chau (the "visa officer") at the Canadian consulate general in Hong Kong, in which the applicant's application for permanent residence in Canada was denied. The applicant seeks an order setting aside the decision and asks that the matter be sent back for redetermination by a different visa officer.
+Background
+[2]
+The applicant, Wen Hai Li, is a 32 year old citizen of the People's Republic of China. He applied for permanent residence under the independent category, and sought to be assessed as a computer programmer, which carries the classification number 2163 under the National Occupational Classification ("NOC") system. He submitted his application on 25 November 1997 and was interviewed at the Canadian consulate general, in Hong Kong, on 6 August 1998.
+[3]
+The visa officer determined that the applicant spoke English "well", but could read English only "with difficulty". She came to this latter conclusion after having the applicant read four short paragraphs from a Canadian government publication on customs regulations and then attempt to explain their meaning to her (one wonders whether this was a fair test – Canadian government publications can be daunting, even to those born and raised in the embrace of the English language).
+[4]
+As the applicant had asked to be assessed as a computer programmer, the visa officer showed him the specific NOC educational requirements for this occupation. Under "Employment Requirements", it states that a bachelor's degree in computer science or in another discipline with a significant programming component, or a college program in computer science is "usually required".
+[5]
+The applicant has a bachelor's degree in engineering, which included two computer related courses; however, he did not furnish the visa officer with any university transcripts to enlarge upon the content of his studies. The visa officer concluded,
+"I determined that two computer related courses were insufficient to constitute a 'significant programming component' as described in the NOC handbook." (respondent's record, tab A, affidavit of Lily Chau, p. 3, para. 11)
+[6]
+However, the visa officer stated that she did take into consideration the fact that the applicant had taken short private courses in computer programming, as well as the fact that he had acquired knowledge in computer programming on his own. He had also earned a certificate in computer programming in 1991, which was the result of writing an examination without any formal instruction. In her affidavit she stated that she accorded this little weight:
+"In my view none of this, taken cumulatively, constituted an adequate substitute for the formal training requirements for Computer Programmers as defined in the NOC." (respondent's record, tab A, affidavit of Lily Chau, p. 3, para. 12)
+[7]
+The visa officer also asked the applicant to answer, in writing, some questions about Visual Basic, a programming language. A reference letter from the applicant's employer indicated that the applicant is good at programming using languages such as C, Visual Basic, Foxpro, and Fortran (tribunal record, p. 25). He was unable to answer the questions and stated that he was not familiar with Visual Basic. In his affidavit, he explains that he had not used this language in a long time and asked to be assessed vis-à-vis C language (applicant's record, tab 2, applicant's affidavit, p. 6, para. 7). The visa officer concluded that the applicant's inability to answer questions on Visual Basic cast doubt on the credibility of the reference letter. She declined to ask the applicant any questions about C language as she feared he may have prepared answers in advance.
+[8]
+The visa officer asked the applicant to explain the de-bugging process, one of four main duties listed in the NOC, which states that computer programmers perform some or all of them. Again, the applicant was unable to answer the visa officer's question. She also asked him if he knew what "Y2K" referred to. The applicant responded that it meant Year 2000, but did not relate it to computers, which the visa officer felt was another significant failing.
+[9]
+Based on the applicant's lack of specific education, failure to describe Visual Basic language or relate Y2K to computers, the visa officer concluded that the applicant did not have the required training and experience to satisfy computer programmer as defined in the NOC. She then assessed him under NOC 1421, computer operator. He achieved only 49 units of assessment, well short of the required 70 and, accordingly, his application for permanent residence was denied.
+Applicant's Position
+[10]
+The applicant submits that the visa officer erred in failing to consider whether he met the employment requirements because he has a bachelor's degree in another discipline with a significant programming component. The applicant contends that the visa officer did not inquire as to the content of the two computer courses he took while at university, nor did she ask about the programming aspects of his engineering program. The applicant also contends that the visa officer ignored his 1991 computer programming certificate, and that it is evidence that his degree program had a significant programming component.
+[11]
+The applicant argues that the visa officer did not specify to him the case he had to meet because she only
+showed
+him the NOC employment requirements, but did not read them to him, even after concluding that he read English with difficulty.
+[12]
+The applicant submits that the visa officer erred in finding that his current job responsibilities are not inherent to the duties of a computer programmer. At his interview, the applicant indicated that he specialized in software development and that he wrote programs using C language. The applicant contends that the visa officer did not make him aware of her concerns when she refused to question him about C language, apprehending that he might have studied it in special preparation.
+[13]
+The applicant also argues that the visa officer erred in not questioning him with regard to more than one of the main duties listed in the NOC. Four such duties are listed, but they are not required to be performed by all computer programmers. The applicant maintains that he was not asked to describe his duties.
+[14]
+With regard to the visa officer's Y2K question, the applicant maintains that his answer, Year 2000, is technically correct. The visa officer never qualified Y2K as a "bug" or "problem". She never elaborated on the question after he answered her. The applicant maintains that it is unfair and unreasonable for the visa officer to expect him to answer a question that was never asked and to draw a negative inference from what was a correct answer.
+Respondent's Position
+[15]
+The respondent submits that it was reasonably open to the visa officer to conclude that the applicant did not meet the educational requirements: the applicant has a bachelor's degree in engineering, but did not provide the visa officer with transcripts; at the interview he stated that he had taken two computer courses at university, but admitted that he had no formal vocational training in computer science; he submitted a qualification certificate which indicated that he had passed a national examination entitled, Qualification level - assistant engineer, specialty-computer applied software. The respondent maintains that the visa officer considered whether the engineering degree had a significant component in programming, and concluded that two courses do not amount to such.
+[16]
+With regard to the visa officer's conclusion that the applicant lacked the necessary experience, the respondent maintains that this was reasonable as it was based on the applicant's failure to answer questions about Visual Basic language (in which his referee said he was proficient) and the debugging process, as well as his failure to relate her question about Y2K to computers.
+Issues
+[17]
+Whether the visa officer erred in finding that the applicant did not meet the education component of the employment requirements for computer programmers in the NOC.
+[18]
+Whether the visa officer erred in finding that the applicant lacked the necessary experience.
+Analysis
+Education
+[19]
+The following are listed under Employment Requirements for computer programmers, NOC 2163:
+"A bachelor's degree in computer science or in another discipline with a significant programming component, such as mathematics, commerce or business administration or
+Completion of a college program in computer science is usually required.
+Specialization in commercial or engineering and scientific applications requires specific post-secondary study or experience.
+Senior positions in this unit group, such as programmer analyst, require experience."
+[20]
+At the beginning of the interview, according to the applicant's affidavit, the visa officer indicated that the applicant was required to have a bachelor's degree or college diploma in computer science. The applicant then states,
+"During the course of the interview, she asked me what computer subjects I had studied in university. I told her that I studied two subjects: computer programming and data structure. I also immediately told her that I am very interested in computers and that I also took short private courses to study computer programming and I learned computer programming by myself when I was in university and after I completed my degree. I showed her my Qualification Certificate in computer programming that was issued in 1991, but she ignored it and she emphasized to me that I had only studied two subjects in computers and that this could not prove my strength in computer programming." (applicant's record, tab 2, applicant's affidavit, p. 6, para. 5)
+[21]
+The applicant's affidavit indicates that the NOC educational requirements for computer programmers were brought to his attention and that he was questioned as to the content of his computer studies. Reference to the visa officer's CAIPS notes and her affidavit also show that the applicant was afforded the opportunity to satisfy the visa officer that he had a degree in a discipline with a "significant programming component". However, he could not do so.
+[22]
+It is well established in the relevant jurisprudence that the applicant bears the onus of convincing the visa officer of all of the positive elements of his application for permanent residence. Indeed, the applicant has the duty to provide the visa officer with all of the information relevant to his application. FRAGMENT_SUPPRESSED
+[23]
+In
+Prasad v. Canada (Minister of Citizenship and Immigration)
+(1996), 34 Imm. L.R.(2d) 91 (F.C.T.D.), this court stated,
+"The onus is on the applicant to satisfy the visa officer fully of all of the positive ingredients in the applicant's application. It is not for the visa officer to wait and offer the applicant a second, or several opportunities to satisfy the visa officer of the necessary points which the applicant may have overlooked. The visa officer exhibited no error of law, egregious error of fact, nor yet any unfairness on this record. One must remind oneself that even if the court might have come to a different conclusion, the purpose of these proceedings is to determine whether the visa officer went off the rails according to the classical criteria for successful judicial review."
+[24]
+The visa officer does have the duty to allow the applicant the opportunity to clarify or elaborate on any concerns the visa officer may have regarding the application. The visa officer is not, however, required to provide the applicant with a running score, or to make the applicant's presentation for him.
+[25]
+The visa officer's assessment of the applicant's education involves questions of fact which are, quite properly, within the visa officer's purview. They should not be interfered with unless the visa officer's conclusions are patently unreasonable:
+Asghar v. Canada (Minister of Citizenship and Immigration)
+, [1997] F.T.R. Uned. 450 (T.D.).
+[26]
+The visa officer questioned the applicant regarding the computer courses he studied at university and concluded that they did not amount to a significant programming component of his degree. It was up to the applicant to furnish the visa officer with any other information that may have shown otherwise. The visa officer considered the 1991 certificate and the applicant's self study, but accorded them little weight. The visa officer's task is to weigh the evidence submitted by the applicant and accord it such weight as it merits, which she did here, albeit not to the applicant's satisfaction.
+[27]
+Accordingly, unhappily for the applicant, nothing in the visa officer's assessment and conclusions regarding the applicant's education merits this court's interference.
+Experience
+[28]
+The NOC lists the following as the main duties of computer programmers:
+"i. Write computer programs or software packages by coding instructions and algorithms into machine readable form.
+ii. Test, debug, document and implement computer programs or software packages.
+iii. Maintain existing computer programs by making minor modifications as required.
+iv. Act as a resource person, solving computer problems for users."
+[29]
+The visa officer's conclusion that the applicant lacked the requisite experience as a computer programmer was based on his inability to answer questions about Visual Basic language, his inability to describe debugging, and his failure to relate the term Y2K to computers. The visa officer also indicated that she considered the applicant's reference letter, but accorded it little weight after he failed to demonstrate one of the abilities it attested to, viz, his familiarity with Visual Basic. The Y2K question might be regarded as a gift, to permit an exhibition of learning, but the applicant had nothing to say.
+[30]
+As with education, a visa officer's conclusions about an applicant's experience involve questions of fact which should not be disturbed with lightly.
+[31]
+The four listed main duties of a computer programmer are not mandatory: a computer programmer is expected to perform "some or all" of them. In the instant case, the visa officer specifically questioned the applicant only in regard to one of the duties, the second one. The drafters of the NOC contemplated that computer programmers may not perform some of these duties, and thus the applicant should have been questioned in regard to at least one of the other duties, if not more, to see if he had the requisite experience. Indeed, the applicant may perform all three of the other duties, but the visa officer neglected to investigate them.
+Conclusion
+[32]
+The visa officer erred in failing to question the applicant properly and thoroughly in regard to the main duties listed in the NOC. However, in light of her earlier, and reasonable, conclusion that the applicant lacked the necessary educational requirements, her failure to question the applicant as to the other main duties does not taint her final decision to refuse the applicant's application for permanent residence. While the applicant may not have to perform all of the listed duties, he must satisfy the educational component, and he does not. Accordingly, this judicial review should be dismissed.
+[33]
+The respondent asked that the application be dismissed with costs, and since, as a rule, costs follow the event, it will be so dismissed.
+[34]
+Neither party's counsel had prepared a question for certification, so none is propounded.
+Application dismissed.
+Editor: Angela E. McKay/saf
+[End of document]

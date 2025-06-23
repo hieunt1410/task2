@@ -1,0 +1,102 @@
+[77]
+Consider the following evidence from Dr. Lundquist beginning at page 961 of the transcript with respect to the Stanley patent "the weapon handling unit". To properly understand this evidence we have to examine Exhibits D-41, D-42, D-43 and D-44:
+"Q.	Perhaps first you could deal with the Stanley patent and we will just put up a copy of the drawings of the patent so that you can refer to them if you wish. Can you first outline what the Stanley patent is all about? "A. The Stanley patent is describing the patent as for a weapon handling unit. What it is actually for is a device for loading bombs into airplanes. It was apparently developed during World War II as a way of handling bombs for their loading into the bombers.
+"Q.	Is there any need for parallelism in loading bombs?
+A.	I think that would be readily apparent. As the bomb is lifted up into the belly of the airplane, any tipping of it would be cause for at least great alarm if not a substantial safety hazard.
+Q.	Why would that be?
+A.	Well, I think that is obvious. If the bomb were to start to slip off, it would at least potentially strike the ground with enough force to start the fuse.
+Q.	And when you say 'start the fuse', do you mean explode the bomb?
+A.	Well, that would be the natural consequence.
+...
+"The Witness: With respect to each of these patents that I have just lifted out, I would like to go through and explain what the different complements are with reference to the slave and master system that we are describing here, in order to show that this was a well-known combination.
+...
+"A.	In the Stanley patent, the boom is shown--actually, it is marked with two different numbers but it is all one component. The numbers are 30 and 32.
+Q.	You are looking at Figure 1 of the Stanley patent.
+A.	Yes, this is Figure 1 of the Stanley patent.
+"The device that is being kept parallel--that is, that is being lifted from the ground in a parallel way--is this platform--platform 10, to which a bomb in this case is attached. The bomb is wheeled in on the ground and then is lifted by this boom in a parallel fashion up into what is probably the belly of a bomber here.
+"The boom moving cylinder--that is the cylinder which provides the motive power to lift up the boom--is cylinder 40. Cylinder 40 is actually working off of a long lever here--lever 36. The idea is essentially the same as if there was direct acting; that is shortening or lengthening of that cylinder raises and lowers the arm.
+"Q.	When you say the 'boom moving cylinder' would you give the equivalent, please, in Figure 1 of Canadian patent 886975?
+A.	Yes, In the Kimber patent, that boom moving cylinder is cylinder 24. As it is extended and retracted, the boom raises up and down.
+Q.	So you are saying the cylinder you are referring to--
+A.	Cylinder 40 is, in fact, entirely equivalent to cylinder 24 of the Kimber patent.
+Q.	And the pilot cylinder is what?
+A.	The pilot cylinder in the Stanley patent is cylinder 120. It is this smaller cylinder that is mounted above cylinder 40. The pilot cylinder is moved in concert with cylinder 40 so that it, in fact, senses the motion of the boom. As the boom is evelated, the angle of that pivot 33 is changing and thus the length of cylinder 120 is being changed. So this is what we would call the pilot cylinder.
+Q.	And the equivalent to the pilot cylinder in the other patent?
+A.	The pilot cylinder in the Kimber patent is cylinder 28.
+Q.	Can you go back to Stanley now?
+A.	In the Stanley patent, there is a slave cylinder marked as cylinder 60 which, as cylinder 129 is extended and retracted by the motion about pivot 33 is, in turn, caused to extend or retract in such a way that the motion about the pivot at the top of the boom--and I do not believe it is numbered--is also allowed to move by the same amount so that the platform, 10, is kept level as the boom is elevated.
+Q.	Could you then demonstrate the master/slave system, then, on the hydraulics diagram.
+A.	Yes. In the hydraulics diagram, which is Figure 9 of the Stanley patent, are shown first cylinders 40 which are the boom cylinders there we described previously, and then the slave and master combination. In this case, the slave and master combination, the pilot is cylinder 120. The slave cylinder is cylinder 60, and you can see that these are connected in the same way as the slave and master on the Lapsley patent which I have already shown you and marked. That is, as cylinder 120, the pilot, is moved, fluid is forced from one end into the corresponding end of cylinder 60. This, in turn, forces the fluid from the other end of cylinder 60 back into the opposite end of cylinder 120 so that they move in concert.
+Q.	Perhaps you could draw on that exhibit in red and blue what you drew on the previous Lapsley exhibit.
+A.	First in red I will mark the fluid being forced in at the top of cylinder 120, travelling through an hydraulic line which is not numbered on the diagram, into the top of cylinder 60. This would, in turn, force the fluid out of the bottom of cylinder 60 moving in this direction so that--I am now marking in blue--the bottom chamber of cylinder 60 and the fluid being forced out of it through another hydraulic line into the bottom of cylinder 120 and allowing it to rise.
+...
+Q.	I am going to take you to your second table now, table 10, and ask you to talk--table RL-10 which I believe is Exhibit D-42, is it?
+"The Court Registrar: Yes, it is.
+"Mr. Fisk:
+Q.	Tell me what is involved in that table and how Stanley is involved there.
+A.	Well, we need first to refer back to Figure 1. If the ground were not level with respect to the airplane, or if the airplane were not level with respect to the ground, it would be obviously necessary to adjust the tilt of the bomb so that it could be adjusted with respect to where it is going in the airplane.
+Q.	What do you mean by the 'tilt of the bomb'?
+A.	That is to say, it might not always be desirable for the bomb to remain exactly parallel to its position where it was picked up off the ground by the boom. Some means of adjustment of the particular angle--in this case, fore and aft--on the bomb would obviously be necessary for the function of a device like this.
+"In order to do this, it is necessary to provide some adjustment of the slave and master circuit.
+"Going back to Figure 9 which I have just marked for you, we can see a valve, 138, which is used to adjust the relationship between the slave and master cylinder which would, in turn, allow the adjustment of the angle of that platform.
+Q.	And looking at Figure 1 of Canadian patent 886975, can you tell whether there is an equivalent valve on that?
+A.	Yes, there is a circuit--the line between the slave and master cylinders, line 29 and 30, are tapped into with a T-connection and passing then through some check valves which we will discuss later and lines 33 and 34. They connect to a throttle valve, T25, which is used for the same purpose; that is, it is used to adjust the angular relationship between the two pivots.
+Q.	So, going back to Stanley, then, Figure 9, could you colour in perhaps in a different colour--
+A.	I will use green.
+Q.	- the adjustment circuit.
+A.	The adjustment circuit for the slave and master circuit in the Stanley patent consists of these lines, which are also not numbered but which I am colouring in green, which would allow the amount of oil in what was otherwise a closed-loop system as I originally described it to you, is--now allows the amount of oil in that loop between the slave and master cylinder to be adjusted so that the relative displacement--and that is the angular relationship that they control--can be adjusted.
+Q.	The lines that you have coloured in green, are they equivalent to anything in Figure 1--
+...
+Q.	--of Canadian patent 886975?
+A.	Yes, they correspond to lines 33 and 34 on that.
+Q.	Now, those lines that you have coloured in green go to--I think you called it a valve?
+A.	Yes, a throttle valve or the other common term is 'directional control valve'.
+Q.	You called it what in your table 10?
+A.	I will have to look. In table 10, this is referred to as 'independent control for slave cylinder when required' and in the Stanley patent that is throttle 138.
+Q.	What can you tell about throttle 138 from examination of--
+A.	Well, it would be important in this particular case that valve 138 not be a leaky valve since, as the bomb was being lifted, if there was leakage back through valve 138, it would permit a change in the relative positioning of the slave and master cylinders and would possibly permit the platform to tilt and dump the bomb.
+Q.	And, in fact, is valve 138 shown as a particular type of valve?
+A.	This is what hydraulics people would refer to as a 'closed centre valve'; that is to say that when it is in the position that is shown in the patent in Figure 9, there is no passage for the fluid on either side of the valve.
+...
+"The Court: Excuse me. That valve, that 138, that is there only in the event that it is needed? If the level of the machine is such that it can move the bomb up and into the aircraft, then it--is it needed on all occasions or--
+"The Witness: I can--
+"The Court: You indicated if the ground was not level or--
+"The Witness: That would be correct that, in a perfect world, if the ground surface was in perfect alignment with the airplace in this case at all times, that there would be no need for that valve 138.
+"I would correct that, however, by saying that the world is not perfect and one of the things that might happen, for example, is leakage either from the hydraulic lines which I have coloured, or around the cylinder--or around the piston of the hydraulic cylinder in which case the relative positioning of those cylinders would change. In that case, it would be necessary to provide valve 138 simply as a periodic adjustment to make up for this slight leakage and bring the platform back into exact alignment.
+"The Court: Then what you are saying is that in effect, it fulfills two roles: one in the event that the bomb--moves up from the carrier. It is moved up. It is not at the right angle. And that 138 helps you to move it to the angle--the desired angle.
+...
+"The Court: Secondly, if in moving, even though it is in balance and exactly what you want, if there is leakage from the hydraulic system that is actually lifting the bomb.
+"The Witness: That is correct.
+"The Court: Okay.
+"Mr. Fisk:
+"Q.	And is the valve 138 equivalent in its function to any part of the system shown in Figure 1 of Canadian patent 886975?
+A.	Yes, it is exactly equivalent to the valve which is marked T25.
+"The Court: Is that an automatic--138? The other one is a hand, a manually-controlled operation. What about 138, or can you tell that from the--
+"The Witness: That 138 does not show any handle on it but I am sure it was a manual control. The hydraulic system of that time in fact used these cylindrical type valves so that the handle action was actually a rotation of that cylinder within the valve body.
+...
+"Q.	Is T25 a manual or automatic?
+A.	Oh, it is entirely manual. This correction would be provided only when the operator wanted it.
+Q.	Perhaps, then, we could consider what part of the system in Figure 1 of Canadian patent 886975 deals with automatic parallelism and what part deals with manual control.
+A.	The automatic portion of the parallelism consists only of the slave and master circuit; that is, the pilot cylinder 28, the lines 29 and 30, and the slave cylinder 25.
+Q.	And beyond that, what part is manual control?
+A.	The manual control is provided by line 33 and 34 connecting that previous slave and master circuit to throttle 25 and thence to the supply of hydraulic power.
+Q.	Is that the same arrangement as is shown in Stanley?
+A.	Yes, it is identical.
+Q.	What is the automatic control of parallelism in Stanley?
+A.	The automatic control of parallelism is the part that I have coloured in red and blue and that is it is cylinders 60 and 120 which are a master cylinder and the--the other way around: 120 is the pilot cylinder and 60 is the slave cylinder.
+...
+Q.	Does the Stanley system accomplish the same result, then, as is shown in Canadian patent 886975?
+A.	Yes. The effect is identical; that is to say, the automatic part provides for approximate positioning of the drill feed as the boom is moved.
+...
+Q.	We are now looking, then, at Figure 1 of the patent in suit.
+A.	Figure 1 of the Kimber patent, the drill feed that I am referring to 20. What happens is that the automatic part of the mechanism keeps that approximately parallel as the boom is moved up and down. However, adjustments to the alignment of that drill feed 20 can be made by the manual portion of the circuit that I have described from throttle valve T25.
+Q.	And can you give the equivalent in the Stanley patent by looking at Exhibit D-43,--the automatic and manual adjustments.
+Q.	The automatic control which would provide the approximate parallelism of the boom as it is moved is this circuit between pilot 120 and slave 60. The manual portion of the circuit consists of valve 138 and the lines that I coloured in green.
+Q.	Let us now go on to--
+"The Court: One thing that I can remember in the evidence that is not quite on all fours, and that is that the manually-operated valve on the patent in suit, there is concern about leakage. You are suggesting that 138 is the protection against leakage. So they are not--the reason for putting those valves--34 and 35 or whatever they are--at the top, we have heard evidence to the effect that they were put in there because there is concern about the manual causing leakage.
+"The Witness: That is actually a choice for the hydraulic designer where it is possible to buy a very expensive throttle valve that would be placed in this position that would have--I would not say it would be absolutely leak-proof but it would have sufficiently small leakage that it would be useful for the present purpose.
+"Alternatively, one can use a less expensive type of valve and protect it against that leakage by providing these cross-piloted check valves.
+"The Court: Well, 138 and T25 would be comparable in your evidence if the T25 purchased was a more expensive and less apt to leak manually operated valve?
+"The Witness: Yes, that is correct. I believe that, if I were constructing the bomb-handling unit of Stanley, for example, I would be either--on the one hand very careful to select a balance that I was certain would have acceptably small leakage and had no possibility of what I will refer to as cataclysmic failure; that is, the seal blowing out of the valve and causing it to dump. Or, on the other hand, I would make quite certain that I protected that valve with a pair of hydraulic check valves so that leakage would not be possible.
+"In fact, in the particular instance that we are talking about here where the safety is critical, we need to make very certain that the bomb does not dump.
+"I would personally opt to do both; that is to say that I would chose a very reliable throttle valve but I would also protect it with crosspiloted check."

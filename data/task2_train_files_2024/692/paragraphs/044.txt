@@ -1,0 +1,8 @@
+[44]
+To succeed on a claim in negligence, a duty of care must be established between the plaintiff and the defendant. Whether such a duty of care exists involves considering the two-step approach set out by the House of Lords in
+Anns v. Merton London Borough Council
+, [1977] 2 W.L.R. 1024 (H.L.), and adopted by the Supreme Court of Canada in
+Nielsen v. Kamloops (City) and Hughes
+, [1984] 2 S.C.R. 2; 54 N.R. 1, at page 10 [S.C.R.]:
+"(1) is there a sufficiently close relationship between the parties ... so that, in the reasonable contemplation of the [defendant], carelessness on its part might cause damage to that person? If so,
+"(2) are there any considerations which ought to negative or limit (a) the scope of the duty and (b) the class of persons to whom it is owed or (c) the damages to which a breach of it may give rise?"

@@ -1,0 +1,10 @@
+[7]
+The requirements of estoppel by res judicata, also referred to as estoppel by record and also as estoppel per "rem judicatum", is broken down into two species. There is cause of action estoppel, preventing someone from bringing an action when the same cause of action has been determined in earlier proceedings and second, issue estoppel, involving a point or issue that has already been decided. In
+Angle v. Minister of National Revenue
+, [1975] 2 S.C.R. 248; 2 N.R. 397, the Supreme Court of Canada referred, at page 254, to
+Carl-Zeiss-Stiftung v. Rayner & Keeler Ltd. (No. 2),
+[1967] 1 A.C. 853 (H.L.), at p. 935, for a definition of the requirements of issue estoppel:
+"The requirements of issue estoppel still remain (1) that the same question has been decided; (2) that the judicial decision which is said to create the estoppel was final; and, (3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies.".
+In the present instance clearly the parties are the same. Whether the decision said to create the estoppel was final is a little more involved but has been thoroughly dealt with in
+Stamper v. Finnigan
+. Finally, there is the issue of whether the same question has been decided.

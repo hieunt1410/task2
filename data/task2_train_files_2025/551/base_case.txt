@@ -1,0 +1,135 @@
+[1]
+Morneau, Prothonotary
+[Translation]: This is a motion by the defendant under rules 420, 1716 and 1719 of the
+Federal Court Rules
+(the
+Rules
+) for leave to amend its defence and cross-demand that it filed on October 21, 1993 in opposition to an action for patent infringement, in order, on the one hand, that its defence reflect the fact that it held an exclusive operating licence in regard to the said patent and, on the other hand, that the entities surrounding this licence be added, in its cross-demand, as defendants by cross-demand and that the latter be ordered as well to pay damages.
+Context
+[2]
+It appears that at all relevant times the parties were involved in the manufacture and sale of blocks for use in a system of retaining walls.
+[3]
+The plaintiff Jagna Ltd. is the holder of Canadian patent number 1,182,295 (hereinafter patent 295) in regard to the said system of walls. The co-plaintiff Groupe Tremca Inc. holds an exclusive licence for patent 295 for the Province of Quebec and Eastern Ontario.
+[4]
+The plaintiffs' action was commenced in April 1993 by the predecessor in title of Jagna Ltd. and Groupe Tremca Inc.
+[5]
+It is an action for infringement of patent 295 by the defendant Transpavé Inc. through which the plaintiffs object to the manufacturing and marketing by the defendant of a type of blocks then and still today known under the trademark MAXI-TRANSBLOC.
+[6]
+Previously, on May 15, 1989, an action was commenced in this court by the predecessors in title of the plaintiffs against Groupe Permacon Inc. in relation to the infringement, inter alia, of the rights in this same patent 295 (file T-1005-89).
+[7]
+On October 21, 1993, the defendant filed a defence and cross-demand almost identical to the one filed at the time by Groupe Permacon Inc., then represented by the same counsel.
+[8]
+In its defence now on file, the defendant alleges noninfringement of patent 295 and the invalidity of the patent by reason of the fact that it would be anticipated or evident in relation to the same prior art produced by Groupe Permacon Inc. in the other case, supra.
+[9]
+It appears that this case was provisionally stayed until final judgment was rendered in the Groupe Permacon Inc. case.
+[10]
+On October 4, 1995 Dubé, J., rendered the awaited judgment, allowing the plaintiffs' action, declaring that Groupe Permacon Inc. had infringed patent 295 and at the same time dismissing the invalidity arguments raised by Groupe Permacon Inc.
+[11]
+This file was reactivated by the plaintiffs toward November 1996, by the filing of a reply and defence to the cross-demand.
+[12]
+Noting that the file was reactivated, the defendant then instructed the counsel now acting on its behalf to defend, and they conducted a review of all facets of the file.
+[13]
+Although the accuracy of the following facts and their impact is at the centre of the polemic between the parties, I note for the time being that it is apparent that following their review and investigation, the defendant's present counsel are of the opinion that, contrary to what was stated to the defendant by its former counsel, patent 295 is valid and MAXI-TRANSBLOC reproduces the information contained in this patent.
+[14]
+Furthermore, and this is extremely important to these proceedings, the defendant, in their view, is not in practical terms infringing since the marketing of the MAXI-TRANSBLOC blocks is covered by a licence obtained on March 24, 1989 (the 1989 licence) between it and Rothbury Investments Limited, represented at the time by its president Angelo Risi. Rothbury was then acting, it should be understood at this point, on behalf of Risi Stone Ltd., the predecessor in title of the plaintiff Jagna Ltd. That is why the defendant wants to add Rothbury Investments Limited, Risi Stone Ltd. and Angelo Risi as co-defendants in its cross-demand.
+[15]
+Procedurally, the case has not proceeded very far. Only the plaintiffs have filed their affidavit of documents and no discoveries have yet been held.
+The Applicable Rules And Principles
+[16]
+Rules 420, 1716 and 1719, as they apply to these proceedings, read as follows:
+"Rule 420(1) The court may, on such terms, if any, as seem just, at any stage of an action, allow a party to amend his pleadings, and all such amendments shall be made as may be necessary for the purpose of determining the real question or questions in controversy between the parties.
+"Rule 1716(2) At any stage of an action the court may, on such terms as it thinks just and either of its own motion or on application, ...
+(b) order any person who ought to have been joined as a party or whose presence before the court is necessary to ensure that all matters in dispute in the action may be effectually and completely determined and adjudicated upon, to be added as a party,
+but no person shall be added as a plaintiff without his consent signified in writing or in such other manner as the court may find to be adequate in the circumstances.
+"Rule 1719. Where a defendant who counterclaims or makes a cross-demand alleges that any other person, whether or not a party to the action, is liable to him along with the plaintiff in respect of the subject matter of the counterclaim or cross-demand, he may apply to the court for leave to join that other person as a party against whom the counterclaim or cross-demand is made and for any special direction necessary in connection with services or the conduct of the counterclaim or cross-demand."
+[17]
+Only rule 420(1), it seems to me, is applicable to the requested amendment to the defence, that is, the possible argument by the defendant that it is not infringing by virtue of the 1989 licence it alleges it holds.
+[18]
+With regard to amending the cross-demand and adding, as a corollary, the entities referred to earlier, it seems to me that rules 420(1) and 1719 are both applicable, but not rule 1716.
+[19]
+In regard to the applicable principles for amending pleadings, the following passage from
+Minister of National Revenue v. Canderel Ltd.
+, [1994] 1 F.C. 3; 157 N.R. 380 (F.C.A.), at page 10, accurately reflects the generous approach the court should take in such matters:
+"... while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice."
+[20]
+It might be added, as an aside, that, as in the case of an application to strike out a pleading, an amendment should be allowed unless the amendment is clearly and obviously doomed (see
+Cardinal et al. v. Canada
+(1993), 164 N.R. 301 (F.C.A.) (Heald,
+Décary
+and Linden, JJ.A.)).
+Analysis
+[21]
+The defendant attached to its motion a draft "amended defence and cross-demand" in which both the defence and cross-demand amendments are to some degree combined within the same paragraphs. I will return later to this aspect.
+[22]
+For the purposes of our analysis, it is necessary to divide our examination of the defendant's motion in two, so as to look at the requested amendment to the defence and, subsequently, the amendment dealing with the cross-demand.
+The Defence
+[23]
+With regard to the amendment that the defendant is seeking to make to its defence, the plaintiffs' counsel argued that the request to replace a defence of noninfringement and invalidity with a defence based on the alleged existence of a licence constitutes a radial change in the defendant's position, if not a complete about-turn on its part. He also argues that the defence of noninfringement now on the record should be seen as an admission that the 1989 licence that is now alleged cannot cover MAXI-TRANSBLOC.
+[24]
+I agree with plaintiffs' counsel that the defendant is definitely seeking to alter its defence. However, that is not, per se, a reason to dismiss this part of the defendant's motion. Is the defendant, as well, simply looking for some subtle way in which to escape the application mutatis mutandis of the judgment of Dubé, J.? It is hard to adopt such an approach without having had the benefit of conducting an inquiry on the merits.
+[25]
+Similarly, I do not think the present denial of infringement in the defence on file should be seen as an admission that the licence does not apply to MAXI-TRANSBLOC. In this regard, I accept, for the purposes of this motion, that the defence on file was drafted in light of the fact that the defendant's then solicitors had told the defendant's officers that MAXI-TRANSBLOC was not infringing patent 295; hence the logic in the defence of simply denying infringement without bothering to raise the 1989 licence. Likewise, the defence on file cannot be regarded as a demurrer to the requested amendment.
+[26]
+In a more direct attack on the applicable precedents, the plaintiffs argue that the licence defence is improbable on the basis of an examination of the text of the 1989 licence and the conduct of the parties both in the years surrounding this licence and since.
+[27]
+Each party draws on extracts from the licence to find clear support for their respective positions.
+[28]
+The plaintiffs argue that the 1989 licence clearly stipulates that the licence covers only the manufacture of a block, which they refer to by the trademark REVERS-A-BLOCK and the defendant calls the TRANSBLOC.
+[29]
+The defendant, for its part, argues that the licence is worded to allow the manufacture of any block that is consistent with the claims of patent 295. Accordingly, the 1989 licence potentially covered the MAXI-TRANSBLOC, the production of which commenced in November 1992.
+[30]
+My reading of the licence indicates that either party may find support in its wording and that it will very probably be necessary to go beyond its wording, in a trial, to discover the true intention of the parties. It cannot be said, therefore, that the defendant's theory is improbable. In terms of the text, it is arguable.
+[31]
+With regard to the conduct of the parties in relation to the different blocks they could produce or allow to be produced, it appears to me that in the case of each camp the affidavits submitted as evidence indicate an awareness by the executives, albeit at different times, of a licence in regard to MAXI-TRANSBLOC.
+[32]
+In the case of the plaintiffs, the 1989 licence covered only "Transbloc", and they expected to receive royalties under the licence only for that block. Any royalty for any block equivalent to MAXI-TRANSBLOC would come from the co-plaintiff Groupe Tremca Inc., which apparently had been given an exclusive licence in 1985 by the predecessor in title of the other co-plaintiff to produce such a block and which produced it under the name PISA.
+[33]
+The fact that an exclusive production licence covering a block that might correspond to the MAXI-TRANSBLOC block was issued back in 1985 is not in itself a fact that supports the defendant's thesis. However, the evidence at the hearing of the present motion revealed the possibility that, notwithstanding the 1985 licence to Groupe Tremca Inc., Risi Stone Ltd., the predecessor in title of Jagna Ltd., via Rothbury Investments Limited, had issued a further licence to the defendant in 1989.
+[34]
+In the case of the defendant, the plaintiffs' present action landed on it just as it was beginning to produce the MAXI-TRANSBLOC, and on the advice of its solicitors at the time, it denied infringement back in April 1993 without referring to the licence, as we saw earlier. The "licence" became a factor in the thinking of the defendant's executives only in late 1996. That would also explain why discussions concerning merger, collaboration in product distribution and even an out-of-court settlement have taken place since 1990.
+[35]
+Counsel for the plaintiffs contended that the affiant selected by the defendant was not a central player in the dispute, and that this greatly reduced the impact of his testimony and cast some doubt on the defendant's good faith concerning its new theory of a licence.
+[36]
+I am unable to agree with this submission. The defendant's affiant was at the centre of the discovery of the 1989 licence, and the defendant's motion is centred on the dynamics then at work, at the end of 1996, between this affiant and the defendant's solicitors. Nor do I think that the defendant's good faith can be attacked by virtue of the fact that the plaintiffs would have liked to have as an affiant one of the defendant's then shareholders around the late 1980s and early 1990s. It is apparent to me that at no time during the cross-examination of the said affiant was this aspect raised. Nor did the plaintiffs apply to the court to have the defendant submit an affidavit from someone who was demonstrably more knowledgeable of or more closely involved in the events of that time.
+[37]
+In short, given the factual backdrop, the conduct of the parties, I am unable at this point - without proof and hearing of witnesses - to declare the defendant's theory improbable. There is room for debate in the conduct of the parties.
+[38]
+On the other hand, I do not consider the requested amendment to be out of time, considering the de facto stay of close to three years accepted by the parties. Once drafted, the amendment was communicated to the plaintiffs. The fact that the basis of the amendment apparently depends on a recent discovery by the defendant's counsel in my opinion nullifies the plaintiffs' counsel's arguments concerning any refusal to stay proceedings and the alleged damages that the plaintiffs would have averted had they known about the licence theory in 1993.
+[39]
+I would therefore technically be prepared to allow the defendant to amend its defence to argue the 1989 licence as a defence to an alleged infringement of patent 295. I think such an amendment would be fair. It discloses a reasonable cause of action, is not out of time, and it would serve the interests of justice to allow it. To my way of thinking, it would help to disclose the real questions in dispute between the plaintiffs and the defendant.
+[40]
+It remains, now, to analyze the amendments that the defendant wishes to make not in its defence to the action between it and the plaintiffs but in its cross-demand.
+The Cross-Demand
+[41]
+An initial amendment has to do with a partial set-off that the defendant would like to make between, on the one hand, the amount of the royalties it now considers it should pay the plaintiffs for the manufacture of the MAXI-TRANSBLOC and, on the other, an amount it alleges it wrongly paid as royalties for a type of block, the MINI-TRANSBLOC, which apparently should never have been considered as being covered by the 1989 licence. Here is what the defendant says about this in paragraphs 14 to 17 of its draft amended defence and cross-demand (the draft amendment):
+[Translation] "14. Transpavé and Rothbury Investments Ltd. have consistently implemented this agreement since it was signed, and the defendant has to date paid about $102,060 in royalties resulting from the marketing, within the territory identified in the agreement, of the 295 blocks and Rothbury Investments Ltd. has never ceased to collect the royalties paid by Transpavé and each month sends Transpavé a statement which the latter is to use to indicate the monthly amount of the sales generated by the licenced products and the royalties owing. (Transpavé having paid about $91,350 to date in royalties for the TRANSBLOC block and $10,710 for the MINI-TRANSBLOC block);
+"15. In regard to the MAXI-TRANSBLOC blocks, the former solicitors for Transpavé had issued a preliminary and informal opinion to the effect that these blocks not only could not infringe patent 295 but above all that the patent was clearly invalid. After obtaining the opinion of the undersigned solicitors that these blocks were covered by patent 295 and therefore also by the licence held by Transpavé, Transpavé now realizes that it should have paid Rothbury Investments Ltd. royalties in the order of $141,744 resulting from the manufacture and marketing of these blocks;
+"16. However, at the same time Transpavé realizes the Rothbury Investments Ltd. has illegally collected royalties of about $10,710 for the manufacture and marketing of the MINI-TRANSBLOC blocks, since these blocks do not allow a deviation from the vertical when overlapped on each other and therefore do not replicate the information contained in patent 295, since one of the essential elements in that patent is not present;
+"17. To compensate for the failure to pay royalties for the MAXI-TRANSBLOC block, Transpavé offers and commits to writing, with the filing of this amended defence and cross-demand, the sum of $131,034, which corresponds to the difference between the royalties that Transpavé should have paid and the royalties that Rothbury Investments Ltd. was not entitled to receive;"
+[42]
+I agree with counsel for the plaintiffs that this issue of set-off is actually the result of a proceeding for recovery of an unowed sum that the defendant will have to bring in a provincial court which, unlike this court, has jurisdiction over this contractual issue between individuals.
+[43]
+However, the defendant is trying to use the 1989 licence within the framework of its draft amendment not only as a defensive riposte to an infringement allegation but also as a weapon for claiming damages against the entities it is seeking to add as defendants by cross-demand. Damages would be owing to it whether or not the 1989 licence were declared valid. The defendant reports its claims in damages as follows, at paragraphs 18 and 22 of its draft amendment:
+[Translation] "18. Since, under the Risi agreement, Transpavé holds an exclusive licence that is technically valid, the plaintiffs' action must be dismissed and Transpavé is entitled to claim from the co-plaintiff Risi Stone Systems Inc., from the companies Rothbury Investments Ltd. and Risi Stone Ltd., and from Angelo Risi damages equivalent to the costs it incurs in defending this action.
+. . . . .
+"22. If, however, this Honourable court were to find that the Risi agreement is invalid, the patent infringement action of the plaintiffs could be allowed, but Transpavé would then be entitled to claim from the co-plaintiff Risi Stone Systems Inc., from the companies Rothbury Investments Ltd. and Risi Stone Ltd., and from Angelo Risi damages equivalent to the costs it incurs in defending this action and in the amount it would have to pay as a result of the infringement of patent 295 in addition to the sum of $250,000 for pain and suffering and miscellaneous costs resulting from the oppressive and fraudulent institution of these proceedings;"
+[44]
+These claims in damages, like the claim for set-off, are, as the plaintiffs' counsel argued, directly and primarily contractual claims that in my opinion have no incidental link to an infringement or noninfringement between the parties now listed in the style of cause. This court has consistently held that it has no jurisdiction over claims of a contractual nature between private parties. See, to this effect, the decisions in
+Flexi-Coil Ltd. v. Smith Roles Ltd.
+, [1981] 1 F.C. 632; 50 C.P.R.(2d) 29 (T.D.);
+Blacktop (R.W.) Ltd. et al. v. Artec Equipment Co. et al.
+(1991), 50 F.T.R. 225; 39 C.P.R.(3d) 432 (T.D.), and
+FRAGMENT_SUPPRESSED
+[45]
+Counsel for the defendant argued that even if the court was convinced it has no jurisdiction over these amendments, it ought to let them go on the record at the stage of a motion to amend the pleadings, since the adverse party could always attack them later through a motion. To support its position in this regard, counsel for the defendant cited
+Veilleux v. Martineau
+, [1969] S.C.R. 861, in which the Supreme Court of Canada, on page 863-864, adopted the following comment in connection with an amendment sought by the plaintiff involving a short limitation period that would entail forfeiture of the right of action:
+[Translation] "since this amendment may be contested by other means, it seems preferable to abstain from giving an opinion on a possible cause of loss of the right to action, before the amendment is made."
+[46]
+A reading of the court's full reasons indicates that it was uncertain, by virtue of a previous judgment, what the application of the rules for interruption of prescription would mean in this particular case. It was this uncertainty that appears to explain the court's cautiousness and to have led it to allow the requested amendment.
+[47]
+In the case at bar, the principles are in my view sufficiently certain that such deference is not needed. Furthermore, the defendant's amendment of its cross-demand clearly involves the exercise of the court's discretion under both rule 420 and rule 1719. In the context of this exercise, I am not prepared to allow the entry on the record of those amendments that in my opinion are clearly beyond the jurisdiction of this court.
+[48]
+In conclusion, since the amendments that the defendant is seeking to make to its defence are intermingled with those involving its cross-demand, which themselves are unacceptable, I see no solution but to dismiss the defendant's motion as a whole, while reserving to it the right to amend its defence and cross-demand now on the record in order to argue in defence the 1989 licence. I think, furthermore, that the defendant should bear the costs of this motion.
+Application denied.
+Editor: Jana A. Andersen/klf

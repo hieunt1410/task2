@@ -1,0 +1,26 @@
+[6]
+The applicant was assessed under the occupations of Computer Systems Analyst and Computer Programmer for which he required a total 70 units of assessment. He was awarded 59 as follows:
+Age
+10
+Occupational Factor
+00
+ETF [Educational Training Factor]/SVP
+15
+Experience
+00
+Arranged Employment
+00
+Demographic Factor
+08
+Education
+15
+English
+07
+French
+00
+Bonus
+00
+Personal Suitability
+04
+Total
+59

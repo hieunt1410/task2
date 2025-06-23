@@ -1,0 +1,35 @@
+[94]
+Heald, J., sitting as a Deputy Judge of the Federal Court, discussed the principles governing the calculation of damages in a patent infringement claim in
+Allied Signal Inc. v. DuPont Canada Inc. and Complax Corp.
+(1998), 142 F.T.R. 241; 78 C.P.R.(3d) 129 (T.D.), affd. (1999), 235 N.R. 185; 86 C.P.R.(3d) 324 (F.C.A.) at paragraphs 17 to 23:
+"17. During the eleven days required to hear this Reference, counsel for the parties made extensive submissions as to the proper approach for determination of the measure of damages in the circumstances of this case. Before turning to a detailed analysis, I think it instructive to set out the general principles governing the calculation of damages in a patent infringement claim.
+"18. Subsection 55(1)(a) is the relevant provision of the
+Patent Act
+. It states:
+'55(1) Any person who infringes a patent is
+(a) liable to the patentee and to all persons claiming under the patentee for all damages sustained by the patentee or by any such person, after the grant of the patent, by reason of the infringement;'
+"19. In addition, the common law has developed a number of principles in relation to the measure of damages. Firstly, due regard must be given to the statement of Lord Wilberforce in
+General Tire & Rubber Co. v. Firestone Tyre & Rubber Co.
+:
+'The general rule at any rate in relation to "economic" torts is that the measure of damages is to be, so far as possible, that sum of money which will put the injured party in the same position as he would have been in if he had not sustained the wrong (
+Livingstone v. Rawyards Coal Co.
+, 5 A.C. 25, per Lord Blackburn at 39.)
+'In the case of infringement of a patent, an alternative remedy at the option of the plaintiff exists by way of an account of profits made by the infringer. ... The respondents did not elect to claim an account of profits: their claim was only for damages. There are two essential principles in valuing that claim: first, that the plaintiffs have the burden of proving their loss; second, that the defendants being wrongdoers, damages should be liberally assessed but that the object is to compensate the plaintiffs and not punish the defendants (
+Pneumatic Tyre Co. Ltd. v. Puncture Proof Pneumatic Tyre Co.
+(1899), 16 R.P.C. 209 at 215.)'
+"20. In the words of Lord Buckley in
+Meters Ltd. v. Metropolitan Gas Meters Ltd.
+, the valuation of the claim is 'one that is not capable of being mathematically ascertained by any exact figure.' However, it is ultimately necessary to arrive at an exact figure that fairly represents the compensation due to the plaintiff. Accordingly, courts have developed a number of 'practical working rules which have seemed helpful to judges in arriving at a true estimate of the compensation which ought to be awarded against an infringer to a patentee.'
+"21. Where the patentee does not normally license use of its invention, it is entitled to the profits on the sales it would have made but for the presence of the infringing product in the market. For those sales made by the infringer that the patentee would not have made, the patentee is entitled to a reasonable royalty:
+Colonial Fastener Co. v. Lightning Fastener Co.
+,
+Watson, Laidlaw & Co. v. Pott, Cassels & Williamson
+.
+"22. It should be noted that where the patentee has licensed its invention in the past, it is 'almost a rule of law' to assess damages in terms of a reasonable royalty; i.e., according to what the infringer would have paid if it had entered into a legitimate licensing agreement with the patentee:
+Meters Ltd. v. Metropolitan Gas Meters Ltd.; Catnic Components Ltd. v. Hill & Smith Ltd.
+This does not apply to the case at bar because the plaintiff has consistently manufactured and sold its own film, and there is no evidence of a license ever being issued for their patented technology.
+"23. In addition to lost profits due to lost sales, the patentee may also claim lost profits due to price suppression if it can establish that it necessarily reduced its prices because of the competition of the infringer:
+Colonial Fastener Co. v. Lighting Fastener Co.
+,
+American Braided Wire Co. v. Thomson
+."

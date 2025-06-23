@@ -1,0 +1,4 @@
+[42]
+A literal interpretation of s. 78(4) suggests that where an applicant does not have the number of years specified in the provision that corresponds to his or her highest educational credential, he or she will be awarded the same number of points as the number of years specified in that paragraph. For example, an applicant having a two-year post-secondary educational credential but only 13 years would not get the 20 points provided in s. 78(2)(d)(i) because he does not have 14 years of study, instead, he would receive points equal to the years of study
+in that paragraph
+, i.e. 14.

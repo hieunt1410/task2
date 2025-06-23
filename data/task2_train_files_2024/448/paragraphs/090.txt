@@ -1,0 +1,6 @@
+[90]
+The applicant also relies on the English Patent Appeal Tribunal decision of
+Imperial Chemical Industries Ltd. (Howe's) Application
+, November 18, 1971 (Patent Appeal Tribunal). In that decision it was held that prior disclosure of a racemate did not anticipate its isomers, even though a chemist would realize that a racemate could be separated into levorotatory and dextrorotatory isomers. The applicant refers to a decision of the Canadian Patent Appeal Board where claims to an isomer in a substantially pure form were permitted even though the specific isomer at a lower purity level had been previously disclosed:
+University of Strathclyde Patent Application, Re
+(1996), 77 C.P.R.(3d) 328 (Pat. App. Bd.).

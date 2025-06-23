@@ -1,0 +1,202 @@
+[1]
+Pinard, J.
+: This is an application for judicial review by the Minister pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (the "
+Act
+") of the decision of the Immigration and Refugee Board, Immigration Appeal Division ("IAD"), dated February 13, 2008, wherein the IAD concluded it had jurisdiction to hear an appeal of the respondent's removal order.
+[2]
+The respondent, Eluzur Rumpler, is a citizen of the United States, and an ultra-orthodox Jew. His native languages are Hebrew and Yiddish; he speaks some English and no French.
+[3]
+The respondent became a resident of Canada in 1979, when he was five years old. According to the affidavit of Catherine Raymond, hearing officer, he has lived in Canada continuously since then, except during the period of 2001-2003, when he worked in Israel for a Canadian religious organization.
+[4]
+Every time a permanent resident re-enters Canada, he must satisfy the immigration officer that he has complied with the residency requirements described in paragraph 28(2) of the
+Act
+during the previous five-year period.
+[5]
+Here are the events underlying this claim, in chronological order:
+- September 16, 2005: Returning to Canada from Israel, an immigration officer determined that the respondent did not satisfy the residency requirements of section 28 of the
+Act
+, and undertook measures to have him removed.
+- October 17, 2005: The period to appeal the removal order expired.
+- November 15, 2005: The respondent voluntarily left Canada for the United States.
+- November 17, 2005: The respondent requested of the IAD an extension of the period, to allow him to lodge an appeal of the removal order.
+- February 10, 2006: The IAD decided that, according to subsection 63(3) of the
+Act
+, it did not have the competence to extend the period of appeal after its expiration, because the respondent had lost his status as permanent resident by failing to appeal.
+- December 13, 2006: Justice Blanchard of the Federal Court granted the respondent's application for judicial review, and held that the IAD did have competence under the said provision to grant the extension. Following this ruling, an extension was granted by a different member of the IAD.
+- May 3, 2007: At a new hearing before the IAD, the Minister asked the tribunal to reject the appeal of the removal order on the ground of mootness, because the respondent had voluntarily left the country and thus executed the order.
+- February 13, 2008: In written reasons, Commissioner Jean-Carle Hudon of the IAD rejected the Minister's motion.
+- February 29, 2008: The Minister brought this application for judicial review of the IAD's decision, for which leave was granted on July 9th.
+[6]
+This case involves the interplay among several provisions of the
+Act
+, the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (the "
+Regulations
+") and the
+Immigration Appeal Division Rules
+, SOR/2002-230 (the "
+Rules
+").
+[7]
+The following provisions of the
+Act
+are relevant:
+"2(1) ...
+"'permanent resident' means a person who has acquired permanent resident status and has not subsequently lost that status under section 46.
+"46(1) A person loses permanent resident status
+(a) when they become a Canadian citizen;
+(b) on a final determination of a decision made outside of Canada that they have failed to comply with the residency obligation under section 28;
+(c) when a removal order made against them comes into force; or
+(d) on a final determination under section 109 to vacate a decision to allow their claim for refugee protection or a final determination under subsection 114(3) to vacate a decision to allow their application for protection.
+. . . . .
+"49(1) A removal order comes into force on the latest of the following dates:
+(a) the day the removal order is made, if there is no right to appeal;
+(b) the day the appeal period expires, if there is a right to appeal and no appeal is made; and
+(c) the day of the final determination of the appeal, if an appeal is made.
+. . . . .
+"63(1) A person who has filed in the prescribed manner an application to sponsor a foreign national as a member of the family class may appeal to the Immigration Appeal Division against a decision not to issue the foreign national a permanent resident visa.
+"(2) A foreign national who holds a permanent resident visa may appeal to the Immigration Appeal Division against a decision at an examination or admissibility hearing to make a removal order against them.
+"(3) A permanent resident or a protected person may appeal to the Immigration Appeal Division against a decision at an examination or admissibility hearing to make a removal order against them.
+"(4) A permanent resident may appeal to the Immigration Appeal Division against a decision made outside of Canada on the residency obligation under section 28.
+"(5) The Minister may appeal to the Immigration Appeal Division against a decision of the Immigration Division in an admissibility hearing.
+"161(1) Subject to the approval of the Governor in Council, and in consultation with the Deputy Chairpersons and the Director General of the Immigration Division, the Chairperson may make rules respecting
+(a) the activities, practice and procedure of each of the Divisions of the Board, including the periods for appeal, the priority to be given to proceedings, the notice that is required and the period in which notice must be given; [...]"
+"2(1) ...
+"'résident permanent' Personne qui a le statut de résident permanent et n'a pas perdu ce statut au titre de l'article 46.
+"46(1) Emportent perte du statut de résident permanent les faits suivants:
+a) l'obtention de la citoyenneté canadienne;
+b) la confirmation en dernier ressort du constat, hors du Canada, de manquement à l'obligation de résidence;
+c) la prise d'effet de la mesure de renvoi;
+d) l'annulation en dernier ressort de la décision ayant accueilli la demande d'asile ou celle d'accorder la demande de protection.
+. . . . .
+"49(1) La mesure de renvoi non susceptible d'appel prend effet immédiatement; celle susceptible d'appel prend effet à l'expiration du délai d'appel, s'il n'est pas formé, ou quand est rendue la décision qui a pour résultat le maintien définitif de la mesure.
+. . . . .
+"63(1) Quiconque a déposé, conformément au règlement, une demande de parrainage au titre du regroupement familial peut interjeter appel du refus de délivrer le visa de résident permanent.
+"(2) Le titulaire d'un visa de résident permanent peut interjeter appel de la mesure de renvoi prise au contrôle ou à l'enquête.
+"(3) Le résident permanent ou la personne protégée peut interjeter appel de la mesure de renvoi prise au contrôle ou à l'enquête.
+"(4) Le résident permanent peut interjeter appel de la décision rendue hors du Canada sur l'obligation de résidence.
+"(5) Le ministre peut interjeter appel de la décision de la Section de l'immigration rendue dans le cadre de l'enquête.
+"161(1) Sous réserve de l'agrément du gouverneur en conseil et en consultation avec les vice-présidents et le directeur général de la Section de l'immigration, le président peut prendre des règles visant:
+a) les travaux, la procédure et la pratique des sections, et notamment les délais pour interjeter appel de leurs décisions, l'ordre de priorité pour l'étude des affaires et les préavis à donner, ainsi que les délais afférents; [...]"
+[8]
+The following provisions of the
+Regulations
+are also pertinent:
+"237. A removal order is enforced by the voluntary compliance of a foreign national with the removal order or by the removal of the foreign national by the Minister.
+"240(1) A removal order against a foreign national, whether it is enforced by voluntary compliance or by the Minister, is enforced when the foreign national
+(a) appears before an officer at a port of entry to verify their departure from Canada;
+(b) obtains a certificate of departure from the Department;
+(c) departs from Canada; and
+(d) is authorized to enter, other than for purposes of transit, their country of destination."
+"237. L'exécution d'une mesure de renvoi est soit volontaire, soit forcée.
+"240(1) Qu'elle soit volontaire ou forcée, l'exécution d'une mesure de renvoi n'est parfaite que si l'étranger, à la fois:
+a) comparaît devant un agent au point d'entrée pour confirmer son départ du Canada;
+b) a obtenu du ministère l'attestation de départ;
+c) quitte le Canada;
+d) est autorisé à entrer, à d'autres fins qu'un simple transit, dans son pays de destination."
+[9]
+Finally, the following provisions of the
+Immigration Appeal Division Rules
+also bear on the present case:
+"7(1) If a foreign national who holds a permanent resident visa, a permanent resident, or a protected person wants to appeal a removal order made at an examination, they must provide a notice of appeal to the Division together with the removal order.
+"(2) The notice of appeal and the removal order must be received by the Division no later than 30 days after the appellant received the removal order.
+. . . . .
+"58. The Division may
+(a) act on its own initiative, without a party having to make an application or request to the Division;
+(b) change a requirement of a rule;
+(c) excuse a person from a requirement of a rule; and
+(d) extend or shorten a time limit, before or after the time limit has passed."
+"7(1) Si le titulaire d'un visa de résident permanent, le résident permanent ou la personne protégée veut interjeter appel d'une mesure de renvoi prise au contrôle, il transmet à a Section un avis d'appel et la mesure de renvoi.
+"(2) L'avis d'appel et la mesure de renvoi doivent être reçus par la Section au plus tard trente jours suivant la date à laquelle l'appelant reçoit la mesure de renvoi.
+. . . . .
+"58. La Section peut:
+a) agir de sa propre initiative sans qu'une partie n'ait à lui présenter une demande;
+b) modifier une exigence d'une règle;
+c) permettre à une partie de ne pas suivre une règle;
+d) proroger ou abréger un délai avant ou après son expiration."
+[10]
+The IAD member plainly believes that his decision flows directly from Justice Blanchard's ruling in
+FRAGMENT_SUPPRESSED, that the IAD has authority to extend the time to lodge an appeal. He concludes that the combination of section 161 of the
+Act
+, which puts questions regarding the periods of appeals and extensions of time limits within the jurisdiction of the IAD, and section 58 of the
+Rules
+of the IAD, which empowers the IAD to "extend or shorten a time limit, before or after the time limit has passed", has the effect of removing the present claim from the purview of paragraph 49(1)(b) of the
+Act
+. According to subsection 49(1), a removal order comes into force, where there is a right to appeal, on the
+latest of
+the day the appeal period expires where no appeal is made, the day of the final determination of the appeal, if an appeal is made. Following the ruling of Justice Blanchard, and the subsequent grant by the IAD of the application to extend the time limit for the late notice of appeal, an appeal has in effect been made, and the case is now governed by 49(1)(c).
+[11]
+Before me, the applicant raised the same question of mootness which he attempted, albeit without success, to raise before Mr. Justice Blanchard, in
+Rumpler
+, supra. It is important to note that Mr. Justice Blanchard, in his decision, refused to consider the mootness argument based on subsection 240(1) of the
+Regulations
+and the voluntary departure of the applicant, because the issue had not been raised in the written submissions before him:
+"[13] The applicant objects to the Court hearing the respondent on mootness since the issue was not raised in the notice of application or in the respondent's written submissions. I agree. There was nothing to prevent the respondent from raising the issue earlier. To allow an issue to be raised for the first time at the hearing is without question prejudicial to the applicant who has had no opportunity to prepare a response to the argument. In the result, the issue of mootness will therefore not be considered in this application."
+[12]
+In the case at bar, the same argument of lack of jurisdiction is properly raised in the written submissions and must, therefore, be considered.
+[13]
+I agree with the applicant that the IAD erred in law in finding that it had continuing jurisdiction in spite of the fact that the respondent had left Canada and had executed the removal order before he filed a notice of appeal.
+[14]
+It is trite law that the IAD does not have jurisdiction to reopen an appeal where the motion to reopen has been filed after an appellant is removed from Canada. In
+Canada (Minister of Citizenship and Immigration) v. Immigration and Refugee Board (Can.) et al.
+, [2000] 3 F.C. 563; 254 N.R. 88 (F.C.A.), the Federal Court of Appeal stated, at paragraph 26:
+"[26] I therefore conclude that the Supreme Court of Canada did not decide, in
+Grillas
+, supra, that an appeal could not be reopened once an unsuccessful appellant had been removed from Canada before his motion to reopen had been heard and decided. The provisions of the current
+Immigration Act
+recognize that the Appeal Division has continuing jurisdiction to reopen an appeal in cases
+where the continuing jurisdiction has already been engaged at the time an unsuccessful appellant is removed from Canada
+." (Emphasis is mine.)
+[15]
+In a previous decision,
+Clancy v. Minister of Employment and Immigration
+(1988), 86 N.R. 301 (F.C.A.), at page 302, the Federal Court of Appeal noted that the Board had power to reopen at any time until execution of the deportation order:
+"... We agree that the Board's equitable jurisdiction under s. 72(1)(b) is a continuing jurisdiction and not one which must be exercised once and for all. We think also that the Board can exercise that jurisdiction until such time as the removal order has actually been executed. In this case, the Board had jurisdiction to entertain the appeal at the time when the respondent filed his notice of appeal. Its equitable jurisdiction continues thereafter, in our view, until his removal from Canada has been effected."
+[16]
+More recently, in the case of
+Chieu v. Canada (Minister of Citizenship and Immigration)
+, [2002] 1 S.C.R. 84; 280 N.R. 268; 2002 SCC 3, at paragraph 48, the Supreme Court of Canada cited with approval an extract from Lorne Waldman's
+Immigration Law and Practice
+(loose-leaf ed.), at §10.133.7:
+"It is trite law that the Appeal Division has ongoing jurisdiction over the appellant up to and until the time that the removal order is executed. ..."
+[17]
+In my view, the IAD was bound by the above jurisprudence and therefore clearly erred in law by not applying it.
+[18]
+As the IAD does not have the jurisdiction to cancel the removal order once it has already been executed, it necessarily has no jurisdiction to grant a request (filed after such an execution) for an extension of time to lodge an appeal of the removal order.
+[19]
+Consequently, the application for judicial review is allowed, the IAD's decision dated February 13, 2008 is set aside, and the matter is sent back for re-determination by a differently constituted panel of the IAD.
+[20]
+The respondent Eluzur Rumpler proposed the following question as a serious question of general importance to be certified for appeal:
+Does the Immigration Appeal Division lose jurisdiction over an appeal by a permanent resident under section 63(3) of
+IRPA
+, of a removal order based on alleged non-compliance with the residency obligation at
+IRPA
+article 28, if the permanent resident leaves Canada before filing that appeal?
+[21]
+Further to my request for written submissions in support of this proposition for certification, counsel for the respondent laconically wrote one sentence, which reads:
+The respondent submits that such an interpretation of
+IRPA
+clashes with
+IRPA
+63(4), whereby a residency obligation decision may be appealed from outside Canada.
+[22]
+I agree with the applicant, the Minister of Citizenship and Immigration, that it is clear that subsection 63(4) of the
+Immigration and Refugee Protection Act
+does not apply and, therefore, does not "clash" with subsection 63(3). Subsection 63(4) reads as follows:
+"63(4) A permanent resident may appeal to the Immigration Appeal Division against a decision made outside of Canada on the residency obligation under section 28."
+"63(4) Le résident permanent peut interjeter appel de la décision rendue hors du Canada sur l'obligation de résidence."
+[23]
+The purpose of the provision is to grant a permanent resident a right of appeal to the IAD
+against a decision made outside of Canada
+. As the departure order in this case was made in Quebec City, subsection 63(4) is irrelevant.
+[24]
+Consequently, the proposed question will not be certified.
+JUDGMENT
+[25]
+The application for judicial review is allowed. The decision of the Immigration Appeal Division ("IAD") of the Immigration and Refugee Board dated February 13, 2008 is set aside and the matter is sent back for re-determination by a differently constituted panel of the IAD.
+Application allowed.
+Editor: Angela E. McKay/pdk
+[End of document]

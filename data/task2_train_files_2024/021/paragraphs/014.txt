@@ -1,0 +1,8 @@
+ [14] 
+  The Supreme Court dealt with the question of standard of review of decisions of the Canadian Human Rights Commission in  
+ Syndicat des employés de production du Québec et de l'Acadie v. Commission canadienne des droits de la personne 
+ , [1989] 2 S.C.R. 879; 100 N.R. 241 (hereinafter,  
+ Acadie 
+ ). That decision is often cited by this court in its attempts to determine whether a decision made by the Commission, either to dismiss a complaint or to send it to an inquiry or Human Rights tribunal, should be set aside. In  
+ Acadie 
+ , at 899 [S.C.R.], Sopinka, J., held that the Commission's decision as to how to dispose of a complaint is an administrative procedure in which it is determined whether there is a reasonable basis in the evidence for proceeding to a next stage. Therefore, the Commission need not comply with the formal rules of natural justice but must act in accordance with procedural fairness in making this decision. Sopinka, J., found that, at this stage, the Commission has a duty to inform the parties of the substance of the evidence obtained by the investigator which was put before the Commission and to give the parties the opportunity to respond to this evidence and make all relevant representations in relation thereto.

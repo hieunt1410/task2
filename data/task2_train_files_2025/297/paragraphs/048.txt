@@ -1,0 +1,10 @@
+[48]
+Two issues arise in relation to the application of s. 25. First, what portions of the information are exempt in accord with paragraph 20(1)(b)? Second, is the balance of the information, that is the portion not exempt, reasonably severable? In the latter regard one must bear in mind that "... Disconnected snippets of releasable information taken from otherwise exempt passages are not ... reasonably severable", and severance of exempt and nonexempt portions should be attempted only when the result is a reasonable fulfilment of the purposes of the
+Act
+, per Jerome, A.C.J., in
+Information Commissioner (Can.) v. Canada (Solicitor General)
+, [1988] 3 F.C. 551; 20 F.T.R. 314, at pp. 558-559 (T.D.). Where severance would result in release of minimal portions of the information in question and would result only in release of information otherwise available from published public sources, or where the information left to be released is not a reasonable response to the request for information in light of the portions exempt, severance has been found not to be reasonable, and thus not required within s. 25 (
+Montana Indian Band v. Canada (Minister of Indian Affairs and Northern Development)
+, supra, note 5, 18 F.T.R. at pp. 26-27 (T.D.);
+Keddy v. Atlantic Canada Opportunities Agency
+(1993), 66 F.T.R. 227, at pp. 7-8 (T.D.)).

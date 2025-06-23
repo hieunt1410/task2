@@ -1,0 +1,186 @@
+[1]
+Tremblay-Lamer, J.
+[Translation]: This is a motion by the defendant pursuant to s. 221(1)(a) and (f) of the
+Federal Court Rules (1998)
+, SOR/98-106, asking the Court to strike the plaintiff's action. By that action the plaintiff claimed the sum of $3,017,712 as damages resulting from his military service.
+[2]
+In support of her motion the defendant argued that the facts alleged in the plaintiff's action give rise to a pension under the
+Pension Act
+, R.S.C. 1985, c. P-6. The plaintiff made an application to the Minister of Veterans' Affairs to be awarded a pension for his physical and psychological disability resulting from what he called a post-traumatic stress syndrome. The Minister acknowledged that the plaintiff was suffering from a post-traumatic stress syndrome entitling him to a pension under s. 21(1) of the
+Pension Act
+and in this regard decided that the related disability should provisionally be assessed at 60%.
+[3]
+The defendant noted that major depression and post-traumatic stress syndrome are the only two illnesses complained of by the plaintiff in his action. The other damages are only symptoms of an illness.
+[4]
+In the defendant's submission, this action is to seek compensation for injury which has already resulted in the payment of a pension (post-traumatic stress syndrome). In view of the content of s. 9 of the
+Crown Liability and Proceedings Act
+, R.S.C. 1985, c. C-50, the plaintiff's action should be struck out.
+[5]
+The defendant further submitted that in any case this Court does not have jurisdiction to grant the plaintiff's claim, for the following reason:
+- the internal remedy provided for in the
+National Defence Act
+, R.S.C. 1985, c. N-5, and the
+Queen's Regulations and Orders for the Canadian Forces
+(
+QR & O
+), exhaustively cover the remedies available to a member of the Forces who objects to a decision taken regarding him during his military service. In the case at bar, the plaintiff did not challenge any action taken concerning him during his military service by the applicable grievance procedure.
+[6]
+In the event that this Court decides not to grant the strike order, the defendant asked that the plaintiff's action be stayed pursuant to s. 111 of the
+Pension Act
+and s. 50(1)(b) of the
+Federal Court Act
+until the Minister has ruled on the plaintiff's eligibility for a pension based on all the facts alleged by the plaintiff.
+Section 9 of the Crown Liability and Proceedings Act
+[7]
+Section 9 of the
+Crown Liability and Proceedings Act
+provides as follows:
+"No proceedings lie where pension payable
+"9. No proceedings lie against the Crown or a servant of the Crown in respect of a claim if a pension or compensation has been paid or is payable out of the Consolidated Revenue Fund or out of any funds administered by an agency of the Crown in respect of the death, injury, damage or loss in respect of which the claim is made."
+[8]
+Quite recently, in
+Sarvanis v. Canada
+, [2002] S.C.J. 27; 294 N.R. 263 (S.C.C.) ("
+Sarvanis
+"), the Supreme Court of Canada dealt with the interpretation to be given to s. 9 of the
+Crown Liability and Proceedings Act
+. Iacobucci, J., for the Court, indicated that a plaintiff cannot obtain compensation for a loss which is the same as that which creates the entitlement to a pension or relevant compensation:
+"... the key is to recognize that the loss the recovery of which is barred by the statute must be the same loss that creates an entitlement to the relevant pension or compensation. The enumeration of events as clearly explicates the meaning of 'perte' in the French text as it does the meaning of 'in respect of' in English.
+"In my view, the language in s. 9 of the
+Crown Liability and Proceedings Act
+, though broad, nonetheless requires that
+such a pension or compensation paid or payable as will bar an action against the Crown be made on the same factual basis as the action thereby barred. In other words, s. 9 reflects the sensible desire of Parliament to prevent double recovery for the same claim where the government is liable for misconduct but has already made a payment in respect thereof
+. That is to say, the section does not require that the pension or payment be in consideration or settlement of the relevant event, only that it be on the specific
+basis
+of the occurrence of that event that the payment is made.
+"This breadth is necessary to ensure that there is no Crown liability under ancillary heads of damages for an event already compensated. That is, a suit only claiming for pain and suffering, or for loss of enjoyment of life, could not be entertained in light of a pension falling within the purview of s. 9 merely because the claimed head of damages did not match the apparent head of damages compensated for in that pension. All damages arising out of the incident which entitles the person to a pension will be subsumed under s. 9, so long as that pension or compensation is given 'in respect of', or on the same basis as, the identical death, injury, damage or loss."
+Sarvanis
+, supra, at paras. 27-29.
+[9]
+A little further on, Iacobucci, J., referred directly to the
+Pension Act
+, indicating that this clearly excludes the initiation of any proceeding:
+"It is useful to contrast other statutes providing pensions or compensations that are clearly foreclosed by s. 9 of the
+Crown Liability and Proceedings Act
+. One example, already noted above, is the
+Pension Act
+. The
+Pension Act
+provides for pensions payable to members of the Canadian Forces who are injured in the line of duty."
+Sarvanis
+, supra, at para. 34.
+[10]
+Finally, at para. 38 Iacobucci, J., explained:
+"Simply put, s. 9 of the
+Crown Liability and Proceedings Act
+establishes Crown immunity where the very event of death, injury, damage or loss that forms the basis of the barred claim is the event that formed the basis of a pension or compensation award."
+[11]
+In the case at bar, the plaintiff alleged the following in his pension application of September 29, 2000:
+[Translation] "During my tour in Haiti I dived to free the victims of a ship which had sunk off the Haitian coast. I was responsible for the diving team which provided assistance to the victims. A letter from a military physician was entered in my file, with a critical explanation of this accident which I had to confront.
+"I am at present in the care of a psychologist who has diagnosed PTSS [post-traumatic stress syndrome] since June '00. I have had to leave my work for a period of over two months and since returning on Sept. 23 '00 last I have only worked in the mornings. I am currently taking medication and my medical classification has had to be changed."
+Defendant's file, tab 21, at p. 59.
+[12]
+The Department of Veterans' Affairs concluded that the plaintiff's disability pension application for his post-traumatic stress condition entitled him to a pension:
+[Translation] "The current diagnosis of a post-traumatic stress condition (PTSC) and its linkage to the service in Haiti were obtained in a psychiatric report dated January 12, 2001. Considering the evidence provided by that report, the Department feels that your PTSC is due to your military service in a special service zone (Haiti). You are accordingly entitled to a disability pension under s. 21(1) of the
+Pension Act
+."
+Defendant's file, tab 2J, at p. 64.
+[13]
+After carefully re-reading the plaintiff's statement of claim, I feel that it has the same factual basis as the pension he is receiving or may receive.
+[14]
+The plaintiff is receiving a partial disability pension for problems attributable to a post-traumatic stress syndrome. As regards the plaintiff's major depression attributable to work overload, stressful events occurring on foreign missions and the defendant's failure to provide adequate medical care, this is an illness for which a pension may be awarded so that, provided his allegations are valid, his condition may entitle him to a pension under the
+Pension Act
+.
+[15]
+It is true that in his action the plaintiff mentioned the defendant's failure to perform her fiduciary duty (inter alia, the defendant did not provide the plaintiff with support and therapy services at the proper time). However, this failure is only incidental to the damage for which the plaintiff is receiving a pension (
+Sarvanis
+, supra, at para. 29).
+[16]
+Duplessis
+,
+Marsot
+and
+Stopford
+, mentioned by the plaintiff, may be distinguished. In
+Duplessis v. Canada
+, [2000] F.C.J. No. 1917; 197 F.T.R. 87 (T.D. Protho.), affd. (2001), 211 F.T.R. 214 (T.D.), at paras. 65 and 71-72 (
+Duplessis
+, prothonotary Aronovitch), the prothonotary Aronovitch dealt with the question of whether s. 9 of the
+Crown Liability and Proceedings Act
+could be applied when in his action the plaintiff mentions the failure to perform a fiduciary duty:
+"Section 9 of the
+Crown Liability and Proceedings Act
+was considered in
+Aussant v. Canada
+, [2000] F.C.J. No. 600 (T.D.). In that decision, Justice Dawson, on the basis of the reasoning of Justice Lutfy (as he then was) in
+McLean v. Canada
+(1999), 164 F.T.R. 208 (T.D.), held that
+section 9 could reasonably be interpreted as being limited to actions in tort, as opposed to action in breach of contract or otherwise. For this reason, it is certainly inappropriate to strike the plaintiff's entire claim on the basis of section 9 of the
+Crown Liability and Proceedings Act
+." [My emphasis]
+. . . . .
+"
+Absent clearer evidence that the pension entitlement was intended to cover and does cover the injuries which form the basis for this claim, and that these injuries are in fact related to or indistinguishable from the aggravation of his syndrome, I cannot find it plain and obvious that the plaintiff has already been awarded a pension in relation to the injuries claimed
+. This finding applies equally to section 9 of the
+Crown Liability and Proceedings Act
+on which the Crown relies to bar Sergeant Duplessis' claim in tort. [My emphasis]
+"I would add that more complete evidence as to the nature and extent of the injuries claimed or their relation to the plaintiff's disorder cannot be adduced and should not be evaluated in the context of a motion to strike. At the least, this matter requires full pleadings and discoveries [...]"
+[17]
+Lemieux, J., affirmed this decision by the prothonotary Aronovitch,
+FRAGMENT_SUPPRESSED
+[18]
+In
+Duplessis
+, the plaintiff claimed discrimination. Further, the plaintiff alleged that the failures committed by Her Majesty in not providing the necessary support had, in his submission, clear consequences for his problem: alienation or stigmatization, mental suffering, humiliation and loss of dignity.
+[19]
+In the case at bar, although the plaintiff alleged that his application was completely different from his pension, he did not specify how the consequences relied on in his action could be distinguished from his problem for which he is receiving a pension. In my opinion, they cannot be distinguished.
+[20]
+The prothonotary Aronovitch again noted the importance of the linkage between the pension and the alleged damages in the plaintiff's action, when she said in
+Stopford v. Canada
+, [2002] 1 F.C. 360; 209 F.T.R. 295 (T.D. Protho.), at paras. 34-35:
+"[...] As with
+Duplessis
+, the present claim is for damages resulting from the conduct of the plaintiff's superiors.
+The injuries claimed are the results of
+alleged intentional poisoning,
+the denial of adequate and timely assistance and treatment
+, the premature loss of the plaintiff's status and employment in the services, culminating in the likely curtailment of his life expectancy.
+These injuries are claimed to be due to the intentional and negligent conduct of the defendant. I cannot conclude, in the context of this motion, that the injuries giving rise to this action are indistinguishable from the physical and mental disabilities suffered by the plaintiff in connection with his military service for which he is in receipt of a pension
+.
+"I am also not satisfied that such injuries may be compensated by pension [...]" (My emphasis)
+[21]
+In an even more recent decision,
+Marsot v. Canada (Minister of National Defence)
+, [2002] F.C.J. No. 313; 217 F.T.R. 232 (T.D.), at paras. 63 and 66, Lemieux, J., had before him a motion for a summary judgment. In that case, the plaintiff also alleged a breach of the defendant's fiduciary duty:
+"The principle behind section 9 of the CLPA is to bar double recovery and, as recognized by the case law, that means the pension paid must be for the injury, destruction, loss or damages giving rise to the damages sought in the action that is said to be statute-barred. In
+Langille
+, supra, the action barred was for loss suffered on account of the destruction of cattle for which compensation had been paid.
+. . . . .
+"The defendant has not established a sufficient evidentiary foundation to demonstrate the plaintiff is seeking double or enhanced recovery for the same injuries in the action sought to be barred and those covered by her pension. On its face, the necessary linkage or connection is not there. As counsel for the plaintiff put it, damages for breach of contract, damages for negligent representation,
+damages for breach of fiduciary duty
+, damages for
+Charter
+breaches, damages for assault and battery and damages for intentional infliction of mental suffering
+have nothing to do with the fact she is receiving a pension for PTSD
+. They cover other losses for which she had not been compensated for." (My emphasis)
+[22]
+In
+Marsot
+, the plaintiff was inter alia the victim of discrimination and sexual harassment. These were damages which could not be compensated for by a pension. That is why Lemieux, J., concluded that in that case the damages sought had nothing to do with the fact that the plaintiff was receiving a pension for post-traumatic stress syndrome. In the case at bar, the linkage between the pension received by the plaintiff and what he is seeking in his action is much closer. Additionally, in
+Marsot
+the plaintiff was not seeking damages for disability, whereas the plaintiff in the case at bar is making such a request.
+[23]
+Since in his action the plaintiff is asking to be compensated for his physical and psychological disabilities resulting from events other than those which occurred in Haiti, and has not made a pension application for the major depression resulting from those events, the proceedings in the case at bar are stayed until the Minister of Veterans' Affairs, on a formal request by the plaintiff made pursuant to ss. 79 et seq. of the
+Pension Act
+, has ruled on the plaintiff's eligibility for a pension under that
+Act
+.
+ORDER
+[24]
+As the plaintiff has not made an application for a disability pension resulting from a major depression, the Court orders that proceedings in the case at bar be stayed until the Minister of Veterans' Affairs, on a formal application by the plaintiff made pursuant to ss. 79 et seq. of the
+Pension Act
+, has ruled on the plaintiff's eligibility for a pension under that
+Act
+; without costs.
+Order accordingly.
+Editor: Giovanni A. Merlini/clh

@@ -1,0 +1,47 @@
+[14]
+Exhibit "A" to Mr. McDermid's affidavit is an Apotex invoice, significantly dated January 12/89, for "Winnipeg stock" as follows:
+CODE
+PRODUCT
+PRODUIT
+SIZE
+FORMAT
+LOT
+No.
+QUAN-
+TITY
+PRICE
+PRIX
+TOTAL
+ATEC2
+APO-ATENOLOL
+50 MG TAB
+100
+Q4681
+5
+40.85
+204.25
+ATED2
+APO-ATENOL
+50 MG TAB
+500
+Q5701
+12
+174.00
+2,328.00
+ATFC2
+APO-ATENOLOL
+100 MG TAB
+100
+Q4691
+24
+67.20
+1,612.80
+ATFD2
+APO-ATENOL
+100 MG TAB
+500
+Q5711
+138
+319.20
+44,049.60
+Counsel could suggest no pertinence in the circled, handwritten notation which appears on this copy of the Apotex invoice.

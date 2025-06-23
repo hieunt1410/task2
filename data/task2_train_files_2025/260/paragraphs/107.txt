@@ -1,0 +1,12 @@
+[107]
+The Supreme Court of Canada has warned about setting too high a bar of inventive ingenuity. In
+Halocarbon
+, above, the claim in issue covered a process for the production of isohalothane, the inventive aspect of which was to react a monomer in a liquid phase rather than a gaseous phase. The Federal Court of Appeal held that the claim was invalid for obviousness, and stated: "I would not hazard a definition of what is involved in the requirement of 'inventive ingenuity' but, as it seems to me, the requirement of 'inventive ingenuity' is not met in the circumstances of the claim in question where the 'state of the art' points to a process and all that the alleged inventor has done is ascertain whether or not the process will work successfully." The Supreme Court of Canada disagreed and held the claim valid. In this respect, the Court held:
+"In my view this statement of the requirement of inventive ingenuity puts it much too high. Very few inventions are unexpected discoveries. Practically all research work is done by looking in directions where the 'state of the art' points. On that basis and with hindsight, it could be said in most cases that there was no inventive ingenuity in the new development because everyone would then see how the previous accomplishments pointed the way ..."
+"Slight alterations or improvements may produce important results ..." and the "... patient searcher is as much entitled to the benefits of a monopoly as someone who hits upon an invention by some lucky chance or inspiration." (
+Halocarbon
+, above; reference is also made to
+Canadian General Electric
+and
+American Cyanamid
+, above.)

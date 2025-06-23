@@ -1,0 +1,139 @@
+Al Husin v. Can. (M.C.I.), [2006] F.T.R. Uned. 810 (FC)
+MLB unedited judgment
+Ibrahim Mohammad Al Husin (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-2814-06; 2006 FC 1451)
+Indexed As: Al Husin v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2006] F.T.R. Uned. 810
+Federal Court
+Phelan, J.
+November 30, 2006.
+Counsel:
+Blake Hobson, for the applicant;
+Cheryl Mitchell, for the respondent.
+Solicitors of Record:
+Hobson & Company, Surrey, British Columbia, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Phelan, J.
+: The Applicant’s refugee claim was denied by the Immigration and Refugee Board (Board) on the basis of the exclusion in Article 1F(b) of the United Nations Convention Relating to the Status of Refugees. The Board found that it had serious grounds to believe that the Applicant had committed a serious non-political crime and that he had not completed his sentence for that crime before entering Canada. This is the judicial review of the Board’s decision.
+II.
+BACKGROUND
+[2]
+The Applicant is a citizen of Jordan who, while at college in the United States, became friends with a group of suspected methamphetamine traffickers. For purposes of this judicial review, the events of his arrest and conviction in the United States are the relevant circumstances.
+[3]
+The Applicant claimed that a friend had offered him $1,000.00 to receive five boxes and turn them over to a person who would meet him at a gas station. That third person would give the Applicant a bag which he would retain until it was picked up by a fourth person.
+[4]
+On March 15, 2000, the Applicant was arrested after dropping off the boxes and receiving the bag from the people at the gas station. The bag contained $81,000.00; the boxes contained large quantities of pseudoephedrine.
+[5]
+The Applicant pleaded “no contest” to one charge of possession of ephedrine and hydriotic acid contrary to California state law, California Health and Safety Code. He was sentenced to one (1) year in state prison and five (5) years of probation.
+[6]
+Upon his release in March 2001, the Applicant was arrested by federal Immigration and Naturalization Services and deported to Jordan. Despite his deportation, the State Court reportedly issued a bench warrant for his arrest for involuntary violation of his probation by leaving the country.
+[7]
+The Board did not consider the merits of the Applicant’s refugee claim because it held that Article 1F(b) of the United Nations Convention Relating to the Status of Refugees applied where the Board had “serious reasons” to support that an applicant committed a serious non-political crime:
+Article 1. Definition of the term “refugee”
+. . . . .
+F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+. . . . .
+(b) He has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+[8]
+The Board recognized that the burden of proof in this instance, as it is based on “serious reasons”, is something less than the balance of probabilities.
+[9]
+The Board also considered the provision of the California Health and Safety Code to which the Applicant pleaded no contest:
+11383(c)(1) Any person who, with intent to manufacture methamphetamine or any of its analogs ... possesses ephedrine or pseudoephedrine ... is guilty of a felony ...
+[10]
+The Applicant’s position was that there was no equivalent provision in Canada to that in the United States under which the Applicant was sentenced. In that submission he was supported by a Citizenship and Immigration Canada document which said:
+Both subjects were being investigated in a conspiracy with others to aid and abet the manufacture of methamphetamine and distribute pseudoephedrine. The case involved a number of individuals that were implicated from the USA to Canada. The difficulty being that possession of pseudoephedrine is not illegal in Canada but is illegal in the U.S. when one has reasonable cause to believe it would be used in the manufacturing of a controlled substance; specifically methamphetamine.
+[11]
+The Board concluded that even if there was no equivalent section in Canada, s. 7 of the Controlled Drugs and Substances Act (CDSA) makes it an indictable offence to manufacture methamphetamine. Further, the Board held that s. 21(1)(b) of the Criminal Code of Canada (CCC) makes it an offence to do “… anything for the purpose of aiding any person to commit” an offence – in this case, the manufacture of methamphetamine.
+[12]
+The consequence of the Board’s analysis is that the acts taken by the Applicant to which he pleaded (the Board uses the word “guilty”) would constitute a crime in Canada. The Board held that a sentence of six (6) years, even though only one (1) year was incarceration, was a serious crime.
+[13]
+On the issue of whether the Applicant had served its sentence, the Board held that the reason for this inability to serve his sentence – his deportation - was an irrelevant excuse. The fact remained that he had not served his sentence. The Board referred to the Court of Appeal’s decision in Chan v. Canada (Minister of Citizenship and Immigration) (C.A.), [2000] 4 F.C. 390, [2000] F.C.J. No. 1180 (QL) as making it clear that where a person has served the sentence for the serious crime, the exclusion in Article 1F(b) does not apply.
+III.
+ANALYSIS
+[14]
+There are two issues in this judicial review:
+(a) Does the conviction form the requisite basis for the Applicant’s exclusion under Article 1F(b)?
+(b) If so, did the Applicant serve his sentence which would allow him to avoid the application of Article 1F(b)?
+A.
+Serious Non-Political Crime
+[15]
+I adopt the reasoning inFRAGMENT_SUPPRESSED that in respect of whether Article 1F should apply in a particular case, the issue is generally one of mixed law and fact and attracts the standard of review of reasonableness simpliciter. However, on this first issue, the determination that the U.S. conviction was based on an offence for which the Canadian equivalent is aiding and abetting, is a matter of law for which the standard should be correctness.
+[16]
+The Board’s decision is based on its understanding of s. 21 of the CCC which reads:
+21. (1) Every one is a party to an offence who
+(a) actually commits it;
+(b) does or omits to do anything for the purpose of aiding any person to commit it; or
+(c) abets any person in committing it.
+(2) Where two or more persons form an intention in common to carry out an unlawful purpose and to assist each other therein and any one of them, in carrying out the common purpose, commits an offence, each of them who knew or ought to have known that the commission of the offence would be a probable consequence of carrying out the common purpose is a party to that offence.
+21. (1) Participent à une infraction :
+a) quiconque la commet réellement;
+b) quiconque accomplit ou omet d’accomplir quelque chose en vue d’aider quelqu’un à la commettre;
+c) quiconque encourage quelqu’un à la commettre.
+(2) Quand deux ou plusieurs personnes forment ensemble le projet de poursuivre une fin illégale et de s’y entraider et que l’une d’entre elles commet une infraction en réalisant cette fin commune, chacune d’elles qui savait ou devait savoir que la réalisation de l’intention commune aurait pour conséquence probable la perpétration de l’infraction, participe à cette infraction.
+[17]
+The basic statement of law as to aiding and abetting is set forth in R. v. Mammolita (1983), 9 C.C.C. (3d) 85 (Ont. C.A.), para. 16:
+Quite apart from liability as a principal, a person may be guilty of wilful obstruction under s. 387(1)(c) if that person has aided or abetted another person to commit the offence. In order to incur liability as an aider or abettor:
+(i) there must be an act or omission of assistance or encouragement;
+(ii) the act must be done or the omission take place with the knowledge that the crime will be or is being committed;
+(iii) the act must be done or the omission take place for the purpose (i.e. with the intention) of assisting or encouraging the perpetrator
+in the commission of the crime
+. (emphasis added)
+[18]
+An essential element of the offence of aiding and abetting is that the act, which was said to be aided or abetted, actually occurs. This principle is further addressed in Stuart, Canadian Criminal Law: A Treatise, 4th ed. (Toronto: Carswell, 2001) at 609:
+... the actual perpetrator must have committed the actus reus of the crime before anyone can be found an accessory ... This one special rule concerning the actus reus committed by the actual perpetrator is a vestige of the English common law view that the liability of any form of accessory is derivative to that of the actual perpetrator.
+[19]
+The Board erred in concluding that the American offence was the equivalent of the Canadian offence of aiding and abetting. There was no requirement in U.S. law that the methamphetamine actually be manufactured. There was no evidence that the substance was manufactured from the material supplied by the Applicant.
+[20]
+The Board made its decision on a finding of equivalency which, in my view, cannot be sustained. Therefore, the decision must be overturned on this ground.
+B.
+Sentence
+[21]
+The parties also raise the issue of whether the Applicant had served his sentence. On this issue, the parties also agree that there is a question of importance for certification.
+[22]
+The Applicant relies on the Chan decision to argue that the situations are the same, and that even though the respective sentences could not be served because the person was deported, the person could not be held to be inadmissible under Article 1F(b).
+[23]
+While Chan makes it clear that a person who has served his sentence cannot be excluded under Article 1F(b), it is unclear whether on the facts, Chan had completed his probation although the suggestion is that he was deported after release from prison but before completion of probation.
+[24]
+The argument is that Chan stands for the proposition that failure to complete probation is not a bar to admission to Canada if that probation has been rendered impossible by reason of deportation.
+[25]
+In the current case it is clear that Husin’s probation imposed under state law was rendered impossible by action of U.S. federal authorities. The issuance of a bench warrant stands for nothing more than that Husin had not complied with his probation terms.
+[26]
+The Respondent argues that the Chan decision has been undermined by the Court of Appeal’s decision in Zrig v. Canada (Minister of Citizenship and Immigration), 2003 FCA 178, [2003] F.C.J. No. 565 (QL). While some of the discussion in that decision may suggest that the Chan decision should be approached with caution, it is noteworthy that the Court of Appeal in Zrig at para. 64 did not find Chan to be relevant to the issues that had to be decided in that case:
+In my opinion, this Court’s judgment in Chan, supra, does not help the appellant in any way, since in the case at bar he was neither charged with nor convicted of the crimes for which the Refugee Division held him responsible as an accomplice by association.
+[27]
+Justice Noël in Médina held that failure to serve the balance of a prison term (he served 52 months of a 60-month incarceration period) and any probation period due to deportation meant that the sentence had not been served.
+[28]
+On a plain reading of the Chan decision, the Applicant in this case did not serve his sentence and therefore the Board’s conclusion was correct.
+[29]
+The issue which remains unclear is whether a deportation order has the effect of completing the sentence or truncates the sentence in such a way that it can never be completed. If part of the aim of Article 1F(b) is to permit people who have completed their sentence from ever being admissible, then that aim would be frustrated by allowing a deportation order to make fulfilment of a sentence impossible.
+[30]
+While the simple solution might be to read in that the period of exclusion from admissibility is the period of the unserved sentence, this ignores the fact, particularly with probation, that the person is subject to terms and conditions of conduct, the fulfilment of which is impossible to determine.
+[31]
+As there is a need for clarification of this sentence issue, I will certify the following questions:
+1. Does serving a sentence for a serious crime prior to coming to Canada allow one to avoid the application of Article 1F of the Convention?
+2. If the answer to question 1 is affirmative, when and in what circumstances is a sentence deemed served, specifically does a deportation have the effect of deeming a sentence served?
+[32]
+The parties raised no issue as to whether the crime in this case was serious and I therefore have accepted, without deciding, that it was.
+[33]
+The Court also notes that the Board did not decide the merits of the refugee claim. As suggested in Chan, this is the preferred practice.
+IV.
+CONCLUSION
+[34]
+For reasons given, this judicial review will be granted, the decision of the Board quashed and the matter remitted for a new decision by a differently constituted panel of the Board.
+[35]
+The following questions are hereby certified:
+1. Does serving a sentence for a serious crime prior to coming to Canada allow one to avoid the application of Article 1F of the Convention?
+2. If the answer to question 1 is affirmative, when and in what circumstances is a sentence deemed served, specifically does a deportation have the effect of deeming a sentence served?
+JUDGMENT
+[36]
+IT IS ORDERED THAT:
+(a) This application for judicial review is granted, the decision of the Board is quashed and the matter is to be remitted for a new decision by a differently constituted panel of the Board.
+(b) The following questions are certified:
+1. Does serving a sentence for a serious crime prior to coming to Canada allow one to avoid the application of Article 1F of the Convention?
+2. If the answer to question 1 is affirmative, when and in what circumstances is a sentence deemed served, specifically does a deportation have the effect of deeming a sentence served?
+[End of document]

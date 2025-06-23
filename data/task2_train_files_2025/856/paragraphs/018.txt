@@ -1,0 +1,8 @@
+[18]
+Section 16 dictates who is entitled to the registration of a trademark:
+"16(1) Any applicant who has filed an application in accordance with s. 30 for registration of a trademark that is registrable and that he or his predecessor in title has used in Canada or made known in Canada in association with wares or services is entitled, subject to s. 38, to secure its registration in respect of those wares or services, unless at the date on which he or his predecessor in title first so used it or made it known it was confusing with
+(a) a trademark that had been previously used in Canada or made known in Canada by any other person;
+(b) a trademark in respect of which an application for registration had been previously filed in Canada by any other person; or
+(c) a trade name that had been previously used in Canada by any other person.
+.....
+"16(5) The right of an applicant to secure registration of a registrable trademark is not affected by the previous use or making known of a confusing trademark or trade name by another person, if the confusing trademark or trade name was abandoned at the date of advertisement of the applicant's application in accordance with s. 37. R.S., c. T-10, s. 16."

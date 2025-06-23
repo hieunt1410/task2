@@ -1,0 +1,8 @@
+[80]
+In terms of construing the patent, the jurisprudence is clear that the construction of the patent is a matter for the court. Further, there is no dispute that it is the claims at the end of specification, and only the claims, which define and limit the patentee's scope of protection (
+AT&T
+at 249 C.P.R.). As noted by Reed, J., in
+AT&T
+(supra) at page 249 C.P.R.:
+"There is no dispute as to the applicable law. The construction of the patent is a question for the court; that construction is to proceed on the basis that the addressee of the patent is a person skilled in the art, having the knowledge that such a person is likely to possess ... The patent must be construed by a mind willing to understand, seeking a construction which is reasonable and fair to both the patentee and the public.
+"In construing a patent the claims are the starting point. The claims alone define the statutory monopoly and the patentee has a statutory duty to state in the claims what the invention is that it is desired to protect. In construing the claims recourse to the specification is: (1) permissible to assist in understanding the terms used in the claims; (2) unnecessary where the words of the claim are plain and unambiguous; and (3) improper to vary the scope or ambit of the claims."

@@ -1,0 +1,197 @@
+[1]
+Campbell, J.
+: This is an application for judicial review of a decision of an Immigration Officer dated February 16, 1996, wherein the Officer determined that the applicants could not be landed pursuant to s. 46.04(3) of the
+Immigration Act
+, R.S.C. 1985, c. I-2 as am. S.C. 1992, c. 49 (the
+Act
+). The applicants seek an order quashing the decision of the Immigration Officer and an order requiring the Minister to process the applicants for landing.
+(A) The Facts
+[2]
+The facts of this case are not in dispute. The applicants are a mother, Ms. Maryam Sheikh Abdirahman, and her four children, all of whom are citizens of Somalia. On July 22, 1991, the applicants entered Canada from the United States, along with Mr. Mohamed Hassan, who is Ms. Abdirahman's husband and the father of the children. Upon entering Canada, Ms. Abdirahman and her husband made refugee claims. The children were included in Ms. Abdirahman's claim. On April 27, 1992, both Ms. Abdirahman and her husband were granted Convention refugee status. Following the determination, on May 12, 1992, both applied for landing. By letter dated August 13, 1992, the family was informed that their applications had been provisionally accepted.
+[3]
+Ms. Abdirahman's husband served as the Somali Ambassador to Canada from 1984 to 1987. In 1987, he was appointed the Somali Ambassador to Nigeria, where he stayed until 1991. On the basis of his employment as an Ambassador, in July 1995, Mr. Hassan was found to be a person described in s. 19(1)(l) of the
+Act
+, which reads as follows:
+"19(1) No person shall be granted admission who is a member of any of the following classes ...
+(l) persons who are or were senior members of or senior officials in the service of the government that is or was, in the opinion of the Minister, engaged in terrorism, systematic or gross human rights violations or war crimes or crimes against humanity within the meaning of s. 7(3.76) of the
+Criminal Code
+, except person who have satisfied the Minister that their admission would not be detrimental to the national interest."
+[4]
+Section 19(1.1) of the
+Act
+defines "senior officials" as follows:
+"19(1.1) For the purposes of paragraph (1)(l), 'senior members of or senior officials in the service of a government' means persons, who, by virtue of the position they hold or have held, are or were able to exert a significant influence on the exercise of government power and, without limiting its generality, includes ...
+(f) ambassadors and senior diplomatic officials."
+[5]
+As a result of the finding, Mr. Hassan was ordered deported. The applicants were not included in the deportation order.
+[6]
+On January 31, 1996, the applicants' solicitor wrote a letter to the Immigration Centre, requesting reasons why the family was not landed, even though they were provisionally accepted in 1992. On February 16, 1996, the following letter, which contains the decision under review, was received in response:
+"February 16, 1996
+Mr. Michael Bossin
+Lawyer
+Community Legal Services
+1 Nicholas St.
+Suite 422
+Ottawa, ON
+K1N 7B7
+Dear Mr. Bossin:
+RE: Maryan Sheikh Abdirahman ID 2698-8499 DOB 12/12/50
+In response to your letter of January 31, 1996, please be advised that I have discussed Ms. Abdirahman's case with the officer at our headquarters who is processing Mr. Hassan's case.
+Section 46.04(3) of the
+Act
+states that an officer 'shall grant landing to the applicant, and to any dependant for whom landing is sought if the immigration officer is satisfied that neither the applicant nor any of those dependants is a person described in paragraph ... 19(1)(1)'. It does not specify
+for whom landing has been sought by the applicant
+, just
+for whom landing is sought
+.
+Regulation 2.1(c) defines 'dependant' as 'i) a spouse of that person, ii) any dependent son or dependent daughter of that person or of the spouse of that person'. Mr. Hassan is a spouse of your client, and therefore a dependant by regulation. Landing is being sought by your client, her husband, and her children. In order for any member in the family to be landed, no member of the family can be described in paragraph 19(1)(1). Mr. Hassan has been found so described. As a result, neither your client nor her children can be landed at this time.
+Regards,
+H. Weil
+A/Supervisor
+Ottawa CIC
+200 Catherine St.
+Ottawa, ON
+K2P 2K9"
+[7]
+Section 46.04(3) of the
+Act
+, which Ms. Weil interpreted, is as follows:
+"46.04(3) Notwithstanding any other provision of this Act, but subject to subs. (3.1) and (8), an immigration officer to whom an application is made under subs. (1) shall grant landing to the applicant, and to any dependant for whom landing is sought if the immigration officer is satisfied that neither the applicant nor any of those dependants is a person described in paragraph 19(1)(c.1), (c.2), (d), (e), (f), (g), (k), or (l) or a person who has been convicted of an offence under any Act of Parliament for which a term of imprisonment of (a) more than six months has been i
+mposed; or (b) five or more years may be imposed."
+(B) The Issue
+[8]
+Did Ms. Weil err in her interpretation of s. 46.04(3) of the
+Act
+?
+(C) The Arguments
+[9]
+The applicants submit that Ms. Abdirahman, as a Convention refugee has a right separate and apart from her husband to apply for landing. As such, the applicants argue that there is no need for Ms. Abdirahman to seek landing as a dependant. She is not a "dependant for whom landing is sought" since she has an independent right to seek landing. The applicants argue that the section does not apply to
+all
+dependants seeking landing, merely those dependants for whom landing is sought by the applicant.
+[10]
+The respondent sets out two arguments. First, in support of the decision given by Ms. Weil, the respondent argues that s. 46.04(3) applies to all dependants seeking landing. A "dependant" is defined in s. 2(1) of the
+Immigration Regulations
+, 1978, as:
+"2(1) ...
+(c) with respect to a person other than a person referred to in paragraph (a) or (b)
+(i) the spouse of the person,
+(ii) any dependent son or dependent daughter of that person or of the spouse of that person, and
+(iii) any dependent daughter or dependent son of a son or daughter referred to in subparagraph (ii)."
+[11]
+Since all of the applicants are persons described in this definition, the respondent argues that the applicants cannot be granted landing pursuant to s. 46.04(3).
+[12]
+The respondent also argues that, even if the applicant's argument on the wording of s. 46.04(3) is accepted, and the section applies only to "dependants for whom landing is sought" by an applicant, Ms. Abdirahman and her children are still ineligible for landing since Ms. Abdirahman applied as a dependant of her husband. To reach this conclusion, the respondent asks me to place a great deal of weight on the manner in which her "Application for Visa" form is completed.
+(D) Analysis
+(1) What Rights Do
+Convention Refugees Have?
+[13]
+Section 46.04(1) of the
+Act
+allows Convention refugees, and any dependants of that person, to apply to an immigration officer for landing. The section, in its entirety, provides that:
+"46.04(1) Any person who is determined by the Refugee Division to be a Convention refugee, may, within the prescribed period, apply to an immigration officer for landing of that person and any dependant of that person, unless the Convention refugee is
+(a) a permanent resident;
+(b) a person who has been recognized by any country, other than Canada as a Convention refugee and who, if removed from Canada, would be allowed to return to that country;
+(c) a national or citizen of a country, other than the country that the person left, or outside of which the person remains, by reason of fear of persecution or
+(d) a person who has permanently resided in a country, other than the country that the person left, or outside of which the person remains, by reason of fear of persecution, and who, if removed from Canada, would be allowed to return to that country."
+[14]
+This provision gives the right to
+each
+Convention refugee to apply for landing. It also allows Convention refugees to apply
+on behalf of
+a dependant. Therefore, in this case, since both Ms. Abdirahman and her husband were determined to be Convention refugees, I find that they
+both
+have a right, independent of one another, to apply for landing. That is, Ms. Abdirahman is not dependent upon her husband in order to make an application for landing. In the same respect, Mr. Hassan is not dependent upon his wife to make an application for landing. The children, however, do not have an independent right to apply for landing, and are dependent on a parent to do so for them.
+(2) What Is The Meaning Of The
+Phrase "Dependants For Whom
+Landing Is Sought"?
+[15]
+Although Ms. Abdirahman qualifies as a "dependant" under the definition provided by the regulations, because of her independent right to apply for landing, I find she is not a "dependant for whom landing is sought". That is, as a result of giving recognition to individual rights to apply for landing as described, the phrase "dependant for whom landing is sought" must refer to those dependants who cannot apply for landing themselves by virtue of the fact that they do not have Convention refugee status.
+[16]
+Thus, in this case, Ms. Abdirahman's children, by virtue of the fact that they do not have Convention refugee status, are "dependants for whom landing is sought" but Ms. Abdirahman, because she is a Convention refugee, is not.
+[17]
+In addition, I find that on a literal interpretation of s. 46.04(3), full meaning must be given to the words "those dependants". By doing so, I find that the section applies only to "those dependants" of the individual "for whom landing is sought" on that individual's application for landing,
+not all dependants
+of the individual applying for landing.
+[18]
+Accordingly, I find that Ms. Weil made an error of law in her interpretation of s. 46.04(3) of the
+Act
+.
+(3) What Weight Should Be
+Placed On The Manner In
+Which Ms. Abdirahman's Application
+Form Is Completed?
+[19]
+Even if Ms. Weil made an error in interpreting s. 46.04(3) of the
+Act
+, the respondents argue that Ms. Abdirahman and her children are still ineligible for landing because of the effect of the precise answers she provided on her "Application for Visa Exemption" form.
+[20]
+The document "Application for Visa Exemption" is a standard printed form containing 34 separate requests for information. On the face of it, I find that answers are required to be given to all the questions asked. However, I also find the document to be extraordinarily confusing, and undoubtedly difficult for anyone, including a person completely fluent in English with a full appreciation of Canadian law and customs, to understand the legal importance of the questions being asked. [see footnote 1]
+[21]
+At the top, before the questions begin, there appears the words "I am applying as a: principal applicant" followed by a check box, then directly underneath the word "dependent" [sic], followed by a check box. I find that it is clear from the document that an applicant is required to make a choice. In this case, Ms. Abdirahman indicated that she was applying as a "dependent".
+[22]
+Question 16 of the form appears exactly as follows, including the specific upper and lower case used:
+"PERSONAL DETAILS OF ALL MY DEPENDENTS WHETHER IN CANADA OR ABROAD (start with spouse, followed by never-married children who are in Canada) DO NOT LIST PERSONS WHO ARE CANADIAN CITIZENS OR PERMANENT RESIDENTS OF CANADA"
+[23]
+The first line under this heading requests "family name", "first name", "other names", "date of birth", "place of birth", "relationship to me", and "in Canada", with check boxes under this last request for "yes" or "no". In line A, which is the first line on which to list dependants, the form has printed the word "SPOUSE" under the request for information "relationship to me".
+[24]
+On the basis of the instructions to question 16, and the printing in line A, I find that question 16 requires an applicant to list his or her spouse as a "dependant for whom landing is sought" despite the fact that the spouse might not need to seek landing through the applicant spouse.
+[25]
+In addition, I find that question 16 is nonsensical since, by the wording, it considers the spouse of an applicant can
+only
+be a dependant, which is a concept in conflict with the concept of the question asked at the top of the page which allows the spouse of an applicant to be considered "the principal applicant". In any event, in answer to this question, Ms. Abdirahman gave her husband's details on line A followed by those of her children.
+[26]
+Question 17 of the application form asks for "PASSPORT DETAILS FOR PRINCIPAL APPLICANT AND FOR DEPENDENTS IN
+CANADA
+". Directly beneath this request, the form has printed under a column headed "first name", the words "PRINCIPAL APPLICANT" and then in the next line, "SPOUSE", in larger letters than "PRINCIPAL APPLICANT". Under these designations there then follows blank spaces for the first names of other individuals. For each person identified, there is a request for "passport number", "citizen of", "date of expiry" and "identity card no".
+[27]
+On the basis of the instructions to question 17, and the printing in the first two lines, I find that question 17 requires an applicant to conform to the question first asked at the top of the document, being whether the applicant is applying as "principal applicant" or "dependent" on the assumption that "spouse" used in question 17 is inter-changeable with "dependent" in the question at the top of the page. Ms. Abdirahman put her husband's passport details under the area marked "PRINCIPAL APPLICANT" and then filled in her own passport details under the area marked "SPOUSE".
+[28]
+Regarding the question first asked at the top of the document, I find that the request for information unfairly requires an applicant to conform to categories, which might have no relevance to that person's particular factual or legal circumstances. The question asks for a declaration which only imagines that a person is either one or other of "principal applicant" (incidentally a category unknown within s. 46.04(3) of the
+Act
+) or "spouse", and does not recognize the possibility that a person might have an individual status as a refugee independent of any marriage relationship. In this case, both Ms. Abdirahman and her husband were granted Convention refugee status and, as I have found, both had a right independent of one another to apply for landing. To not provide the opportunity to Ms. Abdirahman to exercise this right causes me to place no weight on the answer which she did provide.
+[29]
+Regarding questions 16 and 17, since they confine the answers which may be provided to the categories specified in the question at the top of the page, I also place no weight on Ms. Abdirahman's answers.
+[30]
+Accordingly, I reject the respondent's second argument.
+[31]
+However, even if it can be said that Ms. Abdirahman applied as a "dependent" on the "Application for Visa Exemption", she is not a
+dependant for whom landing is sought
+, since she, as a Convention refugee, has the right to apply for landing independent of her husband. The same holds true for him.
+(E) Conclusion
+[32]
+For the reasons provided, I quash Ms. Weil's decision and refer the matter back to her for re-determination, based on the interpretation of s. 46.04(3) of the
+Act
+I have provided in this decision.
+[33]
+Counsel for the respondent has requested certification of the following questions pursuant to s. 83(1) of the
+Immigration Act
+:
+"(i) Does the phrase 'and to any dependant for whom landing is sought' in s. 46.04(3) of the
+Immigration Act
+apply only to those dependants for whom landing is sought who do not have a separate right to apply for landing independent of the applicant?
+"(ii) Can an immigration officer refuse an application for landing pursuant to s. 46.04(1) where a dependent (sic) for whom landing has been sought (by the applicant) is inadmissible to Canada by reason of being described in an inadmissible class referred to in s. 46.04(3), where that dependant has an independent entitlement under s. 46.04(1), to apply for landing and has concurrently done so?
+"(iii) Can a Convention refugee who has applied for landing pursuant to s. 46.04(1) withdraw that application with respect to a dependant included in that application, where that dependant is described in an inadmissible class referred to in s. 46.04(3)?
+[34]
+The Federal Court of Appeal in
+Liyanagamage v. Canada (Minister of Citizenship and Immigration)
+(1994), 176 N.R. 4 (F.C.A.), set out the appropriate test for certification of a question at 5:
+"In order to be certified pursuant to s. 83(1), a question must be one which, in the opinion of the motions judge, transcends the interests of the immediate parties to the litigation and contemplates issues of broad significance or general application, but it must also be one that is determinative of the appeal."
+[35]
+In
+Kagai v. Minister of Employment and Immigration
+(1993), 62 F.T.R. 203 (T.D.), this court declined to state a question, where it considered that the question was not raised by the facts of this case.
+[36]
+While questions (i) and (ii) do meet these tests, I am of the opinion that question (iii) should not be certified on the basis that it fails the
+Kagai
+test, as it was not raised by the facts of this case. I am not bound by the wording of the questions, proposed by the respondent. The questions to be certified are as follows:
+(i) Does the phrase "and to any dependant for whom landing is sought in s. 46.04(3) of the
+Immigration Act
+apply only to those dependants for whom landing is sought who do not have a separate right to apply for landing independent of the applicant?
+(ii) Can an immigration officer refuse a Convention refugee's application for landing pursuant to s. 46.04(1) where a dependent (sic) for whom landing has been sought (by the applicant) is inadmissible to Canada by reason of being described in an inadmissible class referred to in s. 46.04(3), where that dependant, as a Convention refugee has an independent entitlement under s. 46.04(1), to apply for landing and has concurrently done so?
+Application allowed.
+Editor: Angela E. McKay/bab
+Footnotes
+1.	To complicate matters, the form uses "dependent" as a noun rather than "dependant " as the noun used in s. 46.04(3) of the
+Act
+. Therefore, to signify this anomaly I have placed [sic] only after the first use.
+[End of document]

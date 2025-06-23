@@ -1,0 +1,33 @@
+[28]
+In its reasons for its final decision on the complaint, the Tribunal dealt with the substance of the Union's preliminary objection but before doing so, it examined its jurisdiction in the circumstances. It wrote at paragraphs 94 to 98 of its reasons [see footnote 12]:
+"It seems clear that a Human Rights Tribunal lacks jurisdiction to judicially review a decision of the Commission to exercise its discretion under section 41(e) of the
+Act
+(
+Canadian Human Rights Commission v. Canadian Broadcasting Corp. et al.
+(1996), 120 F.T.R. 81 (
+Vermette
+)). That being said, the neat question is whether section 41(e) properly understood confers on a respondent [here the Union] the benefit of the limitation period spelled out in section 41(e) of the
+Act
+. In
+Vermette
+, Muldoon, J., was of the opinion, affirming the decision of the Canadian Human Rights Tribunal, that a respondent does enjoy the benefit of section 41(e) in its defence to a complaint. The distinction was made between the powers accorded to the Commission under section 41(e) which are procedural and preliminary authority to override the basic limitation period of one year, and to extend it to what 'the Commission considers appropriate in the circumstances', and the statutory powers of the Tribunal to conduct a full hearing accorded in section 50(2)(a). In that regard, Muldoon, J., makes the following comment:
+'Why should that be the Courts interpretation of s. 41(e)? It is because Parliament enacted the one year datum as a substantive right of, or benefit to, those against whom complaints are made, but the Commission does not deal with complaints by dealing with anyone's substantive rights. Tribunals, however, do determine substantive rights in according full hearings pursuant to powers provided in s. 50, and in concluding whether the complaints be substantiated against respondents, or not pursuant to s. 53.
+'Full, fair hearings are those in which the persons against whom complaints are made, are accorded each the opportunity to make a full answer and defence to the complainant's case. Clearly, being prevented from benefiting from the one-year limitation can be raised in a full answer and defence.' (paragraph 28, 29 - page 97)
+"
+Canada Post Corp. v. Barrette
+(1998), 43 C.H.R.R. D/353 (F.C.T.D.), seems to take a different approach to section 41(e). This involved an application for judicial review of a decision of the Canadian Human Rights Commission to investigate complaints of discrimination brought against Barrette. Issues of the timeliness of the complaint and estoppel because of prior unsuccessful grievances were raised by the Respondent. In response to the Respondent's argument that the listed exceptions to the Commission's duty to deal with a complaint under section 41 should be regarded as enacted for the benefit of the employers and others against whom complaints are made and that the Court should be vigilant to ensure that the Commission does not erode those statutory rights, Evans, J., stated that he could not accept this as an appropriate approach to section 41. At page D/360, paragraph 30, he stated,
+'For one thing, as I have noted, the section is drafted in the way that leaves many issues to the discretion or judgment of the Commission: this is incompatible with the notion that it should be interpreted as if it created a legal right not to be investigated in specific circumstances. The Commission still has the discretion to deal with the complaint if it so chooses ...
+'Moreover, since the purpose of the statutory scheme is to reduce inequality, and accordingly, has been said to possess a quasi-constitutional status, a court should be reluctant to conclude that the Commission has erred by taking too narrow a view of the exceptions to its statutory duty to deal with complaints of discrimination. On the other hand, it is arguable that closer judicial scrutiny is justified when the Commission decides
+not
+to deal with a complaint, which will normally be the final disposition of the matter.' (paragraph 31)
+"The Federal Court of Appeal on April 20, 2000, allowed an appeal in
+Barrette
+and set aside the decision of the Trial Judge. There is no specific reference to the issue of timeliness of the complaint and estoppel as discussed by Evans, J. The general approach of the Court of Appeal, however, is more in line with Muldoon, J.'s, thinking.
+"The reconciliation of these two points of view can perhaps be achieved on the basis of the reasoning in
+Vermette
+. There, the Tribunal was seized of the complaint and came to a conclusion after a full hearing, included in which was an adjudication on the issue of timeliness, whereas in Barrette, it was an application by way of judicial review dealing pointedly with the jurisdiction of the Commission described in section 41.
+"I am guided here in this deliberation therefore by the principle expressed in
+Vermette
+both at the Tribunal level and the Federal Court that a Tribunal may determine, based on the evidence before it, whether a Respondent has been deprived of the benefit which Parliament provided in relation to the limitation period provided in section 41 of the
+Act
+. Such evidence may be beyond the considerations of the Commission when it made its decision to proceed with the complaint."

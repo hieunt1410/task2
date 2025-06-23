@@ -1,0 +1,672 @@
+[1]
+Campbell, J.
+: This case concerns an application made by the Canadian Broadcasting Corporation for release of information from the Canada Mortgage and Housing Corporation (CMHC). In part, the October 4, 1990 request under the
+Access to Information Act
+, R.S.C. 1985, c. A-1, (the
+Act
+) of Mr. George Emerson, Producer, is for
+"1. Generally, all records regarding any relationships between Tridel Enterprises Ltd. and CMHC, from 1970 forward to present day. For the purposes of this request please regard Tridel to mean all Tridel related companies, officers and executives, including but not limited to the list in Appendix A:
+Tridel Enterprises Ltd.; Danesbury Developments Ltd.; Del Property Management; Elvio DelZotto; Angelo DelZotto; Leo DelZotto; Mario Giampetri; Martin Applebaum; Jan Pepino.
+. . . . .
+"4. The internal audits of projects connected with Tridel (or any Tridel related people or companies as set out in Appendix A). Such projects may be included in, but not limited to, those set out in Appendix B:
+Artisan Charitable Foundation; Archipelago Charitable Foundation; Brenyon Way Charitable Foundation; Cimpello Charitable Foundation; Compass Charitable Foundation; Domus Charitable Foundation; St. Hilda's Charitable Foundation; Bathurst Prince Charles/National Council of Jewish Women Charitable Foundation; Maison Charitable Foundation; Rankin Terrace Nonprofit Housing Corporation; Governor (illegible) Project; Ridley (illegible) Project."
+[2]
+In response to this request the CMHC proposes to release a document (the Record) and has served notice on Tridel Corporation to this effect. Tridel Corporation objects to the release of the document and has mounted a strong multifaced challenge, the hearing of which occurred before me after six years of litigation.
+The Context
+[3]
+Mr. Emerson's interest in Tridel Corporation and Tridel Corporation's adamant objections can be understood by an appreciation of a factual context which is very well outlined in the reasons delivered by the Supreme Court of Canada in
+Starr et al. v. Houlden
+, [1990] 1 S.C.R. 1366; 110 N.R. 81; 41 O.A.C. 81; 55 C.C.C.(3d) 472; 68 D.L.R.(4th) 641.
+[4]
+Starr v. Houlden
+concerns the constitutionality of the appointment of a commission of inquiry under the
+Ontario Public Inquiries Act
+(R.S.O. 1980). On April 5, 1990, the majority of the court decided that the order-in-council appointing the Commission was ultra vires the province of Ontario as being a matter within the exclusive jurisdiction of the Parliament of Canada, being the criminal law. The dissent to this decision written by L'Heureux-Dubé, J., provides a full description of the facts leading to the inquiry and in the following words emphasizes the importance of context in decision making:
+"This case, however, cannot be properly analyzed without exploring the political and practical realities out of which the inquiry was born. It is essential to examine the context which precipitated this inquiry and the scope it enveloped." (p. 676 D.L.R.)
+[5]
+The critical facts which L'Heureux-Dubé, J., cites beginning at p. 676 are as follows:
+"This saga began in the middle of February, 1989, when the media began covering the story - well before it was ever mentioned in the Ontario Legislature. At that time the concern focused primarily around Ms. Starr, a public official who had been appointed chairperson of Ontario Place. A police investigation seemed to be an appropriate way to deal with the alleged improprieties. The acting Solicitor-General so decided and informed the legislature on June 12, 1989 ...
+"However, it quickly became apparent that the matter was far from being so limited in its nature, scope, or effect. The record reveals that the allegations intensified almost daily, from May 15, 1989, until the establishment of the inquiry. Assertions were made that four Cabinet Ministers including the Minister of Culture and Communications, the Minister of Housing, the Minister of Industry, Trade and Technology and the Minister of Skills and Development, had received improper campaign contributions or other benefits from Ms. Starr ...
+"By June 19, 1989, several more members of the government had been accused, in the Legislative Assembly, of engaging in improper activities involving the Tridel Corporation and Ms. Starr. Allegations were made that public funds, which were to be used to build or subsidize housing for the disabled, the elderly, and the poor, were diverted by a Liberal fundraiser into a 'slush fund'. Claims were made that money from the housing ministry had been diverted 'to the political coffers of practically every Liberal that walked the face of the earth'. These were rather serious allegations, and undoubtedly called the integrity of public officials into question ...
+"Concerns were raised about the effect that these allegations of political patronage and policy violations would have on the public's perception of the government. It was claimed that the people of Ontario were 'getting the clear message that certain people will be looked after if they are friends of the Premier (Mr. Peterson), members of cabinet or of the Ontario Liberal Party' and that 'rules, policies and procedures are in place only to be broken' ...
+"It was against this background of events that, on June 23, 1989, the Premier announced that a public inquiry would be conducted into the incidents that had been the focus of public concern ..."
+[6]
+By an order-in-council dated July 6, 1989, The Honourable Lloyd W. Houlden of the Ontario Court of Justice (General Division) was appointed pursuant to the
+Act
+to conduct the inquiry, the terms of reference of which included the following:
+"to investigate:
+(i) the nature and extent of the dealings between Patricia Starr and elected and unelected public officials;
+(ii) the nature and extent of the dealings between Patricia Starr and private individuals, corporations, unincorporated bodies and charities in relation to elected and unelected public officials;
+(iii) the nature and extent of the dealings between Tridel Corporation; companies related to Tridel Corporation; representatives, officers, employees or officials of companies related to Tridel Corporation; and elected and unelected public officials;
+(iv) the nature and extent of the dealings between Tridel Corporation; companies related to Tridel Corporation; representatives, officers, employees or officials of Tridel Corporation; representatives, officers, employees or officials of companies related to Tridel Corporation and private individuals, corporations, unincorporated bodies and charities in relation to elected and unelected public officials."
+[7]
+As mentioned, the Houlden Inquiry died as the mechanism whereby the facts of this very public controversy might be investigated. But the public interest in the facts did not die with it as evidenced by Mr. Emerson's request.
+The Record
+[8]
+Since important issues in this case turn on the nature and contents of the Record, I must first make these important findings of fact:
+1) What is the Record?
+2) What information does the Record contain and where did the information come from?
+1) What Is The Record?
+[9]
+The Record is a three page letter, with two appendixes, dated September 19, 1989, drawn on Canada Mortgage and Housing Corporation National Office stationery, addressed to George Anderson, President, from M.K. Cameron, Director, Operations Audit Division. In order for the arguments which have been made about the Record to be efficiently addressed, it is attached to, and forms a part of, this judgment.
+[10]
+The Record purports to be a "special audit" which cites the results of an investigation of information within CMHC control. Tridel Corporation has raised the issue of whether this "special audit" was produced in the normal course of CMHC business. I find that it was, based on the evidence of Mr. Jean-Pierre Thouin, Access to Information Co-ordinator with CMHC at the time that Mr. Emerson made his request, who says that:
+"Depending on what's happening ... a special audit may be requested. ... Those special audits are done in the normal course." (Confidential Materials Sealed by Court Order, Vol. II, Tab A, p. 241)
+and
+"There are no guidelines as to when special audits may be called. Management has the discretion to call for one as circumstances dictate." (Application Record of the Applicant, Vol. II, Tab S, Answers to Undertakings, #58)
+[11]
+I also find that this "special audit" conforms to CMHC's "Guidelines and Procedures" for the production of audits within the scope of the Operations Audit Division. (see Application Record of the Applicant, vol. II, Tab S: Guidelines and Procedures: p. 24,1,1,2/1 and p. 24,1,2,3,/2)
+2) What Information Does The Record
+Contain, And Where Did The
+Information Come From?
+[12]
+In his affidavit of June 17, 1993, Mr. Thouin gave the following explanation about the contents of the Record:
+"7) CMHC administers a number of programs under the
+National Housing Act
+and its
+Regulations
+. Three of the programs are relevant to the access to information request in issue as the information in the Record comes from an examination of the files associated with these programs. The first of these is the Canada Rental Supply Plan (CRSP). The purpose of the CRSP is to assist in the construction of rental accommodation by the loaning of funds to the proponent of a housing project to assist in bridging the gap between the first mortgage loan and the project costs. The funds so loaned are repayable by the proponent. The amount of the loan is secured by a second mortgage registered on title at the appropriate land registry office with CMHC shown as mortgagor.
+"8) The second program is the Ontario Rental Supply Plan (CORSP). The purpose and operation of the CORSP is the same as the CRSP program. It was, as its name indicates, available in Ontario only.
+"9) With respect to both CRSP and CORSP, the name of the mortgagee borrowing the money and the address of the project are publicly available from the land registry office in the province in which the loan is made. Therefore, CMHC has not and does not treat such information as confidential.
+"10) The third relevant program are what is referred to as the Section 95 Programs (formerly Section 56.1). The title refers to the section of the
+National Housing Act
+, under which the program is authorized. Under the program, CMHC provides subsidies to, among others, nonprofit organizations and co-operatives to develop and operate low-income housing projects. Nonprofit organizations and co-operatives applying for such subsidies are required to provide certain information, including financial information, to CMHC in order to obtain the subsidy. CMHC treats the project's financial information supplied to it by the owner as confidential. However, no other information associated with the application for subsidy is treated by CMHC as confidential and such information is disclosed upon request. The information contained in the Record which CMHC proposes to disclose in response to the request is not financial information.
+"11) The information contained in the Record which CMHC proposes to disclose in response to the request is not information provided to the CMHC in confidence by the applicant.
+"12) The Record which CMHC proposes to disclose does not contain any information relating to Tridel 'officers and executives'. (Respondents' Application Record)"
+[13]
+The Record itself contains the Operations Audit Division opinions resulting from a review of applications under "CRSP", "CORPS" and "Section 95" (formerly 56.1), and as Appendix A, a "List of Tridel Projects by Program by Branch" which is based on each applicant's response to the request to name the actual builder of the project concerned.
+[14]
+There are three instances of information being severed from the Record for concerns relating to s. 19 and s. 20(1)(d) of the
+Act
+. CMHC argues that this has been done "reasonably" as allowed by s. 25 of the
+Act
+without the remaining part of the Record being misleading. I agree.
+Grounds For This Review
+[15]
+The purpose of the
+Act
+is set out in s. 2:
+"2(1) The purpose of this Act is to extend the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government."
+[16]
+Being designated as a "third party" by CMHC, the challenge by Tridel Corporation to the release of the Record is pursuant to s. 44(1) of the
+Act
+which provides that:
+"44(1) Any third party to whom the head of a government institution is required under paragraph 28(1)(b) or subsection 29(1) to give a notice of a decision to disclose a record or a part thereof under this Act may, within twenty days after the notice is given, apply to the court for a review of the matter."
+[17]
+The issues of who bears the burden and its weight have been settled by Associate Chief Justice Jerome in
+Maislin Industries Ltd. v. Minister of Industry, Trade and Commerce
+, [1984] 1 F.C. 939 (T.D.), where he says at p. 256:
+"There is no disagreement that the burden of proof rests upon the applicant Maislin. It should be emphasized, however, that since the basic principle of these statutes is to codify the right of public access to government information, two things follow: first, that such public access ought not be frustrated by the courts except upon the clearest grounds so that doubt ought to be resolved in favour of disclosure; second, the burden of persuasion must rest upon the party resisting disclosure whether, as in this case, it is the private corporation or citizen, or in other circumstances, the government."
+[18]
+The grounds which Tridel Corporation advances in this review are:
+1) Statutory grounds found within s. 19(1) and s. 20(1)(b), (c) and (d) of the
+Act
+which read:
+Personal Information
+"s. 19(1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+"19(2) The head of a government institution may disclose any record requested under this Act that contains personal information if
+(a) the individual to whom it relates consents to the disclosure;
+(b) the information is publicly available; or
+(c) the disclosure is in accordance with section 8 of the Privacy Act.
+Third Party Information
+"s. 20(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+. . . . .
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+(c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; or
+(d) information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party.
+"20(2) Additional grounds relating to:
+a) the notice requirements of the
+Act
+b) the constitutionality of the Houlden Inquiry and its relationship to the preparation and proposed release of the Record; and
+c) the provisions of the Canadian Charter of Rights and Freedoms."
+[19]
+CMHC has argued that on a review under s. 44, the function of the court is to consider the matter de novo to determine whether any s. 20(1) exemptions claimed are applicable and the review is limited to this determination, thus precluding Tridel Corporation from raising the additional grounds listed.
+[20]
+The authority which is cited in support of this proposition is
+Saint John Shipbuilding Ltd. v. Canada
+(Minister of Supply and Services)
+(1990), 107 N.R. 89; 67 D.L.R.(4th) 315 (F.C.A.). In
+Saint John
+the s. 44 applicant, being the appellant before the Appeal Division, raised as an issue that the material ordered to be released was in some respects different from what had been requested. To this suggestion, Hugessen, J.A., said that "the appellant's interest, as third party intervenor in a request for information, is limited to those matters set out in s. 20(1), and it has no status to object that the government may have given more or less than it was asked for". I read this passage as authority for the proposition that a s. 44 review is limited to the information proposed to be released. I do not believe that the passage can be extended to restrict the arguments on fact and law that can be made regarding the proposed release of particular information. I thus find that the "additional grounds" raised are properly before me for decision.
+1) Statutory Grounds
+Section 19
+[21]
+By this provision, if the Record can be shown to contain "personal information" then CMHC shall not disclose it. By s. 3 of the
+Privacy Act
+(R.S.C. 1985, c. P-21, as amended) "personal information" means:
+"information about an identifiable individual that is recorded in any form, including, without restricting the generality of the foregoing,
+a) information relating to the race, national or ethnic origin, colour, religion, age or marital status of the individual,
+b) information relating to the education or the medical, criminal or employment history of the individual or information relating to financial transactions in which the individual has been involved,
+c) any identifying number, symbol or other particular assigned to the individual,
+d) the address, fingerprints or blood type of the individual,
+e) the personal opinions or views of the individual except where they are about another individual or about a proposal for a grant, an award or a prize to be made to another individual by a government institution or a part of a government institution specified in the Regulations. ..."
+[22]
+Thus, for Tridel Corporation to take advantage of s. 19 it must somehow qualify as an "identifiable individual" and to do so has argued that his term may include anything, including a corporation with the rights, powers and privileges of a natural person, so long as it has sufficient distinctive characteristics which separate it from a general pool. CMHC argues that corporations do not have a race, colour, religion, personal records and opinions, and therefore, the provisions concern information about people.
+[23]
+To support its argument, Tridel Corporation relies upon the comment of FRAGMENT_SUPPRESSED as authority for the idea that information about corporations can constitute personal information. But, the small groups that Jerome, A.C.J., was referring to were composed of people and the comment was made in the context of an argument that Band financial statements should be considered personal information of each member of the Band. The comment cannot thus be extended as Tridel Corporation has argued.
+[24]
+I have no doubt that "an identifiable individual" is a human being, since it is only a human being that can possess all the very personal characteristics and experiences enumerated in the subsections quoted. Therefore, I find against Tridel Corporation on this ground.
+Section 20(1)(b)
+[25]
+To be considered under this subsection, the information must be "supplied to a government institution by a third party". Section 2 of the
+Act
+defines "third party" as meaning "any person, group of persons or organization other than the person that made the request [for information] or a government institution". The Report contains CMHC Operations Audit Division opinions and Appendix A. The opinions were not "supplied to a government institution by a third party" so the only concern here can be about the contents of Appendix A.
+[26]
+As I have found, Appendix A is based on information given in the response by applicants for CMHC assistance to the request to name the actual builder of the project concerned. CMHC thus argues that since Tridel Corporation is the "third party" contemplated in the wording of s. 20(1) because it is the "third party" bringing this s. 44 application, and since Tridel Corporation did not supply the information, there is no factual base for raising an objection under this subsection.
+[27]
+I agree with this submission. The following passage from MacGuigan, J.'s, judgment in
+Canada Packers Inc. v. Canada (Minister of Agriculture) et al.
+, [1989] 1 F.C. 47; 87 N.R. 81 (F.C.A.), establishes to my satisfaction that Tridel Corporation would have to supply the information in this case before s. 20(1)(b) has relevance:
+"Paragraph 20(1)(b) relates not to all confidential information but only to that which has been 'supplied to a government institution by a third party'. Apart from the employee and volume information which the respondent intends to withhold,
+none of the information contained in the reports has been supplied by the appellant
+(emphasis mine). The reports are, rather, judgments made by government inspectors on what they have themselves observed. In my view no other reasonable interpretation is possible, either of this paragraph or of the facts, and, therefore, paragraph 20(1)(b) is irrelevant in the cases at bar."
+[28]
+Even if "third party" could be interpreted to include the applicants for CMHC assistance, the name of the builder of the project concerned does not qualify as "financial, commercial, scientific or technical information" "as those terms are commonly understood" which is the test defined by MacKay, J., in
+Air Atonabee Ltd. v. Canada (Minister of Transport)
+(1989), 27 F.T.R. 194 (T.D.), at p. 208.
+[29]
+Furthermore, the evidence offered by Tridel Corporation to support this ground is seriously and, in my view, successfully challenged by CMHC. On the issue of whether the information provided by the applicants is "confidential" and that it is "treated consistently in a confidential manner" by the applicants, Mr. Martin I. Applebaum, Q.C., Senior Vice President and General Counsel for Tridel Corporation said in his affidavit of March 22, 1991 that:
+"15. The report was prepared from documentation provided to CMHC under the strictest of confidentiality. It was never intended by either CMHC or 'Tridel' that this information would be used for the preparation of this type of report. The report does not fairly represent any 'Tridel' company's relationship with any of the charitable institutions or with CMHC. The information was consistently treated in a confidential manner by both the applicant and CMHC, and CMHC cannot now properly release this information over the applicant's objections." (Application Record of the Applicant, Tab B)
+[30]
+This evidence is in substantial conflict with Mr. Thouin's statement contained in paragraph 10 and 11 of his affidavit of June 17, 1993 quoted above under the heading "The Record". That is, on Mr. Thouin's evidence, of the information supplied by applicants, CMHC treats only financial information as confidential and the information contained in the Record is not financial information nor was it supplied by the applicants in confidence.
+[31]
+The burden of proof lies with Tridel Corporation and, in my opinion, it has not been met. I am unable to find on a balance of probabilities that the information is "confidential" and that it is "treated consistently in a confidential manner" by the applicants.
+[32]
+Therefore, I find against Tridel Corporation on this ground.
+Section 20(1)(c)
+[33]
+To succeed on this ground, Tridel Corporation must show, on a balance of probabilities, that the Record contains "information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party".
+[34]
+The test on this ground is confirmed in
+Saint John Shipbuilding Ltd. v. Canada
+(Minister of Supply and Services)
+supra, at p. 316 D.L.R. as proving a "reasonable expectation of probable harm".
+The National Council Report
+[35]
+An argument made by Mr. Hoffman for Tridel Corporation to support this ground is that the question of probable harm must be viewed in the context as quoted above. He argued that Tridel Corporation has suffered a lot of harm from media coverage of the scandal but the Supreme Court of Canada "diffused it" and "shut it down". The fear is that the release of the Record will "reopen the door" and "bring back the harm".
+[36]
+In 1990, in response to Mr. Emerson's request, CMHC identified a number of documents which it believed were covered by the request, including the Record. In October and November 1990, CMHC released those that it did not consider exempt, including a document entitled "Status Report on Matters Related to Federal and Provincial Sales Tax Rebates, The National Council of Jewish Women, Toronto Section, Charitable Foundation and Tridel Corporation" (the National Council Report). This document was prepared by CMHC the week that Mr. Justice Houlden commenced his inquiry, and it contained a summary of the CMHC opinions stated in the Record under consideration here and it attached the Record as an appendix. While the National Council Report was released, the Record was not.
+[37]
+On the questions of probable harm to be suffered by Tridel Corporation if the Record is released given this background, Mr. Hoffman cited the following evidence of Mr. Elvio DelZotto, Q.C., President of Tridel Corporation:
+"11.
+In particular, at page 30, in the National Council Report, there is an allegation that Tridel Corporation attempted to influence housing development decisions.
+"I am not aware of Tridel Corporation ever becoming involved with housing development decisions with respect to CMHC. This is an inaccurate statement and has no basis or foundation of any truth whatsoever. Moreover, this borders on defamatory accusations some type of wrongdoing on the part of my company.
+"To my dismay, I was shocked to learn that the National Council Report had already been disclosed to the Requester. The CMHC has advised my solicitors that the Requester is in fact the Canadian Broadcasting Corporation (hereinafter the 'CBC'). There is significant potential for harm to the reputation of Tridel Corporation flowing from this disclosure, particularly to the CBC whose obvious intent would be to publish such information.
+"If the information remains in its inaccurate form without our consultation, the damage could be extreme. We would have no choice but to institute civil proceedings against the CMHC as a result of the damage caused by the inaccuracies. This has the potential of causing severe harm to the reputation of my company and since our reputation plays a major part in the marketing and success of Tridel projects, it could result in severe financial loss." (Applicant's Application Record, vol. II, Tab O, Mr. DelZotto's Affidavit of April 19, 1995) (emphasis mine)
+[38]
+I do not believe that these statements provide cogent evidence of probable harm relative to the Record. While the quoted passage is stated in support of this application, it does not provide any evidence about the probable harm resulting from the release of the Record. The concerns expressed are about the release of the National Council Report and the perceived allegation contained in it, not about the release of the Record.
+[39]
+I do not give any weight to Mr. DelZotto's statements about harm caused to Tridel Corporation by CMHC because the National Council Report does not contain an "allegation that Tridel Corporation attempted to influence housing development decisions" as stated by Mr. DelZotto. The statement made about this in the National Council Report is:
+"This week, Mr. Justice Lloyd Houlden of the Supreme Court of Ontario will commence his inquiry into the so-called Patricia Starr affair
+and the methods allegedly used by the Tridel Corporation to influence housing development decisions
+. CMHC has formally offered to fully co-operate with the Inquiry." (emphasis mine)
+[40]
+On the point made by Mr. Hoffman that the release of the Record will "reopen the door" and "bring back the harm", in fact, there is no evidence that any damage at all has been suffered. Naming Tridel Corporation in the terms of reference of the Houlden Inquiry is news that is six years old and whatever damage this caused has been done. There is no evidence to show that by releasing the Report anything more will occur.
+[41]
+I know from Mr. Hoffman's submissions that Tridel Corporation would not like any more notoriety, but this concern is not enough to meet the evidentiary requirements under this ground.
+The Mistake of Fact Scenario
+[42]
+On each s. 20 ground, the factual basis for an objection has to be proved first, then the decision made as to whether, on the facts found, the requirements of the ground are met. Under this heading the objection relates to inaccuracies in the Record. But before this objection can succeed, the inaccuracies must be proved.
+[43]
+The evidence on this ground comes from Mr. DelZotto in his affidavits of June 21, 1994 and April 19, 1995 where he states that:
+"7. ... In particular, on page 1 of the report [the Record] Mr. Camelon, Director of Operations Audit Division refers to Tridel as being the builder of 31 projects. Tridel is a separate corporate entity and was not the builder involved in any of those projects listed in Appendix A to this report. I verily believe that it would be very prejudicial to Tridel if this information was released in its inaccurate form as Tridel being the builder of each one of those projects. Tridel is a trademark owned by the applicant. There is no corporate entity called 'Tridel'. As Mr. Applebaum has stated in his Affidavit, and which I verily believe, if the Canada Mortgage and Housing Corporation, the possessor of the information, is incapable of accurately conveying this relationship with 'Tridel', then anyone reading the information will clearly be misled as to what the information says and will take the information out of context." (Confidential Materials Sealed by court Order, Tab H, Mr. DelZotto's Affidavit of June 21, 1994)
+and
+"The flagrant use of the word 'Tridel' shows that the discretion utilized by the director of the CMHC was not done so in a responsible manner. Under section 20(c) of the
+Freedom of Information Act
+, the Director of the CMHC can refuse to disclose information if the release could reasonably be expected to result in material financial loss. There is a potential for significant loss based on the inaccuracies and allegations contained in the information prepared by the CMHC, to our reputation in the community which is very important for the success of our business. It is impossible for me to ascertain exactly what that potential financial harm could be as a result of the release of this information at this time. However, I verily believe that since there is a potential for significant harm, that should be sufficient to utilize section 20(c) to prohibit the disclosure of the Report." (Applicant's Application Record, vol. II, Tab O, Mr. DelZotto's Affidavit of April 19, 1995)
+[44]
+This concern about probable harm is based on an error of fact scenario. The worry is that by CMHC using the information which the applicants supplied to coin the projects "Tridel Projects" a conclusion about Tridel Corporation's involvement will be wrongly drawn by readers of the Record because Tridel Corporation is, in fact, distinct in the corporate sense from the actual builders.
+[45]
+To make this mistake of fact scenario argument succeed, Tridel Corporation must first offer sufficient proof that it is distinct. It is not enough to say that Tridel Corporation is a separate corporate entity. The question here is: what is the true nature of the relationship between it and the builders? All CMHC can do in its efforts to investigate is use the facts which it has been supplied. It identified "Tridel Projects" by what it was told. It is important to note that the applications from which the information was obtained are formal documents which I think CMHC is entitled to rely upon as containing truthful statements.
+[46]
+The question arises that once Mr. DelZotto's concern about wrong identification was expressed, did CMHC do anything to further investigate the facts and, indeed, what are the facts about the connection of Tridel Corporation to the builders? I think Tridel Corporation must make the connection, or lack of connection, clear in order to assess whether there will be a reasonable expectation of probable harm resulting from the release of the Record.
+[47]
+Mr. Hoffman in his argument stressed Tridel Corporation's concern is that CMHC did not bother to do any corporate searches to determine "what companies were related to which companies". In fact, to the contrary, the record shows that in the course of these proceedings a great deal has been done by CMHC to further investigate the connection of Tridel Corporation to the "builders", but without much success.
+[48]
+A good deal of information sharing and communication existed with Tridel Corporation after CMHC decided to release the record and served notice to this effect. In an important piece of correspondence dated October 9, 1990 (should read November 9, 1990?) from Mr. Thouin to Mr. Earl A. Cherniak Q.C., counsel for Tridel Corporation, a copy of the Record was attached with the following request:
+"In your letter of October 30th, you indicate that Tridel did not build the named projects. The Audit Report indicates, however, that Tridel was involved with these projects in some way. If you have information that indicates no involvement of Tridel in some or in any of these projects, I would like to be made aware of it. Keep in mind that when I am referring to Tridel I am including companies related to Tridel." (Confidential Materials Sealed by court Order, Tab E)
+[49]
+In the course of cross examination on discovery, Mr. DelZotto was asked about inaccuracies in the Record, to which he replied:
+"We'll go through -- we said before we'd let you know which one's shouldn't even be on the list [Appendix A]." (Confidential Materials Sealed by Court Order, Tab I, p. 17)
+[50]
+Mr. Saunders, counsel for CMHC said in argument that there was no response to Mr. Thouin's request for clarification, and regarding Mr. DelZotto's undertaking as just quoted, Mr. Saunders said that there's never been a statement that Tridel companies were not involved in the projects that formed part of Appendix A. I accept these statements as accurate assessments of the evidence.
+[51]
+As mentioned, Appendix A is based on each applicants' response to the request to name the actual builder of the project concerned. It is from this reporting that a project is identified as a "Tridel Project". As the Record indicates, Tridel Construction Ltd. was identified as the builder by twenty project proponents, Danesbury Developments Ltd. as the builder of fourteen, and Tornat Construction Ltd. as the builder of three.
+[52]
+As to Tridel Corporation making the connection, or lack of connection, with the builders clear, Mr. DelZotto has made the following admissions in the course of the examinations for discovery in this action:
+1) Tridel is a trademark owned by Tridel Corporation which is licensed to certain corporations for use.
+2) Danesbury Developments Limited, Deckle Construction Limited and Tridel Construction Limited are all licensed to use the Tridel trademark.
+3) Mr. Elvio DelZotto is the sole shareholder of Deckle Construction Limited.
+[53]
+But as to obtaining from Tridel Corporation an accurate picture of the corporate relationships between the entities named, not much has been accomplished. For example, on cross examination by Mr. Saunders of Mr. DelZotto on October 7, 1994 on his affidavits sworn June 21, 1994, the following exchanges took place:
+"Q.	Perhaps I can help you, sir. The information I have is that the Tridel trademark was used by Danesbury Developments Ltd. in that period of time [the period prior to 1986]; it was also used by Deckle Construction Ltd.
+A.	Well, I can't confirm that. I'd have to check it.
+Q.	Could you please?
+A.	Yeah.
+Mr. Hoffman: We can check that.
+The Deponent: When you say it was used, in what sense?
+Mr. Saunders: Correspondence from these companies would have the Tridel trademark.
+The Deponent: Okay. But that wouldn't mean that they would have the right to use Tridel per se. See what happens is Tridel Corporation because it supplied services of management to some of these companies, it's really the management group that's using the Tridel name not Danesbury.
+Q.	I see.
+A.	So they would be writing a letter for Danesbury, and they would use the logo because it belongs to Tridel Corporation.
+Q.	Okay. Well, is it fair to say that Danesbury Development Ltd. would at the time have been considered related to Tridel Corporation, sir?
+A.	I don't think so 'cause I think it was half owned by Roger Davidson or a company of his.
+Q.	And, sir, with respect to Del Property Management, was it in the pre-1986 period related to Tridel Corporation ---
+A.	It would be a sister corporation.
+Q.	And Tridel Construction Ltd., was it related to Tridel ---
+A.	It would be a sister corporation also.
+Q.	And Deckle Corporation Ltd.?
+A.	That one I can't be firm on, I'm sorry. I don't recall who owned Deckle. I can find out. I'll get you the answer. ..." (Confidential Materials Sealed by Court Order, Tab I, page 6)
+and
+"Q.	And, sir, is it fair to say that Tridel Corporation, the applicant, did not supply any of the information in relation to the projects listed in the record?
+A.	That's the reverse of what you asked before.
+Q.	Yes. I asked ---
+A.	The answer is, I don't know specifically what Tridel Corporation provided. Okay? It may well have through a sister company or an associated company provided information, but I don't know that.
+Q.	Okay. And sir, could you provide me with a list of the sister companies of Tridel Corporation?
+Mr. Hoffman: We'll take that under advisement." (Confidential Materials Sealed by Court Order, Tab I, page 17)
+[54]
+By the time this application was heard, the corporate relationships had not really been made any clearer. This lack of clarity fundamentally undermines Mr. DelZotto's complaint on the mistake of fact scenario since the alleged inaccuracies have not been proved, which, as I have said, is necessary for this objection to succeed.
+[55]
+Therefore, I find against Tridel Corporation on this ground.
+Section 20(1)(d)
+[56]
+To succeed on this ground, Tridel Corporation must show, on a balance of probabilities, that the Record contains "information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party".
+[57]
+The evidence on this ground is closely tied to that provided under s. 20(1)(b) and (c) as quoted above. But more specifically, Mr. DelZotto in his affidavit of June 21, 1994 stated support for Mr. Applebaum's evidence contained in his affidavit of March 22, 1991, where the following paragraph appears:
+"13. The report refers to a number of charitable organizations. As far as I am aware none of these charitable organizations have been contacted for their consent to the release of the report. Information which these charitable institutions may well consider confidential is thus to be released without their knowledge or consent, merely because they may have had incidental dealings with what has been generically termed 'Tridel'. As a consequence there is great prospect of harm to and interference with the applicant's business. Charitable and other institutions will refrain from dealing with 'Tridel' company if they know that, because of that relationship, information which is confidential to them will be disclosed to unknown requestors, for unknown purposes, without their consent." (Confidential Materials Sealed by Court Order, Tab A)
+[58]
+In addition, Mr. DelZotto in speaking about the National Council Report and the Record says in his affidavit of April 19, 1995 that:
+"14. As a result of the information now available to me as set out in this affidavit, I believe that Tridel Corporation and its related companies that have or will be involved with the CMHC or other lenders or third parties will encounter a number of difficulties obtaining financing from the CMHC or other lenders or third parties." (Application Record of the Applicant, vol. II, Tab O)
+[59]
+What weight should be placed on this evidence on this ground? In my opinion, none.
+[60]
+As to paragraph 13 just quoted, in the context of this application, there has been no evidence presented that would give any charitable organization that applies to CMHC for public support a reasonable expectation that the name of the builder they supply on the application will be kept confidential. Indeed, the evidence of Mr. Thouin, as quoted in paragraph 10 of his affidavit of June 17, 1993 quoted above under the heading "The Record", proves to my satisfaction that the opposite is the case.
+[61]
+Thus, Mr. DelZotto's statement in paragraph 13 must be given no weight because it has no basis in proven fact.
+[62]
+As to paragraph 14, whatever CMHC thinks of Tridel Corporation or its related companies will not be affected by the release of the Report for the very obvious reason that CMHC drew the report. Mr. DelZotto's belief that Tridel Corporation and its related companies will encounter a number of difficulties obtaining financing from "other lenders or third parties" is completely unsubstantiated and I give it no weight.
+[63]
+Therefore, I find against Tridel Corporation on this ground.
+2) Additional Grounds
+The Notice Requirements
+[64]
+The "notice to third parties" provisions of the
+Act
+are found in s. 27 which reads as follows:
+"s. 27(1) Where the head of a government institution intends to disclose any record requested under this Act, or any part thereof, that contains or that the head of the institution has reason to believe might contain
+(a) trade secrets of a third party
+(b) information described in paragraph 20(1)(b) that was supplied by a third party, or
+(c) information the disclosure of which the head of the institution could reasonably foresee might effect a result described in paragraph 20(1)(c) or (d) in respect of a third party,
+the head of the institution shall, subject to subsection (2), if the third party can reasonably be located, within thirty days after the request is received, give written notice to the third party of the request and of the fact that the head of the institution intends to disclose the record or part thereof."
+[65]
+Tridel Corporation has raised as an issue the fact that none of the charitable organizations named in Appendix A of the Record were served notice of CMHC's intention to disclose the Record and argues that the failure to do so as required by s. 27 of the
+Act
+, "and in accordance with the principles of natural justice and procedural fairness, vitiates the decision to disclose" (Memorandum of Fact and Law of the Applicant, paragraph 115.).
+[66]
+The question that first must be answered is whether I have jurisdiction to consider this argument on this s. 44 review. Tridel Corporation argues that on a s. 44 review it is incumbent on the court to address any issue raised by the applicant so long as such issue remains within the realm of a review of the matter. To take up this argument, Tridel Corporation relies on the following evidence supplied by Mr. DelZotto:
+"8. I verily believe that none of the other charitable and non-charitable organizations mentioned in the report have been contacted with respect to the release of this report. Many of these corporations have entered into confidential relationships with various corporations for the purposes of the development of certain projects. The purposes of entering into confidential relationships is specifically so that they would be able to remain confidential. Therefore the release of this information could have grave consequences to those individual charitable foundations as well as other corporations mentioned in the report. Therefore, I verily believe that the Canada Mortgage and Housing Corporation has no right to even consider disclosing this information and even if they did it is of the utmost necessity that each and every one of the charitable and noncharitable corporations involved in any of the projects, and all named parties in the report be notified that this information has been requested to be released." (Application Record of the Applicant, Tab C, Mr. DelZotto's Affidavit of June 21, 1994)
+[67]
+I find it interesting that, on the one hand, throughout the application Tridel Corporation has maintained that it is distinct in the corporate sense from the builders and the applicants and, on the other hand, now wants to assume responsibility on their behalf to attack CMHC's decision-making resulting in no notice being served upon them.
+[68]
+This review arises because CMHC
+did
+decide to serve notice on Tridel Corporation. The reason for so doing is well detailed in the following paragraph contained in a letter from Mr. Thouin to Mr. Cherniak dated October 9, 1990:
+"If after review of this letter you still feel that some more clarifications are in order please let me know, I intend to give the applicant as much information as possible, but, at the same time I do not want to cause any serious prejudice to your client. I am aware that Tridel is not a borrower. The organizations named in the list are borrowers and their names would be available on an individual basis. I consulted your client before the release of that list because it indicates that there is a relationship between Tridel and these organizations. My only concern is: could the release of the list be reasonably expected to result in material financial loss to/or be reasonably expected to prejudice the competitive position of Tridel. In a previous letter you wrote that the release could have such an effect but you did not give specific reasons. Reasons may exist that I am not aware of, and if there are any, I would like you to elicit them for me in order to enable me to make a proper decision under the access to information legislation. A response by November 16, 1990 would be appreciated." (Confidential Materials Sealed by Court Order, Tab E)
+[69]
+In this application it is Tridel Corporation's interests that are under review. Whose interests are under review in other applications, or who has not been served so that a review of their interests can be initiated, is not a concern which properly arises here. I do not accept the proposition that Tridel Corporation has standing on this s. 44 application to initiate a review of the interests of other unserved parties, including the issue of whether they should have been served.
+[70]
+Mr. Saunders conceded in argument that there is a possibility of judicial review of decisions where the power is given in discretionary terms such as is found in s. 27 of the
+Act
+. In fact, Mr. Marshall for Tridel Corporation argued on this point that, if necessary, Tridel Corporation is prepared to seek leave in this application to include an application for judicial review under s. 18.1 of the
+Federal Court Act
+. I decline.
+[71]
+Therefore, I find against Tridel Corporation on this ground.
+The Constitutionality Of The Houlden
+Inquiry
+[72]
+Tridel Corporation has argued that since the Houlden Inquiry has been found to be unconstitutional, so the Record should be found to be unconstitutional and, as such, should not be disclosed. The question upon which this ground depends is: why and for what purpose was the Record prepared? Mr. DelZotto has expressed the following opinion on this question which forms the evidentiary basis for this ground being raised:
+"5. I verily believe that the purpose of the Special Audit of Tridel projects was solely produced specifically as a result of the Houlden Inquiry. ...
+"6. I verily believe that this report was specifically produced solely for the purpose of providing information to members of the Houlden Inquiry. Both the date of the report and the date of the commissioning of the Inquiry coincide to the extent that I verily believe that the report was produced for the Houlden Inquiry. It is the position of Tridel therefore that as a direct result of the finding of the Supreme Court of Canada, of the unconstitutionality of the Houlden Inquiry, that the preparation and contents of this report are also unconstitutional and therefore cannot and should not be used or disclosed to anyone." (Application Record of the applicant, Tab C, Mr. DelZotto's Affidavit of June 21, 1994)
+[73]
+These "as a result" and "for the purpose of providing information" opinions are expanded even further by Mr. DelZotto in the following passages:
+"5. After reviewing Mr. Thouin's answers and the materials provided [in Answers to Undertakings], it is quite clear that all the information and documents concerning the Report [the Record] and the Report itself were prepared specifically and solely for the purposes of the Houlden Inquiry.
+"6. At page 30 of Exhibit 'B' to this my affidavit is a report entitled 'Status Report on Matters Related to Federal and Provincial Sales Tax Rebates, the National Council of Jewish Women, Toronto Section, Charitable Foundation and Tridel Corporation' (hereinafter referred to as 'National Council Report'). In particular, in Section 1, found at page 30, CMHC acknowledges that it was prepared as a result of the Houlden Inquiry where it states:
+'This week, Mr. Justice Lloyd Houlden of the Supreme Court of Ontario will commence his inquiry into the so-called Patricia Starr affair and the methods allegedly used by the Tridel Corporation to influence housing development decisions. CMHC has formally offered to fully co-operate with the Inquiry. CMHC has been granted 'Limited Standing' before the Inquiry. This means that the Corporation will be able to examine its own witnesses should it wish to do so.'
+"7. There is no question that the CMHC prepared the National Council Report and the Report which forms appendix A to the National Council Report as a result of the Houlden Inquiry and furthermore as a result of their intention to testify at this Inquiry." (Application Record of the Applicant, Vol. II, Tab O, Mr. DelZotto's Affidavit of April 19, 1995)
+[74]
+Mr. DelZotto's opinions regarding the linkage of the Record to the Houlden Inquiry, has resulted in the "but for" argument that Mr. Herszkopf, counsel for Tridel Corporation has made; that is, "but for" the Houlden Inquiry, the Record would never have been produced. Pursuant to this argument, the record has been variously described in written and oral argument as "directly or indirectly the work product of an unconstitutional investigation"; "generated by the Commission"; and "a result of the Houlden Inquiry".
+[75]
+The question of why and for what purpose was the Record prepared has been fully explained by Mr. Thouin on examination for discovery. There is absolutely no reason to question the truthfulness and accuracy of the following statements:
+"The request by Mr. Warne [the Vice-President of Programs referred to on the first page of the Record] was an oral request. The request was made in light of allegations in the media that there had been impropriety in the handling of sales tax rebates on social housing projects in which the CMHC had provided funding. The instructions were to conduct an audit of projects involving Tridel to assess compliance with the delivery and administrative guidelines of CMHC and to undertake the audit using procedures normally used in auditing program delivery and operating agreements." (Application Record of the Applicant, Vol. II, Tab S, Answers to Undertakings, #55)
+and
+"[Questioning] BY MR. HERSZKOPF [counsel for Tridel Corporation]:
+Q.	Okay. Was John Brown, Katherine Feldman or Mr. Prestage who were commission counsel for the Houlden Inquiry aware of this special audit?
+A.	[by Mr. Thouin]. I don't think so.
+Q.	Can you inquire and make best efforts to find out whether they were aware of this special audit?
+Mr. Saunders [counsel for CMHC]: Well, it hasn't been released.
+THE DEPONENT: It hasn't been released.
+BY MR. HERSZKOPF:
+Q.	Were they aware of the fact that it was being prepared?
+A.	I don't know, probably. I would say no. My answer to that would be that they were not." (Confidential Materials Sealed by Court Order, Tab J, Cross Examination of Mr. Thouin, September 2, 1994, p. 109)
+and
+"Other than the President of CMHC, only the individuals listed on the c.c. list of the special audit report received a copy of it. ...
+"The special audit report was prompted by allegations in the media concerning the handling of sales tax rebates." (Application Record of the Applicant, Vol. II, Tab S, Answers to Undertakings made by Mr. Thouin, #101 and #103)
+[76]
+I find the facts to be as Mr. Thouin has stated and, accordingly, I give no weight to Mr. DelZotto's opinions. Thus, the "but for" argument, and its various characterizations as quoted, fails.
+[77]
+Therefore, I find against Tridel Corporation on this ground.
+The Canadian Charter of Rights and
+Freedoms
+[78]
+Tridel Corporation argues that it will suffer breaches of the rights and freedoms provided by s. 2(d), s. 7, s. 11(a) and s. 11(d) of the
+Canadian Charter of Rights and Freedoms
+if the Record is disclosed, and therefore, the Record should be excluded under s. 24(1) of the
+Charter
+.
+[79]
+Section 2 of the
+Charter
+reads:
+"Everyone has the following fundamental freedoms: ...
+(d) freedom of association"
+[80]
+Mr. Saunders conceded in argument that this freedom could apply to a corporation. Tridel Corporation makes three arguments on this ground.
+[81]
+First, it is argued that the Record, or the disclosure of the Record, effectively prohibits Tridel Corporation and parties associated with Tridel Corporation "from associating for lawful purposes and /or pursuing a common lawful objective, without casting a spectre of doubt as to the character or forthrightness on them as a result of their relationship to individuals named in the terms of reference to the Houlden Inquiry". (Memorandum of Fact and Law of the Applicant, paragraph #47)
+[82]
+I find that there is no factual basis for this argument. I agree with CMHC's position that the Record does not prohibit Tridel Corporation, on pain of legal penalty or reprisal, from licensing its Tridel trademark or from associating with any of the organizations listed in the Record.
+[83]
+Second, it is argued that the broad use of "Tridel" by both the Houlden Inquiry and CMHC causes individuals associated with each of the companies, charities and individuals named in the Record to suffer "guilt by association".
+[84]
+As to the meaning of s. 2(d), La Forest, J., in
+Lavigne v. Ontario Public Service Employees' Union et al.
+, [1991] 2 S.C.R. 211; 126 N.R. 161; 48 O.A.C. 241; 81 D.L.R.(4th) 545, says at page 623 D.L.R. that "the essence of the freedom is the protection of the individual's interest in self-actualization and fulfilment, that can be realized only through combination with others". What people might think as a result of the release of the Record does not infringe on anyone's freedom to associate.
+[85]
+Third, it is argued that "by the nature of the juxtaposition of the names of the entities quoted in the Record, CMHC purports to ascribe (or ascribes by implication) to each of the entities some commonality in purpose, ideas or values to which such entities or individuals do not subscribe, and which goes beyond the basis for the original association between such entities or individuals". (Memorandum of Fact and Law of the Applicant, paragraph #49)
+[86]
+I agree with CMHC's position that the Record does not "force" Tridel Corporation to associate. Moreover, to the extent that any association existed between Tridel Corporation and the organizations listed, the associations pre-exist the Record and are simply reported in the Record.
+[87]
+Section 7 of the
+Charter
+reads:
+"Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice."
+[88]
+Tridel Corporation's Memorandum of Fact and Law states the argument on this section as follows:
+"It is submitted that the stigma associated with the Houlden Inquiry, which the Supreme Court of Canada determined was in effect, 'a substitute police investigation and preliminary inquiry into a specific allegation of criminal conduct by named, private citizens' constitutes a deprivation of liberty to those individuals named in the terms of reference of said inquiry. It is further submitted that the stigma created by the disclosure of the CMHC Report, in conjunction with the public mandate of the Houlden Inquiry, and in light of the implied relationship of those individuals named in the impugned CMHC report and those individuals named in the terms of reference of that Inquiry, and in light of the circumstances under which the impugned Report was created, operates to deprive the individuals associated with the named entities enumerated in the CMHC Report of the right to liberty in that each of the separate individuals' ethics and morality is placed into question as a result of these mentioned circumstances. The denial of these rights comes collaterally from the existence of the impugned CMHC Report and the perceptions raised by its relationship to the Houlden Inquiry as both serve to call into question the character and
+innocence
+of those individuals or entities named therein." (Memorandum of Fact and Law of the Applicant, paragraph #52)
+[89]
+Since this argument substantially depends upon the failed argument regarding linkage of the Record to the Houlden Inquiry, it also fails. Moreover, I agree with CMHC's submission that only human beings can avail themselves of the protection afforded by s. 7 of the
+Charter
+, except in the case of a corporation charged with a criminal offence. (see:
+Irwin Toy Ltd. v. Québec (Procureur général)
+, [1989] 1 S.C.R. 927; 94 N.R. 167; 24 Q.A.C. 2; 58 D.L.R.(4th) 577; 25 C.P.R.(3d) 417, and
+Dywidag Systems International Canada Ltd. v. Zutphen Brothers Construction Ltd.
+, [1990] 1 S.C.R. 705; 106 N.R. 1; 97 N.S.R.(2d) 81; 258 A.P.R. 181.) Since no person is making an application and since Tridel Corporation is not charged with a criminal offence, I find that this argument lacks merit.
+[90]
+Sections 11(a) and 11(d) of the
+Charter
+read:
+"Any person charged with an offence has the right
+(a) to be informed without unreasonable delay of the specific offence;
+. . . . .
+(d) to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;"
+[91]
+Mr. Herszkopf had to concede in oral argument that to raise this section as an issue is "stretching the argument a bit because my clients are not facing any criminal proceedings at the present time that I'm aware of with respect to this matter". Enough said.
+[92]
+Therefore, I find against Tridel Corporation on the grounds raised with respect to the
+Charter
+.
+Order
+[93]
+Since Tridel Corporation has not been successful on any of the grounds advanced for an order that the Record not be released, its application is dismissed.
+[94]
+I award costs to the respondents.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/slm
+Appendix
+Attachment
+The Record
+Canada Mortgage	Société canadienne
+and Housing Corporation	d'nypothéques et de logement
+National Office	Bureau national
+682 Montreal Road	682 chemin Montréal
+Ottawa, Ontario	Ottawa (Ontario)
+K1A 0P7	K1A 0P7
+FAX: (613) 748-6192	FAX: (613) 748-6192
+TEL: (613) 748-2000	TEL: (613) 748-2000
+PROTECTED
+To: George Andersen	File: 0147/31
+President
+Re:
+SPECIAL AUDIT - TRIDEL PROJECTS
+Date: 19 September 1989
+At the request of the Vice-President, Programs, an audit of CMHC's delivery and administration practices with respect to pre-1986 turnkey projects with Tridel was carried out between July 10 and 28, 1989.
+The objective was to investigate and report on any irregularities pertaining to CMHC involvement with the groups and the commitment and operation of their projects.
+As a result of issues raised concerning the potential receipt and disposition of a Provincial Sales Tax Rebate on rental housing projects, the audit project covered a review of 38 applications in which either 5.19 ATI    of project sponsors and/or Tridel as the builder were involved. Thirty-one projects were constructed between 1979 and 1985 under the Section 95 (formerly 56.1) Nonprofit and Cooperative Housing Programs with one application not proceeding. Also included were the proposal calls for the Canada Rental Supply Plan (CRSP) and the Canada/Ontario (CORSP) between 1982 and 1984 for which Tridel received commitments for six rental housing projects. (See Appendix "A")
+The scope of the audit included an assessment of the compliance with program criteria at the time of commitment and an assessment of compliance with the project operating agreements.
+The principal findings were:
+- Although there were inconsistencies in the documentation on some social housing project files, the projects built by Tridel were dealt with the same as any other project delivered by the branches during the period 1979-1985.
+- Projects approved under the Canada Rental Supply Plan (CRSP) and Canada/Ontario Rental Supply (CORSP) met the intent of the program.
+- The recipients of section 95 assistance were found to operate the projects within the intent of the social housing program. Noted deviations from guidelines and procedures were consistent with those observed upon in previous audits of other projects within the portfolio.
+- Of the thirty-one projects examined, six nonprofit groups supporting eight projects held a valid registration number for designation as a charitable organization issued by the federal department of National Revenue. However a review of the financial statements related to each of these projects revealed that only one project, P.20(1)(C) ATI'S - Toronto) was in receipt of the provincial sales tax rebate which was applied to reduce the financing of the capital costs of the project. No evidence was provided to CMHC that the other five projects received a rebate. (See Appendix "B".)
+- In 1982, amendments to the NHA as contained in Bill C-89 removed the requirement that Nonprofit Corporations must be incorporated as "exclusively charitable". The impact was to include groups who were not exclusively charitable such as the "Y" and the Salvation Army to avoid any conflict with the low and modest income nature of the program. Consequently, sponsors of many nonprofit projects either did not apply for or were not eligible for such rebates.
+Since action is already underway to address recommendations made in the report of the Bathurst/Price Charles project concerning the tracking of the potential for sales tax rebates and, where received, their subsequent disposition, there is no need for furhter action.
+The less significant deviations from guidelines and procedures noted in the delivery and administration of these projects will be reported by way of Management letters to the respective Branch Managers in Toronto, Hamilton and Ottawa. In accordance with established audit practices, the General Manager, Ontario Region, will be required to follow-up and implement corrective action to address these items.
+M.K. Camelon
+Director
+Operations Audit Division
+c.c. Vice-President, Programs
+Branch Manager, Toronto Branch
+Branch Manager, Hamilton Branch
+Branch Manager, Ottawa Branch
+General Manager, Ontario Region
+Senior Vice-President, Corporate Resources
+Vice-President, Human Resources and Administration
+Senior Vice-President, Policy, Research and Programs
+Vice-President, Insurance
+Vice-President, Public Affairs and Corporate Secretary
+Vice-President, Land Management
+General Counsel
+Director, Program Portfolio Management Division
+Director, Program Operations Division
+External Auditors
+Audit Committee of the Board of Directors
+APPENDIX "A"
+LIST OF TRIDEL PROJECTS
+BY PROGRAM BY BRANCH
+Toronto Branch
+CRSP - 1982
+Name
+Address
+Units
+Impasto Investments
+Bay & Edwards Streets
+Toronto
+476
+434711 Ontario Ltd.
+Warden, Glendinning Ave.
+Scarborough
+278
+434711 Ontario Ltd.
+Warden, Glendinning Ave.
+Scarborough
+291
+434711 Ontario Ltd.
+Warden, Glendinning Ave.
+Scarborough
+291
+CORSP - 1984
+Deckle Construction Ltd. (Tridel)
+100 The Queensway
+Toronto
+184 (cancelled)
+501606 Ontario Ltd.
+King & Dufferin Streets
+Toronto
+200
+56.1 Projects
+Name
+Location
+Units
+Year
+Coral Charitable Foundation (Ph.I.)
+Barrie
+46
+1979
+Coral Charitable Foundation (Ph.II)
+Barrie
+49
+1979
+Domus Charitable Foundation
+Mississauga
+110
+1979
+Artisan Charitable Foundation
+North York
+318
+1979
+Brenyon Way Phase I
+Scarborough
+112
+1980
+Brenyon Way Phase II
+Scarborough
+208
+1980
+Southover Charitable Foundation
+Toronto
+144
+1980
+St. Demetrius Development Corp.
+Toronto
+259
+1980
+Lancaster Charitable Foundation
+York
+174
+1981
+Widworthy Charitable Foundation
+Toronto
+175
+1981
+Coral Charitable Foundation (PH.III)
+Barrie
+47
+1982
+Bruckland Charitable Foundation
+Toronto
+53
+1982
+Kenfinch Housing Co-operative
+Scarborough
+86
+1982
+Park Farm Co-operative
+Richmond Hill
+55
+1983
+Ridgeford Charitable Foundation
+Scarborough
+247
+1983
+Pretty River Villas Co-operative
+Oshawa
+39
+1983
+Coral Co-operative Housing Corporation
+Oshawa
+25
+1983
+Heather Cross Charitable Foundation
+Toronto
+98
+1983
+Ashprior Charitable Foundation
+Toronto
+128
+1984
+Church Station Foundation
+Toronto
+200
+1984
+Yarford Charitable Foundation
+Toronto
+174
+1984
+Catherton Charitable Foundation
+Toronto
+138
+1984
+Compass Charitable Foundation (Ph.I)
+Etobicoke
+176
+1984
+St. Nicholas Housing Co-operative
+Toronto
+18
+1985
+Compass Charitable Foundation (Ph.II)
+Etobicoke
+104
+1985
+Hamilton
+Name
+Location
+Units
+Year
+Broadoak Charitable Foundation
+Niagara Falls
+55
+1980
+Southleigh Charitable Foundation
+Guelph
+104
+1980
+Winkleigh Co-operative Housing Corporation
+Hamilton
+77
+1981
+Mountmuir Co-operative Housing Corporation
+Hamilton
+64
+1983
+Silkrow Charitable Foundation
+Hamilton
+58
+1985
+Ingstand Charitable Foundation (Cancelled)
+Hamilton
+50
+1985
+Ottawa
+Location
+Units
+Year
+Archipelago Charitable Foundation
+Kanate
+52
+1983
+(APPENDIX "B")
+Charitable Status/Projects
+Group
+Location
+Project
+Year
+1.
+1979
+2.
+1980
+3.
+1979
+1979
+P.20(1)(C) ATI
+1982
+4.
+1979
+5.
+1981
+6.
+1980
+[End of document]

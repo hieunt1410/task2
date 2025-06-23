@@ -1,0 +1,4 @@
+[41]
+Dr. McClelland's flow chart was prepared by reference to the examples set out in the patent and therefore has a "Q", in Box A under process 1(c), bonded to the third carbon. "Q" is used in the patent to signify "a facile leaving group". Compounds that
+[Tables and diagrams may be omitted from electronic products or lose their format].
+fall into this category include, for example, bromine, chlorine, iodine. Also, because the chart was prepared by reference to the patent, one finds chlorine (Cl) depicted in the positions in which bromine (Br) is shown in other structural formula diagrams that are part of the record. In comparing the Box As on this flow chart, then, with other charts that are in evidence, it is not inappropriate to equate the "Q" and the chlorines (Cl) to the bromine (Br) found on those other diagrams.

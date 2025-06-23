@@ -1,0 +1,38 @@
+[9]
+Another decision which deals specifically with the concept of reasonable apprehension of bias is that of
+R. v. R.D.S.
+, [1997] 3 S.C.R. 484; 218 N.R. 1; 161 N.S.R.(2d) 241; 477 A.P.R. 241 (
+R.D.S.
+). In that case, a white officer arrested a black 15-year-old who had allegedly interfered with the arrest of another youth. The accused was charged with, inter alia, unlawfully assaulting a police officer. The police officer and the accused were the only witnesses and their accounts of the relevant events differed widely. The Youth Court judge weighed the evidence and determined that the accused should be acquitted. While delivering her reasons, the judge remarked that police officers had been known to mislead the court in the past, that they had been known to overreact particularly with non-white groups, and that this would indicate a questionable state of mind. She also testified that her comments were not tied to the police officer testifying before the court. This judgment was upheld by a majority of the Nova Scotia Court of Appeal. At issue before the Supreme Court of Canada was whether the Youth Court judge's comments in her reasons gave rise to a reasonable apprehension of bias. Cory, J., held:
+"[para. 130]
+When making findings of credibility it is obviously preferable for a judge to avoid making any comment that might suggest that the determination of credibility is based on generalizations rather than on the specific demonstrations of truthfulness or untrustworthiness that have come from the particular witness during the trial
+. It is true that judges do not have to remain passive, or to divest themselves of all their experience which assists them in their judicial fact finding. See
+Brouillard v. The Queen
+, [1985] 1 S.C.R. 39;
+Commentaries on Judicial Conduct
+, supra, at p. 12. Yet judges have wide authority and their public utterances are closely scrutinized.
+Neither the parties nor the informed and reasonable observer should be led to believe by the comments of the judge that decisions are indeed being made based on generalizations
+.
+"[para. 131] At the commencement of their testimony all witnesses should be treated equally without regard to their race, religion, nationality, gender, occupation or other characteristics. It is only after an individual witness has been tested and assessed that findings of credibility can be made. Obviously the evidence of a policeman, or any other category of witness, cannot be automatically preferred to that of accused persons, any more than the testimony of blue eyed witnesses can be preferred to those with gray eyes. That must be the general rule. In particular, any judicial indication that police evidence is always to be preferred to that of a black accused person would lead the reasonable and knowledgeable observer to conclude that there was a reasonable apprehension of bias.
+. . . . .
+"[para. 134] To state the general proposition that judges should avoid making comments based on generalizations when assessing the credibility of individual witnesses does not lead automatically to a conclusion that when a judge does so, a reasonable apprehension of bias arises. In some limited circumstances, the comments may be appropriate.
+Furthermore, no matter how unfortunate individual comments appear in isolation, the comments must be examined in context, through the eyes of the reasonable and informed person who is taken to know all the relevant circumstances of the case, including the presumption of judicial integrity, and the underlying social context
+.
+. . . . .
+"[para. 138] In
+Pirbhai Estate v. Pirbhai
+, [1987] B.C.J. No. 2685, leave to appeal denied, [1988] 1 S.C.R. xii, the British Columbia Court of Appeal considered an allegation of reasonable apprehension of bias. The trial judge, in assessing the credibility of a witness commented that the demeanour of the witness had been shifty and evasive. ... The trial judge then said at p. 5, '[i]t is obvious to me that he carried on a successful business in Pakistan in a corrupt society ...' Seaton, J.A., looked at the whole proceeding, and held, at pp. 5-6, that 'I think the remarks unfortunate, but that no reasonable person reading them would apprehend and bias on the part of the trial judge in this case'.
+The remainder of the trial judge's reasons revealed that he came to his conclusions on credibility on the basis of the evidence, not on the basis of the kind of bias or prejudice suggested by his comments about the 'corrupt society'
+.
+. . . . .
+"[para. 141] These examples demonstrate that
+allegations of perceived judicial bias will generally not succeed unless the impugned conduct, taken in context, truly demonstrates a sound basis for perceiving that a particular determination has been made on the basis of prejudice or generalizations. One overriding principle that arises from these cases is that the impugned comments or other conduct must not be looked at in isolation
+. Rather it must be considered in the context of the circumstances, and in light of the whole proceeding.
+. . . . .
+"[para. 143] ... The basic function of a trial judge to determine issues of credibility and make findings of fact would be rendered meaningless if the credibility of police officers were to be accepted without question whenever their evidence diverged from that given by another witness.
+An unfavourable finding relating to the credibility of Constable Stienburg could only give rise to an apprehension of bias if it could reasonably be perceived to have been made on the basis of stereotypical generalizations, or as Scalia, J., put it in Liteky, supra, on the basis of 'wrongful or inappropriate' opinions not justified in the evidence
+.
+. . . . .
+"[para. 146] A reading of Judge Sparks' reasons indicates that before she made the challenged comments, she had a reasonable doubt as to the veracity of the officer's testimony and had found R.D.S. to be a credible witness. She gave convincing reasons for these findings. It is clear that Judge Sparks was well aware that the burden rested on the Crown to prove all the elements of the offence beyond a reasonable doubt, and she applied that burden.
+None of the basis for reaching these initial conclusions on credibility was based on generalizations or stereotypes. Her reasons for rejecting or accepting testimony could be applied to any witness, regardless of race or gender
+." (Emphasis added)

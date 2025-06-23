@@ -1,0 +1,10 @@
+[17]
+The burden is on the plaintiff to prove infringement. A comparison of the alleged infringing product with the claims in the plaintiffs' patent must be made in order for the court to determine whether the product falls within the scope of the patent. If the product does fall within the scope, then there is infringement. Some basic principles relating to the construction of patent claims were recently outlined by Wetston, J., in
+Almecon Industries Ltd. v. Nutron Manufacturing Ltd.
+(1996), 108 F.T.R. 161 (T.D.), and are paraphrased here. Among other things, it has been determined that the court should take a purposive approach to interpreting the claims, not one which is unduly technical or literal: per Lord Diplock in
+Catnic Components Ltd. v. Hill and Smith Ltd.
+, [1982] R.P.C. 183 (H.L.). The patent furthermore must be construed by a mind willing to understand and seeking a construction that is reasonable and fair both to the patentee and to the public.
+Burton Parsons Chemicals Inc. et al. v. Hewlett-Packard (Canada) Ltd. et al.
+, [1976] 1 S.C.R. 555; 3 N.R. 553, at pages 563 and 559 to 560 (S.C.R.). If the words of the claim are clear and unambiguous, it is not necessary to look any further to discover the nature of an invention; if they are otherwise, then resort may be had to the disclosure of the patent for assistance in comprehending the meaning of the words used in the claims. As stated in
+AT&T Technologies Inc. v. Mitel Corp.
+(1989), 28 F.T.R. 241 (T.D.), at 248-249, in construing claims, recourse to the rest of the specification is 1) permissible to assist in understanding the terms used in the claims, 2) unnecessary where the words in the claims are plain and unambiguous, and 3) improper to vary the scope or ambit of the claims.

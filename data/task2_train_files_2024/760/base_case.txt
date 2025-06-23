@@ -1,0 +1,110 @@
+Oyeyemi v. Can. (M.C.I.), [2008] F.T.R. Uned. 769 (FC)
+MLB unedited judgment
+Rosemary Oyeyemi (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-64-08; 2008 FC 1040)
+Indexed As: Oyeyemi v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2008] F.T.R. Uned. 769
+Federal Court
+Snider, J.
+September 17, 2008.
+Counsel:
+Chantal Tie, for the applicant;
+Brian Harvey, for the respondent.
+Solicitors of Record:
+South Ottawa Community Legal Services, Ottawa, Ontario, for the applicant;
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+Background
+[1]
+Snider, J.
+: The Applicant, Ms. Rosemary Oyeyemi, is a citizen of Nigeria who came to Canada in April 2006. After her claim for refugee protection was denied by a panel of the Immigration and Refugee Board, Refugee Protection Division (RPD), the Applicant applied for a pre-removal risk assessment (PRRA) and for an exemption from the in-Canada selection criteria based on humanitarian and compassionate (H&C) considerations. The same immigration officer assessed and refused both applications - the PRRA application in a decision dated November 1, 2008; the H&C application in a decision dated November 2, 2008. In this application, the Applicant seeks judicial
+review of the H&C decision. An application for judicial review of the PRRA decision was discontinued.
+II.
+Issues
+[2]
+The issues in this application for judicial review are the following:
+1. Did the H&C officer err in law by failing to apply the correct test for consideration of an H&C application?
+2. Did the officer err in assessing the evidence by ignoring evidence before her, specifically, medical evidence related to the Applicant's mental state?
+III.
+Analysis
+A.
+What did the Applicant submit to the officer?
+[3]
+I begin with an overview of the Applicant's H&C application.
+[4]
+The Applicant's H&C application is very brief, consisting of one hand-printed page. In the application, the Applicant provides four reasons for her request:
+• She has established herself in Canada and has "integrated into the Canadian society, such that asking me to leave now would cause me excessive and unusual hardship";
+• She has lost "all reasonable connections with Nigeria";
+• She has lost her "means of livelihood"; and
+• She was "persecuted and abused in Nigeria so I still have the fear in me of returning there especially because the police could not protect me".
+[5]
+No material was submitted with the H&C application. However, documents that accompanied the PRRA application and that were before the officer included the following:
+• A note, of undetermined date, from a doctor at a medical clinic who advises that the Applicant is on medication for "depression and severe anxiety". The author also "highly recommends" that the Applicant be granted refugee status;
+• An affidavit from the Applicant's husband, in Nigeria, who describes threats against the Applicant and her family and an attack in which the Applicant's daughter was raped and the husband beaten. These events occurred after the RPD decision in which the RPD had stated that they were not persuaded of the credibility of the Applicant's claim of persecution at the hands of local tribes; and
+• A medical report from a Nigerian medical director who opined that the daughter had been raped.
+B.
+Did the Officer err by applying the wrong risk threshold for an H&C application?
+[6]
+Of the four grounds raised by the Applicant and considered by the officer, the Applicant does not raise any issues with respect to the officer's analysis of her degree of establishment in Canada, her connections to Nigeria or her ability to earn a livelihood in Nigeria. However, in assessing the risk raised by the Applicant, she alleges, the officer made a reviewable error. The Applicant submits that, in assessing her concerns about risk, the officer applied the test for assessment of risk in the PRRA context and did not consider the existence of unusual, undeserved or disproportionate hardship posed by the Applicant's fear of persecution in the H&C analysis.
+[7]
+The question of whether the correct test or threshold was used by the officer is reviewable on a standard of correctness.
+[8]
+The jurisprudence clearly shows that it is an error in law for an officer to apply the threshold for risk as it pertains to PRRA applications, as opposed to the threshold for hardship under H&C applications when assessing the risk factors of an H&C application (See
+Pinter v. Canada (M.C.I.)
+, 2005 FC 296, 44 Imm. L.R. (3d) 118 at paras 3-5;
+Ramirez v. Canada (M.C.I.)
+, 2006 FC 1404, 304 F.T.R. 136, paras 43-46). In
+Pinter
+, supra, Chief Justice Lutfy set out the distinction between the two tests in paras 3-4:
+In an application for humanitarian and compassionate consideration under section 25 of the Immigration and Refugee Protection Act (IRPA), the applicant's burden is to satisfy the decision-maker that there would be unusual and undeserved or disproportionate hardship to obtain a permanent resident visa from outside Canada.
+In a pre-removal risk assessment under sections 97, 112 and 113 of the IRPA, protection may be afforded to a person who, upon removal from Canada to their country of nationality, would be subject to a risk to their life or to a risk of cruel and unusual treatment.
+[9]
+In this case, the officer refers to the correct threshold or "test" in her reasons. Specifically, under "Decision and Rationale", the officer begins by stating that:
+The applicant is seeking exemption from the in-Canada selection criteria based on humanitarian and compassionate considerations . . .
+The applicant bears the onus of satisfying the decision-maker that her personal circumstances are such that the hardship of having to obtain a permanent resident visa from outside Canada would be unusual and undeserved or disproportionate.
+[Emphasis added]
+[10]
+It is apparent from this statement that the officer was aware of the burden on the Applicant. The officer then considered the submissions of the Applicant. Each of the four reasons provided by the Applicant was then reviewed. The reviewable error, the Applicant alleges, was made with respect to her allegation of risk. The officer dealt with that area as follows:
+With respect to her statements on persecution and abuse, I note that she claimed in her PRRA submissions that she was allegedly victimized by members of the Uube community and not the state. My own review of current country conditions in Nigeria reveals that, while Nigeria faces problems in the sphere of human rights as well as other areas, the government does not subject its citizens to a sustained and systemic denial of their core human rights. While state protection is never perfect I find that the applicant has not provided sufficient objective evidence that state protection would not be available to her in Nigeria.
+[11]
+The officer then concluded her analysis:
+After reviewing all of the documentation before me, I am not satisfied that the applicant would be subjected personally to a risk to her life or to a risk to the security of the person if returned to Nigeria. I am not of the opinion that granting the requested exemption is justified on humanitarian and compassionate grounds.
+The applicant has not satisfied me that her personal circumstances are such that the hardship of having to apply for a permanent resident visa from outside Canada would be unusual and undeserved or disproportionate.
+[Emphasis added]
+[12]
+Once again, I observe that the officer restates the correct "test" in her concluding paragraph. I acknowledge that a mere reference to "hardship" does not necessarily mean that an officer carried out the proper analysis (see, for example,
+FRAGMENT_SUPPRESSED). However, in this case, I am not persuaded that this officer made such an error. I reach this conclusion based upon a careful review of the entire Decision and Rationale of the officer in the context of the record before her.
+[13]
+The
+only
+risk submission made by the Applicant was that she was "persecuted and abused in Nigeria so I still have the fear in me of returning there especially because the police could not protect me". In other words, the Applicant submits that she would be exposed to personal risk to her life or her security of person if returned to Nigeria. She has provided no submissions that referred to any unusual and undeserved or disproportionate hardship in accessing state protection because of her personal circumstances (as she now seems to be arguing) or to any other hardships. Thus, in responding to the Applicant's claim that she would not be able to obtain police protection, the officer correctly satisfied herself that state protection would be available to the Applicant in Nigeria. The officer was not obliged to inquire into matters that were not raised.
+[14]
+In my view, the record does not demonstrate that the officer applied the higher threshold applicable to a PRRA assessment instead of the lower threshold applicable to H&C determinations. It is clear from reading the decision as a whole that the officer's decision was made in the context of evaluating the relevant factors and arguments presented by the Applicant and that the officer used the proper threshold for an H&C determination. There is no error.
+C.
+Did the officer ignore evidence before her?
+[15]
+Under any standard of review and even if conducting the correct analysis, a tribunal errs by making a decision without regard for the material before it (
+Federal Courts Act
+, R.S.C. 1985, c. F-7, s. 18.1(4)). The Applicant submits that the officer committed such an error with respect to the Canadian doctor's note. There is no reference in the officer's reasons to this note or its contents. The Applicant submits that this letter is demonstrative of the hardship that the Applicant would suffer if returned to Nigeria. Given its importance, the Applicant argues, the officer erred by failing to have regard to the document in her analysis (
+Cepeda-Gutierrez v. Canada (Minister of Citizenship and Immigration)
+(1998), 157 F.T.R. 35 (T.D.)).
+[16]
+The problem with the Applicant's submission on this point is that she did not make any reference whatsoever, in her H&C Application, as to how her mental health issues would result in unusual, undeserved or disproportionate hardship. Thus, the doctor's note was unrelated to her H&C claim. The Officer did not err by failing to refer to the note or to the Applicant's mental health. I also observe that the note appears to have been written for the Applicant's refugee claim, a claim which was denied by the RPD. This undermines the relevance of the letter to a subsequent H&C claim. Under these circumstances, it was not an error for the officer to fail to refer to the Canadian doctor's note.
+IV.
+Conclusion
+[17]
+For these reasons, I would dismiss the application for judicial review.
+[18]
+The Applicant requests that I certify the following question:
+When considering an H&C application, is the officer required to examine if hardship will result, if the officer makes a finding that adequate, although imperfect, state protection exists?
+[19]
+I interpret this question as asking whether there is a different threshold for assessing an H&C application than for a refugee claim or PRRA determination. As I have noted above, the answer is an obvious "yes". However, this does not change the burden on an applicant to show that she would suffer unusual, undeserved or disproportionate hardship. In the case before me, the Applicant simply failed to meet her burden. The question posed by the Applicant for certification is not determinative of this application and, in any event, has been answered by the existing jurisprudence. It will not be certified.
+JUDGMENT
+[20]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. The application for judicial review is dismissed; and
+2. No question of general importance is certified.
+[End of document]

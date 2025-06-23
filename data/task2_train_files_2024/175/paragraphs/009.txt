@@ -1,0 +1,46 @@
+ [9] 
+  In both  
+ Davies 
+  and  
+ Kerth 
+ , the Court applied the  
+ Pushpanathan 
+  analysis. The two cases are in substantial agreement, except for the question of the relative expertise of the decision maker. In her decision in  
+ Kerth 
+ , Madam Justice Reed wrote at paras 18-23: 
+ 
+ 
+ 
+ "The factors relevant in determining the standard of review applicable in a judicial review proceeding were recently set out in  
+ Pushpanathan v. Canada (Minister of Citizenship and Immigration) 
+ , [1998] 1 S.C.R. 982. The overriding consideration is the intention of the legislature: did it intend that a reviewing court accord the decision under review deference, or was a full right of appeal intended, or does the relevant standard fall somewhere on the spectrum that lies between these two poles. Also, the standard of review must be determined by reference to the specific nature of the decision under review. The same standard will not necessarily apply to all decisions of the same decision-maker. The factors to be assessed according to  
+ Pushpanathan 
+  are: (1) the legislative provisions governing the review process, including whether there is a privative clause; (2) the degree of expertise of the tribunal with respect to the question in issue, as compared to the degree of expertise the reviewing court has on that subject; (3) the purpose of the legislation and the nature of the decision-maker; that is, whether the decision-maker is balancing public policy considerations (sometimes vaguely worded) as opposed to adjudicating the rights of individuals; (4) the nature of the decision under review, including whether it is a question of law or a question of fact. 
+ 
+ 
+ 
+ "I turn then to these factors as they relate to the decision under review. The legislative parameters of the intended review are set out in subsection 18.1(4) of the  
+ Federal Court Act 
+ . The Plan contains no privative clause except to say that decisions of the Pension Appeals Board are final, subject only to judicial review. While there has been some indication in the jurisprudence that paragraph 18.1(4)(d) of the  
+ Federal Court Act 
+  requires "patent unreasonability", this was not the test applied in  
+ Pushpanathan 
+ , or more recently in  
+ Baker v. Canada (Minister of Citizenship & Immigration) 
+ , [1999] S.C.J. No. 39. I note that the phrases in paragraph 18.1(4)(d) are disjunctive; one asks whether the decision under review was based on a finding of fact that was made in a perverse or capricious manner or without regard for the material before the decision-maker. That is, insofar as the review of decisions by reference to their underlying facts is concerned, the statutory mandate allows for a spectrum of review from one which involves a high degree of deference (perversity or capriciousness must be shown) to one in which correctness or reasonableness may be the test (the decision-maker did not exhibit regard for the material before it). When the review relates to questions of law, however, in paragraph 18.1(4)(c) a spectrum is not provided. 
+ 
+ 
+ 
+ "With respect to the relative expertise of the Board and this Court, there is not a great difference between them insofar as determining the principles applicable to leave to appeal applications. The Board members will, of course, have greater expertise in dealing with the underlying factual subject matter. 
+ 
+ 
+ 
+ "With respect to the purpose of the legislation and the nature of the decision-maker, the decision is one that determines the rights of the individual (entitlement to a benefit). The decision is adjudicative in nature, not one involving discretionary public policy issues. The Board is judicial in nature, being composed of judges. 
+ 
+ 
+ 
+ "With respect to the nature of the decision, it involves both a question of law and a question of fact. The question of law is whether the Board applied the right legal test. The question of fact is whether the Board's decision is supported by the evidence. 
+ 
+ 
+ 
+ "I conclude, based on the above assessment of the relevant factors, that the standard of review in this case is closer to the non-deferential end of the spectrum, rather than to the deferential end."

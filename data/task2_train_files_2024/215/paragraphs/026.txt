@@ -1,0 +1,34 @@
+ [26] 
+  The rule governing the amendment of pleadings is set out in rule 420(1) of the  
+ Federal Court Rules 
+ : 
+ 
+ 
+ 
+ "Rule 420(1) The court may, on such terms, if any, as seems just, at any stage of an action, allow a party to amend his pleadings, and all such amendments shall be made as may be necessary for the purpose of determining the real question or questions in controversy between the parties." 
+ 
+ 
+ 
+ In  
+ Francoeur et al. v. Minister of National Revenue 
+ , [1992] 2 F.C. 333; 140 N.R. 389, the Federal Court of Appeal considered similar amendments and stated at p. 337: 
+ 
+ 
+ 
+ "the general rule is that an amendment should be allowed 'for the purpose of determining the real questions in controversy between the parties' provided that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs." 
+ 
+ 
+ 
+ (See also  
+ Minister of National Revenue v. Canderel Ltd. 
+  (1993), 157 N.R. 380 (F.C.A.), at p. 6 and  
+ Continental Bank Leasing Corp. v. Canada 
+ , 93 D.T.C. 298 (T.C.C.), at p. 301). The Tax Court, in  
+ Continental Bank 
+ , applies the same rule as set out in  
+ Francoeur 
+  (adding the test for a "triable issue") to the specific situation where the effect of the amendment is a withdrawal of an admission and held (p. 302) that the question of whether an amendment or a withdrawal of an admission should be allowed should be put on a broad basis: is the amendment in the interests of justice? The court states further that: 
+ 
+ 
+ 
+ "other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done."

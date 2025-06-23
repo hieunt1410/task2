@@ -1,0 +1,9 @@
+[99]
+With respect to the second ground of the application, namely that the claims are broader in scope than the invention claimed, as I have determined that the defendants' devices do not use a hopper as claimed in the patent and relying on the "Gillette defence" it is not necessary for me to deal with the second ground as the defendants have been successful on the first ground of their application. In this regard, I note the comments of George Takach in his text
+Patents, A Canadian Compendium of Law and Practice
+(1993 Juriliber Limited), at page 52:
+"6.25
+Breadth of Claims
+"Although it is in an applicant's best interest to maximize protection by claiming an invention as broadly as possible without encompassing or 'reading on' the prior art, there is a conflicting value at work. If a patent is granted and infringement action is brought, the Patentee faces potential conflict between a wide interpretation of a claim to catch infringing activity which risks the claim being invalidated as too broad, and a narrow interpretation to avoid a finding of invalidity, which risks excluding the infringing activity. However, the alleged infringer will not be required to choose between these conflicting interpretations in defending the action for infringement (the 'Gillette defence'). A patentee cannot broaden the scope of his claim by 'borrowing this or that gloss from other parts of the specification'."
+He continued at page 138:
+"... with the 'Gillette' defence, a defendant can deny both the infringement and the validity of the patent, and thus spare himself the trouble of demonstrating on which horn of the well-known dilemma the plaintiff has impaled himself, invalidity or infringement."

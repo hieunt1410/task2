@@ -1,0 +1,16 @@
+[11]
+The standard to be applied by the Minister in assessing facts is the "reasonable grounds" test. This test has been explained by the Federal Court of Appeal in
+Charkaoui, Re
+(2004), 328 N.R. 201; 2004 FCA 421 (leave to appeal to the Supreme Court of Canada (2005), 346 N.R. 393), in the Judgment of Décary and Létourneau, JJ.A., with which Richard, C.J., concurred, at paragraphs 102 to 105:
+"102 The 'reasonable grounds' test is generally the standard used for the institution of prosecutions for blameworthy acts and for the exercise of preventive or investigative powers. For example, a police officer's power of arrest, an application for a search warrant and the issuance of the warrant by a justice must be based on reasonable grounds (see ss. 487, 495, 507(4), 512, 524(1), 525(5) and 679(6) of the
+Criminal Code
+). In the case of preventive action, the police officer must have reasonable grounds to believe that a person is about to commit an indictable offence or to breach his or her promise to appear and that it is in the public interest to carry out an arrest. This applies as well to an information accusing an individual of having committed an indictable or other offence (ss. 506 and 778 of the
+Criminal Code
+).
+"103 The 'reasonable grounds' standard requires more than suspicions. It also requires more than a mere subjective belief on the part of the person relying on them. The existence of reasonable grounds must be established objectively, that is, that a reasonable person placed in similar circumstances would have believed that reasonable grounds existed, in the case of an arrest, to make the arrest:
+R. v. Storrey
+, [1990] 1 S.C.R. 241, at page 250.
+"104 This 'reasonable grounds' standard has been characterized as an 'important protection' without which 'even the most democratic society could all too easily fall prey to the abuses and excesses of a police state': ibidem, at page 249. Yet, the Supreme Court of Canadawrites, 'society also needs protection from crime. This need requires that there be a reasonable balance achieved between the individual's right to liberty and the need for society to be protected from crime. Thus the police need not establish more than reasonable and probable grounds for an arrest.' (ibidem, at pages 249 and 250)
+"105 In the case at bar, inadmissibility must be based, under s. 33 of the
+IRPA
+, on the Minister's reasonable grounds to believe that the acts or omissions referred to in ss. 34 to 37 have occurred, are occurring or, if preventive considerations are involved, may occur. It is necessary, therefore, that a reasonable person, placed in similar circumstances and with the same facts, would arrive at the same belief. Thus, according to the cases, the 'reasonable grounds' standard, applied to past or current wrongful acts, is not too minimal or weak a standard. It is sufficient."

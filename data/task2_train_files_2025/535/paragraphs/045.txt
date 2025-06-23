@@ -1,0 +1,40 @@
+[45]
+The relevant question in the case at bar is whether it would be contrary to s. 7 to prevent the applicant from entering Canada because she faces a risk of torture in her country of origin. The answer is no. While the Refugee Division's negative decision prevents the applicant from entering Canada as a refugee or a person in need of protection, there are still a number of steps that must be taken before the applicant faces removal to China. Most notably, she is entitled to apply for a Pre-Removal Risk Assessment ("PRRA") under the
+IRPA
+. The balancing process required by section 7 of the
+Charter
+would then take place as part of the PRRA application. The relevant statutory provisions are set out here:
+"
+Pre-Removal Risk Assessment
+"
+Application for protection
+"112(1) A person in Canada, other than a person referred to in subsection 115(1), may, in accordance with the regulations, apply to the Minister for protection if they are subject to a removal order that is in force or are named in a certificate described in subsection 77(1).
+"
+Restriction
+"112(3) Refugee protection may not result from an application for protection if the person
+(c) made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention;
+"
+Consideration of application
+"113. Consideration of an application for protection shall be as follows:
+(d) in the case of an applicant described in subsection 112(3), consideration shall be on the basis of the factors set out in section 97 and
+(ii) in the case of any other applicant, whether the application should be refused because of the nature and severity of acts committed by the applicant or because of the danger that the applicant constitutes to the security of Canada.
+"
+Effect of decision
+"114(1) A decision to allow the application for protection has
+(b) in the case of an applicant described in subsection 112(3), the effect of staying the removal order with respect to a country or place in respect of which the applicant was determined to be in need of protection."
+"
+Demande de protection
+"112(1) La personne se trouvant au Canada et qui n'est pas visée au paragraphe 115(1) peut, conformément aux règlements, demander la protection au ministre si elle est visée par une mesure de renvoi ayant pris effet ou nommée au certificat visé au paragraphe 77(1).
+"
+Restriction
+"112(3) L'asile ne peut être conféré au demandeur dans les cas suivants:
+c) il a été débouté de sa demande d'asile au titre de la section F de l'article premier de la Convention sur les réfugiés;
+"
+Examen de la demande
+"113. Il est disposé de la demande comme il suit:
+d) s'agissant du demandeur visé au paragraphe 112(3), sur la base des éléments mentionnés à l'article 97 et, d'autre part:
+(ii) soit, dans le cas de tout autre demandeur, du fait que la demande devrait être rejetée en raison de la nature et de la gravité de ses actes passés ou du danger qu'il constitue pour la sécurité du Canada.
+"
+Effet de la décision
+"114(1) La décision accordant la demande de protection a pour effet de conférer l'asile au demandeur;
+(b) toutefois, elle a pour effet, s'agissant de celui visé au paragraphe 112(3), de surseoir, pour le pays ou le lieu en cause, à la mesure de renvoi le visant."

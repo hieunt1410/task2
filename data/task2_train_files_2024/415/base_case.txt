@@ -1,0 +1,81 @@
+Gordon v. Can., [2004] F.T.R. Uned. 984 (FC)
+MLB unedited judgment
+Robert Gordon, Journalist, and Canadian Broadcasting Corporation (applicants) v. Minister of National Defence (respondent)
+(T-1976-04; 2004 FC 1642)
+Indexed As: Gordon et al. v. Canada (Minister of National Defence)
+Cite As: [2004] F.T.R. Uned. 984
+Federal Court
+Lafrenière, Prothonotary
+November 23, 2004.
+Counsel:
+David Coles, for the applicants;
+Martin Ward and Elizabeth Richards, for the respondent.
+Solicitors of Record:
+Boyne Clarke, Dartmouth, Nova Scotia, for the applicants;
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Lafrenière, Prothonotary
+: The applicant, Robert Gordon, is a journalist employed by the co-applicant, the Canadian Broadcasting Corporation (the "CBC"). The two applicants seek an order that the notice periods and other time requirements under the Federal Court Rules, 1998 ("the Rules") that are applicable to their application for judicial review be abridged, and that a date be fixed as soon as possible for a hearing of the application for judicial review. Alternatively, they seek directions from the Court for the proper procedure to expedite the proceeding.
+[2]
+The issue on this motion is whether the Court ought to depart from the timelines prescribed in Part 5 of the Rules, and more particularly, Rules 307, 308, 309, 310 and 314.
+Background
+[3]
+The main proceeding is an application for judicial review in respect of a decision dated November 4, 2004 of a Board of Inquiry convened by the Canadian Forces pursuant to s. 45 of the National Defence Act to investigate and report on the death and casualties suffered onboard the HMCS Chicoutimi on October 5, 2004 (the "Board").
+[4]
+The Board has been tasked to complete its proceedings and report by November 30, 2004. It collected evidence and heard witnesses for 3 weeks in Scotland before commencing proceedings in Halifax in early November.
+[5]
+The Canadian media, including the applicants, first requested access to the Board's proceedings in Halifax on November 2, 2004. After their informal request was denied, the applicants made an application, pursuant to Section 12 of the Board of Inquiries Terms of Reference, for immediate access to the hearings, or alternatively, for an opportunity to make representations before the Board in support of their request for access.
+[6]
+The President of the Board denied the applicants' request for immediate access and also declined to hear oral submissions. He agreed, however, to accept written representations in support of the applicants' request.
+[7]
+On November 5, 2004, following receipt of written submissions, the Board denied the applicants access to the Board hearing on the basis that the Board is an internal investigation body, and not a public inquiry or quasi-judicial body. The Board indicated that its mandate must be exercised in a very short time, and that allowing public access would delay the proceeding.
+[8]
+The applicants responded with an application for judicial review and an emergency motion for a stay of the Board's proceedings on the grounds that there was a denial of their Charter rights. Harrington, J. accommodated the applicants by holding an emergency hearing on the night of Friday, November 5, 2004 and into the early morning of Saturday, November 6, 2004.
+[9]
+At the conclusion of the hearing, Harrington, J. dismissed the motion orally, having concluded that the applicants failed to establish that there was a serious issue, that they would sustain irreparable harm, or that the balance of convenience was in their favour. He added that his decision should not be interpreted as dispositive of the merits of the application for judicial review, and that the applicants were entitled to bring a motion for an expedited hearing, if so advised. The applicants accepted this invitation by bringing the present motion.
+[10]
+When questioned at the hearing of the motion as to what the applicants were seeking in terms of expedited schedule, their counsel replied that they wanted the hearing of the application held within the next few days. Counsel maintained that the respondent could simply limit himself to the affidavit evidence he has already filed in response to the stay motion, that cross-examination on affidavits could be dispensed with, and that the respondent should be required to serve and file his record immediately.
+Analysis
+[11]
+Rule 8(1) of the Rules gives the Court the general power to extend or abridge any period set out in the Rules in appropriate circumstances. In order to obtain an abridgment of time, an applicant must establish not only that the matter is urgent, but also that the respondent will not be prejudiced by the compromise of the established procedure: FRAGMENT_SUPPRESSED
+[12]
+The applicants state in their notice of application that their right to free expression, protected by section 2(b) of the Canadian Charter of Rights and Freedoms ("the Charter"), has been infringed by the Board decision. According to the applicants, if an infringement of their right to free expression has occurred, the only remedy that alleviates the infringement is that the applicants be allowed access to the Board hearings. Expediency is therefore necessary, from the applicants' perspective, to ensure that an appropriate remedy is available. The applicants maintain that the balance of convenience favours abridging the time in order to protect them, and the public, from an infringement of their right to free expression.
+[13]
+For the reasons that follow, I decline to grant the relief requested.
+[14]
+First, the matter cannot be viewed as urgent in circumstances where the proceedings have been ongoing since October 8, 2004, and there has been no request by the applicants for access until the first week of November. The applicants have already missed the opportunity to seek access to a significant portion of the inquiry, and it is anticipated that the Board hearing will be concluded shortly.
+[15]
+The applicants have created an artificial sense of urgency through their own delay. The testimony of witnesses before the Board commenced in Scotland on October 11, 2004. It was public knowledge that the hearing had begun and the applicants had reporters in Scotland reporting on the progress of the Board. The fact that the hearing moved to Halifax in early November cannot, in the circumstances, be viewed as an anticipated event which would trigger the right to an expedited hearing.
+[16]
+Secondly, the respondent disputes the applicants' assertion that this application for judicial review is ready for hearing. The parties agree that this judicial review application raises complicated issues, including constitutional questions concerning freedom of the press under section 2(b) of the Charter. The respondent submits that it also raises issues concerning the status of boards of inquiry, established pursuant to legislation, whose legislative mandate is to investigate and report on facts. According to the respondent, this application therefore has implications not only for this particular Board of Inquiry, but also for similar boards constituted under other legislation.
+[17]
+Section 18.1 of the Federal Courts Act establishes a scheme for judicial review of federal administrative tribunals. In furtherance of that scheme, section 18.4 provides that judicial review applications "shall be heard and determined without delay and in a summary way." The timeframes provided by the Rules are designed to give the parties adequate time to prepare the case so that the Court can properly decide the matter before it, thereby rendering justice to the parties, while also respecting the objective of deciding the matter without delay. Any departure from these rules - and especially an abridgement - is exceptional.
+[18]
+In light of the complexity of the issues raised in the application, I find that the respondent would be seriously prejudiced if he were required to rush to deal with this application, particularly within a timeframe which would be of any practical benefit to the applicants. Inadequate preparation time would not only prejudice the respondent, but would also risk compromising the ability of the Court to adjudicate this matter properly by requiring it to decide significant matters without the benefit of proper material before it. As O'Keefe' J. observed in Moss v. Canada, [2000] F.C.J. No. 486 (T.D.) at para. 3.:
+. . . I would not grant the short leave request pursuant to the Federal Court Rules for the hearing of this application. The matters are complicated and in this case the Respondent should be allowed to file its materials and take the steps allowed by the rules. In fact, this is necessary in order to allow the Court to properly deal with the issues that are raised in the request.
+[19]
+The denial of the benefit of the timelines in the Rules which would allow the respondent an adequate opportunity to properly prepare its case for determination is not merely a matter of inconvenience for the respondent and the Court. It is matter of prejudice that is not outweighed by the applicants' desire to proceed quickly.
+[20]
+Thirdly, this matter cannot be viewed as urgent since irreparable harm to the applicants has not been established. The issue of irreparable harm has already been considered by Harrington, J., who rejected the argument and concluded that the Board could continue with its hearings in the applicants' absence. Although the findings of Harrington, J. were made in the context of a motion to stay the Board inquiry, essentially the same facts and arguments are being advanced by the parties on this motion. The stay having been denied on the grounds that there was no irreparable harm, it would be inappropriate for me to revisit the issue.
+Conclusion
+[21]
+In summary, I find that the respondent would suffer serious prejudice if the timelines are abridged to the extent necessary to be of any practical benefit to the applicants. I am also unable to conclude that there is sufficient urgency to the application such as to warrant an expedited hearing in the manner proposed by the applicants. The applicants' motion for an immediate hearing of the application must therefore be dismissed.
+[22]
+Notwithstanding that the remedy of immediate access to the Board hearing may no longer be practical, the applicants continue to seek access to the transcripts of the hearing, which have not been made public. In order to ensure that the important issues of freedom of speech raised by the applicants can be addressed by this Court in a timely manner, while at the same time protecting the rights of the respondent, I am prepared to direct that the application for judicial review be fixed for hearing at the earliest available date in Halifax.
+ORDER
+[23]
+THIS COURT ORDERS
+that:
+1. The application for judicial review in this matter be heard at the Federal Court in Halifax, Nova Scotia, on Wednesday, February 9, 2004 at 9:30 a.m.
+2. The motion to abridge the notice periods and all other time requirements associated with an application for judicial review is otherwise dismissed.
+3. To facilitate the expeditious determination of this matter, the application shall continue as a specially managed proceeding.
+4. The schedule for completion of the remaining steps in the proceeding is as follows:
+(a) The certified record of the tribunal shall be served and filed by November 29, 2004.
+(b) The respondent shall serve and file the respondent's affidavit evidence no later than December 13, 2004.
+(c) The parties shall complete cross-examinations by December 20, 2005.
+(d) The applicants shall serve and file the applicants' application record no later than January 10, 2005.
+(e) The respondent shall serve and file his application record by January 31, 2005.
+5. There shall be no order as to costs of the motion.
+[End of document]

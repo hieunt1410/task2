@@ -1,0 +1,11 @@
+[47]
+The '080 patent can be described as a "selection patent" in that levofloxacin was selected out of its class of substances - the racemate and the two enantiomers - because of its beneficial properties. The following passage from H.G. Fox in
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+, 4th Ed. (Toronto: Carswell Company Ltd., 1969), pp. 89-90, describes inventiveness in the context of selection patents:
+"Invention may be exercised by selecting one out of a number of substances for a particular purpose even though others of that class have been used before for the same purpose,
+provided there is a special advantage
+to be derived from the use of the selected substance and its selection constitutes a
+definite advance
+upon existing knowledge. While one who merely picks out a number of items from an already disclosed group or series has not invented anything, yet it may be otherwise if his researches have led him to the discovery that certain items in the group or series possess qualities or characteristics
+peculiar to themselves and hitherto unknown
+." (Emphasis added)

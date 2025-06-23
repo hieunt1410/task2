@@ -1,0 +1,171 @@
+[1]
+Dawson, J.
+: Enayet Ullah Khan is a 41 year old citizen of Bangladesh who applied for permanent residence in Canada under the Independent immigrant category as an assisted relative. On July 16, 1999, Donald A. Barr, a visa officer at the Canadian Con­sulate General in Hong Kong, refused Mr. Khan's application for permanent residence. Mr. Khan now brings this proceeding for judicial review and seeks an order setting aside the decision refusing his application for permanent residence.
+THE FACTS
+[2]
+Mr. Khan listed his intended occupations in Canada, and requested to be assessed, as a Financial Manager, National Occupation Classification ("NOC") 0111, or as a Retail and Wholesale Buyer, NOC 6233.
+[3]
+In his application Mr. Khan, through his counsel, requested that in the event the visa officer determined that Mr. Khan did not qualify under the point system, that the visa officer use his "discretion, in conjunction with the senior immigration officer, to approve his application since he is a multi talented individual whose particular blend of skills will permit him to successfully estab­lish in Canada". Mr. Khan's application for permanent residence reflected that he and his wife owned four businesses employing a total of 950 people. Three of the businesses manufactured garments, while one company was a buying house which negotiated the sale of the finished garments. Mr. Khan's net worth was stated to be substantial.
+[4]
+Mr. Khan's application was paper screened and as a result, he was asked to attend an interview for a further assessment of his application.
+[5]
+Mr. Khan was interviewed by Mr. Barr on July 16, 1999. Mr. Barr made notes of the interview and later that day those notes were entered and recorded in the computer assisted immigration processing system ("CAIPS").
+[6]
+The relevant portions of the letter, advis­ing Mr. Khan of the refusal of his applica­tion, were as follows:
+"I have assessed you in the occupation Financial Manager NOC 0111. Based on your description of your work history, I have determined you do not have experi­ence in this occupation. I have also assessed you in the occupation of Manu­facturing Manager NOC 0911. The [l]atter is an occupation in which you are qualified and experienced, and you earned the fol­lowing units of assessment:
+Age
+10
+Occupational Demand
+00
+Education/Training Factor
+15
+Experience
+06
+Arranged Employment
+00
+Demographic Factor
+08
+Education
+13
+English
+09
+French
+00
+Bonus
+05
+Total
+66
+"Subsection 11(2) of the
+Regulations
+sets out that a visa officer shall not issue a visa to an immigrant, if that immigrant fails to earn at least one unit of assessment for occupational demand. Unfortunately the demand assigned for your occupation at the time of your application was zero and it is zero now. I consider the units of assessment that you have earned are an accurate assessment of your ability to successfully establish in Canada."
+THE ISSUES
+[7]
+On Mr. Khan's behalf a number of grounds were raised to question the visa officer's assessment. In my view, one of these provides a basis for the Court to inter­vene and I do not propose to deal with the other issues. The issue raised was the failure of the visa officer to assess properly Mr. Khan's application pursuant to subsection 11(3) of the
+Immigration Regulations
+, 1978, SOR 78/172, as amended, ("
+Regula­tions
+").
+ANALYSIS
+[8]
+A review of the refusal letter indicates that the visa officer, when dealing with the alternate occupation of a Manufacturing Manager, NOC 0911, did not assess Mr. Khan under the personal suitability factor.
+[9]
+Subsection 8(1) of the
+Regulations
+provides that, for the purpose of determining whether an immigrant will be able to become successfully established in Canada, the visa officer shall assess the immigrant on the basis of each of the factors listed in Column I of Schedule I of the Regulations. Schedule I includes personal suitability as a factor, and provides that the visa officer, on the basis of an interview with the applicant, shall award units of assessment to reflect the personal suitability of the person and his or her dependants to become successfully estab­lished in Canada. The assessment is to be based upon the person's adaptability, moti­vation, initiative, resourcefulness and other similar qualities.
+[10]
+Once that assessment has been com­pleted, subsection 11(3) of the
+Regulations
+confers discretion on the visa officer. Sub­section 11(3) provides:
+"(3) A visa officer may
+(a) issue an immigrant visa to an immi­grant who is not awarded the number of units of assessment required by section 9 or 10 or who does not meet the require­ments of subsection (1) or (2), or
+(b) refuse to issue an immigrant visa to an immigrant who is awarded the num­ber of units of assessment required by section 9 or 10,
+if, in his opinion, there are good reasons why the number of units of assessment awarded do not reflect the chances of the particular immigrant and his dependants of becoming successfully established in Canada and those reasons have been sub­mitted in writing to, and approved by, a senior immigration officer.
+"(3) L'agent des visas peut
+a) délivrer un visa d'immigrant à un immigrant qui n'obtient pas le nombre de points d'appréciation requis par les articles 9 ou 10 ou qui ne satisfait pas aux exigences des paragraphes (1) ou (2), ou
+b) refuser un visa d'immigrant à un immigrant qui obtient le nombre de points d'appréciation requis par les articles 9 ou 10,
+s'il est d'avis qu'il existe de bonnes raisons de croire que le nombre de points d'appréciation obtenu ne reflète pas les chances de cet immigrant particulier et des personnes à sa charge de réussir leur instal­lation au Canada et que ces raisons ont été soumises par écrit à un agent d'immigra­tion supérieur et ont reçu l'approbation de ce dernier."
+[11]
+On Mr. Khan's behalf it was said that because Mr. Khan specifically requested that, if necessary, the visa officer consider his discretion under subsection 11(3) of the
+Regulations
+, the visa officer committed a reviewable error by failing to assess Mr. Khan's personal suitability, and then by failing to properly consider Mr. Khan's application pursuant to subsection 11(3).
+[12]
+On the Minister's behalf it was asserted that where a visa officer finds that an appli­cant does not meet the criteria for the intended occupation as defined in the NOC, it is not unreasonable for the visa officer to hold that the applicant need not be further assessed in that occupational category. Reli­ance was placed on the decision of Reed, J., in
+Goussev v. Canada (Minister of Citizen­ship and Immigration)
+(1999), 174 F.T.R. 140; 2 Imm. L.R.(3d) 170 (T.D.), where Justice Reed stated at paragraph 14:
+"[14] Counsel for the respondent referred me to the jurisprudence that has stated that an informal or preliminary assessment by a visa officer does not constitute an assess­ment of the applicant and that a visa officer has a duty to carry out an assess­ment of an applicant in the person's intended occupation; see, for example
+Issaeva v. Canada (Minister of Citizen­ship and Immigration)
+(1996), 37 Imm. L.R.(2d) 91 (F.C.T.D.), and
+Birioulin v. The Minister of Citizenship and Immi­gration
+(IMM-812-98, February 16, 1999). I do not understand this jurisprudence to require a visa officer to continue an assess­ment in a given occupational category after it has become clear that the applicant cannot obtain the required number of points to be granted landing. For example, if there is a requirement that at least one point be awarded under a given factor, and the visa officer determines that the particu­lar individual will be awarded zero under that factor, the visa officer is not required to continue a pointless exercise of evaluat­ing the other factors. An assessment has been done."
+[13]
+However, Reed, J., went on at para­graph 15 to say:
+"[15] The
+Issaeva
+and
+Birioulin
+cases speak to a situation in which an assess­ment, had it been completed, might have led to a conclusion that the applicant could be awarded enough points to be granted landing. That was not the situation in this case with the assessment of the applicant by reference to the occupational categories of mechanical engineer and marine engi­neer."
+In the present case, in oral argument it was conceded by counsel for the Minister that if Mr. Khan's personal suitability had been assessed, he would likely have received between 70 and 72 points.
+[14]
+Thus, I do not find the
+Goussev
+case to be of assistance to the Minister in circum­stances where had the visa officer's assess­ment been completed, it is clear that Mr. Khan would likely have obtained the required number of points to be granted landing, subject to the effect of subsection 11(2) of the
+Regulations
+.
+[15]
+The Minister then asserted that the exercise of discretion under subsection 11(3) must be read in the context of the facts before the visa officer. The Minister noted that in assessing Mr. Khan as a Manufactur­ing Manager, there was zero occupational demand in Canada such that, even if Mr. Khan were to have been awarded the maxi­mum number of units for personal suitabil­ity, it would not have changed the fact that there was zero occupational demand for the intended occupation. This, the Minister submitted, would limit any chance of Mr. Khan successfully establishing himself in Canada, and it is for that reason that subsec­tion 11(2) of the
+Regulations
+prohibits the issuance of immigrant visas for occupations with zero demand.
+[16]
+Subsection 11(2) provides:
+"11(2)
+Subject to subsections (3)
+and (4), a visa officer shall not issue an immigrant visa pursuant to section 9 or 10 to an immigrant other than an entrepreneur, an investor, a provincial nominee or a self-employed person unless
+(a) the units of assessment awarded to that immigrant include at least one unit of assessment for the factor set out in item 4 of Column I of Schedule I;
+(b) the immigrant has arranged employ­ment in Canada; or
+(c) the immigrant is prepared to engage in employment in a designated occupa­tion. (emphasis added)
+"11(2)
+Sous réserve des paragraphes (3)
+et (4), l'agent des visas ne délivre un visa en vertu des articles 9 ou 10 à un immigrant autre qu'un entrepreneur, un investisseur, un candidat d'une province ou un travailleur autonome, que si l'immigrant:
+a) a obtenu au moins un point d'appréciation pour le facteur visé à l'article 4 de la colonne I de l'annexe I;
+b) a un emploi réservé au Canada; ou
+c) est disposé à exercer une profession désignée."
+[17]
+With respect, the Minister's latter submission misses the point that paragraph 11(3)(a) of the
+Regulations
+specifically contemplates that the effect of the exercise of discretion under subsection 11(3) is to allow the issuance of a visa to an applicant who does not receive at least one unit of assessment under the occupational factor.
+[18]
+On the Minister's behalf, it was also submitted that an assessment of personal suitability is not mandatory in order for a visa officer to exercise his or her discretion pursuant to subsection 11(3) of the
+Regulations
+. This was said to be so because this Court has held, in cases such as
+FRAGMENT_SUPPRESSED, that it is not necessary that an interview be conducted in order for a visa officer to exercise discretion under subsection 11(3). It follows from this that personal suitability need not be assessed, it was argued, because personal suitability can only be assessed at an interview.
+[19]
+Again, I do not find that submission to be of assistance to the Minister because cases such as
+Savvateev
+relied upon by the Minister, involved a paper screening of the application. In such a case, section 11.1 of the
+Regulations
+provides that an interview is not necessary unless the applicant receives at least 55 units of assessment (where the immigrant is an assisted relative). Once a personal interview is to be conducted a visa officer is required to assess all of the factors in Schedule I, and this includes personal suitability, unless it is without doubt that continued evaluation is pointless as discussed by Reed, J., in
+Goussev
+, supra. That will not be the case in circumstances such as the present where a request has been made for the exercise of discretion under subsection 11(3) of the
+Regulations
+.
+[20]
+Finally, the Minister submitted that the Court is required to show deference to the visa officer's exercise of discretion. In the present case, the visa officer swore in his affidavit filed in opposition to this proceeding, that following the assessment, "I concluded that the factors listed in Schedule I, when applied to the facts of this case, had generated units of assessment which accurately reflect the applicant's chances of successful establishment". The Minister relied upon the decision of Dubé, J., in
+Yedla v. Canada (Minister of Citizenship and Immigration)
+, [1999] F.T.R. Uned. 918; [1999] F.C.J. No. 1963).
+[21]
+In
+Yedla
+, supra, Justice Dubé found that it was open to the visa officer to exercise his discretion under subsection 11(3) in the fashion he did. Justice Dubé noted, "I cannot find that he exercised his discretion in bad faith nor that he relied upon considerations which are irrelevant or extraneous to the statutory purposes of the
+Immigration Act
+. Consequently, this Court cannot intervene". The portion of the decision referenced by the Minister is specifically premised on the facts then before the Court.
+[22]
+In the present case, the visa officer was cross-examined on his affidavit. He was questioned and responded as follows:
+"Q.	I'm asking you whether you did or did not consider personal suitability in your assessment under regulation 11(3).
+A.	No.
+. . . . .
+Q.	But you also told me that the point total that he received could be relevant under regulation 11(3), correct?
+A.	Well, not if someone does not get at least one point for demand or for experience.
+. . . . .
+Q.	Without a point calculation for an occupation in which he's asked to be assessed, how can you do a proper regulation 11(3) assessment?
+A.	Well, there's no need to do the full point calculation because, as I said earlier, in my view the gentleman had no experience in these occupations. The fact that he had no experience is accurately reflected in Schedule I, and it's an automatic bar, so there's no need to go any further.
+Q.	But regulation 11(3) specifically deals with that. It specifically says that you can still approve the case even though he has no experience.
+A.	If there's good reasons.
+Q.	Right. And you review the point calculation to determine whether there are good reasons, correct?
+A.	I look at Schedule I. I look at the factors. I look at experience –
+Q.	Okay.
+A.	– as a factor.
+Q.	So if you haven't calculated the points for those various factors, how can you do a regulation 11(3) assessment?
+A.	Well, I think if the lack of experience or lack of demand is an automatic bar, then really – like it is in this case, there's no need to look at whether or not that adds up to 54 points or 56 or 58. It doesn't matter. It's irrelevant."
+[23]
+The above exchanges show that the visa officer failed to appreciate that getting no points for experience or the occupational factor is not necessarily fatal to an application where, in a proper exercise of the visa officer's discretion, a determination is made that there are good reasons why the number of units of assessment awarded does not reflect the chance of the particular immigrant and his dependants to become successfully established in Canada.
+[24]
+For these reasons, I have concluded that the visa officer did not exercise his discretion in accordance with the requirements of the
+Regulations
+.
+[25]
+In the result, the visa officer's decision must be set aside and Mr. Khan's application be remitted to a different visa officer for consideration, without regard to the record developed in relation to the decision now set aside.
+[26]
+Counsel were agreed that this case raised no question for certification.
+Application allowed.
+Editor: Angela E. McKay/saf
+[End of document]

@@ -1,0 +1,154 @@
+[1]
+von Finckenstein, J.
+: This is an application for judicial review of Transport Canada Safety and Security’s decision to deny the Applicant’s application for Transportation Security Clearance ("TSC") at Pearson Airport.
+[2]
+Applicant was born in India and arrived in Canada on November 8, 2004 as a permanent resident. He was assessed to immigrate as an Air Traffic controller and came to Canada for that purpose. He has been unable to do this because he has not obtained a TSC. He holds a United States Department of Transportation Aircraft Dispatcher License that was issued on May 27, 1999 and has found employment with Air Canada.
+[3]
+Airport security is governed by the
+Aeronautics Act
+, R.S. 1985, c. A-2 (the "
+Act
+") and the
+Canadian Aviation Security Regulations
+, SOR/2000-111 (the "
+Regulations
+"). The Airport Restricted Area Access Clearance Program (the "Program") is well described in the affidavit of Robert Hartman, a Superintendent in the Intelligence Branch of Transport Canada. He states:
+"4. Security at designated aerodromes ('airports') is governed by the
+Aeronautics Act
+and its
+Regulations
+and policy.
+"5. The
+Canadian Aviation Security Regulations
+provide, in part, that restricted areas of airports are only accessible to persons holding a Restricted Area Pass.
+"6. The Airport Restricted Area Access Clearance Security Measures (the 'Measures') were incorporated by reference in s. 4 of the
+Regulation
+. They provide, in part, that operators of designated airports are prohibited from issuing a Restricted Area Pass to a person (subject to limited exceptions), unless the person has been granted a Clearance by the Minister. A copy of the Measures, including security controls, is attached as Exhibit 'A' to this Affidavit.
+"7. One of the Measures authorizes operators of a designated airport to issue a Restricted Area Pass to a person who requires temporary access to a restricted area ('Temporary Pass') and who has applied for, but is still awaiting a Clearance. An individual with a Temporary Pass is not permitted access to restricted areas unless that individual is subject to security controls, as set out in the Measures attached hereto as Exhibit 'A', at all times while in a restricted area.
+TRANSPORTATION SECURITY CLEARANCES
+"8. The Minister has the discretion to grant, refuse, suspend or cancel a Clearance. The Minister exercises his discretion in accordance with policy and objectives contained in the Transportation Security Clearance Program – Aviation (the 'Program'), a copy of which is attached as Exhibit 'B' to this affidavit.
+"9. The Program is made available to members of the public on the Transport Canada, Security and Emergency Preparedness website:
+www.tc.gc.ca/vigilance/sep/tscp/tscp_manual_contents.htm
+. The Minister instituted the Program in 1985 following the bombing of Air India Flight 182.
+"10. The purpose and aim of the Program is to prevent interference with civil aviation, and to promote the safety and security of the public, passengers, crew members, aircraft, aerodromes, and other aviation facilities by requiring certain classes of persons to hold a Clearance.
+"11. Pursuant to s. 1.3(c) of the Program, an applicant for a Clearance must provide 5 years of adequate, reliable and verifiable information to permit the necessary background checks to be completed.
+"12. As set out in section II.19 of the Program, individuals who apply for a Clearance must undergo comprehensive background checks that include a fingerprint-based criminal records check with the RCMP, a CSIS indices check, a Canadian Police Information Centre check, and a Credit Bureau check ('Background Checks').
+"13. The background checks do not verify information relating to time spent residing or working outside Canada. Accordingly, when an applicant has been outside of Canada during the review period in question, the security check will return as 'incomplete'.
+"14. In such cases, Superintendents such as me review all of the information provided and identify potential areas of concern. The applicant is advised in writing of areas of concern and given the opportunity to provide additional information in support of his or her application.
+"15. Once the applicant has provided any additional information he or she wants to have considered, the application is put before a Review Panel. The Review Panel is established within Transport Canada to provide advice and recommendations to the Minister in respect of Clearance applications.
+"16. Upon receiving an application, the Review Panel considers the information provided by an applicant. The Review Panel then formulates a recommendation to the Minister to either grant or refuse the Clearance depending on whether the application meets the Program requirement for adequate, reliable and verifiable information.
+"17. If the Minister refuses a Clearance an individual may submit a new application only if a period of 5 years has elapsed after the day of the Clearance refusal, or a significant change has occurred in the circumstances that led to the refusal. Such a 'significant change' could include evidence of more time having been spent in Canada, or additional information that is adequate, reliable and verifiable covering the 5 year period under review."
+[4]
+The Applicant applied for his TSC on February 7, 2005 after residing in Canada for approximately three months.
+[5]
+Transport Canada replied by letter to the Applicant on July 14, 2005 stating additional information could be submitted for the four years and four months where the information was not sufficient to assess his clearance. He was told he could submit additional information by August 14, 2005.
+[6]
+On July 20, 2005, Mr. Hartman spoke to the Applicant about the information requirements and that he could provide additional information. On October 6, 2005, the Applicant told Mr. Hartman that he would be submitting the documents shortly. This information was received on October 12, 2005.
+[7]
+Mr. Hartman reviewed the additional information and the application. The dates of employment on the Air India employment certificate contradicted the information on the application. It stated he worked with Air India until April 2005 whereas Mr. Irani immigrated to Canada in November 2004. On November 14, 2005, an email was sent to the address on the employment certificate to verify information. There was no response to this email.
+[8]
+On November 30, 2005 the file was presented to the Review Panel. Their recommendations were to refuse the application for two reasons:
+"1. Of the five (5) years of information required to make a decision, a period of only one (1) year is deemed to be verifiable and reliable.
+"2. The additional information provided by the applicant in support of his application was reviewed and deemed to not sufficiently meet the information standards of the Transportation Security Clearance Program."
+[9]
+On December 19, 2005, a decision was made to deny the application. The letter advising the Applicant stated:
+"The Panel was unanimous in its decision to recommend the refusal of this application based on the absence of sufficient, verifiable and reliable information. Specifically, of the five (5) years of information generally required to formulate a recommendation, a period of four (4) years of information provided in Mr. Irani’s application is considered not sufficient to fully assess the factors relevant to a transportation security clearance. This period of time reflects the time he spent in India, where information cannot be verified under the arrangements available to Transport Canada. In addition, information provided by the applicant in support of his application was reviewed and deemed to not sufficiently meet the information standards of the Transportation Security Clearance Program." (R.R. page 69)
+[10]
+The Applicant is now seeking judicial review of that decision arguing that he was denied procedural fairness as no written reasons for the decision were provided.
+STANDARD OF REVIEW
+[11]
+Given that the Applicant alleges lack of procedural fairness the standard of review is evidently correctness (see
+Sketchley v. Canada (Attorney General)
+(2005), 344 N.R. 257; 2005 FCA 404).
+ANALYSIS
+[12]
+The Applicant’s position is that reasons have not been provided to date. The Applicant quotes extensively from
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817; 243 N.R. 22, to support its position that reasons are necessary. The Applicant submits the affidavit of Robert Hartman should not be sufficient as reasons as Mr. Hartman was not the decision maker. An affidavit prepared for the purpose of responding to judicial review cannot constitute reasons for the decision.
+[13]
+The Applicant further submits that Exhibit J to Mr. Hartman’s affidavit, the Review Panel’s Recommendation/Rationale, should also not constitute reasons as they were not made by the decision maker and are only recommendations. Furthermore, the content in the recommendation is sparse and cannot withstand a probing examination.
+[14]
+The Applicant claims at paragraph 10 of his affidavit that if he had been aware of the substantive issues for the refusal to issue a TSC, he could have provided his tax documents as proof of his employment record in India.
+[15]
+In my view none of these arguments can succeed.
+[16]
+The Applicant is correct when pointing out that the affidavit of Mr. Hartman cannot serve as reasons. FRAGMENT_SUPPRESSED
+[17]
+The recommendations of the Review Panel were accepted by the ultimate decision maker, the deputy Minister, without change and thus serve as reasons in this case, just as CAIPS notes serve as reasons in an immigration case. The affidavit is helpful to explain surrounding circumstances but cannot be taken as reasons for the decision on the basis of the rationale given by Justice Martineau in
+Kalra
+, supra.
+[18]
+This position is fully congruent with
+Baker
+, supra, as that case points out that the duty to provide written reasons is a flexible one and has to be assessed in the light of the circumstances. In paragraphs 43 and 44 in
+Baker
+MadameJjustice L’Heureux-Dubé observed:
+"In my opinion, it is now appropriate to recognize that, in certain circumstances, the duty of procedural fairness will require the provision of a written explanation for a decision. The strong arguments demonstrating the advantages of written reasons suggest that, in cases such as this where the decision has important significance for the individual, when there is a statutory right of appeal, or in other circumstances, some form of reasons should be required. This requirement has been developing in the common law elsewhere. The circumstances of the case at bar, in my opinion, constitute one of the situations where reasons are necessary. The profound importance of an H & C decision to those affected, as with those at issue in
+Orlowski
+,
+Cunningham
+, and
+Doody
+, militates in favour of a requirement that reasons be provided. It would be unfair for a person subject to a decision such as this one which is so critical to their future not to be told why the result was reached.
+"In my view, however, the reasons requirement was fulfilled in this case since the appellant was provided with the notes of Officer Lorenz. The notes were given to Ms. Baker when her counsel asked for reasons. Because of this, and because there is no other record of the reasons for making the decision, the notes of the subordinate reviewing officer should be taken, by inference, to be the reasons for decision.
+Accepting documents such as these notes as sufficient reasons in part of the flexibility that is necessary
+, as emphasized by Macdonald and Lametti, supra,
+when courts evaluate the requirements of the duty of fairness with recognition of the day-to-day realities of administrative agencies and the many ways in which the values underlying the principles of procedural fairness [page 849] can be assured
+. It upholds the principle that individuals are entitled to fair procedures and open decision-making, but recognizes that in the administrative context, this transparency may take place in various ways. I conclude that the notes of Officer Lorenz satisfy the requirement for reasons under the duty of procedural fairness in this case, and they will be taken to be the reasons for decision." (Underlining added)
+[19]
+The review panels recommendation stated:
+"
+Information received from application and Canadian investigative sources
+:
+- 1 year in Canada
+- 4 years in India
+Letter sent to applicant requesting additional information
+:
+- July 14, 2005
+- additional contact on July 20 and Oct. 6, 2005
+Review Panel Rationale for Recommendation to Refuse TSC
+:
+-  Time spent outside of Canada
+-  Reliability and verifiability of information received.
+-  The following information provided by the applicant was assessed:
+- 3 police certificates
+- 53 pay stubs
+- 8 documents related to employment in India
+- 1 unsuccessful attempt via e-mail was made on November 14, 2005, to verify the applicant’s employment in India.
+Conclusion
+: Application deemed an unacceptable risk due to the lack of reliable and verifiable information received pertaining to his 4 years in India during the past 5 years."
+[20]
+While these reasons may be sparse, they are sufficient to indicate to the Applicant that his application failed because the information he submitted was not verifiable given that four years out the five were spent outside of Canada.
+[21]
+The duty of fairness owed to the Applicant in this case is minimal as Justice Pinard succinctly observed in
+Motta v. Canada (Procureur général)
+, [2000] F.C.J. No. 27; 180 F.T.R. 292 (T.D.), at paragraph 13:
+"In the case at bar, we are dealing with a simple application for clearance or a permit made by a person who has no existing right to that clearance or permit and is not accused of anything. As the Minister's refusal to grant access clearance does not involve the withdrawal of any of the plaintiff's rights, the latter can have no legitimate expectation that he will be granted clearance (see
+Peter G. White Management Ltd. v. Canada (Minister of Canadian Heritage) et al.
+(1997), 132 F.T.R. 89, and
+Cardinal v. Alberta (Minister of Forestry, Lands and Wildlife)
+, December 23, 1988, Edmonton 8303-04015, Alta. Q.B.). In the circumstances, therefore, I consider that the requirements imposed by the duty to act fairly are minimal and that, after allowing the plaintiff to submit his application in writing as he did, the Minister only had to render a decision that was not based on an erroneous finding of fact made in a perverse or capricious manner or without regard for the material before him. As no evidence was submitted that the decision duly made by the Minister pursuant to the powers conferred on him by the
+Act
+and
+Regulations
+was without basis, this Court's intervention is not warranted."
+[22]
+I would also note that neither the
+Act
+nor the
+Regulations
+specify the procedure to be used by the Minister in determining whether to award TSC’s (a fact noted by Justice Gauthier in
+DiMartino et al. v. Canada (Minister of Transport)
+(2005), 272 F.T.R. 250; 2005 FC 635 (F.C.) at paragraph 30). Under these circumstances, in my view, the requirements for minimal procedural fairness, as expressed in
+Motta
+, supra, were met.
+[23]
+Accordingly, this application will not succeed.
+[24]
+I might add as a final observation that this rejection of the Applicant is not final. The Applicant is free at any time to re-apply and to submit better and more verifiable information. I note that he never submitted the security certificate he had from the US Department of Transportation. (see A.R. at page 16) which might very well constitute verifiable information that would advance his cause.
+ORDER
+[25]
+THIS COURT ORDERS that this application be dismissed.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/gs
+[End of document]

@@ -1,0 +1,57 @@
+Patterson v. Gascon, [2004] F.T.R. Uned. 827 (FC)
+MLB unedited judgment
+Gary Wayne Gabriel Patterson (applicant) v. Therese Gascon, Warden of Bath Institute and Correctional Services of Canada (respondents)
+(T-820-04; 2004 FC 1373)
+Indexed As: Patterson v. Gascon et al.
+Cite As: [2004] F.T.R. Uned. 827
+Federal Court
+Mosley, J.
+October 7, 2004.
+Counsel:
+Jennifer Gleitman, for the applicant;
+Alexandre Kaufman, for the respondent.
+Solicitors of Record:
+Jennifer Gleitman, Toronto, Ontario, for the applicant;
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Mosley, J.
+: Mr. Patterson is a first time federal inmate currently housed in the medium security Bath Correctional Institute, serving a sentence of 6 years and 7 months for kidnapping, uttering threats, obstruction of justice and extortion, for which he was convicted in May 2000. Mr Patterson, a former lawyer, brought this application for a Writ of Prohibition following a decision by the respondent, Warden Gascon, to refuse his request for transfer to a minimum security institution on March 29, 2004. He seeks an order to preclude the respondents from refusing to take certain actions or make decisions in relation to the management of offenders on the grounds that they have not admitted guilt or taken responsibility for their crimes.
+[2]
+Mr. Patterson's statutory release date is November 17, 2004. He has sought an expedited hearing of this application to ensure that it is not rendered moot by his imminent release. He also filed a grievance from the Warden's decision through the Offender Complaints and Grievances procedure authorized by Commissioner's Directive 081. A denial was received in May at the regional level. That decision was further grieved to the national level and remained under consideration as of the date of the hearing of this application. The applicant has been advised that he can expect to receive an answer by October 27th, less than a month before his anticipated release date.
+[3]
+The issues before me were:
+1. Is an extraordinary remedy available to the applicant?
+2. Is the failure of an offender to admit guilt a relevant consideration in correctional management decisions?
+Is an extraordinary remedy available to the applicant?
+[4]
+Mr. Patterson brought this application under s. 18 of the Federal Courts Act. At the hearing he was represented by counsel who acknowledged that a more suitable vehicle for the Court to address his complaints would have been an application for judicial review of Warden Gascon's March 29th decision under section 18.1. The extraordinary remedies provided for in subsections (1) and (2) of s. 18 may be obtained only on an application for judicial review made under s. 18.1. Such an application has to relate to a "decision or order of a federal board, commission or other tribunal". The applicant chose to cast his net more broadly to challenge the Warden's and, more generally, the Correctional Service's alleged practice of basing classification and transfer decisions in part upon the willingness of offenders to admit guilt and express remorse.
+[5]
+The applicant requested, as part of his notice of application, and pursuant to Rule 317 of the Federal Court Rules, 1998, production of a number of records held by the respondents relating to his personal correctional history, including the Offender Security Level Decision signed by Warden Gascon on March 29th, 2004, and statistics pertaining to recidivism and parole revocation. The respondents' objection to this request was sustained by the Order of Prothonotary Tabib on July 8, 2004 on the ground that Rule 317 was inapplicable where the subject matter of the proceedings was an alleged practice rather than the review of a specific decision of a tribunal.
+[6]
+Accordingly, there is little evidence before me explaining the basis for Warden Gascon's decision not to agree to the applicant's transfer. I am, therefore, not in a position to treat this as an application for judicial review of that decision. However, even if Mr. Patterson had properly framed this as an application for review of the Warden's decision, he would have encountered considerable difficulty in seeking a remedy.
+[7]
+The respondents submit that prerogative writs should not issue before other available remedies, such as the grievance process, have been exhausted: FRAGMENT_SUPPRESSED
+[8]
+The applicant argues that the respondent Correctional Service has delayed a final response to his grievance in order to block his challenge until his statutory release date, after which time it will likely become moot. Under the terms of paragraphs 7 and 8 of Commissioner's Directive 081, the applicant argues, he should have received a response within 25 working days of receipt of his grievance from the regional level decision in May. Failing that, he should have been informed in writing of the reasons for the delay, which has not occurred.
+[9]
+Section 81 of the Corrections and Conditional Release Regulations, SOR/92-620, provides that the internal grievance procedure is suspended when the offender seeks a legal remedy concerning the same subject matter. It reads as follows:
+"(1) Where an offender decides to pursue a legal remedy for the offender's complaint or grievance in addition to the complaint and grievance procedure referred to in these Regulations, the review of the complaint or grievance pursuant to these Regulations shall be deferred until a decision on the alternate remedy is rendered or the offender decides to abandon the alternate remedy.
+"(2) Where the review of a complaint or grievance is deferred pursuant to subsection (1), the person who is reviewing the complaint or grievance shall give the offender written notice of the decision to defer the review."
+[10]
+It appears that section 81 has not been applied in this instance, in that the grievance procedure has not been formally suspended pending the outcome of this application. The applicant has received a negative response at one level of the process and has been advised that he will not receive the next response until the end of October. That will leave him virtually no time in which to seek a judicial review of that decision.
+[11]
+The applicant is in a "catch 22" situation. He is barred from obtaining an extraordinary remedy from this court until he has exhausted the alternative avenue available to him to challenge the Warden's decision, to wit, the Correctional Service's grievance procedure, as per Tietelbaum J.'s decision in Fortin, supra. That procedure, by virtue of section 81 of the Regulations, would normally not be open to him while he had an application pending before a court.
+[12]
+In Condo, supra the Court of Appeal recognized this conundrum at paragraph 6 of its reasons:
+"The appellant presented evidence that the grievance process is excessively slow and therefore not a viable alternative. We are unable to say that the motions judge was in error in not treating this evidence as persuasive. The appellant further argues that as the grievance process is automatically stayed when a legal remedy is sought, by virtue of section 81 of the Act [sic], he does not in reality have an alternative remedy. But if he is temporarily barred from pursuing a grievance, this is the predictable result of his own action in bringing a judicial review proceeding and this will continue only as long as it takes for the judicial review to be disposed of."
+[13]
+I consider the reasoning in that case to be binding on me and must find, therefore, that the applicant is not entitled to pursue this application for an extraordinary remedy until the internal grievance procedure has been exhausted.
+[14]
+I do not find it necessary, therefore, to address the question of whether the failure of an offender to admit guilt is a relevant consideration in correctional management decisions.
+ORDER
+[15]
+THIS COURT ORDERS
+that the application is hereby dismissed.
+[End of document]

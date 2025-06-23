@@ -1,0 +1,211 @@
+[1]
+Kelen, J.
+: This is an application by the Minister of Human Resources Development for judicial review of a decision of a designated member of the Pension Appeals Board (the Appeals Board) dated June 6, 2005 granting the respondent Ms. Hogervorst an extension of time and leave to appeal a decision of the Review Tribunal seven years after the time limitation period had elapsed. The respondent was self-represented.
+Facts
+[2]
+The evidence before the Court is that the respondent suffers from severe and prolonged fibromyalgia, a condition characterised by chronic musculoskeletal pain, multiple localised tender points, and impaired sleep patterns. Prior to the full onset of her condition, the respondent was employed as a registered nurse at the Civic Hospital in Ottawa. She ceased working in August 1995 by reason of her progressively worsening symptoms after 24 years of employment as a nurse contributing to the Canada Pension Plan (CPP).
+First application for benefits
+[3]
+In August 1996 the respondent first applied under Part II of the CPP for disability benefits. The Minister denied the claim for benefits both initially and on reconsideration. The respondent's appeal of that decision was dismissed by the Review Tribunal on December 29, 1997 (the 1997 decision) and communicated to her in January 1998. More than seven years later, on March 25, 2005 the respondent sought leave to appeal the decision of the Review Tribunal to the Appeals Board.
+Decision under review
+[4]
+On June 6, 2005 a member of the Appeals Board designated under s. 83(2.1) of the
+Canada Pension Plan
+, R.S.C. 1985, c. C-8 (
+CPP
+), granted the respondent an extension of time and leave to appeal the dismissal of her claim by the Review Tribunal nearly seven years after the time limit for doing so had expired. The decision was made ex parte, without submissions from the Minister, and no reasons were provided. The Minister now seeks judicial review of this decision.
+Second application for benefits
+[5]
+Approximately two years after the Review Tribunal dismissed the first application for
+CPP
+benefits, the respondent submitted a second application for benefits in January 2000, on the advice of an administrative official at the Review Tribunal instead of appealing the 1997 decision. The Minister denied the second claim for benefits both initially and on reconsideration. The respondent's appeal to a second Review Tribunal was dismissed on October 1, 2001. A new-fact rehearing before a third Review Tribunal was dismissed on March 25, 2002 (the 2002 decision). While the respondent sought leave to appeal this decision, the Federal Court of Appeal in
+Canada (Minister of Human Resources Development) v. Hogervorst
+, [2004] N.R. Uned. 208; 136 A.C.W.S.(3d) 148 (F.C.A.), held that the Appeals Board did not have jurisdiction to hear that matter.
+Relevant Legislation
+[6]
+The legislation relevant to this application is:
+1.
+Canada Pension Plan
+, R.S.C. 1985, c. C-8; and
+2.
+Pension Appeals Board Rules of Procedure (Benefits)
+, C.R.C., c. 390.
+The relevant excerpts of the legislation are set out in Appendix "A".
+Issues
+[7]
+The issue raised in this application is whether the Appeals Board erred in extending the time for bringing the respondent's appeal from the first Review Tribunal. Specifically, the Minister submits that the member erred:
+1. by failing to invite the Minister to file submissions prior to granting an extension of time and leave, and failing to provide reasons; and
+2. by failing to apply the correct legal test.
+Standard of Review
+[8]
+A decision of a designated member of the Appeals Board to extend time and to grant leave is discretionary. The Minister submits that the appropriate standard of review to assess the decision of a designated member of the Appeals Board is correctness on questions of law, patent unreasonableness on questions of fact, and reasonableness simpliciter on questions of mixed fact and law. The respondent, who is self-represented, did not make any submissions on to standard of review. With respect to the standard of review the Court agrees with the Minister and will review each issue in accordance with the applicable standard of review.
+Analysis
+Issue No. 1: Did the member err by failing to invite the Minister to file submissions prior to granting an extension of time and leave, and failing to provide reasons?
+[9]
+This issue is a question of law and the standard of review is correctness. Rule 7 of the
+Pension Appeals Board Rules of Procedure (Benefits)
+, C.R.C., c. 390, provides that applications for extension of time or for leave shall be heard ex parte, unless directed otherwise. The Minister concedes that the Appeals Board is the master of its own procedures but submits that the designated member erred in not inviting the Minister to make submissions in this case, by reason of the lengthy time delay and the respondent's submissions.
+[10]
+I do not agree. In
+Canada (Minister of Human Resources Development) v. Gattellaro
+, [2005] F.T.R. Uned. A29; 140 A.C.W.S.(3d) 576; 2005 FC 883, Justice Judith Snider of this Court held that whereas it is questionable whether the Appeals Board can reach a principled decision ex parte, receiving submissions from the Minister is not itself a procedural requirement the denial of which would amount to reviewable error. Justice Snider stated at FRAGMENT_SUPPRESSED
+[11]
+Nor do I agree with the Minister's submission that the Appeals Board erred by failing to provide reasons. Section 83(3) of the
+CPP
+obliges Appeals Board members to provide reasons when refusing leave to appeal. There is no statutory obligation requiring reasons when leave is granted. While a designated member may err by deciding a leave application on the basis of insufficient materials provided by an appellant, he does not err merely because he did not provide written reasons.
+[12]
+The Minister relies upon the Judgment of Madame Justice Eleanor Dawson in
+Canada (Minister of Human Resources Development) v. Roy
+(2005), 281 F.T.R. 198; 143 A.C.W.S.(3d) 414; 2005FC 1456,  for the principle that the Appeals Board member is obliged to provide reasons for granting leave. In that case, Justice Dawson held at paragraph 13 that:
+"... where there is nothing on the face of the record that suggests the judicial exercise of the discretion, it is incumbent upon the judicial officer to support the exercise of discretion with reasons."
+In the case at bar, the record shows that the applicant did not abandon her intention to pursue a disability pension for the seven year period, rather there was an initial period where there was no evidence of a continuing intention but then, upon consultation with administrative officers at the Review Tribunal, the applicant was advised to pursue a new application for a disability pension, rather than appeal the 1997 decision. This new application involved the applicant from January 24, 2000 until January 26, 2004 when the Federal Court of Appeal intervened on a point of law.
+[13]
+I will discuss below the facts in the record with respect to each criteria which must be considered and weighed in deciding whether to grant an extension of time. In my view, based on the facts in the record, the designated member of the Appeals Board was not required to provide reasons for the exercise of his discretion to grant an extension.
+Issue No. 2: Did the member err by failing to apply the correct legal test?
+[14]
+Section 83(1) provides that the limitation period in which to appeal a decision of a Review Tribunal expires 90 days after the decision is communicated to the appellant or within such longer period as the designated member allows. In this case, the respondent was granted an extension and leave to appeal seven years after the limitation period expired. The relevant criteria which must be weighed by a designated member deciding a leave application were articulated by Justice Snider in
+Gattellaro
+, above, and considered in recent decisions of this Court. (See
+Canada (Minister of Human Resources Development) v. Roy
+(2005), 143 A.C.W.S.(3d) 414 (F.C.), per Justice Eleanor Dawson, and
+Canada (Minister of Human Resources Development) v. de Tommaso
+(2005), 283 F.T.R. 229; 144 A.C.W.S.(3d) 158; 2005 FC 1531, per Justice Elizabeth Heneghan.) These cases are authority that the party must have a reasonable explanation for the delay and a continuing intention to appeal an arguable case where an extension would not prejudice the other side. In
+Gattellaro
+, above, Justice Snider stated at paragraph 9:
+"¶ 9 Jurisprudence relied on by the Minister (
+Grewal v. Canada (Minister of Employment and Immigration)
+, [1985] 2 F.C. 263 (F.C.A.);
+Baksa v. Neis (c.o.b. Brookside Transport)
+, [2002] F.C.J. No. 832), has established that the following criteria must be considered and weighed:
+1. A continuing intention to pursue the application or appeal;
+2. The matter discloses an arguable case;
+3. There is a reasonable explanation for the delay; and
+4. There is no prejudice to the other party in allowing the extension."
+[15]
+Given that the designated member did not issue reasons in granting leave to appeal, the Court must be satisfied that all four "leave criteria" are disclosed on the record. In reviewing the criteria, the Court concludes that the appropriate standard of review is reasonableness simpliciter because these questions involve mixed questions of fact and law.
+(a) Continuing intention
+[16]
+The evidence before the Appeals Board is that the respondent approached the Review Tribunal about an appeal and was advised to file a second application for a disability pension, which she did on January 24, 2000. This second application involved activity before two further Review Tribunals, the Pension Appeals Board and the Federal Court of Appeal. The question for the designated member of the Pension Appeals Board is whether the advice from the Review Tribunal to file a second application, rather than appealing the first decision of the Review Tribunal, is demonstrative of a continuing intention to pursue the claim. The record discloses that the respondent was told that she can both appeal the Review Tribunal decision and file a new application for a disability pension, but the latter is less expensive. The respondent is self-represented because of a lack of resources, and it is understandable that she would have chosen to have filed a new application to avoid extra expense. In my view, it was reasonably open for the designated member of the Pension Appeals Board to find a "continuing intention". On the pure question of fact, the record shows a continuing intention to appeal but the respondent was advised to file a new application to accomplish the same result.
+(b) Arguable Case
+[17]
+The record before the Court demonstrates that the respondent has a strong prima facie case that she is disabled with a severe and prolonged physical disability which makes her incapable of regularly pursuing any substantial gainful occupation and that this disability is likely to be of an indefinite duration. See s. 42(2) of the
+CPP
+attached. This is a finding of fact.
+(c) Reasonable explanation provided for delay
+[18]
+The reasonable explanation provided for the delay is as explained above, and again is a finding of fact.
+(d) No prejudice
+[19]
+There is no evidence on the record that the Minister would be prejudiced if the extension is allowed. The appeal of the 1997 Review Tribunal decision will be based on evidence on the record with respect to her condition as reported in 1997, and as subsequently reported in the medical evidence on the record.
+Conclusion on legal test for granting an extension
+[20]
+In these circumstances, I conclude that it was reasonably open on the evidence before the designated member of the Appeals Board to find that the relevant criteria existed for an extension of time.
+In Obiter
+[21]
+The Court notes that the respondent, Joy Hogervorst, has been dependant upon her husband for preparing all of the documentation with respect to her application for a disability pension, her appeals to the Review Tribunal, the Pension Appeals Board and the Federal Court of Appeal. It strikes the Court that an unrepresented person like the respondent deserves some leeway in terms of complying with the complex appeal procedures under the
+CPP
+.
+[22]
+Under the
+CPP
+, the respondent may, at this time, ask the 1997 Review Tribunal to rescind or amend its decision on the basis of new facts. The new facts are Ms. Hogervorst's present medical condition which may prove that she was disabled with a serious illness in 1997.
+[23]
+Section 84(2) of the
+Canada Pension Plan
+reads:
+"The Minister, a Review Tribunal or the Pension Appeals Board may, notwithstanding subsection (1), on new facts, rescind or amend the decision under this Act given by him, the Tribunal, or the Board, as the case may be."
+Parliament has used language which does not limit the time period within which the Review Tribunal can rescind or amend its decision when new facts demonstrate that the person was truly disabled. In this case, the respondent could submit updated medical information with a request that the 1997 Review Tribunal rescind or amend its decision on the basis of the new facts, namely her medical condition in 2006, may conclusively prove that the respondent was disabled in 1997, and not misrepresenting her condition.
+[24]
+I raised this procedure with counsel for the applicant and counsel for the applicant agreed that this procedure is open to the respondent. Accordingly, the respondent should send a letter to the Review Tribunal asking that it rescind or amend its decision from 1997 on the basis of the new facts, which are the current medical condition of the applicant which may conclusively show, with hindsight, that the respondent was disabled in 1997. Fortunately Parliament has left open the possibility of allowing the Review Tribunal to be a "Monday morning quarterback", and review its decision based on new facts which may demonstrate that its 1997 decision was incorrect. This is not to say that the appeal of the decision to the Pension Appeals Board should not proceed in parallel.
+Conclusion
+[25]
+For these reasons, the Court concludes that:
+1. the record is such that the designated member of the Appeals Board did not err in failing to provide reasons for granting the extension;
+2. the designated member of the Appeals Board has broad judicial discretion to decide if the evidence meets the criteria for an extension; and
+3. the facts on the record reasonably support the four criteria for granting an extension; and
+4. the respondent can, in parallel with the appeal, ask the 1997 Review Tribunal to rescind or amend its decision on the basis of new facts as discussed in these Reasons.
+Costs
+[26]
+Since the respondent was not represented by counsel, the legal costs would be all reasonable disbursements.
+JUDGMENT
+[27]
+THIS COURT ORDERS that:
+The application for judicial review is dismissed with costs to the Respondent, Ms. Joy Hogervorst.
+Application dismissed.
+Editor: Angela E. McKay/gs
+APPENDIX "A"
+1. Canada Pension Plan, R.S.C. 1985, c. C-8
+"PART II
+PENSIONS AND SUPPLEMENTARY BENEFITS
+Interpretation
+42. [ ... ]
+When person deemed disabled
+"(2) For the purposes of this Act,
+(a) a person shall be considered to be disabled only if he is determined in prescribed manner to have a severe and prolonged mental or physical disability, and for the purposes of this paragraph,
+(i) a disability is severe only if by reason thereof the person in respect of whom the determination is made is incapable regularly of pursuing any substantially gainful occupation, and
+(ii) a disability is prolonged only if it is determined in prescribed manner that the disability is likely to be long continued and of indefinite duration or is likely to result in death; and
+(b) a person shall be deemed to have become or to have ceased to be disabled at such time as is determined in the prescribed manner to be the time when the person became or ceased to be, as the case may be, disabled, but in no case shall a person be deemed to have become disabled earlier than fifteen months before the time of the making of any application in respect of which the determination is made.
+. . . . .
+Appeal to Pension Appeals Board
+"83(1) A party or, subject to the regulations, any person on behalf thereof, or the Minister, if dissatisfied with a decision of a Review Tribunal made under s. 82, other than a decision made in respect of an appeal referred to in subsection 28(1) of the Old Age Security
+Act
+, or under subsection 84(2), may, within ninety days after the day on which that decision was communicated to the party or Minister, or within such longer period as the Chairman or Vice-Chairman of the Pension Appeals Board may either before or after the expiration of those ninety days allow, apply in writing to the Chairman or Vice-Chairman for leave to appeal that decision to the Pension Appeals Board.
+Decision of Chairman or Vice-Chairman
+"(2) The Chairman or Vice-Chairman of the Pension Appeals Board shall, forthwith after receiving an application for leave to appeal to the Pension Appeals Board, either grant or refuse that leave.
+Designation
+"(2.1) The Chairman or Vice-Chairman of the Pension Appeals Board may designate any member or temporary member of the Pension Appeals Board to exercise the powers or perform the duties referred to in subsection (1) or (2).
+Where leave refused
+"(3) Where leave to appeal is refused, written reasons must be given by the person who refused the leave.
+. . . . .
+"84. [ ... ]
+Rescission or amendment of decision
+"(2) The Minister, a Review Tribunal or the Pension Appeals Board may, notwithstanding subsection (1), on new facts, rescind or amend a decision under this Act given by him, the Tribunal or the Board, as the case may be."
+"PARTIE II
+PENSIONS ET PRESTATIONS SUPPLÉMENTAIRES
+Définitions et interprétation
+"42. [ ... ]
+Personne déclarée invalide
+"(2) Pour l'application de la présente loi:
+a) une personne n'est considérée comme invalide que si elle est déclarée, de la manière prescrite, atteinte d'une invalidité physique ou mentale grave et prolongée, et pour l'application du présent alinéa :
+(i) une invalidité n'est grave que si elle rend la personne à laquelle se rapporte la déclaration régulièrement incapable de détenir une occupation véritablement rémunératrice,
+(ii) une invalidité n'est prolongée que si elle est déclarée, de la manière prescrite, devoir vraisemblablement durer pendant une période longue, continue et indéfinie ou devoir entraîner vraisemblablement le décès;
+b) une personne est réputée être devenue ou avoir cessé d'être invalide à la date qui est déterminée, de la manière prescrite, être celle où elle est devenue ou a cessé d'être, selon le cas, invalide, mais en aucun cas une personne n'est réputée être devenue invalide à une date antérieure de plus de quinze mois à la date de la présentation d'une demande à l'égard de laquelle la détermination a été établie.
+. . . . .
+Appel à la Commission d'appel des pensions
+"83(1) La personne qui se croit lésée par une décision du tribunal de révision rendue en application de l'article 82 - autre qu'une décision portant sur l'appel prévu au paragraphe 28(1) de la Loi sur la sécurité de la vieillesse - ou du paragraphe 84(2), ou, sous réserve des règlements, quiconque de sa part, de même que le ministre, peuvent présenter, soit dans les quatre-vingt-dix jours suivant le jour où la décision du tribunal de révision est transmise à la personne ou au ministre, soit dans tel délai plus long qu'autorise le président ou le vice-président de la Commission d'appel des pensions avant ou après l'expiration de ces quatre-vingt-dix jours, une demande écrite au président ou au vice-président de la Commission d'appel des pensions, afin d'obtenir la permission d'interjeter un appel de la décision du tribunal de révision auprès de la Commission.
+Décision du président ou du vice-président
+"(2) Sans délai suivant la réception d'une demande d'interjeter un appel auprès de la Commission d'appel des pensions, le président ou le vice-président de la Commission doit soit accorder, soit refuser cette permission.
+Désignation
+"(2.1) Le président ou le vice-président de la Commission d'appel des pensions peut désigner un membre ou membre suppléant de celle-ci pour l'exercice des pouvoirs et fonctions visés aux paragraphes (1) ou (2).
+Permission refusée
+"(3) La personne qui refuse l'autorisation d'interjeter appel en donne par écrit les motifs.
+. . . . .
+"84. [ ... ]
+Annulation ou modification de la décision
+"(2) Indépendamment du paragraphe (1), le ministre, un tribunal de révision ou la Commission d'appel des pensions peut, en se fondant sur des faits nouveaux, annuler ou modifier une décision qu'il a lui-même rendue ou qu'elle a elle-même rendue conformément à la présente loi."
+2. Pension Appeals Board Rules of Procedure (Benefits), C.R.C., c. 390
+"APPLICATION FOR LEAVE TO APPEAL
+"4. An appeal from a decision of a Review Tribunal shall be commenced by serving on the Chairman or Vice-Chairman an application for leave to appeal, which shall be substantially in the form set out in Schedule I and shall contain
+(a) the date of the decision of the Review Tribunal, the name of the place at which the decision was rendered and the date on which the decision was communicated to the appellant;
+(b) the full name and postal address of the appellant;
+(c) the name of an agent or representative, if any, on whom service of documents may be made, and his full postal address;
+(d) the grounds upon which the appellant relies to obtain leave to appeal; and
+(e) a statement of the allegations of fact, including any reference to the statutory provisions and constitutional provisions, reasons the appellant intends to submit and documentary evidence the appellant intends to rely on in support of the appeal.
+EXTENSION OF TIME
+"5. An application for an extension of time within which to apply for leave to appeal a decision of a Review Tribunal shall be served on the Chairman or Vice-Chairman and shall set out the information required by paragraphs 4(a) to (e) and the grounds on which the extension is sought.
+. . . . .
+DISPOSITION OF APPLICATIONS
+"7. An application under s. 4 or 5 shall be disposed of ex parte, unless the Chairman or Vice-Chairman otherwise directs."
+"DEMANDE D'AUTORISATION D'INTERJETER APPEL
+"4. L'appel de la décision d'un tribunal de révision est interjeté par la signification au président ou au vice-président d'une demande d'autorisation d'interjeter appel, conforme en substance à l'annexe I, qui indique:
+a) la date de la décision du tribunal de révision, le nom de l'endroit où cette décision a été rendue et la date à laquelle la décision a été transmise à l'appelant;
+b) les nom et prénoms ainsi que l'adresse postale complète de l'appelant;
+c) le cas échéant, le nom et l'adresse postale complète d'un mandataire ou d'un représentant auquel des documents peuvent être signifiés;
+d) les motifs invoqués pour obtenir l'autorisation d'interjeter appel; et
+e) un exposé des faits allégués, y compris tout renvoi aux dispositions législatives et constitutionnelles, les motifs que l'appelant entend invoquer ainsi que les preuves documentaires qu'il entend présenter à l'appui de l'appel.
+PROROGATION DU DÉLAI
+"5. La demande de prorogation du délai imparti pour demander l'autorisation d'interjeter appel de la décision d'un tribunal de révision est signifiée au président ou au vice-président et contient les renseignements visés aux alinéas 4a) à e) et un exposé des motifs sur lesquels elle est fondée.
+. . . . .
+RÈGLEMENT DES DEMANDES
+"7. Il est statué ex parte sur les demandes visées aux articles 4 ou 5, à moins que le président ou le vice-président n'en décide autrement."
+[End of document]

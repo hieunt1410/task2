@@ -1,0 +1,7 @@
+[7]
+In Weniuk v. Weniuk & Wometco (B.C.) Limited, [1984] 2 F.C. 464 (F.C.T.D.), Mr. Justice Muldoon held that s. 56(1) of the Federal Court Act could be employed as a method of invoking the transprovincial jurisdiction of the Federal Court to compensate for the limited territorial jurisdiction of provincial superior courts in the enforcement of a federal statute. The judgment creditor relies on this case to argue that s. 56(1) should enable the Federal Court to resort by analogy to the Support and Custody Enforcement Act of Ontario which provides that garnishment can issue against the Crown. However, there are clear limitations on the possible applications of s. 56(1). As Mr. Justice Muldoon stated in Weniuk at pages 469 and 470:
+"Of course the detailed provisions of the provincial legislation cannot be followed precisely. They must be adapted rather than adopted because of the frequent divergence of provincial procedures, offices and institutions from those available to the Trial Division of this court. Indeed, section 56 of the Federal Court Act permits the court to 'issue process ... of the same
+tenor
+and
+effect
+as those that may be issued out of ... the superior courts of the province in which any ... order is to be executed'; (emphasis added): it does not exact the very same process in every respect."

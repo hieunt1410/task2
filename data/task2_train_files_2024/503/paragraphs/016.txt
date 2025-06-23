@@ -1,0 +1,12 @@
+[16]
+In
+Nolan v. Canada (Attorney General)
+(2005), 279 F.T.R. 311; 2005 FC 1305, Mr. Justice Conrad von Finckenstein cited decisions of Justice Simon Noël and Justice John Evans who held that patent unreasonableness is the appropriate standard to review the issue of the Board's weighing or interpretation of medical evidence. The Court held at paragraph 10:
+"¶ 10 It is well established that the standard of review for reconsideration by the Board is patent unreasonableness. As stated in
+Caswell v. Canada (Attorney General)
+, [2004] F.C.J. No. 1655, by Noël, J., at paragraph 17:
+'Both parties to this action were in agreement that the standard of review to be applied by this Court to decisions of the Veteran Review and Appeal Board is that of patent unreasonableness. This is in accordance with previous decisions of this Court and of the Federal Court of Appeal; e.g.,
+McTague v. Canada (Attorney General)
+, [2000] 1 F.C. 647, at paras. 46-47 (T.D.):
+"[P] atent unreasonableness is applicable when the issue in dispute is the Board's weighing or interpretation of often conflicting or inconclusive medical evidence and determining from it whether the claimant's disability was in fact caused or aggravated by military service. [...]"
+'Factual determinations of this nature are at the very heart of the specialized jurisdiction of the Board. Considerations of cost effectiveness and relative institutional competence call for maximum curial deference to findings of fact.'"

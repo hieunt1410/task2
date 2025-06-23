@@ -1,0 +1,725 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conocophillips Can. Resources v. MNR (2013), 443 F.T.R. 221 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2013] F.T.R. TBEd. NO.046 
+ 
+ 
+ 
+ Conocophillips Canada Resources Corp. (applicant) v. Minister of National Revenue (respondent) 
+ 
+ (T-1666-10; 2013 FC 1192; 2013 CF 1192) 
+ 
+ 
+ 
+ Indexed As: Conocophillips Canada Resources Corp. v. Minister of National Revenue 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Campbell, J. 
+ 
+ November 26, 2013. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Conocophillips Canada Resources Corp. (Conoco) was one of several oil and gas companies participating in the Syncrude Project in Alberta with respect to royalties on the production of non-renewable resources. On April 14, 2012, members of Conoco's tax group learned that a notice of reassessment respecting Conoco's taxation year ending November 30, 2000, had been purportedly mailed by the Minister of National Revenue on November 7, 2008. On May 3, 2010, the Minister's officials supplied Conoco with a copy of the assessment dated April 26, 2010, which bore a "date of mailing" notation of November 7, 2008. By letter dated June 7, 2010, Conoco served the Minister with a notice of objection. The Minister informed Conoco that, because the objection was not served within 90 days of the mailing of the assessment, and because no request for an extension of time to do so was made within the following year, the objection was rejected. Conoco applied to set aside the Minister's rejection of its objection. 
+ 
+ 
+ 
+ The Federal Court allowed the application. 
+ 
+ 
+ 
+ Administrative Law - Topic 487 
+ 
+ The hearing and decision - The tribunal - "He who decides must hear" - In 2012, Conocophillips Canada Resources Corp. (Conoco) learned that a notice of reassessment respecting its taxation year ending November 30, 2000, had been purportedly mailed on November 7, 2008 - On May 3, 2010, the Minister's officials supplied Conoco with a copy of the assessment dated April 26, 2010, which bore a "date of mailing" notation of November 7, 2008 - By letter dated June 7, 2010, Conoco served the Minister with a notice of objection - Upon receipt of the letter, one official (Tse) asked a second official (McGregor) to prepare an analysis - McGregor produced a draft letter of response and an analysis with reference to internal documents - McGregor generated the misunderstanding that Conoco was requesting an extension of time - Tse briefed the Minister's delegate (Kassam) on the analysis and letter - McGregor signed the letter, denying an extension of time - Conoco requested Kassam to reconsider his assessment, pointing out that it had not requested an extension as one was not required since the notice of objection had been filed within 90 days of May 3, 2010 - Kassam replied, advising that the objection was out of time and an extension could not be granted - The Federal Court set aside the decision - Kassam had not been sufficiently engaged so as to form an independent opinion of the evidence and, therefore, he placed full reliance on Tse's opinions - There was no evidence of how Tse reached her opinions, what they were or what she said to Kassam - There was no transparent and intelligible justification for Kassam's finding that the assessment was mailed - The decision was not reasonable - See paragraphs 20 to 27. 
+ 
+ 
+ 
+ Courts - Topic 4049 
+ 
+ Federal Court of Canada - Jurisdiction - Federal Court - Income tax matters - In 2012, Conocophillips Canada Resources Corp. (Conoco) learned that a notice of reassessment respecting its taxation year ending November 30, 2000, had been purportedly mailed by the Minister of National Revenue on November 7, 2008 - On May 3, 2010, the Minister's officials supplied Conoco with a copy of the assessment dated April 26, 2010, which bore a "date of mailing" notation of November 7, 2008 - By letter dated June 7, 2010, Conoco served the Minister with a notice of objection - The Minister rejected the notice of objection - Conoco applied for judicial review - The Minister asserted that the court lacked jurisdiction to consider the "legal efficacy" of a notice of reassessment which was a matter to be determined by the Tax Court in an income tax appeal - The Minister also asserted that the core of the application was the validity of the assessment which fell within the Tax Court's exclusive jurisdiction - The Federal Court held that it had jurisdiction - The conditions precedent for an appeal to the Tax Court under s. 169(1)(b) of the Income Tax Act did not exist - As for the jurisdiction to consider the legal efficacy of the notice, the court would not be determining whether the assessment had the capacity of producing the legal result denied by the Minister - See paragraphs 6 to 9. 
+ 
+ 
+ 
+ Income Tax - Topic 7861 
+ 
+ Returns, assessments, payments and appeals - Objections - General - [See  
+ Administrative Law - Topic 487 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 8004 
+ 
+ Returns, assessments, payment and appeals - Appeals to courts - General - Federal Court - Jurisdiction - [See  
+ Courts - Topic 4049 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ JP Morgan Asset Management (Canada) Inc. v. Minister of National Revenue et al. (2013), 450 N.R. 91; 2013 FCA 250, refd to. [para. 6]. 
+ 
+ Chopra v. Canada (Treasury Board) et al. (1999), 168 F.T.R. 273 (T.D.), refd to. [para. 15]. 
+ 
+ Via Rail Canada Inc. v. Canadian Human Rights Commission et al., [1998] 1 F.C. 376; 135 F.T.R. 214 (T.D.), refd to. [para. 15]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Al Meghji, Martha MacDonald and Brynne Harding, for the applicant; 
+ 
+ Josee Tremblay and Shane Aikat, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Osler, Hoskin & Harcourt LLP, Toronto, Ontario, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard at Calgary, Alberta, on November 14, 2013, by Campbell, J., of the Federal Court, who delivered the following reasons for order on November 26, 2013. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Campbell, J. 
+ : The present judicial review Application concerns a vitally important disagreement which arose in the context of a history of a taxation debate between the Applicant (Conoco), being one of several oil and gas companies participating in the Syncrude Project in Alberta, and the Respondent (Minister) with respect to royalties on the production of non-renewable resources. The present Application is centred on a course of conduct between Conoco and the Minister in 2010 that I find is able to be determined without a full rendition of the history. 
+ 
+ 
+ 
+ [2] 
+  The disagreement is about whether the Minister sent a Notice of Reassessment by mail to Conoco. The Minister found that the Notice of Reassessment was mailed; Conoco takes the position that the Minister failed to prove the mailing. The Minister's factual finding has serious legal consequences. In play in the present Application are three statutory time-line provisions of the  
+ Income Tax Act, 
+  R.S.C., 1985, c.1, (5th Supp.) ( 
+ Act 
+ ): the limitation period for serving the Minister with a notice of objection to a notice of reassessment is "on or before the day that is 90 days after the day of sending the notice of assessment (s. 165(1)); where the Minister sends a notice of reassessment by mail, the notice is "presumed to be mailed ... on the date of that notice (s. 244(14)); and with respect to receipt, the notice of reassessment "shall be deemed to have been received by the person to whom it was sent on the day it was mailed (s.248(7)(a)). 
+ 
+ 
+ 
+ [3] 
+  A précis of the uncontested events which ground the present Application is as follows: on April 14, 2010, members of Conoco's tax group first learned from the Minister's officials that a Notice of Reassessment with respect to Conoco's taxation year ending November 30, 2000 (Assessment) was purportedly mailed by the Minister to Conoco on November 7, 2008; on May 3, 2010, the Minister's officials supplied Conoco with a copy of the Assessment dated April 26, 2010 which bears a "date of mailing" notation of November 7, 2008; as a result, by way of letter dated June 7, 2010, Conoco served the Minister with a Notice of Objection to the Assessment (Objection); in response to the service of the Objection on the Minister, by letters dated September 15, 2010 and October 12, 2010, the Minister informed Conoco that, because the Objection was not served within 90 days of the mailing of the Assessment, and because no request for an extension of time to do so was made within the following year, being before February 5, 2010, the Objection was rejected. (Decision). 
+ 
+ 
+ 
+ [4] 
+  During the course of the hearing of the present Application, Counsel for Conoco confirmed that Conoco's purpose in bringing the present Application is to have the Minister's rejection of the Objection set aside, thus removing the bar established by the Minister for not considering the merits of Conoco's Objection, with the result that if Conoco disagrees with the Minister's consideration of the Objection it will have the right to appeal that consideration to the Tax Court of Canada. The primary issue for determination is whether the Minister's decision to reject the Objection was reasonable, and in reaching this determination, the key issue is whether the Minister's finding that the Assessment was mailed on November 7, 2008 is substantiated on the evidence. 
+ 
+ 
+ 
+ [5] 
+  Counsel for the Minister makes two arguments in opposition to the relief sought in the present Application: this Court has no jurisdiction to hear and determine the Application because its subject matter is within the exclusive jurisdiction of the Tax Court of Canada (Tax Court); and, in any event, the Minister's decision was reasonable. For the reasons that follow, I do not accept either argument. 
+ 
+ 
+ 
+ I. Is the Application within the Federal Court's Jurisdiction? 
+ 
+ 
+ 
+ [6] 
+  It is common ground that judicial review in this Court is available provided the matter is not otherwise appealable in the Tax Court ( 
+ Minister of National Revenue - M.N.R.) v. JP Morgan Asset Management (Canada) Inc. 
+ , 2013 FCA 250 at paragraph 81). 
+ 
+ 
+ 
+ [7] 
+  Counsel for the Minister argues that this Court has no jurisdiction to consider the "legal efficacy" of a notice of reassessment which is a matter to be determined by the Tax Court in an income tax appeal, and also argues that at the core of the present Application is the validity of the Assessment which falls within the exclusive jurisdiction of the Tax Court (Respondent's Memorandum of Fact and Law, paras. 4 and 46). Counsel for the Minister makes the following statement about what Conoco should have done rather than bring the present Application: 
+ 
+ 
+ 
+ If the applicant is correct and that its notice of objection is valid, it should have filed a notice of appeal before the Tax Court of Canada and demonstrated the validity of the same in that forum. It could have done so pursuant to s. 169(1)(b) of the  
+ Act 
+ . In the course of that proceeding, the validity of the notice of objection, including a determination of whether a notice of reassessment was sent, would be made. This application should be dismissed on the basis that this Court does not have the jurisdiction to determine the validity of the notice of objection or the notice of reassessment. 
+ 
+ 
+ 
+ (Respondent's Memorandum of Fact and Law, para. 51) 
+ 
+ 
+ 
+ [8] 
+  Counsel for the Applicant argues that no right of appeal exists to the Tax Court with respect to the unique circumstances of the present case. I agree with this argument. First, s. 169(1)(b) of the  
+ Act 
+ does not apply to the present circumstances because the conditions precedents do not exist. The provision allows a taxpayer to appeal an assessment to the Tax Court to vary or vacate an assessment  
+ after 
+  either the Minister has confirmed the assessment or reassessed, or 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed. 
+ 
+ 
+ 
+ [9] 
+  With regard to Counsel for the Minister's point that this Court has no jurisdiction to consider the "legal efficacy" of a notice of reassessment, in deciding the present Application no attempt will be made to determine whether the Assessment has the capacity of producing the legal result desired by the Minister. As set out above, the purpose of the present Application is not to challenge the validity of the Assessment but to remove the Decision that is an obstacle placed in Conoco's path towards a proper consideration by the Minister of its Objection. I find that the present Application is within the jurisdiction of this Court and Conoco has no other access to justice besides the filing of the present Application. 
+ 
+ 
+ 
+ II.  
+ The Content of the Decision Under Review 
+ 
+ 
+ 
+ [10] 
+  On June 7, 2010, Ms. Lynn Moen, Director of Taxation for Conoco, sent the Objection to the Assessment for service by courier together with a letter explaining some of the background relating to the November 30, 2000 taxation year, and how Conoco learned of the Assessment. The letter ended with the following statement: 
+ 
+ 
+ 
+ In light of our receipt of the Notice of Reassessment dated April 26, 2010, we are filing this objection within the 90 day objection period. We kindly request copies of the audit report (including attachments thereto, all notes, memoranda, etc. relating to all matters in the Notice of Reassessment dated April 26, 2010. Thank you for your assistance. 
+ 
+ 
+ 
+ (Applicant's Record, Volume 1 of 2, Tab 2E, p. 51) 
+ 
+ 
+ 
+ It is Ms. Moen's letter that instigated the Minister's decision-making under review. 
+ 
+ 
+ 
+ [11] 
+  In answer to Ms. Moen's letter, by letter dated September 15, 2010, a delegate of the Minister, Mr. Alnoor Kassam, Chief of Appeals, Calgary Tax Services Office, Canada Revenue Agency, made the following assessment: 
+ 
+ 
+ 
+ Re: Application for extension of time to file an objection for the November 30, 2000 Taxation year 
+ 
+ 
+ 
+ In response to your request for an extension of time to file a notice of objection with respect to the 2000 taxation year, we are writing to inform you that we cannot grant your application on the following basis: 
+ 
+ 
+ 
+ 1. Section 165 of the Act provides that a notice of objection shall be served on the Minister within 90 days of the day of mailing the notice of reassessment. Section 166.1 of the Act circumscribes the Minister's power to grant an extension of time to file an objection outside the limitation period provided under section 165. Subsection 166.1 (7) expressly prohibits the Minister to grant an extension of time, if one year and 90 days has elapsed since the day of mailing the notice of reassessment. 
+ 
+ 
+ 
+ Your application was not made within one year after the expiration of the time otherwise permitted for filing an objection. The latest reassessment date is November 7, 2008. At the time of the reassessment you would have had 90 days to file a Notice of Objection. Paragraph 166.1(7)(a) allows you to apply for an extension of time to file a notice of objection within one year following the expiration of the 90 days. In your case, the latest date available would have been February 5, 2010. 
+ 
+ 
+ 
+ A number of court cases have upheld this decision. One of the most recent being  
+ Garry Moon v The Queen 
+  (2010 TCC 393). 
+ 
+ 
+ 
+ In addition to paragraph 166.1 (7)(a) requiring the application to made within one year after the normal time limit to object, paragraph 166.1 (7)(b) sets out other criteria that must also be met. 
+ 
+ 
+ 
+ 2. In your letter dated June 15, 2010, you indicated that at no time did you receive a Notice of Reassessment or T7WC for the November 30, 2000 taxation year. We are able to trace through our internal mail system that the Notice of Reassessment was sent out on November 30, 2000 [sic: November 7, 2008]. 
+ 
+ 
+ 
+ We have also obtained copies of audit's letter dated May 17, 2008 indicating that the GMS allocation adjustment has been forwarded to Winnipeg for processing. A copy is attached for your records. 
+ 
+ 
+ 
+ It should be noted that the Tax Court in  
+ Austin v Queen 
+  (2010 TCC 452) indicated that it is well established that a notice of assessment is validly sent if it has been mailed to the taxpayer. 
+ 
+ 
+ 
+ Accordingly, the Minister cannot extend the time in the present case. The Minister can only exercise the powers that are granted to him by law. If you have any questions please contact the writer at the above noted number. 
+ 
+ 
+ 
+ (Respondent's Record, Vol. I of II, Tab 1C) 
+ 
+ 
+ 
+ [12] 
+  By letter dated September 23, 2010, Counsel for Conoco requested Mr. Kassam to reconsider his assessment: 
+ 
+ 
+ 
+ As a starting point your letter states that you deny Conoco' s request for an extension of time to serve a Notice of Objection (the "Objection"). However, Conoco has not requested an extension of time. No extension is necessary. Conoco filed the Objection on June 6, 2010 in respect of a Notice of Reassessment provided to Conoco by the CRA on or about May 3, 2010 (the "Assessment"). Although the Assessment bears the date of November 7, 2008, for reasons outlined below, the statutory presumption that the Assessment was mailed on such date does not apply in this case. The Objection was validly served within 90 days of the date on which the Assessment was provided to the taxpayer. It is our position that as things now stand the Minister has the obligation and the power to consider and then vacate, confirm or vary the Assessment. The issue is whether the statutory presumption that the Assessment was mailed on November 7, 2008 is supported by the facts and circumstances. Conoco says it is not and that a properly instructed Court will so find. 
+ 
+ 
+ 
+ The Statutory Presumption in Respect of Mailing 
+ 
+ 
+ 
+ Taxpayers are entitled under Act [sic] to serve on the Minister a Notice of Objection within 90 days "after the day of mailing of the notice of assessment". As such, after an assessment is mailed, a taxpayer has 90 days to serve the Minister with a Notice of Objection. The "date of mailing" of an assessment is subject to the following statutory presumption: 
+ 
+ 
+ 
+ 244(14) Mailing date - For the purposes of this Act, where [ ...] any notice of assessment or determination is mailed, it shall be presumed to be mailed on the date of that notice or notification. 
+ 
+ 
+ 
+ The date of mailing is "presumed", rather than "deemed". This drafting creates a rebuttable presumption. For example, in  
+ Hughes v. Minister of National Revenue 
+  the Court was "satisfied that there is sufficient evidence to rebut the presumption created by subsection 244(14) concerning the mailing date of the notice of assessment. The Court in Hughes held that the assessment was in fact mailed at a date later than the date stated on the assessment. 
+ 
+ 
+ 
+ The Statutory Presumption is Rebutted in this Case 
+ 
+ 
+ 
+ On May 3, 2010, Conoco received a copy of a Notice of Reassessment bearing the date "November 7, 2008". Subsequently, on May 28, 2010, Conoco received a cover letter bearing the date "May 17, 2008" which attached a T7W-C related to the Assessment (together, the "T7W-C"). As a result of subsection 244(14) of the Act, there is a rebuttable presumption that the Assessment was mailed on November 7, 2008. The compelling evidence which rebuts this presumption includes: 
+ 
+ 
+ 
+ 1. The Assessment bears the correct address for Conoco. If the Assessment, which imposes a liability in excess of $4.6 million, was mailed to Conoco, it would have been brought to the then Tax Director, Mr. Tim Bryant. Mr. Bryant's files are well organized. A thorough search was conducted of Mr. Bryant's files and there is no record of the Assessment. Further, Mr. Bryant is prepared to swear an affidavit that speaks to his diligent record-keeping and which confirms that he had no knowledge of the Assessment prior to May 3, 2010. The absence of any knowledge of the Assessment by the then Tax Director is consistent with the Assessment not being mailed in 2008. 
+ 
+ 
+ 
+ 2. It is standard practice at Conoco for documents received from the CRA to be opened, date stamped and filed. A thorough search was conducted and no copy of the Assessment was located at Conoco. The absence of any record of the Assessment at Conoco prior to 2010 is consistent with the Assessment not being mailed in 2008. 
+ 
+ 
+ 
+ 3. It has been common practice in recent years for the CRA to meet with Conoco shortly before issuing a reassessment in order to discuss discretionary deductions in light of the pending reassessment. No such meeting occurred (or was proposed) in connection with the Assessment. The absence of any meeting with respect to discretionary deductions is consistent with the Assessment not being mailed in 2008. 
+ 
+ 
+ 
+ 4. The current Tax Director of Conoco, Ms. Lynn Moen, is prepared to swear an affidavit describing the diligent record keeping practices of Conoco and the absence of any records that indicate the Assessment was mailed to Conoco in 2008. Such affidavit would further confirm that the first time the Conoco tax department was informed of the Assessment was in a meeting with the CRA on April 14, 2010, followed by the receipt of a reproduced copy of the Assessment by mail on May 3, 2010, and receipt of a reproduced copy of the T7W-C on May 28, 2010. The absence of any awareness of the Assessment by the Conoco tax department prior to April 2010 is consistent with the CRA not mailing the Assessment or 17W-C in 2008. 
+ 
+ 
+ 
+ 5. It is regular practice for CRA Collections to contact Conoco regarding payment of amounts assessed under a new reassessment, in many cases even before Conoco has received a reassessment. In this case, there was no contact from CRA Collections in respect of the Assessment in 2008 or 2009. The absence of any contact from CRA Collections in connection with the Assessment (which imposes a significant liability against a large corporation that is subject to enhanced collection procedures under 225.1(7) of the Act) is consistent with the Assessment not being mailed in 2008. 
+ 
+ 
+ 
+ 6. The T7W-C was addressed to be sent to the attention of the then Tax Director of Conoco, Mr. Tim Bryant. A thorough search was conducted of Mr. Bryant's files and there is no record of the T7W-C. The absence of the T7W-C in Mr. Bryant's Jiles in [sic] consistent with the CRA not mailing either the T7W-C or the Assessment in 2008. 
+ 
+ 
+ 
+ 7. The T7W-C is also identified as being copied to Brett Wickerson, a member of the Conoco tax department. A thorough search was conducted of Mr. Wickerson's files and there is no record of the T7W-C, nor is there any record to indicate that the T7W-C was ever mailed by the CRA. The absence of the T7W-C in Mr. Wickerson 's files is consistent with the CRA not mailing either the T7W-C or the Assessment in 2008. 
+ 
+ 
+ 
+ 8. The CRA has not produced an original copy of Assessment, only a print out marked "reproduction" of a record stored on a CRA computer. Further, the CRA has not produced a signed copy of the T7W-C, only a print out of an unsigned record stored on a CRA computer. The absence of any evidence that either the Assessment or the T7W-C were mailed in 2008 further suggests that the Assessment was not mailed in 2008. 
+ 
+ 
+ 
+ 9. As a large taxpayer, Conoco has a Large File Case Manager assigned and has almost daily contact with CRA auditors, in person, by phone and through correspondence. CRA officers regularly attend Conoco's offices. Prior to April 2010, at no time did anyone from the CRA indicate that the Assessment had in fact been issued. Had the CRA mailed the Assessment in 2008, at some point prior to April 2010, such Assessment would have been mentioned by one of the team of CRA officers assigned to Conoco. CRA silence with respect to the Assessment prior to April 2010 strongly points to the conclusion that the Assessment was not mailed in 2008. 
+ 
+ 
+ 
+ Conoco did not receive the Assessment or the T7W-C in 2008. The CRA did not act in a manner consistent with the Assessment being mailed to Conoco: (i) there was no meeting regarding discretionary deductions; (ii) CRA Collections did not contact Conoco; and (iii) CRA was silent with respect to the Assessment. In light of these facts, and in the absence of any evidence that the Assessment was in fact mailed by the CRA in 2008, the logical inference to be drawn is that the CRA did not mail the Assessment in 2008. 
+ 
+ 
+ 
+ Based on the facts, the presumption in subsection 244(14) does not apply. The only evidence of the CRA mailing the Assessment is in May 2010. The Objection was duly filed within the 90 limitation [sic] period. We respectfully request that the CRA provide confirmation that the Objection will be accepted as properly served and will be processed by CRA Appeals. 
+ 
+ 
+ 
+ [Footnotes and emphasis deleted] 
+ 
+ 
+ 
+ (Respondent's Record, Vol. I of II, Tab 1D, pp. 32-35) 
+ 
+ 
+ 
+ [13] 
+  By letter of reply dated October 12, 2010, Mr. Kassam responded to Counsel for Conoco as follows: 
+ 
+ 
+ 
+ This is further to your letter dated September 23, 2010. We advise that our position remains the same. 
+ 
+ 
+ 
+ ConocoPhillips Canada Resources Corp.'s (Conoco) Notice of Reassessment for the year ending November 30, 2000, was produced and mailed on November 7, 2008. At the request of Conoco, the Canada Revenue Agency reprinted this Notice of Reassessment with respect to this taxation year on April 26, 2010. 
+ 
+ 
+ 
+ In light of the fact that the reassessment was produced and mailed on November 7, 2008, the Notice of Objection with respect to the 2000 taxation year forwarded to the Agency by Conoco under covering letter dated June 7, 2010, does not constitute a valid Notice of Objection as it was filed outside of the time provided to do so under subsection 165(1) of the ITA. 
+ 
+ 
+ 
+ In addition and as indicated in our letter to Conoco dated September 15,2010, the Minister is prohibited by law to extend the time for a Notice of Objection to be filed. In the present case more than one year and 90 days has elapsed since the Notice of Reassessment of November 7,2008 was mailed to your client. 
+ 
+ 
+ 
+ As indicated before, our records show that the Notice of Reassessment dated November 7,2008, was sent to your client on that day. On this point, we wish to advise that a clerical error appears in the first paragraph of the second page of our letter of September 15, 2010, to Conoco, it should state: "We are able to trace though our internal mail system that the Notice of Reassessment was sent out on November 7, 2008." November 30, 2000, is the year end of the taxpayer for that taxation year and is not the date of the reassessment. We are assuming that you will communicate this correction to Conoco and we will not send a correction directly to your client. If you wish us to do so, please advise. 
+ 
+ 
+ 
+ Last, I wish to bring to your attention that Conoco did not provide the Agency with a waiver relating to the Syncrude Remission Order issue. Therefore and as a result of Conoco's refusal, the Agency issued the reassessment based on paragraph 12(1)(o) and 12 (1)(x) of the ITA. 
+ 
+ 
+ 
+ (Respondent's Record, Vol. I of II, Tab 1E, p. 39) 
+ 
+ 
+ 
+ [14] 
+  Rule 302 of the  
+ Federal Courts Rules 
+ , SOR/2004-283, s. 2 ( 
+ Rules 
+ ) limits an Application for judicial review to only a single decision. In the unique circumstances of the present case, I find that the content of the Minister's single decision under review is found in the Minister's letters of September 15, 2010 and October 12, 2010, in which each gives a response to submissions in a single act of decision-making. 
+ 
+ 
+ 
+ III.  
+ The Evidence Under Consideration in the Present Review 
+ 
+ 
+ 
+ [15] 
+  There is a limit to the evidence which can be introduced on judicial review FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ The cited decision of  
+ Via Rail Inc. v. Canada (Human Rights Commission) 
+ , [1998] 1 F.C. 376 (T.D.) at paragraph 24, provides the following statement of the nature of judicial review: 
+ 
+ 
+ 
+ Finally, as a point of law, I should state that the Federal Court Rules [C.R.C., c. 663] do not provide for the introduction of fresh evidence on a judicial review application:  
+ Franz v. Minister of Employment and Immigration 
+  (1994), 80 F.T.R. 79 (F.C.T.D.). There is good reason for this restraint because as Justice Simpson noted at page 80 in  
+ Franz 
+ , "judicial review is intended to address errors made during the Board's proceedings". In a similar vein, Justice Muldoon remarked in  
+ West Region Tribal Council v. Booth et al. 
+  (1992), 55 F.T.R. 28 (F.C.T.D.), at page 35: "This is not an appeal on the record . . . but rather a discretionary judicial review upon application to be supported by affidavits". 
+ 
+ 
+ 
+ Thus, with respect to Mr. Kassam's finding of fact that the Assessment was mailed, it is necessary to clearly understand the evidence he considered in reaching the Decision. 
+ 
+ 
+ 
+ [16] 
+  With respect to the present Application, both Conoco and the Minister have filed affidavit evidence as they are allowed to do pursuant to Rules 306 and 307 of the  
+ Rules 
+ . However, as stated, the determination of the Application is focussed on the evidence relied upon by Mr. Kassam in reaching his Decision. Affidavit evidence that post-dates the Decision, tendered to establish that Mr. Kassam's finding of fact that the Assessment was mailed is either supportable or not supportable, is not admissible. 
+ 
+ 
+ 
+ [17] 
+  Conoco's affiant is its Tax Team Leader, Mr. Brett Wickerson, who states the position that the Assessment was not provided to Conoco prior to May 3, 2010. As set out above, Counsel for Conoco, in the letter of September 23, 2010, placed this position before Mr. Kassam for consideration in reaching the Decision. 
+ 
+ 
+ 
+ [18] 
+  The Minister's affiants include Mr. Kassam, who attests to the considerations he applied in reaching the Decision, and four Canada Revenue officials who offer post-Decision evidence concerning Canada Revenue's record keeping and practices going to establish that the Assessment was, in fact, mailed on November 7, 2008. In my opinion, for this purpose the evidence of the officials is not admissible. 
+ 
+ 
+ 
+ [19] 
+  In his affidavit filed in the present Application, Mr. Kassam re-states his position that the Assessment was mailed on November 7, 2008, and also states the very relevant information about the evidence he considered in reaching his Decision: 
+ 
+ 
+ 
+ 10. My decision to reject Conoco's notice of objection dated June 7, 2010, was made on the basis that this notice of objection was invalid since the notice of reassessment with respect to Conoco's taxation year ending November 30, 2000 was mailed on November 7, 2008, and that the time limit to validly file a notice of objection with respect to the same had elapsed. 
+ 
+ 
+ 
+ 11. In making my decision in respect of Conoco's request to serve a notice of objection on the Minister with respect to the reassessment dated November 7, 2008, I considered the following: 
+ 
+ 
+ 
+ (a) the letters from Conoco and Conoco's counsel addressed to me, dated June 7, 2010, and September 23, 2010, true copies of which are attached hereto as Exhibits "B" and "D". 
+ 
+ 
+ 
+ (b) Delly Tse [sic] verbal debriefing with respect to Conoco's request on September 9, 2010; 
+ 
+ 
+ 
+ (c) Leanne McGregor's Analysis of Facts and Submissions send [sic] to and received by Delly Tse on September 9, 2010. A true copy of which is attached hereto as Exhibit "F"; 
+ 
+ 
+ 
+ (d) Conoco's notice of reassessment dated November 7, 2008, relating to its taxation year ending November 30, 2000, a true copy of which is attached hereto as Exhibit "A." 
+ 
+ 
+ 
+ (e) The records provided to the Appeals Division by Patrick Cash of the Business Client Communication System, Summerside, Prince Edward Island, showing proof of mailing of the reassessment dated November 7, 2008. A true copy of an exchange of e-mails from Wanda Murin, appeals officer, Appeals Division of the Tax Service Office, Calgary, and Patrick Cash, the "Machineable Mail Worksheet" and the "Statement of Mailing" pertaining to the said notice of reassessment are attached as Exhibit "G". 
+ 
+ 
+ 
+ (Respondent's Record, Vol. I of II, Tab 1, p. 4) 
+ 
+ 
+ 
+ With respect to the content of paragraph 11(c), Ms. McGregor's "Analysis of Facts and Submissions" is duplicated in ADDENDUM I (Analysis). (Respondent's Record, Vol. I of II, Tab 1F, pp. 43-46) 
+ 
+ 
+ 
+ With respect to the content of paragraph 11(e), the emails, the "Machineable Mail Worksheet" and the "Statement of Mailing" pertaining to the notice of reassessment are duplicated in ADDENDUM II (Internal Documents). (Respondent's Record, Vol. I of II, Tab 1F, pp. 48-52) 
+ 
+ 
+ 
+ IV.  
+ Is the Minister's Decision Reasonable? 
+ 
+ 
+ 
+ [20] 
+  It is agreed that the standard of review of Mr. Kassam's decision is reasonableness. The considerations to be applied in reaching a conclusion are as follows: 
+ 
+ 
+ 
+ In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law ( 
+ Dunsmuir v New Brunswick, 
+  2008 SCC 9, para. 47). 
+ 
+ 
+ 
+ [21] 
+  The primary feature for the Decision to reject the Objection is based on a finding of fact that the Assessment was mailed on November 7, 2008. A principal argument advanced by Conoco is that the Decision is unreasonable because Mr. Kassam's finding of fact that the Assessment was mailed is unsupported by cogent evidence. 
+ 
+ 
+ 
+ [22] 
+  In the Decision, Mr. Kassam makes only two statements to support his finding that the Assessment was mailed. In his letter of September 15, 2010 he states that "the latest reassessment date is November 7, 2008" and "we are able to trace through our internal mail system that the Notice of Reassessment was sent out on November 30, 2000 [sic: November 7, 2008]. And in his letter of October 12, 2010 he states that "as indicated before, our records show that the Notice of Reassessment dated November 7, 2008 was sent to your client on that day". 
+ 
+ 
+ 
+ [23] 
+  In the Decision, Mr. Kassam does not state the precise evidence that supports the finding of fact that the Assessment was mailed. Indeed, in his affidavit Mr. Kassam does not state the content of the "verbal briefing" he received from Ms. Tse, nor does he comment on Ms. McGregor's Analysis or the Internal Records mentioned in paragraph 11(e) of his affidavit. 
+ 
+ 
+ 
+ [24] 
+  The transcript of Mr. Kassam's cross-examination on his affidavit discloses the process of decision-making undertaken by Mr. Kassam (Cross-Examination, Applicant's Record, Vol. 1 of 2, pp. 75-100). Mr. Kassam confirmed that Ms. McGregor reports to Ms. Tse, and Ms. Tse reports to Mr. Kassam. Mr. Kassam confirmed that, upon receipt of Ms. Moen's letter, Ms. Tse asked Ms. McGregor to prepare an analysis of it, and Ms. McGregor produced two documents: a draft of a letter of response; and her Analysis with reference to the Internal Documents that is referred to in the cross-examination as "the analysis" (Examination, p. 82). It appears that it was Ms. McGregor who generated the misunderstanding that Ms. Moen's letter of June 7, 2010 was a request for an extension of time to file the Objection, which, on its face, it was not. 
+ 
+ 
+ 
+ [25] 
+  With respect to Ms. McGregor's Analysis and the Internal Documents, Mr. Kassam confirmed the nature and extent of his consideration of them as follows: 
+ 
+ 
+ 
+ Q: When did you first see this analysis? 
+ 
+ A: Just before I signed the letter on sending out the first -- September, whatever that letter was. Delly would have briefed me about it. My letter dated September 15th. [Exhibit "C"] 
+ 
+ 
+ 
+ Q: So prior to signing your letter that's attached as Exhibit "C", you would have reviewed the analysis-- 
+ 
+ A: Delly would have briefed me on the analysis. 
+ 
+ 
+ 
+ Q: Okay. 
+ 
+ A: Delly would have briefed me on the analysis before I signed the letter saying she analyzed it and she has looked at it. 
+ 
+ 
+ 
+ Q: So there would be two steps. Leanne would have prepared this? 
+ 
+ A: For Delly. 
+ 
+ 
+ 
+ Q: For Delly. And Delly would have briefed you? ~ 
+ 
+ A: Yes. 
+ 
+ 
+ 
+ Q: So before you signed your letter of September 15th-- 
+ 
+ A: That's right. 
+ 
+ 
+ 
+ Q:--you would have been indirectly informed of the contents of this memo from Delly? 
+ 
+ A: Yes, she would have briefed me, yes. 
+ 
+ 
+ 
+ (Cross-Examination, p. 83) 
+ 
+ 
+ 
+ [...] 
+ 
+ 
+ 
+ Q: And when did you first see Leanne McGregor's analysis of facts and submissions that's attached at Exhibit "F"? 
+ 
+ A: When I was reviewing the contents of my Affidavit. 
+ 
+ 
+ 
+ Q: And you had no involvement in the preparation of this document? 
+ 
+ A: No. 
+ 
+ 
+ 
+ (Cross-Examination, p. 85) 
+ 
+ 
+ 
+ [...] 
+ 
+ 
+ 
+ Q: Sir, continuing with the text of your Affidavit, returning back to the Affidavit itself, at paragraph 11(e), the third sentence down, you say that it shows proof of mailing of the reassessment dated November 7th, 2008? 
+ 
+ A: Yes. 
+ 
+ 
+ 
+ Q: You have no first-hand information that it was mailed. You are relying on what has been attached as the exhibits to your Affidavit? 
+ 
+ A: That's correct. 
+ 
+ 
+ 
+ Q: And specifically it's the two documents, the machineable mail worksheet and the Statement of Mailing? 
+ 
+ A: The e-mail of Patrick Cash and the backup. 
+ 
+ 
+ 
+ Q: And the backup would be the machineable mail worksheet? 
+ 
+ A: One, two, three pages. 
+ 
+ 
+ 
+ Q: And the machineable mail worksheet and the Statement of Mailing? 
+ 
+ A: That's correct. 
+ 
+ 
+ 
+ Q: And each of those and the e-mail are at which exhibit? 
+ 
+ 
+ 
+ [...] 
+ 
+ 
+ 
+ A: "G". 
+ 
+ 
+ 
+ [...] 
+ 
+ 
+ 
+ Q: How did you obtain the two attachments and the e-mail ? 
+ 
+ A: They were provided to me by my team leader, Delly, when I was making my analysis. 
+ 
+ 
+ 
+ Q: And you hadn't seen these, the documents prior to this, receiving them during the course of this process? When you requested them and they were sent by e-mail, that would have been the first time you saw those two -- 
+ 
+ A: That's right. 
+ 
+ 
+ 
+ (Cross-Examination, pp. 97-98) 
+ 
+ 
+ 
+ Thus, with respect to producing the September 15, 2010 response to Ms. Moen's letter of June 7, 2010, Mr. Kassam did not read Ms. McGregor's Analysis prior to signing the letter but was briefed on the Analysis by Ms. Tse, and Mr. Kassam did not read the Analysis before rendering the Decision under review. 
+ 
+ 
+ 
+ [26] 
+  I find that the main conclusion that arises from the cross-examination is that, in reaching the Decision under review, Mr. Kassam was not sufficiently engaged with the evidence so as to form an independent opinion on the evidence, and, therefore, he placed full reliance on Ms. Tse's opinions on the evidence in rendering the Decision. Of critical importance in the present review is that there is no evidence on the record of how Ms. Tse reached her opinions, what they were, and, indeed, what she said to Mr. Kassam. Thus, I find that there is no transparent and intelligible justification for Mr. Kassam's finding that the Assessment was mailed. 
+ 
+ 
+ 
+ [27] 
+  As a result, I find the Decision is unreasonable. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [28] 
+   
+ THIS COURT ORDERS that 
+ : 
+ 
+ 
+ 
+ For the reasons provided, I set aside the Decision under review. 
+ 
+ 
+ 
+ I award costs of the Application to the Applicant. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Gary W. McLaughlin/vnh 
+ 
+ 
+ 
+ ADDENDUM I 
+ 
+ 
+ 
+ [Diagrams omitted - see printed version] 
+ 
+ 
+ 
+ ADDENDUM II 
+ 
+ 
+ 
+ [Diagrams omitted - see printed version] 
+ 
+ 
+ 
+

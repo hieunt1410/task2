@@ -1,0 +1,5 @@
+[40]
+The respondents Notice of Allegation dated December 20, 2002, cites 26 alleged prior art references with respect to obviousness including the '840 ofloxacin patent described above, the corresponding U.S. ofloxacin patent [see footnote 2], U.S. and Japanese patents relating to other racemic compounds with antimicrobial properties and several academic articles and presentations, notably:
+"Repta et al., 'Utilization of an Enantiomer as a Solution to a Pharmaceutical Problem: Application to Solobilization of a 1,2-Di(4-piperazine-2.6-dione) propane', J.Pharm.Sciences, vol. 65(2), 238 (1976).
+"Gerster et al., 'Proceedings of the North American Medicinal Chemistry Symposium', Toronto (Canada), 153 (1982).
+"Gerster et al., Poster Presentation to the North American Medicinal Chemistry Symposium, Toronto, Canada June, 1982."

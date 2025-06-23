@@ -1,0 +1,4 @@
+[112]
+Before considering the question of obviousness, the Court must determine what can be considered as prior art. By definition prior art must have been publicly available before the invention date. There are two requirements that alleged prior art must meet to be considered "publicly available":
+(a) the art must be in the public domain; a publication that is private or restricted, for example, is not admissible as prior art for the purpose of an obviousness analysis; and
+(b) a skilled person conducting a reasonably diligent search must have been able to locate the art.

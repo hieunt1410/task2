@@ -1,0 +1,8 @@
+[156]
+Confidence intervals for the LD
+50
+values are not reported in the '080 patent; however, it is not unusual for toxicologists to report LD
+50
+values without reference to confidence intervals, particularly in studies with small sample sizes. A POSITA would not have been surprised or confused to see a slight overlap in the confidence intervals of the LD
+50
+values given the size of Daiichi's levofloxacin study reported in the '080 patent (5 mice at each of the 4 doses). (Rodricks Affidavit at para. 33, AR, v. 24, Tab 34, pp. 7120-7121.)

@@ -1,0 +1,9 @@
+[54]
+Perhaps the clearest statement of this principle is that penned by Mr. Justice Pinard in
+He et al. v. Minister of National Revenue (Customs and Excise)
+(2000), 182 F.T.R. 85 (T.D.), where he stated at para. 8:
+"In seizure proceedings such as those at bar, the onus is on the plaintiffs to establish, on a balance of probabilities, that the seizures were unlawful. The issue for the Court is simply whether the goods ... were, in fact and law, liable to forfeiture. The
+Act
+creates a voluntary reporting legislative framework in which importers must accurately declare all goods, must accurately account for the quantity and value of the goods, and must pay the duty and taxes attracted by all goods imported. (...) Therefore, the
+Act
+is contravened when an incorrect declaration is made by or on behalf of an importer. Furthermore, the source of that error is irrelevant. The importer is liable for having failed to meet the obligation to accurately account for the goods which, from the time of the contravention, are forfeit to the Crown. A lack of intention on the part of the importer to evade duty and taxes is irrelevant in a seizure proceeding. Neither the lack of intent to mislead Customs, nor the presence of an inadvertent error in reporting goods, affects the validity of a seizure."

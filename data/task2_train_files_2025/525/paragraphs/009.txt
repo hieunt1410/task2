@@ -1,0 +1,20 @@
+[9]
+The
+PSLRA
+replaced the
+Public Service Staff Relations
+Act
+, R.S.C. 1985, c. P-35 (the "
+PSSRA
+"), which contained a substantially similar provision:
+"92(1) Where an employee has presented a grievance, up to and including the final level in the grievance process, with respect to
+(a) the interpretation or application in respect of the employee of a provision of a collective agreement or an arbitral award,
+(b) in the case of an employee in a department or other portion of the public service of Canada specified in Part I of Schedule I or designated pursuant to subsection (4),
+(i) disciplinary action resulting in suspension or a financial penalty, or
+(ii) termination of employment or demotion pursuant to paragraph 11(2)(f) or (g) of the Financial Administration Act, or
+(c) in the case of an employee not described in paragraph (b), disciplinary action resulting in termination of employment, suspension or a financial penalty,
+and the grievance has not been dealt with to the satisfaction of the employee, the employee may, subject to subsection (2), refer the grievance to adjudication."
+"92(1) Après l'avoir porté jusqu'au dernier palier de la procédure applicable sans avoir obtenu satisfaction, un fonctionnaire peut renvoyer à l'arbitrage tout grief portant sur:
+a) l'interprétation ou l'application, à son endroit, d'une disposition d'une convention collective ou d'une décision arbitrale;
+b) dans le cas d'un fonctionnaire d'un ministère ou secteur de l'administration publique fédérale spécifié à la partie I de l'annexe I ou désigné par décret pris au titre du paragraphe (4), soit une mesure disciplinaire entraînant la suspension ou une sanction pécuniaire, soit un licenciement ou une rétrogradation visé aux alinéas 11(2)f) ou g) de la Loi sur la gestion des finances publiques;
+c) dans les autres cas, une mesure disciplinaire entraînant le licenciement, la suspension ou une sanction pécuniaire."

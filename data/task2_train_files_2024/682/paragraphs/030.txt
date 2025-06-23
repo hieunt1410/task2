@@ -1,0 +1,11 @@
+[30]
+The reaction sequence of process steps III and IV can be described as: elimination of the middle bromine on the three carbon chain; creation of a carbon - carbon double bond (an olefin) and the formation of a 1,3-dibromopropene; reaction with the first triazole (by way of an allylic nucleophilic displacement) so that the triazole attaches to one end of the three carbon chain and the bromine on the other side leaves the molecule; (4) the double bond then shifts (in the diagram above from between positions C
+1
+and C
+2
+to between positions C
+2
+and C
+3
+) and the triazole attaches to the other terminal carbon; the carbon - carbon double bond shifts back to its original position and the bromine on that side of the three carbon chain, as a result of the second allylic nucleophilic displacement, has left the molecule. This results in the creation of thegeometric isomers compounds 4 and 5. Dr. McClelland and Dr. Hendrickson depicted these individual reaction steps as follows:
+[See diagram on page 11]

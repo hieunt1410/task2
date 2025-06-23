@@ -1,0 +1,1030 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can. (M.C.I.) v. B236 (2010), 382 F.T.R. 91 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2011] F.T.R. TBEd. JA.012 
+ 
+ 
+ 
+ The Minister of Citizenship and Immigration (applicant) v. B236 (respondent) 
+ 
+ (IMM-7207-10; 2010 FC 1339) 
+ 
+ 
+ 
+ Indexed As: Canada (Minister of Citizenship and Immigration) v. B236 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Lemieux, J. 
+ 
+ December 31, 2010. 
+ 
+ 
+ 
+ Summary: 
+ 
+ B236 was one of 492 persons who arrived in Canada aboard the MV Sun Sea without authorization on August 13, 2010. On December 7, 2010, a member of the Immigration Division of the Immigration and Refugee Board ordered B236's release from detention on conditions, including posting a cash bond of $500. The Minister of Citizenship and Immigration moved for a stay of the release. 
+ 
+ 
+ 
+ The Federal Court granted the motion. 
+ 
+ 
+ 
+ Aliens - Topic 1795 
+ 
+ Exclusion and expulsion - Deportation and exclusion of persons in Canada - Detention (incl. review or release) (incl. IRPA, ss. 54-61) - B236 was one of 492 persons who arrived in Canada aboard the MV Sun Sea without authorization on August 13, 2010 - On December 7, 2010, a member of the Immigration Division of the Immigration and Refugee Board ordered B236's release from detention on conditions, including posting a cash bond of $500 - The Minister of Citizenship and Immigration moved for a stay of the release on the grounds that (1) under s. 58(1)(a) of the Immigration and Refugee Protection Act (IRPA), B236 was a danger to the public and (2) under s. 58(1)(b) of the IRPA, he was a flight risk - The Federal Court granted the motion - Serious issues had been established by the Minister - The terms of release were unreasonable where the member, herself, acknowledged that B236's relationship with the bondsperson was tenuous and where B236 owed his smugglers an amount vastly superior to the bond amount - Further, the member had acknowledged that B236 was a flight risk and was vulnerable to influence by his smugglers - The manner in which the member had applied the factors in s. 248 (factors to be taken into account when grounds for detention were established) of the IRPA was unreasonable - A serious issue arose where the member had dismissed the danger to the public ground even though B236 had admitted that he had worked for the Liberation Tigers of the Tamil Eelam - Irreparable harm flowed from the impact of the release decision on the public interest in the context of Canada's immigration law - The balance of convenience favoured the Minister as it maintained the status quo - See paragraphs 19 to 38. 
+ 
+ 
+ 
+ Aliens - Topic 1795.2 
+ 
+ Exclusion and expulsion - Deportation and exclusion of persons in Canada - Release from detention pending deportation - Stay of - [See  
+ Aliens - Topic 1795 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Almrei v. Canada (Minister of Citizenship and Immigration) et al. (2007), 316 F.T.R. 49; 2007 FC 1025, refd to. [para. 20]. 
+ 
+ Canada (Minister of Citizenship and Immigration) v. B386, [2011] F.T.R. Uned. 80 (F.C.), refd to. [para. 27]. 
+ 
+ RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général), [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241, refd to. [para. 28]. 
+ 
+ Canada (Minister of Public Safety and Emergency Preparedness) v. Steer, [2010] F.T.R. Uned. 552; 2010 FC 830, refd to. [para. 29]. 
+ 
+ Canada (Minister of Citizenship and Immigration) v. B157 (2010), 379 F.T.R. 251; 2010 FC 1314, refd to. [para. 30]. 
+ 
+ Canada (Minister of Citizenship and Immigration) v. XXXX, [2010] F.T.R. Uned. 670; 2010 FC 1009, refd to. [para. 37]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Timothy Fairgrieve, for the applicant; 
+ 
+ Gabriel Chand, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Myles J. Kirvan, Deputy Attorney General of Canada, Vancouver, British Columbia, for the applicant; 
+ 
+ Chand & Company Law Corporation, Vancouver, British Columbia, for the respondent. 
+ 
+ 
+ 
+ This motion was heard by teleconference on December 23, 2010, from Vancouver, British Columbia, and Ottawa, Ontario, by Lemieux, J., of the Federal Court, who delivered the following reasons for order on December 31, 2010. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ I.  
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Lemieux, J. 
+ : The Minister of Citizenship and Immigration (the Minister) moves the Court for an interlocutory injunction to prevent the release from detention of B236 (the Respondent), a citizen of Sri Lanka who was one of the 492 persons aboard the MV Sun Sea which arrived in Canadian water without authorization on August 13, 2010; he has been detained ever since while his identity had not been established. He was ordered released from detention with conditions by order of a member of the Immigration Division (I.D.) after the conclusion of a fourth 30 day detention review held on December 7, 2010. 
+ 
+ 
+ 
+ [2] 
+  At that hearing, Counsel for the Minister indicated the Minister was satisfied who the Respondent was but urged his continued detention on two new grounds: (1) under section 58(1)(a) of the  
+ Immigration and Refugee Protection  
+ Act 
+ , (2001, C. 27) (the  
+ IRPA 
+ ), that he was a danger to the public and (2) under section 58(1)(b) that he was a flight risk. These two paragraphs read: 
+ 
+ 
+ 
+ " 
+ Release - Immigration Division 
+ 
+ 
+ 
+ "58(1) The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that 
+ 
+ 
+ 
+ (a) they are a danger to the public; 
+ 
+ 
+ 
+ (b) they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2); 
+ 
+ 
+ 
+ (c) ... 
+ 
+ 
+ 
+ (d) ... 
+ 
+ 
+ 
+ " 
+ Detention - Immigration Division 
+ 
+ 
+ 
+ "58(2) The Immigration Division may order the detention of a permanent resident or a foreign national if it is satisfied that the permanent resident or the foreign national is the subject of an examination or an admissibility hearing or is subject to a removal order and that the permanent resident or the foreign national is a danger to the public or is unlikely to appear for examination, an admissibility hearing or removal from Canada. 
+ 
+ 
+ 
+ " 
+ Conditions 
+ 
+ 
+ 
+ "58(3) If the Immigration Division orders the release of a permanent resident or a foreign national, it may impose any conditions that it considers necessary, including the payment of a deposit or the posting of a guarantee for compliance with the conditions." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " 
+ Mise en liberté par la Section de l'immigration 
+ 
+ 
+ 
+ "58(1) La section prononce la mise en liberté du résident permanent ou de l'étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants: 
+ 
+ 
+ 
+ a) le résident permanent ou l'étranger constitue un danger pour la sécurité publique; 
+ 
+ 
+ 
+ b) le résident permanent ou l'étranger se soustraira vraisemblablement au contrôle, à l'enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d'une mesure de renvoi en vertu du paragraphe 44(2); 
+ 
+ 
+ 
+ c) ... 
+ 
+ 
+ 
+ d) ... 
+ 
+ 
+ 
+ " 
+ Mise en détention par la Section de l'immigration 
+ 
+ 
+ 
+ "58(2) La section peut ordonner la mise en détention du résident permanent ou de l'étranger sur preuve qu'il fait l'objet d'un contrôle, d'une enquête ou d'une mesure de renvoi et soit qu'il constitue un danger pour la sécurité publique, soit qu'il se soustraira vraisemblablement au contrôle, à l'enquête ou au renvoi. 
+ 
+ 
+ 
+ " 
+ Conditions 
+ 
+ 
+ 
+ "58(3) Lorsqu'elle ordonne la mise en liberté d'un résident permanent ou d'un étranger, la section peut imposer les conditions qu'elle estime nécessaires, notamment la remise d'une garantie d'exécution." 
+ 
+ 
+ 
+ [3] 
+  The Minister's Counsel advised the I.D. member, A. Merai-Schwartz (the Member or the tribunal) that the Respondent on November 15th 2010 had been the subject of a report under subsection 44(1) of the  
+ IRPA 
+  which report was then considered by the Minister's delegate under subsection 44(2) of the  
+ IRPA 
+  who, that same day, referred the report for an admissibility hearing to determine whether the Respondent was a person described in paragraph 34(1)(f) of the  
+ IRPA 
+ . Section 34 of the  
+ IRPA 
+  reads: 
+ 
+ 
+ 
+ " 
+ Security 
+ 
+ 
+ 
+ "34(1) A permanent resident or a foreign national is inadmissible on security grounds for 
+ 
+ 
+ 
+ (a) engaging in an act of espionage or an act of subversion against a democratic government, institution or process as they are understood in Canada; 
+ 
+ 
+ 
+ (b) engaging in or instigating the subversion by force of any government; 
+ 
+ 
+ 
+ (c) engaging in terrorism; 
+ 
+ 
+ 
+ (d) being a danger to the security of Canada; 
+ 
+ 
+ 
+ (e) engaging in acts of violence that would or might endanger the lives or safety of persons in Canada; or 
+ 
+ 
+ 
+ (f) being a member of an organization that there are reasonable grounds to believe engages, has engaged or will engage in acts referred to in paragraph (a), (b) or (c). 
+ 
+ 
+ 
+ " 
+ Exception 
+ 
+ 
+ 
+ "34(2) The matters referred to in subsection (1) do not constitute inadmissibility in respect of a permanent resident or a foreign national who satisfies the Minister that their presence in Canada would not be detrimental to the national interest." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " 
+ Sécurité 
+ 
+ 
+ 
+ "34(1) Emportent interdiction de territoire pour raison de sécurité les faits suivants: 
+ 
+ 
+ 
+ a) être l'auteur d'actes d'espionnage ou se livrer à la subversion contre toute institution démocratique, au sens où cette expression s'entend au Canada; 
+ 
+ 
+ 
+ b) être l'instigateur ou l'auteur d'actes visant au renversement d'un gouvernement par la force; 
+ 
+ 
+ 
+ c) se livrer au terrorisme; 
+ 
+ 
+ 
+ d) constituer un danger pour la sécurité du Canada; 
+ 
+ 
+ 
+ e) être l'auteur de tout acte de violence susceptible de mettre en danger la vie ou la sécurité d'autrui au Canada; 
+ 
+ 
+ 
+ f) être membre d'une organisation dont il y a des motifs raisonnables de croire qu'elle est, a été ou sera l'auteur d'un acte visé aux alinéas a), b) ou c). 
+ 
+ 
+ 
+ " 
+ Exception 
+ 
+ 
+ 
+ "34(2) Ces faits n'emportent pas interdiction de territoire pour le résident permanent ou l'étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l'intérêt national." 
+ 
+ 
+ 
+ [4] 
+  The section 44(1) report which was referred to the I.D. indicated the Respondent was a person who was a member of an organization that there are reasonable grounds to believe has engaged or will engage in acts referred to in paragraph (a), (b) and (c) of the  
+ IRPA 
+  section 34. 
+ 
+ 
+ 
+ [5] 
+  The organization which the Respondent is alleged to be a member is the Liberation Tigers of Tamil Eelam (LTTE). The basis of the Minister's allegation is derived from admissions made by the Respondent during two interviews with a Canadian immigration official and is reflected in the following highlights to the subsection 44(1) report: 
+ 
+ 
+ 
+ "Subject denies being a member of the Liberation Tigers of Tamil Eelam (LTTE). However, he admits that he voluntarily provided material support to the LTTE as an alternative to paying them taxes. Subject owned a tractor and used it to transport people and supplies to sites where the LTTE was constructing bunkers. He did so approximately 7-10 times per month over a period of several years. He did not simply lend the tractor to the LTTE: he actually drove the tractor himself, knowing what he was transporting and for what purpose. Transporting materials involved traveling to a site, picking up the materials, and then transporting them to the dig site. The LTTE is a terrorist group as defined by section 83.01(1) of the  
+ Criminal Code of Canada 
+ , and subject's material support of this group constitutes membership in that organization." 
+ 
+ 
+ 
+ II.  
+ The Member's Decision to Release 
+ 
+ 
+ 
+ [6] 
+  Section 58 of the  
+ IRPA 
+  is the cornerstone of the release from detention provisions in the  
+ IRPA 
+ . It reads: 
+ 
+ 
+ 
+ " 
+ Release - Immigration Division 
+ 
+ 
+ 
+ "58(1) The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that 
+ 
+ 
+ 
+ (a) they are a danger to the public; 
+ 
+ 
+ 
+ (b) they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2); 
+ 
+ 
+ 
+ (c) ... 
+ 
+ 
+ 
+ (d) ... 
+ 
+ 
+ 
+ " 
+ Detention - Immigration Division 
+ 
+ 
+ 
+ "58(2) The Immigration Division may order the detention of a permanent resident or a foreign national if it is satisfied that the permanent resident or the foreign national is the subject of an examination or an admissibility hearing or is subject to a removal order and that the permanent resident or the foreign national is a danger to the public or is unlikely to appear for examination, an admissibility hearing or removal from Canada. 
+ 
+ 
+ 
+ " 
+ Conditions 
+ 
+ 
+ 
+ "58(3) If the Immigration Division orders the release of a permanent resident or a foreign national, it may impose any conditions that it considers necessary, including the payment of a deposit or the posting of a guarantee for compliance with the conditions." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " 
+ Mise en liberté par la Section de l'immigration 
+ 
+ 
+ 
+ "58(1) La section prononce la mise en liberté du résident permanent ou de l'étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants: 
+ 
+ 
+ 
+ a) le résident permanent ou l'étranger constitue un danger pour la sécurité publique; 
+ 
+ 
+ 
+ b) le résident permanent ou l'étranger se soustraira vraisemblablement au contrôle, à l'enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d'une mesure de renvoi en vertu du paragraphe 44(2); 
+ 
+ 
+ 
+ c) ... 
+ 
+ 
+ 
+ d) ... 
+ 
+ 
+ 
+ " 
+ Mise en détention par la Section de l'immigration 
+ 
+ 
+ 
+ "58(2) La section peut ordonner la mise en détention du résident permanent ou de l'étranger sur preuve qu'il fait l'objet d'un contrôle, d'une enquête ou d'une mesure de renvoi et soit qu'il constitue un danger pour la sécurité publique, soit qu'il se soustraira vraisemblablement au contrôle, à l'enquête ou au renvoi. 
+ 
+ 
+ 
+ " 
+ Conditions 
+ 
+ 
+ 
+ "58(3) Lorsqu'elle ordonne la mise en liberté d'un résident permanent ou d'un étranger, la section peut imposer les conditions qu'elle estime nécessaires, notamment la remise d'une garantie d'exécution." 
+ 
+ 
+ 
+ [7] 
+  The prescribed factors mentioned in that section are those found in Part 14 of the  
+ Immigration and Refugee Protection Rules 
+ , (SOR/2002-227) (the  
+ IRPR 
+ ). The prescribed factors for assessing whether a person is a danger to the public are contained in Regulation 246 while those concerning whether a person is a flight risk are in Regulation 245. 
+ 
+ 
+ 
+ A.  
+ The Ground of Danger to the Public 
+ 
+ 
+ 
+ [8] 
+  The Member ruled that the Minister had made out none of the prescribed factors set out in Regulation 246 except the fact that the Minister was of the opinion the Respondent was a danger to the public. 
+ 
+ 
+ 
+ [9] 
+  For the purposes of these reasons, I need only refer to paragraph 246(b) which provides as a factor an "association with a criminal organization within the meaning of subsection 121(1) of the  
+ IRPA 
+ " which reads: 
+ 
+ 
+ 
+ " 
+ Aggravating factors 
+ 
+ 
+ 
+ 121(2) Definition of 'criminal organization' 
+ 
+ 
+ 
+ For the purposes of paragraph (1)(b), 'criminal organization' means an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " 
+ Infliction de la peine 
+ 
+ 
+ 
+ 121(2) Définition de 'organisation criminelle' 
+ 
+ 
+ 
+ On entend par organisation criminelle l'organisation dont il y a des motifs raisonnables de croire qu'elle se livre ou s'est livrée à des activités faisant partie d'un plan d'activités criminelles organisées par plusieurs personnes agissant de concert en vue de la perpétration d'une infraction à une loi fédérale punissable par mise en accusation ou de la perpétration, hors du Canada, d'une infraction qui, commise au Canada, constituerait une telle infraction." 
+ 
+ 
+ 
+ [10] 
+  In discussing this factor, the tribunal simply said "the factor under 246(b) has not been proven. Your association with the LTTE has been alleged and will be subject of the future admissibility hearing". 
+ 
+ 
+ 
+ [11] 
+  In this context, the tribunal considered the Minister's submission that some reports from Human Rights Watch (HRW) indicated that suspected LTTE members had been employed as informers to further fundraising in Canada and their release would result in increased fear within the Tamil community in Canada. The Member ruled there was insufficient confirmation to meet the threshold of danger to the public and concluded: 
+ 
+ 
+ 
+ "I further find that the mere existence of an admissibility hearing does not necessarily serve to translate into such a remedy as to make a finding that an individual is a danger to the public. The allegations do need to be proven and I have been provided no nexus between the individual here today and the situations as set out in the  
+ Human Rights Watch 
+  reports." 
+ 
+ 
+ 
+ B.  
+ The Unlikely to Appear Ground 
+ 
+ 
+ 
+ [12] 
+  The essence of the Member's ruling on this ground is her finding " 
+ that while grounds exist for your continued detention on the ground of unlikely to appear, factors under 248 weigh in favour of your release on terms and conditions 
+ ". 
+ 
+ 
+ 
+ [13] 
+  Counsel for the Minister had made three submissions on unlikely to appear ground: (1) if the Respondent was found to be a member of the LTTE, he would be ineligible to make a refugee claim, a deportation order would ensue with his consequent removal from Canada (2) the admitted fact he owed money to his agents (smugglers) engaged paragraph 245(f) of the  
+ IRPR 
+  and (3) no reasonable alternative to detention existed because he had no strong ties to any community in this country: no family or close friends thus engaging paragraph 245(g). 
+ 
+ 
+ 
+ [14] 
+  The tribunal ruled that because of the seriousness of the allegation facing him that he was a member of the LTTE and the consequences which would flow from such a finding that he was a flight risk but added that her finding was "somewhat mitigated by the other options that would be open to you even in the face of an adverse admissibility finding". By this the Member meant he could make an application to the Minister for an exemption under section 34(2) and could have the benefit of a Pre-Removal Risk Assessment (PRRA). 
+ 
+ 
+ 
+ [15] 
+  The tribunal also ruled because he owed money to his smugglers "I do find that grounds exist for your continued detention under 245(f)". She wrote: 
+ 
+ 
+ 
+ "You were part of a massive organized movement of a number of people to Canada by boat and information was provided by you that there are apparently agents present in Canada. Given the (indiscernible) of the operation, it's within the realm of possibility that you could be vulnerable to coercion if released." 
+ 
+ 
+ 
+ [16] 
+  Finally on the point he had no close connections in Canada and that factor 245(g) was engaged, she found the Respondent had no close friend or family in Canada and noted that it took until very recently to discover an individual who was willing to receive you. She concluded: 
+ 
+ 
+ 
+ "I note that the alternative presented today  
+ is a fairly tenuous one and, as a result, that there is a ground for your continued detention in this regard. However, again, I find that that can be mitigated under section 248. 
+ " (My emphasis) 
+ 
+ 
+ 
+ [17] 
+  The tribunal then turned its mind to section 248 of the  
+ IRPR 
+  which reads: 
+ 
+ 
+ 
+ " 
+ Other factors 
+ 
+ 
+ 
+ "248. If it is determined that there are grounds for detention, the following factors shall be considered before a decision is made on detention or release: 
+ 
+ 
+ 
+ (a) the reason for detention; 
+ 
+ 
+ 
+ (b) the length of time in detention; 
+ 
+ 
+ 
+ (c) whether there are any elements that can assist in determining the length of time that detention is likely to continue and, if so, that length of time; 
+ 
+ 
+ 
+ (d) any unexplained delays or unexplained lack of diligence caused by the Department or the person concerned; and 
+ 
+ 
+ 
+ (e) the existence of alternatives to detention." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ " 
+ Autres critères 
+ 
+ 
+ 
+ "248. S'il est constaté qu'il existe des motifs de détention, les critères ci-après doivent être pris en compte avant qu'une décision ne soit prise quant à la détention ou la mise en liberté: 
+ 
+ 
+ 
+ a) le motif de la détention; 
+ 
+ 
+ 
+ b) la durée de la détention; 
+ 
+ 
+ 
+ c) l'existence d'éléments permettant l'évaluation de la durée probable de la détention et, dans l'affirmative, cette période de temps; 
+ 
+ 
+ 
+ d) les retards inexpliqués ou le manque inexpliqué de diligence de la part du ministère ou de l'intéressé; 
+ 
+ 
+ 
+ e) l'existence de solutions de rechange à la détention." 
+ 
+ 
+ 
+ [18] 
+  She ruled that "in weighing the factors as they relate to your particular circumstances I have found that the factors do weigh in favour of your release". The tribunal then analysed each factor as follows: 
+ 
+ 
+ 
+ a.  
+ On factor 248(a) 
+  she said the reasons for continued detention is unlikely to appear. She once again noted his alleged membership in the LTTE "was just that an allegation which had to be proven" and expressed the view "Even if proven, there would be other avenues available to you - a PRRA application or ministerial exemption. [adding]: 
+ 
+ 
+ 
+ "As a result, I find that as a refugee claimant, even if there was an adverse finding at the admissibility  
+ hearing there would be incentive for you to continue appearing for the other processes that are available to you under our immigration laws 
+ . You have gone to extraordinary lengths to come to Canada and to make a refugee claim here.  
+ It would be counterproductive to those efforts to continue with your refugee claim if you were to go underground 
+ ." (My emphasis) 
+ 
+ 
+ 
+ b.  
+ On factor 248(b) 
+  the tribunal wrote that his detention "had been lengthy though I note it has not been unduly long in the context of your arrival in Canada". 
+ 
+ 
+ 
+ c.  
+ On factor 248(c) 
+  the tribunal indicated the scheduling of the admissibility hearing was imminent according to the Minister's Counsel but the exact length of time of that hearing nor the uncertainty of the results made it impossible to determine the length of time his detention was likely to continue. 
+ 
+ 
+ 
+ d. There were no submissions on the 248(d) factor. 
+ 
+ 
+ 
+ e. On alternative to detention of factor 248(e) the tribunal wrote: 
+ 
+ 
+ 
+ "According to the submissions by counsel, this individual knows the person concerned quite well, they lived in the same village and studied together in school, they maintained apparently some level of contact over the years, and notwithstanding a modest family income, is apparently prepared to post a $500 bond and provide this individual a place to live. 
+ 
+ 
+ 
+ "I find that the existence of a bondsperson weighs a favour of the person concerned's release and that in concert with fairly stringent terms and conditions would mitigate any risk associated with respect to flight in the days leading up to the person concerned's admissibility hearing." 
+ 
+ 
+ 
+ III.  
+ The Main Terms and Conditions of Release 
+ 
+ 
+ 
+ - The bondperson must post a performance bond of $500 
+ 
+ 
+ 
+ - The Respondent must prior to release provide CBSA with his residential address, that is, the place where he shall sleep. 
+ 
+ 
+ 
+ - Notify CBSA 48 hours prior to changing residence. 
+ 
+ 
+ 
+ - Report at Greater Toronto Enforcement Agency (GTEC) 10 days after release and after that twice a week subject to agreed to modification by CBSA. 
+ 
+ 
+ 
+ - The Respondent shall not meet, speak or associate with members of any criminal organization or associate directly or indirectly with anyone who supports terrorism including members of the LTTE and the World Tamil Movement. 
+ 
+ 
+ 
+ IV.  
+ The Submissions on the Minister's Stay of Release Motion 
+ 
+ 
+ 
+ [19] 
+  The jurisprudence is clear that the Minister to obtain a stay must meet the established conjuctive three part test of (a) serious issue (b) irreparable harm and (c) balance of convenience. 
+ 
+ 
+ 
+ [20] 
+  Before dealing with each element of the tri-partite test, it is important to note that there is a rapidly fast growing jurisprudence from the Court on stay of release from detention applications by the Minister arising out of the Sun Sea claimants where the identity of the individual is not in question but where the Minister seeks continued detention on the unlikely to appear ground in the context of a section 44 referral for an admissibility hearing based on the allegation the individual is a person described in paragraph 34(1)(f) of the  
+ IRPA 
+ , as in the case here. If those cases are substantially similar the principle of judicial comity applies. That principle is to the following effect: 
+ 
+ 
+ 
+ "61. The principle of judicial comity is well-recognized by the judiciary in Canada. Applied to decisions rendered by judges of the Federal Court, the principle is to the effect that a substantially similar decision rendered by a judge of this Court should be followed in the interest of advancing certainty in the law. I cite the following cases: 
+ 
+ 
+ 
+ -  
+ Haghighi v. Canada (Minister of Public Safety and Emergency Preparedness) 
+ , [2006] F.C.J. No. 470, 2006 FC 372; 
+ 
+ 
+ 
+ -  
+ Benitez v. Canada (Minister of Citizenship and Immigration) 
+ , [2006] F.C.J. No. 631, 2006 FC 461; 
+ 
+ 
+ 
+ -  
+ Pfizer Canada Inc. v. Canada (Minister of Health) 
+ , [2007] F.C.J. No. 596, 2007 FC 446; 
+ 
+ 
+ 
+ -  
+ Aventis Pharma Inc. v. Apotex Inc. 
+ , [2005] F.C.J. No. 1559, 2005 FC 1283; 
+ 
+ 
+ 
+ -  
+ Singh v. Canada (Minister Citizenship and Immigration) 
+ , [1999] F.C.J. No. 1008; 
+ 
+ 
+ 
+ -  
+ Ahani v. Canada (Minister Citizenship and Immigration) 
+ , [1999] F.C.J. No. 1005; 
+ 
+ 
+ 
+ -  
+ Eli Lilly & Co.v. Novopharm Ltd. 
+  (1996), 67 C.P.R.(3d) 377; 
+ 
+ 
+ 
+ -  
+ Bell v. Cessma Aircraft Co. 
+  (1983), 149 D.L.R.(3d) 509 (B.C.C.A.) 
+ 
+ 
+ 
+ -  
+ Glaxco Group Ltd. et al. v. Minister of National Health and Welfare et al. 
+  64 C.P.R.(3d) 65; 
+ 
+ 
+ 
+ -  
+ Steamship Lines Ltd. v. M.N.R. 
+ , [1966] Ex. CR 972. 
+ 
+ 
+ 
+ "62. There are a number of exceptions to the principle of judicial comity as expressed above they are: 
+ 
+ 
+ 
+ 1. The existence of a different factual matrix or evidentiary basis between the two cases; 
+ 
+ 
+ 
+ 2. Where the issue to be decided is different; 
+ 
+ 
+ 
+ 3. Where the previous condition failed to consider legislation or binding authorities that would have produced a different result, i.e., was manifestly wrong; and 
+ 
+ 
+ 
+ 4. The decision it followed would create an injustice." 
+ 
+ 
+ 
+ (See  
+ Almrei v. Canada (Minister of Citizenship and Immigration) et al. 
+  (2007), 316 F.T.R. 49; 2007 FC 1025) 
+ 
+ 
+ 
+ [21] 
+  In particular I refer to the following cases in which the Minister as applicant was granted a stay of release from detention. 
+ 
+ 
+ 
+ [22] 
+  Justice Richard Mosley's, November 12th 2010, decision in  
+ Canada (Minister of Citizenship and Immigration) v. B186 
+ , IMM-6390-10, a case involving a 28 year old Sri Lankan male with no family ties in Canada who paid a smuggler to travel on the Sun Sea and still owed money and was the subject of an admissibility hearing stating he was a person described under section 34(1)(f) of the  
+ IRPA 
+  because of his employment with the LTTE and where the Minister alleged he would be unlikely to appear based on 245(f) and (g). He was of the view two serious issues arose (1) the Member seemed to discount the fact that he had no ties to Canada of any nature and to discount the fact he remained indebted to his smuggler. 
+ 
+ 
+ 
+ [23] 
+  Justice Mosley found irreparable harm because: 
+ 
+ 
+ 
+ "In this case, the respondent is a young male with no ties to this country who took advantage of a large-scale smuggling operation and is alleged to have provided services to and to be a member of a terrorist organization. I note also that the applicant is entitled to another detention review in 30 days. I am satisfied that the applicant has established that there would be irreparable harm to the public interest in the orderly administration of the law if the motion is not granted and the respondent is released and did not appear for the admissibility hearing in which these allegations can be more closely examined." 
+ 
+ 
+ 
+ [24] 
+  Justice Mosley  
+ rejected 
+  the arguments by Counsel for the respondent there was no evidence to support the Minister's speculation that the respondent would not appear; the requirement to attend an admissibility hearing is not a prescribed ground and it is not for the Minister to presume paragraph 34(1)(f) will be made out and even if he was a person described it would remain open to him to request a Ministerial exemption under section 34(2) and a PRRA and therefore would not have an incentive to go underground. A similar argument was made to me by Counsel for the Respondent. 
+ 
+ 
+ 
+ [25] 
+  Justice Russell Zinn's November 22nd 2010 decision in IMM-6541-10 between  
+ Canada (M.C.I.) v. B017 
+ , where the Minister urged the I.D. that she was unlikely to appear for removal. Paragraphs 245(f) and (g) were in play as to whether the respondent was likely to appear. Justice Zinn found two serious issues namely whether the Member had properly interpreted paragraph 245(g) in speculating the respondent would develop ties in Canada when she did not have any now. A second serious issue arose out of the fact the respondent's husband had incurred a substantial debt to buy transportation on the Sun Sea. Justice Zinn was of the view the Member had not come to grips with the central issue required by 245(f) in these circumstances namely whether, the respondent would be vulnerable to being influenced or coerced by the traffickers [sic] not appear for removal if required. 
+ 
+ 
+ 
+ [26] 
+  On irreparable harm Justice Zinn accepted the view expressed by Justice Mosley in his November 12, 2010 decision. 
+ 
+ 
+ 
+ [27] 
+  Justice Leonard S. Mandamin's December 9th 2010 decision in  
+ Canada (Minister of Citizenship and Immigration) v. B386 
+ , [2011] F.T.R. Uned. 80 (F.C.), a case of a 30 year old male who contracted a substantial debt to travel on the Sun Sea, was the subject of an admissibility hearing on account of working for the LTTE, albeit asserting he was forced to do so, and where the alleged detention was required because of the likelihood the respondent would not appear at the admissibility hearing because it was a serious allegation and a finding of inadmissibility carried with it grave consequences. 
+ 
+ 
+ 
+ [28] 
+  Paragraphs 345(f) and (g) were in play. Justice Mandamin found serious issues arising out of the Member's failure to properly consider paragraph 245(f) and failed to properly consider the issue of the bond. He adopted the view on irreparable harm expressed by Justice Sopinka and Cory in  
+ RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général) 
+ , [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241: 
+ 
+ 
+ 
+ " 
+ In the case of public authority, the onus of demonstrating irreparable harm to the public interest is less than that of a private applicant. This is partly a function of the nature of the public authority and partly a function of the action sought to be enjoined. The test will nearly always be satisfied simply upon proof that the authority is charged with the duty of promoting or protecting the public interest and upon some indication that the impugned legislation, regulation, or activity was undertaken pursuant to that responsibility. Once these minimal requirements have been met, the court should in most case assume irreparable harm to the public interest would result from the restrain of that action. 
+ " (My emphasis) 
+ 
+ 
+ 
+ [29] 
+  I also make reference to Justice Mosley's December 22nd 2010 decision in IMM-7229-10,  
+ Canada (M.C.I.) v. B071 
+ , which dealt with a 33 year old married woman of Sri Lankan ethnicity who had purchased passage on the Sun Sea. At the relevant detention review at which the Member of the I.D. released the respondent who was the subject of a section 44(2) referral by the Minister's Delegate on ground she had been employed at the head office of a bank in Sri Lanka allegedly controlled by the LTTE. The Minister at the hearing opposed release on the grounds of unlikely to appear with 245(f) and (g) specifically engaged but was rebuffed by the Member. The Minister also argued the terms of release before Justice Mosley that the Member had released the person concerned on unreasonable terms and conditions. Justice Mosley was satisfied that one or more of these grounds raised a serious issue on the arguable issue standard. He also ruled the Minister would suffer irreparable harm should the respondent not appear at her admissibility hearing and not be available for removal the Minister would be prevented from fulfilling his statutory obligations. Justice Mosley recognized the force of the Respondent's argument that the prospect of an admissibility hearing alone is not a good ground for detention because the outcome of that hearing could not be presumed and that should a removal order be issued it would not necessarily be executed given the number of processes available to the respondent. He was urged, as I was, to apply Justice Harrington's decision in  
+ Canada (Minister of Public Safety and Emergency Preparedness) v. Steer 
+ , [2010] F.T.R. Uned. 552; 2010 FC 830. Justice Mosley declined to do so as the two cases were not comparable because the respondent in  
+ Steer 
+  was a short leash, was employed and had a long history of appearing for judicial proceedings in Canada. He concluded: 
+ 
+ 
+ 
+ "In this case, the respondent is a young female  
+ with no ties to this country who took advantage of a large-scale smuggling operation and is alleged to be a member of a terrorist organization which controlled the bank at which she was employed 
+ . I am satisfied that the applicant has established that there would be irreparable harm to the public interest in the orderly administration of the law if the motion is not granted and the respondent is released and did not appear for the admissibility hearing in which these allegations can be more closely examined. I note also that she is entitled to another detention review hearing within thirty days. In these circumstances, I consider that the balance of convenience favours the applicant and that status quo should be maintained until such time as the merits of the underlying application can be considered or another detention review is conducted." 
+ 
+ 
+ 
+ [30] 
+  Finally, I refer to Justice de Montigny's  
+ judicial review decision 
+  of December 20, 2010 in  
+ Canada (Minister of Citizenship and Immigration) v. B157 
+  (2010), 379 F.T.R. 251; 2010 FC 1314. That case involved a 30 year old single Sri Lankan citizen who arrived on the Sun Sea. At the last detention review hearing the Minister had urged the respondent remain detained as he was a flight risk, that is was unlikely to appear for his immigration processes including an admissibility hearing to determine whether the respondent was inadmissible on security grounds and therefore ineligible to make a refugee claim, the same grounds invoked by the Minister in the case before me, i.e., inadmissibility under subsection 34(1)(f) of the  
+ IRPA 
+ . Again paragraph 245(f) and (g) were relevant. 
+ 
+ 
+ 
+ [31] 
+  Justice de Montigny had granted the Minister a stay of release from detention and expedited the hearing of the judicial review application. He decided on the judicial review that the Member had erred in ordering the release of the respondent. 
+ 
+ 
+ 
+ [32] 
+  On the other hand, the respondent sought release on the basis of a bond to be posted by his sister in law's brother in Canada but the evidence before the Member was that this person did not know the respondent and nothing about his history. Justice de Montigny stated the issues before him were: 
+ 
+ 
+ 
+ a. Whether the Member effectively ignored section 245 of the  
+ Regulations 
+  and in particular 245(f) and (g) basing his decision instead of his own speculative belief that the respondent has a motive to pursue his refuge claim; 
+ 
+ 
+ 
+ b. Whether the Member erred in failing to consider the likehood that the respondent would appear for all his immigration processes including his ultimate removal from Canada and; 
+ 
+ 
+ 
+ c. Whether the terms and conditions upon which the Member was released are unreasonable. 
+ 
+ 
+ 
+ [33] 
+  He applied the standard of review of reasonableness to these questions because the errors alleged turned on the application of the relevant factors to the facts of the case. 
+ 
+ 
+ 
+ [34] 
+  Justice de Montigny ruled that the Member had erred in the application of 245(f) the smuggling factor because he discounted the debt owed to the smugglers and the vulnerability that entailed. He also found that the Member erred in his application of 245(g) the strong ties in Canada factor since the respondent had very tenuous ties to Canada. 
+ 
+ 
+ 
+ [35] 
+  Justice de Montigny concluded the Minister erred by ordering unreasonable terms and conditions because the Member never did assess the capacity of the proposed bondsperson to control the respondent's actions and knew very little of his background. 
+ 
+ 
+ 
+ [36] 
+  In my view the Minister's application for a stay of release must succeed. Serious issues have been established on a elevated scale because (1) the terms of release were unreasonable in that the Member herself acknowledged the relationship with the bondsperson was tenuous and was a ground for detention. As well, the Member did not examine the issue of that person's capacity to control the Respondent contrary to the jurisprudence and paragraph 47(2)(b) of the  
+ IRPR 
+ . A cash bond of $500 is unreasonable taking into account all relevant circumstances including the fact that the Respondent owed his smugglers an amount vastly superior to the bond amount and by the Member's own admission was a flight risk and was vulnerable to be influence by his smugglers, (2) the manner in which the Member approached and applied section 248 was unreasonable. Section 248 are [sic] additional factors to be taken into account when grounds of detention have been established. The scheme of the  
+ IRPR 
+  requires a balancing of relevant 245 and 248 factors. There is a serious issue whether the Member properly balanced the factors. (3) The Member's dismissing out of turn the danger to the public ground raised a serious issue on the fact that the Respondent admitted he had worked for the LTTE and would have to establish the element of duress of which there was no evidence before me. 
+ 
+ 
+ 
+ [37] 
+  Irreparable harm flows for the reasons given by my colleagues on the impact of the public interest in the context of the administration of Canada's immigration laws and the balance of convenience favours the Minister as it maintains the status quo. Having said this I readily realize the Respondent's liberty interests are at stake and, under normal circumstances, release might be justified. But the manner in which the Respondent arrived in Canada as part of a large smuggling operation tips the balance for the Minister FRAGMENT_SUPPRESSED 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [38] 
+   
+ THIS COURT ORDERS THAT 
+ : 
+ 
+ 
+ 
+ 1. The motion for a stay is granted. 
+ 
+ 
+ 
+ 2. The Respondent's release from detention is stayed until the earlier either the determination of the Minister's application for judicial review on the merits or the Respondent's next statutorily required detention review hearing. 
+ 
+ 
+ 
+ 3. The application for leave is granted and the application for judicial review is deemed to have been commenced. 
+ 
+ 
+ 
+ 4. The hearing of this matter shall take place before this Court by video-conference on Wednesday January 26th 2011 at 12:30 p.m. (Eastern time) at 90 Sparks Street., 7th floor, in the City of Ottawa, Province of Ontario and at 9:30 a.m. (Pacific time) from the Court at 701 West Georgia Street, 7th floor, room 715, in the City of Vancouver, Province of British-Columbia, for a duration of two (2) hours. 
+ 
+ 
+ 
+ a. The requirement that the tribunal send certified copies of its record to the parties and the registry of the Court has been satisfied. 
+ 
+ 
+ 
+ b. Further affidavits, if any, shall be served and filed by the Applicant on or before January 6, 2011. 
+ 
+ 
+ 
+ c. Further affidavits, if any, shall be served and filed by the Respondent on or before January 7, 2011. 
+ 
+ 
+ 
+ d. Cross-examinations, if any, on affidavits shall be completed on or before January 11, 2011. 
+ 
+ 
+ 
+ e. The Applicant's further memorandum of argument, if any, shall be served and filed on or before January 14, 2011. 
+ 
+ 
+ 
+ f. The Respondent's further memorandum of argument, if any, shall be served and filed on or before January 20, 2011. 
+ 
+ 
+ 
+ g. The transcript of cross-examinations, if any, shall be filed on or before January 20, 2011. 
+ 
+ 
+ 
+ 5. The identity of the Respondent shall remain confidential and the style of cause in the proceedings and all documents filed or delivered in connections with the Application for Leave and for Judicial Review shall refer to her as "B236". 
+ 
+ 
+ 
+ 6. The Applicant may file a redacted Application for Leave and for Judicial Review and all redacted documents filed or delivered in connection therewith shall be sealed and treated as confidential. 
+ 
+ 
+ 
+ Motion granted. 
+ 
+ 
+ 
+ Editor: Sharon McCartney/vnh 
+ 
+ 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

@@ -1,0 +1,10 @@
+[30]
+The standard of review for an application under section 44 of the
+Act
+, where exemptions under section 20 are claimed, is correctness. Section 44 provides as follows:
+"44(1) Any third party to whom the head of a government institution is required under paragraph 28(1)(b) or subsection 29(1) to give a notice of a decision to disclose a record or a part thereof under this Act may, within twenty days after the notice is given, apply to the Court for a review of the matter.
+"(2) The head of a government institution who has given notice under paragraph 28(1)(b) or subsection 29(1) that a record requested under this Act or a part thereof will be disclosed shall forthwith on being given notice of an application made under subsection (1) in respect of the disclosure give written notice of the application to the person who requested access to the record.
+"(3) Any person who has been given notice of an application for a review under subsection (2) may appear as a party to the review."
+"44(1) Le tiers que le responsable d'une institution fédérale est tenu, en vertu de l'alinéa 28(1)b) ou du paragraphe 29(1), d'aviser de la communication totale ou partielle d'un document peut, dans les vingt jours suivant la transmission de l'avis, exercer un recours en révision devant la Cour.
+"(2) Le responsable d'une institution fédérale qui a donné avis de communication totale ou partielle d'un document en vertu de l'alinéa 28(1)b) ou du paragraphe 29(1) est tenu, sur réception d'un avis de recours en révision de cette décision, d'en aviser par écrit la personne qui avait demandé communication du document.
+"(3) La personne qui est avisée conformément au paragraphe (2) peut comparaître comme partie à l'instance."

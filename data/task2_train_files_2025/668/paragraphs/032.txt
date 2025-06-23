@@ -1,0 +1,6 @@
+[32]
+The respondent's most convincing argument, and one on which the Board relied, is that the Board would exceed its jurisdiction if it was asked to construe the claims of the patent. At page 17 of its decision, the Board stated [see footnote 11]:
+"... the Board notes that its mandate under the
+[Patent] Act
+requires it to have experience and expertise in the pricing of patented medicines. In carrying out that mandate, the Board does not consider that it has either the further mandate or the necessary experience and expertise to review a patent prosecution file, follow the history of the patent claims as they are assessed, revised, and then included in the issued patent, review the medical literature extant at the time of the patent application and then apply the voluminous case law cited by the respondents [the applicants before this court] with a view to concluding that some or all of the claims in the Patent should be limited in scope or otherwise found to mean something different from what they say."
+Counsel for the respondent urged me to follow the Board's lead, noting that the court, in the context of this judicial review, should not be asked to construe the claims of the '265 Patent.

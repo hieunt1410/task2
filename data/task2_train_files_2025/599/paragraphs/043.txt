@@ -1,0 +1,9 @@
+[43]
+The courts have often accepted that taxing statutes constitute complete codes into which the legislature did not intend them to import general legal principles, rules or remedies. For example, in
+Marcel Grand Cirque Inc. v. Québec (Sous-ministre du Revenu)
+(1995), 107 F.T.R. 18, 21 (T.D.), this court held that it had no jurisdiction to entertain a motion in revocation of judgment in respect of a certificate filed with the court in which the taxpayer sought to challenge the assessment of tax on which the certificate was based:
+"The
+Excise Tax Act
+, like the
+Income Tax Act
+, ... contains in effect a complete code for the collection of taxes pursuant to which a taxpayer, after receiving a notice of assessment, may file a notice of opposition and possibly appeal to the Tax Court of Canada."

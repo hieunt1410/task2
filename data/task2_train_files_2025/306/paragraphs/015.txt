@@ -1,0 +1,28 @@
+[15]
+There was a good deal of evidence as to the meaning of the term "hydraulic locks". Witnesses Fernström, Lindholm, Kimber, Rönne and Dr. Lundquist were all asked questions about it. In the final analysis, Dr. Lundquist who was being cross-examined by counsel for the plaintiff, conceded that a hydraulic lock defined in Exhibit 75 1959 textbook was correct after the following exchange at pp. 1359-60-61 of the evidence:
+"Q.	The 1949 text actually defined a 'hydraulic lock' as a valve which prevents flow in a particular line until flow from another line arrives to permit it, i.e., unlocking. Is that your memory of what the text said?
+A.	I would have to look at it. It has been quite a period of time since I looked at that book. I do have it here if you would like me to look.
+Q.	Well, perhaps we could look at it.
+A.	I am looking at this book which I have checked out from the library at Ohio State University. It is by H.G. Conway. It is titled, '
+Fluid Pressure Mechanisms
+' and it is dated 1949.
+On page 110 of that book, reading from the first sentence on page 110, it says: 'A hydraulic lock is a valve which prevents flow in a particular line until fluid from another line arrives to permit it...'
+Q.	i.e., unlocking it?
+A.	Yes. And then, in parentheses: '... (i.e., unlocking it).'
+Q.	Thank you. Do you accept that definition as corresponding with the meaning to be given to the expression 'hydraulic locks' as it might have been used by an engineer writing a report to other engineerings (sic) in the year 1966?
+A.	Yes, I believe that is quite possible.
+Q.	It is really equivalent to the meaning you attributed to the expression 'hydraulic locks' in the patent when you called them 'pilot check valves'.
+A.	Yes. That definition that I just read from this book would correspond quite well to what I call a 'piloted check valve'.
+Q.	And I believe that according to the evidence that you gave that pilot
+--check valves can be of many different constructions, as long as they perform the function of preventing flow in a particular line until flow in another line arrives to permit
+--
+A.	Yes, I would think the physical construction was not important and
+what we are talking about is the function
+.
+Q.	Will you agree that, usually, the arriving fluid moves some mechancial part of the valve to permit the flow?
+A.	That would probably always be the case. It is certainly the type of valve that I am familiar with.
+Q.	As, for instance, in the case of the hydraulic locks shown in Figure 6 of the patent.
+A.	Yes, the hydraulic lock that is shown in Figure 6 of the patent."
+(underlining added)
+Then follows a request that the witness be shown Figure 6 which is Exhibit P-1 and then at page 136:
+"The Witness: Yes. The construction that is shown in Figure 6 of Exhibit P-1, the Kimber patent, is virtually identical to one of the constructions that is shown in this book."

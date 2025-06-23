@@ -1,0 +1,53 @@
+[1]
+Hargrave, Prothonotary
+: These reasons deal with four motions in writing in two actions in which Kenneth R. McKenzie, as plaintiff, sues the Crown in order to obtain various declarations pursuant to s. 2 of the
+Canadian Charter of Rights and Freedoms
+. Mr. McKenzie's two motions are for default judgment. The Crown's motions are to strike out the Statements of Claim, without leave to amend. In the case of action T-1469-97 the Crown submits that the Statement of Claim ought to be struck out on various grounds, including a failure to plead essential particulars and as a Statement of Claim which discloses no reasonable cause of action, is immaterial or redundant, is scandalous, frivolous or vexatious, or is otherwise an abuse of process, constituting most of the grounds under rule 419(1). In the case of action T-1510-97 the Crown submits there is a want of a reasonable cause of action (rule 419(1)(a)).
+[2]
+The Statement of Claim in action T-1469-97 is very brief. It sets out that a Royal Canadian Mounted Police officer wrongfully served seven documents on the plaintiff, which documents the plaintiff does not identify other than by referring to them as affidavits, at the office of the Vancouver Commercial Crimes section of the RCMP. The plaintiff wishes the seven affidavits and the exhibit to each be declared in violation of s. 2(d) of the
+Charter
+.
+[3]
+The Statement of Claim in action T-1510-97, which also relies on s. 2 of the
+Charter
+, is much longer. It seems to consist, at least in part, of a running commentary on and of fragments of transcript, interspersed with allegations of perjury and allegations of error on the part of the presiding judge in a British Columbia Provincial Court matter, a proceeding involving an alleged failure to file income tax returns in 1988 through 1994, heard on 8 January 1997. However, the Statement of Claim also refers to a wrongfully altering of exhibits filed in the B.C. Supreme Court. The plaintiff seeks declarations that the proceedings leading up to the trials in the Provincial Court and in the B.C. Supreme Court and the trials themselves infringe the plaintiff's rights and freedoms under the
+Charter
+.
+Analysis
+Motions For Default Judgment:
+[4]
+The Statements of Claim were filed 8 and 14 July 1997. The plaintiff's motions for default were filed in mid August and in early September, not long after the 30 day time for filing of defences had run. A default judgment is never automatic, but is at the discretion of the court:
+FRAGMENT_SUPPRESSED. In this instance there are two reasons to exercise discretion and deny default judgments to the plaintiff. First, where
+Charter
+questions are the issue, it is not appropriate to grant a remedy by default judgment:
+Laird v. Minister of National Revenue
+(1987), 9 F.T.R. 121 (T.D.), at p. 122. Second, it would be improper to grant default judgments in actions in which the facts set out are as confusing and as unclear as in the present two Statements of Claim. I now turn to the motions to strike out, which were also filed promptly.
+Motions To Strike Out:
+[5]
+The onus on a party seeking to strike out a pleading is a heavy one: the test to apply under rule 419(1) is very strict. The party bringing the motion must show it to be plain, obvious and beyond doubt that the pleading will not succeed. Where the issue is the want of a reasonable cause of action the facts are to be assumed proven, unless, of course, they are too far fetched to be believable. Only where an action is futile should a statement of claim be struck out. The possibility of a cure by amendment should be looked upon favourably: only if there is no scintilla of a cause of action should a claim be struck out without leave to amend. Finally, affidavit evidence, except where jurisdiction is an issue, is not permitted in order to show a want of a cause of action under rule 419(1)(a).
+[6]
+The Statement of Claim in action T-1469-97 errs, on its face, in being so brief and devoid of material factual information as to be impossible to understand and to answer. As I pointed out in
+Sim v. Canada
+(1995), 98 F.T.R. 92 (T.D. Protho.), at p. 98, a statement of claim should be a readable narrative so that by following it through to its conclusion both the defendant and the court may understand the plaintiff's claim. In the absence of such an understandable factual narrative, as is the case here, the statement of claim should be struck out as vexatious, frivolous, embarrassing to the defendant and, overall, an abuse of process.
+[7]
+As to amendment, the plaintiff has filed argument and an affidavit in opposition to the defendant's motion to strike out action T-1469-97. It seems that the affidavits and exhibits which the plaintiff wishes to have declared to be a violation to his
+Charter
+rights, are affidavits sworn by an officer of the R.C.M.P. who deposes that on 13 December 1995 he served a letter from the Director of Taxation, Revenue Canada, Vancouver District Office, on the plaintiff, requiring the plaintiff to file a tax return for 1994. The exhibit letter sets out the penalties for failing to file a tax return. It would seem the other six affidavits are similar, as set out in the plaintiff's Statement of Claim in action T-1510-97, being requests for tax returns for the years 1988 through 1993. I do not see how the service of such letters on the plaintiff, let alone the affidavits and attached letters themselves, might be a violation of the plaintiff's
+Charter
+rights. There is no scintilla of a cause of action. Thus, the Statement of Claim in action T-1469-97 is struck out without leave to amend.
+[8]
+Turning to the second Statement of Claim, that in action T-1510-97, it is substantial in length, but equally confusing, to the point that it would be difficult, if not impossible, for the court to regulate. This is reason enough to strike out the Statement of Claim as an abuse of process. However, I have read through the Statement of Claim with a view to giving the plaintiff the benefit of any doubt, for to strike out a statement of claim, thus denying a person his or her day in court, is a drastic remedy. The Statement of Claim, to a substantial degree, seems to be an attempt to retry or to appeal from a B.C. Provincial Court trial which took place 8 January 1997. The plaintiff says many instances of error, perjury, and what he refers to as false testimony, occurred during the trial. The Statement of Claim concludes with a paragraph alleging the improper alteration of exhibits in a B.C. Supreme Court action, apparently the appeal of the B.C. Provincial Court action. Mr. McKenzie then seeks declarations that the proceedings leading up to the two trials, the B.C. Provincial Court trial and the B.C. Supreme Court decision, infringe on his rights and freedoms under s. 2 of the
+Charter
+, a section setting out the fundamental freedoms including of conscience and religion, of thought, belief, opinion and expression, of assembly and of association.
+[9]
+I am unable to follow the process whereby the plaintiff transmutes his allegations into the remedies claimed. The plaintiff's written submissions do not assist. Even assuming the allegations to be true, as I ought for the purpose of this motion, I am unable to find any reasonable cause of action on which to found the action.
+[10]
+As to any amendment of the Statement of Claim in action T-1510-97, I would make two observations. First, the Federal Court does not provide a forum in which to retry or appeal from decisions of the courts of a province. Second, as the plaintiff himself points out in his written argument, the declarations he seeks are as to personal private information made public by the B.C. Provincial Court (first declaration), as to matters relating to perjury which are the responsibility of the Attorney General of British Columbia (second through tenth declarations), and as to the conduct of the Provincial Court of British Columbia (eleventh through 16th declarations). These are clearly matters to be dealt with within the British Columbia Court system. There is no possible chance of an amendment to cure these deficiencies. The Statement of Claim in action T-1510-97 is struck out without leave to amend.
+Costs
+[11]
+The Crown does not seek costs in action T-1469-97. That may be consistent with the concept of allowing a reasonable inexperienced lay litigant to try his or her hand at litigation, without inordinate fear of a contrary award of costs, so long as the proceedings are neither abusive nor too complex and time consuming. However, had the Crown sought costs in this first action I should have awarded them, for Mr. McKenzie has both filed a Statement of Claim that abuses the procedure of the court and does not appear to be an entirely inexperienced litigant.
+[12]
+The Crown does seek costs in action T-1510-97. I see no reason why this should be denied. The Statement of Claim is involved and would be an impossible proceeding to regulate. As such it is an abuse. The Crown has spent time preparing written argument. Costs will be a lump sum of $500, which is consistent with taxation under Column III.
+Order accordingly.
+Editor: Angela E. McKay/saf
+[End of document]

@@ -1,0 +1,14 @@
+[33]
+The Tunmec Patent Exhibit # P-23:
+"It is a more modern version of the scissors type of arrangement where you have instead ... where you have a rotation device in the rear end and you have a boom body with a scissors arrangement creating the same parallelity of the feed as a mechanical parallel holding.
+Q.	Referring to the patent, in your opinion do you find that it teaches anything about hydraulic parallel holding invention described in the Kimber and Rönne patent number 886, - 975?
+A.	Nothing. No.
+Q.	What if anything do you find it teaches about the feed rollover invention ... that is the feed rollover patents.
+A.	Nothing. Of course it is a base rotation."
+The Smith Patent Exhibit P-24 - Mr. Fernström described this rock drill as:
+"a very old-fashioned method of what we call bar and arm arrangement ... and this was used for drilling long holes in mines. ... And as an indexing device. ... You only drill in the position you have set up. You move the feed slightly to the side so that you can put something else in the hole, either a longer drill steel or a mechanical bolt or something."
+The Bronder Patent Exhibit P-25 (pages 130-131 of the evidence):
+"... it is a polar boom; you rotate the boom and lift the boom to get to a position to drill a hole.
+"Q.	What kind of hydraulic system does it...
+A.	It has a hydraulic system where they try to arrange a hydraulic parallel keeping system in another way which is very much different to our patent because instead of using a pilot cylinder and a dump cylinder they use the return oil. It is a direct open circuit where you use the return oil to try to create parallelity with the feed."
+Again Mr. Fernström could not find anything in Bronder that teaches or suggests a hydraulic parallel keeping system for a cartesian boom like that described in Kimber and Rönne.

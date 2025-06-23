@@ -1,0 +1,148 @@
+[1]
+Noël, J.
+[Translation]: This is a motion by the defendant pursuant to s. 51(1) of the
+Federal Court Rules
+to appeal part of the order by Prothonotary R. Morneau ("Prothonotary") dated December 15, 2005, in which the Prothonotary sustained the objection of counsel for the plaintiff ("Defargo") to certain questions asked during the examination of counsel for the defendant.
+[2]
+The examination took place in connection with an action for a declaratory judgment of non-infringement of patents held by Fieldturf. Defargo’s products are synthetic grass products (models AstroPlay®N and AstroPlay® Plus). The defendant added a counterclaim to its defence, in which it seeks a declaration that the Defargo products installed at Concordia University infringe two of its patents and claims damages in the amount of $100,000.00.
+[3]
+At the motion hearing, counsel for the defendant informed the Court that, of the three (3) questions to which an objection was sustained by the Prothonotary, only one remained subject to appeal:
+(Translation) "Provide a list of synthetic turf surfaces sold or installed in Canada by the plaintiff and having the characteristics described in paragraphs 4(a) and (b) of the amended defence and counterclaim [sic, the statement of claim] ; indicate the parameters for each case."
+[4]
+In his decision dated December 15, 2005, the Prothonotary sustained the objection for the following reasons:
+"10. As far as the questions and requests in categories A and D are concerned, they do not have to be answered, because the information sought is not relevant, since it is contrary to the scheme of my decision rendered on October 19, 2004 in this file, in which I ruled that the products as described by Defargo in its statement of claim could be the subject of an action under s. 60(2) of the
+Patent Act
+. My decision rendered on April 27, 2005 in T-3375-05 reinforces the distinction to be made between a more theoretical description (T-491-04) and actual installations (T-375-05)."
+[5]
+The decision in this case to which the Prothonotary refers, dated October 19, 2004, dismissed the defendant’s motion to strike the action for declaration of non-infringement, the main grounds for that motion being that the action asked the Court to intervene in a factual vacuum, that any judgment in the matter would serve no practical purpose, and that the actions in infringement related to Defargo’s products had already been filed with this Court and the Quebec Superior Court.
+[6]
+The other decision to which the Prothonotary refers is one dated April 27, 2005 in another case, T-375-05. In this case, Fieldturf had brought a claim of infringement against Defargo, alleging infringement of a patent related to the three (3) synthetic grass fields sold to and installed for the City of Montréal. Fieldturf also claimed damages in this case. Defargo filed a motion to strike this statement of claim and alternative conclusions, its main argument being that there was a duplication of proceedings between the case at bar and T-375-05. The Prothonotary dismissed the motion, the main reason being that the synthetic grass products installed for the City of Montréal were different from the ones described in the statement of claim in the case at bar.
+[7]
+The standard of review for a decision by a prothonotary was established by the Federal Court of Appeal (per MacGuigan, J.A.), in
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425; 149 N.R. 273; [1993] F.C.J. No. 103 (F.C.A.), at paragraph 64. The standard was refined by Décary, J.A, in
+Merck & Co. et al. v. Apotex Inc.
+, [2003] F.C.J. No. 1925; [2004] 2 F.C.R. 459; 315 N.R. 175; 2003 FCA 488, at paragraph 19:
+"To avoid the confusion which we have seen from time to time arising from the wording used by MacGuigan, J.A., I think it is appropriate to slightly reformulate the test for the standard of review. I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read: 'Discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless: (a) the questions raised in the motion are vital to the final issue of the case, or (b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts.'"
+[8]
+First of all, it is obvious that sustaining the objection to the question reproduced at paragraph 3 of the present decision is not a question that could be characterized as "vital to the final issues of a case". FRAGMENT_SUPPRESSED
+The question currently in dispute concerns the gathering of information in support of the proceeding, and in this respect the answer is not vital to the final issues of the case.
+[9]
+Therefore, all that remains to be determined is whether the decision is clearly wrong, such that the exercise of discretion by the Prothonotary was based upon a wrong principle or a misapprehension of facts.
+[10]
+In his decision, the Prothonotary refers to
+Reading & Bates Construction Co. v. Baker Energy Resources Co., Baker Marine Co. and Gaz Inter-Cité Quebec Inc.
+, [1988] F.C.J. No. 1025; 25 F.T.R. 226 (T.D.), at paragraph 11, in which the factors to be considered when assessing the merit of an objection to a question were established:
+"1. The test as to what documents are required to be produced is simply relevance. The test of relevance is not a matter for the exercise of the discretion. What documents parties are entitled to is a matter of law, not a matter of discretion. The principle for determining what document properly relates to the matters in issue is that it must be one which might reasonably be supposed to contain information which may directly or indirectly enable the party requiring production to advance his own case or to damage the case of his adversary, or which might fairly lead him to a train of inquiry that could have either of these consequences:
+Trigg v. MI Movers Int'l Transport Services Ltd.
+(1986),
+13 C.P.C.(2d) 150
+(Ont. H.C.);
+Canex Placer Ltd. v. A.-G. B.C.
+(1975),
+63 D.L.R.(3d) 282
+; and
+Compagnie Financiere et Commerciale du Pacifique v. Peruvian Guano Co.
+(1882), 11 Q.B.D. 55 (C.A.).
+"2. On an examination for discovery prior to the commencement of a reference that has been directed, the party being examined need only answer questions directed to the actual issues raised by the reference. Conversely, questions relating to information which has already been produced and questions which are too general or ask for an opinion or are outside the scope of the reference need not be answered by a witness:
+Algonquin Mercantile Corp. v. Dart Industries Canada Ltd.
+(1984),
+82 C.P.R.(2d) 36
+(F.C.T.D.); affirmed
+1 C.P.R.(3d) 242
+(F.C.A.).
+"3. The propriety of any question on discovery must be determined on the basis of its relevance to the facts pleaded in the statement of claim as constituting the cause of action rather than on its relevance to facts which the plaintiff proposes to prove to establish the facts constituting the cause of action. Additionally, where a reference has been directed, the application of Rule 465(15) requires that the answers on discovery be restricted to questions as to facts that may prove or tend to prove or disprove or tend to disprove any unadmitted allegation of fact placed in issue on the reference:
+Armstrong Cork Canada Ltd. v. Domco Industries Ltd.
+(1983),
+71 C.P.R.(2d) 5
+; 48 N.R. 157 (F.C.A.).
+"4. The court should not compel answers to questions which, although they might be considered relevant, are not at all likely to advance in any way the questioning party's legal position:
+Canex Placer Ltd. v. A.-G. B.C.
+, supra; and
+Smith, Kline & French Laboratories Ltd. v. A.-G. Can.
+(1982),
+67 C.P.R.(2d) 103
+, at p. 108.
+"5. Before compelling an answer to any question on an examination for discovery, the court must weigh the probability of the usefulness of the answer to the party seeking the information, with the time, trouble, expense and difficulty involved in obtaining it. Where on the one hand both the probative value and the usefulness of the answer to the examining party would appear to be, at the most, minimal and where, on the other hand, obtaining the answer would involve great difficulty and a considerable expenditure of time and effort to the party being examined, the court should not compel an answer. One must look at what is reasonable and fair under the circumstances:
+Smith, Kline & French Ltd. v. A.-G. Can.
+, per Addy, J., at p. 109.
+"6. The ambit of questions on discovery must be restricted to unadmitted allegations of fact in the pleadings, and fishing expeditions by way of a vague, far-reaching or an irrelevant line of questioning are to be discouraged:
+Carnation Foods Co. Ltd. v. Amfac Foods Inc.
+(1982),
+63 C.P.R.(2d) 203
+(F.C.A.); and
+Beloit Canada Ltee/Ltd. v. Valmet Oy
+(1981),
+60 C.P.R.(2d) 145
+(F.C.T.D.)."
+[11]
+In its action for a declaratory judgement of non-infringement (cause of action), Defargo alleges the following:
+(Translation) "3. The plaintiff has been active in the sale and installation of synthetic grass surfaces across Canada since the year 2000.
+"4. The plaintiff sells several types of synthetic grass surfaces, including the following makes:
+(a) AstroPlay®Plus, a make with a 3/8-inch space between rows of synthetic grass fibres and an approximately 44-millimetre-high rubber in-fill;
+b) AstroPlay®N, a make with a ¾-inch space between rows of 61 or 64-millimetre-high synthetic grass fibres and an approximately 52-millimetre-high rubber in-fill.
+"6. The plaintiff sold and installed the Products and, more specifically, sold AstroPlay®N-type synthetic grass surfaces to Concordia University and installed said surfaces for the University.
+"24. As stated above, the plaintiff sells and installs synthetic grass surfaces with the abovementioned characteristics."
+[12]
+Defargo accordingly asks the Court to declare (Translation) "that the plaintiff has not infringed Canadian patents No. 2095 158, No. 2 218314 and No. 2 247 484 in using, distributing, selling or otherwise disposing of said products".
+[13]
+In its defence, Fieldturf denies that the products sold and installed by the plaintiff are those described in paragraphs 4(a) and (b) of the statement of claim (see paragraphs 3 and 4 of the amended defence).
+[14]
+The legal basis for an action for a declaratory judgement of non-infringement is s. 60(2) of the
+Patent Act
+, R.S., 1985, c. P-4:
+"60(2) Where any person has reasonable cause to believe that any process used or proposed to be used or any article made, used or sold or proposed to be made, used or sold by him might be alleged by any patentee to constitute an infringement of an exclusive property or privilege granted thereby, he may bring an action in the Federal Court against the patentee for a declaration that the process or article does not or would not constitute an infringement of the exclusive property or privilege."
+[15]
+In both the action for a declaratory judgment of non-infringement and s. 60(2) of the
+Patent Act
+, very specific reference is made to articles and products sold, not just the possible sale of these articles. Furthermore, it is asked that the products to be distributed and sold be declared not to constitute an infringement of Fieldturf’s patents.
+[16]
+I would add that paragraph 6 of the declaration of non-infringement clearly states that Defargo sold the products (more specifically, synthetic grass surfaces) to Concordia University and installed them. In the defence, as already mentioned, Fieldturf denied that the products described in paragraphs 4(a) and (b) are sold by the plaintiff.
+[17]
+The question reproduced in paragraph 3 could help yield more information on the issue of whether or not the products in question were sold and installed. The Prothonotary nevertheless sustained the objection on the ground the information sought through this question was "contrary to the scheme of my decision rendered on October 19, 2004 in this file, in which I ruled that the products as described by Defargo in its statement of claim could be the subject of an action under s. 60(2) of the
+Patent Act
+".
+[18]
+With respect for the Prothonotary, I believe this statement is clearly wrong, such that the exercise of discretion by the Prothonotary was based upon a wrong principle not having been applied for the purposes of determining the question. The tests in
+Reading & Bates Construction Co.
+, supra, apply in such circumstances, and the Prothonotary failed to apply them, as I will explain:
+- The action for a declaratory judgment of non-infringement specifically mentions several times that the product having the characteristics described in paragraphs 4(a) and (b) was sold to and installed for, "more specifically", Concordia University;
+- In its amended defence, Fieldturf denies that the products sold and installed were those mentioned in paragraphs 4(a) and (b) of the statement of claim;
+- Section 60(2) of the
+Patent Act
+specifically includes the sale of articles;
+- Non-infringement of Fieldturf’s patents by Defargo’s product (described in paragraphs 4(a) and (b) of the statement of claim) is at the very heart of the dispute stemming from the proceeding;
+- The question under consideration requires information arising from allegations in the declaration of non-infringement (paragraphs 3, 6 and 24) and the main declaration sought;
+- The question is relevant to the facts alleged in the statement of claim and the cause of action (paragraphs 3, 6 and 24);
+- Answering the question will allow the parties to specify their respective claims in legal terms;
+- The Court has no information regarding the consequences of such a question or the excessive complications or astronomical costs that could result, since Defargo has not introduced any evidence on this subject;
+- An answer to this question could be useful for both parties;
+- In my view, the question is neither too general nor unrelated to the allegations of fact in the statement of claim;
+- As worded, the question should be allowed based on tests 2, 3, 4, 5 and 6 in
+Reading & Bates Construction Co.
+, supra.
+[19]
+The references to the decisions dated October 19, 2004 and April 27, 2005 in T-375-05, upon which the Prothonotary relies to support his view that the question is not relevant are not, in my view, convincing. In my opinion, the question and the objection to it should be analysed in light of the parties’ proceedings, that is, the statement of claim and the amended defence, as well as the counterclaim. These proceedings allow us to assess whether or not the relevance is sufficient to sustain a given objection. I do not think that the "scheme" of a decision (i.e., the decision dated October 19, 2004) or the distinction to be made between a "more theoretical decision" (T-491-04) and "actual installations" (T-375-05) are relevant considerations, given the factors in
+Reading & Bates Construction Co.
+, supra. Each case must be assessed independently. As officer in charge of case management for certain related cases, a prothonotary may take into consideration all of cases before him or her that involve the same parties and same cause of action. The prothonotary must nevertheless apply the test in
+Reading & Bates Construction Co.
+, supra, when he or she has to rule on an objection to a question in connection with an examination.
+[20]
+I believe I understand the Prothonotary’s reasons for referring back to the two decisions to justify the relevance of a question, or the lack thereof. However, I think the objectives of achieving a decisional scheme and distinguishing between proceedings are in themselves laudable but, in my view, are not useful when disposing of an objection to a question in the context of an examination arising out of judicial proceedings.
+[21]
+Having concluded as I have, I feel it necessary to evaluate the relevance of the question, given that I must consider the situation de novo. For the reasons mentioned, particularly at paragraph 18 of this order, I think that the question (see paragraph 3 of this order) is relevant and requires an answer. The objection to this question is therefore overruled.
+[22]
+Given the special nature of the case and the question, I refer the case back to the Prothonotary in charge of case management so that the terms and conditions of the answer may be established.
+[23]
+On the question of costs in the present proceeding, costs are allowed for the defendant.
+ORDER
+[24]
+FOR THESE REASONS, THE COURT ORDERS THE FOLLOWING:
+- The motion on appeal from the decision of the Prothonotary is granted;
+- The objection to the question is overruled;
+- Counsel for the plaintiff shall answer the following question:
+"Provide a list of synthetic turf surfaces sold or installed in Canada by the plaintiff and having the characteristics described in paragraphs 4(a) and (b) of the amended defence and counterclaim [sic, the statement of claim] ; indicate the parameters for each case";
+- The terms and conditions for answering the question will be determined by the Prothonotary, and the case is referred back to him accordingly;
+- The costs of the present proceeding are in favour of the defendant.
+Motion granted.
+Editor: Anick Ouellette-Levesque/gs

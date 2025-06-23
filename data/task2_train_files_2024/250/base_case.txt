@@ -1,0 +1,82 @@
+Clancy v. Can., [2002] F.T.R. Uned. 855 (TD)
+MLB unedited judgment
+Mary Clancy, applicant citizen (applicant) v. The Minister of Health (respondent)
+(T-1224-02; 2002 FCT 1331)
+Indexed As: Clancy v. Canada (Minister of Health)
+Cite As: [2002] F.T.R. Uned. 855
+Federal Court of Canada
+Trial Division
+Blanchard, J.
+December 31, 2002.
+Counsel:
+Mary Clancy, for the applicant, on her own behalf;
+Melissa R. Cameron, for the respondent.
+Solicitors of Record:
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Blanchard, J.
+: This is a motion by the respondent Minister of Health for an order striking out the applicant's application for judicial review of the July 18, 2002 decision of the Information Commissioner for Canada (ICC). The respondent also requests costs of the motion and in the alternative an extension of time in order to serve and file its affidavit should the within motion be dismissed.
+Facts
+[2]
+On September 29, 1996, the applicant made a request under the Access to Information Act to Health Canada (the Department) for all correspondence and reports pertaining to environmental safety concerning the 5th Floor of the Ralston Building, Hollis Street, Halifax.
+[3]
+A second request was made on February 21, 1997. The applicant requested "...[a] list of all hazardous materials shipped to and from health protection branch laboratories during the periods of [her] employment. A list of all chemicals and chemical compounds used in the Health Protection branch laboratories during the periods of [her] employment". The applicant stated that she was employed at the Health Protection Branch in 1969 and 1988-89.
+[4]
+The applicant received a response from the Information Access and Coordination Division ("IACD") of the department, dated March 6, 1997. The response indicated that the requested list of chemicals did not exist after such a long time (i.e. after more than 10 years) and thus the applicant's request could not be satisfied.
+[5]
+The applicant sent further requests for information in 1997. She was informed by the ICC, by letter dated June 5, 1997, that the records she required did not exist because they are destroyed every six years according to law.
+[6]
+The applicant filed further access to information requests during the period 2000-2002, again receiving negative responses from the IACD. According to the respondent, the applicant filed a complaint to the ICC on or about October 31, 2001.
+[7]
+On June 18, 2002, the ICC sent a letter to the applicant concerning her complaint. In this letter, the Commissioner stated:
+Based on interviews with several departmental officials, the investigation confirmed that HCan does not maintain records of the daily use of chemicals as requested by your access request. The Access to Information and Privacy (ATIP) staff took extra measures to ensure that every possible avenue was exhausted in searching for any responsive records. After a thorough review of the matter during the course of the investigation, it is my view that the department does not have records that could be considered responsive to your request. My investigator sought your representations in this matter on March 7, 2002, requesting that you reply by March 28, 2002. You sent no further representations.
+[8]
+In response to this letter, the applicant brought an application for judicial review under s. 41 of the Access to Information Act, which provides as follows:
+Any person
+who has been refused access to a record
+requested under this Act or a part thereof
+may
+, if a complaint has been made to the Information Commissioner in respect of the refusal,
+apply to the Court for a review of the matter
+within forty-five days after the time the results of an investigation of the complaint by the Information Commissioner are reported to the complainant under subsection 37(2) or within such further time as the Court may, either before or after the expiration of those forty-five days, fix or allow. (My emphasis)
+La personne qui s'est vu refuser communication totale ou partielle d'un document demandé en vertu de la présente loi et qui a déposé ou fait déposer une plainte à ce sujet devant le Commissaire à l'information peut, dans un délai de quarante-cinq jours suivant le compte rendu du Commissaire prévu au paragraphe 37(2),
+exercer un recours en révision de la décision de refus devant la Cour
+. La Cour peut, avant ou après l'expiration du délai, le proroger ou en autoriser la prorogation. (Je souligne)
+The applicant sought (i) judicial review of the decisions of the Minister of Health and "Health Canada Access to Information, Privacy Division"; (ii) a declaration or order that the Minister of Health, the Health Protection Branch Director and specified Health Protection Branch Lab Employees from 1988-89 "appear before the Judicial Review and provide the requested Access to Information Documentary Evidence and to answer questions" posed by the applicant; (iii) other and further relief necessary for the applicant to obtain access to information documents and answers concerning the chemical contamination of the Ralston Building.
+Issue
+[9]
+Where the applicant was not refused access to a record requested under the Access to Information Act, should the applicant's notice of application for judicial review be struck for lack of the Court's jurisdiction?
+Analysis
+[10]
+The Court has jurisdiction to dismiss a judicial review application in circumstances where there is no possibility of success or where the application is frivolous, vexatious, or abusive [David Bull Laboratories (Canada) Inc. v. Pharmacia Inc., [1995] 1 F.C. 588]. For applications made under the authority of s. 41 of the Access to Information Act, there is a requirement that the applicant be subject to a "refusal" of access. Without a "refusal" under the terms of that section, the Court has no jurisdiction to entertain the application FRAGMENT_SUPPRESSED.
+[11]
+In Wheaton, supra, the applicant made a series of requests under the Privacy Act, R.S.C. 1985, c. P-21, for documents in the possession of Canada Post. Section 41 of the Privacy Act, considered in Wheaton, supra, is similar to s. 41 of the Access to Information Act, therefore the ratio of Wheaton is applicable to the case at bar.
+[12]
+In Wheaton, Canada Post produced what it said was all of the records in its possession relating to the request. Prothonotary Hargrave held that on the facts of the case there had been no "refusal of access", stating, at para. 16:
+The case law is clear that in order to come within section 41 of the Privacy Act, which is the only grant of jurisdiction to the Court under that legislation, Mr. Wheaton must establish a refusal of access to personal information. Not only has Mr. Wheaton neglected to plead a refusal of access, but faced with sound evidence that he has been provided with all of the material which Canada Post has, he has not in anyway [sic] refuted that evidence. All of this constitutes exceptional and special circumstances for the Court can only hear Mr. Wheaton's application for judicial review if he brings himself within section 41 of the Privacy Act, which he has failed to do for: as I have said, section 41 of the Privacy Act requires that there in fact be a refusal of access to personal information.
+A refusal of access is condition precedent to an application under this section. This application by Mr. Wheaton is one which is bereft of any possibility of success. The application for review is struck out
+(emphasis added)
+[13]
+In Blank v. Canada (Minister of the Environment) [2000] F.C.J. No. 1620, online: QL, the applicant sought the disclosure of records that he felt were still undisclosed by Environment Canada. Muldoon J. stated that, when an applicant claims that documents have been withheld, "there must exist some evidence of the fact beyond mere suspicion" at para. 11. The fact that the applicant could not provide "concrete evidence" was fatal to his claim, and "without any substantial support for these allegations, the request for judicial review must be dismissed for lack of jurisdiction as the legislation provides for no available remedy in the immediate situation." (para. 19).
+[14]
+The applicant alleges that the records she seeks do exist and are simply being withheld by the respondent. She states in her second motion record that she has proven that the information does exist, which "includes convincing proof in the form of documentary evidence in the Notice of Application including: List of Chemicals In Use H.P.B. Labs Ralston Bldg; Report of Lab Operations 1978; and Govt Inspection Reports on 1970 and 1971." The applicant states that she obtained these documents after being informed by ICC that the documents she sought were destroyed after 6 years.
+[15]
+The applicant submits: "[t]he fact is ... Access to Information health Can. denied requested evidence existed and claimed it was destroyed. It is my opinion this constitues [sic] failure to disclose evidence. It is clear proof beyond reasonable doubt there's good chance there is more evidence in H.P.B. files and certainly in the brain files of H.P.B. office and lab employees' especially the ones employed in H.P.B. labs...".
+[16]
+I do not agree with the applicant's submissions. The fact that the applicant has in her possession the above noted documents - the list of chemicals and government inspection reports dating from the 1970's - does not constitute proof of her allegation that the department is withholding information. The provenance of these documents is not clear. I cannot conclude from the fact that she has the documents that they continue to exist in the department. For one thing, the documents are dated in the 1970's which is consistent with the claim that if these are destroyed every 6 years, then the department cannot have them. The applicant presents no "concrete evidence" to counter the findings of the ICC that the department does not have records in its possession that could be considered responsive to her request. Her allegations are based on suspicion without requisite supporting evidence. As such, she has not shown that her requests for information have been "refused" as required by s. 41 of the Access to Information Act and her application must fail for lack of the Court's jurisdiction.
+Conclusion
+[17]
+The applicant's application for judicial review will be struck, since there was no "refusal" to provide information as required by s. 41 of the Access to Information Act. As such, the Court has no jurisdiction to grant the remedies sought.
+[18]
+I note that in the absence of a refusal of access under the Access to Information Act, it is the ICC and not the Court that is in a position to receive the applicant's complaint, and consider the appropriate relief. The record is unclear as to whether the documents in possession of the applicant, and upon which the applicant bases her argument of refusal of access, were brought to the attention of the ICC. The ICC noted in his June 18, 2002 response that the applicant sent no further representation on this issue despite a request from the investigator. Had this been done, the existence of the documents in possession of the applicant may have had a bearing on the Commissioner's investigation.
+[19]
+In the exercise of my discretion, no costs will be awarded on this application.
+ORDER
+[20]
+THIS COURT ORDERS:
+1. The motion is granted.
+2. The application for judicial review dated July 31, 2002 is struck;
+3. No costs are awarded on the motion.
+[End of document]

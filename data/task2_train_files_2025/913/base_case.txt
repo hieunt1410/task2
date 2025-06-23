@@ -1,0 +1,93 @@
+Eli Lilly & Co. v. Apotex Inc., [2008] F.T.R. Uned. 436 (FC)
+MLB unedited judgment
+Eli Lilly and Company and Eli Lilly Canada Inc. (plaintiff(s)) v. Apotex Inc. and Novopharm Limited
+Apotex Inc. (plaintiff by counterclaim) v. Eli Lilly and Company and Eli Lilly Company Inc. (defendants by counterclaim)
+(T-1697-01; 2008 FC 659)
+Indexed As: Eli Lilly and Co. et al. v. Apotex Inc. et al.
+Cite As: [2008] F.T.R. Uned. 436
+Federal Court
+Tremblay-Lamer, J.
+May 7, 2008.
+Counsel:
+Beverley Moore, for the plaintiffs;
+Jeilah Chan, for the defendant Novopharm.
+Solicitors of Record:
+Gowling Lafleur Henderson, Ottawa, Ontario, for the plaintiffs;
+Bennett Jones, LLP, Toronto, Ontario, for the defendant Novopharm.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Tremblay-Lamer, J.
+: This is a motion by the plaintiffs (Lilly) for an order setting aside the February 8, 2008 order of Madam Prothonotary Aronovitch, wherein certain questions refused by the defendant (Novopharm) were ordered not answered.
+[2]
+This motion arises from an action for infringement in which the plaintiffs have sued Apotex and Novopharm for infringement of two Canadian patents which claim processes for preparing the intermediates of,
+inter alia,
+the medicine nizatidine. Apotex and Novopharm allege non-infringement of both patents and further have counterclaimed alleging that both are invalid. Apotex has also counterclaimed that Lilly and Novopharm have conspired to deprive Apotex of a source of licensed nizatidine, in violation of the
+Competition Act.
+Both Lilly and Novopharm deny these allegations.
+[3]
+The order pertains to a further discovery conducted of Mr. Windross on behalf of Novopharm. Lilly brought a motion to compel answers refused on that discovery. At that motion, a number of questions were not ordered answered.
+[4]
+The plaintiffs submit that the Prothonotary erred in law by refusing to order answers to questions which were relevant.
+[5]
+It is well established that discretionary orders of prothonotaries should be left undisturbed unless the questions in the motion are "vital to the final issue of the case" or the prothonotary's order is "clearly wrong" (
+Merck & Co. v. Apotex Inc.
+, 2003 FCA 488, [2003] F.C.J. No. 1925 (QL), at para. 19).
+[6]
+In the case of
+Reading & Bates Construction Co. v. Baker Energy Resources Corp.
+(1988), 24 C.P.R. (3d) 66, at pp. 70-72, [1988] F.C.J. No. 1025 (QL), the Court set down guiding principles in determining relevancy, including the following:
+o [...] The principle for determining what document properly relates to the matters in issue is that it must be one which might reasonably be supposed to contain information which may directly or indirectly enable the party requiring production to advance his own case or to damage the case of his adversary, or which might fairly lead him to a train of inquiry that could have either of these consequences [...].
+o On an examination for discovery prior to the commencement of a reference that has been directed, the party being examined need only answer questions directed to the actual issues raised by the reference. Conversely, questions relating to information which has already been produced and questions which are too general or ask for an opinion or are outside the scope of the reference need not be answered by a witness [...].
+o The propriety of any question on discovery must be determined on the basis of its relevance to the facts pleaded in the statement of claim as constituting the cause of action rather than on its relevance to facts which the plaintiff proposes to prove to establish the facts constituting the cause of action. [...]
+o The ambit of questions on discovery must be restricted to unadmitted allegations of fact in the pleadings [...].
+[7]
+However, even where a question is found to be relevant, a prothonotary may still decline to order it answered if:
+[...] it is not at all likely to advance the questioner's legal position, or if the answer to a question would require much time and effort and expense to obtain and its value would appear to be minimal, or where the question forms part of a "fishing expedition" of vague and far-reaching scope. (
+FRAGMENT_SUPPRESSED
+[8]
+The plaintiff bears the burden of demonstrating that the Prothonotary's order is clearly wrong, in the sense that the exercise of discretion by the Prothonotary was based upon a wrong principle or upon a misapprehension of the facts (
+FRAGMENT_SUPPRESSED
+[9]
+While relevance was not referred to in the reasons provided in Schedule A for any of the questions in issue, it was noted in response to item no. 3 for which the Prothonotary indicated "Question shall be answered. It is relevant." Thus, while the Prothonotary did not make an explicit relevancy finding with respect to each issue, I am of the view that she was cognizant of the principle. I do not believe that a specific finding of relevance is required for each and every item.
+[10]
+In a similar vein, this Court has held that there is no requirement for reasons in orders of this nature. As Justice François Lemieux stated in
+Anchor Brewing Co. v. Sleeman Brewing & Malting Co.,
+2001 FCT 1066, [2001] F.C.J. No. 1475 (QL), at para. 31: "The case law review, which I accept, shows a prothonotary's order given without written reasons does not automatically give rise to a hearing de novo on appeal before a judge of this court." He went on to emphasize, at para. 32 that:
+De novo
+intervention is not justified when, examining all of the circumstances, including the nature of the order made, the evidence before the prothonotary, whether the exercise of discretion involves essentially a consideration of legal principles, reasonably demonstrate the manner in which the prothonotary exercised his/her discretion.
+(see also
+Apotex Inc. v. Merck & Co.
+, 2007 FC 250, [2007] F.C.J. No. 322 (QL), at para. 13)
+[11]
+In my view, when determining whether an order is clearly wrong, a holistic evaluation as opposed to a formalistic one is preferable. That is to say, whether or not a relevancy determination was
+explicitly
+set out is not determinative of the matter, but rather the analysis must involve a full consideration of the circumstances in which the order was made.
+[12]
+With respect to the first group of items, Prothonotary Aronovitch provided the following reasons for refusing to order them answered in Schedule A:
+Item 45: Question shall not be answered. It is an improper question.
+Item 48: Question shall not be answered. It is an improper question.
+Item 51: Question shall not be answered. It is an improper question.
+Given the nature of these questions
+,
+which are not factual questions directed to whether or not the current supplier's process is the "Shasun Process", but rather whether or not errors were made in these documents obtained from Novopharm's current supplier, they would be more properly addressed by experts or persons skilled in the art. Thus, I cannot conclude that the Prothonotary was clearly wrong in refusing to order them answered.
+[13]
+Regarding the second group of items, they were dealt with in the following manner in Schedule A:
+Item 128: Question need not be answered. This is going too far. It is one thing to say give me your factual underpinnings, and Lilly has been given that. Lilly is not then permitted to query those underpinnings.
+Item 130: Question need not be answered. This is not about how something will be proven. Lilly cannot query the basis of an allegation.
+As indicated in
+Reading & Bates Construction Co.
+, above, "[t] he propriety of any question on discovery must be determined on the basis of its relevance to the facts pleaded in the statement of claim as constituting the cause of action rather than on its relevance to facts which the plaintiff proposes to prove to establish the facts constituting the cause of action". Prothonotary Aronovitch's conclusions appear to be consistent with this statement setting out the scope of relevancy, as they are questions that are the subject matter of expert evidence and are directed to how Novopharm intends to prove its case. Thus, the decision to not order these questions answered was not clearly wrong.
+[14]
+Finally with respect to the third group, Prothonotary Aronovitch indicated the following:
+Item 126: There was no undertaking to provide the identity of who the inventor is if it is not Kenneth Moder. The question need not be answered.
+While Lilly contends that an undertaking existed to provide the identity of the inventor if it is not Kenneth Moder, Novopharm has not alleged that someone else is the inventor. Instructively, at item 132, the Prothonotary states:
+[...] Furthermore, i[f] Novopharm takes the position that someone else is the inventor, then they are to provide the facts relating to that. Novopharm has not alleged that someone else is the inventor.
+Thus, I can find nothing clearly wrong with the Prothonotary's conclusions with respect to this item.
+[15]
+Based on the foregoing, I am of the view that Prothonotary Aronovitch did not commit any reviewable error and thus the present motion shall be dismissed.
+ORDER
+[16]
+THIS COURT ORDERS that
+the motion of the Prothonotary's order be dismissed. Costs in cause.
+[End of document]

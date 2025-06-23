@@ -1,0 +1,21 @@
+[13]
+An exception to the foregoing general principle arises where the issue not argued before the tribunal is a jurisdictional issue. In
+Shubenacadie Indian Band v. Canadian Human Rights Commission et al.
+[see footnote 10], Justice Rothstein, then of the Trial Division of this Court, wrote at paragraph [39] to [41]:
+"[39] My concern is with the argument that the Court cannot review a tribunal decision, even where that decision is either in excess of that tribunal's statutory jurisdiction, or is made pursuant to a statutory jurisdiction that is unconstitutional.
+"[40] In
+Crevier v. Attorney General of Quebec et al.
+, ..., the Supreme Court of Canada held that a statutory tribunal cannot be immunized from review for errors of jurisdiction. Laskin, C.J., states, ...:
+'... if such a tribunal has acted beyond its jurisdiction in making a decision, it is
+not a decision at all
+within the meaning of the statute which defines its powers because Parliament could not have intended to clothe such tribunal with the power to expand its statutory jurisdiction by an erroneous decision as to the scope of its own powers.' [Emphasis added]
+"Given that a decision of an administrative tribunal in excess of its jurisdiction 'is not a decision at all', it seems paradoxical that the same 'decision' would be immunized from review where jurisdiction is never raised and the tribunal's jurisdiction and/or the constitutionality of its enabling legislation is assumed. This is tantamount to saying that parties to an administrative proceeding may, by waiver or acquiesence [acquiescence], confer jurisdiction on a tribunal that was not, or could not be, conferred by Parliament, and that this conferral of authority by the parties is unreviewable once the decision is made. Indeed, it is not difficult to imagine a tribunal falling into jurisdictional error simply because it did not hear arguments on that issue.
+"Viewed in this light, the decisions of the Federal Court of Appeal in
+Toussaint
+,
+Poirier
+and
+Sirois
+are distinguishable from the case at bar because of the jurisdictional nature of the new arguments being raised here. The Alberta Court of Appeal and Ontario High Court have considered this issue and held that a reviewing court may consider a challenge to a tribunal's jurisdiction that was never raised before the tribunal itself ... I find this approach to jurisdictional questions more consistent with the reasoning in
+Crevier
+and conclude that it is appropriate to consider the new jurisdictional arguments raised by the applicant in this proceeding." (citations omitted)

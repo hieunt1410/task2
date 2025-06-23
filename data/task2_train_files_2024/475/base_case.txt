@@ -1,0 +1,101 @@
+Background
+[1]
+von Finckenstein, J.
+: In March, 1999, the taxpayer, Mr. Roman Paryniuk, was charged with numerous narcotics and weapons offenses. Canadian funds in the amount of $664,000.00 were lawfully seized from a safety deposit box for which he had the key. A magistrate of the Ontario Court of Justice ordered that this money and other property belonging to the taxpayer be given into the control of the Minister of Public Works and Government Services. The Ministry then gave possession of this property to the Seized Money Property Directorate ("SPMD") and the Ontario Provincial Police ("OPP").
+[2]
+On October 29th, 2001, the Minister of National Revenue ("Minister") issued the taxpayer a Notice of Assessment for the 1998 taxation year in the amount of $610,763.61 based primarily upon the seized funds ("Assessment"). Notably, the tax payer had not filed a personal income tax return ("PITR") for 1998, and indeed has not filed one for the years 1999-2002 either. According to the Minister, no Notice of Objection to the assessment was filed within the 90 day limitation period set out in section 225.1 of the
+Income Tax Act
+, R.S.C. 1985 (5th Supp.), c. 1 ("
+ITA
+"). As a result, the Minister commenced measures under that section to collect the amounts owing. Specifically, he issued numerous Requirements to Pay ("RTP") to the SPMD and OPP which advised that no money should be returned to the taxpayer without specific authorisation to so from a magistrate.
+[3]
+The taxpayer filed a Notice of Appeal to the Tax Court, which effectively stayed and made unenforceable the RTP. There is yet to be a disposition of this appeal.
+[4]
+In 2002-2003, all charges against the taxpayer were stayed on the basis that his trial had been unjustifiably delayed. Mr. Justice Watts of the Ontario Superior Court ordered that all of the seized money and property be returned to him by July 23rd, 2003 ("Watt Order"). Despite this order, the SPMD and OPP continue to withhold property from the tax payer in the value of $163,545.02.
+[5]
+On August 7th, 2003, the Applicant brought an ex parte motion to request that the Minister be authorised to take any of the actions described in section 225.1(1) of the
+ITA
+in respect of the taxpayer's tax liability. Mr. Justice Pinard granted the motion in an order dated August 7th, 2003 ("Jeopardy Order"). The tax payer now asks this Court to review Justice Pinard's order pursuant to section 225.1(8) of the
+ITA
+.
+ISSUES
+[6]
+The respondent makes three allegations:
+1. The affidavit of Jodi Roul does not meet the requirements of s. 225.2(4) of the
+ITA
+.
+2. The Jeopardy Order is not justified.
+3. The Jeopardy Order should be set aside due to the conduct of the applicant.
+1. Does the affidavit of Jodi Roul meet the requirements of s. 225.2(4) of the ITA?
+[7]
+The taxpayer takes issue with the following sections of the affidavit of Jodi Roul which was filed by the applicant:
+"33. Roman Paryniuk has only one known major asset, that is, the amount of money in cash held by SPMD, totally as of June 23rd, 2003 $163,545.02.
+. . . . .
+"38. The most important asset belong to Roman Paryniuk is an amount of money in cash held by SPMD amounting to, as of June 23rd, 2003, $163,545.02. ...
+. . . . .
+"41. There are no other known significant assets."
+[8]
+He submits that these statements were based upon belief. Therefore, pursuant to section 225.2(4) of the
+ITA
+, he argues that they should have been accompanied with the grounds upon which the affiant held them.
+[9]
+This argument is without merit. The affiant is the Resource/Complex Case Officer with the Collections Section of the Canada Customs and Revenue Agency ("CCRA") who was assigned with carriage of the taxpayer's file. Part of her common practice would have been to consider all of the CCRA's files on the respondent. She would have noted that he had failed to provide tax returns from 1998 onwards. As a CCRA officer, the affiant was stating that no sources of income had been brought to the agency's attention other than the seized funds. The information on the CCRA's files provided sufficient grounds for her statements about the nature and extent of the taxpayer's assets.
+2. Was the Jeopardy Order justified?
+[10]
+The taxpayer argues that a jeopardy order may only be made when the jeopardy, rather than existing per se, is created by delay. In this case, he submits that there was and is no threat of jeopardy from delay as he has not and will not take any steps to secrete, dispose or otherwise hinder collection.
+[11]
+The relevant provisions of the
+ITA
+provide:
+"225.2(2) Notwithstanding section 225.1, where, on ex parte application by the Minister, a judge is satisfied that there are reasonable grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection of that amount, the judge shall, on such terms as the judge considers reasonable in the circumstances, authorize the Minister to take forthwith any of the actions described in paragraphs 225.1(1)(a) to 225.1(1)(g) with respect to the amount.
+. . . . .
+"(8) Where a judge of a court has granted an authorization under this section in respect of a taxpayer, the taxpayer may, on 6 clear days notice to the Deputy Attorney General of Canada, apply to a judge of the court to review the authorization."
+[12]
+In
+Services M.L. Marengère Inc. v. Minister of National Revenue
+(1999), 176 F.T.R. 1 (T.D.), at para. 63, Lemieux, J., discussed conditions under which the reasonable grounds set out in section 225.2(2) of the
+ITA
+would exist:
+"... The Minister may certainly act not only in cases of fraud or situations amounting to fraud, but also in cases where the taxpayer may waste, liquidate or otherwise transfer his property to escape the tax authorities: in short, to meet any situation in which the taxpayer's assets may vanish in thin air because of the passage of time. However, the mere suspicion or concern that delay may jeopardize collection is not sufficient per se. As Rouleau, J., put it in
+1853-9049 Quebec Inc.
+, supra, the question is whether the Minister had reasonable grounds for believing that the taxpayer would waste, liquidate or otherwise transfer its assets, so jeopardizing the Minister's debt. What the Minister has to show is whether the taxpayer's assets can be liquidated in the meantime or be seized by other creditors and so not available to him."
+In the case at hand, therefore, the issue is whether there was evidence before Justice Pinard that the taxpayer's assets could be liquidated or otherwise made unavailable to the Minister.
+[13]
+The taxpayer held a significant amount of cash in a safety deposit box and had failed to file consecutive PITR. Similar circumstances existed in
+Minister of National Revenue v. Rouleau
+(1995), 101 F.T.R. 57 (T.D.). Gibson, J., made the following ruling at paras. 6-7:
+"In
+Laframboise v. The Queen
+, Mr. Justice Joyal stated at page 524:
+'I find that the nature of the assessment itself raises reasonable apprehensions that the taxpayer had not been conducting his affairs in what might be called an orthodox fashion. There is reasonable apprehension that in placing surplus funds for investment purposes through the hands of a third party instead of directly, there would be difficulty in retracing these funds or in recovering them.'
+"I find the foregoing quotation apt to the circumstances before me. Certainly, the nature of the reassessments against the applicant indicate a range of income to the applicant quite out of scale with the incomes disclosed by the applicant in his annual returns to the Minister of National Revenue. The way in which he held assets certainly disclosed a conducting of affairs that could be called unorthodox. It also disclosed practises that would have made it very simple for the applicant to spirit away substantial assets if he had been so inclined so that there conceivably could have been difficulty in retracing the assets and in recovering them."
+[14]
+The same reasoning applies in this case. The taxpayer certainly engaged in unorthodox business practices. It would be very simply for the respondent to spirit away his money if he chose to do so. As such, there were reasonable grounds to believe that the collection would be jeopardized by any delay.
+[15]
+I note that the taxpayer referred to
+Minister of National Revenue v. Landru
+, [1993] 1 C.T.C. 93; 107 Sask.R. 1 (Q.B.). That case is distinguishable as it dealt with money tied up in real estate which is substantially less liquid and more easy to trace than cash held in a safety deposit box.
+3. Should the jeopardy order be set aside due to the conduct of the applicant?
+[16]
+The taxpayer submits that the applicant did not act with the utmost of good faith in this application. Particularly, he submits that:
+- as the SPMD and OPP held his assets, there was no real risk of jeopardy and therefore no need for the applicant to have brought a motion on an ex parte basis;
+- the Minister failed to advise the court that the SPMD and OPP had not complied with the Watt order; and
+- the Minister misled the Court by submitting an affidavit which stated that Justice Watt had ordered the property returned
+after
+July 23, 2003 when, in fact, it was ordered returned on that day.
+[17]
+On an ex parte motion, an applicant must exercise utmost good faith and provide full and frank disclosure
+FRAGMENT_SUPPRESSED. I can find no evidence that the Crown breached this in this case. The Minister proceeded on an ex parte basis because the funds had been held past the ordered return date and the SPMD had advised that they would be returning them to the taxpayer imminently. All material facts were disclosed to Mr. Justice Pinard at the August 2003 hearing. Specifically, the Watt order was attached to the affidavit of Jodi Roul and that affidavit described the current situation of the seized funds as well as the purpose of the order, namely "to intercept the amounts of ... payable by SPMD and OPP." Moreover, the Watt order itself states at paragraph 5(b):
+"In relation to any residue remaining in the funds held by the Seized Property Management Directorate ... the effective date is the later of:
+i. 30 days after the date of this order, and
+ii. the date upon which the Seized Property Management Directorate has paid out the Campbell invoice."
+Since the affiant did not know whether the Campbell invoice has been paid, there was nothing misleading in her affidavit.
+[18]
+As none of the three objections raised by the taxpayer have been sustained, the jeopardy order of Mr. Justice Pinard dated August 7th, 2003 is confirmed and this application is dismissed.
+ORDER
+[19]
+THE COURT HEREBY ORDERS that:
+1. This application is dismissed.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/klf
+[End of document]

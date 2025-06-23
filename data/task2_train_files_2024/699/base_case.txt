@@ -1,0 +1,137 @@
+[1]
+Morneau, Prothonotary
+[Translation]: The court has before it in the case at bar a motion by the plaintiff (Bell) pursuant to s. 221(1)(a) of the
+Federal Court Rules (1998)
+"the
+Rules
+") asking the court to strike various paragraphs in the defences and counterclaims (for each defendant, "the defence") filed separately by each of the defendants US West Inc ("US West"), Unical Enterprises Inc. ("Unical") and Sonigem Products Inc ("Sonigem"). Alternatively, Bell is asking the court to order the defendants to provide it with further and more specific particulars on the majority of the paragraphs covered by its motions to strike.
+BACKGROUND
+[2]
+Bell brought an action in which it alleged that its exclusive right to use certain trade marks in Canada, including the mark "BELL", has been infringed by the defendants, who placed the same or similar marks on telephone equipment sold in Canada.
+[3]
+The defendants filed defences in which they alleged that the mark "BELL" is no longer distinctive as to the plaintiff because of the use of the mark by the defendants and by third parties for several years with Bell's knowledge.
+[4]
+Further, US West, Unical and Sonigem filed counterclaims seeking damages from Bell.
+Striking out and request for particulars: applicable principles
+[5]
+The right to ask the court to strike a pleading in the course of an action is set out in rule 221.
+[6]
+That Rule reads as follows:
+"221(1) On motion, the court may, at any time, order that a pleading, or anything contained therein, be struck out, with or without leave to amend, on the ground that it
+(a) discloses no reasonable cause of action or defence, as the case may be,
+(b) is immaterial or redundant,
+(c) is scandalous, frivolous or vexatious,
+(d) may prejudice or delay the fair trial of the action,
+(e) constitutes a departure from a previous pleading, or
+(f) is otherwise an abuse of the process of the court,
+and may order the action be dismissed or judgment entered accordingly.
+"(2) No evidence shall be heard on a motion for an order under paragraph (1)(a)."
+[7]
+This Rule is the equivalent of rule 419 of the
+Federal Court Rules
+. The precedents developed under the latter Rule are thus applicable to rule 221.
+[8]
+Accordingly, under s. 221(1)(a) it must be plain and obvious (see
+Inuit Tapirisat of Canada and National Anti-Poverty Organization v. Canada (Attorney General)
+, [1980] 2 S.C.R. 735; 33 N.R. 304, at 740 [S.C.R.]) that the allegations in each defendant's defence disclose no reasonable cause of defence or action.
+[9]
+Further, before making an order concerning particulars, the court must consider whether a party has enough information to be able to understand the opposing party's position and prepare a responsive defence, whether a defence or a reply. (See
+FRAGMENT_SUPPRESSED)
+[10]
+In
+Embee Electronic Agencies Ltd. v. Agence Sherwood Agencies Ltd. et al.
+(1979), 43 C.P.R.(2d) 285 (F.C.T.D.), at 287, Marceau, J., explained the extent to which the defendant is entitled, at the pleadings stage, to be given particulars about the plaintiff's evidence:
+"At that early stage, a defendant is entitled to be furnished all particulars which will enable him to better understand the position of the plaintiff, see the basis of the case made against him and appreciate the facts on which it is founded
+so that he may reply intelligently to the statement of claim
+and state properly the grounds of defence on which he himself relies, but he is not entitled to go any further and require more than that." (Not underlined in original.)
+[11]
+The purpose of a motion for particulars is not the same as an examination for discovery of the opposing party, and as indicated in
+Embee
+, supra, the purpose of such a motion is not necessarily to enable the defendant to know all the facts on which the action is based. In
+Quality Goods I.M.D. Inc. v. R.S.M. International Active Wear Inc.
+(1996), 101 F.T.R. 318; 63 C.P.R.(3d) 499 (T.D.), Dubé, J., of this court, referring to
+Embee
+himself, noted this very distinction as follows:
+"At discovery a party is entitled to be informed of any and every particular which will enable it to prepare its case for trial. However, before the filing of its defence the defendant is only entitled to particulars which are necessary for filing its defence. A request for particulars before defence ought not to be a fishing expedition and in any event is not as broad as discovery. Citation omitted."
+ANALYSIS
+[12]
+I intend to proceed in accordance with the main headings proposed by the plaintiff and deal under each heading with the defences of the three defendants, both as to striking out and as to particulars.
+I
+Use of Bell mark by third parties
+[13]
+This heading relates to paragraphs 23, 26 and 38 of US West's defence and paragraphs 38 and 45 of Sonigem's defence.
+[14]
+I consider that for the purposes of the motion at bar - and these remarks apply equally to heading II discussed below - the defendants' defences must be read as a whole, and not by stopping or limiting oneself to a single paragraph that may be found here or there in the defence, as further explained by the defendants in their written submissions made in opposition to the motion.
+[15]
+If this is done, it seems clear that it cannot be said to be plain and obvious that the aforementioned paragraphs disclose no reasonable cause of defence or action regarding use of the Bell mark by third parties. Accordingly, these paragraphs will not be struck out.
+[16]
+As to the requirement for further particulars, the plaintiff did not persuade the court that it should conclude that the said paragraphs together with the additional particulars provided by the defendants would not now enable the plaintiff to respond intelligently to the defences. No further particulars will be ordered in respect to those paragraphs.
+II
+Allegations of acquiescence by Bell
+[17]
+What was stated in paragraphs [14] to [16], supra, under this heading applies mutatis mutandis to paragraphs 27 and 39 of US West's defence, paragraphs 22, 34, 35, 36, 39 (partial striking out), 42, 43, 45 and 49 of Unical's defence (and to the partial striking out sought in paragraph 21 of that defence) and to paragraphs 36, 40 and 46 of Sonigem's defence.
+[18]
+I would also add here, with respect to the key facts that the plaintiff maintained it needed so it could present an argument against the defences - that is, essentially "who said what to whom and when?" - that it should have entered in evidence in connection with this motion an affidavit establishing why it needs to obtain this information in order to plead and the circumstances because of which it cannot itself make an internal investigation to determine these aspects. Consequently, no further particulars will be ordered in respect of these paragraphs.
+III
+Damages alleged by US West and Sonigem
+[19]
+Here it is paragraphs 35(g) of US West's defence and 41(g) of Sonigem's defence which are at issue, namely that these paragraphs do not disclose sufficient factual material to justify the amounts claimed therein and that accordingly the paragraphs should be seen as frivolous, vexatious or an abuse of process.
+[20]
+The said paragraphs read as follows:
+"35 The defendant US WEST, plaintiff by counterclaim, claims:
+(g) $100 million in damages, or such amount as may be proved at trial, or by reference following trial, for the violation of subsection 7(a) of the
+Trade-Marks Act
+, unlawful interference with economic and contractual relations, injurious falsehood and intimidation.
+"41 The Defendant SONIGEM, plaintiff by counterclaim, claims:
+(g) $35,000,000 in damages or such amount as may be proved at trial or by reference following trial, for the violation of subsection 7(a) of the
+Trade-Marks Act
+, unlawful interference with economic and contractual relations, injurious falsehood and intimidation ..."
+[21]
+It seems clear to the court from
+IBM Canada Ltd. et al. v. Printech Ribbons Inc. et al.
+(1994), 77 F.T.R. 147; 55 C.P.R.(3d) 337 (T.D.), and the cases cited therein, namely
+Canadian Olympic Association v. National Gym Clothing Ltd.
+(1984), 2 C.P.R.(3d) 145 (F.C.T.D.) and
+Teknion Furniture Systems et al. v. Artopex Inc.
+(1992), 56 F.T.R. 204; 44 C.P.R.(3d) 504; 35 A.C.W.S.(3d) 390 (T.D.), that allegations such as those contained in the aforementioned paragraphs do not have to be further elucidated for the purposes of preparing a defence or reply.
+[22]
+This disposes of the requests for particulars.
+[23]
+As to their being struck out - and subject to and in consequence of what will be decided under heading IV below - I do not think that it can be said at this stage that it is plain and obvious that the amounts indicated are vexatious and frivolous. At the conclusion of the argument by counsel for the parties on the instant motion, it appeared to the court that the plaintiff had acquired a much too limited idea of the basis of challenge underlying the figures quoted. The defendants do not necessarily intend to limit their approach to a question of loss of royalties or to a loss of profits on a basis of certain years. They maintain that the plaintiff had absolutely [Translation] "shut them out" from the market by its actions and they intend to claim full compensation for the said actions, which they consider to be wrongful.
+[24]
+However, in view of my finding under heading IV below, the following phrase contained in each of the said paragraphs will be struck out:
+"unlawful interference with economic and contractual relations, injurious falsehood and intimidations ..."
+IV
+Court lacking jurisdiction
+[25]
+The plaintiff argued that this court has no jurisdiction to rule on the various statements of claim contained in the defendants' defences. Those statements are contained in the counterclaim portion of the defences. They are thus in the nature of an attack "weapon" and are not simply mentioned as a defence to an action in intellectual property. I consider that the plaintiff is correct on this point. These statements of claim against the plaintiff are based on:
+(a) the fact that the defendants are entitled to sell their product: US West, paragraph 35(b); Unical, paragraph 52 C; Sonigem, paragraph 41(b);
+(b) the offence of "unlawful interference with economic and contractual relations": US West, paragraphs 35(d) and 46; Sonigem, paragraph 41(d);
+(c) the offence of "injurious falsehood and intimidation": US West, paragraphs 35(e) and 47; Sonigem, paragraph 41(e);
+(d) the offence of "disparagement of defendant's business": US West, paragraph 47;
+(e) the offence of a deliberate intention to eliminate the defendants from the market: US West, paragraph 48; Unical, paragraph 61; Sonigem, paragraph 56;
+(f) the claim for G.S.T.: US West, paragraph 35(j); Sonigem, paragraph 41(j).
+[26]
+It seems plain and obvious to the court that the paragraphs in the defences mentioned in points (a) to (e) above - whether paragraphs concerning a statement of claim or paragraphs supporting such a statement of claim - seek conclusions of law which have no connection with the
+Trade-Marks Act
+. These are conclusions which fall within the jurisdiction of the provincial courts, not the express statutory powers of this court.
+[27]
+The defendants specifically argue that the plaintiff committed the prohibited offence contained in s. 7(a) of that
+Act
+. That section reads:
+"7. No person shall
+(a) make a false or misleading statement tending to discredit the business, wares or services of a competitor ..."
+[28]
+Since the statements of claim discussed in points (a) to (e) were made into separate items claimed, they must necessarily concern something in addition to s. 7(a) of the
+Act
+. These additional claims therefore cannot simply be seen as corollaries to s. 7(a). The court has no statutory jurisdiction over these other items and the paragraphs in the defences mentioned in points (a) to (e) will be struck out.
+[29]
+Consequently, the phrase "unlawful interference with economic and contractual relations, injurious falsehood and intimidation" will be struck from paragraphs 35(g) of US West's defence and 41(g) of Sonigem's defence.
+[30]
+As regards point (f) above, concerning the G.S.T., the paragraphs in the defences relating to this can remain since those paragraphs cannot ultimately concern more than is otherwise available under the existing law. Further, it was stated in court by counsel for the defendants that this G.S.T. would apply to costs which might be awarded, not to compensatory or exemplary damages.
+[31]
+Since the outcome is divided on the motion at bar, no costs will be awarded to either party.
+[32]
+An order will be made accordingly.
+Order accordingly.
+Editor: Angela E. McKay/pdk

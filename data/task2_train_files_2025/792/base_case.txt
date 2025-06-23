@@ -1,0 +1,265 @@
+[1]
+Snider, J.
+: The Minister of National Revenue (the Minister) is asking this Court to issue an Order (Compliance Order), under section 289.1 of the
+Excise Tax Act
+, R.S.C, 1985, c. E-15, that would require the Respondent, Mr. S. Bruce Cornfield, to provide certain documents and information to the Minister.
+I.
+Background
+[2]
+Mr. Cornfield is a lawyer and a member of the Law Society of British Columbia. His client, Child Construction Ltd. (CCL), is indebted to Her Majesty the Queen in Right of Canada for GST in the amount of $53,382.29 as of September 15, 2006.
+[3]
+In July 2003, Mr. Cornfield handled the conveyance involving a transfer of property by CCL to a third party.
+[4]
+By letter served on January 6, 2006, the Minister issued a requirement for information (RFI) pursuant to subsection 289(1) of the
+Excise Tax Act
+, requiring Mr. Cornfield to provide the following information and documents to the Minister (the Information and Documents) within 30 days of the date of service of the RFI:
+(a) A statement of adjustments with respect to the sale of the property described as Parcel Identifier 023014806, Strata Lot 105, section 9, Victoria District, Strata Plan VIS3305, by CCL to Sarah Harper and Richard Allan Stensrud, on July 30, 2003.
+(b) A copy of the direction to pay with respect to the property transaction identified in paragraph (a) above.
+(c) Copies, front and back, of the cancelled cheques in regards to the distribution of monies with respect to the property transaction identified in paragraph (a) above.
+[5]
+Mr. Cornfield has refused to provide the Minister with the Information and Documents sought by the RFI within 30 days. In a letter to the Vancouver Island Tax Services Office of the Canada Revenue Agency (CRA), dated January 23, 2006, Mr. Cornfield explained his reasons for not providing the Information and Documents:
+"I have been unable to locate my client ... Absent instructions to the contrary from the client, I must take the position that the requested information may be subject to a solicitor-client privilege. ... I draw your attention to the
+Professional Conduct Handbook
+for B.C. Lawyers that states:
+'a lawyer who is required under the
+Criminal Code
+, the
+Income Tax
+Act
+, or any other federal or provincial legislation, to produce or surrender a document or provide information which is or may be privileged shall, unless the client waives the privilege, claim a solicitor-client privilege in respect to the document.'
+Given the above, what you are asking me to do is something that is contrary to my governing society's code of conduct, and compliance may even result in disciplinary action against me."
+[6]
+Upon application, the Law Society of British Columbia (the Law Society) was granted intervener status in this Application by Order of Justice Gauthier dated December 20, 2006. In her Order, Justice Gauthier described the right of the intervener to:
+"make representations in writing and orally in respect of all issues concerning solicitor-client privilege raised in this application including the procedures which a Court should follow in considering an order for production of documents in the possession of a lawyer and the protection of solicitor-client privilege in the face of a demand for production of documents by the applicant."
+[7]
+Written and oral submissions were made by the Minister and the Law Society.
+II.
+Issues
+[8]
+The overarching issue in this application is whether the Compliance Order should issue to require Mr. Cornfield to produce the Information and Documents. To respond, two questions must be addressed:
+1. Are the Information and Documents, in this case, subject to solicitor-client privilege?
+2. Does s. 289.1 of the
+Excise Tax Act
+provide adequate protection to the rights of the lawyer's client (or former client) to claim solicitor-client privilege? And, if not, should the Federal Court consider adding certain procedural safeguards such as a requirement to serve notice on the client?
+[9]
+As I understand the submissions of the Intervenor, they are not seeking to require the suggested procedures be applied to this particular case. Thus, if I determine that the Information and Documents are not subject to solicitor-client privilege and that the other requirements of s. 289.1 have been met, the Compliance Order will issue.
+III.
+Analysis
+A.
+What is the relevant statutory framework?
+[10]
+In brief, the relevant provisions of the
+Excise Tax Act
+operate in the following manner. The full text of these provisions is set out in Appendix A to these reasons. Almost identical provisions are contained in the
+Income Tax
+Act
+, R.S.C. 1985, c. 1 (5th Supp.).
+[11]
+The Minister is authorized, pursuant to s. 289(1) of the
+Excise Tax Act
+, to require a person to provide any requested information or documents, upon notice. It is important to note that the Minister's authority is not restricted to the taxpayer. Third parties may be served with requests for information. The only stipulation is that the purpose be "related to the administration or enforcement of this Part, including the collection of any amount payable or remittable under this Part".
+[12]
+Where a request for information is made and the person has failed to comply, s. 289.1 provides the Minister with a means to enforce compliance with s. 289. Specifically, s. 289.1(1) allows the Minister to seek, by way of "summary application", a court order requiring the person to provide the information or document sought under s. 289. To issue the order - commonly referred to as a Compliance Order - the judge must be satisfied that: (a) the person was required under s. 288 or s. 289 to provide the information; and (b) "in the case of information or a document, the information or document is not protected from disclosure by solicitor-client privilege (within the meaning of subsection 293(1))".
+[13]
+The definition of solicitor-client privilege, in s. 293(1) of the
+Excise Tax Act
+, is as follows:
+"'solicitor-client privilege' means the right, if any, that a person has in a superior court in the province where the matter arises to refuse to disclose an oral or documentary communication on the ground that the communication is one passing between the person and the person's lawyer in professional confidence, except that, for the purposes of this section, an accounting record of a lawyer, including any supporting invoice, voucher or cheque, shall be deemed not to be such a communication."
+"'privilège des communications entre client et avocat' Droit qu'une personne peut posséder, devant une cour supérieure de la province où l'affaire prend naissance, de refuser de divulguer une communication entre elle et son avocat en confidence professionnelle. Toutefois, pour l'application du présent article, le relevé comptable d'un avocat, y compris une facture ou une pièce justificative ou tout chèque, ne doit pas être considéré comme une communication de cette nature."
+[14]
+Under s. 289.1(2), the person must be given notice of the application at least five clear days before it is heard. Subsection 289.1(3) gives the judge hearing the application the discretion to impose such conditions on the order as the judge considers appropriate.
+B.
+What has been the practice of the Federal Court in these matters?
+[15]
+The
+Excise Tax Act
+and the
+Income Tax
+Act
+contain an explicit procedure for bringing compliance order applications. As noted above, s. 289.1(1) of the
+Excise Tax Act
+provides that the compliance order is to be obtained "on summary application by the Minister". The same requirement for a "summary application" is set out in s. 231.7 of the
+Income Tax
+Act
+. In that context, Prothonotary Lafrenière of this Court provided a format for bringing such applications in
+Minister of National Revenue v. Norris
+, [2002] 3 C.T.C. 346; 2002 CarswellNat 1250 (F.C. Protho.). In
+Norris
+, the Prothonotary authorized the Minister of National Revenue to institute proceedings under s. 231.7 of the
+Income Tax
+Act
+by way of motion under Rule 358 et seq. of the
+Federal Courts Rules
+, SOR/98-106 (the
+Rules
+), rather than by way of application under Rule 300 et seq. of the
+Rules
+. As stated by Prothonotary Lafrenière in
+Norris
+, above, at paras. 5-7:
+"Although a proceeding under subsection 231.7 of the
+Income Tax
+Act
+must be brought by way of notice of application, the procedure set out in the
+Federal Court Rules
+, 1998
+which governs applications appears ill-suited for summary disposition of such matters. Consequently, in this particular case and subject to any further directions or order of the Court, the following procedure should be followed in the proposed proceeding under subsection 231.7.
+The Applicant shall file a Notice of Application in Form 301, to be treated by the Registry as both an originating document and notice of motion, which shall:
+(a) set out the day, time and place at which the application will be heard, either at a General Sittings of the Court or such special sitting date as may have been appointed by the Judicial Administrator upon informal request by the Applicant:
+(b) be amended by deleting any references to Rule 300 et seq.;
+(c) contain a notice in capital and bold characters which reads as follows: 'The Respondent who wishes to oppose the application shall serve a Respondent's Record and file three copies of it not later than 2:00 p.m. on the last business day before the hearing of the application.'; and
+(d) be accompanied by the appropriate filing fee.
+Once the Notice of Application has been filed, the Applicant shall personally serve the Respondent with an Application Record containing a table of contents, the notice of application, each supporting affidavit and documentary exhibit and the Applicant's memorandum of fact and law. The Applicant shall file three copies of the Application Record, and proof of service thereof in accordance with ss. 237.1 of the
+Income Tax
+Act
+, forthwith and in any event no later than two clear days before the return date of the hearing of the application."
+[16]
+Although one may argue that the Order was limited to the particular case before the Prothonotary, the procedure that he outlined has been followed, for compliance orders under both the
+Income Tax
+Act
+and the
+Excise Tax Act
+, since 2002.
+[17]
+Consistent with the direction provided by Prothonotary Lafrenière and with the notice provisions set out in s. 289.1(2) of the
+Excise Tax Act
+, the Minister's practice is to serve notice on "the person against whom the order is sought". Thus, the Minister, following s. 289.1(2) of the
+Excise Tax Act
+and the direction of Prothonotary Lafrenière, has not followed Rule 303 of the
+Rules
+and named, as a Respondent, the affected taxpayer as a "person directly affected by the order sought in the application".
+C.
+Are the Information and Documents sought in this case subject to solicitor-client privilege?
+[18]
+I turn now to the first issue before me. Specifically, should a Compliance Order be issued? Resolution of this issue requires that I first determine whether the Information and Documents, in this case, are subject to solicitor-client privilege.
+[19]
+In recent decisions, the Courts have consistently affirmed that, in the context of a real estate transaction, cheques from a solicitor's account and a statement of adjustments are not subject to solicitor-client privilege (
+Wirick, Re
+, [2005] B.C.T.C. 1821; 51 B.C.L.R.(4th) 193; [2005] B.C.J. No. 2878; 2005 BCSC 1821;
+FRAGMENT_SUPPRESSED;
+Minister of National Revenue v. Reddy
+, [2006] F.T.R. Uned. 165; 146 A.C.W.S.(3d) 568; [2006] F.C.J. No. 348; 2006 FC 277;
+Minister of National Revenue v. Singh Lyn Ragonetti Bindal LLP
+, [2005] F.T.R. Uned. B10; [2006] 1 C.T.C. 113; [2005] F.C.J. No. 1907; 2005 FC 1538). More specifically, the Federal Court in
+Singh Lyn Ragonetti Bindal LLP
+,
+Vlug
+and
+Reddy
+held that such documents and information requested under the
+Excise Tax Act
+or the parallel provisions of the
+Income Tax
+Act
+are not subject to solicitor-client privilege.
+[20]
+Given this clear authority, there is no question that the Information and Documents requested in the RFI are not the subject of solicitor-client privilege.
+D.
+Should the procedures currently used by the Court be amended?
+[21]
+The Law Society has intervened in this application with a concern that they describe as the "greater good". They assert that, once a lawyer is served with an RFI, the lawyer is in an immediate conflict between their duty to their client vis-à-vis privilege and the duty to comply with the statute. At a minimum, the Law Society requests that this Court direct the Minister to take the following steps in all such compliance order applications:
+1. Name the taxpayer as a Respondent to the application pursuant to Rule 303 of the
+Rules
+, thereby giving the taxpayer immediate rights to assert any claims of privilege; and
+2. Require the sealing of the documents and their submission to the Court.
+[22]
+While acknowledging (I think) that the Information and Documents in this case are not subject to solicitor-client privilege, the Law Society argues that there may be circumstances where this type of document or information held by a lawyer may be privileged. The Law Society submits that the lawyer's client is the only party who can waive that privilege. They refer the Court to certain provisions of Chapter 5 of the
+Professional Conduct Handbook
+of the Law Society dealing with "Confidential Information". In particular, paragraphs 13 and 14 are entitled "Disclosure required by law" and provide as follows:
+"13. A lawyer who is required by law or by order of a court to disclose a client's affairs shall not divulge more information than is necessary.
+"14. A lawyer who is required under the
+Criminal Code
+, the
+Income Tax
+Act
+or any other federal or provincial legislation, to produce or surrender a document or provide information which is or may be privileged shall, unless the client waives the privilege, claim a solicitor-client privilege in respect of the document."
+[23]
+In general, I would not presume to interpret the rules of the Law Society. However, in this case, two of these rules have been raised as a reason for changing the practice of the Federal Court. Accordingly, I feel that I should respond to the arguments before me. And, in my view, there are a number of problems with those arguments.
+[24]
+In the face of consistent and clear direction from this and other courts that documents in the nature of those described in the RFI are not subject to solicitor-client privilege, it is difficult to see how paragraph 14 of Chapter 5 of the
+Professional Conduct Handbook
+of the Law Society can have any applicability. Paragraph 14 applies only where the document or information "is or may be privileged". If the Information and Documents do not satisfy that test, paragraph 14 is not engaged.
+[25]
+Since the Information and Documents under discussion in this application - and, more generally, as provided for in the
+Excise Tax Act
+and the
+Income Tax
+Act
+- are not privileged, there is nothing for the client to waive. The provisions of the
+Excise Tax Act
+and the
+Income Tax
+Act
+are very clear. Upon a request, the lawyer must provide the requested information, unless it is subject to solicitor-client privilege. Whether one uses the definition in the statutes or a common law definition of solicitor-client privilege, the law has established that accounting records, including any supporting invoice, voucher or cheque, are not protected by solicitor-client privilege.
+[26]
+Further, the position of the Law Society fails to take into account the difference between confidential and privileged documents. As acknowledged by counsel for the Law Society, privileged documents form a subset of documents that are "confidential". All documents in the possession of a lawyer may be described as confidential but only those that satisfy the test for a claim of solicitor-client privilege may be withheld pursuant to the provisions of the
+Excise Tax Act
+and the
+Income Tax
+Act
+. If paragraph 14 of Chapter 5 of the
+Professional Conduct Handbook
+is to apply to documents which, in the opinion of the courts, are not subject to privilege, then lawyers would be obliged to obtain the waiver from the client of
+all
+documents held by the lawyer for a client. This ignores the intent of paragraphs 13 and 14 which, on my reading, permit the disclosure of non-privileged information where a lawyer is required by law to produce or surrender a document or provide information.
+[27]
+The Law Society argues that only the client - and not the lawyer - has the right to decide whether a document may be privileged and whether to claim that privilege. While this is no doubt correct, it appears to me that, where the law is clear that certain information is not privileged, such a right simply does not arise.
+[28]
+The Law Society raises the problem that sometimes these types of documents may contain notations or other information that may be privileged. This is not the case with the Information and Documents that are the subject of this application; the Law Society does not assert that the documents at issue in this application are annotated. Further, this situation has never arisen to the knowledge of the parties to this application. However, I acknowledge that this situation could arise in a future case. The simple response to this concern is that a financial or accounting record that contains privileged information in the form of a notation is not a document that satisfies the definition of non-privileged information or documents. A Compliance Order may only be issued if the information or document is not protected from disclosure by solicitor-client privilege, either pursuant to s. 289.1 of the
+Excise Tax Act
+or under principles of common law. If such circumstances were to arise, the statute and the Federal Court procedures for obtaining a Compliance Order would, in my view, suffice to provide the important protection for privileged documents and information.
+[29]
+I also note that the judge hearing the application for a Compliance Order may impose any conditions in respect of the order that the judge considers appropriate (
+Excise Tax Act
+, s. 289.1(3)). Further service requirements could be imposed. Since the submissions of the Law Society are based on hypothetical situations, it is impossible to address every possible scenario.
+[30]
+Lastly, I turn to the Law Society's submission that the Minister should be required to follow Rule 303(1) and name the taxpayer as a Respondent. In their view, the taxpayer is a "person directly affected by the order sought in the application". The problem with this argument is, first, that the Court, in
+Norris
+, above, expressly determined that this Rule would not apply. Second, and more importantly, the summary application procedure set out in the
+Excise Tax Act
+requires service only on the party from whom the information is sought.
+[31]
+In sum, I am not persuaded that the evidentiary record in this case establishes a need for further procedural steps for the protection of solicitor-client privilege. More generally, there is no evidence that the current procedure has resulted in a breach of the fundamental legal rights of solicitor-client privilege. There is no need, at this time, to add a requirement to serve the taxpayer or to provide a sealed copy of the documents to the Court, unless such procedures are warranted on the facts of a particular application.
+IV.
+Conclusion
+[32]
+In conclusion, I am satisfied that:
+(a) the Respondent was served with the RFI as required under s. 289(1) of the
+Excise Tax Act
+;
+(b) the Respondent did not provide the Information and Documents sought by the Minister; and
+(c) the Information and Documents are not protected from disclosure by solicitor-client privilege.
+[33]
+Accordingly, the Compliance Order will issue. Further, the Court will provide no direction on the procedure for making application for Compliance Orders and affirms the procedure set out in the
+Excise Tax Act
+and in
+Norris
+, above.
+[34]
+Since the Minister did not seek costs, no costs will be awarded.
+Application granted.
+Editor: Angela E. McKay/vnh
+Appendix "A"
+Excise Tax Act
+, R.S., 1985, c. E-15
+289(1) Despite any other provision of this Part, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of this Part, including the collection of any amount payable or remittable under this Part by any person, by notice served personally or by registered or certified mail, require that any person provide the Minister, within such reasonable time as is stipulated in the notice, with
+(a) any information or additional information, including a return under this Part; or
+(b) any document.
+289.1(1) On summary application by the Minister, a judge may, despite subsection 326(2), order a person to provide any access, assistance, information or document sought by the Minister under section 288 or 289 if the judge is satisfied that
+(a) the person was required under section 288 or 289 to provide the access, assistance, information or document and did not do so; and
+(b) in the case of information or a document, the information or document is not protected from disclosure by solicitor-client privilege (within the meaning of subsection 293(1)).
+(2) An application under subsection (1) must not be heard before the end of five clear days from the day the notice of application is served on the person against whom the order is sought.
+(3) The judge making an order under subsection (1) may impose any conditions in respect of the order that the judge considers appropriate.
+(4) If a person fails or refuses to comply with an order, a judge may find the person in contempt of court and the person is subject to the processes and the punishments of the court to which the judge is appointed.
+(5) An order by a judge under subsection (1) may be appealed to a court having appellate jurisdiction over decisions of the court to which the judge is appointed. An appeal does not suspend the execution of the order unless it is so ordered by a judge of the court to which the appeal is made.
+289(1) Malgré les autres dispositions de la présente partie, le ministre peut, sous réserve du paragraphe (2) et, pour l'application ou l'exécution de la présente partie, notamment pour la perception d'un montant à payer ou à verser par une personne en vertu de la présente partie, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d'une personne, dans le délai raisonnable que précise l'avis:
+a) qu'elle lui livre tout renseignement ou tout renseignement supplémentaire, y compris une déclaration selon la présente partie;
+b) qu'elle lui livre des documents.
+289.1(1) Sur demande sommaire du ministre, un juge peut, malgré le paragraphe 326(2), ordonner à une personne de fournir l'accès, l'aide, les renseignements ou les documents que le ministre cherche à obtenir en vertu des articles 288 ou 289 s'il est convaincu de ce qui suit:
+a) la personne n'a pas fourni l'accès, l'aide, les renseignements ou les documents bien qu'elle en soit tenue par les articles 288 ou 289;
+b) s'agissant de renseignements ou de documents, le privilège des communications entre client et avocat, au sens du paragraphe 293(1), ne peut être invoqué à leur égard.
+(2) La demande n'est entendue qu'une fois écoulés cinq jours francs après signification d'un avis de la demande à la personne à l'égard de laquelle l'ordonnance est demandée.
+(3) Le juge peut imposer, à l'égard de l'ordonnance, les conditions qu'il estime indiquées.
+(4) Quiconque refuse ou fait défaut de se conformer à l'ordonnance peut être reconnu coupable d'outrage au tribunal; il est alors sujet aux procédures et sanctions du tribunal l'ayant ainsi reconnu coupable.
+(5) L'ordonnance visée au paragraphe (1) est susceptible d'appel devant le tribunal ayant compétence pour entendre les appels des décisions du tribunal ayant rendu l'ordonnance. Toutefois, l'appel n'a pas pour effet de suspendre l'exécution de l'ordonnance, sauf ordonnance contraire d'un juge du tribunal saisi de l'appel.
+[End of document]

@@ -1,0 +1,6 @@
+[45]
+The respondent, also relying on
+Bayer Aktiengesellschaft
+, supra, submits that the applicants' interpretation of the test for obviousness is incorrect since the case law establishes that the notional person skilled in the art is entitled to carry out routine investigations including chemical analyses directed to merely determining characteristics of a known compound. Novopharm describes the tests done to determine the relative pharmacological characteristics of known enantiomers of racemic compounds as in the nature of "mere verification" of inherent, already known attributes of the compound, rather than in the nature of "searching for something novel". This "searching for something novel" must form part of the inventive process, as per
+Bayer Aktiengesellschaft
+, supra, and such inventiveness is lacking in the '080 patent.

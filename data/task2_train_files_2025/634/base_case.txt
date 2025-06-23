@@ -1,0 +1,77 @@
+Peak Innovations v. Meadowland Flowers, [2009] F.T.R. Uned. 412 (FC)
+MLB unedited judgment
+Peak Innovations Inc. (applicant) v. Meadowland Flowers Ltd. (respondent)
+(T-1268-08; 2009 FC 661)
+Indexed As: Peak Innovations Inc. v. Meadowland Flowers Ltd.
+Cite As: [2009] F.T.R. Uned. 412
+Federal Court
+Tremblay-Lamer, J.
+June 23, 2009.
+Counsel:
+Paul Smith, for the applicant;
+Karen MacDonald and Jonas Gifford, for the respondent.
+Solicitors of Record:
+Smiths Ip, Vancouver, British Columbia, for the applicant;
+Smart & Biggar, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Tremblay-Lamer, J.
+: The Plaintiff appeals Prothonotary Lafrenière's June 2, 2009 Order, in which he struck paragraphs 3-11, 35, 36, and 38 from the Plaintiff's Amended Statement of Claim, on the basis that a declaration of non-infringement of an industrial design registration is not a cause of action within the jurisdiction of the Federal Court.
+[2]
+The Plaintiff, by Statement of Claim dated August 29, 2008 and Amended Statement of Claim dated October 24, 2008, began this action. The Plaintiff identifies the genesis of this action as a letter written by counsel for the Defendant where counsel for the Defendant alleges infringement of industrial designs and copyright. The Amended Statement of Claim seeks,
+inter alia
+, declarations that certain of the Plaintiff's products do not infringe certain of the Defendant's industrial design registrations.
+[3]
+The Defendant submits that the Plaintiff has based this action on an unreasonable and untenable interpretation of two letters, which have never alleged infringement of the industrial designs at issue in this action. To clarify the matter, Smart and Bigger confirmed that the Defendant has not previously or at that time alleged infringement of any of the industrial design registrations impugned in the Statement of Claim and Amended Statement of Claim. It is against this backdrop that Prothonotary Lafrenière rendered his Order of June 2, 2009.
+[4]
+The sole issue on this appeal is whether the Federal Court has jurisdiction to entertain a proceeding brought by a party for determinations and declarations of whether that party's products infringe industrial design registrations of another party, in the absence of an action for infringement.
+[5]
+The jurisdiction of the Federal Court is statutory and exceptional, and must be positively shown (
+R.W. Blacktop Ltd. v. Artec Equipment Co
+. (1991), 39 C.P.R. (3d) 432 (F.C.T.D.) at page 435), and in order to support a finding of jurisdiction, the following three elements must exist (
+Canada (Human Rights Commission) v. Canadian Liberty Net
+, [1998] 1 S.C.R. 626 at paragraph 8):
+1) There must be an express statutory grant of jurisdiction by the federal Parliament;
+2) There must be an existing body of federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction; and
+3) The law on which the case is based must be a "law of Canada" as the phrase is used in section 101 of the
+Constitution Act
+, 1867.
+[6]
+Therefore, without a statutory grant of jurisdiction for a cause of action seeking a declaration of non-infringement, it is plain and obvious that the Federal Court lacks jurisdiction to entertain such as proceeding, and the portions of the Amended Statement of Claim seeking such relief must be struck.
+[7]
+The provisions of the
+Industrial Design Act
+, R.S.C. 1985, c. I-9 that do establish causes of action are s. 15, s. 15.1, s. 15.2, s. 22, and s. 23. None establishes a cause of action for non-infringement.
+[8]
+The Plaintiff relies on s. 20(2) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 to argue the Federal Court has jurisdiction over declaratory relief in the form of a declaration of non-infringement, since it has jurisdiction to address "any remedy" - the Federal Court has broad jurisdiction to address any remedy relating to industrial designs, and the jurisdiction extends to any remedy sought under the overall law of industrial designs. I disagree.
+[9]
+Section 20(2) of the
+Federal Courts Act
+only establishes jurisdiction for remedies where jurisdiction for the underlying cause of action is established elsewhere in a statute. This is supported by the analysis used in
+Radio Corporation of America v. Philco Corporation (Delaware)
+, [1966] S.C.R. 296 (S.C.C.); and
+Cellcor Corp. of Canada Ltd. v. Kotacka
+(1976), 27 C.P.R. (2d) 68 (F.C.A.).
+[10]
+It is plain and obvious that s. 20(2) of the
+Federal Courts Act
+by itself cannot establish jurisdiction for a cause of action of non-infringement of an industrial design.
+[11]
+The Plaintiff further relies on Rule 64 of the
+Federal Court Rules
+, SOR/98-106 to show the Federal Court has jurisdiction to grant any declaratory relief. Rule 64, however, will not confer jurisdiction for a cause of action on its own.
+FRAGMENT_SUPPRESSED, confirms that Rule 64 speaks to remedy and does not establish jurisdiction for a cause of action that is not otherwise established:
+FRAGMENT_SUPPRESSED
+[12]
+The legislative provisions submitted by the Plaintiff are therefore not able to support the Plaintiff's jurisdictional argument. It is therefore plain and obvious that the Federal Court does not have jurisdiction over a cause of action for non-infringement of an industrial design.
+CONCLUSION
+[13]
+For the above reasons, this appeal from Prothonotary Lafrenière's June 2, 2009 Order, in which Prothonotary Lafrenière struck paragraphs 3-11, 35, 36, and 38 from the Plaintiff's Amended Statement of Claim, is dismissed with costs to the Defendant forthwith and in any event of the cause.
+JUDGMENT
+[14]
+THIS COURT ORDERS that
+the appeal is dismissed with costs to the Defendant forthwith and in any event of the cause.
+[End of document]

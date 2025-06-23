@@ -1,0 +1,2 @@
+[16]
+There are three types of feeding systems in the OSB industry: a long log feeding system, a block feeding system and a batch feeding system. The long log feeding system uses a conveyor which delivers logs of varying lengths into the flaker. The conveyor moves forward at a set distance and then stops, thereby delivering no more than a predetermined length of logs into the flaking compartment. When the flaking process is completed, the conveyor again moves the logs incrementally the same set distance and repeats the process.

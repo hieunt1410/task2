@@ -1,0 +1,18 @@
+[26]
+In
+Commissioner of Patents v. Farb­werke Hoechst Aktiengesellschaft Vormals Meister Lucius & Bruning
+, [see footnote 26] the Supreme Court of Canada declared unpatentable the claims in a divisional appli­cation concerning anti-diabetic compositions containing sulphonyl urea. A parent and nine other divisional applications had previously issued pursuant to s. 41(1) of the
+Patent Act
+concerning different processes for producing sulphonyl urea. In this newest divisional application, another patent was being sought for the same medicine in a diluted form, mixed with some inert sub­stance ("an orally ingestible pharmaceutically acceptable car­rier") to enable the marketable conception of the medicine. Counsel for both Bayer and Apotex agreed that the facts in
+Farbwerke Hoechst
+were on all fours with the circum­stances in the present case:
+"In this case, the addition of an inert car­rier, which is a common expedient to increase bulk, and so facilitate measure­ment and administration, is nothing more than dilution and does not result in a fur­ther invention over and above that of the medicinal itself. If a patent subsists for the new medicinal substance, a separate patent cannot subsist for that substance merely diluted.
+. . . . .
+"The mixing of a patented chemical sub­stance with a carrier is not new and it is not the result of inventive ingenuity. It is, of course, a substance, as the learned President has found, but it is still a sub­stance identical in all respects except dilu­tion with a substance produced by a chem­ical process and for which a patent has been granted under s. 41(1) of the
+Patent Act.
+"The decision under appeal is of extreme practical significance. It gives effect to form rather than substance. The claim to a pharmaceutical composition with which the present appeal is concerned is free from the limitations imposed by s. 41(1) and a person who obtained a patent in this way could assert such claims against anyone using the pharmaceutically active ingredi­ent constituting the substance of the inven­tion regardless of the process whereby it was produced.
+. . . . .
+"In this case there is no question of a sec­ond invention involving the discovery of a new and particular carrier which imparts a special, new, and unexpected character to the compositions. To permit the claiming of a medicine mixed with a carrier in per se form, rather than in process-dependent form, would mean that all new medicines could be claimed free of the restrictions of Section 41 in the only practical form in which they may be used. This, of course, would defeat the whole purpose of the Section." [see footnote 27]
+Of the six cases reviewed by counsel,
+Farb­werke Hoechst
+is the only one which is both a divisional application and one concerning a medicinal composition and therefore sub­ject to s. 41. The two other cases [see foot­note 28] concerning medicines were not divisional applications.

@@ -1,0 +1,289 @@
+[1]
+Tremblay-Lamer, J.
+[Translation]: The defendant is a Canadian citizen who was admitted temporarily to Canada from Italy under Order in Council P.C. 3112 in November 1946. In April 1950, he was admitted permanently to Canada under the same P.C. 3112 and subsequently obtained Canadian citizenship in 1955.
+[2]
+On February 1, 2000, the plaintiff filed an action to revoke the defendant's citizenship. She is asking the court to decide, pursuant to paragraph 18(1)(b) of the
+Citizenship Act
+, R.S.C. 1985, c. 29, that the defendant obtained Canadian citizenship by false representation or fraud or by knowingly concealing material circumstances.
+[3]
+On August 5, 2002, the defendant asked this court to dispose of the plaintiff's action by summary judgment under Rule 213 of the
+Federal Court Rules, 1998
+, SOR/98-106, on the ground that the action is out of time, that it is wrong in law because the plaintiff did not have the legal authority, at the time of his admission, to prohibit entry and admission to Canada as a permanent resident on security grounds, and that the allegations of false representations pertain to the lawfulness of his temporary admission and not his permanent admission to Canada.
+1. Revocation and summary judgment process
+[4]
+The plaintiff argues that Rule 213 of the
+Federal Court Rules, 1998
+cannot apply to a reference under s. 18 of the
+Citizenship Act
+, since it is an action that is incidental to an administrative law process and consequently the rules that may apply to private actions or in a private law context - at least the rule concerning summary judgments - should not be applicable to her.
+[5]
+Furthermore, even if the summary judgment were available, the plaintiff's action ought not to be dismissed summarily since the court must determine the facts according to the testimony of numerous ordinary and expert witnesses, and since the credibility of these witnesses will be a central issue the trial is the best forum in which to determine such issues.
+[6]
+Although I agree with the plaintiff that it is inappropriate to pronounce a summary judgment when fact finding is needed to dispose of the motion, the questions raised in this proceeding are essentially questions of law, which may prima facie be the subject matter of a summary judgment.
+[7]
+Rule 169(a) provides that a reference under s. 18 of the
+Citizenship Act
+is governed by the rules pertaining to actions. This rule does not exclude the procedural motions available in actions. In my opinion, the motion for summary judgment will be appropriate if it fulfills the applicable tests.
+[8]
+When both parties have filed evidence pertaining to the issues that have been raised, the court will be in a position to determine whether there is a serious question to be tried in relation to the facts that are relevant to the limitation of the action and the lack of any legal basis for the plaintiff's action in regard to the defendant's permanent admission to Canada.
+2. Prescription of the action
+[9]
+The defendant argues that the plaintiff's action is out of time and ought to be dismissed pursuant to s. 32 of the
+Crown Liability and Proceedings Act
+, R.S.C. 1985, c. C-50 and/or s. 39 of the
+Federal Court Act
+, R.S.C. 1985, c. F-7, which read as follows:
+"Provincial laws applicable
+"32. Except as otherwise provided in this Act or in any other Act of Parliament, the laws relating to prescription and the limitation of actions in force in a province between subject and subject apply to any proceedings by or against the Crown in respect of any cause of action arising in that province, and proceedings by or against the Crown in respect of a cause of action arising otherwise than in a province shall be taken within six years after the cause of action arose.
+"Prescription and limitation on proceedings in the court
+"39(1) Except as expressly provided by any other Act, the laws relating to prescription and the limitation of actions in force in any province between subject and subject apply to any proceedings in the court in respect of any cause of action arising in that province.
+"(2) A proceeding in the court in respect of a cause of action arising otherwise than in a province shall be taken within six years after the cause of action arose."
+[10]
+The plaintiff submits that these provisions apply only to court proceedings undertaken by or against the Crown for the recognition of a right under an obligation of a legal, contractual or extracontractual nature but do not apply to administrative actions of the Crown such as, in this case, the Minister's decision to report to the Governor in Council under s. 10 of the
+Citizenship Act
+, in which the court is required only to determine some facts where the person in respect of whom the report is to be made so requests under s. 18 of the
+Citizenship Act
+.
+[11]
+The scope of the s. 18 proceeding has been analyzed in the past by this court. In
+Canada (Minister of Citizenship and Immigration) v. Dueck
+, [1999] 3 F.C. 203; 155 F.T.R. 1 (T.D.), Mr. Justice Noël shared the opinion of Madam Justice McGillis in
+Canada (Minister of Citizenship and Immigration) v. Copeland
+, [1998] 2 F.C. 493; 140 F.T.R. 183 (T.D.), according to which the revocation proceeding is a civil proceeding and thus subject to the civil burden of proof as opposed to the criminal burden of proof. She characterized the fact-finding by the judge hearing such a reference as purely and simply a citizenship matter. FRAGMENT_SUPPRESSED
+[12]
+This analysis supports the plaintiff's thesis that this is an "administrative" action, which is not comparable to a court proceeding involving a cause of action taken by someone who wishes to assert a right in personam.
+[13]
+Although I adopt the remarks of McGillis, J., I would add that in my opinion this particular case is a "hybrid" process in which, on the one hand, the procedure and rules of evidence are those applicable to any civil action, but, on the other hand, the decision-making process is not the domain of the judge but rather the Governor in Council. The ruling thus contains no finding as to relief.
+[14]
+Notwithstanding this, I note in the language of s. 32 of the
+Crown Liability and Proceedings Act
+and in s. 39 of the
+Federal Court Act
+the use of the term "any proceedings" (in French, "toute instance").
+[15]
+In
+Markevich v. Minister of National Revenue
+, [2001] 3 F.C. 449; 270 N.R. 275 (F.C.A.), the Federal Court of Appeal confirmed the very broad scope of the term "proceedings" in para. 35:
+"The term 'proceedings' is one of broad scope. While in a legal context, the term 'proceedings' will usually relate to a court action or steps taken under a court order, it may also include 'any legal action or process'" (
+Shorter Oxford Dictionary
+, vol. II, 3rd Ed. Oxford: Clarendon Press, 1990).
+[16]
+Mr. Justice Rothstein concluded, at para. 65:
+"I conclude therefore that proceedings brought by the Crown in respect of a cause of action in s. 32 of the
+Crown Liability and Proceedings Act
+include both court and statutory collection procedures under the
+Income Tax Act
+. The applicable limitation provision is s. 3(5) of the British Columbia
+Limitation Act
+. Under s. 3(5), an action may not be brought after the expiration of six years after the date on which the right to do so arose. Action is defined as including a self help remedy. Its scope is obviously intended to be broad and not limited to a court action."
+[17]
+Thus the reference under s. 18 of the
+Citizenship Act
+might be subject to the limitation period rules since Parliament has provided no exceptions when using the words "any proceedings" or "à toute instance". In
+Markevich
+, supra, Rothstein, J.A., comments, at para. 50:
+"When s. 32 was amended, Parliament had the opportunity, if it had so chosen, to include the words 'in the court' or some other word formula, to ensure that s. 32 only provided for limitation periods in respect of proceedings in court. I think it is a fair inference that Parliament, not having done so, meant to adopt the interpretation in
+E.H. Price
+so that 'proceedings' in s. 32 include all legal processes in respect of a cause of action, whether court or otherwise, and in particular, all collection procedures under the
+Excise Tax Act
+and the
+Income Tax Act
+unless otherwise provided in those statutes."
+[18]
+In his work,
+The Interpretation of Legislation in Canada
+(Toronto: Carswell, 2000), at pp. 275-76, Pierre-André Côté notes that "Since the judge's task is to interpret the statute, not to create it, as a general rule, interpretation should not add to the terms of the law. Legislation is deemed to be well drafted, and to express completely what the legislature wanted to say. ..."
+[19]
+As Mr. Justice Rothstein notes, supra, Parliament might have included some words that could restrict its scope. It chose not to do so. However, that does not suffice to dispose of the question. The action in revocation of citizenship must still be capable of prescription.
+[20]
+Section 32 of the
+Crown Liability and Proceedings Act
+, supra, provides that, except as otherwise provided in an Act of Parliament, the laws relating to prescription and the limitation of actions in force in a province between subject and subject apply to any proceedings by or against the Crown in respect of any cause of action arising in that province.
+[21]
+Since the defendant obtained his permanent admission and his citizenship in Quebec, where he resides, the laws relating to prescription in the
+Civil Code of Québec
+, S.Q. 1991, c. 64, will apply, in my opinion.
+[22]
+If it were accepted that the cause of action arose both abroad and in Quebec (given the false representations alleged by the plaintiff, which are said to have been made in Italy at the time of his temporary admission), the six-year limitation
+deadline
+in s. 32 would apply.
+[23]
+Nevertheless, the applicable law for deciding general questions of private law will fill in where the federal law is silent. Section 32 settles only the question of the deadline, but this is simply one of the questions that may exist in limitation matters. Thus the
+Civil Code
+would apply anyway since it establishes the ordinary law in matters of private law.
+[24]
+Article 2876 of the
+Civil Code of Québec
+provides:
+"That which is not an object of commerce, not transferable or not susceptible of appropriation by reason of its nature or appropriation may not be prescribed."
+[25]
+The plaintiff submits that the acquisition or loss of citizenship are not objects of commerce and therefore may not be prescribed. I agree. The acquisition or loss of citizenship cannot be evaluated in monetary terms, they do not enter into the economic circuit, they are therefore not objects of commerce. They are rights that are characterized as extrapatrimonial. By virtue of their purpose they are not transmissible, they disappear in theory with their holder and they
+may not be prescribed
+. See J.-L. Baudouin,
+Les obligations
+(5th ed., 1998), pp. 1-4.
+[26]
+I therefore find that the plaintiff's action is not subject to the limitation period. I dismiss the motion on this point.
+3. Legal authority to examine and reject candidates on security grounds
+[27]
+The defendant was admitted to Canada as a permanent resident under Order in Council P.C. 3112, which provided that potential immigrants admitted temporarily to Canada in order to work here were, after the performance of their contract, entitled to permanent residence
+if they were otherwise admissible for entry or residence under the
+Immigration Act
+.
+[28]
+The defendant submits that when he was admitted to Canada as a permanent resident, the
+Immigration Act
+and P.C. 3112 did not prohibit the entry "of agents" or "Nazis" or "collaborators".
+[29]
+Contrary to the plaintiff's submissions, I am of the opinion that the defendant's motion does not require the determination of facts based on the testimony of numerous ordinary and expert witnesses. This court is required to determine whether, at the time the defendant was admitted to Canada as a permanent resident, the plaintiff had the legal authority to prohibit his entry and permanent admission under P.C. 3112 or the royal prerogative. This is a question of law which this court, being in possession of the necessary evidence, is in a position to decide. Since there is no serious question to be tried at the level of the facts in relation to the question referred to above, it is possible to dispose of this question summarily.
+[30]
+Section 3 of the
+Immigration Act
+in force at the time set out some specific grounds for rejection. This section read in part as follows:
+"3. No immigrant, passenger, or other person, unless he is a Canadian citizen, or has Canadian domicile, shall be permitted to enter or land in Canada, or in case of having landed in or entered Canada shall be permitted to remain therein, who belongs to any of the following classes, hereinafter called 'prohibited classes': ...
+(d) Persons who have been convicted of, or admit having committed, any crime involving moral turpitude;
+. . . . .
+(i) Persons who do not fulfil, meet or comply with the conditions and requirements of any regulations which for the time being are in force and applicable to such persons under this Act;
+. . . . .
+(p) Enemy aliens or persons who have been alien enemies and who were or may be interned on or after the eleventh day of November, one thousand nine hundred and eighteen, in any part of His Majesty's dominions or by any of His Majesty's allies;
+. . . . .
+(q) Persons guilty of espionage with respect to His Majesty or any of His Majesty's allies;
+. . . . .
+(r) Persons who have been found guilty of high treason or treason or of conspiring against His Majesty, or of assisting His Majesty's enemies in time of war, or of any similar offence against any of His Majesty's allies;"
+[31]
+The power to reject potential immigrants on security grounds does not appear in this list. However, s. 38 of that
+Act
+did give the Governor in Council discretionary authority to prohibit or limit, by proclamation or order, the admission to Canada of immigrants. Section 38 read as follows:
+"38. The Governor in Council may, by proclamation or order whenever he deems it necessary or expedient, ...
+(c) prohibit or limit in number for a stated period or permanently the landing in Canada, or the landing at any specified port or ports of entry in Canada, of immigrants belonging to any nationality or race or of immigrants of any specified class or occupation, by reason of any economic, industrial or other condition temporarily existing in Canada or because such immigrants are deemed unsuitable having regard to the climatic, industrial, social, educational, labour or other conditions or requirements of Canada or because such immigrants are deemed undesirable owing to their peculiar customs, habits, modes of life and methods of holding property, and because of their probable inability to become readily assimilated or to assume the duties and responsibilities of Canadian citizenship within a reasonable time after their entry."
+[32]
+In
+Canada (Minister of Citizenship and Immigration) v. Bogutin
+(1998), 144 F.T.R. 1 (T.D.), at para. 66, Mr. Justice McKeown briefly reviews the history of the issue of security screening:
+"In July 1946, when the security panel met for a second time, no Canadian organization existed for the security examination of prospective immigrants at the point of origin. It was decided that a committee would be struck to deal with regulations to permit refusal of undesirables on security grounds. The Government initially considered including security criteria either in the regulations or the
+Act
+, but then this idea was rejected and the Cabinet decided that the security screening of prospective immigrants should be dealt with by departmental administrative action rather than by legislation. There is no clear and direct evidence in the documents as to why this was done. However, the reason is clear when it is looked at in the context of Cabinet Directive 14, issued in 1949."
+[33]
+Cabinet Directive 14 read as follows:
+"Cabinet Directive Circular No. 14
+Rejection of Immigrants on Security Grounds, N.A. Robertson, October 28, 1949. Document 805.
+Displaced persons and certain classes of prospective immigrants desiring to enter Canada are investigated under established procedures by the R.C.M. Police. Persons in specified categories (i.e., Communists, members of the Nazi or Fascist Parties or of any revolutionary organization, 'collaborators', and users of false or fictitious names or documents) are regarded as inadmissible under the
+Immigration Act
+and are refused a visa. As some of the persons so rejected are not aware that their subversive records are known to security and intelligence agencies, disclosure of the reasons for their rejection as immigrants tends to excite suspicion and compromise valuable sources of information."
+[34]
+Thus, Directive 14 provided that certain classes of persons, such as collaborators, were inadmissible. However, as Mr. Justice Noël states in para. 287 of the
+Dueck
+decision, supra, these decisions had to be made legally effective in one way or another:
+"The decisions made by Cabinet of August 5, 1946, and February 5, 1947, did set the government policy with respect to security screening and clearly were to the effect that prospective immigrants not be admitted unless they had been screened by the RCMP in accordance with the applicable security criteria. But Cabinet decisions once taken must be made legally effective in one way or another."
+[35]
+His conclusion, in para. 298, is categorical:
+"...
+that in July 1948 there was no authority under the
+Immigration Act
+and the orders in council passed thereunder to reject prospective immigrants on the ground that they had collaborated with the enemy
+." (Emphasis added)
+[36]
+In Mr. Justice Noël's opinion, it was not until June 1950 that an order in council (P.C. 2856) was adopted giving the minister the discretionary authority to refuse landing on security grounds by reference to the broad language contained in s. 38.
+"There is no doubt that s. 38 of the
+Immigration Act
+provided the required authority for doing so subject to the appropriate order being passed. But, it was not until June of 1950 that an order in council was passed giving the Minister the discretion to refuse landing by reference to the broad language contained in that section. [ibid., at para. 288]"
+[37]
+Mr. Justice McKeown drew the same conclusion in para. 73 of the
+Bogutin
+decision:
+"Cabinet Directive 14 was implemented by Order in Council P.C. 2856, 9 June 1950, which prohibited the entry into Canada of all persons except for certain categories of persons such as British subjects and subjects of specified British colonies, citizens of the United States and France."
+[38]
+In
+Canada (Minister of Citizenship and Immigration) v. Katriuk
+, [1999] F.C.J. No. 90 (T.D.), Nadon, J., subscribed to this opinion.
+[39]
+The plaintiff contends that the fact that at some later period concerns were expressed about the legal authority to reject potential immigrants who were unsatisfactory in terms of security does not mean that the Cabinet had not adopted an order in council that granted legal authority to reject potential immigrants who were undesirable from a security standpoint when it adopted Order in Council P.C. 3112.
+[40]
+In my opinion, Noël, J., has already decided this question. His conclusion is equally applicable in the case at bar. It is a conclusion of law pertaining to the very meaning of the
+Act
+, the same sections and the same powers. The evidence in this case does not demonstrate that an order in council giving legal authority to reject potential immigrants who are undesirable from a security standpoint was adopted prior to June 1950.
+[41]
+The plaintiff cites paragraph 1(a) of P.C. 3112 as the source of the plaintiff's power to reject potential immigrants on security grounds. This paragraph reads as follows:
+"1. The Minister of Labour is hereby authorized
+(a) by arrangement with the Departments concerned to send representatives of the Departments of Mines and Resources and Labour and the Royal Canadian Mounted Police to the United Kingdom and Italy to interview and examine persons of the above-mentioned description for the purpose of selecting 4,000 of such persons for agricultural employment in Canada and to pay the necessary transportation and living expenses of such representatives while so engaged;"
+[42]
+I do not see how such authority can be inferred from the wording of this paragraph, which provides for the participation of three government departments in the selection of persons seeking to come and work in Canada in agriculture. It evidently does not authorize the rejection of immigrants on security grounds under the legally applicable criteria.
+[43]
+However, P.C. 1950-2856 gave the minister in express and unambiguous terms the discretionary authority to refuse landing in Canada to a person unless it is demonstrated that this person:
+"4. ...
+(a) ... is a suitable immigrant having regard to the climatic, social, educational, industrial, labour, or other conditions or requirements of Canada; and
+(b) is not undesirable owing to his peculiar customs, habits, modes of life, methods of holding property, or because of his probable inability to become readily adapted and integrated into the life of a Canadian community and to assume the duties of Canadian citizenship within a reasonable time after his entry."
+[44]
+This is particularly clear when this order in council is compared with s. 38 of the
+Immigration Act
+, since P.C. 1950-2856 borrows the actual wording of s. 38, which, let us recall, read in part as follows:
+"... immigrants are deemed unsuitable having regard to the climatic, industrial, social, educational, labour or other conditions or requirements of Canada or because such immigrants are deemed undesirable owing to their peculiar customs, habits, modes of life and methods of holding property, and because of their probable inability to become readily assimilated or to assume the duties and responsibilities of Canadian citizenship within a reasonable time after their entry."
+[45]
+P.C. 3112 contemplated a specific group of persons. But, as Noël, J., remarked, security screening was a measure of general application that was not limited to the immigrants covered by a particular order in council (
+Dueck
+, supra, in para. 281). Noël, J., added:
+"... when the Governor in Council desired to exclude a specific class of undesirables in 1948, it did so in express and unambiguous terms. Third, the question as to the existence of authority under which security screening was being conducted was a matter of concern from the very beginning of the security screening program to 1950. At no time was it suggested that P.C. 1947-2180, or any other order in council in force during that period provided the required authority."
+[46]
+In
+Canada (Minister of Citizenship and Immigration) v. Kisluk
+(1999), 169 F.T.R. 161 (T.D.), Lutfy, J. (as he then was), was persuaded, in relying on Orders in Council P.C. 4849 and 4851, that in December 1948 immigration officers were legally authorized to prohibit entry and landing to immigrants on the ground that they were undesirable or constituted a risk to security. According to him, the blanket prohibition stipulated in the opening paragraph of the order in council, together with its use of the permissive "may", provided the immigration officer with the discretion to prohibit the entry of immigrants. With respect, I am unable in the case at bar to reach this conclusion.
+[47]
+In my opinion, since P.C. 3112 is silent in regard to collaborators, etc., there was no legal authority to reject the defendant on this basis. As Noël, J., stated in
+Dueck
+, if the Governor in Council had intended P.C. 3112 to confer such authority, it would have done so in express and unambiguous terms.
+[48]
+In short, when the defendant obtained permanent residence in April 1950, neither the
+Immigration Act
+nor any order in council prohibited his admission to Canada.
+[49]
+With regard to the royal prerogative, the defendant submits that P.C. 3112, by explicitly referring to a right of residence, provided one was admissible under the
+Immigration Act
+, ruled out the use of the alleged royal prerogative (to reject potential immigrants on security grounds) in favour of the
+Act
+.
+[50]
+That a royal prerogative may be abolished or limited by statute was recognized by the Supreme Court of Canada in
+Thomson v. Canada (Minister of Agriculture)
+, [1992] 1 S.C.R. 385; 133 N.R. 345, at pp. 397-98 [S.C.R.]:
+"It is beyond doubt that the prerogative power of the Crown can be abolished or limited by statute. Once a statute occupies the ground formerly occupied by the prerogative power, the Crown must comply with the terms of the statute. See, for example, Hogg,
+Constitutional Law of Canada
+(2nd Ed. 1985), at p. 11. Thus, if the 'recommendations' of the Committee, referred to in s. 52(2), are interpreted as a decision binding upon the Deputy Minister, then the
+Act
+will limit the prerogative powers formerly exercised by the Deputy Minister."
+[51]
+In regard to the royal prerogative in the case at bar, the defendant relies on the decision of Noël, J., in
+Dueck
+, supra, at para. 303, in which he held that the
+Immigration Act
+covers the whole of the prerogative claimed as authority for the rejection of potential immigrants on security grounds.
+"In my view, however, the
+Immigration Act
+covers the whole of the prerogative which the applicant claims as authority for the rejection of potential immigrants on security grounds. The
+Immigration Act
+in force in 1948 conferred upon the Minister of Mines and Resources the authority to determine who could enter Canada and by definition who could not. When regard is had to the scheme of the
+Act
+, there was no apparent limit to the grounds upon which the Minister could refuse entry. As we have seen, s. 38 of the
+Act
+allowed the Minister to prohibit entry, by order or proclamation, by reason of 'climatic, industrial, social, educational, labour or other conditions or requirements of Canada' or because of the immigrants' 'peculiar customs, habits, modes of life and methods of holding property, and because of their probable inability to become readily assimilated'. That is the authority under which Order in Council P.C. 1950-2856 was eventually adopted and there can be no doubt that this regulation provided the Minister concerned with the authority to reject immigrants on security grounds."
+[52]
+Counsel for the plaintiff submits that the question of the royal prerogative as a basis for the legal authority to reject potential immigrants on security grounds has not been definitively decided. He refers to comments by Lutfy, J., in
+Kisluk
+, supra (sic), suggesting that the
+Immigration Act
+may not have completely barred the use of the royal prerogative in relation to the exclusion of aliens on grounds of national security.
+[53]
+In
+Kisluk
+, Lutfy, J., did not rule definitively on the question of the royal prerogative. But Noël, J., did clearly state that the
+Immigration Act
+covers the whole of the prerogative in relation to the exclusion of aliens on national security grounds. I agree with that statement.
+[54]
+In view of this conclusion, it is not necessary to address the defendant's alternative submission concerning his temporary admission to Canada.
+[55]
+To summarize, I find that the plaintiff, at the time of the defendant's admission to Canada, did not have legal authority to prohibit his entry and admission to Canada as a permanent resident on security grounds. The motion for summary judgment is allowed on this point. With costs.
+ORDER
+[56]
+THE COURT ORDERS THAT
+The Court finds that the plaintiff, at the time of the plaintiff's [sic] admission to Canada, did not have legal authority to prohibit his entry and admission to Canada as a permanent resident on security grounds. The motion for summary judgment is allowed on this point. With costs.
+Order accordingly.
+Editor: Angela E. McKay/gs

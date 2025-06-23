@@ -1,0 +1,241 @@
+Date: 20160404
+Docket: T-1671-15
+Citation:
+2016 FC 363
+Ottawa, Ontario, April 4, 2016
+PRESENT:    The
+Honourable Mr. Justice Barnes
+BETWEEN:
+THE MINISTER OF
+CITIZENSHIP AND IMMIGRATION
+Applicant
+and
+SAMIR HASSAN
+MOHAMED SALHA
+Respondent
+JUDGMENT AND REASONS
+[1]
+On this application the Minister of Citizenship
+and Immigration (Minister) challenges the reasonableness of a decision of the
+Citizenship Court by which the Respondent, Samir Hassan Mohamed Salha, was
+granted Canadian citizenship.
+[2]
+The standard of review is reasonableness, which
+means, of course, that the decision under review is to be afforded considerable
+deference (Canada (Minister of Citizenship and Immigration) v Abdulghafoor,
+2015 FC 1020 at paras 15-17, [2015] FCJ No 1017 [Abdulghafoor]).
+[3]
+In Abdulghafoor, above, Justice Denis
+Gascon provided the following helpful description of the approach to be adopted
+in cases of this type:
+[29]      The Minister submits that the
+citizenship judge’s reasons are inadequate in that they do not show a grasp of
+the paucity of the evidence in this case, let alone the concerns raised by the
+citizenship officer. As such, they do not allow a reviewing party to understand
+why the citizenship judge made his decision. I do not agree and rather find
+that the citizenship judge’s reasons were adequate.
+[30]      The law relating to the
+sufficiency of reasons in administrative decision-making has evolved
+substantially since Dunsmuir, both with respect to the degree of
+scrutiny to which fact-based decisions (such as the decision at issue in this
+case) should be subjected, and in relation to the sufficiency of reasons as a
+stand-alone ground for judicial review. In Newfoundland and Labrador Nurses’
+Union v Newfoundland and Labrador (Treasury Board), 2011 SCC 62 (CanLII) [Newfoundland Nurses], the Supreme
+Court provided guidance on how to approach situations where decision-makers
+provide brief or limited reasons. Reasons need not be fulsome or perfect, and
+need not address all of the evidence or arguments put forward by a party or in
+the record.
+[31]      The decision-maker is not required
+to refer to each and every detail supporting his or her conclusion. It is
+sufficient if the reasons permit the Court to understand why the decision was
+made and determine whether the conclusion falls within the range of possible
+acceptable outcomes (Newfoundland Nurses at para 16). The reasons are to
+be read as a whole, in conjunction with the record, in order to determine
+whether the reasons provide the justification, transparency and intelligibility
+required of a reasonable decision (Dunsmuir at para 47; Agraira v Canada (Public Safety and
+Emergency Preparedness), 2013 SCC 36 (CanLII) at para 53; Construction Labour Relations v Driver Iron Inc., 2012
+SCC 65 (CanLII) at para 3). This Court
+discussed the issue of adequacy of reasons in a citizenship judge’s decision in
+the recent Safi decision. In that decision, Justice Kane echoed the Newfoundland
+Nurses principles and stated that the decision-maker is not required to set
+out every reason, argument or detail in the reasons, or to make an explicit
+finding on each element that leads to the final conclusion. The reasons are to “be read together with the outcome and serve the purpose of
+showing whether the result falls within a range of possible outcomes” (Safi
+at para 17).
+[32]      In this case, the citizenship
+judge’s decision meets this standard; the reasons explain why he decided that
+Mr. Abdulghafoor met the residency requirement and how he considered the
+evidence.
+[33]      Reasonableness,
+not perfection, is the standard. In citizenship
+matters, reasons for decision are often very brief and do not always address
+all discrepancies in the evidence. However, even where the reasons for the
+decision are brief, or poorly written, this Court should defer to the
+decision-maker’s weighing of the evidence and credibility determinations, as
+long as the Court is able to understand why the citizenship judge made its
+decision (FRAGMENT_SUPPRESSED; Canada (Minister of
+Citizenship and Immigration) v Purvis, 2015 FC 368 (CanLII) at paras
+24-25).
+[4]
+In this case the Minister argues that the
+Citizenship Court failed in its duty to verify Mr. Salha’s Canadian
+residency in the face of material evidentiary deficiencies or to explain why it
+decided that Mr. Salha met the residency requirement.
+[5]
+It is common ground that the reference period
+for calculating Mr. Salha’s residency ran from June 30, 2007 to May 26, 2011.
+Under the Pourghasemi test adopted by the Citizenship Court, Mr. Salha
+was required to establish his physical presence in Canada for at least 1095
+days during the reference period (Pourghasemi, Re, (1993) 62 FTR 122
+(Fed TD), [1993] FCJ No 232). In his application he declared 1300 days of
+physical presence and 125 days of absence.
+[6]
+Mr. Salha’s declaration of residency was,
+however, not corroborated by the documents he submitted. The Citizenship Court
+described the problem in the following way:
+The applicant has presented copies of all
+pages of his travelling documents and he doesn’t declare a shortfall but some
+of his statements cannot be verified. For example he declares six absences
+during the relevant period but only four of his re-entry dates could be
+verifies [sic] through the ICES report.
+[7]
+The sum total of the Citizenship Court’s
+analysis of the evidence bearing on the above problem is then set out in the
+following passages:
+It is true that the applicant declares six
+absences during the relevant period and only four of his re-entry dates could
+be verified through the ICES report. However, it is also true that the ICES
+report doesn’t contain information contradicting what the applicant declares. I
+have also tried to get more information about the trips not supported by the
+ICES report. Unfortunately the applicant, as it is very common in some
+communities, doesn’t use the credit card very much. However, I was able to find
+some activities on one card in the days immediately after his two not verified
+re-entries in Canada in Sept. 2007 and March 2009, (see copy of the cc in the
+file).
+…
+Given the foregoing, and referring to the
+residency test set by Muldoon J. in Pourghasemi, (Re): [1993] F.C.J. No.
+232, I find that, on a balance of probabilities, the Applicant has demonstrated
+that he resided in Canada for the number of days he claimed to reside in Canada
+and has therefore met the residence requirement under s. 5(1)(c) of the Act.
+[8]
+The apparent justification for this decision is
+that, notwithstanding the absence of corroborating travel documentation or
+other probative circumstantial evidence of a presence in Canada during the
+periods affected by unverified re-entry dates, the Citizenship Court accepted
+Mr. Salha’s declaration of residency at face value.
+[9]
+In my view the decision fails to conform with
+the approach described by Justice Yves de Montigny in Falah v
+Canada (Minister of Citizenship and Immigration), 2009 FC 736 at para 21, [2009]
+FCJ No 1402:
+In applying this test, the Judge cannot rely
+on the applicant’s claims alone. He must also verify the applicant’s actual presence
+in Canada during the periods when the applicant claims that he was not outside
+the country. Accepting the applicant’s argument that the Judge erred by failing
+to accept the statements made by the applicant in his residence questionnaire
+would amount to saying that the Judge must blindly accept the submissions made
+to him as to the number of days of absence from or presence in Canada. That is
+not my understanding of the approach taken in Re Pourghasemi. If one
+relies on a strict counting of days during which the applicant must be present
+in Canada, it follows that the Judge can and must ensure that the applicant was
+actually on Canadian soil during the period when he claims to have been. One
+need only point out that it is the applicant who bears the burden of proving
+that he meets the conditions set out in the Act, and in particular the
+residence requirements: El Fihri v. Canada (Citizenship and
+Immigration), 2005 FC 1106; Saqer v. Canada (Citizenship and
+Immigration), 2005 FC 1392. In this case, the different versions given by
+the applicant could only lead the Judge to show prudence and to require proof
+of his physical presence in Canada
+[10]
+The reasons provided by the Citizenship Court
+are not sufficient to explain why it found the residency requirement to be
+satisfied without evidence to corroborate the dates of some of Mr. Salha’s re-entries
+to Canada. Simply put, the Citizenship Court’s finding that the ICES report
+does not contradict Mr. Salha’s claim is unhelpful, as the absence of evidence
+confirming Mr. Salha’s physical presence in Canada is not probative of
+anything. The onus was on Mr. Salha to prove his residency, and his
+failure to prove the return dates for two of his six trips to the United Arab
+Emirates created a material gap in the evidence.
+[11]
+The vague reference by the Citizenship Court to
+credit card transactions is also problematic. Contrary to the decision, the
+credit card statements in the certified tribunal record show that the family
+were frequent users of their credit cards. In the absence of Canadian
+transactions that could be plausibly attributed to Mr. Salha, to the exclusion
+of his wife, those records carried no probative weight in proof of his
+residency.
+[12]
+I would add that the cases relied upon by Mr.
+Salha are distinguishable. In all of those cases the reasons given by the
+Citizenship Court explained the evidentiary basis of the residency finding: see
+Abdulghafoor, above, at para 32; Canada (Minister of Citizenship and
+Immigration) v Ibrahim, (March 14, 2016), Toronto T-1167-15 (FC) at
+para 9; Canada (Minister of Citizenship and Immigration) v Lee,
+2013 FC 270 at para 48, [2013] FCJ No 311; Canada (Minister of Citizenship
+and Immigration) v Purvio, 2015 FC 368 at paras 37-39, [2015] FCJ No 360;
+Canada (Minister of Citizenship and Immigration) v Suleiman, 2015
+FC 891 at paras 17 and 39, [2015] FCJ No 932; and Canada (Minister of
+Citizenship and Immigration) v Goo, 2015 FC 1363 (CanLII) at paras
+41-42. In this case the Citizenship Court did nothing more than identify the
+evidentiary problem and assert a bare conclusion. This approach fails to
+provide the justification that is required for a reasonable decision.
+[13]
+It should not be difficult for Mr. Salha to
+prove the details of his international travel. Airline records are an obvious
+source of reliable information of the dates of his travel. Other records of his
+transactions and attendances in Canada at the relevant times should also be
+readily available. Indeed, it is perhaps unfortunate for Mr. Salha that the
+Citizenship Court declined his offer of further and better documentation to
+confirm his residency. Because that opportunity was missed, it is regrettably necessary
+that the matter be revisited with a rehearing on the merits by a different
+decision-maker. Mr. Salha will of course, have the opportunity, hopefully with
+the assistance of counsel, to supplement his evidence in order to verify his
+physical presence in Canada.
+[14]
+Neither party proposed a certified question and
+no issue of general importance arises on this record.
+JUDGMENT
+THIS COURT’S JUDGMENT is that this
+application is allowed with the matter to be redetermined on the merits by a
+different decision-maker.
+"R.L. Barnes"
+Judge
+FEDERAL
+COURT
+SOLICITORS
+OF RECORD
+Docket:
+T-1671-15
+STYLE OF CAUSE:
+THE MINISTER OF CITIZENSHIP AND
+IMMIGRATION v SAMIR HASSAN MOHAMED SALHA
+PLACE OF
+HEARING:
+Toronto, Ontario
+DATE OF
+HEARING:
+March 21, 2016
+JUDGMENT
+AND REASONS:
+BARNES J.
+DATED:
+april 4, 2016
+APPEARANCES:
+Leanne Briscoe
+For
+The Applicant
+Cristina Guida
+For
+The Respondent
+SOLICITORS OF RECORD:
+William F. Pentney
+Deputy Attorney General of Canada
+Toronto, Ontario
+For
+The Applicant
+Green and Spiegel LLP
+Barrister and Solicitor
+Toronto, Ontario
+For
+The Respondent

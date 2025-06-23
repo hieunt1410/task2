@@ -1,0 +1,460 @@
+I.
+Overview
+[1]
+O'Reilly, J.:
+These two applications for judicial review raise the question whether a First Nation band can limit voting rights to residents on its reserve, or whether such a limitation violates the right to equality in s. 15 of the Canadian Charter of Rights and Freedoms.
+[2]
+The applicant in the first application, Ms. Betty Woodward, is a member of the Fort McMurray First Nation (FMFN), but has been unable to vote in elections for the Chief and Council because she lives just off the reserve in the village of Anzac. Similarly, the applicants in the second application, Mickey and Harry Cockerill, are also members of the FMFN living in Anzac. They, too, have not been allowed to vote in band elections.
+[3]
+The FMFN's
+Customary Election Regulations
+, enacted in 1993, define an "elector" as someone who is a member of the band, is eighteen years of age or older, and is a resident (s. 2.7). A "resident" is a person who maintains a place of residence on one the band's reserves for at least six months of the year (s. 2.8).
+[4]
+Ms. Woodward seeks an order quashing a decision of the band's Chief and Council refusing to amend the
+Regulations
+to remove the residency requirement, or an order requiring the Chief and Council to make the amendment. The Cockerills seek an order requiring the band to allow non-residents to vote and an order quashing the last election on April 28, 2008. One of the respondents, Ms. Bernadette Dumais, made a brief appearance through counsel to make clear that she fully supports the applicants, Mickey and Harry Cockerill.
+[5]
+I conclude that the residency requirement does breach s. 15, but I find that it represents a reasonable limit under s. 1 of the
+Charter
+. In any case, I must dismiss Ms. Woodward's application for judicial review because the decision on which she purported to ground it was not within the jurisdiction of the Chief and Council to make. I dismiss the Cockerills' application for judicial review based on s. 1 of the
+Charter
+. The issues arising in this case are the following:
+1. Are the Band's decisions amenable to judicial review?
+2. Are the
+Regulations
+in keeping with the band's customs?
+3. Are customs reviewable under the
+Charter
+?
+4. Do the
+Regulations
+violate s. 15?
+5. Are the
+Regulations
+justified under s. 1 of the
+Charter
+?
+II.
+Analysis
+A. Factual Background
+[6]
+Experts called by the Minister and Ms. Woodward gave consistent views of the social organization of peoples living in the Fort Chipewyan region, on the fringe of which resides the Fort McMurray First Nation. Dr. Patricia McCormack, an anthropologist at the University of Alberta, has studied the Fort Chipewyan region and peoples extensively. She explained that, unlike the situation in the south, in Northern Alberta there were no tribes. People gathered mainly in small, local bands, living together and sharing the proceeds of their labours. The leaders of these small groups were generally chosen by informal consensus on the basis of their skills as hunters, trappers, orators, or spiritual leaders. There also existed regional bands that were essentially a temporary gathering of local bands but, still, these had no formal leadership structure. This situation remained in place until, with the decline in the fur trade, people started gathering into communities in the 1950s and 1960s.
+[7]
+Treaty 8
+had an effect, too. The process of negotiating the
+Treaty
+, signed in 1899, required the band to identify its members and its leaders. Chiefs signed the
+Treaty
+on behalf of everybody, but the band list identified those who would become status Indians for purposes of the
+Indian Act
+, R.S. c. I-6. Obviously, this was an administrative exigency which may have borne little relationship with how people actually lived. For example, while the
+Treaty
+delineated reserve lands, people were not expected to move onto the reserve lands and residency on the reserve was not a significant issue.
+[8]
+Dr. Carl Beal, Professor of Indigenous Studies, First Nations University of Canada, confirmed that native peoples in northwestern Alberta lived in family or extended family groups prior to
+Treaty 8
+. He agreed that these could be called "local bands". These bands would have a leader, but not in the sense that we might use the term. There was no formal leadership structure.
+[9]
+Dr. Beal explained that, after
+Treaty 8
+was signed, the existence of reserves did not necessarily mean that members of the band were actually living there. The surveyors who identified the reserve lands often did not speak to the local people to find out what lands were actually being used. Still, as time went on, more and more people moved onto the reserves, in part because government officials would encourage them to do so for administrative ease.
+[10]
+Dr. Beal also noted that the Fort McMurray First Nation is actually a modern creation, set up in 1954, when the Clearwater River reserve and three Gregoire Lake reserves became reserves of the FMFN. Other lands were severed off for the Fort McKay band.
+[11]
+I also heard evidence from two elders, Ms. Harriet Janvier and Mr. Roland Woodward.
+[12]
+Ms. Janvier was born on the reserve in 1936. She lived at home until she was 12, when she left to attend a residential school after her mother died in 1949. She also lived in Fort St. John between 1976 and 1986. Ms. Janvier was on the Band Council at various times - in 1971 for 2 years, in 1986 for 2 years, and in 2005 for 3 years. She now sits on the Elders Committee, which is comprised of elders living on and off the reserve and includes the applicant, Ms. Betty Woodward. The Elders Committee gives advice to the chief and council on a variety of issues relating to the band, for example, in relation to the activities of oil companies in the area.
+[13]
+Ms. Janvier's recollection is that chiefs were selected by the residents of the reserve (but only men) at a tea dance. They were chosen on the basis of their hunting skills and, especially in recent times, ability to speak English. Since there were no telephones, notice of the tea dance was spread by word of mouth. Members of the band who lived off the reserve would no doubt hear about the gatherings, but she believed they usually did not attend them. She thought that in the 1940s, there were only about 10 families on the reserve, less than a hundred people. She believes that the practice she remembers is consistent with how chiefs were chosen in the past, according to what her parents told her.
+[14]
+Mr. Roland Woodward is a historian. He has lived both on the reserve and in the village of Anzac, just off the reserve. He explained that his brother, Jim, was Chief of the band for a brief time in 1996. Jim had wanted to restore the custom of the band according to which everyone, residents and non-residents, were allowed to vote, but he did not succeed.
+[15]
+Mr. Woodward explained that he is a member of the band and now a resident on the reserve. However, his name has been removed from the membership list so he cannot vote.
+III.
+Issues
+1.
+Are the band's decisions amenable to judicial review?
+[16]
+The applicants based their applications for judicial review on separate decisions. Ms. Woodward challenges a decision of the FMFN Chief and Council not to amend the
+Customary Election Regulations
+. The Cockerills challenge the election of April 28, 2008 in which they were denied the right to vote.
+[17]
+FMFN points out that the Chief and Council did not have the jurisdiction to make the decision Ms. Woodward sought. The
+Regulations
+contain a mechanism for passing amendments. The Chief and Council cannot amend them on their own.
+[18]
+I agree with FMFN on this point. Ms. Woodward has not based her application for judicial review on a decision amenable to judicial review. On that ground alone, I must dismiss her application for judicial review. The remainder of my judgment relates to the application for judicial review brought by the Cockerills. However, where appropriate, I refer to facts and arguments raised by Ms. Woodward in her application.
+2.
+Are the
+Regulations
+in keeping with the band's customs?
+[19]
+FMFN argues that the current
+Regulations
+are consistent with the band's customs. As discussed above, aboriginal people living in Northern Alberta typically lived in small, local bands. The members of those bands would choose a leader. All of the members were, by definition, residents of the band, and vice versa. Accordingly, it is natural that the election regulations require residence on the reserve because residence was always an inherent criterion for participation in the selection of a chief.
+[20]
+According to Dr. McCormack, band members did not occupy the reserve lands until the 1950s when they started having difficulty living off the land. Ms. Janvier's recollection is that during this time frame, residents on the reserve would have chosen a chief at a tea dance, and non-residents were probably not involved.
+[21]
+In my view, the evidence does not support a custom of allowing only residents on the reserve to participate in selecting a chief. Historically, members of local bands would choose a leader by consensus. Being a member of a local band meant the same thing as being a resident. There was no custom of distinguishing between residents and non-residents because there was no need for such a rule.
+[22]
+In later years, as Ms. Janvier recounted, people who lived off the reserve mostly kept to themselves, and tended not to attend the tea parties where a chief would be chosen. But again, it seems there was no entrenched custom along these lines. She did not say that non-residents were unwelcome, or that non-resident members could not have played a role if they did attend.
+[23]
+In my view, therefore, the band's custom election regulations are not founded on an established custom of differentiating between residents and non-residents.
+3.
+Are customs reviewable under s. 15 of the
+Charter
+?
+[24]
+FMFN maintains that there is no authority for the proposition that customary means of choosing a band's leadership must comply with s. 15 of the
+Charter
+.
+[25]
+First, the Band points out that s. 25 of the
+Charter
+protects against any derogation from aboriginal and treaty rights. In effect, therefore, it insulates customary practices from
+Charter
+scrutiny. Accordingly, the Fort McMurray First Nation's customs are protected under s. 25 and cannot be challenged on s. 15 grounds.
+[26]
+As discussed above, the Band's
+Customary Election Regulations
+do not reflect, in my view, a customary practice. Therefore, there are not protected by s. 25, and they are amenable to challenges under s. 15 of the
+Charter
+.
+[27]
+FMFN also points out, according to s. 2 of the
+Indian Act
+, where a band does not follow the election process provided in s. 74 of the
+Act
+, the council (or chief) is chosen according to the custom of the band. Accordingly, the band gets its authority from its own custom, not from the
+Indian Act
+. So, if a band determines its leadership by custom, it is not relying on the
+Indian Act
+for its authority to do so. A band in that situation is not reliant on any delegated authority from Parliament and cannot be considered "government" for purposes of s. 32 of the
+Charter
+. The
+Charter
+applies to the
+power
+the band council exercises, because those derive from the
+Indian Act
+, but the actual
+creation
+of the band council is another thing, FMFN says.
+[28]
+In my view, FMFN's position is not supported by the case law. The leading case on the issue was decided by Justice Barry Strayer (
+Thompson v. Leq'à:mel First Nation Council
+(2007), 333 F.T.R. 17; 2007 FC 707). Justice Strayer held that the
+Charter
+applies to
+Customary Election Regulations
+enacted by a band (para. 8). However, FMFN points out that the parties in that case had agreed that the
+Charter
+applies, so Justice Strayer's analysis was not essential to his conclusion. While it is true that the parties accepted that a band's election regulations are subject to the
+Charter
+, Justice Strayer expressly found that "a band council elected under Band
+Regulations
+still exercises its powers of governance under the
+Indian Act
+and therefore if admission to, or the right to vote for, that council is discriminatory within the meaning of subsection 15(1) of the
+Charter
+such discriminatory results arise under an act of Parliament" (para. 8).
+[29]
+Further, Justice Strayer agreed with Justice John O'Keefe's decision in
+Clifton et al. v. Benton et al.
+, [2006] 2 F.C.R. 24; 277 F.T.R. 201; 2005 FC 1030. There, Justice O'Keefe concluded that band councils acting according to custom and those operating under the
+Indian Act
+both derive their authority from the
+Indian Act
+and, therefore, both are subject to the
+Charter
+(para. 45).
+[30]
+The applicants also rely on
+Scrimbitt v. Sakimay Indian Band Council
+, [2000] 1 F.C. 513; 178 F.T.R. 210 (T.D.). There, Justice Andrew MacKay decided that a band policy regarding the voting rights of its members violated the
+Indian Act
+, as well as the
+Charter.
+In particular, Justice MacKay found that disallowing a woman to vote because she had married someone outside the band offended her equality rights. The Sakimay Band had argued that its policy was rooted in custom, but that did not prevent Justice MacKay from finding a
+Charter
+violation.
+[31]
+FMFN sought to distinguish
+Scrimbitt
+on the basis that it involved a membership code, not an election code, and membership codes are regulated under the
+Indian Act
+(s. 10). Election codes are not. So, FMFN argues that
+Scrimbitt
+cannot stand for the proposition that the
+Charter
+applies to custom election codes. In my view, however,
+Scrimbitt
+supports the applicants' position given that it involved an application of the
+Charter
+to a practice that was said to have a basis in custom.
+4.
+Do the
+Regulations
+violate s. 15?
+[32]
+The Supreme Court of Canada has found the requirement that electors be residents on a reserve violates s. 15 (
+Corbière et al. v. Canada (Minister of Indian and Northern Affairs) et al.
+, [1999] 2 S.C.R. 203; 239 N.R. 1). FMFN argues that the circumstances in this case are different than in
+Corbière
+because off-reserve members are now allowed to vote on many things, just not for the chief and council of the band. Also, members have the option of moving onto the reserve. Non-residence is not an immutable characteristic, nor one achieved only at a high personal cost. In
+Corbière
+, there was evidence of crowding, which is not the case on this reserve.
+[33]
+I cannot agree with the FMFN's position. I see no reason to depart from the analysis of Justice Strayer in
+Thompson
+, above, where he concluded that:
+• limiting the right to vote based on residence makes a distinction that denies equal protection or equal benefit of the law;
+• that distinction is based on grounds analogous to those set out in s. 15 because it involves characteristics that the government has no legitimate interest in expecting the person to change (citing
+Corbière
+);
+• a distinction based on residence on the reserve is discriminatory because it implies that off-reserve members are lesser members of the band, infringes their dignity by denying them a full opportunity to participate in the band's affairs, and restricts their ability to maintain a connection with the band;
+• the fact that a person may choose voluntarily to live off the reserve is irrelevant.
+[34]
+Accordingly, I find that the residency requirement in the FMFN's
+Customary Election Regulations
+(s. 2.7) offends s. 15 of the
+Charter
+.
+5.
+Are the
+Regulations
+justified under s. 1 of the
+Charter
+?
+[35]
+FMFN argues that the band is a local government whose purpose is to serve the needs of its residents (like a municipality). The
+Customary Election Code
+is consistent with that purpose. Accordingly, the
+Code
+serves a pressing and substantial objective - to provide local government to residents. The residency rule ensures that those most affected by the band's governance have the most say in choosing their representatives. Further, the law is proportionate. The residency requirement is rationally connected to its purpose of ensuring that the local population is well-served by the band's activities. The rights of non-residents are minimally impaired, unlike in
+Corbière
+, where non-residents were completely excluded from the right to vote. Here, non-residents can still vote on many measures that affect their interests. In fact, though, the Council does little that affects non-residents. Off-reserve members make up 60% of the membership. If allowed to vote, they would make up a majority.
+[36]
+The FMFN points out that the situation in this case is different from
+Thompson
+, above, where Justice Strayer found no rational connection between a requirement that voters live within a traditional area (not confined to the reserve) and the goal of allowing residents to play a role in local governance. In this case, there clearly is a rational connection between the residency requirement and the role of the band, given that most of the band's activities relate to the administration of the reserves for the benefit of the people residing there.
+[37]
+I agree with FMFN's position. The evidence shows that the FMFN operates many programs, the majority of which are for the benefit of residents. Further, since
+Corbière
+, First Nations must allow off-reserve members to vote on issues relating to the surrender or designation of reserve lands. In addition, non-residents can vote on decisions relating to other aspects of band governance (e.g., the membership of the band, amalgamations, etc.). Finally, non-resident elders are welcome to serve on the FMFN Elder Committee, which advises the Chief and Council on matters affecting the band.
+[38]
+In my view, FMFN has satisfied its burden of showing that the residency requirement is justified as a reasonable limit under s. 1 of the
+Charter
+. The FMFN has very limited resources. In fact, at the moment its finances are being co-managed. The vast majority of its programs are run for the benefit of reserve residents. In matters seriously affecting the interests of non-residents, members of the band living off the reserve do play a role. However, it would not be reasonable, in an election for Chief and Council, to give a majority vote to non-residents, which would be the effect of finding that the definition of "elector" in the
+Regulations
+was unconstitutional.
+[39]
+While the burden is clearly on FMFN to justify the infringement of s. 15, I note that there is almost no evidence before me as to the effect of the residency requirement on the applicants. Ms. Woodward states in her affidavit that she wants "to participate in the political life of the Nation including the nomination process and to vote in the upcoming election". The Cockerills do not put forward any evidence of the effect of the residency requirement on them.
+IV.
+Conclusion and Disposition
+[40]
+The residency requirement in the FMFN
+Customary Election Regulations
+(s. 2.7) violates the right to equality in s. 15 of the
+Charter
+. However, it is a reasonable limit on equality rights because it serves the important purpose of ensuring that the Chief and Council of the FMFN focus their attention primarily on the needs of residents on the reserve. Further, it is a proportionate means of achieving that objective in the circumstances of the FMFN. These applications for judicial review are dismissed, with costs.
+JUDGMENT
+[41]
+THIS COURT'S JUDGMENT IS that
+1. The applications for judicial review are dismissed with costs.
+Applications dismissed.
+Editor: Angela E. McKay/ve
+Annex "A"
+Canadian Charter of Rights and Freedoms
+, R.S. 1982, c. C-00
+Rights and freedoms in Canada
+1.
+The
+Canadian Charter of Rights and Freedoms
+guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+Equality before and under law and equal protection and benefit of law
+15.
+(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+Aboriginal rights and freedoms not affected by
+Charter
+25.
+The guarantee in this
+Charter
+of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including
+(a)
+any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and
+(b)
+any rights or freedoms that now exist by way of land claims agreements or may be so acquired.
+Application of
+Charter
+32
+. (1) This
+Charter
+applies
+(
+a
+) to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and
+(
+b
+) to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.
+Exception
+(2) Notwithstanding subsection (1), section 15 shall not have effect until three years after this section comes into force.
+Indian Act
+, R.S., c. I-6
+Definitions
+2.
+(1) In this
+Act
+,
+"Council of the band"
+"council of the band" means
+(
+a
+) in the case of a band to which section 74 applies, the council established pursuant to that section,
+(
+b
+) in the case of a band to which section 74 does not apply, the council chosen according to the custom of the band, or, where there is no council, the chief of the band chosen according to the custom of the band;
+Band control of membership
+10.
+(1) A band may assume control of its own membership if it establishes membership rules for itself in writing in accordance with this section and if, after the band has given appropriate notice of its intention to assume control of its own membership, a majority of the electors of the band gives its consent to the band's control of its own membership.
+Membership rules
+(2) A band may, pursuant to the consent of a majority of the electors of the band,
+(
+a
+) after it has given appropriate notice of its intention to do so, establish membership rules for itself; and
+(
+b
+) provide for a mechanism for reviewing decisions on membership.
+Exception relating to consent
+(3) Where the council of a band makes a by-law under paragraph 81(1)(p.4) bringing this subsection into effect in respect of the band, the consents required under subsections (1) and (2) shall be given by a majority of the members of the band who are of the full age of eighteen years.
+Acquired rights
+(4) Membership rules established by a band under this section may not deprive any person who had the right to have his name entered in the Band List for that band, immediately prior to the time the rules were established, of the right to have his name so entered by reason only of a situation that existed or an action that was taken before the rules came into force.
+Idem
+(5) For greater certainty, subsection (4) applies in respect of a person who was entitled to have his name entered in the Band List under paragraph 11(1)(c) immediately before the band assumed control of the Band List if that person does not subsequently cease to be entitled to have his name entered in the Band List.
+Notice to the Minister
+(6) Where the conditions set out in subsection (1) have been met with respect to a band, the council of the band shall forthwith give notice to the Minister in writing that the band is assuming control of its own membership and shall provide the Minister with a copy of the membership rules for the band.
+Notice to band and copy of Band List
+(7) On receipt of a notice from the council of a band under subsection (6), the Minister shall, if the conditions set out in subsection (1) have been complied with, forthwith
+(
+a
+) give notice to the band that it has control of its own membership; and
+(
+b
+) direct the Registrar to provide the band with a copy of the Band List maintained in the Department.
+Effective date of band's membership rules
+(8) Where a band assumes control of its membership under this section, the membership rules established by the band shall have effect from the day on which notice is given to the Minister under subsection (6), and any additions to or deletions from the Band List of the band by the Registrar on or after that day are of no effect unless they are in accordance with the membership rules established by the band.
+Band to maintain Band List
+(9) A band shall maintain its own Band List from the date on which a copy of the Band List is received by the band under paragraph (7)(
+b
+), and, subject to section 13.2, the Department shall have no further responsibility with respect to that Band List from that date.
+Deletions and additions
+(10) A band may at any time add to or delete from a Band List maintained by it the name of any person who, in accordance with the membership rules of the band, is entitled or not entitled, as the case may be, to have his name included in that list.
+Date of change
+(11) A Band List maintained by a band shall indicate the date on which each name was added thereto or deleted therefrom.
+Elected councils
+74.
+(1) Whenever he deems it advisable for the good government of a band, the Minister may declare by order that after a day to be named therein the council of the band, consisting of a chief and councillors, shall be selected by elections to be held in accordance with this
+Act
+.
+Composition of council
+(2) Unless otherwise ordered by the Minister, the council of a band in respect of which an order has been made under subsection (1) shall consist of one chief, and one councillor for every one hundred members of the band, but the number of councillors shall not be less than two nor more than twelve and no band shall have more than one chief.
+Regulations
+(3) The Governor in Council may, for the purposes of giving effect to subsection (1), make orders or regulations to provide
+(
+a
+) that the chief of a band shall be elected by
+(i) a majority of the votes of the electors of the band, or
+(ii) a majority of the votes of the elected councillors of the band from among themselves,
+but the chief so elected shall remain a councillor; and
+(
+b
+) that the councillors of a band shall be elected by
+(i) a majority of the votes of the electors of the band, or
+(ii) a majority of the votes of the electors of the band in the electoral section in which the candidate resides and that he proposes to represent on the council of the band.
+Electoral sections
+(4) A reserve shall for voting purposes consist of one electoral section, except that where the majority of the electors of a band who were present and voted at a referendum or a special meeting held and called for the purpose in accordance with the regulations have decided that the reserve should for voting purposes be divided into electoral sections and the Minister so recommends, the Governor in Council may make orders or regulations to provide for the division of the reserve for voting purposes into not more than six electoral sections containing as nearly as may be an equal number of Indians eligible to vote and to provide for the manner in which electoral sections so established are to be distinguished or identified.
+.........................
+Charte canadienne des droits et libertés
+, L.R., 1982, ch. C-00
+Droits et libertés au Canada
+1.
+La Charte canadienne des droits et libertés garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d'une société libre et démocratique.
+Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+15.
+(1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+Maintien des droits et libertés des autochtones
+25.
+Le fait que la présente charte garantit certains droits et libertés ne porte pas atteinte aux droits ou libertés - ancestraux, issus de traités ou autres - des peuples autochtones du Canada, notamment:
+a)
+aux droits ou libertés reconnus par la proclamation royale du 7 octobre 1763;
+b)
+aux droits ou libertés existants issus d'accords sur des revendications territoriales ou ceux susceptibles d'être ainsi acquis.
+Application de la charte
+32.
+(1) La présente charte s'applique:
+a
+) au Parlement et au gouvernement du Canada, pour tous les domaines relevant du Parlement, y compris ceux qui concernent le territoire du Yukon et les territoires du Nord-Ouest;
+b) à la législature et au gouvernement de chaque province, pour tous les domaines relevant de cette législature.
+Restriction
+(2) Par dérogation au paragraphe (1), l'article 15 n'a d'effet que trois ans après l'entrée en vigueur du présent article.
+Loi sur les Indiens.
+, S.R., ch. I-6,
+Définitions
+2.
+(1) Les définitions qui suivent s'appliquent à la présente loi.
+« conseil de la bande »
+« conseil de la bande »
+a) Dans le cas d'une bande à laquelle s'applique l'article 74, le conseil constitué conformément à cet article;
+b) dans le cas d'une bande à laquelle l'article 74 n'est pas applicable, le conseil choisi selon la coutume de la bande ou, en l'absence d'un conseil, le chef de la bande choisi selon la coutume de celle-ci.
+Pouvoir de décision
+10.
+(1) La bande peut décider de l'appartenance à ses effectifs si elle en fixe les règles par écrit conformément au présent article et si, après qu'elle a donné un avis convenable de son intention de décider de cette appartenance, elle y est autorisée par la majorité de ses électeurs.
+Règles d'appartenance
+(2) La bande peut, avec l'autorisation de la majorité de ses électeurs:
+a
+) après avoir donné un avis convenable de son intention de ce faire, fixer les règles d'appartenance à ses effectifs;
+b) prévoir une procédure de révision des décisions portant sur l'appartenance à ses effectifs.
+Statut administratif sur l'autorisation requise
+(3) Lorsque le conseil d'une bande prend, en vertu de l'alinéa 81(1)p.4), un règlement administratif mettant en vigueur le présent paragraphe à l'égard de la bande, l'autorisation requise en vertu des paragraphes (1) et (2) doit être donnée par la majorité des membres de la bande âgés d'au moins dix-huit ans.
+Droits acquis
+(4) Les règles d'appartenance fixées par une bande en vertu du présent article ne peuvent priver quiconque avait droit à ce que son nom soit consigné dans la liste de bande avant leur établissement du droit à ce que son nom y soit consigné en raison uniquement d'un fait ou d'une mesure antérieurs à leur prise d'effet.
+Idem
+(5) Il demeure entendu que le paragraphe (4) s'applique à la personne qui avait droit à ce que son nom soit consigné dans la liste de bande en vertu de l'alinéa 11(1)
+c
+) avant que celle-ci n'assume la responsabilité de la tenue de sa liste si elle ne cesse pas ultérieurement d'avoir droit à ce que son nom y soit consigné.
+Avis au ministre
+(6) Une fois remplies les conditions du paragraphe (1), le conseil de la bande, sans délai, avise par écrit le ministre du fait que celle-ci décide désormais de l'appartenance à ses effectifs et lui transmet le texte des règles d'appartenance.
+Transmission de la liste
+(7) Sur réception de l'avis du conseil de bande prévu au paragraphe (6), le ministre, sans délai, s'il constate que les conditions prévues au paragraphe (1) sont remplies:
+a
+) avise la bande qu'elle décide désormais de l'appartenance à ses effectifs;
+b) ordonne au registraire de transmettre à la bande une copie de la liste de bande tenue au ministère.
+Date d'entrée en vigueur des règles d'appartenance
+(8) Lorsque la bande décide de l'appartenance à ses effectifs en vertu du présent article, les règles d'appartenance fixées par celle-ci entrent en vigueur à compter de la date où l'avis au ministre a été donné en vertu du paragraphe (6); les additions ou retranchements effectués par le registraire à l'égard de la liste de la bande après cette date ne sont valides que s'ils sont effectués conformément à ces règles.
+Transfert de responsabilité
+(9) À compter de la réception de l'avis prévu à l'alinéa (7)
+b
+), la bande est responsable de la tenue de sa liste. Sous réserve de l'article 13.2, le ministère, à compter de cette date, est dégagé de toute responsabilité à l'égard de cette liste.
+Additions et retranchements
+(10) La bande peut ajouter à la liste de bande tenue par elle, ou en retrancher, le nom de la personne qui, aux termes des règles d'appartenance de la bande, a ou n'a pas droit, selon le cas, à l'inclusion de son nom dans la liste.
+Date du changement
+(11) La liste de bande tenue par celle-ci indique la date où chaque nom y a été ajouté ou en a été retranché.
+Conseils élus
+74.
+(1) Lorsqu'il le juge utile à la bonne administration d'une bande, le ministre peut déclarer par arrêté qu'à compter d'un jour qu'il désigne le conseil d'une bande, comprenant un chef et des conseillers, sera constitué au moyen d'élections tenues selon la présente loi.
+Composition du conseil
+(2) Sauf si le ministre en ordonne autrement, le conseil d'une bande ayant fait l'objet d'un arrêté prévu par le paragraphe (1) se compose d'un chef, ainsi que d'un conseiller par cent membres de la bande, mais le nombre des conseillers ne peut être inférieur à deux ni supérieur à douze. Une bande ne peut avoir plus d'un chef.
+Règlements
+(3) Pour l'application du paragraphe (1), le gouverneur en conseil peut prendre des décrets ou règlements prévoyant:
+a
+) que le chef d'une bande doit être élu:
+(i) soit à la majorité des votes des électeurs de la bande,
+(ii) soit à la majorité des votes des conseillers élus de la bande désignant un d'entre eux,
+le chef ainsi élu devant cependant demeurer conseiller;
+b)
+que les conseillers d'une bande doivent être élus:
+(i) soit à la majorité des votes des électeurs de la bande,
+(ii) soit à la majorité des votes des électeurs de la bande demeurant dans la section électorale que le candidat habite et qu'il projette de représenter au conseil de la bande.
+Sections électorales
+(4) Aux fins de votation, une réserve se compose d'une section électorale; toutefois, lorsque la majorité des électeurs d'une bande qui étaient présents et ont voté lors d'un référendum ou à une assemblée spéciale tenue et convoquée à cette fin en conformité avec les règlements, a décidé que la réserve devrait, aux fins de votation, être divisée en sections électorales et que le ministre le recommande, le gouverneur en conseil peut prendre des décrets ou règlements stipulant qu'aux fins de votation la réserve doit être divisée en six sections électorales au plus, contenant autant que possible un nombre égal d'Indiens habilités à voter et décrétant comment les sections électorales ainsi établies doivent se distinguer ou s'identifier.
+[End of document]

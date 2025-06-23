@@ -1,0 +1,12 @@
+[9]
+Counsel for the defendant argues that the questions falling into this category should not have been ordered answered because the pleadings cannot support that line of questioning. The plaintiff's statement of claim alleges that the defendant Hallmark induced the defendant Coutts to infringe the plaintiff's patents. The relevant paragraph reads:
+"by reason of its activities as
+described above
+[i.e., in the preceding paragraphs of the claim] ... Hallmark ... had, and continues ... to induce and pressure the defendant ... Coutts ... to offer for sale and sell in Canada ... the paper board plates and therefore to infringe [the claims of the patent] ..." (emphasis added)
+The activities "described above" are: the fact that Coutts is a wholly owned subsidiary of Hallmark (which is admitted); the plates sold by Coutts in Canada are manufactured by Hallmark in the United States and sold in Canada to Coutts; the plates are infringing plates. Counsel argues that the facts as pleaded are too sparse to allow for the scope of discovery that has been granted. Chief Justice Jackett's decision in
+U.S. Natural Resources Inc. v. Moore Dry Kiln Co. of Canada Ltd.
+, [1973] F.C. 225; 9 C.P.R.(2d) 11 (F.C.A.), is relied upon. I am not persuaded that the
+U.S. Natural Resources
+decision applies to the present circumstances. That decision relates to Federal Court Rule 412:
+"(1) A party may by his pleading raise any point of law.
+"(2) Raising a question of law or an express assertion of a conclusion of law - such as an assertion of title to property - shall not be accepted as a substitute for a statement of material facts on which the conclusion of law is based."

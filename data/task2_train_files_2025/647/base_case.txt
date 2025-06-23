@@ -1,0 +1,91 @@
+[1]
+Snider, J.
+: The Applicant, the Minister of National Revenue, seeks an order that Jane Becelaere, also known as Mary Jane Becelare (the Respondent), is guilty of contempt of this Court and in breach of an Order of this Court. By Order dated March 15, 2007 (the Show Cause Order), Prothonotary Lafrenière ordered that the Respondent appear before this Court to hear proof of the following acts, purportedly committed by her, with which she is charged and be prepared to present any defence that she may have to the charge:
+"That the Respondent, Jane Becelaere (also known as Mary Jane Becelare), is guilty of contempt of this Honourable Court and in breach of the Order of the Honourable Mr. Justice Blanchard dated January 24, 2007 (the Compliance Order) by failing to provide Information and Documents sought by the Applicant pursuant to subsection 231.2(1) of the
+Income Tax
+Act
+(the Information and Documents) within the time provided in the Compliance Order."
+[2]
+The Respondent, who is self-represented, appeared before me on April 16, 2007.
+[3]
+The issue before this Court is whether the Applicant has established, beyond a reasonable doubt, that the Respondent is guilty of contempt of Court.
+I.
+The Evidence
+[4]
+The Applicant presented Mr. Allan Tocher, an employee with the Canada Revenue Agency (CRA). His oral testimony on the matters leading to the alleged contempt was clear and credible.
+[5]
+Mr. Tocher has carried responsibility for the Respondent's file of alleged tax indebtedness. He provided testimony and evidence that is directly related to the alleged contemptuous acts. Based on his evidence, I accept the following:
+1) A letter entitled "Requirement to Provide Information and Documents" dated July 25, 2006 (Information Request), was sent to the Respondent, which sets out a request that the Respondent, within 60 days, provide certain information and documents. The request was made pursuant to the Applicant's authority under s. 231.2(1) of the
+Income Tax
+Act
+. Mr. Tocher testified the Information Request was served on the Respondent.
+2) The Respondent sent a letter to the CRA, dated September 25, 2006, wherein she responded that:
+"In light of the aforementioned, the questions will be answered in its limited scope of capacity and jurisdiction for the periods of February 1, 2004 to June 30, 2006, to the extent that acting in the capacity of 'legal representative' of the 'taxpayer' for the 'taxpayer's benefit during that time period …'"
+In short, the requested information was not provided to the CRA.
+3) The Compliance Order required the Respondent to provide the information and documents no later than 30 days from the date of the Order.
+4) The Respondent sent a letter dated February 7, 2007, to the Court wherein she states that she is seeking clarification in regards to the Order. In that letter, the Respondent states as follows:
+"[ ... ] if you are unable, regardless of the reason, to provide me with a written response of which I can be reasonably in receipt of no later than February 21, 2007, […] I will trust that due to your lack of response it is safe for me to assume that the Order you granted was intended to impose an obligation on me, but only to the extent I act in the capacity of 'legal representative' of the 'taxpayer', for its benefit, to provide information and documents that are held by me in that capacity, and therefore will comply accordingly."
+5) The Respondent sent a letter dated February 24, 2007, to Mr. Tocher advising that, in the absence of any response from Justice Blanchard, she would assume that:
+"[…] the order was only to be complied with to the extent that I acted in the capacity of 'legal representative' of the 'taxpayer', for its benefit, and to provide information and documents that are held by me in that capacity only, otherwise he would have responded to my letter and clarified otherwise."
+6) Mr. Tocher's testimony was that the Respondent did not provide the information and documents set out in the Order.
+[6]
+The Respondent was advised by the Court that she could not be required or compelled to testify in her defence (Rule 470(2),
+Federal Courts Rules
+, SOR/98-106) and that, if she chose to do so, she would be subject to cross-examination by counsel for the Applicant. The Respondent chose to testify orally.
+[7]
+In response to questions from the Applicant's counsel in cross-examination, the Respondent acknowledged that she did not provide the information and documents requested in the letter of July 25, 2006 and that was set out in the Compliance Order. She explained to the Court that she did her best to comply with the Order but that the Order was, in her view, ambiguous. Absent a clarification of the scope of the Compliance Order, she felt that it applied only to her in her capacity as legal representative of the taxpayer; to that extent, the Respondent claims that she has complied with the Order. She submitted that a finding of contempt cannot be based on an order that is ambiguous (
+Sherman v. Canada Customs and Revenue Agency
+(2006), 299 F.T.R. 313; 2006 FC 1121).
+[8]
+The Respondent also testified that she has not paid the $500 for costs set out in the January 24, 2007 Order. She explained that she could not afford to pay the $500 and that, in any event, s. 127 (1) of the Criminal Code of Canada does not permit her to be found guilty of contempt in respect of an order for the payment of money.
+II.
+Analysis
+[9]
+Rule 466(b) of the
+Federal Courts Rules
+provides that a person who disobeys a court order is guilty of contempt. The party alleging the contempt has the burden of proving the contempt beyond a reasonable doubt (Rule 469). That is, all of the essential elements of the offence of contempt must be proved beyond a reasonable doubt. Where the alleged contempt is the disobedience of a court order, the essential elements are: (a) the existence of the court order; (b) knowledge of the order by the alleged contemnor; and (c) knowingly disobeying the order.
+[10]
+There is no question that the Applicant has proven elements (a) and (b) above. The existence of the Compliance Order and the Respondent's knowledge of the Compliance Order are clearly established beyond a reasonable doubt. Thus, the only issue before the Court is whether the Applicant knowingly breached the Compliance Order. The Respondent submits that the Applicant has failed to establish that she knowingly or willfully failed to comply with the Compliance Order. In her view, the Compliance Order was ambiguous and she complied with the Order to the best of her ability, absent the clarification that she sought from Justice Blanchard.
+[11]
+The foundation of the Respondent's argument is her view that the Information Request and the Order of this Court were addressed only to her in her claimed capacity as legal representative of the taxpayer. The Respondent submits that there is a distinction to be made between this capacity and her capacity as a natural person. She viewed the Information Request by the CRA and the Compliance Order as being inapplicable to require her to produce the information and documents that she claims are "held by me in my natural capacity as a 'natural person' for my own benefit".
+[12]
+Arguments regarding this alleged distinction were made by the Respondent to Justice Blanchard. In his Compliance Order, Justice Blanchard clearly rejected those arguments and refused to issue an order in the form requested by the Respondent. In his Order, he states the following:
+"The Respondent argued that the activities she performed as a 'natural person' for her personal benefit were being confused for activities that she performed as a 'legal representative' of the 'taxpayer'. I fail to appreciate the distinction. The business activities at issue are the activities of the Respondent. I am satisfied that the Respondent is 'a person' under the
+Income Tax
+Act
+and subject to the provisions of the
+Act
+. I therefore reject her argument."
+[13]
+The distinction alleged by the Respondent is without merit. There is simply no legal authority for this argument. The
+Income Tax
+Act
+does not carve out a distinction, for the purposes of an Information Request or a Compliance Order, between a natural person and the legal representative of the taxpayer. As stated by Justice Lemieux, in a recent decision on all fours with this case, FRAGMENT_SUPPRESSED. I agree.
+[14]
+In my view, there is no ambiguity in either the law or the Compliance Order. In the face of Justice Blanchard's clear rejection of the Respondent's arguments, it is inconceivable that she was not aware of the meaning of the Order. I find that, when the Respondent demanded a clarification from the Court and when she refused to provide the requested information to the CRA, she was doing so with full knowledge that the Order required her to deliver all of the information and documents described in the Information Request, as repeated in the Compliance Order, regardless of the alleged capacity in which she claimed to hold such information. While she may not have agreed with the Compliance Order, she was certainly aware of its meaning. The inextricable conclusion is that the Respondent willfully and knowingly breached the Order of this Court. The third and final element of contempt is established.
+III.
+Conclusion
+[15]
+In conclusion, for the above reasons, I find that the Respondent is guilty of contempt of Court by failing to provide the CRA with all of the information and documents required by the Compliance Order.
+[16]
+Having determined that the Respondent is guilty of contempt as alleged, we move to the question of an appropriate penalty. The Federal Court of Appeal, in
+Canadian Human Rights Commission v. Winnicki
+(2007), 359 N.R. 101; 2007 FCA 51, at para 13, stated that, "It would be difficult indeed and perhaps impossible in many cases for counsel to make submissions on sentence before knowing the findings of the trial judge on the issue of the guilt of the accused". Accordingly, at the conclusion of the hearing, I canvassed the parties on how they wished to proceed to make submissions on an appropriate sentence, in the event that I found that contempt had been established. The parties agreed that they would prefer to make written submissions, supported by affidavit evidence, if necessary. The procedure to be followed is set out in the Order issued with these Reasons.
+[17]
+I remind the Respondent that she may easily purge her contempt by providing the requested documents to the CRA prior to the penalty phase of this proceeding and, thereby, reduce the penalty otherwise to be assessed.
+[18]
+In addition to submissions on an appropriate penalty, parties will be asked to make submissions on costs.
+[19]
+Finally, I note that the Respondent has not paid the $500 in costs awarded to the Applicant by Justice Blanchard. That amount is payable and may be pursued by the Applicant through usual methods, including further contempt proceedings.
+ORDER
+[20]
+THIS COURT ORDERS AND ADJUDGES that:
+1. The Respondent, Jane Becelaere, also known as Mary Jane Becelare, is found to be in contempt of the Compliance Order of Justice Blanchard dated January 24, 2007.
+2. Parties may make written submissions, supported by affidavit evidence if the parties so choose, on the issues of the appropriate penalty to be imposed on the Respondent and the costs of the motion, in accordance with the following:
+(a) the Applicant may serve and file submissions no later than May 15, 2007;
+(b) the Respondent may serve and file her submissions in response no later than May 30, 2007; and
+(c) the Applicant may serve and file final reply submissions no later than June 15, 2007.
+3. This Court remains seized of this matter for purposes of determining the appropriate penalty and the costs to be awarded.
+Application allowed.
+Editor: Sharon McCartney/clh
+[End of document]

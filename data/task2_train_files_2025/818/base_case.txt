@@ -1,0 +1,171 @@
+[1]
+Hargrave, Prothonotary
+: This action involves a claim of $84,840.01 for fuel and lubrication oil supplied by the Plaintiff, I.C.S. Peroleum (Montreal) Ltd. ("ICS") at the request of the Defendant Les Dauphins du St-Laurent Ltée ("Les Dauphins") which ICS now seeks to enforce in rem, and which is said to give rise to a maritime lien, and to a right in rem, in effect a necessaries claim, against three small Canadian registered and owned passenger vessels. The Plaintiff also claims a lien and an in rem right against the residual fuel in Les Dauphins' shore tank.
+[2]
+The owner of the Polina 3 and the Sirius 1 is Les Dauphins, which is in bankruptcy. The owner of the Corona Borealis, Akula Cruise Lines Ltd. ("Akula"), who had the vessel bare boat chartered to Les Dauphins, now moves to set aside the arrest of the Corona Borealis and to strike out the in rem claim against that ship, on the grounds that the marine gas oil, a fuel similar to diesel oil, often used in small highspeed diesel engines, was delivered not to the Corona Borealis, but to a shore tank controlled by Les Dauphins and thus no in rem right arises against the ship. Similarly, the lubricating oil, although a relatively small part of the claim, is said not to have been delivered by ICS to the Corona Borealis, but to a dock adjacent to the vessel. In the alternative Akula seeks to have bail set.
+[3]
+In considering this motion to strike out, a motion bearing on jurisdiction, I have set out various allegations and facts and have reached conclusions. However, all of this and particularly the conclusions, are not a decision on the merits, but are only those necessary to deal with an interlocutory motion requiring extensive analysis.
+[4]
+I have determined that there is no in rem jurisdiction over the Corona Borealis. The arrest falling automatically, the vessel is released. However I will begin with some relevant background and more specifically, the source of that background evidence.
+SOURCE OF FACTS AND BACKGROUND EVIDENCE
+[5]
+There is an issue as to the extent of the material which is admissible on this motion. Certainly I may take into account the pleadings that are on the record. However the Plaintiff submits, by reason of Rule 221(2), that I may not look at any affidavit material, for such is not permitted on a motion to strike out a pleading under Rule 221. However, at issue is not the absence of a cause of action, or any of the other specific other subheads set out under Rule 221(1), but rather an absence of in rem jurisdiction and should the in rem aspect fall, the arrest warrant would come to an end automatically.
+[6]
+To elaborate on the concept that affidavit evidence is allowed on a motion going to jurisdiction I would refer to
+Erasmus et al. v. Minister of National Revenue
+, [1992] 2 F.C. 681; 145 N.R. 321 (F.C.A.), at 687, where Mr. Justice of Appeal Pratt noted that it was obviously right that an "... affidavit filed in support of a motion must be taken into consideration in order to determine whether the statement of claim should be struck out as pleading a cause of action which is outside the jurisdiction of the Court." (page 687). Similarly, in
+Cameron v. Ciné St-Henri Inc.
+, [1984] 1 F.C. 421 (F.C.T.D.) Mr. Justice Walsh acknowledged that in testing for a cause of action, on a motion to strike out, one must assume the allegations set out in the statement of claims are true but that "... when the Court has before it evidence in the supporting affidavit clearly showing that an essential allegation, in fact an allegation on which the very jurisdiction of the Court is based, is not true, or is at least erroneous and misleading, it would be unreasonable to expect the Court to shut its eyes and render judgment on the assumption that the allegation is true." (page 426). This flexibility allowing the use of affidavit evidence to refute an allegation in a pleading on a motion under Rule 221(1)(a), is apt in the present instance, for ICS asserts, in its affidavit to lead warrant, that ownership of the Corona Borealis is in Les Dauphins: that is in error as the vessel was, at all material times, registered in the ownership of Akula. Nor need an allegation of fact, which is in reality a proposition of law, require an assumption that those facts as set out in the statement of claim are true:
+Lawrence v. R.
+, [1978] 2 F.C. 782; 42 C.C.C.(2d) 230 (T.D.), at 784. Finally, the Federal Court of Appeal, in
+MIL Davie Inc. v. Société d'exploitation et de développement d'Hibernia ltée
+(1998), 226 N.R. 369 (F.C.A.), observed that the prohibition in Rule 419(2), the predecessor Rule to present Rule 221(2), against the admissibility of evidence, does not apply when the jurisdiction of the Court is at stake:
+"Generally speaking, where an objection is taken to its jurisdiction, the Court must be satisfied that there are jurisdictional facts or allegations of such facts supporting an attribution of jurisdiction. The existence of the necessary jurisdictional facts will normally be found in the pleadings and in the affidavits filed in support of or in response to the motion. In this respect, the prohibition contained in Rule 419(2) against the admissibility of evidence does not apply when it is the jurisdiction of the Court which is contested as opposed to a mere objection to the pleadings on the basis that they do not reveal a reasonable cause of action [
+Erasmus v. Canada
+, [1993] 1 C.N.L.R. 59 (F.C.A.)]. We mention this to dissipate any doubt as to the admissibility of affidavit evidence in the present instance. In any event, the motion in the present instance, as we have already indicated, was made pursuant to Rule 401(c) and ss. 50 and 17(c) of the
+Federal Court Act
+."
+The reference in the last sentence of the above passage refers to the former Rule as to challenging jurisdiction by way of a conditional appearance, however in the past the Federal Court allowed jurisdictional challenges under both Rule 401 and Rule 419(1)(a), the predecessor to present Rule 221(1)(a), a striking out rule by way of want of a reasonable cause of action. It may be that the present motion might have been brought under Rule 208, as a preliminary objection to jurisdiction, however as
+Sgayias on the Federal Court Practice
+, 2005 edition, Carswell, points out at page 540, the most likely basis for bringing an objection to jurisdiction is by way of Rule 221(1)(a).
+[7]
+In the present instance I will take into consideration affidavit material going to jurisdiction.
+SOME RELEVANT BACKGROUND
+[8]
+The Corona Borealis is an 86.42 foot high-speed aluminum passenger vessel, built at Feadosiya on the Crimean Peninsula in 1986. The vessel was subsequently registered in the port of Montreal in 2002, under the ownership of Akula, a company situated in Vancouver.
+[9]
+On 1 November 2003 Akula bare boat chartered the Corona Borealis to Les Dauphins for one year. Akula and Les Dauphins are separate companies, however Mr. Alexandre Zadorjnyi is a director of Les Dauphins and as set out in the 22 December 2004 affidavit of Michael Ouellette represented himself to be president of Les Dauphins. Mr. Zadorjnyi is the sole director of Akula and also signed the charterparty of the Corona Borealis as president. There is no evidence as to the share ownership of either company. The charterparty contains a prohibition of lien cause, an American concept. Counsel for the Corona Borealis mentioned the existence of the clause. There is no evidence that the Plaintiff was aware of the clause. In any event the clause plays no part in the present motion or its outcome.
+[10]
+Les Dauphins operated the Corona Borealis, together with the Polina 3 and the Sirius 1, on a shuttle service on the St. Lawrence River between Montreal, Trois-Rivières and Quebec City, during the summer. As I have already noted Les Dauphins is now in bankruptcy.
+[11]
+The statement of claim sets out that "Plaintiff supplied bunker fuels to the ship for which it is entitled to claim, as follows ...", which statement is followed by a list of invoices, by dates. I will comment further on the conditions underlying those invoices which were set out on standard form delivery ships, however I will first turn to the affidavit to lead the warrant for the arrest of the Corona Borealis. That affidavit may contain defects, but that is not a ground set out in the motion for setting aside the arrest.
+[12]
+The affidavit to lead warrant refers to delivery contracts, which in the case of fuel were standard delivery ships which specified delivery to
+"Les Dauphins du St-Laurent Ltée's shore tank on Sec. M4, Port of Montreal for delivery exclusively to: MV Polina 3, MV Sirius 1, and the MV Corona Borealis"
+The standard form delivery slip contracts for lubricating oil merely refer to a nomination, in the sense of an order fixing or specifying delivery of an amount of oil to a given place, and then:
+"Vessel: MV Polina 3, MV Sirius 1, MV Corona Borealis Port/ETA: Montreal - Sec. M4 ..."
+[13]
+The affidavit to lead warrant sets out that ICS agreed to furnish fuel to the three named vessels "and/or Les Dauphins du St-Laurent's shore tank on Sec. M4 at the Port of Montreal, at the request of the vessel's owners, Les Dauphins du St-Laurent Ltée, the operators and/or masters of said vessels.". The affidavit to lead warrant is a little ambiguous in that it alleges that the fuel was supplied "to the vessels and/or Les Dauphins du St-Laurent's shore tank on Sec. M4 at the Port of Montreal ...". Here I will turn to the defence of the owners and the Corona Borealis, which states that any "... fuel supplied by the Plaintiff was delivered and supplied to a shore tank and not to the "Corona Borealis"." and to affidavit material.
+[14]
+Alexandre Zadorojnyi, the sole director of Akula, sets out in an affidavit of 9 December 2004 that
+"7. At no time in 2003 or 2004 did the Plaintiff I.C.S. Petroleum (Montreal) Ltd. ... supply any bunker fuel directly to the vessel 'Corona Borealis'."
+Both sides have referred to the fuel supplied as "bunker fuel", an incorrect designation, but a designation which misleads no one in the present proceeding. The affidavit proceeds:
+"8. During the charter period the vessel 'Corona Borealis' obtained bunker fuels from the shore tank on Sec. M4 at the Port of Montreal operated by Les Dauphins ..."
+[15]
+Mr. Zadorjnyi goes on to say, in his affidavit, that a review of the log book for the Corona Borealis indicates to him that The Corona Borealis consumed 27,670 litres of fuel; that there are presently 150 litres of fuel onboard the laid up vessel; and that during the time the Corona Borealis fueled from the Les Dauphins shore tank Mini-Tankers Canada Ltd. supplied 3,039.9 litres of fuel to the shore tank, following the last fuel delivery by ICS. It would appear that not all of the fuel consumed by or now aboard the Corona Borealis came by way of ICS. The price of the fuel supplied by ICS varied, being between 58.6 and 62.9 cents per litre.
+[16]
+The Corona Borealis, along with the Sirius 1, the Polina 3 and the contents of the shore tank were arrested, at Montreal, in mid October 2004.
+CONSIDERATION
+Standard Form Fuel Delivery Terms
+[17]
+An appropriate starting point, in the consideration of this motion, is the effect of the standard form delivery slips which ICS delivered to Les Dauphins, with the fuel and lubricating oil, which contained various terms usual in the marine fuel supply industry. Akula says the delivery slips for the fuel were never signed for or acknowledged by Les Dauphins, or by anyone else on its behalf. Here I would note that in the shipping and bunker supply business standard form deliver documents containing conditions are universal. Had the fuel delivery by ICS been a one-time occurrence, there might be some possible argument that a naive customer might not be bound by unsigned delivery slips containing conditions. But here we have knowledgeable ship operators who gladly accepted both the credit of and the fuel from ICS, apparently without exceptions taken or reservations made as to the terms of supply. I also note the evidence that Mr. Zadorjnyi, who signed all of the cheques drawn by Les Dauphins, in payment of the ICS invoices, on occasion personally delivered those cheques to the office of ICS. All of this being the case I am satisfied that the contractual conditions, if they did not in fact come to the attention of Les Dauphins and Mr. Zadorjnyi, in his capacity as a director of Les Dauphins, they ought to have come to their attention had Les Dauphins and Mr. Zadorjnyi been in any way observant.
+[18]
+As to a more technical analysis, what occurred between Les Dauphins and ICS is a clear contract between those two firms for delivery of and payment for fuel and lubrication oil. The evidence is that the operations manager of Les Dauphins, Jan Tkach, with whom ICS normally dealt, when receiving orders for fuel, would telephone ICS and request a specific amount of fuel and lubricating oil, the fuel to be delivered to Les Dauphins' shore tank. ICS then delivered the fuel to the shore tank and the lubricating oil to the dock where the vessels, Polina 3, Sirius 1 and Corona Borealis were moored. On the ordering and delivery of the fuel and lubricating oil there was no specific allocation as among the three ships, but there was a clear understanding between ICS and Les Dauphins that the fuel and lubricating oil were for the exclusive use of those three ships. The absence of an allocation of the fuel and lubricating oil, among the three vessels, does not affect the contractual obligations of at least Les Dauphins to pay the account of ICS.
+[19]
+Les Dauphins was or should have been were aware of the standard terms of delivery imposed by ICS, by reason of their ongoing course of dealings and the nature of the delivery documentation, being very usual in the trade. No one seriously argues that the conditions are unreasonable, but merely that they were not signed for by Les Dauphins. This is not a question of conflicting standard form terms, but is analogous to early ticket cases, where conditions printed on the ticket were enforced if there was a general expectation of reasonable contractual terms and the parties seeking to rely upon the terms had taken reasonable steps to bring those terms to the attention of the other side: see for example Waddams on
+The Law of Contract
+, 4th Edition, 1999, Canada Law Book, at pages 49 and 50.
+[20]
+The law as to ticket cases has evolved into standard form contract law. In considering standard form contracts there are a number of aspects including that the document must be of such a type that the receiving party knows, or a reasonable person would expect, would contain contractual conditions; the conditions must be brought to the attention of the party to be bound before or at the time the contract is made, of course subject to a continuous course of dealing and the ongoing use of the conditions; that notice of the terms was reasonably sufficient; and that the terms were not onerous or unusual. This is set out in a number of concise short paragraphs in
+Chitty on Contracts
+, Vol. 1, 28th Edition, 2004, Sweet & Maxwell at page 711 and following. In the present instance the ICS fuel delivery contracts, true standard form contracts, are of a class which Les Dauphins knew, or reasonably ought to have been expected to know, as ship operators, to contain contractual conditions. There is no evidence as to when the conditions were brought to the attention of Les Dauphins, in the first instance. However the evidence of ICS is that it had provided fuel to the vessels operated by Les Dauphins since 9 June 2000, but only claim from 2 August 2004 to 2 September 2004, that being the span of the outstanding invoices. Thus we have a long course of dealing between ICS and Les Dauphins using a standard form consistently applied in previous transactions. The conditions, as I have said, are ones quite usual in the trade, both locally and internationally, none of the terms being onerous or unusual. All things considered as to the standard form delivery slips, the slips being easy to read and the terms not complex, ICS has done all that is reasonable to bring their terms to the notice of Les Dauphins.
+[21]
+To close one's eyes to terms on multiple identical delivery slips, which were followed by invoices, but to, as I say, accept fuel and credit, is not believable. Therefore, to the extent that the standard form terms are relevant I will consider them on this motion, although this extends only to the terms on the face and second page of the delivery slips, not to so-called Section "B" terms and conditions of sale, said to be available on request but of which there is no evidence on this motion.
+[22]
+Pertinent to the position of ICS, among the standard form terms, is the following:
+"Buyer acknowledges that a lien over the vessel is created for the value of the product(s) supply and that the Seller is relying upon the face and credit of the vessel."
+The term "Buyer" is defined as "Les Dauphins du St-Laurent Ltée, and/or Owners/Operators/Vessel/Master". The seller is I.C.S. Petroleum (Montreal) Ltd., the present Plaintiff.
+[23]
+ICS relies on the lien clause for two purposes: first, to establish a lien; and second, the Polina 3 and Sirius 1, being in the ownership of the bankrupt Les Dauphins, to bring the whole of its claim to bear on the Corona Borealis.
+[24]
+Dealing with the lien provision, it is said to establish a maritime lien. While the nature of the lien is not relevant on this motion, I would observe that it is a general practice, indeed perhaps a universal practice, among at least necessary suppliers, to particularize the lien as a maritime lien, probably on the basis that a failure to specify the type of lien results in the lien being of an inferior variety. However the lien clause bears further examination.
+[25]
+By the lien clause, set out above, the Buyer acknowledges the creation of a lien "over the vessel" for the value of the fuel and that the seller is relying upon the credit of the vessel. That clause both purports to create a lien of an unspecified nature and gives notice that ICS is relying upon the credit of the vessel.
+[26]
+Mr. Justice Muldoon dealt with a contractual provision granting a maritime lien over a fleet in connection with the general supply of containers by the plaintiff to the defendant in
+Textainer Equipment Management B.V. v. Baltic Shipping Co. et al.
+(1994), 84 F.T.R. 108 (T.D.). There the Court, on the basis of Canadian legislation, rejected the concept from
+Ship River Rima, Re
+, [1988] 2 Lloyd's 193 (H.L.), that the subject provision did not grant an enforceable right in rem under the English
+Supreme Court Act
+s. 20(2)(m) as "a claim in respect of goods or material supplied to a ship for her operation or maintenance", which section is the equivalent of but not equal to ss. 22(1) and (2)(m) of the
+Federal Court Act
+. The House of Lords in
+The River Rima
+pointed out that the contract, to provide containers for use by a fleet, was in reality a contract to supply containers to a shipowner, not to a ship. Clearly, within the English statutory framework, the case was correctly decided, but was not applicable to the law or to the facts in
+Textainer
+. In FRAGMENT_SUPPRESSED Mr. Justice Muldoon pointed out that in private law the litigation belongs to the parties and that nothing prevented the defendant from making a private commercial agreement giving a lien, of its own making and free will, to the plaintiff. In
+Textainer
+there is no suggestion that the parties can invent new liens, where none previously existed, but that as a rightful remedy the Court ought to hold the parties to the bargain created by the contract:
+"Here the Court does not suggest that the parties, by agreement, can invent a maritime lien where none has yet been discovered in Canadian maritime law. The Court however, assuming under Rule 419, that the facts alleged in the statement of claim, demonstrated and exhibited in the affidavit to lead warrant are true, ought ex debito justiciae hold the parties to the rights and responsibilities which they themselves have created by their agreements. Especially if, as it appears, the
+Federal Court Act
+in s. 22, invests this Court with wider jurisdiction than that accorded in the U.K." (Page 113)
+In the outcome the Court in
+Textainer
+recognized as arguable a contractual maritime lien as a possible equitable remedy and thus refused both to strike out the in rem portion of the statement of claim and to release the defendant's arrested container ship. Interesting here is that the Court looked to a contract pledging the ships that were in the defendant's fleet as security in order to maintain the arrest of a random ship in that fleet, a ship which could carry only containers, even though there was not necessary always a direct supply of containers to the ship which would clearly bring the situation within s. 22(2)(m) of the
+Federal Court Act
+, "any claim in respect of goods, materials or services were ever supplied to a ship for the operation or maintenance of the ship, ...". Rather the Court approached the claim in an equitable fashion pursuant to s. 22(1) of the
+Federal Court Act
+, the broad navigation and shipping headed jurisdiction and s. 43(2) and (3) whereby s. 22 navigation and shipping jurisdiction may be exercised in rem.
+[27]
+In the present situation certainly Les Dauphins could pledge its ships, Polina 3 and Sirius 1 and thereby grant a lien of some description to ICS which would be enforceable in this Court pursuant to
+Textainer
+and this is so even though the fuel was not clearly supplied "to a ship", being the wording used in s. 22(2)(m) of the
+Act
+, referred to above, but to the owner's shore tank for use in a ship.
+[28]
+Where I have difficult with the application of
+Textainer
+to the Corona Borealis is that Les Dauphins has no right or ability to pledge or subject the Corona Borealis to a lien, when Les Dauphins merely chartered, but did not own the Corona Borealis.
+[29]
+Taking a slightly different approach, counsel ICS begins from the well established position that a necessaries claim in rem is sustainable only if the owner is personally liable for the amount claimed. The cases setting this out, including
+Westcan Stevedoring Ltd. v. Ship Amar
+, [1973] F.C. 1232 (T.D.), all nearly all referred to in
+Mount Royal/Walsh Inc. v. Ship Jensen Star et al.
+, [1990] 1 F.C. 199; 99 N.R. 42 (F.C.A.), at page 216. In
+The Jensen Star
+Mr. Justice Marceau, writing for the Court, points out that this personal involvement, indeed the personal liability on the part of the owner, needed to sustain in rem liability, may be instituted by the owner contracting himself or herself, or authorizing someone to contract on behalf of the owner, or through "implicitly authorizing a person, in possession and control of the ship, to contract on the credit of the ship (rather than on the entirety of his personal assets.)" (page 217). He then went on to point out that to have such personal liability there is the requirement that the liability come about "... as a result of some personal behaviour and attitude on the part of the owner ..." (loc cit.). This brings us to the facts in
+The Jensen Star
+. The Jensen Star was repaired by the plaintiff, a principal of which had been a former partner of the principal of the owner of The Jensen Star, their relationship being an amicable one. Midway through the repair work the defendant Jensen Shipping Limited, for the purposes of refinancing, transferred the vessel to Jensen Marine Holdings Ltd.: the common principal of Jensen Shipping and Jensen Marine did not treat his companies as separate entities, but rather even went so far as to never have considered legal authority over the ship to have changed. Thus Mr. Justice Marceau observed that:
+"I have no difficulty in finding that Jensen Marine Holdings Ltd., have had, in the supplying of the services by Mount Royal, the involvement required for the validity of the action in rem, involvement which consisted in acting through its president in such a manner as to authorize tacitly Jensen Shipping to contract on the credit of the vessel and engage, to that extent, its personal liability. Whether or not the terms of the charterparty governing the contractual relations inter se between the two corporations would bear that interpretation of the situation is immaterial.
+"In fact, I do not even believe that Jensen Marine Holdings Ltd. can now dispute such an interpretation. It is well established that necessaries supplied to a vessel are prima facie presumed to have been supplied on the credit of the vessel and its owner. The presumption is a rebuttable one, of course, but here, not only was it not in fact rebutted, no attempt was even made to do so."
+[30]
+The effect was that Jensen Shipping, which had owned The Jensen Star until part way through the repair process, had the necessary involvement in the continuing repair process in order to bind Jensen Marine, the latter then being in no position to rebut the presumption that the necessaries supplied on the credit of the vessel are presumed to have been supplied also on the credit of the owner, being Jensen Marine. However the case did take an interesting turn in that Jensen Marine did not come within the phrase, in the style of cause dealing with defendants, of "The Owners and All Others Interested in" the ship, for Jensen Marine, the second owner, had never been properly added to the action as a defendant. Thus there could be no in personam judgment against Jensen Marine. However, as I understand The Jensen Star, the potential liability of Jensen Marine was sufficient as a basis for in rem liability of the ship to the repairer during the last half of the repairs when Jensen Marine was in fact the owner.
+[31]
+The Plaintiff also relies on
+Kirgan Holdings SA v. Ship Panamax Leader et al.
+(2002), 225 F.T.R. 273 (T.D.), however here I must keep in mind that the Panamax Leader, on bare boat charter, was supplied with bunker fuel in Malta and that the agent contracting for the bunker fuel bound the shipowner to American law, which mandates a maritime lien, for fuel supplied to the ship, whether or not supplied on the order of the shipowner or authorized by the shipowner. Mr. Justice Blais found that the parties had contracted for American law and that unlike in the UK and in Canada and indeed in most other jurisdictions, where the authority to order necessaries is founded on the law of agency, there is a broad presumption that a number of different people, including someone managing the vessel, or someone appointed by a charterer, may bind the vessel to the extent that the necessary supplier has a maritime lien, enforceable in rem and is not required to prove that credit was given to the vessel. Of course this is subject to the supplier knowing that by reason of a notice against a lien, the master has no authority to bind the owners. While The Panamax Leader is an interesting case, I do not see that it has general application outside of the situation where parties have stipulated for American law: in the situation of the Corona Borealis, that is not the case. However I must still deal with
+The Jensen Star
+principle that if the relationship between companies involved in the owning and chartering of a ship is close enough, an owner may be bound where services had been delivered to or performed on a ship and here I would note that in
+The Jensen Star
+the basis of jurisdiction was s. 22(2)(m) and (n) of the
+Federal Court Act
+. The former grants jurisdiction in respect of necessaries and services supplied for the operation and maintenance of the ship and the latter to claims arising out of contracts, including those for the repair and equipping of the ship.
+[32]
+The business of a marine bunker and fuel supply can be either rewarding or precarious, depending upon conditions in the shipping business. Here in Canada the position of a bunker supplier, as compared with an American supplier, is compounded by the absence of maritime lien legislation and various presumptions which exist when fuel is supplied by an American supplier directly to a ship, or to a ship by way of the bunker supplier's agent. The problem for the Canadian bunker suppliers is compounded when a charterer is interposed and the supply is to a shore tank, neither owned nor controlled by the shipowner. The uncertainty can be mitigated to some degree when a diligent bunker supplier takes the time and makes the effort to know the customer. Here, for example, ICS did manage to obtain a pledge of two ships, those owned by Les Dauphins, but overlooked the fact that the Corona Borealis had always been owned by another company, Akula. This fact of ownership could easily have been ascertained either by an inexpensive and quick search in the Montreal Shipping Registry, or a look into the List of Ships which is published yearly by the Canadian Department of Transport. Neither apparently was done by ICS. Thus ICS is left to rely on the uncertainty of Canadian admiralty jurisprudence, uncertain in this instance because neither statute law nor case law is helpful.
+[33]
+Leaving aside for the moment that the fuel was sold to a third party for storage and eventual use in the chartered vessel, the Corona Borealis, ICS seeks to involve the chartered vessel belonging to Akula, a company not named in the statement of claim and not referred to in the affidavit to lead warrant.
+The Jensen Star
+is not helpful to ICS for in that instance there was an unannounced transfer of a vessel, which was well known to the plaintiff and indeed in which the plaintiff had formerly had some involvement, to a new company. The management of both the former owning company, Jensen Shipping and the new owner, Jensen Marine, treated those companies as a unitary entity, or as put by Mr. Justice of Appeal Marceau, who referred to the actions of Mr. Jorgensen, president of both companies:
+"... Jorgensen himself did not treat Jensen Shipping and Jensen Marine Holdings Ltd. as two separate entities, but on the contrary showed, byy his conduct at the moment of the contracts as well as his attitude at the time of the action, that he never considered his legal authority over the ship to have changed." (Page 217)
+As set out above I have been unable to find any indication that Mr. Zadorjnyi was in any way confused, or in any way confused anyone, as to the separateness of Les Dauphins from Akula.
+[34]
+Certainly, as pointed out by Mr. Justice of Appeal Marceau, in
+The Jensen Star
+, at page 218, there is a rebuttable presumption that necessaries are prima facie presumed to have been supplied on the credit of the vessel and its owner. Here not only was the fuel not supplied "to a ship", being the plain wording of s. 22(2)(m) of the
+Federal Court Act
+, but went to a ship by way of initial supply to a shore storage tank of a charterer. As I have already pointed out it is not open for ICS to argue, nor has ICS asserted in its pleadings, that Les Dauphins could pledge the Corona Borealis, a ship owned by another company, for all or even part of the debt owned by Les Dauphins.
+[35]
+Nor does the fact that the Corona Borealis was chartered by demise assist ICS. Here see the discussion of beneficial ownership and demise chartering at pages 207 through 210 of
+The Jensen Star
+.
+[36]
+I do not see the circumstances surrounding the supply of barrels of lubricating oil, ICS placing them on a deck controlled by Les Dauphins, a dock to which the three vessels were from time to time moored, result in any outcome different from that of the supply of fuel to a common shore tank controlled by Les Dauphins. The Corona Borealis is not only not liable in rem for the fuel, but also not liable in rem for the lubricating oil.
+CONCLUSION
+[37]
+While ICS in all probability has a valid in rem claim against the Polina 3 and the Sirius 1, that is not an issue on this motion. The issue on the motion is the in rem liability of the Corona Borealis: plainly, obviously and beyond doubt the Federal Court does not have an in rem jurisdiction over the Corona Borealis with regard to fuel and lubricating oil on the part of the Corona Borealis. The in rem claim against the Corona Borealis is struck out for want of jurisdiction. The arrest, automatically coming to an end, the Corona Borealis is released.
+[38]
+ICS sought costs in its written submissions. Counsel did not make submissions as to costs at the conclusion of argument, however costs normally follow the event. Lump sum costs in the amount of $500 to Akula, as owner of the Corona Borealis, forthwith. I thank counsel for interesting submissions.
+Motion granted.
+Editor: Steven C. McMinniman/gs
+[End of document]

@@ -1,0 +1,15 @@
+[7]
+The Federal Court of Appeal has recently provided succinct guidelines as to how a Court is to approach a judicial review of this kind, particularly one dealing with s. 37(1)(a) of
+IRPA
+. In
+Thanaratnam v. Canada (Minister of Citizenship and Immigration)
+(2005), 333 N.R. 233; 2005 FCA 122, Evans, J.A., for the Court said, at paragraph 26:
+"26 On questions of fact and factual inferences, the Board's decisions are reviewable on a standard of patent unreasonableness, pursuant to the
+Federal Courts Act
+, R.S.C 1985, c. F-7, paragraph 18.1(4)(d). In contrast, deference may not be afforded to the Board's interpretation of particular provisions of its enabling statute:
+Pushpanathan v. Canada (Minister of Citizenship and Immigration)
+, [1998] 1 S.C.R. 982;
+Chieu v. Canada (Minister of Citizenship and Immigration)
+, [2002] 1 S.C.R. 84; 2002 SCC 3."
+and at paragraph 33:
+"33 It is important to reiterate that the Court is not sitting in the same place as the Board. Our function is not to decide whether, on the evidence before the Board, there were 'reasonable grounds to believe', but only whether it was obviously irrational for the Board to conclude that there were. In the absence of an allegation that the Board erred in law, or that its procedure was unfair, it is difficult to establish that the Board's conclusion that 'reasonable grounds to believe' existed was patently unreasonable."

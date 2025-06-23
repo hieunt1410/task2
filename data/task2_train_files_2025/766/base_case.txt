@@ -1,0 +1,422 @@
+I.
+Overview
+[1]
+Shore, J.
+: This is an application for judicial review of a decision of the Prime Minister of Canada, dated September 7, 2008. That decision was to advise the Governor General of Canada to dissolve the 39th Parliament and set an election date of October 14, 2008, in accordance with his conventional power.
+[2]
+The Applicants have applied for declaratory relief. Specifically, the Applicants seek declarations to state:
+a. that the Prime Minister's actions contravened section 56.1 of the
+Canada Elections Act
+, S.C. 2000, c. 9;
+b. that the holding of the election on October 14, 2008 infringed the right of all citizens of Canada to participate in fair elections pursuant to section 3 of the Charter of Rights and Freedoms, Schedule B, part I to the Canada Act 1982 (U.K.) 1982, c. 11 (
+Charter
+);
+c. that a constitutional convention exists that prohibits a Prime Minister from advising the Governor General to dissolve Parliament except in accordance with section 56.1 of the
+Canada Elections Act
+; and
+d. an order that costs be awarded to the Applicants or, that no costs be awarded if the application is dismissed.
+II.
+Introduction
+[3]
+It is most important, in considering the separation of powers under constitutional supremacy, that the
+Charter
+not be invoked in vain; otherwise, a lack of understanding ensues of, respectively, both the
+Charter
+and the separation of powers, giving neither their due, under constitutional supremacy.
+[4]
+If the executive, legislative and judicial branches of government adhere to their respective obligations within their respective lines of demarcation, the result is responsible government. That does not mean that judicial review is not an option if, and when, the
+Charter
+is contravened by any single branch of government; however, paralysis would ensue if the
+Charter
+would simply be invoked in advocating one political view, advancing a particular interest, over another; that would simply stymie government action that devolves from responsibilities and rights granted through constitutional supremacy.
+[5]
+The Federal Court is enabled to entertain a proceeding and to grant relief by way of Federal Statute; that is to review decisions of government instances, entities or those which, in and of themselves, constitute federal boards, commissions or other tribunals. Other than through Federal Statute, the Federal Court may not rule.
+[6]
+The constitutional authority for the Parliament of Canada to have established (what became known as) the Federal Court is found in section 101 of the
+Constitution
+Act
+, 1867
+, and that is "for the better Administration of the Laws of Canada".
+[7]
+In regard to each and every matter submitted in judicial review to the Federal Court, it depends on who acts on what, how and under what authority: in that vein, there exists a balancing act of necessity between judicial interference and judicial abdication.
+III.
+Facts
+[8]
+The Applicant, Democracy Watch, is a non-partisan, not-for-profit organization that advocates democratic reform, voter participation and government accountability. The Applicant, Mr. Duff Conacher, President, Coordinator and Director of Democracy Watch, is a participant in this application in such capacities.
+[9]
+In May 2007, Parliament passed Bill C-16 into law. Bill C-16 amended the
+Canada Elections Act
+to include section 56.1. The Conservative government of the time announced that Bill C-16 was to provide for a system of "fixed election dates" for Canada.
+[10]
+The Governor General possesses the power to dissolve Parliament at his or her discretion pursuant to section 50 of the
+Constitution
+Act
+, 1867
+. Although there are no legal limits to the Governor General's discretion, other than the qualifier that each Parliament cannot last for more than five years, a political limitation exists in the form of a constitutional convention whereby the Governor General will only exercise power to dissolve Parliament when advised to do so by the Prime Minister. The Prime Minister has traditionally had unlimited discretion in regard to this advisory power.
+[11]
+Constitutional conventions are non-legal rules that modify the strict legal rights of political officeholders. They emerge through political usage and become political rules once the relevant officeholders view them as being obligatory. As a result of their non-legal status, conventions, per se, have not been enforced by the courts and no legal sanction exists for their breach.
+[12]
+On September 7, 2008, the Prime Minister advised the Governor General to dissolve Parliament and set a polling date for October 14, 2008. Upon receiving this advice, the Governor General used her power to dissolve Parliament and set the polling date that was requested. The Prime Minister's decision of September 7, 2008 is challenged by the Applicants as being in contravention of section 56.1 and forms the basis of this application.
+[13]
+The Applicants allege that Subsection 56.1(2), with its schedule for fixed election dates, eliminated the convention that the Prime Minister has unlimited discretion when advising the Governor General and replaced it with a new convention that obliges the Prime Minister only to exercise his discretion in accordance with Subsection 56.1(2), or in a situation of a vote of non-confidence in the House of Commons. The Applicants also allege that the Prime Minister's actions of September 7, 2008 are in contravention of section 56.1. In addition, the Applicants allege that the decision to call an election before the time specified in section 56.1(2) has created an unfair election in violation of section 3 of the
+Charter
+.
+IV.
+Issues
+[14]
+There are five issues in this application:
+1) Is the Prime Minister's decision appropriate subject matter for a judicial review?
+2) Did section 56.1 of the
+Canada Elections Act
+create a constitutional convention whereby the discretion of the Prime Minister, to advise the Governor General to dissolve Parliament, is only to be exercised in accordance with the terms of section 56.1 of the
+Canada Elections Act
+, unless there has been a prior vote of non-confidence?
+3) Did the Prime Minister's decision of September 7, 2008 contravene section 56.1 of the
+Canada Elections Act
+?
+4) Did the Prime Minister's decision of September 7, 2008 to advise the Governor General to dissolve Parliament contravene section 3 of the Charter of Rights and Freedoms?
+5) Is declaratory relief an appropriate remedy in these circumstances?
+V.
+Relevant Provisions
+[15]
+Section 56.1 of the
+Canada Elections Act
+states:
+"56.1(1) Nothing in this section affects the powers of the Governor General, including the power to dissolve Parliament at the Governor General's discretion.
+"(2) Subject to subsection (1), each general election must be held on the third Monday of October in the fourth calendar year following polling day for the last general election, with the first general election after this section comes into force being held on Monday, October 19, 2009."
+"56.1(1) Le présent article n'a pas pour effet de porter atteinte aux pouvoirs du gouverneur général, notamment celui de dissoudre le Parlement lorsqu'il le juge opportun.
+"(2) Sous réserve du paragraphe (1), les élections générales ont lieu le troisième lundi d'octobre de la quatrième année civile qui suit le jour du scrutin de la dernière élection générale, la première élection générale suivant l'entrée en vigueur du présent article devant avoir lieu le lundi 19 octobre 2009."
+[16]
+The Applicants' submissions also mention section 50 of the
+Constitution
+Act
+, 1867
+, section 3 of the
+Constitution Act, 1982
+and section 41 of the
+Constitution Act, 1982
+:
+Section 50 of the
+Constitution Act, 1867
+states:
+"50. Every House of Commons shall continue for Five Years from the Day of the Return of the Writs for choosing the House (subject to be sooner dissolved by the Governor General), and no longer."
+"50. La durée de la Chambre des Communes ne sera que de cinq ans, à compter du jour du rapport des brefs d'élection, à moins qu'elle ne soit plus tôt dissoute par le gouverneur-général."
+Section 3 of the
+Constitution Act, 1982
+, states:
+"3. Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein."
+"3. Tout citoyen canadien a le droit de vote et est éligible aux élections législatives fédérales ou provinciales."
+Section 41 of the
+Constitution Act, 1982
+, states:
+"41. An amendment to the Constitution of Canada in relation to the following matters may be made by proclamation issued by the Governor General under the Great Seal of Canada only where authorized by resolutions of the Senate and House of Commons and of the legislative assembly of each province:
+(a) the office of the Queen, the Governor General and the Lieutenant Governor of a province;
+(b) the right of a province to a number of members in the House of Commons not less than the number of Senators by which the province is entitled to be represented at the time this Part comes into force;
+(c) subject to section 43, the use of the English or the French language;
+(d) the composition of the Supreme Court of Canada; and
+(e) an amendment to this Part."
+"41. Toute modification de la Constitution du Canada portant sur les questions suivantes se fait par proclamation du gouverneur général sous le grand sceau du Canada, autorisée par des résolutions du Sénat, de la Chambre des communes et de l'assemblée législative de chaque province:
+(a) la charge de Reine, celle de gouverneur général et celle de lieutenant-gouverneur;
+(b) le droit d'une province d'avoir à la Chambre des communes un nombre de députés au moins égal à celui des sénateurs par lesquels elle est habilitée à être représentée lors de l'entrée en vigueur de la présente partie;
+(c) sous réserve de l'article 43, l'usage du français ou de l'anglais;
+(d) la composition de la Cour suprême du Canada;
+(e) la modification de la présente partie."
+[17]
+Sections 18.1(4)(f) and the definition of "federal board, commission or other tribunal" in 2(1) of the
+Federal Courts Act
+, 2002, c. 8, s. 14 are also required:
+"
+'federal board, commission or other tribunal' '
+office fédéral
+'
+"'federal board, commission or other tribunal' means any body, person or persons having, exercising or purporting to exercise jurisdiction or powers conferred by or under an Act of Parliament or by or under an order made pursuant to a prerogative of the Crown, other than the Tax Court of Canada or any of its judges, any such body constituted or established by or under a law of a province or any such person or persons appointed under or in accordance with a law of a province or under section 96 of the Constitution Act, 1867
+. . . . .
+"Grounds of review
+"(4) The Federal Court may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+. . . . .
+(f) acted in any other way that was contrary to law."
+"'office fédéral' '
+federal board, commission or other tribunal'
+"'office fédéral' Conseil, bureau, commission ou autre organisme, ou personne ou groupe de personnes, ayant, exerçant ou censé exercer une compétence ou des pouvoirs prévus par une loi fédérale ou par une ordonnance prise en vertu d'une prérogative royale, à l'exclusion de la Cour canadienne de l'impôt et ses juges, d'un organisme constitué sous le régime d'une loi provinciale ou d'une personne ou d'un groupe de personnes nommées aux termes d'une loi provinciale ou de l'article 96 de la Loi constitutionnelle de 1867.
+. . . . .
+"Motifs
+"(4) Les mesures prévues au paragraphe (3) sont prises si la Cour fédérale est convaincue que l'office fédéral, selon le cas:
+. . . . .
+f) a agi de toute autre façon contraire à la loi."
+VI. Analysis of the Court of the Parties' Submissions as to the Respective Issues (categorized in this manner due to the voluminous respective materials submitted by the Parties)
+Issue 1: Is the Prime Minister's decision appropriate subject matter for a judicial review?
+[18]
+The Applicants make no submissions on this issue.
+[19]
+The Respondents make several submissions as to why the Prime Minister's decision cannot be judicially reviewed. They submit that the Applicants must satisfy the Court that the subject of the application is reviewable under section 18.1 of the
+Federal Courts Act
+, before the Applicants are allowed to bring an application for judicial review (Respondents' Memorandum of Fact and Law at para. 39).
+[20]
+The Respondents also submit that the Prime Minister's advice is not a "decision" within the meaning of section 18.1 of the
+Federal Courts Act
+. They submit that the decision is the Governor General's to make and that the Prime Minister's advice is not legally binding on the Governor General (Respondents' Memorandum of Fact and Law at para. 41).
+[21]
+The Respondents submit that because the Governor General exercises Crown prerogative and not statutory authority when he or she dissolves Parliament and calls an election, neither the remedies listed in section 18 of the
+Federal Courts Act
+nor the relief listed in section 18.1 are available to the Applicants (Respondents' Memorandum of Fact and Law at para. 42).
+[22]
+The Respondents submit that seeking judicial review of the Prime Minister's advice is essentially seeking judicial review of the Governor General's decision, which is beyond the jurisdiction of section 18.1 (Respondents' Memorandum of Fact and Law at para. 43).
+[23]
+The Respondents cite the case of
+Black v. Chrétien et al.
+, [2001] O.J. No. 1853; 147 O.A.C. 141; 54 O.R.(3d) 215 (C.A.), for the proposition that the dissolution of Parliament involves political considerations that are not for the courts to assess (Respondents' Memorandum of Fact and Law at para. 45).
+[24]
+The Respondents also cite the decision of Justice Robert Barnes in
+Friends of the Earth v. Canada (Governor-in-Council) et al.
+(2008), 336 F.T.R. 117; 2008 FC 1183, to state that one of the guiding principles of justiciability is that all branches of government must be sensitive to the separation of powers (Respondents' Memorandum of Fact and Law at para. 46).
+[25]
+The Applicants' claim that the Prime Minister's advice violates section 3 of the
+Charter
+is appropriate subject matter for judicial review. The Respondents submit the power to dissolve Parliament is a prerogative (Respondents' Memorandum of Fact and Law at para. 43); it has been ruled that prerogative powers are subject to judicial review if the exercise of such powers violates
+Charter
+rights. In
+Black v. Chrétien
+, above, the Court of Appeal for Ontario held that "[b]y s. 32(1)(a), the
+Charter
+applies to Parliament and the Government of Canada in respect of all matters within the authority of Parliament. The Crown prerogative lies within the authority of Parliament. Therefore, if an individual claims that the exercise of a prerogative power violates that individual's
+Charter
+rights, the court has a duty to decide the claim" (
+Black v. Chrétien
+at para. 46).
+[26]
+At first blush, it appears that the Prime Minister's decision to advise the Governor General is not reviewable because the power to dissolve Parliament is the Governor General's prerogative, not the Prime Minister's; however, the Prime Minister's power can be seen as a prerogative because, it is discretionary, it is not based on a statutory grant of power and has its roots in the historical power of the Monarch. Although actual discretion therein lies with the Governor General, the case of
+Black v. Chrétien
+held that the Prime Minister also has the capacity to exercise prerogative powers (
+Black v. Chrétien
+at para. 33).
+[27]
+The appellant in
+Black v. Chrétien
+argued that the Prime Minister did not exercise Crown prerogative by advising the Queen not to bestow an honour on Black, because the final decision was the Queen's. The Court rejected this argument and held "whether one characterizes the Prime Minister's actions as communicating Canada's policy on honours to the Queen, giving her advice on Mr. Black's peerage, or opposing Mr. Black's appointment, he was exercising the prerogative power of the Crown relating to honours" (
+Black v. Chrétien
+at para. 35). This shows that even advisory decisions can be reviewed as exercises of prerogative.
+[28]
+The Court in
+Black v. Chrétien
+held that "[t]he exercise of the prerogative will be justiciable, or amenable to the judicial process, if its subject matter affects the rights or legitimate expectations of an individual".
+[29]
+It is the Court's conclusion that the Prime Minister's advisory power is not, in and of itself, reviewable, because it does not affect the rights or legitimate expectations of an individual and is a matter of high policy that is only reviewable on
+Charter
+grounds; however, it stands to reason that prerogative powers must be exercised in accordance with the law and this application asks whether section 56.1 has been violated. It appears that the Federal Court has jurisdiction over this limited issue pursuant to section 18.1(4)(f) of the
+Federal Courts Act
+, if, as the Applicants allege, that decision was made in contravention of a federal statute.
+[30]
+There is also an issue about whether the Federal Court has jurisdiction to hear arguments about the existence of constitutional conventions. The Federal Court has jurisdiction to consider constitutional issues on applications for judicial review pursuant to section 18.1(4)(f) which permits judicial review if a federal board, commission or other tribunal "acted ... contrary to law." The case of
+Raza v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 F.C. 185; 157 F.T.R. 161 (T.D.) held that section 18.1(4)(f) allows the Federal Court to consider constitutional arguments even when the tribunal under review may not make constitutional determinations (
+Raza
+at para. 25).
+[31]
+Section 18.1(4)(f) states that a decision may be reviewed if the decision maker acted in a way that was "contrary to law" and because constitutional conventions are not "law", it appears that this section does not give the Federal Court authority to determine their existence. A finding that a decision-maker acted contrary to a convention does not necessarily mean that the decision-maker acted "contrary to law."
+[32]
+The only precedent to establish the Federal Court's jurisdiction to determine questions of convention is
+Pelletier v. Canada (Attorney General)
+, [2008] 3 F.C.R. 40; 376 N.R. 360 2008 FCA 1. The Federal Court of Appeal gave a short judgment stating that the respondent's convention argument lacked merit (
+Pelletier
+at paras. 18, 20). The respondent's argument was dismissed on the grounds that the respondent would have to serve notice of a constitutional question on the Attorneys General of Canada and the provinces pursuant to section 57 of the
+Federal Courts Act
+before their claim could even be heard (
+Pelletier
+at para. 21).
+[33]
+It is noted that the Court of Appeal, by hearing the convention argument and by invoking section 57 did go further in its assertions than held previously. The Federal Court of Appeal states that the respondent was required to provide notice to the Attorneys General because the convention "would have an effect on the validity of the second termination order" (
+Pelletier
+at para. 21). This is noteworthy because a finding that a convention was breached would not have an impact on the legality of a termination order because conventions are unenforceable in the courts.
+Issue 2: Did section 56.1 of the Canada Elections Act create a constitutional convention whereby the discretion of the Prime Minister, to advise the Governor General to dissolve Parliament, is only to be exercised in accordance with the terms of section 56.1 of the Canada Elections Act, unless there has been a prior vote of non-confidence?
+[34]
+Constitutional conventions are non-legal rules that regulate how legal powers are to be exercised. Typically, they emerge based on the manner in which "custom" is used by officeholders and can be said to exist once the relevant officeholders consider it incumbent to follow such customs. To say that they are non-legal rules means that any remedy for a convention which has been breached lies in the political, and not the legal, arena. In that vein, the Supreme Court of Canada has ruled on the existence of conventions in the cases of
+Constitutional Amendment References 1981 (Man., Nfld., Que.)
+, [1981] 1 S.C.R. 753; 39 N.R. 1; 11 Man.R.(2d) 1; 34 Nfld. & P.E.I.R. l; 95 A.P.R. 1; 125 D.L.R.(3d) 1 ("
+Patriation Reference
+") and
+Quebec Constitutional Amendment Reference (No. 2)
+, [1982] 2 S.C.R. 793; 45 N.R. 317; 140 D.L.R.(3d) 385 ("
+Quebec Veto Reference
+") but the Supreme Court of Canada did not give binding judgments in these cases.
+[35]
+Turning to the convention at issue in this case, it is noted that the Prime Minister has traditionally had the discretion to advise the Governor General to dissolve Parliament. The Prime Minister has this discretion due to the conventions of Responsible Government whereby the executive branch must be responsible to the legislative branch (Peter Hogg,
+Constitutional Law of Canada
+(5th Ed.), volume 1 at p. 277).
+[36]
+The Applicants submit that a new constitutional convention was created when Bill C-16 received Royal Assent (Applicants' Memorandum of Fact and Law at para. 47). The Applicants submit that the new convention limits the discretion of the Prime Minister to advise the Governor General to dissolve Parliament to two situations; first, in accordance with the electoral schedule in Subsection 56.1(2), and second, in a situation of a vote of non-confidence in the House of Commons (Applicants' Memorandum of Fact and Law at paras. 42, 44, 46).
+[37]
+The applicable test for determining the existence of a convention was adopted by the Supreme Court in the
+Patriation Reference
+. That test consists of three questions: first, what are the precedents; second, did the actors in the precedents believe that they were bound by a rule; and third, is there a reason for the rule?
+[38]
+The Applicants submit that the three question test has been met in this case. In respect of the first question, the Applicants submit that there are numerous precedents to establish the existence of a new convention, such as the support of the leaders of federal political parties for Bill C-16, excerpts from proceedings of Parliament stating that the purpose of Bill C-16 is to establish fixed election dates and the fact that legislation for fixed election dates has been established and followed by the executive branches in several provinces (Applicants' Memorandum of Fact and Law at paras. 36, 44).
+[39]
+The Applicants' submission in respect of the second question is that the relevant political actors are the leaders of the federal political parties (Applicants' Memorandum of Fact and Law at para. 37).
+[40]
+With regard to the final question in the test, the Applicants submit that there were several reasons for the creation of a new convention. They submit various excerpts from press releases from the Conservative government of the time, as well as statements to Parliament to the effect that the goals of Bill C-16 were to increase fairness, transparency and predictability in the federal electoral system (Applicants' Memorandum of Fact and Law at paras. 36, 46).
+[41]
+In reply, the Respondents submit that there are no precedents to demonstrate the existence of a new convention. The Respondents are of the view that the only relevant precedent is the Prime Minister's decision of September 7, 2008, which contradicts the Applicants' submission that a new convention has been created (Respondents' Memorandum of Fact and Law at para. 27).
+[42]
+The Respondents submit that the second question in the test has not been met because the relevant officeholders are the Prime Minister and the Governor General. They submit that statements from one or more Prime Ministers supporting the existence of a new restriction would be necessary to establish a constitutional convention (Respondents' Memorandum of Fact and Law at para. 54).
+[43]
+The Respondents did not make submissions regarding the third question of the test.
+[44]
+The Applicants also submit that there is a second way that a constitutional convention can be created; separate from the Supreme Court's test that recognizes conventions through usage. This second way consists of an explicit agreement by the political actors to the effect that they would behave in certain ways. The Applicants submit that Bill C-16 was such an agreement (Applicants' Memorandum of Fact and Law at paras. 32, 36). In making this submission, the Applicants rely on Andrew Heard's book
+Canadian Constitutional Conventions: The Marriage of Law and Politics
+. In his book, Heard writes that interpreting conventions as being established only after a precedent occurs is incorrect (Applicants' Record, volume III at p. 423). Heard refers to the 1930 Imperial Conference to support this statement. During that Conference, it was agreed that British ministers could no longer advise the monarch on the appointment of ministers for the Dominions. According to Heard, although there was no precedent for this act, it was evident that the powers of the British ministers were extinct once the agreement was signed (Applicants' Record, volume III at p. 423).
+[45]
+Although it is not submitted by the Applicants, Peter Hogg acknowledges the concept of creating conventions by explicit agreement in his book
+Constitutional Law of Canada
+. This method consists of all "relevant officials" agreeing to adopt a certain rule of conduct. If that were to occur, Hogg writes, the rule "may immediately come to be regarded as obligatory" (Hogg volume 1 at p. 27). It should be noted that Hogg qualifies his statements in footnote 139 where he refers to R.T.E. Latham's 1949 book
+The Law and the Commonwealth
+. In his book, Latham points out that an agreement in the domestic sphere "rarely, if ever" creates a convention, because the relevant actors lack the ability to bind the behaviour of their successors; rather, Latham states that explicit agreements have been known to create conventions in Commonwealth affairs (Hogg volume 1, at p. 27, footnote 139).
+[46]
+Regardless of which of the two methods is adopted by this Court, whether it is the Supreme Court's test or the explicit agreement method, the Applicants have failed to establish the existence of a convention. The three question test fails because there are no precedents in this regard from the relevant actors. It is clear in this case that the relevant actors are the Prime Minister and the Governor General. The Applicants' submission that the relevant actors consist of the leaders of the federal political parties does not stand to reason because the leaders of the political parties have no power, be it conventional or legal, to dissolve Parliament. In the
+Quebec Veto Reference
+, the Supreme Court held that "[r]ecognition by the actors in the precedents is not only an essential element of conventions. In our opinion, it is the most important element since it is the normative one, the formal one which enables us unmistakably to distinguish a constitutional rule from a rule of convenience or from political expediency." It is clear that there has been no such recognition in this case.
+[47]
+The explicit agreement method fails because the intention of the political actors, seen primarily through statements of Cabinet members, has not been explicit. Even if, in fact, it is explicit, it is doubtful that a domestic convention can be initiated solely through the explicit agreement of the parties; recognizing that such agreement has only been acknowledged on an international level within the Commonwealth framework. Also, as has been stated, the relevant actors in this convention are the Governor General and the Prime Minister and there are no statements from either of the actors to the effect that a new convention had been created.
+Issue 3: Did the Prime Minister's decision of September 7, 2008 contravene section 56.1 of the Canada Elections Act
+?
+[48]
+This is a question of statutory interpretation. The Supreme Court of Canada held that the preferred approach to statutory interpretation is to read the words of an Act in their entire context and "in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament" (
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1, at para. 21).
+[49]
+Section 56.1 has two parts: Subsection 56.1(1) leaves the Governor General's power untouched and Subsection 56.1(2) states when elections are to be held.
+[50]
+The Applicants submit that the objective of section 56.1 is to preclude the calling of "snap elections" by prohibiting Prime Ministers from requesting dissolution except in accordance with the terms of section 56.1(2) or if there has been a prior vote of non-confidence (Applicants' Memorandum of Fact and Law at para. 60). They ask this Court to interpret section 56.1 to include these limitations.
+[51]
+The Respondents reply with evidence that shows section 56.1 was never intended to be legally binding on the Prime Minister (Respondents' Memorandum of Fact and Law at paras. 14, 15). They also submit that amendments to the office of the Governor General cannot be accomplished by ordinary statute, but require a constitutional amendment under section 41 of the
+Constitution Act, 1982
+.
+[52]
+The Respondents submit the purpose of section 56.1 is to create a "statutory expectation" of a certain date for election, without making the expected election dates legally enforceable (Respondents' Memorandum of Fact and Law at para. 38). This submission causes an interpretative problem, namely, if the Respondents are correct, why did Parliament use the mandatory word "must" in section 56.1(2)? In order to resolve this problem, the Court must examine the section's constitutional and legislative context.
+[53]
+It is important to examine the constitutional context because Canada has a system of constitutional supremacy that lays out the boundaries of Parliament's power. In this case, the constitutional context is that the Governor General has discretion to dissolve Parliament pursuant to Crown prerogative and section 50 of the
+Constitution
+Act
+, 1867
+. Any tampering with this discretion may not be done via an ordinary statute, but requires a constitutional amendment under section 41 of the
+Constitution Act, 1982
+, which requires unanimous consent of all provincial governments as well as the federal government before a change can be made to the "office of the Governor General". Subsection 56.1(1) explicitly leaves the Governor General's discretion untouched.
+[54]
+The legislative context is reflected in the Hansard record and press releases from the Conservative government of the time. The Applicants use Hansard extensively in their submissions to attempt to show the intention of Parliament. The Respondents submit that Hansard, alone, should not be used in this context because it could lead to ambiguity in respect of the intention and meaning of the legislation itself (Respondents' Memorandum of Fact and Law at para. 33).
+[55]
+The Respondents are correct that the Hansard record is ambiguous, especially in respect of the intended effects of section 56.1. For example, the Applicants submit a statement from the Prime Minister to the House of Commons that the fixed-date legislation was "modelled on those of the provinces, to set elections every four years and set the next election for October 2009" (Applicants' Memorandum of Fact and Law at para. 5). This suggests an intention to change the electoral rules. The Applicants' Memorandum also contains a statement from Minister Rob Nicholson that "by providing that elections are to be held every four years in October, the bill establishes a statutory expectation that the relevant political and administrative officers will govern themselves accordingly to accomplish this end - working within the rules and conventions of parliamentary and responsible government" (Applicants' Memorandum of Fact and Law at para. 8). This suggests an intention to leave the existing electoral rules unchanged. The Respondents also point to other statements of Minister Nicholson, such as "[t] he Governor General's legal power under the Constitution and the exercise of that power on the advice of the Prime Minister are fundamentally and inseparably linked. If one limits the Prime Minister's ability to advise, one risks constraining the Governor General's power in a way that would be unconstitutional" to show that there was never any intention for Bill C-16 to bind the Prime Minister (Respondents' Memorandum of Fact and Law at para. 14). It is the Court's conclusion that the Hansard record is ambiguous and does not establish an intention to bind the Prime Minister.
+[56]
+A quote from Hansard that is not raised by the parties is a statement by Minister Rob Nicholson before the Standing Committee on Procedure and House Affairs. When questioned about whether Bill C-16 would leave the Prime Minister with the power to recommend the dissolution of Parliament at any time before the prescribed date, Minister Nicholson said that
+Bill C-16 "is crafted in a way that the prerogatives of the Prime Minister to advise the Governor General, and the Governor General's prerogatives, are in no way diminished
+" (Applicants' Record, volume I, Exhibit "I" to the Affidavit of Duff Conacher at p. 90). This statement is another example of the ambiguity of Hansard, if used alone, and the statement demonstrates an intention not to legally bind the Prime Minister's discretion.
+[57]
+The Applicants ask this Court to interpret section 56.1 to include a condition that the Prime Minister will not request dissolution unless there has been a prior vote of non-confidence. The Applicants submit that Bill C-16 had the purpose of requiring that federal elections be held on specific dates unless there is a prior vote of non-confidence (Applicants' Memorandum of Fact and Law at para. 1). The Applicants submit statements from Hansard as evidence of this purpose (Applicants' Memorandum of Fact and Law at paras. 6, 7, 8, 9). It is on Hansard that the Applicants hang their case and, as specified, the Hansard record, alone, is ambiguous. The Applicants' submissions are not supported by the language of section 56.1. Subsection 56.1(1) states that the Governor General's discretion is not affected by section 56.1.
+Subsection 56.1(2) states that elections must be held on certain dates and says nothing about votes of non-confidence
+.
+[58]
+The Applicants ask this Court to perform complicated interpretative footwork. One of the problems with their approach is that the text of section 56.1 is silent on votes of non-confidence. Section 56.1 cannot be read as legislating binding dates for elections because, as the Respondents point out, the government could fall at any time as a result of a vote of non-confidence (Respondents' Memorandum of Fact and Law at para. 38).
+The Applicants agree that a request for dissolution following a vote of non-confidence would not violate section 56.1 (Applicants' Memorandum of Fact and Law at para. 60). Based on this agreement, the imperative word "must" in subsection 56.1(2) loses some of its authority
+. It is the Court's conclusion that, based on this exemption, it would be simpler to interpret section 56.1 as not being binding on the Prime Minister than to interpret it as having two unwritten clauses, the first to bind the Prime Minister to the dates in Subsection 56.1(2) and the other to exempt the Prime Minister when a vote of non-confidence, which section 56.1 neither defines nor mentions, occurs.
+[59]
+It is also important that "vote of non-confidence" does not have a firm definition. Hogg writes that there are several ways that a government can lose the confidence of Parliament. He writes that if the House of Commons passes a motion of "no confidence", the government will have lost the confidence of the House. He also writes that "the defeat of the government on any important vote is
+usually
+regarded as a withdrawal of confidence" (emphasis added). He also writes that a defeat of the government on a minor matter is not usually considered to be a loss of confidence, but he does not rule out that possibility (Hogg, volume, 1 at p. 288). A government losing the confidence of the House of Commons is an event that does not have a strict definition and often requires the judgment of the Prime Minister. If this Court is to interpret section 56.1 in the manner the Applicants suggest, this Court would have to define a "vote of non-confidence" or else leave section 56.1 ambiguous. It is the Court's conclusion that votes of non-confidence are political in nature and lack legal aspects. The determination of when a government has lost the confidence of the House should be left to the Prime Minister and not be turned into a legal issue for the courts to decide.
+Issue 4: Did the Prime Minister's decision of September 7, 2008 to advise the Governor General to dissolve Parliament contravene section 3 of the
+Charter of Rights and Freedoms
+?
+[60]
+The Applicants submit that the Prime Minister's decision contravened the principles of electoral fairness enshrined in section 3 of the
+Charter
+. The basis of the Applicants' submission is their belief that the Prime Minister's discretion creates an unfair advantage for the Prime Minister's political party. The Applicants submit that their interpretation of section 56.1 eliminates that which the Applicants perceive as a potential problem in the electoral system and that it was unfair for the Prime Minister not to abide by the terms of that section (Applicants' Memorandum of Fact and Law at para. 52).
+[61]
+There are several problems with the Applicants' submissions. First, the Applicants do not provide any legal reasons to support their submission that the election of 2008 was unfair. The Supreme Court outlined the purpose of section 3 in the case of
+Figueroa v. Canada (Attorney General)
+, [2003] 1 S.C.R. 912; 306 N.R. 70; 176 O.A.C. 89; 227 D.L.R.(4th) 1. In that case, the Court held that the purpose of section 3 is to protect the "right of each citizen to play a meaningful role in the electoral process" (
+Figueroa
+at para. 26). The Supreme Court defined a "fair election" in the case of
+Harper v. Canada (Attorney General)
+, [2004] 1 S.C.R. 827; 320 N.R. 49; 348 A.R. 201; 321 W.A.C. 201; 2004 SCC 33 as the right to "meaningfully participate" in the electoral process. The Court held that participation is "meaningful" when a citizen is able to vote in an informed manner (
+Harper
+at para. 71). The Applicants submit that the Prime Minister's discretion "differentiates between political parties" in a way that has an adverse impact on the ability of citizens to play a "meaningful role in the electoral process" (Applicants' Memorandum of Fact and Law at para. 50). The Respondents reply that there is no evidence that the Applicants, or the political parties whose interests they purport to defend, were disadvantaged by the dissolution of Parliament on September 7, 2008 (Respondents' Memorandum of Fact and Law at paras. 72, 75, 76).
+[62]
+Second, a finding that the election of 2008 violated section 3 would have an enormous impact on parties outside of this application. The Respondents submit that a finding that the election of 2008 violated section 3 would mean that every federal election since April 17, 1982 also violated section 3 (Respondents' Memorandum of Fact and Law at para. 78). Although the Applicants try to limit their argument to so-called "snap elections" (elections that are called while the Prime Minister has the confidence of the House of Commons), the Governor General has complete discretion to dissolve Parliament and the Prime Minister has complete discretion to advise the Governor General to dissolve Parliament. Therefore, all Canadian federal elections could be perceived to be "snap elections" because none of them have any legal limitation on when they are to be called.
+Issue 5: Is declaratory relief an appropriate remedy in these circumstances?
+[63]
+The Applicants request a declaration to state that the election of October 14, 2008 contravened section 56.1.
+[64]
+The Applicants also request a declaration to state that the election of 2008 infringed the section 3 right of all Canadians.
+[65]
+In addition, the Applicants request this Court to declare that a constitutional convention has been established that prohibits the Prime Minister from advising the Governor General to dissolve Parliament, except when done in accordance with section 56.1 or after the Prime Minister has lost the confidence of the House of Commons (Applicants' Memorandum of Fact and Law at para. 70).
+[66]
+Having explained the Court's jurisdiction, none of the above warrant the Court's declaration.
+VII.
+Court Conclusions as to the Respective Issues
+Issue 1: Is the Prime Minister's decision appropriate subject matter for a judicial review?
+[67]
+Further to the Applicants claim that an exercise of prerogative violated section 3 of the
+Charter
+and thereby this Court has a duty to determine that claim, exercises of Crown prerogative are subject to judicial review if they violate
+Charter
+rights.
+[68]
+The case of
+Black v. Chrétien
+, above, shows that the Federal Court has jurisdiction over direct exercises of Crown prerogative because they emanate from a federal source. Although some prerogatives are reviewable, the Court must still determine whether a particular prerogative is justiciable. The hallmark of justiciability is whether the exercise of prerogative affects the rights or legitimate expectations of an individual.
+In the present case
+, no legal rights or legitimate expectations were affected, other than a claim having been made under the
+Charter
+, thus, the Prime Minister's advice is not reviewable. That being said, section 18.1(4)(f) of the
+Federal Courts Act
+gives the Court the power to review, if, in fact, a decision-maker acted "contrary to law" which is what the Applicants imply in regard to section 56.1 of the
+Canada Elections Act
+.
+[69]
+In this particular case, at this specific time, based on precedents before this Court, the matter of convention, in this set of circumstances (as analyzed above), is political in nature and is outside the jurisdiction of the Court, bearing in mind the separation of powers under constitutional supremacy.
+Issue 2: Did section 56.1 of the Canada Elections
+Act
+create a constitutional convention whereby the discretion of the Prime Minister, to advise the Governor General to dissolve Parliament, is only to be exercised in accordance with the terms of section 56.1 of the Canada Elections
+Act
+, unless there has been a prior vote of non-confidence?
+[70]
+The Court rejects the Applicants' submissions because the three question test has not been met. The Court agrees with the Respondents that there are no precedents to establish the existence of a new convention that limits the Prime Minister's discretion to advise the Governor General.
+[71]
+The Applicants' attempt to use the "explicit agreement" method fails for two reasons. First, the method has only been used in international agreements within the Commonwealth context. Second, no agreement is evident because the legislative record is ambiguous and section 56.1 does not mention conventions.
+[72]
+A court must exercise extreme caution when deciding whether a convention exists. Although courts have not given legal sanctions when a convention has been breached, the opinions of courts on these matters have historically had enormous repercussions. In this specific case, the Applicants' evidence is ambiguous and does not lead the Court to the conclusion that a convention exists.
+Issue 3: Did the Prime Minister's decision of September 7, 2008 contravene section 56.1 of the Canada Elections Act
+?
+[73]
+It is vitally important under constitutional supremacy that the separation of powers be respected. Justice McLachlin (as she was then, prior to becoming Chief Justice) writes in paragraph 141 of
+New Brunswick Broadcasting Co. and Canadian Broadcasting Corp. v. Speaker of the House of Assembly (N.S.) et al.
+, [1993] 1 S.C.R. 319; 146 N.R. 161; 118 N.S.R.(2d) 181; 327 A.P.R. 181; 100 D.L.R.(4th) 212:
+"
+Our democratic government consists of several branches: the Crown, as represented by the Governor General and the provincial counterparts of that office; the legislative body; the executive; and the courts. It is fundamental to the working of government as a whole that all these parts play their proper role. It is equally fundamental that no one of them overstep its bounds, that each show proper deference for the legitimate sphere of activity of the other
+." (Emphasis added).
+[74]
+The Applicants ask this Court to interpret section 56.1 in a manner that would make political issues justiciable. If their submission that section 56.1 is intended to force the Prime Minister to only request dissolution after a vote of non-confidence is accepted, litigants could take the Prime Minister to court to determine whether or not a government had lost the confidence of the House of Commons. Similarly, a court would be able to force the Prime Minister to dissolve Parliament, effectively dictating to the Governor General to exercise his or her discretion.
+[75]
+It is the Court's conclusion that the Applicants' submissions do not demonstrate a proper understanding of the separation of powers. This Court disposes of this matter to ensure that political issues (in time and context) are not made to be legal ones. The remedy for the Applicants' contention is not for the Federal Court to decide, but rather one for the count of the ballot box.
+Issue 4: Did the Prime Minister's decision of September 7, 2008 to advise the Governor General to dissolve Parliament contravene section 3 of the
+Charter of Rights and Freedoms
+?
+[76]
+No evidence was submitted by the Applicants to the Court that the 2008 election was "unfair", as based on the factors in
+Figueroa
+and
+Harper
+, above. In the case of
+Figueroa
+, the Supreme Court held that section 3 gives the right to "meaningful participation" in the electoral process (
+Figueroa
+at para. 25). Although the Applicants allege surprise and disruption prior to the election, it is insufficient to ground a claim on such an issue because, as the Respondents submit, there is no evidence that Democracy Watch could not perform its normal functions during the election period (Applicants' Memorandum of Fact and Law paras. 20, 21, 22) (Respondents' Memorandum of Fact and Law at para. 74).
+Issue 5: Is declaratory relief an appropriate remedy in these circumstances?
+[77]
+Due to all of the Court's previous reasons on each of the respective issues, no declaration is appropriate.
+[78]
+In light of all the above, the application is denied, however, without costs due to the nature of the proceeding which necessitated that the separation of powers, on the issues in question, be explained for the understanding of the public.
+JUDGMENT
+[79]
+THIS COURT ORDERS that
+the Application of the Applicants be denied, however, without costs due to the nature of the proceeding which necessitated that the separation of powers, on the issues in question, be explained for the understanding of the public.
+Application denied.
+Editor: E. Joanne Oley/clh
+[End of document]

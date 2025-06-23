@@ -1,0 +1,55 @@
+[53]
+In
+Mattel
+, above at paragraphs 35 to 39, Justice Ian Binnie applied the pragmatic and functional approach in determining the appropriate standard for reviewing an Opposition Board's decision with respect to confusion. Below, I set out the Supreme Court's discussion of each of the four contextual factors:
+"(1)
+Presence or Absence of a Privative Clause or Statutory Right of Appeal
+"¶ 35 The
+Act
+provides for a full right of appeal to a Federal Court judge who is authorized to receive and consider fresh evidence (sections 56(1) and 56(5). There is no privative clause. Where fresh evidence is admitted, it may, depending on its nature, put quite a different light on the record that was before the Board, and thus require the applications judge to proceed more by way of a fresh hearing on an extended record than a simple appeal (
+Philip Morris Inc. v. Imperial Tobacco Ltd. (No. 1)
+(1987), 17 C.P.R.(3d) 289 (F.C.A.)). Section 56 suggests a legislative intent that there be a full reconsideration not only of legal points but also of issues of fact and mixed fact and law, including the likelihood of confusion. See generally
+Molson Breweries v. John Labatt Ltd.
+, [2000] 3 F.C. 145 (C.A.), at paras. 46-51;
+Novopharm Ltd. v. Bayer Inc.
+(2000), 9 C.P.R.(4th) 304 (F.C.A.), at para. 4, and
+Garbo Creations Inc. v. Harriet Brown & Co.
+(1999), 3 C.P.R.(4th) 224 (F.C.T.D.).
+"(2)
+The Board's Expertise
+"¶ 36 The determination of the likelihood of confusion requires an expertise that is possessed by the Board (which performs such assessments day in and day out) in greater measure than is typical of judges. This calls for some judicial deference to the Board's determination, as this Court stressed in
+Benson & Hedges (Canada) Ltd. v. St. Regis Tobacco Corp.
+, [1969] S.C.R. 192, at p. 200:
+'In my view the Registrar's decision on the question of whether or not a trademark is confusing should be given great weight and the conclusion of an official whose daily task involves the reaching of conclusions on this and kindred matters under the
+Act
+should not be set aside lightly but, as was said by Mr. Justice Thorson, then President of the Exchequer Court, in
+Freed and Freed Limited v. The Registrar of Trade Marks et al:
+[[1951] 2 D.L.R. 7, at p. 13]:
+"... reliance on the Registrar's decision that two marks are confusingly similar must not go to the extent of relieving the judge hearing an appeal from the Registrar's decision of the responsibility of determining the issue with due regard to the circumstances of the case."'
+"¶ 37 What this means in practice is that the decision of the registrar or Board 'should not be set aside lightly considering the expertise of those who regularly make such determinations':
+McDonald's Corp. v. Silcorp Ltd.
+(1989), 24 C.P.R.(3d) 207 (F.C.T.D.), at p. 210, affd. (1992), 41 C.P.R.(3d) 67 (F.C.A.). Reception of new evidence, of course, might (depending on its content) undermine the factual substratum of the Board's decision and thus rob the decision of the value of the Board's expertise. However, the power of the applications judge to receive and consider fresh evidence does not, in and of itself, eliminate the Board's expertise as a relevant consideration:
+Lamb v. Canadian Reserve Oil & Gas Ltd.
+, [1977] 1 S.C.R. 517, at pp. 527-28.
+"(3)
+The Purpose of the
+Trade-Marks Act
+and in Particular the Trademark Registration Scheme
+"¶ 38 In Dr. Q, the Chief Justice pointed out that '[a] statutory purpose that requires a tribunal to select from a range of remedial choices or administrative responses, is concerned with the protection of the public, engages policy issues, or involves the balancing of multiple sets of interests or considerations will demand greater deference from a reviewing court' (para. 31). An inquiry into the likelihood of the 'mistaken inference' does not call for the exercise of discretion. Nor is the Board in this respect making public policy decisions or allocating scarce resources. Essentially, the Board is deciding a lis between the parties in a procedure that looks like an informal version of an everyday court case.
+"(4)
+Nature of the Question in Dispute
+"¶ 39 While the appellant frames its argument as a challenge to the correctness of the interpretation given to s. 6 by the Federal Court of Appeal in
+Pink Panther
+and
+Lexus
+, I think that in reality, for reasons which I will develop, its challenge is directed to the relative weight to be given to the s. 6(5) enumerated and unenumerated factors. The legal issue is not neatly extricable from its factual context, but calls for an interpretation within the expertise of the Board. In answer to the
+Bibeault
+question ('Did the legislator intend the question to be within the jurisdiction conferred on the tribunal?' (p. 1087)), I think the answer is yes, within reasonable limits. See also
+Pezim v. British Columbia (Superintendent of Brokers)
+, [1994] 2 S.C.R. 557, at p. 595;
+Canadian Broadcasting Corp. v. Canada (Labour Relations Board)
+, [1995] 1 S.C.R. 157, at p. 185;
+Canada (Director of Investigation and Research) v. Southam Inc.
+, [1997] 1 S.C.R. 748, at para. 43;
+Moreau-Bérubé v. New Brunswick (Judicial Council)
+, [2002] 1 S.C.R. 249; 2002 SCC 11, at para. 61."

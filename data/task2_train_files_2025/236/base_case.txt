@@ -1,0 +1,193 @@
+Introduction
+[1]
+Mandamin, J.
+: Since 2000 the Plaintiff, Microsoft Corporation (Microsoft), has been attempting to stop the sale of Microsoft Software and unauthorized use of Microsoft trademarks by Defendants involved in businesses operated under variations of the name "PC Village". Currently there are seven PC Village locations in the Greater Toronto Area and two of those locations and individuals associated with them have been selling and distributing unlicensed copies of Microsoft computer software along with the computer systems. The infringing activities at issue in this action occurred in 2005 and 2006 and relate to two locations described as PC Village Markham and PC Village Downtown.
+[2]
+This judgment relates to 1445687 Ontario Limited, 1558346 Ontario Corp., Syed Aziz and Johnson Ye (collectively referred to as the named Defendants).
+[3]
+Initially the majority of Defendants in this action were represented by legal counsel and aggressively defended the action. A Statement of Defence was eventually served on behalf of this group of the Defendants but that Statement of Defence was never filed in Federal Court. There was a settlement meeting among counsel which resulted in an agreement in principle to settle but the Defendants never finalized the settlement documentation. Subsequently, the Defendants' counsel brought a motion to be removed as solicitor of record. The named Defendants not only abandoned their defence but also their participation in the Court proceedings. In addition, two of the three corporations, 1445687 Ontario Limited and 1558346 Ontario Corp., were voluntarily dissolved. Nevertheless, the PC Village stores continue to operate at the PC Village Markham and PC Village Downtown locations.
+[4]
+The Plaintiff, Microsoft, is the owner of the copyright of various computer software programs and the Microsoft registered trademark. This action is for copyright and trademark infringement by PC Village businesses and certain individuals associated with the businesses.
+[5]
+Microsoft is a corporation incorporated and subsisting under laws of the State of Washington in the United States of America having its head office at 1 Microsoft Way, Redmond, Washington, USA. At all relevant times Microsoft has been engaged in the business of developing, marketing and distributing a range of computer software programs, with licenses for personal, business and professional use, including the Microsoft programs.
+[6]
+The Defendant, 1445687 Ontario Limited, was a corporation incorporated and subsisting under the laws of Ontario as Ontario Corporation Number 1445687 having its registered office and mailing address at 3229 Highway 7 East, Unit 7, Markham, Ontario L3R 3P3. The business name of the Corporation is PC Village Markham.
+[7]
+The Defendant, 1558346 Ontario Corp., is a corporation incorporated and subsisting under the laws of Ontario as Ontario Corporation Number 1558346, having its registered office address at 684 Yonge Street, Toronto, Ontario, M4Y 2A6.
+[8]
+The Defendant, Syed Aziz, is an employee of one or more of the named corporate Defendants and works primarily at the location of PC Village Markham at 3229 Highway 7 East, Unit 7, Markham, Ontario.
+[9]
+The Defendant, Johnson Ye, is an employee of one or more of the corporate Defendants and works primarily at the location of PC Village Downtown at 684 Yonge Street, Toronto, Ontario.
+[10]
+The Plaintiff's motion is for default judgment on the Statement of Claim pursuant to Rule 210 of the
+Federal Courts Rules
+and seeking the following relief:
+"a. statutory damages in the total amount of $150,000 pursuant to section 38.1 of the
+Copyright Act
+, R.S.C. 1985, c. C-42, as amended, being $10,000 per work for each of the 15 computer software works involved;
+"b. punitive damages in the amount of at least $50,000; and
+"c. a permanent injunction against the following Defendants:
+i. 1445687 Ontario Limited;
+ii. 1558346 Ontario Corp.;
+iii. Syed Aziz; and
+iv. Johnson Ye"
+[11]
+The Plaintiff also seeks costs of this action including this motion on a solicitor and client basis.
+Proof for Default Judgment
+[12]
+On a motion for default judgment, where no Statement of Defence has been filed, every allegation in the Statement of Claim must be treated as denied. The Plaintiff must establish that the Defendants were served with a Statement of Claim and that they have not filed a defence within the deadline specified in Rule 204 of the
+Federal Courts Rules
+, SOR/98-106. The Plaintiff must lead evidence upon which the Court can find on the balance of probabilities that infringement has occurred within the meaning of the statute being the
+Copyright Act
+and the
+Trademarks Act
+.
+FRAGMENT_SUPPRESSED
+[13]
+The Affidavits of Nelson Paesch, Process Server, establish that the Defendants 1445687 Ontario Limited (also referred to as PC Village Markham) and Syed Aziz were served with the Statement of Claim on February 17, 2006. The Affidavit of Marco de Lucia, Process Server, establishes that the Defendant 1558346 Ontario Corp. (also referred to as PC Village Downtown) was served with the Statement of Claim on February 21, 2006. The Affidavit of Justin R. Petrillo establishes that Bereskin and Parr acting as counsel for Johnson Ye endorsed the acceptance of service of the Statement of Claim on April 11, 2006. I am satisfied that the named Defendants were served with the Statement of Claim.
+[14]
+The defence lawyers, Bereskin and Parr served on the Plaintiff a Statement of Defence on behalf of the Defendants Syed Aziz and Johnson Ye on June 16, 2006. They did not serve a Statement of Defence on behalf of PC Village Markham and PC Village Downtown. Further, on May 18, 2007, Bereskin and Parr advised that they were no longer acting for the Defendants and were subsequently removed as solicitors of record by the Order of Prothonotary Aalto dated August 20, 2007. The Statement of Defence was never filed with the Court. Accordingly, I am satisfied that no Statement of Defence has been filed with the Court on behalf of the Defendants 1445687 Ontario Limited, 1558346 Ontario Corp., Syed Aziz and Johnson Ye.
+Infringement
+[15]
+The evidence indicates that the Plaintiff's investigators attended at PC Village Markham and PC Village Downtown on 13 different occasions between June 28, 2000 and January 20, 2006. The Defendant Syed Aziz was present on several occasions as PC Village Markham and, in particular, on January 13, 2006. The Defendant Johnson Ye was present at PC Village Downtown also on several occasions and, in particular, on January 17, 2006.
+[16]
+The conversations the Plaintiff's investigators had with the sales people in the store and the activity they observed is suggestive of repeated infringements of the Plaintiff's copyrights and trademarks. The evidence indicates that fifteen clear infringements of the Plaintiff's copyrights and trademarks occurred, seven at PC Village Markham on January 20, 2006 and eight at PC Village Downtown on January 20, 2006.
+[17]
+On January 20, 2006 the investigator picked up the computer he ordered from PC Village Markham. That computer contained the following Microsoft computer programs which had been copied onto the hard drive:
+1. Microsoft Office 2000 (Premium Edition)
+2. Microsoft Access 2000
+3. Microsoft Excel 2000
+4. Microsoft FrontPage 2000
+5. Microsoft Outlook 2000
+6. Microsoft PowerPoint 2000
+7. Microsoft Word 2000
+[18]
+The circumstances of the computer purchase at PC Village Markham and the conversations the investigator had with Syed Aziz together with the absence of an official Microsoft CD-ROM and certificate of authenticity label establish that the computer software program copies were unauthorized.
+[19]
+Similarly the computer system purchased at PC Village Downtown on January 20, 2006, also contained unauthorized software namely:
+1. Microsoft Office Professional Edition 2003
+2. Microsoft Office Access 2003
+3. Microsoft Office Excel 2003
+4. Microsoft Office Outlook 2003
+5. Microsoft Office PowerPoint 2003
+6. Microsoft Office Publisher 2003
+7. Microsoft Office Word 2000
+[20]
+The conversation between the investigator and Johnson Ye and the absence of an official Microsoft CD-ROM and certificate of authenticity label confirm that the computer software programs copies were unauthorized.
+[21]
+The above unauthorized software contained the Microsoft Marks within.
+[22]
+I find on the balance of probabilities that the Defendants 1445687 Ontario Limited and Syed Aziz infringed on the Plaintiff's copyrights and trademarks in respect of seven Microsoft software programs and the Defendants 1558346 Ontario Corp. and Johnson Ye infringed upon the Plaintiff's copyrights and trademarks in respect of eight unauthorized software programs.
+[23]
+The Defendants 1445687 Ontario Limited and 1558345 Ontario Corp. did not serve or file a Statement of Defence at any time. Counsel for the Defendants Syed Aziz and Johnson Ye never filed the Statement of Defence with the Court. Counsel subsequently withdrew from the record and the Defendants Aziz and Ye did not file the Statement of Defence at any subsequent time.
+Entitlement to Default Judgment
+[24]
+The time for filing a Statement of Defence has long expired. Pursuant to Rule 210 of the
+Federal Courts Rules
+the Plaintiff Microsoft is entitled to default Judgment.
+Entitlement to Relief Requested
+[25]
+The Plaintiff is entitled to the relief requested as stated above. The Plaintiff also seeks costs of this action on a solicitor/client basis.
+Damages for Copyright Infringement
+[26]
+The Plaintiff holds the copyright to the 15 unauthorized works found in the hard drives of the computers purchased from the Defendants. Section 38.1 of the
+Copyright Act
+permits the Plaintiff to elect an award of statutory damages. The provision permits the Plaintiff as copyright owner to elect an award of statutory damages "in a sum not less than $500 or more than $20,000 as the Court considers just".
+[27]
+Section 38.1(5) of the
+Copyright Act
+provides a list of relevant factors for the Court to consider in exercising its discretion in awarding statutory damages. Those relevant factors include:
+a. The good or bad faith of the Defendants;
+b. The conduct of the parties before and during the proceedings; and
+c. The need to deter other infringements of the copyright in question.
+The cases of
+Louis Vuitton Malletier S.A. and Louis Vuitton Canada Inc. v. Lin Pi-Chu Yang, et al. doing business as K2 Fashions
+, supra, and
+Microsoft Corp. v. 9038-3746 Quebec Inc. et al.
+(2006), 305 F.T.R. 69; 2006 FC 1509, are directly relevant.
+[28]
+In
+Microsoft Corp.
+the Defendant was found to have breached the Plaintiff's intellectual property rights by distributing CD's containing Microsoft, Windows, Office and Outlook Software. Justice Harrington awarded the Plaintiff $20,000 for each of the 25 copyrighted works which had been infringed after concluding that:
+a. The Defendants had not shown they had reasonable grounds to believe that they had not infringed the copyright.
+b. The minimum amount of $500 for each of the infringed works would be grossly out of proportion to the infringement.
+c. The Defendants had demonstrated bad faith in their general dismissive attitude to the Court.
+d. The Defendants failed to provide adequate records despite a Court order.
+e. Deterrence is necessary to prevent other infringements of the works in question (
+Microsoft Corp
+. at paras. 106-115).
+[29]
+In
+Louis Vuitton
+, Justice Snider concluded that the maximum statutory award of $10,000 for each of the discrete acts of infringement of the copyrighted works was appropriate. The factors of good or bad faith of the Defendants and conduct of the Defendants were as follows:
+1. The Defendants have been aware since December 2001, when an Anton Pillar order was executed, that the sale of the counterfeit products was in violation of the Plaintiffs' intellectual property rights. Nevertheless they have persisted in selling infringing products.
+2. The Plaintiffs has obtained two previous judgments, the first on April 26, 2002, the second on June 8, 2004, restraining the sale of infringing products in the K2 Fashions store. The infringing activity has continued.
+3. The Defendants have been advised numerous times to stop the sale of products infringing on the Plaintiffs' intellectual property rights since the June 8, 2004 judgment, but have nevertheless persisted in their infringing activities.
+4. The Defendants have attempted to conceal and cover-up their actions by placing the counterfeit products in hidden displays and drawers.
+[30]
+Justice Snider concluded that these actions demonstrated bad faith and conduct that warranted a higher award of statutory damages.
+[31]
+Justice Snider also considered the need to deter others. She noted that continuing infringement of Louis Vuitton products eroded the value of legitimate copyrighted products in the marketplace. She also considered the need for deterrence because of the behaviour of the Defendants. In her view, a high award was necessary to deter future infringement and secondly to deter open disrespect for Canada's copyright protection laws.
+[32]
+Justice Snider was satisfied the maximum award of statutory damages in the amount of $20,000 for each of the two copyright works was appropriate for a total amount of $40,000.
+[33]
+In this case, the bad faith of the Defendants is apparent given the candid discussion of copyright violations by the Defendant corporations sales personnel and the Defendants Aziz and Ye. This behaviour and attitude was displayed during the period 2001 to 2006 and can not be seen as isolated occurrences.
+[34]
+The Defendants' conduct is also a factor. They were put on notice regarding the infringing nature of their activities including:
+a. a consent judgment in T-703-97 on July 14, 1999 which related in part to PC Village Downtown and which included a permanent injunction;
+b. cease and desist letters sent to PC Village Markham on July 19, 2000 and September 1, 2005;
+c. cease and desist letters sent to PC Village Downtown on November 16, 2000 and May 11, 2001; and
+d. discussions that the manager of PC Village Downtown and Johnson Ye had with the Plaintiff's counsel in 2001.
+[35]
+The Defendants were well aware their conduct was illegal as appeared from the statements made to investigators. Johnson Ye stated that loading software was illegal and therefore could not be listed on the quote. Sayed Aziz stated that no one buys Microsoft Office because of the cost but that he usually loaded it onto computer systems to save the customer money because it does not have to be registered with Microsoft.
+[36]
+The Defendants Aziz and Ye participated in reaching an agreement in principle to settle the matter with the Plaintiff and then abandoned their defence ultimately resulting in their solicitors bringing a motion to be removed as solicitors of record.
+[37]
+The Defendant corporations were voluntarily dissolved after the Plaintiff commenced its action. The Articles of Dissolution for 1445687 Ontario Limited and 1558346 Ontario Corp. falsely stated that each corporation had no debts, obligations or liabilities and that there were no proceedings in any court against the corporation, a statement which was untrue.
+[38]
+The Defendants showed total disregard for the Plaintiff's copyright and trademark rights. They also demonstrated a disregard for the Court and its processes.
+[39]
+I conclude that the amount of statutory damages must reflect not only the bad faith of the Defendants and their disregard for the rights of the Plaintiff. It must also deter the Defendants from continuing their course of action. In my view, the amount for statutory copyright damages must be sufficiently high to serve a salutary message and deter future infringements on the part of the named Defendants and other parties.
+[40]
+The Plaintiff does not seek additional damages for the trademark infringement or damages for depreciation of goodwill and loss of direct sales. Such damages would be very difficult to assess.
+Punitive and Exemplary Damages
+[41]
+Section 38.1(7) of the
+Copyright Act
+as well as the aforementioned jurisprudence makes it clear that punitive and exemplary damages can be awarded in addition to the statutory damages. In
+Microsoft
+, Justice Harrington ordered a total of $300,000 in punitive damages, $100,000 against the individual defendant and $100,000 against each of the corporate defendants in addition to statutory damages. In
+Louis Vuitton Malletier S.A. v. Yang
+, Justice Snider awarded $100,000 in punitive damages on a motion for default judgment in addition to the maximum statutory damages award.
+[42]
+The law with respect to the award of punitive and exemplary damages was summarized by Justice Boyd in
+Louis Vuitton Malletier S.A. et al. v. 486353 B.C. Ltd. et al.
+, [2008] B.C.T.C. Uned. 454; 2008 BCSC 799, at paras. 84 to 86. After reviewing general principles Justice Boyd stated:
+"[86] Punitive and exemplary damages have been awarded in cases of trade-mark and copyright infringement, where, for example, the conduct of the defendants was 'outrageous' or 'highly reprehensible', or where the defendant's actions constituted a callous disregard for the rights of the plaintiff or for injunctions granted by the Court. Similarly, in determining whether punitive and exemplary damages ought to be awarded, the Court will consider whether the defendant has little regard for the legal process, thus requiring the plaintiff to expend additional time and money in enforcing its rights."
+The Plaintiff submits that it is appropriate to award punitive damages of at least $50,000. Given the conduct of the Defendants it is appropriate that that conduct be condemned by means of a significant punitive damage award.
+[43]
+The individuals involved with the Defendant numbered corporations attract personal liability for infringing activities of the corporation by their direct participation in activities knowing they likely constitute infringement.
+Microsoft v. 9038-3746 Quebec Inc.
+, supra, at paras. 91, 92 and 98. The Defendants Aziz and Ye were certainly aware of the infringing activity and actively promoted such by offering to provide unauthorized copies of the software at reduced or no cost as part of the computer system sales by the Defendant numbered corporations.
+[44]
+Even though 1445687 Ontario Limited and 1558346 Ontario Corp. have been dissolved, the action can be continued against them and any property that would have been available to satisfy the judgment had not the corporation been dissolved remains available to satisfy the judgment as per sections 242 and 243 of the
+Business Corporations Act
+, R.S.O. 1990, c. B-16.
+Injunctive Relief
+[45]
+The evidence indicates the named Defendants knowingly and deliberately infringed on the Plaintiff's copyright and trade-mark in circumstances that are suggestive of a continuing pattern of infringement. The named Defendants business practices do not disclose any effort to avoid or curtail future infringement. I am satisfied injunctive relief is also appropriate.
+Solicitor/Client Costs
+[46]
+The Plaintiff proposes a lump sum award be granted in respect of solicitor/client costs. The award would compensate for legal fees incurred by the Plaintiff to date including legal fees for preparing and arguing this motion for default judgment. The award would also cover disbursements. Counsel has advised that the costs of investigation, legal proceedings and providing particulars to the Defendants were substantial. Accordingly, I am satisfied that a lump sum award of $50,000 inclusive of solicitor/client costs and disbursements is appropriate.
+Conclusion
+[47]
+Default judgment in favour of the Plaintiffs will issue, in the form issued concurrently with these Reasons. The following will be reflected in the award:
+• $10,000 per copyright violation against the Defendant 1445687 Ontario Limited and Syed Aziz jointly and severally in respect of statutory damages for each of seven copyright violations for a total of $70,000;
+• $10,000 in respect of each copyright violation against the Defendant 1558346 Ontario Corp. and Johnson Ye for each of eight copyright violations for a total of $80,000;
+• $50,000 in punitive or exemplary damages against all Defendants 1445687 Ontario Limited, 1558346 Ontario Corp., Syed Aziz and Johnson Ye, jointly and severally; and
+• a lump sum of $50,000 in respect of solicitor/client costs and disbursements against all Defendants 1445687 Ontario Limited, 1558346 Ontario Corp., Syed Aziz and Johnson Ye, jointly and severally.
+[48]
+Further, injunctive relief against infringement activity by the named Defendant will issue as set out in the concurrent Judgment.
+Judgment for plaintiffs.
+Editor: Jana A. Andersen/pdk
+[End of document]

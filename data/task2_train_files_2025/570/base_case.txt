@@ -1,0 +1,157 @@
+A. INTRODUCTION
+[1]
+Scott, J.
+[Translation]: This is an application for judicial review pursuant to section 18.1 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7. The applicant is seeking a review by this Court of the decision dated October 12, 2010, by the Appeal Division of the National Parole Board (Appeal Division) confirming the decision of the National Parole Board (Board) dated May 26, 2010, to impose a residency condition and several other special conditions on his statutory release.
+B. FACTS
+[2]
+Since February 2005, the applicant has been serving his first federal sentence, for a term of eight years, on four counts of sexual assault on four victims between 6 and 19 years of age, two of whom are his spouse's children, and the other two, their friends. Even though this is the applicant's first criminal conviction, a number of incidents have been reported in his regard, including a complaint of incest with his biological daughter in 1989 and other charges of sexual assault and sodomy dating from 1991, regarding which there seems to have been a stay of proceedings.
+[3]
+The applicant became eligible for statutory release on June 5, 2010. In anticipation of his release, the Correctional Service of Canada (CSC) recommended that the Board impose several special conditions, namely:
+• residency condition;
+• prohibition on communicating with the victims;
+• prohibition on being in the presence of minors;
+• requirement to participate in a community sexual offender program; and
+• requirement to inform his supervisor of any new temporary or stable emotional relationship with a woman.
+[4]
+His counsel filed written representations with the Board on May 21, 2010, specifying that the applicant was objecting to his residency condition but consenting to the other conditions. In his release plan, he proposed spending a few weeks with friends, after which he intended to return to his house in the Gaspé region to live there alone. The applicant also asked the Board, should it decide to impose a residency condition, to limit the duration to six months. As for the other conditions, the applicant suggested that they be limited to 24 months rather than the full term of his statutory release, which was 32 months.
+C. THE BOARD'S DECISION
+[5]
+On May 26, 2010, the Board decided to impose all of the conditions suggested by the CSC. In its decision, it noted the charges laid against the applicant in 1991 and the elimination of any possibility of contact with his biological children. The Board also noted that the applicant continued to minimize the impact of his actions on his victims and was always trying to justify them.
+[6]
+The Board considered statistics which indicate that four out of five inmates with characteristics similar to the applicant's do not reoffend after their release. However, it found that these data did not adequately reflect the risk posed by the applicant. The Board also took into account three psychological evaluations contained in the applicant's file. It considered that the sessions with the chaplain during the applicant's incarceration had helped him move towards a greater recognition of the seriousness of his offences. The Board also noted that the applicant had been suspended from the sexual offender program because of his lack of effort and defensive attitude.
+[7]
+The Board found that the applicant posed a high risk of reoffending given his total lack of motivation to change his lifestyle throughout his incarceration. The Board based its decision on, among other things, the release plan presented by the applicant, which it considered unstructured. The Board was of the opinion that the only way to mitigate the risk posed by the applicant was to impose a residency condition on him. However, it noted that the imposition of this condition remained circumstantial and could be reviewed in the future. It did not set a different time limit for the special conditions imposed on the applicant's statutory release.
+D. THE APPEAL DIVISION
+[8]
+On July 27, 2010, the applicant presented his position to the Board's Appeal Division. He alleged that the Board had erred in law by not establishing the duration of the special conditions and by not giving reasons to explain the duration it was establishing for its special conditions. The applicant also claimed that the imposition of a residency condition was unreasonable and inconsistent with the facts in the record. The applicant also argued that the Board had not taken his representations into account and that, as a result, the principles of procedural fairness had been breached.
+[9]
+On October 12, 2010, the Appeal Division confirmed the Board's decision. It found the Board's decision to be reasonable in that it took into account all the information in the applicant's file, but that it [TRANSLATION] "could not disregard the nature and seriousness of your criminal offences, your risk factors that contributed to your delinquency and your inadequate release plan."
+[10]
+The Appeal Division was satisfied that the Board had taken the applicant's representations into consideration. Moreover, it noted that the psychological evaluation on which the applicant was relying found that a residency condition [TRANSLATION] "could be considered in order to better manage the risk."
+E. APPLICABLE LEGISLATION
+Corrections and Conditional Release Act
+, S.C. 1992, c. 20:
+Conditions of release
+133. (2) Subject to subsection (6), every offender released on parole, statutory release or unescorted temporary absence is subject to the conditions prescribed by the regulations.
+Conditions set by releasing authority
+(3) The releasing authority may impose any conditions on the parole, statutory release or unescorted temporary absence of an offender that it considers reasonable and necessary in order to protect society and to facilitate the successful reintegration into society of the offender.
+. . . . .
+Residence requirement
+(4.1) In order to facilitate the successful reintegration into society of an offender, the releasing authority may, as a condition of statutory release, require that the offender reside in a community-based residential facility or in a psychiatric facility, where the releasing authority is satisfied that, in the absence of such a condition, the offender will present an undue risk to society by committing an offence listed in Schedule I before the expiration of the offender's sentence according to law.
+. . . . .
+Duration of conditions
+(5) A condition imposed pursuant to subsection (3), (4) or (4.1) is valid for such period as the releasing authority specifies.
+Relief from conditions
+(6) The releasing authority may, in accordance with the regulations, before or after the release of an offender,
+(a) in respect of conditions referred to in subsection (2), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
+(b) in respect of conditions imposed under subsection (3), (4) or (4.1), remove or vary any such condition.
+F. ISSUES AND STANDARD OF REVIEW
+[11]
+The applicant presented the issues as follows:
+a) Did the Board err in law by not establishing the duration of the special conditions imposed on the applicant's statutory release?
+b) Is the Board's decision to impose a residency condition reasonable?
+[12]
+Counsel for the respondent cited
+Smith v. Alliance Pipeline Ltd.
+, 2011 SCC 7, and more specifically paragraph 26, to argue that the standard of review applicable to the decisions of the Board and its Appeal Division is reasonableness. The Court agrees (
+Olenga v. Canada (Attorney General)
+, 2010 FC 931, [2010] F.C.J. No. 1129 at para. 14). Thus, the Court must examine the justification, transparency and intelligibility of the decision, "[b]ut ... also ... whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law" (
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, [2008] 1 S.C.R.190 at para. 47).
+G. ANALYSIS
+a) Did the Board err in law by not establishing the duration of the special conditions imposed on the applicant's statutory release?
+Applicant's submissions
+[13]
+The applicant is essentially making the same arguments that he submitted to the Appeal Division. The applicant argues that the Board erred in law by not establishing the duration of the special conditions it imposed, and that it also erred by failing to give reasons for its decision concerning the duration of the special conditions, by imposing a residency condition, and by failing to weigh the elements presented to it by the applicant.
+[14]
+The applicant notes that, pursuant to subsection 133(5) of the
+Corrections and Conditional Release Act
+, S.C. 1992, c. 20 (the Act), the Board is required to set a time limit on the special conditions imposed on his statutory release. This subsection of the Act states: "A condition imposed pursuant to subsection (3), (4) or (4.1) is valid for such period as the releasing authority specifies." The applicant refers to the PBC Policy Manual, and explains that "Board members must keep in mind that it is difficult to know at the time of imposing the residency condition how long the condition will be necessary, but that there can also be negative implications for reintegration and public safety if the offender believes that the condition will necessarily remain in effect until warrant expiry." The applicant also claims that the Board erred by not providing reasons for the duration it established for the special conditions under paragraph 101(f) of the Act, under which the Board is required to give reasons for its decisions. In this part of his submissions, the applicant does, however, acknowledge that the special conditions were imposed on him for a period of 32 months, which was the prescribed period prior to his statutory release.
+Respondent's submissions
+[15]
+The respondent submits that the applicant is trying to overturn
+Normandin v. Canada (Attorney General)
+, 2005 FCA 345, 343 N.R. 246 (
+Normandin
+), which states that the power to establish the duration of conditions is discretionary and not mandatory. The respondent argues that where the Board does not establish a different duration for a special condition, the special condition has the same duration as the period remaining before the release or until the Board reviews the individual's file. The respondent acknowledges that
+Normandin
+concerns a supervision condition imposed under section 134.1 of the Act, but contends that this section is identical to section 133, and that the decision of the Federal Court of Appeal is binding on this Court.
+[16]
+In his written submissions, the respondent does not respond to the applicant's allegations that the Board erred by not stating the reasons why it established the duration of the special conditions imposed. However, at the hearing, the respondent reminded the Court of its decision in
+Hurdle v. Canada (Attorney General)
+, 2011 FC 599 (
+Hurdle
+), and argues that it applies
+mutadis mutandis
+in the case at bar given the analogy between the applicable provisions. According to him, the Court's findings should be the same as to the justification of the duration of the special conditions.
+Analysis
+[17]
+The Board's power to establish the duration of the special conditions is a discretionary one as we indicated in
+Hurdle
+, above:
+[16] In
+FRAGMENT_SUPPRESSED, Justice Tremblay-Lamer analyzed and defined the legislator's intent regarding the Board's role in applying the Act and regarding this purpose:
+FRAGMENT_SUPPRESSED
+[17] In a judgment upholding Justice Tremblay-Lamer's decision, the Federal Court of Appeal noted that the Board has a "broad and flexible" discretionary power to apply section 134.1 of the Act. This power includes the authority to impose conditions on the offender's release and to establish the duration (
+Normandin v. Canada (Attorney General)
+, 2005 FCA 345, paragraphs 44 and 52):
+[44] The authority given to the Board by subsection 134.1(2) is a broad and flexible discretionary authority and the discretion is exercised at three levels. First, the Board may or may not impose conditions for supervision of the long-term offender. Second, the Board is also given the authority to determine whether it is reasonable and necessary to do so in order to ensure the protection of the public and to facilitate the successful reintegration into society of the offender. Third, the Board establishes the duration of the supervision.
+[52] Parliament did not want to introduce this limitation in the case of long-term offenders, who begin their period of extended supervision while the offender on statutory release is reaching the end of his sentence. The risk of recidivism is high for long-term offenders and the period of supervision is a lengthy one, so it is not unreasonable to think that Parliament intended to leave intact the extensive discretionary authority it has granted the Board in subsection 134.1(2) of the Act in order to allow it to meet the specific needs of long-term offenders (if they are to be successfully reintegrated into society) and of the community which is being made to assume the risk of the offender's release.
+[18] It therefore appears from the legislation and case law that Parliament did not intend to impose a strict legal obligation on the Board to establish a duration for the conditions imposed, granting it a broad discretionary power in this respect. Contrary to the applicant's position, the fact that the Board did not explicitly set durations for the conditions imposed does not mean that no time limits apply. The conditions imposed are automatically lifted with the expiry of the supervision order. Contrary to the applicant's submissions, all of the conditions imposed are of a limited duration.
+Our analysis applies
+mutatis mutandis
+in the case at bar. In fact, subsection 133(3) is analogous to subsection 134.1(2). They read as follows:
+Conditions set by releasing authority
+133(3) The releasing authority may impose any conditions on the parole, statutory release or unescorted temporary absence of an offender that it considers reasonable and necessary in order to protect society and to facilitate the successful reintegration into society of the offender.
+Conditions set by the Board
+134.1(2) The Board may establish conditions for the long-term supervision of the offender that it considers reasonable and necessary in order to protect society and to facilitate the successful reintegration into society of the offender.
+Subsection 133(5) is analogous to subsection 134.1(3):
+Duration of conditions
+133(5) A condition imposed pursuant to subsection (3), (4) or (4.1) is valid for such period as the releasing authority specifies.
+Duration of conditions
+134.1(3) A condition imposed under subsection (2) is valid for the period that the Board specifies.
+Since the Board has not established a different duration for the conditions it is imposing, the duration becomes that of the applicant's statutory release, that is, 32 months in this case. Given the discretionary nature of the Board's power and the detailed reasons that appear on the first page of its decision justifying the application of special conditions, including their duration of 32 months, the Court finds that Board did not err in this regard.
+b) Is the Board's decision to impose a residency condition reasonable?
+Applicant's submissions
+[18]
+The applicant contends that the decision to impose a residency condition shows on its face that the Board did not take his representations into account. According to him, the Board's statement that it did consider his representations does not satisfy its obligation to do so. A careful reading of the Board's decision shows that the Board did not take his representations into account.
+[19]
+The applicant claims that the imposition of a residency condition is unreasonable if the information in his file is taken into account. The applicant is relying on the psychological evaluation dated March 17, 2009, which states that he was cooperative during the evaluation process and did not present any acute symptoms or an integrated [TRANSLATION] "violent pattern". The applicant notes the wording of subsection 133(4.1) of the Act, which allows the Board to impose a residency condition "where the releasing authority is satisfied that, in the absence of such a condition, the offender will present an undue risk to society by committing an offence listed in Schedule I before the expiration of the offender's sentence according to law." The applicant refers to paragraph 51 of the Federal Court of Appeal decision in
+Normandin
+, which states, with respect to residency conditions, that "it is not sufficient that the Board thinks it is necessary to impose some conditions on statutory release; it must be satisfied that the conditions are necessary and satisfied that a residence requirement is necessary in view of the nature of the particular risk." The applicant finds that the residency condition is not warranted in his case because he committed no offence during his bail period and because the risk assessments are not unanimous as to the probability of his reoffending.
+Respondent's submissions
+[20]
+The respondent argues that the conditions imposed by the Board are reasonable. The respondent notes that the Board imposed these conditions in consideration of the applicant's behaviour during his period of incarceration and the information contained in his file. The Board relies on his lack of motivation to change his lifestyle, as well as his attitude of denial and indifference about his past offences.
+[21]
+The respondent notes that the Board remains convinced of the need to impose a residency condition. The applicant poses an unacceptable risk, and he could commit another offence. Under subsection 133(4.1) of the Act, it is justified in imposing a residency condition.
+[22]
+The respondent also notes that a residency condition may be lifted before the end of the period if the applicant shows sufficient progress.
+[23]
+The respondent also argues that much information contained in the applicant's file points to the imposition of a residency condition, namely:
+i.the number and age of his victims;
+ii. the extended period over which the offences were committed;
+iii. the other complaints and charges laid against the applicant;
+iv. his constant attitude of negativity and denial, and his disregard for his victims; and
+v. his suspension from the sexual offender program for lack of interest and effort.
+[24]
+The respondent also notes that the psychological evaluation of March 17, 2009, on which the applicant is relying, also suggested a residency condition to mitigate the risk of reoffending.
+Analysis
+[25]
+The applicant's allegations that the Board failed to consider his representations or the information in his file, which makes the imposition of the residency condition unreasonable, are without merit.
+[26]
+The Board has the expertise to interpret the Act and to apply the criteria set out therein to the facts of a specific case. In this case, the Board assessed the risk of reoffending, taking into account, among other things, the psychological evaluations and all the other information contained in the applicant's file. The Board stated in its decision that the applicant does not accept responsibility for his offences and continues to scorn his victims. The applicant's psychological evaluations are not unanimous as to the probability of his reoffending. However, the evaluation of March 17, 2009, the most recent in the file at the time the Board made its decision, suggests the imposition of a residency condition to mitigate the risk of reoffending posed by the applicant. The fact that the Board, in its reasons, did not comment on one of the arguments presented by the applicant's counsel, namely, that his client did not commit an offence during the 31 months of his bail period, does not mean that the decision is unreasonable.
+[27]
+The offences committed by the applicant took place over a period of 14 years. Complaints have been filed against him for over thirty years. The Board justified its decision to impose a residency condition by the insufficiency of his release plan and his refusal to assume responsibility for his offences. This decision appears reasonable to us and seems properly supported in the circumstances. Moreover, the Board notes, in its decision, its openness to reviewing the duration of the residency condition based on the applicant's progress.
+H. CONCLUSION
+[28]
+The applicant has not shown us in this case that the Board's decision is unreasonable or that it does not fall within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[29]
+For these reasons the Court dismisses the application for judicial review, without costs.
+JUDGMENT
+[30]
+THE COURT ORDERS AND ADJUDGES that
+the application for judicial review is dismissed, without costs.
+Application dismissed.
+Editor: Jana A. Andersen/vnh

@@ -1,0 +1,220 @@
+[1]
+O'Keefe, J.
+: This is an application for judicial review of a decision by a division of Public Works and Government Services Canada (PWGSC). The Superannuation Pension Transition and Client Services Sector of PWGSC (the Sector) conveyed its decision in a letter to the applicant dated November 1, 2004, to request recovery of an overpayment made to the applicant between 1999 and 2002.
+[2]
+The applicant seeks:
+1. A declaration that the respondent is not entitled to recover any alleged overpayment of pension monies from the applicant's Public Service Superannuation Plan, pursuant to the
+Public Service Superannuation Act
+and its
+Regulations
+;
+2. An order reimbursing the applicant for all monies wrongfully deducted from his Public Service Superannuation pension since January 2005; and
+3. Costs.
+Background
+[3]
+The applicant was an employee of PWGSC in Toronto as an engineer from 1982 until he was terminated in January 1999 for alleged just cause. He began receiving his pension benefits immediately. The applicant, however, successfully grieved his termination and in August 2002, was reinstated retroactive to the date of his termination. The retroactive reinstatement meant that he received pensionable salary for the period between January 1999 and August 2002.
+[4]
+On September 15, 2004, the applicant resigned from the public service. The regional human resources office immediately advised the applicant of his pension entitlements, including the effect of his re-employment. The applicant then applied to the Sector for his pension entitlements.
+[5]
+By two letters dated November 1, 2004, the Sector advised him of his general pension entitlement, once again highlighting the effect his re-employment had on those entitlements and of the overpayment which occurred during the period January 1999 to August 2002. The overpayment letter stated in part:
+"When you became re-employed in the Public Service in August 2002, you were fully re-instated to your termination date of January 7, 1999. Therefore, this created an overpayment which must be repaid.
+The amount of the overpayment is:
+Basic Pension
+$71,1078.01 [sic]
+Supplementary Retirement Benefit
+$2,437.00
+Total
+$73,515.01
+and can be repaid by one of the following methods:
+1. You can make one lump sum payment of $73,515.01 payable to the Receiver General for Canada. Send your cheque or money order to this office.
+2. You can have monthly deductions of $538.71 (PSSA) for life and $47.25 (SRBA) for 57 months with a final payment of $22.26. These deductions will be effective January 2005.
+If we do not hear from you within 30 days of the date of this letter, we will assume you have chosen Method 2."
+[6]
+The applicant did not make an election within 30 days and the Sector began monthly deductions from his pension beginning January 2005. The applicant took action with respect to the demand for repayment and challenged the validity of the alleged overpayment. In June 2005, the applicant commenced an action in this Court seeking reimbursement of the monies deducted and damages (Docket T-957-05). That action, through various procedural events, was eventually converted into the application for judicial review which is now before the Court challenging the determination of the sector that the applicant had been overpaid and the decision to seek recovery.
+The Factual Dispute
+[7]
+The approximate date on which the applicant was made aware of the overpayment, though not necessarily dispository, is the subject of dispute. The applicant claims that he was first informed of the overpayment when he received the letter above, despite the fact that according to the Sector, the overpayment was triggered and became effective in August of 2002.
+[8]
+While the applicant disputes the validity of the alleged overpayment, he also alleges that PWGSC deliberately refrained from informing him of the overpayment for over two years for tactical reasons. Through requests for information, the applicant has collected various internal emails within PWGSC which indicate that the Sector and PWGSC were both aware of the overpayment and discussed when the applicant should be informed. No mention of the overpayment was found in the internal emails of the Sector, which had control over the pension and superannuation.
+[9]
+The respondent agrees that the overpayment was triggered in August 2002, at the time of the retroactive reinstatement. The respondent, however, highlights the separation between the Sector, which is responsible for recovering the pension overpayment, and the PWGSC's human resources department, which was responsible for most other aspects of employee compensation. The Sector had no involvement in any of the applicant's previous employment proceedings. The respondent explains that while the Sector may have been aware of the overpayment prior to November 2004, it was not obliged to recover any overpayment until the applicant began receiving his pension again.
+[10]
+The respondent also alleges that as early as August 2003, in a telephone conversation, the applicant was advised of the overpayment. He was advised that while he would be credited with pensionable service for the period January 1999 to August 2002, he would also be required to repay the pension benefits received during that period.
+Issues
+[11]
+The issues are as follows:
+1. What is the standard of review?
+2. Was the Sector's determination that the applicant had been overpaid correct?
+3. Was the Sector's decision to seek recovery made in a fair manner?
+Applicant's Written Submissions
+[12]
+The applicant submits that the decision should be subject to the correctness standard because the decision was made by an unidentified lower level decision maker within the Sector who is not conferred any degree of discretion.
+[13]
+Section 6 of the
+Public Service Superannuation Regulations
+, SOR/93-450 (the
+Regulations
+) refers only to the collection of pension amounts paid "in error". The applicant submits that clearly the pension payments he received during the period January 1999 to August 2002 were not made in error, but were his absolute entitlement as a direct consequence of his age at termination. One can draw the inference that the authors of the legislation never contemplated a situation as in the present case, where an individual who had reached retirement age would be terminated for cause and subsequently reinstated.
+[14]
+The applicant also submits that there is no basis in the legislation for the imposition of life insurance premiums in the monthly deductions.
+[15]
+The applicant further argues that he was denied procedural fairness by the decision of the Sector not to disclose the overpayment to the applicant until after he had resigned from employment and released all claims against PWGSC.
+Respondent's Written Submissions
+[16]
+The respondent agrees that the appropriate standard of review is correctness since the decision involved the application of mandatory statutory requirements, but asserts that the decision was correct. The respondent explains that the
+Public Service Superannuation Act
+, R.S.C. 1985, c. P-36 (the
+PSSA
+) and the
+Regulations
+expressly mandate both the entitlement to pension benefits and the recovery of pension overpayments.
+[17]
+Since the applicant was reinstated to the date of his termination, sections 27 and 30 of the
+Regulations
+deem his employment to have been without interruption during that period. Section 29 of the
+PSSA
+expressly prohibits anyone from receiving both pension benefits and pensionable salary for the same period by terminating any pension payments in the event of re-employment. This prohibition is also consistent with the
+Income Tax Regulations
+, C.R.C. c. 945, paragraph 8503(3)(b) says the respondent. Section 6 of the
+Regulations
+then directs the recovery of any pension amounts paid in error and authorizes the process whereby the payee can elect to repay in a lump sum or by monthly deductions.
+[18]
+The respondent submits that the Sector was simply required to recover the overpayment and did not treat the applicant any differently than any other employee. His reinstatement meant that his previous entitlement to a pension was in error. He was not entitled to an annuity for the period January 1999 to August 2002. He was in fact a contributor during this period.
+[19]
+In regards to the applicant's claim that the Sector deliberately withheld notification, the respondent says that the timing was simply the result of statutory requirements. The applicant, who was represented by counsel throughout the entire labour proceedings, is presumed to know the plain statutory requirements even though that dispute did not address pension entitlement. Pursuant to the
+PSSA
+, the Sector was not entitled to recover the overpayments from the applicant's annuity until that annuity became payable once again.
+Analysis and Decision
+[20]
+Issue 1
+What is the standard of review?
+I agree with the parties. The standard of review for the determination of the overpayment is correctness. Since the applicant's only challenge to the validity of the overpayment is a tentatively raised argument regarding the meaning of the words "in error" in section 6 of the Regulations, the question before the Court can be characterized as a question of law, subject to the correctness standard. Regardless, we are clearly dealing with a question in which the decision maker cannot be shown deference. The decision was the result of following mandatory requirements and was simply a determination of verifiable facts and did not involve any degree of discretion.
+[21]
+With regard to the Sector's decision to seek recovery for the overpayment, the applicant's primary argument is that the timing and overall conduct of the Sector was procedurally unfair. As such, I would review this issue as a matter of procedural fairness. If the duty of fairness is found to have been breached, the decision will be vacated (see
+Richter v. Canada (Minister of Citizenship and Immigration) et al.
+, [2008] F.T.R. Uned. 595; [2009] 1 F.C.R. 675; 73 Imm. L.R. (3d) 131; 2008 FC 806 at paragraph 9, affd. [2009] N.R. Uned. 20; 2009 FCA 73).
+[22]
+Issue 2
+Was the Sector's determination that the applicant had been overpaid correct?
+Subsection 6(1) of the
+Regulations
+provides:
+"6.(1) Where an amount has been paid in error under the Act to any person on account of any annuity or annual allowance, the Minister shall forthwith demand payment from that person of an amount equal to the amount paid in error."
+"6.(1) Si, en vertu de la Loi, un montant a été versé par erreur à une personne en raison d'une pension ou d'une allocation annuelle, le ministre doit, immédiatement, sommer cette personne de payer un montant égal au montant qui a été payé par erreur."
+[23]
+The applicant's assertion is that the pension annuity payments made to him during the period January 1999 to August 2002 were not made in error, because the Sector was obliged to make those payments at the time.
+[24]
+Essentially, the applicant is asserting that the determination of whether payments are made in error for the purposes of section 6, can only be made with reference to the point in time when the payment was made. I do not find sufficient support for this somewhat narrow reading.
+[25]
+The proper approach to statutory interpretation bears repeating. As formulated by Mr. Justice Iacobucci in
+Rizzo & Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1 at paragraph 21, who quoted as follows from Elmer Driedger,
+Construction of Statutes
+, 2nd ed. (Markham, Ontario: Butterworths, 1983):
+"... the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament."
+[26]
+The applicable thrust of this oft-cited passage is that when the words of an enactment are capable of supporting multiple meanings, the meaning most consistent with the scheme or object of the enactment is the correct meaning. Therefore, I would turn to other clues within the Regulations and its enabling statute, the
+PSSA
+, which provide insight into the objective of section 6.
+[27]
+Section 5 of the
+PSSA
+governs required employee contributions to the superannuation account or the Public Service Pension Fund. The section is compressive and detailed but generally, persons employed full time in the public service for a period of six months or greater are contributors for the purposes of the
+PSSA
+.
+[28]
+Section 13 governs when benefits become available to contributors with two or more years of service.
+[29]
+Section 29 clearly implies a prohibition against receiving a pension benefit and a pensionable salary for the same period. Such a prohibition accords with common sense and a fundamental principle of pension schemes generally - periods of contribution and periods of benefit receipt are to be mutually exclusive. It would frustrate that purpose if the words of section 6 were read so narrowly as the applicant suggests.
+[30]
+The applicant does not dispute that for the period January 1999 to August 2002 he received pension benefits and as a result of his retroactive reinstatement, pensionable salary. In retrospect, since the applicant became re-employed immediately after his termination in January 1999, his benefits should have been terminated without delay. Thus, the payments were made in error and the Sector was correct in determining an overpayment resulted.
+[31]
+It does not matter that no mistake was made at the time. In this context, in error has a significantly broader meaning than by mistake. I would not allow judicial review on this ground.
+[32]
+Issue 3
+Was the Sector's decision to seek recovery made in a fair manner?
+The applicant alleges that the Sector deliberately withheld notice of the overpayment in bad faith. While it is clear that the Sector does have some degree of discretion regarding when to notify the payee and demand repayment, the Sector is also restricted by certain provisions. Indeed, the respondent asserts that the Sector simply followed these provisions (see subsection 8(9) of the
+PSSA
+in the Annex to this decision).
+[33]
+Thus, while the Crown reserves the right to any form of recourse, the Minister is only given express authorization to recover monies through deductions from subsequent payments. In the present case, the Sector notified the applicant and made the demand for repayment as soon as the applicant began receiving subsequent payments following his resignation in September 2004.
+[34]
+An official notification to the applicant of the overpayment and his future obligations would have been a courtesy, but I have not found any basis for the legal entitlement to such notification and I am thus not inclined to set aside the decision for the failure to give one.
+[35]
+I would note the overpayment was a simple operation of law that resulted from his retroactive reinstatement. Everyone is presumed to know the law and that presumption is stronger in the present case because the applicant was represented by counsel throughout his labour proceedings and continued to be represented long after the reinstatement decision (see
+FRAGMENT_SUPPRESSED and
+Alexis Nakota Sioux Nation v. Scott et al.
+(2006), 295 F.T.R. 124; 46 Admin. L.R. (4th) 210; 2006 FC 721 at paragraph 24).
+[36]
+As well, there is some evidence that the applicant's attention was specifically drawn to the issue of overpayment. Attached to the affidavit of Karen Trites, a senior policy advisor at the Sector, was a note taken from a telephone call from the applicant and a client inquiry officer on September 3, 2003. The note indicates that the client inquiry officer informed the applicant about the benefits his re-employment would have on his pension, but also about the overpayment. The note also indicates that the applicant said he would speak to his lawyer about the overpayment. I would not allow judicial review on this ground.
+[37]
+At the hearing of this matter, the parties informed me that the life insurance premiums were deducted in error and that the parties would resolve that issue. Consequently, this decision and order do not encompass the claim concerning life insurance.
+[38]
+The application for judicial review is therefore dismissed with costs to the respondent.
+JUDGMENT
+[39]
+IT IS ORDERED that
+the application for judicial review is dismissed with costs to the respondent. This order does not encompass the claim for the return of the life insurance premiums.
+Application dismissed.
+Editor: E. Joanne Oley/ve
+ANNEX
+Relevant Statutory Provisions
+Public Service Superannuation Act
+, R.S.C. 1985, c. P-36
+5.(1) Subsections (1.1) to (1.4) apply to persons employed in the public service, other than
+(a) [Repealed, 1992, c. 46, s. 2]
+(b) an employee who is engaged for a term of six months or less or a seasonal employee, unless he or she has been employed in the public service substantially without interruption for a period of more than six months;
+(c) subject to section 5.2, a person who, immediately before July 4, 1994, was employed in the public service as a part-time employee within the meaning of this Act as it read at that time and who has been so employed substantially without interruption since that time;
+(d) an employee in receipt of a salary computed at an annual rate of less than nine hundred dollars, except any such employee who was a contributor under Part I of the Superannuation Act immediately before January 1, 1954 and has been employed in the public service substantially without interruption since that time;
+(e) persons in positions, as determined by the Governor in Council with effect from July 11, 1966, in the whole or any portion of any board, commission or corporation that has its own pension plan while that pension plan is in force;
+(f) an employee on leave of absence from employment outside the public service who, in respect of his or her current service, continues to contribute to or under any superannuation or pension fund or plan established for the benefit of employees of the person from whose employment he or she is absent;
+(g) an employee whose compensation for the performance of the regular duties of his or her position or office consists of fees of office;
+(h) an employee engaged locally outside Canada; or
+(i) a sessional employee, a postmaster or assistant postmaster in a revenue post office, a person employed as a clerk of works, a member of the staff of Government House who is paid by the Governor General from his or her salary or allowance or an employee of a commission that is appointed under Part I of the Inquiries Act and added to Part I of Schedule I, unless designated by the Minister individually or as a member of a class.
+(j) [Repealed, 1992, c. 46, s. 2]
+(1.1) A person is required to contribute, in respect of every year in the period beginning on January 1, 2000 and ending on December 31, 2003, by reservation from salary or otherwise,
+(a) four per cent of the portion of his or her salary that is less than or equal to the Year's Maximum Pensionable Earnings, as that term is defined in subsection 11(3); and
+(b) seven and one-half per cent of the portion of his or her salary that is greater than the Year's Maximum Pensionable Earnings.
+(1.2) A person is required to contribute, in respect of every portion of the period beginning on January 1, 2004, by reservation from salary or otherwise, at the contribution rates determined by the Treasury Board in respect of that portion on the recommendation of the Minister.
+(1.3) The contributions shall be made to the Superannuation Account for the period beginning on January 1, 2000 and ending on March 31, 2000 and shall be made to the Public Service Pension Fund for the period after that.
+(1.4) In determining the contribution rates for the purposes of subsection (1.2) and paragraphs (3)(b), (3.1)(b) and (4)(b), the rates must not
+(a) exceed by more than four-tenths of one per cent in respect of any portion of salary, whether less than, equal to or more than the Year's Maximum Pensionable Earnings, the previous rate; and
+(b) result in a total amount of contributions that would exceed forty per cent of the current service cost for the portion of the period in respect of the benefits payable under Parts I and III of this Act.
+. . . . .
+8.(9) Where any amount has been paid in error under this Part or Part III on account of any annuity, annual allowance or supplementary benefit, the Minister may retain by way of deduction from any subsequent payment of that annuity, allowance or supplementary benefit, in the manner prescribed by the regulations, an amount equal to the amount paid in error, without prejudice to any other recourse available to Her Majesty with respect to the recovery thereof.
+13.(1) The following provisions are applicable in respect of any contributor who has to the contributor's credit two or more years of pensionable service:
+(a) if the contributor ceases to be employed in the public service, having reached sixty years of age, the contributor is entitled to an immediate annuity;
+. . . . .
+29. The following provisions apply to any person who is entitled, under subsection 12(1) or 13(1) or any regulations made for the purposes of section 24.2, to an annuity or an annual allowance, or who has been granted, as a contributor under Part I of the Superannuation Act, any annual allowance or adjusted annual allowance thereunder:
+(a) if that person is re-employed in the public service and becomes a contributor under this Part, whatever right or claim that he or she may have to the annuity, annual allowance or adjusted annual allowance shall be terminated without delay, but the period of service on which the benefit was based, except any period specified in clause 6(1)(a)(iii)(C) or (E), may be counted by that person as pensionable service for the purposes of subsection 6(1), except that if that person, on ceasing to be so re-employed, exercises his or her option under this Part in favour of a return of contributions, or is not entitled under this Part to any benefit other than a return of contributions, the amount so returned shall not include any amount paid into the Superannuation Account or the Public Service Pension Fund to his or her credit at any time before the time when he or she became re-employed, but whatever right or claim that, but for this paragraph, he or she would have had to the annuity, annual allowance or adjusted annual allowance on ceasing to be so re-employed shall then be restored to him or her; and ...
+5.(1) Les paragraphes (1.1) à (1.4) s'appliquent à toute personne employée dans la fonction publique, à l'exception:
+a) [Abrogé, 1992, ch. 46, art. 2]
+b) d'un employé qui est engagé pour une durée maximale de six mois ou d'un employé saisonnier, à moins qu'il n'ait été employé dans la fonction publique sans interruption sensible pendant une période supérieure à six mois;
+c) sous réserve de l'article 5.2, d'un employé à temps partiel travaillant à ce titre dans la fonction publique la veille du 4 juillet 1994 et dont le service à ce titre au sens de la présente loi - dans sa version à cette date - n'a pas été sensiblement interrompu depuis lors;
+d) d'un employé qui touche un traitement calculé d'après un taux annuel inférieur à neuf cents dollars, à l'exception d'un employé qui était contributeur selon la partie I de la Loi sur la pension de retraite immédiatement avant le 1er janvier 1954 et qui a été employé dans la fonction publique sans interruption sensible depuis cette époque;
+e) des personnes qui occupent des postes, déterminés par le gouverneur en conseil avec effet à compter du 11 juillet 1966, au sein de quelque office, conseil, bureau, commission ou personne morale ou de quelque service de ceux-ci, ayant son propre régime de pension, tant qu'un tel régime de pension est en vigueur;
+f) d'un employé en congé d'un emploi hors de la fonction publique, qui, à l'égard de son service courant, continue de contribuer à un fonds ou régime de pension de retraite ou de pension, ou en vertu d'un tel fonds ou régime, établi au bénéfice des employés de la personne qui lui a accordé un emploi d'où il est absent;
+g) d'un employé dont la rémunération pour l'exercice des fonctions régulières de son poste ou de sa charge consiste en des honoraires;
+h) d'un employé recruté sur place à l'étranger;
+i) d'un employé de session, d'un maître de poste ou d'un maître de poste adjoint dans un bureau de poste à commission, d'une personne employée en qualité de conducteur de travaux, d'un membre du personnel de la Résidence du gouverneur général qui est payé par le gouverneur général sur son traitement ou son indemnité, d'un employé d'une commission qui est nommée selon la partie I de la Loi sur les enquêtes et ajoutée à la partie I de l'annexe I, à moins qu'il ne soit désigné par le ministre, individuellement ou en tant que membre d'une catégorie.
+j) [Abrogé, 1992, ch. 46, art. 2]
+(1.1) Pour chaque année de la période débutant le 1er janvier 2000 et se terminant le 31 décembre 2003, la personne est astreinte à payer, à titre de contribution, par retenue sur son traitement ou d'autre façon:
+a) quatre pour cent de la portion de son traitement qui ne dépasse pas le maximum des gains annuels ouvrant droit à pension, au sens du paragraphe 11(3);
+b) sept et demi pour cent de la portion de son traitement qui dépasse le maximum des gains annuels ouvrant droit à pension.
+(1.2) À compter du 1er janvier 2004 et pour toute partie de la période en cause, la personne est astreinte à payer, par retenue sur son traitement ou d'autre façon, la contribution calculée selon les taux que le Conseil du Trésor détermine sur recommandation du ministre.
+(1.3) Les contributions sont versées au compte de pension de retraite en ce qui touche la période débutant le 1er janvier 2000 et se terminant le 31 mars 2000. Par la suite, elles sont versées à la Caisse de retraite de la fonction publique.
+(1.4) Pour l'application du paragraphe (1.2) et des alinéas (3)b), (3.1)b) et (4)b), les taux de contribution ne peuvent:
+a) être supérieurs au taux précédent de plus de quatre dixièmes pour cent, pour toute portion du traitement, que celle-ci dépasse ou non le maximum des gains annuels ouvrant droit à pension;
+b) porter le total des contributions à plus de quarante pour cent du coût des prestations de service courant, pour la période en cause, relativement aux prestations payables au titre des parties I et III.
+. . . . .
+8(9) Lorsqu'un montant à valoir sur une pension, allocation annuelle ou prestation supplémentaire a été payé par erreur aux termes de la présente partie ou de la partie III, le ministre peut retenir, par déduction sur les versements ultérieurs de cette pension, allocation annuelle ou prestation supplémentaire, de la manière prescrite par les règlements, un montant égal à celui qui a été payé par erreur, sans préjudice de tout autre recours ouvert à Sa Majesté quant au recouvrement de ce montant.
+13.(1) Les dispositions suivantes s'appliquent à l'égard d'un contributeur qui compte à son crédit au moins deux années de service ouvrant droit à pension:
+a) s'il cesse d'être employé dans la fonction publique après avoir atteint l'âge de soixante ans, il a droit de recevoir une pension immédiate;
+. . . . .
+29. Les dispositions suivantes s'appliquent à toute personne qui a droit, en vertu des paragraphes 12(1) ou 13(1) ou des règlements pris en application de l'article 24.2, à une pension ou à une allocation annuelle, ou qui a obtenu, en qualité de contributeur selon la partie I de la Loi sur la pension de retraite, une allocation annuelle ou une allocation annuelle ajustée sous son régime:
+a) lorsqu'elle est de nouveau employée dans la fonction publique et devient un contributeur selon la présente partie, tout droit ou titre qu'elle peut avoir à cette pension, allocation annuelle ou allocation annuelle ajustée, cesse immédiatement, mais la période de service sur laquelle cette prestation reposait - à l'exception de toute pareille période mentionnée aux divisions 6(1)a)(iii)(C) ou (E) - peut être comptée par cette personne comme service ouvrant droit à pension pour l'application du paragraphe 6(1), sauf que, si cette personne, dès qu'elle cesse d'être ainsi employée de nouveau, exerce son option en vertu de la présente partie en faveur d'un remboursement de contributions, ou n'a pas droit, d'après la présente partie, à une prestation autre qu'un remboursement de contributions, le montant ainsi remboursé ne peut comprendre aucun montant payé au compte de pension de retraite ou à la Caisse de retraite de la fonction publique à son crédit en tout temps avant le moment où elle est devenue ainsi employée de nouveau, mais tout droit ou titre que, sans le présent alinéa, cette personne aurait eu à la pension, l'allocation annuelle ou l'allocation annuelle ajustée, en cessant d'être ainsi employée de nouveau, lui est dès lors rendu; ...
+Public Service Superannuation Regulations
+, SOR/93-450
+6.(1) Where an amount has been paid in error under the Act to any person on account of any annuity or annual allowance, the Minister shall forthwith demand payment from that person of an amount equal to the amount paid in error.
+6.(1) Si, en vertu de la Loi, un montant a été versé par erreur à une personne en raison d'une pension ou d'une allocation annuelle, le ministre doit, immédiatement, sommer cette personne de payer un montant égal au montant qui a été payé par erreur.
+[End of document]

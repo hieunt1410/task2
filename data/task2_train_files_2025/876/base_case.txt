@@ -1,0 +1,345 @@
+Introduction
+[1]
+Lemieux, J.
+: The matter before the court is initiated by Services M.L. Marengère Inc. ("Services MLM") pursuant to s. 225.2(8) of the
+Income Tax Act
+, (the "
+Act
+") for a review of an authorization granted by me in Montreal on March 15, 1999, pursuant to s. 225.2(2) of that
+Act
+on the ex parte application of the respondent; the authorization granted permits Revenue Canada to undertake immediate execution procedures for the collection of income taxes assessed or reassessed on March 5, 1999.
+[2]
+In this review, Services MLM advances the following grounds:
+"... there are no reasonable grounds to believe that the collection of any amount assessed would be jeopardized by the delay in collecting the amount. In addition, the material filed in support of the Motion under s. 225.2(2) of the
+Income Tax Act
+, contained significant inaccuracies which induced the court into error."
+The Legislative Scheme
+[3]
+Section 225.2(2) of the
+Act
+is, as noted, the statutory provision under which the March 15, 1999 authorization was made. This paragraph reads as follows:
+"225.2(2)
+Authorization to proceed forthwith.
+Notwithstanding s. 225.1, where, on ex parte application by the Minister, a judge is satisfied
+that there are reasonable grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection of that amount
+, the judge shall, on such terms as the judge considers reasonable in the circumstances, authorize the Minister to take forthwith any of the actions described in ss. 225.1(1)(a) to (g) with respect to the amount." (emphasis mine)
+[4]
+Section 225 of the
+Act
+is headed "Seizure of chattels". Section 225(1) provides where a person has failed to pay an amount as required by the
+Act
+, the Minister may give 30 days' notice to that person of the Minister's intention to direct that the person's goods and chattels be seized and sold and, if the person does not make payment within 30 days, the Minister may issue a certificate of the failure and direct that the person's goods and chattels be seized.
+[5]
+However, the
+Act
+imposes collection restrictions on the Minister. The Minister cannot undertake certain collection action until 90 days after the day of the mailing of a notice of assessment (s. 225.1(1)). Those collection restrictions are:
+(a) commence legal proceedings in a court,
+(b) certify the amount under s. 223,
+(c) require a person to make a payment under s. 224(1),
+(d) require an institution or a person to make a payment under s. 224(1.1),
+(e) require the retention of the amount by way of deduction or set-off under s. 224.1,
+(f) require a person to turn over monies under s. 224.3(1), or
+(g) give a notice, issue a certificate or make a direction under s. 225(1),
+[6]
+Moreover, where a taxpayer has appealed from an assessment of an amount payable under the
+Act
+to the Tax Court of Canada, the Minister cannot take any of the collection actions described in subs. (a) to (g) before the mailing of a copy of the decision of the court to the taxpayer or the day on which the taxpayer discontinues the appeal, whichever is later.
+[7]
+These statutory collection restrictions placed on the Minister can be lifted by order of this court where a judge is satisfied that there are reasonable grounds to believe that the collection of all or any of an amount assessed in respect of a taxpayer would be jeopardized by a delay. That is the purpose of s. 225.2(2) of the
+Act
+quoted above. The March 15, 1999 authorization in this case lifted all of the collection restrictions in subs. (a) to (g).
+[8]
+The purpose of s. 225.2(8), under which this proceeding has been taken, is to enable a judge of this court to review the authorization previously given on an ex parte basis. The scope of that review, from which no appeal lies, is set out in s. 225.2(11) which reads:
+"225.2(11) On an application under subs. (8), the judge shall determine the question summarily and may confirm, set aside or vary the authorization and make such other order as the judge considers appropriate."
+[9]
+The matter proceeded before me on consent, I, through the Registry, having raised with the parties whether they had any concerns because I was the authorizing judge on March 15, 1999. The parties agreed I should conduct the review. The parties did not request a confidential hearing nor were any of the documents filed requested to be sealed.
+Factual Background
+[10]
+At the heart of the factual background are three corporate entities: Services M.L. Marengère Inc., a corporation controlled by Mr. Marengère; Wellgate International Inc., a British Virgin Island corporation with head offices there whose Chairman of the Board is Mr. Marengère ("Wellgate") and the Dominion Bridge Group of Companies (the Dominion Bridge Group), formerly the Cedar Group, which has several components including the parent Dominion Bridge Corporation (DBC), a Delaware holding corporation; Cedar Group Canada Inc. (Cedar Canada), a wholly owned subsidiary of DBC and itself a holding company with interests in four separate units: (1) Cedar Group Australia Pty Limited which owned 63.8% of an operating engineering firm known as McConnell Dowell (McConnell), (2) Dominion Bridge Inc., a Canadian operating company ("DBI"); (3) Steen Contractors Ltd. (Steen), a Canadian company with two subsidiaries, namely, Becker Contractors Ltd. and Les Entreprises Becker Inc.; (4) Davie Industries Inc., a shipyard operator in Quebec ("Davie") with a wholly owned subsidiary M.I.L. Intermodal Inc. Also key to the factual background are the terms of a Settlement and Release Agreement signed in April 1998 when the relationship between Mr. Marengère and companies controlled by him and the Dominion Bridge Group terminated.
+The Material Provided On
+The Ex Parte Application
+[11]
+The material provided by the respondent on the March 15, 1999 ex parte application consisted of two books of documents and the affidavits of Danielle Dazé, Collection Agent for Revenue Canada and Réjean Roberge, Revenue Canada auditor.
+(1) The 1995 Services Agreement
+[12]
+The association of Mr. Marengère with the Dominion Bridge Group began sometime in the early 1990s and was continued as at February 1, 1995 when a Services Agreement was entered into between Cedar Group Inc. (now DBC) and "Michel L. Marengère, an individual resident in the Province of Quebec, or companies controlled by him" (the "Services Agreement"). The basic service to be provided by Mr. Marengère was to act as Chairman and Chief Executive Officer of DBC and all the attendant responsibilities for the Dominion Bridge Group as a whole. The primary location for the performance of the services was Montreal. The term of the agreement was for three years subject to a further three-year renewal clause and renewal occurred.
+[13]
+In terms of compensation, the 1995 Services Agreement provided in clause 3 for the following:
+"(a)
+Base Compensation
+. During the first year of the Term, the Company shall pay Executive an aggregate base compensation of U.S. $360,000 payable in equal monthly instalments of U.S. $30,000, inclusive of any Goods and Services Tax ('GST'). For each annual period after the first year of the date of this Agreement, the Base Compensation shall be adjusted by the Compensation Committee of the Board by an amount as the Company and the Executive may agree upon.
+"(b)
+Bonuses
+. During the Initial Term, Executive will be eligible to receive a cash bonus ('Bonus') in accordance with, and for each period (each, a 'Payment Year') specified in the Corporate Management incentive Plan (the 'Plan'). The payment of a Bonus for each Payment Year during the Initial Term shall be conditioned upon the Company meeting or exceeding the financial results criteria (the 'Targets') as determined by the Board or the Compensation Committee for its senior executives.
+"(c)
+Stock Options
+. Upon execution and delivery of this Agreement by the Company and Executive, Executive shall receive an option to purchase 500,000 shares of Common Stock of the Company. The purchase price for the shares of Common Stock subject to such option shall be U.S. $4.125 per share, or such other price as may be agreed upon in writing by the Company and the Executive. The Executive's options may be transferable to a family trust and are exercisable at any time during the term.
+"(d) As a result of an understanding reached between the Company and the Executive in October, 1993 and in consideration of the Executive agreeing not to receive any compensation during the fiscal year ended September 30, 1994, the Company agrees that upon execution and delivery of this Agreement by the Company and Executive, the Executive shall receive as a bonus 75,000 shares of Common Stock duly registered in the name of the Executive or as the Executive directs at a deemed price of Cdn. $2.25.
+"(e) At any time during twelve months from the date of this agreement, the Executive may acquire an additional up to 75,000 shares of Common Stock at a price of U.S. $3.25 per share along with share purchase warrants entitling the Executive to purchase up to a further 75,000 shares of Common Stock at a price of U.S. $3.75 until March 31, 1995 and U.S. $4 at any time after March 31, 1995 and up to September 30, 1996."
+(2) The Credit Agreements
+[14]
+The record indicates a number of critical events related to the refinancing of the Dominion Bridge Group. Two of these documents were included in the respondent's book of documents. They are:
+(1) A Credit Agreement dated September 26, 1997 between BNY Financial Canada as lead lender and others and Cedar Canada, as borrower, with its four business units as guarantors. The credit provided to Cedar Canada was a revolving line of credit of up to $40 million, the proceeds of which would be used to repay certain indebtedness of Cedar Canada to BT Commercial Corporation, to finance the working capital requirements of Cedar Canada, and DBI, Steen and Davie in the ordinary course of business and to pay fees and expenses incurred in connection with the transaction.
+(2) A Credit Agreement, dated as of April 6, 1998, between Lamar Investments Inc. and Wellgate International Ltd. as lenders and Cedar Group as borrower, its four business units as subsidiary guarantors. The first recital of this agreement reads:
+A. The Borrower has requested that the Lenders make available to the Borrower credit accommodations in an aggregate principal amount at any one time outstanding not to exceed $14,800,000, the proceeds of which will be used to finance the payments owing to Wellgate under the Settlement, Release and Discharge Agreements between the Parent and Messrs. Marengere, Matossian and Amyot, (the "Settlement Obligations"), to repay certain outstanding tax obligations owed to Revenue Canada and to finance working capital requirements of the Borrower and DBI, Steen and Davie in the ordinary course of business and to pay fees and expenses incurred in connection herewith.
+(3) The Settlement And Release Agreement
+[15]
+The respondent's book of documents included this agreement entered into as of April 28, 1998 "by and among MICHEL L. MARENGERE, ('Mr. Marengere'), a resident of Quebec, Canada, SERVICES M.L. MARENGERE INC., a Canadian services corporation, which Mr. Marengere controls ('Services MLM'), and DOMINION BRIDGE CORPORATION, a Delaware corporation (the 'Corporation')".
+[16]
+The first recital of the Settlement Agreement reads:
+"WHEREAS, Mr. Marengere is Chairman of the Board of Directors, Chief Executive Officer and Director of the Corporation and also serves as an officer and/or a director of a number of subsidiaries of the Corporation, whose services are provided by Services MLM pursuant to the Services Agreement ..."
+The third recital of the Settlement Agreement reads:
+"WHEREAS, Marengere and Services MLM claim indemnification from the Corporation for extra-contractual damages for the libel and defamation of Services MLM and for attacks to ..."
+[17]
+The key provision in the Settlement Agreement reads as follows:
+"3. The Corporation agrees to pay Services MLM or its assignees for the said termination and the extra contractual damages, the sum of Two Million Seven Hundred Thousand Dollars ($2,700,000). These payments will be made by delivery at the time of execution of this Agreement to Pouliot Mercure as trustee for Wellgate International, Ltd. ('Wellgate') of the Corporation's 11.5% Convertible Note (the 'Note') in the principal amount of Four Million Eight Hundred Thousand Dollars ($4,800,000), in which Services MLM will have a beneficial interest equal to $2,700,000. The Note is convertible into shares of Common Stock, $.001 par value per share, of the Corporation at the conversion rate of $2.60 per share. A copy of the Note is attached hereto as Exhibit B."
+[18]
+The Settlement Agreement further provided that as an inducement to Services MLM to accept the Note, Dominion Bridge would issue a common stock purchase warrant to purchase 333,708 shares of common stock at $.001 par value per share of the Corporation at $3 per share for a three year period commencing on April 28, 1998 in which Services MLM will have a beneficial interest to purchase 187,711 shares.
+[19]
+In fact, on April 28, 1999, Michel Marengère personally and Services MLM "a Canadian services corporation, which Mr. Marengère controls" transferred and assigned as assignors to Wellgate as assignee their contractual and economic benefit that is the debt owed them by DBC under the Settlement and Release Agreement. The assignment instrument had other partners as assignors, namely, Nicolas V. Matossian, personally and Greyhorse Resources (Canada) Ltd. ("Greyhorse") "a Canadian services corporation which Mr. Matossian controls" and René Amyot.
+[20]
+Mr. Marengère and Mr. Matossian signed as officers of Wellgate accepting as assignee the transfer and assignment. The assignment document said that in consideration for the assignment and transfer, Wellgate "hereby issues a convertible promissory note to the Assignors in the principal amount of U.S. $4,800,000." It is noted that the assignment agreement said the assignors are the controlling shareholders, directors and officers of Wellgate.
+[21]
+The Settlement Agreement refers to other agreements in a closing memorandum dated as of April 21, 1998 which is exhibit "A" to the Settlement Agreement. The documentation which was provided by the respondent to the court on March 15, 1999 did not include exhibit "A"; nor did it provide a copy of the Note issued by DBC referred to as exhibit "B".
+(4) Documents Related To The Bankruptcy And Insolvency Act
+[22]
+The next series of documents relate to proceedings under the
+Bankruptcy and Insolvency Act
+("
+BIA
+") by Cedar Canada and certain of its Canadian business units. On October 26, 1998, Wellgate, as a secured creditor, petitioned the Quebec Superior Court (Bankruptcy and Insolvency Division) in the matter of Cedar Canada's proposal under the
+BIA
+. The purpose of this Petition was to allow the sale of the McConnell shares "the most significant asset and value owned by Cedar Canada". Wellgate's Petition was signed by Mr. Marengère as "duly authorized representative of Wellgate International Ltd.". Wellgate's Petition said Wellgate, under the Credit Agreement of April 6, 1998, made available to Cedar Canada a loan in the amount of U.S. $4,800,000 which was secured by a specific charge on the McConnell shares. The Petition also said "the debt due to Petitioner by the Debtor was born as a result of a comprehensive transaction whereby the economic interests of the former management of the Dominion Bridge Group was purchased by investors from the United States of American controlled by Deere Park Equities LLC of Chicago".
+[23]
+The respondent's motion record also evidences a number of other documents filed in various bankruptcy proceedings related to Cedar Canada, DBI and Steen.
+[24]
+On February 17, 1999, the Quebec Superior Court authorized Richter and Associates Inc. to sell the McConnell shares for $84,000,000 (Australian funds), to receive that sale price and to deposit the net sale price in a trust account in a Canadian chartered bank to be dealt with in accordance with the applicable provisions of the
+Civil Code
+of Quebec and the
+Civil Code of Procedure
+relating to relocation.
+(5) The Affidavit Of Danielle Dazé
+[25]
+Danielle Dazé deposed an affidavit dated March 12, 1999, which said this at paragraph 23:
+"23. Lors d'un entretien téléphonique qui a eu lieu le 10 mars 1999, Me Martin Boily-Côté, de Richter & Associés, m'a confirmé que la vente des actions se faisait lundi le 15 mars 1999 et que la distribution des montants aux différents créanciers de Cedar Group Canada se ferait dans les plus brefs délais;"
+(a) The Reassessments And The 1998 Assessment
+[26]
+In her affidavit of March 12, 1999, Ms. Dazé identified the documents noted, described the corporate interrelationship, referred to the affidavit of Réjean Roberge as to the tax assessments or reassessments for taxation years 1995 through 1998 and outlined Revenue Canada's view of Services MLM's potential tax liability measured against the assets of that company as disclosed in the financial statements of Services MLM and, in particular, the financial statements as at September 30, 1997.
+[27]
+Ms. Dazé said in July 1998, Revenue Canada obtained financial disclosure information provided to the annual meeting of DBC shareholders to be held on March 30, 1998. That material disclosed the compensation paid to senior management. It indicated Mr. Marengère was in receipt of bonuses and exercised stock options for the years 1995 and 1996. Revenue Canada compared this information with T-2 filed by Services MLM. Ms. Dazé stated in her affidavit that Services MLM had failed to declare revenues in the order of $1,483,074 for the years 1995, 1996 and 1997.
+[28]
+Ms. Dazé, in her affidavit, referred to a letter dated January 19, 1999, sent by Réjean Roberge to Mr. Marengère in order to obtain information in the context of an audit of Services MLM. It asked for a reply by February 10, 1999. In that letter of January 19, 1999, Revenue Canada asked for certain information flowing out of the financial statements of Services MLM as at September 30, 1997 including the buildings owned by it, details of its revenues and the persons whom they were paid to. Other information was sought.
+[29]
+Ms. Dazé adds:
+"26. Au sujet de la lettre qui fut envoyée le 19 janvier 1999 par Monsieur Réjean Roberge
+le 10 mars 1999
+, Monsieur Jacques Pontbriand, s'est identifié comme étant le représentant de Services M.L. Marengère Inc., et a laissé un message sur la boîte vocale de Monsieur Roberge à l'effet qu'il demandait une extension de délai pour produire les documents demandés."
+[30]
+On March 5, 1999, Ms. Dazé tells the Court Revenue Canada issued revised assessments to Services MLM adding additional income of $538,660 for taxation year 1995, additional revenue of $161,716 for taxation 1996 and additional income of $782,698 for taxation year 1997.
+[31]
+As a result of these reassessments for these three taxation years, Revenue Canada calculated income tax, penalties and interest of $881,848.23.
+[32]
+In addition to the reassessments for taxation years 1995, 1996 and 1997 and, notwithstanding that Services MLM was not required to file its income tax return for financial year 1998 before March 31, 1999, Revenue Canada issued an assessment for taxation year 1998 since the assessment was five times greater than the amounts assessed before and because Wellgate, for the benefit of Services MLM, was to soon receive from Richter and Associates the sum of $2,700,000. For 1998, Revenue Canada assessed Services MLM taxes of $1,147,689.67.
+(b) Services MLM's Assets
+[33]
+Ms. Dazé, in her affidavit, then turned to the assets of Services MLM as at September 30, 1997. In terms of assets, that financial statement disclosed short term assets of $477,000 (mainly consisting of loans and advances to affiliated companies); investments in Gestion Soprumar of approximately $129,000 and real estate totalling $284,511. In terms of liabilities, Services MLM listed short term liabilities of $652,000.
+[34]
+Ms. Dazé, in her affidavit, of March 12, 1999, said this:
+"30. Cependant, à ce jour, aucun actif indiqué audit bilan n'a pu être identifié et même à la demande de M. Réjean Roberge, par lettre datée du 19 janvier 1999 ..., Monsieur Marengère n'a toujours pas donné suite aux renseignements demandés relativement au prêt à recevoir de sociétés affiliées au montant de 156 000 $."
+[35]
+Ms. Dazé summarized the grounds upon which Revenue Canada was seeking authority for immediate execution. She outlined two main grounds:
+(1) First, Ms. Dazé cites the undeclared income of $1,483,074 for taxation years 1995, 1996 and 1997 and income in the order of $3,941,242 to be declared by Services MLM for fiscal year 1998;
+(2) Second, Ms. Dazé mentions the amounts to be received imminently by Wellgate for the benefit of Services MLM. In this connection, Ms. Dazé said that $2,700,000, according to the Settlement Agreement, is payable to Services MLM but pursuant to that agreement, this amount is to be paid to Wellgate, an offshore corporation having no address and having no assets in Canada. Ms. Dazé said that Revenue Canada feared not being able to put its hands on the U.S. $2,700,000 once paid to Wellgate "alors que n'ayant aucune activité, actif ou lieu d'affaires au Canada, vraisemblablement la somme sera transférée aux Îles Vierges, un paradis fiscal et un lieu qui est hors d'atteinte du Ministère".
+(3) Ms. Dazé, as a last point, said that Services MLM was already indebted to Revenue Canada in the amount of $21,668 for fiscal year 1997.
+The Review Proceedings
+[36]
+Services MLM asks the court to set aside the authorization for immediate collection of the amounts assessed. The execution took the form of requirements to pay issued by Revenue Canada to two law firms on March 15, 1999. The name of the tax debtor was "Services M.L. Marengère et/ou Wellgate International Ltd.".
+[37]
+As noted, Services MLM asserts as grounds for review that "there are no reasonable grounds to believe that the collection of any amount assessed would be jeopardized by the delay in collecting the amount. In addition, the material filed in support of the Motion contained significant inaccuracies which induced the court into error".
+[38]
+Services MLM provided its evidence through the affidavit of Michel L. Marengère, two further supplementary affidavits of Michel L. Marengère the affidavit of Robert Chartier, accountant for Services MLM, Le Groupe Fidutech International Inc. (Fidutech) and Groupe Fiducorp Inc. (Fiducorp) and the affidavit of Jacques Pontbriand also a chartered accountant. Nicolas Matossian also provided an affidavit. The respondent filed responding affidavits from Danielle Dazé, Josée Vigeant, Audit Unit Head in Montreal for the respondent, and Réjean Roberge. In addition, there were cross-examinations on the affidavits and further document production on undertakings given.
+[39]
+I set out, in summary form, the evidence of Services MLM (the "taxpayer") and the response from Revenue Canada. I note here that Services MLM filed Notices of Objections with Revenue Canada on March 29, 1999 to each of the assessment or reassessments issued by Revenue Canada for taxation years 1995 through 1998. The basis for those objections were the following:
+"The assessments are incorrect in that they unjustifiably accelerate the receipt of income, fail to take into account that some income was earned by other taxpayers, fail to reduce the gross receipts by consumption taxes and generally charge tax on income which has not been earned by the taxpayer.
+"In addition, the assessments treat the taxpayer as a personal services business which is incorrect as the taxpayer was an independant contractor.
+"Finally, penalties are levied although these are unjustified as the taxpayer declared all of its income in each of the years.
+"The assessments are unfounded in fact and in law and should be cancelled."
+(i) The 1995 Taxation Year
+[40]
+Taxpayer says Revenue Canada got it wrong when it added $538,660 to its income; there was no undeclared income earned by the taxpayer in 1995 because:
+(1) In terms of compensation for past services in the form of 75,000 shares pursuant to paragraph 3(1)(d) of the Services Agreement, these shares were not issued until after 1996, were subject to a one-year hold according to
+S.E.C.
+Regulations
+and had no value during the hold period or after the year had expired;
+(2) Revenue Canada failed to reduce the remuneration received by the taxpayer by the amount of GST and PST applicable to the payments; and
+(3) The balance of income was reported in accordance to its receipt by Services MLM or Fidutech who provided services under the Services Agreement from time to time.
+[41]
+The respondent counters in the following ways:
+(1) Taxpayer's basis for reporting its income is faulty: taxpayer reports income on a receipt basis; taxpayer should report income on amounts earned;
+(2) The 75,000 shares were payable from February 1, 1995.
+[42]
+As to Fidutech, a company affiliated with the taxpayer, this Company had not filed its 1995 returns (due March 31, 1996) until March 24, 1999, that is, after revised assessments and the 1998 assessment had been issued on March 5, 1999 and after the collection authorization had been given by this court. Moreover, Revenue Canada adds that the Settlement Agreement is clear in stating that all of the services performed to the Dominion Bridge Group were rendered by Services MLM.
+(ii) 1996 Taxation Year
+[43]
+Taxpayer challenges Revenue Canada's adding $161,716 as undeclared income for this taxation year. Services MLM says that Revenue Canada's calculations are based on the assumption that it received all of the base compensation under the Services Agreement and that no GST or PST was paid. Taxpayer says it paid $60,318 of GST and PST with the remaining amount reported by the taxpayer's tax return as well as Fidutech who declared $101,176 of income.
+[44]
+Revenue Canada, in its reply affidavits, reiterates the taxpayer's faulty basis in reporting income; notes again that Fidutech only filed its 1996 return (due March 31, 1997) on March 24, 1999. Revenue Canada again points to the Settlement Agreement as evidence that all of the services performed under the Services Agreement to the Dominion Bridge Group were rendered by Services MLM In addition, Revenue Canada says it has not been shown that GST and PST were paid and, in any event, it is improper for Fidutech to attribute to itself income belonging to Services MLM.
+(iii) 1997 Taxation Year
+[45]
+Taxpayer says Revenue Canada got it wrong again in adding undeclared income for this taxation year, the main form of which are represented by 1995 and 1996 bonuses paid in January 1997 as well as 1997 bonus. Taxpayer says these bonuses are not subject to GST and PST. The 1995 and 1996 bonuses were paid to and were declared by a non-registrant (Groupe Fiducorp Inc.) which also provided services under the Services Agreement. In terms of the 1997 bonus, this amount is to be reported on a timely basis in the taxpayer's 1998 fiscal year because this bonus was approved only after the end of the taxpayer's 1997 fiscal year.
+[46]
+Revenue Canada answers these allegations in much the same way as in respect to previous taxation years, namely, wrong basis for reporting (cash versus earned basis), the filing by Fiducorp of its 1997 tax return only on March 24, 1999, non-demonstration by the taxpayer that it paid GST and PST on its base compensation and the Settlement Agreement relating to the performance of all services by the taxpayer. In addition, Revenue Canada adds that Fiducorp's income declaration is $53,246 less than the authorized bonuses for 1995 and 1996. In terms of the 1997 bonus, Revenue Canada states it has not been shown that this bonus was not authorized until after the end of the taxation year. Moreover, Revenue Canada adds that corporate documents provide for minimum annual bonuses each year of 50% of the base compensation.
+(iv) 1998 Taxation Year
+[47]
+This was the taxation year in which Revenue Canada issued an assessment notwithstanding that the taxpayer was only obligated to file its returns by March 31, 1999. Revenue Canada assessed income to the taxpayer of $4,121,242 made up of base compensation, bonus and settlement proceeds of $3,693,600 allowing deductible expenses of $200,000. Taxpayer says Revenue Canada has assumed all amounts payable under the Settlement were paid in 1998, that Services MLM was to be the recipient of all amounts and that the amounts represented income to the taxpayer. Services MLM says that none of these assumptions are correct for the following reasons:
+(1) The bonus figure is wrong because the Executive under the Services Agreement did not receive 50% of U.S. $210,000 but instead received U.S. $90,000 as a bonus between October 1997 and April 1998.
+(2) The base calculation will be reported by the taxpayer or would have been had Revenue Canada afforded the taxpayer the chance to file the return in the normal course.
+(3) Relating to reporting income of the Settlement proceeds, Services MLM states these amounts were not reportable before its fiscal year 2000 because the promissory note (the Wellgate note), pursuant to which the proceeds are to be paid, matured in October, 1999. Moreover, a substantial portion of the amounts payable under the Settlement Agreement are payable in respect of damages which are to be received by Michel Marengère personally and are not subject to tax.
+[48]
+Revenue Canada counters stating all amounts it calculated as the taxpayer's income were earned by the taxpayer in 1998. Revenue Canada repeats its basic position that Services MLM must report not on a cash basis but on the basis of amounts earned. Specifically, Revenue Canada says the Settlement proceeds were earned during fiscal year 1998 and is to be received in fiscal year 1998. Revenue Canada asserts the same position with respect to the bonus. Revenue Canada adds that Services MLM, for fiscal year 1998, has only made one instalment payment represented by an $8,000 cheque dated April 15, 1999.
+(v) Wellgate And The Settlement Proceeds
+[49]
+In his affidavit, Michel Marengère attacked Revenue Canada's understanding of the structure of the Settlement and Wellgate's role in it. He asserts Revenue Canada, and Danielle Dazé in her affidavit in particular, make several basic errors.
+[50]
+Mr. Marengère says this at paragraph 25 of his main affidavit:
+"25. As part of the Settlement Agreement, it was contemplated that the settlement proceeds would be returned as a loan to Dominion Bridge Group. As a result, it was agreed that the promise of payment take the form of an 18-month term loan evidence by a promissory note to be issued or assigned to Wellgate International Ltd., which would be subject to the Credit Agreement ... This manner of 'payment' is set out at paragraph 3 of the Settlement Agreement. It was further contemplated that the payment would be lent back to Dominion Bridge Group by means of the promissory note the whole as appears from the Credit Agreement produced as exhibit 'E' to the Dazé affidavit. I note that the Credit Agreement produced by Mme Dazé as exhibit 'E' does not include exhibit 'B' thereto. Attached as exhibit 'F' to this my affidavit is a copy of exhibit 'B' which should have been attached to Mrs. Dazé's version of the Credit Agreement. This document will hereinafter be referred to as the 'Wellgate note'."
+[51]
+Paragraphs 29 through 33 of Mr. Marengère's affidavit are headed
+The Credit Agreement — Errors in the Dazé affidavit
+. For sake of completeness, I quote these paragraphs in their entirety:
+"29. The purposes of the Credit Agreement appear at paragraph 4.9 thereof. The Dazé affidavit, at paragraph 10, incorrectly states that the Credit Agreement was signed 'afin de rendre disponible à l'emprunteur une somme totalisant 14 800 000 $ U.S. pour financer le paiement des sommes dues à Wellgate International en vertu d'une entente de règlement, de quittance et de libération (Settlement Agreement)'.
+"30. Another error occurs in paragraph 11 of the Dazé affidavit, where she assumes that the only company providing services under the Services Agreement is the Petitioner. Mr. Roberge appears to make the same mistaken assumption. The Settlement Agreement clearly refers to other corporations, namely, Fidutech International, Inc. and Fidutech Technologies, Inc., and in any event, the Services Agreement does not limit the number of companies which may provide the services which are promised.
+"31. Paragraph 12 of the Dazé affidavit is also incorrect. By its terms, paragraph 3 of the Settlement Agreement calls for the delivery of a note and not for payment of a sum of money to the firm Pouliot, Mercure. The note is to be in the face amount of $4.8 million U.S. maturing October, 1999, (the whole as more fully appears from exhibit 'E' to the Dazé affidavit which appears to have escaped the attention of Mr. Roberge), in which I and the petitioner share a beneficial interest to the extent of $2.7 million U.S.
+"32. As a result of the Credit Agreement and the delivery of the note, Wellgate International Ltd. became a secured creditor of Dominion Bridge Corp. and its subsidiaries, including Cedar Group Canada Inc.
+"33. As a result of the April 28, 1998 comprehensive transaction, I together with a number of other senior executives had resigned all positions in the Dominion Group. We had no subsequent involvement in the operations of the Dominion Group."
+[52]
+The cross-examination of Michel Marengère revealed the circumstances which led to the formation of Wellgate on June 16, 1997. As I appreciate the evidence, Wellgate was the umbrella recommended by U.S. lawyers and accountants under which senior management of the Dominion Bridge Group would inject working capital in Cedar Canada by exercising share options which they held in DBC. This financial participation took place in tandem with the BNY financing already noted. Financing for the purchase of the option came from Deere Park Equities, ("Deere Park") of Chicago, Illinois, through Dominion Park, a limited liability partnership in which Wellgate was partnered with Deere Park. The transaction was a wrap around one with loans made by Deere Park to Dominion Park with the shares of management put up as collateral security for the loans. Michel Marengère participated in Wellgate as did a number of other executives including Nicolas Matossian and Mr. Amyot.
+[53]
+Revenue Canada responds to Mr. Marengère by pointing out that what was contemplated in the Credit Agreement did not happen because there was no loan from Wellgate to Dominion Bridge Corporation in the amount of U.S. $4.8 million a fact which was admitted by Mr. Marengère in cross-examination on his affidavit in these proceedings. Revenue Canada adds that the payment of the settlement proceeds took the form of a promissory note issued by DBC to Wellgate (pursuant to an assignment executed by Mr. Marengère and Services L.M.L. to Wellgate) payable in October of 1999 which, because of the acceleration provision, became payable when Cedar Canada and some of its members filed proposals or went into bankruptcy under the
+BIA
+. Moreover, Revenue Canada points out that Mr. Marengère himself acknowledged in paragraph 45 of his affidavit in these proceedings that Wellgate "will receive the funds in part as assignee for the beneficial owners thereof, that is myself and the Petitioner to the extent of $2.7 million U.S." adding in that same paragraph "the fact that sums are payable to Wellgate International Inc. and that Wellgate International Inc. is an offshore company is of no great relevance" because it was a "matter of public record notably from S.E.C. filings made on a timely basis since August 1997 that Wellgate has been in existence and has been involved in the financing of the Dominion Bridge Group".
+(vi) Services MLM's Outstanding Taxes
+[54]
+Taxpayer admits having a tax balance owing of $21,688 as at January 11, 1999. Mr. Marengère says "if Mme Dazé had any concern for the truth, she would have learned that the Petitioner had already made arrangements for payment of the balance and that Revenue Canada has cashed a cheque dated February 15, 1999 for $7,500 and held a cheque dated March 15, 1999 for $7,775 and a cheque dated April 15, 1999 for $8,000". Mme Dazé, in her affidavit, admits this is true but says:
+(1) These cheques were sent to Revenue Canada without any communication and were only registered in Revenue Canada's computer system since February 18, 1999;
+(2) The first cheque was dated February 15, 1999;
+(3) Taxpayer is in default making instalment payments for each of the taxation years at issue.
+(vii) Services MLM's Balance Sheet
+[55]
+Taxpayer attacks paragraphs 29 and 31 of Ms. Dazé's March 12, 1999 affidavit in support of the ex parte authorization. Taxpayer says "even a summary investigation would have revealed that the assets of the Petitioner have been depreciate [sic] to well below their cost. Revenue Canada has prior year's returns for the Petitioner and could have looked at the depreciation claim ... In fact, in the context of my review of the Roberge affidavit, it will become clear that Revenue Canada has done no serious investigation of the Petitioner's tax liability or capacity to pay but has acted precipitously to seize an amount without justification".
+[56]
+In response, Ms. Dazé denied Mr. Marengère's claims and repeated as to the truth of the statements she made in her original affidavit.
+[57]
+Mr. Marengère was also cross-examined on the assets and liabilities of Services MLM which was incorporated on May 26, 1976, after the effective date of the coming into force of the Services Agreement on February 1, 1995. In terms of assets, Mr. Marengère confirmed as at September 30, 1997, that the amount of $156,000 represented loans from Services MLM to affiliated companies, investments of $128,875 were made in Gestion Soprumar Inc., an affiliate, which it appears was the owner of a residence at Nun's Island used by Services MLM to accommodate businesspersons dealing with Dominion Bridge Group and real estate of $284,511 which included a property in Montreal which had no value and a condominium in Florida.
+[58]
+In paragraph 46 of his affidavit, Mr. Marengère said "there is no reason to suppose that the existence of Wellgate International will prevent the Petitioner from meeting its tax obligations". To this, Ms. Dazé says that Services MLM does not have sufficient assets to pay the assessments issued by Revenue Canada and that Wellgate International Inc. "agit comme prête nom pour Services MLM Marengère Inc.". She reiterates that Wellgate does not operate in Canada and has no assets here.
+(viii) Other issues
+[59]
+The taxpayer raised the following other issues:
+(a) Revenue Canada acted precipitously: Services MLM accountants were preparing a written reply to Mr. Roberge's letter of January 19, 1999 and Mr. Marengère says he believed that all matters raised by Revenue Canada were being discussed between professionals in the normal course;
+(b) Mr. Marengère points to his cooperation and that of his lawyers in providing information to Revenue Canada related to personal director liability for amounts owed by various subsidiaries of Cedar Canada;
+(c) Mr. Marengère focusses on Mr. Roberge's January 19, 1999 letter. He said this letter was only received by him after the deadline date for reply because he was hospitalized in Florida and Mr. Roberge did not return phone calls from the taxpayer's accountant. Furthermore, Mr. Marengère says Mr. Roberge's letter was not explicit in that if one of the issues concerning Revenue Canada was undeclared income, Revenue Canada should have said so. If time was of the essence, this should have been identified by Revenue Canada;
+(d) Mr. Marengère says Revenue Canada's collection efforts were abusive. He mentions that a former officer of the Dominion Bridge Group collaborated with Revenue Canada in "helping Revenue Canada build its case against the Petitioner". Mr. Marengère says this individual was not trustworthy and is the subject of a criminal investigation.
+(e) Mr. Marengère says the administrative seizures were illegal and excessive in that Revenue Canada had no justification for naming Wellgate as a "tax debtor" and if it had been the intention of Revenue Canada to do so, this should have been disclosed and explained to the court in the respondent's record. He adds that Wellgate is not even made a party to the proceedings by Revenue Canada;
+(f) He says that on March 22, 1999, he was advised by his lawyer and believed that Justice Canada had indicated that because the administrative garnishments were in place, no further proceedings were presently envisaged by Revenue Canada. However, Mr. Marengère indicates that a further administrative proceeding did take place on March 24, 1999 when Ms. Dazé presented herself at Place Ville Marie Branch of the Royal Bank of Canada and required the immediate production of a large number of documents;
+(g) He says the treatment he received from Revenue Canada is to be contrasted with the treatment Nicolas Matossian's company, Greyhorse Resources Canada Ltd. ("Greyhorse) received. Mr. Marengère says Greyhorse had an opportunity to reply to an equivalent Revenue Canada letter dated January 19, 1999 from Mr. Roberge and "has thus been spared the onslaught of Revenue Canada based on the production of misinformation to the Federal Court";
+(h) Lastly, Mr. Marengère mentions that Ms. Dazé is a Collection Agent with Revenue Canada and an Inspector in the bankruptcies of Steen and DBI.
+[60]
+The respondent's affiants addressed each of these issues in their reply affidavits. In particular; Ms. Dazé denies receiving any assistance from a former Dominion Bridge Group officer and denies being an Inspector in the bankruptcy of Steen Contractors and in the proposals made by Cedar Canada and its subsidiaries. Ms. Dazé says that Mr. Marengère's "history is one of cooperating with Revenue Canada" and must be placed into perspective. She says that Services MLM, Fidutech and Fiducorp are often delinquent in the production of their income tax returns. She denies that there was anything improper with the request for documentation made to the Royal Bank and that she herself did not carry them out.
+[61]
+As noted, Mr. Roberge also filed a reply affidavit on behalf of the respondent which, in part, touched upon some of the "other issues". Mr. Roberge said that Mr. Marengère met with his accountant (Mr. Pontbriand) on February 9th which was the day before the reply deadline indicated in his letter of January 19, 1999. Mr. Roberge notes that it was not until March 10, 1999, at the end of the day, that Mr. Pontbriand left him, for the first time, a voice mail message asking for an extension of time and he notes that, at that date, the notices of reassessment and the 1998 assessment had been issued.
+Analysis
+[62]
+The current jeopardy collection provisions in the
+Income Tax Act
+were introduced in 1988 and are a refinement to what previously existed in that the authorization and supervision of this court is provided for. The legal principles applicable to a s. 225.2(8) review of an ex parte jeopardy order are clearly established by this court as illustrated in
+FRAGMENT_SUPPRESSED
+1853-9049 Québec Inc. v. Minister of National Revenue
+, [1987] 1 C.T.C. 137; 9 F.T.R. 63 (T.D.),
+Minister of National Revenue v. Satellite Earth Station Technology Inc.
+, [1989] 2 C.T.C. 291; 30 F.T.R. 94 (T.D.) and
+Minister of National Revenue v. Duncan
+, [1992] 1 F.C. 713; 47 F.T.R. 220 (T.D.).
+[63]
+From this jurisprudence, I take the following principles:
+(1) The perspective of the jeopardy collection provision goes to the matter of collection jeopardy by reason of delay normally attributable to the appeal process. The wording of the provision indicates that it is necessary to show that because of the passage of time involved in an appeal, the taxpayer would become less able to pay the amount assessed. In other words, the issue is not whether the collection per se is in jeopardy but rather whether the actual jeopardy arises from the likely delay in the collection.
+(2) In terms of burden, an applicant under s. 225.2(8) has the initial burden to show that there are reasonable grounds to doubt that the test required by s. 225.2(2) has been met, that is, the collection of all or any part of the amounts assessed would be jeopardized by the delay in the collection. However, the ultimate burden is on the Crown to justify the jeopardy collection order granted on an ex parte basis.
+(3) The evidence must show, on a balance of probability, that it is more likely than not that collection would be jeopardized by delay. The test is not whether the evidence shows beyond all reasonable doubt that the time allowed to the taxpayer would jeopardize the Minister's debt.
+(4) The Minister may certainly act not only in cases of fraud or situations amounting to fraud, but also in cases where the taxpayer may waste, liquidate or otherwise transfer his property to escape the tax authorities: in short, to meet any situation in which the taxpayer's assets may vanish in thin air because of the passage of time. However, the mere suspicion or concern that delay may jeopardize collection is not sufficient per se. As Rouleau, J., put it in
+1853-9049 Quebec Inc.
+, supra, the question is whether the Minister had reasonable grounds for believing that the taxpayer would waste, liquidate or otherwise transfer its assets, so jeopardizing the Minister's debt. What the Minister has to show is whether the taxpayer's assets can be liquidated in the meantime or be seized by other creditors and so not available to him.
+(5) An ex parte collection order is an extraordinary remedy. Revenue Canada must exercise utmost good faith and insure full and frank disclosure. On this point, Joyal, J., in
+Laframboise v. Canada
+, [1986] 3 F.C. 521; 5 F.T.R. 161 (T.D.), at 528 [F.C.] said this:
+"The taxpayer's counsel might have an arguable point were the evidence before me limited exclusively to that particular affidavit. As Counsel for the Crown reminded me, however, I am entitled to look at all the evidence contained in the other affidavits. These affidavits might also be submitted to theological dissection by anyone who is dialectically inclined but I find on the whole that those essential elements in these affidavits and in the evidence which they contain pass the well-known tests and are sufficiently demonstrated to justify the Minister's action."
+In
+Duncan
+, supra, Jerome, A.C.J., after quoting Joyal, J., in
+Laframboise
+, supra, viewed the level of disclosure required by the Minister as one of adequate (reasonable) disclosure.
+Application Of These Principles To
+The Case At Hand And Conclusions
+[64]
+I address a preliminary point and that is the correctness of the assessments. The issue of the correctness of the assessments is one which will be resolved in another forum. Sharlow, J., as she then was, made this clear in
+Minister of National Revenue v. MacIver
+(1999), 172 F.T.R. 273 (T.D.). My colleague said at paragraph 7 of her reasons for order:
+"[7] The tax dispute will be resolved in another forum. It is beyond my jurisdiction to consider whether or not the assessments are correct. For present purposes, I am bound by s. 152(8), which deems the assessments to be valid unless and until they are varied on objection or appeal."
+[65]
+The approach to be followed for the resolution of this matter was stated by Marceau, J.A., in
+Minister of National Revenue v. Golbeck et al.
+(1990), 90 D.T.C. 6575 (F.C.A.), in the following terms at page 6576:
+"It is clear to us that the learned trial judge failed to put his mind to the only question that he had to consider ... . The question was whether, on the basis of the material put before the court, it appeared that the Minister had reasonable grounds for believing that the taxpayer would waste, liquidate or otherwise transfer his assets so as to become less able to pay the amount assessed and thereby jeopardizing the Minister's debt. On an affirmative answer to the question, the judge had no alternative but to grant the application (note the use of the word 'shall' in the provision)."
+[66]
+On the facts of this case, it is quite clear to me that Services MLM has not met the initial burden of demonstrating to the court that there are reasonable grounds to doubt the collection of the amounts assessed by the Minister for 1998 and reassessed for taxation years 1995, 1996 and 1997 would be jeopardized by delay in collection.
+[67]
+In my view, the facts of this case are a classic illustration of the kind of situation contemplated by Parliament for which a jeopardy order would be granted; I say this without the necessity of making any finding or attributing any kind of purpose on the part of Services MLM or Mr. Marengère. This case does not turn on intent or on tax planning; it calls to be determined looking at the matter objectively and realistically on the ground so to speak. In other words, it is the effect or result of the taxpayer's action in dealing with its assets that is important and relevant in the assessment of the appropriateness of a collection jeopardy order. Tax liability is not an issue in such proceedings.
+[68]
+The case law of this court has clearly established that collection jeopardy orders are justified where there is cogent evidence, objectively viewed, put forward by Revenue Canada, as to the dissipation of a taxpayer's assets or the movement of assets out of the jurisdiction. McNair, J., in
+Danielson
+, supra, said such evidence would be very persuasive and compelling in establishing, beyond mere suspicion or conjecture, that an action by a taxpayer or a reasonable apprehension of such action would likely jeopardize the Minister's position. (See also
+Minister of National Revenue v. Rouleau
+, [1995] F.C.J. No. 1209; 101 F.T.R. 57 (T.D.),
+Minister of National Revenue v. Satellite Earth Station Technology Inc.
+, supra, and
+Minshull v. Minister of National Revenue; R. & L. Investments Ltd. v. Minister of National Revenue
+(1987), 58 Sask.R. 115; 87 D.T.C. 5385 (Q.B.). In my view, Rouleau, J.'s, decision in
+1853-9049 Quebec Inc.
+, supra, is to the same effect when he speaks of a collection jeopardy order being available "in short to meet any situation in which a taxpayer's assets may vanish into thin air because of the passage of time".
+[69]
+Objectively viewed, in terms of the effect or results of Services MLM actions, it is plain and obvious to me that the Minister had more than reasonable grounds for believing the collection of the amounts assessed were in jeopardy by the passage of time. The facts clearly show that Services MLM's assets were a very long way from being able to cover the amounts assessed or reassessed and that its most valuable asset, its share in the settlement proceeds, had been assigned by it to Wellgate, an offshore company with no assets, no operations or bank account in Canada and in which its controlling shareholder, Mr. Marengère, also had an important if not a determinative say in how Wellgate acted. For purposes of jeopardy collection, on the evidence, it has been shown by Revenue Canada that Wellgate and Services MLM are essentially one and the same entities notwithstanding other participants in Wellgate, namely, Nicolas Matossian and René Amyot and notwithstanding the original purpose of Wellgate or its purported role in the settlement proceeds. Passage of time was imminent because the payment of the settlement funds, through or via Wellgate, was scheduled for March 15, 1999, the day on which the ex parte jeopardy order was authorized. I am satisfied for the purpose of receiving the settlement proceeds from DBC Wellgate was the
+alter ego
+of the beneficiaries of those proceeds and, in this case, Services MLM in particular.
+[70]
+Counsel for Services MLM focussed a good part of his argument on the alleged failure of the respondent to make full and frank disclosure. He cites
+Minister of National Revenue v. 159890 Canada Inc.
+(1997), 135 F.T.R. 201; 97 D.T.C. 5495 (T.D.), where my colleague, Gibbon, J., said this at page 5497 [D.T.C.]:
+"Full and frank disclosure does, I conclude, requires the Minister to disclose what might be reasonably regarded as weaknesses in the case for a jeopardy order that are known to the Minister."
+[71]
+I should add that Gibbon, J., in
+Minister of National Revenue v. Rouleau
+, supra, said this:
+"Full and frank disclosure does not require the disclosure of material that is simply irrelevant to the test for the issuance of an ex parte jeopardy collection order."
+[72]
+Based on this case law, there must be full and frank disclosure by the Minister, of known, relevant and material facts to obtaining the ex parte jeopardy collection order. Did the Minister meet the required disclosure standard. In my view, the Minister discharged his disclosure obligations for the following reasons:
+(1) The applicant says Revenue Canada moved precipitously: it points to Mr. Roberge's January 19, 1999 demand for information letter; it explains the response delay in that Mr. Marengère was hospitalized for part of this period; it criticizes Mr. Roberge for allegedly not returning a telephone call on March 10, 1999 from the applicant's auditors from which the applicant concludes: "Had he returned the call, Mr. Roberge would have learned the reasons for the delay and would have had some explanation of the fact that, among others, the so-called 'undeclared income' was declared elsewhere". I find the applicant's criticisms misplaced: first, Revenue Canada did not know Mr. Marengère was hospitalized; second, Mr. Marengère admits that he met with his auditors on February 9th and was therefore aware of the February 10th deadline response; third, his auditors only contacted Mr. Roberge on March 10, 1999 and Mr. Roberge, in my view, explained why he could not immediately return the telephone call at that time.
+(2) Services MLM points to the treatment given to Greyhorse. Whatever treatment Revenue Canada gave to Greyhorse is not, in my view, relevant to the merits of the ex parte jeopardy order rendered on March 15, 1999 and, after examining the affidavit of Mr. Matossian and his cross-examination, I find that it has even less relevance to this review proceeding.
+(3) Services MLM is critical of the disclosure level concerning Wellgate and the failure by Ms. Dazé to describe the role Wellgate played in the financing of the Dominion Bridge Group starting in August 1997 and up to the April 1998 transaction although all of this information was public and was readily available to her. Services MLM's criticism in this respect goes to the depth or sufficiency of the required disclosure for an ex parte jeopardy collection order. I am satisfied that Revenue Canada, on March 15th, made a level of disclosure in sufficient detail and thoroughness as was required in the circumstances. The role of Wellgate in receiving the settlement funds assigned to it was well explained by Revenue Canada. Revenue Canada was not required, in my view, for these purposes, to delve into Wellgate's past role in financing the Dominion Bridge Group. Moreover, Revenue Canada was not in a position to know, until cross-examination on Mr. Marengère's affidavit in these proceedings, all of the intricacies involved. Those intricacies do not advance Services MLM's case in these review proceedings.
+(4) Services MLM criticizes Ms. Dazé's affidavit because there is no indication that the taxpayer has depleted assets, transferred assets, wasted assets or made an attempt to defeat its creditors. For the reasons outlined above, the applicant misconstrues the proper legal test. Intent to deceive Revenue Canada is not part of the legal test; the Minister does not have to prove fraud or deceit or bad motive. As noted, it is the result or effect of the handling of the taxpayer's assets that is central to the issue at hand.
+(5) I agree, however, with the applicant in terms of the description which Ms. Dazé gave concerning Services MLM's existing debt. In my view, Ms. Dazé should, before she swore her affidavit on March 12, 1999, have made a computer check to determine the status of the $21,000 tax debt. Her failure to do so is not, however, grounds for setting aside the jeopardy collection order: in terms of materiality, her statement of the existing tax debt of $21,000 pales and becomes insignificant in relation to the amounts assessed and reassessed against the applicant.
+(6) The applicant says also missing from Ms. Dazé's affidavit is any suggestion that Services MLM has failed to file tax returns or is otherwise remiss in dealing with his obligations to the Minister. Again, in my view, that omission is not relevant; the applicant misstates the appropriate test for the granting of a jeopardy collection order.
+(7) Applicant says Services MLM's cooperation with Revenue Canada's Toronto office should have been brought to light. This point has no bearing on the test for the issuance of the order being reviewed.
+[73]
+In another part of his written representations, the applicant again focusses on full and frank disclosure and says the court is entitled to rely on the Minister to bring all of the facts to light. Applicant says the Minister should have disclosed:
+(a) The "undeclared income" was declared by other companies within the same group, "something Mr. Roberge would have learned if he had returned his phone calls". In my view, the Minister is not obligated to disclose matters not known by him;
+(b) Applicant points to the Wellgate Note and says it was subject to a term and not payable until October 1999, something which has been ignored by Ms. Dazé and completely missed by Mr. Roberge. Again, what was disclosed to the court on March 15, 1999 was that Wellgate had filed proof of claim for the entire amount as a secured creditor in
+BIA
+proceedings and that the McConnell share transaction was to close imminently. Those facts which were disclosed and true were essential to the ex parte order.
+(c) Services MLM says it is current in all respects concerning GST. In my view, the applicant's argument has partial validity although it shares some element of responsibility in the obscure manner of its reporting GST. However, the point really begs the question and does not materially affect Revenue Canada's position in terms of undeclared income;
+(d) Services MLM says Ms. Dazé should have mentioned that she was an Inspector to the bankrupt estate of Dominion Bridge Company and suggests the court might have had some questions. I see no point to the applicant's criticism on grounds of relevancy;
+(e) Société MLM is critical that Mr. Roberge chose not to describe for the court the basis of his assessment. He says the exhibits annexed are incomprehensible. Again, Services MLM's point is misplaced. As noted, the validity of the assessments must be accepted, at this stage, by this court;
+(f) Lastly, applicant asserts the court should not be satisfied with Revenue Canada's "shotgun approach" to this matter and disclosure that can be described as haphazard at best. He says this court should insist on full disclosure of all of the facts. As noted, I am satisfied not only in connection with the ex parte jeopardy collection order but on this review, that the Minister has justified both factually and legally the ex parte order in addition to the fact the applicant has failed to meet its initial burden.
+[74]
+For all of these reasons, this application for review is dismissed with costs and the jeopardy collection order of March 15, 1999, is confirmed.
+Application dismissed.
+Editor: Kelli A. Simmonds/kaw
+[End of document]

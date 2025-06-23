@@ -1,0 +1,428 @@
+[1]
+Layden-Stevenson, J.
+: In 1988, Ms. Kiefer applied for and obtained her Old Age Security (OAS) pension. She was deemed eligible for payment of a full OAS pension with benefits, beginning in the month following her 65th birthday. In June of 2003, after receipt of an anonymous letter, Human Resources and Social Development Canada (HRSDC) conducted a residency review. HRSDC determined, and a ministerial delegate confirmed, that Ms. Kiefer was entitled to a partial, rather than a full OAS pension. Her benefits were recalculated and she was informed that she would have to repay benefits paid to her from September of 1988 through to 2003. The overpayment, originally assessed at $36,982.44, was re-calculated at $19,163.56, in accordance with subsection 37(2) of the
+Old Age Security Act
+, R.S.C. 1985, c. O-9 (the
+Act
+). Ms. Kiefer appealed the Minister's decision. The Review Tribunal rejected her appeal.
+[2]
+Ms. Kiefer seeks judicial review of the Review Tribunal's decision and asserts that it erred in concluding that she was not resident in Canada during the applicable years. For the reasons that follow, I conclude that the Review Tribunal's decision was unreasonable and ought to be set aside.
+Background
+[3]
+Ms. Kiefer is 84 years of age. She was born in Nova Scotia in 1923 and lived there until April of 1967 when, at the age of 44, she obtained a United States Alien Registration Card (a green card) to enable her to live and work in the United States (and join Paul Kiefer, an American citizen). Between 1967 and 1972, Ms. Kiefer returned periodically to Nova Scotia. In 1972 she married Mr. Kiefer and in 1975 the couple settled in Florida. In 1978 Mr. Kiefer purchased an apartment in Pompano Beach. Around this time Mr. Kiefer developed a severe, chronic bronchial illness.
+[4]
+Ms. Kiefer states that, knowing that Mr. Kiefer's health would continue to deteriorate, they decided to get settled in Nova Scotia to enable Ms. Kiefer to be at home and close to her family. In 1980 Mr. Kiefer applied for landed immigrant status in Canada. In 1981 the couple purchased a cottage property in Summerville Beach, Nova Scotia. Between 1981 and 1983 the property was extensively renovated. In 1982 many of their personal belongings, including their vehicle, were shipped to Nova Scotia. From 1983 through to 1991 (the latter being the year of Mr. Kiefer's death) the couple lived in their home in Nova Scotia from spring (early April) until late fall (early November). On some occasions Ms. Kiefer remained in Nova Scotia until January. The evidence indicates that Mr. Kiefer's health was such that he was unable to endure the coldest months of the Canadian winter.
+[5]
+As previously noted, in June of 2003, after receiving an anonymous letter, HRSDC conducted an audit with respect to Ms. Kiefer. By correspondence dated August 11, 2003, Ms. Kiefer was informed that she was entitled to a partial, rather than a full, OAS pension. Reimbursement of the overpayments was demanded. Ms. Kiefer's appeal to the Review Tribunal was dismissed. When Ms. Kiefer applied for judicial review, the Minister consented to the matter being referred back to a newly constituted Review Tribunal.
+[6]
+On June 20, 2007, a second Review Tribunal was convened to hear Ms. Kiefer's appeal. By decision dated September 5, 2007, the Review Tribunal dismissed her appeal on the basis that she was not resident in Canada from 1981 to 1988. Consequently, it concluded that Ms. Kiefer is entitled to "partial OAS benefits of 25/40ths, based on residence in Canada from August 25, 1941 to April 1, 1967". It is the decision of the second Review Tribunal that is the subject of this judicial review.
+Preliminary Observations
+[7]
+My first observation concerns the issue of jurisdiction. In
+Mazzotta v. Canada (Attorney General)
+(2007), 368 N.R. 306 (C.A.), Mr. Justice Létourneau addressed the
+Canada Pension Plan
+, R.S.C. 1985, c. C-8 (the
+CPP
+). He noted, at paragraph 40, that the
+CPP
+contains adjudicative and review mechanisms and a process designed to provide an easy, flexible and affordable access to these mechanisms. After discussing previous jurisprudence (whereby decisions of the Review Tribunal were reviewable in the Federal Court while decisions of the Pensions Appeal Board were reviewable in the Federal Court of Appeal), Justice Létourneau commented that Parliament did not envisage "a split of the process between the Federal Court, the Federal Court of Appeal and the adjudicative mechanisms which it put in place and which it invested with broad powers to determine the merits of claims along with all the factual and legal questions that inevitably accompany these claims." In addressing this issue, Justice Létourneau was referring specifically to matters arising pursuant to section 84 of the
+CPP
+. Having carefully reviewed the reasons in
+Mazzotta
+, as well as the pertinent legislative provisions in this matter, I am satisfied that
+Mazzotta
+does not apply to this judicial review and that the Federal Court has jurisdiction.
+[8]
+The Review Tribunal is created pursuant to section 82 of the
+CPP
+. Although the drafting of the various provisions is somewhat oblique, subsection 27.1(1) of the
+Act
+enables an individual, dissatisfied with a decision or determination made under the
+Act
+, to request reconsideration by the Minister. Subsection 28(1) of the
+Act
+provides that a person who makes a request under subsection 27.1(1) and who is dissatisfied with the decision of the Minister, may appeal the decision to a Review Tribunal under subsection 82(1) of the
+CPP
+.
+[9]
+Complementary provisions are contained in the
+CPP
+. Subsection 82(1) of the
+CPP
+states that a party, dissatisfied with a decision of the Minister under subsection 27.1(2) of the
+Act
+, may appeal the decision to a Review Tribunal. However, subsection 83(1) of the
+CPP
+, which enables parties to seek leave to appeal decisions of the Review Tribunal (made under section 82 of the
+CPP
+) to the Pension Appeals Board, specifically excludes decisions made under subsection 28(1) of the
+Act
+from the operation of subsection 83(1) of the
+CPP
+. Put another way, subsection 83(1) carves out an exception regarding the right to seek leave to appeal to the Pensions Appeals Board with respect to appeals under subsection 28(1) of the
+Act
+.
+[10]
+The only recourse available for unsuccessful appellants, such as Ms. Kiefer (whose appeals to the Review Tribunal were lodged pursuant to subsections 27.1(1) and 28(1) of the
+Act
+), is to seek judicial review of the Review Tribunal's decision in the Federal Court because no right to seek leave to appeal to the Pensions Appeal Board exists. Rather, it is expressly excluded.
+[11]
+I raised the issue of jurisdiction with the respondent's counsel at the outset of the hearing. Counsel was of the view, and I concur for the foregoing reasons, that jurisdiction, in matters such as this, lies with the Federal Court.
+[12]
+My second observation relates to Ms. Kiefer's status as a self-represented litigant. As is often the case, the application record displays a number of irregularities not the least of which is the inclusion of information that was not before the Review Tribunal. That documentation has not been considered on this application. Notably, the respondent's record is also wanting. It is both unorganized and needlessly duplicative. It does, however, include the documentation that was before the Review Tribunal at the outset of the hearing as well as that submitted by Ms. Keifer during the hearing.
+[13]
+My final preliminary observation is that it is not clear to me, on this record, whether the years in issue are those from 1981 to 1988 or 1983 to 1988. I leave that issue to be explored and decided by a newly-constituted Review Tribunal.
+The Decision
+[14]
+In arriving at its conclusion, the Review Tribunal found:
+- Ms. Kiefer had a substantial connection to Nova Scotia during the relevant time period. This connection was evident by virtue of her visits to Nova Scotia in the summer, her ownership of property in the province and her membership on the electoral list (including voting in three federal elections);
+- It was the intention of Ms. Kiefer and her husband to retire in Nova Scotia. However, the determination of residency (the factual question of whether a person makes her home and ordinarily lives in Canada) "must be made having regard to all the circumstances and not merely the intention of the appellant";
+- Ms. Kiefer failed to meet the test of ordinarily making Nova Scotia her home during the relevant period. She clearly made her home in Florida because:
+- She shared a home with her husband in Florida, which they chose to purchase with the intention of making it their permanent residence where Mr. Kiefer's health would be better;
+- Ms. Kiefer's residency in Florida was simply a continuation of her residency in the United States, which began in 1967 and continued interrupted until 1988; and
+- Ms. Kiefer used the word "home" to describe her annual return to Florida.
+[15]
+The following evidence was acknowledged by the Review Tribunal but was found not to substantiate Ms. Kiefer's position:
+- Evidence that Ms. Kiefer moved some personal effects to Nova Scotia in 1982 was determined to indicate, at best, that she and her husband had the intention of splitting their time between Florida and Canada;
+- Mr. Kiefer's landed immigrant status, obtained in 1981, does not support Ms. Kiefer's position because she provided evidence that her husband was always a "permanent resident of the United States in his mind";
+- Ms. Kiefer had no legal ownership of property in Florida until her husband's death in 1991. Legal ownership is not significant for the appeal. Rather, it is the actual, physical presence of a person that matters;
+- Dr. Doucet's evidence of Ms. Keifer's medical attention in Nova Scotia indicates that she and her husband were essentially summer residents of Nova Scotia;
+- Utility and service costs, related to the Nova Scotia property, do not substantiate the appeal without further evidence that the property was actually her home.
+The Relevant Statutory Provisions
+[16]
+The relevant statutory provisions are attached to these reasons as Schedule "A". For ease of reference, section 3 of the
+Act
+is reproduced below. The term "resided", as it is used in section 3, is not defined in the
+Act
+but is described in section 21 of the
+Old Age Security Regulations
+, C.R.C., c. 1246 (the
+Regulations
+), the pertinent portions of which are also set out below.
+Old Age Security Act
+, R.S., 1985, c. O-9
+"3(1) Subject to this Act and the Regulations, a full monthly pension may be paid to
+(a) every person who was a pensioner on July 1, 1977;
+(b) every person who
+(i) on July 1, 1977 was not a pensioner but had attained twenty-five years of age and resided in Canada or, if that person did not reside in Canada, had resided in Canada for any period after attaining eighteen years of age or possessed a valid immigration visa,
+(ii) has attained sixty-five years of age, and
+(iii) has resided in Canada for the ten years immediately preceding the day on which that person's application is approved or, if that person has not so resided, has, after attaining eighteen years of age, been present in Canada prior to those ten years for an aggregate period at least equal to three times the aggregate periods of absence from Canada during those ten years, and has resided in Canada for at least one year immediately preceding the day on which that person's application is approved; and
+(c) every person who
+(i) was not a pensioner on July 1, 1977,
+(ii) has attained sixty-five years of age, and
+(iii) has resided in Canada after attaining eighteen years of age and prior to the day on which that person's application is approved for an aggregate period of at least forty years.
+"3(2) Subject to this Act and the regulations, a partial monthly pension may be paid for any month in a payment quarter to every person who is not eligible for a full monthly pension under subsection (1) and
+(a) has attained sixty-five years of age; and
+(b) has resided in Canada after attaining eighteen years of age and prior to the day on which that person's application is approved for an aggregate period of at least ten years but less than forty years and, where that aggregate period is less than twenty years, was resident in Canada on the day preceding the day on which that person's application is approved.
+Old Age Security Regulations
+, C.R.C., c. 1246
+"21(1) For the purposes of the Act and these Regulations,
+(a) a person resides in Canada if he makes his home and ordinarily lives in any part of Canada; and
+(b) a person is present in Canada when he is physically present in any part of Canada.
+. . . . .
+"21(4) Any interval of absence from Canada of a person resident in Canada that is
+(a) of a temporary nature and does not exceed one year,
+(b) for the purpose of attending a school or university, or
+(c) specified in subsection (5)
+shall be deemed not to have interrupted that person's residence or presence in Canada."
+Loi sur la sécurité de la vieillesse
+, L.R., 1985, ch. O-9
+"3(1) Sous réserve des autres dispositions de la présente loi et de ses règlements, la pleine pension est payable aux personnes suivantes:
+a) celles qui avaient la qualité de pensionné au 1er juillet 1977;
+b) celles qui, à la fois:
+(i) sans être pensionnées au 1er juillet 1977, avaient alors au moins vingt-cinq ans et résidaient au Canada ou y avaient déjà résidé après l'âge de dix-huit ans, ou encore étaient titulaires d'un visa d'immigrant valide,
+(ii) ont au moins soixante-cinq ans,
+(iii) ont résidé au Canada pendant les dix ans précédant la date d'agrément de leur demande, ou ont, après l'âge de dix-huit ans, été présentes au Canada, avant ces dix ans, pendant au moins le triple des périodes d'absence du Canada au cours de ces dix ans tout en résidant au Canada pendant au moins l'année qui précède la date d'agrément de leur demande;
+c) celles qui, à la fois:
+(i) n'avaient pas la qualité de pensionné au 1er juillet 1977,
+(ii) ont au moins soixante-cinq ans,
+(iii) ont, après l'âge de dix-huit ans, résidé en tout au Canada pendant au moins quarante ans avant la date d'agrément de leur demande.
+"3(2) Sous réserve des autres dispositions de la présente loi et de ses règlements, une pension partielle est payable aux personnes qui ne peuvent bénéficier de la pleine pension et qui, à la fois:
+a) ont au moins soixante-cinq ans;
+b) ont, après l'âge de dix-huit ans, résidé en tout au Canada pendant au moins dix ans mais moins de quarante ans avant la date d'agrément de leur demande et, si la période totale de résidence est inférieure à vingt ans, résidaient au Canada le jour précédant la date d'agrément de leur demande."
+Règlement sur la sécurité de la vieillesse
+, C.R.C., ch. 1246
+"21(1) Aux fins de la Loi et du présent règlement,
+a) une personne réside au Canada si elle établit sa demeure et vit ordinairement dans une région du Canada; et
+b) une personne est présente au Canada lorsqu'elle se trouve physiquement dans une région du Canada.
+. . . . .
+"21(4) Lorsqu'une personne qui réside au Canada s'absente du Canada et que son absence
+a) est temporaire et ne dépasse pas un an,
+b) a pour motif la fréquentation d'une école ou d'une université, ou
+c) compte parmi les absences mentionnées au paragraphe (5),
+cette absence est réputée n'avoir pas interrompu la résidence ou la présence de cette personne au Canada."
+Issues
+[17]
+The issues for determination are:
+(a) the applicable standard of review; and
+(b) whether the Review Tribunal's decision withstands review on the applicable standard.
+The Standard of Review
+[18]
+Understandably, Ms. Kiefer did not make submissions on the applicable standard of review. The respondent's written submissions were filed prior to the release of the reasons in
+New Brunswick (Board of Management) v. Dunsmuir
+(2008), 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9. At the hearing, the respondent's counsel addressed the
+Dunsmuir
+case and proposed a standard of review of reasonableness.
+[19]
+Dunsmuir
+directs that where the jurisprudence has already determined in a satisfactory manner the degree of deference to be accorded with regard to a particular category of question, there is no need to engage in what is now referred to as a "standard of review analysis". Where this is not the case, a standard of review analysis is required. This analysis involves consideration of the factors that, pre-
+Dunsmuir
+, were known as constituting the "pragmatic and functional analysis".
+[20]
+In
+Canada (Minister of Human Resources Development) v. Chhabu
+(2005), 280 F.T.R. 296; 35 Admin. L.R.(4th) 193 (F.C.), I conducted a pragmatic and functional analysis and determined that the applicable standard of review with respect to decisions of the Review Tribunal is reasonableness. At paragraphs 20-24, I stated:
+"20. The powers of the Review Tribunal are not contained in the
+Act
+. Rather, as noted earlier, the Review Tribunal is established under section 82 of the
+Canada Pension Plan
+, R.S.C. 1985, c. C-8 (the
+CPP
+). There is a privative clause of sorts, contained in subsection 84(1) of the
+CPP
+, the strength of which is bolstered by the fact that a decision of the Review Tribunal on an appeal under subsection 28(1) of the
+Act
+cannot be further appealed to a Pension Appeals Board (subsection 83(1) of the
+CPP
+). Subsection 84(1) of the
+CPP
+and subsection 28(3) of the
+Act
+do, however, explicitly recognize judicial review of a Review Tribunal's decision. Nonetheless, the presence of this privative clause does suggest deference to a Review Tribunal's decision determining an appeal under the
+Act
+.
+"21. The issue of residency in relation to OAS eligibility is one that the Review Tribunal is regularly called upon to determine. The factual circumstances of each case call for findings that fall within its expertise and thus militate in favour of deference. In interpreting the definition of residency, however, the Court is equally or better positioned.
+"22. The
+Act
+confers a benefit to certain individuals and establishes who is entitled to the receipt of benefits and to what extent. To that end, it involves the adjudication of an individual's rights. The conferment of benefits, however, is balanced with the interests of fairness and financial responsibility. The Minister is charged with the administration and integrity of the
+Act
+and the public interest in ensuring that applicants are not paid benefits to which they are not entitled. Thus, the
+Act
+provides for the adjudication of individual rights but is also polycentric in nature. This factor results in neither a high nor a low degree of deference.
+"23. The nature of the question involves applying the correct legal test to various facts and is therefore one of mixed fact and law. It is more factually than legally driven (see:
+Ding
+, supra, and
+Perera v. Canada (Minister of Health and Welfare)
+(1994), 75 F.T.R. 310 (F.C.T.D.) wherein it was determined that residency is a question of fact to be determined in the particular circumstances). This factor favours more deference.
+"24. Having regard to these factors, it is my view that the applicable standard of review is reasonableness. Consequently, I must have regard to the test set out by Mr. Justice Iacobocci in
+Law Society of New Brunswick v. Ryan
+, [2003] 1 S.C.R. 247 (
+Ryan
+) where he stated:
+'A decision will be unreasonable only if there is no line of analysis within the given reasons that could reasonably lead the tribunal from the evidence before it to the conclusion at which it arrived. If any of the reasons that are sufficient to support the conclusion are tenable in the sense that they can stand up to a somewhat probing examination, then the decision will not be unreasonable and a reviewing court must not interfere (see
+Southam
+, [1997] 1 S.C.R. 748 at para. 56). This means that a decision may satisfy the reasonableness standard if it is supported by a tenable explanation even if this explanation is not one that the reviewing court finds compelling (see
+Southam
+, at para. 79).'"
+[21]
+Other than the comments regarding the test for reasonableness (now overtaken by the
+Dunsmuir
+test) if I were to engage in a standard of review analysis today, I would arrive at the same result. Consequently, I conclude that the applicable standard of review is reasonableness.
+Analysis
+[22]
+To be eligible for a full pension, Ms. Keifer must come within the parameters of subparagraph 3(1)(b)(iii) of the
+Act
+. It provides:
+"3(1)(b) every person who
+. . . . .
+(iii) has resided in Canada for the ten years immediately preceding the day on which that person's application is approved
+or, if that person has not so resided, has, after attaining eighteen years of age, been present in Canada prior to those ten years for an aggregate period at least equal to three times the aggregate periods of absence from Canada during those ten years, and has resided in Canada for at least one year immediately preceding the day on which that person's application is approved; and
+" (My emphasis)
+[23]
+In
+Perera v. Canada (Minister of Health and Welfare)
+(1994), 75 F.T.R. 310 (T.D.), Mr. Justice Rouleau explained that the eligibility criteria in subparagraph 3(1)(b)(iii) contemplate two situations under which an applicant may qualify. First, an individual can establish that he or she has resided in Canada for the ten years immediately preceding the day on which the application is approved. Or, an individual can establish that he or she has been present in Canada, prior to the ten years, for the period specified therein, and has resided in Canada for at least one year immediately preceding the day on which the application is approved.
+[24]
+Ms. Keifer could not have qualified under the first of these options when she applied for her OAS pension. Her ten-year period would have run from 1978 to 1988. There is no debate that she was living in the United States in 1978, 1979 and 1980. Thus, her original application had to have been approved under the second of the two methods. That is, her 26 years spent in Nova Scotia from age 18 to 44 outweigh her collective absences during the 10-year period from 1978 to 1988. Because her Canadian residency portions were determined to be August 25, 1941 to April 1, 1967 and June 7, 1981 to August 25, 1988, she met the requirement of being resident (as the term is defined in the
+Regulations
+) for at least one year before her application was granted in 1988.
+[25]
+Ms. Kiefer claims that the Review Tribunal (in 2007) misapprehended the evidence and failed to consider relevant evidence. She submits that undue emphasis was placed upon the anonymous letter, which she suspects was the vindictive act of a disgruntled brother-in-law. It is unfortunate that Ms. Keifer failed to submit a similar letter, forwarded to the United States authorities, stating that Ms. Keifer resided in Canada rather than the United States. Such evidence may have significantly discredited the contents of the anonymous correspondence. However, the second letter was not before the Review Tribunal and must not factor into this analysis. There are other compelling reasons to set aside the Review Tribunal's decision.
+[26]
+The Review Tribunal, in the section of its reasons entitled "Background" provides an accurate recitation regarding much (not all) of the evidence that was tendered by Ms. Keifer to establish that she resided in Canada at the relevant time. However, it does not address a good deal of that evidence in the "Analysis" portion of its decision. Other probative evidence is not cited at all.
+[27]
+The deficiency in the Review Tribunal's reasons is the analysis proffered to support its conclusion. By virtue of subsection 82(11) of the
+CPP
+, the Review Tribunal is under a statutory duty to provide reasons for its decision.
+Dunsmuir
+cautions that the concept of deference imports respect for the decision-making process of adjudicative bodies with regard to both the facts and the law. It requires a respectful attention to the reasons offered or which could be offered in support of a decision.
+Dunsmuir
+also instructs that a court conducting a review for reasonableness "inquires into the qualities that make a decision reasonable, referring both to the
+process of articulating the reasons
+and to outcomes." Reasonableness is concerned mostly with the "existence of
+justification, transparency and intelligibility within the decision-making process
+". It is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are
+defensible in respect of the facts and law
+(My emphasis).
+[28]
+The respondent rightly notes that there is a presumption that a tribunal has considered all the evidence before it. To be sure, an administrative tribunal's reasons are not to be read hypercritically. However, much will depend on the significance of the evidence that is not mentioned. I regard it as settled law that a court will be reluctant to defer to a tribunal's decision where the tribunal's reasons consider in detail the evidence supporting its conclusions, but do not refer to important evidence pointing to a different conclusion:
+Hinzman et al. v. Canada (Minister of Citizenship and Immigration)
+(2007), 362 N.R. 1 (F.C.A.);
+FRAGMENT_SUPPRESSED.
+[29]
+The respondent also contends that the Review Tribunal was cognizant of the proper legal test as demonstrated by its comments that regard must be had to all of the circumstances and not merely the intention of the appellant. I agree that the Review Tribunal recited the proper test. Whether or not it applied that test is another matter.
+[30]
+The Review Tribunal states, in relation to Ms. Keifer establishing her residence in Canada, that it accepts that she and her husband intended to retire in Nova Scotia. It then opines that the determination of residency must be "made having regard to all of the circumstances and not merely the intention of the appellant". I consider that statement to be an accurate representation of the law. Armed with that proposition, the Review Tribunal then determines, for reasons that are not apparent to me, that despite the fact that Mr. Keifer was required to be in Florida for health reasons, the choice to purchase the Florida property was with the intention of making it their permanent residence. Upon making this determination, the Review Tribunal then proceeds to characterize the time in Canada as "splitting" the time between the two countries.
+[31]
+The Review Tribunal states that while there is "some evidence" of Ms. Keifer having moved "some personal effects to Nova Scotia in 1983", it does not substantiate that she would be making her home in Nova Scotia. While I do not disagree, I find it anomalous that the tribunal did not take note that the Keifers' vehicle formed part of those personal effects, as evidenced by the Canada Customs invoice.
+[32]
+Mr. Keifer's landed immigrant status is treated as being offset by the fact that "in his mind" he considered himself to be a United States citizen. With respect, Mr. Keifer's mental state with respect to his loyalty and ties to his country are not material to Ms. Keifer's residency in Canada.
+[33]
+While I agree with the Review Tribunal that legal ownership of the Florida property is not significant for purposes of Ms. Keifer's appeal, the fact that the couple were "living together as a married couple" is not in dispute and adds nothing to the inquiry. They lived as a married couple both in Nova Scotia and in Florida.
+[34]
+Dr. Doucet's evidence, wherein he enumerates the various dates upon which he provided medical attention to either Mr. or Ms. Keifer is said to do no more than support Ms. Keifer's status as a "summer resident". Notably, several of the consultations included appointments in the spring and fall. Dr. Doucet also explained that the visit fees were paid by MSI (Nova Scotia Medical Services Insurance), available only to "residents of Nova Scotia". Further, he commented that he had made several house calls to Ms. Keifer's home in Summerville to oversee care for Mr. Keifer. He observed that the house was quite comfortable, was heated with both electric baseboard heating and a wood stove and was equipped for year-round occupation. Finally, he referred to the fact that the couple spent the "cold winter months in Florida because of Paul's poor health".
+[35]
+The Review Tribunal's final observation is that the evidence regarding the servicing of the Nova Scotia property does not indicate that Ms. Keifer actually made her home there. That is a legitimate observation. However, it also states that the "evidence of hydro and insurance services to the property
+without further evidence
+that the property in Nova Scotia was actually home for her does not substantiate her appeal". It is astonishing that the tribunal could make such a statement in the face of the evidence before it.
+[36]
+A review of the evidence that was before the Review Tribunal is useful. Clearly, the Keifers owned an apartment in Florida during the 1981-1988 period of time. It had been purchased in 1978. They also owned the property in Nova Scotia, which they purchased in 1981. Mere "ownership" per se, in my view, does not resolve the issue regarding which of the two countries was the one where Ms. Keifer "ordinarily lived".
+[37]
+The Review Tribunal accepted that Mr. Keifer had a bronchial illness and that his health could not handle the cold Canadian winters. There was evidence before the tribunal that Ms. Keifer was not choosing to spend her time in Florida merely because of the weather (as many Canadians do annually, without penalty). Rather, she felt obliged to attend to her husband's medical needs.
+[38]
+That is the extent of the evidence with respect to the Florida property.
+[39]
+In relation to indicia of residence in Nova Scotia, I have previously referred to some of that evidence. In addition, there was evidence regarding Ms. Keifer's membership in her church community, her membership in social groups and her participation in politics (she worked for the Liberal party, her name was on the electoral voters list, she voted). There was also evidence that: she qualified for a home improvement grant from the Nova Scotia government (specifically siding); she had a roadway licence from the Province of Nova Scotia; she had a Nova Scotia Driver's Licence which she claimed she obtained in 1984 when she surrendered her Florida licence; she filed tax returns; she purchased a burial plot and stone in Liverpool, Nova Scotia (and provided photographs of it).
+[40]
+I have previously noted that Ms. Keifer had MSI in Nova Scotia as well as Dr. Doucet's statement that such coverage was available only to residents of Nova Scotia. The Review Tribunal makes no reference to this evidence. As stated earlier, the tribunal does refer to the hydro, insurance and servicing arrangements for the Nova Scotia property during the relevant time, but it discounts that evidence.
+[41]
+Ms. Keifer also submitted the statements of friends (including the mayor of Liverpool), attesting to the periods of time when she lived in her Nova Scotia home (during the relevant time period), and she spoke of her inquiries to Canadian government officials in relation to her border crossings as well as her pension benefits. In this respect, I reject the respondent's submission that what Ms. Keifer was told for "immigration or tax purposes" does not have any bearing on her "old age security benefits". In my view, when citizens make inquiries of government officials, Canada speaks with one voice, not several.
+[42]
+I fully appreciate and accept the respondent's position that there is a presumption that a tribunal has considered all of the evidence before it, in the absence of some contrary indication. It appears self-evident to me that there is such a contrary indication in this case. There is no comparative analysis of the evidence in relation to Ms. Keifer's residence in Florida and her residence in Nova Scotia. I also appreciate that it is not for the court to substitute its opinion for that of the Review Tribunal, even if the court would have reached a different conclusion.
+[43]
+That said, in view of the Review Tribunal's reliance on the concept of "intention" regarding Florida and its failure to refer to evidence that is central to the issue before it, I conclude that the reasons of the Review Tribunal lack justification, transparency and intelligibility. The process of articulating reasons that provide justification, transparency and intelligibility for a conclusion is important because it allows for a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[44]
+The reasons must demonstrate that the submissions were considered and provide a basis for understanding why those submissions were rejected. A conclusion will not be rational or defensible if the tribunal has failed to carry out the proper analysis:
+Lake v. Canada (Minister of Justice)
+(2008), 373 N.R. 339; 236 O.A.C. 371; 2008 SCC 23. The reasons and, more specifically, the analysis in this matter fall short of that test.
+[45]
+I add, for completeness, that the evidence in the record regarding the fact that Ms. Keifer sold her Nova Scotia home in 1997 and that she informed the department in 1999, of her own volition, that she was residing in the United States at that time is irrelevant to the inquiry. It is concerned with the time period in the 1980s.
+[46]
+The application for judicial review will be allowed and the matter will be remitted for determination. The applicant, as a self-represented litigant, is entitled to reimbursement of her reasonable disbursements.
+JUDGMENT
+[47]
+The application for judicial review is allowed and the matter is remitted to a differently constituted Review Tribunal for determination. The respondent will pay the reasonable disbursements of the applicant.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+SCHEDULE "A"
+to the
+Reasons for Judgment dated
+June 23, 2008
+in
+RUTH SEAMAN KIEFER
+and
+ATTORNEY GENERAL OF CANADA
+T-1734-07
+Old Age Security Act
+, R.S., 1985, c. O-9
+2(1) In these Regulations,
+"applicant" means a person who has applied, or is deemed to have applied, for a benefit, or with respect to whom an application for a benefit has been waived;
+"application" means an application for a benefit;
+"Minister" means the Minister of Social Development
+"Review Tribunal" means a Canada Pension Plan - Old Age Security Review Tribunal established under section 82 of the Canada Pension Plan;
+. . . . .
+3(1) Subject to this Act and the regulations, a full monthly pension may be paid to
+(a) every person who was a pensioner on July 1, 1977;
+(b) every person who
+(i) on July 1, 1977 was not a pensioner but had attained twenty-five years of age and resided in Canada or, if that person did not reside in Canada, had resided in Canada for any period after attaining eighteen years of age or possessed a valid immigration visa,
+(ii) has attained sixty-five years of age, and
+(iii) has resided in Canada for the ten years immediately preceding the day on which that person's application is approved or, if that person has not so resided, has, after attaining eighteen years of age, been present in Canada prior to those ten years for an aggregate period at least equal to three times the aggregate periods of absence from Canada during those ten years, and has resided in Canada for at least one year immediately preceding the day on which that person's application is approved; and
+(c) every person who
+(i) was not a pensioner on July 1, 1977,
+(ii) has attained sixty-five years of age, and
+(iii) has resided in Canada after attaining eighteen years of age and prior to the day on which that person's application is approved for an aggregate period of at least forty years.
+3(2) Subject to this Act and the regulations, a partial monthly pension may be paid for any month in a payment quarter to every person who is not eligible for a full monthly pension under subsection (1) and
+(a) has attained sixty-five years of age; and
+(b) has resided in Canada after attaining eighteen years of age and prior to the day on which that person's application is approved for an aggregate period of at least ten years but less than forty years and, where that aggregate period is less than twenty years, was resident in Canada on the day preceding the day on which that person's application is approved.
+3(3) The amount of a partial monthly pension, for any month, shall bear the same relation to the full monthly pension for that month as the aggregate period that the applicant has resided in Canada after attaining eighteen years of age and prior to the day on which the application is approved, determined in accordance with subsection (4), bears to forty years.
+3(4) For the purpose of calculating the amount of a partial monthly pension under subsection (3), the aggregate period described in that subsection shall be rounded to the lower multiple of a year when it is not a multiple of a year.
+3(5) Once a person's application for a partial monthly pension has been approved, the amount of monthly pension payable to that person under this Part may not be increased on the basis of subsequent periods of residence in Canada.
+4(1) A person who was not a pensioner on July 1, 1977 is eligible for a pension under this Part only if
+(a) on the day preceding the day on which that person's application is approved that person is a Canadian citizen or, if not, is legally resident in Canada; or
+(b) on the day preceding the day that person ceased to reside in Canada that person was a Canadian citizen or, if not, was legally resident in Canada.
+4(2) The Governor in Council may make regulations respecting the meaning of legal residence for the purposes of subsection (1).
+27. Where at any time the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the Statistics Act, is adjusted to reflect a new time basis or a new content basis, a corresponding adjustment shall be made in the Consumer Price Index with respect to any adjustment quarter that is used for the purpose of calculating the amount of any benefit that may be paid under this Act.
+28(1) A person who makes a request under subsection 27.1(1) and who is dissatisfied with the decision of the Minister in respect of the request, or, subject to the regulations, any person on their behalf, may appeal the decision to a Review Tribunal under subsection 82(1) of the Canada Pension Plan.
+28(2) Where, on an appeal to a Review Tribunal, it is a ground of the appeal that the decision made by the Minister as to the income or income from a particular source or sources of an applicant or beneficiary or of the spouse or common-law partner of the applicant or beneficiary was incorrectly made, the appeal on that ground shall, in accordance with the regulations, be referred for decision to the Tax Court of Canada, whose decision, subject only to variation by that Court in accordance with any decision on an appeal under the Tax Court of Canada Act relevant to the appeal to the Review Tribunal, is final and binding for all purposes of the appeal to the Review Tribunal except in accordance with the Federal Courts Act.
+28(3) Where a decision is made by a Review Tribunal in respect of a benefit, the Minister may stay payment of the benefit until the later of
+(a) the expiration of the period allowed for making an application under the Federal Courts Act for judicial review of the decision, and
+(b) where Her Majesty has made an application under the Federal Courts Act for judicial review of the decision, the month in which all proceedings in relation to the judicial review have been completed.
+Old Age Security Regulations
+, C.R.C., c. 1246
+21(1) For the purposes of the Act and these Regulations,
+(a) a person resides in Canada if he makes his home and ordinarily lives in any part of Canada; and
+(b) a person is present in Canada when he is physically present in any part of Canada.
+. . . . .
+21(4) Any interval of absence from Canada of a person resident in Canada that is
+(a) of a temporary nature and does not exceed one year,
+(b) for the purpose of attending a school or university, or
+(c) specified in subsection (5)
+shall be deemed not to have interrupted that person's residence or presence in Canada.
+Canada Pension Plan
+, R.S., 1985, c. C-8,
+2(1) In this Act,
+"Pension Appeals Board" means the Pension Appeals Board established under section 83
+Pension Appeals Board
+"Review Tribunal" means a Canada Pension Plan - Old Age Security Review Tribunal established under section 82;
+. . . . .
+82(1) A party who is dissatisfied with a decision of the Minister made under section 81 or subsection 84(2), or a person who is dissatisfied with a decision of the Minister made under subsection 27.1(2) of the Old Age Security Act, or, subject to the regulations, any person on their behalf, may appeal the decision to a Review Tribunal in writing within 90 days, or any longer period that the Commissioner of Review Tribunals may, either before or after the expiration of those 90 days, allow, after the day on which the party was notified in the prescribed manner of the decision or the person was notified in writing of the Minister's decision and of the reasons for it.
+82(2) A Review Tribunal shall be constituted in accordance with this section.
+. . . . .
+82(11) A Review Tribunal may confirm or vary a decision of the Minister made under section 81 or subsection 84(2) or under subsection 27.1(2) of the Old Age Security Act and may take any action in relation to any of those decisions that might have been taken by the Minister under that section or either of those subsections, and the Commissioner of Review Tribunals shall thereupon notify the Minister and the other parties to the appeal of the Review Tribunal's decision and of the reasons for its decision.
+83(1) A party or, subject to the regulations, any person on behalf thereof, or the Minister, if dissatisfied with a decision of a Review Tribunal made under section 82, other than a decision made in respect of an appeal referred to in subsection 28(1) of the Old Age Security Act, or under subsection 84(2), may, within ninety days after the day on which that decision was communicated to the party or Minister, or within such longer period as the Chairman or Vice-Chairman of the Pension Appeals Board may either before or after the expiration of those ninety days allow, apply in writing to the Chairman or Vice-Chairman for leave to appeal that decision to the Pension Appeals Board.
+Loi sur la sécurité de la vieillesse
+, L.R., 1985, ch. O-9
+2(1) Dans le présent règlement
+"demandeur" L'auteur d'une demande de prestation. Y est assimilée la personne dont la demande de prestation est réputée reçue ou celle qui est dispensée de présenter une telle demande.
+"application" "Version anglaise seulement"
+"ministre" Le ministre du Développement social.
+"tribunal de révision" Tribunal de révision Régime de pensions du Canada - Sécurité de la vieillesse constitué en application de l'article 82 du Régime de pensions du Canada.
+. . . . .
+3(1) Sous réserve des autres dispositions de la présente loi et de ses règlements, la pleine pension est payable aux personnes suivantes:
+a) celles qui avaient la qualité de pensionné au 1er juillet 1977;
+b) celles qui, à la fois:
+(i) sans être pensionnées au 1er juillet 1977, avaient alors au moins vingt-cinq ans et résidaient au Canada ou y avaient déjà résidé après l'âge de dix-huit ans, ou encore étaient titulaires d'un visa d'immigrant valide,
+(ii) ont au moins soixante-cinq ans,
+(iii) ont résidé au Canada pendant les dix ans précédant la date d'agrément de leur demande, ou ont, après l'âge de dix-huit ans, été présentes au Canada, avant ces dix ans, pendant au moins le triple des périodes d'absence du Canada au cours de ces dix ans tout en résidant au Canada pendant au moins l'année qui précède la date d'agrément de leur demande;
+c) celles qui, à la fois:
+(i) n'avaient pas la qualité de pensionné au 1er juillet 1977,
+(ii) ont au moins soixante-cinq ans,
+(iii) ont, après l'âge de dix-huit ans, résidé en tout au Canada pendant au moins quarante ans avant la date d'agrément de leur demande.
+3(2) Sous réserve des autres dispositions de la présente loi et de ses règlements, une pension partielle est payable aux personnes qui ne peuvent bénéficier de la pleine pension et qui, à la fois:
+a) ont au moins soixante-cinq ans;
+b) ont, après l'âge de dix-huit ans, résidé en tout au Canada pendant au moins dix ans mais moins de quarante ans avant la date d'agrément de leur demande et, si la période totale de résidence est inférieure à vingt ans, résidaient au Canada le jour précédant la date d'agrément de leur demande.
+3(3) Pour un mois donné, le montant de la pension partielle correspond aux n/40 de la pension complète, n étant le nombre total - arrondi conformément au paragraphe (4) - d'années de résidence au Canada depuis le dix-huitième anniversaire de naissance jusqu'à la date d'agrément de la demande.
+3(4) Le nombre total d'années de résidence au Canada est arrondi au chiffre inférieur.
+3(5) Les années de résidence postérieures à l'agrément d'une demande de pension partielle ne peuvent influer sur le montant de celle-ci.
+4(1) Sauf en ce qui concerne les personnes qui avaient la qualité de pensionné au 1er juillet 1977, il faut, pour bénéficier de la pension:
+a) soit avoir le statut de citoyen canadien ou de résident légal du Canada la veille de l'agrément de la demande;
+b) soit avoir eu ce statut la veille du jour où a cessé la résidence au Canada.
+4(2) Le gouverneur en conseil peut, pour l'application du paragraphe (1), définir par règlement "résident légal".
+27. Tout ajustement de l'indice des prix à la consommation pour le Canada publié par Statistique Canada en vertu de la Loi sur la statistique à une nouvelle base de données ou de temps doit entraîner un ajustement correspondant de l'indice trimestriel des prix à la consommation servant au calcul du montant des prestations.
+28(1) L'auteur de la demande prévue au paragraphe 27.1(1) qui se croit lésé par la décision révisée du ministre - ou, sous réserve des règlements, quiconque pour son compte - peut appeler de la décision devant un tribunal de révision constitué en application du paragraphe 82(1) du Régime de pensions du Canada.
+28(2) Lorsque l'appelant prétend que la décision du ministre touchant son revenu ou celui de son époux ou conjoint de fait, ou le revenu tiré d'une ou de plusieurs sources particulières, est mal fondée, l'appel est, conformément aux règlements, renvoyé pour décision devant la Cour canadienne de l'impôt. La décision de la Cour est, sous la seule réserve des modifications que celle-ci pourrait y apporter pour l'harmoniser avec une autre décision rendue aux termes de la Loi sur la Cour canadienne de l'impôt sur un appel pertinent à celui interjeté aux termes de la présente loi devant un tribunal de révision, définitive et obligatoire et ne peut faire l'objet que d'un recours prévu par la Loi sur les Cours fédérales.
+28(3) Le ministre peut surseoir au versement de la prestation qui fait l'objet d'un appel en application du présent article jusqu'à l'expiration du délai prévu par la Loi sur les Cours fédérales pour demander une révision judiciaire. Dans le cas où Sa Majesté a présenté telle demande, le sursis se prolonge jusqu'au mois au cours duquel se terminent les procédures découlant de cette demande de révision.
+Règlement sur la sécurité de la vieillesse
+, C.R.C., ch. 1246
+21(1) Aux fins de la Loi et du présent règlement,
+a) une personne réside au Canada si elle établit sa demeure et vit ordinairement dans une région du Canada; et
+b) une personne est présente au Canada lorsqu'elle se trouve physiquement dans une région du Canada.
+. . . . .
+21(4) Lorsqu'une personne qui réside au Canada s'absente du Canada et que son absence
+a) est temporaire et ne dépasse pas un an,
+b) a pour motif la fréquentation d'une école ou d'une université, ou
+c) compte parmi les absences mentionnées au paragraphe (5),
+cette absence est réputée n'avoir pas interrompu la résidence ou la présence de cette personne au Canada.
+Régime de pensions du Canada
+, L.R., 1985, ch. C-8
+2(1) Les définitions qui suivent s'appliquent à la présente loi.
+"Commission d'appel des pensions" La Commission d'appel des pensions constituée conformément à l'article 83.
+"tribunal de révision" Tribunal de révision Régime de pensions du Canada - Sécurité de la vieillesse constitué en application de l'article 82.
+. . . . .
+82(1) La personne qui se croit lésée par une décision du ministre rendue en application de l'article 81 ou du paragraphe 84(2) ou celle qui se croit lésée par une décision du ministre rendue en application du paragraphe 27.1(2) de la Loi sur la sécurité de la vieillesse ou, sous réserve des règlements, quiconque de sa part, peut interjeter appel par écrit auprès d'un tribunal de révision de la décision du ministre soit dans les quatre-vingt-dix jours suivant le jour où la première personne est, de la manière prescrite, avisée de cette décision, ou, selon le cas, suivant le jour où le ministre notifie à la deuxième personne sa décision et ses motifs, soit dans le délai plus long autorisé par le commissaire des tribunaux de révision avant ou après l'expiration des quatre-vingt-dix jours.
+82(2) Un tribunal de révision est constitué conformément au présent article.
+. . . . .
+82(11) Un tribunal de révision peut confirmer ou modifier une décision du ministre prise en vertu de l'article 81 ou du paragraphe 84(2) ou en vertu du paragraphe 27.1(2) de la Loi sur la sécurité de la vieillesse et il peut, à cet égard, prendre toute mesure que le ministre aurait pu prendre en application de ces dispositions; le commissaire des tribunaux de révision doit aussitôt donner un avis écrit de la décision du tribunal et des motifs la justifiant au ministre ainsi qu'aux parties à l'appel.
+83(1) La personne qui se croit lésée par une décision du tribunal de révision rendue en application de l'article 82 - autre qu'une décision portant sur l'appel prévu au paragraphe 28(1) de la Loi sur la sécurité de la vieillesse - ou du paragraphe 84(2), ou, sous réserve des règlements, quiconque de sa part, de même que le ministre, peuvent présenter, soit dans les quatre-vingt-dix jours suivant le jour où la décision du tribunal de révision est transmise à la personne ou au ministre, soit dans tel délai plus long qu'autorise le président ou le vice-président de la Commission d'appel des pensions avant ou après l'expiration de ces quatre-vingt-dix jours, une demande écrite au président ou au vice-président de la Commission d'appel des pensions, afin d'obtenir la permission d'interjeter un appel de la décision du tribunal de révision auprès de la Commission.
+[End of document]

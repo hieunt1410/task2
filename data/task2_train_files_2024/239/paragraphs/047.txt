@@ -1,0 +1,48 @@
+[47]
+Section 24 is contained in Part I of the
+Act
+dealing with the CSC; Part II of the
+Act
+concerns the National Parole Board and Part III concerns the Correctional Investigator. More specifically, section 24 resides in a series of sections of the
+Act
+headed "Information" the most relevant being: (1) section 23 which imposes a duty on the CSC to obtain certain information about an offender when that person is sentenced, committed or transferred to a penitentiary and I note the reference in this section to disclosure analogous to that contained in the
+Privacy Act
+; (2) section 25 which requires the CSC to give the National Parole Board, provincial governments, provincial parole boards, police and any body authorized by the CSC to supervise, all information under its control that is relevant to release decision-making or to the supervision or surveillance of offenders; (3) section 26 which deals with disclosure of information to victims; and (4) section 27 which speaks to information to be given to offenders. I reproduce sections 23 and 27 as most relevant to an appreciation of the context.
+"23(1)
+When a person is sentenced, committed or transferred to penitentiary, the Service shall take all reasonable steps to obtain, as soon as is practicable
+,
+(a) relevant information about the offence;
+(b) relevant information about the person's personal history, including the person's social, economic, criminal and young-offender history;
+(c) any reasons and recommendations relating to the sentencing or committal that are given or made by
+(i) the court that convicts, sentences or commits the person, and
+(ii) any court that hears an appeal from the conviction, sentence or committal;
+(d) any reports relevant to the conviction, sentence or committal that are submitted to a court mentioned in subparagraph (c)(i) or (ii); and
+(e) any other information relevant to administering the sentence or committal, including existing information from the victim, the victim impact statement and the transcript of any comments made by the sentencing judge regarding parole eligibility.
+"(2) Where access to the information obtained by the Service pursuant to subsection (1) is requested by the offender in writing, the offender shall be provided with access in the prescribed manner to such information as would be disclosed under the Privacy Act and the Access to Information Act.
+"(3) No provision in the Privacy Act or the Access to Information Act shall operate so as to limit or prevent the Service from obtaining any information referred to in paragraphs (1)(a) to (e).
+. . . . .
+"27(1) Where an offender is entitled by this Part or the regulations
+to make representations in relation to a decision to be taken by the Service about the offender, the person or body that is to take the decision shall, subject to subsection (3), give the offender, a reasonable period before the decision is to be taken, all the information to be considered in the taking of the decision or a summary of that information.
+"(2) Where an offender is entitled by this Part or the regulations to be given reasons for a decision taken by the Service about the offender, the person or body that takes the decision shall, subject to subsection (3), give the offender, forthwith after the decision is taken, all the information that was considered in the taking of the decision or a summary of that information.
+"(3)
+Except in relation to decisions on disciplinary offences, where the Commissioner has reasonable grounds to believe that disclosure of information under subsection (1) or (2) would jeopardize
+(a) the safety of any person,
+(b) the security of a penitentiary, or
+(c) the conduct of any lawful investigation,
+the Commissioner may authorize the withholding from the offender of as much information as is strictly necessary in order to protect the interest identified in paragraph (a), (b) or (c).
+"(4) An offender who does not have an adequate understanding of at least one of Canada's official languages is entitled to the assistance of an interpreter
+(a) at any hearing provided for by this Part or the regulations; and
+(b) for the purposes of understanding materials provided to the offender pursuant to this section." (emphasis mine)
+"23(1) Le Service doit, dans les meilleurs délais après la condamnation ou le transfèrement d'une personne au pénitencier, prendre toutes mesures possibles pour obtenir:
+a) les renseignements pertinents concernant l'infraction en cause;
+b) les renseignements personnels pertinents, notamment les antécédents sociaux, économiques et criminels, y compris comme jeune contrevenant;
+c) les motifs donnés par le tribunal ayant prononcé la condamnation, infligé la peine ou ordonné la détention — ou par le tribunal d'appel — en ce qui touche la peine ou la détention, ainsi que les recommandations afférentes en l'espèce;
+d) les rapports remis au tribunal concernant la condamnation, la peine ou l'incarcération;
+e) tous autres renseignements concernant l'exécution de la peine ou de la détention, notamment les renseignements obtenus de la victime, la déclaration de la victime quant aux conséquences de l'infraction et la transcription des observations du juge qui a prononcé la peine relativement à l'admissibilité à la libération conditionnelle.
+"(2) Le délinquant qui demande par écrit que les renseignements visés au paragraphe (1) lui soient communiqués a accès, conformément au règlement, aux renseignements qui, en vertu de la Loi sur la protection des renseignements personnels et de la Loi sur l'accès à l'information, lui seraient communiqués.
+"(3) Aucune disposition de la Loi sur la protection des renseignements personnels ou de la Loi sur l'accès à l'information n'a pour effet d'empêcher ou de limiter l'obtention par le Service des renseignements visés aux alinéas (1)a) à e).
+. . . . .
+"27(1) Sous réserve du paragraphe (3), la personne ou l'organisme chargé de rendre, au nom du Service, une décision au sujet d'un délinquant doit, lorsque celui-ci a le droit en vertu de la présente partie ou des règlements de présenter des observations, lui communiquer, dans un délai raisonnable avant la prise de décision, tous les renseignements entrant en ligne de compte dans celle-ci, ou un sommaire de ceux-ci.
+"(2) Sous réserve du paragraphe (3), cette personne ou cet organisme doit, dès que sa décision est rendue, faire connaître au délinquant qui y a droit au titre de la présente partie ou des règlements les renseignements pris en compte dans la décision, ou un sommaire de ceux-ci.
+"(3) Sauf dans le cas des infractions disciplinaires, le commissaire peut autoriser, dans la mesure jugée strictement nécessaire toutefois, le refus de communiquer des renseignements au délinquant s'il a des motifs raisonnables de croire que cette communication mettrait en danger la sécurité d'une personne ou du pénitencier ou compromettrait la tenue d'une enquête licite.
+"(4) Le délinquant qui ne comprend de façon satisfaisante aucune des deux langues officielles du Canada a droit à l'assistance d'un interprète pour toute audition prévue à la présente partie ou par ses règlements d'application et pour la compréhension des documents qui lui sont communiqués en vertu du présent article."

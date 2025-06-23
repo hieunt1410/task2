@@ -1,0 +1,9 @@
+[17]
+The opening words of the abstract of the '334 patent state:
+"A pharmaceutical composition comprising as an active ingredient a pharmaceutically effective amount of a 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-piperazino-quinoline-3-carboxylic acid of formula I ..."
+Further on, the '334 patent states:
+"This application is a divisional from the third of three divisional applications all of which are divided out of parent application serial number 409,435, filed on August 13, 1982. The third divisional application was filed on May 5th, 1986 with application number 508,336.
+. . . . .
+"The invention of the parent application relates to processes for preparing certain new 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-piperazinoquinoline-3-carboxylic acids which are compounds of formula I.
+"The invention of this application relates to compositions of certain of the compounds of formula I defined above and below in which R represents hydrogen or ethyl and to the use of such compositions in feed additives and as antibacterial agents."
+This divisional application was filed on October 26, 1990 and the '334 patent issued on September 21, 1993.

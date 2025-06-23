@@ -1,0 +1,10 @@
+[20]
+I read the
+Bayer
+decision as indicating that a second person's evidence must not be clearly incapable of sustaining its allegations, and if it meets that threshold, then the statutory presumption will be spent and cannot aid the applicant for the purpose of a NOC summary proceeding. This interpretation is supported by the language of section 45 of the pre-1989
+Patent Act
+, that the presumption is to apply "
+in the absence of
+any
+evidence to the contrary
+". I note, however, that simply succeeding in rebutting the presumption does not mean that a second person will be successful in a prohibition application, as it must still put sufficient evidence "in play" to challenge the validity of the patent as well as the applicant's expert evidence, while the overall legal burden remains with the applicant.

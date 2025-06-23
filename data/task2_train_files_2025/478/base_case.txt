@@ -1,0 +1,55 @@
+[1]
+Simpson, J.
+: The applicants, Biovail Corporation et al. (Biovail) have moved pursuant to Rule 414 of the
+Federal Courts Rules,
+S.O.R./98-106 to reduce the amount of assessed costs on the sole ground that the assessment officer committed an error in principle by allowing $104,000.00 towards the fees charged by Dr. Metin Celik, who was an expert witness for Sandoz Canada Inc. (Sandoz).
+BACKGROUND
+[2]
+On January 6, 2005, Biovail launched an application to prohibit the Minister of National Health and Welfare from issuing Notices of Compliance to Sandoz. Sandoz had proposed to manufacture a generic version of bupropion hydrochloride, an anti-depressant. Biovail held two patents, Canadian Patent no. 2,142,320 and Canadian Patent no. 2,168,364, which combined bupropion hydrochloride with a sustained release agent and with a stabilizing agent, respectively. Following a two day hearing, Mr. Justice James O'Reilly dismissed Biovail's application on June 21, 2006 with costs to Sandoz on the grounds that Biovail's patents would not be infringed. That decision is reported at 296 F.T.R. 93; 2006 FC 784.
+[3]
+This was not the first time Biovail had sought prohibition orders for bupropion hydrochloride. On March 31, 2003 and February 12, 2004, Biovail filed two applications against Novopharm Limited (the Novopharm Applications), and on September 22, 2004, Biovail filed an application against Pharmascience Inc. On January 6, 2005, Mr. Justice Sean Harrington dismissed the Novopharm Applications, and on May 11, 2006, Biovail discontinued the application against Pharmascience.
+THE COSTS AWARD
+[4]
+Assessment Officer Robinson wrote the parties on October 12, 2006. He noted that "this matter appears appropriate for disposition by way of written submissions" and set out a timetable for those submissions. Assessment Officer Robinson also invited the parties "to contact this office by letter/fax if you have any concerns." Biovail raised no concerns about the decision to proceed without an oral hearing.
+[5]
+On October 23, 2006, Sandoz submitted a Revised Bill of Costs which included $127,937.12 for the expert witness fees of Dr. Celik. The Bill of Costs was appended to an affidavit prepared by David Katz (the Katz Affidavit), who at the time was an articling student employed by counsel for Sandoz. Mr. Katz had no significant involvement in the application prior to preparing this affidavit.
+[6]
+In their written representations filed on November 10, 2006, Biovail argued that the Revised Bill of Costs was "completely insufficient to support the amounts" Sandoz was claiming and that "[o]ral cross-examination of Sandoz's expert witnesses (particularly Dr. Celik) and affiant Mr. Katz is the only way to expose problems with the many vague and incomplete documents Sandoz has provided." However, Biovail never actually asked to cross-examine Dr. Celik or Mr. Katz.
+[7]
+One of Biovail's arguments was that Dr. Celik, in addition to being an expert witness for Sandoz, had also been an expert witness for Novopharm in the Novopharm Applications. Biovail alleged that the affidavit evidence filed by Dr. Celik on behalf of Sandoz in Biovail's application was almost identical to the evidence he had provided in the Novopharm Applications. Biovail also said it was prevented from proving this allegation because the relevant affidavit evidence remained subject to protective orders. Nevertheless, Biovail never sought to vary the protective orders so that it could bring the affidavits in question before Assessment Officer Charles Stinson.
+[8]
+Stinson A.O. allowed Sandoz a total of $152,906.24 in costs, including $104,000.00 for Dr. Celik. His decision is reported at [2007] F.T.R. Uned. 483; 2007 FC 767.
+REASONS OF STINSON A.O.
+[9]
+Stinson A.O. commented about the evidence supporting Dr. Celik's charges at paragraph 27 of his decision. He said:
+"The lack of details makes it difficult to confirm whether the most efficient approach was indeed used or that there were no errors in instructions ... requiring remedial work. A paucity of evidence for the circumstances underlying each expenditure makes it difficult for the respondent on the assessment of costs and the assessment officer to be satisfied that each expenditure was incurred as a function of reasonable necessity."
+[10]
+Stinson A.O. also concluded at paragraph 29 of his decision that the Katz Affidavit "set out in general terms the instructions for the experts' work, but not in so much detail for Dr. Celik, for example, to permit confirmation that there were not any flawed instructions from supervising counsel resulting in unnecessary costs".
+[11]
+Stinson A.O. accepted that supervising counsel could not presume that Dr. Celik's work in the Novopharm Applications could be transplanted to the Biovail Application. However, he acknowledged that Dr. Celik's work in the Novopharm Applications should have made the preparation of his affidavit for Sandoz more straightforward.
+[12]
+Stinson A.O. mentioned a number of Dr. Celik's charges which appeared to be excessive or inappropriate, including 1.5 hours to read a book on organic chemistry. However, instead of doing a line-by-line review of Dr. Celik's invoices, he decided to exercise his discretion to determine what would be a reasonable expenditure in the circumstances. In doing so, Stinson A.O. described the assessment process as "more of an art form than an application of rules and principles", essentially reiterating Mr. Justice Richard Mosley's holding in
+FRAGMENT_SUPPRESSED
+[13]
+Stinson A.O. looked at the Revised Bill of Costs and concluded that Dr. Celik's work was in large measure reasonable and necessary. That said, he disallowed $23,937.12 or roughly 18.7% of the amount claimed for Dr. Celik's fees in the Revised Bill of Costs for an award of $104,000.
+DISCUSSION
+[14]
+In its written representations, Biovail alleged a number of errors in the assessment of costs and sought an order to have the costs for Dr. Celik reduced to nil. At the hearing before me, it conceded that at least some of Dr. Celik's costs, including all his disbursements, were reasonable and appropriate. It accepted the first (4.83 hours) and the 21st to 25th items (28.58 hours total) in Dr. Celik's May 17, 2005 invoice, the first and last items (4 and 5.5 hours respectively) in his May 31, 2005 invoice and the 15th (4.17 hours), 17th (4 hours), 19th (4 hours) and 20th (10.42 hours) in his August 1, 2005 invoice, for a total of 65.5 hours.
+[15]
+It became apparent during oral submissions that the order Biovail really wants on this motion is one which requires the items still in contention to be referred back to the assessment officer for a reassessment after allowing Sandoz to file additional affidavit evidence to show that each charge was incurred as a function of reasonable necessity. Biovail acknowledged that many of the charges it has not accepted could probably be justified as reasonable if more supporting evidence were provided.
+[16]
+In my view, an assessment officer is not obliged to review each charge on Dr. Celik's invoices. The kind of line-by-line inquiry Biovail seeks is not what is meant by the notion of "rough justice". In this case, the assessment officer was satisfied that Dr. Celik did the work and that it was necessary. He was therefore entitled to assess his charges as a whole.
+[17]
+In order to interfere with an assessment officer's discretion, "the amounts allowed [must be] so inappropriate or his decision ... so unreasonable as to suggest that an error in principle must have been the cause" (
+I.B.M. Canada Ltd. v. Xerox of Canada Ltd. and Xerox Corp.
+, [1977] 1 F.C. 181; 12 N.R. 440 (F.C.A.), at 185). For the above reasons, I find no such error in principle.
+JUDGMENT
+[18]
+UPON
+reviewing the material filed and hearing the submissions of counsel for both parties in Toronto on Monday, October 22, 2007;
+[19]
+NOW THEREFORE THIS COURT ORDERS AND ADJUDGES that
+for the reasons given above the motion is hereby dismissed with costs.
+Motion dismissed.
+Editor: Angela E. McKay/vnh
+[End of document]

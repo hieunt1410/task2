@@ -1,0 +1,82 @@
+Alpha Marathon v. Dual Spiral Systems, [2005] F.T.R. Uned. 942 (FC)
+MLB unedited judgment
+Alpha Marathon Technologies Inc. (plaintiff) v. Dual Spiral Systems Inc. and Rafael J. Castillo (defendants)
+(T-632-05; 2005 FC 1582)
+Indexed As: Alpha Marathon Technologies Inc. v. Dual Spiral Systems Inc. et al.
+Cite As: [2005] F.T.R. Uned. 942
+Federal Court
+Snider, J.
+November 23, 2005.
+Counsel:
+Harjinder Mann, for the plaintiff;
+Rafael J. Castillo, on his own behalf and for the defendant, Dual Spiral Systems Inc.
+Solicitors of Record:
+Anissimoff Professional Corp., London, Ontario, for the plaintiff;
+Rafael J. Castillo, Hamilton, Ontario, for the defendant, Dual Spiral Systems Inc.
+Summary:
+This case is unedited, therefore contains no summary.
+Motion by Defendant to represent the corporation
+[1]
+Snider, J.
+: This is an action concerning a U.S. patent application, in which the Defendant, Rafael J. Castillo, filed and served a Statement of Defence and Counter-claim on behalf of himself and the remaining Defendant, Dual Spiral Systems Inc., of which Mr. Castillo is the sole shareholder, officer, and director. Mr. Castillo has brought this motion pursuant to Rule 120 of the Federal Courts Rules, SOR/98-106, seeking leave to act as the lay representative of Dual Spiral Systems Inc. The Plaintiff, Alpha Marathon Technologies, opposes this motion.
+[2]
+Rule 120 states:
+120. A corporation, partnership or unincorporated association shall be represented by a solicitor in all proceedings, unless the Court in special circumstances grants leave to it to be represented by an officer, partner or member, as the case may be.
+120. Une personne morale, une société de personnes ou une association sans personnalité morale se fait représenter par un avocat dans toute instance, à moins que la Cour, à cause de circonstances particulières, ne l'autorise à se faire représenter par un de ses dirigeants, associés ou membres, selon le cas.
+[3]
+The parties agree that the factors to be considered by the Court in a Rule 120 motion are those set out in Kobetek Systems Ltd. v. Canada, [1998] 1 C.T.C. 308, 98 G.T.C. 6041 (F.C.T.D.), at para. 6. These factors are:
+1. whether a corporation can pay for a lawyer;
+2. whether the proposed representative will be required to appear as advocate and witness;
+3. the complexity of the legal issues to be determined (and thus whether it appears that the representative will be able to handle the legal issues); and
+4. whether the action can proceed in an expeditious manner.
+[4]
+These factors collectively address the "special circumstances" required to allow a lay person to represent a corporation. Although these factors are not necessarily determinative or exhaustive (Chase Bryant Inc. v. Canada, [2002] T.C.J. No. 663 at para. 6 (T.C.C.)), the onus on the applicant to establish special circumstances is a high one (FRAGMENT_SUPPRESSED). The applicant must provide "clear and unambiguous evidence" establishing special circumstances, and these circumstances must be "unusual, uncommon and exceptional and the result of external forces as distinct from the voluntary acts of the Defendant" (Source Services, at paras. 4-5).
+Impecuniosity
+[5]
+The ability of Dual Systems Inc. to pay for legal representation is without a doubt the most important factor for the Court to consider. In Chase Bryant Inc., at para. 7, Associate Chief Judge Bowman stated for the Tax Court of Canada that, where a company can afford to pay a lawyer, "it is difficult to imagine circumstances which would justify a departure from the rule that a corporation must be represented by counsel". The Federal Court of Appeal expressed the view that this Court "must be satisfied that the corporations are truly unable to pay for a lawyer" (S.A.R. Group Relocation Inc. v. Canada (Attorney General), [2002] F.C.J. No. 367 at para. 2).
+[6]
+Mr. Castillo admits that Dual Systems Inc. has the financial means to retain legal counsel, and submits that this motion was not brought by reason of impecuniosity. Therefore, this factor weighs heavily against granting the motion.
+Whether Mr. Castillo will act as a Witness
+[7]
+The second factor to be examined is the likelihood that Mr. Castillo will appear as a witness in the action, should it proceed to trial. In S.A.R. Group Relocation, the Federal Court of Appeal stated that the possibility of a lay representative appearing as witness "militates against the Court making an order under Rule 120" (at para. 2). There have been some exceptions on the basis that a lay representative is not beholden to the same obligations as an officer of the court (see for example Muszka v. The Queen (1993), 94 DTC 6076 (QL) (F.C.A.)).
+[8]
+The Tax Court of Canada, in RFA Natural Gas Inc. v. The Queen, [2000] T.C.J. No. 327, allowed an officer of the appellant corporation to act as its representative despite the fact that she would be called as a witness (at para. 7). However, in contrast to the situation before me, in that case, there was no question that the corporation could not afford a lawyer (at para. 4) and that, without some form of representation, the action would prematurely end (at para. 9).
+[9]
+In my mind, there can be little doubt that Mr. Castillo will be required to act as a witness. This is a patent action in which Mr. Castillo is the claimed inventor of the patented invention, and is the sole owner and directing mind of the corporate Defendant, Dual Systems Inc. It is difficult to contemplate how this action would proceed without his testimony. During the hearing of this motion, Mr. Castillo advised that he would retain counsel when this matter comes to trial or there is a motion for summary judgment. Therefore, he submits that the situation will not occur where he will be both lawyer and witness. However, he ignores the possibility of motions where he will likely be required to submit his own affidavit evidence.
+[10]
+Accordingly, this factor militates against granting leave to allow Mr. Castillo to act as the representative for Dual Systems Inc.
+Legal Complexity and the Expeditious Manner of the Action
+[11]
+As with the above factor, some decisions of the Tax Court of Canada have suggested a reduced importance for complexity as a factor (See RFA Natural Gas, at para. 11; T.J.'s Transportation & Lumber Ltd. v. Canada, [2003] T.C.J. No. 493 (T.C.C.) at para. 14). In T.J's Transportation, Justice Hershfield described this factor as "little more than paternalistically protecting the Appellant against itself." However, he also warned that "if it impedes the expeditious prosecution of the appeal, it takes on more significance."
+[12]
+Mr. Castillo acknowledges that the issues in this action are legally complex. I must agree, especially in light of the numerous and varied counter-claims made by the Defendants in response to the Plaintiff's statement of claim, including patent and trademark infringement, defamation, and breach of contract.
+[13]
+Mr. Castillo's responses, as found in the transcript of the cross-examination, are particularly troubling in regards to the possibility of an expeditious proceeding. His steadfast refusal to answer most questions put to him by Plaintiff's counsel, even many that were clearly relevant to this motion, indicates what manner further proceedings will take. That manner will be slow, bumpy, and painstaking.
+[14]
+Further, Mr. Castillo's refusal to answer any questions which might touch at all on his understanding of the substantive law relating to this action, even relating to counter-claims drafted personally by him, gives rise to some suspicion on my part that he lacks the necessary legal understanding to represent Dual Systems Inc., even at his stage of the litigation. Both the above reasons militate against granting leave.
+Other Factors - Malicious and Frivolous Suit
+[15]
+Mr. Castillo submits one further factor for the consideration of this Court: that the action brought by the Plaintiffs has no merit, lacks evidence supporting its claims, and is frivolous and vexatious in nature. While Mr. Castillo concedes that the substance of these remarks is properly determined at other stages of the proceeding, such as during a motion to strike or at trial, he submits that it would be unfair to require Dual Systems Inc. to retain counsel merely to rid itself of a baseless action.
+[16]
+In light of my foregoing analysis concerning the Kobetek factors, this allegation that the Plaintiff's action lacks merit, which is unproved at this time, cannot alone be enough to constitute "special circumstances" under R. 120.
+Disposition
+[17]
+Having considered each of the relevant factors in light of the evidence before me on this motion, I conclude that Mr. Castillo has not established that "special circumstances" exist which would merit departing from the requirement in R. 120 that a corporation must be represented by legal counsel. The motion will be denied.
+Costs
+[18]
+Mr. Castillo submits that he bears the burden of proof in this motion and that the Plaintiff was not obligated to respond; therefore the Plaintiff should bear its own costs, including those for cross-examination.
+[19]
+The Plaintiff submits that the costs of this motion should follow the cause. However, with regard to the costs of its cross-examination on the affidavit of Mr. Castillo, it seeks to be fully reimbursed due to the improper refusal of Mr. Castillo to answer many of the questions posed. Those costs should, in its view, be payable forthwith.
+[20]
+This motion was not brought for any improper purpose; nor was it frivolous or vexatious. While Mr. Castillo refused to answer many questions during cross-examination, he provided the Plaintiff with sufficient information to respond to the motion. However, I do not agree that the Plaintiff should, in effect, be penalized for responding to this motion. The consequences to the Plaintiff of having to deal with a self-represented litigant could have been serious and the Plaintiff acted prudently in its opposition to the motion.
+[21]
+On balance, and in my discretion, I will award costs to the Plaintiff, in any event of the cause, in accordance with the middle of Column 3 of Tariff B of the Federal Courts Rules.
+Case Management
+[22]
+At the conclusion of the hearing, both parties indicated that it was their wish to have this action continued as a specially managed proceeding. Given the nature of the litigation, I agree that the appointment of a case management judge or prothonotary may be of great assistance to the efficient progression of this file.
+Order
+[23]
+This Court orders that:
+1. The motion is denied with costs to the Plaintiff, in any event of the cause, in accordance with the middle of Column 3 of Tariff B of the Federal Courts Rules.
+2. The file is to continue as a specially managed proceeding with a case management judge or prothonotary assigned by the Chief Justice pursuant to Rule 383.
+[End of document]

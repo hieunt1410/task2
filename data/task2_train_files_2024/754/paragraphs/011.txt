@@ -1,0 +1,3 @@
+[11]
+The words "reasonable grounds to believe" create a relatively low evidentiary threshold. It is a standard commonly used in the criminal law in relation to the issuance of warrants or other forms of legal process. Chief Justice Brian Dickson described it as an objective standard with the following important purpose:
+The state's interest in detecting and preventing crime begins to prevail over the individual's interest in being left alone at the point where credibly-based probability replaces suspicion. History has confirmed the appropriateness of this requirement as the threshold for subordinating the expectation of privacy to the needs of law enforcement. (Hunter v. Southam Inc., [1984] 2 S.C.R. 145, at 167-8.)

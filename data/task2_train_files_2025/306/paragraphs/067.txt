@@ -1,0 +1,11 @@
+[67]
+Assuming for the sake of argument that the hydraulic locks are the basis of the invention, the patent is on a very fragile base. On crossexamination, Mr. Fernström was asked about 36, 35, 43, 44 hydraulic locks (he preferred the terms hydraulus and hydraulic lock) and he replied at page 255:
+"as long as it is understood being two double ...
+two pilot operated check valves
+."
+(underlining is mine)
+He also said the same thing on examination for discovery. This is brought out on cross-examination at page 256 of the transcript:
+"Q.	... The next question is: What is a hydraulic lock? And you told me on discovery that a hydraulic lock is another name for a pilot operated check valve. Do you remember making that statement?
+A.	For two pilot operated check valves.
+Q.	Two hydraulic pilot operated check valves together; is that right?
+A.	Yes."

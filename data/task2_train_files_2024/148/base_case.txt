@@ -1,0 +1,424 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fleet v. Can. (A.G.) (2010), 370 F.T.R. 192 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2010] F.T.R. TBEd. JN.010 
+ 
+ 
+ 
+ Ken R. Fleet (applicant) v. Canada (Attorney General) 
+ 
+ (respondent) 
+ 
+ (T-673-09; 2010 FC 609) 
+ 
+ 
+ 
+ Indexed As: Fleet v. Canada (Attorney General) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Crampton, J. 
+ 
+ June 7, 2010. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The taxpayer's employer (federal government department) incorrectly advised him that he could transfer pension earnings from the plan administered by the department to his RRSP without being subject to over-contribution penalties. After failing to take timely steps required to avoid paying penalties and interest, the taxpayer applied under s. 220(3.1) of the Income Tax Act for a discretionary waiver of the $1,300 in fines and penalties resulting from the RRSP over-contribution. The Minister's delegate declined to grant the requested relief. The taxpayer applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Income Tax - Topic 3905.2 
+ 
+ Interpretation - General - Departmental policy or guidelines - The Canada Revenue Agency's Income Tax Information Circular IC07-1 provided guidance on the circumstances in which the Minister could exercise his discretion under s. 220(3.1) of the Income Tax Act to waive penalties and interest - The Federal Court stated that "it is well established that although administrative guidelines are not binding, they are an important tool of good public administration and may validly influence an administrative decision-maker's conduct. By assisting members of the public to predict how an agency is likely to exercise its statutory discretion, guidelines assist individuals and businesses to arrange their affairs. At the same time, they enable an agency to deal with an issue comprehensively and proactively, rather than incrementally and reactively, on a case by case basis" - See paragraph 25. 
+ 
+ 
+ 
+ Income Tax - Topic 7803 
+ 
+ Returns, assessments, payment and appeals - Interest - Waiver - [See  
+ Income Tax - Topic 9204 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 7824 
+ 
+ Returns, assessments, payment and appeals - Penalties - Waiver - [See  
+ Income Tax - Topic 9204 
+ ]. 
+ 
+ 
+ 
+ Income Tax - Topic 9204 
+ 
+ Enforcement - General - Fairness legislation - The taxpayer's employer (federal government department) incorrectly advised him in April 2003 that he could transfer pension earnings from the plan administered by the department to his RRSP without being subject to over-contribution penalties - Section 204.1 of the Income Tax Act required a 1% tax on over-contributions - The taxpayer was also required to file a T1-OVP return for each tax year in which his RRSP balance exceeded the allowable contribution limit - The taxpayer did not file any such returns and did not eliminate the over-contribution until May 2007 - The taxpayer applied under s. 220(3.1) of the Act for a discretionary waiver of the $1,300 in fines and penalties imposed on the basis of extraordinary circumstances - He did not seek waiver due to inability to pay or financial hardship - The Minister's delegate declined to waive the fines and penalties, finding that (1) it was within the taxpayer's control to ensure that the returns were filed by the due dates and that the tax was paid, and (2) there were no extenuating circumstances preventing him from complying with his obligations - The Federal Court dismissed the taxpayer's judicial review application - The delegate's decision was not unreasonable, as it fell "within a range of possible, acceptable outcomes which are defensible with respect to the facts and the law" - Even if the taxpayer relied on errant advice from his advisors, the law clearly established that taxpayers were "directly responsible for the actions of those persons appointed to take care of [their] financial matters". 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Telfer v. Canada Revenue Agency (2009), 386 N.R. 212; 2009 FCA 23, refd to. [para. 17]. 
+ 
+ New Brunswick (Board of Management) v. Dunsmuir, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, refd to. [para. 17]. 
+ 
+ Thamotharem v. Canada (Minister of Citizenship and Immigration) (2008), 366 N.R. 301; 2007 FCA 198, refd to. [para. 25]. 
+ 
+ Babin v. Canada Customs and Revenue Agency, [2005] F.T.R. Uned. A34; 2005 FC 972, refd to. [para. 29]. 
+ 
+ Northview Apartments Ltd. v. Canada (Attorney General), [2009] F.T.R. Uned. 67; 2009 FC 74, refd to. [para. 29]. 
+ 
+ PPSC Enterprises Ltd. v. Minister of National Revenue, [2007] F.T.R. Uned. 526; 2007 FC 784, refd to. [para. 29]. 
+ 
+ Jones Estate v. Canada (Attorney General) (2009), 347 F.T.R. 131; 2009 FC 646, refd to. [para. 29]. 
+ 
+ Sandler v. Canada (Attorney General), [2010] F.T.R. Uned. 304; 2010 FC 459, refd to. [para. 29]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, sect. 220(3.1) [para. 16]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Ken Fleet, applicant, on his own behalf; 
+ 
+ Jamie Hammersmith and Brooke Sittler, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Myles J. Kirvan, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard on May 12, 2010, at Calgary, Alberta, before Crampton, J., of the Federal Court, who delivered the following judgment on June 7, 2010. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Crampton, J. 
+ : The sole issue in this case is whether it was reasonable for the Minister's delegate, Donna Mochrie, to decline to exercise her discretion to grant relief from penalties and arrears interest, totalling approximately $1,300.00, that had been imposed on the Applicant, Mr. Ken Fleet, in respect of his over-contribution to his Registered Retirement Savings Plan. 
+ 
+ 
+ 
+ I.  
+ Background 
+ 
+ 
+ 
+ [2] 
+  This dispute arose after Mr. Fleet was erroneously advised in April 2003 by his employer, the Department of Indian and Northern Affairs Canada (DINAC), that he could transfer his pension earnings from the plan that DINAC maintained on his behalf to his RRSP without being subject to over-contribution penalties. As a result of that advice, Mr. Fleet transferred approximately $14,000.00 to his RRSP. 
+ 
+ 
+ 
+ [3] 
+  In a letter dated February 23, 2004, a representative of DINAC informed Mr. Fleet that an error had been made on his 2003 T4A and that his pension earnings were not in fact eligible to be transferred to his RRSP. 
+ 
+ 
+ 
+ [4] 
+  In March 2004, Mr. Fleet relied on a representative of his investment advisor, BMO Nesbitt Burns, to file a Form T3012A with the Canada Revenue Agency (CRA) on his behalf. The form requested a waiver of the withholding tax that otherwise is applicable to the withdrawal of RRSP over-contributions. Unfortunately, the CRA has no record of having received that form. The only evidence that Mr. Fleet adduced to support his position that the form was in fact sent to the CRA, was his own statement that he was told by his former accountant that Mr. Fleet's contact at the bank had confirmed to him that the form had been sent to the CRA. 
+ 
+ 
+ 
+ [5] 
+  Mr. Fleet did not become aware of the fact that the CRA had not received that form until in April 2005, when he and his accountant were preparing his tax return in respect of his 2004 taxation year. 
+ 
+ 
+ 
+ [6] 
+  In September 2005, after a significant portion of his 2003 over-contribution had automatically been applied to his 2004 taxation year, Mr. Fleet transferred $3,985.97 out of his RRSP to reduce his over-contribution and his exposure to ongoing penalties and arrears interest charges. 
+ 
+ 
+ 
+ [7] 
+  In April 2006, on the advice of his accountant, Mr. Fleet filed a second Form T3012A to request a waiver of the withholding tax that otherwise would have applied to the withdrawal of all or part of the remaining over-contribution that he made to his RRSP in 2003. That request was denied in May 2006 on the basis that the deadline for filing that request had passed. 
+ 
+ 
+ 
+ [8] 
+  In February 2007, as part of a broader initiative to address RRSP over-contributions, the CRA sent a letter to Mr. Fleet. Among other things, that letter stated that, according to the CRA's records, (i) he may have RRSP excess contributions that are subject to a tax of 1% per month; and (ii) he had not filed any T1-OVP returns to report and pay this tax. 
+ 
+ 
+ 
+ [9] 
+  In response to that letter, Mr. Fleet arranged for BMO Nesbitt Burns to deregister $5,685.00 from his RRSP. In addition, in May 2007, Mr. Fleet finally filed his T1-OVP returns for the 2003 to 2006 taxation years. At that time, he also requested a discretionary waiver, pursuant to subsection 220(3.1) of the  
+ Income Tax  
+ Act 
+ , R.S.C. 1985, c. 1 (5th Supp.) ( 
+ ITA 
+ ), of the penalties and interest arrears to which he was subject as a result of having made the over-contribution to his RRSP in 2003. 
+ 
+ 
+ 
+ [10] 
+  After processing Mr. Fleet's T1-OVP returns, the CRA sent, in April 2008, Notices of Assessment to Mr. Fleet informing him that he owed a total of almost $1,900.00 in net federal taxes plus a total of approximately $1,300.00 in penalties and arrears interest, for the taxation years 2003 to 2006. 
+ 
+ 
+ 
+ [11] 
+  In a separate letter dated April 21, 2008, Ms. M.E. Gjersten, an Individual & Benefit Services Team Leader at CRA, advised Mr. Fleet that, after carefully considering the circumstances of his case, she had declined to grant his request for the waiver of his late-filing penalties and interest arrears. 
+ 
+ 
+ 
+ [12] 
+  In October 2008, after receiving two reminders regarding his outstanding taxes, penalties and arrears interest in June 2008 and July 2008, Mr. Fleet requested a reconsideration of Ms. Gjersten's adverse decision. 
+ 
+ 
+ 
+ II.  
+ The Decision under Review 
+ 
+ 
+ 
+ [13] 
+  On March 27, 2009, Ms. Mochrie denied Mr. Fleet's second request for the cancellation of the penalties and interest arrears charged in respect of the over-contribution to his RRSP in 2008. 
+ 
+ 
+ 
+ [14] 
+  In her letter to Mr. Fleet, Ms. Mochrie noted that the fact that the CRA did not receive his initial Form T3012A was brought to his attention during the preparation of his 2004 tax return. She further noted that he was informed in May 2006 that his second Form T3012A had been filed beyond the applicable deadline. She also noted that his excess RRSP contributions were not completely withdrawn until the 2007 taxation year. 
+ 
+ 
+ 
+ [15] 
+  Ms. Mochrie's letter then stated that, after carefully considering the circumstances of his case, it had been determined that it would not be appropriate to cancel the penalties or interest arrears in question. The letter provided the following reasons for that adverse determination: 
+ 
+ 
+ 
+ "It was within your control to exercise reasonable care and to act in a timely manner to ensure that your T1-OVP returns were filed by the due dates and the tax was paid. Your submission did not identify any extenuating circumstances that prevented you from doing so. The Canada Revenue Agency cannot be held responsible for errors made by a third party." 
+ 
+ 
+ 
+ III.  
+ The Applicable Legislation 
+ 
+ 
+ 
+ [16] 
+  Section 220(3.1) of the  
+ ITA 
+  states as follows: 
+ 
+ 
+ 
+ "220(3.1) The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer (or in the case of a partnership, a fiscal period of the partnership) or on application by the taxpayer or partnership on or before that day, waive or cancel all or any portion of any penalty or interest otherwise payable under this Act by the taxpayer or partnership in respect of that taxation year or fiscal period, and notwithstanding subsections 152(4) to (5), any assessment of the interest and penalties payable by the taxpayer or partnership shall be made that is necessary to take into account the cancellation of the penalty or interest." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "220(3.1) Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin de l'année d'imposition d'un contribuable ou de l'exercice d'une société de personnes ou sur demande du contribuable ou de la société de personnes faite au plus tard ce jour-là, renoncer à tout ou partie d'un montant de pénalité ou d'intérêts payable par ailleurs par le contribuable ou la société de personnes en application de la présente loi pour cette année d'imposition ou cet exercice, ou l'annuler en tout ou en partie. Malgré les paragraphes 152(4) à (5), le ministre établit les cotisations voulues concernant les intérêts et pénalités payables par le contribuable ou la société de personnes pour tenir compte de pareille annulation." 
+ 
+ 
+ 
+ IV.  
+ Standard of Review 
+ 
+ 
+ 
+ [17] 
+  The standard of review normally applicable to the exercise of discretion is reasonableness ( 
+ Telfer v. Canada Revenue Agency 
+  (2009), 386 N.R. 212; 2009 FCA 23, at para. 24). In short, the exercise of Ministerial or administrative discretion will stand unless the decision is not "within a range of possible, acceptable outcomes which are defensible with respect to the facts and the law" ( 
+ New Brunswick (Board of Management) v. Dunsmuir 
+ , [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, at paras. 47 and 51). 
+ 
+ 
+ 
+ V.  
+ Analysis 
+ 
+ 
+ 
+ [18] 
+  Section 204.1 of the  
+ ITA 
+  requires a payment of a 1% tax on RRSP over-contributions. When an over-contribution is made, a taxpayer is also required to file a T1-OVP return for each taxation year in respect which the taxpayer's RRSP balance exceeds the allowable contribution limit. 
+ 
+ 
+ 
+ [19] 
+  Unfortunately, Mr. Fleet did not file any T1-OVP returns until May 2007, after receiving correspondence from the CRA in February of that year which suggested that he do so. 
+ 
+ 
+ 
+ [20] 
+  Section 220(3.1) provides the Minister with the discretion to grant what has been described as an "extraordinary statutory ... exemption from a basic principle of the tax system, namely, that taxpayers are liable to pay taxes owing by April of the following year, failing which, they must pay interest, at the prescribed rate, on any amount owing" ( 
+ Telfer 
+ , above, at para. 34). 
+ 
+ 
+ 
+ [21] 
+  The CRA's  
+ Income Tax Information Circular IC07-1 
+  provides guidance on the circumstances in which the Minister may exercise his discretion under section 220(3.1) to waive or cancel penalties. At paragraph 23, that document states that the Minister may grant such relief where one of the following types of situations justify a taxpayer's inability to satisfy a tax obligation or requirement: (i) extraordinary circumstances; (ii) actions of the CRA; and (iii) inability to pay or financial hardship. 
+ 
+ 
+ 
+ [22] 
+  In the case at bar, Mr. Fleet confirmed that he did not seek relief on the basis of an inability to pay or financial hardship. He rested his case primarily on the existence of extraordinary circumstances. As to the actions of the CRA, he claimed the agency's delays in responding to his correspondence and telephone messages were such as to make the exercise of discretion particularly warranted in his case. 
+ 
+ 
+ 
+ [23] 
+  IC07-1 states, at paragraph 25, that the types of extraordinary circumstances that may lead to the exercise of discretion to waive or cancel penalties and interest include: (a) natural or man-made disasters such as flood or fire; (b) civil disturbances or disruptions in services, such as a postal strike; (c) a serious illness or accident; or (d) serious emotional or mental distress, such as death in the immediate family. 
+ 
+ 
+ 
+ [24] 
+  As to administrative delays, IC07-1 states, at paragraph 26, that "processing delays that result in a taxpayer not being informed, within a reasonable time, that an amount was owing" may provide a basis for the waiver or cancellation of penalties and interest. 
+ 
+ 
+ 
+ [25] 
+  It is well established that although administrative guidelines are not binding, they are an important tool of good public administration and may validly influence an administrative decision-maker's conduct. By assisting members of the public to predict how an agency is likely to exercise its statutory discretion, guidelines assist individuals and businesses to arrange their affairs. At the same time, they enable an agency to deal with an issue comprehensively and proactively, rather than incrementally and reactively, on a case by case basis. ( 
+ Thamotharem v. Canada (Minister of Citizenship and Immigration) 
+  (2008), 366 N.R. 301; 2007 FCA 198, at paras. 55-57.) 
+ 
+ 
+ 
+ [26] 
+  In support of his request for the exercise of discretion under section 220(3.1) of the  
+ ITA 
+ , Mr. Fleet stated that, due to a move to a new location, he had difficulty corresponding in a timely manner with the CRA, his accountant and his investment advisor (BMO Nesbitt Burns). He further stated that "resulting delays [by the CRA then led to a] failure to grant requests, misplaced documents, etc." 
+ 
+ 
+ 
+ [27] 
+  I can certainly understand why Mr. Fleet believes that he has been treated unfairly in the circumstances. In addition, I sympathize with his position that he went to great lengths to proactively address his situation with the CRA. 
+ 
+ 
+ 
+ [28] 
+  However, contrary to his submissions, he did not do all that he could to avoid his predicament. His former employer informed him in February 2004 of its incorrect advice. He could have withdrawn his over-contribution at that point, while waiting to hear back from the CRA regarding his request for a waiver from the withholding tax applicable to the withdrawal of RRSP over-contributions. In addition, rather than relying upon his investment advisor to file that waiver request, he could have sent it himself, or even delivered it in person. Moreover, he could have filed his T1-OVP returns for the years in question when they were due, rather than waiting until May 2007 to do so. Finally, he could have paid the applicable penalties much sooner, rather than waiting, while interest arrears continued to accrue on the outstanding amounts payable. 
+ 
+ 
+ 
+ [29] 
+  It is apparent to me that at least part of the reason why Mr. Fleet did not take any of these steps is that he relied on his advisors and became an unfortunate victim of their errors or omissions. However, the law is well established that taxpayers are "directly responsible for the actions of those persons appointed to take care of [their] financial matters" ( 
+ Babin v. Canada Customs and Revenue Agency 
+ , [2005] F.T.R. Uned. A34; 2005 FC 972, at para. 19;  
+ FRAGMENT_SUPPRESSED
+ PPSC Enterprises Ltd. v. Minister of National Revenue 
+ , [2007] F.T.R. Uned. 526; 2007 FC 784, at para. 23; and  
+ Jones Estate v. Canada (Attorney General) 
+  (2009), 347 F.T.R. 131; 2009 FC 646, at para. 59) and that they "are expected to inform themselves of the applicable filing requirements" ( 
+ Sandler v. Canada (Attorney General) 
+ , [2010] F.T.R. Uned. 304; 2010 FC 459, at para. 12). 
+ 
+ 
+ 
+ [30] 
+  Given the foregoing, I am unable to conclude that the decision under review was unreasonable. While I may have reached a different conclusion, the decision was certainly "within a range of possible, acceptable outcomes which are defensible with respect to the facts and the law" ( 
+ Dunsmuir 
+ , above), for Ms. Mochrie to decline to exercise her discretion, on the basis that (i) it was within Mr. Fleet's control to ensure that the T1-OVP returns were filed by the due dates and that the applicable tax was paid; and (ii) his submission did not identify any extenuating circumstances that preventing him from doing so. 
+ 
+ 
+ 
+ [31] 
+  As to the delays and errors that Mr. Fleet alleged on the part of the CRA, I am unable to conclude that those alleged delays and errors were such as to render unreasonable Ms. Mochrie's refusal to exercise her discretion in favour of Mr. Fleet. 
+ 
+ 
+ 
+ [32] 
+  The only evidence adduced by Mr. Fleet to support the claim that his initial Form T3012A was in fact sent to the CRA was hearsay evidence that he had been told by his accountant that the latter had been told by Mr. Fleet's investment advisor that the form had been sent to the CRA. I am unable to conclude, on the basis of this evidence, that the CRA ever received that form. In any event, even if the CRA had received that form and had exercised its discretion to waive the withholding tax applicable to the withdrawal of RRSP over-contributions, Mr. Fleet still would have been obliged to file T1-OVP returns for the 2003 and 2004 years, and to pay the applicable interest that had accrued to that point. His failure to file those returns, and to finally eliminate the over-contribution to his RRSP, before 2007 lead to further penalties and arrears interest. 
+ 
+ 
+ 
+ [33] 
+  Mr. Fleet submits that the CRA exacerbated the situation by informing him, in February 2007, that he  
+ may 
+  have had RRSP excess contributions that were subject to a tax of 1% per month. Mr. Fleet maintains that the CRA should have explicitly informed him of the amount that he specifically owed to him, if any, at that time. However, it appears that the CRA was not in a position to calculate the precise amount owing by Mr. Fleet in respect of his 2003 RRSP over-contribution until Mr. Fleet filed his T1-OVP returns for the years 2003 to 2006, which he did not do until May 2007. In any event, I am unable to conclude that the decision under review was unreasonable because Mr. Fleet may have been misled by the language used by the CRA in its February 2007 letter. Indeed, I find that letter to have been reasonable in the circumstances. 
+ 
+ 
+ 
+ [34] 
+  Finally, as to the alleged delays by the CRA, I am unable to conclude that they were such as to render Ms. Mochrie's decision unreasonable. Apart from the fact that the CRA did not respond to the initial Form T3012A, which I am prepared to assume it never received, the CRA does not appear to have taken an unreasonably long period of time to respond to any of Mr. Fleet's correspondence. 
+ 
+ 
+ 
+ VI.  
+ Conclusion 
+ 
+ 
+ 
+ [35] 
+  This application for judicial review is dismissed. 
+ 
+ 
+ 
+ [36] 
+  However, given that this dispute arose as a result of the erroneous advice that Mr. Fleet received from DINAC, another branch of the federal government, I do not consider it appropriate to grant the Respondent's request for costs. Accordingly, there will be no order as to costs. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [37] 
+   
+ THIS COURT ORDERS AND ADJUGES THAT 
+ : 
+ 
+ 
+ 
+ The application for judicial review is dismissed with no order as to costs. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Steven C. McMinniman/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

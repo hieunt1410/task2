@@ -1,0 +1,4 @@
+[41]
+Before doing so, however, I will deal briefly with one particular point made by counsel for the defendants. Despite stating that he was contesting the validity of the patent, he argued that as the claims in the patent were similar to the prior art, the claims should be interpreted as very narrow in scope. This is not proper in law. The prior art has nothing to do with the construction of the claims in a patent; the court interprets the claims on the basis of the evidence of persons skilled in the art. The task of understanding a claim is to be done dispassionately, regardless of any attack on its validity.
+Cochlear Corp. v. Cosem Neurostim Ltée
+(1995), 64 C.P.R.(3d) 10 (T.D.). A claim is either valid or it is not. Its scope is not narrowed or widened in an examination of the possible grounds of invalidity. Thus, I cannot accept counsel's submission that the claims should be interpreted narrowly.

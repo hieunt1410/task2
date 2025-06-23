@@ -1,0 +1,15 @@
+[22]
+The plaintiff alleges that the use by the defendant of the word WILDBERRY is confusing with the plaintiff's trademark and design. Section 6 of the Trade Marks Act sets out the test for confusion:
+"SECTION 6. WHEN MARK OR NAME CONFUSING
+"(1) For the purposes of this Act a trademark or trade name is confusing with another trademark or trade name if the use of such first mentioned trademark or trade name would cause confusion with such last mentioned trademark or trade name in the manner and circumstances described in this section.
+. . . . .
+"(5) What to be considered. In determining whether trademarks or trade names are confusing, the court or the Registrar, as the case may be, shall have regard to all the surrounding circumstances including.
+(a) the inherent distinctiveness of the trademarks or trade names and the extent to which they have become known;
+(b) the length of time the trademarks or trade names have been in use;
+(c) the nature of the wares, services or business;
+(d) the nature of the trade; and
+(e) the degree of resemblance or sound or in the ideas suggested by them."
+Considering the criteria set forth in s. 6(5):
+(a) The mark does not appear to be inherently distinctive. It combines two well known words. The words "wild berry" appear to be used frequently in relation to several food products.
+(b) The plaintiff's mark has been in use a comparatively short period of time. The Ontario Court of Appeal in Cochrane-Dunlop Hardware Ltd. v. Capital Diversified Industries Ltd. (1976), 30 C.P.R.(2d) 176, at page 185, quotes Fox, Canadian Law of Trade Marks and Unfair Competition at 153:
+"If a trademark is newly adopted or has been on the register for only a short time it may generally be presumed that it cannot have received wide acceptance in the eyes of the public. On the other hand, if a trademark has been on the register for many years, it is probable that it has been used for a comparable period and that it will have acquired the sort of reputation and goodwill that the section is designed to protect."

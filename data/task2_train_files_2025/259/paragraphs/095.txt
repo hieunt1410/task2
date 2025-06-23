@@ -1,0 +1,19 @@
+[95]
+In considering "damage" suffered by a patentee because of an
+infringer's
+wrongful activity, one may speak in terms of "profits" lost where the patentee is engaged in the manufacture or sale of the patented goods. Where the patentee only licenses its rights, then losses are calculated in terms of lost royalties. Where a patentee does neither, then a Court may assess a "reasonable royalty". I quote in part from
+Terrell on the Law of Patents
+(16th Ed.) London, Sweet & Maxwell, 2006 at paragraphs 13-32 to 13-35:
+"
+Principle on which damages assessed
+"The principle to be applied in assessing damages is that the plaintiff should be restored by monetary compensation to the position which he would have occupied but for the wrongful acts of the defendant, provided always that such loss as he proves is (i) foreseeable, (ii) caused by the wrong and (iii) not excluded from recovery by public or social policy.
+. . . . .
+"
+Where the patentee grants licences
+"Patentees derive their remuneration in respect of their inventions either by utilizing their monopoly rights to enable them to obtain increased profits as manufacturers, or by permitting others to use their inventions under licence in consideration of royalty payments. In the latter case, the determination of the damages accruing from infringements is usually a relatively simple matter, it being generally assumed that the damage is equal to the amount which the infringer would have had to pay had he had a licence upon the terms normally granted by the patentee.
+"
+Reasonable royalty
+"Where the patentee does not grant licences and cannot prove any loss as manufacturer, the court may assess the damages upon a reasonable royalty basis.
+"
+Where the patentee manufactures
+"Where the patentee makes his profits as manufacturer (whether or not he grants licences in addition) rather more difficult questions arise, such as whether the infringement has deprived him of manufacturer's profits equivalent to those which he would have made had he had the sale of the infringing goods, and what, if any, other damage may have been occasioned to him by their unauthorized sale."

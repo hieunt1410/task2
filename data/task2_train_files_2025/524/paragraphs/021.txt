@@ -1,0 +1,8 @@
+[21]
+Of all of the jurisprudence on the award of statutory damages, the case of
+Microsoft Corp. v. 9038-3746 Quebec Inc
+., 2006 FC 1509 [
+Microsoft Corp 1
+] is most directly relevant. That case involved a copyright and trademark infringement claim where the defendant was found to have breached the plaintiff's intellectual property rights by distributing CDs containing "Microsoft", "Windows", "Office" and "Outlook" software. Justice Harrington awarded the plaintiff $20,000 for each of the 25 copyrighted works which had been infringed after concluding that: (i) the defendants had not shown that that they had reasonable grounds to believe they had not infringed copyright; (ii) the minimum amount of $500 for each of the infringed works would be grossly out of proportion to the plaintiff; (iii) the defendants had demonstrated bad faith based on their general dismissive attitude to the Court; (iv) the defendants had failed to provide appropriate records, despite a court order; and (v) deterrence was necessary to prevent other infringements of the works in question (
+Microsoft Corp 1,
+above at paras. 106-115).

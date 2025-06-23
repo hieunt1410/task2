@@ -1,0 +1,709 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yusufov v. Can. (2007), 312 F.T.R. 122 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2007] F.T.R. TBEd. MY.027 
+ 
+ 
+ 
+ Aron Yusufov (applicant) v. Her Majesty The Queen and Minister of Public Safety and Emergency Preparedness (respondent) 
+ 
+ (T-887-06; 2007 FC 453) 
+ 
+ 
+ 
+ Indexed As: Yusufov v. Canada (Minister of Public Safety and Emergency Preparedness) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Snider, J. 
+ 
+ April 27, 2007. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Yusufov failed to declare that he was carrying currency exceeding $10,000 (i.e., $12,348.00 CAD) when he arrived at the Vancouver International Airport from New York in transit to Beijing. The officer seized the money as "suspected proceeds of crime" under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act. Yusufov applied for a Ministerial review. A delegate of the Minister confirmed that there had been a failure to report as required by the Act and that the seized currency would be seized as forfeit. Yusufov applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Criminal Law - Topic 1987 
+ 
+ Possession or laundering of proceeds of crime - Forfeiture order - [See  
+ Customs - Topic 3089 
+ ]. 
+ 
+ 
+ 
+ Customs - Topic 3089 
+ 
+ Search and seizure - Seizure - Challenge or review of seizure - Yusufov failed to declare that he was carrying currency exceeding $10,000 (i.e., $12,348.00 CAD) when he arrived at the Vancouver International Airport from New York in transit to Beijing - Yusufov told the officer who discovered the currency that the money had been stolen from his employer - The officer seized the money as "suspected proceeds of crime" under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act - Yusufov applied for a Ministerial review - A delegate of the Minister confirmed that there had been a failure to report as required by the Act and that the seized currency would be seized as forfeit - Yusufov applied for judicial review, arguing that there were no reasonable grounds to suspect that the seized currency was the proceeds of crime, that the money had not actually been stolen from his employer and that he had been denied the assistance of a Russian interpreter breaching the rules of procedural fairness - The Federal Court held that the delegate's decision on the natural justice issue was reviewable on a standard of reasonableness simpliciter and the question of whether there was credible and objective evidence was reviewable on a standard of patent unreasonableness - In the result, the court dismissed the application - The court held that it was reasonable for the Minister's delegate to prefer the evidence of the customs officer and to accept that there was no language issue - Further, the court held that it was not patently unreasonable (or even unreasonable) for the delegate to find that there were reasonable grounds to conclude that the seized currency had been stolen and to confirm the forfeiture of the seized currency. 
+ 
+ 
+ 
+ Customs - Topic 6503 
+ 
+ Imports - Currency (incl. requirement of reporting amounts over $10,000) - [See  
+ Customs - Topic 3089 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Dokaj v. Minister of National Revenue (2005), 282 F.T.R. 121; 2005 FC 1437, refd to. [para. 16]. 
+ 
+ Tourki v. Canada (Minister of Public Safety and Emergency Preparedness) (2006), 285 F.T.R. 291; 2006 FC 50, refd to. [para. 16]. 
+ 
+ Sellathurai v. Canada (Minister of Public Safety and Emergency Preparedness) (2007), 309 F.T.R. 114; 2007 FC 208, refd to. [para. 18]. 
+ 
+ Thérancé v. Canada (Minister of Public Safety and Emergency Preparedness) (2007), 325 F.T.R. 161; 2007 FC 136, refd to. [para. 31]. 
+ 
+ Dr. Q., Re, [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170; 2003 SCC 19, refd to. [para. 32]. 
+ 
+ Sketchley v. Canada (Attorney General) (2005), 344 N.R. 257; 2005 FCA 404, refd to. [para. 32]. 
+ 
+ Ha v. Canada (Minister of Public Safety and Emergency Preparedness) et al. (2006), 292 F.T.R. 287; 2006 FC 594, refd to. [para. 36]. 
+ 
+ Director of Investigation and Research, Competition Act v. Southam Inc. et al., [1997] 1 S.C.R. 748; 209 N.R. 20, refd to. [para. 43]. 
+ 
+  Ryan v. Law Society of New Brunswick, [2003] 1 S.C.R. 247; 302 N.R. 1; 257 N.B.R.(2d) 207; 674 A.P.R. 207; 2003 SCC 20, refd to. [para. 43]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Proceeds of Crime (Money Laundering) and Terrorist Financing Act, S.C. 2000, c. 17, sect. 24 [para. 35]; sect. 29 [para. 41]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Kenneth N. Floe, for the applicant; 
+ 
+ Jan Brongers, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Friesen & Epp, Vancouver, British Columbia, for the applicant; 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard on April 18, 2007, in Vancouver, British Columbia, before Snider, J., of the Federal Court, who delivered the following decision on April 27, 2007. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Snider, J. 
+ : On May 23, 2005, the Applicant, Mr. Aron Yusufov, arrived at the Vancouver International Airport from New York, in transit to Beijing, carrying $9,800 USD (approximately $12,348.00 CAD) in small bills in a clear plastic bag (the Seized Currency). He was required to clear customs. During the customs inspection process, the Applicant did not report this currency even after two different customs officers advised him of the requirement to report currency amounts exceeding $10,000 CAD. According to the written report (Narrative Report) of the second customs officer, Ms. Monika Curkovic, who discovered the currency, the Applicant explained to her that the money had been stolen from his employer, GEB Enterprises Inc. (GEB). 
+ 
+ 
+ 
+ [2] 
+  Officer Curkovic seized the money as "suspected proceeds of crime", pursuant to the provisions of the  
+ Proceeds of Crime (Money Laundering) and Terrorist Financing Act 
+ , S.C. 2000, c. 17 (the  
+ Act 
+ ). The Applicant sought a Ministerial review of Officer Curkovic's decision, as permitted under s. 25 of the  
+ Act 
+ . In a decision dated December 15, 2005 (the Ministerial Decision or decision of the Minister's delegate), the Minister's delegate confirmed that there was a contravention of s. 12(1) of the  
+ Act 
+  (that is, a failure to report as required) and that, under s. 29(1)(c) of the  
+ Act 
+ , the Seized Currency would be held as forfeit. 
+ 
+ 
+ 
+ [3] 
+  The Applicant seeks judicial review of the decision of the Minister's delegate that the Seized Currency be held as forfeit. 
+ 
+ 
+ 
+ I.  
+ Issues 
+ 
+ 
+ 
+ [4] 
+  Overall, the Applicant submits that there are no reasonable grounds to suspect that the Seized Currency is the proceeds of crime. In his view, the Minister's delegate erred by preferring the evidence of Officer Curkovic to the evidence provided by the Applicant. Breaking this issue down further, it appears to me that there are two subsidiary questions: 
+ 
+ 
+ 
+ 1. Did the Minister's delegate fail to have regard for the fact that there was a breach of natural justice when Officer Curkovic interviewed the Applicant in English and did not provide an interpreter? 
+ 
+ 
+ 
+ 2. Did the Minister's delegate err by reaching his decision without credible and objective evidence to support Officer Curkovic's suspicion, and without regard to the evidence of the Applicant on the source of the Seized Currency? 
+ 
+ 
+ 
+ [5] 
+  A further issue was raised by the Applicant, for the first time, at the oral hearing of the application. That issue is whether, given that the Applicant was in transit on his way from the United States to Beijing and never left the secure area of the Vancouver Airport, Officer Curkovic had the authority to seize the Seized Currency. This question was not mentioned in the memorandum of fact and law of the Applicant. This issue is complex and goes to the authority of the Canada Border Services Agency (CBSA) to seize currency and monetary instruments under the  
+ Act 
+  while a person is in transit. The Respondent would be seriously prejudiced by allowing the late introduction of this new issue. I declined to hear arguments on this issue. 
+ 
+ 
+ 
+ II.  
+ Statutory Framework 
+ 
+ 
+ 
+ [6] 
+  The statutory scheme regarding the seizure and forfeiture of currency is relatively new, having been in place since only 2000. I will set out my understanding of the legislative framework and how that framework was applied in this case. 
+ 
+ 
+ 
+ [7] 
+  The object of the  
+ Act 
+  revolves around the implementation of measures to detect and deter money laundering and the financing of terrorist activities (s. 3, the  
+ Act 
+ ). Although the importation and exportation of large amounts of currency to and from Canada is not prohibited, there is a mandatory reporting requirement. Subsections 12(1) and (3)(a) of the  
+ Act 
+ , together with s. 2(1) of the  
+ Cross-border Currency and Monetary Instruments Reporting Regulations 
+ , SOR/2002-412 (the  
+ Regulations 
+ ), obligate a person entering or leaving Canada to report currency and monetary instruments on their person or in their accompanying luggage if they have a value equal to or greater than $10,000.00 CAD. 
+ 
+ 
+ 
+ [8] 
+  As I understand it, the reported information is provided to the Financial Transactions and Reports Analysis Centre of Canada, an arm's-length agency established under s. 41 of the  
+ Act 
+ . The Centre "collects, analyses, assesses and discloses information in order to assist in the detection, prevention and deterrence of money laundering and of the financing of terrorist activities" (s. 40, the  
+ Act 
+ ). 
+ 
+ 
+ 
+ [9] 
+  The CBSA is responsible for the seizure and forfeiture of unreported currency and monetary instruments under the  
+ Act 
+ . In general, once reported in accordance with the  
+ Act 
+  and the  
+ Regulations 
+ , the currency or monetary instruments are returned to the person without penalty or forfeiture by the responsible customs officer. However, if the customs officer believes, on reasonable grounds, that s. 12(1) (the reporting requirement) has been contravened, the customs officer may "seize as forfeit the currency or monetary instruments" (s. 18(1), the  
+ Act 
+ ). Under s. 18(2) of the  
+ Act 
+ , the customs officer is mandated to return the seized currency or monetary instruments, "unless the Customs Officer has reasonable grounds to suspect that the currency or monetary instruments are proceeds of crime". Thereafter, the rights of review and appeal are as set out in s. 25 and s. 30 of the  
+ Act 
+ . 
+ 
+ 
+ 
+ [10] 
+  The term "proceeds of crime", as set out in s. 462.3(1) of the  
+ Criminal Code 
+ , R.S.C., 1985, c. C-46, provides: 
+ 
+ 
+ 
+ "'proceeds of crime' means any property, benefit or advantage, within or outside Canada, obtained or derived directly or indirectly as a result of 
+ 
+ 
+ 
+ (a) the commission in Canada of a designated offence, or 
+ 
+ 
+ 
+ (b) an act or omission anywhere that, if it had occurred in Canada, would have constituted a designated offence." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "'produits de la criminalité' Bien, bénéfice ou avantage qui est obtenu ou qui provient, au Canada ou à l'extérieur du Canada, directement ou indirectement: 
+ 
+ 
+ 
+ a) soit de la perpétration d'une infraction désignée; 
+ 
+ 
+ 
+ b) soit d'un acte ou d'une omission qui, au Canada, aurait constitué une infraction désignée." 
+ 
+ 
+ 
+ A "designated offence" is essentially an indictable offence. 
+ 
+ 
+ 
+ [11] 
+  It is important to note that the  
+ Act 
+  provides that the currency and monetary instruments may be seized and forfeited whether or not they are associated with money laundering or terrorism. The test, as set out in the  
+ Act 
+ , is only that there are reasonable grounds to suspect that they are the proceeds of crime. 
+ 
+ 
+ 
+ [12] 
+  Under s. 25 of the  
+ Act 
+ , a person from whom the currency or monetary instruments were seized or the lawful owner may request a decision of the Minister as to whether s. 12(1) was contravened, within 90 days of the seizure. 
+ 
+ 
+ 
+ [13] 
+  After a person seeks a Ministerial Decision, his file becomes the responsibility of CBSA's Recourse Directorate. There, an adjudicator prepares a document described as a "Notice of Reasons for Action" and serves this on the Applicant pursuant to s. 26(1) of the  
+ Act 
+ . Thereafter, s. 26(2) of the  
+ Act 
+  affords the person the opportunity to furnish evidence within 30 days. The customs officer also makes submissions to the adjudicator. 
+ 
+ 
+ 
+ [14] 
+  Based on all of the evidence, the adjudicator prepares a document entitled Case Synopsis and Reasons for Decision (the Synopsis and Reasons). The Synopsis and Reasons serve as a recommendation and are provided to the Minister's delegate. The Minister's delegate - in this case, a manager within the Recourse Directorate of the Minister - is delegated to make the Minister's Decisions under sections 25 and 29 of the  
+ Act 
+ . 
+ 
+ 
+ 
+ [15] 
+  There are two parts to the Ministerial Decision. The Minister's delegate first decides whether s. 12(1) was contravened by a failure to report the currency or monetary instruments. Secondly, if the Minister's delegate determines that there was a contravention of s. 12(1), the Minister, under s. 29, determines whether the currency should be forfeited or returned on the payment of a penalty or if a penalty paid should be returned. 
+ 
+ 
+ 
+ [16] 
+  A decision that there has been a failure to report under s. 12 of the  
+ Act 
+  may be appealed to the Federal Court by way of an action (s. 30, the  
+ Act 
+ ). In this regard see the decisions of my colleagues in  
+ Dokaj v. Minister of National Revenue 
+ , [2005] F.C.J. No. 1783; 282 F.T.R. 121; 2005 FC 1437 and  
+ Tourki v. Canada (Minister of Public Safety and Emergency Preparedness) 
+ , [2006] F.C.J. No. 52; 285 F.T.R. 291; 2006 FC 50. However, as held in  
+ Dokaj 
+ , the Applicant does not have a right of appeal in respect of a Ministerial Decision issued under s. 29 of the  
+ Act 
+ . A judicial review is the only avenue open to an Applicant to seek review of a Ministerial Decision that currency or monetary instruments will be forfeited. 
+ 
+ 
+ 
+ III.  
+ Analytical Framework 
+ 
+ 
+ 
+ [17] 
+  I turn to the analytical framework that was to be applied to the decision in question. The case at bar deals with an administrative review of an in rem property seizure. The overarching issue is whether there are reasonable grounds to suspect that the currency itself is proceeds of crime, not whether the person who failed to declare the currency has committed a crime ( 
+ Tourki 
+ , above at paras. 40-45, 54-55). 
+ 
+ 
+ 
+ [18] 
+  In  
+ Sellathurai v. Canada (Minister of Public Safety and Emergency Preparedness) 
+  (2007), 309 F.T.R. 114; 2007 FC 208, Justice Simpson noted that the legislation is silent regarding the principles to be used by the Minister's delegate in deciding whether or not to confirm the forfeiture of the currency. She does conclude, however, that the proper test would be for the Minister's delegate to determine whether a reasonable suspicion still existed, after review of all the evidence, that the currency was proceeds of crime. 
+ 
+ 
+ 
+ [19] 
+  After reviewing the relevant legal principles and jurisprudence, Justice Simpson, at para. 71, concluded that, "evidence to support a suspicion need not be compelling, it must simply be credible and objective". I agree. 
+ 
+ 
+ 
+ [20] 
+  As to the burden of proof on an applicant, I refer to the comments of Justice Simpson in  
+ Sellathurai 
+ , above at paras. 72-73: 
+ 
+ 
+ 
+ "With regard to the burden of proof on an applicant who wishes to dispel a suspicion based on reasonable grounds, it is my view that such an applicant must adduce evidence which proves beyond a reasonable doubt that there are no reasonable grounds for suspicion. Only in such circumstances will the evidence be sufficient to displace a reasonable suspicion. 
+ 
+ 
+ 
+ "I have reached this conclusion because, if a Minister's Delegate were only satisfied on the balance of probabilities that there were no reasonable grounds for suspicion, it would still be open to him to suspect that forfeited currency was proceeds of crime. The civil standard of proof does not free the mind from all reasonable doubt and, if reasonable doubt exists, suspicion survives." 
+ 
+ 
+ 
+ [21] 
+  With this framework in mind, I turn to the decisions in this case and the evidence presented by the Applicant under s. 26(2) of the  
+ Act 
+ . 
+ 
+ 
+ 
+ IV.  
+ The Customs Officer's Decision 
+ 
+ 
+ 
+ [22] 
+  The decision to seize the currency was made by Officer Curkovic after her interrogation of the Applicant at the Vancouver International Airport. Officer Curkovic prepared a Narrative Report of her interaction with the Applicant on May 25, 2005 - almost immediately after the seizure. According to the Narrative Report, the Applicant stated that he had been employed for two years as a shoe salesman by Gyulnara Shaulova of GEB. During that time he had been taking about 10% of every sale he made in cash without the knowledge of his employer. The Applicant provided Officer Curkovic with the following details regarding the theft of the Seized Currency: 
+ 
+ 
+ 
+ "[...] When asked if he got paid by commission based on his sales or if he received a regular salary, he stated he received a steady salary of $230 USD each week. He stated that the only reason he was taking money from the company was because someday he hoped to own his own business and wanted to provide a better future for his family. When told his actions were considered an offence under the law, Yusufov stated 'yeah, I know'. He then asked if I would be telling his employer about this. I told him that his case is private and I'm not at liberty to call his employer. He said thank you. I then asked him if he understood why it was not right to take money from his employer without their consent and he stated he understood it was stealing. 
+ 
+ 
+ 
+ "Yusufov provided clear details on how he stole the money over a period of time. He stated that for the past 6-7 months, he would take the equivalent of 10% of each sale in cash (the equivalent of approximately $100-$200 USD). He was asked why the money was in $20 bills, and he stated that it was easier to take cash in smaller denominations and mostly took $20s. He admitted that he did not report the money because he knew he would get in trouble. [...]" 
+ 
+ 
+ 
+ [23] 
+  According to the Narrative Report, the Applicant approached Officer Curkovic the next day (May 24, 2005) and advised her that "he had come 'clean' with his employer and wife the night before" and requested the return of his currency. This request was refused and he was advised, again, of the appeal process. 
+ 
+ 
+ 
+ [24] 
+  The Narrative Report also touches on the relationship between the Applicant and Mr. Roman Shaulov, who was traveling with the Applicant and who also was found to have failed to report currency of over $10,000. Officer Curkovic reports that, when asked, the Applicant denied that Mr. Shaulov had any ties with GEB. 
+ 
+ 
+ 
+ [25] 
+  Finally, there is no indication in Officer Curkovic's report that the Applicant had difficulty communicating in English during any part of the interrogation on May 23, 2005. It was only after the interview was finished and he was joined by Mr. Shaulov that the Applicant stated that he needed an interpreter. The May 24, 2005 encounter with the Applicant was also in English. 
+ 
+ 
+ 
+ [26] 
+  Officer Curkovic's conclusion was as follows: 
+ 
+ 
+ 
+ "After discussion with Supt. Boulet and consideration was given to Yusufov's failure to report his currency both upon import/export from Canada, and after his admission that the money was obtained through the commission of an enterprise offence (theft), the total of $12,348 CDN was seized at Level 4 as Suspected Proceeds of Crime with no terms of release." 
+ 
+ 
+ 
+ V.  
+ Evidence Submitted in Response 
+ 
+ 
+ 
+ [27] 
+  By letter dated August 1, 2005, counsel for the Applicant provided further explanation and documentation and requested that the Seized Currency be returned, subject to paying "all necessary penalty". The CBSA accepted these submissions as a request for a review of the seizure and forfeiture of the Seized Currency. That is, the Applicant requested: (a) a review of Officer Curkovic's decision that there had been a failure to report under s. 12(1), and (b) the return of the Seized Currency, without forfeiture under s. 29, based on the circumstances of the seizure. Additional submissions were made under cover letter of October 2, 2005. 
+ 
+ 
+ 
+ [28] 
+  The foundation of the submissions was that the Applicant did not steal the Seized Currency from his employer. The explanations provided by the Applicant's U.S. attorney were supported by an affidavit from the Applicant (submitted with the August 1, 2005 submission) and by a letter from Julia Shaulov, purporting to be the President of GEB. This letter of Ms. Shaulov was not sworn or in affidavit form. The key points of the evidence submitted were as follows: 
+ 
+ 
+ 
+ - The Applicant, who did not speak English, had requested and been refused the services of a Russian interpreter at the time the currency was seized. Thus, there was simply a "misunderstanding due to lack of good English on his part". 
+ 
+ 
+ 
+ - In his affidavit attached to the August 1, 2005 submission, the Applicant explains that employees of GEB are required to carry "cash with them on business trips in order to leave deposits for lucrative deals with new factories". 
+ 
+ 
+ 
+ - In her affidavit sworn on July 22, 2005, Gyulnara Shaulova, president of GEB, confirmed that the Applicant was traveling to China to purchase a new collection of shoes and that "there was a business necessity to carry cash with him". 
+ 
+ 
+ 
+ - The information contained in the July 22, 2005 affidavit of Gyulnara Shaulova is directly contradicted by "Julia Shaulov" (whom I assume is the same Gyulnara Shaulova who signed the July 22, 2005 affidavit) in a letter attached to the October 2, 2005 submission. In this later letter, Julia Shaulov states that GEB "has no outstanding monetary disputes with Mr. Aron Yusufov". Rather, she explains in this letter that the Applicant keeps 10% of his sales in accordance with company policy that compensates its employees by a salary and 10% commission. 
+ 
+ 
+ 
+ VI.  
+ The Ministerial Decision 
+ 
+ 
+ 
+ [29] 
+  After receiving the submissions of the Applicant and further notes from Officer Curkovic and the customs officer who had initially been involved, the adjudicator prepared his Synopsis and Reasons. The parties agree that the Synopsis and Reasons form part of the reasons for the Ministerial Decision. It is clear from reading this document that the adjudicator had considered and read all of the evidence before him. For example, the adjudicator noted the confession of the Applicant to Officer Curkovic as well as the apparently conflicting stories from the employer as to the nature of the Seized Currency. The adjudicator also noted the opinion of the Officer that there had been no communication problems during her two hour examination of the Applicant and the Applicant's claim that he had been misunderstood due to language difficulties. The Applicant's three different explanations - as offered to Officer Curkovic, as set out in the August 1, 2005 submission and as described in the October 2, 2005 submission - are also referred to. 
+ 
+ 
+ 
+ [30] 
+  Based on his review, the recommendation adopted as the Ministerial Decision upheld the failure to report and the forfeiture of the Seized Currency. 
+ 
+ 
+ 
+ VII.  
+ The Standard of Review 
+ 
+ 
+ 
+ [31] 
+  As required in judicial review of decisions of this nature, I must address my mind to the appropriate standard of review of the Ministerial Decision. Two of my colleagues have addressed the appropriate standard of review in the context of decisions related to Ministerial decisions made under the provisions of the  
+ Act 
+  ( 
+ Thérancé v. Canada (Minister of Public Safety and Emergency Preparedness) 
+  (2007), 325 F.T.R. 161; 2007 FC 136 and  
+ Sellathurai 
+ , above. In  
+ Thérancé 
+ , at para. 20, Justice Beaudry, having conducted a pragmatic and functional analysis, concluded that the Ministerial decision should be reviewed on a standard of patent unreasonableness. In  
+ Sellathurai 
+ , at para. 60, Justice Simpson, after a similar analysis, concluded that the reasonableness standard of review was appropriate, except when dealing with the burden of proof faced by an applicant who wishes to dispel "reasonable grounds to suspect", where she concluded that the standard of correctness should be applied. 
+ 
+ 
+ 
+ [32] 
+  The Supreme Court of Canada has clearly stated that the pragmatic and functional approach must be undertaken by a reviewing judge "in every case where a statute delegates power to an administrative decision-maker" ( 
+ Dr. Q., Re 
+ , [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170; 2003 SCC 19, at para. 21). Further, this analysis must be applied anew with respect to each decision, and not merely each general type of decision of a particular decision-maker under a particular legislative provision ( 
+ Sketchley v. Canada (Attorney General) 
+ , [2005] F.C.J. No. 2056; 344 N.R. 257; 263 D.L.R.(4th) 113; 2005 FCA 404, at para. 50). It is the particularities of the decision at issue in a given case that will govern the standard of review to be employed by the reviewing Court. 
+ 
+ 
+ 
+ [33] 
+  The first step is to identify the particular question or questions at issue. As discussed above, the Minister's delegate was required to consider: 
+ 
+ 
+ 
+ 1. Was there was a breach of natural justice when Officer Curkovic interviewed the Applicant in English and did not provide an interpreter? 
+ 
+ 
+ 
+ 2. Was there credible and objective evidence to support Officer Curkovic's suspicion, and insufficient credible and objective evidence provided by the Applicant to dispel the suspicion? 
+ 
+ 
+ 
+ [34] 
+  Keeping these questions in mind, I turn to the four elements of the pragmatic and functional analysis. 
+ 
+ 
+ 
+ A.  
+ Existence of a Privative Clause 
+ 
+ 
+ 
+ [35] 
+  As noted in both  
+ Thérancé 
+  and  
+ Sellathurai 
+ , the  
+ Act 
+  contains a strong privative clause. Section 24 of the  
+ Act 
+  states that: 
+ 
+ 
+ 
+ "The forfeiture of currency or monetary instruments seized under this Part is final and is not subject to review or to be set aside or otherwise dealt with except to the extent and in the manner provided by sections 24.1 and 25." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "La confiscation d'espèces ou d'effets saisis en vertu de la présente partie est définitive et n'est susceptible de révision, de rejet ou de toute autre forme d'intervention que dans la mesure et selon les modalités prévues aux articles 24.1 et 25." 
+ 
+ 
+ 
+ [36] 
+  There is no statutory appeal in sections 25 to 30 of the  
+ Act 
+  from a decision to confirm forfeiture under section 29 of the  
+ Act 
+ . Review is only available in judicial review proceedings. In this regard, see:  
+ Tourki 
+ , above and  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [37] 
+  This suggests a high degree of deference. 
+ 
+ 
+ 
+ B.  
+ Relative Expertise 
+ 
+ 
+ 
+ [38] 
+  The decision in issue was made by a Minister's delegate who holds the position of "manager" in the Adjudications Division of the CBSA's Recourse Directorate. Although there was no evidence before me, in this case, as to the specific training received by persons in this position, Justice Simpson commented in  
+ Sellathurai 
+ , at para. 49, that managers and adjudicators receive training from RCMP and Department of Justice specialists and that they are guided in their work by an RCMP document entitled "Integrated Proceeds of Crime Investigator Indicator List". I do not believe that this would be disputed by the Applicant. Thus, it appears to me that, when the question is one that requires some knowledge and expertise related to the nature of the evidence that led a customs officer to suspect that the funds were the proceeds of crime, the expertise of the Minister's delegate would be superior to that of the Court. However, if the question is one that requires the delegate to determine the burden of proof or to assess whether procedural fairness was afforded to an applicant, the Court is in as good a position as the Minister's delegate and less deference would be owed. 
+ 
+ 
+ 
+ [39] 
+  In this case, it is arguable that the first question in issue as to whether there was a breach of fairness does not require any specialized knowledge by the Minister's delegate. Although answering this question required the Minister's delegate to weigh competing versions of whether the Applicant spoke English, the delegate was not required to consider the background nature of the alleged criminal suspicion. On this question, I would not see the Minister's delegate as having any more expertise than the Court. This suggests less deference to the Minister's delegate. 
+ 
+ 
+ 
+ [40] 
+  However, the situation is different on the question of whether there was objective and credible evidence to support the suspicion and whether the Applicant produced credible and objective evidence to remove that suspicion. Answering this question required more of the Minister's delegate. The delegate was required to assess the strength or credibility of the evidence on both sides of the issue as to matters that relate to the possible commission of a crime and the common practices of persons who are engaged in smuggling or other illegal cross-border actions. The examination and weighing of the evidence, on this question, involves matters that are within the expertise of the Minister's delegate and call for significant deference. 
+ 
+ 
+ 
+ C.  
+ The Purpose of the  
+ Act 
+  and of Section 29 
+ 
+ 
+ 
+ [41] 
+  The general purpose of this part of the  
+ Act 
+  is to detect and deter money laundering and terrorist financing by requiring the reporting of cross-border currency movement (see the  
+ Act 
+ , s. 3). Part 2 of the  
+ Act 
+  (containing sections 12 to 39) sets out the reporting scheme. Parliament has mandated serious sanctions in the event that there is a failure to report, including full forfeiture of currency and monetary instruments when there are reasonable grounds to suspect that the unreported currency or monetary instruments are the proceeds of crime. Section 29 sets out the final step in a seizure and allows the Minister's delegate to determine whether, on the facts of each particular case, a seizure should be maintained. While the  
+ Act 
+  has a broad public purpose, the decision of the Minister's delegate is limited to the facts before the delegate and is applicable only to the currency or monetary instruments seized in an individual case. Thus, at the s. 29 level, the decision is not polycentric. This does not suggest a higher level of deference. 
+ 
+ 
+ 
+ D.  
+ The Nature of the Question - Law or Fact 
+ 
+ 
+ 
+ [42] 
+  The question of whether or not the factual record before the Minister's delegate discloses reasonable grounds to suspect that the Seized Currency is proceeds of crime is a question of mixed fact and law. However, once the delegate applies the correct burden of proof to the evidence before him, the decision is entirely fact driven. This suggests a higher level of deference. 
+ 
+ 
+ 
+ [43] 
+  In conclusion, having weighed all of the factors, I am satisfied that the Minister's decision on whether the evidence demonstrates that there had been a breach of natural justice is reviewable on a standard of reasonableness simpliciter. The decision must stand up to a somewhat probing examination ( 
+ Director of Investigation and Research, Competition Act v. Southam Inc. et al. 
+ , [1997] 1 S.C.R. 748; 144 D.L.R.(4th) 1; 209 N.R. 20, at 19 [N.R.]). The question of whether there was credible and objective evidence is reviewable on a standard of patent unreasonableness. On this standard, a decision should only be set aside if it is clearly irrational or evidently not in accordance with reason ( 
+ Ryan v. Law Society of New Brunswick 
+ , [2003] 1 S.C.R. 247; 302 N.R. 1; 257 N.B.R.(2d) 207; 674 A.P.R. 207; 2003 SCC 20, at para. 52). 
+ 
+ 
+ 
+ VIII.  
+ Application of the Standard of Review to the Issues and the Ministerial Decision 
+ 
+ 
+ 
+ [44] 
+  I turn now to the issues in this case. 
+ 
+ 
+ 
+ A.  
+ Alleged breach of natural justice 
+ 
+ 
+ 
+ [45] 
+  On the issue of whether there was a breach of natural justice, I am satisfied that it was reasonable for the Minister's delegate to prefer the evidence of Officer Curkovic and to accept that there was no language issue. 
+ 
+ 
+ 
+ [46] 
+  Officer Curkovic, in contrast to all of the parties providing evidence for the Applicant, provided her report contemporaneously with the seizure event and had no interest in the Seized Currency. In her Narrative Report, Officer Curkovic provided many details around the alleged theft of the funds as they were told to her by the Applicant. A second - and unofficial - meeting with the Applicant took place on the second day, apparently with no language difficulties. If the Applicant's claim not to understand English is to be preferred, one must conclude that Officer Curkovic fabricated the Narrative Report almost in its entirety. That is simply implausible. 
+ 
+ 
+ 
+ [47] 
+  The Minister's delegate's determination that there was no language difficulty withstands a somewhat probing examination. 
+ 
+ 
+ 
+ B.  
+ Suspicion that the Seized Currency was the proceeds of crime 
+ 
+ 
+ 
+ [48] 
+  After reviewing the evidence, the Minister's delegate concluded that there were reasonable grounds to conclude that the Seized Currency had been stolen by the Applicant. Although the Minister's delegate did not use these exact words, I interpret the decision as one where the Minister's delegate was not satisfied that the Applicant had adduced evidence which proves beyond a reasonable doubt that there are no reasonable grounds for suspicion. 
+ 
+ 
+ 
+ [49] 
+  In my view, it was not patently unreasonable (or even unreasonable) for the Minister to reach this conclusion and to confirm the forfeiture of the Seized Currency. The Minister had credible and objective evidence to support a reasonable suspicion that the currency seized was proceeds of crime. The detailed Narrative Report of Officer Curkovic consists, in my view, of a credible story of how the Applicant came to be in possession of the Seized Currency. This version of events is told by an objective third party - Officer Curkovic - who has nothing to gain from inventing this elaborate tale. As I described earlier in these reasons, the Narrative Report indicated that the Applicant did not declare the currency upon his arrival at the Vancouver International Airport nor was he going to declare the currency upon his departure. The Narrative Report indicates that the Applicant explained candidly and spontaneously to Officer Curkovic that he obtained the currency from taking portions of shoe sales that he made, i.e. 10% of each sale in cash, unbeknownst to his employer. The Narrative Report indicates that the Applicant admitted that he knew his actions were considered an offence under the law. Further, the Narrative Report indicates that on May 24, 2005, the Applicant approached Officer Curkovic and told her that he had come "clean" with his employer and wife the night before. 
+ 
+ 
+ 
+ [50] 
+  As to the Applicant's submissions, he provided inconsistent explanations of why the Seized Currency was not proceeds of crime. In the August 1, 2005 submission, the Applicant's U.S. attorney explained that the currency the Applicant had with him on May 23, 2005, was for business purposes. She explained that it was necessary for him to carry the currency since he needed to leave deposits for shoe orders on behalf of his employer. This explanation was reiterated in the affidavit of Gyulnara Shaulova, the president of GEB. The Applicant attested that he did not know that he needed to declare the currency in Canada and that he answered that he had $9,800 not realizing that the currency would be more than $10,000 CAN. He also attested that he carried the currency in order to leave deposits for lucrative deals with new shoe factories. The story changed, however, in the October 2, 2005 submission, when the U.S. attorney and the company president stated that the Seized Currency consisted of the Applicant's 10% commission from sales. 
+ 
+ 
+ 
+ [51] 
+  Once again, I note that the statements by the employer were not from a disinterested third party. In contrast, if the Seized Currency had been stolen, the employer had a serious interest in a release of the funds. It is difficult to understand why the employer came up with two completely different versions of the source of the funds, unless there is a third untold story (such as a theft). This seriously undermines the credibility of the submissions of the Applicant. 
+ 
+ 
+ 
+ [52] 
+  On this record, it was not patently unreasonable for Minister's delegate to prefer the evidence of Officer Curkovic. Her evidence was consistent and supported the initial story that the Seized Currency was stolen from the employer. With his appreciation of the role of customs officers and the nature of stories told by persons about the source of funds, the Minister's delegate was in an excellent position to determine the credibility of the evidence. 
+ 
+ 
+ 
+ [53] 
+  Given that the Minister's delegate was not acting patently unreasonably in preferring the evidence from Officer Curkovic on the issue of credibility and was not acting unreasonably in dismissing arguments that there was a "language issue", it follows that I should not overturn the Ministerial decision in this case. 
+ 
+ 
+ 
+ [54] 
+  For these reasons, the application will be dismissed with costs to the Respondent. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [55] 
+   
+ THIS COURT ORDERS that 
+  the application for judicial review is dismissed with costs to the Respondent. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Elizabeth M.A. Turgeon/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

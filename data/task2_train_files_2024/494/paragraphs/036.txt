@@ -1,0 +1,8 @@
+[36]
+Sections 16(1)(a) and (c) state that a person may not register a trademark if the trademark was confusing with a trademark or a trade-name previously used in Canada:
+"
+Subsection 16(1) - Registration of marks used or made known in Canada
+16(1) Any applicant who has filed an application in accordance with section 30 for registration of a trademark that is registrable and that he or his predecessor in title has used in Canada or made known in Canada in association with wares or services is entitled, subject to section 38, to secure its registration in respect of those wares or services, unless at the date on which he or his predecessor in title first so used it or made it known it was confusing with
+(a) a trademark that had been previously used in Canada or made known in Canada by any other person;
+. . . . .
+(c) a trade-name that had been previously used in Canada by any other person."

@@ -1,0 +1,7 @@
+[16]
+The Supreme Court has laid down very clear directions as to how a statute should be interpreted. Because we are dealing with both the statute, and regulations thereunder, I consider the following passage from the reasons of Madam Justice Deschamps in
+Glykis v. Hydro-Québec
+, [2004] S.C.J. No. 56; 325 N.R. 369; 2004 SCC 60, to be particularly helpful:
+"5. The approach to statutory interpretation is well-known (
+Bell ExpressVu Limited Partnership v. Rex
+, [2002] 2 S.C.R. 559; 2002 SCC 42). A statutory provision must be read in its entire context, taking into consideration not only the ordinary and grammatical sense of the words, but also the scheme and object of the statute, and the intention of the legislature. This approach to statutory interpretation must also be followed, with necessary adaptations, in interpreting regulations."

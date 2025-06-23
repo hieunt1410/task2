@@ -1,0 +1,57 @@
+Chiu v. Nat. Parole Bd., [2005] F.T.R. Uned. 929 (FC)
+MLB unedited judgment
+Richard Chiu (applicant/respondent in this motion) v. National Parole Board (respondent/moving party)
+(T-1302-05; 2005 FC 1516)
+Indexed As: Chiu v. National Parole Board
+Cite As: [2005] F.T.R. Uned. 929
+Federal Court
+Snider, J.
+November 8, 2005.
+Counsel:
+Donna M. Turko, for the applicant;
+Esta Resnick, for the respondent.
+Solicitors of Record:
+Donna M. Turko, Vancouver, British Columbia, for the applicant;
+John H. Sims, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Snider, J.
+: The Respondent, National Parole Board ("NPB"), in this Court file T-1302-05, has brought this motion in writing, under Rule 369 of the Federal Court Rules, 1998, SOR/98-106, to dismiss the Applicant's application for judicial review on a summary basis. At this stage, the Application Record and the Respondent's Record have been filed. For this motion, each party has filed a motion record and the NPB has filed a reply. In considering this motion, I have reviewed all of the materials filed to date.
+[2]
+The Applicant, Mr. Richard Chiu, was released on Full Parole on July 4, 2003. Subsequently, however, his parole has been revoked. He disputes the revocation of his parole and, in an apparent attempt to regain Full Parole status, brought an application for judicial review of a letter, written on July 4, 2005, by S. Réhel, an employee of the NPB Appeal Division.
+[3]
+The issue on this motion is whether the application for judicial review should be dismissed, prior to completion of an oral hearing, on the basis that it is bereft of any chance of success or that it has been rendered moot by subsequent events. For the reasons that follow, I have concluded that the NPB should succeed on this motion.
+[4]
+The sequence of critical events that have occurred in relation to the Applicant's revocation of parole are the following:
+1. At some time in February or March 2005, the Applicant, who had been on Full Parole since July 4, 2003, was recommitted to custody.
+2. On March 23, 2005, the Applicant's parole officer referred the Applicant's case to the NPB with an "Assessment for Decision" dated March 22, 2003.
+3. After one adjournment requested by the Applicant and one denial of an adjournment request, a Post-Suspension Hearing was held by the NPB on June 8, 2005, without the attendance of the Applicant who refused to attend.
+4. On June 10, 2005, the NPB confirmed the revocation of the Applicant's parole (the "June 10 Revocation Decision").
+5. On June 23, 2005, the Applicant filed an appeal of the June 10 Revocation Decision with the Appeal Division pursuant to section 147 of the Corrections and Conditional Release Act, S.C. 1992, c. 20 ("CCRA").
+6. On June 30, 2005, counsel for the Applicant wrote to the Appeal Division asking when a decision might be expected.
+7. On July 4, 2005, S. Réhel, a clerk with the Appeal Division, responded to the June 30 inquiry as follows:
+I wish to advise you that Mr. Chiu's case has not yet been completed as he is scheduled for a hearing on July 7, 2005. Therefore, regretfully, I cannot give you a precise date on which his case will be completed. Cases are processed in the order of the date on which the application is received. I can only reiterate that his case will be completed as quickly as possible given the volume of work presently in the Appeal Division.
+8. At the conclusion of a Post-Revocation Hearing held July 7, 2005, the NPB confirmed the decision to revoke the Applicant's Full Parole (the "July 7 Post-Revocation Decision").
+9. On September 30, 2005, the Appeal Division dismissed the Applicant's appeal of the June 10 Revocation Decision (the "Appeal Division Decision").
+[5]
+The motion to dismiss, on a summary basis, is brought on the ground that the "decision" of July 4, 2005, is not a decision for which judicial review is available.
+[6]
+In general, this Court is reluctant to strike out a notice of application for judicial review. However, in circumstances where the application is "so clearly improper as to be bereft of any possibility of success", striking out is appropriate (Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al. (1994), 176 N.R. 48, at para. 15). Similarly, the Court may proceed to dispose of the matter where the application for judicial review has become moot (FRAGMENT_SUPPRESSED, leave to appeal to S.C.C. refused (2001), 273 N.R. 400n).
+[7]
+Having reviewed the Applicant's Record and Motion Record, I am persuaded that the application for judicial review is bereft of any possibility of success. Contrary to the assertions of the Applicant in the Motion Record, the July 4, 2004 letter was not a decision that the NPB had jurisdiction to convene a "post-revocation hearing". This letter is significantly different from the letters considered in Larry Holdings Ltd. (c.o.b. Quickie Convenience Stores) v. Canada (Minister of Health), [2003] 1 F.C. 541 (F.C.T.D.) (direction from the respondent that threatened the applicant if they did not stop certain activities); or Markevich v. Canada (T.D.), [1999] 3 F.C. 28 (F.C.T.D.) (a letter from an official at Revenue Canada, with statutory powers, under the Income Tax Act, informing the applicant that he owed $770,583.42 in unpaid taxes).
+[8]
+The Applicant attempts to characterize the July 4 letter as a "decision" that the NPB had jurisdiction to conduct the June 10 hearing, to issue the June 10 Revocation Decision and to convene the July 7, 2005 Post-Revocation hearing - all this in light of the alleged lack of jurisdiction to hold the June 10 hearing. This is a blatant mis-characterization of the letter. First, I note that this particular clerk would have no statutory power to make these determinations. Further, when read as a whole, the letter is clearly no more than a simple reply to counsel's request for the status of the appeal. It is a courtesy letter as described by Justice Reed in Kourtchenko v. Canada (Minister of Citizenship and Immigration) (1997), 146 F.T.R. 19 (F.C.T.D.) and, as such, dos not constitute a "decision" to which judicial review applies.
+[9]
+Further, even if the letter could be construed as a "decision", any question arising from the letter is now moot. This is because the Appeal Division in the Appeal Division Decision has considered and rejected the appeal of the June 10 Revocation Decision.
+[10]
+If, as the Applicant contends, the Appeal Division has fettered its discretion by the July 4 letter, the proper approach would be to apply to this Court for judicial review of the Appeal Division Decision. Attacking the July 4 letter prior to any decision of the Appeal Division was premature. As further evidence of the lack of merit of the Applicant's arguments is the fact that, in its decision of September 30, 2005, the Appeal Division noted that the July 7 Post-Revocation Hearing was not provided for in the CCRA. In other words, the Appeal Division has acknowledged or agreed with the Applicant that the NPB was without jurisdiction to hold the July 7 hearing. This particular determination by the Appeal Division is not only dispositive of the issues raised in the application before this Court, but also constitutes compelling evidence that the July 4 letter was not a decision but merely a courtesy response.
+[11]
+This application for judicial review is bereft of any possibility of success on the basis that the July 4 letter is not a "decision" for which judicial review is available. In the alternative, the Appeal Division decision has rendered the application moot. Accordingly, the motion will be allowed and the application for judicial review dismissed, with costs to the NPB.
+ORDER
+[12]
+THIS COURT ORDERS that:
+1. The motion of the Respondent is allowed;
+2. The application for judicial review is dismissed; and
+3. Costs throughout are awarded to the Respondent.
+[End of document]

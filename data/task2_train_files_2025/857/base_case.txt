@@ -1,0 +1,149 @@
+[1]
+O'Reilly, J.
+: Abakhan & Associates Inc. is the trustee in bankruptcy for a company called Taylor Ventures Ltd. (TVL) Abakhan submits that TVL deliberately overstated its income in its filings with the Canada Revenue Agency and, in doing so, overpaid income tax during the years 1990 to 1995. While the normal time period for appealing the tax assessments has expired, Abakhan submits that the Minister of National Revenue should exercise the special power of reassessment set out in s. 152(4)(a)(i) of the
+Income Tax
+Act
+, R.S.C. 1985, c. 1 (5th Supp.) (relevant statutory provisions are set out in an Annex). That provision permits the Minister to carry out a reassessment where there has been misrepresentation, even though the usual time period for reassessment has expired. Here, the Minister refused Abakhan's request for a reassessment.
+[2]
+Abakhan submits that the Minister's decision was unreasonable and asks me to order a reconsideration of it. The Minister argues that, in the circumstances here, the decision not to carry out a reassessment cannot be judicially reviewed and, in any case, was reasonable.
+[3]
+I can find no basis for overturning the Minister's decision and must, therefore, dismiss this application for judicial review.
+I. Issue
+1. Is the decision challenged by Abakhan amenable to judicial review?
+2. Did the Minister err in refusing to carry out a reassessment of TVL's tax liability under s. 152(4)(a)(i) of the
+Income Tax
+Act
+?
+II. Analysis
+1. Is the decision challenged by Abakhan amenable to judicial review?
+(a) Factual Background and Decision under Review
+[4]
+Abakhan claims that TVL grossly overstated its taxable income for the years in issue in order to create an impression that it was a profitable enterprise. As a consequence of doing so, it paid too much tax. In May 2006, Abakhan asked the Minister to conduct a reassessment under s. 152(4)(a)(i). That provision permits the Minister to conduct a reassessment of a person's tax liability "at any time" if the taxpayer has "made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information" under the
+Act
+. The Minister refused Abakhan's request.
+[5]
+In a letter dated May 29, 2006, the Minister's representative explained the refusal. The representative stated that there was insufficient information available either to make a proper determination of the correct amount of tax TVL owed or to conclude that a misrepresentation had actually been made. In the Minister's view, TVL had not kept adequate books and records, which prevented a proper audit from being carried out. Further, the principals of TVL were no longer available to be questioned.
+(b) The Minister's Main Arguments
+[6]
+The Minister contends that Abakhan's application for judicial review, in effect, amounts to an improper alternative remedy to the rights of appeal from assessments under the
+Income Tax
+Act
+. Appeals from assessments must normally be initiated within strict time periods and be heard and decided by the Tax Court of Canada. The Minister argues that this "collateral attack" is prohibited by s. 18.5 of the
+Federal Courts
+Act
+, R.S.C. 1985, c. F-7. In essence, that provision states that decisions that can be appealed are not subject to judicial review in the Federal Court. In addition, the Minister argues that even if Abakhan's application for judicial review is not foreclosed by s. 18.5, the rights of appeal under the
+Income Tax
+Act
+amount to an adequate alternative remedy and, therefore, that the Court should exercise its discretion not to entertain Abakhan's application. Finally, the Minister points out that taxpayers may make a request for a reassessment that would otherwise be out of time under s. 152(4.2), but Parliament has specified that only individuals, not corporations, may do so. That being the case, it would be contrary to Parliament's intent to allow TVL to ask for a reassessment under s. 152(4)(a)(i).
+(c) Analysis and Conclusion
+[7]
+I accept the Minister's argument that the
+Income Tax
+Act
+provides time limits and means for challenging assessments of tax. In particular, taxpayers can object to assessments or reassessments and, in turn, appeal the Minister's decisions to the Tax Court (ss. 165(1), 165(3), 169). This means, as the cases make clear, that the Federal Court cannot entertain an application for judicial review of a tax assessment or reassessment:
+FRAGMENT_SUPPRESSED
+[8]
+However, the decision under review here is neither an assessment nor a reassessment; it is a refusal to carry out a reassessment. From this decision, I see no appeal under the
+Income Tax
+Act
+. Had the Minister agreed to perform a reassessment, Abakhan could have appealed the reassessment if it was dissatisfied with the result. But there is no appeal from a decision not to conduct a reassessment. Accordingly, s. 18.5 of the
+Federal Courts
+Act
+does not prevent an application for judicial review of a decision under s. 152(4)(a)(i) of the
+Income Tax
+Act
+nor, obviously, does the
+Income Tax
+Act
+provide any adequate alternative remedy to Abakhan. Therefore, Abakhan's application for judicial review cannot be dismissed on this basis.
+[9]
+Further, I cannot conclude that Abakhan's application for judicial review runs contrary to Parliament's intent to confine late requests for reassessments to individuals. I very much doubt that Parliament turned its mind to the circumstances before me - where a corporate taxpayer requests a reassessment of its tax liability on the grounds that it exaggerated its own taxable income. There appears to be nothing preventing a company from making such a request and nothing standing in the way of an application for judicial review if the Minister refuses.
+2. Did the Minister err in refusing to carry out a reassessment of TVL's tax liability under s. 152(4)(a)(i) of the Income Tax Act?
+(a) Abakhan's Submissions
+[10]
+Abakhan submits that the Minister erred by concluding that no reassessment could be carried out under s. 152(4)(a)(i) without an audit of TVL's original books and records for the purpose of determining the correct amount of tax owing. Abakhan also argues that the Minister erred in deciding that there was insufficient information available to conduct a reassessment.
+[11]
+As a general proposition, Abakhan suggests that I can overturn the Minister's decision if I find that it was unreasonable. However, Abakhan also submits that the Minister has, in effect, improperly added criteria to s. 152(4)(a)(i) and that these criteria, in effect, create conditions precedent to the Minister's exercise of discretion that are not provided for in the
+Act
+. Abakhan argues that this amounts to an error of law and, therefore, that I should overturn the decision for incorrectness.
+(b) Analysis and Conclusion
+[12]
+In my view, the Minister did not create conditions precedent to the exercise of discretion under s. 152(4)(a)(i) or fetter the Minister's jurisdiction under that provision. Rather, the Minister simply decided that it would be pointless to conduct a reassessment in the absence of reliable evidence of TVL's actual income.
+[13]
+Abakhan notes that, in other circumstances, the Minister can make a determination of tax liability based on incomplete information or estimates of net worth (
+Hsu v. Minister of National Revenue
+, [2001] F.C.J. No. 1174; 274 N.R. 177; 2001 FCA 240;
+Clayholt v. Minister of National Revenue
+, [1990] T.C.J. No. 401; 90 D.T.C. 1543 (T.C.C.)), and submits that the Minister ought to have done so here. But the Minister points out that TVL had opportunities to request reassessments or supplement the financial information it put before the Minister. In particular, in 2000, the Minister invited further representations from Abakhan in relation to a request for adjustments to TVL's tax liability for 1995. None were received. Abakhan renewed its request in 2002, stating that it had finally reconstructed the true financial picture for TVL, but failed to submit any supporting financial statements. The Minister dismissed this request because it was out of time. In May 2006, Abakhan made its request for a reassessment of TVL's tax liability under s. 152(4)(a)(i), again asserting that it had "meticulously created the financial statements of Taylor Ventures for the period in question" but, again, it did not actually provide those statements either in support of its written submissions or in a meeting with officials of the Canada Revenue Agency.
+[14]
+In these circumstances, I am satisfied that it was reasonable for the Minister to conclude that there was insufficient evidence to assess whether a misrepresentation had in fact occurred or, if so, to determine the actual amount of tax owing, if any. Abakhan had merely made assertions that the previously filings were false and that it had pieced together a true picture of TVL's financial state. It did not supply any actual evidence on which the Minister could have relied. Accordingly, in my view, the Minister's conclusion that the circumstances did not warrant an investment of its limited audit resources was reasonable.
+III. Disposition
+[15]
+Based on the foregoing, I must dismiss this application for judicial review with costs.
+JUDGMENT
+[16]
+THIS COURT'S JUDGMENT IS THAT
+:
+1. The application for judicial review is dismissed with costs.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/pdk
+Annex
+Income Tax
+Act
+, R.S.C. 1985, c. 1 (5th Supp.)
+Assessment and reassessment
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . . . .
+Reassessment with taxpayer's consent
+152(4.2) Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+Objections to assessment
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+Duties of Minister
+(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister's action.
+Appeal
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+Federal Courts
+Act
+, R.S.C. 1985, c. F-7
+Exception to sections 18 and 18.1
+18.5 Despite sections 18 and 18.1, if an Act of Parliament expressly provides for an appeal to the Federal Court, the Federal Court of Appeal, the Supreme Court of Canada, the Court Martial Appeal Court, the Tax Court of Canada, the Governor in Council or the Treasury Board from a decision or an order of a federal board, commission or other tribunal made by or in the course of proceedings before that board, commission or tribunal, that decision or order is not, to the extent that it may be so appealed, subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with, except in accordance with that Act.
+Loi de l'impôt sur le revenu
+, L.R.C. 1985, ch. 1 (5e suppl.)
+Cotisation et nouvelle cotisation
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants:
+a) le contribuable ou la personne produisant la déclaration:
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+. . . . .
+Nouvelle cotisation et nouvelle détermination
+152(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable - particulier, autre qu'une fiducie, ou fiducie testamentaire - pour une année d'imposition le remboursement auquel le contribuable a droit à ce moment pour l'année ou la réduction d'un montant payable par le contribuable pour l'année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d'imposition, à la fois:
+a) établir de nouvelles cotisations concernant l'impôt, les intérêts ou les pénalités payables par le contribuable pour l'année en vertu de la présente partie;
+b) déterminer de nouveau l'impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l'impôt payable par le contribuable en vertu de la présente partie pour l'année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l'année.
+Opposition à la cotisation
+165(1) Le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants:
+a) lorsqu'il s'agit d'une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d'imposition, au plus tard le dernier en date des jours suivants:
+(i) le jour qui tombe un an après la date d'échéance de production qui est applicable au contribuable pour l'année,
+(ii) le 90e jour suivant la date de mise à la poste de l'avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l'avis de cotisation
+Obligations du ministre
+(3) Sur réception de l'avis d'opposition, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+Appel
+169(1) Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation:
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+Loi sur les cours fédérales
+, L.R.C. 1985, ch. F-7
+Dérogation aux art. 18 et 18.1
+18.5 Par dérogation aux articles 18 et 18.1, lorsqu'une loi fédérale prévoit expressément qu'il peut être interjeté appel, devant la Cour fédérale, la Cour d'appel fédérale, la Cour suprême du Canada, la Cour d'appel de la cour martiale, la Cour canadienne de l'impôt, le gouverneur en conseil ou le Conseil du Trésor, d'une décision ou d'une ordonnance d'un office fédéral, rendue à tout stade des procédures, cette décision ou cette ordonnance ne peut, dans la mesure où elle est susceptible d'un tel appel, faire l'objet de contrôle, de restriction, de prohibition, d'évocation, d'annulation ni d'aucune autre intervention, sauf en conformité avec cette loi.
+[End of document]

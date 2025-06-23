@@ -1,0 +1,16 @@
+[22]
+A description of the invention disclosed by this patent is found in the specification: (Applicants' Record, at 69-70.)
+"The present invention relates to certain novel pyrrole-l-carboxylic acid compounds and to a process for the production thereof.
+"More particularly, this invention relates to novel 5-aroyl-1,2-dihydro-3H-pyrrolo {1,2-a}pyrrole-l-carboxylic acids represented by the formula
+[see printed version]
+and the individual (l)-acid isomers and the (d)-acid isomers thereof and the pharmaceutically acceptable, nontoxic esters and salts thereof, wherein R represents hydrogen or a lower alkyl group having from 1 to 4 carbon atoms and R
+1
+represents hydrogen, a lower alkyl group having from 1 to 4 carbon atoms, a lower alkoxy group having from 1 to 4 carbon atoms, chloro, fluoro or bromo, the R
+1
+substitution being at the ortho, meta or para positions of the aroyl group, to the method for the productions thereof and to novel intermediates obtained thereby.
+. . . . .
+"Salts derived from pharmaceutically acceptable oragnic [sic] nontoxic bases include salts of primary, secondary, and tertiary amines, substituted amines (...), cyclic amines and basic ion exchange resins, such as (...)
+tromethamine
+... Particular preferred organic nontoxic bases are isopropylamine, diethylamine, ethanolamine, piperidine,
+tromethamine
+, dicyclohexylamine, choline and caffeine." (my emphasis)

@@ -1,0 +1,493 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Camargo v. Can. (M.C.I.), [2015] F.T.R. TBEd. SE.003 
+ 
+ 
+ 
+ MLB being edited 
+ 
+ 
+ 
+ Currently being edited for F.T.R. - judgment temporarily in rough form. 
+ 
+ 
+ 
+ Temp. Cite: [2015] F.T.R. TBEd. SE.003 
+ 
+ 
+ 
+ Hernando Gonzalez Camargo, Diana Marina De Los Rios De Gonzalez and Juan Manuel Gonzalez De Los Rios (applicants) v. The Minister of Citizenship and Immigration (respondent) 
+ 
+ (IMM-38-14; 2015 FC 1044) 
+ 
+ 
+ 
+ Indexed As: Camargo et al. v. Canada (Minister of Citizenship and Immigration) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Gleeson, J. 
+ 
+ September 2, 2015. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The applicants came to Canada from Columbia because of a kidnapping and continuing extortion by the National Liberation Army, a leftist guerrilla group. The Refugee Protection Division of the Immigration and Refugee Board determined that the applicants were neither Convention refugees nor persons in need of protection under s. 96 or 97 of the Immigration and Refugee Protection Act, respectively. The Board found that the determinative issue was that state protection was available to the applicants. The applicants applied for judicial review. At issue was whether the Board identified and applied the appropriate test for state protection, and whether the Board's determination on the state protection issue was reasonable in light of the evidence. 
+ 
+ 
+ 
+ The Federal Court allowed the application, and remitted the matter for reconsideration by a different board member. The Board erred by incorrectly applying a serious efforts test when considering the question of state protection. The Board's application of a serious efforts test, instead of focussing on the operational adequacy of the protection available to persons in the applicant's circumstances, resulted in the Board failing to address evidence relevant to the presumption of state protection. The failure to address that evidence rendered the decision unreasonable. 
+ 
+ 
+ 
+ Aliens - Topic 1323.2 
+ 
+ Admission - Refugee protection - Convention refugees and persons in need of protection - Persecution - Protection of country of nationality or citizenship (internal flight alternative) - See paragraphs 26 to 39. 
+ 
+ 
+ 
+ Aliens - Topic 4062 
+ 
+ Practice - Judicial review and appeals - Powers of review of appellate court (incl. standard of review) - See paragraphs 24 and 25. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Douglas Lehrer, for the applicants; 
+ 
+ Christopher Ezrin, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ VanderVennen Lehrer, Toronto, Ontario, for the applicants; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard in Toronto, Ontario, on July 22, 2015, before Gleeson, J., of the Federal Court, who delivered the following decision in Ottawa, Ontario, on September 2, 2015. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ .................................................. 
+ 
+ 
+ 
+ [1] 
+   
+ Gleeson, J. 
+ : This is an application for judicial review, brought under s. 72(1) of the  
+ Immigration and Refugee Protection Act 
+ , SC 2001, c 27 [IRPA] seeking to set aside a decision of the Refugee Protection Division of the Immigration and Refugee Board [the Board], finding that the applicants are neither Convention refugees nor persons in need of protection under sections 96 or 97 of the IRPA, respectively. 
+ 
+ 
+ 
+ [2] 
+  For the reasons that follow, the application for judicial review is granted. 
+ 
+ 
+ 
+ I.  
+ Background 
+ 
+ 
+ 
+ [3] 
+  The applicants are the Colombian citizens Hernando Gonzalez Camargo [the Principal Applicant], his wife Diana Marina de Los Rios de Gonzalez [the Female Applicant], and their adult son Juan Manual Gonzalez de Los Rios [the Adult Son]. 
+ 
+ 
+ 
+ [4] 
+  On December 2, 2003 the Principal Applicant was kidnapped by the National Liberation Army [ELN], a leftist guerrilla group while travelling for work purposes. A few days later the police informed his wife, the Female Applicant, of the kidnapping, advising that they had received a note from the ELN. Soon thereafter the ELN contacted the Female Applicant by phone to demand a ransom of 300 million Colombian pesos. 
+ 
+ 
+ 
+ [5] 
+  A government body specialized in dealing with kidnappings, the Unified Action Groups for Personal Freedom [GAULA], opened an investigation in response to the Female Applicant's formal complaint. The Female Applicant was reluctant to fully cooperate with the GAULA investigation at that time. 
+ 
+ 
+ 
+ [6] 
+  The Principal Applicant was released on December 26, 2003 when the family of another man who had been kidnapped with the Principal Applicant paid his share of the ransom. The Principal Applicant subsequently reimbursed this family, triggering further demands from the ELN, who were of the view that the applicants still owed them ransom money. 
+ 
+ 
+ 
+ [7] 
+  Commencing in January 2004, and continuing until the applicants left Colombia for Canada in July 2012, the applicants were subject to ongoing demands for money from the ELN. In 2005 the ELN threatened the Adult Son's young daughter and as a result she was sent to Spain to live with her mother. The applicants report paying 317 million Colombian pesos to the ELN between 2003 and 2012 and also provided the ELN with personal items in lieu of cash over this period at the suggestion of the ELN. The applicants did not notify the Colombian authorities of the demands because the ELN had threatened them to keep quiet and they believed the ELN had infiltrated the authorities. 
+ 
+ 
+ 
+ [8] 
+  On numerous occasions during this period the applicants travelled to the United States, Mexico, Panama and Canada in the hope that an extended absence would see the situation improve, but on each occasion their return to Colombia triggered further demands from the ELN. The Principal Applicant and the Female Applicant travelled to Canada in July 2012 and made a claim for refugee protection on the basis that they would be harmed by the ELN if they were to return to Colombia as they had refused to pay extortion money demanded by the ELN. 
+ 
+ 
+ 
+ [9] 
+  In August 2012 the Adult Son, who initially remained in Colombia, contacted the Colombian police. He was told by the police that the matter was within the jurisdiction of the GAULA. When the Adult Son approached the GAULA, he was told that a file was already opened as a result of the 2003 kidnapping and there was an ongoing process in place. The Adult Son left Colombia for the United States one year later, in August 2013, and then joined his parents in Canada about a week later. 
+ 
+ 
+ 
+ II.  
+ Decision 
+ 
+ 
+ 
+ [10] 
+  The Board decision noted no credibility issues with respect to the applicants, and accepted that the Principal Applicant had been kidnapped by the ELN, that a ransom had been paid for his release, and that the ELN continued to target the family for extortion from January 2004 until they left Colombia for Canada in 2012. The Board found that the determinative issue was whether state protection was available to the applicants. 
+ 
+ 
+ 
+ [11] 
+  The Board, relying on  
+ Canada (Attorney General) v Ward 
+ , [1993] 2 SCR 689 [ 
+ Ward 
+ ] and  
+ Hinzman v Canada (Minister of Citizenship and Immigration) 
+ , 2007 FCA 171, 63 Imm LR (3d) 13 [ 
+ Hinzman 
+ ] identifies the following principles of state protection: (1) there is a presumption that the state is capable of protecting its citizens, except in situations where the state is in complete breakdown; (2) to rebut the presumption of state protection, a claimant must provide clear and convincing evidence of the state's inability to protect its citizens; (3) the claimant must approach the state for protection in situations where it might be reasonably forthcoming; (4) a claimant must exhaust all recourses available to her domestically before claiming refugee status; and (5) the standard for protection is not that of perfect protection, but rather of adequate protection. 
+ 
+ 
+ 
+ [12] 
+  The Board found that the documentary evidence before it indicated that the Colombian government had tried to improve protection for citizens through new programs and that the government continued to implement programs aimed at improving state protection. Despite these efforts the Board further noted that financial constraints impacted some programs and noted more generally that Colombian authorities had not always been successful. 
+ 
+ 
+ 
+ [13] 
+  The Board found that the applicants' failure to report ongoing extortion due to fear of reprisals from the ELN did not give the Colombian authorities an opportunity to assess the risk they faced from the ELN and provide protection. The applicants' doubt in the effectiveness of the protection offered by the state had not been tested and therefore the presumption of state protection had not been rebutted. The Board recognized that the Adult Son had made a report to the authorities in 2013 but held that he then left the country without giving GAULA the opportunity to investigate. 
+ 
+ 
+ 
+ [14] 
+  The Board pointed to the fact that the GAULA took a report, opened a file and began an investigation into the kidnapping of the Principal Applicant in 2003 as an indication that the authorities were willing to provide assistance to the applicants. The Board further states that the applicants chose not to cooperate in the investigation, instead preferring to pay ransom and extortion demands over the years. This included failing to notify police when a serious threat to kidnap the Adult Son's daughter was made in 2005. 
+ 
+ 
+ 
+ [15] 
+  The Board found on a balance of probabilities that the applicants had not demonstrated that there was inadequate state protection in Colombia, and therefore they were neither Convention refugees nor persons in need of protection. 
+ 
+ 
+ 
+ III.  
+ Applicant's Submissions 
+ 
+ 
+ 
+ [16] 
+  The applicant claims that the Board applied the wrong test for state protection by focusing on the nature of the efforts made by the government of Colombia to improve protection for its citizens instead of focusing on the operational adequacy of the protection available to persons in the applicants' circumstances. The applicants submit that there was evidence to demonstrate that state protection was not adequate at the operational level had the Board applied the correct test. 
+ 
+ 
+ 
+ [17] 
+  The applicants further argue that the Board ignored evidence of the Colombian authorities' dismissive response when approached by the Adult Son. The applicants note that when the Adult Son attempted to make a complaint about the threats he was receiving the authorities were not sympathetic to him and put the blame on him. 
+ 
+ 
+ 
+ [18] 
+  The applicants also argue that the Board misconstrued the timing of the events when holding that the Adult Son had left Colombia without giving the authorities an opportunity to investigate and provide protection. The applicants argue that not only did the Board erroneously conclude that the authorities were investigating the complaint rather than acknowledge that the authorities did not act on the complaint, but that the Board also appeared to believe that the Adult Son had left Colombia soon after making the complaint. The facts demonstrate that the Adult Son actually remained in the country for a year. No protection materialized during this period. 
+ 
+ 
+ 
+ IV.  
+ Respondent's Submissions 
+ 
+ 
+ 
+ [19] 
+  The respondent submits that the Board properly articulated the test for state protection, cited the appropriate jurisprudence, and considered the evidence that Colombian authorities were willing and able to assist when called upon. The respondent submits that the Board was aware of the distinction between state efforts to protect and the operational adequacy of that protection to the applicants and persons like them by virtue of its citation of the correct jurisprudence and its consideration of the evidence. 
+ 
+ 
+ 
+ [20] 
+  The respondent notes that the onus is on the applicants to rebut the presumption of state protection with clear and convincing evidence. The respondent notes that in 2003, the Colombian authorities had been prepared to assist the applicants and interviewed the Female Applicant in 2003, where they offered a range of operational measures to assist them, but the applicants did not permit them to help. After 2003, the Principal Applicant made no effort to seek state protection. The Adult Son only approached the police once in 2012 but provided no useful information to assist with the investigation. 
+ 
+ 
+ 
+ [21] 
+  The respondent further submits that the Board did not misconstrue the timing of the Adult Son's departure. Instead, the respondent submits that the basis for finding that GAULA had not been provided the opportunity to investigate is the fact that the applicants - who were apparently the principal targets of the extortion - never gave the authorities a real opportunity to investigate and help them. 
+ 
+ 
+ 
+ V.  
+ Applicant's Reply 
+ 
+ 
+ 
+ [22] 
+  In reply, the applicants submit that they are relying on more than a single line from their narrative to rebut the presumption of state protection; they rely on the country conditions evidence and the authorities' reaction to the Adult Son's complaint. The applicant argues that this evidence demonstrates that Colombian authorities were not willing or able to provide sufficient protection to them from the actions of the ELN. The applicant further argues that even if the evidence related to the authorities' lack of response may have been brief, it did not relieve the Board of the obligation to deal with this part of the evidence. 
+ 
+ 
+ 
+ VI.  
+ Issues 
+ 
+ 
+ 
+ [23] 
+  I would frame the issues raised in this application as follows: 
+ 
+ 
+ 
+ A. Did the Board identify and apply the appropriate test for state protection? 
+ 
+ 
+ 
+ B. Was the Board's determination on the issue of state protection reasonable in light of the evidence? 
+ 
+ 
+ 
+ VII.  
+ Standard of Review 
+ 
+ 
+ 
+ [24] 
+  The applicant submits that in considering whether or not the Board identified the appropriate test for state protection the correctness standard is to be applied by the court. This question was recently addressed by my colleague Justice John O'Keefe in  
+ Dawidowicz v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 115, 23 Imm LR (4th) 61 [ 
+ Dawidowicz 
+ ] where he states: 
+ 
+ 
+ 
+ [22] Where previous jurisprudence has determined the standard of review applicable to a particular issue before the court, the reviewing court may adopt that standard (see  
+ Dunsmuir v New Brunswick 
+ , 2008 SCC 9 at paragraph 57, [2008] 1 SCR 190 [ 
+ Dunsmuir 
+ ]). 
+ 
+ 
+ 
+ [23] The parties agree that the standard of review for all issues is reasonableness, but I do not. Chief Justice Paul Crampton recently explained the standard of review for decisions on persecution and state protection in  
+FRAGMENT_SUPPRESSED. In essence, since the jurisprudence has developed clear tests for both, a board cannot depart from them. Therefore, where applicants allege that a board misunderstood the test, the standard is correctness and no deference is owed to the board's understanding of the relevant tests. However, where applicants challenge how the tests were applied to the facts, those are questions of mixed law and fact and the standard is reasonableness ( 
+FRAGMENT_SUPPRESSED 
+ Gur v Canada (Minister of Citizenship and Immigration) 
+ , 2012 FC 992 at paragraph 17, [2012] FCJ No 1082 (QL);  
+ Hinzman v Canada (Minister of Citizenship and Immigration) 
+ , 2007 FCA 171 at paragraph 38, 282 DLR (4th) 413 [ 
+ Hinzman 
+ ]). Here, the applicants allege both types of errors, so I will review the former type for correctness and the latter type for reasonableness. 
+ 
+ 
+ 
+ [25] 
+  As was the case in  
+ Dawidowicz 
+ , here the applicants allege both types of errors. I will therefore review the first issue on the standard of correctness and the second on the standard of reasonableness. 
+ 
+ 
+ 
+ VIII.  
+ Analysis 
+ 
+ 
+ 
+ A. Did the Board identify and apply the appropriate test for state protection? 
+ 
+ 
+ 
+ [26] 
+  The jurisprudence establishes that the fact that a state has undertaken serious efforts at state protection is not determinative of the issue ( 
+ Kanto v Canada (Minister of Citizenship and Immigration) 
+ , 2012 FC 1049 at paras 39-43;  
+ Rodriguez v Canada (Minister of Citizenship and Immigration) 
+ , 2012 FC 1291 at para 48, 14 Imm LR (4th) 89;  
+ Kemenczei v Canada (Minister of Citizenship and Immigration) 
+ , 2012 FC 1349 at paras 56 and 57, 14 Imm LR (4th) 265). The appropriate test involves an assessment of the adequacy of that protection at the operational level; is the level of protection adequate within the context of the person seeking to rely on that protection? As stated by my colleague, Justice O'Keefe in  
+ Burai v Canada (Minister of Citizenship and Immigration) 
+ , 2013 FC 565 at para 28: 
+ 
+ 
+ 
+ [28] [...] The Board, in its reasons, properly described the test for state protection as one of adequacy. This is in line with this Court's repeated instruction that the existence of "serious efforts" at state protection are not determinative of the adequacy of state protection. As I said in  
+ Harinarain v Canada (Minister of Citizenship and Immigration) 
+ , 2012 FC 1519, [2012] FCJ No 1637 at paragraphs 27 to 29: 
+ 
+ 
+ 
+ [27] The use of the phrase "in other words" in the passage is incorrect: "adequate protection" and "serious efforts at protection" are not the same thing. The former is concerned with whether the actual outcome of protection exists in a given country, while the latter merely indicates whether the state has taken steps to provide that protection. 
+ 
+ 
+ 
+ [28] It is of little comfort to a person fearing persecution that a state has made an effort to provide protection if that effort has little effect. For that reason, the Board is tasked with evaluating the empirical reality of the adequacy of state protection. 
+ 
+ 
+ 
+ [29] This Court has affirmed this interpretation of state protection repeatedly. ... 
+ 
+ 
+ 
+ [27] 
+  The Board correctly identifies the principles underpinning state protection as set out in  
+ Ward 
+  and  
+ Hinzman 
+  including the claimant's burden of providing clear and convincing evidence of the state's inability to protect its citizens and the requirement that claimants must approach the state for protection in situations where that protection might be reasonably forthcoming. In my opinion, however, the Board failed to correctly recognize that the assessment of the adequacy of state protection involves more than a consideration of state efforts. This caused the Board to focus on state efforts and not consider the operational adequacy of state protection for the applicants and individuals in like circumstances; the proper test when considering the question of adequate state protection. 
+ 
+ 
+ 
+ [28] 
+  The Board relied on the documentary evidence before it to conclude that the Colombian authorities had undertaken measures to improve protection for citizens and to improve the security situation in the country. In particular the Board cites the development of two new programs to demonstrate efforts in this regard, the National Protection Unit and the Protection Program for Victims and Witnesses. What the Board failed to address was how these efforts might provide operational level protection to the applicants and individuals like them - a necessary step if the Board were conducting a particularized operational adequacy analysis. 
+ 
+ 
+ 
+ [29] 
+  The Immigration and Refugee Board's National Documentation Package for Colombia, found at pages 226 through to 272 of the Certified Tribunal Record [CTR] states the following at page 267 with respect to the purpose of the National Protection Unit Program: 
+ 
+ 
+ 
+ The purpose of the National Protection Unit is to articulate, coordinate and execute the provision of protection service to those whom the National Government determines, owing to their political, public, social, humanitarian, cultural, ethnic or gender activities, condition or situation or their status as a victim of violence, displaced person or human rights activist, to be at extraordinary or extreme risk of death, personal injury or loss of liberty or personal safety or to be in danger because they hold public office or engage in other activities that may involve extraordinary risk, such as leading a labor union, non-governmental organization (NGO) or groups of displaced persons, and to ensure the timeliness, effectiveness and suitability of the measures taken. 
+ 
+ 
+ 
+ [30] 
+  Similarly the CTR describes the Protection Program for Victims and Witnesses at page 269 where it states "this program is open to victims and witnesses who are providing information in a criminal proceeding". 
+ 
+ 
+ 
+ [31] 
+  The Board noted that financial limitations have constrained the National Protection Unit program and that Colombian attempts to improve the security situation have not always been successful which reflects the principle that state protection need not be perfect. However, the Board then fails to consider the likelihood of the applicants falling within the scope of the National Protection Unit Program or whether or not they would meet the requirements for the Protection Program for Victims and Witnesses. The Board did not address how these programs might provide operational level protection to the applicants and individuals like them - again, a necessary step in the analysis if the Board were applying the adequacy test. 
+ 
+ 
+ 
+ [32] 
+  I am satisfied that the Board erred by incorrectly applying a serious efforts test when considering the question of state protection. 
+ 
+ 
+ 
+ B. Was the Board's determination reasonable in light of the evidence? 
+ 
+ 
+ 
+ [33] 
+  The Board's application of a serious efforts test instead of focusing on the operational adequacy of the protection available to persons in the applicant's circumstances resulted in the Board failing to address evidence relevant to the presumption of state protection. 
+ 
+ 
+ 
+ [34] 
+  The Board concludes, relying on the response of authorities to the 2003 kidnapping complaint, that state authorities had demonstrated a willingness to assist the applicants. The Board notes that the applicants did not fully cooperate with authorities at that time. The Board, however, fails to address the applicants' explanation for their limited cooperation and reluctance to engage state authorities in response to the ongoing extortion they experienced. The applicants believed that state institutions had been infiltrated by the ELN and reporting the extortion or cooperating with authorities would place them at greater risk. The National Documentation Package [NDP] speaks to concerns of ongoing infiltration of security forces by paramilitary groups and their successors, evidence directly relevant to the applicants' explanation but not addressed by the Board. 
+ 
+ 
+ 
+ [35] 
+  In addition, and as noted above, the Board identifies the development of two new programs to deliver protection to citizens, the National Protection Unit and the Protection Program for Victims and Witnesses program. However, the applicability and effectiveness of these protection programs are not addressed. There was relevant evidence on both of these questions in the NDP, evidence that contradicts a conclusion that these programs are both available and effective in delivering state protection to persons in the applicants' situation. 
+ 
+ 
+ 
+ [36] 
+  I am mindful of the challenges vast amounts of documentary evidence relating to country conditions can present for the Board ( 
+ Bustos v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 114 at paras 36-39, 24 Imm LR (4th) 81 [ 
+ Bustos 
+ ]), however in this case the applicants justified their reluctance to complain to police authorities on the grounds that "the guerillas have been able to infiltrate the authorities" (CTR para 379 line 43) and fear of reprisals from the ELN. As noted by my colleague, Justice O'Keefe, in  
+ Bustos 
+  at para 39: 
+ 
+ 
+ 
+ [39] Therefore, if the board explains what documentary evidence it relies on and that evidence is reliable and reasonably supports its conclusions, then finding a few contrary quotations that it did not specifically explain away will not make the decision unreasonable. If, on the other hand, the contrary evidence is overwhelming and the board does not explain what documentary evidence supports its conclusions, then it may be easier to conclude that the decision was unreasonable. 
+ 
+ 
+ 
+ [37] 
+  Similarly the finding that the Adult Son left the country without giving GAULA an opportunity to investigate is not explained. The respondent has argued that this finding is a reference not to the Adult Son but rather to the Principal and Female Applicants as the primary targets of the ELN extortion. I am not convinced. A plain reading of the Board's decision leads me to conclude that the Board was referring to the Adult Son leaving without giving the authorities an opportunity to investigate. This conclusion, absent some explanation, is unreasonable. 
+ 
+ 
+ 
+ [38] 
+  In this case I am of the opinion the Board's failure to address contradictory documentary evidence and address the evidence as it relates to the timing of the Adult Son's departure from Colombia was unreasonable. 
+ 
+ 
+ 
+ [39] 
+  The parties did not identify a question for certification. 
+ 
+ 
+ 
+ IX.  
+ Remedy 
+ 
+ 
+ 
+ [40] 
+  In oral submissions before this Court the applicants' counsel noted that the issues in dispute related solely to state protection. The applicants' counsel further noted that the Board found that the applicants were credible and that on a balance of probabilities the Board was satisfied that the 2003 kidnapping had occurred, ransom had been paid to the ELN and that the applicants had continued to target the family for extortion from 2004 until they departed for Canada in 2012. 
+ 
+ 
+ 
+ [41] 
+  The applicants submitted, in light of the Board's findings on the issue of credibility, that should the Court grant the application for judicial review it also direct the sole question to be determined on reconsideration be the availability of state protection. The respondent made no submissions in response. 
+ 
+ 
+ 
+ [42] 
+  Section 18.1(3)(b) of the  
+ Federal Courts Act 
+ , RSC 1985, c F-7 gives this Court jurisdiction to issue directions when referring a decision back for a redetermination by a different panel. The nature of the direction will vary depending on the circumstances, but directed decisions are exceptional and granted only in the clearest of circumstances; ( 
+ Rafuse v Canada (Pension Appeals Board) 
+ , 2002 FCA 31, 222 FTR 160 [ 
+ Rafuse 
+ ]). 
+ 
+ 
+ 
+ [43] 
+  In this case the applicants have not sought direction that would determine the outcome of the application. Rather the applicants are seeking a direction from the Court that would require the Board to accept, based on a previous finding on the issue of credibility, that the reconsideration be limited to the issue of state protection. 
+ 
+ 
+ 
+ [44] 
+  In this case, the state protection reconsideration will not be limited to a question of law. The Board will be required to consider not only the documentary evidence but also the evidence and conduct of the applicants as it relates to their reluctance to seek out state protection. The reconsideration will engage issues of fact and law. I am of the opinion the issue should be evaluated in its totality by the Board; ( 
+ Rafuse 
+ , para 14 and  
+ Freeman v Canada (Minister of Citizenship and Immigration) 
+ , 2013 FC 1065 at paras 78-81). As such I am not prepared to exercise my discretion and limit the scope of the Board's reconsideration. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [45] 
+   
+ THIS COURT'S JUDGMENT is that 
+  the application is granted and the matter is remitted for reconsideration by a different board member. No question is certified. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Elizabeth M.A. Turgeon 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

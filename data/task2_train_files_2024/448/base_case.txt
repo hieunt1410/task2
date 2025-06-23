@@ -1,0 +1,548 @@
+(Confidential Reasons Issued December 29, 2006.)
+I.
+Introduction
+[1]
+Heneghan, J.
+: Abbott Laboratories and Abbott Laboratories Limited (the "Applicants" or "Abbott") bring this application pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/193-133 (the "
+NOC Regulations
+), for an order prohibiting the Minister of Health from issuing a Notice of Compliance ("NOC") pursuant to section C.08.004 of the
+Food and Drug Regulations
+, C.R.C., c. 870 until the expiry of the following Canadian letters patent:
+2,261,732 (the " '732 Patent");
+2,258,606 ( the " '606 Patent");
+2,386,527 (the " '527 Patent");
+2,386,534 (the " '534 Patent");
+2,277,274 (the " '274 Patent");
+2,387,361 (the " '361 Patent"); and
+2,387, 356 (the " '356 Patent")
+(collectively the "Abbott Patents").
+[2]
+This application arose in response to the Notice of Allegation ("NOA"), dated August 21, 2003, served by Apotex Inc. (the "Respondent" or "Apotex"). Apotex alleges that the Abbott Patents are invalid on several grounds including anticipation, obviousness, lack of utility, lack of sound prediction and further, that its generic version of clarithromycin will not infringe the Abbott Patents that are valid.
+[3]
+On October 7, 2003, the Applicants commenced this proceeding by filing an application, pursuant to the
+NOC Regulations
+and stated in their Notice of Application that the allegations were not justified.
+II.
+The Parties
+[4]
+The Applicant Abbott Laboratories Limited is a Canadian company that distributes and sells, inter alia, BIAXIN® BID ("BIAXIN"), an antibiotic. The Applicant Abbott Laboratories, a company incorporated under the laws of the United States of America, is the parent of Abbott Laboratories Limited. It is the owner of the patents at issue in this proceeding. The Applicants are engaged in the development and manufacture of innovative pharmaceutical products.
+[5]
+Apotex is a Canadian corporation that manufactures generic products. It has applied for an NOC to allow it to market its version of clarithromycin, to be sold in tablets of 250 mg and 500 mg.
+III.
+Clarithromycin
+[6]
+Clarithromycin, or 6-0-methylerythromycin, is an antibiotic. It fights infections in the human body and is described in the Abbott Patents as being useful for treating respiratory tract infections. It is the active ingredient in the Applicants' BIAXIN product, which is sold in dosages of 250 and 500 mg.
+[7]
+The clarithromycin molecule can take a number of crystalline forms, depending on the manner of manufacture. There are at least seven pure forms and innumerable combinations may be made of these forms and other substances.
+[8]
+Clarithromycin was first disclosed on December 9, 1981 in European Patent Application No. 0 041 355 A1. It was first marketed in Canada in July 1992.
+[9]
+The Applicants did not invent clarithromycin itself but they invented some of the crystalline forms of the drug. Initially, it was thought that clarithromycin had only one crystal form but it was later discovered that it was polymorphic, that is having more than one crystalline form. Abbott claims to have discovered these new forms which are the basis for the patents here in issue.
+[10]
+The Abbott Patents cover clarithromycin compounds, processes and methods for their manufacture, and the use of the claimed compounds as an antibiotic. Specifically, the claims cover the crystalline forms called Form 0, Form I and Form II, and the use of Form 0 to make Form II.
+[11]
+The conversion of one clarithromycin form to another involves the heating of the substance at high temperatures. Abbott takes the position that heating at high temperatures was not common knowledge and constitutes the inventive step. Apotex says that heating at high temperatures was known to persons skilled in the art and did not amount to an invention.
+[12]
+Apotex's intended generic form of clarithromycin uses Form 0 to produce Form II. Apotex proposes to sell its version in 250 and 500 mg dosage forms, using methods of manufacture that it says are disclosed in the prior art.
+IV.
+The Patents
+[13]
+The Applicants hold seven Canadian patents related to clarithromycin, as listed above and the NOA was served against those Patents. However, the Applicants addressed only four patents in their memorandum of fact and law, that is the '274, '732, '606 and '361.
+[14]
+At the commencement of the hearing on September 11, 2000, counsel for the Applicants advised that an agreement had been reached with the Respondent that, for the purpose of the present proceeding and only this proceeding, the Applicants will not obtain a prohibition order in relation to the '274 Patent as a result of the decision of the Federal Court of Appeal in
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2006), 350 N.R. 242; 2006 FCA 187 ("
+Ratiopharm
+"), application for leave to appeal to the Supreme Court of Canada filed August 17, 2006. At the close of the hearing of this application counsel submitted a copy of this agreement respecting the '274 Patent. This agreement provides as follows:
+"Both parties have agreed to proceed with this hearing on the basis that neither party will make arguments in respect of the '274 Patent.
+"Abbott has acknowledged that, because of the facts of this particular case, the Court of Appeal's judgment in the
+Ratiopharm
+case in respect of the '274 Patent is binding and as such, Apotex's allegation of anticipation in respect of the '274 Patent must be held to be justified in this Court.
+"The parties have agreed that the above mentioned agreement is without prejudice to either party advancing any position that it wishes at the Court of Appeal, should an appeal be pursued."
+[15]
+In light of this agreement between the parties, it is not necessary for me to address the '274 Patent. I acknowledge that Abbott has not abandoned its arguments in respect of the '274 Patent but the consideration of those arguments will occur elsewhere, if at all. The matter proceeded only in relation to the '732 Patent, the '606 Patent and the '361 Patent.
+A.
+Canadian Patent No. 2,261,732 (The " '732 Patent")
+[16]
+The '732 Patent is entitled "Preparation of Crystal Form II of Clarithromycin". The invention in this patent is described as "a process for the direct isolation of 6-0-methylerythromycin A crystal Form II". Claims 1 through 15 set out methods and processes by which Form II may be formed; the resulting preparations of Form II are covered in claims 16 to 21.
+[17]
+The '732 Patent was filed in the Canadian Patent Office on July 28, 1997, with priority dates of July 29, 1996 and July 25, 1987. This patent claimed priority from U.S. Patent application numbers 08/681,695 and 08/900,271 respectively. The '732 Patent was granted on July 24, 2001.
+B.
+Canadian Patent No. 2,258,606 (The " '606 Patent")
+[18]
+The '606 Patent is entitled "Crystal Form II of Clarithromycin". It relates to an invention for "6-0-methylerythromycin A crystal Forms I and II, a process for their preparation, pharmaceutical compositions comprising these compounds and methods of use as a therapeutic agent". Claims 1 through 4 cover Forms I and II, having differing values in the powder x-ray diffraction patterns.
+[19]
+The '606 Patent application was filed in the Canadian Patent Office on July 25, 1997, with a priority date of July 29, 1996 with respect to U.S. patent application 08/681,723. This patent was granted on May 27, 2003.
+[20]
+The claims of the '606 Patent relevant to this application are as follows:
+- Claims one (1) and two (2) relate to two forms of 6-0-methylerythromycin A Form II, which are characterized by peaks in the powder x-ray diffraction pattern having particular 2θ values.
+- Claims three (3) and four (4) relate to two forms of 6-0-methylerythromycin A Form II, which are substantially free of 6-0-methylerythromycin A Form I, and are characterized by peaks in the powder x-ray diffraction pattern having particular 2θ values.
+C.
+Canadian Patent No. 2,387,361 (The " '361 Patent"
+)
+[21]
+The '361 Patent is entitled "Crystal Form 0 and Form II of Clarithromycin and Uses Thereof". Patent protection is claimed over "the novel compound 6-0-methylerythromycin A crystal form 0 solvate, a process for its preparation, pharmaceutical compositions comprising this compound and a method of use as a therapeutic agent". Forms and compositions of the drug appear in claims 15 to 23 and 42 to 50. Uses are covered in claims 8 to 14, 24 to 41, and 51 to 68, while the processes appear in claims 1 to 7.
+[22]
+An application was submitted to the Canadian Patent Office on December 19, 1997. Priority was claimed to January 17, 1997 in accordance with U.S. patent application number 08/785,623. The 361 Patent was granted on May 27, 2003.
+[23]
+The claims of the '361 Patent relevant to this application are as follows:
+- Claim one (1) relates to a process for preparing 6-0-methylerythromycin A Form II which involves the heating of 6-0-methylerythromycin A Form 0 solvate under vacuum at a temperature between approximately seventy and one hundred and ten degrees Celsius.
+- Claim thirty-one (31) relates to the use of 6-0-methylerythromycin A Form 0 ethanolate in the preparation of 6-0-methylerythromycin A Form II for use as an antibiotic.
+- Claim sixty-two (62) relates to the use of 6-0-methylerythromycin A Form 0 ethanolate, substantially free of 6-0-methylerythromycin A Form I, in the preparation of 6-0-methylerythromycin A Form II, substantially free of 6-0-methylerythromycin A Form I and 6-0-methylerythromycin A Form 0 ethanolate, wherein the Form 0 ethanolate and Form II are characterized by peaks in the powder x-ray diffraction pattern having particular 2θ values.
+V.
+The NOA
+[24]
+By letter dated August 21, 2003, Apotex served its NOA upon the Applicants, pursuant to s. 5(3) of the
+NOC Regulations
+, respecting its generic clarithromycin. The NOA was lengthy, consisting of one hundred and four pages, together with appendices. The NOA raised allegations of invalidity and the ineligibility of certain claims for inclusion on the Patent Register. It also alleged that Apotex would not infringe the Abbott Patents because its product will be prepared in accordance with methods disclosed in the prior art.
+[25]
+In its NOA, Apotex claims that the commercially available and viable form of clarithromycin has always been Form II, ever since the claim date of the relevant patents, that is July 29, 1996.
+[26]
+Apotex says that its proposed tablets would be comprised only of Form II and would use methods of manufacture that it says are disclosed in the prior art. It claims that the Applicants' patents would not be infringed since a valid patent cannot be infringed if the impugned activity is old or a non-patentable version thereof. In this regard, the Respondent relies on
+Gillette Safety Razor Co. v. Anglo American Trading Co.
+(1913), 30 R.P.C. 465 (U.K.H.L.), at 480-481 (the "Gillette Defence").
+[27]
+As well as these broadly-framed allegations, the NOA addressed non-infringement of the individual patents, with the exception of the ‘606 Patent. In each case, it was asserted that Apotex could produce its generic version of clarithromycin without infringing the Applicants' patents.
+[28]
+Allegations of invalidity were advanced with respect to all of the Applicants' patents. These allegations were based upon claims of double patenting, obviousness, lack of invention, anticipation, patent claims being broader than the invention made, and the amendment of specifications to describe matter which could not reasonably be inferred from the original claim.
+[29]
+Apotex further alleged that the Applicants' patents are not and were never eligible for a listing on the Patent Register, in compliance with the
+NOC Regulations
+. Paragraph 4(2)(b) of the
+NOC Regulations
+sets out the criteria for inclusion of a patent on the Patent Register, that is a claim for the medicine itself or a claim for the use of the medicine. Apotex alleged that none of the Abbott Patents contain valid claims for medicines or claim for use of a medicine.
+[30]
+As well, Apotex argues that the patents are ineligible for registration on the Register since none of them have filing dates that precede the date of filing of the original NOC submissions.
+VI.
+The Evidence
+[31]
+Both the Applicants and the Respondent filed affidavits from a number of factual and expert witnesses. The qualifications of the experts are not contested, although in some respects, each party challenged the value of the evidence provided.
+i.
+Applicants' Witnesses
+[32]
+Abbott filed the affidavits of Mr. Daniel Artola, Ms. Sonia Atwell, Ms. Loretta del Bosco, Mr. Kenneth Dillman, Dr. Michael Zaworotko, Dr. Leonard Chyall, Dr. Allan Myerson, Dr. Stephen Bryn and Dr. Jerry Atwood.
+[33]
+Mr. Artola, a lawyer with the law firm McCarthy Tétrault, counsel for the Applicants in this matter, deposed about his efforts to obtain information about the book entitled
+Analytical Profiles of Drug Substances and Excipients
+published by Acadamia Press. A chapter in this book, consisting of an article by I.I. Salem, was cited as prior art by the Respondent in its NOA.
+[34]
+Ms. Atwell is a law clerk with the law firm of McCarthy Tétrault. In her affidavit, she set out some factual details concerning the Applicants' medicine BIAXIN and the receipt of the Respondent's NOA in August 2003. Among the exhibits attached to this affidavit are copies of the NOA and of the Notice of Application filed by Abbott on October 7, 2003.
+[35]
+Ms. del Bosco is the Director of Regulatory Affairs and Quality Assurance with Abbott Canada. She appended to her affidavit, as an exhibit, a copy of a paper that was presented to a meeting of Chemical Engineers on November 5, 2002. In her affidavit, she deposed that this paper related to experiments conducted in the ordinary course of Abbott's business.
+[36]
+Mr. Kenneth Dillman is a laboratory technician with SCCI, Inc., an independent laboratory that was retained by McCarthy Tétrault, counsel for the Applicants, to perform powder x-ray diffraction ("PXRD") analyses of solid material samples that were provided to him and identified as SSCI#48844, sample no. 1765-01-01.
+[37]
+Dr. Michael Zaworotko is Professor and Chair of the Department of Chemistry at the University of South Florida in Tampa, Florida. He considers himself to be an expert in the fields of x-ray crystallography and crystal engineering, "including how they relate to understanding form and polymorphism in pharmaceuticals". Dr. Zaworotko was asked to comment upon the thesis prepared by G.A. Stephenson, entitled "Solid-state investigations of selected pharmaceutical compounds" that was cited by the Respondent as prior art in relation to the '606 Patent.
+[38]
+Dr. Leonard Chyall is a scientist employed by SCCI, Inc. He is an organic chemist with experience in crystallization technology. He received a sample from Abbott Laboratories and created a number of samples by recrystallization of clarithromycin from ethanol. The sample was subsequently dried under a number of different conditions, including drying at ambient temperature, at 40° Celsius, under vacuum and with a vacuum aspirator. He conducted a reanalysis by PXRD of the sample that was dried at 40° Celsius for 15 hours. He offers no opinion in his affidavit but rather reports the results of the various experiments that he conducted at the request of the Applicants.
+[39]
+In the course of cross-examination upon his affidavit, Dr. Chyall said that he had never dried anything above the temperature of 40° Celsius. He said that using a higher temperature "... just strikes me off the top of my head as atypical and unnecessary".
+[40]
+Dr. Allan Myerson, the Philip Danforth Armour Professor of Engineering, is Provost and Senior Vice President at the Illinois Institute of Technology. He holds a doctorate in chemical engineering and has taught at the university level for nearly thirty years. He considers himself an expert in the fields of chemical engineering and crystallization, including industrial crystallization and polymorphism.
+[41]
+Dr. Myerson was asked to consider the allegations of the NOA in relation to all of the Abbott Patents. He expressed the opinion that all of the allegations of invalidity and non-infringement were not justified. In his view, none of the prior art references taught the existence of multiple crystal forms of clarithromycin and neither did they "teach any method for producing any particular form of clarithromycin".
+[42]
+He further expressed the view that none of the Abbott Patents are rendered obvious by the prior art. According to him, the sale of BIAXIN prior to July, 1996 did not anticipate the patents as it did not disclose the crystal forms of clarithromycin and a person skilled in the art would have been unable to ascertain it, if such form existed.
+[43]
+In addition to his broad comments, Dr. Myerson addressed the individual patents. With respect to the '606 Patent, he rejected the Respondent's argument that European Patent Application 0 041 355 and the U.S. Patent No. 4,331,803 and EU Patent spec. No. 0 041 355 B1, Apotex Document No. 1 disclose a method for making Form II. Since no method is disclosed, he says that the allegation of non-infringement is not justified.
+[44]
+He concluded that the prior art cited by Apotex to establish anticipation does not disclose the information necessary to produce the forms and methods claimed in the '606 Patent. None of the prior art reaches the drying temperatures required to convert Form 0 or Form I to Form II.
+[45]
+Dr. Myerson concluded that the Respondent's proposed manufacturing process for its clarithromycin tablets falls within the claims of the '361 Patent and consequently, infringe that patent. As well, he expressed the opinion that this patent is neither anticipated nor obvious. In his view, a skilled person would not infer from the prior art that Form II could exist in any form, still less in multiple crystal forms. A skilled person would not infer that heating Form 0 or Form I at high temperatures could cause a conversion to Form II.
+[46]
+Dr. Stephen Bryn is the Charles B. Jordan Professor of Medicinal Chemistry at the School of Pharmacy and Pharmaceutical Sciences and the Head of the Department of Industrial and Physical Pharmacy at Purdue University in Indiana. He holds a Doctorate in physical and organic chemistry.
+[47]
+Dr. Bryn addressed the allegations in respect of all the Abbott Patents. His assessment of the prior art led him to conclude that, as of the claim dates of the Abbott Patents, the prior art did not show that clarithromycin was polymorphic, that is having more than one crystal form, the existence and crystal forms of Forms 0, I and II, or methods for their manufacture. Further, in his opinion, Abbott did not disclose its inventions by preparing BIAXIN for commercial sale and there is no anticipation, obviousness or double patenting.
+[48]
+Dr. Bryn discussed specific pieces of prior art. He stated that the Iwasaki article discloses a methanol solvate structure that does not match anything claimed in the Abbott Patents.
+[49]
+In cross-examination, Dr. Bryn admitted that exposing a substance to high heat could result in melting. However, he added that such treatment could also cause the creation of amorphous material or degradation.
+[50]
+Dr. Jerry Atwood is the Professor and Chairman of the Department of Chemistry at the University of Missouri-Columbia. He holds a Doctorate in Chemistry and has more than thirty years teaching experience at university levels. He considers himself to be an expert in the fields of crystal growth, crystal engineering and polymer chemistry.
+[51]
+Dr. Atwood addressed the Respondent's allegation that the
+NOC Regulations
+do not apply to the Abbott Patents. He said that there was no basis for the Respondent's claim that Forms 0 and I are intermediates since the patents, as illustrated by the '527 and the '274 Patents, clearly identify them as antibiotics, and a person skilled in the art would recognize them as such. Notwithstanding its instability, a person skilled in the art would know that Form 0 is an antibiotic with therapeutic utility, not merely an intermediate. Further, in his opinion, Form I is sufficiently stable to be used as a medicine.
+[52]
+Dr. Atwood also rejected the allegations respecting the '361 Patent. He dismissed the allegation that Apotex's production of clarithromycin will not infringe because it, Apotex, will not heat Form 0 under temperatures of between 70 and 100° Celsius. He observed that a person skilled in the art would know that the temperature for conversion would fluctuate and that this would have no material effect on the way the conversion process proceeded. Further, he concluded that the amendments to the '361 Patent were properly made.
+[53]
+According to Dr. Atwood, the referenced prior art contained no information about particular crystal forms of clarithromycin and methods of manufacture, in particular that drying and heating clarithromycin could result in form conversion.
+[54]
+In cross-examination, Dr. Atwood admitted that in 1996, a person skilled in the art would know how to analyse a pharmaceutical tablet in order to determine the crystal form of its active pharmaceutical ingredient. That same person would know how to separate crystals from a solvent. He disagreed with the proposition that, in 1996, compounds were heated up to 150° Celsius in order to assess whether a polymorphic transition would occur. However, he did agree that one method of assessing whether a transition would occur would be to subject the sample to elevated heat.
+ii.
+Apotex's Witnesses
+[55]
+For its part, Apotex filed the affidavits of John Hems, Peter Stang, Lee Timothy Grady, Carlos Zetina Rocha, Allan W. Remy, Matthew Buck, Robert McClelland, Nicholas Taylor, Robert Brown, Michael J. Cima, and William K. Sinden.
+[56]
+Mr. John Hems is the Director of Regulatory Affairs with Apotex. He is responsible for the preparation of the company's drug submissions for regulatory approval. He was asked to provide samples of 250 mg and 500 mg BIAXIN tablets, that is clarithromycin film-coated tablets, to Dr. Michael Cima, a professor at the Massachusetts Institute of Technology in Cambridge, Massachusetts.
+[57]
+Dr. Peter J. Stang is a Professor of Chemistry at the University of Utah. He holds a Doctorate in organic chemistry and is considered an expert in the field. He was asked to provide an opinion upon the allegations of non-infringement advanced by Apotex in respect of the Abbott Patents. He was also asked to review and compare the Drug Master File (the "DMF") of Medicorp, the supplier of clarithromycin to Apotex, with the prior art cited by Apotex.
+[58]
+Dr. Stang discussed the conversion of erythromycin A into clarithromycin, as set out in the Medicorp DMF. In his opinion, the Medicorp process would not result in Form II but rather in clarithromycin acetane solvate. An acetane solvate is not Form II and consequently the Medicorp process does not infringe the '732 Patent. It is possible to obtain Form II from a methanol solvate through extended drying times but the '732 Patent does not teach this.
+[59]
+Dr. Stang acknowledged that the prior art, in particular, the Morimoto article is silent on the drying step. However, he said that a person skilled in the art would regard a drying step as implicit and inherent, and that Form 0 and Form I "were made and are inherent in the prior art".
+[60]
+Dr. Lee Timothy Grady is the Vice President and Director Emeritus of the United States Pharmacopeial Convention, Incorporated ("USPC"). He was asked to review correspondence from counsel for Apotex to comment at USPC concerning certain lots of clarithromycin. In his affidavit, Dr. Grady provided information about the operations of the United States Pharmacopeia ("USP").
+[61]
+Dr. Carlos Zetina Rocha holds a Doctorate in chemistry and formerly worked as a research chemist with Apotex Pharmaceuticals Inc., previously known as Brantford Chemicals Inc. He was employed there as a synthetic, organic chemist. He was asked to conduct the reproduction of certain examples of the '732 Patent involving the crystallization and recrystallization of clarithromycin.
+[62]
+In his affidavit, he provided details about the experiments that he carried out. He did not provide any opinion. In cross-examination, Dr. Zetina stated that, typically, when drying a substance to remove a solvent, a lower temperature is used than that employed with clarithromycin.
+[63]
+Dr. Robert McClelland is a Professor of Chemistry at the University of Toronto in Toronto. He said that he is considered an international expert on Physical Organic Chemistry and Biological Chemistry. He has more than thirty years of research and teaching experience. He provided a lengthy affidavit setting out his opinion on the allegations raised in the NOA.
+[64]
+Dr. McClelland took the position that the procedures for crystallising and recrystallising as set out in the Abbott Patents are common methods with which a person skilled in the art would be very familiar. He expressed the view that there was no inventive step involved in the ethanol crystallizations set out in the Abbott Patents.
+[65]
+With respect to Iwasaki, Dr. McClelland said that this article taught a method, prior to 1996, by which a person skilled in the art would be led directly and without difficulty to the polymorph of clarithromycin. In addition, the methods set by Watanabe made and taught a person skilled in the art how to make Form II (substantially free of Form I).
+[66]
+Further issues were identified relative to the '361 Patent. Dr. McClelland said that there was no sound basis in this patent of teaching how a person skilled in the art could obtain or identify Form 0 solvate or use Form 0 solvate in the process for preparing Form II. He later testified in cross-examination that there is nothing in the prior art about heating clarithromycin over 70° Celsius but that heating below 70° Celsius was obvious.
+[67]
+Dr. Nicholas J. Taylor is a Professor of Chemistry and X-ray Service Manager for the Department of Chemistry at the University of Waterloo, Ontario. He holds a Doctorate in Chemistry and has more than twenty-five years of experience teaching at the university level. He was provided with copies of the Abbott Patents, the NOA, the prior art and the affidavits of the Applicants' experts. He was asked to determine the single crystal x-ray structure for clarithromycin obtained by crystallization/recrystallization from various solvent preparations according to the teachings of the '606, '527, '534, '274, '356 and '361 Patents. He was also asked to provide his opinion in respect of the affidavits of Dr. Zaworotko and Dr. Chyall. He was asked, in addition, to determine the single crystal x-ray structure for clarithromycin by crystallization/recrystallization from acetone and methanol, each according to the teachings of the '732 Patent.
+[68]
+He determined that crystallization/recrystallization of clarithromycin yields a mono-acetone solvate. Crystallization/recrystallization of clarithromycin from methanol yields a mono-methanol solvate that agrees with the mono-methanol solvate published by Iwasaki in the prior art.
+[69]
+Dr. Robert S. Brown is a Professor of Chemistry at Queen's University in Kingston, Ontario. He has more than thirty years of experience in teaching and research in the field of chemistry. He was asked to provide an opinion with respect to the allegations of non-infringement and invalidity of the Abbott Patents, as set out in the NOA.
+[70]
+In his affidavit, Dr. Brown set out the position that Form II was an "old" substance, having been disclosed in European patent applications, two articles by Morimoto and three articles by Watanabe. Although these articles do not disclose the drying process, he is certain that they disclose Form II.
+[71]
+He expressed the opinion that methods A and B in Watanabe's 1993 Article were "obvious chemical equivalents" to the methods described in the '732 Patent. As well, he concluded that the Medicorp process to be used to make clarithromycin for Apotex do not infringe the Abbott Patents.
+[72]
+In cross-examination, Dr. Brown testified that, absent experimentation, it would not be possible to predict the results as to whether one would obtain a desolvated solvate, amorphous material, a new crystal form, or a change from one form to another. The results would not be obvious to a person skilled in the art.
+[73]
+He further agreed that none of the cited prior art indicated that clarithromycin was polymorphic or indicated appropriate drying procedures, that is temperature and time. Finally, he agreed that it would not be possible for a person skilled in the art to read the prior art and deduce that someone had produced an ethanol solvate of clarithromycin.
+[74]
+Dr. Michael J. Cima is a Professor of Materials Science and Engineering at MIT in Massachusetts. He was asked to provide an opinion upon the Stephenson thesis, particularly whether that document anticipated or made obvious Form II of clarithromycin as claimed in the '732 Patent, the '606 Patent and the '527 Patent.
+[75]
+Dr. Allan W. Rey is the Manager, Intellectual Property/Program Research and Development of Apotex Pharmachem Inc. ("API"), and is responsible for a group of chemists and engineers, including supervision of their work. In that capacity, he was asked to carry out and/or supervise certain procedures relative to the '732 Patent. He provided the patent to Dr. Zetina, told him what was required and supervised certain procedures. Dr. Rey also supervised the control of certain procedures by Mr. Matthew Buck.
+[76]
+Mr. Matthew Buck is a Research and Development Associate (Level II) with API. He was asked to carry out certain procedures including the crystallization/recrystallization of clarithromycin from various solvents and mixed solvent systems according to various examples disclosed in the '732, '527 and '274 Patents. Copies of pages from his laboratory notebooks were attached as exhibits to his affidavit.
+[77]
+Mr. William Kitt Sudin is a registered patent agent. He conducted certain literature searches relative to clarithromycin. His searches included reference to patents related to clarithromycin, including the prior art referenced in the Respondent's NOA.
+VII.
+Issues
+[78]
+The following issues were raised in the written and oral submissions of the parties.
+1. Who bears the burden of proof in light of the presumption of validity arising from s. 43 of the
+Patent Act
+, R.S.C. 1985, c. P-4?
+2. Are the Applicants entitled to a prohibition order with respect to the Respondent's allegations relative to the '732 Patent?
+3. Does the '606 Patent render Form II of clarithromycin anticipated or obvious?
+4. Are claims 31 and 62 of the '361 Patent eligible and valid?
+VIII.
+Discussion and Disposition
+[79]
+This application seeks to prohibit the issuance of an NOC to the Respondent in respect of its generic version of clarithromycin. According to its NOA, the Respondent has filed an Abbreviated New Drug Submission ("ANDS") with the Minister in support of its request for an NOC for 250 mg and 500 mg clarithromycin tablets for oral administration referencing the Applicants' 250 mg and 500 mg BIAXIN clarithromycin film-coated tablets for oral administration in this respect. The Respondent, in its NOA, refers to the Abbott Patents and alleges that the said patents are invalid or, alternatively that its proposed pharmaceutical products will not infringe.
+[80]
+An NOC grants marketing approval for drugs in Canada. It is issued by the Federal Government, indicating that all requirements have been met pursuant to the
+Food and Drug Regulations
+, for the protection of public health and safety. The
+NOC Regulations
+authorize owners of existing patents for pharmaceutical products to file a "patent list" relative to those products for which they hold a NOC. The
+NOC Regulations
+refer to the person filing such a list as the "first person". In this case, the Applicants are the "first person".
+[81]
+The framework of the
+NOC Regulations
+allows generic drug manufactures to rely on prior approval of related pharmaceutical products in applying for marketing approval of their generic form of the products. Manufacturers who produce the same drug may file an application for an NOC that refers to and relies on the fact that prior approval has been granted for the brand-name version of the drug. Such a manufacturer is known as the "second person" and that is the Respondent's status.
+[82]
+The
+NOC Regulations
+prohibit the Minister of Health from issuing an NOC until all relevant product and use patents in the earlier approved medicine, as described in the patent list, have expired. Consequently, a second person must either wait until patent expiry before receiving an NOC or it may submit an NOA to the Minister with its ANDS.
+[83]
+The
+NOC Regulations
+require service of the NOA upon the first person. Section 5 sets out the grounds upon which an NOA is to be based. Briefly, the NOA must assert either that the first person is not the patentee, that the patent is expired or invalid, or that it would not be infringed if a NOC were issued.
+[84]
+Following service of the NOA, the Minister may issue an NOC to the second person, unless the first person avails of its right, pursuant to s. 6(1) of the
+NOC Regulations
+, to seek an order from the Federal Court prohibiting the Minister from issuing the NOC. Any such step must be taken by the first person within 45 days after receipt of the NOA and once such a proceeding is commenced, the issuance of an NOC to the second person is stayed for a maximum period of twenty-four months. In the present proceeding, the statutory period will expire on December 30, 2006, following an extension on consent of the parties.
+i.
+Burden of Proof
+[85]
+The Applicants argue that the statutory presumption of validity granted by s. 43(2) of the
+Patent Act
+, R.S.C. 1985, c. P-4 (the "
+Patent Act
+"), shifts the burden to the Respondent to invalidate each and every one of the patent claims. They further argue that they are entitled to an order of prohibition should the Respondent fail to establish invalidity in respect of even one of the claims.
+[86]
+Apotex disputes these arguments. It submits that the jurisprudence has definitively established that the burden lies on the Applicants to show, on a balance of probabilities, that the second person's allegations of ineligibility, non-infringement and invalidity are not justified. It argues that the burden does not shift from the Applicants to the second person and relies on the following decided cases:
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2005), 281 F.T.R. 74; 45 C.P.R.(4th) 81 (F.C.), at paras. 23-29;
+Pfizer Canada Inc. et al. v. Canada (Minister of Health) et al.
+(2006), 288 F.T.R. 215; 46 C.P.R.(4th) 281 (F.C.), at paras. 9-12, revd. on other grounds (2006), 351 N.R. 189 (F.C.A.);
+Bayer Inc. et al. v. Canada (Minister of National Health and Welfare) et al.
+(2000), 258 N.R. 238; 6 C.P.R.(4th) 285 (F.C.A.), at para. 5.
+[87]
+In
+SmithKline Beecham Pharma Inc. et al. v. Apotex Inc. et al.
+, [2001] 4 F.C. 518; 208 F.T.R. 105 (T.D.), affd. [2003] 1 F.C. 118; 291 N.R. 168 (F.C.A.), Justice Gibson considered the evidentiary burden in proceedings under the
+NOC Regulations
+where invalidity of a patent is alleged. At pages 533 to 534 [F.C.] he wrote the following:
+"Against the foregoing, I conclude that while an evidential burden lies on Apotex to put each of the issues raised in its Notice of Allegation in play, if it is successful in doing so, the persuasive burden or legal burden then lies with SmithKline. Assuming Apotex to be successful in putting the issue of validity of the '637 Patent in play, SmithKline is entitled to rely on the presumption of validity of the patent created by s. 43(2) of the
+Act
+.
+"The persuasive burden or legal burden that lies with SmithKline in the circumstances described in the preceding paragraph is, however, impacted by the nature of the proceeding here before the Court. In
+Merck Frosst Canada Inc. v. Canada (Minister of National Health and Welfare)
+, [(1994), 55 C.P.R.(3d) 302 (F.C.A.)] Mr. Justice Hugessen, for the Court, wrote at pages 319-20:
+'As I understand the scheme of the regulations, it is the party moving under s. 6, in this case Merck, which, as the initiator of the proceedings, has the carriage of the litigation and bears the initial burden of proof. That burden, as it seems to me, is a difficult one since it must be to disprove some or all of the allegations in the notice of allegation which, if left unchallenged, would allow the Minister to issue a notice of compliance.
+. . . . .
+'In this connection, it may be noted that, while s. 7(2)(b) [of the
+Regulations
+] seems to envisage the court making a declaration of invalidity or non-infringement, it is clear to me that such declaration could not be given in the course of the s. 6 proceedings themselves. Those proceedings, after all, are instituted by the patentee and seek a prohibition against the Minister; since they take the form of a summary application for judicial review, it is impossible to conceive of them giving rise to a counterclaim by the respondent seeking such a declaration. Patent invalidity, like patent infringement, cannot be litigated in this kind of proceeding.'
+"Thus, the burden on SmithKline is only to disprove the allegations in the notice of allegation, not to justify declarations of validity and infringement or conversely to negative claims for declarations of invalidity and non-infringement."
+[88]
+The burden lies on Abbott, as the Applicants, to refute the allegations set forth by Apotex in its NOA dated August 21, 2003. Therefore, like any plaintiff or applicant, Abbott has the overall legal burden of proof. Apotex, as the Respondent, has an obligation to put the allegations set out in its NOA in play.
+[89]
+Abbott accepts that it carries the legal burden with respect to the allegation of non-infringement. However, it argues that Apotex carries the burden of proof in relation to the allegation of invalidity, on the basis of the presumption of validity that arises under s. 43 of the
+Patent Act
+.
+[90]
+Apotex disputes this argument. Relying on the decision in
+Bayer Inc. v. Canada (Minister of National Health and Welfare)
+, supra,  it acknowledges that Abbott enjoys the presumption of validity, however, this does not relieve the Applicants of the burden to adduce evidence to show that the allegations of invalidity are not justified. If they fail to do so, then the application for prohibition must fail, see
+Bayer Inc. v. Canada (Minister of National Health and Welfare)
+, supra.
+[91]
+In
+FRAGMENT_SUPPRESSED, Justice Mosley concluded that as long as the second person adduces evidence that is not clearly incapable of establishing its allegation of invalidity, then the statutory presumption is spent and cannot assist the first person for the purpose of a prohibition proceeding.
+[92]
+In my opinion, the Applicants' arguments on the burden of proof are unsound. In
+Pfizer Canada Inc. v. Canada (Minister of Health)
+, supra (F.C.), at para. 12 and
+Abbott Laboratories v. Canada (Minister of Health)
+, supra, the Court clearly rejected arguments about a shifting burden. Although the Respondent characterizes the Applicants' arguments in this regard as being an abuse of process, on the grounds that the issue has already been determined and that the jurisprudence is known to the Applicants, I decline to comment on that submission. I do not accept the Applicants' arguments, having regard to the prevailing jurisprudence.
+[93]
+The present proceeding is a summary proceeding pursuant to the
+NOC Regulations
+and the
+Federal Court Rules
+, 1998
+, SOR/98-106 (the "
+Rules
+"), governing application for judicial review. Again, a finding of invalidity or infringement in the context of this type of proceeding is not determinative of that issue in any subsequent action; see
+Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al.
+(1994), 176 N.R. 48; 58 C.P.R.(3d) 209 (F.C.A.), at page 216 where the Court said as follows:
+"... these proceedings are not actions for determining validity or infringement: rather they are proceedings to determine whether the Minister may issue a notice of compliance. That decision must turn on whether there are allegations by the generic company sufficiently substantiated to support a conclusion for administrative purposes (the issue of a notice of compliance) that the applicant's patent would not be infringed if the generic's product is put on the market. ..."
+[94]
+I conclude that the Applicants bear the burden of establishing that Apotex's allegations of invalidity are not justified.
+[95]
+At the outset of the hearing counsel for the parties confirmed on the record that infringement is not an issue, although the NOA makes allegations of non-infringement. The Respondent's position is that its product will not infringe because it is made in a different process than the Applicants' product.
+[96]
+The three patents that will be considered are '732, '606 and '361.
+ii.
+The '732 Patent
+[97]
+The Applicants assert that the Respondent is estopped from arguing non-infringement of the '732 Patent, on the ground that it did not raise that issue in proceedings T-1133-02, that is the decision of Justice Phelan, reported at
+Abbott Laboratories v. Canada (Minister of Health)
+, supra. The Applicants argue that they could not raise this issue prior to the delivery of judgment in T-1133-02; that judgment was delivered on September 28, 2005. In support of this submission, the Applicants rely upon an Order that was signed on September 9, 2002 by Prothonotary Lafrenière.
+[98]
+For its part, the Respondent submits that the Applicants did not raise this issue in their Notice of Application and it is too late for them to raise the argument only in the written argument filed in support of this application. The Respondent argues that an argument respecting issue estoppel requires an evidentiary foundation and the failure of the Applicants to raise this issue in their Notice of Application is prejudicial and improper. In this regard, it relies on the decision of Justice Layden-Stevenson in
+AstraZeneca AB et al. v. Apotex Inc. et al.
+(2006), 285 F.T.R. 258; 46 C.P.R.(4th) 418 (F.C.).
+[99]
+The Notice of Application served by the Applicants in this matter sets out the following relative to the '732 Patent:
+"13. Canadian Patent 2,261,732 (the ''732 Patent') was issued to Abbott U.S.A. on July 24, 2001. It concerns a process for the preparation of 6-O-methylerythromycin A Form II and 6-O-methylerythromycin A crystal Form II prepared according to said process. The '732 Patent contains 15 claims to the process for the preparation of 6-O-methylerythromycin A Form II as well as 6 claims directed to 6-O-methylerythromycin A crystal Form II prepared according to said process.
+"14. On August 9, 2001, and within the 30 days prescribed by s. 4(4) of the
+NOC Regulations
+, Abbott Canada submitted Form IV Patent Lists containing the '732 Patent.
+"15. Apotex had made allegations under paragraphs 5(1)(b)(iv) [non-infringement] and 5(1)(b)(iii) [invalidity] of the
+Regulations
+in regard to the '732 Patent. None of these allegations are justified."
+[100]
+There is nothing here to suggest that the Applicants intend to argue issue estoppel. There is nothing on the record to show that any efforts were made to seek leave to amend the Notice of Application. Indeed, although this matter was initially scheduled to be heard in October 2005, the parties had requested an adjournment of that hearing date in June 2005 and a new hearing date was set by Order dated July 15, 2005.
+[101]
+I agree with the submissions of the Respondent on this point and refer to the decision of Justice Mosley in
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(2005), 282 F.T.R. 8; 43 C.P.R.(4th) 81 (F.C.), at paragraph 100 where he said the following:
+"As provided for in Rule 301(e) of the
+Federal Courts Rules, 1998
+, SOR/98-106, an application shall set out a complete statement of the grounds intended to be argued. As noted by Weston, J., in
+Pharmacia
+, supra, at page 339, it also flows from the legal burden on the applicants under s. 6 of the regulations to inform the respondent as to what 'vexes' the patentee so that it may, if necessary, tender evidence in response."
+[102]
+The Applicants said nothing about this issue when they commenced this proceeding by filing their Notice of Application on October 7, 2003. It was too late to raise this matter in their written memorandum that was filed on July 13, 2006.
+[103]
+In the circumstances, I will not entertain the arguments relative to issue estoppel in respect of the '732 Patent. The Applicants raised no other submissions and accordingly, no Order of Prohibition will issue with respect to the '732 Patent.
+iii.
+Claims Construction
+[104]
+The first step in assessing the allegations of invalidity is to construe the disputed claim of the patent. In
+Whirlpool et al. v. Camco Inc. et al.
+, [2000] 2 S.C.R. 1067; 263 N.R. 88, and
+Free World Trust v. Electro Santé Inc. et al.
+, [2000] 2 S.C.R. 1024; 263 N.R. 150, the Supreme Court of Canada held that the patent claim is to be construed in a purposive way and that the Court must consider the entire specification of the patent in order to understand the words as stated in a disputed claim. In
+Free World Trust
+, at pages 1043-1044 [S.C.R.], Justice Binnie identified a list of principles that guide the purposive approach to the construction of a claim, as follows:
+"A. The
+Patent Act
+promotes adherence to the language of the claims.
+b. Adherence to the language of the claims in turn promotes both fairness and predictability.
+c. The claim language must, however, be read in an informed and purposive way.
+d. The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the 'spirit of the invention' to expand it further.
+e. The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+i. on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+ii. as of the date the patent is published;
+iii. having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+iv. according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+v. without, however, resort to extrinsic evidence of the inventor's intention.
+f. There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted."
+[105]
+The decisions in
+Whirlpool
+and
+Free World Trust
+provide clear instructions that claims are to be interpreted in light of the patent specification. In following the purposive approach to interpreting the words or phrases of a claim, the Court should stay within the four corners of the specification and limit itself to the words of the claim interpreted in the context of the specification as a whole, avoiding reliance on extrinsic evidence of intent; see
+Whirlpool
+at page 1095 [S.C.R.]. Expert evidence is admissible, but only to assist the Court in interpreting the claim in a knowledgeable way; see
+Whirlpool
+at page 1102 [S.C.R.].
+iv.
+The '606 Patent
+[106]
+The '606 Patent is entitled "Crystal Form II of Clarithromycin". Its filing date is July 27, 1997, with a publication date of February 5, 1998. It claims priority from U.S. Patent 08/681,723, with a priority date of July 29, 1996.
+[107]
+The '606 Patent consists of four claims, as follows:
+"1. 6-O-methylerythromycin A Form II is characterized by peaks in the powder x-ray diffraction pattern having the following 2? values: 8.5°±0.2, 9.5°±0.2, 10.8°±0.2, 11.5°±0.2, 11.9°±0.2, 12.4°±0.2, 13.7°±0.2, 14.1°±0.2, 15.2°±0.2, 16.5°±0.2, 16.9°±0.2, 17.3°±0.2, 18.1°±0.2, 18.4°±0.2, 19.0°±0.2, 19.9°±0.2, and 20.5°±0.2.
+2. 6-O-methylerythromycin A Form II is characterized by peaks in the powder x-ray diffraction pattern having the following 2? values: 8.52°±0.2, 9.48°±0.2, 10.84°±0.2, 11.48°±0.2, 11.88°±0.2, 12.36°±0.2, 13.72°±0.2, 14.12°±0.2, 15.16°±0.2, 16.48°±0.2, 16.92°±0.2, 17.32°±0.2, 18.08°±0.2, 18.40°±0.2, 19.04°±0.2, 19.88°±0.2, and 20.48°±0.2.
+3. 6-O-methylerythromycin A Form II, substantially free of 6-O-methylerythromycin A Form I, characterized by peaks in the powder x-ray diffraction pattern having the following 2? values: 8.5°±0.2, 9.5°±0.2, 10.8°±0.2, 11.5°±0.2, 11.9°±0.2, 12.4°±0.2, 13.7°±0.2, 14.1°±0.2, 15.2°±0.2, 16.5°±0.2, 16.9°±0.2, 17.3°±0.2, 18.1°±0.2, 18.4°±0.2, 19.0°±0.2, 19.9°±0.2, and 20.5°±0.2.
+4. 6-O-methylerythromycin A Form II, substantially free of 6-O-methylerythromycin A Form I, characterized by peaks in the powder x-ray diffraction pattern having the following 2? values: 8.52°±0.2, 9.48°±0.2, 10.84°±0.2, 11.48°±0.2, 11.88°±0.2, 12.36°±0.2, 13.72°±0.2, 14.12°±0.2, 15.16°±0.2, 16.48°±0.2, 16.92°±0.2, 17.32°±0.2, 18.08°±0.2, 18.40°±0.2, 19.04°±0.2, 19.88°±0.2, and 20.48°±0.2."
+[108]
+Again, the first step is the construction of the patent. This involves reading the claims through the eyes of a skilled worker and informed by the disclosure, as well as expert evidence if necessary.
+[109]
+The claims are directed to a product per se. In claims 1 and 2, the product is clarithromycin Form II, characterized by its PXRD pattern. The PXRD for each claim is the same, except that in claim 2 that pattern is described to two digits after the decimal point, rather than one digit.
+[110]
+Claims 3 and 4 claim clarithromycin Form II substantially free of Form I. Again, these claims are characterized by PXRD patterns, with the pattern in claim 4 being described to two digits after the decimal point, where the pattern for claim 3 is brought to one digit after the decimal point.
+[111]
+The Respondent alleged in its NOA that the '606 Patent is invalid on the grounds of anticipation and obviousness. It relied on prior art including an article by Iwasaki, the Stephenson thesis, the Ethanol Art, the USP Standard and the prior sale of BIAXIN.
+[112]
+In light of the decision of Justice von Finckenstein in
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2005), 277 F.T.R. 262; 42 C.P.R.(4th) 121 (F.C.), affd. by the Federal Court of Appeal (2006), 350 N.R. 242; 2006 FCA 187 ("
+Ratiopharm
+"), in which the '606 Patent was found to be anticipated by Iwasaki, the arguments with respect to this patent can be disposed of summarily.
+[113]
+Iwasaki is cited as prior art in the present case. The article was published on June 15, 1993 in "Crystal Structure Communication", Volume 49, Part 6 and is Document No. 29 in the documents produced by Apotex here. The same evidence was before Justice von Finckenstein and the Federal Court of Appeal. Iwasaki teaches a product that is defined by PXRD data that matches the PXRD data set out in the claim of the '606 Patent. This article is relevant and probative evidence on the issue of anticipation, in light of the test established in
+Beloit Canada Ltd. v. Valmet Oy
+(1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.). That is enough to establish anticipation.
+[114]
+Both the trial judge and the Federal Court of Appeal found on the PXRD patterns as being a defining and critical element of the claim of the '606 Patent. No extrinsic evidence, expert or otherwise, can change the plain language of the claims. The Iwasaki article establishes anticipates the '606 Patent.
+[115]
+It is not necessary for me to comment on the other pieces of prior art cited by the Respondent. The application for a prohibition order is dismissed with respect to the '606 Patent.
+v.
+The '361 Patent
+[116]
+The '361 Patent is entitled "Crystal Form 0 and Form II of Clarithromycin and Uses thereof". It contains 68 claims. Claims 1 to 7 are process claims. The remaining claims relate to use, forms and compositions of the drug. The filing date of this patent is December 19, 1997 and it was open for inspection as of July 23, 1998. The Patent issued on May 25, 2003. It is a divisional of the '274 Patent and claims priority to U.S. Patent application 08/785,623 dated January 17, 1997.
+[117]
+The Applicants address claim 31 as a representative claim in their written memorandum but also addressed claim 62 in the course of oral argument.
+[118]
+The first matter to be addressed is the construction of the patent. What do claims 31 and 62 mean?
+[119]
+Claims 31 and 62 read as follows:
+"31. The use of 6-O-methylerythromycin A Form 0·ethanolate in the preparation of 6-O-methylerythromycin A Form II for use as an antibiotic.
+"62. The use of 6-O-methylerythromycin A Form 0·ethanolate, substantially free of 6-O-methylerythromycin A Form I, in the preparation of 6-O-methylerythromycin A Form II, substantially free of 6-O-methylerythromycin A Form I and 6-O- methylerythromycin A Form 0·ethanolate, for use as an antibiotic, wherein said 6-O-methylerythromycin A Form 0·ethanolate is characterized by peaks in the powder x-ray diffraction pattern having the following 2θ values: 4.72°±0.2, 6.60°±0.2, 7.72°±0.2, 9.30°±0.2, 10.40°±0.2, 11.10°±0.2, 11.86°±0.2, 12.72°±0.2, 13.90°±0.2, 15.02°±0.2, 17.18°±0.2, 18.50°±0.2, 19.08°±0.2, 19.68°±0.2, 23.14°±0.2, and 23.98°±0.2 and said 6-O-methylerythromycin A Form II is characterized by peaks in the powder x-ray diffraction pattern having the following 2θ values: 8.52°±0.2, 9.48°±0.2, 10.84°±0.2, 11.48°±0.2, 11.88°±0.2, 12.36°±0.2, 13.72°±0.2, 14.12°±0.2, 15.16°±0.2, 16.48°±0.2, 16.92°±0.2, 17.32°±0.2, 18.08°±0.2, 18.40°±0.2, 19.04°±0.2, 19.88°±0.2, and 20.48°±0.2."
+[120]
+In my opinion, the plain reading of the language of claim 31 shows that it claims the use of Form 0 to make something else, that is Form II.
+[121]
+Claim 62, according to its plain words, claims the use of Form 0 solvate in the preparation of Form II substantially free of Form I.
+[122]
+The first argument raised by the Respondent is that all of the claims of the '361 Patent are ineligible for listing on the Patent Register because they claim the use of Form 0 as an intermediary in the preparation of Form II. The second ground advanced by the Respondent is that the '361 Patent is anticipated and/or obvious in light of the prior art, in particular the ethanol art and the melting point references.
+[123]
+It submits that claim 31 speaks to the use of Form 0 in the preparation of Form II without any other intermediate steps. Generally, claim 62 addresses the same thing. The Respondent argues that the words in claim 31 "for use as an antibiotic" are not essential to the claim and in any event, it is not disputed that clarithromycin is useful as an antibiotic. Further, the Court of Appeal in
+Ratiopharm
+has found Form 0 to be old and Justice Phelan has found Form II to be old.
+[124]
+In response, the Applicants submit that the Federal Court of Appeal in
+Ratiopharm
+has conclusively said that each of Form 0, Form I and Form II is a medicine. The Applicants rely on paragraphs 5 and 6 of that decision as follows:
+"5. Abbott claims to have discovered three forms of clarithromycin, which it has named 'Form 0', 'Form I' and 'Form II'. It is undisputed that clarithromycin, whether in Form 0, Form I, or Form II, is an antibiotic, and that each of those forms of clarithromycin is within the definition of the word 'medicine' in the
+NOC Regulations
+, which reads as follows:
+'"medicine" means a substance intended or capable of being used for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof.
+'"médicament" Substance destinée à servir ou pouvant servir au diagnostic, au traitement, à l'atténuation ou à la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes.'
+"6. Ratiopharm's proposed clarithromycin product contains Form II. It is common ground that Form 0 is produced in the process of making Form I or Form II. However, the Form 0 so produced is unstable, in the sense that if nothing is done to it, it becomes a different form of clarithromycin within a short period of time. It appears that Form 0 was not identified as a unique substance until it was stabilized by the inventors named in the 274 patent."
+[125]
+The terms "claim for the medicine itself", "claim for the use of the medicine" and "medicine" are defined in s. 2 of the
+NOC Regulations
+as follows:
+"2. In these Regulations,
+'claim for the medicine itself' includes a claim in the patent for the medicine itself when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents;
+'claim for the use of the medicine' means a claim for the use of the medicine for the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof;"
+"2. Les définitions qui suivent s'appliquent au présent règlement.
+'revendication pour le médicament en soi' S'entend notamment d'une revendication, dans le brevet, pour le médicament en soi préparé ou produit selon les modes du procédé de fabrication décrits en détail et revendiqués ou selon leurs équivalents chimiques manifestes.
+'revendication pour l'utilisation du médicament' Revendication pour l'utilisation du médicament aux fins du diagnostic, du traitement, de l'atténuation ou de la prévention d'une maladie, d'un désordre, d'un état physique anormal, ou de leurs symptômes."
+[126]
+Section 4 of the
+NOC Regulations
+addresses the patent list and provides as follows:
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+"(2) A patent list submitted in respect of a drug must
+(a) indicate the dosage form, strength and route of administration of the drug;
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that contains a claim for the medicine itself or a claim for the use of the medicine and that the person wishes to have included on the register;
+(c) contain a statement that, in respect of each patent, the person applying for a notice of compliance is the owner, has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list;
+(d) set out the date on which the term limited for the duration of each patent will expire pursuant to section 44 or 45 of the Patent Act; and
+(e) set out the address in Canada for service on the person of any notice of an allegation referred to in paragraph 5(3)(b) or (c), or the name and address in Canada of another person on whom service may be made, with the same effect as if service had been made on the person."
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+"(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+a) la forme posologique, la concentration et la voie d'administration de la drogue;
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste, qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament, et qu'elle souhaite voir inscrit au registre;
+c) une déclaration portant, à l'égard de chaque brevet, que la personne qui demande l'avis de conformité en est le propriétaire, en détient la licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste;
+d) la date d'expiration de la durée de chaque brevet aux termes des articles 44 ou 45 de la Loi sur les brevets;
+e) l'adresse de la personne au Canada aux fins de signification de tout avis d'allégation visé aux alinéas 5(3)b) ou c), ou les nom et adresse au Canada d'une autre personne qui peut en recevoir signification avec le même effet que s'il s'agissait de la personne elle-même."
+[127]
+The jurisprudence is clear that an intermediate is not a "claim for the medicine itself" nor a "claim for the use of the medicine".
+[128]
+In
+Deprenyl Research Ltd. et al. v. Apotex Inc. et al.
+(1984), 55 C.P.R.(3d) 171 (F.C.T.D.), at page 176 the Court said the following:
+"Therefore, the phrase 'claim for the medicine itself', in the
+Patented Medicines (Notice of Compliance) Regulations
+means a claim for the medicine itself, in the ordinary and natural sense of the words, and a claim for the medicine when prepared by a particular process, in the ordinary and natural sense of the words used in s. 2. There is nothing in the language of the legislation which suggests the phrase also covers a claim for a particular process used to produce a medicine. Such an interpretation would, in my view, be an unwarranted enlargement of the natural sense of the words used in the
+Regulations
+."
+[129]
+In
+Eli Lilly & Co. et al. v. Apotex Inc. et al.
+(1996), 199 N.R. 4; 68 C.P.R.(2d) 126 (F.C.A.), the Federal Court of Appeal commented on the definition of "medicine" in s. 2 of the
+NOC Regulations
+at page 128 [C.P.R.] as follows:
+"The definition in s. 2 of the
+Regulations
+is clear and entirely unambiguous: in order to be a 'medicine' a substance must be intended for or capable of one or more of the precise listed medical uses. Chemical conversion or synthesis into another substance which may itself be used as a medicine is not one of them. The French text of the definition is, if possible, even clearer than the English in its emphasis on the end use to which the substance itself must be put in order to meet the definition."
+[130]
+The thrust of the Respondent's argument here is that claims 31 and 62 of the '361 Patent address the use of Form 0 not as a medicine but as a product to make another product. It argues that this interpretation arises from a plain reading of the language of the claims and that the conclusions of the Federal Court of Appeal in
+Ratiopharm
+do not govern since the Court in that case was considering a different patent, with different claims.
+[131]
+In
+Bristol-Myers Squibb Co. et al. v. Canada (Attorney General) et al.
+(2005), 334 N.R. 55; 39 C.P.R.(4th) 449 (S.C.C.), the Supreme Court discussed the scope and function of the
+NOC Regulations
+and noted that this regulatory scheme is intended to provide limited protection. It is directed to those persons using the patented invention. In this case, the "patented invention" is Form II made from Form 0.
+[132]
+More recently, in
+AstraZeneca Canada Inc. v. Canada (Minister of Health) et al.
+, [2006] S.C.J. No. 49; 354 N.R. 88 (S.C.C.), the Supreme Court of Canada again addressed the purpose of the
+NOC Regulations
+and said, in paragraph 39, that s. 5(1) of the
+NOC Regulations
+requires a "patent specific analysis". Although AstraZeneca was concerned with the issue of "evergreening", in my opinion, the direction to take a patent specific analysis is equally applicable here. The '361 Patent is directed to the use of Form 0 as an intermediary, not as a medicine. The status of Form 0 as a medicine in another context does not change its status here.
+[133]
+Finally, with respect to the decision of the Federal Court of Appeal in
+Ratiopharm
+, I note that the Court said that Abbott described the '361 Patent "as a patent claiming a method of making Form II from Form 0". This means that, at least in the Court of Appeal, the Applicants referred to the '361 as a process patent. Such a claim is ineligible under the
+NOC Regulations
+.
+[134]
+Accordingly, I conclude that the relevant claims of the '361 Patent do not meet the eligibility requirements for inclusion on the Patent List. This issue is dispositive concerning the '361 Patent and it is not necessary to address the other arguments raised by the parties.
+IX.
+Conclusion
+[135]
+For the reasons above, this application is dismissed.
+[136]
+This application proceeded upon the basis of a confidential record. The parties were asked if they wished to proceed on an in camera basis and advised that such hearing was not necessary. However, in the interests of avoiding any inadvertent disclosure of confidential material, these reasons will be issued on a confidential basis. The parties will advise the Court within fifteen (15) days of the release of these reasons.
+[137]
+The parties requested the opportunity to make submissions on costs. In that regard, the parties shall file their submissions, not to exceed five (5) pages, on or before January 26, 2007.
+Application dismissed.
+Editor: Giovanni A. Merlini/gs
+[End of document]

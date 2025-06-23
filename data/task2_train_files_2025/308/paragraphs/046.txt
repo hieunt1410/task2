@@ -1,0 +1,41 @@
+[46]
+Since the order is sought ex parte, there is also a duty of full and frank disclosure of all relevant and important facts on the party seeking such an order. The duty of disclosure was described in the following terms by the English Court of Appeal in
+Brink's-MAT Ltd. v. Elcombe et al.
+, [1983] 3 All. E.R. 188 (C.A.):
+"The exercise of that discretion should be guided by the oft-quoted principles -- stated in the context of Mareva relief, but equally applicable to Anton Piller relief -- set out by Ralph Gibson, L.J., in the
+Brink's-MAT
+decision of the English Court of Appeal, cited above. Those principles, although of some length, bear repeating. At pp. 192-93 (All E.R.), he said:
+'In considering whether there has been relevant non-disclosure and what consequence the court should attach to any failure to comply with the duty to make full and frank disclosure, the principles relevant to the issues in these appeals appear to me to include the following. (i) The duty of the applicant is to make "a full and fair disclosure of all the material facts": see
+R. v. Kensington Income Tax Comrs, ex p Princess Edmond de Polignac
+, [1917] 1 K.B. 486, at 514 per Scrutton, L.J. (ii) The material facts are those which it is material for the judge to know in dealing with the application as made; materiality is to be decided by the court and not by the assessment of the applicant or his legal advisers: see the
+Kensington Income Tax Comrs
+case [1917] 1 KB 486, at 504 per Lord Cozens-Hardy MR, citing
+Dalglish v. Jarvie
+(1850), 2 Mac & G 231 at 238, 42 E.R. 89, at 92, and
+Thermax Ltd. v. Schott Industrial Glass Ltd.
+, [1981] F.S.R. 289, at 295 per Browne-Wilkinson, J., (iii)
+The applicant must make proper inquiries before making the application
+: see
+Bank Mellat v. Nikpour
+[supra]. The duty of disclosure therefore applies not only to material facts known to the applicant but also to any additional facts known to the applicant but also to any additional facts which he would have known if he had made such inquiries. (iv) The extent of the inquiries which will be held to be proper, and therefore necessary, must depend on all the circumstances of the case including (a) the nature of the case which the applicant is making when he makes the application, (b) the order for which application is made and the probable effect of the order on the defendant: see, for example, the examination by Scott, J., of the possible effect of an Anton Piller order in
+Columbia Picture Industries Inc. v. Robinson
+[supra], and (c)
+the degree of legitimate urgency and the time available for the making of inquiries
+: see
+Bank Mellat v. Nikpour
+... at 92-93 per Slade, L.J. (v) If material non-disclosure is established the court will be "astute to ensure that a plaintiff who obtains ... an ex parte injunction without full disclosure is deprived of any advantage he may have derived by that breach of duty ...": see
+Bank Mellat v. Nikpour
+(at 91) per Donaldson, L.J., citing Warrington, L.J., in the
+Kensington Income Tax Comrs
+case. (vi) Whether the fact not disclosed is of sufficient materiality to justify or require immediate discharge of the order without examination of the merits depends on the importance of the fact to the issues which were to be decided by the judge on the application. The answer to the question whether the non-disclosure was innocent, in the sense that the fact was not known to the applicant or that its relevance was not perceived, is an important consideration but not decisive
+by reason of the duty on the applicant to make all proper inquiries and to give careful consideration to the case being presented.
+(vii) Finally "it is not for every omission that the injunction will be automatically discharged. A locus poenitentiae may sometimes be afforded": see
+Bank Mellat v. Nikpour
+... at 90 per Lord Denning M.R. The court has a discretion, notwithstanding proof of material non-disclosure which justifies or requires the immediate discharge of the ex parte order, nevertheless to continue the order, or to make a new order on terms:'
+"...
+when the whole of the facts, including that of the original non-disclosure, are before it, [the court] may well grant such a second injunction if the original non-disclosure was innocent and if an injunction could properly be granted even had the facts been disclosed
+."
+(
+See Lloyds Bowmaker Ltd. v. Britannia Arrow Holdings plc
+(Lavens, third party)
+, [1988] 3 All E.R. 178 at 183 per Glidewell, L.J.)" (emphasis added)

@@ -1,0 +1,77 @@
+[2]
+At trial, the parties filed an agreed statement of facts, supported by an agreed book of documents, to serve as the whole evidence in the present case. The agreed statement of facts states as follows:
+"1. By an agreement dated July 31, 1979, Jack Lamont, Joan Lamont, John Stewart and Kenneth Stephenson, shareholders of Import Customs Brokers Ltd. (hereinafter respectively called the 'Shareholders' and 'Import') agreed with Livingston Industries Limited (hereinafter called 'LIL') that Import and International Customs Brokers Ltd. (hereinafter called 'International'), a wholly owned subsidiary of LIL, would amalgamate on August 17, 1979.
+"2. Prior to August 17, 1979:
+(i) Import, which had been operating for approximately twenty (20) years, and International, which had been operating for approximately thirty (30) years, were competitors in the custom house brokerage and international forwarding business;
+(ii) International had been a wholly owned subsidiary of LIL for approximately two (2) years.
+"3. On August 17, 1979:
+(i) Import amalgamated with International under the laws of the province of Ontario to form International-Import Customs Brokers Inc. (hereinafter called the 'Inter-Import');
+(ii) the Shareholders received, in exchange for an aggregate 100 common shares of Import, an aggregate of 100 first preference shares of Inter-Import of a par value of .25 cents each and 100,000 second preference shares of Inter-Import of  a par value of 0.00075;
+(iii) the Inter-Import shares held by the former shareholders were transferred under subsection 85(1) of the Income Tax Act to three separate holding companies, two of which were incorporated by the Shareholders specifically for that purpose;
+(iv) each of the three holding companies then transferred the Inter-Import shares held by it to a second holding company called 422646 Ontario Limited.
+"4. On August 20, 1979:
+(i) Inter-Import borrowed $6,000,000 from LIL;
+(ii) the proceeds of the loan were then used to redeem on that same date, the first preference shares of Inter-Import held by 422646 Ontario Limited, for an aggregate amount of $6,000,000;
+(iii) at that time, the aggregate paid-up capital of the issued first preference shares of Inter-Import, was $25 and the retained earnings of Inter-Import were $4,178,371, that is an aggregate amount of $4,178,396;
+(iv) Inter-Import borrowed an amount of $3,000,000 from 422646 Ontario Limited which was evidenced by interest-bearing promissory notes;
+(v) the proceeds of the $3,000,000 loan from 422646 Ontario Limited were used by Inter-Import to reduce the $6,000,000 outstanding indebtedness to LIL to an amount of $3,000,000.
+"5. On August 21, 1979, the second preference shares of Inter-Import were redeemed for an aggregate amount of $75.
+"6. As a result of the redemption of the first preference shares, 422646 Ontario Limited reported a taxable dividend of $5,999,975 which it deducted under subsection 112(1) of the Income Tax Act in computing its taxable income.
+"7. Interest payments were made by Inter-Import during the 1980, 1981, 1982 and 1983 taxation years on the indebtednesses as follows:
+Lender
+LIL
+Loan
+422646
+Ontario
+Ltd. loan
+Total
+Amount of loan
+3,000,000
+3,000,000
+6,000,000
+Interest paid
+-
+-
+-
+- 1980
+403,125
+318,979
+722,104
+- 1981
+364,127
+316,783
+680,910
+- 1982
+276,800
+287,865
+564,665
+- 1983
+117,625
+262,507
+380,132
+Total
+1,167,677
+1,186,134
+2,347,811
+"8. By a Notice of Determination of Loss dated February 28, 1986, in respect of the 1981 taxation year, and by Notices of Reassessment dated August 30, 1985, in respect of the 1980, 1981, 1982, 1983 and 1984 taxation years, the defendant  disallowed the following amounts claimed by Inter-Import as part of the interest expenses incurred by it in respect of the loans:
+LIL
+Loan
+422646
+Ontario
+Ltd. loan
+Total
+Total claimed
+1,161,677
+1,186,134
+2,347,811
+Total disallowed
+352,685
+360,110
+712,795
+% disallowed
+30.36%
+30.36%
+30.36%
+"9. The basis upon which the Minister proceeded in so reassessing the plaintiff is that the interest payable on the portion of the loans which exceeds the paid-up capital of Inter-Import's first preference shares and retained earnings at August 20, 1979, which portion represents an amount of $1,821,504 or 30.36% of the borrowed funds, is not interest the deduction of which is permitted under paragraph 20(1)(c) of the Income Tax Act.
+"10. The said Notification and Reassessments were confirmed by Notification of Confirmation dated June 22, 1987.
+"11. On December 31, 1985, the plaintiff, Border Brokers Inc., Livingston On-Line Brokerage Service Inc., Samson-Shaen & Co. Ltd., Airspeed Brokers (1962) Ltd. and Livingstonair Inc. were amalgamated under the laws of the Province of Ontario to form the plaintiff, Livingston International Inc."

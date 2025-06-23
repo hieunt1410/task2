@@ -1,0 +1,83 @@
+Can. (M.C.I.) v. Manas, [2010] F.T.R. Uned. 683 (FC)
+MLB unedited judgment
+The Minister of Citizenship and Immigration (applicant) v. Emmanuel Manas (respondent)
+(T-476-10; 2010 FC 1056)
+Indexed As: Canada (Minister of Citizenship and Immigration) v. Manas
+Cite As: [2010] F.T.R. Uned. 683
+Federal Court
+O'Reilly, J.
+October 27, 2010.
+Counsel:
+Stephen Jarvis, for the applicant;
+Tyler David Warren, for the respondent.
+Solicitors of Record:
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the applicant;
+Tyler David Warren, Mississauga, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I. Overview
+[1]
+O'Reilly, J.
+: In 2001, Mr. Emmanuel Manas arrived in Canada as a permanent resident. He and his family established a home in Mississauga. The following year, Mr. Manas found a job in New York in his specialized field of marine electronic equipment maintenance. People in that field typically work in deep sea harbours; New York is the closest suitable location to Mississauga. He follows a flexible schedule permitting him to return home most weekends for two or three days.
+[2]
+In 2007, Mr. Manas applied for Canadian citizenship. According to the
+Citizenship Act
+, applicants must show they were resident in Canada for three out of the four years preceding the application (R.S.C. 1985, c. C-29, s. 5(1)(
+c
+)). If they have not been physically present for the necessary three years, they must prove that they established and maintained, through a strong connection to Canada, their residency in Canada for the required period. This is referred to as a qualitative test (
+Canada (Minister of Citizenship and Immigration)
+v.
+Nandre
+, 2003 FCT 650, at para. 21).
+[3]
+Due to his employment in the United States, Mr. Manas failed to prove he had lived in Canada for a three-year period during the relevant time frame: 2003 to 2007. He fell 423 days short of the required 1,095 days. However, the citizenship judge who reviewed Mr. Manas's application granted him Canadian citizenship because he had established his residency in Canada and centralized his life here.
+[4]
+The Minister argues that the citizenship judge erred by failing to apply the proper test for residency, arriving at an unreasonable conclusion, making an important factual error, and failing to provide adequate reasons. He asks me to quash the citizenship judge's decision. I agree that the citizenship judge erred and will, therefore, allow this appeal. In particular, I find that the judge's decision was unreasonable.
+II. The Citizenship Judge's Decision
+[5]
+The citizenship judge relied on the case of
+Re Papadogiorgakis
+, [1978] 2 F.C. 208 (F.C.T.D.). There, Associate Chief Justice Thurlow concluded that a person with an established home in Canada can leave temporarily and still be regarded as a resident of Canada. The fact that the person's family continues to reside in Canada is a relevant factor, as is the frequency of the person's trips back to Canada. The main question is whether the person has centralized his or her mode of living in Canada through social relations and other interests.
+[6]
+The citizenship judge found Mr. Manas had established the family home in Canada before starting his job in the U.S. He observed that Mr. Manas spent more time in the United States than in Canada, but concluded that Mr. Manas had proved that he had centralized his life in Canada. Factors that figured in the citizenship judge's conclusion included the nature of Mr. Manas's employment, the relative proximity of New York, Mr. Manas's flexible schedule, and the frequency and duration of his travels to Canada. The evidence showed that Mr. Manas maintained professional and social ties to Canada through his membership in the Ontario Association of Certified Engineering Technicians and Technologists, his involvement in his church, and his insurance and medical arrangements. In addition, his family lives, works and goes to school in Canada.
+III.Was the Decision Reasonable?
+[7]
+Mr. Manas submits that the decision was reasonable because the citizenship judge considered the relevant factors and arrived at a conclusion for which there was supporting evidence.
+[8]
+In my view, the citizenship judge overlooked significant factors. First, the citizenship judge did not consider the fact that Mr. Manas's employment situation was not temporary; it was indefinite and possibly permanent. His situation is unlike that envisaged in the
+Papadogiorgakis
+case, where the applicant was resident in the United States for a few years simply to pursue post-secondary studies. Mr. Manas's application did not disclose any plan to live full-time in Canada. While his skills could equally be applied in Halifax which, like New York, is a deep sea port, there was no evidence before the citizenship judge of any intention on Mr. Manas's part to work in Canada.
+[9]
+Second, the citizenship judge considered the fact that Mr. Manas pays all of his income tax in Canada as a factor in his favour. However, the evidence showed that Mr. Manas actually pays a significant amount of income tax in the U.S.
+[10]
+Third, Mr. Manas told an immigration officer that he had been a U.S. resident since 2005. The citizenship judge did not refer to this evidence.
+[11]
+In my view, while each of these grounds would probably not have provided a basis for overturning the citizenship judge's decision on its own, taken together, they persuade me that the decision was unreasonable.
+IV. Conclusion and Disposition
+[12]
+Given the factors overlooked by the citizenship judge, his conclusion did not fall within the range of possible, defensible outcomes based on the facts and the law. I must, therefore, allow this appeal and quash the decision under appeal. Given that the citizenship judge noted several factors in favour of Mr. Manas's application, I believe it would be in the interests of justice to refer the matter back to the citizenship judge for reconsideration. In doing so, I point out that the Federal Court now recognizes the following test of residency as the prevailing one:
+Has the applicant proved that he established his residence in Canada and maintained it for the required duration? In considering whether this test has been met, the citizenship judge may consider a variety of factors, particularly those set out in
+FRAGMENT_SUPPRESSED
+JUDGMENT
+[13]
+THIS COURT'S JUDGMENT is that:
+1. The application for leave to appeal is allowed and the decision under appeal is quashed.
+2. The matter is returned to the citizenship judge for reconsideration.
+Annex
+Citizenship Act
+, R.S.C. 1985, c. C-29
+5.
+(1) The Minister shall grant citizenship to any person who
+...
+(c) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, and has, within the four years immediately preceding the date of his or her application, accumulated at least three years of residence in Canada calculated in the following manner:
+(i) for every day during which the person was resident in Canada before his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one-half of a day of residence, and
+(ii) for every day during which the person was resident in Canada after his lawful admission to Canada for permanent residence the person shall be deemed to have accumulated one day of residence;
+Loi sur la citoyenneté
+, L.R., 1985, ch. C-29
+5.
+(1) Le ministre attribue la citoyenneté à toute personne qui, à la fois:
+[...]
+c) est un résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés et a, dans les quatre ans qui ont précédé la date de sa demande, résidé au Canada pendant au moins trois ans en tout, la durée de sa résidence étant calculée de la manière suivante:
+(i) un demi-jour pour chaque jour de résidence au Canada avant son admission à titre de résident permanent,
+(ii) un jour pour chaque jour de résidence au Canada après son admission à titre de résident permanent,
+[End of document]

@@ -1,0 +1,135 @@
+[1]
+Hargrave, Prothonotary
+: The plaintiff wishes to have a preliminary question of law, which it says will either eliminate the need for a trial or, at least, expedite the trial, determined pursuant to rule 474(1)(a).
+[2]
+The defendants' counsel, who has worked with the plaintiff's counsel on a statement of facts which are not disputed, says that there are additional issues which ought to be canvassed on examinations for discovery, and that the question is of mixed law and fact which will neither conclude the litigation nor necessarily simplify the trial, and thus opposes this application.
+[3]
+I have allowed the plaintiff's motion. However, in view of the opposition by the defendants, reasons are in order, beginning with the background.
+Background
+[4]
+The plaintiff, a family-owned Vancouver auto parts retailer, imports stock from the United States, including relined brake shoes.
+[5]
+In the case of brake shoes, the plaintiff regularly sends worn steel brake shoe cores to an American remanufacturer to have them relined. To make certain there is a steady supply of worn brake shoe cores coming from the plaintiff for remanufacturing, the plaintiff is required to pay a deposit to the American remanufacturer on the imported relined brake shoes coming north, which is offset against the worn brake shoe cores exported south by the plaintiff.
+[6]
+In turn, when a retail customer comes into the plaintiff's Vancouver shop to purchase relined brake shoes, the customer is required to pay a deposit sufficient to make certain that after installing the new brake shoes he or she will bring back the vehicle's worn brake shoes so that the plaintiff has a sufficient stock of worn parts to send to its American remanufacturer.
+[7]
+With the knowledge that exported worn brake shoes will not at all times equal imported relined brake shoes, the plaintiff and the American remanufacturer run an accounting system to keep track of the imported brake shoes, on which the plaintiff pays a deposit, and exported worn brake shoes, on which the plaintiff retrieves the deposit.
+[8]
+The principle issue is whether duty and federal sales tax are payable on the deposits charged by the American supplier to insure the return of the reusable brake shoe core components.
+[9]
+There are subsidiary issues, including whether, in the longer run, there is a balance of imported remanufactured brake shoes and exported worn brake shoes, or whether there is some slippage or leakage resulting in a net import imbalance, which is subject to duty and federal sales tax. However, as noted later, this is more of an accounting exercise than a legal problem.
+[10]
+Plaintiff's counsel asks that the following be answered as a preliminary question of law:
+"Were deposits, in the nature of the core deposits charged by an American supplier, EPE, to the plaintiff, Bow-Wow, to ensure the return to EPE for relining of the reusable core components of each remanufactured brake shoe sold by EPE to Bow-Wow between January 1, 1985, and August 31, 1987 (the 'Investigation Period'):
+a. part of the 'value for duty' or 'transaction value' of the imported goods; and, accordingly
+b. properly subject to duty and federal sales tax pursuant to the
+Customs Act
+valuation provisions in force
+1
+during the Investigation Period?
+1
+For that part of the Investigation Period falling between January 1, 1985, and November 9, 1986: sections 35 through 44 of the
+Customs Act
+, R.S.C. 1970, as amended by s. 2 of
+An Act to Amend the Customs Act
+and the
+Customs Tariff
+, S.C. 1985, c. 47. For that part of the Investigation Period falling between November 10, 1986, and August 31, 1987: sections 2, and 44 through 56 of the
+Customs Act
+, S.C. 1986, c. 1."
+Counsel submits that a determination would either eliminate the need for a trial or at least shorten or expedite the trial, that being part of the test set out in
+Berneche et al. v. Canada
+, [1991] 3 F.C. 383; 133 N.R. 232 (F.C.A.).
+[11]
+In order to lay the ground work under rule 474, which the court has held must consist of undisputed facts material to the question to be determined, the plaintiff produced a statement of facts, the final version of which consists of facts which the defendant does not dispute.
+[12]
+Counsel for the plaintiff submits that all of the tests set out in the
+Berneche
+case, that there be no dispute as to any fact material to the question to be determined, that the question be a pure question of law and that the determination be conclusive of the matter in dispute, so as either to eliminate the need for a trial or at least to shorten or expedite the trial, have been met.
+[13]
+Counsel for the defendants submits that there is additional factual material which should be before the court and which ought to be determined by examination for discovery, that the question is one of mixed fact and law and that there is another important issue to be determined, that of leakage, being the difference in number between the imported and exported components. As a result, defendants' counsel takes the position that determination of the plaintiff's question would neither be conclusive, nor would it necessarily simplify the trial.
+[14]
+As final additional background, the president of the plaintiff, in his affidavit in support of this motion, sets out that should the plaintiff's argument fail on the preliminary determination, or on any appeal of that determination, he would instruct his solicitors to propose that the action be dismissed by consent, without costs, by reason of the economic burden of a family-owned enterprise pursuing a claim for reimbursement of some $35,000 which the plaintiff has paid under protest by way of customs duty, federal sales tax and penalty.
+Analysis
+[15]
+In the
+Berneche
+case (supra), Mr. Justice Mahoney, in giving the judgment for the Court of Appeal, set out the elements necessary to have a preliminary determination of a question of law:
+"What rule 474(1)(a) requires is that there be application for the preliminary determination by at least one of the parties: the court cannot proceed 'ex proprio motu'. It then requires that the court be satisfied 1) that there is no dispute as to any fact material to the question of law to be determined; (2) that what is to be determined is a pure question of law, and (3) that its determination will be conclusive of a matter in dispute so as to eliminate the necessity of a trial or, at least, shorten or expedite the trial.
+"The last requirement was stated by Jackett, C.J., in the following terms in
+R. v. Achorner
+, [1977] 1 F.C. 641; 16 N.R. 346 (C.A.), at p. 646 F.C.:
+'The duty of the Trial Division ... was to form a discretionary opinion as to whether it is "expedient", from the point of view of the most efficient carrying on of the action, to have the ... question dealt with before other steps are taken in the action.'" (p. 388 F.C.)
+[16]
+The comment of Chief Justice Jackett as to expediency, from the point of view of the most efficient carrying on of the action, is even more important today than it was some eighteen years ago, for the cost of current-day litigation has far outstripped the inflation index. In this instance, if the trial could be shortened, or better yet not be needed, there would be a large saving, not only for the plaintiff, but also for the taxpayers who will be responsible for both the cost of defending and for the cost of trial facilities and related services. We now turn to the three-part test set out in
+Berneche
+, beginning with the facts material to the question to be determined.
+Material Facts
+[17]
+The Court of Appeal in
+Berneche
+set out the requirement "... that there is no dispute as to any fact material to the question of law to be determined" (p. 388 F.C.). However, the court also pointed out that this does not require the acquiescence of all parties, but rather that it was a conclusion the motions judge might draw from pleadings or from an issue estoppel.
+[18]
+In laying the ground work for the motion, counsel for the plaintiff submitted a statement of facts to counsel for the defendants. In response, counsel for the defendants wrote to set out those portions of the statement of facts with which her client disagreed. The result is the statement of facts attached to the motion filed March 20, 1995. There is no dispute as to the material in the statement of facts, which sets out, fairly concisely, the brake shoe exchange system, the deposit transaction and payment under protest of $11,019.16 duty, $13,626.34 federal sales tax and a penalty factor of $11.019.16, a total of $35,664.66. The agreed facts support the question and lead to the relief asked for in the statement of claim.
+[19]
+Counsel for the plaintiff submits that the undisputed facts are a sufficient basis for the question of law. Counsel for the defendants says that there were facts in dispute, but concedes those disputed facts have been struck out from the statement of facts as presented.
+[20]
+Counsel for the defendants also says that there should be additional material before the court. In her view, that additional material includes evidence of fair market value, what was paid for the rebuilt brake shoes, whether the price fluctuated from time to time, how the core deposits were arrived at, whether the deposits fluctuated from time to time, the relationship between the true market value of the core components as scrap and the deposit and various other questions relating to value. In my view, those questions do not have a bearing on the straightforward issue of how a deposit should be treated in the customs and federal sales tax context.
+[21]
+Of more interest, the defendants point to the issue of leakage of brake shoes out of the system. The plaintiff concedes that there is some small amount of leakage in that the number of remanufactured brake shoes imported is slightly greater than the number of worn brake shoes exported and, therefore, the deposit on that difference would be dutiable and taxable.
+[22]
+Counsel for the plaintiff submits, and I agree, that this leakage determination should be an accounting exercise. Neither side suggests that there are not documents available on which to do an accounting, or if necessary, to deal with that issue by a reference. Indeed, counsel for the plaintiff referred to a large number of documents obtained by the Crown from the plaintiff.
+[23]
+In summary, it appears that there are enough agreed facts for the court to determine the question.
+Question Of Law
+[24]
+The defendants' position is that the question is one of mixed fact and law and, therefore, relying on
+FRAGMENT_SUPPRESSED, is unsuitable for a rule 474 preliminary determination.
+[25]
+The
+Beloit
+case was complex litigation involving the validity of a patent and alleged misrepresentation in the petition for the Canadian patent based on foreign patent applications. The identity of the invention was at issue. Mr. Justice Walsh concluded that the evidence and the argument should be dealt with at trial.
+[26]
+Unlike the situation in
+Beloit
+, there are undisputed facts in the present instance.
+[27]
+Counsel for the plaintiff also agrees that, as set out in
+Berneche
+, what is to be determined must be a pure question of law. However, he goes on to submit that questions of law ought not, and generally cannot, be answered in a factual vacuum.
+[28]
+Rule 474 contemplates a factual background against which a question of law, concerning the proper construction of provisions of the
+Customs Act
+, R.S.C. 1985 (2nd Supp.), c. 1, may be answered.
+[29]
+In the present instance, there are undisputed facts and, indeed, to adopt a phrase used by Madame Justice Reed, "In the present case, the factual underpinnings are few and there is no dispute concerning most of them. I borrow counsel for the Crown's phrase, rule 474 "which seemed to be tailor-made" for the resolution of the present case.":
+Nelson Scribe Sr. v. The Queen et al.
+, an unreported decision of March 13, 1991, in action T-248-91 at p. 3. Here there is an undisputed set of facts. There is no reason why those facts should not be applied to resolve the plaintiff's question of statutory construction.
+Determination Which Will Dispose
+Of Or Expedite The Trial
+[30]
+The third requirement set out in the
+Berneche
+case is that the determination of the question of law "... will be conclusive of the matter in dispute so as to eliminate the necessity of a trial or, at least, shorten or expedite the trial". (p. 388 F.C.). This leads to forming a discretionary opinion as to whether it is expedient, from the point of view of efficiency, to have the question dealt with at this stage:
+Achorner v. Canada
+, [1977] 1 F.C. 641; 16 N.R. 346 (F.C.A.).
+[31]
+Counsel for the defendants submits that leakage is another important issue which must be determined. Thus, a rule 474 determination would neither conclude the litigation, nor would it necessarily simplify the trial, for the import/export relationship between the plaintiff and the American remanufacturer would need to be explored in discovery and at trial. Counsel makes the point, referring to various cases commented upon at p. 423 [C.P.R.] of the
+Beloit
+decision, that it must be at least probable that determination of the issue will put an end to the action or simplify the trial, for the defendant ought not to be unreasonably harassed by multiple proceedings and further, that a piecemeal trial of an action, to no real end, ought to be avoided.
+[32]
+The statement of claim and the defence make it clear that the real issue is whether or not the deposits paid on the imported remanufactured brake shoes (and refunded on the return of the worn brake shoes to the American remanufacturer) were properly subject to duty and federal sales tax. In the statement of claim the plaintiff, quite properly, touches on the fact that the number of cores exported to the American remanufacturers only substantially equals those imported. Other than for a blanket denial, the defence does not touch on that aspect of leakage of used brake cores out of the system. That leakage appears to be something considered by the defendants only in the context of the exercise to agree on facts, and on this motion.
+[33]
+In the pleadings, the plaintiff did raise an estoppel issue, based on advice given at one point by Canada Customs. However, that is not an issue in the present application and, indeed, on the basis of the affidavit sworn in support of this motion, by George Anderson, president of the plaintiff, that issue has been abandoned.
+[34]
+Counsel for the plaintiff also refers to the Anderson affidavit for the proposition that if the plaintiff loses on the preliminary question of law, or on any appeal from it, that would be the end of the matter, for Mr. Anderson says: "... should Bow-Wow's argument that Core Deposits are not properly subject to such tax and duty be rejected by this court or on appeal, I will instruct my solicitors to propose to the Crown that this action be dismissed by consent, without costs, in recognition of the economic burden of pursing [sic] the remaining issues in this case to trial." (paragraph 7). Alternately, if the plaintiff succeeds, there would be three residual issues. First, is the leakage or difference between the import and export figures, upon which duty and federal sales tax would be payable. Second is the Crown's entitlement to the penalty charged. Third is the interest on funds paid to the Crown.
+[35]
+If duty and taxes were found to be improperly charged on the deposits, that would eliminate two-thirds of the claim, less whatever might be determined, on an accounting exercise, as the appropriate duty and taxes on lined brake shoes imported but not returned as brake shoe cores to the United States. I note the penalty applied is in the same amount as the Crown's initial claim for the short-paid duty. Surely the parties could calculate, compromise and agree on the penalty that might be due with regard to the calculated number of worn brake shoes which were not returned, and on which duty and taxes would be payable. Indeed, were the plaintiff's application successful, there would probably be so little involved that the plaintiff could not justify the expense of going to trial, and the taxpayers ought not to be required to underwrite the cost of defending and of providing trial facilities with so little in subsidiary issues at stake.
+Conclusion
+[36]
+I have concluded that it is expedient, from the point of view of efficiently proceeding with the action, to have the question posed by the plaintiff determined by an application under rule 474(1)(a), for there are sufficient undisputed facts, that interpretation of a statute, such as is the issue here, is a pure question of law and that its determination, if not conclusive of the action, would certainly shorten or expedite the trial, for there would be few, if any, issues remaining which could justify a trial.
+[37]
+I appreciate the efforts of counsel in providing material and in making good, basic submissions in argument.
+Application allowed.
+Editor: David Weir/nmg
+[End of document]

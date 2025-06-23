@@ -1,0 +1,173 @@
+Date: 20180918
+Docket: IMM‑5596‑17
+Citation: 2018 FC 918
+[ENGLISH TRANSLATION]
+Ottawa, Ontario, September 18, 2018
+PRESENT: The Honourable Mr. Justice Bell
+Docket: IMM‑5596‑17
+BETWEEN:
+MARIE LAURINCE ÉTIENNE LOMINY
+Applicant
+and
+THE MINISTER OF CITIZENSHIP AND IMMIGRATION
+Respondent
+JUDGMENT AND REASONS
+I.
+Nature of the matter
+[1]
+This is an application for judicial review pursuant to section 72 of the Immigration and Refugee Protection Act, S.C. 2001, c. 27 [IRPA] of a decision rendered by the Immigration Appeal Division [IAD] on December 6, 2017. In that decision, the IAD declared the appeal of Marie Laurince Étienne Lominy [Ms.  Lominy or the applicant] to be abandoned pursuant to subsection 168(1) of the IRPA.
+II.
+Material facts
+[2]
+Ms. Lominy was born on September 23, 1940, in Deschapelles, Haiti. She is a citizen of Haiti and of the United States. She has been a permanent resident of Canada since November 7, 1998. On or around January 27, 2015, she filed an application for a travel document at the Canadian embassy in Port‑au‑Prince (Haiti). On February 3, 2015, the program manager [manager] at the Canadian embassy in Port‑au‑Prince informed Ms.  Lominy in a letter that she had failed to comply with her residency obligation for the five‑year period between January 28, 2010, and January 27, 2015. On or around March 25, 2015, Ms.  Lominy appealed that decision to the IAD.
+[3]
+On November 2, 2017, the IAD sent Ms.  Lominy and her counsel a notice in order to obtain written representations and evidence in support of the appeal. The notice indicated that the deadline for filing that additional information with the IAD was November 23, 2017, that is, a time limit of three weeks. The notice also clearly specified that if she failed to provide that additional information, the IAD could conclude that Ms.  Lominy had abandoned her appeal. Neither Ms. Lominy nor her counsel responded within the time limit. Consequently, the IAD found that the applicant had abandoned her appeal pursuant to subsection 168(1) of the IRPA. Counsel for Ms. Lominy confirmed that he had received the notice and was aware of the deadline. He did not contact the IAD to request an extension of time or to advise it that he had been unable to reach Ms.  Lominy. Ms. Lominy admits that she had not checked her mail in Canada while she was in Haiti for the winter and that she had left without providing a forwarding address.
+III.
+Issue
+[4]
+This application raises a single issue: Did the IAD act reasonably, in the circumstances, in concluding that the applicant had abandoned her appeal pursuant to subsection 168(1) of the IRPA?
+IV.
+Positions of the parties
+[5]
+Despite the fact that the IAD sent a copy of the notice to her counsel and to her personal address in Quebec, Ms. Lominy claims, among other things, that [translation] “the IAD could have called counsel for the applicant or sent him an email or fax to verify the availability of counsel and of his client for a hearing or for a discussion . . .”. Ms.  Lominy is asking this Court to set aside the IAD’s decision and order that her case be reopened.
+[6]
+The respondent is of the opinion that it was reasonable, under the circumstances, to declare the appeal to be abandoned pursuant to subsection 168(1) of the IRPA since neither Ms.  Lominy, nor her counsel, provided a response within the time limit specified in the notice.
+[7]
+The respondent contends  it was Ms. Lominy’s responsibility to ensure the IAD’s correspondence would be addressed even though she was on vacation in Haiti or elsewhere. According to the respondent, this failure to respond cannot be attributed to anyone other than the applicant herself.
+V.
+Analysis
+A.
+Standard of review
+[8]
+In Dunsmuir v. New Brunswick, 2008 SCC 9, [2008] 1 S.C.R. 190 [Dunsmuir], the Court stated that deference will usually result where a tribunal is interpreting its own statute (Dunsmuir, para. 54). In this case, the IAD was interpreting its own statute, the IRPA, and, more specifically, subsection 168(1) of that Act. Consequently, the applicable standard of review is presumed to be that of reasonableness (Edmonton (City) v. Edmonton East (Capilano) Shopping Centres Ltd., 2016 SCC 47, [2016] 2 S.C.R. 293, paras. 22 and 23; FRAGMENT_SUPPRESSED; Wilks v. Canada (Citizenship and Immigration), 2009 FC 306, 343 F.T.R. 194, paras. 25-27 [Wilks]).
+[9]
+In light of the above, I am of the opinion that the reasonableness standard of review applies in the circumstances. The role of the reviewing judge, therefore, is to assess the justification of the decision, the transparency and the intelligibility of the decision‑making process, and to ensure that the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law (Dunsmuir, para. 47).
+B.
+Did the IAD act unreasonably in concluding that Ms.  Lominy had abandoned her appeal pursuant to subsection 168(1) of the IRPA?
+[10]
+The applicant claims that she was unable to gather all her evidence and communicate it to her counsel, because she was out of the country when the IAD notice was sent. Consequently, she is of the opinion that the IAD should have taken positive steps, such as calling her counsel, sending an email or even convening a show cause hearing.
+[11]
+At the outset, I note the IAD is not required to locate the applicant when she neglects to respond to the IAD’s requests. To the contrary, the applicant is responsible for remaining in contact with the IAD, or at least with her counsel (Wilks, paras. 39-43; Dubrézil v. Canada (Minister of Citizenship and Immigration), 2006 FC 142, 149 A.C.W.S. (3d) 133, para. 12).
+[12]
+The applicant is of the opinion that the IAD should have given her the opportunity to explain herself at a show cause hearing, rather than through only a notice. She refers to several refugee cases to support her position. Unfortunately, the case law she cites is of no help to her. In Guo, above, Justice McDonald clarified the differences between the rules that govern the Refugee Division and those that govern the IAD:
+[26] The Applicant relies on a number of cases in the refugee context to argue that to be in default of proceedings, “it must be clear that…an applicant’s behaviour evidences, in clear terms, a wish or intention not to proceed” (Cabrera Peredo v Canada (Citizenship and Immigration), 2010 FC 390 (CanLII); Emani v Canada (Citizenship and Immigration), 2009 FC 520 (CanLII), at para 20). The Applicant argues that he should have been given an opportunity to explain his circumstances in a show cause hearing.
+[27] However, these cases are governed by s.65 of the Refugee Protection Division Rules, SOR/2012-256, which impose special rules for refugee proceedings including an obligation on the Refugee Division to give a claimant an opportunity to explain why the claim should not be abandoned. The Refugee Division must also consider that explanation and all other relevant factors in deciding an abandonment proceeding.
+[28] Similar rules do not apply to the IAD here, particularly regarding show cause hearings. The IAD has developed a one-step abandonment process which outlines the factors the IAD will consider to determine whether a show cause hearing may be convened. One of these is “a recent pattern of responding to the IAD and the appellant’s current failure is out of character with how the appellant has pursued the appeal to date.”
+(Emphasis added.)
+[13]
+Therefore, the applicant is incorrect in her argument that she was entitled to a show cause hearing. The IAD, as well as other tribunals, are “masters in their own house” and “[i]n the absence of specific rules laid down by statute or regulation, they control their own procedures . . .” (Prassad v. Canada (Minister of Employment and Immigration), [1989] 1 S.C.R. 560, 57 D.L.R. (4th) 663, pp. 568 and 569).
+[14]
+Given the above, I conclude the IAD reasonably based its decision on subsection 168(1) of the IRPA and on its own administrative policies, namely its one‑step abandonment process. This is consistent with its obligation to act quickly in dealing with its proceedings pursuant to subsection 162(2) of the IRPA.
+C.
+Does this Court have the jurisdiction to order that the case be reopened?
+[15]
+Among other things, Ms.  Lominy requests this Court order that her appeal be reopened before the IAD. She relies on section 71 of the IRPA, which reads as follows:
+Reopening appeal
+Réouverture de l’appel
+71 The Immigration Appeal Division, on application by a foreign national who has not left Canada under a removal order, may reopen an appeal if it is satisfied that it failed to observe a principle of natural justice.
+71 L’étranger qui n’a pas quitté le Canada à la suite de la mesure de renvoi peut demander la réouverture de l’appel sur preuve de manquement à un principe de justice naturelle.
+[16]
+Counsel for Ms. Lominy has advised the Court that no removal order has been issued against his client to date. Furthermore, I note that the authority to reopen an appeal under section 71 of the IRPA does not belong to this Court. To the contrary, this authority rests with the IAD. Consequently, I find that even if the Court were to set aside the IAD’s decision, it would not have the jurisdiction to order that an appeal be reopened. At this stage, the only remedy would be to order that the dismissal of the appeal be reconsidered on the basis of the material that was before the IAD when it dismissed the appeal.
+VI.
+Conclusion
+[17]
+For all of these reasons, the application for judicial review is dismissed without costs. Under the circumstances, I do not find that there is any question to be certified for consideration by the Federal Court of Appeal.
+JUDGMENT in IMM‑5596‑17
+THIS COURT’S JUDGMENT is that the application for judicial review is dismissed without costs, and no question of general importance is certified.
+“B. Richard Bell”
+Judge
+APPENDIX A
+Immigration and Refugee Protection Act, S.C. 2001, c. 27
+Loi sur l’immigration et la protection des réfugiés, L.C. 2001, ch. 27
+Residency Obligation
+Obligation de résidence
+28 (1) A permanent resident must comply with a residency obligation with respect to every five-year period.
+28 (1) L’obligation de résidence est applicable à chaque période quinquennale.
+Application
+Application
+(2) The following provisions govern the residency obligation under subsection (1):
+(2) Les dispositions suivantes régissent l’obligation de résidence :
+(a) a permanent resident complies with the residency obligation with respect to a five-year period if, on each of a total of at least 730 days in that five-year period, they are
+a) le résident permanent se conforme à l’obligation dès lors que, pour au moins 730 jours pendant une période quinquennale, selon le cas :
+(i) physically present in Canada,
+(i) il est effectivement présent au Canada,
+(ii) outside Canada accompanying a Canadian citizen who is their spouse or common-law partner or, in the case of a child, their parent,
+(ii) il accompagne, hors du Canada, un citoyen canadien qui est son époux ou conjoint de fait ou, dans le cas d’un enfant, l’un de ses parents,
+(iii) outside Canada employed on a full-time basis by a Canadian business or in the federal public administration or the public service of a province,
+(iii) il travaille, hors du Canada, à temps plein pour une entreprise canadienne ou pour l’administration publique fédérale ou provinciale,
+(iv) outside Canada accompanying a permanent resident who is their spouse or common-law partner or, in the case of a child, their parent and who is employed on a full-time basis by a Canadian business or in the federal public administration or the public service of a province, or
+(iv) il accompagne, hors du Canada, un résident permanent qui est son époux ou conjoint de fait ou, dans le cas d’un enfant, l’un de ses parents, et qui travaille à temps plein pour une entreprise canadienne ou pour l’administration publique fédérale ou provinciale,
+(v) referred to in regulations providing for other means of compliance;
+(v) il se conforme au mode d’exécution prévu par règlement;
+(b) it is sufficient for a permanent resident to demonstrate at examination
+b) il suffit au résident permanent de prouver, lors du contrôle, qu’il se conformera à l’obligation pour la période quinquennale suivant l’acquisition de son statut, s’il est résident permanent depuis moins de cinq ans, et, dans le cas contraire, qu’il s’y est conformé pour la période quinquennale précédant le contrôle;
+(i) if they have been a permanent resident for less than five years, that they will be able to meet the residency obligation in respect of the five-year period immediately after they became a permanent resident;
+blanc
+(ii) if they have been a permanent resident for five years or more, that they have met the residency obligation in respect of the five-year period immediately before the examination; and
+blanc
+(c) a determination by an officer that humanitarian and compassionate considerations relating to a permanent resident, taking into account the best interests of a child directly affected by the determination, justify the retention of permanent resident status overcomes any breach of the residency obligation prior to the determination.
+c) le constat par l’agent que des circonstances d’ordre humanitaire relatives au résident permanent — compte tenu de l’intérêt supérieur de l’enfant directement touché — justifient le maintien du statut rend inopposable l’inobservation de l’obligation précédant le contrôle.
+Appeal Allowed
+Fondement de l’appel
+67 (1) To allow an appeal, the Immigration Appeal Division must be satisfied that, at the time that the appeal is disposed of,
+67 (1) Il est fait droit à l’appel sur preuve qu’au moment où il en est disposé
+(a) the decision appealed is wrong in law or fact or mixed law and fact;
+a) la décision attaquée est erronée en droit, en fait ou en droit et en fait;
+(b) a principle of natural justice has not been observed; or
+b) il y a eu manquement à un principe de justice naturelle;
+(c) other than in the case of an appeal by the Minister, taking into account the best interests of a child directly affected by the decision, sufficient humanitarian and compassionate considerations warrant special relief in light of all the circumstances of the case.
+c) sauf dans le cas de l’appel du ministre, il y a — compte tenu de l’intérêt supérieur de l’enfant directement touché — des motifs d’ordre humanitaire justifiant, vu les autres circonstances de l’affaire, la prise de mesures spéciales.
+Application for judicial review
+Demande d’autorisation
+72 (1) Judicial review by the Federal Court with respect to any matter — a decision, determination or order made, a measure taken or a question raised — under this Act is, subject to section 86.1, commenced by making an application for leave to the Court.
+72 (1) Le contrôle judiciaire par la Cour fédérale de toute mesure — décision, ordonnance, question ou affaire — prise dans le cadre de la présente loi est, sous réserve de l’article 86.1, subordonné au dépôt d’une demande d’autorisation.
+Application
+Application
+(2) The following provisions govern an application under subsection (1):
+(2) Les dispositions suivantes s’appliquent à la demande d’autorisation :
+(a) the application may not be made until any right of appeal that may be provided by this Act is exhausted;
+a) elle ne peut être présentée tant que les voies d’appel ne sont pas épuisées;
+(b) subject to paragraph 169(f), notice of the application shall be served on the other party and the application shall be filed in the Registry of the Federal Court (“the Court”) within 15 days, in the case of a matter arising in Canada, or within 60 days, in the case of a matter arising outside Canada, after the day on which the applicant is notified of or otherwise becomes aware of the matter;
+b) elle doit être signifiée à l’autre partie puis déposée au greffe de la Cour fédérale — la Cour — dans les quinze ou soixante jours, selon que la mesure attaquée a été rendue au Canada ou non, suivant, sous réserve de l’alinéa 169f), la date où le demandeur en est avisé ou en a eu connaissance;
+(c) a judge of the Court may, for special reasons, allow an extended time for filing and serving the application or notice;
+c) le délai peut toutefois être prorogé, pour motifs valables, par un juge de la Cour;
+(d) a judge of the Court shall dispose of the application without delay and in a summary way and, unless a judge of the Court directs otherwise, without personal appearance; and
+d) il est statué sur la demande à bref délai et selon la procédure sommaire et, sauf autorisation d’un juge de la Cour, sans comparution en personne;
+(e) no appeal lies from the decision of the Court with respect to the application or with respect to an interlocutory judgment.
+e) le jugement sur la demande et toute décision interlocutoire ne sont pas susceptibles d’appel.
+Procedure
+Fonctionnement
+162 (2) Each Division shall deal with all proceedings before it as informally and quickly as the circumstances and the considerations of fairness and natural justice permit.
+162 (2) Chacune des sections fonctionne, dans la mesure où les circonstances et les considérations d’équité et de justice naturelle le permettent, sans formalisme et avec célérité.
+Abandonment of proceeding
+Désistement
+168 (1) A Division may determine that a proceeding before it has been abandoned if the Division is of the opinion that the applicant is in default in the proceedings, including by failing to appear for a hearing, to provide information required by the Division or to communicate with the Division on being requested to do so.
+168 (1) Chacune des sections peut prononcer le désistement dans l’affaire dont elle est saisie si elle estime que l’intéressé omet de poursuivre l’affaire, notamment par défaut de comparution, de fournir les renseignements qu’elle peut requérir ou de donner suite à ses demandes de communication.
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET:
+IMM‑5596‑17
+STYLE OF CAUSE:
+MARIE LAURINCE ÉTIENNE LOMINY v THE MINISTER OF CITIZENSHIP AND IMMIGRATION
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+August 29, 2018
+REASONS FOR JUDGMENT AND JUDGMENT:
+BELL J.
+DELIVERED FROM THE BENCH BY:
+the court
+DATED:
+September 18, 2018
+APPEARANCES:
+Guy Nephtali
+For the applicant
+Daniel Latulippe
+FOR THE RESPONDENT
+SOLICITORS OF RECORD:
+Guy Nephtali
+Montréal, Quebec
+For the applicant
+Attorney General of Canada
+Montréal, Quebec
+FOR THE RESPONDENT

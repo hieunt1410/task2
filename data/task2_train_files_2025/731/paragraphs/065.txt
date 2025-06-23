@@ -1,0 +1,24 @@
+[65]
+I also note that the applicant did not attempt to submit additional documents to the Court by way of affidavit to address the alleged gaps in the record, despite that the law provides exceptions to the general rule that the Court should only consider the material that was before the decision maker in judicial review. The case law, including
+Association of Universities and Colleges of Canada v Canadian Copyright Licensing Agency
+, 2012 FCA 22 at para 20, 428 NR 297, has established that where a breach of procedural fairness is alleged, the Court may accept evidence to establish those allegations:
+[20] There are a few recognized exceptions to the general rule against this Court receiving evidence in an application for judicial review, and the list of exceptions may not be closed. These exceptions exist only in situations where the receipt of evidence by this Court is not inconsistent with the differing roles of the judicial review court and the administrative decision-maker (described in paragraphs 17-18, above). In fact, many of these exceptions tend to facilitate or advance the role of the judicial review court without offending the role of the administrative decision-maker. Three such exceptions are as follows:
+(a) Sometimes this Court will receive an affidavit that provides general background in circumstances where that information might assist it in understanding the issues relevant to the judicial review: see,
+e.g.
+,
+Estate of Corinne Kelley v. Canada
+, 2011 FC 1335 at paragraphs 26-27;
+Armstrong v. Canada (Attorney General)
+, 2005 FC 1013 at paragraphs 39-40;
+Chopra v. Canada (Treasury Board)
+(1999), 168 F.T.R. 273 at paragraph 9. Care must be taken to ensure that the affidavit does not go further and provide evidence relevant to the merits of the matter decided by the administrative decision-maker, invading the role of the latter as fact-finder and merits-decider. In this case, the applicants invoke this exception for much of the Juliano affidavit.
+(b) Sometimes affidavits are necessary to bring to the attention of the judicial review court procedural defects that cannot be found in the evidentiary record of the administrative decision-maker, so that the judicial review court can fulfil its role of reviewing for procedural unfairness:
+e.g
+,
+Keeprite Workers' Independent Union v. Keeprite Products Ltd.
+(1980) 29 O.R. (2d) 513 (C.A.). For example, if it were discovered that one of the parties was bribing an administrative decision-maker, evidence of the bribe could be placed before this Court in support of a bias argument.
+(c) Sometimes an affidavit is received on judicial review in order to highlight the complete absence of evidence before the administrative decision-maker when it made a particular finding:
+Keeprite
+,
+supra
+.

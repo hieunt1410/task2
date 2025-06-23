@@ -1,0 +1,4 @@
+[6]
+It will also be useful to note, although the matter is not directly in issue, that by virtue of s. 5907(1)(b)(iv) of the
+Regulations
+, earnings of an affiliate resident in and carrying on business in a country listed in s. 5907(11) would on that basis alone be regarded as "exempt earnings". Section 5907(11) lists a number of countries, essentially those having tax treaties with Canada: paragraph (kk) lists the "United States of America, but for greater certainty, not including its Territories ..." Thus there is no automatic exemption for a Canadian corporation in respect of income from earnings of an affiliate from its business in Puerto Rico.

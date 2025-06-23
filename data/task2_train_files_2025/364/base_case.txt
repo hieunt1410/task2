@@ -1,0 +1,342 @@
+[1]
+Morneau, Prothonotary
+: This is a motion by the third party Companhia Siderurgica Paulista - Cosipa (Cosipa) to essentially obtain from this Court under paragraph 50(1)(b) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 and section 8 of the
+Commercial Arbitration Code
+, which is a schedule to the
+Commercial Arbitration Act
+, R.S. 1985, c. 17 (2nd Supp.), an order staying the third party claim (the Third party claim) of the defendants Canada Moon Shipping Co. Ltd. (Canada Moon) and Fednav International Ltd. (Fednav) in favour of either an arbitration in New York based on an arbitration clause or the courts in Brazil because of the doctrine of forum non conveniens.
+[2]
+A similar motion was also filed in docket T-2020-08. With that in mind and with the consent of the parties, these reasons for order and the accompanying order are issued in this docket, but it will be stated that they also apply mutatis mutandis in docket T-2020-08.
+Background
+[3]
+The main factual background of the motion before us may be described as follows.
+[4]
+On October 20, 2008, the plaintiff T. Co. Metals LLC (T.Co), as owner of a cargo of 806 cold-rolled steel coils, commenced an action in this docket against, inter alia, the defendants Canada Moon and Fednav for a capital sum of C$2,450,000 for damages to that cargo as a result of the defendants carrying it by sea from the port of Piaçaguera in Brazil to the final port of Toronto, Canada, on board the ship
+Federal Ems
+(the Ship), owned by Canada Moon.
+[5]
+Cosipa manufactures and exports steel products. Since at least 1996, it has called upon Fednav under similar conditions to transport its products from Brazil to North American ports.
+[6]
+When the cargo was loaded on board the Ship on or about November 16, 2004, the master of the Ship issued two bills of lading (the Bills of lading).
+[7]
+Each bill of lading incorporated by reference a charter party in the following terms: "Subject to all terms, conditions, clauses and exceptions as per charter party dated July 28, 2004 at Rio de Janeiro including arbitration clause".
+[8]
+The charter party was actually signed on July 22, 2004. This fact does not cause a problem in this case.
+[9]
+It constituted, in fact, a charter party voyage (the Charter party), and the Court understands that it was signed by Cosipa as the voyage charterer and FedNav Ltd. as the disponent owner. It appears, at least for the purposes of this motion, that at all relevant times FedNav Ltd. acted as an agent, inter alia, of Fednav, and consequently the Court will refer to Fednav to designate both interchangeably.
+[10]
+We note here that the Charter party contained various clauses including an arbitration clause, which can be found at clause 19. This clause is entitled "Law and Arbitration" and reads as follows (Arbitration clause 19):
+(b) This Charter Party shall be governed by and construed in accordance with Title 9 of the United States Code and the Maritime Law of the United States and
+should any dispute arise out of this Charter Party, the matter in dispute shall be referred to three persons at New York
+, one to be appointed by each of the parties hereto, and a third by the two so chosen; their decision or that of any two of them shall be final, and for purpose of enforcing any award, this agreement may be made a rule of the Court. The proceedings shall be conducted in accordance with the rules of the Society of Maritime Arbitrators, Inc.
+For disputes where the total amount claimed by either party does not exceed the amount stated in Box 24 the arbitration shall be conducted in accordance with the Shortened Arbitration Procedure of the Society of Maritime Arbitrators Inc.
+(c) Any dispute arising out of this Charter Party shall be referred to arbitration at the place indicated in box 25, subject to the procedures applicable there. The laws of the places indicated in Box 25, shall govern this Charter Party. [Emphasis added.]
+[11]
+The Charter party also contained a clause relieving the owners, here essentially Fednav, from liability and imposing, inter alia on the charterer, here Cosipa, the risks and liabilities for everything related to the loading and good condition of the cargo. This clause 5(a) reads as follows:
+5. Loading/Discharging
+(a) Costs/Risks (See Clauses 22 + 40)
+The cargo shall be brought into the holds, loaded, stowed and/or trimmed, tallied, lashed, and/or secured by the Charterers and taken from holds and discharged by the receivers, free of any risk, liability and expense whatsoever to the Owners. The Charterers shall provide and lay all dunnage material as required from the proper stowage and protection of the cargo on board, the Owners allowing the use of all dunnage available on board.
+[12]
+Another document that should be mentioned is a letter of indemnity (Letter of Indemnity or L0I) dated at S o Paulo, Brazil, November 10, 2004, i.e. after the Charter party was signed and a few days before the cargo was loaded on the Ship.
+[13]
+The LOI was aimed at resolving a difference of opinion that arose between the parties as to whether it was appropriate to pack the cargo of steel coils in plastic sheeting; Cosipa was in favour of this method while Fednav was against it because it believed that doing so would cause condensation or moisture on the metal.
+[14]
+The L0I reads as follows:
+Săo Paulo, November 10th, 2004.
+To: Fednav Limited
+Re: M/V FEDERAL EMS
+22,740 mt of steels prod. Piaçaguera/Philadelphia, Toronto and Hamilton
+Cosipa/Fednav - C/P's dated July 22nd and September 21st, 2004
+Dear Sirs,
+Upon request of Companhia Siderurgica Paulista - Cosipa, as Charterers, we herewith confirm that the cargo of steel products loaded on board of M/V Federal Ems at Piaçaguera and destined to Philadelphia, Toronto and Hamilton was covered with plastic sheets.
+Provided that Owners/Master ensure that the vessel's ventilation system will be properly functioning during all voyage, Charterers hereby confirm that they will relieve Master/ Vessel/Owners/Managers from any liability, and will hold them harmless for any possible cargo damage by moisture condensation under the plastic cover as a result of restricted ventilation of the cargo.
+Yours faithfully,
+(signed)
+Joăo Carlos de S. Tranjan
+Cia.Siderurgica Paulista - COSIPA
+[15]
+It was on the basis, inter alia, of clause 5(a) of the Charter party and the LOI that the defendants filed a defence with the Court on November 26, 2008, as well as a separate Third party claim against Cosipa.
+[16]
+In the Third party claim, the defendants make the following allegations:
+6. The cargo was shipped pursuant to a voyage charter in Gencon Form dated at Rio de Janeiro, Brazil, July 22, 2004, between Fednav Limited as disponent owner, and the Third Party as charterer.
+7. Under Clause 5 of the said charter party, the cargo was to be brought into the holds, loaded, stowed, tallied and/or secured by the Third party and was, in fact, loaded, stowed and secured by the Third Party.
+8. At time of loading, the Third party covered the cargo with plastic sheets and by letter to Fednav Limited dated at São Paulo, Brazil, November 10, 2004, gave an undertaking that, provided the vessel's ventilation system functioned properly during the voyage, it would relieve the Master, Owners and managers of the vessel from any liability and would hold them harmless for cargo damage resulting from moisture condensation under the plastic sheeting as a result of restricted ventilation of the cargo.
+9. In entering into the voyage charter party and receiving the aforementioned hold harmless letter, Fednav Limited was acting as agent on behalf of the Defendants.
+10. In the principal action, the Defendants have pleaded that they are not liable to the Plaintiff for any damage resulting from loading, stowage or handling of the cargo, because these operations were not performed by them and were to be performed by the Third Party free of any risk, liability and expense whatsoever to them.
+11. Should it be determined by the Court that these defences cannot be raised against the Plaintiff, as bills of lading holder or otherwise, the Defendants are entitled to contribution or indemnity from the Third Party for any amount they will be ordered to pay the Plaintiff for such damage.
+12. In addition, should the Court hold the Defendants liable to the Plaintiff for damage resulting from moisture condensation under the plastic sheeting, the Defendants similarly are entitled to contribution or indemnity from the Third Party for such damage.
+[17]
+The defendants had to ask this Court to issue a letter rogatory to serve their Third party claim on Cosipa.
+[18]
+Last, Cosipa filed this motion on August 31, 2009. As stated in part at paragraph [1], above, on this motion Cosipa is seeking a stay of the Third party claim in favour of an arbitration in New York based on, in its view, Arbitration clause 19 (see paragraph [10], above, for the wording of this clause).
+[19]
+In the alternative, Cosipa asks that the Third party claim be stayed in favour of the courts in Brazil on the basis of the doctrine of forum non conveniens.
+[20]
+These are the two general arguments and the alternative issues they raise that must now be analyzed in turn.
+Analysis
+[21]
+Cosipa relies on Arbitration clause 19 because it believes, first, that the contract between it and Fednav is found primarily in the Charter party not the Bills of lading.
+[22]
+I agree with Cosipa's approach.
+[23]
+Against this background, Cosipa is of the view that the LOI should be regarded as an amendment to the Charter party and not as a separate and independent agreement between the parties, which would mean that the LOI would not be covered by Arbitration clause 19.
+[24]
+I think that Cosipa's position is reasonable. In fact, it appears to me that the LOI would not have been drafted so simply if it were not intended to clarify, to specify certain things in order to reassure Fednav and to ensure that the cargo would be transported on the Ship. This approach is reinforced by the wording of the subject line of the LOI, which is reproduced again here:
+Săo Paulo, November 10th, 2004.
+To: Fednav Limited
+Re: M/V FEDERAL EMS
+22,740 mt of steels prod. Piaçaguera/Philadelphia, Toronto and Hamilton
+Cosipa/Fednav -
+C/P's dated July 22nd
+and September 21st, 2004
+[Emphasis added.]
+[25]
+Since the LOI should be viewed as part of the Charter party, we must consider whether Arbitration clause 19 thereof should apply to it.
+[26]
+This is where subsection 46(1) of the
+Marine Liability Act
+, S.C. 2001, c. 6 (the MLA) comes into play.
+[27]
+This subsection reads as follows:
+46. (1) If a contract for the carriage of goods by water to which the Hamburg Rules do not apply provides for the adjudication or arbitration of claims arising under the contract in a place other than Canada, a claimant may institute judicial or arbitral proceedings in a court or arbitral tribunal in Canada that would be competent to determine the claim if the contract had referred the claim to Canada, where
+(a) the actual port of loading or discharge, or the intended port of loading or discharge under the contract, is in Canada;
+(b) the person against whom the claim is made resides or has a place of business, branch or agency in Canada; or
+(c) the contract was made in Canada.
+[28]
+Although our Court recently noted again that the language of section 46 of the MLA is somewhat convoluted FRAGMENT_SUPPRESSED, the following passage from paragraphs 22 and 23 of the defendants' written representations filed on November 15, 2010, in opposition to this motion by Cosipa (the defendants' written representations) reasonably identifies the purpose and the key elements of subsection 46(1) of the MLA:
+22. It is submitted that the effect of s. 46 is to render an agreement to arbitrate inoperative and inopposable to the "claimant" who meets the conditions set forth.
+Z.I. Pompey Industrie
+v.
+ECU-Line N.V.
+[2003] 1 SCR 450 per Bastarach [sic], J.:
+37 Section 46(1) of the
+Marine Liability Act
+, which entered into force on August 8, 2001, has the effect of removing from the Federal Court its discretion under s. 50 of the
+Federal Court
+Act
+to stay proceedings because of a forum selection clause where the requirements of s. 46(1)(a), (b), or (c) are met. This includes where the actual port of loading or discharge is in Canada ...
+38 Indeed, s. 46(1) would appear to establish that, in select circumstances, Parliament has deemed it appropriate to limit the scope of forum selection clauses by facilitating the litigation in Canada of claims related to the carriage of goods by water having a minimum level of connection to this country. ....
+23. In order for section 46 to apply, it must be shown that:
+a. there is:
+i) a contract for the carriage of goods by water,
+ii) to which the Hamburg Rules do not apply,
+and
+iii) the contract provides for the adjudication or arbitration of claims arising under the contract in a place other than Canada,
+and
+b. The actual port of loading or discharge, or the intended port of loading
+or
+discharge under the contract, is in Canada,
+or
+c. The defendant has a place of business or an agency in Canada,
+or
+d. The contract was concluded in Canada.
+[29]
+In the situation before us, the primary dispute between the parties on the applicability of subsection 46(1) of the MLA is whether the Charter party constitutes a "contract for the carriage of goods by water" under subsection 46(1). It appears, as the Court understands it, that if this is the case, subsection 46(1) of the MLA could apply in favour of the defendants and Arbitration clause 19 could not oust the jurisdiction of our Court over the defendants' Third party claim against Cosipa.
+[30]
+Cosipa puts forward various arguments to support its position that a charter party cannot be regarded as a contract for the carriage of goods by water under subsection 46(1) of the MLA.
+[31]
+For the following reasons, I cannot accept any of Cosipa's arguments.
+[32]
+Cosipa argues rightly that the MLA does not contain a definition of the expression "contract for the carriage of goods by water".
+[33]
+To overcome this difficulty, Cosipa notes that the wording of subsection 46(1) of the MLA is similar to that of Article 21 of the Hamburg Rules and that, therefore, subsection 46(1) should be interpreted in accordance with those rules for the purposes of the issue before us. The Hamburg Rules can be found as Schedule 4 to the MLA.
+[34]
+Article 21 of the Hamburg Rules and specifically paragraph (1) thereof reads as follows:
+Article 21
+Jurisdiction
+1. In judicial proceedings relating to carriage of goods under this Convention the plaintiff, at his option, may institute an action in a court which, according to the law of the State where the court is situated, is competent and within the jurisdiction of which is situated one of the following places:
+(a) the principal place of business or, in the absence thereof, the habitual residence of the defendant; or
+(b) the place where the contract was made provided that the defendant has there a place of business, branch or agency through which the contract was made; or
+(c) the port of loading or the port of discharge; or
+(d) any additional place designated for that purpose in the contract of carriage by sea.
+[35]
+It is true that various decisions and authorities have noted that the two provisions are similar.
+[36]
+However, although the broad scope of the protection of domestic jurisdiction may be the same in the two texts, the Hamburg Rules expressly provide in Article 2(3) that they do not apply to charter parties. Article 2(3) reads as follows:
+Article 2
+Scope of application
+. . . . .
+3.
+The provisions of this Convention are not applicable to charter-parties
+. However, where a bill of lading is issued pursuant to a charter-party, the provisions of the Convention apply to such a bill of lading if it governs the relation between the carrier and the holder of the bill of lading, not being the charterer. [Emphasis added.]
+[37]
+Subsection 46(1) of the MLA does not expressly exclude charter parties nor does any other provision in the MLA. The wording of the Hamburg Rules must have been and most certainly was in the mind of Parliament in 2001 when the MLA was enacted because the Hamburg Rules date from 1978, reference is made to them at the beginning of subsection 46(1) of the MLA and these rules are appended as a schedule to the Act. It appears to me that if Parliament had wanted to clearly exclude charter parties from subsection 46(1), it would have, at some point in time, included in the MLA a provision similar to Article 2(3) of the Hamburg Rules, especially since these rules are still not in force in Canada.
+[38]
+Likewise, when the MLA was enacted, Parliament was aware of the statutory provisions in the
+United Nations Foreign Arbitral Awards Convention Act
+, R.S., 1985, c. 16 (2nd Supp.) and the
+Commercial Arbitration Act
+, R.S., 1985, c. 17 (2nd Supp.) that Cosipa refers to. Thus, it is reasonable to believe that if Parliament had wanted to exclude charter parties from subsection 46(1) because of those two statutes, it would have legislated that expressly.
+[39]
+At the same time, I do not accept that the various comments made by Cosipa regarding the doctrine or the parliamentary debates surrounding the enactment of the MLA, specifically subsection 46(1) thereof, support a finding that the relationship between a charterer and a disponent owner under a charter party was not contemplated by subsection 46(1).
+[40]
+In this regard, it is certainly conceded that it appears from the parliamentary history and certain statements in the case law that the primary goal of subsection 46(1) of the MLA is to protect the right of importers and exporters, i.e. parties with an interest in a cargo, to sue in Canada. However, as the defendants point out in paragraph 51 of their written representations:
+51. Although COSIPA introduces evidence from Senate hearings and Senate "Executive Summaries", that there was a need to protect Canadian shippers' rights in seeking compensation for damage before Canadian courts, there is no evidence of any witness, government agency, law association, law professor or industry lobbyist denying the availability of the right to sue to carrier interests, notwithstanding an agreed foreign forum selection clause or an undertaking to arbitrate, or that there was some remedial purpose being served in denying such right to carrier interests;
+[41]
+It appears to me that the preceding reasons dispose of all the arguments made by Cosipa in its attempt to exclude the Charter party from subsection 46(1) of the MLA. This finding appears to me to be consistent with the principles of statutory interpretation stated by the Supreme Court of Canada regarding compliance with the scheme, purpose and intention of Parliament with respect to the MLA (see
+Canada Trustco Mortgage Co. v. Canada
+, 2005 SCC 54, [2005] 2 S.C.R. 601, at paragraph 10, cited recently in
+Celgene Corp. v. Canada (Attorney General)
+, 2011 SCC 1).
+[42]
+However, our consideration of Cosipa's motion cannot end there because, as the jurisprudence has established, the purpose of subsection 46(1) of the MLA is not to prevent this Court from assessing whether, under paragraph 50(1)(b) of the
+Federal Courts Act
+, above, it should decline to exercise its jurisdiction and stay the Third party claim against Cosipa based on forum non conveniens.
+[43]
+In
+Mazda Canada Inc. v. Cougar Ace (The)
+, [2009] 2 F.C.R. 382 (
+The Cougar Ace
+decision), the Federal Court of Appeal reviewed this principle as follows, set out a list of factors that may be considered in determining whether an allegation of forum non conveniens is well-founded and pointed out, in particular, that the Court will intervene only exceptionally in the forum chosen by a plaintiff (here, in the circumstances, the defendants) if the choice is clearly inappropriate compared to another obviously superior jurisdiction (here, that jurisdiction would be the courts in Brazil):
+[10] This provision in subsection 46(1) merely opens the door for Canadian plaintiffs, allowing an action to be instituted. However, the Court may still decline the jurisdiction on the basis of forum non conveniens (
+OT Africa
+). Subsection 46(1) applies here because the intended port of discharge of the vehicles was New Westminster, British Columbia. The plaintiff may therefore institute proceedings here, but forum non conveniens arguments remain available to the defendants.
+[11] The trial Judge correctly understood these principles and sought to apply them, taking into account the established law governing the issue of forum non conveniens derived from
+Spar Aerospace Ltd. v. American Mobile Satellite Corp.
+, [2002] 4 S.C.R. 205 (relying on the Quebec Court of Appeal decision
+Lexus Maritime Inc. c. Oppenheim Forfait GmbH
+, [1998] A.Q. No. 2059 (QL)). That case set out a non-exhaustive list of 10 factors to be weighed by the Court in making this determination [at paragraph 18]:
+[TRANSLATION]
+(1) the parties' residence, and that of witnesses and experts;
+(2) the location of the material evidence;
+(3) the place where the contract was negotiated and executed;
+(4) the existence of proceedings pending between the parties in another jurisdiction;
+(5) the location of the defendants' assets;
+(6) the applicable law;
+(7) advantages conferred upon the plaintiff by its choice of forum, if any;
+(8) the interests of justice;
+(9) the interests of the parties;
+(10) the need to have the judgment recognized in another jurisdiction.
+[12] To stay an action because of forum non conveniens in Canada, it must be established that another forum is clearly more appropriate. In the case of
+Amchem Products Inc. v. British Columbia (Workers' Compensation Board)
+, [1993] 1 S.C.R. 897, at page 921 (relying on
+Avenue Properties Ltd. v. First City Dev. Corp.
+(1986), 32 D.L.R.(4th) 40 (B.C.C.A.)), Justice Sopinka stated that "the existence of a more appropriate forum must be
+clearly
+established to displace the forum selected by the plaintiff." Similarly, Lord Goff in
+Spiliada Maritime Corp. v. Cansulex Ltd.
+, [1987] 1 Lloyd's Rep. 1 (H.L.), explained [at page 11] that the applicant must "establish that there is another available forum which is
+clearly
+and
+distinctly
+more appropriate" (emphasis added).
+[13] Justice LeBel of the Supreme Court of Canada in
+Spar Aerospace
+relying on the
+Civil Code of Québec
+[S.Q. 1991, c. 64], Article 3135,
+Spiliada
+and
+Amchem
+declares that in applying Article 3135, which he indicates is consistent with the common law requirements [at paragraph 77], the "judge's discretion to decline to hear the action on the basis of forum non conveniens is only to be exercised
+exceptionally
+" (emphasis added). He cites for support inter alia to Talpis and Castel's article, "Interpreting the Rules of Private International Law" in
+Reform of the Civil Code
+, Vol. 5B, (1993), [at page 55, No. 421] as follows:
+The plaintiff's choice of forum should only be declined exceptionally, when the defendant would be exposed to great injustice as a result.
+[14] While some might wonder what the words "clearly", "distinctly" or "exceptionally" add to the obligation of the defendant to convince the court on the balance of probabilities that the judge should decline jurisdiction in the forum chosen by the plaintiff, those words have been employed in the cases, perhaps to emphasize that
+the plaintiff's choice of forum should not be lightly interfered with
+.
+Therefore
+, it must be
+clear
+that the jurisdiction chosen by the plaintiff
+is inappropriate compared to another obviously superior jurisdiction
+. As Lord Carswell explained, in another context, there is only one standard of civil proof, balance of probabilities, but "in some contexts a court or tribunal has to look at the facts more critically or more anxiously than in others before it can be satisfied to the requisite standard." (See
+Re Doherty
+, [2008] 1 W.L.R. 1499 (H.L.), at paragraph 28).
+[Emphasis in paragraph [14] added by the author of these reasons.]
+[44]
+Accordingly, we must review the factors in the
+Spar Aerospace
+decision to determine whether Cosipa has discharged this important burden of proof.
+(1)
+Parties' residence, and that of witnesses and experts
+[45]
+With respect to the parties' residence, it is clear that Cosipa is the only party residing in Brazil. It is apparent that the defendants have a place of business in Canada. The same is true for T.Co.
+[46]
+As regards the parties' witnesses, Cosipa established through the affidavit of Eduardo Vieira Munhoz dated January 21, 2010, that all of its witnesses would come from Brazil.
+[47]
+As for T.Co, it appears that its clients, who rejected the cargo, are in Canada or the United States.
+[48]
+As for the defendants, they indicate that they do not intend to rely on any evidence coming from Brazil other than the evidence Cosipa will introduce. However, as Cosipa points out at paragraph 126 of its written representations, Fednav's witnesses are divided between Canada and Brazil:
+126. Fednav's witnesses are located both in Brazil and in Canada. One of the principal witnesses involved in the negotiation of the Letter of Indemnity and the Gencon Charter Party, Mr. Gertsema, is in Brazil. The other witness, Mr. Roderbourg is in Montreal. A pre-loading survey was also conducted on behalf of Fednav in Brazil;
+• Cross-Examination of Mr. Dong Li, pages 19-26.
+[49]
+On balance, under this onus, I think that the situation is neutral. At best, Brazil has a small advantage.
+(2)
+Location of the material evidence
+[50]
+It is clear that, to the extent that this evidence is still physically available, it would possibly be in Canada or in the hands of those who ultimately purchased the cargo. Moreover, it is apparent that the assessment of the ramifications of using plastic sheeting was done in Canada.
+[51]
+Certainly, and to the extent that this is relevant under this exercise involving a dispute between Canada and Brazil, it is obvious that there is no evidence in New York, the place of arbitration under Arbitration clause 19.
+[52]
+This factor favours Canada.
+(3)
+Place where the contract was negotiated and executed
+[53]
+Although Cosipa argues that the Charter party was negotiated entirely in Brazil, it would appear from the contradictory evidence that it was negotiated in Brazil and Canada. In addition, although the LOI was first drawn up in Brazil, Fednav finally approved it in Montréal.
+[54]
+Accordingly, I view this factor as neutral for the purposes of the exercise between Canada and Brazil.
+(4)
+Existence of proceedings pending between the parties in another jurisdiction
+[55]
+Here, unlike certain situations where this factor was given some weight (see, inter alia,
+The Cougar Ace
+, above, and
+Magic Sportswear Corp. v. Mathilde Maersk (The)
+, [2007] 2 F.C.R. 733), it is admitted that Cosipa has not instituted any action or other judicial or arbitral proceedings in another jurisdiction.
+[56]
+Hence, this factor favours Canada.
+(5)
+Location of the defendants' assets
+[57]
+Here, transposed to the situation under review, this factor deals with Cosipa's assets.
+[58]
+These assets are situated in Brazil. The defendants point out that they have, however, already taken measures in our Court to have any Federal Court judgment enforced in Brazil.
+[59]
+Nevertheless, this factor favours Brazil.
+(6)
+Applicable law
+[60]
+It is clear, particularly from Arbitration clause 19, that the applicable law is the law of New York, in a word, American law.
+[61]
+This factor is therefore neutral.
+(7)
+Advantages conferred upon the plaintiff by its choice of forum, if any
+[62]
+Here, transposed to the situation under review, this factor relates to the defendants.
+[63]
+The defendants submit that it will be more practical and efficient to have Cosipa present in a Canadian court so that security or compensation can be ordered against it once T.Co has established its cause of action against the defendants. The entire dispute could be resolved at one time and place where two of the three parties involved in the dispute support the jurisdiction of our Court. I think that this is a valid position and carries weight.
+[64]
+Also, the defendants legitimately argue that, in this Court, they are assured that their Third party claim against Cosipa is not statute-barred whereas no one knows whether a limitation period will be or could be raised, even by the courts themselves, in Brazil.
+[65]
+This factor favours Canada.
+(8)
+Interests of justice
+[66]
+It appears to me that the reasons noted under factor 7 above also apply here, and therefore this factor favours Canada.
+(9)
+Interests of the parties
+[67]
+It appears to me that the reasons noted under factor 7 above also apply here, and therefore this factor favours Canada.
+(10)
+Need to have the judgment recognized in another jurisdiction
+[68]
+Although the defendants point out that they have already taken measures to exercise their rights regarding the enforcement of any judgment of our Court in Brazil, I nonetheless think that this onus favours Brazil.
+[69]
+Thus, after reviewing the factors in
+Spar Aerospace
+, above, where on balance only three factors clearly favour Brazil, we must conclude that Cosipa has not demonstrated that the Federal Court is clearly inappropriate and that Brazil, as a corollary, is an obviously superior jurisdiction.
+[70]
+Consequently, Cosipa's motion to stay the defendants' Third party claim against it under the doctrine of forum non conveniens should be dismissed.
+[71]
+In the result and for the foregoing reasons, Cosipa's motion will be dismissed in the order accompanying these reasons, and after weighing the parties' representations on costs, with one set of costs for this docket and docket T-2020-08 in the total amount of $7,220 in favour of the defendants Canada Moon and Fednav and in the amount of $2,000 in favour of the plaintiff T.Co.
+[72]
+In addition, Cosipa shall serve and file its defence to the defendants' Third party claim on or before April 11, 2011.
+[73]
+These Reasons for Order and the order accompanying them also apply mutatis mutandis in docket T-2020-08.
+Motion dismissed.
+Editor: Rodney A. Jordan/vnh

@@ -1,0 +1,4 @@
+[33]
+And lastly, step VI involves reacting compound 6 with lithium aluminum hydride, and then the addition of an aqueous acid of some sort to protonate the anion of fluconazole into fluconazole: [see footnote 15]
+[Tables and diagrams may be omitted from electronic products or lose their format].
+Process step VI is a reduction reaction and it is a two step sequence even though the diagram above does not disclose that level of detail. The reaction results in the introduction of a hydrogen at the terminal carbon of the epoxide ring and the ring opens creating the hydroxyl (OH) necessary for completion of the fluconazole molecule.

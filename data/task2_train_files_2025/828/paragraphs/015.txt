@@ -1,0 +1,16 @@
+[15]
+The Court also stated in
+Free World Trust
+at paragraph 31:
+31. The appeal thus raises the fundamental issue of how best to resolve the tension between "literal infringement" and "substantive infringement" to achieve a fair and predictable result. There has been considerable discussion of this issue in Canada and elsewhere, which I will discuss briefly in support of the following propositions:
+(a) The Patent Act promotes adherence to the language of the claims.
+(b) Adherence to the language of the claims in turn promotes both fairness and predictability.
+(c) The claim language must, however, be read in an informed and purposive way.
+(d) The language of the claims thus construed defines the monopoly. There is no recourse to such vague notions as the "spirit of the invention" to expand it further.
+(e) The claims language will, on a purposive construction, show that some elements of the claimed invention are essential while others are non-essential. The identification of elements as essential or non-essential is made:
+(i) on the basis of the common knowledge of the worker skilled in the art to which the patent relates;
+(ii) as of the date the patent is published;
+(iii) having regard to whether or not it was obvious to the skilled reader at the time the patent was published that a variant of a particular element would not make a difference to the way in which the invention works; or
+(iv) according to the intent of the inventor, expressed or inferred from the claims, that a particular element is essential irrespective of its practical effect;
+(v) without, however, resort to extrinsic evidence of the inventor's intention.
+(f) There is no infringement if an essential element is different or omitted. There may still be infringement, however, if non-essential elements are substituted or omitted.

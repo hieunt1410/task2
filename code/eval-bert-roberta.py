@@ -9,20 +9,11 @@ import sys
 from prettytable import PrettyTable
 from transformers import AutoTokenizer
 
-# to import senteval, we need this
-sys.path.insert(0, '../SentEval')
-import senteval
-
-sent_eval_mode = 'test'
-tasks = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16', 'STSBenchmark', 'SICKRelatedness']
-# tasks += ['MR', 'CR', 'MPQA', 'SUBJ', 'SST2', 'TREC', 'MRPC']
-
-# env: test-sts
-data_path = '../SentEval/data'
+eval_mode = 'dev'
 
 # './save/tune-roberta-sk2.pth' => 83.23  './save/tune-bert-sk2.pth' => 82.93
 best_model_path = './save/bert_train.pth'
-bert_path = '../../models/bert-base-uncased'
+bert_path = './ckpts/bert-base-uncased'
 #'../../models/roberta-base' # '../../models/bert-base-uncased'
 
 

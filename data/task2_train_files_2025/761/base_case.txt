@@ -1,0 +1,851 @@
+[1]
+Hargrave, Prothonotary
+: In November of 1997 the 25,599 gross ton Cypriot bulk and container carrier "Nel" was arrested at Vancouver by the Plaintiff, the Governor and Company of the Bank of Scotland (the "Bank of Scotland"), as mortgagee, for the Bank of Scotland's mortgage was in default. Indeed the owner of the "Nel" had abandoned her, closed its office, removed the office furniture and disappeared. As so often happens subsequent arrest, caveat and claim then rained down upon hapless "Nel". The unfortunate situation was compounded by the fact that the "Nel" had had aboard, for some time, a cargo of bulk sulfur loaded at Vancouver: visions of further delay and potentially massive electro-chemical corrosion damage in the manner of the "Cambridgeshire", were very real possibilities. Moreover, removal of the sulfur at Vancouver was not realistic.
+[2]
+On the brighter side, the Plaintiff was, in fairly short order, able to find a buyer for the "Nel" who was prepared to deliver the cargo. Therefore, the Court ordered the sale of the vessel, "pendente lite", at $5,000,000 (US) apportioned $4,910,450 and $89,550 for the ship and for the bunkers aboard the ship, respectively. All figures in these reasons are in American dollars, unless otherwise specified.
+[3]
+The present reasons arise out of a hearing to determine priorities. While there are various essential facts impinging on the priorities, I will deal with pertinent facts where called for in the reasons. I will first turn to some basic applicable law as to priorities.
+SOME USUAL PRIORITIES
+[4]
+The priorities given to maritime claims in Canada are set out in a number of cases including
+Comeau's Sea Foods Ltd. v. Ship Frank and Troy
+, [1971] F.C. 556 (T.D.),
+Todd Shipyards Corp. v. Alterna Compania Maritima S.A. and Ship Ioannis Daskalelis, Re
+, [1974] S.C.R. 1248; [1974] 1 Lloyd's Rep. 174,
+Osborne Refrigeration Sales and Service Inc. v. Ship Atlantean I
+, [1979] 2 F.C. 661 (T.D.),
+Llido v. Ship Lowell Thomas Explorer
+, [1980] 1 F.C. 339 (T.D.),
+Scott Steel Ltd. v. Ship Alarissa et al.
+, [1995] 2 F.C. 883; 111 F.T.R. 81 (T.D. Protho.), affd. (1997), 125 F.T.R. 284 (T.D.),
+Fraser Shipyard and Industrial Centre Ltd. v. Expedient Maritime Co. et al.
+(1999), 170 F.T.R. 1 (Protho.) and
+Holt Cargo Systems Inc. v. Ship Brussel
+, 11 February 2000 decision of Mr. Justice MacKay in action T-738-96 ((2000), 185 F.T.R. 1). These cases, taken together, principles from which I have applied, deal extensively with most of the priorities issues which one might encounter.
+[5]
+Returning to the basic ranking of in rem claims in Canada, it is as follows:
+1. Disbursements of the Admiralty Marshall or Sheriff
+2. The Costs of the Sale, including those of the Plaintiff in an action arising out of arrest, appraisal and sale, or in the alternative, the claim of a party, other than the Plaintiff, who has been instrumental in bringing the ship to sale.
+3. Possessory liens predating other liens.
+4. Maritime liens.
+5. Possessory liens arising after maritime liens.
+6. Mortgages.
+7. Statutory rights in rem, including for the supply of necessaries, which rank pari passu among themselves.
+[6]
+In the present instance there are lien claimants who rely upon American maritime liens. There are sufficient funds to satisfy all of those who in fact hold American maritime liens and thus I do not have to rank those claimants.
+[7]
+The position of American maritime lien holders is set out in
+Ship Ioannis Daskalelis
+(supra), substantially commented upon in
+Ship Atlantis Two
+(supra) at pages 13 through 15. In the present instance it suffices to say that the Supreme Court, in
+Ship Ioannis Daskalelis
+, established that the holder of a substantive American maritime lien is able to bring the lien into Canada and then use our procedural legislation, found in the
+Federal Court Act
+and
+Rules
+, to enforce that lien. Effectively the right is American and the remedy Canadian. The result is that an American necessaries supplier, granted a maritime lien under section 971 of the
+United States Code
+, now section 31342, unlike the Canadian necessaries supplier, takes priority along with other maritime lien holders ahead of a mortgagee.
+[8]
+Several of the claimants submit that the usual order of priorities, giving a mortgagee priority over the mere right in rem held by some of the necessaries claimants, ought not to apply. I will consider the law on this point in the context of the Bank of Scotland's claim. I now turn to the claims against the sale proceeds.
+CLAIMS
+[9]
+I should begin by noting concessions made by the Bank of Scotland, involving settlement of claims which, in effect, come out of the residual funds which would go to the Bank of Scotland after resolving all of the lien claims which take priority. The claims of HBI International were compromised at $19,000, together with costs of $2,750, the latter figure in Canadian dollars. The second claim settled at an early stage was that of the Pacific Pilotage Authority, in the amount of $1,632.60 (Cdn.). The Pacific Pilotage settlement involved not a recognition of a priority by way of a maritime lien, but merely a voluntary grant of priority over the bank's mortgage. The third claim settled before the determination of priorities was that of Canpotex Shipping Services Ltd. ("Canpotex"), for costs in the amount of $3,000 (Cdn.). Campotex has also already recovered $89,550, being proceeds of the sale of bunkers aboard the "Nel".
+[10]
+I have already noted that claims, unless otherwise specified, are in American dollars. However, there is the issue of exchange rates, which I will touch upon, as well as interest rates to be applied.
+Exchange Rates
+[11]
+In the present instance a conversion or exchange rate problem does not, for the most part, arise, for the sale price of the "Nel" has been held in American dollars. Thus the conversion rates apply only to those claims, which are in the minority, which are not in American dollars.
+[12]
+For those claimants who have rendered accounts in Canadian dollars, or in currencies other than American dollars, I have exercised my discretion as to exchange rates. Rather than look to a judgment date, to a breach date, to a ship sale date, or to the present date, I have decided to use the figure which appear in the 14 January 1998 Affidavit of Georgia Stavridis, being the 13 January 1998 currency spot and forward rates prepared by the Bank of Montréal, Treasury Group.
+Interest on Claims
+[13]
+Various interest calculations applied with the claims. In the case of pre-judgment interest I have drawn guidelines which are summarized in
+FRAGMENT_SUPPRESSED:
+1. Where a contract specifies a rate, that will be applied to the date of the sale of the "Nel";
+2. Where there is no agreed rate applicable to a Canadian cause of action, provincial pre-judgment interest rates may be effected;
+3. Where there is no agreed contractual rate applicable to an off-shore claim, the Federal
+Interest Act
+may be relevant; and
+4. None of these general principles detract from the Federal Court's Admiralty jurisdiction discretion to award pre and post-judgment interest at a rate which the Court views as appropriate given the circumstances of the claim and the positions of the claimants.
+[14]
+I shall apply these guidelines in the present instance, utilizing the Court's discretion, being the fourth principle set out above, as follows:
+1. Where the rate is set by contract, that rate shall govern from the date of the inception of the claim to the date of the order for the sale of the "Nel", 3 December, 1997;
+2. If there is no contractual rate, the rate, to the date of the sale of the "Nel", shall be 7%; and
+3. Post-judgment interest where there is no contractual rate shall be the average interest rate paid on the sale price fund of the "Nel".
+Payment of Crew Wages and Costs of Sale
+[15]
+The Bank of Scotland, in addition to its claim secured by the mortgage on the "Nel", claims for expenditures in connection with the sale of the "Nel", principally crew wages and repatriation costs, pursuant to my Order of 3 December 1997. The claim is as follows:
+1.
+Paid to Captain Kocherov as reimbursement for an amount paid to Tymac Launch Services Ltd. for water supplied to ship on November 11, 1997
+$1,400.00
+2.
+Paid to CTL Westrans for evaluations relating to sale of the "Nel" (Cdn $1,750.00)
+$1,190.00
+3.
+Cost of Advertising (Cdn $410.78)
+$279.33
+4.
+Wages paid to Crew
+$54,074.02
+5.
+Repatriation costs of those crew members who left the "Nel" at the time of sale
+$14,123.74
+TOTAL
+$71,067.09
+[16]
+In the present instance, there being no Admiralty Marshall's expense as such, the costs of the sale, $71,067.09, paid by the Bank of Scotland, take a first priority.
+[17]
+In reaching this conclusion I have considered payment of wages, master's disbursements and repatriation costs, in much the same way as in
+Ship Atlantis Two
+(supra) at page 16 and following. Similarly, wage claims and repatriation costs may be paid by someone else and still, where there is an assignment or a Court order, retain their priorities in the hands of that other person: see for example
+Tetley on Maritime Liens and Claims
+(2nd Ed. 1998), Blais International Shipping Publications, Montreal, at pages 1230 and 1231 and
+Ship Atlantis Two
+(supra) at page 18. Indeed, in the present instance, there was an assignment of each wage claim to make it clear that the Bank of Scotland was in a position to step into the priorities which the crew members, including the Master, held for wages, repatriation expenses and for Master's disbursements.
+[18]
+This claim for sale related costs is proper, was never seriously contested and stands, as I say, as a first charge. I now turn to the claim of the Bank of Scotland as mortgagee.
+The Mortgagee
+[19]
+It is appropriate, in this instance, to deal initially with the claim of the mortgagee, the Bank of Scotland, for were that claim to fail, in whole or in part, there could be funds from the sale price available to necessaries suppliers who hold not maritime liens, but mere rights in rem, which come behind the valid claim of a mortgagee.
+(a) Form of Mortgage
+[20]
+I will touch upon further pertinent terms of the Bank's security against the "Nel" and the other vessels providing security under the Bank of Scotland's fleet mortgage where appropriate. Here I will, however, observe that the mortgage is in account current form, a document which can form all encompassing security. In the view of the Bank of Scotland, the mortgage secures the initial loan, the running account kept between the Bank of Scotland and the owner of the fleet which included the "Nel", and interest. As to the running account, the account current mortgage of the "Nel" , on its face, covers a broad range of amounts owing, including advances made to or on behalf of the owner, by the Bank of Scotland, from time to time. The second paragraph of the Bank of Scotland's mortgage sets out that it secures payment of:
+"... all sums for the time being owing to the Mortgagee on the account current, including all sums due or to become due to the Mortgagee under and by virtue of the Loan Agreement and Deed of Covenants whether by way of principle, interest or otherwise and all costs, charges, expenses and other monies connected with or incurred for the purpose of creating, preserving, maintaining, protecting, enforcing or attempting to enforce this security ..."
+[21]
+This broad view of the scope of security provided by an account current mortgage is not only in keeping with the practice of marine solicitors and within the intent of the parties, viewing the transactions between the Bank of Scotland and the owners of the mortgaged fleet as a whole, but it also corresponds with the view of the Nova Scotia Court of Appeal in
+Cleveland v. Boak
+(1906), 39 N.S.R. 39 (C.A.), two pertinent passages from which are as follows:
+"The plaintiff's contention is that by the terms of the recital the mortgage was given as security for 'money advanced and to be advanced for purposes connected with shipping and trade,' and was not for, and does not cover supplies for the defendant, or obtained by the defendant from other merchants and supplied to him. However in apt the language used in the mortgage may have been, it is self evident, viewing the whole transaction between the parties, that the real intention of the plaintiff was to give the defendant security on his vessel for his current account, including monies and supplies of every kind. [Page 44]
+"It cannot be contended the 'account current' meant money advanced only. As used it clearly meant money used in advances, and such articles as were, and had been charged in accounts current from year to year, all of which was to be settled up and ascertained on 31
+st
+December in each year. The nature and course of dealings between the parties must be taken into consideration in interpreting such an instrument as this."
+[22]
+Taking into account the general nature of an account current mortgage, together with the specific circumstances in this instance, I have concluded that proper portions of the loan account, the running account, including the distress payments made to keep the vessels in the fleet operating and interest are secured by the account current fleet mortgage over the various vessels, including the "Nel". There were suggestions, and I would not give those propositions any higher standing, that the mortgage security was, in itself, invalid or improperly registered. All of the factors and circumstances considered, there are no real reasons to doubt the validity and effectiveness of the mortgage security. I now turn to the sums said to be secured, a more involved aspect.
+(b) The Claim of the Bank of Scotland
+[23]
+The 30 January 1998 default judgment of the Bank of Scotland, in this action, based on principle and interest on its loan, was in an amount equivalent, on the date of the judgment, to $12,047,788.08 (US). The claim was subsequently presented, at the priority hearing, at $14,124,420.50, less various amounts received from the sale of other vessels covered by the fleet mortgage. The claim is presented as follows:
+1.
+Outstanding principle 20 July 1998
+$11,250,000.00
+2.
+Loan account and distress payments also secured by the mortgage
+$ 1,764,747.00
+3.
+Accrued interest to 4 Jan 1999
+$ 1,109,673.50
+TOTAL
+$14,124,420.50
+The position of the Bank of Scotland, which I have accepted after considering various opposing arguments, is that the mortgage security, in the form of an account current mortgage, reflects and secures all unrecovered amounts from time to time owing to the Bank. I will now deal with the pertinent arguments to the contrary.
+[24]
+One of the lien claimants submits that I ought not to accept the loan and distress payment account, which is part of exhibit "B" to the Affidavit of Mr. Myles, Director of Project and Specialized Finance for the Bank of Scotland, as accurate. The distress payment account includes such things as payments of wages and for bunkers in order to keep the fleet operating, particularly during the Fall of 1997. Counsel submits that I ought to disregard the account because Mr. Myles could not swear to the accuracy of that account. This submission is accurate, so far as it goes, but it is not a complete statement. What Mr. Myles said, on cross-examination, was that the figures had been "... checked off against our accounts by at least one of my colleagues.". It would be unreasonable to expect a director of a bank department to personally check and calculate each and every client's account, or even to calculate a fleet account involving litigation, such as the present. A person in the position of Mr. Myles must rely upon colleagues and employees to do such work properly. There is no suggestion of default or laxity on the part of colleagues and employees of the Bank of Scotland in calculating interest on the amounts set out in the statement. The Bank of Scotland has satisfied the appropriate standard of proof of this portion of the loan and distress payment account. There is, however, an adjustment to be made, which I will explain shortly.
+[25]
+I should also comment upon the interest figure of $1,109,673.50, challenged on the basis that the Bank of Scotland had not proven the calculation. The interest calculation was presented to me. Interest is calculated at various rates, consistent with the Bank of Scotland's security, in two blocks, the second running from 6 April 1998 to 4 January 1999. In the calculation of this second block of interest, the Bank of Scotland has taken into account funds received, final and interim, on the sale of the "Angelina L" by the court in Singapore. The interest calculation, overall, also takes into account proceeds received from the sale of the "Anna L." and an interim advance to the Bank of Scotland from sale proceeds of the "Nel", funds which, prima facie, would not be needed to satisfy the claims of the lien claimants. I accept the interest calculation so far as it goes. However, while there should be an adjustment for funds indirectly received by way of the purchase and sale of the "Blue L." on behalf of the Bank of Scotland, that calculation has no real bearing, for the Bank of Scotland faces a substantial shortfall in any event.
+(c) Recovery by the Bank of Scotland
+[26]
+The amounts received by the Bank of Scotland on its liquidation of the mortgaged fleet are now pertinent so that I might calculate a net amount owing to the Bank of Scotland at the time of the priority hearing. The amounts received, or possibly to be received, directly from the sales of the vessels, are as follows:
+1.
+"Anna L."
+$ 2,850,000
+2.
+Advance on the "Nel"
+$ 2,835,681
+3.
+"Angelina L." initial and final proceeds
+$ 1,225,716
+4.
+"Blue L.": funds held in South Africe
+$ 3,300,000
+TOTAL
+$10,211,397
+By way of explanation of part of the uncertainty surrounding the "Blue L." proceeds, the "Blue L." was sold by court ordered sale in South Africa for $3,300,000. As of the date of the priorities hearing no funds had been received from the "Blue L." by the Bank of Scotland. Thus the $10,211,397 direct realization figure is likely overly optimistic, but is the best figure that might be used. This in turn deserves a brief further comment.
+[27]
+The Bank of Scotland pressed for an early resolution of priorities issues. While the claims in the priority proceedings were, by order, filed by 31 December 1997, additional affidavits of fact were to be delivered by 15 April 1998, subsequently extended to 28 April 1998, to accommodate various claimants, including the Bank of Scotland. Such claim deadlines are essential in leading up to a priorities hearing, for all of the claimants must have certain claims to deal with and a reasonable time within which to assess each others claims, to cross-examine on the claims where necessary, to obtain evidence of foreign law where applicable and to prepare for the hearing. This may work to the disadvantage of the holder of a fleet mortgage, where ships are being sold by courts in various jurisdictions, for it may cut off legitimate claim amounts. Here some legitimate amounts claimable by the Bank of Scotland were, in all likelihood, cut off when I rejected a supplemental affidavit as set out in an order and reasons of 30 December 1998. However, the filing and modifying of claims must come to an end at some reasonable point before a priorities hearing.
+[28]
+The net claim as calculated by the Bank of Scotland, based on direct recovery under its security, being the gross claim for principle, the loan and distress payment account and for interest, a total of $14,124,420.50, less the maximum it says it might receive directly from the sale of the balance of the fleet, $10,211,397.00, is thus $3,913,023.50, together with the allowance of $71,067.09 for crew wages and sale costs which the Bank of Scotland paid, a total of $3,984,090.59
+(d) Attacks on the Bank of Scotland Security
+[29]
+The principal attacks on the Bank of Scotland's security were mounted by counsel for Alpha Bunkering Co. Ltd. ("Alpha Bunkering") and Aktina S.A. ("Aktina"). The attacks are alternative arguments, in the event that Alpha Bunkering and Aktina are found not to have a maritime liens. In addition, more than one claimant, with mere in rem rights, might be in a position to realize something if the Bank of Scotland's mortgage claim, or a portion of it, were found to be faulty. Therefore I must consider this aspect.
+[30]
+Alpha Bunkering starts from the proposition that the ability of the Bank of Scotland to assert an in rem claim against the sale proceeds must be based on section 22(2)(c) of the
+Federal Court Act
+, that section governing, among other things, a claim in respect of a mortgage. This proposition ignores the possibility that the Bank of Scotland might have provided necessaries. A cursory examination of the running account kept by the Bank of Scotland shows the provision, through payments to suppliers, of many necessaries. Money advanced to provide necessaries, or to pay for necessaries already purchased, is recoverable as a necessary: see for example
+Ship Underwriter, Re
+(1868), 1 Asp. Mar. Law Cas. 127, at 129, which refers, among other cases, to Doctor Lushington's decision in
+Ship Sophie, Re
+, [1842] 1 W. Rob. 368; 166 E.R. 610, where the point is decided at page 611 and
+Ship Riga, Re
+(1872), L.R. 3; A & E 516, at 520 and following. However, I need not pursue this line of thought, for the point was not argued.
+[31]
+Alpha Bunkering then submits that the principal document as between the Bank of Scotland and the owners of the "Nel" is the Loan Agreement of 25 February 1997, Alpha Bunkering taking the position that the provisions of the Loan Agreement prevail over and are incorporated into the mortgage and into the deed of covenant. That is only a partial summary of the relationship among the security documents, for in fact, it is only where there is a conflict between the Loan Agreement and the mortgage or the Deed of Covenants that the Loan Agreement is to prevail: section 13.4 of the Loan Agreement. Alpha Bunkering then submits that however wide is the Loan Agreement (and here I would comment that it is a very standard Loan Agreement in the sense that it covers virtually all eventualities) the wording of the Loan Agreement "cannot be extended to cover expenses which could not otherwise be secured by way of a ship mortgage pursuant to the applicable law;".
+[32]
+As I have already pointed out an account current mortgage is a broad security document and all the more so in the instance of the present account current mortgage of the "Nel", by reason of its specific wording. Yet the submission by Alpha Bunkering, and on behalf of various of the claimants, is that the further advances made under the overdrawn accounts, including the distress payments, are outside the scope of the Loan Agreement, which only goes to payments made to protect, maintain and conserve the Bank of Scotland's security. Indeed, the claimants submit that the payments were made by the Bank of Scotland to facilitate the continued trading of the mortgage fleet. Alpha Bunkering's preservation argument is supported by dictionary reference and case law as to preserving a ship, to wit
+Banco Do Brasil S.A. v. Ship Alexandros G. Tsavliris et al.
+(1994), 68 F.T.R. 284 (T.D.) and
+Osborne Refrigeration Sales and Service Inc. v. Ship Atlantean I
+(1979), 100 D.L.R.(3d) 11, a decision of the Trial Division, varied (1984), 52 N.R. 10; 7 D.L.R.(4th) 395, by the Court of Appeal. In both instances, the ship preservation involved occurred following an arrest. That is a different context than preservation of security from a banker's point of view, which might include keeping the fleet operating so that it was both worth something and might save the Bank of Scotland the problems of falling heir to a fleet which could no longer operate. However, leaving that aside, this whole argument overlooks the clear broad scope of the account current mortgage, which secures "all sums for the time being owing to the Mortgagee on the account current" and then goes on to include those owing by virtue of the Loan Agreement. This is not inconsistent with either the scope of an account current mortgage or the Loan Agreement. Moreover, it recognizes the concept that a mortgage may be the security and that is clear from the purpose and wording of the present account current mortgage.
+[33]
+Finally, still dealing with distress payment, the lien claimants submit that the Bank of Scotland may not claim priority for distress payments, being payments to creditors of the owners of the mortgaged fleet, in the absence of evidence that the payments were in fact made to parties holding valid maritime liens. Here the reference is to
+Ostgöta Enskilda Bank v. Starway Shipping Ltd.
+(1994), 78 F.T.R. 304 (T.D.). In
+Ostgöta
+at issue were the payment of pilotage, berthage, and like charges by a charterer. The claimants focus on that part of
+Ostgöta
+in which the judge rejected the argument that the charterer had a good claim by reason of stepping into the shoes of the pilots, whom the charterer submitted had a maritime lien. The Court held that the existence of a maritime lien was not established but that, in any event, the charterer was not under a legal responsibility to accept liability for pilotage services and then somehow to transfer that liability to an in rem claim against the ship.
+Ostgöta
+may be limited to its facts. In the present instance the Bank of Scotland does not, except where it has an assignment of a wage or repatriation claim, rely upon a maritime lien and some undefined ability to transmute the payment into an in rem claim, but rather upon its loan documentation, including mortgage security, being security which I have found to extend to cover such payments. Moreover, to make this sort of preference argument there is an onus, on the party trying to establish a preference, to show that the real intention was to prefer. This onus requires that the Court, after reviewing all of the circumstances, must be satisfied that the dominant intention of preferment was present. While there may be an inference of preferment, there must, if there is more than one explanation for what happened, be some direct evidence on point. All of this is more neatly put by Lord Tomlin in the Privy Council's decision in
+Peat v. Gresham Trust Ltd.
+, [1934] A.C. 252 (P.C.), at 262:
+"In my opinion in these cases the onus is on those who claim to avoid the transaction to establish what the debtor really intended, and that the real intention was to prefer. The onus is only discharged when the court upon a review of all the circumstances is satisfied that the dominant intent to prefer was present. That may be a matter of direct evidence or of inference, but where there is not direct evidence and there is room for more than one explanation it is not enough to say there being no direct evidence the intent to prefer must be inferred."
+In the present instance, I have considered all of the circumstances. Banks are not in the business of owning or operating ships: the actions of the Bank of Scotland give all the appearance of a mortgagee trying to keep its mortgagor's fleet operating so that it might have some going concern value and bring in a return, both objectives to the mutual advantage of bank, customer and creditor. There is little or nothing to infer an intent to grant a preference. Of direct evidence of preferment there is none. I now turn to the allegation of an indirect or secret profit made by the Bank of Scotland on the sale of the "Blue L."
+(e) Indirect Profit on Purchase and Resale of the "Blue L."
+[34]
+The "Blue L.", one of the ships of the fleet mortgaged to the Bank of Scotland, was purchased by the Bank of Scotland, through a nominee company, Perca Shipping Co., at a court ordered sale in South Africa for $3,300,000. The nominee company immediately sold the "Blue L." to Seagull Maritime Corporation, an existing customer of the Bank of Scotland, for $5,000,000. Elements of this transaction are documented in a number of places including in an intermittent running journal, or series of memos, kept by the Bank of Scotland and called by them an "Irregular Report". Pertinent here is that the purchase by the Bank of Scotland's nominee company was not a speculation, but was accomplished to effect a pre-arranged sale to an existing customer of the Bank.
+[35]
+The Irregular Report or journal shows a July 1997 appraised value for the "Blue L." of $5,300,000. A November 1997 journal entry indicates the "Blue L." had been arrested by the Bank of Scotland in South Africa, that it would be acquired by the Bank, when it came up for court ordered sale 23 January 1998 and then that it would be resold to Seagull Maritime Corporation. The note at the conclusion of the November 1997 journal page is that:
+"Steps have been taken to dispose of the vessels at prices sufficient (after paying off preferential creditors) to repay the debt in full."
+This procedure, of acquiring and reselling, is documented generally and particularly in the January journal entries.
+[36]
+This procedure of purchase by the Bank of Scotland and planned re-sale at a profit to an existing customer was not particular only in the case of the "Blue L." The January 1998 journal entries include a notation of the arrest of the "Angelina L." in Singapore, which notes the acquisition of the "Angelina L." following "... a quick court action in order to 'lose' some of the creditors claims.", acquisition by the Bank and an onward sale to new owners, was expected to net the Bank of Scotland about $900,000 after preferential claims. In fact the vessel was bought by the Bank in early February of 1998 and netted the Bank $1,225,716 toward the debt. More important, however, is the specific reference to the "Blue L." That entry shows an intent to buy the vessel when it came up for sale by the court and to resell the vessel to Seagull Maritime Corporation for $5,000,000. This came about:
+"Vessel was bought back in by the Bank on 22
+nd
+January. The vessel was onsold to Seagull on 30
+th
+January. Sale proceeds from Court expected March."
+There follows the same note, that occurred previously, that the Bank had taken steps to dispose of the ships for amounts sufficient to repay the debt in full. The January journal entry then goes on to confirm the sale price of the "Blue L." to Seagull Maritime Corporation at $5,000,000. That sale price of $5,000,000 to Seagull Maritime Corporation is also confirmed in a February 1998 journal entry.
+[37]
+We also know, from the affidavit of Mr. Myles of the Bank of Scotland, that the purchase price of the "Blue L.", leaving aside bunkers, was $3,300,000. This leaves a profit of about $1,700,000 between the Bank of Scotland's acquisition cost and the onward sale price. The lien claimants say that this profit, which is not accounted for and which might have remained undisclosed but for diligent efforts to obtain disclosure and to cross-examine, constitutes a profit to the Bank of Scotland, a profit which ought to be taken into consideration to reduce the Bank of Scotland's total claim under the fleet mortgage. The documentation indicates that the onward sale to Seagull Maritime Corporation included the bunkers, for which the Bank of Scotland paid $34,750.66. The profit on the sale of the "Blue L.", to be taken into account as a deduction from the total Bank of Scotland claim, amounts to $1,665,249.40.
+[38]
+The Bank of Scotland's nominee, to purchase the Blue L. on the judicial sale and to resell it, was Perca Shipping Co. Ltd., an offshore company, the shares of which were beneficially owned by the Bank of Scotland. The profit on the sale then went to the Bank of Scotland. However the Bank of Scotland takes the position that the profit has nothing to do with the debt owing on the fleet mortgage. All of this is confirmed by Mr. Myles, of the Bank of Scotland, on his cross-examination. Mr. Myles was perhaps uninformed in saying that there was no agreement between the Bank's nominee company to sell the ship and Seagull Maritime Corporation to purchase the ship before the "Blue L." was acquired on the court ordered sale. This flies in the face of the irregular report or journal kept by the Bank which, in November, shows an intention to acquire the ship and to sell her, at a profit, to Seagull Maritime Corporation for $5,000,000.
+[39]
+If the Bank of Scotland's Mr. Myles had been able even to volunteer, on cross-examination, as an explanation to this charge of a profit siphoned off to the Bank through an offshore entity beneficially owned by the Bank, for an immediate onward sale at an agreed price, that the South African Court was at least aware of what was happening, that might well have ended the matter. However, the Bank attempted damage control by taking the positions that the vessel was properly bought at a court ordered sale, that any onward sale by the Bank had no relevance and that what happened was not any business of the unpaid creditors of the fleet. All of this might be so, but only in a situation where a mortgage holder could properly bid for the ship, demonstrably without damping the sale and without any prior arrangement with some other party, could the Bank of Scotland buy the vessel and then resell without accounting for a profit.
+[40]
+To begin, it is not possible, in most jurisdictions where a mortgagee does not have the right to bid its mortgage, for a mortgagee to become a buyer in a Court ordered sale, unless the Court grants that disposition: see for example
+Ship Wilsons, Re
+, [1841] 1 W. Rob. 172; 166 E.R. 537, where the Court allowed the mortgagee to bid on the ship. This is a relaxation of the general rule that a mortgagee, who has its own rights to look after in a realization situation, also has a duty to act bona fides, both without collusion with any purchaser and without placing itself in a position giving rise to any conflict of interest, which might arise were a mortgagee allowed an unrestricted right to purchase. In the present instance I have been presented with no evidence to indicate that the South African Court knew of the Bank's intent to purchase and resell the ["Blue L."] at a profit or even that the Bank of Scotland, through a nominee, was to be allowed to bid for the ["Blue L."]. Returning to the duty, on a sale, it includes the obligation to obtain the true market value. These propositions, as to the duty of a mortgagee, were touched upon in
+Tse Kwong Lam v. Wong Chit Sen
+, [1983] 1 W.L.R. 1349 (P.C.), at 1353 and following. At page 1355 the Privy Council points out that there is not a hard and fast rule that a mortgagee may not sell to a company in which it is interested, but that if such occurs there is a heavy onus on the mortgagee to show that, in all respects, it acted fairly and in good faith, taking reasonable precautions to obtain the best price obtainable at the time. Granted, the
+Tse Kwong Lam
+case involved a private sale, however there must be full disclosure before a mortgagee bids, either directly or indirectly, on a Court ordered sale.
+[41]
+The irregular report, following the sale of the "Blue L.", shows the $5,000,000 value of the ship as contributing to the value of the net total of assets held by the Bank of Scotland to secure the loan to the owner of the fleet which included the "Nel". I accept that this is a return which the Bank of Scotland made on its security, a return which ought to have been declared and explained, if the Bank of Scotland were able. Since the Bank was unable to offer an exculpatory explanation for the planned gambit, the purchase of the vessel through an off-shore company, the shares of which were beneficially held by the Bank of Scotland, for an already planned sale at a profit to an existing customer, it is equitable to add the profit as recovery by the Bank of Scotland under its mortgage. This is a result which reflects the evidence of Mr. Myles, on cross-examination, that the net profit gained by the off-shore company which it controlled, Perca Shipping Co., was paid to the Bank of Scotland. Mr. Myles, on cross-examination, was uncertain as to where in the Bank of Scotland's accounting the gross profit of $1,700,000, or more correctly the net profit after payment for bunkers, $1,665,249.40, appeared, however the Bank of Scotland did receive that amount.
+[42]
+The amount that the Bank recouped on the "Blue L." transaction was not as a profit on an independent business transaction, but was made by reason of the Bank of Scotland's position as mortgagee of the "Blue L.": prudent bankers are not usually in the business of speculators in the purchase and sale of used ships, unless the situation is forced upon them by a ship mortgage situation which has gone bad. This now leaves the issue of the Bank of Scotland's position, as recipient of $1,665,000, arising out of its position as fleet mortgagee, vis-à-vis the creditors of that fleet and particularly the lien claimants in this action. The appropriate tool by which to reach an equitable conclusion is that of a constructive trust.
+[43]
+I recognize that a mortgagee is not an overall trustee on a ship sale under a mortgage and all the more so when the sale is court ordered. However, a mortgagee is a trustee for any surplus realized on a sale and in that situation must act in good faith: see
+Frost Ltd. v. Ralph and Roy (Rob) Investments Ltd.
+(1980), 40 Nfld. & P.E.I.R. 207; 115 A.P.R. 207 (Nfld. T.D.) and
+Federal Business Development Bank v. Ralph
+(1988), 71 Nfld. & P.E.I.R. 231; 220 A.P.R. 231 (Nfld. C.A.), referred to by Mr. Justice Rothstein, as he then was, in
+Dunne v. Minister of National Revenue
+(1995), 93 F.T.R. 115 (T.D.), at 120 and following. There is every reason that such a standard ought to apply when a mortgagee claims at a court ordered ship sale and all the more in the case when there is no indication that the court ordering the sale was in any way aware either that the purchaser was an off-shore company controlled by the Bank of Scotland or that the Bank of Scotland had a prearranged sale, with the profit going not to secure lien claimants, but directly to the Bank of Scotland.
+[44]
+As I say, a constructive trust is an appropriate tool. Such a trust comes into existence regardless of intent. It is an equitable remedy designed to prevent unjust enrichment:
+"[91] A constructive trust comes into existence 'regardless of any party's intent, when the law imposes upon a party an obligation to hold specific property for another': See Waters,
+Law of Trusts in Canada
+(2nd Ed., 1984) at p. 377. A constructive trust is a remedial, equitable instrument, the purpose of which is to prevent unjust enrichment:
+Rathwell v. Rathwell
+, [1978] 2 S.C.R. 436; 19 N.R. 91; 383 D.L.R.(3d) 289; [1978] 2 W.W.R. 101; 1 E.T.R. 307; 1 R.F.L.(2d) 1, at 455;
+Pettkus v. Becker
+, [1980] 2 S.C.R. 834; 34 N.R. 384; 19 R.F.L.(2d) 165; 117 D.L.R.(3d) 257; 8 E.T.R. 143." (
+Jesionowski v. Gorecki and Ship Wa-Yas
+(1993), 55 F.T.R. 1 (T.D.), at 26)
+[45]
+There are a number of conditions that are placed upon the imposition of a constructive trust. As a result a constructive trust is not often an appropriate remedy, for a court must be certain first, that a claim for unjust enrichment has been established; second, that there has been a corresponding deprivation to the claimant; third, that there is no juristic reason for the enrichment; and finally, whether, in the circumstances, a constructive trust is the appropriate remedy to redress the unjust enrichment:
+Jesionowski
+(supra, loc. cit.).
+[46]
+Applying this four part test to the present situation, as I have already pointed out the Bank of Scotland has received $1,655,249.40 as a result of its knowledge, as a mortgagee, an unjust enrichment which ought, in the particular circumstances, to have been accounted for. Second, by virtue of the tactics of the Bank of Scotland various lien claimants are deprived of their right to claim against that sum as part of the sale proceeds. Third, there is no juristic reason for the enrichment, but to the contrary, it came as a result of contrivance. Finally, the remedy is appropriate, for it would be ludicrous for lien claimants to have gone through the present priority hearing and then, priority in hand, be forced to track down the Bank of Scotland in another jurisdiction and there sue on their judgments.
+[47]
+In summary, for the purposes of this priority hearing, the sum of $1,655,249.40 is deemed both to have been received by the Bank of Scotland and to have been applied toward satisfaction of its fleet mortgage.
+(f) Early Crystallization of the Bank of Scotland Claim
+[48]
+The next interesting point is a submission that the claim of the Bank of Scotland, under its fleet mortgage, ought to be capped at $12,047,788.08, being the American dollar equivalent of the $17,602,057.32 (Cdn.) December 1997 default judgment, because the claim is then said to have then crystallized at that amount.
+[49]
+It is clear that one reason the Bank of Scotland took default judgment at an early date, rather than to prove its claim at the priority hearing, was that an early judgment enabled the Bank to apply for payment to it of any funds that were clearly surplus to those needed to satisfy the claims that had an apparent possible higher priority. The question now is whether the early default judgment has also been to the detriment of the Bank of Scotland, to the extent of about $2,000,000 added to the claim after December 1997, of course allowing for any Court approved expenditures.
+[50]
+The case here, against the Bank of Scotland, begins with
+European Central Railway Co. (ex parte Oriental Financial Corp.)
+(1876), L.R. 4 Ch. D. 33 (C.A.). There a debenture holder obtained judgment at an early stage in order to obtain the advantage of an execution. They were later able to prove an additional two percent interest, which both the trial judge and the Court of Appeal disallowed, holding that original debt had become merged in the judgment, in effect creating a fresh debt with different consequences.
+European Central
+is summed up in a passage in Volume 26 of the Fourth Edition of
+Halsbury's
+at page 274:
+"When judgment has been given in an action, the cause of action in respect of which it was given is merged with the judgment and its place is taken by the rights created by the judgment, so that a second action may not be brought on that cause of action."
+[51]
+The Saskatchewan Court of King's Bench reached a conclusion similar to that in
+European Central
+in
+Cockshutt Plow Co. v. Kornyssyn
+, [1931] 3 W.W.R. 771 (Sask. K.B.). There the plaintiff held a mortgage as collateral security to three promisory notes. On default the plaintiff obtained judgment. The point of the case was that where judgment has been recovered for a debt, there is then a merger of the original indebtedness in the judgment. In addition, where the judgment is in rem, as was the situation here, it is a judgment binding all and invocable by any person against any other person: see Volume 16 of the Fourth Edition of
+Halsbury's
+, page 869 and
+Creighton v. Franko
+(1998), 151 F.T.R. 2 (T.D.), at 33.
+[52]
+The submission to bar the Bank of Scotland from claiming more than the amount set out in its default judgment, is then to the effect that on a default judgment the allegations and the claim are deemed proven at some $12,000,000, counsel here referring to
+McElroy v. Cowper-Smith
+, [1967] S.C.R. 425. As I read it,
+McElroy
+is confined to default judgments taken under the Alberta
+Supreme Court Rules
+, by which a defendant, who allows judgment to go by default, is taken to have admitted the facts set out in the statement of claim:
+McElroy
+at page 428. The better view may be that the efficacy of a default judgment may be less than that of a judgment on the merits. This is a point made by Mr. Justice McNair in
+Montres Rolex S.A. v. Minister of National Revenue
+, [1988] 2 F.C. 39 (T.D.), at 52:
+"Generally speaking, orders in the nature of summary procedural judgments where there has been no trial of the issues are interlocutory at best, and should not be the accorded the finality and conclusiveness of a judgment on the merits of such issues: ..." (page 52)
+In reaching this conclusion, Mr. Justice McNair referred to former Federal Court Rule 437 which allowed a plaintiff to take judgment in default for the relief sought in the statement of claim. The effect of that rule seems no different than the present Rule 210 which allows default to be taken on the statement of claim. The Statement of Claim in this action is both in rem and in personam. The Plaintiff served the "Nel" and, 30 January 1998, was able to take in rem judgment arising out of the mortgage of the "Nel" for the equivalent of $12,047,788.08. The issue comes down to the effect of the default judgment. The Bank of Scotland submits that it does not bar recovery in debt.
+[53]
+My initial reaction to the argument put forward by the claimants involves the nature of merger of a cause of action in a judgment. The basic proposition as to merger is that when judgment has been given in an action, the cause of action which has resulted in the judgment merges in the judgment with its place being taken by the rights created by the judgment. This is a basic proposition set out in many early cases including in
+Greathead v. Bromley
+(1798), 7 T.R. 455; 101 E.R. 1973 (K.B.), at 456 and 1074. The result is that a second action may not be brought on that cause of action. Here, as I say, the Plaintiff obtained judgment 30 January 1998 in an Canadian dollar equivalent of $12,047,788.08, composed of principle of $11,250,000, interest on principle to 30 October 1997 in the amount of $97,790.49, overdrawn accounts totalling $698,869.60 and interest on the overdrawn accounts, again to 30 October 1997, $1,127.99. The Plaintiff now claims additional amounts which subsequently became owing, including amounts due on the loan account for distress payments and for interest, an additional $2,076,632.42. It is this last amount, $2,076,632.42 which the claimants would deny the Bank of Scotland by reason of merger.
+[54]
+The doctrine of merger is bounded by the principle that "there will be no merger unless the cause of action is the same in both actions, and the plaintiff had an opportunity of recovering in the first action (namely the action in which the judgment was given) what he seeks to recover in the second; ...": 4th Edition of
+Halsbury's
+, Volume 26 at paragraph 551. Indeed, a plaintiff may bring successive actions, arising out of the same circumstances, so long as those circumstances give rise to different causes of action:
+Brunsden v. Humphrey
+(1884), 14 Q.B.D. 141 (C.A.). On this analysis any claims for interest and for items on the running account, arising after the 30 January 1998 default judgment, would still be good claims at a subsequent priorities hearing. This concept allows recovery of post judgment interest as calculated by the Bank of Scotland. However there may be an accounting exercise if there is the issue, which seems not to have been dealt with, as to what portions of the excess now claimed on the loan account, if any, predate the judgment date. Here I would again note that overdrawn accounts, as of 31 October 1997, stood at $698,869.60, but are presented in a final calculation at $1,754,747.
+[55]
+Counsel for the Plaintiff takes a somewhat different approach, with which I agree, based on Professor Dunlop's analysis of merger into judgment in
+Creditor-Debtor Law in Canada
+, Carswell, Second Edition, 1994 at page 200 and following. The Dunlop analysis begins with the traditional theory that once a creditor carries an action to judgment the original debt obligation is said to have merged into a judgment debt. This is, as pointed out by Professor Dunlop, all part of the notion of res judicata, that once there is a final decision by a judicial tribunal of competent jurisdiction, that disposes of a matter once and for all, so that neither the parties nor their privies may later re-litigate the matter. This doctrine has two effects. First, such a decision estops a party from disputing the correctness of the decision in law and in fact, as against other parties and privies to the decision in subsequent litigation, this being the rule of estoppel by res judicata. Professor Dunlop then turns to the second and more germane effect of doctrine, that of merger into judgment, as put by Spencer-Bower, Turner and Handley in
+The Doctrine of Res Judicata
+, Second Edition, 1969:
+"In the second place, by virtue of the decision the right or cause of action set up in the suit is extinguished, merging in the judgment which is pronounced. Transit in rem judicatum. The result is that no further claim may be made upon the same cause of action in any subsequent proceeding between the same parties or their privies."
+Professor Dunlop refers to this formulation and to that set out in
+King v. Hoare
+(1844), 153 E.R. 206, at 210, as statements of the doctrine of merger which go farther than is necessary to prevent plaintiffs suing twice on the same cause of action.
+"Instead of simply prohibiting repeated lawsuits the judges have tried to accomplish the desired result by creating the fiction that a cause of action merges into the judgment. This roundabout way of dealing with the problem has gotten the courts into considerable unnecessary difficulty, as will be seen below.
+"The issue can be put simply. What is it that merges into the judgment? The passages quoted above suggest that it is the cause of action which merges in the sense that it is extinguished or replaced by the judgment which is 'of a higher nature'. It is submitted, however, that the better view is that the cause of action does not vanish entirely but instead survives the judgment, at least for certain purposes. This result may be expressed by saying that the effect of obtaining judgment is to force the judgment creditor to employ the remedies appropriate to a judgment, i.e., execution, receivership and so on, rather than the remedy appropriate to a bare cause of action, namely, the commencement of a lawsuit. In other words, what merges in the judgment is not the cause of action itself but the remedy which accompanies it."
+Key here is the concept that it is the remedy which merges with the judgment, not the cause of action itself.
+[56]
+Professor Dunlop refers to a number of English and Canadian cases which can best be explained by assuming that the cause of action, for some purposes, survives the judgment and indeed several cases in which the courts have explicitly espoused the view of remedy merger. Included among these cases is the Ontario Court of Appeal decision in
+Thorne v. Ball
+(1920), 50 D.L.R. 85 (Ont. C.A.), in which Mr. Justice of Appeal Middleton referred to
+Price v. Moulton
+, an appellate decision reported (1851) 10 C.B. 561; 138 E.R. 222, in which Mr. Justice Maule notes, at page 227, in connection with a debt secured by a covenant, that judgment "... does not merge or extinguish the debt; but it merges the remedy by way of proceeding upon the simple contract.".
+[57]
+In
+Thorne v. Ball
+Mr. Justice Middleton also refers to one of the earliest cases, the often cited
+King v. Hoare
+(1844), 13 M.&W. 494; 153 E.R. 206, at 210 for the principle that on judgment "...the cause of action is changed into a matter of record, which is of a higher nature, and the inferior remedy is merged in the higher.". Mr. Justice Middleton, with whom two members of the Court concurred and with the Chief Justice agreeing but for different reasons, summed these quotations up by saying "These quotations go to shew that it is the remedy which is merged, and not the right itself." (Page 86 of
+Thorne v. Ball
+).
+[58]
+Professor Dunlop sums up the cases by observing that:
+"It is difficult to understand how the debt can be extinguished by judgment while the collateral security can remain enforceable. On the other hand, the law makes sense if we assume that the debt survives the judgment, at least for the limited purpose of permitting action on the collateral security. Put another way this conclusion is to say that the creditor and debtor have agreed that in the event of default the creditor will have two remedies, namely, an action on the debt and the additional right to enforce the security." (Dunlop at pages 202-203)
+Key here is Professor Dunlop's analysis, based on sound precedent, that it is the remedy which merges with the judgment, leaving a debt to survive and where the creditor has more than one remedy, for example enforcement of collateral security, that survives unimpaired.
+[59]
+Professor Dunlop goes on to analyse explanations and theories as to the position of collateral security, an interesting analysis but not germane in this instance. To apply the principle of survival of the debt to sound in another remedy to the present circumstances, certainly the Bank of Scotland obtained a judgment on its debt. However the Bank of Scotland also holds a mortgage which gives rise to a claim against the res as represented by the sale proceeds of the "Nel", in effect a remedy by way of the mortgage, to be exercised, to the full amount owing, in the present priority hearing.
+(g) Ranking of the Bank of Scotland's Claim
+[60]
+I now turn to the proposition put forward by in rem claimants, who take priority below the Bank of Scotland, that there should be a departure from the usual order of priorities, so the Bank of Scotland would stand below those claimants who do not hold maritime liens.
+[61]
+I considered the equitable jurisdiction of the Court to depart from the usual ranking of maritime priorities in
+Scott Steel Ltd. v. Ship Alarissa
+, [1996] 2 F.C. 883; 111 F.T.R. 81, at 896 and following (and indeed did depart from the usual ranking of priorities in
+Ship Altantis Two
+(2000), 170 F.T.R. 1 at 51 and following). All of this is neatly summed up by Mr. Justice Richard, as he then was, who paraphrased my conclusion as to the law from
+Ship Alarissa
+(supra) when, on appeal, (1997), 125 F.T.R. 284 at 288, he said:
+"The Prothonotary stated that any change in the usual ranking of maritime priorities must be accomplished by the application of equitable principles. On his analysis of
+Atlantean I, Re
+, [1979] 2 F.C. 661, at 668 (T.D.), and
+Metaxas et al. v. Ship Galaxias et al. (No. 2)
+, [1989] 1 F.C. 368; 19 F.T.R. 108, at 423 [F.C.] (T.D.), he concluded that the usual priorities ought not to be departed from except in very special circumstances and that the powers in equity to upset the long established orders of priority should be exercised only where necessary to prevent an obvious injustice. He also considered the judgment of Mr. Justice Brandon in
+Ship Lyrana (No. 2), Re
+, [1978] 2 Lloyd's Rep. 30 (Q.B.D. Admiralty Ct.), where the test used was that of a plainly unjust result. He was of the view that the phrasing of the test pointed to a heavy onus on the part of Treasury Branches to upset the usual long-established priorities."
+To displace the Bank of Scotland from the usual position below a maritime lien and above a statutory right in rem, I must look for very special circumstances. The statutory right in rem holders submit that the Bank of Scotland ought to have moved earlier against the "Nel". They say that if that had in fact been done the suppliers of goods and services might have been put on notice and not have extended their credit. They say it is inequitable that the Bank of Scotland did not do so, for by delaying, and should the Bank of Scotland's priority remain the usual priority, the Bank of Scotland has been enriched to some degree. This principle is summed up in a passage in
+Gilmour and Black on the Law of Admiralty
+, Second Edition, 1975, Section 9-84, as follows:
+"Assuming that a mortgagee knows that his mortgagor is in solvent and also knows that the mortgagor, if he continues to operate the vessel, will necessarily run up large bills for supplies and repairs which he will be unable to pay in the ordinary course of business. If, under such circumstances, after default, the mortgagee allows the mortgagor to continue his operations, there would be good reason to hold that the mortgage had lost its priority over the post-mortgage liens. It would make no difference whether the result was rationalized in terms of laches (the prejudice to the lienors is sufficiently obvious) or in terms of subordination on equitable principles."
+Gilmour and Black
+is an American text. And while the passage was quoted with approval in
+Ship Skyptron, Re
+(1985), 621 F.Supp. 171 (La. Dist. Ct.), the test set out in
+Gilmour and Black
+would seem a somewhat easier test than that which I arrived at in
+Ship Alarissa
+. Indeed, the application of this passage from
+Gilmour and Black
+was subsequently criticized in
+Ship Alaskan Harvester
+, [1990] A.M.C. 853 (U.S. Dist. Ct.), a decision of the United States District Court out of Seattle, as being "strictly dictum" in that foreign law, not American law applied. The facts in
+Ship Skyptron
+were quite peculiar in that borrower and lender shared the same office, so that the latter "... was close enough to the action to hear the financial wolves at (the mortgagor's) door yet continued to allow the vessel and its operators to slip further into debt.". Moreover, the duration of the default in
+Ship Skyptron
+was about two years, as compared with the 27 May 1997 default by the owners of the "Nel" on the Bank of Scotland mortgage and the arrest of the "Nel" in November of 1997, some five months later.
+[62]
+Certainly, counsel for Alpha Bunkering Co. Ltd., one of the claimants in this matter, does set out warning signs, going back perhaps to the summer of 1996, indicating that the owner of the "Nel" was under pressure from unpaid creditors. Alpha Bunkering, Aktina S.A. and Ashland Chemical Company have compiled two substantial document books: some of the material in those books might be read to indict the Bank of Scotland for delay in moving on its security. As a further basis for upsetting the Bank of Scotland's priority under their mortgage, Alpha Bunkering has put much effort into a chronology of events which it submits shows that the Bank of Scotland ought to have moved earlier, at a time when other claimants either had less to loose or would have been warned, by a seizure or an arrest, not to extend further credit. Yet, in contrast, Alpha Bunkering received some $250,000 in payment for fuel in July of 1997. The position of the owners of the "Nel" might be summed up by saying that, during the time period in question, their situation was perhaps not very different from that of many other ship owners. More specifically, the owners of the fleet of which the "Nel" was a part had debts, but they also had employment for their vessels and were considering selling one of their four ships in order to procure additional cash flow. On the part of the Bank of Scotland, it was able to look to various payments to be received by Leond Maritime and here I have in mind not only the proposed sale of the Angelina L., at $1.45 million and various charter-hire payments in July and August of 1997, totalling some $450,000, as well as some $2,329,000 in charter revenue received in mid or late June of 1997.
+[63]
+Leaving aside that bankers are in business to support their customers and not to deal with fleets of non-operating ships, the arguments that the Bank of Scotland wrongfully delayed in moving against the "Nel" and related vessels is largely based upon supposition, innuendo and assumption. It is up to the party seeking upset the established order of priorities to clearly demonstrate, without the use of hind-sight, the special circumstances and the plainly unjust result. This might have been accomplished by demonstrating first that an earlier movement by the Bank of Scotland, by way of realization proceedings against the fleet, was clearly called for and second, that earlier action by the Bank of Scotland would have materially assisted the claimants. The claimants have not satisfied these criteria.
+[64]
+Also advanced as a reason for a departure from the usual priorities is the argument that the Bank of Scotland did not come with clean hands, having tried to hide a $1.7 million recovery, the so-called secret profit. Yet the evidence to show the $1.7 million recovery was there to be explored and, from the Bank of Scotland's point of view, there might be a justification, although not an objective justification. The view I take is that unless there is strong reliable evidence I ought to be slow to depart from the usual priorities. I considered this area at length in
+Scott Steel Ltd.
+(supra). Here I will touch only upon
+Metaxas et al. v. Ship Galaxias et al.
+, [1989] 1 F.C. 386; 19 F.T.R. 308 (T.D.), a decision of Mr. Justice Rouleau, who formulated the rule, which I take to be the current Canadian rule, in the words "As I understand it, my powers in equity to upset the orders of priority long established in Canadian maritime law should be exercised only where necessary to prevent an obvious injustice." (Page 423).
+Ship Galaxias
+was an instance in which the Greek government made it clear that unless the Greek Seamen's Union involved, a statutory union analogous to a Canadian Crown Corporation, was paid in full from the sale proceeds of the ship, the Greek government would not close the ship's Greek registry, thus frustrating the Court ordered transfer of the vessel to new owners. Essentially the Greek government and their Seamen's Union sought to have the Federal Court adjudicate the merits of its claim, but also intended to exert pressure "tantamount to black-mail" in the event that the Court did not recognize the claim of the Seamen's Union: page 426 of
+Ship Galaxias
+.
+[65]
+Ship Galaxias
+is a clear example of what is not the special circumstance needed to upset established priorities. While the Bank of Scotland failed in its effort to exempt a profit of $1.7 million from an accounting of realization on its mortgage security, its transgression was mild compared with that which occurred in
+Ship Galaxias
+and which did not result in priorities being upset. This failed effort to exempt a profit does not constitute a very special circumstance in which priorities ought to be departed from in order to prevent an obvious injustice.
+[66]
+Considering all of the surrounding facts I do not see any very special circumstances constituting an obvious injustice justifying a departure from the usual priorities. To say the Bank of Scotland ought to have moved earlier, say in August of 1997, immediately after Alpha Bunkering received some $250,000 in payment from owners, places far too high a standard of hind-sight on the Bank of Scotland. In instituting the present in rem action, 12 November 1997, the Bank made a reasonable decision. I am not prepared, in this instance, to displace the usual priority which the Bank of Scotland ought to be accorded.
+(h) Summary of Amounts Payable to the Bank of Scotland
+[67]
+The Bank of Scotland is entitled to claim the amount as presented on 4 January 1999, less various deductions, but augmented by payments made on account of crew wages and costs of sale.
+[68]
+To be more specific the Bank claimed a total, principle on the loan, loan account and distress payments and accrued interest, as of 4 January 1999, in the amount of $14,124,420.50, together with crew wages and sale costs of $71,067.09, a total of $14,195,487.59.
+[69]
+The first deduction is the "Blue L." resale recovery of $1,665,249.40, leaving a balance of $12,530,238.19. From this sum there must also be a deduction for various amounts received from the sale of the balance of the fleet, including the advance received on the "Nel", a total of $10,211,397. This reduces the Bank's claim, under its fleet mortgage, to $2,318,841.19. This is clearly in excess of any amount which might be left over on the sale of the "Nel" after prior claimants have been paid. Thus the Bank of Scotland is entitled to any surplus after payment out of such claims as stand ahead of it.
+[70]
+As to interest, it would continue to run on the mortgage on the rate agreed between the Bank of Scotland and its customer. As to the wage and sale costs item, interest would run at 7% to 3 December 1997 and thereafter at the average rate on the sale proceeds of the "Nel" as held in the interest bearing account.
+Claim of Alpha Bunkering
+[71]
+Alpha Bunkering, of Piraeus, Greece, at the request of Mr. Liondaras, said to be the directing mind of the owners of the "Nel", supplied bunker fuel through a subcontractor at Balboa, Panama, on 27 July 1997, in the amount of $168,174.53. Alpha Bunkering takes the position that the supply of bunkers resulted in a maritime lien either under Panamanian or American law.
+[72]
+I have considered the expert affidavit of Daniel Tadros, filed on behalf of Alpha Bunkering and also the expert affidavit of Alan Pragg, filed on behalf of Ashland Chemical Company, which has bearing not only on the claim of Ashland, but also upon the claim of Alpha Bunkering. I have also considered, but rejected, the view of Juan Morgan, who was of the opinion that Panamanian law gave the specific maritime lien which ought to be relied upon for fuel supplied. I have concluded, on the basis of the jurisdiction clause of the subcontractor who supplied the fuel which the owner of the "Nel" ordered from Alpha Bunkering, that American law applies and Alpha Bunkering holds a maritime lien. All of this requires a fuller explanation.
+[73]
+The request for bunkers for the "Nel", to be supplied in Panama, came from owners and was confirmed by Alpha Bunkering, of Piraeus, in a telex of 25 July 1997. The telex specifically noted that the supply was subject to the local terms and conditions of the fuel agent who would make the actually physical delivery. Alpha Bunkering arranged for the supply of fuel through Costal Refining and Marketing Inc., an American company, which had its Panamanian subsidiary, Costal Energy of Panama Inc., physically supply the fuel.
+[74]
+Here I should touch briefly upon the Alpha Bunkering invoice of 12 August 1997 for the supply of fuel to the "Nel", in the amount of $168,174.53 which, by the confirmation of bunkering nomination, was payable within 45 days. Interest is claimed at 2% per month as deposed to by Mr. Karatza, a Director of Alpha Bunkering. The interest rate is also confirmed by the amount of the post-dated cheque, later dishonoured, written for the bunkers by the owner of the "Nel".
+[75]
+Alpha Bunkering takes several approaches to establishing a maritime lien, first under Panamanian law, second under contractual terms, and third under American law. I accept that the supply of bunkers in Panama gives rise to a maritime lien under article 1507 of the
+Commercial Code of Panama
+. However, the parties to the transaction stipulated American law to apply, thus negating the effect of the
+Commercial Code of Panama
+.
+[76]
+Alpha Bunkering's experts rely upon in the standard provisions of Coastal Energy of Panama Inc. as to the application of American law and a contractual maritime lien, in the following passage:
+"Buyer, on behalf of itself and the owner of the vessel, represents and agrees that the delivery of marine fuel oil hereunder to the vessel shall create a valid maritime lien in favour of Seller. This agreement, its performance and enforcement shall be governed and determined by the maritime law of the United States of America, regardless of the law of the forum in which any proceeding is instituted relating to this contract or to any vessel to which deliveries are made hereunder."
+Alpha Bunkering also referred to two bunkering certificates, one for a small amount of light oil and the other for bunker fuel, both signed by either the Master or the Chief Officer. Those bunkering certificates incorporate both American law and the terms of Costal Energy of Panama Inc. and specifically refer to a maritime lien against the "Nel".
+[77]
+Suppliers of marine fuel, who often, in order to compete, extend credit to ship owners, are wise to the advantages they might gain (and perhaps one day have to rely upon) through a maritime lien for the price of the fuel. Among the ways that a maritime lien may be obtained are through supplying fuel in a jurisdiction favourable to the fuel supplier or through the order being routed through a jurisdiction which will result in a maritime lien, or perhaps by contracting for such a lien. Here I would note specifically that an off-shore necessaries supplier, such as a supplier of fuel, operating from a jurisdiction which does not grant maritime liens for necessaries, using an American agent, who in turn supplies the actual necessaries in an off-shore port, may claim an American maritime lien, a concept extensively explored in
+Fraser Shipyard and Industrial Centre Ltd. v. The Atlantis Two
+(supra) at page 27 and following. There I accepted the view of Charles S. Donovan of the Walsh Donovan firm in San Francisco and indeed set out a portion of his affidavit of expert evidence, by which he concluded and I accepted that a Norwegian necessaries suppliers, operating through an American agent, had a maritime lien whether or not the necessaries were supplied at an American port. This is consistent with expert evidence filed by claimants in the present proceeding.
+[78]
+There is one point in opposition to the priority of Alpha Bunkering's claim that must be touched upon. The American law expert retained by the Bank of Scotland, Alfred Yudes Jr. of New York, sets out that while a necessaries supplier in the United States has a maritime lien, with a priority ahead of a foreign preferred mortgage, the situation is different when the necessaries are furnished outside the United States. The maritime lien for necessaries delivered outside the United States ranks after a foreign preferred mortgage. In general principle here, well established, is that only a limited number of so-called American maritime liens out-rank a mortgage. One might categorize American maritime liens as preferred American maritime liens and an ordinary American maritime lien, however the latter is not analogous to our statutory right in rem. The answer to this issue may be found in
+Ship Strandhill, Re
+, [1926] S.C.R. 680 and in
+Ship Ioannis Daskalelis
+, [1974] 1 Lloyd's 174 (S.C.C.).
+[79]
+Canadian courts, dealing with American in rem claims, have determined the substantive right that is being brought into the jurisdiction and have then placed that right in an appropriate position in the Canadian framework of priorities, generally a fairly basic mechanical process. However one should look closely at the American maritime lien.
+[80]
+The lien under which Alpha Bunkering claims is not a preferred maritime lien, both I think in the sense that it attached after the Bank of Scotland's mortgage was registered: see for further material on this Tetley's Second Edition of
+Maritime Liens and Claims
+at page 875. Further, according to Mr. Yudes, the maritime lien for necessaries furnished offshore similarly stands behind a preferred mortgage.
+[81]
+The Supreme Court dealt with a maritime lien which was not a preferred lien in
+Ship Ioannis Daskalelis
+, where the vessel was encumbered by a prior mortgage. On this basis the lien of Todd Shipyards Corporation, which it sought to enforce in Canada, was not a preferred maritime lien. The Supreme Court of Canada recognized that the maritime lien did not take priority over a mortgage in the United States, yet the American priority did not form a part of the Court's decision. The Court merely recognized the right as a maritime lien and then placed that right in the Canadian priorities framework. In the present instance I recognize the lien claimed by Alpha Bunkering as a maritime lien, travelling with the ship. In the Canadian system of priorities, while the Alpha Bunkering lien is not a preferred maritime lien, it still ranks ahead of the Bank of Scotland's mortgage.
+[82]
+I have considered various of the other points raised by Mr. Yudes, in his Affidavit. They are in some instances arguable points and in other instances issues of fact which it is for this Court to determine. Overall I prefer the views of Daniel Tadros and of Alan Van Praag, on whose expert opinions Alpha Bunkering relies.
+[83]
+To summarize the recovery of Alpha Bunkering from the sale proceeds of the "Nel", it is $168,174.53 principle, together with interest at 2% per month from 26 September 1997, being 45 days after the invoice date of 12 August 1997.
+Claim of Aktina S.A.
+[84]
+Aktina S.A. of Piraeus, Greece, is a travel agent. It's business includes the supply of air travel tickets for the movement of both crews and ship company personnel to and from ships, on a worldwide basis.
+[85]
+On 19 August 1996, Aktina and Leond Maritime Inc., owners of the fleet of which the "Nel" was a part, entered into an agreement, styled as a "Cooperation Agreement" whereby, on instructions from Leond, Aktina would organize travel and purchase tickets. Leond was to pay accounts promptly, by the 15
+th
+of the month for tickets supplied in the previous month, failing which any discounts would be cancelled. This agreement sets out a ticketing supply and payment procedure which, if adhered to by the parties, would result in a pure in personam claim, with no in rem facet to give rise to a maritime lien. This does prove an answer, however the claim also deserves further exploration.
+[86]
+Aktina was left with an outstanding account of 198,738,600 drachmas, being $692,206.54. Against this total claim Aktina has made recovery in relation to the "Anna L." and has recouped $98,650 on the "Blue L." claim, now abandoning that claim. Thus the claim of Aktina is now presented at approximately $530,000. However, most of that account was for crew movement to and from other vessels, said to be sister ships. Only $57,938.56 relates to crew movement associated with the "Nel".
+[87]
+Aktina says that the ships in relation to which it supplied tickets were 9 vessels managed by Leond Maritime Inc., the "Nel", "Blue L.", "Anna L.", "Angelina L.", "Katrina L.", "Enarxis", "Margo L.", "Sea L." and "Nikolaos L." Aktina admits that each of the nine ships operated by Leond was owned by a separate company, but submits, on the basis of an oral representation made by Mr. Leondaras to Mr. Zerzivilis, managing director of Aktina, that they were all beneficially owned by Mr. Efstratios Leondaras. This was apparently done in conjunction with a Debt Recognition Agreement of 10 October 1997 given by Mr. Leondaras on behalf of each of the nine ship owning companies. The agreement does not specifically set out the ownership of the companies or that the vessels are sisterships. It does, however, provide, in the certified translation, that the companies are jointly and severally liable for the entire debt: there is no in rem aspect to the agreement.
+[88]
+On the basis of
+Ship Ioannis Daskalelis
+(supra) an offshore maritime lien may be brought into Canada to be enforced procedurally as a maritime lien even though the services rendered or the necessaries supplied giving rise to the offshore maritime lien would not give rise to a maritime lien in Canada.
+[89]
+In the present instance all of the factors involved the parties to this enterprise, to provide airline tickets, are connected with Greece save that several of the ships, including the Nel, were registered in Cypress. I am satisfied that the proper law of the contract, between Aktina S.A. and Leond, is Greece.
+[90]
+Aktina submits that in the case of crew change requirements, either the master or personnel from Leond Maritime Inc. would determine what crew changes were required and then Leond would make the travel arrangements with Aktina S.A. Aktina goes on to advise that while they do not have access to the documents of Leond, it would in their view be common for the master of a ship to fax crew change requirements to Leond, which would then make the appropriate arrangements with Aktina. Further that crew engagement contracts would typically be made between the master of each vessel and each crew member. All of this, except the evidence that Leond would make the actual travel arrangements with Aktina, while perhaps possible, is pure conjecture.
+[91]
+Aktina relies upon the expert affidavit as to law of Rania Vilentis, who practices in the areas of maritime, admiralty, commercial and banking law. I accept that she is qualified as an expert in the relevant area, that is as to maritime liens under Greek law.
+[92]
+Mrs. Vilentis sets out various claims recognized under the Greek
+Code of Private Maritime Law
+, Article 205, as maritime liens, ranking ahead of a mortgage, however the supply of necessaries does not appear to fall within Article 205. Mrs. Vilentis goes on to say that claims in addition to those set out in Article 205 are considered as maritime liens under Greek law so long as they fall within Article 2 of the
+International Convention for the Unification of Certain Rules Relating to Maritime Liens and Mortgages
+, being the
+Brussels Convention
+of 10 April 1926. Article 2 of the
+Brussels Convention
+provides, in part:
+"The following give rise to maritime liens on a vessel, on the freight for the voyage during which the claim giving rise to the lien arises, and to the accessories of the vessel and freight accrued since the commencement of the voyage: ...
+(5) claims resulting from contracts entered into or acts done by the master, acting within the scope of his authority, away from the vessel's home port, where such contracts or acts are necessary for the preservation of the vessel or the continuation of its voyage, whether the master is or is not at the same time owner of the vessel, and whether the claim is his own or that of ship-chandlers, repairers, lenders or other contractual creditors."
+[93]
+In support of proposition that Article 2 of the
+Brussels Convention
+is incorporated into Greek law, Mrs. Vilentis provides an extract from a Greek Supreme Court decision. This decision, identified as No. 229 of 1983 sets out, relying upon earlier decisions, apparently of a Greek Court of Appeal, that where an offshore company sells and delivers to the master of a ship, the master acting within the scope of his authority, food, material and supplies, so that the ship may be preserved and continue on its voyage, the supplier enjoys a lien ranking ahead of a preferred mortgage.
+[94]
+A contrary view is expressed by Mr. Gregory Timagenis, whom I accept as a very well qualified expert on Greek maritime law. Mr. Timagenis was retained by the Bank of Scotland. He sets out that there are no maritime liens under Greek law other than those enumerated in Article 205 of the Greek
+Code of Private Maritime Law
+. I paraphrase those four types of liens as first, Court expenses and navigation taxes as well as maintenance costs before a Court ordered auction; second, the claims of master and crew; third, salvage; and fourth, compensation payable as a result of collision. He also is of the view that the 1926
+Brussels Convention
+and particularly Article 2(5) has been applied by the Greek Courts with great caution and narrow interpretation. On comparing what Mr. Timagenis has to say with what Mrs. Vilentis sets out in her material, I am inclined to accept the former. However, for the sake of argument, I will accept the proposition set out by Mrs. Vilentis, that the
+Greek Maritime Code
+is not exhaustive and that the
+Brussels Convention
+applies, to see where it lead. Even accepting her premises, the argument, as we shall see, does not assist Aktina.
+[95]
+There are two problems which go to the root of the formation of a maritime lien and therefore prevent a maritime lien from arising under Article 2(5) of the
+Brussels Convention
+of 1926. First, the cooperation agreement under which tickets are provided by Aktina to Leond Maritime Inc. is specific: tickets will issue only "under telephone or other (written) order of Leond Maritime Inc.". The master has no right to request tickets from Aktina and thus the master cannot contract or act in any way which might bring into play Article 2(5) and thus trigger a maritime lien.
+[96]
+Second, Article 2(5) of the 1926
+Brussels Convention
+requires, to establish a maritime lien, that the necessaries must have been ordered by the master. Here I would note that the case law referred to by Mrs. Vilentis, the expert put forward by Aktina, is in terms of goods having been sold and delivered to the master and in terms of contracts made or works executed by the master. I would also note that there is case law out of France, which ratified the
+1926 Brussels Convention
+and which makes it clear that a maritime lien for necessaries hinges upon whether or not the necessaries were ordered by the master: see for example the First Edition (1985) of
+Tetley on Maritime Liens and Claims
+, Business Law Communications Ltd., London, at page 258.
+[97]
+To return to and to summarize what Mrs. Vilentis has to say, it is that the proper law of the contract, between Aktina S.A. and Leond Maritime, is Greek law and that, by reason of Article 2, paragraph 5 of the
+Brussels Convention
+, as interpreted by the Greek Courts, a supplier of necessaries ordered by the master acting within the scope of his authority, but supplied at some foreign port, has a maritime lien. The difficulty with this analysis is the application of Article 2 subsection 5 of the
+1926 Brussels Convention
+to the present facts. While Mrs. Vilentis is of the view that Aktina has a maritime lien the application of the
+Brussels Convention
+to the given facts has nothing to do with Greek law. Rather it is for me to determine. The material does not establish that the airline tickets were in fact ordered by the master in each or any instance. The best face that Aktina is able to put on this is that it is the understanding or belief of Mr. Hatziyiannis, Financial Director of Aktina, that the master of each ship and/or personnel at Leond Maritime would determine the necessary crew change requirements and then make travel arrangements with Aktina and that it would be common for masters of ships to fax crew change requirements to Leond Maritime, which would then make the necessary arrangements with Aktina S.A. Aktina goes on to rely on the fact that the crew engagement contracts were made between masters of each vessel and each crew member, which I take to be the signing of ship's articles, or a ship's employment contract. This is set out in paragraph 15 and 16 of the 30 December 1997 Affidavit of Mr. Hatziyiannis, as follows:
+"15. It was my understanding that the master of each ship and/or personnel at Leond would determine the necessary crew change requirements for each ship and then Leond would make the necessary travel arrangements with Aktina S.A. for the movement of the crew members. Aktina S.A. does not have access to the documents of Leond, but it would be common for the master of the ship to fax crew change requirements to Leond which would make the necessary arrangements with Aktina S.A. As support to the above is the fact that the relevant crew engagement contracts were made between the Masters of each respective vessel and each crew member.
+"16. It was undoubtedly the case that crew changes, either moving crew member/sup. engineer and repairer to the ships, or repatriating crew members/sup. engineers/repairers from the ships, would be necessary for the safe operation and preservation of the vessel and of course the continuation of voyages. It is clear that a ship cannot operate without a proper crew and/or in an unseaworthy condition. The crew changes and embarkation of the sup. engineers and repairers would of course also be noted in the log books of the vessels indicating the dates of arrival and departure of each of the various crew members, and other persons. Also the crew members will be indicated in the respective Masters' General Accounts (M.G.As) and the correspondence exchanged by the Master and Leond."
+I do not take this to be evidence that in fact the master of the "Nel", or of any ship, entered into a contract with Aktina for the supply of airline tickets. At best it is a hope that the master might have ordered the airline tickets. This is not enough, for a maritime lien being, in a sense, an exceptional remedy, there ought to be clear evidence as to how it has arisen within the wording of Article 2(5) of the
+Brussels Convention
+. Here there are hopes, on the part of Aktina, as to how the lien might have arisen, by way of speculation that the master, in each instance, would determine crew change requirements and that somehow, through Leond Maritime ordering plane tickets, this might bring the claim within the
+Brussels Convention
+and result in a maritime lien. This hope and indeed speculation, is insufficient to bring the supply of airline tickets clearly within Article 2(5) of the
+Brussels Convention
+, which requires that there be "contracts entered into or acts done by the master, acting within the scope of his authority, ...".
+[98]
+Rather than being a claim in rem, based on a maritime lien, it may even be a claim in personam under the cooperation agreement between Aktina and Leond Maritime. The Debt Recognition Agreement of 10 October 1997 is of no help for it has no in rem aspect, but merely provides an acknowledgment, by each ship owning company, that it owes a debt for airline tickets. Thus, there is no indication that Aktina ever looked to the ships themselves as security.
+[99]
+Given that Aktina assisted Leond Maritime Inc. in staying in business by extending substantial credit for crew member movement and that Aktina S.A. tried, in a reasonable way, to protect itself through in personam agreements, it is with some regret that I deny its claim to a maritime lien against the "Nel". If Aktina has some species of in rem claim at all, it is one coming behind that of the Bank of Scotland as mortgage holder. As to the balance of its claim, based on sistership theory, Mrs. Vilentis makes a statement that "under Greek Law substantive maritime liens can be exercised against sisterships.", but does not elaborate. However the basis set out by Aktina for the maritime liens, against those ships said to be sisterships of the "Nel", is no better than the basis claimed for the maritime lien against the "Nel" herself. Thus I do not have to deal with the sistership claim by Aktina.
+Claim of Ashland Chemical Company
+[100]
+Ashland Chemical Company, to whom I shall refer as Ashland, produces and supplies chemicals necessary for the operation of seagoing ships, here the "Nel" and sisterships. The chemicals include refrigeration gases, oxygen and acetylene, fuel and water treatment products and cleaning products. These necessaries were supplied to the ships, by sale to the master and or the owner of each named ship, at American ports, Canadian ports and foreign ports. Ashland claims maritime liens totalling $88,168.59 of which $9,712.88 is claimed against the "Nel". The terms of supply were net 30 days. Ashland seeks interest of whatever rate the Court will allow. All of the sale and deliveries were subject to the laws of the United States.
+[101]
+I accept as established and well known law, here as verified by Ashland's expert, Alan Van Praag, that under the
+Federal Maritime Lien Act
+, 46 U.S.C. 971, as interpreted by the Courts, when necessaries are supplied to a ship by or through an American supplier, whether at an American port or elsewhere, a maritime lien arises in favour of the supplier.
+[102]
+That Ashland has a claim of maritime lien against the "Nel", for $9,712.88, enforceable under the
+Federal Court Act
+and by virtue of
+Ship Ioannis Daskalelis
+(supra),
+Marlex Petroleum Inc. v. Ship Har Rai et al.
+, [1984] 2 F.C. 345; 53 N.R. 1 (C.A.), affd. [1987] 1 S.C.R. 57; 72 N.R. 75 and
+Ship Galaxias
+(supra), is irrefutable. The more interesting issue is whether Ashland's claim of maritime lien against nine other ships, said to be sisterships to the "Nel", is also enforceable, as maritime liens, against the "Nel".
+[103]
+At the time I heard this matter I had begun drafting reasons in
+Ship Atlantis Two
+(supra), in which I had already come to a preliminary conclusion as to the enforcement of an American lien against a sistership under the
+Federal Court Act
+, although those reasons were not released for a number of months. While Mr. McEwen, who acts here for Ashland, was among the counsel involved in the
+Atlantis Two
+, he there acted for the mortgagee and thus I did not have the benefit of his views in favour of enforcement of an American maritime lien in a sistership context. I heard nothing in argument on this issue during the hearing of the "Nel" to change my preliminary conclusion. Thus my decision here parallels that in
+Ship Atlantis Two
+(varied as to an unrelated claim (1999), 170 F.T.R. 57).
+Ship Atlantis Two
+is a decision with which Mr. Justice MacKay agreed in the
+Brussel
+(supra). I will therefore paraphrase what I said in
+Ship Atlantis Two
+, in my view the only conclusion which one might come to under the Canadian legislation: it is perhaps an unfortunate result because it decreases the usefulness of our sistership procedure, not overall a good thing as Canada, as a nation, is not an owner of ships, but depends upon foreign bottoms for its international trade.
+[104]
+In the "Nel", as in the
+Atlantis Two
+, I was not referred to any case law dealing with the enforcement of a substantive American maritime lien, against a sistership, using Federal Court sistership procedure.
+[105]
+An American maritime lien grants the privilege of a substantive right in property, against a given ship, a right that travels with the ship, unconditionally, until it is discharged. It is this substantive right which is the foundation of the American in rem proceeding, for the lien is separate and apart from any action in personam. This concept and the underlying theory of the American maritime lien is based on the personification of the ship, a theory which is opposed to the English and Canadian procedural theory. It is set out in both
+Price on the Law of Maritime Liens
+, 1940, Sweet & Maxwell Limited, London, at page 115 and following and also in
+Parks on Tug and Tow
+, Third Edition, 1994, Cornell Maritime Press, at 784 and following.
+[106]
+The maritime liens which Ashland brings into Canada to enforce under Canadian sistership procedure are rights against given ships, as opposed to substantive rights which might from time to time be attached to some other ships. This now brings us to the operative Canadian legislation.
+[107]
+Sistership procedure is set out in section 43(8) of the
+Federal Court Act
+:
+"(8)
+Arrest
+– The jurisdiction conferred on the Court by section 22 may be exercised in rem against any ship that, at the time the action is brought, is beneficially owned by the person who is the owner of the ship that is the subject of the action."
+Section 22 of the
+Act
+, referred to in section 43(8) sets out the general maritime jurisdiction of the Court over navigation and shipping:
+"22(1)
+Navigation and shipping
+– The Trial Division has concurrent original jurisdiction, between subject and subject as well as otherwise, in all cases in which a claim for relief is made or a remedy is sought under or by virtue of Canadian maritime law or any other law of Canada relating to any matter coming within the class of subject of navigation and shipping, except to the extent that jurisdiction has been otherwise specially assigned."
+Section 22(2) then goes on to set out specific but non-exhaustive examples of the jurisdiction that is included in section 22(1) and particularly relevant in the present instance is section 22(2)(m):
+"(m) any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage;"
+This jurisdiction over goods and services, in essence necessaries, may be enforced as a statutory right in rem as provided for in section 43(2) of the
+Act
+. This statutory right in rem arising out of a necessaries claim has a priority coming after maritime liens and after mortgages.
+[108]
+A substantive American maritime lien does not fit into the sistership framework set out in section 43(8) of the
+Act
+, for that section merely refers to the jurisdiction conferred by section 22 of the
+Act
+as being enforceable in rem against the sistership. It is not a right or privilege against one ship being enforced against another ship. These provisions would only be of assistance to an American maritime lien holder if there were parallel sistership legislation in the United States which might enable such a claimant to bring into Canada a full blown maritime lien against the sistership.
+[109]
+In Mr. McEwen's analysis on behalf of Ashland is primarily focussed on distinguishing
+Hollandsche Aannaming Maatschappij B.V. v. Ship Ryan Leet et al.
+(1998), 135 F.T.R. 67 (T.D.), in which Mr. Justice Rothstein, as he then was, defined "owner" in section 43(8) of the
+Federal Court Act
+, in a narrow way, limiting it to a registered owner and rejecting the idea of beneficial ownership, thus in most instances, insulating a corporate owner which holds its ships in many one-ship companies from the effect of the sistership provision. The analysis leading to distinguishing this case begins with an examination of the
+International Convention for the Unification of Certain Rules Relating to the Arrest of Seagoing Ships
+better known as the
+Brussels Convention for the Arrest of Seagoing Ships of 1952
+and to which I will refer as the
+1952 Convention
+.
+[110]
+Canada has not ratified the
+1952 Convention
+. However, the Supreme Court of Canada has pointed out that it may be appropriate to look at such a convention when interpreting domestic legislation, even if the domestic legislation is not ambiguous on its face. In
+National Corn Growers' Association et al. v. Canadian Import Tribunal
+, [1990] 2 S.C.R. 1324; 114 N.R. 81, at 1371-1372, the Supreme Court specifically rejected the suggestion of the Federal Court of Appeal "... that recourse to an international treaty is only available where the provision of the domestic legislation is ambiguous on its face...". I considered the
+1952 Convention
+in interpreting section 43(8) of the
+Federal Court Act
+in
+Ssangyong Australia Pty. Ltd. et al. v. Ship Looiersgracht et al.
+, [1995] 2 Lloyd's Rep. 411; 85 F.T.R. 265 (T.D. Protho.), at 413:
+"Sistership status under art. III of the
+1952 Convention
+is defined in terms of ownership of all of the shares in both ships, by the same person or persons, with the relevant time when the claim arose. In contrast, beneficial ownership, under the
+Federal Court Act
+, may be much broader than the 1952 Convention concept of legal ownership and further, the operative time of beneficial ownership in Canada is when the action is commenced."
+Here I touched upon the fact that the Federal Court legislation, involving beneficial ownership, might be much broader than the
+1952 Convention
+concept of legal ownership. Indeed, in this context, Mr. McEwen points out that section 12 of the
+Interpretation Act
+, R.S.C. 1985, c. I-21, specifically directs that enactments are deemed remedial "... and shall be given such fair, large and liberal construction and interpretation as best insures the attainment of its objects.". In
+Ship Looiersgracht
+I referred to a similar broad and liberal interpretation at page 414.
+[111]
+Mr. McEwen submits that the reference to "owner" in section 43(8) of the
+Federal Court Act
+refers to the entity or individual who may actually exercise proprietary rights over the subject vessel and that no distinction between beneficial ownership of a sistership and legal ownership of the ship that is the subject of the action was intended. Here I acknowledge Mr. McEwen's submission that there is ample evidence that the Leond Maritime ships were under common ownership.
+[112]
+Before dealing with the
+Ryan Leet
+Mr. McEwen refers to the interpretation given to "beneficial ownership" in
+Mount Royal/Walsh Inc. v. Ship Jensen Star et al.
+, [1990] 1 F.C. 199; 99 N.R. 42 (F.C.A.), where Mr. Justice of Appeal Marceau referred to beneficial ownership at page 210:
+"In my view, the expression 'beneficial owner' was chosen to serve as an instruction, in a system of registration of ownership rights, to look beyond the register in searching for the relevant person. But such search cannot go so far as to encompass a demise charterer who has no equitable or proprietary interest which could burden the title of the registered owner.
+As I see it, the expression 'beneficial owner' serves to include someone who stands behind the registered owner in situations where the latter functions merely as an intermediary, like a trustee, a legal representative or an agent.
+" (emphasis added)
+In Mr. McEwen's analysis this brings us to
+Ship Ryan Leet
+.
+[113]
+In
+Ship Ryan Leet
+the term "owner", in the context of section 43(8) of the
+Federal Court Act
+, was held to refer only to the registered owner. In the result the right of sistership arrest can only be invoked where the ship sought to be arrested is beneficially owned by the registered owner of the ship that gave rise to the obligation that is the cause of action. Here I would note that the effect of this is that an owner may defeat the whole idea of sistership arrest by placing each ship in a separate company, even though each separate company is owned by the same parent company. This I think is contrary to the intention of Parliament, that sistership legislation not be so easily defeated. It is an aspect which I had very much in mind in
+Ship Looiersgracht
+at page 415:
+"... while there may be legitimate reasons for one-ship companies, some shipowners have gone to very ingenious ends to disguise a whole fleet by means of one-ship companies to avoid sistership legislation and responsibilities."
+This, I fear, is what has happened in the present instance, the whole Leond fleet being in separate one-ship companies.
+[114]
+The approach in
+Ship Ryan Leet
+was a narrow construction based on the plain meaning of the word "owner" and the fact that section 43(8) of the
+Federal Court Act
+contains reference both to beneficial owner and to owner. However, in
+Sommers v. Canada
+, [1959] S.C.R. 678, Mr. Justice Fauteux, who delivered the judgment of the Court, touched upon the interpretation principle that the use of the same term implies the same meaning and that the use of a different term implies a different meaning and concluded that:
+"This rule of interpretation is only tantamount to a presumption, and furthermore, a presumption which is not of much weight." (page 685)
+Indeed, more recently the Supreme Court of Canada has made it clear that the plain meaning approach, as opposed to the modern contextual approach, is incorrect: see
+2747-3174 Quebec Inc. v. Régis des permis d'alcool du Québec et autres
+, [1996] 3 S.C.R. 919; 205 N.R. 1.
+[115]
+In
+2747-3174 Quebec
+Mr. Justice Gonthier, delivering the judgment of eight of the nine members of the Court, opted for a modern approach considering not only the words themselves, but also their context, other provisions in the statute and provisions in other statutes, together with legislative history, in order to correctly identify the objective of the legislature. It was only after considering the provisions with all of these elements in mind that a definition might be decided upon and in setting out that view of interpretation Mr. Justice Gonthier notes that it is "... a synthesis of the contextual approaches that rejects the 'plain meaning' approach.". He went on to point out that "this 'modern' interpretation method has the advantage of bringing out the underlying premises and thus preventing them from going unnoticed, as they would with the 'plain meaning' method." (pages 1002-1003). This leads to counsel's submission that in
+Ship Ryan Leet
+, the interpretation of "owner" in section 43(8) of the
+Federal Court Act
+, to mean "registered owner" was on the basis of the definition of owner in the
+Canada Shipping Act
+and section 15(2)(b) of the
+Interpretation Act
+(supra), together with an assumption that the two enactments were in relation to the same subject-matter. Here
+Ship Ryan Leet
+analysis does not take into account the difference in purpose between section 43(8) of the
+Federal Court Act
+, which extends jurisdiction and remedies available to a plaintiff in a Federal Court maritime action, and the various legislative purposes of the
+Canada Shipping Act
+, there principally as to the registration of ships.
+[116]
+Ship Ryan Leet
+perhaps also placed undue reliance on
+Ship Evpo Agnic, Re
+, [1988] 2 Lloyd's Rep. 411 (C.A.). In
+Ship Evpo Agnic
+at issue was the arrest provision, section 24(4) of the
+Supreme Court Act
+of 1981 which involved the distinction between an owner and a person in control of a ship. This is quite different from section 43(8) of the
+Federal Court Act
+, for there is no distinction between an owner and the person in control, as in the English legislation, so as to introduce a distinction between a registered owner and a de facto ship owner who in fact has both the ultimate control over the ship and the enjoyment of the rights of ownership. The submission here is that the lack of qualification of the word "owner" should accordingly be interpreted as incorporating the concept of ownership in the broad sense, rather than in a narrow sense of legal or registered ownership. Indeed, in
+Ship Jensen Star
+(supra) the Court of Appeal, noting distinctions between the British legislation and the Canadian legislation dealing with in rem jurisdiction, pointed out that "a passive importation of the English case law would no doubt be unwarranted." (page 2080). This leads to a distinction between the situation in
+Ship Ryan Leet
+and the situation here. In
+Ship Ryan Leet
+the registered owners involved were genuine operating companies, with one company owning the other. In the present case Mr. McEwen suggests and I acknowledge that he is correct, that the registered owners of the Leond Maritime fleet are sham companies and that the operating company for all of the ships is Leond Maritime Inc. In
+Ship Ryan Leet
+Mr. Justice Rothstein was unwilling to take what he viewed as a radical departure and pierce the corporate veil in order to provide a sistership remedy, but went on to say, in a footnote that:
+"Perhaps if separate corporate ownership of ships was seen to be a fraud or a sham, a court might be prepared to bridge the gap between the two companies."
+[117]
+The present case is distinguishable from
+Ship Ryan Leet
+, for the registered owning companies are mere shell or sham companies disguising the fact that the true ownership is that of Leond Maritime Inc. At this point I agree that Ashland might enforce all of its claims, sistership and otherwise, against the "Nel", but do not agree that those claims arising out of necessaries supplied to other ships may be enforced here against the "Nel" as maritime liens.
+[118]
+Mr. McEwen, quite correctly, comes to the conclusion that the issue of the transferability of a maritime lien to a sistership had not then been directly decided, distinguishing
+Ship Leoborg (No. 2), Re
+, [1964] 1 Lloyd's Rep. 380 (H.C. Adm.), where the point was expressly left open, as it was not argued (page 382).
+Jackson on Enforcement of Maritime Claims
+, Second Edition, 1998, at page 391, is of the view that a maritime lien is confined to the ship involved in the claim and thus is enforceable against a sistership only as a statutory lien, but cites no authorities. Certainly that is the view of
+Tetley on Maritime Liens and Claims
+, Second Edition, 1998, International Shipping Publications of Montreal, at page 1032:
+"Sister ship arrest is really an attachment, in this case, an attachment of the sister ship. Like an attachment, the sister ship arrest does not mean that the maritime lien against the offending ship becomes enforceable against the sister ship. For example, a claimant who may have a maritime lien for collision damage against the offending ship, does not obtain an equal maritime lien against the sister ship. Only the offending ship is subject to the maritime lien. The claimant who enforces his security against the sister ship ranks after all the maritime liens extant against the sister ship, as is only proper, because the rights of the lien holders against the sister ship must be respected. The claimant against the offending ship really has only a statutory right in rem, or something akin to an attachment, on the sister ship."
+This passage, concluding that only the offending ship is subjected to a maritime lien and that the sister ships to a statutory right in rem, akin to an attachment, does have the weakness that is based on
+Ship Beldis, Re
+, [1936] P. 51 and
+Ship Julindur
+(1853), 1 Sp. Ecc. & Ad. 71; 164 E.R. 42, both decided before sistership legislation was enacted.
+Ship Acrux
+, [1965] P. 391, also relied upon by Mr. Tetley, dealt with maritime liens arising under foreign law which did not have a counterpart under English law.
+Ship Acrux
+was disapproved in
+Ship Galaxias
+(supra) at pages 412-413, as inconsistent with Canadian maritime law. All of this is, however, an indication that the offending ship is the only ship subject to the maritime lien, a conclusion reached in
+Ship Atlantis Two
+(supra) by going back to a basic analysis.
+[119]
+I would not normally deal with cases decided after a matter was argued, without going back to counsel to ask for further argument. However, in this instance, the claim of Ashland received a full hearing at the time and I think there was nothing further to be said and all the more so given Mr. Justice MacKay's view in
+Ship Brussel
+(supra), that a maritime lien forms a privileged claim against the specific ship, arising by operation of law. It attaches to the particular ship. He rejected the idea that the
+Federal Court Act
+ought to be construed to allow maritime lien holders with a claim against one ship to have the same priority as a maritime lien in relation to a sistership arrested in Canada. He felt that such an interpretation could not be given in the absence of legislation and then went on to quote from
+Ship Atlantis Two
+:
+"[92] ... the substantive American maritime lien does not fit into the sister ship provision, section 43(8) of the
+Act
+, which merely refers to the jurisdiction conferred on the Court by section 22 of the
+Act
+, an in personam jurisdiction, as being enforceable against a sister ship, not a right or privilege against one ship being enforced against another ship. If American maritime lien holders wished to use the sister ship procedure here in Canada they would need sister ship legislation in the United States to enable them to bring into Canada a full blown maritime lien against the sister ship.
+"[93] Of course, a lien holder, assuming he or she also had an in personam right against a shipowner and assuming that shipowner was the owner of not only the wrongdoing or debtor ship, but also the sister ship or ships at the relevant time, might bring that in personam right into Canada and enforce it, procedurally, against one or more of the sister ships. However the priority of such a claim would then only be that of a statutory right in rem, of no assistance here, given the limited sale proceeds involved." (page 30)
+[120]
+This leads to the conclusion that someone in the position of Ashland may enforce its claims against vessels related to the "Nel", against the "Nel", under the sistership provision in the
+Federal Court Act
+, but that when so enforced they do not have the same status as a maritime lien. They are enforced as statutory rights in rem, with a priority falling below that of a mortgage holder.
+[121]
+Counsel for Ashland then goes on to submit, in the alternative, that the claim of the Bank of Scotland ought to be postponed to the entire amount of Ashland's claim. This is a concept which I have already rejected. I would add that Ashland is a sophisticated supplier and knows the pitfalls of supplying necessaries in jurisdictions where there is no sistership legislation. Further, in England, the sistership legislation is of no assistance to such a supplier, for an American maritime lien does not survive the transition into English law as a maritime lien. Here the only unknown was the maritime lien and sistership situation in Canada. It is perhaps unfortunate that Ashland cannot bring a priority into these proceedings, but that is the conclusion I have reached.
+[122]
+Ashland also submits that the Bank of Scotland ought to be thrown back on the doctrine of marshalling, a concept involving a creditor with only one fund upon which it is able to claim and a second creditor with security against two or more funds, the latter being, in some instances, required to organize recovery so as not to prejudice the former. This was a concept explored in
+Scott Steel Ltd. v. Ship Alarissa
+(supra) at 930 and following. The difficult here is that Mr. Leondaras, although in control of the whole fleet, had never given a guarantee: see question 558 of the 21 August 1998 cross-examination of Mr. Myles of the Bank of Scotland. Save as to the Blue L. there is no evidence of the Bank of Scotland either receiving any contingent rights or being able tot call upon purchasers of vessels from the Leond Maritime fleet for any funds which might lead to a sharing of the burden under the concept of marshalling. Thus the Bank of Scotland had no alternative fund to first exhaust.
+[123]
+In summary, Ashland shall have, as a maritime lien holder with priority ahead of the Bank of Scotland, the sum of $9,712.88. While it is possible to work out an interest figure for each of the invoices, which spread over a period between December of 1996 and April of 1997, the invoices being net 30 days, it is simpler to take an average by inspection: interest not being specified on the invoices it shall run at 7% on the whole amount from 15 February 1997 to the date of sale and thereafter at the rate that interest was paid on the sale proceeds while held in trust.
+Claim of Sait Communications S.A.
+[124]
+Sait Communications S.A., of Antwerp, Belgium, claims a maritime lien in the amount of 776,000 Belgian francs, being $20,672.64, together with interest.
+[125]
+Belgian necessaries suppliers, by virtue of the
+International Convention for the Unification of Certain Rules of Law Relating to Maritime Liens and Mortgages
+, signed at Brussels on the 10
+th
+of April 1926, have the benefit of maritime liens for contractual claims as set out Article 23 of the
+Belgian Maritime Code
+. Article 23 of the
+Belgian Maritime Code
+provides, in part, that there is a maritime lien for:
+"(5) Claims resulting from contracts entered into or acts done by the master, acting within the scope of his authority, away from the vessel's home port, where such contracts or acts are necessary for the preservation of the vessel or the continuation of its voyage, whether the master is or is not at the same time owner of the vessel, and whether the claim is his own or that of ship-chandlers, repairers, lenders or other contractual creditors."
+[126]
+I have considered the Affidavit of Trudo Motmans, a Belgian advocate, presented as an expert by the Bank of Scotland. From his credentials it is appropriate to consider him an expert on Belgian maritime law and particularly as to claims of maritime lien under the law of Belgium.
+[127]
+Mr. Motmans concedes that the
+Belgian Maritime Code
+grants a maritime lien which survives the sale of a vessel. However he makes an initial telling point, utilizing the claim Affidavit of Mr. Erik Ceuppens, General Manager and Managing Director of Sait Communications S.A., that the service contract relied upon was one entered into between Sait Communications S.A. and Oceanprofile Maritime Limited, as ship owner and Leond Maritime Inc. as agent of the shipowner. The contract not having been made by the master, as is required by the
+Belgian Maritime Code
+, no maritime lien can arise.
+[128]
+Second, Mr. Motmans notes that the contract must be made outside the home port: it is Mr. Motmans' view that this does not meet the home port condition set out in the
+Belgian Maritime Code
+. Third, to give rise to a maritime lien, the captain must have acted on the basis of the powers given to him by law. Here the master did not execute the agreement. In Mr. Motmans' view, this is another failing. Fourth, in order to qualify for the status of a maritime lien, the services rendered must be necessary for the maintenance of the vessel or for the continuation of the voyage. In Mr. Motmans' view the fact that the services were not rendered until May of 1997 is fatal.
+[129]
+At least some of these contentions are arguable. However I find it persuasive that this is not a claim resulting from a contract entered into by the master, acting within the scope of his authority and away from the vessel's home port. I find that no maritime lien has accrued to Sait Communications S.A.
+Claim of Bureau Veritas
+[130]
+Bureau Veritas, a ship classification organization based in France, claims the equivalent of $10,547.04 for various surveys carried out at Pohang, Korea. These surveys were undertaken pursuant to an agreement of 29 June 1995 between Bureau Veritas and Leond Maritime, by which Leond Maritime agreed to class all of the ships operated by it and any new construction with Bureau Veritas. In return Bureau Veritas agreed to carry out class and statutory surveys at fixed annual American dollar fees.
+[131]
+The expert affidavit filed on behalf of Bureau Veritas, that of Thierry d'Ornano of Marseille, sets out the background, appends a copy of the 29 June 1995 agreement and concludes that under French law the claim of Bureau Veritas created a maritime lien, which existed at the relevant time, the surveys having been carried out in September of 1997.
+[132]
+Mr. d'Ornano does not set out the reason why he concludes that a maritime lien exists. However, I note that France ratified the
+1926 Brussels Convention on Maritime Liens and Mortgages
+and has adopted the
+Convention
+, including Article 2(5), into its own law. Thus a necessaries supplier, in certain instances, has a basis for a maritime lien.
+[133]
+Mr. Tetley, in the Second Edition, 1998, of
+Maritime Liens and Claims
+, sets out the requirements for a necessaries lien in France at page 607 and following. He makes the point that:
+"a) The necessaries must have been ordered by the master. The Cour d'Appel de Paris has held that the claim by a supplier of bunkers was not privileged because the bunkers had not been ordered by the master. In fact, the supplier had dealt with the shipowner and was held to have relied on the latter's credit. The same court, however, recognized the privilege of another supplier to the same ship because, in that case, the supplies had been ordered by the master."
+[134]
+In the present instance Bureau Veritas clearly dealt with and indeed contracted with the shipowner and not with the master. There is every appearance that Bureau Veritas relied upon the credit of the shipowner. This is similar to the situation which I analysed at length, earlier, in the case of the claim of Aktina and which I touched upon in the claim of Sait Communications.
+[135]
+The claim of Bureau Veritas to a share of the sale proceeds based upon a maritime lien is denied. I do not have to decide whether Bureau Veritas has a claim in the form of a statutory right in rem, or whether the claim is merely an in personam one against Leond Maritime, for such a claim would fall after the priority held by the Bank of Scotland: there will be insufficient funds to satisfy the Bank of Scotland's claim.
+Claim of Mariners' Medical Clinic
+[136]
+There are a number of claims which, unfortunately from the point of view of those claimants, are accorded only a valid statutory claim in rem, all with a common priority below that of the mortgagee, the Bank of Scotland. From that position there is nothing to recoup, for the Bank of Scotland, even after disallowing some $1.7 million of their claim, is entitled to the remainder of the sale price once those claimants with the status of maritime lien holders have been satisfied. This is unfortunate, but not surprising, for such is the usual lot of necessaries suppliers, outside of those supplying goods from or through the United States, who, for competitive reasons, feel they must sell on credit. To such suppliers, unless they organize their affairs to take advantage of American law and the resulting maritime lien for necessaries, the outcome holds no surprises. They have a choice whether or not to supply goods or services on credit when times are uncertain in the shipping world. This ability to decide whether or not to sell their goods or services distinguishes such creditors from Mariners' Medical Clinic, a Vancouver organization which supplies medical services to seamen and furnishes medical supplies to ships for the use of seamen. In this instance, Mariners' Medical Clinic arranged a survey of the "Nel"'s medical supplies and provided medical supplies in order to bring the ship up to the statutory standard, in November of 1997. These services and supplies, in the amount of $1,353.31, were for the benefit of and the use by crew members of the "Nel".
+[137]
+As I understand the situation Mariners' Medical Clinic has no ethical choice but to assist mariners with their medical needs when called upon. Nor would I like to see Dr. Karon, of Mariners' Medical Clinic, forced to choose ships to which medical services, be it directly to ailing crew members or indirectly in the form of medical supplies, should be denied. Just as the liens of seamen are sacred (
+Ship John G. Stevens, Re
+(1898), 170 U.S. 113, at 119) and the claims for maintenance and cure, that is providing for seamen who have become ill or injured as crew members, rank high in the American system of priorities, so ought the claims of those who, having no real choice, provide for the basic and essential well-being of seamen, unless the circumstance dictate to the contrary.
+[138]
+In this instance the circumstances are such that it is appropriate, proper and in keeping with the concept of justice, that the usual priorities be varied so as to place Mariners' Medical Clinic in a position analogous to that of the holder of a maritime lien.
+[139]
+In addition to its claim of $1,353.31, Mariners' Medical Clinic shall have interest on a 30 day net basis running from 11 December 1997 at the rate of return earned on the sale proceeds while held in trust.
+Holders of Statutory Rights In Rem
+[140]
+There are a number of claimants, both Canadian and offshore, who do not have the benefit of the maritime lien accorded those necessaries suppliers who may rely upon the law of a more favourable jurisdiction. These claimants who are not so favoured have only a statutory right in rem upon which to rely, with a priority below that of a mortgagee. As such, in this instance, there are no surplus funds available.
+[141]
+The holders of statutory rights in rem are as follows:
+1. Legend Marine Singapore Ptc. Ltd., a necessaries supplier with a claim amounting to $23,678.45 for general goods supplied to the ship. Although some $280.00 is for medicines, Legend Marine, a general ship supply company, does not fall within the exception which I have given to Mariners' Medical Clinic, for Legend Marine may pick and choose its customers just as any other necessaries supplier and well knows its situation, that of a supplier who will not be entitled to a maritime lien.
+2. The Occupational and Environmental Health Services Agency of Health Canada claims the equivalent of $445 for the issuance of a de-ratting exemption certificate. This again gives rise only to a statutory right in rem.
+3. Tymac Launch Service Ltd., of Vancouver, claims for launch services to a from the "Nel", to transport both a pilot and a surveyor, in an amount equivalent to $523.44. These services give rise only to a statutory right in rem.
+4. Empire International Stevedores Ltd. of Vancouver, which firm lime washed the holds of the "Nel" in order to provide protection against the sulfur cargo, claim for the equivalent of $5,846.56. This is a statutory right in rem.
+5. Various of the claims by or through Campotex Shipping Services Limited, including a claim for bunkers, were resolved at an earlier stage. There remains the Campotex general agency account for port disbursements in an amount equivalent to $33,024.31. Unfortunately, by reason of location North of the American border, the Campotex account, which would give rise to a maritime lien in the United States, merely results in a statutory right in rem in Canada. The claim therefore comes after that of the Bank of Scotland's mortgage.
+ABANDONED CLAIMS
+[142]
+A number of necessaries suppliers with claims against the "Nel" either commenced separate proceedings or filed caveats. Some of those claimants subsequently filed affidavits of claim in this action within the time stipulated for filing claims. Those who did not file affidavits of claim are Tramp Oil & Marine Ltd., United Maritime Supplies Ltd., Petro Marine Products, Howe Robinson & Co. Ltd., Reliance National Insurance and Jardine Shipping Agencies (Hong Kong) Limited. It may be that some of these claims were settled by or on behalf of owners before the present action was initiated. Others may have abandoned their claims. For the record the five claimants listed above, to the extent their claims have not already been settled, are deemed to have abandoned any claims to the sale proceeds of the
+Nel.
+CONCLUSION
+[143]
+The Order which follows these reasons is intended to set out the ultimate disposal of the balance of the sale proceeds and interest which are held in trust. Each successful claimant must now advise Campney & Murphy, who hold the proceeds and interest in trust, of their interest calculation made in conformity with these reasons.
+[144]
+Counsel may wish to speak to the subject of costs. While the Bank of Scotland has received some reimbursement for the expenses of bringing the "Nel" to the point of sale and would be entitled to related taxable costs and disbursements, there is no point in making such an order for those amounts would merely come out of the present surplus which will go to the Bank of Scotland in any event.
+[145]
+As to any other claims to costs and disbursements, I would point out to the claimants that their claims have, in almost every instance, met with mixed results and thus it might be appropriate that all of the parties absorb their own costs.
+[146]
+I thank all of the counsel involved in this matter, going back to the time of the arrest of the "Nel", for their assistance.
+Order accordingly.
+Editor: Steven C. McMinniman/pdk
+[End of document]

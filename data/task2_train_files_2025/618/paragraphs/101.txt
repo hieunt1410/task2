@@ -1,0 +1,7 @@
+[101]
+In an essay found in Prof. Linden's work entitled
+Studies in Canadian Tort Law
+(Butterworths, 1968), Jeremy S. Williams comments on the tort of intentional infliction of nervous shock and makes the argument that, as an exception to the general rule, a defendant should be held liable where he has actual notice of a person's vulnerability and intentionally seeks to cause that person harm which goes to the heart of that vulnerability. At page 142, the author states that:
+"Persons with constitutional weaknesses making them more susceptible to nervous shock than those of average hardihood present a problem. It would be simple to allow them recovery on the same basis as ordinary members of the community, but this is thought to impose an unnecessarily heavy burden on defendants. An actor should be entitled to assume that persons likely affected by his actions have normal fortitude. Conduct which would not cause nervous shock to a normal person should not be regarded as tortious. Justice Schauer, in
+Amaya v. Home Ice
+(1963), P. 2d 513, stated, '... the increased liability imposed on an intentional wrongdoer appears to reflect the psychological fact that solicitude for the interests of the actor weighs less in the balance as his moral guilt increases and the social utility of his conduct diminishes'. However, where a defendant has actual notice that a potential plaintiff has a pre-existent vulnerability there will be liability, as an exception to the usual rule, because such actions carry a greater moral reprehendsibility."

@@ -1,0 +1,8 @@
+[123]
+In my view, the most significant claims with respect to the alleged infringement are 2, 4, 17 and 18. These claims read as follows:
+"2. An S(-)-pyridobenzoxazine compound represented by the general formula (VI)
+[Diagram omitted. See printed version]
+wherein X1 represents a halogen atom, R1 represents an alkyl group having 1 to 4 carbon atoms, and R3 represents an alkyl group having 1 to 3 carbon atoms.
+"4. S(-)-9-fluro-3-methyl-10-(4-methyl-1-piperazinyl)-7- oxo-2,3-dihydro-7H-pyrido [ 1,2,3-de] [ 1,4] benzoxazine-6-carboxylicacid.
+"17. A compound of the general formula(VI)as defined in claim 2 and the pharmaceutically acceptable salts thereof wherein said compound is a hydrate.
+"18. A pharmaceutical composition comprising a compound of the general formula (VI) as defined in claim 2 or the pharmaceutically acceptable salts thereof and one or more compounds selected from the group consisting of carriers, fillers, extenders, binders, humectants, absorption accelerators, wetting agents, adsorbents, lubricants, solubilizing agents, emulsifiers, stabilizers, preservatives."

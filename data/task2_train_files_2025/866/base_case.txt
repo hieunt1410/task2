@@ -1,0 +1,406 @@
+A. INTRODUCTION
+[1]
+Lemieux, J.
+: LifeScan, Inc. and LifeScan Canada Ltd., plaintiffs in a patent and trademark infringement action including passing off initiated by statement of claim filed on April 28, 2000, apply for an interlocutory injunction restraining the defendant Novopharm Limited ("Novopharm") until trial from:
+"(i) using the registered trademark ONE TOUCH, or any other word or combination of words likely to be confusing therewith:
+(a)
+on the packaging
+of or on
+product inserts
+for its NOVO-GLUCOSE blood
+glucose strips
+offered for sale, distributed, sold or used in advertisements in Canada; or
+(b) in any manner that is likely to have the effect of depreciating the value of the goodwill attaching to the trademark ONE TOUCH;
+"(ii) directing public attention to its business in such a way as to cause or be likely to cause, confusion between the business, wares or services of the Plaintiffs and the business, wares or services of the Defendant;
+"(iii) passing off its wares as and for the wares of the Plaintiffs;
+"(iv) threatening to infringe and infringing upon claim 1 of Canadian Letters Patent No. 1,337,682 (the '682 patent'); and
+"(v) marketing and selling its NOVO-GLUCOSE strips in Canada."
+[2]
+LifeScan Inc., ("LifeScan U.S.") is a U.S. corporation which claims to be a wholly owned subsidiary of Johnson & Johnson. LifeScan U.S. is the owner of the 682 patent for an invention entitled "whole blood glucose test strip" issued on December 5, 1995. The 682 patent generally relates to a whole blood glucose test strip adapted for use in a
+metre
+capable of measuring glucose by way of reflectance at two different wave lengths.
+[3]
+LifeScan Canada Ltd. ("LifeScan Canada") is a Canadian corporation said to be a wholly owned subsidiary of LifeScan U.S. and the licensee from it of the 682 patent. LifeScan Canada also claims, since at least as early as 1992, to be the licensee of Johnson & Johnson of the ONE TOUCH registered trademark.
+[4]
+Johnson & Johnson, not a party to the plaintiffs' action nor a party to these interlocutory injunction proceedings, is a U.S. corporation and is the registered owner in Canada as of the 17
+th
+of June 1994 of the trademark ONE TOUCH (Registration Number TMA428714) in association with the following wares:
+"In vitro diagnostic reagent test strips used by diabetics to test their blood glucose levels and hand held diagnostic blood testing device used by diabetics to test their blood glucose levels."
+B. THE FACTS
+(i) The ONE TOUCH System
+[5]
+As is apparent, the components of the ONE TOUCH glucose measuring system are: a glucose measuring device (the hand-held metre) which reads an individual's blood sample lanced on a ONE TOUCH test strip inserted by the individual into the metre. The ONE TOUCH system also includes a control substance to ensure the hand-held metre is correctly measuring glucose levels.
+[6]
+The plaintiffs in their injunction application allege that Novopharm has, since about November, 1999, offered for sale and sold in Canada blood glucose test strips known as the NOVO GLUCOSE test strips (the "NOVO GLUCOSE strips").
+[7]
+It is common ground that the NOVO GLUCOSE test strips can only be used with the ONE TOUCH hand held metre of which there are three types: BASIC, ONE TOUCH II and ONE TOUCH PROFILE. The NOVO GLUCOSE test strips cannot be used with other types of metres LifeScan U.S. produces or markets under the trademarks "SureStep" and "FastTake" recently taken into the ONE TOUCH system.
+[8]
+Underlying Novopharm's marketing of its NOVO GLUCOSE test strips in November of 1999 is a 1994 Settlement Agreement and Licence arising out of an action commenced in the U.S. by LifeScan U.S. against, amongst others, Diagnostic Solutions, Inc. ("DSI"). As a result, LifeScan U.S. granted to DSI and DSI accepted a non-exclusive, worldwide licence under the LifeScan U.S. patents to make, have made, use and sell certain defined licenced products which grant included a licence for anyone to use the licenced products manufactured by or for DSI for blood glucose monitoring. DSI agreed to pay LifeScan U.S. a royalty under the LifeScan U.S. patents on each licenced product manufactured by DSI, for use in LifeScan's ONE TOUCH metres during each calendar year beginning with 1995. "Licenced products" was defined in the Settlement Agreement and Licence as follows:
+"'Licenced Product(s)' means the blood glucose monitoring
+test strips
+currently manufactured by DSI and currently sold under the tradename QUICK CHECK ONE
+and other private label brands, in substantially the same configuration, format, shape and composition as is currently sold and which strips are the subject of the Lawsuit
+. Any blood glucose monitoring test strips, including substantial modifications to the current product, manufactured by a process substantially different from the process used to manufacture the current product, or exhibiting substantially different performance from the current product, are not Licenced Products." (Emphasis mine)
+[9]
+DSI has continued to manufacture or have manufactured for it blood glucose test strips selling them in a number of countries around the world including Austria, Canada (to Novopharm), France and Germany.
+[10]
+These test strips are placed in plastic vials and are distributed by DSI worldwide in small packages labelled with the following words: "50 (or 100) test strips for use in all ONE TOUCH® metres" with the three ONE TOUCH metres being displayed on the box.
+(ii) The NOVO GLUCOSE packaging
+[11]
+The manner in which Novopharm marketed its NOVO GLUCOSE test strips is not a secret. Its test strips are marketed through pharmacies.
+[12]
+One side of the packaging displayed in traditional Novopharm colours containing the vials of NOVO GLUCOSE strips shows, in large lettering, the words "NOVO GLUCOSE STRIPS" and immediately below are the words 50 (or 100) test strips for use with all ONE TOUCH® METRES with a visual display of the three ONE TOUCH Metres immediately below those words. Another side of the packaging has the number 50 (or 100) with the words BLOOD GLUCOSE TEST STRIPS following and then below these words "For the quantitative measurement of glucose in whole blood" and then "For use with all ONE TOUCH® METRES" followed by the words "ONE TOUCH® is a Registered Trademark of LifeScan Inc." and then in larger type the logo of Novopharm and the word Novopharm® followed by the corporate name of Novopharm and its Toronto address.
+(iii) The insert in the NOVO GLUCOSE package
+[13]
+Each package of NOVO GLUCOSE test strip vials (2 or 4 vials to a package) has a large printed insert providing directions on how to use the NOVO GLUCOSE test strips. The insert's headline contains the words NOVO GLUCOSE STRIPS (BLOOD GLUCOSE TEST STRIPS) FOR USE WITH ALL ONE TOUCH® METRES IMPORTANT: READ THIS INSERT BEFORE USING. Immediately below is a display of the three ONE TOUCH Metres and below that display are the following words:
+"The NOVO GLUCOSE Strips (blood glucose test strips) are to be used to check for changes in blood sugar levels. The test strips can be used with ONE TOUCH® Basic, ONE TOUCH® II, and ONE TOUCH® PROFILE Metres ..."
+[14]
+The instruction insert is replete with reference to the ONE TOUCH® Metres and test strips. In the insert, there is also reference to ONE TOUCH® normal glucose control solution and an indication that ONE TOUCH® is the registered trademark of LifeScan Inc.
+(iv) The Vials of NOVO GLUCOSE test strips
+[15]
+The vials containing the NOVO GLUCOSE test strips are also labelled with large letters indicating NOVO GLUCOSE STRIPS/BANDELETTES NOVO GLUCOSE and the words: "25 Test Strips for Use with all ONE TOUCH® Metres/ Bandelettes pour utilisation avec tous glycomètres ONE TOUCH®."
+(v) The NOVO GLUCOSE test strip itself
+[16]
+Unlike the LifeScan test strip, the individual NOVO GLUCOSE test strip does not reproduce the ONE TOUCH mark.
+(vi) Novopharm's introductory promotional flyer
+[17]
+When Novopharm launched in 1999 the marketing of its new NOVO GLUCOSE test strips, it sent to approximately 6,100 pharmacists in Canada an introductory flyer where the lead paragraph read "INTRODUCING NOVO GLUCOSE STRIPS, A COST-EFFECTIVE ALTERNATIVE TO ONE TOUCH® BASIC ™, ONE TOUCH® II, AND ONE TOUCH® PROFILE ™ TEST STRIPS". Below those words appeared a photograph of the packaging and the NOVO GLUCOSE strip vials prominently showing the words "50 test strips for use with all ONE TOUCH® Metres with a display of the three ONE TOUCH® Metres".
+(vii) Interfacing with Health Canada
+[18]
+Both LifeScan and Novopharm had contact with Health Canada concerning the NOVO GLUCOSE test strips. On September 20, 1999, Health Canada issued to Novopharm a Medical Device Licence under section 36 of the
+Medical Devices Regulations
+; such licence was delivered to Novopharm as a manufacturer.
+[19]
+On February 25, 2000, Health Canada raised an issue with Novopharm that its literature did not make it clear whether the NOVO GLUCOSE strips tested for glucose in plasma and serum or in whole blood. Novopharm responded on March 6, 2000 saying that its strips were calibrated for plasma-serum results and enclosed wording changes to its packaging insert.
+[20]
+Prior to this exchange, LifeScan Canada had in January 2000 written to its pharmacy customers in Canada raising this issue of the NOVO GLUCOSE strips being whole blood calibrated versus calibration to provide a plasma-serum result. LifeScan added the following in its letter to pharmacists:
+"LifeScan does not manufacture NOVO GLUCOSE test strips. LifeScan Canada Ltd. does not endorse NOVO GLUCOSE test strips as we do not control the materials, manufacturing methods or quality control procedures used by this manufacturer. We ensure and guarantee optimum quality is achieved through the manufacturing of our own genuine ONE TOUCH brand test strips."
+[21]
+Novopharm responded through a January 28, 2000 notice to 8,000 pharmacists in Canada prefacing its response by saying in the second paragraph:
+"As you know, NOVO GLUCOSE strips are an alternative test strip for use in all ONE TOUCH® Metres made by LifeScan."
+[22]
+Novopharm indicated LifeScan's statement that NOVO GLUCOSE strips provide "whole blood test results" was incorrect because those strips are calibrated for plasma-serum results. It said its strips were manufactured under a licence from LifeScan Inc. U.S. (not specifically mentioning DSI) and added that it did not "expect LifeScan Canada to endorse its NOVO GLUCOSE strips, as this product is in direct sales competition with ONE TOUCH® strips". It said the alternative strip had been independently tested numerous times and that the tests showed that the alternative strip performs comparably to ONE TOUCH® strips.
+[23]
+On April 4, 2000, Novopharm received a letter from Health Canada Therapeutic Products Program ("TPP"), the purpose of which "is to inform you that information has been brought to the attention of the Medical Devices Bureau that NOVO GLUCOSE Strips (licence number 11500) may not meet the safety and effectiveness requirements of the
+Medical Devices Regulations.
+"
+[24]
+In that letter, Novopharm was asked to provide information and documents which established
+the safety and effectiveness
+of the NOVO GLUCOSE strips:
+(1) Evidence showing the lot - the lot consistency of the NOVO GLUCOSE strips;
+(2) Evidence that the control solutions is reliably recorded in the memory of the metre as such when NOVO GLUCOSE strips are used with ONE TOUCH metres;
+(3) Evidence that the use of NOVO GLUCOSE strips with ONE TOUCH® Metres will not compromise the ability to properly diagnose and resolve any problems users may encounter with blood glucose readings. A detailed explanation of how problems that are encountered by a user will be diagnosed and resolved was required;
+(4) A summary of all domestic and foreign sales for NOVO GLUCOSE test strips and a summary of all domestic and foreign complaints and problem reports received by Novopharm concerning the NOVO GLUCOSE test strips.
+[25]
+The TPP letter of April 4, 2000 said with respect to
+the labelling
+of the NOVO GLUCOSE strips:
+"... we have discovered the following inaccuracies in and the omission of essential information from the labelling of the device."
+[26]
+First, the TPP letter said the heading of the package insert states that the NOVO GLUCOSE strips are "FOR USE WITH ALL ONE TOUCH METRES". TPP said the statement needed to be removed as the strips are validated for use with
+only three
+of the ONE TOUCH Metres as is indicated in the indications for use section of the package insert. Second, TPP said that the expected values for non-diabetic adults is inaccurate and must be revised. Third, TPP, referring to a section in the product insert relating to comparing lab results, indicated it needed to be revised raising again the issue of plasma serum and whole blood calibration.
+[27]
+TPP requested (a) that revised package inserts replace all the package inserts for finished products in Novopharm's possession; and (b) all inserts which accompany NOVO GLUCOSE strips currently being offered for sale (to the retail level) are replaced with the revised inserts.
+[28]
+The TPP referring to a section in the product insert relating to storage and handling noted the bottlecap contained a drying agent (desiccant) and said the desiccant
+was actually in the bottle
+. It requested a modification.
+[29]
+TPP closed its letter by saying the changes required to the label of the NOVO GLUCOSE strips were considered to fall within the meaning of
+a "significant change" as defined in the
+Regulations
+and an application for a medical device amendment would be required to effect these labelling changes and further sales of the products. TPP warned that it required a response before April 28, 2000 for otherwise, its licence for NOVO GLUCOSE strips
+would be suspended
+.
+[30]
+TPP's April 4th, 2000 letter to Novopharm preceded a February 28, 2000 letter from LifeScan Canada's Director of Customer Service to a Medical Device Inspector at Health Canada's Health Protection Branch ("HPB"); the introductory sentence reads:
+"Over the past month LifeScan has been in contact with you regarding our concerns surrounding the introduction of the Novopharm Ltd. NOVO GLUCOSE strips, manufactured by Diagnostic Solutions Inc. (DSI). These off-brand strips have been assigned Licence No. 11500 and device ID No. 187839."
+[31]
+In the next paragraph of that letter, (which was produced by LifeScan in these proceedings as an exhibit to an affidavit filed on its behalf) LifeScan indicated to the HPB Inspector that LifeScan's ONE TOUCH® test strips were manufactured as a critical component in a blood glucose monitoring system which includes the metre, a control solution and the test strips designed and manufactured to work as an integral system. LifeScan said the introduction of the NOVO GLUCOSE off-brand test strip into the system calls into question the overall quality, which has been built into the manufacturing and quality control processes.
+[32]
+LifeScan indicated in the letter it had brought to HPB's attention in January, 2000, the calibration issue but added "
+LifeScan is also aware of other serious matters surrounding the DSI test strips which we believe should be brought to your attention. Our greatest concern centers on the accuracy of the DSI product. This off-brand test strip does not have the same accuracy profile as the ONE TOUCH product
+". (Emphasis mine)
+[33]
+LifeScan said it conducted accuracy tests of DSI strips and found serious problems. It enclosed several studies including a 1994 clinical study report, an assessment it conducted in October of 1999 and a report or analysis conducted by an endocrinologist in early 2000.
+[34]
+LifeScan outlined its concerns about the control solution tests which were not always identified as such in the metre memory system. Moreover, LifeScan identified labelling concerns and said the labelling claim by Novopharm "for use with all ONE TOUCH® metres" was misleading because LifeScan manufactured and marketed two other metres, namely LifeScan FASTTAKE® and SURESTEP® prefaced with the ONE TOUCH trademark. LifeScan said it was possible that a customer might think that the NOVO GLUCOSE strips could be used with a SURESTEP or FASTTAKE metre, which is incorrect.
+[35]
+On April 27, 2000, Novopharm responded to TPP's April 4, 2000 letter. Its detailed comments and response were not in Novopharm's responding record before me. What was provided to the Court was only the covering letter.
+[36]
+Novopharm, at the time of the hearing of LifeScan's application for an interlocutory injunction, had not received TPP approval for its medical device licence amendment.
+[37]
+However, Novopharm voluntarily discontinued the sale of its strips until it received approval of its proposed changes to the packaging and insert and satisfied TPP on the safety issue. The temporary hold on shipments means that if Novopharm receives an order for its strips from a pharmacy, the pharmacy is advised that the product is temporarily out of stock. The Novopharm discontinuance of sales did not apply to the stocks which pharmacies had on hand with the result that NOVO GLUCOSE test strips are currently on the market to that extent. Novopharm indicated to the Court that it expected approval from TPP in the near future, and would resume selling the product in Canada then.
+(viii) Interfacing with Provincial Formularies
+[38]
+Novopharm, in its affidavit material on this application, stated that LifeScan had been in touch with at least two provincial formularies in order to prevent the listing of its NOVO GLUCOSE strips. Reference was specifically made to a March 7, 2000 letter written to the Associate Director, Drug Programs Branch, Ontario Ministry of Health and Long-term Care by LifeScan's Manager, Professional and Government Affairs in Canada. In that letter, LifeScan Canada raised quality and accuracy issues. It also raised labelling issues similar to the ones previously raised with HPB. LifeScan Canada said the strips were not comparable or substantially similar to the ONE TOUCH test strips. LifeScan appended the studies previously sent to HPB.
+[39]
+On March 17, 2000, the Ontario official sent to Novopharm a copy of LifeScan's letter "expressing concerns about determining the listing of your product in the formulary". It invited Novopharm's response which was provided on April 20, 2000.
+[40]
+To date, Novopharm's NOVO GLUCOSE test strips have been listed on the British Columbia, Quebec, Manitoba and Saskatchewan formularies. However, the NOVO GLUCOSE test strips have not been listed on these formularies as a "
+lower cost alternative (LCA)" or as "interchangeable
+".
+(ix) LifeScan's evidence in this proceeding
+[41]
+LifeScan, in support of its application for this interlocutory injunction, filed three affidavits:
+(1) The affidavit of Stephen Mahon, LifeScan Canada's Director of Marketing since 1997;
+(2) The affidavit of John L. Smith, a retired scientist previously employed by LifeScan U.S.;
+(3) The affidavit of Niraj Dawar, Associate Professor of Marketing at the Richard Ivey School of Business at the University of Western Ontario.
+(a) Mr. Mahon's affidavit
+[42]
+Mr. Mahon's affidavit was advanced by LifeScan in support of the trademark infringement and passing-off aspects of its injunction application. He provided background information on the two different technologies governing metres reading blood glucose test strips; he explained the ONE TOUCH system and LifeScan's market share in the photometric and electrochemical metre market in Canada. He explained that LifeScan Canada offers a live operator customer support inquiry call centre to assist users with the proper use of the ONE TOUCH glucose test strips as well as the whole ONE TOUCH system. He indicates LifeScan Canada offers a 24-hour customer education line.
+[43]
+Mr. Mahon then addressed the NOVO GLUCOSE test strips and "
+Novopharm's use of LifeScan Canada's ONE TOUCH trademarks
+" (emphasis mine). He referred to the Novopharm packaging, the product insert and advertising. He spoke of misleading advertising by Novopharm because it used the expression "... for use with all ONE TOUCH metres" and he said NOVO GLUCOSE test strips do not work in ONE TOUCH FASTTAKE and SURESTEP metres.
+[44]
+Mr. Mahon then spoke about the shortcomings of the NOVO GLUCOSE strips and referred to LifeScan Canada's February 2000 letter to HPB. He pointed out that DSI was the manufacturer of the NOVO GLUCOSE test strips and referred to the Settlement Agreement and Licence asserting the test strips now made by DSI were not substantially the same as those previously made in 1994 and that the Settlement Agreement and Licence does not apply to the new DSI test strips. He acknowledged DSI takes the position that its test strips are substantially the same as those previously manufactured. Mr. Mahon referred to the 1994 study on the DSI test strips, the 1999 study, the February 2000 LifeScan U.S. scatter plot analysis of two lots of NOVO GLUCOSE test strips noting this was a small preliminary study and "although, it indicated good performance, the NOVO GLUCOSE test strips did read ... lower than ONE TOUCH test strips." He referred to the problems with the desiccant and the problems with the control solution.
+[45]
+Mr. Mahon then addressed issues of confusion and resulting harm to LifeScan Canada. Mr. Mahon said NOVO GLUCOSE test strips will not always perform properly with the three ONE TOUCH
+metres
+resulting in consumer dissatisfaction with the ONE TOUCH system. He said typically, when a user encounters a possible problem with ONE TOUCH system performance, the user assumes the problem is with the metre, as opposed to the test strips. If that happens, LifeScan Canada will usually address a system performance problem by sending the user a new ONE TOUCH metre. He added:
+"Moreover, in the instance of NOVO GLUCOSE test strips, the user will believe that the problem is with the ONE TOUCH metre and not with the NOVO GLUCOSE test strips, in part due to the prominent use of the trademark ONE TOUCH by Novopharm, which is in such a manner as to suggest that the test strips are 'approved'."
+[46]
+Mr. Mahon said "with this user dissatisfaction and confusion, users will abandon the ONE TOUCH
+metre
+and switch to a competing
+electrochemical metre"
+which has newer technology. He asserted if that happens "it is quite unlikely that the user will return; the loss will, therefore, be permanent. Further, it will be impossible to calculate loss sales to competing photometric and electrochemical metres and to calculate the loss test strip sales". LifeScan Canada had already encountered this problem of switching to newer technology and mentioned a 1998 recall of SURESTEP metres (using photometric technology). After the recall, sales fell and remained flat and a permanent loss of market resulted.
+[47]
+Mr. Mahon then described the regulatory regime, talked about the formularies, described various pricing reimbursement mechanisms including actual acquisition costs, lowest cost alternative, best available price and reference based pricing all of which he says tends to favour generic substitution, when generics are available. He asserted, if two substantially equivalent products are considered to be interchangeable, provincial governments will only reimburse the cost of the lowest priced product, i.e. the LCA which lowest priced product is usually the generic or off brand.
+[48]
+Mr. Mahon, in his affidavit, then addressed "the other harm to LifeScan Canada". These were:
+"(1) Effect on sales when the provincial benefit drug plans list the NOVO GLUCOSE test strips as an LCA; he said the impact on LifeScan Canada's sales will be devastating and this in a short period of time. He asserted even without LCA status, listing on the formularies 'would still have a very significant negative impact on LifeScan Canada's sales' acknowledging the NOVO GLUCOSE test strips being on the B.C. market for four months but there was as yet no available market data to quantify the percentage change;
+"(2) He spoke to LifeScan Canada's revenues from test strips which was substantial and the proportion of profits from those sales;
+"(3) He talked about the harmful effects on employees and lay-offs."
+[49]
+Mr. Mahon, at paragraph 59 of his affidavit, summarized the harm to LifeScan:
+"(a) Inaccuracies in the NOVO GLUCOSE test strips when used with a ONE TOUCH metre causing dissatisfied users to abandon the ONE TOUCH metre and to switch and 'be unlikely to return to the ONE TOUCH system';
+"(b) Loss of users arising from the dissatisfaction will be permanent and damage to LifeScan Canada will be incalculable both with respect to loss sales of ONE TOUCH test strips and metres;
+"(c) Once listed on various provincial formularies and obtaining LCA status, the effect on sales of ONE TOUCH test strips will be devastating."
+[50]
+At the hearing of this application, Lifescan attempted to file a second affidavit by Mr. Mahon ostensibly as rebuttal. This second affidavit is not accepted by me. The filing of such affidavit is not contemplated in Justice Dawson's order of May 15, 2000. Moreover, I accept the arguments advanced in Novopharm's responding record and particularly the unfairness to it.
+(b) Mr. Smith's affidavit
+[51]
+The burden of Mr. Smith's affidavit, which was not cross-examined upon, was to compare the 682 patent (dealing with the ONE TOUCH test strips) and the NOVO GLUCOSE test strips. He concluded that the NOVO GLUCOSE test strip has each of the elements set out in claim No. 1 of the 682 patent when the test strip is used in conjunction with the ONE TOUCH basic metre.
+(c) Dr. Dawar's affidavit
+[52]
+Dr. Dawar gave his opinion and advice about the trademark issues arising out of the packaging of blood glucose monitoring systems, and strips used in those devices, as sold in Canada by LifeScan Canada and Novopharm. He said, for the purpose of rendering his opinion, he reviewed the LifeScan statement of claim filed April 28, 2000, the affidavit of John Smith and the affidavit of Stephen Mahon
+and he had been asked to assume, for the purposes of his opinion, that the facts set out in the statement of claim and the Smith and Mahon affidavits were true.
+[53]
+Dr. Dawar asserted that there will be damage to the brand equity associated with the trademark ONE TOUCH in at least three ways if Novopharm continues to use the ONE TOUCH brand name (trademark) with its glucose monitoring strips:
+"(a) LifeScan will suffer lost business due to customer confusion over the ONE TOUCH brand name because some customers will mistakenly purchase the Novopharm product (test strip) when they intend to purchase the LifeScan product (test strip);
+"(b) The brand equity vested in the ONE TOUCH brand name will suffer dilution. The distinctiveness and ability to benefit from the ONE TOUCH brand and its associations will be diminished if the name is used outside the control of the owner of the brand name;
+"(c) If customers are dissatisfied with the Novopharm product, some customers will switch to alternative diagnostic methods available on the market, harming LifeScan's repeat business."
+[54]
+Dr. Dawar then explained that brands have value due to the role they play in consumer behaviour:
+"(1) They serve important consumer functions during the purchase process and, as a result, firms spend considerable time, effort and money in developing and maintaining distinctive brands;
+"(2) Brands reduce the amount of time and effort that consumers expend in searching for the right product for their needs — brands proclaim a promise to fulfill a specific consumer need, a promise which is embodied in the trademark;
+"(3) Brands provide a guarantee of consistency of quality and they reduce consumers' perceived risk in the purchase process including the possibility of product malfunction and consequent harm and the loss and time of money in case the product is defective or unable to fulfil the need for which it was purchased. Consumers mitigate these risks by relying on brands they recognize and trust and are often willing to pay a premium for such brands."
+[55]
+He asserted his opinion that the ONE TOUCH brand carries equity. Consumers particularly value and trust low-risk, consistent quality and easy to recognize brands in the medical products arena.
+[56]
+Dr. Dawar then dealt with the issue of lost sales due to confusion. He said due to the prominent display of the ONE TOUCH brand name on the NOVO GLUCOSE package, some customers will mistakenly purchase the NOVO GLUCOSE test strips when they intend to purchase the LifeScan test strips. He said this confusion deprives LifeScan of sales and said the amount of sales lost due to customer confusion cannot be estimated on the basis of the data that are now available. He said if confusion persists, the amount of future lost sales due to confusion cannot be precisely quantified.
+[57]
+Dr. Dawar then addressed the issue of lost equity due to dilution. He said the ONE TOUCH brand has built substantial equity amongst customers as reflected in the continued high sales and market share of the ONE TOUCH test strips. He said the ONE TOUCH brand carries trust, simplifies customers' purchases and reduces their perceived risk of purchase and said all of those attributes could, in theory, be carried over to other products that LifeScan might want to sell in the future. He said the unauthorized use of the ONE TOUCH brand name by third parties, outside the control of LifeScan, will dilute the brand and its association in two ways: first, the unauthorized use of the brand name leads to a loss of distinctiveness because the name is no longer exclusively associated with LifeScan's products but with Novopharm; and, second, LifeScan exercises no control over brand associations and product quality of these other manufacturers. He said that LifeScan will suffer negative effects if customers attribute quality problems with NOVO GLUCOSE test strips to the ONE TOUCH brand. He said these considerations diminish the brand equity vested in ONE TOUCH and reduce the possibility of LifeScan benefiting from its brand equity in the future by, for example, introducing new products under the same brand name. He said the amount of harm caused to brand equity is not quantifiable on the basis of the data he has reviewed and if these circumstances persist, the amount of future harm to brand-name equity cannot be precisely quantified.
+[58]
+Finally, Dr. Dawar spoke to the issue of lost sales due to a switch to alternatives. He said assuming the NOVO GLUCOSE test strips are indeed of a quality inferior to those of LifeScan, some customers will not repurchase ONE TOUCH test strips, choosing instead to purchase other glucose test strips and newer glucose monitoring systems. He asserted LifeScan will lose sales to some customers through no fault of its own and the amount of harm due to the loss of loyalty is not estimable on the basis of the data he reviewed. He said, if these circumstances persist, the amount of future harm due to such switching cannot be precisely quantified.
+[59]
+He then concluded as follows: "It is my opinion that LifeScan will suffer serious and irreparable harm by Novopharm's use of the ONE TOUCH brand name. The harm caused by the use of the ONE TOUCH brand name is and will be impossible to calculate, as it involves a loss of reputation and equity. The harm done would be very difficult, if not impossible, to remedy."
+(x) The affidavit evidence of Novopharm
+[60]
+Novopharm countered LifeScan's affidavit evidence by filing 10 affidavits. For the purpose of these reasons, I need only refer to a few of them.
+(a) Laura Furdas' affidavit
+[61]
+Laura Furdas is a Toronto pharmacist who, in 1992, joined the Court Pharmacy at Centenary Health Centre. This pharmacy has six pharmacists and nine technicians and is one of the few that specializes in meeting the needs of diabetes patients in Metro Toronto. She described the advice diabetes patients receive in metre selection and the training they receive on how to use the metre including how to use the control solution and how to check the test strips as well as troubleshooting. She identified several factors in selecting a metre and indicated that most patients coming to her pharmacy will have consulted with a physician or a diabetes educator and will have been advised on which metre to purchase.
+[62]
+Ms. Furdas acknowledged that the Court Pharmacy deals with questions from patients regarding glucose test results approximately two or three times a week and that the vast majority of problems experienced with the accuracy of metre readings is a
+result of patient error
+, for example, blood not applied properly on the strip or the strip not inserted properly into the metre. She described the various levels of inquiry which a diabetes trainer or pharmacist will undertake to deal with the problem: review of the technique of the patient, how he or she conducted their test, verification of the control solution, incorrect storage of strips or using them past their expiry date and if no error is disclosed by that time, manufacturer or sales representative contact.
+[63]
+Ms. Furdas expressed a view on switching metres which she says requires some training on the use of the new metre and time for the patient to become familiar with all of its new features. She said if the patient claims that their metre does not work properly, the diabetes trainers will check the metre and, if the metre is in fact defective, the trainers will advise the patient that all companies that sell metres, including LifeScan, will replace, free of cost, any defective metre. She said the primary reason that patients switch from one type of metre to another is to take advantage of different features offered by a newer metre. She opined that few patients will switch from the metre they have been using to a different brand of metre because of a defect or similar problem. She mentioned the SURESTEP metre recall in 1988 and said that patients took advantage of the free exchange offered by LifeScan and did not switch metres.
+[64]
+Ms. Furdas then talked about the purchasing of test strips. She said test strips are kept behind the counter at the Court Pharmacy in order to facilitate patient consultation and to keep all of the diabetic products in one location in the store. She said an important part of her function as a pharmacist is to consult with patients. She said the majority of patients purchasing their test strips will simply say "I need my strips". A check is then made on the pharmacy computer system which will indicate the brand strips they require. She said the Court Pharmacy did not sell the NOVO GLUCOSE strips being advised by LifeScan that these strips were based on old technology which did not give the same results as the ONE TOUCH test strips. She said she has not heard of any patients experiencing problems with the NOVO GLUCOSE strips but that if a patient did come in complaining about their metre, by using the control solution and check strips, the Court Pharmacy could determine whether the problem was with the metre or with the test strips, procedures which are detailed in the owner's manuals. She indicated metres on the market today were very reliable and that they were very few problems that are a result of a defect in a metre as opposed to patient error and reiterated that patients are taught to use their check strips once a week. She referred to the NOVO GLUCOSE package insert which directs patients to check that the NOVO GLUCOSE strips are working well with their ONE TOUCH metres.
+[65]
+Ms. Furdas commented on a package of NOVO GLUCOSE strips with Novopharm identified as the manufacturer. She said the vast majority of pharmacists in Canada would be aware that Novopharm manufactures generic products and would not be misled into believing that this product was endorsed or approved by LifeScan. She outlined a number of other reasons, difference in colour of the packaging and layout; difference in the get-up of the vials, difference in test strip appearance, routine consultation involved in the sale of strips and manufacturers' practice in this area to indicate the intended use of their products with other products on the packaging.
+(b) John Liefeld's affidavit
+[66]
+John Liefeld is a professor in the Department of Consumer Studies at the University of Guelph. He was asked to review the affidavits of Dr. Dawar, of Stephen Mahon and of John L. Smith as well as the statement of claim. He also reviewed Laura Furdas' affidavit. He said there was no evidence available to show that any purchasers of the NOVO GLUCOSE strips mistakenly believe that they are purchasing ONE TOUCH test strips. He said on the basis of his experience in measuring consumer confusion for a variety of product types he considers it unlikely that any significant number of purchasers of NOVO GLUCOSE strips will mistake them for ONE TOUCH test strips. He added that customer confusion about the company origin of NOVO GLUCOSE strips is a necessary condition for the existence of dilution, either loss of distinctiveness or tarnishment. For tarnishment, he said, it is also necessary that the purchaser perceives the NOVO GLUCOSE strips to be inferior to the ONE TOUCH test strips while also mistakenly believing that they are the same product from the same source. He said that since consumer confusion is very unlikely, loss of distinctiveness is also unlikely. He added that tarnishment is even more unlikely because both confusion and perceived inferiority are required for it to occur. He concluded that in his thirty-five years of studying consumer behaviour and knowledge, he considers it unlikely that a consumer would believe the NOVO GLUCOSE strips to be approved or endorsed by LifeScan by the reference to "for use with all ONE TOUCH® metres".
+[67]
+Professor Liefeld then commented on Dr. Dawar's affidavit. He criticized Dr. Dawar's more then twenty unequivocal assertions about consumer confusion, dilution-blurring, dilution-tarnishment, which assertions formed the basis of his conclusions as to their impact upon LifeScan. In terms of brand equity, he says that Dr. Dawar's comments are generalized statements which apply to the practice of branding of any product category and asserts that Dr. Dawar did not provide any evidence to establish that consumers perceive the ONE TOUCH brand to be trustworthy, low-risk and consistent in quality. Professor Liefeld then commented on Dr. Dawar's assertion that due to the prominent display of the ONE TOUCH brand name on the NOVO GLUCOSE strips package, some consumers will mistakenly purchase the NOVO GLUCOSE strips when they intended to purchase ONE TOUCH strips. He disagrees because:
+"(1) The NOVO GLUCOSE strips are clearly prominent and labelled as NOVO GLUCOSE strips, in large green lettering and the ONE TOUCH® is present on the package in a smaller size lettering which is not prominent relative to the product name.
+"(2) The ONE TOUCH trademark appears in a phrase on the package, a phrase on the vials which phrases explicitly advise customers that the product can only be used in ONE TOUCH metres. He says the ® symbol is clearly present to indicate that ONE TOUCH is a registered trademark. He says that customers would have to ignore the explicit wording or the phrase in order to assume that the product was ONE TOUCH strips."
+[68]
+Professor Liefeld then pointed to Ms. Furdas's affidavit indicating that diabetes patients are very knowledgeable about their disease and are interested in new developments in technology such as new products and treatments. He added that when consumers are highly involved, they are more likely to engage in careful decision-making and this is another reason that it is unlikely that customers who are highly involved would mistakenly purchase one brand thinking it was another.
+(c) The affidavit of Gary Krantz
+[69]
+Gary Krantz has been, since November 1996, the President of DSI, previously holding the position of Executive Vice-President.
+[70]
+He confirmed that DSI is a manufacturer of test strips and markets them both within and outside the United States. He says that DSI obtained, on November 19, 1992, U.S. Food and Drug Administration approval for which clinical efficiency and substantial equivalents to existing method (substantial equivalents to the ONE TOUCH test strips) had to be demonstrated. He says that the DSI test strips are designed for use in glucose metres currently offered by LifeScan and Bayer.
+[71]
+Mr. Krantz confirmed that DSI has continued to manufacture test strips since 1993 and they have been sold in a number of countries including Canada under the trademark NOVO GLUCOSE since November 1999. He indicates since 1997, the same glucose test strips have been sold in all countries and are made at the same manufacturing facility according to the same specifications. He indicates the packaging of the DSI test strips sold in a number of countries reads: "UNI-CHECK blood glucose test in-vitro diagnostic 50 test strips for use with ONE TOUCH® metres". He says the packaging on the DSI test strips sold in all other countries refers to the ONE TOUCH metres.
+[72]
+Mr. Krantz, at paragraph 19 of his affidavit, said that since 1995, DSI has sold in excess of 72 million UNI-CHECK blood glucose test strips worldwide. He further deposed:
+"I am not aware of any complaints from any distributor or customer in any country that the packaging used for DSI test strips has caused confusion in the marketplace or misled customers into believing that the DSI test strips have been approved by LifeScan.
+"In addition, DSI's and its distributor's promotional material, including its website, all refer to the compatibility of the DSI test strips with LifeScan's or Bayer's product. DSI has not received any complaints regarding the reference to LifeScan or Bayer or their respective glucose metres in its promotional material.
+"LifeScan did not advise me of any concern regarding the use of the trademark ONE TOUCH in Canada (or any other country) prior to the commencement of these proceedings."
+[73]
+Mr. Krantz then referred to the Licence Agreement arising out of the 1994 settlement and asserted that the test strips that have been sold by Novopharm have the same active components as are covered under the Licence Agreement and are otherwise of substantially the same configuration, format, shape and composition. Specifically, he referred to paragraph 5.1 of the Licence Agreement (already quoted above) with the reference "for use in LifeScan's ONE TOUCH® brand metres ...". Mr. Krantz said that as LifeScan knew when the Licence Agreement was signed, the only way of selling DSI test strips for use in LifeScan's ONE TOUCH® metres is by indicating on the packaging of the DSI test strips that they are for use in LifeScan's ONE TOUCH metres. Otherwise, Mr. Krantz says, DSI test strips could not be sold in the marketplace as contemplated in the agreement. Mr. Krantz then addressed in several paragraphs of his affidavits why DSI test strips are reliable and accurate indicating that DSI and independent laboratories have conducted a number of studies on the DSI test strips and that all of these studies confirmed the accuracy, reliability and compatibility with ONE TOUCH® metres of the DSI test strips. He appended a summary of nine such studies.
+[74]
+Mr. Krantz said DSI had also conducted a study of the specific lots of the NOVO GLUCOSE test strips in a clinical setting to determine the correlation between the NOVO GLUCOSE test strips and a laboratory plasma reference. He asserted that year 2000 study confirmed all of the clinical readings indicated excellence performance by NOVO GLUCOSE test strips. He said DSI conducted a "lot to lot variation analysis of the NOVO GLUCOSE blood test strips which shows that the lot to lot variation was minimal".
+[75]
+Mr. Krantz then addressed Mr. Mahon's affidavit and specifically the five studies appended to Mr. Mahon's affidavit. For various reasons set out in his affidavit, Mr. Krantz concluded the studies referred to by Mr. Mahon were not relevant. For example, he said the 1994 study of the DSI test strips were not relevant because the quality control standards used then were lower than the tighter acceptance standards used today and this study was done with the original ONE TOUCH metre which was removed from the Canadian market which LifeScan stopped manufacturing as it was deemed not as accurate as the current models. He indicates LifeScan submitted this study in the LifeScan U.S. proceeding as evidence the strips did not perform equally. He noted the U.S. federal judge who presided over the lawsuit ruled against LifeScan's claim stating "... in fact, the evidence presented to the Court to date shows the defendant's (DSI's) product is comparable to the plaintiff's (LifeScan's) product ...".
+[76]
+Mr. Krantz then dealt with the alleged desiccant and alleged control solution problems. He picked up Mr. Mahon's assertion that "when a user encounters a problem with ONE TOUCH system performance, the user assumes that the problem is with the metre, as opposed to the test strips". Mr. Krantz said that with each ONE TOUCH metre, a "check strip" is provided and the diabetic patient is instructed to use the "check strip" to verify the proper function of the metre. He adds LifeScan's owner's booklet for its ONE TOUCH basic metre in Canada instructs the user there are ways to make sure the metre is operating properly.
+ANALYSIS
+(a) The principles
+[77]
+In
+Centre Ice Ltd. v. National Hockey League et al.
+(1994), 166 N.R. 44; 53 C.P.R.(3d) 34 (F.C.A.), the Federal Court of Appeal, in a trademark infringement case, allowed an appeal from the grant of an interlocutory injunction until trial on the basis irreparable harm, that is harm in respect of which damages recoverable at law would not be an adequate remedy, had not been established by the evidence adduced.
+[78]
+In that case, Heald, J.A., established the following principles:
+(a) Evidence as to irreparable harm must
+be clear and not speculative
+; the evidence must clearly show irreparable harm would result;
+(b) A finding by the trial judge that the applicant
+would be likely
+to suffer irreparable harm is insufficient to warrant the grant of an interlocutory injunction. It is necessary for the evidence to support a finding that the applicant
+would
+suffer irreparable harm;
+(c) A finding of confusion between competitors does not necessarily lead to a loss of goodwill for which the plaintiff cannot be compensated in damages. He cited with approval the Alberta Court of Appeal decision in
+Good Neighbor Fast Food Stores Ltd. v. Petro-Canada Inc.
+(1987), 82 A.R. 79; 18 C.P.R.(3d) 63 (C.A.), where the alleged confusion was one of names in the minds of reasonable persons holding this kind of confusion leads to a loss of "name" goodwill, which loss in the normal course is a kind of damage, when suffered by a commercial firm in the ordinary course, is fairly calculable and therefore can be fairly compensated for in damages;
+(d) Confusion does not, per se, result in a loss of goodwill and a loss of goodwill does not, per se, establish irreparable harm not compensable in damages. The loss of goodwill and the resulting irreparable harm cannot be inferred, it must be established by clear evidence.
+[79]
+In
+Centre Ice
+, supra, Justice Heald said he could not conclude a loss of goodwill had been established because no evidence was adduced to show the plaintiff had lost even a single sale and its evidence it had acquired a reputation for honesty, integrity and fairness did not establish that this reputation had been impeached or lessened in any way by the defendants. He also held while the record contained some evidence of confusion, there was no specific evidence such conclusion had led any customer to stop dealing or even consider not dealing with the respondent on future occasions.
+[80]
+Justice Heald referred to the Federal Court of Appeal's decision in
+Nature Co. v. Sci-Tech Educational Inc.
+(1992), 141 N.R. 363; 41 C.P.R.(3d) 359 (F.C.A.), for the proposition while there was some evidence of actual confusion, it did not go so far as to show the confusion would cause irreparable harm to the respondent — the frailty of the evidence was fatal to the submission of irreparable harm.
+[81]
+I also refer to the Federal Court of Appeal's judgment in
+Eli Lilly & Co. v. Novopharm Ltd. et al.
+(1996), 205 N.R. 251; 69 C.P.R.(3d) 455 (F.C.A.), a passing-off case where the patent owner (Lilly U.S.) and its licencee (Lilly Canada) sought an interlocutory injunction until trial to prevent Novopharm et al.'s introduction into the Canadian marketplace of capsules using a similar appearance in terms of shape, size and colour as those used by the Lilly companies in relation to its capsules sold under the brand name Prozac and where a sub-licence had been granted by the Lilly companies to a generic drug company, Pharmascience Inc. (Pharmascience) to market fluoxetine hydrochloride (FH) on a generic basis. The Court noted that prior to a trademark Licence Agreement having been entered into, a marketing and distribution agreement had been entered into between Lilly and Pharma-science, the contents of which were unknown since the respondents did not place it in evidence.
+[82]
+Décary, J.A., said it was trite law in the Federal Court a plaintiff seeking an interlocutory injunction must establish with clear evidence that
+it
+, as opposed to any other person or party, will suffer irreparable harm. He added the burden is not an easy one for the remedy is an extraordinary one and will not be granted unless the applicant convinces the Court, inter alia, damages at the common law would not provide an adequate remedy if the Court refused to grant the injunction.
+[83]
+Décary, J.A., noted the motions judge had not based his conclusion on a finding of direct loss to the respondents. Rather, the trial judge found, essentially, irreparable harm would be suffered by Pharmascience and would be transmitted to the respondents. He wrote this at page 457 [C.P.R.]:
+"Assuming that he was correct in finding that Pharmascience's loss was incalculable, hence causing irreparable harm, the problem is that his finding that the loss would be transmitted to the respondents was not supported by sufficient evidence.
+"Pharmascience is not a plaintiff. It is not even a party to the proceedings. Any loss it sustains is therefore irrelevant unless such loss can be traced back directly to the respondents themselves. Absent clear evidence that the respondents would suffer the loss sustained by the sub-licencee, the Court cannot infer that the respondents will suffer irreparable harm."
+[84]
+Décary, J.A., rejected the affidavit evidence deposed to by the Director of the generic business unit for Lilly Canada to the effect "my company benefits from Pharmascience's sales" and rejected the finding of the motions judge who, on the basis of this evidence, was satisfied, on the balance of probabilities, the agreement between the plaintiffs and Pharmascience is such the plaintiffs would be financially affected by the volume of Pharmascience's sales. Justice Décary's rejection of this evidence was in these terms at page 458 [C.P.R.]:
+"With respect, such a vague and self-serving statement by a representative of the respondents cannot alone satisfy the evidentiary burden that they have to meet in this regard. The respondents must prove that the loss would be theirs and that it would be as irreparable to them as it would be to Pharmascience. It was within the sole power of the respondents to lift the veil of secrecy which concealed the true nature of their relationship with Pharmascience, and thus at least provide some description of their arrangement with the sub-licencee. They failed to do so. In our view, the only reasonable inference that could be made of this failure is that the information would have been prejudicial to their case."
+[85]
+I also refer to the Federal Court of Appeal's decision in
+Cutter Ltd. v. Baxter Travenol Laboratories of Canada Ltd. et al.
+(1980), 47 C.P.R.(2d) 53 (F.C.A.), allowing an appeal in a patent infringement case where the patent owner, Baxter Travenol Laboratories had obtained an interlocutory injunction until trial preventing Cutter Ltd. from marketing to the Canadian Red Cross a system for the handling of blood.
+[86]
+Chief Justice Thurlow, on behalf of the Court, said this at page 55 of the report:
+"In this Court, the grant of an interlocutory injunction in a patent infringement action is not a common occurrence. In most instances, the result of an application for an interlocutory injunction, where infringement and validity are in issue, is that the defendant gives a satisfactory undertaking to keep an account and upon that being done, the application is dismissed with costs in the cause ... The principle reason for
+this practice is,
+in my opinion, the fact that in most instances the nature of the patent rights involved is such that damages, provided there is some reasonably accurate way of measuring them, will be an adequate remedy for such infringement of the rights as may occur pending the trial and because, when the matter turns on the balance of convenience, if the defendant undertakes to keep an account and where there is no reason to believe that he will be unable to pay such damages as may be awarded, the balance will generally be in favour of refusing the injunction. It is always necessary to bear in mind that the damages that can be caused to a defendant in being restrained for a period that may run into several years, from doing what, if he succeeds, he was, but for the injunction, entitled to do in the meantime, may have consequences that are as serious for him as any that his infringement, if he does not succeed, may have for the patentee."
+[87]
+In
+Cutter Ltd.
+, supra, Chief Justice Thurlow came to the conclusion the evidence did not support a finding the respondents will suffer irreparable harm. He found, insofar as damages result from sales the appellant may make, there need be no lack of information upon which to calculate with reasonable accuracy any loss to the respondents. Insofar as indirect effects may be involved, and in particular, the effect on the respondents' sales of their other products to Canadian customers, he was of the view that the evidence that it made was speculative at best.
+[88]
+The Chief Justice, assuming irreparable harm, considered the corresponding harm which would be caused to Cutter in being restrained: he found that the balance of convenience favoured Cutter.
+(b) Application to this case
+(i) No serious issue to be tried
+[89]
+Novopharm first argued LifeScan Canada had no standing to bring a trademark infringement proceeding because the
+Trade-marks Act
+provides that only the registered owner may bring such a proceeding. Novopharm further argued LifeScan Canada could not bring a statutory passing-off action because the trademark owner, Johnson & Johnson, is not a party to the proceedings and LifeScan Canada does not meet the conditions of section 50 of the
+Act
+.
+[90]
+Novopharm then argued LifeScan had not shown a serious issue to be tried because:
+(a) the DSI licence from LifeScan U.S. entitled DSI to sell compatible test strips for use in ONE TOUCH metres and LifeScan led no evidence establishing the test strips are not licenced products within the meaning of the licence;
+(b) LifeScan has not established the existence of a trademark licence from Johnson & Johnson and no such licence was produced;
+(c) LifeScan led no evidence of confusion raising several points on this issue (1) Dr. Dawar's credibility; (2) the manner in which test strips are marketed in Canada through pharmacies; (3) the differences in Novopharm and the LifeScan packaging; and (4) the absence of complaints of confusion.
+[91]
+I am not prepared to deny LifeScan standing in respect of the trademark issue which, in any event, would not dispose of the patent issue. Novopharm's reliance on subsection 22(1) and the case of
+Registered Public Accountants Association of Alberta v. Society of Professional Accountants of Canada
+, [2000] F.T.R. Uned. 337 (T.D.), is misplaced because the ONE TOUCH trademark is registered. LifeScan Canada asserts the existence of an oral licence from Johnson & Johnson (which, in my view, could become a problem for it later on (see
+Eli Lilly
+, supra)). However, I am not prepared at this stage of the action to resolve this issue against LifeScan on the merits. I reach the same view on the application of section 50 of the
+Act
+. This section may also constitute a serious roadblock for LifeScan later on once the proper factual underpinnings have been established and the scope of section 50 appropriately considered on the merits including the argument as to whether it applies to a section 7 passing-off action.
+[92]
+The Supreme Court of Canada in
+RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général)
+, [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241, said the jump to clear the serious issue to be tried hurdle was a low one and the judge on an interlocutory application should only make a preliminary assessment of the merits of the case and once satisfied that the application is neither vexatious nor frivolous, should proceed to consider the second and third tests even if of the opinion the plaintiff is unlikely to succeed at trial.
+[93]
+In my view, the issues identified above and the question whether the test strips which Novopharm purchases from DSI fall within the LifeScan U.S./DSI licence are not frivolous nor vexatious questions. There is evidence of a manufacturing change in 1994. Also, whether DSI has an implied licence to use the ONE TOUCH trademark in respect of LifeScan metres falls within the same category. On the other hand, if Novopharm is not licenced through DSI, the question whether there has been trademark infringement raises a serious issue on the application of
+Clairol International Corp. and Clairol Inc. of Canada v. Thomas Supply & Equipment Co. et al.
+(1968), 55 C.P.R. 176 (Ex. Ct.), and
+Interlego AG et al. v. Irwin Toy Ltd. et al.
+(1985), 3 C.P.R.(3d) 476 (F.C.T.D.), both cases relied upon by LifeScan in contrast as to whether Novopharm's use of the ONE TOUCH trademark is a trademark use based upon
+British Petroleum Co. v. Bombardier Ltd.
+(1971), 4 C.P.R.(2d) 204 (F.C.T.D.). My finding on this point disposes of Lifescan's argument that NOVO GLUCOSE test strips could be sold without reference to the ONE TOUCH trademark.
+(ii) Irreparable harm
+[94]
+LifeScan argues it meets the irreparable harm test for four fundamental reasons:
+(1) Loss of business due to customer confusion;
+(2) Damage to its brand equity because of loss of control;
+(3) Damage to the reputation of the ONE TOUCH metres due to compatibility problems, confusion over blame if something goes wrong, dissatisfaction and subsequent loss of test strip sales; and
+(4) Devastating financial damage to LifeScan should the NOVO GLUCOSE test strips become a low-cost alternative under the provincial formularies.
+[95]
+It is my view LifeScan has not met, on the balance of probabilities, the irreparable harm test because its evidence simply does not meet the evidentiary burden laid out in
+Centre Ice
+, supra. LifeScan's evidence does not clearly show harm would result setting aside, for the moment, whether such harm, if proven, was irreparable in nature.
+[96]
+LifeScan's evidence on confusion is not convincing when weighed against that of Novopharm and this for several reasons:
+(1) Diabetes patients play a major role in their treatment and they are advised by professionals on various glucose monitoring systems;
+(2) Test strips are sold in pharmacies who may have them behind the counter and where prescriptions may be necessary for insurance reimbursement;
+(3) Pharmacists and other professionals are involved in answering questions about the accuracy of metre readings and the source of problems, if any;
+(4) The differences in packaging;
+(5) The notice sent to pharmacies by LifeScan stating it does not approve nor endorse the Novopharm test strips;
+(6) The lack of any evidence of confusion or other complaints received by Novopharm or DSI particularly in the context of DSI's worldwide experience.
+[97]
+LifeScan's evidence of loss of brand equity and reputation does not satisfy me. Dr. Dawar's conclusions were based on limited information provided to him by LifeScan and he conceded if such information was incomplete or different, his opinion might differ. Novopharm pointed to several aspects where information deficiency to Dr. Dawar's testimony occurred and I accept this is so.
+[98]
+The loss of reputation to the ONE TOUCH metre when NOVO GLUCOSE test strips are used rests, in large part, on the proposition that the NOVO GLUCOSE test strips have reliability and accuracy problems and at the centre of Dr. Dawar's assumptions. LifeScan's thrust is undercut by what FRAGMENT_SUPPRESSED dealing with a similar argument. He held concern about possible adverse effects upon the plaintiff's reputation if the defendant's product is defective or ineffective for patients could not be accepted as more than speculation where the safety and efficacy of the defendant's product had been accepted by the grant of an NOC by health authorities. Here, the NOVO GLUCOSE test strips must be licenced by Health Canada after being satisfied about its safety and accuracy. I adopt Justice MacKay's approach.
+[99]
+To the extent damage to LifeScan's brand equity arises out of simple use by Novopharm and loss of control, I consider Dr. Dawar's evidence speculative and not based on a sufficiently strong evidentiary foundation given that LifeScan has not demonstrated confusion and the extent of its reputation has not been measured. I accept Professor Liefeld's evidence on this point. I also note the absence of Johnson & Johnson, the trademark owner.
+[100]
+Lastly, I consider the low cost alternative ("LCA") argument speculative and irrelevant. No provincial formulary has listed the NOVO GLUCOSE test strips as an LCA. If they did, it might have the impact LifeScan says it would but that impact is one which cannot be a recognizable harm. Clearly, whether the NOVO GLUCOSE test strips should receive LCA status is a matter of provincial government fiscal and health policy which this Court cannot thwart on the basis of the impact which It might have to LifeScan Canada's revenues or profits in the test strips market.
+[101]
+In any event, the nature of the harm claimed by LifeScan is calculable and is compensable in damages.
+Cutter
+, supra, is authority for this proposition on the patent issue in this case.
+[102]
+As to the quantification of lost sales,
+Merck & Co. and Merck Frosst Canada Inc. v. Apotex Inc.
+(1993), 69 F.T.R. 209; 51 C.P.R.(3d) 170 (T.D.), covers the point. On a separate issue, i.e. loss of goodwill, it is calculable or damages are an adequate remedy under
+Merck & Co.
+, supra, and
+Allergan Inc. v. Bausch & Lomb Canada Inc. et al.
+(1992), 59 F.T.R. 186; 46 C.P.R.(3d) 372 (T.D.), and
+Centre Ice
+, supra.
+(iii) Balance of convenience
+[103]
+RJR MacDonald
+, supra, says the evaluation of this third test for the grant of this kind of injunction involves a determination of which of the two parties will suffer the greatest harm from the granting or refusing of the injunction. I am satisfied Novopharm would suffer more by the grant of the injunction than LifeScan would if it is denied one.
+[104]
+To grant the injunction would prevent Novopharm from entering into the test strip marketplace after obtaining regulatory approval for the safety and efficacy of its product. On the other hand, I have found LifeScan's evidence of harm (whether arising out of confusion or damage to reputation or brand equity) is scant and flimsy and damage quantifiable or an adequate remedy. I have also identified some potential problems in LifeScan's case arising out of the fact Johnson & Johnson, the trademark owner, is not a party to these proceedings.
+[105]
+There is another reason for finding balance of convenience in favour of Novopharm. In my view, LifeScan unreasonably delayed bringing on this application for interlocutory injunction. Its application for injunction was first made returnable in this Court on May 15, 2000 after its statement of claim was filed in late April 1999. Novopharm began marketing its test strips in late November or early December of the previous year.
+[106]
+The delay in bringing on this injunction application is attributable, in my view, to the choices and strategy LifeScan adopted in responding to Novopharm's competitive market entry trust. That strategy was not grounded on patent and trademark concerns but aimed at blocking Novopharm's entry through representations to Health Canada and provincial formularies. In this perspective, this injunction application seems to have been an after-thought and a cover should its other initiatives fail.
+DISPOSITION
+[107]
+For all of these reasons, the LifeScan application for an interlocutory injunction is dismissed with costs.
+[108]
+LifeScan requested an alternative remedy should I refuse the injunction. The plaintiffs ask for an order for case management and an order expediting the trial of the matter plus setting a schedule for the completion of pleadings and discovery. I am not satisfied a case management order is warranted at this time but I invite counsel for both parties, as soon as possible, to submit a joint schedule for the completion of pleadings and discovery. I decline to make an order expediting the trial; this matter is best left to the Associate Chief Justice of this Court for determination.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/klf
+[End of document]

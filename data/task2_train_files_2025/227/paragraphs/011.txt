@@ -1,0 +1,6 @@
+[11]
+The
+Act
+contains a privative clause in s. 31, as well as a provision in s. 32 allowing for reconsideration of an application already heard:
+"31. A decision of the majority of members of an appeal panel is a decision of the Board and is final and binding.
+32(1) Notwithstanding s. 31, an appeal panel may, on its own motion, reconsider a decision made by it under s. 29(1) or this section and may either confirm the decision or amend or rescind the decision if it determines that an error was made with respect to any finding of fact or the interpretation of any law, or may do so on application if the person making the application alleges that an error was made with respect to any finding of fact or the interpretation of any law or if new evidence is presented to the appeal panel."

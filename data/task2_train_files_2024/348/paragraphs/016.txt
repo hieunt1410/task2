@@ -1,0 +1,11 @@
+[16]
+A privitative clause of this nature means that a decision of an Adjudicator is not subject to judicial review unless it is so patently unreasonable that it cannot be rationally supported by its enabling legislation and justice requires the intervention of the court. This principle of law was clearly stated by the Supreme Court of Canada in
+Paccar of Canada Ltd. v. Canadian Association of Industrial, Mechanical and Allied Workers, Local 14
+, [1989] 2 S.C.R. 983; 102 N.R. 1; 62 D.L.R.(4th) 437; 89 C.L.L.C. 14,050; [1989] 6 W.W.R. 673; 40 Admin. L.R. 181, at p. 453 [D.L.R.]:
+"Where, as here, an administrative tribunal is protected by a privative clause, this court has indicated that it will only review the decision of the Board if that Board has either made an error in interpreting the provisions conferring jurisdiction on it, or has exceeded its jurisdiction by making a patently unreasonable error of law in the performance of its function: see
+CUPE Local 963 v. N.B. Liquor Corp.
+, [1979] 2 S.C.R. 227.
+The tribunal has the right to make errors, even serious ones, provided it does not act in a manner 'so patently unreasonable that its construction cannot be rationally supported by the relevant legislation and demands intervention by this court upon review' (p. 425).
+The test for review is a 'severe test': see
+Blanchard v. Control Data Ltd.
+, [1984] 2 S.C.R. 476. This restricted scope of review requires the courts to adopt a posture of deference to the decisions of the tribunal. Curial deference is more than just a fiction resorted to when they are in agreement with the decisions of the tribunal. Mere disagreement with the result arrived at by the tribunal does not make that result 'patently unreasonable'. The court must be careful to focus their inquiry on the existence of a rational basis for the decision of the tribunal, and not on their agreement with it." (emphasis added)

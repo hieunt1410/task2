@@ -1,0 +1,9 @@
+[67]
+While not prior art, this article by Dr. Caldwell illustrates a useful premise involving the requirement of inventiveness with chiral drugs. The following is an excerpt from the cross-examination of Dr. Caldwell at pages 876-77 of the applicant's record:
+"Q. On the same page in the left-hand column under the heading 'Patentability of chiral switches', I want to read a sentence about seven lines from the bottom.
+A. Yes.
+Q. It reads:
+'When the two enantiomers are of a chiral drug are sufficiently different in pharmacological effects from each other and from the racemate, it might be possible to obtain a patent for one or both enantiomers in addition to a valid (or expired) patent of the corresponding racemate.'
+A. Yes
+Q. In principle, I assume you agree with that.
+A. Yes. I mean when they are sufficiently different from each other and from the racemate. The whole phrase hinges around what we mean by sufficiently different."

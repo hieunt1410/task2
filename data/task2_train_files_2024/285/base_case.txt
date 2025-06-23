@@ -1,0 +1,180 @@
+Dagg v. Can., [2009] F.T.R. Uned. 902 (FC)
+MLB unedited judgment
+Michael Dagg (applicant) v. Minister of Industry (respondent)
+(T-1402-09; 2009 FC 1265)
+Indexed As: Dagg v. Canada (Minister of Industry)
+Cite As: [2009] F.T.R. Uned. 902
+Federal Court
+Pinard, J.
+December 11, 2009.
+Counsel:
+Kris Klein and Shaun Brown, for the applicant;
+Brian Harvey, for the respondent.
+Solicitors of Record:
+The Law Office of Kris Klein, Ottawa, Ontario, for the applicant;
+John H. Sims, Q.C.,  Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2009] F.T.R. TBEd. DE.014.
+[1]
+Pinard, J.
+: On November 26, 2009 the applicant brought a motion for declaratory relief and for costs pursuant to Rule 359 of the
+Federal Courts Rules
+, SOR/DORS/98-106. The matter was heard on December 1, 2009.
+[2]
+The underlying application for judicial review was filed on August 21, 2009 pursuant to section 41 of the
+Access to Information Act
+, R.S.C. 1985, c. A-1, (the "Act") in respect of an alleged decision by Industry Canada refusing the applicant's right to access records requested under subsection 4(1) of the Act.
+Issues and Analysis
+(1) Jurisdiction:
+Did the respondent refuse to disclose the records requested by the applicant such that the Federal Court had jurisdiction to review the matter pursuant to section 41 of the Act at the time the application was filed?
+[3]
+There are three necessary conditions that must be satisfied in order for this Court to acquire jurisdiction to review the decision of the head of a government institution to deny a request pursuant to section 41 of the Act:
+i. A party has been refused access to a record requested under the Act in whole or in part;
+ii. The party has complained to the Information Commissioner in respect of the refusal; and
+iii. The results of an investigation of the complaint by the Information Commissioner are reported to the complainant pursuant to subsection 37(2).
+[4]
+From the date of receipt of the Information Commissioner's report, the applicant has 45 days to file an application for review of the matter.
+[5]
+On this motion, only the first condition, whether there has been a refusal by the respondent to provide access to a record, is disputed by the parties.
+[6]
+On January 15, 2008, the applicant made a request for access to information to Industry Canada, the respondent, which was received on February 6, 2008. Pursuant to section 7 of the Act, the respondent then had 30 days to notify the applicant of its response. The respondent invoked its discretion under subsection 9(1) of the Act to extend the time limit in respect of the request. On March 13, 2008, the respondent informed the applicant that it required an additional 150 days in order to process the request, which the applicant did not oppose. On October 27, 2008, some two months after the expiration of the additional 150-day delay, the applicant complained to the Office of the Information Commissioner of Canada (the "OIC") regarding the failure of the respondent to disclose the records requested.
+[7]
+The OIC proceeded to investigate the complaint and nine months later, on July 10, 2009, the OIC informed the applicant that indeed, the respondent had no "lawful justification" for failing to meet the deadline of 180 days and this action placed the respondent in a state of deemed refusal pursuant to subsection 10(3) of the Act. The OIC informed the applicant that the respondent had provided the OIC with a work plan and commitment date for responding to the request: "[the respondent] is making every effort to respond to your request by September 28, 2009". On the basis of the commitment date and the work plan, the OIC deemed the complaint to be resolved.
+[8]
+In concluding the report to the applicant, the OIC described two potential avenues of recourse that the applicant could elect to take depending on the circumstances:
+Should you not receive a final response on or by the date provided, you may wish to
+file a new delay complaint
+with our office.
+Or
+if you do not agree with our assessment that the commitment given to us by the IC constitutes a reasonable resolution to your complaint, you do, of course,
+have another avenue
+of recourse. Having now received the report of our investigation, you have
+the right under section 41 of the Act to apply to the Federal Court for a review of Industry Canada's decision to deny you access to requested records
+. Such an application should name the Minister of Industry as respondent and it must be filed with the Court within 45 days of receiving this letter. (Emphasis is mine.)
+[9]
+The applicant did not wait to see if the respondent would comply with the commitment date, which was some 35 days after the expiration of the 45-day time limitation noted in the report. Rather, on August 21, 2009, the applicant chose to bring an application for judicial review to comply with the 45-day time limitation. Importantly, the respondent ultimately complied with the request for access to records on September 28, 2009. The records were sent by regular mail and the applicant received them sometime in early October 2009.
+[10]
+The applicant has chosen not to discontinue the application but rather to seek a declaration that his application has become moot and to request costs of the application pursuant to section 53 of the Act and Rule 400 of the
+Federal Courts Rules
+, on the basis that but for the respondent's unlawful delay, the applicant would not have brought a section 41 application and incurred the legal costs of doing so.
+[11]
+The purpose of the Act is to provide a right of access to information, on request, to any record under the control of a government institution subject to other sections in the Act (see sections 2 and 4). The Act sets out the timelines by which the government must respond to the requesting party as to whether or not access will be granted (see sections 7 and 9). All manner of information, except those limited exemptions or exclusions to the Act, may be released (see sections 13 to 26). Subsection 10(3) is a deemed refusal provision that applies where an institution fails to provide access within the time limits set out in the Act:
+10.
+(3) Where the head of a government institution fails to give access to a record requested under this Act or a part thereof within the time limits set out in this Act, the head of the institution shall, for the purposes of this Act, be deemed to have refused to give access.
+10.
+(3) Le défaut de communication totale ou partielle d'un document dans les délais prévus par la présente loi vaut décision de refus de communication.
+There are three cases that provide instructive discussion on the legal significance of a deemed refusal.
+[12]
+In
+FRAGMENT_SUPPRESSED Justice Jean-Eudes Dubé interpreted subsection 10(3) as signalling Parliament's intent that the Act not be "frustrated by bureaucratic procrastination: foot-dragging equates refusal." FRAGMENT_SUPPRESSED
+[13]
+Justice Dubé declined to grant judgment because access to the records had been provided by the time of the hearing and further declined to grant declaratory relief. Thus, the Court denied the application but nevertheless ordered taxable legal costs that "may have been incurred by the applicant" payable by the respondent.
+[14]
+The same applicant as in
+X
+(1), supra, brought another application against the Department of National Defence requesting that the Court consider the reasonableness of the Department to invoke section 9 of the Act and extend the time limit for providing access by 270 days (
+X v. Canada (Minister of National Defence)
+, [1991] 1 F.C. 670, referred to from now on as
+X
+(2)). The respondent argued that the Court had no jurisdiction to hear the application because the role of the Court is to hear applications by persons who have actually been refused access to a record. Prior to the hearing there had been disclosure of the records and the disclosure was prior to the self-imposed deadline the respondent had invoked through section 9 of the Act.
+[15]
+Justice Barry Strayer, in
+X
+(2), dismissed the application because it was clear to the Court that the decision a government institution makes to invoke subsection 9(1) is not reviewable at the Federal Court under section 41 of the Act:
+... an extension of time for response by the head of an institution is not a refusal of access. It is obviously not on its face a refusal to disclose. It only leads to a "deemed refusal" under subsection 10(3) if no decision is taken within the extended time period and no disclosure is made.
+[16]
+The Court acknowledged that not every decision taken by heads of institutions is subject to judicial review. Justice Strayer determined that the Federal Court has been granted a narrow scope of review under the Act at pages 677 and 678:
+This history and framework confirms the somewhat narrow scope of the new powers specifically given to the Federal Court: under section 41,
+it can hear the application
+of a person (or, under section 42, of the Information Commissioner)
+where there has been actual or deemed refusal
+of access to a record; and under section 44 it can hear the application of a "third party" who objects to disclosure by the head of an institution of a record which may affect that third party. The applicant here does not come within section 41, the only section relevant to the present situation and the one on which he relies, because he has not been refused access: access was delayed but in fact has long since been given to him and within the time limits permitted by the statute. That being the case there can be no remedy granted under sections 49 or 50, the sections authorizing appropriate orders by the Court, because those remedial powers arise only where the Court finds a refusal to disclose a record. ... (Emphasis is mine.)
+Consequently, a deemed refusal situation is one of the two grounds upon which an applicant can seek judicial review: the other ground is an actual refusal. In
+X
+(2) the Court concluded that there was "neither refusal of access nor deemed refusal of access, because access was given before even half of the extended time period had expired". The extended time period refers to the section 9 extension the Minister had invoked in this case. The only remedies permitted by sections 49 and 50 relate to the disclosure of the record. The application was consequently dismissed.
+[17]
+The third case that discusses the Court's jurisdiction to hear an application in a deemed refusal situation is Justice Yves de Montigny's recent decision in
+Statham v. President of the Canadian Broadcasting Corporation et al.
+, 2009 FC 1028. In
+Statham
+, it is significant that the Court interprets the Act as granting the power to cure a deemed refusal to the Office of the Information Commissioner upon conclusion of its investigation. This conclusion effectively precludes the applicant from applying to the Federal Court under section 41 of the Act if the OIC has approved a future commitment date from the government institution.
+[18]
+The facts of
+Statham
+are similar to the case at bar. Mr. Statham applied to the Federal Court pursuant to section 41 of the Act for an order that the President of the CBC disclose documents requested and a declaration that CBC had acted unreasonably during the events that lead to the application. Mr. Statham submitted approximately 400 Access to Information requests to the CBC between September 1, 2007 and December 12, 2007. The CBC failed to acknowledge receipt of these requests within the 30-day limit mandated by section 7 of the Act. Unlike the present case it did not claim an extension of time under section 9 of the Act. Because of the failure to respond Mr. Statham filed a number of complaints to the OIC. The OIC initiated an investigation of the CBC on January 9, 2008. The Court noted that CBC repeatedly failed to provide the OIC with an action plan and frequently changed its commitment date for responding to requests. At paragraph 7 the Court found that in a meeting between representatives of the OIC and the CBC on March 28, 2008, the OIC "proposed what they thought was a reasonable and realistic goal of April 1, 2009" at which time the CBC would be expected to respond to every outstanding request.
+[19]
+On March 31, 2008, the OIC sent three letters to Mr. Statham to report on the results of the investigation of his complaints. As in the case at bar the OIC affirmed in the third letter that the institution's failure to respond to the requests meant that it was in a "deemed-refusal situation pursuant to subsection 10(3) of the Act". As stated in
+Statham
+, at paragraph 8, the OIC also used similar language to indicate why it had concluded the complaint to be resolved:
+... the institution has provided assurances to our office that, through its best efforts, it will respond to all of the requests [...] on or before April 1, 2009. [...] I consider this to be a reasonable commitment on CBC's part to finalize the processing of all your listed requests.
+While your complaints are valid, I conclude that they are resolved on the basis that CBC has undertaken to respond to each request on or before April 1, 2009. As each response is provided to you by the CBC, in the coming months, you do of course have the right under section 31 of the Act to complain to this office.
+In accordance with paragraph 30(1)(
+a
+) and subsection 37(5) of the Act, please be advised that having now received our report on the results of our investigation with respect to these deemed-refusals to disclose records requested under the Act, section 41 provides that you have the right to apply to the Federal Court for a review of the Canadian Broadcasting Corporation's deemed-refusal to deny you access to the records you requested. Such an application should name the President of the Canadian Broadcasting Corporation as respondent and it must be filed with the Court within 45 days of receiving this letter.
+[20]
+As in the facts of the present case, Mr. Statham did not wait to find out whether CBC would comply with the commitment date, but filed an application for judicial review on May 18, 2008 in compliance with the 45-day limit to apply to the Federal Court triggered upon receipt of the OIC report. Also similar to the present case (as well as
+X
+(1), supra and
+X
+(2), supra), the institution had responded to all of the requests by the time of the hearing.
+[21]
+Justice de Montigny found the matter to be moot due to the disclosure and exercised his discretion to hear the application nonetheless (
+Statham
+, at paragraph 30).
+[22]
+I note, first, that Justice de Montigny appears to narrow the scope of review of refusals by the Federal Court such that a deemed refusal pursuant to subsection 10(3) is not a refusal for the purposes of section 41. The following paragraphs of
+Statham
+, supra, are important:
+[39] ... It seems to me the applicant could not apply to the Court while the CBC was still within the time frame set by the Commissioner. The Commissioner could have chosen to initiate his investigation, upon the complaint of the applicant, as if there had been a true refusal. Just as in the case of
+Canada Information Commissioner v. Minister of National Defence
+, supra, he chose instead to split his investigation and to try to get a response from the institution, leaving for a second stage the examination of the merits of whatever response might be provided. As a result, the applicant could not apply to the Court until April 1, 2009, as it could not yet be said until the expiry of that delay period granted by the Commissioner that the CBC had refused access to the records.
+[40] Section 41 of the Act states that an applicant may apply to the Court if he or she has been refused access to a record and has complained to the Commissioner in respect of that refusal. It is clear from the context of the Act read as a whole and from the wording of that section that the Court was granted jurisdiction in cases where access to the record had been denied, in whole or in part. This is consistent with section 37 of the Act, focused as it is on the actual content of the response provided by a government institution and its conformity with the Act.
+[41] Of course, the Commissioner could have initiated his investigation as if there had been a true refusal, without giving the CBC any further delay to respond. In such a scenario, the applicant could have come to the Court and sought a review if the CBC had not complied with the findings and recommendations of the Commissioner. But this was not the course of action chosen by the Commissioner. Accordingly, it was premature to come to the Court before April 1, 2009. In other words, I do not think this Court has jurisdiction to judicially review the determination of a delay for answering ATI requests approved by the OIC in the exercise of its power under the Act.
+[42] While I have been unable to find any precedent dealing specifically with this issue, there have been cases where an applicant brought an application to the Court after a government institution, despite having sought a time extension, had failed to respond before the expiry of the extended deadline. In the first decision, the Court concluded that it had jurisdiction to entertain a judicial review even if the response was provided before the hearing:
+Canada (Information Commissioner) v. Canada (Minister of External Affairs)
+, [1990] 3 F.C. 514. This interpretation, however, was rejected in two subsequent decisions: see
+X v. Canada (Minister of National Defence)
+, (1990) 41 F.T.R.16 and
+X v. Canada (Minister of National Defence)
+, [1991] 1 F.C. 670 (F.C.T.D.). In that last decision, Justice Strayer explicitly endorsed the approach taken by Dubé, J. in the preceding case and wrote that "...unless there is a genuine and continuing refusal to disclose and thus an occasion for making an order for disclosure or its equivalent, no remedy can be granted by this Court".
+[43] I am therefore reinforced in my view that this Court does not have jurisdiction to entertain the application filed by the applicant.
+Even if the CBC was initially in a deemed refusal situation, it could not be said at the time of the hearing that the applicant had a genuine and continuing claim of refusal of access
+. Further, it is not much of a stretch to add that the applicant did not have a genuine and continuing claim of refusal of access either during the extension period given to the CBC to respond to his requests. (Emphasis is mine.)
+[23]
+Justice de Montigny appears to have relied on the language of Justice Strayer in
+X
+(2) that unless there is a "genuine and continuing refusal to disclose" the Court will not have jurisdiction under section 41 of the Act. However, in my opinion Justice Strayer was distinguishing from a delay period invoked by section 9 and this language was not meant to apply to a deemed refusal situation. Earlier in his reasons he affirms that a "deemed refusal" is one of the two grounds upon which an applicant may make an application to the Court pursuant to section 41 of the Act.
+[24]
+However, this is not determinative in the present case as there is another legal issue that is not discussed in
+X
+(1), supra, or
+X
+(2), supra, and which is significant to this motion.
+[25]
+In his reasons, Justice de Montigny determined that subsection 37(1) of the Act grants the OIC the power to issue recommendations that it considers appropriate to solve such complaints. This power "encompasses the right to set a time frame" such that section 9 is superseded. "It is for the Commissioner to assess the circumstances and to determine a reasonable extension of time to comply with its recommendations" (
+Statham
+, at paragraph 36). The practical effect of this power is that the OIC can cure a deemed refusal by approving a "commitment date". Thus, the commitment date becomes a time limit set out in this Act referred to in subsection 10(3). If this interpretation is applied to the present case then the respondent could not have been in a deemed refusal situation when the applicant filed his application for judicial review and consequently the Court would not have jurisdiction. Consequently I would, on the basis of this interpretation dismiss the motion.
+[26]
+Counsel for the applicant presented forceful and interesting arguments that the finding in
+Statham
+undermines the purpose of the Act to provide access to records in a timely fashion. I note that the applicant in
+Statham
+filed a Notice of Appeal of that decision on November 12, 2009 in the Federal Court of Appeal.
+[27]
+In the circumstances, it is appropriate to defer to my colleague's interpretation of subsection 37(1) of the Act as set out in
+Statham
+, supra and apply it to the facts of this motion. Accordingly, the OIC cured the deemed refusal when it approved a new delay period, ending on September 28, 2009, for the respondent to comply with the request. The applicant's application for judicial review was premature as there was no refusal for the purpose of section 41.
+(2) Discretion to Award Costs:
+Should the Court exercise its discretion pursuant to section 53 of the Act and Rule 400 of the
+Federal Courts Rules
+to award costs?
+[28]
+Because I have concluded, on the basis of
+Statham
+, supra, that this Court had no jurisdiction to hear the underlying application for judicial review pursuant to section 41 of the Act, but the law in this area has yet to be determined by the Court of Appeal, I do not award costs against either party.
+ORDER
+[29]
+The motion is dismissed without costs. The applicant remains free to file a notice of discontinuance with respect to the underlying application based on section 41 of the
+Access to Information Act
+.
+[End of document]

@@ -1,0 +1,310 @@
+[1]
+von Finckenstein, J.
+: This dispute arises out of the former Net Income Stabilization Program ("NISA Program"). The facts were laid out in my previous decision of February 5, 2004 (
+Sander Holdings Ltd. et al. v. Canada (Attorney General)
+, [2004] F.C.J. No. 221, 247 F.T.R. 123; 2004 FC 188) and for the sake of simplicity, they are restated in the following thirteen paragraphs.
+[2]
+The NISA Program was introduced in 1991 to assist producers in stabilizing their farming income. The Program was legislated through the
+Farm Income Protection Act
+, S.C. 1991, c. 22 which received Royal Assent in 1991. This enabling legislation provided a framework under which agreements were to be developed with the provinces in order to implement the NISA Program.
+[3]
+The Federal/Provincial Agreement between Canada and the provinces that established the NISA Program (NISA Agreement) was entered into force in 1991. In accordance with section 6.2 of the NISA Agreement, Canada is responsible for the administration of the NISA Program.
+[4]
+The NISA Agreement provides for the National NISA Committee (NISA Committee) to perform an advisory role to Canada. The NISA Committee is composed of federal, provincial and producer representatives. The composition and functions of the NISA Committee are set out in Article 2 of Schedule C of the NISA Agreement as follows:
+"National NISA Committee Structure
+2.1 The Committee shall include a minimum of six and a maximum of ten producers appointed by the Minister to represent commodity groups and regions of Canada. Appointees must be individuals directly or indirectly participating (or agreeing to become a participant) in the Program
+2.2. Producers shall be appointed for a maximum of a three (3) year term. In the first year, some producers will be appointed to a one year term, some to a two (2) year term and the remainder to a three (3) year term.
+2.3 Each participating Province may name one member to the Committee.
+2.4 Canada may name four (4) members to the Committee.
+2.5 Canada shall name the chairperson of the Committee from those individuals appointed above. The chairperson shall be responsible to refer matters of significant financial impact to the parties to this Agreement for approval.
+2.6 Each member will have equal voting power."
+[5]
+The NISA Agreement also has a special amendment clause which reads as follows:
+"Except as provided in section 5 of Schedule B, this Agreement may be amended from time to time by the agreement of Canada and at least two-thirds of the participating Provinces where these Provinces represent at least fifty (50) percent of the eligible net sales reported to the Program in the previous year. A Province which does not wish to comply with an amendment respecting significant financial implications, may elect, by written notice to Canada, to withdraw from the Agreement as of the end of the next calendar year and the amendments will not apply to that Province for this period"
+[6]
+The program operates by allowing a producer to make both matchable and non-matchable deposits to the program. A producer can deposit up to three percent (3%) of his or her eligible net sales ("ENS") and receive matching contributions cost-shared between the federal and participating provincial governments. A producer can also make additional deposits of up to twenty percent (20%) of his or her ENS, although these deposits are not matched by the governments. All deposits earn a three percent (3%) interest bonus. The NISA Agreement does not define the word "sales". Therefore, since the signing of the Agreement, the administration has had to interpret at what point and for what value it can be said that a producer sells its grain.
+[7]
+The participation of any producer in the NISA Program is entirely voluntary. There were approximately 157,000 producer participants in the NISA Program for the 2002 stabilization year.
+[8]
+The NISA Agreement defines "eligible net sales" as the net sales of commodities which are specified in Schedule B of the Agreement. The definition of "eligible expenses" plays no role in establishing the value of "net sales", "eligible net sales" or the value of government contributions under section 4.2 of the NISA Agreement.
+[9]
+The NISA Agreement further establishes an Appeals Sub-Committee of the NISA Committee ("Appeals Sub-Committee") in accordance with section 6 of Schedule C of the NISA Agreement. The Appeals Sub-Committee hears appeals of participants in the NISA Program from decisions of the administration and recommends action to the administration. Individual producers who believe that their ENS or the matching government contributions were improperly calculated can, and regularly do, appeal to this Appeals Sub-Committee.
+[10]
+Each year, participants in the NISA Program are asked to complete a form that details income and expenses in various categories. The forms are to be completed in accordance with the instructions provided in the application packages and producer handbooks that are forwarded to producers. These instructions include guidelines called the Point of Sale Guidelines ("POS Guidelines") and are designed to assist participants in determining their net sales for the purposes of the NISA Program.
+[11]
+Until 1994, the POS Guidelines read as follows:
+"The point of sale occurs when one of the following point is met:
+- you no longer have full ownership of the commodity; or
+- you no longer have full managerial control of the commodity to make decisions on transportation, cleaning, packaging, marking etc, or
+- you are no longer fully responsible for the loss of the commodity; or
+- your sales invoice does not clearly show the actual sale value of the commodity."
+[12]
+In October 1994, the NISA Committee recommended that the POS Guidelines be changed to read as follows:
+"Participants may report for NISA the gross revenues of qualifying commodities and the applicable expenses recognized in the calculation of farming income for income tax purposes providing:
+- The commodities were produced on their farm;
+- They can demonstrate ownership of the product through identity preservation and bear full direct ownership of the commodity; and
+- They have separate billing or accounting transactions clearly showing the commodity sales value and any deductions from the commodity sales value."
+[13]
+Since this time, the NISA Program has been administered in accordance with these new guidelines. The Plaintiffs allege that this has meant that freight and elevation costs are no longer included in the calculation of their ENS. The Defendant denies this, claiming that such costs were never included as eligible net sales and that the guidelines merely represent a clarification of a previous policy.
+[14]
+The Plaintiff's case can be stated as including the following allegations:
+a) that the change to the POS Guidelines amounted to an invalid amendment of the NISA Agreement as it did not comply with amendment provisions of that agreement, or
+b) alternatively, that the guidelines are ultra vires the NISA Agreement, and that
+c) as a result of either a) or b), the Defendant is obliged to reimburse to the Plaintiffs the amounts improperly deducted from their NISA Accounts and their matching government counterpart contributions.
+Summary of Proceedings
+[15]
+The Plaintiffs filed a Statement of Claim in this court on July 10, 2003. The Defendant brought a motion to strike the Statement of Claim for not disclosing a cause of action or, alternatively, that there was no genuine issue for trial. This motion was granted on February 5, 2004 (
+Sander Holdings Ltd. v. Canada (Minister of Agriculture)
+, 2004 FC 188). On appeal (
+Sander Holdings Ltd. v. Canada (Minister of Agriculture)
+, 2005 FCA 9), the Plaintiff was partially successful and Justice Desjardins held at paragraphs 70 and 71:
+"For these reasons, I would allow this appeal, I would set aside the decision of the motions judge and I would grant the respondent Minister's motion
+except insofar as the appellants claim a declaration that the Guidelines are invalid
+.
+"Finally, I wish to emphasise the limited nature of the issue that I have decided in concluding that the motions judge erred in granting the respondent Minister's motion for summary judgment and in dismissing the appellants' claim for a declaration that the Guidelines are invalid.
+In particular, I should not be taken as deciding whether an action, rather than an application for judicial review, is the appropriate procedural form in which the issue should be brought before the Court; whether there are any discretionary bars to the grant of declaratory relief; or whether, if awarded a declaration of invalidity, the appellants are entitled to any consequential relief
+. These are all issues to be decided when and if the matter comes before the Federal Court for determination." (Underlining added)
+[16]
+The Plaintiff then brought a motion asking for leave to file an Amended Statement of Claim and at the same time seeking certification of the action as a class action. In its Amended Statement of Claim, the Plaintiff sought a declaration that the POS Guidelines are invalid, a declaration that participants in the NISA program were entitled to include freight and elevator charges in ENS, damages for breach of trust obligations, breach of contract, negligence or unjust enrichment.
+[17]
+The Defendant opposed the motion. In the interim, the Federal Court of Appeal rendered its decision in
+Grenier v. Canada
+(2005), 344 N.R. 102; 2005 FCA 348, stating at paragraph 24 that reviews "must be exercised under section 18, and only by filing an application for judicial review".
+[18]
+As a result, the court granted permission to the Plaintiff to structure its motion in the following manner:
+1) The court would hear the Plaintiff's motion seeking to amend its Statement of claim; and
+2) If unsuccessful, the court would also hear, in the alternative, the Plaintiff's motion as to whether:
+a) the statement of claim should be considered an application for judicial review;
+b) the Plaintiff requires leave to file the judicial review application out of time, and if so, should leave be granted; and
+c) if leave is granted, whether the Plaintiff's judicial review application should be converted back into an action and whether the action should be certified as a class action.
+[19]
+I will proceed to consider Plaintiff's motion in that order.
+Issue 1: Amendment of the Statement of Claim
+[20]
+The Plaintiff seeks to amend its Statement of Claim to argue breach of trust obligations, breach of contract, negligence and unjust enrichment. The Plaintiff relies on Rule 75 of the
+Federal Court Rules
+, SOR/98-106 (the "
+Rules
+") and the well-established doctrine that the court will allow an amendment that serves the interests of justice and does not result in an injustice that is not compensable by costs (see
+Minister of National Revenue v. Canderel Ltd.
+, [1994] 1 F.C. 3; 157 N.R. 380 (F.C.A.)).
+[21]
+In the present case, the Court of Appeal was very precise in its ruling; to wit "I would grant the respondent Minister's motion
+except insofar as the appellants claim a declaration that the Guidelines are invalid
+". (emphasis added)
+[22]
+Thus, the original Statement of Claim is dead, except for the issue of a declaration of invalidity of the POS guidelines. There was no mention of breach of trust obligations, breach of contract, negligence and unjust enrichment in the original Statement of Claim. If the Plaintiff wishes to now raise these issues, it should file a new Statement of Claim. Any applicable limitation periods would then have to be considered as of the date of the new Statement of Claim.
+[23]
+In addition, the Federal Court of Appeal has established firmly in
+Grenier
+, above at paragraph 24 that:
+"In the interests of justice, equity and efficiency, subject to the exceptions in section 28, Parliament assigned the exercise of reviewing the lawfulness of the decisions of federal agencies to a single court, the Federal Court.
+This review must be exercised under section 18, and only by filing an application for judicial review
+."
+[24]
+My colleague, Justice Blanchard, recently applied the reasoning in
+Grenier
+, above, in
+Renova Holdings Ltd. et al. v. Canadian Wheat Board et al.
+(2006), 286 F.T.R. 201; 2006 FC 71. In that case, Justice Blanchard held that in order to determine if the plaintiff must proceed by way of judicial review, the Court must ascertain the true nature of the remedy being sought. At FRAGMENT_SUPPRESSED, he held that by claiming the Board's actions are ultra vires the act, the plaintiff wants a declaration that the Board's actions are invalid:
+FRAGMENT_SUPPRESSED
+After determining that the nature of the relief sought is declaratory, and applying the holding in
+Grenier
+, above, Justice Blanchard held that proceeding by way of an action is not an option.
+[25]
+I agree with Justice Blanchard and feel the rationale is equally applicable in this case. The Plaintiff here is seeking a declaration that the NISA Program's action are ultra vires either by adopting the POS Guidelines or by denying their appeal when they protested against the deduction of freight and elevating costs from their ENS. They are in effect asking the court to determine that the actions of the NISA Administration or the Appeals Sub-Committee are invalid. Therefore, proceeding by way of action, in light of
+Grenier
+, above is no longer an option.
+[26]
+For these two reasons, leave to amend the Statement of Claim as requested by the Plaintiff will not be granted.
+Issue 2(a): Should the Statement of Claim be considered an application for judicial review?
+[27]
+The jurisprudence clearly establishes that Rule 57 and 59(b) of the
+Rules
+can be used to convert an action into an application for judicial review (see
+McLean v. Canada
+, [1999] F.C.J. No. 400; 164 F.T.R. 208 (T.D.), and
+Khaper v. Canada
+, [1999] F.C.J. No. 2014; 182 F.T.R. 78 (T.D.)). Given that the Federal Court of Appeal held that the Plaintiff may advance a "claim for a declaration that the Guidelines are invalid" and given that pursuant to
+Grenier
+, above such a claim can only be advanced by judicial review, I see no reason why, in principle, this claim should not be converted into an application for judicial review.
+Issue 2(b): Does the Plaintiff require leave to file the judicial review application out of time, and if so, should leave be granted?
+[28]
+The POS Guidelines were adopted in October 1994. Audits under the NISA Program based on the POS Guidelines took place in 1998. The Plaintiff and other producers appealed the results of their audit under the POS Guidelines to the Appeals Sub-Committee. The producer's appeal was denied on November 29, 2001. The subsequent Statement of Claim was then issued on July 10, 2003. Unless otherwise provided by the court, judicial reviews under s. 18.1 of the
+Federal Courts Act
+, R.S.C. 1985 (the "
+Act
+") must be made within 30 days from when the decision is first communicated to the applicant. Justice Blais held in
+Khaper
+, above, that before the conversion of the action to a judicial review is granted, the Plaintiff must convince the Court that an extension of time should be granted if the time period applies. Thus, in terms of attacking the adoption of the POS Guidelines as an ultra vires amendment of the POS Guidelines, the Plaintiff is eight years and eight months out of date; in terms of attacking the Appeals Committee decision as being based on ultra vires POS Guidelines, the Plaintiff is eighteen months out of date.
+[29]
+The Federal Court of Appeal in
+Stanfield v. Minister of National Revenue
+(2005), 333 N.R. 241; 2005 FCA 107, at paragraph 3 stated the classic test for an extension of time as follows:
+"Generally, in determining whether to grant an extension of time, the four factors listed in
+Grewal v. Canada (Minister of Employment & Immigration)
+, [1985] 2 F.C. 263 (F.C.A.) should be considered. The factors are (1) whether the party seeking the extension has a continuing intention to pursue the matter, (2) whether the position taken by the party seeking the extension of time has some merit, (3) whether the other party is prejudiced by the delay, and (4) whether there is a reasonable explanation for the delay. The weight to be given to each of these factors will vary with the circumstances of each case."
+[30]
+In the instant case, I have no problem in finding that the Plaintiff meets condition 2 of the
+Grewal
+test as quoted above. However, I have problems with the other three points. There is no affidavit from the Plaintiff either affirming the intention to pursue the matter or explaining the delay. The absence of an affidavit from the Plaintiff is not explained. In
+Virdi v. Minister of National Revenue
+, [2006] N.R. Uned. 29; 2006 FCA 38, Justice Decary observed:
+"[2] As the moving party, the appellant bore the burden of establishing the elements necessary for an extension of time. Generally speaking, this must be done by affidavit evidence sworn by the moving party himself that can be subject to cross-examination.
+"[3] In the case at bar, the appellant did not see fit to swear his own affidavit. Instead, he asks the Court to find that he had a reasonable explanation for his delay, a continuing intention to seek judicial review and an arguable case solely on the basis of an affidavit sworn by his lawyer's secretary.
+This failure to provide his own evidence to the Court was, in this case, fatal to his motion
+." (underlining added)
+[31]
+The same reasoning applies, in my view, to this case. The only affidavit furnished by the Plaintiff is from Mr. Barry Jolly, an income tax consultant, who is clearly the driving force behind the whole NISA litigation. He states:
+"The NISA participants shared the cost of administration which, was a stated fee deducted from their NISA accounts by the Minister of Agriculture of Canada, therefore I believe the NISA participants did not receive value for services paid. The application of the point of sale guidelines has resulted in a significant reduction in support for NISA participants in western Canada through the NISA program and other support programs. I have had to be persistent and extremely patient with NISA officials. I have spent almost a year and a half pressing lawyers who would not call back for months or return documents in a timely manner or after months of reviewing my binders suddenly became too busy to continue. One lawyer, after having expressed no conflict of interest, then tried to arrange a meeting with a Minister who was this lawyer's stated friend. Another lawyer after months of reviewing documents then told me their firm was unable to file a claim in Saskatchewan. I have had to continually press on or the NISA program adjustments would have been irreversible. I have tried to receive definitive answers on behalf of my NISA participants to definitive questions on the monetary losses they suffered in this now convoluted issue, which was going unchecked."
+[32]
+This explanation does not address the intention to pursue the matter by the Plaintiff, nor the delay of a minimum of eighteen months, let alone the delay of eight years following the 1994 decision of the NISA committee to change the POS Guidelines.
+[33]
+In addition, the affidavit of Rasa Rutkauskas, dated July 29, 2004, advises that the NISA Program is no longer in existence and that some NISA Program documents have been destroyed. Thus, the Defendant will suffer prejudice if an extension is granted.
+[34]
+Even if I find that the 30-day period to file the Application for Judicial Review does not apply in this situation, I would still deny the conversion on the basis of the unreasonable delay in initiating the proceedings with the Court. The reasoning in
+Krause et al. v. Canada et al.
+, [1999] 2 F.C. 476; 236 N.R. 317 (F.C.A.) at paragraph 19 is persuasive. The Court held that the remedy of a declaration is discretionary and will be denied where there has been unreasonable delay. As I held in paragraph 32, I find the delay in the present case to be unreasonable and lacking sufficient justification by the Plaintiff.
+[35]
+For all these reasons, I find that this is not a case where I am prepared to exercise my discretion and grant an extension for filing a Notice of Application under s. 18.1 (2) of the
+Act
+.
+Issue 2(c): If leave is granted, can the Plaintiff's judicial review application be converted back into an action with the purpose for the action to be certified as a class action?
+[36]
+In case a reviewing court decides I am wrong and that an extension of time to file an application is not required or should be granted given the present circumstances, I will now address the issue of reconversion to an action and certification of class action as sought by the Plaintiff. Justice Rothstein in
+Tihomirovs v. Canada (Minister of Citizenship and Immigration)
+(2005), 339 N.R. 210; 2005 FCA 308, stated at paragraph 6:
+"There is no provision in the
+Federal Courts Rules
+, SOR/2004-283, for class judicial review proceedings. If the matter is to proceed on a class basis, certification of a class will require that the judicial review be converted to an action pursuant to subsection 18.4(2) of the
+Federal Courts Act
+, R.S., 1985, c. F-7; 2002, c. 8, s. 14."
+[37]
+This of course means that one must look at Rule 299.18(1) which sets out the five criteria required for class action certification. It provides:
+"299.18(1) Subject to subsection (3), a judge shall certify an action as a class action if
+(a) the pleadings disclose a reasonable cause of action;
+(b) there is an identifiable class of two or more persons;
+(c) the claims of the class members raise common questions of law or fact, whether or not those common questions predominate over questions affecting only individual members;
+(d) a class action is the preferable procedure for the fair and efficient resolution of the common questions of law or fact; and
+(e) there is a representative plaintiff who
+(i) would fairly and adequately represent the interests of the class,
+(ii) has prepared a plan for the action that sets out a workable method of advancing the action on behalf of the class and of notifying class members how the proceeding is progressing,
+(iii) does not have, on the common questions of law or fact, an interest that is in conflict with the interests of other class members, and
+(iv) provides a summary of any agreements respecting fees and disbursements between the representative plaintiff and the representative plaintiff's solicitor."
+[38]
+Rule 299.18(1) is a conjunctive test such that if the Plaintiff fails to meet one of the five criteria, the action will not be certified as a class action. There is little Federal Court jurisprudence on this issue. However, the recent decision of Justice Mactavish in
+Tihomirovs v. Canada (Minister of Citizenship and Immigration)
+(2006), 287 F.T.R. 71; 2006 FC 197, examines each of these factors and I will rely upon her reasoning in my analysis.
+Reasonable Cause of Action
+[39]
+Given that the Federal Court of Appeal has held there is a genuine issue for trial or judicial review, and allowed the Plaintiff's appeal from my summary judgment regarding a declaration that the POS Guidelines are invalid, the Plaintiff has satisfied this factor.
+[40]
+In order for the Court to focus on this application, the Plaintiff filed a pro forma Notice of Application. If this matter were to proceed by an Application for Judicial Review, that Notice of Application would have to be redrafted and limited to the only issue in play, i.e. the question of whether the POS Guidelines are ultra vires.
+Identifiable Class
+[41]
+Although this criterion has been held to not be an onerous one (see
+Hollick v. Metropolitan Toronto (Municipality) et al.
+, [2001] 3 S.C.R. 158; 277 N.R. 51; 153 O.A.C. 279; 2001 SCC 68, at paragraph 21), the Plaintiff must still establish the following:
+a) there is an identifiable class of two or more persons;
+b) the class is not unlimited; and
+c) it can be defined by reference to objective criteria.
+[42]
+The members of the class, as proposed by the Plaintiff, must meet the following four criteria:
+a) be a participant under the NISA Program;
+b) have reported commodity sales on their NISA applications;
+c) have shipped grain through the Canadian Wheat Board; and
+d) reside in Canada between 1994 and the date of the decision.
+[43]
+The Plaintiff argues that these criteria exhibit the requisite objective criteria, and consists of a class of up to 90,000 plaintiffs. The Plaintiff believes that the class is not too broad as there is no way to narrow it without excluding some deserving participants.
+[44]
+The Defendant disagrees. It argues the class is overbroad as it includes participants who did not make full matchable deposits into their NISA accounts. Furthermore, the class includes those who, due to the way they calculated their ENS, the alleged amendment to the POS Guidelines did not affect them. The class should also not include those who reported an ENS over the $250,000 maximum annual amount.
+[45]
+The Plaintiff's definition does present objective criteria without referencing the merits of the action as required in
+Hollick
+, above at paragraph 17. Furthermore, the personal characteristics defining the group have been clearly established. There is also a rational connection between the proposed class and the common issue of the change to the POS Guidelines and its effect on the proposed class. On the surface, the Plaintiff has met its burden to show the proposed class meets the three criteria enumerated in
+Hollick
+, above.
+[46]
+However, I feel there is merit to the Defendant's concerns regarding the class definition as proposed by the Plaintiff being too broad. Those producers who did not change the way their ENS was calculated, and were thus not affected by the alleged changes to the POS Guidelines should not be included in the class. Furthermore, there is no reason to include in the class those producers who reported an ENS over the maximum annual amount, and made their maximum matchable deposits.
+[47]
+I note that the Supreme Court of Canada held in
+Hollick
+, above that a decision that the class should be defined more narrowly is not a reason, in and of itself, to disallow certification of the action. Thus, the class action can be certified on condition that the definition of the class be amended. Subject to such amendment, the second certification criterion, therefore, has been satisfied.
+Common Questions of Law or Fact
+[48]
+The Plaintiff submits there are two common issues:
+a) whether the POS Guidelines are ultra vires and/or invalid; and
+b) whether pursuant to the NISA Agreement, participants under the NISA Program were entitled to include the gross sales amount reported on their Wheat Board grain sales tickets in their eligible net sales (without having to deduct freight and elevation expenses).
+[49]
+Should the class definition be amended to reflect its concerns, the Defendant concedes the Plaintiff has raised at least one common issue. Thus, the third certification criterion has been satisfied.
+Is Class Action the Preferable Procedure?
+[50]
+While Rule 299.18(2) of the
+Federal Court Rules
+directs that I must consider all relevant matters, it also enumerates five matters that are of particular importance. The Rule states as follows:
+"(2) All relevant matters shall be considered in a determination of whether a class action is the preferable procedure for the fair and efficient resolution of the common questions of law or fact, including whether
+(a) questions of law or fact common to the members of the class predominate over any questions affecting only individual members;
+(b) a significant number of the members of the class have a valid interest in individually controlling the prosecution of separate actions;
+(c) the class action would involve claims that are or have been the subject of any other action;
+(d) other means of resolving the claims are less practical or less efficient; and
+(e) the administration of the class action would create greater difficulties than those likely to be experienced if relief were sought by other means."
+[51]
+The two forms of proceedings that would be applicable to this matter are proceeding by way of judicial review or by way of class action. Judicial review is considered to be a relatively inexpensive and expeditious way to resolve an issue. However, as viva voce evidence is not permitted, it does have some limitations. A class action proceeding would allow witnesses to testify in court to give the court the benefit of assessing demeanour and credibility. It would also enable the parties to cross-examine the witnesses. However, a class action proceeding runs the risk of considerable expense, delay, and protracted proceedings.
+[52]
+The Plaintiff argues that the Federal Court of Appeal has stated that there is a factual issue in this matter that cannot be summarily decided. Affidavits are thus inadequate to resolve these issues, and discoveries are necessary to properly address the issues.
+[53]
+With respect, the Federal Court of Appeal granted the Plaintiff's appeal of the summary judgment in that there is a genuine issue as to whether a change to the POS Guidelines occurred, and whether that change constitutes an amendment to the NISA Agreement. The facts regarding this issue were in dispute and thus not able to be resolved on a summary judgment application. The Court concluded at paragraph 57 that:
+"There is a genuine issue for trial or judicial review."
+Thus, the Federal Court of Appeal did not hold that judicial review is not a viable method to resolve this matter.
+[54]
+The Plaintiff further argues that a judicial review would not be able to adequately address the conflict in the current Affidavit evidence of Mr. Jolly and Ms. Rutkauskas as filed with the court.
+[55]
+Justice Mactavish in
+Tihomirovs
+, above provided an excellent analysis regarding the appropriateness of class action at paragraphs 116 to 120:
+"Finally, Mr. Tihomirovs argues that to require each member of the proposed class to launch their own application for judicial review would be repetitive and unnecessarily expensive, and would place an undue burden on the judicial system.
+"Most of Mr. Tihomirovs' arguments are premised on the assumption that a determination of the legality of the
+Regulations
+would have to be made in every individual case. That is, he seems to assume that even if he is ultimately successful in his own application for judicial review, the decision in his case would have no impact on the applications of the other members of the proposed class.
+"This is simply not the case. Indeed, a declaration, whether obtained in an action or in the context of an application for judicial review, may determine the rights of a class of people in much the same way as a class proceeding:
+Auton v. British Columbia
+, previously cited, at para. 47.
+"As the respondent pointed out, the Minister is obliged to follow the law. As a consequence, should the Court ultimately declare that the regulation in question is ultra vires, and that members of the proposed class are entitled to have their applications for permanent residence assessed in accordance with the criteria set out in the
+Immigration Act
+, the Minister will be obliged to act accordingly. This will be the case, whether or not individual members of the proposed class assert their right to have their applications treated in this fashion.
+"As a result, there is no need to ensure that all of the members of the proposed class be party to a class action in order to derive a benefit from a favourable decision in Mr. Tihomirovs' case. Moreover, requiring that notice be given of the litigation and of the court's resolution of the common question will only add unnecessary cost and delay to the process."
+[56]
+The issue underlying this matter arose in August 1994 when the POS Guidelines were amended or in November 2001 when the Plaintiff's appeal before the Appeals Sub-Committee was denied. Given that almost 12 years have passed since the adoption of the POS Guidelines and 5 years since the dismissal of the appeal, in the interest of efficiency and finality, judicial review appears to be the most expeditious way to resolve this matter. Any possible delays that may arise in having the matter proceed to resolution, which are inherent in a class action, should be avoided.
+[57]
+While there are factual differences in the affidavits of Mr. Jolly and Ms. Rutkauskas, these differences relate to the calculations employed by the NISA Administration. It is, therefore, necessary to ascertain what procedure was used by the NISA Administration. Such determination involves the examination of documentary evidence but does not involve determining credibility. I therefore see no need for a trial and viva voce evidence; the necessary facts can be established through affidavits and cross-examinations. In the interest of justice to both parties, this matter should proceed via judicial review. Should the Plaintiff be successful in having the POS Guidelines declared ultra vires, that decision will have to be addressed by the Defendant and appropriate action will undoubtedly ensue.
+[58]
+Given this reasoning, a class action proceeding is not the preferable procedure for resolving this matter. Thus, the Plaintiff has not satisfied the fourth criterion for class action certification.
+Representative Plaintiff
+[59]
+This is the fifth and last criterion that must be considered in the conjunctive test for class action. Rule 299.19(1)(e) establishes four criteria that must be met to determine if there is a representative plaintiff. It states as follows:
+"299.18(1) Subject to subsection (3), a judge shall certify an action as a class action if
+. . . . .
+(e) there is a representative plaintiff who
+(i) would fairly and adequately represent the interests of the class,
+(ii) has prepared a plan for the action that sets out a workable method of advancing the action on behalf of the class and of notifying class members how the proceeding is progressing,
+(iii) does not have, on the common questions of law or fact, an interest that is in conflict with the interests of other class members, and
+(iv) provides a summary of any agreements respecting fees and disbursements between the representative plaintiff and the representative plaintiff's solicitor."
+[60]
+The Defendant submits that the present Plaintiffs have irreconcilable interests that are in conflict with one another. Sander Holdings Ltd. and Mathew Nagle have always included the post-sale freight and transportation costs in the ENS calculations. Donald Patenaude included the costs in the calculations only until 1998. Once his ENS was adjusted by the NISA Administration to comply with the amended POS Guidelines, Mr. Patenaude reported costs in the manner stipulated by the NISA Administration.
+[61]
+However, if one looks at the common issues, that being a) ultra vires and b) whether the participants were entitled to include the freight and transportation costs in the ENS calculations, the manner in which the Plaintiffs calculated their ENS after 1998 does not affect whether or not they can be representative plaintiffs. Furthermore, each of the proposed representative plaintiffs meets the four proposed criteria for defining the class.
+[62]
+I see no reason why the Plaintiffs should not be considered representative plaintiffs for the proposed class action.
+Conclusion
+[63]
+Accordingly, as:
+a) the Plaintiff failed to convince the Court to allow the Statement of Claim to be amended;
+b) the Plaintiff has failed to adequately explain the delay in initiating this matter with the Court; and
+c) the Plaintiff has failed to demonstrate that a class action proceeding is the preferable method to resolve the matter.
+this application cannot succeed.
+ORDER
+[64]
+THIS COURT ORDERS that this application be dismissed with costs to the Defendant.
+Motion dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

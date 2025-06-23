@@ -1,0 +1,183 @@
+[1]
+Kelen, J.
+: This is an application for judicial review of the decision of the Immigration Division of the Immigration and Refugee Board, dated November 8, 2002 determining that the applicant is inadmissible to Canada on grounds of serious criminality under s. 36(1)(a) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 ("
+IRPA
+").
+FACTS
+[2]
+The applicant, born in Ethiopia in 1980, came to Canada as a permanent resident with his family in 1992. He was 12 years of age. Five years later, in 1997, at the age of 16 years old, the applicant was charged with several criminal offences contrary to the
+Criminal Code
+, R.S.C. 1985, c.C-46 related to pimping and assault. Because the applicant was under the age of 18 years old, he was governed by the
+Young Offenders Act
+, R.S.C. 1985, c.Y-1, as repealed by
+Youth Criminal Justice Act
+, S.C. 2002, c.1, s.199 ("
+YOA
+").
+[3]
+On an application by the Crown pursuant to subsection 16(1) of the
+YOA
+, the youth court (properly described as the Youth Division of the Provincial Court of Alberta) transferred the proceedings against the applicant to the ordinary court, i.e. the court where an adult charged with the same offences would ordinarily be tried.
+[4]
+The applicant was convicted of seven offences under the
+Criminal Code
+and sentenced to five years, nine months incarceration, but given credit for time served so that his total sentence was reduced to four years.
+[5]
+Following the convictions, the applicant was reported under subsection 27(1)(d) of the old
+Immigration Act
+, R.S.C. 1985. c I-2 as a permanent resident who has been convicted of an offence for which a term of imprisonment of more than six months has been imposed. This report was referred for an inquiry by an adjudicator of the Immigration Division of the Immigration and Refugee Board to determine if the applicant is inadmissible to Canada, and therefore subject to deportation to his country of origin as alleged in the Report.
+[6]
+The pertinent provisions of the immigration law lead to the deportation of a longstanding Canadian permanent resident who has committed a serious criminal offence, when that longstanding Canadian permanent resident could have long before become a Canadian citizen and accordingly not been subject to deportation for committing a criminal offence. These provisions deport to other countries persons who have become criminals in Canada and who have, many years before, severed all ties with their country of origin. It is not the Court's role to comment on this policy.
+[7]
+Since the hearing before the adjudicator took place on November 8, 2002, after the enactment and coming into force of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 ("
+IRPA
+"), the adjudicator considered the Report under
+IRPA
+and found that the applicant was inadmissible under subsection 36(1)(a) of
+IRPA
+, namely that the applicant was a permanent resident who was inadmissible on grounds of serious criminality for having been convicted in Canada of an offence under the
+Criminal Code
+for which a term of imprisonment of more than six months has been imposed. The adjudicator further held that the exemption for offences under the
+Young Offenders Act
+in subsection 36(3)(e) does not apply to the applicant for the reason that the applicant's case was transferred from youth court to ordinary court under the
+YOA
+, and the applicant was indicted, tried, convicted under the
+Criminal Code
+, and sentenced in ordinary court.
+ISSUE
+[8]
+The issue is whether the transfer of proceedings from youth court to ordinary court under section 16 of the
+YOA
+and the criminal convictions in ordinary court under the
+Criminal Code
+are covered by the exemption under subsection 36(3)(e) of
+IRPA
+for "offences under the
+Young Offenders Act
+".
+RELEVANT LEGISLATION
+[9]
+The relevant sections of the
+Young Offenders Act
+are as follows:
+"Transfer
+"16. (1) Subject to subsection (1.01), at any time after an information is laid against a young person alleged to have, after attaining the age of fourteen years, committed an indictable offence other than an offence referred to in section 553 of the
+Criminal Code
+but prior to adjudication, a youth court shall, on application of the young person or the young person's counsel or the Attorney General or an agent of the Attorney General, determine, in accordance with subsection (1.1), whether the young person should be proceeded against in ordinary court.
+[. . . . .]
+"Order
+"16. (1.1) In making the determination referred to in subsection (1) or (1.03), the youth court, after affording both parties and the parents of the young person an opportunity to be heard, shall consider the interest of society, which includes the objectives of affording protection to the public and rehabilitation of the young person, and determine whether those objectives can be reconciled by the youth being under the jurisdiction of the youth court, and
+[. . . . .]
+(b) if the court is of the opinion that those objectives cannot be so reconciled, protection of the public shall be paramount and the court shall
+(i) in the case of an application under subsection (1), order that the young person be proceeded against in ordinary court in accordance with the law ordinarily applicable to an adult charged with the offence, and,
+[. . . . .]
+"Effect of order
+"16. (7) Where an order is made under this section pursuant to an application under subsection (1), proceedings under this Act shall be discontinued and the young person against whom the proceedings are taken shall be taken before the ordinary court."
+"Renvoi
+"16. (1) Sous réserve du paragraphe (1.01), dans les cas où un adolescent, à la suite d'une dénonciation, se voit imputer un acte criminel autre que celui visé à l'article 553 du
+Code criminel
+, qu'il aurait commis après avoir atteint l'âge de quatorze ans, le tribunal pour adolescents doit, en tout état de cause avant de rendre son jugement, sur demande de l'adolescent ou de son avocat, du procureur général ou de son représentant, décider, conformément au paragraphe (1.1), si l'adolescent doit être la juré par la juridiction normalement compétente.
+[. . . . .]
+"Ordonnance
+"16. (1.1) Pour prendre la décision visée aux paragraphes (1) ou (1.03), le tribunal pour adolescents, après avoir donné aux deux parties et aux père et mère de l'adolescent l'occasion de se faire entendre, doit tenir compte de l'intérêt de la société, notamment la protection du public et la réinsertion sociale de l'adolescent, et déterminer s'il est possible de concilier ces deux objectifs en plaçant celui-ci sous sa compétence; ainsi il doit:
+[. . . . .]
+b) s'il estime que cela n'est pas possible, la protection du public ayant priorité, ordonner le renvoi de l'adolescent visé par une demande présentée en vertu du paragraphe (1) devant la juridiction normalement compétente pour qu'il y soit jugé en conformité avec les règles normalement applicables en la matière,
+[. . . . .]
+"Effet de l'ordonnance
+"16. (7) Le prononcé d'une ordonnance sur le fondement du paragraphe (1) entraîne l'abandon de l'instance engagée en vertu de la présente loi et le renvoi de l'adolescent visé devant la juridiction normalement compétente."
+[10]
+The relevant sections of the
+Immigration and Refugee Protection Act
+are as follows:
+"36. (1) A permanent resident or a foreign national is inadmissible on grounds of serious criminality for
+(a) having been convicted in Canada of an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years, or of an offence under an Act of Parliament for which a term of imprisonment of more than six months has been imposed;
+[. . . . .]
+"Application
+"36. (3) The following provisions govern subsections (1) and (2):
+[. . . . .]
+(e) inadmissibility under subsections (1) and (2) may not be based on an offence designated as a contravention under the Contraventions Act or an offence under the Young Offenders Act.
+"36. (1) Emportent interdiction de territoire pour grande criminalité les faits suivants:
+a) être déclaré coupable au Canada d'une infraction à une loi fédérale punissable d'un emprisonnement maximal d'au moins dix ans ou d'une infraction à une loi fédérale pour laquelle un emprisonnement de plus de six mois est infligé;
+[. . . . .]
+"Application
+"36. (3) Les dispositions suivantes régissent l'application des paragraphes (1) et (2):
+[. . . . .]
+e) L'interdiction de territoire ne peut être fondée sur une infraction qualifiée de contravention en vertu de la Loi sur les contraventions ni sur une infraction à la Loi sur les jeunes contrevenants."
+ANALYSIS
+[11]
+This is the first time in which the exemption contained in subsection 36(3)(e) of
+IRPA
+has been judicially considered. The applicant contends that the exemption is ambiguous in that it refers to "an offence under the
+Young Offenders Act
+", without reference to whether the offence under the
+YOA
+has been transferred to ordinary Court. The argument is that the applicant, who was 16 years of age at the time of the charges, was proceeded with under the
+YOA
+. The fact that the charges were transferred to ordinary court in the interest of society, i.e. to protect the public, does not necessarily mean that the exemption under
+IRPA
+no longer applies. This interpretation is supported by the fact that section 16.1 and 16.2 of the
+YOA
+provide certain protections and benefits for young persons whose charges have been transferred from youth court to ordinary court.
+[12]
+I cannot accept the applicant's argument, notwithstanding an able submission with respect to the interpretation of statutes which lead to criminal consequences and accordingly are entitled to a strict construction, or which interfere with rights, and therefore are entitled to an interpretation which best protects those rights.
+[13]
+There is no ambiguity or gap in
+IRPA
+with respect to a young offender who was initially subject to the jurisdiction of the
+YOA
+youth court, but is transferred by a youth court judge to ordinary court, and subsequently convicted of
+Criminal Code
+offences in ordinary court as if he were an adult.
+[14]
+Under subsection 16(7) of
+YOA
+, after the youth court judge has made an order transferring the proceedings to ordinary court, the proceedings under the
+YOA
+are discontinued, and the proceedings with respect to the criminal charges are taken before the ordinary court.
+[15]
+One of the reasons for transferring a young offender from youth court to adult court is to protect the public. The youth court shall take into account the seriousness of the alleged offences and the circumstances in which they were allegedly committed.
+[16]
+I am of the view that the proper interpretation of subsection 16(7) of the
+YOA
+is that when an order is made transferring charges from youth court to ordinary court, the applicant is not being tried for offences under the
+YOA
+, as that term is used in the exception contained in subsection 36(3)(e) of
+IRPA
+. The convictions against the applicant in this case are convictions for indictable offences under the
+Criminal Code
+in ordinary court, and are not related to offences under the
+YOA
+. For this reason the exception in
+IRPA
+is not applicable. FRAGMENT_SUPPRESSED
+While the old
+Immigration Act
+did not have a statutory exception similar to subsection 36(3)(e) of the new
+Act
+, it was administered so that a contravention under the legislation governing young offenders was not considered a criminal conviction for the purposes of the
+Immigration Act
+.
+CERTIFIED QUESTION
+[17]
+At the end of the hearing I asked the parties whether this case presented any question of serious general importance which ought to be certified for appeal. Both counsel replied in the negative because the
+YOA
+has been repealed in April 2003, and replaced with the
+Youth Criminal Justice Act
+.
+IRPA
+has not been amended accordingly. I invited the parties to consider the issue and file written submissions for my consideration with respect to whether to certify a question. Having reviewed these submissions, I am satisfied that this case does not raise a question of serious general importance which may apply in the future to young offenders because the
+YOA
+has been repealed so that the exemption in subsection 36(1) of the
+IRPA
+has no future force or effect.
+ORDER
+[18]
+THIS COURT ORDERS HEREBY ORDERS THAT:
+This application for judicial review is dismissed.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/djc
+[End of document]

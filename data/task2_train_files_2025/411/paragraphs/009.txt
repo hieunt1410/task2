@@ -1,0 +1,9 @@
+[9]
+An alternative argument on this point was also advanced: if the money received by the plaintiff did not constitute "other remuneration" perse, it should nevertheless be regarded as deemed remuneration for the purposes of section 5 of the Act by virtue of subsection 6(3) of the Act which reads:
+"6(3) Payments by employer to employee. - An amount received by one person from another
+(a) during a period while the payee was an officer of, or in the employment of, the payer, or
+(b) on account or in lieu of payment of, or in satisfaction of, an obligation arising out of an agreement made by the payer with the payee immediately prior to, during or immediately after a period that the payee was an officer of, or in the employment of, the payer,
+shall be deemed, for the purposes of section 5, to be remuneration for the payee's services rendered as an officer or during the period of employment, unless it is established that, irrespective of when the agreement, if any, under which the amount was received was made or the form or legal effect thereof, it cannot reasonably be regarded as having been received
+(c) as consideration or partial consideration for accepting the office or entering into the contract of employment,
+(d) as remuneration or partial remuneration for services as an officer or under the contract of employment, or
+(e) in consideration or partial consideration for a covenant with reference to what the officer or employee is, or is not, to do before or after the termination of the employment."

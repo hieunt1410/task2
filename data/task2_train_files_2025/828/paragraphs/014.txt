@@ -1,0 +1,32 @@
+[14]
+In
+Free World Trust
+v.
+Électro Santé Inc.
+2000 S.C.J. No. 67, the Supreme Court of Canada stated at paragraphs 64, 65, 66 and 67:
+64. The use of file wrapper estoppel in Canada was emphatically rejected by Thorson P. in
+Lovell Manufacturing Co.
+v.
+Beatty Bros. Ltd.
+(1962), 23 Fox Pat. C. 112 (Ex. Ct.), and our Federal Court has in general confirmed over the years the exclusion of file wrapper materials tendered for the purpose of construing the claims: see, e.g.,
+P.L.G. Research Ltd.
+v.
+Jannock Steel Fabricating Co.
+(1991), 35 C.P.R. (3d) 346 (F.C.T.D.), at p. 349. No distinction is drawn in this regard between cases involving allegations of literal infringement and those involving substantive infringement.
+65. Counsel for Procter & Gamble Inc. argues that prosecutions history ought to be admissible in some circumstances in the interest of obtaining consistent claims interpretation here and in the United States, where many Canadian patents have their origin. There is some nourishment for this proposition in commentary by other experienced practitioners (e.g., D. W. Scott, "
+The Record of Proceedings in the Patent Office in Canada & Foreign Countries as Evidence in Infringement & Validity Contests
+" (1985-86), 2 C.I.P.R. 160). References to the intention of the inventor in
+Catnic
+,
+supra
+, and
+O'Hara
+,
+supra
+, are said to leave the door ajar to the possibility of reconsideration.
+66. In my view, those references to the inventor's intention refer to an objective manifestation of that intent in the patent claims, as interpreted by the person skilled in the art, and do not contemplate extrinsic evidence such as statements or admissions made in the course of patent prosecution. To allow such extrinsic evidence for the purpose of defining the monopoly would undermine the public notice function of the claims, and increase uncertainty as well as fuelling the already overheated engines of patent litigation. The current emphasis on purposive construction, which keeps the focus on the language of the claims, seems also to be inconsistent with opening the pandora's box of file wrapper estoppel. If significant representations are made to the Patent Office touching the scope of the claims, the Patent Office should insist where necessary on an amendment to the claims to reflect the representation.
+67. This is not to suggest that prosecution history can never be relevant for a purpose other than defining the scope of the grant of the monopoly:
+Foseco Trading A.G.
+v.
+Canadian Ferro Hot Metal Specialties, Ltd.
+(1991), 36 C.P.R. (3d) 35 (F.C.T.D.), at p. 47. That point does not arise in this case for decision and lies outside the scope of these reasons.

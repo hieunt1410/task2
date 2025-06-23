@@ -1,0 +1,10 @@
+datasets
+numpy
+prettytable
+torch
+transformers
+scikit-learn
+fsspec
+jsonlines
+spacy
+tqdm

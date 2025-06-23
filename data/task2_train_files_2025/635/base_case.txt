@@ -1,0 +1,987 @@
+Calwell Fishing Ltd. v. Can., [2016] F.T.R. TBEd. MR.033
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Calwell Fishing Ltd., Melvin Glen Calwell, Dale Vidulich, Gerald Warren, Aquamarine Transportation Ltd., and George Manson (plaintiffs) v. Her Majesty the Queen in Right of Canada (defendant)
+(T-653-10; 2016 FC 312)
+Indexed As: Calwell Fishing Ltd. et al. v. Canada
+Temp. Cite: [2016] F.T.R. TBEd. MR.033
+Federal Court
+Heneghan, J.
+March 11, 2016.
+Counsel:
+J Keith Lowes, for the plaintiffs;
+Steven Postman and Alex Semple, for the defendant.
+Solicitors of Record:
+J Keith Lowes, Vancouver, British Columbia, for the plaintiffs;
+William F. Pentney, Q.C., Deputy Attorney General of Canada, Vancouver, British Columbia, for the defendant.
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Heneghan, J.
+: By a Statement of Claim issued on April 27, 2010, Calwell Fishing Ltd., Mr. Melvin Glen Calwell, Mr. Dale Vidulich, Mr. Gerald Warren, Aquamarine Transportation Ltd. and Mr. George Manson (collectively the "Plaintiffs") commenced this action against Her Majesty the Queen in Right of Canada (the "Defendant"), seeking the following relief:
+(a) A declaration that:
+(i) The Plaintiffs and each of them are entitled to compensation for the loss of their businesses as fish packers, of which they have been and are being deprived by the Defendant by virtue of the
+Fisheries Act
+R.S. c. F-14 [sic] ("
+Fisheries Act
+") and the
+Department of Fisheries and Oceans Act
+, 1978-79 c.13 [sic] ("
+Department of Fisheries and Oceans Act
+") and the exercise of powers and authority granted thereby,
+alternatively:
+(ii) The
+Fisheries Act
+and the
+Department of Fisheries and Oceans Act
+do not authorize the taking of property without compensation,
+(iii) Compensation is payable for property taken by virtue of the provisions of the
+Fisheries Act
+and the
+Department of Fisheries and Oceans Act
+and the exercise of the powers and authority conferred thereby,
+(iv) For the purposes of this declaration, "property" includes the businesses of catching, transporting, purchasing and processing fish,
+(v) For the purposes of this declaration, "taking" includes the deprivation of such business and/or the prohibiting or preventing the carrying on or continuance of such business, either directly or indirectly, where the purpose or effect of the grant or exercise of authority is to confer a benefit or benefits on the Defendant and/or on particular individuals or groups,
+alternatively:
+(vi) For the purpose of this declaration, "taking" includes the deprivation of such business and/or the prohibiting or preventing the carrying on or continuance of such business, either directly or indirectly, where the purpose or effect of the grant or exercise of authority is other than the conservation of fish or the proper regulation of the fishery as a public resource for the benefit of and in the interest of all Canadians,
+(vii) The property of the Plaintiffs and each of them has been so taken by the Defendant,
+alternatively:
+(viii) Compensation is payable for loss or deprivation of property by virtue of the exercise of powers and authority granted by the
+Fisheries Act
+and the
+Department of Fisheries and Oceans Act
+where the grant or exercise of such power and authority has as its purpose or effect (pith and substance) the conferring, distribution or redistribution of economic or social benefit on or to the Defendant and/or particular individuals or groups,
+alternatively:
+(ix) Compensation is payable for loss or deprivation of property by virtue of the exercise of powers and authority granted by the
+Fisheries Act
+and the
+Department of Fisheries and Oceans Act
+, except where the grant or exercise of such power and authority is in purpose or effect (pith and substance) the proper management of the fisheries as a public resource for the benefit of and in the interest of all Canadians,
+(x) For the purposes of this declaration, "property" includes the businesses of catching, transporting, purchasing and processing of fish,
+(xi) The Plaintiffs and each of them have lost and are being deprived of their property by virtue of the grant or exercise of powers and authorities by or pursuant to the
+Fisheries Act
+and
+Department of Fisheries and Oceans Act
+,
+(xii) The grant or exercise of such powers has been and is in purpose or effect (pith and substance) to confer, distribute or redistribute social or economic benefits on the Defendant and/or particular individuals or groups;
+(b) Costs;
+(c) All necessary and ancillary orders and directions;
+(d) Such further and other relief as this Honourable Court deems just.
+[2]
+By Notices of Discontinuance filed on October 11, 2012, Mr. Dale Vidulich and Mr. Gerald Warren discontinued their participation in this action.
+II.
+THE PARTIES
+[3]
+Calwell Fishing Ltd. ("Calwell") is a body corporate incorporated under the laws of British Columbia. Mr. Melvin Glen Calwell is the sole shareholder of this company.
+[4]
+Aquamarine Transportation Ltd. ("Aquamarine") is a body corporate incorporated under the laws of British Columbia. Mr. George Manson is the sole shareholder of this company.
+[5]
+In this proceeding, the Defendant represents the Minister of Fisheries and Oceans (the "Minister"). The Minister is responsible for the regulation of marine fisheries pursuant to section 4 of the
+Department of Fisheries and Oceans Act
+, R.S.C., 1985, c. F-15.
+[6]
+The Minister enjoys absolute discretion over the issuance of licences for the fisheries pursuant to subsection 7(1) of the
+Fisheries Act
+, R.S.C. 1985, c. F-14 (the "Fisheries Act") which provides as follows:
+7 (1) Subject to subsection (2), the Minister may, in his absolute discretion, wherever the exclusive right of fishing does not already exist by law, issue or authorize to be issued leases and licences for fisheries or fishing, wherever situated or carried on.
+7 (1) En l'absence d'exclusivité du droit de pêche conférée par la loi, le ministre peut, à discrétion, octroyer des baux et permis de pêche ainsi que des licences d'exploitation de pêcheries - ou en permettre l'octroi -, indépendamment du lieu de l'exploitation ou de l'activité de pêche.
+[7]
+Subsection 91(12) of the
+Constitution Act, 1867
+(U.K.), 30 & 31 Vict., c. 3, reprinted in R.S.C. 1985, App. II, No. 5, is relevant to this proceeding and provides as follows:
+91. It shall be lawful for the Queen, by and with the Advice and Consent of the Senate and House of Commons, to make Laws for the Peace, Order, and good Government of Canada, in relation to all Matters not coming within the Classes of Subjects by this Act assigned exclusively to the Legislatures of the Provinces; and for greater Certainty, but not so as to restrict the Generality of the foregoing Terms of this Section, it is hereby declared that (notwithstanding anything in this Act) the exclusive Legislative Authority of the Parliament of Canada extends to all Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,
+...
+12. Sea Coast and Inland Fisheries
+91. Il sera loisible à la Reine, sur l'avis et avec le consentement du Sénat et de la Chambre des communes, de faire des lois pour la paix, l'ordre et le bon gouvernement du Canada, relativement à toutes les matières ne tombant pas dans les catégories de sujets exclusivement assignés aux législatures des provinces par la présente loi mais, pour plus de certitude, sans toutefois restreindre la généralité des termes employés plus haut dans le présent article, il est par les présentes déclaré que (nonobstant toute disposition de la présente loi) l'autorité législative exclusive du Parlement du Canada s'étend à toutes les matières tombant dans les catégories de sujets énumérés ci-dessous, à savoir:
+...
+12. les pêcheries de côtes de la mer et de l'intérieure
+III.
+THE EVIDENCE
+[8]
+By agreement of the parties, the evidence in this trial was wholly documentary; there was no
+viva voce
+evidence. Those documents consisted of affidavits, discovery examination transcripts, transcripts of cross-examinations upon the affidavits filed, admissions and several volumes of documentary exhibits. All the admissible evidence submitted was considered, even if not specifically mentioned below.
+[9]
+Some of the documentary exhibits were entered jointly as a Common Book of Documents and a Supplemental Common Book of Documents. Some documentary exhibits were entered on the basis of the truth of their contents, that is Tabs 1 through 12 of the Common Book of Documents. The remaining documents, Tabs 13 to 163 were admitted for the authenticity of the document, that is proof that the documents are true copies.
+[10]
+The Plaintiffs filed the following affidavits:
+a) affidavit of Ms. Teresa Calwell, wife of Plaintiff Mr. Calwell and director of Calwell sworn October 30, 2013,
+b) affidavit of Mr. Calwell sworn October 30, 2013,
+c) affidavit of Mr. Manson sworn October 31, 2013,
+d) affidavit of Mr. Ronald Hooge, chartered accountant with Smythe Ratcliffe Valuations Inc. sworn October 24, 2013,
+e) affidavit of Mr. Manson sworn September 10, 2014,
+f) affidavit of Mr. Manson sworn September 18, 2014,
+g) affidavit of Ms. Calwell sworn September 18, 2014, and
+h) affidavit of Mr. Calwell sworn September 18, 2014.
+[11]
+The Defendant filed the following affidavits:
+a) affidavit of Mr. James Albert Ionson, former Regional Salmon Manager, Department of Fisheries and Oceans sworn October 28, 2013, and
+b) affidavit of Mr. Gregory Thomas, former Regional Pelagics Coordinator, Department of Fisheries and Oceans sworn October 28, 2013.
+[12]
+Written discovery examinations of Mr. Calwell and Mr. Manson were conducted. Undated answers to these examinations were filed as exhibits to the cross-examination of Mr. Manson on his affidavit. Oral discovery examinations were conducted of Mr. Calwell and Mr. Manson, by the Defendant, on June 21, 2012, June 22, 2012, and October 17, 2012; and August 21, 2012, August 22, 2012, and October 17, 2012, respectively. The evidence given by Mr. Calwell and Mr. Manson is binding upon Calwell and Aquamarine, respectively.
+[13]
+Oral discovery of Mr. Ionson, as the representative of the Defendant, was conducted on October 18, 2013 and October 22, 2013. He also provided written answers, dated September 2012, to a written examination. Portions of these examinations were read in at trial pursuant to Rule 288 of the
+Federal Courts Rules
+, SOR/98-106 (the "Rules"), as part of the evidence for the Defendant and the Plaintiffs, respectively.
+[14]
+Mr. Calwell and Ms. Calwell were cross-examined upon their affidavits, in respect of the personal claim of Mr. Calwell and the claim of the corporation on November 21, 2013 and November 22, 2013. Mr. Manson was cross-examined upon his affidavit on November 18, 2016, in respect of his personal claim and the claim of Aquamarine.
+[15]
+Mr. Ionson and Mr. Thomas were cross-examined on their affidavits on November 26, 2013 and November 13, 2013, respectively.
+[16]
+The Plaintiffs filed two expert reports, each prepared by Mr. Hooge, addressing the estimations of the financial losses suffered by Calwell and Aquamarine. The Defendant filed an expert report prepared by Mr. Stuart Nelson, addressing the impact of changes in both the regulatory regimes affected by the government and the Pacific fishing industry brought about by the participants in that industry
+.
+Mr. Hooge was cross-examined on his affidavit on November 8, 2013. Mr. Nelson was cross-examined on November 29, 2013.
+IV.
+BACKGROUND AND CONTEXT
+A.
+Fish Packing Industry
+[17]
+The role of a fish packing vessel is to collect the harvest from fishing vessels on the fishing grounds and convey the catch to the processing plants. Packers sometimes also purchase fish from harvesters on behalf of a processor.
+[18]
+The fish packing industry is composed of packing vessels and consists of two types: packing vessels owned or chartered by large processing companies and packing vessels contracted to purchase fish by smaller, cash buying processing companies.
+[19]
+In order for a vessel to collect and transport fish it must hold a commercial fishing licence or a category "D" licence. The "D" licence permits its holder to pack and transport any species of fish. These vessels are not authorized to harvest fish. The "D" licences, first introduced in 1972, are issued annually at the discretion of the Minister, pursuant to the Fisheries Act. Unlike commercial fishing licences, the number of "D" licences is not restricted.
+B.
+Historical Context and Precipitating Events
+(1) Early History and Statutory Framework
+[20]
+The Supreme Court of Canada in
+Comeau's Sea Foods Ltd. v. Canada (Minister of Fisheries and Oceans)
+, [1997] 1 S.C.R. 12 at paragraph 37 acknowledged that the Canadian fisheries are a common property resource, deriving from the common law and belonging to all the people of Canada. The source of the common law right to fish in tidal waters is the
+Magna Carta
+, 1225, 9 Hen. III, c. 3 (U.K.); see the decision in
+R. v. Gladstone
+, [1996] 2 S.C.R. 723 at paragraph 67.
+[21]
+Canada's first
+Fisheries Act
+, S.C. 1868, c. 60, was enacted in 1868. The Act gave the Governor in Council the power to make regulations necessary for the better management of the fisheries.
+[22]
+The importance of the fisheries resource can be inferred from the fact that this legislation was enacted so soon after the creation of the country.
+[23]
+The governance and management of this resource in the far-flung young country was challenging. Throughout the years, many reports and studies were commissioned and several of those were referred to in this file and entered into evidence. The following reports were addressed in this trial:
+- D.B. McEachern,
+Licencing in the Commercial Fisheries of British Columbia
+(Vancouver: Fisheries & Marine Service, 1976)
+- Department of Fisheries and Oceans,
+Policy for Canada's Commercial Fisheries
+(Vancouver: Department of Fisheries and Oceans, 1976)
+- Anthony Scott and Philip A. Nether, ed.,
+The Public Regulation of Commercial Fisheries in Canada
+(Ottawa: Minister of Supply and Services, 1981)
+- Commission on Pacific Fisheries Policy,
+Turning the Tide: A New Policy for Canada's Pacific Fisheries
+(Vancouver: Department of Fisheries and Oceans, 1982)
+- R.W. Crowley, B. McEachern, and R. Jasperse,
+A Review of Federal Assistance to the Fishing Industry Since 1945
+(Ottawa: Department of Fisheries and Oceans, 1990)
+- L.S. Parsons,
+Management of Canada's Marine Fisheries
+(Ottawa: Department of Fisheries and Oceans, 1993)
+- Douglas Swenerton,
+A History of Pacific Fisheries Policy
+(Vancouver: Department of Fisheries and Oceans, 1993)
+- Department of Fisheries and Oceans,
+Outlook for Canada's Pacific Fisheries in 1994, 1995 & 1996
+(Vancouver: DFO Pacific Region, 1994)
+- Michelle James,
+Final Report on the 1996 Voluntary Fleet Reduction Licence Retirement Program
+(Vancouver: Department of Fisheries and Oceans, 1996)
+- Donald McRae & Dr. Peter H. Pearse,
+Treaties and Transition: Towards a Sustainable Fishery on Canada's Pacific Coast
+(Vancouver: Department of Fisheries and Oceans, 2004)
+- Michelle James, Report prepared in connection with
+Ahousaht Indian Band et al. v. Attorney General of Canada and Her Majesty the Queen in right of the Province of British Columbia
+, June 28, 2007
+- Dr. Peter H Pearse,
+Management of the Pacific Fisheries: The Development of Fishing Rights and Fisheries Management on the Pacific Coast
+, June 26, 2007
+[24]
+Early regulation of the fisheries in Canada was heavily influenced by respect for the public right to fish and was subject to a "game warden" approach. The method of regulation was through "input restriction" which limited the allowable fishing times, areas and gear types.
+[25]
+From 1920s to 1968, fisheries policy was centred on government assistance in industry development and the use of regulations to ensure conservation (see Swenerton Report at page 49). Despite Department of Fisheries and Oceans, Canada (the "DFO") efforts, there were significant pressures on fish resources and poor economic performances of the fisheries by the mid-1960s.
+[26]
+A major innovation in fishing controls, that is the limitation of commercial fishing licences, was introduced in the salmon fishery in 1969. Within a few years, licences were restricted in all major Pacific fisheries. This marked the beginning of limitations on the right to fish and an end to the tradition of "open access".
+[27]
+Prior to 1960, the fisheries management was driven from within the DFO. Beginning in the 1980s, the objectives of fisheries management have evolved, with input from advisory bodies on a regional basis. Further changes came in 1992 with broader consultation including consultation with commercial harvesters, First Nations, recreational fishermen and environmental organizations.
+[28]
+The Pacific coast fisheries include the halibut fishery, the roe herring fishery and the salmon fishery. Below is a brief outline of the regulatory measures undertaken by the DFO that are at issue in this proceeding.
+(2) Halibut Fishery
+[29]
+Licence limitation was introduced to reduce or restrict the addition of fishermen, fishing vessels or equipment. Limitation of commercial licences was introduced in 1979 for halibut licences.
+[30]
+Individual Vessel Quotas ("IVQ") were introduced in 1991 as a management tool, to reduce the number of vessels harvesting, as well as address to overfishing and the instances of lost gear which were negatively impacting fish stocks. Under this regime, each vessel is assigned a maximum catch limit. This regime is in contrast to the "derby style" fishery where fishermen would catch the maximum amount possible within the opening of the fishing season and at the locations determined by the DFO.
+[31]
+Under the IVQ system, fishermen are required to go directly to a DFO landing site to have their catch counted, this meant they did not need the services of packers.
+(3) Roe Herring Fishery
+[32]
+Beginning in 1974, limitations were imposed upon the number of commercial licences issued in the roe herring fishery.
+[33]
+Area licencing was introduced to the roe herring fishery in 1981 in order to reduce the potential fleet size fishing in any one area. The purpose was to improve the overall management of the fishery. Licence stacking was introduced the following year. Licence stacking is the process by which a licence holder will use his licence to fish one area and lease another licence to fish in another area. The number of management areas increased from three to five in 1985.
+[34]
+Mandatory pooling was introduced in the roe herring fishery in 1994 and fully implemented in both seine and gillnet fisheries by 1999. Under this regime, the available harvest is divided equally among all active licences. Licenced vessels are required to organize themselves into pools. Each pool is responsible for harvesting their total quota in an area, which is determined by multiplying the quota per licence by the number of licences held in the pool.
+[35]
+Mandatory pooling reduced the need for packing vessels, particularly in the seine fishery. Under the pooling regime not all fishing vessels were needed to harvest the allowable catch for the pool. It became common for a vessel in the pool to act as a packer to the other vessels in the pool. This was preferred by fishermen as it was cheaper than hiring a packer.
+(4) Salmon Fishery
+(a)
+Davis Plan
+[36]
+The limitation of commercial salmon licences was introduced in 1969 by Minister Jack Davis, as part of new regulations which came to be known as the Davis Plan. The Davis Plan was implemented by the following regulations:
+-
+British Columbia Fishery Regulations, amended
+, SOR/69-226,
+-
+Fisheries Improvement Loans Regulations
+, SOR/69-316,
+-
+British Columbia Fishery Regulations, amended
+, SOR/70-200,
+-
+Fraser River Sockeye and Pink Salmon Fishery Regulations, 1970
+, SOR/70-217,
+-
+Fishing Vessel Assistance Regulations 1970
+, SOR/70-363,
+-
+Fraser River Salmon Fishery Regulations, 1971
+, SOR/71-280 and
+-
+British Columbia Fishery Regulations, amended
+, SOR/71-590.
+[37]
+This program limited the issuance of commercial salmon licences by creating two categories of vessels. Harvesters with catches greater than 10,000 pounds in the previous year received an "A" licence. Other vessels recieved a "B" licence. "A" licences were renewable and transferrable. The "B" vessels continued to fish until the expiry of the licences but their licences were not renewed or replaced.
+[38]
+Licences and vessels were given up as part of the Davis Plan through a relinquishment program, also known as "buy-back". This program was funded by licence fee increases implemented at the first stages of the Davis Plan. Licensees were compensated for relinquishing their licences.
+[39]
+The program also included higher quality standards for fishing vessels. This plan led to the retirement of some 362 licenses from the fleet between 1970 and 1973.
+(b)
+Pearse Royal Commission
+[40]
+By 1982, the Pacific fisheries were in crisis. The fishing industry was suffering through a financial crisis, which resulted in a series of mergers and consolidations in the processing sector. On January 12, 1981, the Governor General in Council of Canada appointed Dr. Peter H. Pearse to serve as the Commissioner of the Royal Commission on Pacific Fisheries Policy. The Royal Commission was instructed to investigate and make recommendations on the condition, management and utilization of the fisheries on the Pacific coast.
+[41]
+The Final Report, "Turning the Tide: A New Policy for Canada's Pacific Fisheries" was issued in September 1982.
+[42]
+Dr. Pearse presented several objectives that provided a framework for his recommendations, including, among others, resource conservation and maximizing the benefits of resource use.
+[43]
+Dr. Pearse identified the overcapacity of the fleets as the single largest cause of the economic difficulties in the Pacific fisheries. He recommended that the commercial fishing fleets be rationalized, reducing the excess capacity and excessive costs of fishing.
+(c)
+1985 Pacific Salmon Treaty
+[44]
+The Pacific Salmon Treaty, signed by Canada and the United States, created a harvest regime based on the objectives of conservation and the delivery of benefits to the country of origin, equal to the salmon originating in its waters. The Treaty contains an exemption of 400,000 Fraser sockeye salmon, in recognition by the parties of the importance of the Fraser River First Nation fishery.
+(d)
+Aboriginal Fishery Strategy
+[45]
+The Aboriginal Fishery Strategy ("AFS") was announced in 1992, in response to the Supreme Court of Canada decision in
+R. v. Sparrow
+, [1990] 1 S.C.R. 1075. The AFS was designed to provide a framework for the management of the fisheries in a manner consistent with
+Sparrow
+,
+supra
+.
+[46]
+Commercial salmon licence relinquishment occurred under the AFS. The purpose of this program was to reduce harvesting power in the commercial fleet and to allow for increased allocations of licences to the First Nations Pilot Sales program.
+[47]
+In 1992, the Pilot Sales program was introduced in three areas. It was designed to test the positive and negative aspects of First Nations being given the opportunity to sell part of their harvest under terms laid out in comprehensive agreements.
+[48]
+In 1993, DFO introduced a new type of licence, Excess Salmon to Spawning Requirement ("ESSR"). This class of licence authorised fishing in terminal areas that are not open to regular commercial fisheries. These licences were issued to address outstanding food, social and ceremonial needs of local First Nations.
+[49]
+Beginning in 1994 and continuing to the present, licence relinquishments occur under the Allocation Transfer Program ("ATP"). The ATP was added as a component of the AFS to support fisheries-based economic development for First Nations groups and coastal communities. Licences relinquished under the ATP were transferred to First Nations communities or held by the DFO to be used in other projects. Communal commercial licenses acquired under the ATP are issued under comprehensive fisheries agreements.
+[50]
+In 2005, the Pilot Sales program was replaced by economic opportunity fisheries; these fisheries are conducted by members of First Nations under a licence that authorizes the sale of fish, issued under section 4 of the
+Aboriginal Communal Fishing Licences Regulations
+, SOR/93-332.
+(e)
+Mifflin Plan
+[51]
+The Pacific Salmon Revitalization Strategy ("Mifflin Plan") was introduced by Minister Fred Mifflin in 1996. This plan was intended to revitalize the West Coast commercial salmon fishery, together with a focus on conservation of salmon stocks to ensure their sustainability for the future.
+[52]
+One of the central measures under this plan was the reduction of the commercial salmon harvesting fleet. Under this program, salmon licences were acquired by the government, that is through buy-backs. The reason for the program was to reduce the capacity of the gillnet fleet, and to address conservation and fleet viability.
+[53]
+The Mifflin Plan also introduced area licencing and licence stacking in the commercial salmon fishery.
+(f)
+Anderson Plan
+[54]
+The Pacific Fishery Adjustment and Revitalization Plan ("Anderson Plan"), was introduced in 1998. The purpose of this program was to continue with the objective of fleet reduction that had been introduced in the Mifflin Plan to reduce pressure on coho and other Pacific salmon stocks. This program was also focused on conservation of fish stocks.
+(5) Trends in the Fishing Industry
+[55]
+Direct delivery premiums were paid to fishing vessels by processing companies who pack their own catch and deliver it to a location prescribed by the processor. The payments were made on a per pound basis. By the 1990s, the practice of paying direct delivery premiums was entrenched.
+[56]
+Farmed salmon production grew exponentially. By 1997, farmed salmon production exceeded global wild salmon production. The increased supply of farmed salmon contributed to the decline in wild salmon prices beginning in 1989.
+[57]
+The growth in Alaskan wild salmon production also contributed to the decline in salmon prices from 1985 to 2005.
+[58]
+The price of roe herring also declined in the period of 1985 to 2005. There was a brief spike in roe herring fish prices in 1995 and 1996 as Japanese purchasers paid record high prices for B.C. roe, approximately $1.60 per pound. Prices dropped substantially in 1997 to less than $0.40 per pound, when the Japanese market refused to pay the high prices. There has been minimal recovery.
+C.
+Plaintiffs' Evidence
+(1) Mr. Calwell
+[59]
+Mr. Calwell began commercial fishing in 1956. He fished for sockeye in Smith's Inlet, and for coho and chum at Toba Inlet and Okover, on the central coast of the British Columbia mainland. In June 1975, he purchased the vessel M.V. "Riverside Y" and began to pack fish. At that time, he was engaged in packing sockeye, roe herring, spring salmon and fall chum.
+[60]
+The M.V. "Riverside Y" was a wooden vessel, 68 feet long, formerly a rum runner from the East Coast. It had never been used as a fishing vessel, according to Mr. Calwell's belief. It was a fish packer when he bought the vessel. The M.V. "Riverside Y" had a packing capacity of 65,000 pounds.
+[61]
+Calwell was incorporated on July 12, 1979. The company continued in the fish packing business. In October 1982, Calwell became the owner of the M.V. "Riverside Y".
+[62]
+Ms. Calwell began working for Calwell, as a deckhand, in the fall of 1980. She lived with Mr. Calwell until they married in 2005. She worked with Calwell until the company ceased operations in 2002.
+[63]
+In 1986, Calwell sold the "Riverside Y" for $85,000.00.
+[64]
+In 1982, Calwell purchased the M.V. "Derek Todd" for $80,000.00. The M.V. "Derek Todd" had a packing capacity of 200,000 pounds. That vessel was used to pack farmed salmon and other species. In 1989, Calwell upgraded the M.V. "Derek Todd" with a fish pump and a grading system.
+[65]
+The M.V. "Derek Todd" was rammed and was lost in August 1990.
+[66]
+In September 1991, Ms. Calwell borrowed $42,000.00 from Calwell to purchase the M.V. "Riverside Y" from the Royal Bank of Canada and in February 1992, Calwell purchased that vessel from Ms. Calwell for $159,000.00.
+[67]
+In May 1999, Mr. and Ms. Calwell received an offer of financing through the Community Futures Development Corporation, a federal program, to assist in the development of an ecotourism business. They were unable to accept the offer because Mr. Calwell did not meet the conditions of the loan, specifically an age requirement.
+[68]
+In August 2002, Calwell Fishing Ltd. sold the M.V. "Riverside Y" for $20,000.00.
+[69]
+Calwell primarily packed fish for small, cash buyer processors and was compensated on the basis of a seasonal charter or poundage packed. However, from 1987 to1989 and 1992 to 1994 Calwell purchased fish and resold fish to processors using its own funds and funds borrowed from Royal Bank.
+[70]
+According to the evidence of Mr. Calwell, the volume of business began to decrease in early 1980s. He testified, via his affidavit and elsewhere, that the changes in the regulation of the Pacific fisheries, which began in early 1980s, ultimately put him out of business.
+[71]
+Records of income over the period 1994 to 2001 show a reduction in earnings. Mr. Calwell deposed in his affidavit that by 1994, the company was losing money. It is apparent from the financial records of Calwell, that were entered into evidence and from his discovery "read-ins", that prior to 1994, the company made money in some years and lost money in other years.
+[72]
+At all relevant times, Calwell's vessels, the M.V. "Riverside Y" and the M.V. "Derek Todd", held "D" licences.
+(2) Mr. Manson
+[73]
+Mr. George Manson entered the commercial fishery in 1961. In 1972, he sold his commercial fishing vessel and began working full time for B.C. Ferries.
+[74]
+In 1986, Mr. Manson purchased the M.V. "Godfather". The M.V. "Godfather" was a wooden vessel built in 1945. Mr. Manson converted the vessel into a packer, which he operated as a fish packing operation. That vessel was worked by Mr. Stewart Manson, Mr. Manson's brother. On July 3, 1987, Aquamarine was incorporated.
+[75]
+The M.V. "Godfather" was 61 feet in length and had a packing capacity of 68,000 pounds.
+[76]
+Throughout the period Aquamarine owed the M.V. "Godfather", it held a "D" licence.
+[77]
+In March 1993, Aquamarine signed a three-year packing contract with Icicle Seafoods, a processing company. In 1996, Aquamarine signed another contract with Icicle Seafoods under which it would receive $75,000 per year for packing salmon and $30,000 per year for packing herring.
+[78]
+On February 21, 1997, Icicle Seafoods cancelled the contract and paid $21,400 as compensation for the loss of the contract.
+[79]
+After the termination of the second contract with Icicle, Mr. Manson went to different companies looking for work. Aquamarine was able to secure a few contracts to pack herring and salmon in 1997.
+[80]
+In 1998, Aquamarine sold the M.V. "Godfather" to Stewart Manson for $19,105.00.
+(3) Mr. Hooge
+[81]
+Mr. Ronald Hooge, a chartered accountant, prepared expert reports on behalf of both Calwell and Aquamarine. In those reports, he estimated the amount of income lost by the corporate Plaintiffs. He did not conduct an audit in respect of either company, and based his opinions on the propositions given to him by the Plaintiffs.
+[82]
+Mr. Hooge was provided with an initial mandate letter, dated March 4, 2013, by Counsel for the Plaintiffs. In September 2013, he was sent a draft letter by Counsel for the Plaintiffs. This draft letter dated September 9, 2013, was effectively the final mandate letter, in which he was asked to provide his opinion on when the businesses became economically unviable and the nature and amount of the loss suffered as a result to the events that rendered the businesses economically unviable.
+[83]
+Mr. Hooge gave his opinion that Calwell's business was economically unviable in 1994
+.
+The effective date for the economic unviability of Aquamarine was identified as April 1, 1998. Upon his cross-examination, Mr. Hooge expressed the opinion that, after the dates in question, neither company had any goodwill and the only value was in the vessels. In the case of Calwell, that was the M.V. "Riverside Y". Aquamarine had sold its vessel the M.V. "Godfather" in 1998, so there was no asset to be valued.
+D.
+Defendant's Evidence
+(1) Mr. Ionson
+[84]
+The Defendant filed the affidavit of Mr. Ionson, now retired from employment with the DFO. He was employed, in various capacities, with the DFO from 1974 until 2007. He began his employment as a Fishery Officer working on Vancouver Island and in the Yukon. Prior to his retirement in June 2007, he was the Regional Salmon Manager, Vancouver, British Columbia.
+[85]
+His affidavit addresses general and specific aspects of the Pacific salmon industry, the AFS, and management and regulation of the commercial salmon fishery, and particular developments in the fishing industry between 1969 and 2005. He focused on the predominate purpose of the regulations as conservation of the resource.
+[86]
+His affidavit includes, by reference, some 65 exhibits. These exhibits include press releases and background information prepared for various ministerial and departmental announcements and extracts from various fisheries management plans that were introduced in the 1990s and early 2000s. The evidence of Mr. Ionson and, including the exhibits and the cross-examination transcript, provide a perspective on the Pacific fishing industry in the time frame relevant to the Plaintiffs' claims.
+[87]
+Mr. Ionson spoke generally about the legislative and regulatory framework which governs the fisheries, noting that this responsibility lies with the Minister, pursuant to the Fisheries Act. Various regulations have been enacted under that legislation, including the
+Aboriginal Communal Fishing Licences Regulations
+,
+supra
+,
+British Columbia Sport Fishing Regulations
+, SOR/96-137,
+Fishery (General) Regulations
+, SOR/93-53, and
+Pacific Fishery Regulations
+, SOR/93-54.
+[88]
+In paragraphs 90 to 115, inclusive, of his affidavit Mr. Ionson described various initiatives that were undertaken between 1969 and 2005 relative to the management and regulation of the West Coast fisheries. These initiatives included the Davis Plan, the Pacific Salmon Treaty, the IVQ system, the Mifflin Plan, the Anderson Plan, and the AFS as well as those described below.
+[89]
+In 1981, area licensing was introduced for the troll fishery, that is for fishing in the Strait of Georgia or outside that body of water. In the same year, there was also a commercial salmon licence buy-back program.
+[90]
+Mr. Ionson noted that the introduction of IVQ in 1991 was a conservation measurement.
+(2) Mr. Thomas
+[91]
+The Defendant also submitted the affidavit of Mr. Greg Thomas who, prior to his retirement in May 2013, was employed with the DFO from 1997 until 2003, working primarily in the areas of salmon, shellfish and pelagics. At various times, he worked as a Program Coordinator and most recently, that is from 2010 until May 2013, as Area Chief, Resource Management, South Coast area for salmon, herring and shellfish.
+[92]
+In his affidavit, Mr. Thomas gives an overview of the roe herring fishery, referring to a set of management measures implemented by the DFO in the 1970s, 1980s and 1990s to control ineffective harvest. This led to the introduction of a "pooling strategy" that was designed to ensure that catches did not exceed harvest targets. The pooling strategy also contributed to the safety of the roe herring fishery by limiting the number of vessels fishing in an area at a given time.
+[93]
+Mr. Thomas said that seine vessels and gillnet vessels were used in the prosecution of the herring fishery. The roe herring pool fisheries policy meant that the catch target for each pool was limited to the amount of roe herring equal to the average license catch, multiplied by the number of licenses in the pool.
+[94]
+Mr. Thomas also addressed the introduction of Integrated Fisheries Management Plans (the "IFMPs") by the DFO in the mid-1990s as a tool in the management of the herring fishery.
+[95]
+He gave a history of the herring and roe herring fisheries, beginning in 1940 and referenced the Pearse Report of 1982.
+[96]
+Mr. Thomas reviewed certain regulatory measures undertaken by the DFO, beginning in 1974 with limited entry licensing. In 1981, area licensing was introduced; this plan limited the number of vessels fishing in a particular area.
+[97]
+In 1983, roe herring total allowable catches ("TACs") were introduced. Mr. Thomas referred to this as a conservation measure. Management areas were established in 1983 and in 1985, those areas were increased from three to five.
+[98]
+Further roe herring conservation measures were taken in 1986 with the introduction of "cut-off levels" for area stock forecasts.
+[99]
+By 1997 the Department began a reform of the management of the roe herring fishery, since roe herring fisheries were exceeding quotas, on a regular basis. In the meantime, pool management had been introduced to the roe herring fishery in 1994, on a trial basis, and was fully implemented in 1998.
+[100]
+Pool management was intended to limit the number of fishing vessels taking part in the fishery, thereby increasing harvest control and protecting conservation of the species. Mr. Thomas addressed certain advantages of the pool management system, including reduction of congestion of vessels on the fishing grounds, leading to increased safety for industry participants.
+(3) Mr. Nelson
+[101]
+Mr. Stuart Nelson provided an expert report on behalf of the Defendant. He is an independent management consultant, carrying on business as Nelson Bros. Fisheries Ltd. His work experience includes employment with B.C. Packers for 12 years, with various responsibilities, including Assistant Vice President, Production and Director, B.C. Fishing Operations. In his present employment, he is not an active participant in the commercial fishing industry. He stated that the majority of his consulting assignments, in the 15 year period between 1998 and 2013, were fishery related.
+[102]
+In the introduction to his expert report, Mr. Nelson set out, in nine paragraphs, the mandate he was given by the Defendant. In brief, he was asked to provide an overview of the evolution of the fishing industry, from the 1970s to the present, including identification and description of the important markets, environmental and policy changes that affected the industry in that timeframe, particularly in reference to the businesses of the Plaintiffs.
+[103]
+He was also asked to describe the technological changes that took place in the fishing industry, in general, and specifically in the fish packing industry between 1985 and 2005. Again, he was asked to address the impact of those changes upon the businesses of the Plaintiffs.
+[104]
+His report includes a number of graphs addressing the landing volumes of various species including B.C. roe herring, B.C. halibut, and B.C. salmon catch by species, as well as graphs providing data about the price per pound paid to B.C. fishermen for various species, including salmon and roe herring, between 1985 and 2005. There is also information about the landings and landed values of Alaska salmon.
+[105]
+Mr. Nelson was asked to address the impact of the development of salmon aquaculture upon the fish packing industry in general, and upon the Plaintiffs' businesses, in particular.
+[106]
+Finally, he was asked to address the impact upon the fish packing industry by specific initiatives undertaken by the Defendant, that is a mandatory pooling regime for the roe herring fishery; reduction in the number of licensed commercial salmon fishing vessel; restrictions in the areas for harvesting salmon and herring; the reduction in the allowable commercial catch of salmon; and the allocation of special access to the fisheries to particular Aboriginal groups and individuals, and recreational fishers.
+[107]
+Mr. Nelson provided detailed responses to the nine questions presented to him. In the summary of his opinion, he said that he had addressed two categories: first, his opinions on how the evolution of the B.C. fishing industry, between 1985 and 2005, impacted the businesses of the Plaintiffs, and second, his opinions on how the actions of the Defendant impacted specifically the enterprises of the Plaintiffs.
+[108]
+In responding to the ninth question posed by the Defendant, Mr. Nelson prefaced his multipart answer by saying that his analysis for the preceding eight questions formed the basis for his opinion on the last issue.
+V.
+THEORIES OF THE CASE
+A.
+The Plaintiffs' Theory
+[109]
+The Plaintiffs, in brief, seek declaratory relief in respect of the exercise of regulatory power by the Defendant, through the Minister, in a manner that deprived them of their businesses. The Plaintiffs allege no wrongdoing by the Defendant in the exercise of regulatory power by the Minister, but submit that the manner in which that regulatory power was exercised led to the loss of their property, giving rise to a presumption of compensation.
+B.
+The Defendant's Theory
+[110]
+The Defendant characterizes the Plaintiffs' action as being a time barred claim for a regulatory taking that does not give rise to a claim for compensation.
+VI.
+PRELIMINARY RULINGS
+A.
+Challenge to Affidavits
+[111]
+As noted above, there was no
+viva voce
+evidence in this trial. All the evidence was submitted by way of affidavit. By means of an Oral Motion argued on March 21, 2014, the Defendant sought an order striking out paragraphs, or portions of paragraphs, from the affidavits filed by Mr. Calwell, Ms. Calwell and Mr. Manson on the basis that the referenced paragraphs contain hearsay evidence and are otherwise improper because they are argumentative, speculative and contain impermissible opinion evidence.
+[112]
+By Order dated September 9, 2014, the motion was dismissed, with the issues of credibility, admissibility, relevance and weight to be determined at the conclusion of the trial.
+B.
+"No Evidence" Motion
+[113]
+The second preliminary procedural matter to be addressed was the "no evidence" motion filed by the Defendant on October 1, 2014, that was argued on October 8 and 9, 2014. This motion was based upon a provision in the British Columbia
+Supreme Court Civil Rules
+, B.C. Regs. 168-2009 (the "British Columbia Supreme Court Civil Rules") that allows a party to bring a "no evidence" motion without prejudice to its right to lead evidence, should the motion be dismissed.
+[114]
+The Defendant relied upon the British Columbia Supreme Court Civil Rules, pursuant to Rule 4 of the Rules, that is the "Gap" Rule, allowing recourse to provincial rules of practice and procedure when a matter is not specifically addressed in the Rules.
+[115]
+In arguing this motion, the Defendant again took issue with some of the affidavit evidence tendered by the Plaintiffs, in particular the alleged lack of admissible evidence to support any loss to the Plaintiffs, for which the remedy of compensation can be granted. The Defendant also argued that the Plaintiffs' action is outside the applicable limitation period, that is the limitation period set out in the
+Limitation Act
+, R.S.B.C. 1996, c. 266 (the "British Columbia Limitation Act").
+[116]
+In advancing her arguments on the basis of the British Columbia Limitation Act, the Defendant relied upon section 39 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 (the "Federal Courts Act") that allows recourse to provincial limitation periods in respect of any cause of action arising in a province, where a limitation period is not otherwise identified.
+[117]
+This motion was dismissed by Order dated October 31, 2014, on the grounds that the limitation issue, that was critical to the motion, raised a question of law, rather than a question of fact. The issue of judicial economy was also recognized, since both parties had effectively begun the presentation of evidence in their respective opening speeches.
+VII.
+DISCUSSION AND DISPOSITION
+A.
+Nature of the Plaintiffs' Claim
+[118]
+The first substantive issue to be addressed is the nature of the Plaintiffs' claim. The Plaintiffs say that they are looking for declaratory relief and are not advancing a cause of action. Accordingly, they argue they are not bound by any limitation period, whether federal or provincial.
+[119]
+Declaratory relief is a discretionary remedy whereby a court can issue a declaratory judgment, that is a judicial statement confirming or denying a legal right or existing legal situation. The Court lacks jurisdiction to make declarations of fact; see the decision in
+FRAGMENT_SUPPRESSED.
+[120]
+Subsection 17(1) of the Federal Courts Act establishes jurisdiction for claims against the Crown in right of Canada and provides as follows:
+17 (1) Except as otherwise provided in this Act or any other Act of Parliament, the Federal Court has concurrent original jurisdiction in all cases in which relief is claimed against the Crown.
+17 (1) Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, la Cour fédérale a compétence concurrente, en première instance, dans les cas de demande de réparation contre la Couronne.
+[121]
+Subsection 2(1) of the Federal Courts Act defines "relief" as follows:
+relief
+includes every species of relief, whether by way of damages, payment of money, injunction, declaration, restitution of an incorporeal right, return of land or chattels or otherwise; (
+réparation
+)
+réparation
+Toute forme de réparation en justice, notamment par voie de dommages-intérêts, de compensation pécuniaire, d'injonction, de déclaration, de restitution de droit incorporel, de bien meuble ou immeuble. (
+relief
+)
+[122]
+Rule 64 of the Rules describes the circumstances in which declaratory relief is available and provides as follows:
+64 No proceeding is subject to challenge on the ground that only a declaratory order is sought, and the Court may make a binding declaration of right in a proceeding whether or not any consequential relief is or can be claimed.
+64 Il ne peut être fait opposition à une instance au motif qu'elle ne vise que l'obtention d'un jugement déclaratoire, et la Cour peut faire des déclarations de droit qui lient les parties à l'instance, qu'une réparation soit ou puisse être demandée ou non en conséquence.
+[123]
+In
+Manitoba Metis Federation Inc. v. Canada (Attorney General)
+, [2013] 1 S.C.R. 623, the Supreme Court of Canada described declaratory relief in paragraph 143 as follows:
+Furthermore, the remedy available under this analysis is of a limited nature. A declaration is a narrow remedy.
+It is available without a cause of action
+, and courts make declarations whether or not any consequential relief is available. ... [emphasis added]
+[124]
+In
+LeBar v. Canada
+, [1989] 1 F.C. 603 at 610 the Federal Court of Appeal said the following:
+... A declaration declares what the law is without pronouncing any sanction against the defendant, but the issue which is determined by a declaration clearly becomes
+res judicata
+between the parties and the judgment a binding precedent. ...
+[125]
+The Defendant submits that the Plaintiffs are seeking declaratory relief as a means of circumventing the British Columbia Limitation Act. In making this argument, the Defendant proceeds in characterizing the Plaintiffs' action as one for a regulatory taking, as discussed in the
+Manitoba Fisheries Ltd. v. The Queen
+, [1979] 1 S.C.R. 101. The disposition of the Defendant's "no evidence" motion, mentioned above, did not dispose of the Defendant's arguments about a time-barred claim.
+[126]
+In
+Manitoba Métis Federation
+,
+supra
+, the majority of the Court addressed a limitations issue. The majority found that while the limitation period for taking action upon a breach of fiduciary duty had expired, the relevant limitations legislation did not apply to the declaration sought by the applicants, that is a declaration that the Crown failed to implement specific provisions of the
+Manitoba Act, 1870
+, S.C. 1870, in accordance with the honour of the Crown; see paragraphs 138-139. The majority found that limitations legislation cannot prevent courts from ruling on the constitutionality of legislation and government actions; see paragraph 135.
+[127]
+A similar finding was made in the case of
+Ward et al v. Samsom Cree Nation No. 444 et al.
+(1999), 247 N.R. 254 (F.C.A.). In that proceeding, the defendants argued that the declarations sought by the plaintiffs, a declaration that they were members of the Samson Cree Nation, was effectively a claim for a declaration setting aside the decision of the Samson Cree Nation, refusing to acknowledge their membership status. In that case, the defendants argued that the plaintiffs were seeking judicial review, in the guise of an action for declaratory relief.
+[128]
+In that case, Chief Justice Isaac found that actions for declarations of right are not tied to judicial review and that the submissions of the defendant put an unwarranted limitation on the jurisdiction of the court, saying the following at paragraph 35:
+This assumption is, of course, false. What the respondents seek in their amended statement of claim, including paragraph 18(c) of the amended statement of claim are declarations of right. Actions for declarations of right have been recognized in the law long before the notion of judicial review of administrative action was ever conceived. To contend, as the appellants do, that whenever a party seeks a declaration, that party is seeking judicial review, is to place a limitation on the jurisdiction of this Court that is not only unwarranted, but is wrong in law.
+[129]
+In the present case, the Defendant has consistently attempted to characterize this action as one for a regulatory taking. The Defendant argues that, according to the relevant British Columbia legislation, the action is time barred.
+[130]
+The Defendant referred to the cross-examination of Ms. Calwell, for example, where she said that Mr. Lowes was contacted in 1998, with a view to commence an action for the recovery of compensation for the loss of the Calwell business. Reference is made, as well, to the affidavit of Mr. Manson and his cross-examination, which evidence also applies to the claim of Aquamarine, where Mr. Manson said that the Plaintiffs instructed Mr. Lowes to "go forward" with the litigation in 2001 or 2002.
+[131]
+The Defendant also noted the letters sent during the closing years of the 1990s and the early years of the following decade, to the British Columbia Minister of Agriculture, Mr. van Dongen, and to incumbent Ministers in Ottawa, including Mr. Brian Tobin and Mr. Robert Thibault. These letters, dated August 28, 2001, December 7, 1993 and March 19, 2002 were referenced in the cross-examinations of Ms. Calwell and Mr. Calwell. The Defendant, through her Counsel, bluntly put the proposition that by 2002, the Plaintiffs knew that the federal government was not interested in offering any compensation.
+[132]
+The evidence is clear that by 1994, Calwell was no longer making any money. The M.V. "Riverside Y" was sold in 2002.
+[133]
+The evidence is equally clear that Aquamarine did not yield a profit in 1997 and 1998; however, it earned income after that time because it was engaged in a power washing business. It sold the M.V. "Godfather" in 1998.
+[134]
+The Defendant relies upon the combined effort of three provisions in the British Columbia Limitation Act to ground her argument that the Plaintiffs' claim is time-barred. The Defendant refers to subsection 3(5) of the British Columbia Limitation Act which establishes a six-year limit for the commencement of an action for a regulatory taking and provides as follows:
+(5) Any other action not specifically provided for in this Act or any other Act may not be brought after the expiration of 6 years after the date on which the right to do so arose.
+(5) Toute autre action qui n'est pas expressément prévue dans la présente loi ou une autre loi, se prescrit par six ans à compter de la date où prend naissance le droit d'agir en justice.
+[135]
+The Defendant also refers to paragraph 3(2)(a) of that statute, which establishes a two-year time limit for the commencement of an action for damages for injury to property, including economic losses based on contract or statutory duty and provides as follows:
+(2) After the expiration of 2 years after the date on which the right to do so arose a person may not bring any of the following actions:
+(a) subject to subsection (4) (k), for damages in respect of injury to person or property, including economic loss arising from the injury, whether based on contract, tort or statutory duty;
+(2) Les actions qui suivent ne peuvent être intentées lorsque deux ans se sont écoulés depuis la naissance du droit d'action:
+a) sous réserve du paragraphe 4k), l'action en dommages-intérêts visant à réparer le préjudice causé à la personne ou aux biens, y compris la perte économique découlant du préjudice, qu'elle soit fondée sur un contrat, un délit ou une obligation légale;
+[136]
+Finally, the Defendant also relies upon section 1 of the British Columbia Limitation Act which provides as follows:
+"action" includes any proceeding in a court and any exercise of a self help remedy;
+« action » S'entend notamment de toute procédure judiciaire et de l'exercice de toute voie de droit extrajudiciaire;
+[137]
+Taking the most generous view of the facts, for the purpose of determining the expiry of a limitation period, I determine that the limitation period for an action for a regulatory taking would have begun to run, at the latest, after the sale of the Plaintiffs' vessels. That means, in the case of Calwell, the period would have begun to run in 2002. For Aquamarine, the period would have begun to run in 1998.
+[138]
+Although a review of the transcripts of the cross-examinations of Mr. Calwell, Ms. Calwell and Mr. Manson upon their respective affidavits, discloses a continuing persistence by the Defendant to characterize the Plaintiffs' action as one of a "taking", this tendency was resisted by the Plaintiffs. I am satisfied that the Plaintiffs are entitled to present their claim, as they see fit. They have chosen to describe this proceeding as a claim for declaratory relief, not as an action for damages arising from a regulatory taking. I reject the Defendant's argument that the Plaintiffs' description of their claim is an attempt to avoid the application of the British Columbia Limitation Act.
+[139]
+Section 39 of the Federal Courts Act provides for the application of limitation periods to proceedings in the Federal Court and reads as follows:
+39 (1) Except as expressly provided by any other Act, the laws relating to prescription and the limitation of actions in force in a province between subject and subject apply to any proceedings in the Federal Court of Appeal or the Federal Court in respect of
+any cause of action
+arising in that province.
+(2) A proceeding in the Federal Court of Appeal or the Federal Court in respect of a cause of action arising otherwise than in a province shall be taken within six years after
+the cause of action
+arose
+[Emphasis added]
+39 (1) Sauf disposition contraire d'une autre loi, les règles de droit en matière de prescription qui, dans une province, régissent les rapports entre particuliers s'appliquent à toute instance devant la Cour d'appel fédérale ou la Cour fédérale dont
+le fait générateur
+est survenu dans cette province.
+(2) Le délai de prescription est de six ans à compter
+du fait générateur
+lorsque celui-ci n'est pas survenu dans une province
+[Je souligne]
+[140]
+I have determined that this proceeding is a claim for declaratory relief. I refer again to the decision in
+Manitoba Métis Federation
+,
+supra
+where the Supreme Court of Canada said that such relief is "available without a cause of action." I find that this proceeding does not assert a cause of action. It follows that this proceeding does not fall within the scope of section 39. In my opinion, the Plaintiffs' claim is one that is not subject to a limitation period.
+B.
+Common Law Doctrine of Taking
+[141]
+As noted above, in this proceeding the Plaintiffs seek a declaration that they are entitled to compensation for their loss of their businesses, of which they claim to have been deprived by the actions of the Defendant. They seek a declaration that they are legally entitled to compensation.
+[142]
+The Plaintiffs argue that the entitlement to compensation arises from the common law implied duty to compensate where property is taken through the exercise of legislative or prerogative power by the government. They rely upon the decisions in
+British Columbia Medical Association et al. v Canada
+(1984), 15 D.L.R. (4th) 568 (B.C.C.A.) and
+Canadian Pacific Railway v. City of Vancouver
+, [2006] 1 S.C.R. 227 in support of their argument.
+[143]
+The Plaintiffs further submit that the state cannot take property without compensation except where such taking is supported by clear, unambiguous statutory language, relying upon the decision in
+Attorney General v. De Keyser's Royal Hotel, Ltd.
+, [1920] A.C. 508.
+[144]
+The Plaintiffs submit that changes in the regulatory scheme amount to a taking. They point to a series of changes from the early 1980s up to the 2000s, including the buy-back of licenses, fleet reduction, the commencement and enhancement of the AFS.
+[145]
+This claim raises the issue whether the common law doctrine of "taking" applies in respect of the Fisheries Act. The short answer is "yes", since such a claim can be advanced in respect of any government action, as illustrated by the decisions in
+Manitoba Fisheries
+,
+supra
+, respecting the
+Freshwater Fish Marketing Act
+, R.S.C. 1970, c. F-13,
+Canadian Pacific Railway v. City of Vancouver
+,
+supra
+respecting
+Arbutus Corridor Official Development
+Plan, By-law, By-law No. 8249, and
+British Columbia Medical Association
+,
+supra
+, respecting
+Medical Services Plan Act
+, 1981, S.B.C. 1981 c. 18. The decision in
+Burmah Oil Co. Ltd. v. Lord Advocate
+[1965] A.C. 75 (H.L.) at 101-103, illustrates the breadth of circumstances in which a claim for a taking may be asserted.
+[146]
+The Plaintiffs do not allege any wrongdoing in the manner in which the regulations were enacted or in the manner in which they were applied. They point to the fact that compensation was paid to other participants in the fisheries, most notably in the buy-back of licenses pursuant to the Mifflin Plan in 1996 and the Anderson Plan in 1998. They decry the failure to offer compensation to packers. They attribute the lack of work for packers to reductions of the fleet and reductions of quotas of fish to be harvested, and allege that the combined effect of these measures was to eliminate, the availability of work for the packers.
+[147]
+The Plaintiffs rely largely upon documentary evidence that originated with the Defendant, either reports that were written by servants or agents of the Defendant, or reports that were commissioned at the request of the Defendant, in particular the Pearse Report of 1982 which was the result of a Royal Commission of Inquiry.
+[148]
+As noted above, the Plaintiffs are seeking a declaration of a right to be compensated for the loss of property as the result of government action, which led to the acquisition of their property by the government.
+[149]
+Although they are not asserting the cause of action of regulatory taking, in order to succeed in their claim for declaratory relief, they must establish the elements of a regulatory taking.
+[150]
+The government action of which the Plaintiffs complain is the introduction of a series of regulatory and management steps, over a number of decades. They point to a series of reports that were commissioned on behalf of the DFO. The Plaintiffs submit that the DFO relied upon these various reports and studies to follow a program of streamlining the fisheries, reducing the number of vessels and licensed harvesters prosecuting the salmon, herring and halibut fisheries, a new and specific initiative for increased participation of First Nations in salmon fisheries.
+[151]
+The Plaintiffs plead that the majority of the evidence about the introduction of these new regulatory measures emanates from the Defendant herself, that is reports generated at the request of the Minister and documents maintained by the Minister.
+[152]
+In particular, the Plaintiffs focus on "Turning the Tide: A New Policy for Canada's Pacific Fisheries" written by Dr. Pearse in 1982, "Management of Canada's Marine Fisheries" written by L.S. Parsons in 1993, "A History of Pacific Fisheries Policy" written by Douglas Swenerton in 1993 and "Management of the Pacific fisheries: The Development of Fishing Rights and Fisheries Management on the Pacific Coast" written by Dr. Pearse in 2007.
+[153]
+The Plaintiffs rely on the reports of Dr. Pearse to argue that the Defendant was aware of the economic aspects of the fisheries, as well as biological concerns with the condition of the stocks and the interests of conservation. They highlight the fact that pursuant to the Davis, Mifflin and Anderson Plans, certain interests in the fisheries, that is vessel owners and license holders, received compensation for their withdrawal from the fisheries. They question why no compensation was offered to their segment of the fishing industry, that is the packing industry.
+C.
+Credibility and Assessment of Evidence
+[154]
+Given the nature of the evidence in this case, consisting as it does of many articles, reports, press releases, backgrounders, ministerial statements, discovery examinations both written and oral, as well as affidavits and transcripts of cross-examinations and admissions, the issue of credibility does not arise in the manner in which it would in a "typical" lawsuit involving private parties and non-public law. It is hard, if not impossible, to assess the credibility of much of the documentary evidence submitted.
+[155]
+Nonetheless, the extent that it is necessary for the Court to make factual findings, the assessment of the credibility of the witnesses and the documentary exhibits, remains an essential part of the trial Court's mandate. I refer to the decision in
+Faryna v. Chorny
+, [1952] 2 D.L.R. 354, where the Court said the following at 357:
+The credibility of interested witnesses, particularly in cases of conflict of evidence, cannot be gauged solely by the test of whether the personal demeanour of the particular witness carried conviction of the truth. The test must reasonably subject his story to an examination of its consistency with the probabilities that surround the currently existing conditions. In short, the real test of the truth of the story of a witness in such a case must be its harmony with the preponderance of the probabilities which a practical and informed person would readily recognize as reasonable in that place and in those conditions. Only thus can a Court satisfactorily appraise the testimony of quick-minded, experienced and confident witnesses, and of those shrewd persons adept in the half-lie and of long and successful experience in combining skilful exaggeration with partial suppression of the truth. Again a witness may testify what he sincerely believes to be true, but he may be quite honestly mistaken. For a trial Judge to say "I believe him because I judge him to be telling the truth", is to come to a conclusion on consideration of only half the problem. In truth it may easily be self-direction of a dangerous kind.
+[156]
+The Defendant has not directly challenged the credibility of the evidence tendered by the Plaintiffs or Ms. Calwell or on behalf of the corporate plaintiffs. The only challenge to the evidence of the Plaintiffs relates to its reliability, admissibility and relevance, on the grounds that some of that evidence is speculation, impermissible hearsay and argumentative.
+[157]
+Without parsing out every challenged paragraph or partial paragraph of the affidavit evidence submitted on behalf of the Plaintiffs. I am not considering those parts of the affidavits that clearly constitute improper argument, speculation, opinion and inadmissible hearsay.
+[158]
+Mindful of the limitations arising from the fact that the Plaintiffs' evidence was provided by means of affidavits and transcribed examinations, I am satisfied that their admissible evidence was credible. Although their evidence was sometimes characterized by weakness of memory as to details, it was sufficient to establish the framework of their claims. The Plaintiffs' evidence was consistent "with the probabilities that surround the currently existing conditions" as per the decision in
+Faryna
+,
+supra
+.
+[159]
+The Defendant's fact witnesses, that is Mr. Ionson and Mr. Thomas, essentially provided evidence about operations at the DFO, the historical development of regulations and aspects of the administration and implementation of those regulations. There are no credibility concerns with their evidence.
+[160]
+The credibility of the documentary evidence must also be assessed. Some of the documents were admitted for the truth of their contents; it follows that it is unnecessary to comment on their credibility. There was no challenge to the credibility of the remaining documentary evidence.
+[161]
+As noted above, expert reports were filed on behalf of both Plaintiffs and the Defendant. The Plaintiffs submitted reports from Mr. Hooge, an accountant, and the Defendant filed the report of Mr. Nelson, a consultant with experience in the Pacific fishing industry. Mr. Hooge and Mr. Nelson provided opinion evidence on different subjects, according to the mandates given by the Plaintiffs and Defendant, respectively.
+[162]
+Mr. Hooge was asked to provide estimates of the income lost by the Plaintiffs, as the result of the loss of their packing businesses as well as to provide an opinion as to when their businesses became economically unviable. Mr. Nelson was asked to provide an opinion on the evolution of the fishing industry from the 1970s to present, including the fish packing industry, with regard to technological changes in the industry, changes in fish stocks, and the impact of regulatory changes introduced by the Defendant upon the fish packing business, in particular the businesses of the Plaintiffs.
+[163]
+In
+Fraser River Pile and Dredge, Ltd. v. Empire Tug Boats Ltd. et al
+(1995), 95 F.T.R. 43, the Court commented upon the role of an expert witness in the following terms, at paragraph 8 as follows:
+It is my understanding that there are at least two aspects to expert evidence: (1) the adducing of facts through an expert because that individual has a particular knowledge thereof and such evidence can only realistically be obtained in this manner; (2) the drawing of inferences from a defined set of facts in circumstances where the making of such inferences are difficult for a trier of fact because they depend on specialized knowledge, skill or experience.
+[164]
+In this case, Mr. Hooge made it clear in his cross-examination upon his report, that he provided his own opinions on the basis of propositions put to him by the Plaintiffs. He projected estimated losses, on the basis that the Plaintiffs would have earned the same income following the introduction of the new regulatory measures, as they had earned in the years before becoming economically unviable.
+[165]
+In my opinion, the value of his own opinion is reduced by the fact that there is an incomplete evidentiary hearing record to support his ultimate conclusions.
+[166]
+Mr. Nelson was asked to provide a different kind of opinion. He submitted a lengthy report, tracing developments in both the regulatory and physical, operational aspects of the fisheries. He acknowledged that certain regulatory initiatives implemented by the DFO had a negative impact upon the packing industry, and upon the Plaintiffs in particular. He expressed the opinion that the introduction of the AFS had a negative impact upon the packing industry.
+[167]
+In my opinion, Mr. Nelson displayed a degree of ambivalence concerning some questions that were proposed to him, for example, about the impact of the reduction of the TAC in the salmon fishery upon the Plaintiffs' businesses.
+[168]
+I observe that Mr. Nelson has worked for many years in the fishing industry, including a number of years with B.C. Packers. His report and all opinion are naturally influenced by his personal experience. In so far as he provided a history of developments, on both the regulatory and operational fronts, I have no basis to reject that evidence.
+[169]
+The Plaintiffs did not submit any evidence to counter or rebut the opinion evidence of Mr. Nelson. I observe that neither did the Defendant put forth evidence to counter the opinions of Mr. Hooge, but the Defendant cross-examined this witness upon his report.
+D.
+The Burden of Proof
+[170]
+This is a civil proceeding. Even though I have determined that no cause of action is involved, this is a civil claim and in the ordinary course of events, the civil burden of proof applies, that is evidence upon the balance of probabilities. In this regard, I refer to the decision in
+F.H. v. McDougall
+, [2008] 3 S.C.R. 41 at paras. 46 and 49, where the Court said the following:
+Similarly, evidence must always be sufficiently clear, convincing and cogent to satisfy the balance of probabilities test. But again, there is no objective standard to measure sufficiency. In serious cases, like the present, judges may be faced with evidence of events that are alleged to have occurred many years before, where there is little other evidence than that of the plaintiff and defendant. As difficult as the task may be, the judge must make a decision. If a responsible judge finds for the plaintiff, it must be accepted that the evidence was sufficiently clear, convincing and cogent to that judge that the plaintiff satisfied the balance of probabilities test.
+...
+In the result, I would reaffirm that in civil cases there is only one standard of proof and that is proof on a balance of probabilities. In all civil cases, the trial judge must scrutinize the relevant evidence with care to determine whether it is more likely than not that an alleged event occurred.
+[171]
+The evidentiary burden lies upon the Plaintiffs. The Plaintiffs carry the burden of showing that the government action which they have identified led to the deprivation of their property and its acquisition by the Defendant.
+E.
+Elements of a Taking
+[172]
+The Plaintiffs are seeking declarations of entitlement to compensation for the loss of their property as the result of actions of the Defendant. In order to succeed in their claim for declaratory relief, they must prove the elements of a regulatory taking.
+[173]
+In
+Canadian Pacific Railway v. City of Vancouver
+,
+supra
+at paragraphs 30-34 the Supreme Court described two elements of a taking:
+For a
+de facto
+taking requiring compensation at common law, two requirements must be met: (1) an acquisition of a beneficial interest in the property or flowing from it, and (2) removal of all reasonable uses of the property (see
+Mariner Real Estate Ltd. v. Nova Scotia (Attorney General)
+(1999), 177 D.L.R. (4th) 696 (N.S.C.A.), at p. 716;
+Manitoba Fisheries Ltd. v. The Queen
+, [1979] 1 S.C.R. 101; and
+The Queen in Right of British Columbia v. Tener
+, [1985] 1 S.C.R. 533.
+...
+... To satisfy this [the first] branch of the test, it is not necessary to establish a forced transfer of property. Acquisition of beneficial interest related to the property suffices. ...
+Second, the by-law does not remove all reasonable uses of the property. This requirement must be assessed "not only in relation to the land's potential highest and best use, but having regard to the nature of the land and the range of reasonable uses to which it has actually been put": see
+Mariner Real Estate
+, at p. 717. ...
+[174]
+In
+A.M. Smith
+& Co. v. Canada
+, [1982] 1 F.C. 153, the Federal Court of Appeal said the following about a taking at paragraph 10:
+... I have found persuasive the submission that the cause of action is based on a right to compensation implicit in the statute itself, and not on a distinct cause of action at common law or in equity. The taking away of the goodwill of the appellant was a consequence of the operation of the
+Saltfish Act
+. The transfer of the goodwill to the Canadian Saltfish Corporation and thus to the Crown was not in itself wrongful. No tort or other legal wrong was involved. ... Yet it is clear from the
+Manitoba Fisheries
+case that the Crown was under a duty to compensate. ... And I am of opinion that the duty to compensate is implicit in the Act itself; in conventional terms, it is based on an implied term of the statute.
+[175]
+In
+Manitoba Fisheries
+,
+supra
+the Supreme Court of Canada found that the property taken may be tangible or intangible.
+[176]
+It follows that in order for the Plaintiffs to establish that they have a legal right to compensation, they must prove on a balance of probabilities that their property was taken by the Defendant, the same property was acquired by the Defendant and the Defendant did not meet her duty to compensate.
+(1) What Property was Taken?
+(a)
+Plaintiffs' Businesses
+[177]
+In this case, the Defendant submits that, upon the evidence of the Plaintiffs' expert witness Mr. Hooge, there was no goodwill in the corporate Plaintiffs. In those circumstances, the Defendant submits that there was no "property" of which the Plaintiffs were deprived.
+[178]
+On the other hand, the Plaintiffs argue that as a result of the Defendant's actions, through the Minister, they were deprived of the opportunity to continue with their packing businesses. They claim that they lost this opportunity because the fishing fleets were reduced and the quotas were reduced, consequently reducing the quantity of fish, whether salmon, herring or halibut, to be packed on the fishing grounds and delivered to the processors onshore.
+[179]
+The Plaintiffs also claim that as the result of losing the opportunity to carry on with their packing businesses, they effectively lost those businesses.
+(b)
+Plaintiffs' Vessels
+[180]
+The Plaintiffs submit that the effect of the Defendant's actions was to render worthless the assets of their businesses. In
+Manitoba Fisheries
+,
+supra
+the Supreme Court of Canada at 118 acknowledged that the taking of the plaintiffs' goodwill resulted in the physical assets being rendered virtually useless. In that case, the Court ordered that compensation must take into account the loss of the physical assets of the business.
+[181]
+The Defendant submits that there is no "real evidence" as to the loss of value of the vessels and that any loss in value is speculative.
+[182]
+According to Mr. Hooge, the only asset remaining in Calwell, after 1994, was the vessel, the M.V. "Riverside Y", and the vessel was later sold in 2002. Aquamarine sold its vessel, the M.V. "Godfather" in 1998.
+(c)
+Public Access to the Fishery
+[183]
+A key element of the Plaintiffs' claim is the principle that the fisheries are a common property resource to which the public has access. The Plaintiffs acknowledge the roots of this principle in the Magna Carta, as acknowledged by the Supreme Court of Canada
+in R. v. Gladstone
+,
+supra
+at paragraph 67:
+It should also be noted that the aboriginal rights recognized and affirmed by s. 35(1) exist within a legal context in which, since the time of the Magna Carta, there has been a common law right to fish in tidal waters that can only be abrogated by the enactment of competent legislation:
+. . . the subjects of the Crown are entitled as of right not only to navigate but to fish in the high seas and tidal waters alike.
+. . .
+[I]t has been unquestioned law that since Magna Charta [sic] no new exclusive fishery could be created by Royal grant in tidal waters, and that no public right of fishing in such waters, then existing, can be taken away without competent legislation.
+(
+Attorney-General of British Columbia v. Attorney General of Canada
+, [1914] A.C. 153 (J.C.P.C.), at pp. 169-70, per Viscount Haldane.) ...
+[184]
+Mr. Manson, in the course of his discovery examination, stated that there was no reasonable expectation of maximum public access to the fisheries in consequence of the regulatory measures implemented by the DFO from 1969 to 1998. Mr. Calwell did not directly address the point.
+[185]
+The right of public access can only be removed by "competent legislation", as noted in
+Attorney General of British Columbia v. Attorney General of Canada
+,
+supra
+.
+[186]
+The Minister is authorized to manage the fisheries resource on behalf of all Canadians and the government's actions in that regard are subject to the principle of conservation, as recognized by the Supreme Court in
+Sparrow
+,
+supra
+.
+[187]
+The regulations do not remove public access. They provide for a "new order", that is enhanced access by First Nations in recognition of their constitutionally protected rights, followed by general public access as determined by the Minister in the discharge of his statutory mandate.
+[188]
+The fact that regulatory measures reduced public access is not objectionable. The Supreme Court of Canada in
+Comeau's Sea Foods
+,
+supra
+said the following at paragraph 37 about the Minister's duty in relation to the fishery:
+... Under the Fisheries Act, it is the Minister's duty to manage, conserve and develop the fishery on behalf of Canadians in the public interest. Licensing is a tool in the arsenal of powers available to the Minister under the Fisheries Act to manage the fisheries. It restricts the entry into the commercial fishery, it limits the numbers of fishermen, vessels, gear and other aspects of commercial fishery.
+(2) Did the Defendant's Actions cause the Loss of the Plaintiffs' Businesses?
+[189]
+The Plaintiffs claim that the following regulatory actions by the DFO caused the loss of their businesses: the introduction of IVQs in the halibut fishery, area licencing in the salmon fishery, fleet reduction in the salmon fishery, special access granted to fisheries to First Nations, and area licencing and mandatory pooling in the roe herring fishery.
+[190]
+The Defendant, while admitting that some of its actions had a negative impact on the Plaintiffs' businesses, submits that these actions alone did not cause the loss of their businesses. The Defendant argues that the failure of Aquamarine to pursue other fish packing opportunities contributed to the loss of that business.
+[191]
+The Defendant also submits that other changes in the Pacific fishing industry, including declining fish prices, low sockeye returns, direct delivery premiums and advances in technology, contributed to the loss of the Plaintiffs' businesses.
+[192]
+The Plaintiffs invite the Court to infer that the sudden change in business performance was the result of the combined effects of the various DFO measures.
+[193]
+The Defendant submits that the Plaintiffs must establish that the property interests were taken solely as a result of the regulatory actions.
+[194]
+These opposing arguments will now be considered by reference to the evidence.
+(a)
+Salmon Fishery Management
+[195]
+Mr. Nelson, the expert witness for the Defendant, gave his opinion on the impact of the reduction in the total allowable commercial catch of salmon, upon the packing industry. Mr. Nelson acknowledged that there is an element of subjectivity involved in assessing whether the fishing industry could justifiably "blame" the DFO for reducing catch levels.
+[196]
+He then proceeded to point out various factors that were beyond the control of the DFO, including a decline in the fish stocks and decisions by the industry not to participate in commercial salmon due to the low market. However, he also pointed out that at the same time, the DFO implemented new salmon allocation approaches that lead to a reduced priority for the commercial fishery and this was a policy decision made by the DFO.
+[197]
+Mr. Nelson did not give a clear opinion as to the effect upon the packing industry of the new management approach adopted by the DFO in relation to the salmon fishery. His opinion is inconclusive on this issue.
+[198]
+Nonetheless, in my view, it is reasonable to conclude that a management approach that reduced the total allowable commercial catch of salmon would have an effect upon the packing industry because a reduction in the TAC would necessarily reduce the amount of salmon to be packed, whether by packing vessels or onboard the harvesting vessels themselves. I conclude that this initiative by the DFO did have a negative impact upon the Plaintiffs but I am unable to say, on the basis of the evidence, that this factor was a major or precipitating cause in the reduction of the Plaintiffs' ability to continue packing salmon.
+[199]
+Mr. Nelson expressed the view that steps taken by the DFO to reduce the commercial salmon fleet did not,
+per se
+, hurt the packing industry. He pointed out that the packing industry generated income by packing pounds of fish, not by servicing a large number of harvesting vessels. If the packers were collecting higher volumes from a reduced fleet, they would still make money and there would be no negative impact upon the Plaintiffs. He concluded that reduction in the fleet, by steps taken by the DFO, was a neutral factor for the packing industry.
+[200]
+Although he characterizes the impact of the fleet reduction as a neutral factor, in my opinion the fleet reduction must be viewed as having a negative impact, since reduction of the fleet means reduced catches to be harvested.
+(b)
+Special Access to First Nations
+[201]
+Mr. Nelson considered the impact upon the packing industry of the allocation of special access by the DFO to particular Aboriginal groups and individuals, and to the recreational fishery. The AFS, which began in 1992, affected certain bands in the Lower Fraser River and Barkley Sound, near Port Alberni. He also referred to increased access for First Nations to the fisheries resource under the ESSR fisheries.
+[202]
+Mr. Nelson expressed the view that increased allocations to First Nations did have an impact on the fish packing industry in the 1990s, because these catches focused on the Fraser River sockeye, and overreliance on the Fraser River sockeye runs created vulnerability for the entire fishing industry. In these circumstances, he concluded that the increased allocations of sockeye salmon to First Nations on the Fraser River negatively impacted the fish packing industry during the 1990s.
+[203]
+Mr. Nelson provided a definitive opinion as to the impact of the AFS, concerning greater access to sockeye salmon, upon the packing industry. If there was an impact in general upon the packing industry, there was certainly a negative impact upon the Plaintiffs. However, I cannot say that this measure, to the benefit of First Nations, decimated the business of the Plaintiffs. It was certainly a contributing factor.
+[204]
+According to the evidence of Mr. Nelson and Mr. Ionson, the AFS was a deliberate response to the decision of the Supreme Court of Canada in
+Sparrow
+,
+supra
+. That decision addressed the constitutionally protected Aboriginal right to fish.
+[205]
+The Defendant, through the Minister and the DFO, is responsible for the management of the fisheries. In
+R. v. Gladstone
+,
+supra
+, the Supreme Court of Canada, at paragraph 67, said that as a common law right, the right of public access to the fishery is subordinate to Aboriginal rights, which are constitutional rights.
+[206]
+In
+Sparrow
+,
+supra
+the Supreme Court of Canada recognized a constitutional right of First Nations to fish. The AFS was introduced in order to provide a real, practical and substantial implementation of policies, in recognition of that right. The fact that implementation of the AFS had a negative impact upon the Plaintiffs, and others, does not detract from the legitimacy of that policy.
+[207]
+I note upon his cross-examination, Mr. Manson said that the reallocation of fishing opportunities for sockeye, from the commercial to Aboriginal fisheries, did not really affect his business.
+[208]
+Mr. Calwell provided evidence that he packed for First Nations, when working with a company, Seven Seas, but he did not seek out packing opportunities for his own company with any First Nation.
+[209]
+Considering the evidence of both the Plaintiffs and the Defendant, I conclude that the AFS probably limited packing opportunities, because it reallocated harvesting opportunities, but overall, that policy recognized a constitutionally protected right. Its application was mandated by law, and any negative consequences upon the Plaintiffs must be regarded as incidental.
+(c)
+Roe Herring Management
+[210]
+Mr. Nelson acknowledged that the establishment of a mandatory pooling regime for the roe herring fishery had some impact on the fish packing industry. This pooling regime was a new management tool and it reduced the incidence of catches in excess of the TACs.
+[211]
+Mr. Thomas concluded in his affidavit that the DFO, in introducing pool management for roe herring, did not prevent fish packers from packing roe herring.
+[212]
+Mr. Nelson concluded that area restrictions imposed by the DFO did not have a significant impact on the packing industry.
+[213]
+I have no reason to disagree with or to reject the opinion of Mr. Nelson that area restrictions imposed by the DFO, relative to the roe herring fishery, did not have a significant impact on the packing industry.
+[214]
+Overall, Mr. Nelson's evidence shows that the introduction of a mandatory pooling regime and the area in restrictions had some impact on the packing industry. However, it is not possible for me to quantify the cumulative negative impact of these changes in the roe herring fishery, on the basis of the evidence submitted, including the personal evidence of the Plaintiffs and the documentary evidence.
+(d)
+IVQs in the Halibut Fishery
+[215]
+As discussed above, the IVQ regime prohibited the use of packing vessels in the halibut fishery since harvesters were required to take their catch directly to a designated landing site to be counted by DFO officials.
+[216]
+Mr. Manson stated, in cross-examination upon his affidavit, that the introduction of IVQs did not affect his business.
+[217]
+Mr. Calwell, upon cross-examination, admitted that the introduction of IVQs to the halibut fishery did not impact him in 1991 as he was not packing halibut in that year.
+[218]
+I conclude that this regulatory measure did not negatively impact the Plaintiffs. The introduction of IVQs in the halibut fishery was designed to increase monitoring by the DFO of halibut stocks. The Plaintiffs themselves admit that this innovation did not harm their businesses.
+(e)
+Technological Advancements
+[219]
+According to the evidence of Mr. Nelson, at the time the new regulatory measures were being implemented, changes were taking place in the technical side of the Pacific fisheries industry.
+[220]
+Mr. Nelson's report contains a lot of technical information, including the evolution of technology in the construction of fishing vessels. He noted that the vessels owned and operated by Calwell and Aquamarine were both old wooden vessels, with Chilled Sea Water Refrigeration ("CSW") fish holes that used ice as a refrigerant. He characterized these vessels, that is the M.V. "Riverside Y" and the M.V. "Godfather", as "collector" vessels, that is in the small class of packing vessels.
+[221]
+He noted that these vessels had relatively small packing capacity, that is 60,000 - 65,000 pounds of salmon or 30 tons of herring. He commented upon the high cost of maintaining these wooden vessels. He noted that both vessels were engaged in buying fish for cash. Reliance upon packing contracts from cash buying firms and good relationships with fishermen were important to the maintenance of their packing businesses.
+[222]
+Mr. Nelson described the business plans of Calwell and Aquamarine, in the late 1980s, as "vulnerable", in light of their reliance upon older wooden vessels that required significant outlays of money to keep them in good repair. He noted that the Plaintiffs principally relied upon the gillnet fleet for a supply of both salmon and roe herring, but in the later 1980s, gillnet fishermen became more reliant upon licences provided by large or processing companies and packed their own fish on "motherships".
+[223]
+At paragraph 180 of his report, Mr. Nelson set out his opinion about the impact of new technology upon the packing sector. First, he expressed the view that the changing catch capacity of the fishing fleet lead to a change in management practices by the DFO.
+[224]
+Second, he recognized that the introduction of insulated fish holds and onboard refrigeration systems contributed to increased ability of fishing vessels to pack their own fish, thereby reducing the need for packers. Harvesting vessels were increasingly equipped with "wet" fish holds using CSW or Refrigerated Sea Water systems ("RSW"). With greater capacity to pack their own catch, harvesting vessels were less reliant upon packers. Third, he identified the introduction of new technologies onboard fish packing vessels, such as RSW, Transvac pumps, cross-conveyor systems and grading tables.
+[225]
+In assessing the effect upon the Plaintiffs of evolving technology, Mr. Nelson offered the view that the ability of the fishing fleet to pack its own fish reduced the availability of fish to be packed by the Plaintiffs. He also commented on the lack of new technology onboard the Plaintiffs' vessels, which restricted their packing options as the quantity of gillnet fish became increasingly limited.
+[226]
+The more modern, larger vessels outstripped the capacity of the smaller wooden vessels, such as those operated by Calwell and Aquamarine, in the packing and delivery of fish, in prime condition, to the processing facilities. Mr. Nelson expressed the opinion that packers such as the Plaintiffs did not keep pace with the technological advances of the 1990s
+.
+[227]
+Mr. Nelson provided evidence about changes in the equipment used in the prosecution of the fisheries. He drew on his own experience as an employee of B.C. Packers, the largest fish processing operation in British Columbia. This was practical evidence and addressed changes that necessarily affected the manner in which fish was harvested and processed. In my opinion, his evidence about the impact of technological changes is clear and unequivocal, to the effect that this was probably the most significant factor negatively impacting the Plaintiffs' businesses.
+[228]
+It is obvious that industries evolve with the discovery of new techniques. This observation applies to the development of new building materials, new designs, new methods of preserving freshly caught fish, new methods of processing the harvest on board vessels.
+[229]
+There is no evidence that any person or organization prevented the Plaintiffs from modernizing their vessels and updating their equipment. The choice was theirs whether to pursue modernization or not. Working with older wooden vessels would have put the Plaintiffs at a disadvantage in comparison with better funded operations, that chose to update their fleets and equipment.
+[230]
+In my opinion, the fact that the Plaintiffs did not pursue such a path is most likely the largest contributing factor to the decline and loss of their businesses. They were unable to compete.
+(f)
+Direct Delivery Premiums
+[231]
+The Defendant submits that the advent of direct delivery premiums adversely impacted the Plaintiffs. The payment of a direct delivery premium by processors to harvesters was common by the 1990s. The practice was beneficial to both fishermen, who earned an increased income from their catch, and processors, who lowered their overall costs by reducing their use of packers. Mr. Nelson concluded that the increased popularity of direct delivery premiums reduced but did not eliminated the need for packers.
+[232]
+Mr. Calwell acknowledged in his oral discovery that the direct delivery premiums had a negative impact upon the fish packing industry in general, although he could not estimate the degree of impact upon his own business. Later upon cross-examination of his affidavit, he stated that the impact upon Calwell was limited because his business targeted gillnet vessels who were not able to pack their own fish.
+[233]
+Mr. Manson disagreed that direct delivery premiums had any impact upon Aquamarine. However, he accepted that the practice might have affected other packers.
+[234]
+The direct delivery premiums were introduced by processors. As such, this was a matter of business and not regulated by the Defendant. Any negative consequences to the Plaintiffs cannot be attributed to the Defendant. It is not clear that this practice had a significant impact upon the Plaintiffs, although in principle it likely did reduce the opportunities for packing.
+[235]
+Overall, I consider that this factor most likely had a negative impact on the packing industry in general. However, on the basis of the evidence submitted, I cannot determine the degree of that impact upon the Plaintiffs.
+(g)
+Fluctuations in Fish Prices
+[236]
+Mr. Nelson provided a very detailed review of fluctuating prices of halibut, roe herring, coho, pink, chum, chinook and sockeye salmon.
+[237]
+He found that, while packers were compensated based on the volume of the catch packed, declining prices negatively affected the packing industry. In relation to the Plaintiffs, he found that weak market conditions for salmon and roe herring caused a number of cash buying firms to leave the industry which reduced the pool of potential customers.
+[238]
+Mr. Nelson referred specifically to the exit of Icicle Seafoods from the B.C. market. He also found that low fish prices resulted in cost savings initiatives by cash buying processors, including lower prices paid for fish and reduced packing costs.
+[239]
+Mr. Manson testified that fluctuations in fish prices did not impact Aquamarine because of its contract with Icicle Seafoods. That was a time charter that did not depend upon fish prices. He accepted that declines in fish prices would eventually have an impact upon packers.
+[240]
+Mr. Calwell stated that the decline in the price per pound of roe herring, and chum and pink salmon that occurred from 1994 to 2002 adversely impacted his business.
+[241]
+Variations in the prices paid for different fish stocks were driven by the market. The impact of market forces is independent of the Defendant. While I acknowledge that lower prices for fish stocks certainly would have had an impact upon the incomes of the Plaintiffs, I cannot find that this factor results from any actions of the Defendant.
+[242]
+The Plaintiffs did not provide evidence about specific harvesters for whom they packed; Aquamarine provided evidence about its contracts with Icicle, a processor. The evidence is not clear that Aquamarine lost its contract with Icicle as a direct consequence of the regulatory initiatives taken by the Minister.
+[243]
+I am not satisfied that the Plaintiffs, or any of them, have presented evidence that establishes, on the balance of probabilities, that the loss of their packing business was a direct result of government action. This finding is fatal to the Plaintiffs' claim and it is not necessary for me to address the issue of any acquisition by the Defendant of the Plaintiffs' property.
+F.
+Alternative Relief Sought
+[244]
+As noted at the start, the Plaintiffs set out their prayers for relief, together with alternate prayers for relief. Paragraphs 1(a)(i), 1(a)(vi-vii) and 1(a)(ix-xii) relate specifically to the Plaintiffs. The remaining paragraphs seeking alternate declarations do not specifically concern the Plaintiffs.
+[245]
+In my opinion, the alternate declarations sought by the Plaintiffs extend beyond the facts at issue in this proceeding. I agree with the submission of the Defendant that courts should not grant declarations in a vacuum, that is in the absence of a real and non-theoretical question; see the decision in
+Montana Band of Indians v. Canada
+, [1991] 2 F.C. 30.
+VIII.
+CONCLUSION
+[246]
+As described at the beginning of this decision, the Plaintiffs are seeking a declaration that they are entitled to compensation for the loss of their fish packing businesses, which were taken by the Defendant, resulting from the exercise of her powers, pursuant to the Fisheries Act.
+[247]
+Throughout this proceeding, the Defendant argued that the Plaintiffs were asserting a disguised claim for regulatory taking, a cause of action that was time barred pursuant to the British Columbia Limitation Act. She also submitted that the Plaintiffs did not make out any of the elements of a regulatory taking.
+[248]
+The Defendant's submissions on the application of the British Columbia Limitation Act were rejected, as I have found that the Plaintiffs' claim for declaratory relief did not require a cause of action.
+[249]
+In order for the Plaintiffs to establish their legal entitlement to compensation for the loss of their property, they were required to prove the elements of a regulatory taking: that their property was taken by the Defendant, that the same property was acquired by the Defendant and that the Defendant did not meet her duty to compensate. The Plaintiffs were subject to the usual civil burden of proof, that is proof upon a balance of probabilities.
+[250]
+The Plaintiffs were unable to meet that burden of proof. They failed to show even the first element of a regulatory taking, that is the taking of their property by the Defendant.
+[251]
+I find that no property of the Plaintiffs was taken. The Plaintiffs' own expert, Mr. Hooge, stated that the businesses had no goodwill or value beyond the value of the vessels. The Plaintiffs themselves sold their vessels. The Plaintiffs have not established that they were deprived of their businesses as a direct result of government action.
+[252]
+In these circumstances, it follows that the Plaintiffs could not show that their property was acquired by the Defendant and that the Defendant did not meet her duty to compensate.
+[253]
+The Plaintiffs, throughout this proceeding, argued that their access to the fisheries was diminished. However, the public right of access to the fisheries is not exclusive to the Plaintiffs, it is a right they hold with all Canadians. The common property nature of the fisheries is a shared, communal interest which requires the Defendant to balance many interests, including economic interests, constitutionally protected rights of First Nations and conservation imperatives.
+[254]
+The tension between public and private interests, including economic interests, have existed for a long time as referenced in
+Attorney General of British Columbia v. Attorney General of Canada
+,
+supra
+. More recently the British Columbia Court of Appeal acknowledged these tensions in
+Carpenter Fishing Corp. et al. v. Canada
+(2002), 174 B.C.A.C. 38 at paragraph 10 where it said "...The appellants' connections to the fishing industry and to British Columbia are interests they share as members of the public ...".
+[255]
+The Defendant, in regulating the fisheries, acts according to priorities that change in response to different situations, sometimes focusing upon the economics of the fisheries as a revenue producing resource, other times emphasizing constitutionally protected rights, all subject to the overriding interest of conservation. The Supreme Court in
+Sparrow
+,
+supra
+described this challenge at 1114-1115:
+The problem that arises in assessing the legislation in light of its objective and the responsibility of the Crown is that the pursuit of conservation in a heavily used modern fishery inevitably blurs with the efficient allocation and management of this scarce and valued resource. The nature of the constitutional protection afforded by s. 35(1) in this context demands that there be a link between the question of justification and the allocation of priorities in the fishery. The constitutional recognition and affirmation of aboriginal rights may give rise to conflict with the interests of others given the limited nature of the resource. ...
+[256]
+The Plaintiffs' case illustrates the competition between public and private interests. However, at the end of the day, they did not demonstrate a right to compensation.
+[257]
+In the result, the action is dismissed.
+[258]
+If the parties are unable to agree on costs, then brief submissions can be made.
+JUDGMENT
+[259]
+THIS COURT'S JUDGMENT is that
+this action is dismissed, if the parties are unable to agree on costs, then brief submissions can be made.
+[End of document]

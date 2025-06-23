@@ -1,0 +1,8 @@
+[9]
+The statutory provisions which govern the scope of the Access to Information Act are ss. 2 and 4(1) of the Act:
+"2(1) The purpose of this Act is to extend the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exemptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government.
+"2(2) This Act is intended to complement and not replace existing procedures for access to government information and is not intended to limit in any way access to the type of government information that is normally available to the general public.
+"4(1) Subject to this Act, but notwithstanding any other Act of Parliament, every person who is
+(a) a Canadian citizen, or
+(b) a permanent resident within the meaning of the Immigration Act, 1976,
+has a right to and shall, on request, be given access to any record under the control of a government institution."

@@ -1,0 +1,7 @@
+[78]
+Similarly, with the same detail, Dr. Lundquist dealt with the Lapsley Patent Exhibit D-2 - a front end loader unit. Here a bucket is held level so that rock does not spill out of the bucket as it is being lifted and swung onto a truck, by controlling the elevation or the angle of that bucket with a slave and master system as the boom is elevated. At page 988 of the evidence:
+"Q.	So, in Lapsley, then, is there an automatic controlled parallelism.
+A.	Lapsley provides this automatic control of the parallelism unless the operator chooses to override it by using the manual control valve."
+and later:
+"Q.	In Figure 1 of Canadian Patent 886975, again, indicate the automatic portion or the manual portion.
+A.	The circuit that we have referred to as the automatic circuit--the slave and master system--is cylinder 28, pilot cylinder 25, the slave cylinder in lines 30 and 29."

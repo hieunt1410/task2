@@ -1,0 +1,62 @@
+[1]
+Harrington, J.
+: Ms. Stubicar, a lawyer who is representing herself, sought personal information held by the Canadian Border Services Agency (CBSA), the whole as permitted by the
+Privacy Act
+. In particular, she sought personal advance passenger information/passenger name record information with respect to a flight she took as a passenger from London to Calgary. The CBSA provided some, but not all, of the requested information. It invoked section 22(1)(b) of the Act. Subsection (ii) thereof provides:
+22. (1) The head of a government institution may refuse to disclose any personal information requested under subsection 12(1)
+. . . . .
+(b) the disclosure of which could reasonably be expected to be injurious to the enforcement of any law of Canada or a province or the conduct of lawful investigations, including, without restricting the generality of the foregoing, any such information
+. . . . .
+(ii) that would reveal the identity of a confidential source of information, or
+22. (1) Le responsable d'une institution fédérale peut refuser la communication des renseignements personnels demandés en vertu du paragraphe 12(1):
+. . . . .
+b) soit dont la divulgation risquerait vraisemblablement de nuire aux activités destinées à faire respecter les lois fédérales ou provinciales ou au déroulement d'enquêtes licites, notamment:
+. . . . .
+(ii) des renseignements qui permettraient de remonter à une source de renseignements confidentielle,
+[2]
+Ms. Stubicar complained to the Privacy Commissioner who determined that her complaint was not well-founded. More particularly, it was found that section 22(1) (b) (ii) was the relevant section as the protection of the identity of confidential sources of information was in issue. The information which was protected was the Uniform Resource Identifier (URI) of a database which was not personal information to Ms. Stubicar, and releasing the information could compromise the mandate of the CBSA.
+[3]
+Ms. Stubicar has applied to this Court for a judicial review in accordance with section 41 of the Act. Thereafter, she has allowed herself to become bogged down in unnecessary procedural issues.
+[4]
+Before the Court is an appeal of most of the order of Prothonotary Morneau dated 19 May 2011, in which he dismissed her motion under rules 317 and 318 of the
+Federal Courts Rules
+for the production of the CBSA's file. In his order, he specifically endorsed the submissions at paragraphs 13 through 38 of the respondent's written representations.
+[5]
+Without wishing in any way to restrict the generality of Prothonotary Morneau's reasoning, by order dated 9 March 2011, he allowed the respondent to file public and confidential versions of an affidavit from Alain Bellville of the CBSA. In the affidavit, Mr. Belleville states that he has produced the CBSA's entire file on Ms. Stubicar. The portions which had been withheld from her pertain to the URI, referred to at paragraph 2 hereof. Those documents were received by the Court under seal and remain confidential. Prothonotary Morneau stated that he was satisfied that the filing of these affidavits fulfilled the respondent's production obligations under rules 317 and 318. That order was not appealed.
+[6]
+Consequently, the subsequent motion dismissed by Prothonotary Morneau, and now on appeal to this Court, is redundant and is a collateral attack on his order of 9 March 2011.
+[7]
+Furthermore, the documents to be produced are those before the decision maker at the CBSA, not those that might be in the possession of the Privacy Commissioner.
+[8]
+At this stage, there is absolutely no reason to disbelieve Mr. Belleville who has not been cross-examined on his affidavit.
+[9]
+It is well-established that this Court should not interfere with the discretionary decision of a prothonotary, unless the decision is determinative of any issue vital to the case, or the decision is clearly wrong in the sense that it is based on a wrong principle or on a misapprehension of the facts. There is a great deal of jurisprudence on point. Cases often cited are
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 FC 425 (FCA);
+Z.I. Pompey Industrie v. ECU-Line N.V.
+, 2003 SCC 27, [2003] 1 SCR 450 and
+Merck & Co. v. Apotex Inc.
+, 2003 FCA 488, 315 NR 175, [2004] 2 FCR 459.
+[10]
+A production order under rules 317 and 318 is not a matter vital to the final [sic] of a case (FRAGMENT_SUPPRESSED.
+[11]
+Furthermore, the prothonotary was not clearly wrong. He was clearly right.
+[12]
+Rules 317 and 318 cannot be used to provide to the applicant the very documents withheld under the
+Privacy Act
+. Indeed, sections 46 and 47 of that Act provide that the Court may examine any record which was withheld from an applicant, but that it shall take every reasonable precaution to avoid disclosure to the applicant. At the hearing of the judicial review on the merits, the presiding judge will have to review the material withheld in order to determine whether or not the decision of the CBSA was justified. Although the case deals with the
+Access to Information Act
+, rather than the
+Privacy Act
+, the process is described in
+Schertzer v. Canada (Minister of Public Safety and Emergency Preparedness)
+, 2011 FC 233, [2011] FCJ No 283 (QL).
+ORDER
+[13]
+FOR REASONS GIVEN;
+THIS COURT ORDERS that
+:
+1. The motion of the applicant to appeal portions of Prothonotary Morneau's order of 19 May 2011 is dismissed with costs.
+Appeal dismissed.
+Editor: Sharon McCartney/vnh
+[End of document]

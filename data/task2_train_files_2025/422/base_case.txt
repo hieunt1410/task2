@@ -1,0 +1,101 @@
+[1]
+Hansen, J.
+: This application for judicial review concerns the assessment of the level of disability stemming from the applicant's pensioned condition of diabetic retinopathy.
+[2]
+The applicant seeks review of the August 18, 2000 Assessment Appeal decision of the Veteran's Review and Appeal Board ("VRAB").
+Background
+[3]
+The applicant is a former member of the Royal Canadian Mounted Police ("RCMP"). In 1983 he was diagnosed as an insulin-dependant, Type-1 diabetic. On March 11, 1991 the VRAB determined that the applicant's condition, diabetes mellitus, was pensionable at one-fifth for the portion of the disability arising of his RCMP service. This partial pension entitlement was assessed at 40%.
+[4]
+The applicant was subsequently diagnosed as having diabetic neuropathy and diabetic retinopathy. On March 30, 1998 the Minister of Veterans Affairs found that both of these conditions were pensionable as "consequential to the pensioned condition of diabetes mellitus". However, the applicant's level of disability for diabetic retinopathy was assessed at nil.
+[5]
+A July 15, 1998 review of the new medical information submitted by the applicant's opthamologist resulted in a confirmation of the nil assessment. The medical opinion noted the applicant's best-corrected visual acuity was 20/20 bilaterally and that the pension disability assessment is based on the level of visual acuity.
+[6]
+The departmental review conducted on July 24, 1998 also confirmed the nil assessment.
+[7]
+Prior to the Assessment Review held on February 18, 2000, the VRAB directed that a pension medical examination be conducted. On April 21, 1999, the applicant underwent this examination by Dr. Hilderman, Senior District Medical Officer with Veterans Affairs Canada. Dr. Hilderman also wrote to the applicant's opthamologist, Dr. Kwan, requesting further information regarding the impairment of the applicant's visual fields and the results of any tests that could quantify the degree of loss of peripheral vision and depth perception. Dr. Hilderman, in this letter, also explained that "a pensioner, as long as he has visual acuity of 20/20, would not receive any assessment with regards to his retinopathy ..."
+[8]
+In his response dated April 29, 2000, Dr. Kwan confirmed the applicant's visual acuity was 20/20. Dr. Kwan also sent the results of two other tests to Dr. Hilderman
+[9]
+The first test, aimed at detecting any loss of peripheral vision, produces a graphic depiction of the visual fields of each eye. Both of these diagrams were forwarded to Dr. Hilderman without interpretation by Dr. Kwan.
+[10]
+The second test, for depth perception, is known as the "stereo litmus test". It showed a "positive fly, 3/3 animals and 5/9 of the circles". Dr. Kwan explained that 5/9 circles corresponds to 100 seconds of stereopsis.
+[11]
+The Assessment Review Board, in a decision dated February 18, 2000, confirmed the nil assessment. At this hearing, the applicant and his advocate argued that "the factors concerning depth perception, peripheral vision, and pressure build-up within the eyeball, all of which are causing the applicant some problems, should be factors for consideration in the assessment of the condition". The Board simply relied on the opinion of Dr. Hilderman, who, on reviewing the evidence provided by Dr. Kwan, had not recommended a change in the level of assessment.
+[12]
+At an Assessment Appeal hearing held in Charlottetown on July 13, 2000, the decision of the Assessment Review Board was affirmed. In the reasons for the August 18, 2000 decision, the VRAB outlines the applicant's submissions including the inappropriateness of the visual acuity test in his case, the complications suffered by the applicant, and the unreasonableness of the Senior District Medical Officer's (Dr. Hilderman) recommendation. The VRAB concludes that, after carefully considering all of the evidence, the applicant is "appropriately assessed at this time when applying the Veteran Affairs Canada Table of Disabilities". This is the decision now under review.
+Analysis
+[13]
+The
+Veteran's Review and Appeal Board Act
+, S.C. 1995, c. 18 (the "
+Act
+") and the
+Pension Act
+, R.S.C. 1985, c. P-6 govern decisions made with respect to veterans' pensions. Sections 3 and 39 of the
+Act
+are particularly relevant and read as follows:
+"Construction
+"3. The provisions of this Act and of any other Act of Parliament or of any regulations made under this or any other Act of Parliament conferring or imposing jurisdiction, powers, duties or functions on the Board shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who have served their country so well and to their dependants may be fulfilled.
+"Rules of evidence
+"39. In all proceedings under this Act, the Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case."
+"Principe général
+"3. Les dispositions de la présente loi et de toute autre loi fédérale, ainsi que de leurs règlements, qui établissent la compétence du Tribunal ou lui confèrent des pouvoirs et fonctions doivent s'interpréter de façon large, compte tenu des obligations que le peuple et le gouvernement du Canada reconnaissent avoir à l'égard de ceux qui ont si bien servi leur pays et des personnes à leur charge.
+"Règles régissant la preuve
+"39. Le Tribunal applique, à l'égard du demandeur ou de l'appelant, les règles suivantes en matière de preuve:
+a) il tire des circonstances et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible à celui-ci;
+b) il accepte tout élément de preuve non contredit que lui présente celui-ci et qui lui semble vraisemblable en l'occurrence;
+c) il tranche en sa faveur toute incertitude quant au bien-fondé de la demande."
+[14]
+Section 35 of the
+Pension Act
+, provides that the calculation of the amount of the pension is to be determined by an assessment of the extent of the disability resulting from the pensionable condition. An assessment of the extent of a disability is based on the Table of Disabilities established by the Minister. The relevant provisions of section 35 state:
+"Pensions for Disabilities
+"Pension in accordance with extent of disability
+"35(1) Subject to section 21, the amount of pensions for disabilities shall, except as provided in subsection (3), be determined in accordance with the assessment of the extent of the disability resulting from injury or disease or the aggravation thereof, as the case may be, of the applicant or pensioner.
+"How extent of disability assessed
+"(2) The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments."
+"Pensions pour invalidité
+"Montant conforme au degré d'invalidité
+"35(1) Sous réserve de l'article 21, le montant des pensions pour invalidité est, sous réserve du paragraphe (3), calculé en fonction de l'estimation du degré d'invalidité résultant de la blessure ou de la maladie ou de leur aggravation, selon le cas, du demandeur ou du pensionné.
+"Estimation du degré d'invalidité
+"(2) Les estimations du degré d'invalidité sont basées sur les instructions du ministre et sur une table des invalidités qu'il établit pour aider quiconque les effectue."
+In effect, the Table of Disabilities provides a mechanism for quantifying the extent of the disability. Pelletier, J., considered the purpose of the Table of Disabilities in
+King v. Canada (Attorney General)
+, [2000] F.C.J. No. 196; 182 F.T.R. 226 (T.D.). He notes at paragraph 17 that subsection 35(2) makes it clear that "... the Table of Disabilities is provided for the guidance of physicians and surgeons, no doubt to promote a uniform standard for assessment ...".
+[15]
+The applicant argues that a lessening of visual acuity is not one of the consequences of diabetic retinopathy nor is it the disabling aspect of the disease in his case. He states that his claim is based on the impairment of his field of vision and, in particular, his depth perception. Accordingly, the VRAB's finding of a "nil assessment" is perverse since it is based on an assessment of the extent of a disability unrelated to his condition.
+[16]
+The applicant points to a letter written by Dr. Kwan dated November 18, 1998. Dr. Kwan explains:
+"Diabetic Retinopathy is one of the most frequent causes of new blindness in North America. It occurs as a complication of diabetes in which there are abnormal changes in the eyes ... Diabetic retinopathy is a separate condition from visual acuity and having 20/20 vision does not mean that there is no diabetic retinopathy ..."
+[17]
+The respondent contends that the VRAB, by virtue of section 35 of the
+Pension Act
+, must apply the Table of Disabilities. The respondent submits the onus is on the applicant to demonstrate that the extent of his disability comes within the Table of Disabilities. The respondent relies on
+FRAGMENT_SUPPRESSED
+[18]
+In my opinion, the reasons in
+Gavin
+, supra, do not apply to the facts in the present case. In
+Gavin
+, the VRAB had found that there was no evidence to establish the applicant had a hearing loss disability at the time of his release from the RCMP. As well, the applicant's audiograms did not disclose a hearing loss disability as defined by the Minister's Guidelines. The Court, on judicial review, found that even if the hearing loss was caused by his service in the RCMP, the degree of the hearing loss did not meet the level required to receive compensation.
+[19]
+In the present case, the applicant is not arguing that the level of his visual acuity warrants compensation, instead he argues that level or degree of his visual acuity is an irrelevant consideration.
+[20]
+Disability is defined in section 3 of the
+Pension Act
+as "the loss or lessening of the power to will and do any normal mental or physical act". The applicant maintains he suffers from a lessening of his ability to perform normal acts, such as golfing, bowling, driving at night, walking on uneven surfaces, and stepping onto curbs. He further asserts that these problems are a result of a lessening of his depth perception and field of vision and are unrelated to visual acuity.
+[21]
+In fact, all of the medical evidence that was before the VRAB supports the applicant's contention that a visual acuity test could not produce an accurate reflection of the extent of his disability arising from diabetic retinopathy. According to that evidence, hemorraghing is the most significant consequence of the condition and it may also lead to a sudden loss of vision. The symptoms of the condition include the following visual effects: episodes of blurred vision, sudden loss of vision in one or both eyes, and black spots or flashing lights in the field of vision.
+Cecil's Textbook of Medicine
+(20th Ed.), at 1273, when describing the "exudates" or lesions and swellings caused by the hemorrhaging associated with retinopathy, notes that "these lesions do not generally affect visual acuity".
+[22]
+Upon review of the Table of Disabilities and the instructions regarding its use, I can see no apparent direction that requires the VRAB to use a measure of visual acuity to assess the extent of every disability associated with the eye.
+[23]
+In my view, the VRAB in affirming the finding of a nil assessment ignored relevant evidence and based its decision on an irrelevant consideration, namely, a measure of visual acuity. For these reasons the application for judicial review is allowed and the matter is remitted for reconsideration by a differently constituted panel.
+Application allowed.
+Editor: Giovanni A. Merlini/pdk
+[End of document]

@@ -1,0 +1,23 @@
+[83]
+In addition to the several patents already cited, Dr. Lundquist, in his evidence at page 1048, makes the following points which stood up despite a searching cross-examination:
+"As has been shown above, the hydraulic parallel system used by the patentee, that of master-slave cylinders
+and the pilot check valves called by the patentee 'hydraulic locks' were both well known at all relevant times
+. The master-slave systems were known at least as early as 1952 (when the Stanley and Brock patents were issued) and had been disclosed for use in various types of vehicles employed in mining.
+...
+"Pilot check valves (the 'hydraulic locks') were a known expedient to place across cylinders which were under load to prevent the pistons in the cylinder from moving under load and are admitted by the patentee to the conventional. An engineer or ordinary skill in the later nineteen fifties who wanted to prevent the movement of the piston under load, in a master-slave arrangement, would have known that pilot check valves were available for use if desired.
+"Specifically, it would have been known that they were available to isolate the throttle if it was found to be leaking unduly.
+"It will therefore be seen that the hydraulic arrangements shown in the patent for parallel keeping, and the 'hydraulic locks' were all known by 1960."
+(Underlining is mine)
+Later, at page 1053 of the evidence, Dr. Lundquist states:
+"Hydraulic parallelism, using a master-slave arrangement, was also widely adopted. The patents of Bronder and Strom, both filed earlier than the patent in suit, are examples of this."
+With respect to their use vis-à-vis XY booms or other types, Dr. Lundquist states:
+"Hydraulic parallelism applies to both what we refer to as XY booms, booms of the type that are described in the Kimber patent, and also what we refer to as base rotation booms which are perhaps best exemplified by the booms offered by Tamrock on many of their jumbos."
+Later, when discussing the Strom patent (Exhibit D-5):
+"This patent shows all of the elements of claim 1 of the patent in suit, with the exception of the 'hydraulic locks'."
+At page 1065 of the evidence, Dr. Lundquist, reading from Exhibit 46:
+"No hydraulic locks are shown. However, hydraulic locks are admitted in Kimber et al. to be conventional and to work in per se known manner. See Kimber et al. at page 3, line 22-24."
+And at page 1066,
+"Claim 2 of Kimber et al. repeats the same master-slave arrangement as in Claim 1, but for movements in the horizontal plane. The Strom patent specifically contemplates this at page 2, lines 8-12.
+"In view of the fact that the hydraulic locks (pilot check valves) were well known expedients at the time of filing of the Strom patent, they are merely a trivial and obvious variation of what Strom discloses.
+...
+"I therefore conclude that the Strom patent fully shows all the alleged invention claimed in the Kimber et al. patent."

@@ -1,0 +1,17 @@
+[5]
+Prothonotary Hargrave set out the test for determining whether a document is privileged as follows:
+"In considering whether a document is privileged, this court has adopted the dominant purpose rule described in
+Waugh v. British Railway Board
+, [1980] A.C. 521. The House of Lords, in that case, adopted the view of Chief Justice Barwick, who wrote the minority decision for the Australian Court of Appeal in
+Grant v. Downs
+(1976), 135 C.L.R. 674, at p. 677:
+'... a document which was produced or brought into existence either with the dominant purpose of its author, or of the person or authority under whose direction, whether particular or general, it was produced or brought into existence, of using it or its contents in order to obtain legal advice or to conduct or aid in the conduct of litigation, at the time of its production in reasonable prospect, should be privileged and excluded from inspection.'
+"There must be a balancing of the discovery process, on the one hand, to allow a litigant claims of privilege where it is proper, but on the other hand to recognize that it is in the interests of justice to make the fullest possible disclosure of relevant material capable of throwing light upon the issues in a case. For that reason a party claiming privilege must come clearly within the now well-established dominant purpose rule.
+"The party claiming privilege has the onus of proving both that the report was prepared for the dominant purpose of being provided to counsel and for the purpose of using it in respect of existing litigation or litigation of which there is a reasonable prospect or was reasonably contemplated at the time of production of the document (...)
+"The question of privilege, in connection with adjusting reports, was considered at length by the B.C. Court of Appeal in
+Shaughnessy Golf and Country Club v. Uniguard Services Ltd.
+(1986), 1 B.C.L.R.(2d) 309. It is clear from that case that it is insufficient to show only that litigation was in reasonable prospect when the document was produced: the claimant for privilege must also establish that the dominant purpose for creating the document was to provide it to counsel either to obtain legal advice or to aid in the conduct of litigation." (
+Jordan et al. v. Towns Marine Electronics Ltd. et al.
+(1996), 110 F.T.R. 22 (T.D.) at 7-9 (hereinafter
+Reasons for Order
+).)

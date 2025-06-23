@@ -1,0 +1,403 @@
+[1]
+MacKay, J.
+: These are two actions, ordered to be heard together, appealing from decisions of the Canadian International Trade Tribunal (the "CITT") brought pursuant to section 81.24 of the
+Excise Tax Act
+, R.S.C. 1985, c. E-15, as amended,
+(the "
+Act
+"). In both instances, the CITT held that repair and replacement parts purchased by the plaintiffs for heavy equipment used by them did not qualify for exemptions listed in Part XIII of Schedule III to the
+Act
+and were subject to federal sales tax.
+Facts
+[2]
+For purposes of these trials, the parties agreed that the evidence shall be limited to the Record of Proceedings before the CITT, sent to the Court by that tribunal under cover of a letter dated September 27, 1993 and documents appended to an Agreed Statement of Facts in each case. In addition, the parties agreed on the following facts in the respective cases.
+[3]
+Facts agreed upon in file no. T-2922-93, concerning Mustang Engineering and Construction Limited:
+"1. This is an appeal pursuant to section 81.24 of the
+Excise Tax Act
+, R.S.C. 1985, c. E-15, from a decision of the Canadian International Trade Tribunal rendered in Appeal Number AP-92-059 on March 2, 1993 and is instituted pursuant to section 48 of the
+Federal Court Act
+.
+"2. During the years 1988 to 1990 inclusive, the Plaintiff carried on business, including the business of road and dam building in the Provinces of Alberta and British Columbia. At all relevant times, the Plaintiff was a wholly owned subsidiary of Matthews Contracting Inc.
+"3. During 1989 and 1990 the Plaintiff was engaged in the reconstruction of the Vernon-Slocan Highway #6 from Cape Horn to Cory Creek (Project No. C-4964-0001) under contract with the Province of British Columbia Ministry of Transportation and Highways (hereinafter referred to as the 'Slocan Highway Project')
+"4. During 1988, 1989 and 1990, the Plaintiff was engaged in the construction of the Oldman River Dam and various related projects described as follows:
+Oldman River Dam - Main Dam: Subcontractor to W.A. Stephenson Construction (Western) Limited/SCI Engineering & Construction Inc. - A Joint Venture - Alberta Environment Contact No. 17-88-0003
+Oldman River Dam-Dyke: Alberta Environment Contract No. 21-88-0230
+Oldman River Dam-Reservoir, Related Works: Alberta Public Works Contract No. 211-90-0332
+"These projects hereinafter collectively referred to as the 'Oldman River Dam Project'.
+"5. During the course of the aforesaid contracts, the Plaintiff was required to purchase repair and replacement parts which were installed on motor scrapers, push cats, dozers, loaders, backhoes and graders. Additionally the Plaintiff purchased and installed parts on Terex Model 3309 Dump Trucks and Caterpillar Model 769 Off-Highway Trucks, both of which are hereinafter referred to as 'rock trucks'. Parts required to repair the equipment covered a wide variety of repair and replacement parts including but not limited to valves, sleeves, gaskets, cylinders, solenoids, compressors, injectors, rings, bearings, manifolds, regulators, rods, seals, nuts and bolts.
+"6. The equipment, for which the aforesaid parts were purchased by the Plaintiff, was owned by Matthews Contracting Inc. or by equipment dealers and was rented to the Plaintiff. Ten Terex Model 3309 and four Caterpillar Model 769 rock trucks were purchased by Matthews Contracting Inc. for the sole purpose of renting the trucks to the Plaintiff for use on the Slocan Highway Project and the Oldman River Dam Project. A further six Terex Model 3309 rock trucks were rented by the Plaintiff from equipment dealers for use on these projects.
+"7. Included in the purchase price of the aforesaid parts installed in the 1989 and 1990 time periods was an amount of Federal Sales Tax.
+"8. The Plaintiff made four applications for refunds of the aforesaid tax paid in 1989 and 1990 pursuant to Section 51 of the
+Excise Tax Act
+, R.S.C. 1985, c. E-15. The applications were allowed in respect of the tax claimed for parts installed on motor scrapers and push cats, which were used to produce impervious Zone 1 and Zone 1A clay till from borrow pits for the core of the Oldman River Dam, plus certain loaders, dozers and backhoes working at various gravel pits at the Oldman River Dam Project. Refund amounts were approved totalling $221,832.05. The remainder of the applications were denied.
+"9. The Plaintiff, while accepting certain deletions, objected to the denials of the Minister of National Revenue. The amount in dispute, identified on the four Notices of Objection, was $180,777.90. The Minister of National Revenue allowed a refund of tax in the amount of $8,902.89 with respect to parts for three pieces of equipment.
+"10. Refund Claim #2794, the Notice of Determination, Notice of Objection and Notice of Decision are attached hereto as Schedule 1.
+"11. Refund Claim #1307, the Notice of Determination, Notice of Objection and Notice of Decision are attached hereto as Schedule II.
+"12. Refund Claim #5887, the Notice of Determination, Notice of Objection and Notice of Decision are attached as Schedule III.
+"13. Refund Claim #5504, the Notice of Determination, Notice of Objection and Notice of Decision are attached hereto as Schedule IV.
+"14. The Plaintiff appealed to the Canadian International Trade Tribunal in relation to whether the construction equipment was used under either paragraph 1(a), (e) or (j) of Part XIII of Schedule III to the
+Excise Tax Act
+such that the parts qualify under paragraph 1(1) of Part XIII of Schedule III of the
+Act
+. The Plaintiff's appeal was denied.
+"15. The aforesaid rock trucks are self-propelled, rubber tired vehicles. The rock trucks were not licensed nor can they be licensed for use on public highways and are designed for off-highway use exclusively.
+"16. At the Oldman River Dam Project, which was an earth-filled structure, it was necessary to excavate approximately 8.5 million cubic metres of various sizes and classes of rocks and granular fill. Due to the amount of earth-fill required for the dam it was necessary that the excavation occurred at various pits around the dam site as well as the spillway, approach channel and chute portions of the dam. The rock trucks transported the various types of rock requirements required for the construction of the dam structure from point of source to the point of placement.
+"17. The project site was approximately 10 kilometres long and contained a number of borrow pits. The farthest borrow pit from the dam site was 7.2 kilometres away and was one kilometre long. All distances given are straight-line distances.
+"18. At the Oldman River Dam Project, the Plaintiff was paid on three bases: by weight, by weight and distance, and by volume of the various classes of materials provided.
+"19. The Slocan Highway Project involved the reconstruction of 5.9 kilometres of two-lane highway through mountainous terrain. The contract involved the clearing and grubbing, drilling and blasting, excavation, grade preparation and paving. The majority of the rock requirements were obtained by drilling and blasting solid rock along the road site, with the balance of the rock requirements obtained by ripping or by excavating unconsolidated or loose rock. It was necessary to remove blasted or loose rock to allow for further drilling and blasting. This blasted or loose rock was loaded onto rock trucks and transported to point of placement.
+"20. On both the Slocan Highway Project and the Oldman River Dam Project, graders were used to construct and maintain temporary roads to pits. These roads were necessary to access the pit sites with excavation equipment and also for the removal of clay, sand, rock or mixtures thereof from the pit sites.
+"21. The loaders, dozers and backhoes in issue were used in the Slocan Highway Project to excavate, load or move blasted or loose rocks."
+[4]
+Facts agreed upon in file no. T-2772-93 concerning Thompson Bros. (Constr.) Ltd.:
+"1. This is an appeal pursuant to section 81.24 of the
+Excise Tax Act
+, R.S.C. 1985, c. E-15, from a decision of the Canadian International Trade Tribunal rendered in Appeal Number AP-92-070 on February 26, 1993 and is instituted pursuant to section 48 of the
+Federal Court Act
+.
+"2. The Plaintiff carries on business, including the business of road building, in the Province of Alberta.
+"3. From April 1, 1989 to March 31, 1990 the Plaintiff was engaged in the building of four highways under contracts with the Department of Transportation and Utilities of the Province of Alberta.
+"4. The road building activities pursuant to the aforesaid contracts included the removal of trees and topsoil covering suitable deposits of materials located outside of the highway right-of-way in order to develop borrow pits. Materials were excavated from the borrow pits and were subsequently used as part of the road bed in accordance with the contract obligations.
+"5. During the course of the aforesaid contracts, the Plaintiff was required to purchase repair and replacement parts which were installed on motor scrapers and dozers engaged in the performance of the contract. The repair and replacement parts included items such as but not limited to hoses, collars, connectors, clamps, retainers, alternators, rings, bearings, manifolds, regulators, rods, seals, nuts and bolts.
+"6. Overburden (topsoil) is removed from the borrow pit sites to expose the underlying suitable earth materials.
+"7. The motor scrapers are self propelled.
+"8. The dozer tractors are used in the borrow pits to push the motor scrapers thereby assisting in the excavating and loading of suitable earth materials into the motor scrapers.
+"9. Included in the purchase price of the aforesaid parts was an amount of Federal Sales Tax calculated to be $15,163.70.
+"10. The Plaintiff submitted Refund Claim No. 6687 claiming $15,163.70 for an amount equal to the federal sales tax paid on repair parts for its equipment. The claim was filed for the period of April 1, 1989 to March 31, 1990. Attached as Appendix '1' is a copy of the Refund Claim.
+"11. By Notice of Decision dated April 16, 1992, a rebate of tax in the amount of $4,706.26 was paid to the Plaintiff and the remaining refund claim in the amount of $10,457.44 was denied. Attached as Appendices '2', '3' and '4' are the Notice of Determination, Notice of Objection and Notice of Decision.
+"12. The Plaintiff appealed to the Canadian International Trade Tribunal in relation to the outstanding amount of $10,457.44 on the grounds that the goods in issue are exempt from Federal Sales Tax under subsections 1(a) and (j), such that the parts qualify under subsection (1) of Part XIII of Schedule III of the
+Excise Tax Act
+."
+Issue
+[5]
+The issues are whether the plaintiffs' equipment, in each of several instances, was engaged in tax-exempt activities so that repair parts for that equipment qualified for exemption under Part XIII of Schedule III to the
+Excise Tax Act
+.
+[6]
+For Mustang, the following equipment and activities are in dispute:
+i. rock trucks used to carry the excavated sand, rock and gravel fill at the Oldman River Dam and the Slocan Highway projects;
+ii. loaders, dozers and backhoes used to excavate rock and granular materials at the Slocan highway project; and
+iii. graders used to construct and maintain on-site haul roads to facilitate the handling of excavated materials at the Oldman River Dam and the Slocan Highway projects.
+[7]
+For Thompson, the following equipment and activities in highway construction projects in Alberta are in dispute:
+i. motor scrapers used to excavate/load suitable borrow deposits as machinery for use primarily and directly in the production of goods;
+ii. dozers and motor scrapers used to remove topsoil above borrow deposits, either as machinery for use in development of minerals, or as machinery used primarily and directly in the development of goods for production.
+Relevant Excise Tax Act Provisions
+[8]
+Subsection 50(1) of the
+Act
+imposes a federal sales tax on the sale price of all goods; subsection 51(1) exempts goods that are enumerated in Schedule III. Part XIII of Schedule III contains exemptions for production equipment, processing materials and plans. Paragraphs 1(a), 1(e) and 1(j) of Part XIII list specific exemptions, and paragraph 1(l) exempts repair and replacement parts for the goods listed in the preceding paragraphs, but not including, inter alia, paragraph 1(q), parts purchased for "motor vehicles" except those described in paragraphs 1(e) and 1(h).
+[9]
+The relevant provisions of the
+Act
+are as follows:
+"50(1) There shall be imposed, levied and collected a consumption or sales tax at the rate prescribed in subsection (1.1) on the sale price or on the volume sold of all goods.
+. . . . .
+"51(1) The tax imposed by section 50 does not apply to the sale or importation of the goods mentioned in Schedule III, other than those goods mentioned in Part XIII of that Schedule that are sold to or imported by persons exempt from consumption or sales tax under subsection 54(2).
+. . . . .
+"SCHEDULE III
+"PART XIII
+"1. All the following:
+(a) machinery and apparatus sold to or imported by manufacturers or producers for use by them primarily and directly in
+(i) the manufacture or production of goods,
+(ii) the development of manufacturing or production processes for use by them, or
+(iii) the development of goods for manufacture or production by them,
+. . . . .
+(e) self-propelled trucks mounted on rubber-tired wheels for off-highway use exclusively at mines and quarries,
+. . . . .
+(j) machinery and apparatus, including wire rope, drilling bits and seismic shot-hole casing, for use in exploration for or discovery or development of petroleum, natural gas or minerals,
+. . . . .
+(l) parts for goods described in paragraphs (a) to (k),
+. . . . .
+but not including:
+(q) motor vehicles except those described in paragraphs (e) and (h), ..."
+"50(1) Est imposée, prélevée et perçue une taxe de consommation ou de vente au taux spécifié au paragraphe (1.1) sur le prix de vente ou sur la quantité vendue de toutes marchandises:
+. . . . .
+"51(1) La taxe imposée par l'article 50 ne s'applique pas à la vente ou à l'importation des marchandises mentionnées à l'annexe III, excepté les marchandises mentionnées à la partie XIII de cette annexe qui sont vendues ou importées par des personnes exemptées du paiement de la taxe de consommation ou de vente en application du paragraphe 54(2).
+. . . . .
+"ANNEXE III
+"PARTIE XIII
+"1. Tous les articles suivants:
+a) les machines et appareils vendus aux fabricants ou producteurs ou importés par eux pour être utilisés par eux principalement et directement:
+(i) soit dans la fabrication ou la production de marchandises,
+(ii) soit dans la mise au point de procédés de fabrication ou de production devant être utilisés par eux,
+(iii) soit dans la mise au point de marchandises devant être fabriquées ou produites par eux;
+. . . . .
+e) les camions automobiles montés sur roues munies de pneus en caoutchouc pour servir hors du réseau routier public et exclusivement aux mines et aux carrières;
+. . . . .
+j) les machines et appareils, y compris le câble métallique, les trépans et le tubage du trou de tir pour sismographe, utilisés dans les travaux d'exploration, de découverte ou de mise en valeur du pétrole, du gaz naturel ou des minéraux;
+. . . . .
+l) les pièces pour des marchandises visées aux alinéas a) à k);
+. . . . .
+mais à l'exclusion:
+q) des véhicules automobiles, sauf ceux visés aux alinéas e) et h); ..."
+Principles of Review
+[10]
+Section 81.24 of the
+Act
+gives claimants a right of appeal to the Federal Court from a decision of the CITT and an appeal is dealt with in this Court as a trial de novo.
+[11]
+As stated in
+FRAGMENT_SUPPRESSED, it is a well-established principle that in tax assessment appeals, the court is concerned with the tax liability of the taxpayer, not with the reasons assigned for the basis of the assessment. Moreover, the treatment afforded to other taxpayers is not relevant to the question of whether the plaintiff is entitled to a refund; nor is it relevant that certain other taxpayers paid tax on the same basis as the plaintiff did.
+[12]
+In
+Ford Motor Co. of Canada v. Minister of National Revenue
+, [1997] 3 F.C. 103; 212 N.R. 275 (F.C.A.), at 129, leave to appeal refused, [1997] 3 S.C.R. viii; 225 N.R. 159, the Federal Court of Appeal held that, as a matter of principle, a taxpayer must prove that it meets the requirements of the legislation on its own terms, and an assessed taxpayer must establish a claim for an exemption or refund according to the legislative provisions. Revenue Canada memoranda and rulings are administrative policies which do not bind the Court or determine the issue of tax liability which is determinable under the provisions of the taxing act.
+[13]
+Finally, in
+Stubart Investments Ltd. v. Minister of National Revenue
+, [1984] 1 S.C.R. 536; 53 N.R. 241, at 578, 10 D.L.R.(4th) 1, at 32, Mr. Justice Estey, writing for the Supreme Court of Canada, stated that a taxing statute should be interpreted using the plain meaning of its provisions harmoniously with its purpose and he referred to the learned author of
+Construction of Statutes
+(2nd Ed. 1983), at p. 87, E.A. Dreidger, for a succinct statement of the modern rule of interpretation for taxing statutes:
+"Today there is only one principle or approach, namely, the words of an
+Act
+are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the
+Act
+, the object of the act, and the intention of Parliament."
+Mustang Engineering (Court file T-2922-93)
+Rock Trucks
+[14]
+Mustang submits that the rock trucks used to carry excavated material at the dam and the highway projects, fall under the exception listed in paragraph 1(e) of Part XIII of Schedule III of the
+Act
+:
+"(e) self-propelled trucks mounted on rubber-tired wheels for off-highway use exclusively at mines and quarries,"
+"e) les camions automobiles montés sur roues munies de pneus en caoutchouc pour servir hors du réseau routier public et exclusivement aux mines et aux carrières;"
+[15]
+The CITT disallowed the exemption for repair parts installed on the rock trucks because:
+"The evidence is that the rock trucks were used to transport materials from construction excavation sites and material storage areas, as well as from on-site and off-site quarries, to the point of placement in the property under construction ... The use of the trucks in construction areas precludes them from being used exclusively at mines or quarries."
+[16]
+Mustang urges this Court to interpret the word "exclusively" as modifying the phrase "for off-highway use." However, as argued by the defendant, the French version of paragraph 1(e) leaves no doubt that the word "exclusively" modifies the words "at mines and quarries". That meaning is consistent with a meaning of the English text and thus is to be preferred. The use of the word "exclusively" in paragraph 1(e) requires that the vehicles be used exclusively at a mine or quarry before the trucks qualify for an exemption.
+[17]
+Mustang submits that paragraph 1(e) must be interpreted in the context of a commercial operation and it urges that it qualifies for the exemption if the rock trucks are used for a quarrying purpose or function, including removal of rock from a quarry, regardless of whether the trucks have left the perimeters of a quarry. In its view a quarry is more than an excavated pit, and includes all of the operations necessary to produce and transport the rocks excavated from a quarry pit.
+[18]
+Mustang relies upon Revenue Canada Ruling 9135-18, dated August 6, 1985, respecting the first phase of the Oldman River dam project where rock trucks qualified for exemption under paragraph 1(e) and in which the operator carried partially crushed gypsum rock some 18 kilometres from a quarry to a crushing mill, using trucks which were unsuitable for highway transport because of their size and load capacity. The road on which the trucks travelled was a private road built and maintained by the company on land it owned or leased for the operation. In that case, the provincial Government Department of Energy, Mines and Resources had also confirmed that the road travelled by the trucks was part of a mine or quarry under the provincial
+Mines Act
+.
+[19]
+Mustang also relies on Revenue Canada Ruling 9110-70416-1 dated January 12, 1988, in which mine trucks working at the Oldman River dam were found to be exempt from federal excise taxes where the trucks were used to transport excavated rock from an excavation site to a deposit site. I note no other factual details underlying that decision are reported, and with no basis for understanding the decision, I do not find it helpful.
+[20]
+Finally, Mustang relies upon Revenue Canada Ruling 9110.050/93 dated February 10, 1984, in which quarry and gravel production operators were held to be manufacturers or producers who were entitled to the federal tax exemption for equipment under Part XIII of Schedule III of the
+Act
+.
+[21]
+In my opinion, the wording of the paragraph 1(e) is plain: the activities must occur exclusively at a mine or quarry, not simply in connection with mining or quarrying operations. Mustang's carrying by rock trucks was not performed exclusively at a mine or quarry. The entire Oldman River dam construction site was not a mine or quarry. It contained several borrow pits, but those made up only a fraction of the entire site. Mustang's representative testified before the CITT that the haul road was approximately 15 kilometres long. No mining or quarry-type activities occurred at the location where the Oldman River dam was erected. That the trucks left the quarry areas and hauled material to the dam site was sufficient to remove them from the exemption contemplated under paragraph 1(e) for equipment used exclusively in mines and quarries.
+[22]
+The same reasoning applies to the Slocan Highway project where rock trucks carried construction material from borrow sites to the road bed. The construction site was a highway before construction began and afterwards. The purpose of the project was to widen the road. The highway was not transformed into a quarry and then reopened as a highway. Mustang did not own the land upon which the road was built. It was not a private road, nor did it form part of Mustang's mining or quarry operations.
+[23]
+Thus, I am not persuaded that Mustang's rock trucks qualify for the exemption from federal sales tax under paragraph 1(e) of Part XIII of Schedule III to the
+Act.
+Therefore, parts for those trucks would not qualify as exempt under paragraph 1(l) of that part of Schedule III.
+Loaders, Dozers, Backhoes and Graders
+[24]
+In written submissions, not spoken to when these cases were heard, the defendant submitted that Mustang is barred from claiming the exemption for the graders, loaders, dozers and backhoes under subsection 1(q) of Part XIII of Schedule III to the
+Act
+which provides exemptions for:
+"(l) parts for goods described in paragraphs (a) to (k),
+. . . . .
+but not including:
+(q) motor vehicles except those described in paragraphs (e) and (h), ..."
+"l) les pièces pour des marchandises visées aux alinéas a) à k);
+. . . . .
+mais à l'exclusion:
+q) des véhicules automobiles, sauf ceux visés aux alinéas e) et h); ..."
+[25]
+The term "motor vehicles" is not defined in the
+Act
+. The defendant urges this court to interpret the term "motor vehicles" to include the graders, loaders, dozers and backhoes, within paragraph 1(q), so that they are excluded from tax exemption.
+[26]
+Mustang submits that this interpretation cannot be sustained because of the nature of the exemptions listed in Part XIII. For example, in paragraph 1(f), the legislation specifically excepts "internal combustion tractors" from federal sales tax. Adopting the defendant's interpretation of paragraph 1(q) renders paragraph 1(f) repetitious. Mustang submits that the term "motor vehicles" refers to vehicles that are used solely to transport people, such as automobiles, motorcycles, and trucks.
+[27]
+Mustang refers to Revenue Canada Ruling 71258 dated December 4, 1987, which states in part:
+"... I concur with your proposition that a tractor scraper is not a motor vehicle, as contemplated by the legislative provisions of section 1(q) of Part XIII of Schedule III to the
+Excise Tax Act
+. Thus, a tractor scraper cannot be excluded from the exempting provisions of section 1(a)(i) on the basis that it is a motor vehicle."
+It also refers to Revenue Canada Ruling 9110.050 dated April 4, 1986, which states in part:
+"At this point, one important exception to the preceding must be noted. Paragraph 1(q) of Part XIII, Schedule III specifically excludes motor vehicles, i.e., automobiles and trucks, from exemption under 1(a) and (j) even though the exempting conditions specified in those paragraphs may otherwise have been met."
+[28]
+I agree with Mustang. In my opinion, the term "motor vehicles" does not include the loaders, dozers, backhoes and graders here in question. Such a wide interpretation would render much of Part XIII unnecessary. Machinery and equipment that is self-propelled may qualify for tax exemption within a particular paragraph of Part III. It is not then to be considered a "motor vehicle" as envisaged by paragraph 1(q).
+Loaders, Dozers and Backhoes
+[29]
+Mustang submits that the loaders, dozers and backhoes that were used to excavate rock and granular materials at the Slocan Highway project are exempt from sales tax under subparagraph 1(a)(i) of the
+Act
+because they were used primarily and directly in the production of goods. That provision is:
+"1(a) machinery and apparatus sold to or imported by manufacturers or producers for use by them primarily and directly in
+(i) the manufacture or production of goods,"
+"1a) les machines et appareils vendus aux fabricants ou producteurs ou importés par eux pour être utilisés par eux principalement et directement:
+(i) soit dans la fabrication ou la production de marchandises,"
+[30]
+Mustang relies upon
+G.H. Poulin Contractor Ltd. and The Deputy Minister of National Revenue for Customs and Excise
+, C.I.T.T. Appeal No. AP-2154, June 6, 1985, where the taxpayer operated quarries for sand, gravel and crushed stone, primarily sold for highway construction, and also built roads and installed water mains and sewers. There, the shot rock used to build roads was the same type of material that was produced in the quarry. The Tariff Board in that case held that the activities necessary to produce shot rock at or near a road site constituted the production of goods. It held that the essence of goods is that they must have value, be moveable and be an object of commerce, whether or not they were actually sold in a given instance. The ultimate use of the shot rock did not alter the fact that goods were produced in the operation.
+[31]
+Mustang submits that the shot rock in
+Poulin
+was a commodity that was used as fill and its activities here are almost identical to those in
+Poulin
+. It also refers to Revenue Canada Ruling 9110.050-93 dated February 10, 1984, which held that materials extracted from quarry or pit deposits are "goods" within the meaning of the
+Act
+and an operation to produce these goods is considered to be a process of manufacture or production.
+[32]
+Finally, Mustang submits an excerpt from
+Excise News
+, a document produced by Revenue Canada, which stated:
+"Quarry, Sand or Gravel Pit
+"Consolidated or unconsolidated materials that are extracted from quarry or pit deposits; reduced to random size for transportation handling purposes; loaded aboard trucks and delivered in the same condition to construction sites are goods within the meaning of the
+Excise Tax Act
+. Consequently, a quarry or pit operator who performs this process is considered to be a manufacturer or producer. The operator is entitled to the exemptions under Part XIII of Schedule III to the
+Excise Tax Act
+providing that production equipment, processing materials and plans are purchased and used directly in the process of manufacture or production of the goods."
+[33]
+Mustang submits that the production process includes extracting, handling, processing, loading and delivering the rocks. The loaders, dozers and backhoes excavated the rock, sorted it by size, and loaded it into the trucks. These actions constitute the production of goods.
+[34]
+The defendant contends that Mustang did not produce the rock within the meaning of paragraph 1(a), but transported it after it had been cut from the side of the mountain by another. A representative for Mustang testified before the CITT that the actual blasting and excavating of the rock was performed by sub-contractors using air tracks and tank drills. The loaders, dozers and backhoes then assisted in transporting the rocks after they had been blasted from the rock face. The defendant also contends that Mustang was not operating a quarry that produced goods, but was primarily involved in the construction of a road.
+[35]
+I agree with the defendant that Mustang was primarily involved in constructing the Slocan Highway and was not a quarry operator. The exemption recognized under Revenue Canada Ruling 9110.050 dated February 10, 1984, and that described in the excerpt from the
+Excise News
+, are for operators of a quarry or gravel pit. In the highway project, other contractors extracted the rock and Mustang was not operating a quarry, unlike the circumstances in
+Poulin
+where the applicant operated a quarry in addition to constructing highways. Mustang merely transported the rocks and fill using the loaders, dozers and backhoes for the purposes of highway construction.
+[36]
+In my opinion, Mustang's loaders, dozers and backhoes used in its activities in the Slocan Highway project do not qualify for the exemption from federal sales tax under subparagraph 1(a)(i) of Part XIII of Schedule III to the
+Act
+.
+[37]
+The defendant submits that Mustang is not entitled a tax exemption for repair parts used in accord with subparagraph 1(a)(i) because that provision requires that the same entity purchase and use the equipment to qualify for the exemption. Because here Mustang leased the machinery from the owner, Matthews Contracting Inc., a firm which wholly-owned Mustang, it is said that the latter does not qualify under subparagraph 1(a)(i), despite having used the equipment and having purchased the repair parts for it. Mustang submits that in the construction industry it is common to lease equipment from banks and dealers, who only retain paper title and that the lessee also has an interest in the equipment that entitles it to the exemption.
+[38]
+Since I find that the equipment was not here used by Mustang in the production of goods within the meaning of subparagraph 1(a)(i), it is unnecessary to determine whether, if it did otherwise qualify for the exemption, it would be precluded because it did not own the equipment.
+[39]
+In view of my conclusion that the use of the equipment in question at the Slocan Highway project was not exempt, repair and replacement parts for the loaders, dozers and backhoes used on that project were not exempt from tax under paragraph 1(e).
+Graders
+[40]
+Mustang submits that the graders which were used to develop and maintain on-site haul roads for both the Oldman River dam project and for the Slocan Highway project qualify for an exemption under subparagraph 1(a)(iii) or under paragraph 1(j). The haul roads allowed equipment to gain access to the excavation sites and facilitated hauling by the rock trucks and motor scrapers. Part XIII of Schedule III to the
+Act
+provides exemptions in respect of certain operations including:
+"1. All the following:
+(a) machinery and apparatus sold to or imported by manufacturers or producers for use by them primarily and directly in
+. . . . .
+(iii) the development of goods for manufacture or production by them,
+. . . . .
+(j) machinery and apparatus, including wire rope, drilling bits and seismic shot-hole casing, for use in exploration for or discovery or development of petroleum, natural gas or minerals,"
+"1. Tous les articles suivants:
+a) les machines et appareils vendus aux fabricants ou producteurs ou importés par eux pour être utilisés par eux principalement et directement:
+. . . . .
+(iii) soit dans la mise au point de marchandises devant être fabriquées ou produites par eux;
+. . . . .
+j) les machines et appareils, y compris le câble métallique, les trépans et le tubage du trou de tir pour sismographe, utilisés dans les travaux d'exploration, de découverte ou de mise en valeur du pétrole, du gaz naturel ou des minéraux;"
+[41]
+I have found that Mustang was not involved in the manufacture or production of goods. In my opinion it cannot then qualify for a tax exemption based on subparagraph 1(a)(iii) for the development of goods for manufacture or production.
+[42]
+Mustang submits that the test under subsection 1(j) is whether the equipment was used in exploring for, discovering, or developing minerals and it submits that its graders helped make the roads to access the sites at which the development of minerals occurred.
+[43]
+Mustang refers to several definitions of "minerals", including:
+a.
+The New Webster Encyclopaedic Dictionary of the English Language
+;
+"Any ingredient in the earth's crust; an inorganic body with a definite chemical composition, and which naturally exists within the earth or at its surface;"
+b.
+Geology for Engineers
+; and
+"Clay, sand, and/or gravel or other less familiar solid materials or the earth's crust, are termed 'rock' whether these materials are coherent, or of a consolidated character or whether they are unconsolidated and uncemented. It is also clear by geological definition (1) that 'rocks' are 'largely and wholly composed of minerals' and broadly speaking 'rocks are aggregates of minerals'; and"
+c. Part IX, Section 123 of the
+Act
+which defines
+"'Mineral' includes petroleum, natural gas and related hydrocarbons, and sand and gravel."
+[44]
+Mustang refers to Ruling 9130/56 dated August 23, 1983, which held that skidders and bulldozers used at drill sites to tow drill rigs through rough terrain and to clear overburden qualified for tax exemption under subsection 1(j), and also to Ruling 9140.063/3-1 dated August 23, 1983, which held that slings used with drilling rigs and exploration equipment qualified under subsection 1(j).
+[45]
+The defendant submits that the graders were not used to develop minerals. Mustang was in the business of building roads and of constructing dams. The defendant urged that the examples cited in subsection 1(j) suggest how directly involved the goods must be in the development process before an exemption will be granted. The listed items are used to penetrate the earth's surface to reach the resource. To include the construction of a road among those items would be to stretch the meaning of subsection 1(j). Further, the defendant submits that Mustang has not established that the blasted or loose rocks are minerals, nor that Mustang developed the rocks.
+[46]
+I agree with the interpretation urged by the defendant. Mustang was using the graders to reconstruct a highway, or to construct service roads for the Oldman river dam project, not to search for or to develop minerals. In my opinion, Mustang's use of graders during construction of on-site roads in both projects does not qualify for the exemption from federal sales tax under paragraph 1(j) of Part XIII of Schedule III to the
+Act
+. Thus, parts acquired for those graders would not be exempt from tax under paragraph 1(l) of Part XIII of Schedule III to the
+Act
+.
+Thompson Bros. (Constr.) Ltd. (Court file T-2772-93)
+[47]
+Thompson was engaged in construction of four highways for the Province of Alberta. To produce the fill needed for the highway projects, materials were removed from borrow pits by motor scrapers assisted by dozers. The motor scrapers excavated and moved topsoil and excavated and loaded borrow materials. The motor scrapers then carried the materials to the road site, but they did not process, nor did they compact the material. The dozers assisted by pushing the scraper to increase the power and traction of the scrapers in removing cover over the borrow pits and removing materials from the borrow pits.
+[48]
+The Minister disallowed the claim for parts purchased for the motor scrapers involved in excavating and loading the borrow deposits at the borrow pits but allowed the claim for the parts purchased for dozers that pushed the motor scrapers in the borrow pits. The Minister also disallowed the claim for parts for the dozers and scrapers that were involved in removing topsoil above the borrow deposits. Those determinations were appealed to the CITT which dismissed Thompson's claim, stating:
+"With regard to paragraph 1(a) of Part XIII of Schedule III to the
+Excise Tax Act
+, the Tribunal does not believe that the activities of the appellant constitute the manufacture or production of goods. Nor does the Tribunal believe that clay or other compactable materials, including sand, gravel or rock, qualify as 'minerals' as that term is used in paragraph 1(j) of Part XIII of Schedule III to the
+Excise Tax Act
+. As the construction equipment does not fall under paragraph 1(a) or (j), the repair parts for such equipment do not fall under paragraph 1(l)."
+[49]
+In this appeal it is urged that by exempting the dozers, the defendant implicitly admits that goods were being produced in the borrow pits. Thompson relies upon
+Poulin
+, supra, which held that the shot rock produced for a highway construction project was a valuable commodity to be used on-site as fill. Therefore, the equipment used in producing rock for the construction of the highway was exempt from excise tax by reason of paragraph 1(a)(i) of Part XIII of Schedule III to the
+Act
+.
+[50]
+Thompson also refers to
+Arthur A. Voice Construction Co. Ltd. and
+The Minister of National Revenue
+, C.I.T.T. Appeal No. AP-89-123, October 24, 1990, but in that case the activities of the applicant, which were very similar to Thompson's activities, did not qualify for an exemption because the applicant did not produce goods as envisaged under subsection 1(a). In that case, the CITT specifically distinguished
+Poulin
+, on the following basis:
+"In that case, the Tariff Board decided that the shot rock produced were goods within the meaning of the
+Act
+. The operations carried out by Poulin altered the character of the rock; by blasting the rock, Poulin made 'shot rock' out of it. In the present case, the appellant did not produce a new material out of the excavated material. The appellant in its road-building activities did not produce goods of value in a commercial sense ...
+"Furthermore, the Tribunal is of the view that the present case can also be distinguished from the production activity occurring at quarries or borrow pits. Where a quarry or pit operator extracts goods from the quarry or pit deposits, such person produces goods that have a value and are moveable. In this case, where the appellant excavates materials on site, it does so in order to perform its necessary construction activities and not to produce and sell goods having a commercial value."
+[51]
+An excerpt from the
+Excise News
+(January 1990), regarding borrow pits, appears to support Thompson's position:
+"The Excise Branch has clarified the question of whether a person conducting a borrow pit operation is a manufacturer or producer and whether the construction equipment and parts used in that operation qualify as production machinery and apparatus under paragraphs 1(a) and 1(l) of Part XIII of Schedule III to the
+Excise Tax Act
+.
+"For purposes of this policy, a borrow pit is an excavation which is dug for the sole purpose of producing fill, which may otherwise be described as unconsolidated material, pit-run gravel, clay, etc. This material is used for the construction of embankments or, more commonly, in the construction of a highway. Generally the overburden is replaced and the site returned to its natural condition. However, the terms and conditions of the contract with the landowner may contain other conditions such as leaving the pit open.
+"When digging a borrow pit, the contractor is considered to be a manufacturer or producer of tax-exempt good (i.e. the fill) and is entitled to purchase the qualifying production equipment and parts exempt from tax under the provisions of Part XIII of Schedule III, since the equipment and parts are used primarily and directly in the production of goods. However, the pit must be dug for the purpose of using the excavated material as fill in the construction of embankments, roads, etc. If the excavation has been made to construct real property (e.g. ditch, basement, canal) and the fill is merely a by-product of that activity, then the contractor is not considered to have manufactured or produced goods and is not entitled to the benefits of Part XIII of Schedule III."
+[52]
+Thompson also refers to Revenue Canada Excise Ruling 9110-900703 dated December 20, 1989, which states that the individual pieces of equipment used primarily and directly in borrow pit operations qualify for the exemption:
+"Upon evidence that individual pieces of equipment (i.e. scrapers) were used primarily and directly in borrow pit operations, repair parts for this equipment purchased immediately prior to and during the production of contract will qualify for exemption."
+[53]
+Finally, Thompson refers to Revenue Canada Ruling 9293-2 dated December 4, 1987, where tractor scrapers that were used to extract from, and to produce suitable materials in, borrow pits qualified for the exemption. Thompson submits that it is illogical to deny the exemption to the scrapers, which are the primary excavators, and to allow it for the assisting dozers. Thompson submits that the scrapers' function is not incidental to its ability to carry the load to the road site. No load is carried unless the material is first excavated. Therefore, the excavation is the primary function and the transportation is secondary.
+[54]
+The defendant submits that Thompson's evidence before the CITT demonstrated that the motor scrapers were used first to excavate borrow material and then to transport it to the road construction site. The evidence suggests that the use of motor scrapers was the most efficient and cost-effective means to transport borrow material to the road construction site. They were therefore used not only for their excavating utility but also for their transportation utility, and Thompson has not shown why either use should be regarded as primary. However, the dozers were used exclusively to push the motor scrapers in the borrow pits. When the filled motor scrapers travelled to and unloaded at the road construction site, the dozers remained at the borrow pit. The dozers had no dual utility and were used primarily for the production of borrow material.
+[55]
+In my opinion, the dual functions of the scrapers do not prevent them from qualifying for the exemption. The legislation grants an exemption if the machinery and apparatus are used "primarily and directly" in the manufacture or production of goods. The terms "primarily and directly" do not require that the equipment be used exclusively at the borrow site. In Revenue Canada's statement quoted from the
+Excise News
+, equipment that is used to dig a borrow pit should qualify for an exemption. In my opinion, the scrapers used to dig and remove the borrow material, i.e., the goods produced by Thompson, are exempt from excise tax by reason of subparagraph 1(a)(i) of Part XIII of Schedule III to the
+Act
+.
+[56]
+Thompson submits that before excavating materials from the borrow pits, it is necessary to remove overburden such as topsoil to expose the underlying suitable earth materials. The overburden is removed by dozers and motor scrapers operating in a manner similar to the excavation of materials in the borrow pits. The overburden is generally set aside and used later to restore the land.
+[57]
+In the Notice of Decision, the Minister acknowledged that the removal of overburden is a "development" process, stating that "the term development includes the removal of the overburden ...". Accordingly, Thompson submits that if it is accepted that goods are produced from the borrow pits, then the removal of the overburden is part of the development process.
+[58]
+I agree with Thompson. To access the borrow materials, the overburden must first be removed. Therefore, the dozers and scrapers that are used to remove the topsoil are exempt from excise tax by reason of subparagraph 1(a)(iii) of Part XIII of Schedule III to the
+Act
+. Parts acquired for the dozers and scrapers so used are exempt from excise tax pursuant to subsection 1(l) of Part XIII of Schedule III to the
+Act
+.
+[59]
+Thompson also submits that the use of equipment to produce material from borrow deposits underlying the topsoil is the development of minerals for the purpose within paragraph 1(j). For the reasons elaborated previously in relation to Mustang's claim, I conclude that Thompson was not involved in the development of minerals, but in the construction of highways. It does not qualify for an exemption from excise tax pursuant to paragraph 1(1) as a developer of minerals. That does not affect its claim to exemption under that same paragraph for parts acquired for its equipment used to develop or produce borrow pit material as goods for use in highway construction.
+Conclusions
+[60]
+In Court file T-2922-93, the action by Mustang Engineering and Construction Limited, I find that parts purchased for the following equipment:
+i. the rock trucks used at the Oldman River dam and at the Slocan Highway projects, are not exempt from federal sales tax under paragraph 1(e) of Part XIII of Schedule III of the
+Excise Tax Act
+;
+ii. the loaders, dozers and backhoes used at the Slocan Highway project, are not exempt from federal sales tax under subparagraph 1(a)(i) of Part XIII of Schedule III of the
+Excise Tax Act
+; and
+iii. the graders used at the Oldman River dam and at the Slocan Highway projects, are not exempt under subparagraph 1(a)(iii) or under paragraph 1(j) of Part XIII of Schedule III of the
+Excise Tax Act
+.
+[61]
+Further, I find in court file T-2772-93, the action by Thompson Bros. (Constr.) Ltd., that parts purchased for the following equipment:
+i. the motor scrapers used to excavate borrow deposits, are exempt from federal sales tax under subparagraph 1(a)(i) of Part XIII of Schedule III of the
+Excise Tax Act
+; and
+ii. the dozers and motor scrapers used to remove topsoil above borrow deposits, are exempt from federal sales tax under subparagraph 1(a)(iii) of Part XIII of Schedule III of the
+Excise Tax Act
+.
+[62]
+In the result, the appeal by Mustang Engineering and Construction Limited in Court file T-2922-93 is dismissed. The appeal by Thompson Bros. (Constr.) Ltd. is allowed and that matter is referred to the Minister of National Revenue for reconsideration of the assessment in accord with this decision.
+[63]
+Costs follow the success at trial, but costs associated with the services of counsel at trial shall be assessed on the basis of 50% of counsel's costs in relation to each of the actions since both plaintiffs were represented by one counsel, as was the defendant, in the two actions heard together.
+[64]
+These Reasons shall be filed on each of Court files T-2922-93 and T-2772-93 with the Judgment for each of those files.
+Order accordingly.
+Editor: Geoffrey D. Peters/klf
+[End of document]

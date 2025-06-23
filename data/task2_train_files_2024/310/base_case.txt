@@ -1,0 +1,100 @@
+Denharco Inc. v. Forespro Inc., [2002] F.T.R. Uned. 531 (TD)
+MLB unedited judgment
+[English language version follows French language version]
+[La version anglaise vient à la suite de la version française]
+Denharco Inc. (demanderesse/défenderesse reconventionnelle) v. Forespro Inc. et Quadco Equipment Inc. (défenderesses/demanderesses reconventionnelles)
+(T-1868-98; 2002 FCT 756; 2002 CFPI 756)
+Indexed As: Denharco Inc. v. Forespro Inc. et al.
+Cite As: [2002] F.T.R. Uned. 531
+Federal Court of Canada
+Trial Division
+Pinard, J.
+July 9, 2002.
+Counsel:
+David W. Aitken, for the plaintiff/defendant by counterclaim;
+François Guay, for the defendants/respondents by counterclaim.
+Solicitors of Record:
+Osler, Hoskin & Harcourt, Ottawa, Ontario, for the plaintiff/defendant by counterclaim;
+Smart & Biggar, Montreal, Quebec, for the defendants/respondents by counterclaim.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Le juge Pinard
+: Par leur requête déposée le 17 juin 2002, les défenderesses en appellent de l'ordonnance rendue par le protonotaire Aronovitch en date du 6 juin 2002, concernant des objections par la demanderesse à certaines questions posées par les défenderesses à l'inventeur Laurent Denis, dans le cadre de son interrogatoire préalable. Le dépôt des avis de requête amendés subséquents, auquel s'est objectée la demanderesse, n'a pas été autorisé par cette Cour.
+[2]
+Le 6 juin 2002, les défenderesses présentaient une requête devant le protonotaire Aronovitch pour faire trancher les objections concernées aux huit questions suivantes:
+a) en ce qui concerne la demande correspondante qui a été refusée aux États-Unis:
+1) "Est-ce qu'il est exact de dire que la demande de brevet correspondante qui a été déposée aux États-Unis n'a jamais été acceptée par le bureau des brevets américains?" (Q. 568);
+2) "Est-ce que votre agent de brevet vous a communiqué, à l'époque, les raisons pour lesquelles la demande de brevet correspondante américaine n'avait pas été acceptée?" (Q. 570);
+3) "Pouvez-vous m'indiquer pour quel motif la demande de brevet correspondante, qui a été déposée aux États-Unis, a été refusée?" (Q. 571a);
+4) "Alors j'aimerais obtenir une copie de la décision finale ou de la dernière lettre officielle émanant du bureau des brevets américains, par laquelle on a refusé la demande de brevet" (Q. 571b);
+5) "Et si cette décision est fondée, notamment sur des pièces d'art antérieur, j'aimerais savoir sur quelles pièces d'art antérieur" (Q. 571c);
+b) en ce qui concerne la déclaration extra-judiciaire de l'inventeur concernant l'invalidité du brevet `627:
+6) "Et si je vous disais que lors d'une conversation téléphonique que vous avez eue avec lui [Jean Sigouin] très peu de temps après le début des procédures judiciaires par Denharco contre Forespro, vous lui auriez dit de lire attentivement le brevet dont on vient de parler parce que, selon vous, il était invalide, est-ce que c'est quelque chose que vous auriez pu dire?" (Q. 653);
+7) "Mais eu égard à ce brevet-là, à quoi plus particulièrement faisiez-vous référence?" (Q. 654);
+8) "Et qu'est-ce que c'est les choses que vous avez soulignées à monsieur Sigouin?" (Q. 655).
+[3]
+Par ordonnance écrite non motivée rendue le même jour, le protonotaire Aronovitch a maintenu les objections à l'égard des questions ci-dessus 1 à 3 et 5 à 8, permettant uniquement la question 4.
+[4]
+La norme de révision applicable dans le cas d'un appel d'une ordonnance discrétionnaire du protonotaire a été bien énoncée par le juge MacGuigan dans l'arrêt Canada c. Aqua-Gem Investments Ltd., [1993] 2 C.F. 425 aux pp. 462-463 (C.A.):
+Je souscris aussi en partie à l'avis du juge en chef au sujet de la norme de révision à appliquer par le juge des requêtes à l'égard des décisions discrétionnaires de protonotaire. Selon en particulier la conclusion tirée par lord Wright dans Evans v. Bartlam, [1937] A.C. 473 (H.L.) à la page 484, et par le juge Lacourcière, J.C.A., dans Stoicevski v. Casement (1983), 43 O.R. (2d) 436 (C. div.), le juge saisi de l'appel contre l'ordonnance discrétionnaire d'un protonotaire ne doit pas intervenir sauf dans les deux cas suivants:
+a) l'ordonnance est entachée d'erreur flagrante, en ce sens que le protonotaire a exercé son pouvoir discrétionnaire en vertu d'un mauvais principe ou d'une mauvaise appréciation des faits,
+b) l'ordonnance porte sur des questions ayant une influence déterminante sur l'issue du principal.
+Si l'ordonnance discrétionnaire est manifestement erronée parce que le protonotaire a commis une erreur de droit (concept qui, à mon avis, embrasse aussi la décision discrétionnaire fondée sur un mauvais principe ou sur une mauvaise appréciation des faits) ou si elle porte sur des questions ayant une influence déterminante sur l'issue du principal, le juge saisi du recours doit exercer son propre pouvoir discrétionnaire en reprenant l'affaire depuis le début. (renvoi omis).
+[5]
+En ce qui concerne d'abord les questions 568, 570, 571a) et 571c), toutes relatives à la demande de brevet correspondante américaine, il est intéressant de noter que dans Samsonite Corp. v. Holiday Luggage (1988), 20 C.P.R. (3d) 291 à la page 314, Madame le juge Reed a admis en preuve semblable information contenue dans des dossiers dits "file wrappers", considérant cette preuve pertinente pour établir l'art antérieur susceptible de contrer la présomption de validité d'un brevet émis.
+[6]
+Je suis aussi d'avis qu'il s'agit ici d'un cas où les propos suivants de Madame le juge Reed, dans une décision subséquente (Foseco Trading A.C. et al. v. Canadian Ferro Hot Metal Specialties, Ltd. (1991), 36 C.P.R. (3d) 35, p. 47), doivent recevoir leur pleine application:
+It seems clear that information contained in file wrappers, either domestic or foreign, may be relevant for some purposes on some occasions. It may be that much of the information obtained by asking question relating thereto will turn out to be irrelevant but that is a decision for the trial judge to decide in the context of the case as presented. It is often difficult to know whether the answer to a question is relevant before one knows what the answer is and how it fits into the defendant's theory of its case. Accordingly, I am of the view that the prothonotary proceeded on a wrong principle in refusing to require that the questions be answered. The train of inquiry is one that the defendant is entitled to pursue at this stage. In the light of the jurisprudence set out above, it is my view, that it is premature at the discovery stage to prevent questions being asked concerning information contained in file wrappers.
+[7]
+M'appuyant donc sur cette jurisprudence, je dois conclure que le protonotaire, en l'espèce, a exercé son pouvoir discrétionnaire en vertu d'un mauvais principe lorsqu'elle a refusé d'exiger réponse à chacune de ces questions.
+[8]
+Concernant les questions 653, 654 et 655, je ne suis par ailleurs pas convaincu que la décision du protonotaire est entachée d'erreur flagrante, pas plus qu'elle ne porte sur des questions ayant une influence déterminante sur l'issue du principal. Le fait que la décision attaquée ne soit pas motivée ne veut pas dire pour autant que l'appel doit procéder de novo. (voir Hayden Manufacturing Co. v. Canplas Industries Ltd. (1998), 86 C.P.R. (3d) 17 (F.C.T.D.) aux pp. 19-20).
+[9]
+Ici, les trois questions concernées ont trait et/ou sont reliées à l'opinion d'une personne, laquelle n'est pas partie au litige, sur la validité du brevet de la demanderesse, une question de droit qui doit être déterminée par la Cour, non par l'inventeur (Westinghouse Electric Corp. et al. v. Babcock & Wilcox Industries Ltd. (Trading under Name and Style Bailey Controls et al.) (1987), 15 C.P.R. (3d) 447 (F.C.T.D.) à la page 451; et Nekoosa Packaging Corp. v. AMCA International Ltd. (1994), 56 C.P.R. (3d) 470 (F.C.A.) à la page 480). Il serait donc inapproprié, en regard de ces trois questions, de substituer l'exercice de ma discrétion à celle du protonotaire.
+[10]
+Pour toutes ces raisons, l'appel est maintenu en partie et l'ordonnance du protonotaire est modifiée en remplaçant ses paragraphes 1, 2 et 3 par ce qui suit:
+1. La requête est accordée à l'égard des éléments suivants, elle est autrement rejetée.
+2. La demanderesse devra, dans les meilleurs délais, se présenter à nouveau pour répondre aux questions 568, 570, 571a) et 571c) ci-dessus, et elle devra en outre fournir les informations et documents demandés à la question 571b) ci-dessus.
+3. Vu le succès partagé, les frais sont dans la cause.
+....................
+Denharco Inc. (plaintiff/cross-defendant) and Forespro Inc. and Quadco Equipment Inc. (defendants/cross-plaintiffs)
+[1]
+Pinard, J.
+[Translation]: By their motion filed on June 17, 2002, the defendants appealed the order made by the prothonotary Aronovitch on June 6, 2002, regarding objections by the plaintiff to certain questions put by the defendants to the inventor Laurent Denis, in his examination for discovery. The filing of the subsequently amended notices of motion, objected to by the plaintiff, was not authorized by this Court.
+[2]
+On June 6, 2002, the defendants filed a motion with the prothonotary Aronovitch for a decision on the objections concerned in the following eight questions:
+(a) on the corresponding application which was denied in the U.S.:
+(1) "Is it true to say that the corresponding patent application filed in the U.S. was never accepted by the U.S. Patent Office?" (Q.568);
+(2) "Did your patent officer at the time disclose the reasons why the corresponding U.S. patent application was not accepted?" (Q.570);
+(3) "Can you tell me the reason why the corresponding patent application filed in the U.S. was rejected?" (Q.571(a));
+(4) "Then I would like a copy of the final decision or the most recent official letter from the U.S. Patent Office in which the patent application was denied" (Q.571(b));
+(5) "And if that decision is correct, especially regarding prior art, I should like to know which prior art" (Q.571(c));
+(b) as regards the extra-judicial statement by the inventor concerning the invalidity of patent 627:
+(6) "And if I said to you that in a telephone conversation you had with him [Jean Sigouin] shortly after the beginning of the court proceedings by Denharco against Forespro you told him to look carefully at the patent just discussed because, in your opinion, it was invalid, is that something you might have said?" (Q.653);
+(7) "But as regards that patent, what in particular were you referring to?" (Q.654);
+(8) "And what were the things you pointed out to Mr. Sigouin?" (Q.655).
+[3]
+The applicable standard of review in an appeal from a discretionary order by a prothonotary has been well stated by MacGuigan J.A. in Canada v. Aqua-Gem Investments Ltd., [1993] 2 F.C. 425, at 462-463 (C.A.):
+I also agree with the Chief Justice in part as to the standard of review to be applied by a motions judge to a discretionary decision of a prothonotary. Following in particular Lord Wright in Evans v. Bartlam, [1937] A.C. 473 (H.L.) at page 484, and Lacourcière J.A. in Stoicevski v. Casement (1983), 43 O.R. (2d) 436 (Div. Ct.), discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo.
+[Reference omitted.]
+[4]
+First, on questions 568, 570 and 571(a) and (c), all relating to the corresponding U.S. patent application, it is worth noting that in FRAGMENT_SUPPRESSED Reed J. admitted such information contained in files known as "file wrappers", considering such evidence relevant to establish prior art that would counter the presumption that an issued patent was valid.
+[5]
+I also consider that this is a case in which the following comments by Reed J. in a subsequent decision (Foseco Trading A.C. et al. v. Canadian Ferro Hot Metal Specialties, Ltd. (1991), 36 C.P.R. (3d) 35, at 47), are completely applicable:
+It seems clear that information contained in file wrappers, either domestic or foreign, may be relevant for some purposes on some occasions. It may be that much of the information obtained by asking question relating thereto will turn out to be irrelevant but that is a decision for the trial judge to decide in the context of the case as presented. It is often difficult to know whether the answer to a question is relevant before one knows what the answer is and how it fits into the defendant's theory of its case. Accordingly, I am of the view that the prothonotary proceeded on a wrong principle in refusing to require that the questions be answered. The train of inquiry is one that the defendant is entitled to pursue at this stage. In the light of the jurisprudence set out above, it is my view, that it is premature at the discovery stage to prevent questions being asked concerning information contained in file wrappers.
+[6]
+Accordingly, relying on these precedents I must conclude that in the case at bar the prothonotary based the exercise of her discretion upon a wrong principle when she refused to require a reply to each of these questions.
+[7]
+On questions 653, 654 and 655, however, I was not satisfied that the prothonotary's decision was subject to any manifest error, especially as she did not deal with questions vital to the final issue of the case. The fact that the disputed decision was not accompanied by reasons does not mean that the appeal should proceed de novo (see Hayden Manufacturing Co. v. Canplas Industries Ltd. (1998), 86 C.P.R. (3d) 17 (F.C.T.D.), at 19-20).
+[8]
+Here, the questions concerned dealt with and/or were connected to the opinion of an individual who was not a party to the case, on the validity of the plaintiff's patent, a question of law which must be decided by the Court, not the inventor (Westinghouse Electric Corp. et al. v. Babcock & Wilcox Industries Ltd. (Trading under Name and Style Bailey Controls et al.) (1987), 15 C.P.R. (3d) 447 (F.C.T.D.), at 451; and Nekoosa Packaging Corp. v. AMCA International Ltd. (1994), 56 C.P.R. (3d) 470 (F.C.A.), at 480). Accordingly, it would be improper for me to substitute my discretion for that of the prothonotary in deciding these three questions.
+[9]
+For all these reasons, the appeal is allowed in part and the prothonotary's order is varied by replacing paragraphs 1, 2 and 3 by the following:
+1. the motion is allowed on the following points: it is otherwise dismissed.
+2. the inventor Laurent Denis shall promptly appear again to answer questions 568, 570, 571(a) and (c) above and shall further provide the information and documents requested in question 571(b) above.
+3. as the outcome is divided, costs will follow the case.
+[End of document]

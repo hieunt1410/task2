@@ -1,0 +1,21 @@
+[77]
+The first observation to be made is the
+Onischak
+and
+Cook
+both involved complaints filed pursuant to the
+British Columbia Human Rights Act
+(S.B.C. 1984, c. 22). Nowhere in that
+Act
+is the Human Rights Council given the power to dismiss a complaint if it considers that further inquiry is not
+warranted
+. Rather, s. 14(1)(a) of the
+British Columbia Human Rights Act
+provides no guidance with regard to the standard that the council must apply in determining whether a proceeding should be discontinued. The provision merely states:
+"14(1) On completion of an investigation, the chairman shall (a) refer the complaint to the council for a determination as to whether the proceeding should be discontinued."
+It was therefore open to reviewing courts to refer, inter alia, to s. 14(1)(d), which makes the decision of an individual council member to dismiss or not to dismiss contingent on whether the complaint is
+justified
+or not (in other words, contingent on the merits of the case) in interpreting subsection 14(1)(a). This is exactly what the B.C. Supreme Court appears to have done in
+Cook
+(pp. 61-62):
+"When considering whether or not to discontinue proceedings under s. 14(1)(a), it is my view that the council must employ an objective standard. The one that comes readily to mind is that to which the common law has frequent resort, namely a standard which invokes a test of reasonableness. I conclude that when considering a complaint the council must determine whether there is any evidence upon which either a board of enquiry under s. 16 or a designated member of council under s. 14(1)(d), acting reasonably, could find the complaint to be proved on a balance of probabilities. If so, then it ought not to order proceedings discontinued under s. 14(1)(a), but, instead, it must move on to a consideration of the three remaining alternatives found in that subsection."

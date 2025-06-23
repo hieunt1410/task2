@@ -1,0 +1,9 @@
+[59]
+I also find support for the above approach in the holding of the Supreme Court of Canada in
+Université du Quebec à Trois-Rivères v. Larocque
+(1993), 148 N.R. 209; 93 C.L.L.C. 12,104 (S.C.C.).
+Larocque
+involved judicial review of a decision of an arbitrator to allow an objection against the admission of evidence. The evidence in question in
+Larocque
+would have substantiated the univeristy's claim that a shortage of funds, which was blamed for the termination of two research assistants, was attributable to the work of the assistants themselves. With such evidence, it could have been possible to justify the termination as attributable to a cause within the employee's control. The Supreme Court of Canada upheld the decision of the Quebec Superior Court to review the arbitrator's decision to permit an objection to admitting the evidence. In his reasons for decisions, Lamer, C.J., stressed that the arbitrator did not necessarily violate the principles of natural justice by erroneously excluding relevant evidence; however where such evidence is significant to the outcome of the case (i.e., in this sense it is fundamental), review would be warranted. In the words of the Chief Justice (at p. 111):
+"A grievance arbitrator is in the privileged position to assess the relevance of evidence presented to him and I do not think it is desirable for the courts, in the guise of protecting the right of parties to be heard, to substitute their own assessment of the evidence for that of the grievance arbitrator. It may happen, however, that the rejection of relevant evidence has such an impact on the fairness of the proceeding, leading unavoidably to the conclusion that there has been a breach of natural justice."

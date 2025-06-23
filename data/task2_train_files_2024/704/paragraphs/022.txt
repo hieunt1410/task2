@@ -1,0 +1,2 @@
+[22]
+Claim 9, which is contained in the "Claims Supported by Supplementary Disclosure" in the patent, is a dependant claim, depending from claim 1. However, it introduces a variant to claim 1, whereby the non-furry piece is disposed within and is surrounded by the furry strip. I interpret this to mean that the listed components in claim 1 are combined to create one component out of the two, being an elongated yarn with fur standing radially outward and the non-furry piece surrounded by the furry strip.

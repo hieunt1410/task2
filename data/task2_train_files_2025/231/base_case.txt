@@ -1,0 +1,459 @@
+Introduction
+[1]
+Lemieux, J.
+: The Minister of Public Safety and Emergency Preparedness (the Minister) has consented to an order (1) granting the applicants' judicial review application (2) quashing the decision dated April 12, 2007, made by the Minister's delegate pursuant to section 133 of the
+Customs
+Act
+(the
+Act
+) and (3) referring the matter back to a differently constituted Minister's delegate.
+[2]
+The Minister's consent is predicated on breaches of natural justice, namely, the failure on the part of two adjudicators considering the applicants' appeal of an Ascertained Forfeiture in the amount of $1,615,151.10 (the forfeiture amount) to disclose to the applicants' counsel information and documentation which they had received from the investigators of the Canada Border Services Agency (the Agency). Moreover, the Minister's delegate received input or representations from the Agency which the applicants' counsel was unaware of after the adjudicator had made her recommendation the demand for payment of the forfeiture amount to the applicants be cancelled. In addition, the investigators failed, despite being specifically requested to do so by Adjudicator Lepage, to provide the Applicants the supporting documentation to most of the 32 worksheets, upon which the forfeiture amount was based, which had been sent to Mr. Liebman.
+[3]
+Two issues remain for determination by this Court:
+(1) What should be the scope of the directions the Court is to provide as to how the reconsideration will be carried out? and
+(2) What level of costs should be awarded to the applicants?
+[4]
+The cost issue is easy to state: counsel for the Minister submits the costs should be awarded to the applicants based on Column III of the Tariff in the
+Federal Courts Rules
+(the
+Rules
+). Counsel for the applicants argues solicitor-client costs in respect of the judicial review application are warranted in the particular circumstances of this case.
+[5]
+The extent of the requested directions to be issued by this Court on reconsideration is more complicated. Counsel for the Minister submits this Court should issue a direction on reconsideration which would state it would be carried out on the basis of the record existing at the time of the Minister's first decision was rendered on April 12, 2007, such record being the certified record filed with this Court in this judicial review proceeding pursuant to the request made by the applicants' counsel under Rule 317 of the
+Rules
+. Counsel for the applicants, on the other hand, argues the direction should be framed in terms of a directed decision, namely, the Minister's new decision be "in accordance with the adjudicator's conclusions and recommendation as set out in the Case Synopsis and Reasons for Decision dated June 13, 2006" which, as noted, is to cancel the demand for the payment of the Ascertained Forfeiture. To understand the position of the parties, I set out the relevant facts.
+Facts
+[6]
+Pacific Pants Company Limited (Pacific) is a Montréal based company which imports garment products for sale to retailers. Sheldon Liebman is its owner and its President.
+[7]
+In 1997, the Customs Investigations Division, at Revenue Canada, opened an investigation into Pacific's importing practices following a May 13, 1997 seizure of unreported T-shirts imported by Pacific from Tate Fashion Ltd. based in Hong Kong (Tate). Pacific's import declarations were reviewed for a period spanning from January 1994 to October 1997. The investigators determined there were problems with those declarations.
+[8]
+Search warrants were obtained and executed.
+[9]
+An analysis of Pacific's seized books and records revealed that Pacific was not reporting goods to Customs and, in some cases, was declaring its goods but at much lower values than the actual price paid for them. (See Applicants' record, volume I, page 166.)
+[10]
+As a result of the audit, a quantity of merchandise was seized on December 19, 1997 and their return was offered for a sum equal to the unpaid duties, GST and a penalty equal to twice the revenue evaded.
+[11]
+As a further result of the examination of the books and records seized from Pacific, Customs Canada issued to Pacific, on March 16, 1998, a Notice of Ascertained Forfeiture (the Notice), amended the same day, in the amount of $1,615,151 on account "a false statement was made to Customs concerning
+the quantity
+and
+values of the said goods
+...". Once again the amount was calculated on the basis of duty unpaid, GST and a penalty twice the revenue evaded.
+[12]
+The reason for the Notice, rather than a physical seizure, was because the Notice related to the importation of garments which had already entered Canada and sold by Pacific to retailers during a period from January 1994 to October 1997 and, consequently, there were no goods to seize.
+[13]
+The record indicates Pacific did not appeal the physical seizure of the goods but appealed the Notice. The appeal was dealt with by adjudicators in the Adjudications Branch of Revenue Canada which became the Recourse Branch upon a re-organization. It also appears an arrangement was agreed to between Customs and Pacific that releases of the goods under the physical seizure would be dealt with first and once all the goods had been removed from seizure, counsel for Pacific would be making its representation with respect to the Notice.
+[14]
+In a letter dated
+September 18, 2003
+(Applicants' record (A.R.), volume I, page 164), Dwayne Mockler, from the Adjudication Division stated to Mr. Liebman that
+by July 18, 2002
+all of the seized goods had been released and that he had contacted Mr. Liebman in July and December 2002 requesting his representations and had not received anything from Pacific. He requested Pacific's representation by October 24, 2003 and, if not received by then, the matter would be sent to final decision. A further extension was granted to
+November 13, 2003
+by the new adjudicator, Suzanne Regan who had taken over the file from Mr. Mockler.
+[15]
+On November 15, 2003
+, Mr. Liebman sent a fax to Adjudicator Regan requesting disclosure of the information she had in her files stating: "We need all back up info. - we have none available". Adjudicator Regan's file contained no supporting documents except in relation to worksheet no. 18. She wrote to Investigator McKenna the next day indicating to him Mr. Liebman was asking for the backup documents to some of the worksheets
+and asked him that he (Investigator McKenna) provide Mr. Liebman with that information adding: "It appears that no documentation was ever provided to support each worksheet - were they?"
+(Emphasis mine.)
+[16]
+A further extension was granted to
+January 16, 2004
+after Adjudicator Regan heard from Pacific's new solicitor on the file. Zave Kaufman sent in his preliminary representations on
+January 14, 2004
+(A.R., volume I, page 184). The focus of Mr. Kaufman's submissions was the investigators had erroneously corrected the selling price from Tate to Pacific and there was no evidence on any additional payments from Pacific to Tate in respect of the imported goods to which the Notice related. The adjudicator sent a copy of Mr. Kaufman's letter to the investigator for comment.
+[17]
+On
+March 8, 2004
+, the adjudicator received the investigator's comments, which she sent the next day to Mr. Kaufman for his reaction. Investigator McKenna's letter of March 8, 2004 provided a history of Pacific's encounters with Customs; in particular, he asserted there were additional payments from Pacific to Tate over and above the amounts declared, a fact the investigator states flows from an analysis of Pacific's cash disbursement records, its purchase records, bank records and Tate's invoices.
+[18]
+On
+April 8, 2004
+, Mr. Kaufman responded to the Investigator McKenna's comments which, as noted, had been sent to him by Adjudicator Regan. He denied the existence of any additional payments from Pacific to Tate; stated the Investigator's figures are a reconstruction of Pacific's disbursements and he needs the methodology used by the Investigator. The Adjudicator responded on
+April 14, 2004
+to Mr. Kaufman's stating it would be studied by the Investigator with a P.S. to the Investigator "any concern."
+[19]
+On
+April 29, 2004
+, Investigator McKenna responded to the Adjudicator arguing and submitting, in a ten page letter, there were additional payments from Pacific to Tate.
+His letter was not sent
+by the Adjudicator to Mr. Kaufman for comment.
+This is the first breach of procedural fairness on which the Minister's consent
+to allowing this judicial review application is based (A.R., volume II, page 241).
+[20]
+Adjudicator Joanne Lepage was appointed to deal with the file sometime in late 2004 replacing Adjudicator Regan.
+On January 13, 2005
+, she wrote to Mr. Kaufman. She said it would appear, from a quick review of the file, that on October 24, 2004 Suzanne Regan had granted the applicants an extension of time in order to provide Pacific an opportunity to obtain proof from the Bank of Hong Kong of the amount paid for the goods involved in the Notice and that, in a short conversation she had with Mr. Liebman, he was unable to obtain that information. The adjudicator stated to Mr. Kaufman, there was no longer any need to hold the matter in abeyance and asked that any additional representations be submitted by February 1, 2005 (A.R., volume II, page 252).
+[21]
+On
+January 31, 2005
+, Mr. Kaufman responded. He repeated his claim that while the investigation was never able to substantiate the existence of additional payments made by Pacific to Tate with regards to the relevant import transactions, Pacific Pants had endeavored to independently unearth copies of proofs of payment made to Tate between the period of Sep16 April 2009tember 1995 and December 1996. He added: "We say copies, insofar as all original documentation related to these transactions were seized from Pacific Pants premises by Canada Customs Investigation Officers ... and to our knowledge, never returned to our client". Mr. Kaufman then provided the results of his efforts. Tate could be of no assistance as it has gone bankrupt. As an alternative, he stated Pacific sought copies of bank payments made by Pacific, through the Hong Kong Bank to substantiate the true value for duty was properly declared. He informed the adjudicator that avenue was unproductive because the Bank no longer had any records on file given its legal obligation to retain records being seven years.
+[22]
+Mr. Kaufman suggests one obvious avenue: the seized Pacific records in the hands of the investigators.
+He asserted, however, that Pacific had met its original obligation to show that it had properly declared the values for duty of the imported goods at the time of import and that the investigators were never able to discover evidence of additional payments, despite a thorough search of bank and corporate records at the time of the investigation; an admission made to him by Investigator McKenna on January 5, 2004. He asserted that Canada Customs had "the documentation it needs to support our position and that the interest of justice requires that documentation be made available to him" (A.R., volume II, pages 255 and 256). (Emphasis mine.)
+[23]
+On August 18, 2005
+, Adjudicator Lepage wrote to Mr. Kaufman. She referred to the fact Mr. Liebman had been provided with copies of all worksheets and that Mr. Kaufman had said in his letter of
+December 15, 2003
+, he would be making an application under the
+Access to Information
+Act
+. Her information was he had not made such an application and invited him to do so to obtain the documentation which he claims may assist in supporting his position that the true value for duty was reported as required.
+[24]
+On
+September 12, 2005
+, Mr. Kaufman made a request to the Access Coordinator, which he copied to Adjudicator Lepage, for disclosure of proofs of payments, made via the Hong Kong Bank to Tate, to establish that the only payments made were those which were fully disclosed to Canada Customs at the time of import (A.R., volume II, page 262).
+[25]
+With this request for access made, the file was held in abeyance until Mr. Kaufman received the information sought (A.R., volume II, page 265).
+[26]
+On
+November 16, 2005
+, Investigator McKenna wrote to Adjudicator Lepage stating his position was that the demand for payment should stand and "I will be sending supporting documents shortly that will confirm the notice".
+[27]
+On November 29, 2005
+, Adjudicator Lepage sent a fax to Investigator McKenna stating a decision would not be rendered until all submissions were in. She requested he forward all supporting documentation by
+February 6, 2006
+noting "the only documents presently on file which were sent by your office include the Statement of Particulars, the worksheets and related Reference Identification, as well as the reference material for worksheet no. 18" (A.R., volume II, page 269).
+[28]
+On
+December 19, 2005
+, Mr. McKenna sent a 5 page letter to clarify and support the demand for payment. Attached to that submission where extensive (267 pages) of supporting documents for worksheets 14, 3, 4 and 30. This submission nor the supporting documents were not provided to Mr. Kaufman for comment.
+This second breach of procedural fairness is the second reason why the Minister has consented to this judicial review application being allowed
+(A.R., volume II, pages 270 to 541). (Emphasis mine.)
+[29]
+On April 27, 2006
+, Adjudicator Lepage wrote to Mr. Kaufman stating since "no additional submissions have been forthcoming since he had submitted his access request, I must advise you that this matter will be submitted for final decision on or about
+May 15, 2006
+and that he should provide his comments prior to this date" (A.R., volume II, page 543).
+[30]
+On May 15, 2006
+, Mr. Kaufman asked for more time to provide his final submission which was granted to
+June 12, 2006
+.
+[31]
+On
+June 11, 2006
+, Mr. Kaufman provided his submission stating: "We thank you for having granted us a time extension
+in order that we might further analyze the documentation as received from the CBSA pursuant to our request under the
+Access to Information
+Act
+." (Emphasis mine.) He provided his analysis referring to documentation which he had received from Mrs. Regan on
+March 9, 2004
+referencing a series of spreadsheets prepared by the investigators referred to as Attachments "L" and "M".
+[32]
+He refers to Attachment "L" which purports to detail purchases made from Tate (between June 95 and January 96) totaling $946,168 and compares with telex transfer payments of $1,639,000 made between May and October 95 as corroborated by supporting documentation obtained by warrant from Pacific Pants' bank (the Hong Kong Bank of Canada). He stated: "
+Having now had the opportunity to review the same documentation (as obtained through our 'ATI' request) as the officers, we sincerely have had great difficulty in reconciling the same figures as quoted on this spreadsheet."
+(Emphasis mine.)
+[33]
+He provided his reasons. He added: "Furthermore, it appears that little or no consideration was ever given (by the investigators) that the payments could have been made in the course of normal business dealings for such costs as quota, buying agent commissions or for sums advanced (to the agent) and held in account overseas in anticipation of payments for goods to follow" which Mr. Kaufman explains in the next paragraph of his letter of June 11, 2006 as: "not meant to refer to part lot shipments but rather to monies which are 'advanced' to use as payment for goods which have suddenly become available (in the market) due to a cancellation of an order, over production runs, bankruptcies, etc.".
+[34]
+He makes a comment with respect to attachment "M" detailing purchases from Tate from January 96 to 98 in the amount of $3,001,275. He stated there were no proofs of telex transfer payments (as made by the bank) in the file. In other words, he did not have any supporting documents.
+[35]
+He closed by stating Pacific "routinely advanced monies to its overseas agent(s) to facilitate a quick purchase of goods should they appear on the market at distressed prices. This was standard practice for our client." He requested a meeting (A.R., Volume II, pages 548 to 550).
+[36]
+As stated in a Case Synopsis and Reasons for decision dated
+June 13, 2006
+, Adjudicator Lepage recommended it be decided that:
+- There has been a contravention of the
+Customs
+Act
+in respect to the Notice which was served;
+- Pursuant to section 133 of the
+Customs
+Act
+, the demand for payment be withdrawn (A.R., Volume II, pages 551 to 560).
+[37]
+In reaching her recommendation, Adjudicator Lepage reviewed the proceedings and the evidence including the evidence which she had before her, which encompassed the additional evidence backing up Worksheets 14, 3, 4 and 30 which the Applicants never received because it was not sent to Mr. Kaufman.
+[38]
+At page 5, she writes:
+"With respect to the
+additional payments
+, the Investigator explains that, through an analysis of PPC's cash disbursement and purchase journals, bank records, and Tate Fashion invoices, it was determined that between 1995 and January 1998, PPC purchased $3,947,443.76 of goods from Tate Fashion while, between May 1995 and October 1997, the cash disbursements amounted to $8,179,291.85. It was noted that because PPC's purchase journal and cash disbursement entries ceased in January 1996 and October 1997, respectively, the company's purchase journal was 'reconstructed' using the vendor's invoices. The Investigator subsequently 'corrected certain under declared imports by $1,904,895', suggesting that the difference could possibly be attributed to quota charge payments on the undeclared goods."
+[39]
+At page 9, she concludes with respect to the
+additional payments
+as follows:
+"Nevertheless, the claimant contends that the actual price paid for all of the goods contained in the shipments was properly reported. He adds that there is no evidence to support the issuing agency's allegation of undervaluation.
+With respect to this claim of undervaluation, a review of the methodology used by the investigators indicates that they compared PPC's cash disbursement and purchase journals, bank records, and invoices from Tate Fashion, 'corrected certain under declared imports by $1,904,895
+'. However, with respect to the allegation of undervaluation, despite a thorough review of the reports on file,
+there is no evidence positively establishing that the lump sum cash disbursements were additional monetary payments to Tate Fashion specifically for the goods in question and that, consequently, the invoices used to support the accounting documents listed a fraudulent value. A direct correlation between the 'disbursement' entries and the particular invoice/purchase orders has not been established. As such, the allegation pertaining to the evasion of revenue is, at best, questionable.
+"It is noted
+that the criminal charges to which the claimants pleaded guilty were with respect to smuggling and false information pertaining to import permits rather than to undervaluation.
+" (Emphasis mine.)
+[40]
+The Minister's delegate did not accept Adjudicator Lepage's recommendation. In his decision letter of
+April 12, 2007
+(some eight months after he had received Adjudicator Lepage's recommendation), sent to Mr. Liebman, copy to Zave Kaufman, he decided as Adjudicator Lepage had, that under the provisions of section 131 of the
+Customs
+Act
+, there had been a contravention of that
+Act
+or
+Regulations
+with respect to the Notice which was served. He was also of the view that under the provisions of section 133 of the
+Customs
+Act
+, the demand for payment of the forfeiture amount is maintained for the reason that a true and complete declaration concerning the value and quantity of the goods was not made to Customs, the forfeiture is justified.
+[41]
+The Minister's delegate informed Mr. Liebman "after considering the evidence on file provided by you as well as Customs Investigation, I was unable to accept your representations
+that the difference in monies paid by Pacific Pants during the period of investigation was for 'advance' purchase of goods that may suddenly become available in the market at distressed prices
+".
+[42]
+In the Minister's delegate's view
+"the evidence on file clearly establishes that additional payments were made to Tate Fashion by Pacific Pants during the period investigated"
+.
+[43]
+He further stated Pacific Pants had not provided any evidence to demonstrate that the additional payments identified by Customs Investigation "were used for the purposes that you claim or that the monies ever had been returned to Pacific Pants" and concluded in the absence of the evidence "to support your claim that the difference in payments between your client and Tate Fashion was for advance purchases of goods and not for the actual goods that have been imported during the time period under investigation, I can only conclude that the additional payments were for the goods imported during the time period under investigation
+and, therefore, this resulted in the true price of the goods being undervalued and a contravention of the
+Customs
+Act
+did occur
+". (My underlining.)
+Analysis
+1.
+The scope of the directions to be provided
+(a)
+discussion
+[44]
+As noted, counsel for the Minister argues the reconsideration should be on the basis of the information contained in the certified tribunal record which was before the Minister's delegate which would include the information which Mr. Kaufman had not seen in respect of certain worksheets (sent to the Adjudicator on December 19, 2005 by Investigator McKenna) and the information in the Investigator's submission of April 2004. Counsel for the Minister made an additional point. It was his view based on the Federal Court of Appeal's decision in
+Francella v. Canada (Attorney General)
+(2003), 313 N.R. 354; 2003 FCA 441 (
+Francella
+), the Agency should not have an opportunity to submit new evidence which existed at the time of the Minister's Delegate but which was not before him. In other words, the Agency should not get "a second kick at the can". He explained his position succinctly at paragraphs 20 and 21 of his written representations:
+"20.
+Considering
+Francella v. A.G. Canada
+, Respondent agrees that it is too late to give the Investigator who issued the Amended Notice of Ascertained Forfeiture the opportunity to introduce evidence that could have been introduced before the Minister during the adjudication process
+.
+"21.
+Consequently, the Respondent submits that the Court should refer the matter back to the Minister for reconsideration on the basis of the sole record that was before the Minister when he has rendered its decision on April 12, 2007. (More precisely, it is too late for the CBSA's Investigator who issued the Amended Notice of Ascertained forfeiture to provide the Minister with the missing supporting evidence mentioned in the documents 'reference identification' attached to each and every worksheet, even if that supporting evidence could possibly prove that the demand for payment in the amount of 1,615,151.10 $ is entirely well founded in fact and in law).
+"
+[45]
+Francella
+, above, supports the counsel for the Minister's submissions on this point. This case, which involved the assessment of penalties against the Applicant under the
+Employment Insurance
+Act
+, was decided by Justice Rothstein when he was a member of the Federal Court of Appeal. At paragraphs 8 and 9, he wrote:
+"8. When an Umpire remits a matter to either the same or a differently constituted Board of Referees for reconsideration,
+whether the reconsideration hearing is de novo will depend on the terms on which the matter has been remitted by the Umpire and on the requirements of procedural fairness. Providing there is no overriding unfairness, it is open to an Umpire to specify the manner in which a matter which is remitted for rehearing is to proceed, whether by way of a fresh hearing on new evidence, a hearing on the record before the first Board of referees or a combination of the two
+. It may be that the new evidence will be limited to specific issues. I do not suggest these options are exhaustive.
+The point is that, provided the procedure is fair, there are a number of options open to an Umpire when remitting a matter for redetermination to a Board of Referees. Certainly, it is not inevitable that the redetermination hearing must be conducted de novo.
+"9. As to fairness, I do not purport to list exhaustively the circumstances
+in which allowing or not allowing new evidence might be unfair. Each case must be considered on its own facts. However, it would seem to me that, except in the most unusual circumstances, it would be procedurally unfair to remit a matter for reconsideration for the sole purpose of giving one party an opportunity to introduce new evidence that could have been introduced at a prior hearing. Generally, once parties close the evidentiary portion of their cases, they proceed to argument and the case is decided on the basis of the evidence submitted. If evidence was deliberately or even accidentally withheld and it is later found that the evidence would be helpful to the party, it will generally be too late to admit it.
+The opposing party may have determined its strategy on the basis of evidence that was not adduced, or may even have made prejudicial admissions on this basis." (Emphasis mine.)
+[46]
+In the particular circumstances of the case before him, Justice Rothstein came to the conclusion it was unfair to allow the Employment Insurance Commission an opportunity to provide new evidence not before the Board of Referees. This is what he wrote at paragraph 11 of his reasons:
+"11. However, even if the words could be construed as permitting the introduction of new evidence, I think that it would be unfair to allow new evidence in this case.. In his August 1, 2000, decision, the Umpire was not satisfied that the evidence before the first Board of Referees supported a finding that false or misleading statements were knowingly made on reporting cards. In his January 18, 2002, decisions, he confirmed that the sole basis for remitting the matter to a newly constituted Board of Referees was the absence of evidence to support the allegation that the applicants had made false and misleading statements. It was unfair to give the Commission 'a second kick at the can.' The Commission was not the appellant before the Umpire.
+There was no finding of an error of law or procedure at the first Board of Referees hearings. It would be unfair to grant relief to the Commission on the applicants' appeals, especially when there was no finding of error on the part of the first Board of Referees.
+" (Emphasis mine.)
+[47]
+Counsel for the Applicants invokes the following reasons in support of his argument for directions equivalent to a "directed verdict":
+- There is no factual issue remaining to be resolved. All the evidence that was in the certified tribunal record was before Adjudicator Lepage. In particular, there is no substance to the Minister's claim the applicants plead guilty on 9 counts under section 158 of the
+Customs
+Act
+since there is no evidence in the certified record that this is so. He argues the evidence in the Minister's amended motion record is insufficient to establish the Applicants' pleas;
+- All the evidence considered by Adjudicator Lepage points to one direction: there was no evidence before her which could reasonably lead to the conclusion the Applicants undervalued the goods, which are the subject of the Notice, and paid for the true value of these goods through additional payments. The Investigators and, in particular, the immediate supervisor of the investigators at the Agency realized there was no direct correlation between the disbursement entries and a particular invoice/purchase orders. This supervisor improperly lobbied the decision-maker to overturn Adjudicator Lepage's recommendation;
+- A remand direction is appropriate because the Minister breached his statutory duty to render a decision "as soon as is reasonably possible having regard to the circumstances" and the consequences of the delay (13 years since the importation of the goods) have destroyed the ability of the Applicants to properly deal with the allegations;
+- He argued a remand on a directed verdict is further warranted because my colleague Justice Russell had already clearly stated in
+Leasak v. Canada (Minister of Public Safety and Emergency Preparedness) et al.
+(2006), 304 F.T.R. 78; 2006 FC 1397 it was improper an Adjudicator to receive submissions from Customs Officers without providing the person directly affected with an opportunity to respond. Counsel for the applicants submitted the conduct by Adjudicators in the Recourse Branch in this case repeated what the Court had proscribed in
+Leasak
+and should be sanctioned for it through a directed verdict.
+(b)
+conclusions on this point
+[48]
+The jurisprudence of the Federal Court of Appeal and of this Court clearly holds that the provisions of paragraph 18.1(3)(b) of the
+Federal Courts
+Act
+which provides that the Court, on a judicial review application may, in setting aside a decision when referring that decision back for re-determination, do so "
+with such directions as it considers to be appropriate
+" are sufficiently broad to authorize the Court to direct the decision to be made on reconsideration by the federal tribunal but such a direction is an exceptional power which should only be exercised in the clearest of circumstances. Justice Evans, on behalf of the Federal Court of Appeal, wrote the following at paragraph 14 in
+Rafuse v. Pension Appeals Board (Can.) et al.
+(2002), 286 N.R. 385; 2002 FCA 31:
+"14. While the directions that the Court may issue when setting aside a tribunal's decision
+include directions in the nature of a directed verdict, this is an exceptional power that should be exercised only in the clearest of circumstances
+:
+Xie
+, supra, at paragraph 18.
+Such will rarely be the case when the issue in dispute is essentially factual in nature
+(
+Ali v. Canada (Minister of Employment and Immigration)
+, [1994] 3 F.C. 73 (T.D.)),
+particularly when, as here, the tribunal has not made the relevant finding.
+" (Emphasis mine.)
+[49]
+In
+Rafuse
+, Justice Evans cited with approval Justice Reed's decision in
+Ali v. Minister of Employment and Immigration
+, [1994] 3 F.C. 73; 76 F.T.R. 182 (T.D.). In that decision, Justice Reed outlined at paragraph 18 of her reasons the kinds of considerations which should be taken into account to justify the issuance of a directed decision on reconsideration:
+"- is the evidence on the record so clearly conclusive that the only possible conclusion is that the claimant is a Convention refugee;
+"- is the sole issue to be decided a pure question of law which will be dispositive of the case;
+"- is the legal issue based on uncontroverted evidence and accepted facts;
+"- is there a factual issue which involves conflicting evidence which is central to the claim?"
+[50]
+I am prepared to expand that list of considerations to include unreasonable administrative delay which causes prejudice. I rely on the Supreme Court of Canada's decision in
+Blencoe v. Human Rights Commission (B.C.) et al.
+, [2000] 2 S.C.R. 307; 260 N.R. 1; 141 B.C.A.C. 161; 231 W.A.C. 161 (
+Blencoe
+), at paragraph 160:
+"160. As indicated above, the central factors toward which the modern administrative law cases as a whole propel us
+are length, cause, and effects. Approaching these now with a more refined understanding of different kinds and contexts of delay, we see three main factors to be balanced in assessing the reasonableness of an administrative delay
+:
+(1)
+the time taken compared to the inherent time requirements of the matter before the particular administrative body
+, which would encompass legal complexities (including the presence of any especially complex systemic issues) and factual complexities (including the need to gather large amounts of information or technical data), as well as reasonable periods of time for procedural safeguards that protect parties or the public;
+(2)
+the causes of delay beyond the inherent time requirements of the matter
+, which would include consideration of such elements as whether the affected individual contributed to or waived parts of the delay and whether the administrative body used as efficiently as possible those resources it had available; and
+(3)
+the impact of the delay, considered as encompassing both prejudice in an evidentiary sense and other harms to the lives of real people impacted by the ongoing delay. This may also include a consideration of the efforts by various parties to minimize negative impacts by providing information or interim solutions
+." (Emphasis mine.)
+[51]
+In the case before me, counsel for the applicants argues the delay in investigating and reaching a decision is unreasonable causing serious prejudice to their case to the point they have lost an opportunity to muster evidence in which to mount a persuasive case to the Minister.
+[52]
+I am not prepared to find, on the facts of this case, the delay in investigating and reaching a decision was unreasonable. The evidence on the record is to the effect submissions on the demand for payment of the forfeiture amount was, by agreement, postponed until the goods, which were the subject of the physical seizure, were released. The record also indicates the Applicants themselves were responsible for much of the delay (see paragraphs 14, 16, 20, 23, 24, 27 and 30 of these reasons).
+[53]
+At the hearing of this matter, I indicated to both counsel I was very much concerned with the Applicants' allegation the passage of time had blunted any chance they had to gather the evidence which would enable them to mount a convincing case that any additional payments made to Tate was not on account of the actual value of the imported goods subject of the investigation. This argument proceeded on the assumption the seized records of Pacific were not available to the applicants because Customs Canada could not locate them. Compounding this fact was Tate's bankruptcy and the unavailability of payment records at the Bank of Hong Kong.
+[54]
+On the evidence before me, I am not satisfied the applicants have made out a case of prejudice. It is clear the applicants' solicitor, Zave Kaufman, was successful in obtaining, through the
+Access to Information
+Act
+, some or all of the seized Pacific records which enabled him to make the submissions he did on June 11, 2006 to Adjudicator Lepage. In particular, those submissions address a series of spreadsheets referred to as Attachments "L" and "M" compiled by the Investigators at Customs Canada.
+[55]
+At this point in time, this Court does not know what material Maître Kaufman received through his Access request: did he receive copies of all of the documents seized from Pacific or just some of them; what Pacific records did he obtain through his Access request and whether there are missing documents and, if so, what is their impact on the Applicants' case? The answer to these questions is not known; the Applicants had a burden to adduce evidence which would show prejudice. In my view, they have failed to do so.
+[56]
+Given my findings on the reasonableness of the delay and lack of demonstrated prejudice, I need not discuss whether a directed decision would be an appropriate remedy in the circumstances. See the discussion on this point in
+Blencoe
+, at paragraphs 178 to 186, where reference is made at paragraph 181 to the
+Canada (Minister of Citizenship and Immigration) v. Tobiass et al.
+, [1997] 3 S.C.R. 391; 218 N.R. 81 (see also the recent Supreme Court of Canada decision in
+Charkaoui, Re
+(2008), 376 N.R. 154; 2008 SCC 38).
+[57]
+A reading of these cases suggest to this Court the remedy suggested by the Applicants - a directed verdict - would be too harsh despite the fact the Adjudication Division had been warned by Justice MacKay in
+ACL Canada Inc. v. Minister of National Revenue
+(1993), 68 F.T.R. 180; 107 D.L.R.(4th) 736 (T.D.), at pages 758 to 760 (
+ACL Canada
+) that procedural fairness was very important on appeals dealing with custom enforcement measures particularly with respect to exchanges of information between an adjudicator and customs officials without disclosure to the person affected by the enforcement measure. Justice Russell in
+Leasak
+based his decision on Justice MacKay's decision
+ACL Canada
+.
+[58]
+The Adjudicators in the Adjudication Division, now the Recourse Branch, should have been aware of that receiving information from investigators without disclosing that information to the Applicants' counsel was wrong.
+[59]
+There is a further reason for refusing to direct a decision on reconsideration in this case. The factual landscape and the reasonable inferences which may be drawn from that landscape are to a substantial degree unsettled. It seems to me a directed decision would render nugatory the very purpose the reconsideration: to enable the applicants to comment on evidence which should have properly been disclosed to them was not.
+[60]
+For these reasons, the Applicants' request for a directed decision on reconsideration is denied.
+2.
+The cost issue
+(a)
+discussion
+[61]
+The history of this judicial review proceeding is as follows:
+-
+May 11, 2007
+- Notice of Application filed by the Applicants;
+-
+May 17, 2007
+- Notice of Appearance filed by the Minister indicating the Minister "intends to oppose this application";
+-
+June 8, 2007
+- Filing of the Certified Tribunal Record;
+-
+July 13, 2007
+- Order by Prothonotary Morneau issued on consent extending the time to July 31, 2007 to serve and file the Applicants' affidavit and providing the Respondent's affidavit to be served and filed 60 days after service of the Applicants' affidavit;
+-
+October 19, 2007
+- Order of Prothonotary Aronovitch at the request of counsel for the Respondent, consented to by the Applicants,
+suspending the judicial review proceeding until February 1, 2008 with the Respondent's affidavit(s) due that day. The record indicates the underlying reason was on account of settlement negotiations
+. No affidavit, under Rule 307 of the
+Federal Courts Rules, 1998
+(the
+Rules
+) was ever filed on behalf of the Respondent;
+-
+March 12, 2008
+- The Applicants serve and file their record;
+-
+April 17, 2008
+- Applicants file a requisition for a hearing;
+-
+June 3, 2008
+- Order setting down for hearing this judicial review application in Montreal, on September 2, 2008;
+-
+August 6, 2008
+- Letter from counsel for the Respondent advising the Court the Respondent would not oppose the judicial review application and further advising the Respondent would be filing a motion with the Court for an order granting the appeal, quashing the Minister's delegate's decision of April 12, 2007;
+-
+August 12, 2008
+- Respondent's motion record filed;
+-
+August 14, 2008
+- Order from this Court scheduling the procedure for the hearing of the motion to which these reasons relate.
+[62]
+The applicants seek solicitor-client costs on this application for judicial review. It is recognized by the parties the Court has wide discretion in fixing costs (see
+Consorzio Del Prosciutto Di Parma v. Maple Leaf Meats Inc.
+(2002), 297 N.R. 135; 2002 FCA 417). However, the Supreme Court of Canada has instructed the Courts when an award of solicitor-client costs was appropriate.
+[63]
+In
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817; 243 N.R. 22 at paragraph 77, Justice L'Heureux-Dubé referring to the case of
+Young v. Young et al.
+, [1993] 4 S.C.R. 3; 160 N.R. 1; 34 B.C.A.C. 161; 56 W.A.C. 161 ruled that "solicitor-client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties" in the conduct of the litigation.
+(b)
+conclusions on this point
+[64]
+I am of the view solicitor-client costs cannot be awarded in this case. The Applicants have not shown conduct on the part of the Respondent or his counsel which meets the test of "reprehensible, scandalous or outrageous conduct". Indeed, counsel for the Applicants takes, at paragraph 32 of its response to the Respondent's motion is complementary view of counsel for the Respondent's conduct.
+[65]
+Counsel for the Applicants argues the Respondent consented to the judicial review application at the very last moment forcing the Applicants that file a section 317 request, file an affidavit, prepare an Applicants' record. Counsel again argues solicitor-client costs should be sanctioned because adjudicators have been warned by the jurisprudence to be very careful about breaching procedural fairness.
+[66]
+I note that when the Applicants filed their judicial review application, they signaled to the Respondent that issues of procedural fairness were central to their case. Moreover, when the Respondent received the certified tribunal record, it became evident that proscribed breaches had occurred.
+[67]
+As I have indicated, this conduct does not warrant solicitor-client costs as I read the jurisprudence on the point. However, I am of the view, the Respondent should have reacted more quickly when it became apparent fairness in the process had suffered. It is to counsel for the Respondent's credit that he sought a stay of proceedings on October 19, 2007. There is no explanation in the record why the case was not settled.
+[68]
+As Justice Rothstein pointed out in the
+Consorzio Del Prosciutto Di Parma
+case, the Court has full discretionary power as to the amount of costs to be awarded. In the circumstances of this case, increased party - party costs are appropriate not to punish the Respondent but to signal that, on the basis of the record before me, the delay in settling this judicial review application caused the Applicants to incur unnecessary expenses, keeping in mind as was said in
+Consorzio
+at paragraph 9 that the objective in a cost award is to award an appropriate contribution towards solicitor-client costs. The cost award suggested by counsel for the Respondent fixed at Column III of the table to Tariff B is not satisfactory in the circumstance.
+[69]
+An appropriate contribution to solicitor-client costs is to fix costs based on Column V at the mid point of the scale prescribed for appropriate items.
+3.
+Postscript
+(a)
+adequate reasons
+[70]
+Counsel for the Applicants raised in argument the Minister's delegate, in this case, did not provide adequate reasons in support of his decision to maintain the demand for payment of the forfeited amount. There is a wealth of cases holding a tribunal must provide adequate reasons. Generally speaking, reasons must be proper, adequate and intelligible and must enable the person concerned to assess whether he has grounds to appeal; reasons must outline the reasoning process which lead to its conclusions (see
+Northwestern Utilities Ltd. v. Edmonton (City)
+, [1979] 1 S.C.R. 684; 23 N.R. 565; 12 A.R. 449, at page 707 [S.C.R.]).
+[71]
+Reasons, in a case such as this one where the amounts involved are substantial, must come to grips with the principal elements of relevant submissions (FRAGMENT_SUPPRESSED).
+[72]
+I do not propose to comment on the adequacy of the reasons given by the Minister's delegate whose decision is under review because the matter was only raised at the hearing. However, I took the opportunity to state the general principles on the point so as to guide the reasons which will be provided on reconsideration.
+(b)
+submissions on reconsideration
+[73]
+Counsel for the Respondent proposed that the Applicants only be allowed to make submissions in respect of any evidence or submissions in the record that had not been disclosed to them prior to the April 12, 2007 decision. I do not agree with that proposal which is too limitative in the circumstances and is likely to cause problems. The Applicants should be able to make such submissions on reconsideration as they consider appropriate.
+JUDGMENT
+[74]
+THIS COURT ORDERS AND ADJUGES that
+:
+1. The Respondent's designation is corrected for the "Minister for Public Safety and Emergency Preparedness", in accordance with section 2 of the
+Customs Act
+, R.S.C. 1985, c. 1 (2nd Supp);
+2. The Applicants' Application for judicial review is granted, with costs; the Minister's decision, dated April 12, 2007, made pursuant to section 133 of the
+Customs
+Act
+is quashed and the matter is referred back to the Minister for reconsideration with the following instructions taking into account the reasons this Court has issued today:
+(a) The reconsideration shall be conducted and decided by a different duly appointed Minister's delegate;
+(b) The reconsideration shall be determined on the basis of the record existing at the time the Minister's delegate rendered his April 12, 2007 decision, such record being the Certified Record filed in the present file;
+(c) The Applicants may file evidence and make submissions;
+(d) This Court will remain seized of the matter on reconsideration to assist the parties in the implementation of this judgment in a manner consistent with these reasons for judgment;
+3. The Applicants shall have their costs on a party-party basis fixed in accordance with Column V of Tariff B of the
+Rules
+based on the mid-point of the scale in such Column for each relevant costs item.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

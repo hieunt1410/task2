@@ -1,0 +1,6 @@
+[111]
+The applicants rely on the U.S. decision of
+Ortho-McNeil Pharmaceutical Inc. et al. v. Mylan Laboratories, Inc. et al.
+, supra, where the U.S. patent to levofloxacin was construed as not referring to racemic ofloxacin. A "plain-English purity limitation" was not required in the claim since the inventor was presumed to use terms that a person skilled in the art would understand, and the "S(-)" symbols clearly set out that the racemic compound was not covered by the patent. Also in
+Mylan
+, supra, the court found that the specification's repeated use of the words "optically active" and the contrast made between racemic ofloxacin and levofloxacin in the patent disclosure indicated that the patent dealt with the levorotatory enantiomer of ofloxacin. Mylan dealt with the defendant's attempt in a patent infringement action to obtain summary judgment as to the patent's invalidity on anticipation. The summary judgment motion was dismissed by the court.

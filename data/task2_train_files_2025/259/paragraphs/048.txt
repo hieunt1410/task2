@@ -1,0 +1,9 @@
+[48]
+There has been little in depth judicial commentary as to section 8 of the
+PMNOC Regulations
+specifically. Rothstein, J.A, when he was sitting as a Judge of the Federal Court of Appeal in
+Apotex Inc. v. Canada (Minister of National Health and Welfare)
+(2000), 3 C.P.R.(4th) 1, delivered the decision of the Court and, in discussing section 8 in the form that is at issue in the present action, wrote at paragraph 27:
+"27. Paragraph 8(1)(a) specifically provides that a patent holder whose prohibition application is dismissed is liable for the loss suffered by a generic manufacturer for the delay incurred in the issuance of a Notice of Compliance to the generic by reason of the prohibition application. Under subsection 8(4), the Court has been given jurisdiction to make an award of damages or lost profits. Section 8 of the
+Regulations
+makes it apparent that the Governor in Council recognized that generic manufacturers could be subject to unjustified prohibition applications, including applications based upon ineligible patents on the Register and provided a remedy in the form of an award of damages or lost profits in such circumstances."

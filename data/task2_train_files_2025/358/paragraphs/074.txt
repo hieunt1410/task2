@@ -1,0 +1,18 @@
+[74]
+MacGuigan, J.A., of the Federal Court of Appeal stated the following, with respect to the standard of review to be applied to an appeal of a prothonotary's decision, in
+Canada v. Aqua-Gem
+, supra, at paragraph 95:
+"I also agree with the Chief Justice in part as to the standard of review to be applied by a motions judge to a discretionary decision of a prothonotary. Following [page 463] in particular Lord Wright in
+Evans v. Bartlam
+, [1937] A.C. 473 (H.L.), at page 484, and Lacourciere, J.A., in
+Stoicevski v. Casement
+(1983), 43 O.R.(2d) 436 (Div. Ct.), discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+"Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo."
+And at paragraph 98:
+"The question before the prothonotary in the case at bar can be considered interlocutory only because the prothonotary decided it in favour of the appellant. If he had decided it for the respondent, it would itself have been a final decision of the case:
+A-G of Canada v. S.F. Enterprises Inc. et al.
+(1990), 90 D.T.C. 6195 (F.C.A.), at pages 6197-6198;
+Ainsworth v. Bickersteth et al.
+, [1947] O.R. 525 (C.A.). It seems to me that a decision which can thus be either interlocutory or final depending on how it is decided, even if interlocutory because of the result, must nevertheless be considered vital to the final resolution of the case. Another way of putting the matter would be to say that for the test as to relevance to the final issue of the case, the issue to be decided should be looked to [page 465] before the question is answered by the prothonotary, whereas that as to whether it is interlocutory or final (which is purely a pro forma matter) should be put after the prothonotary's decision. Any other approach, it seems to me, would reduce the more substantial question of 'vital to the issue of the case' to the merely procedural issue of interlocutory or final, and preserve all interlocutory rulings from attack (except in relation to errors of law)."

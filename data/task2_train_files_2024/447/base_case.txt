@@ -1,0 +1,140 @@
+[1]
+Tremblay-Lamer, J.
+: This is an application by the Minister of Public Safety and Emergency Preparedness (the applicant) for judicial review of a decision of the Immigration Division of the Immigration and Refugee Board (the Board), dated August 13, 2010, whereby the Board ordered, pursuant to subsection 58(1) of the
+Immigration and Refugee Protection Act
+, SC 2001, c 27 [
+IRPA
+], that Mr. Walford Uriah Steer (the respondent) be released from detention subject to certain terms and conditions.
+I. Background
+[2]
+The respondent, born May 6, 1972, is a citizen of Jamaica.
+[3]
+On January 15, 1993, he came to Canada as a permanent resident after being sponsored by a parent already living in the country. In February 1999, he was removed back to Jamaica after being convicted of numerous offences under the
+Criminal Code
+, RSC 1985, c C-46, including three assaults.
+[4]
+Despite this, the respondent returned back to Canada in March of 2000 without authorization. He claimed refugee status in July of that year. Asylum was granted in June of 2003. However, the respondent never re-acquired permanent resident status because he had been deemed inadmissible as a result of his criminal record.
+[5]
+The respondent continued his criminal behaviour upon returning to Canada. A deportation order was issued on March 17, 2006, and the respondent was detained by the Canada Border Services Agency (CBSA) for removal shortly thereafter. By this point, he had amassed more than 70 convictions under the
+Criminal Code
+. The respondent appealed the deportation order to the Immigration Appeal Division (IAD). He was released from detention on June 15, 2006 on a $5000 bond and on the condition that he report to CBSA on a weekly basis (2006 release order).
+[6]
+In 2009, new charges were brought against the respondent for failing to comply and for obstructing a peace officer. These charges were still pending at the time that the decision under review was made.
+[7]
+In January 2010, the IAD dismissed the respondent's appeal against the March 2006 deportation order and on May 27, 2010, this Court dismissed the respondent's leave application with respect to that IAD decision.
+[8]
+On August 3, 2010, the Minister of Citizenship and Immigration Canada issued an opinion, pursuant to paragraph 115(2)(a) of the
+IRPA
+, that the respondent represented a "present and future danger to the Canadian public" (the danger opinion). The respondent filed an application for leave and for judicial review of the danger opinion on August 6, 2010. That application was ultimately dismissed in November 2010.
+[9]
+On August 4, 2010, the respondent was detained by the CBSA for removal purposes on two grounds: a) because he represented a danger to the public, and b) because he represented a flight risk. The respondent's 48-hour detention review was held on August 6, 2010. The Board decided to maintain the respondent in detention for seven more days. With regards to the danger ground, it found that "the danger opinion [was] an important new element". As to the flight risk, the Board indicated that, "the flight risk issue [had] changed significantly since 2007" due to the imminence of removal.
+II. The Decision Under Review
+[10]
+On August 13, 2010, the Board reviewed the respondent's detention again and, this time, it made an order for his release. The Board considered each ground of detention separately. With respect to the danger ground, it indicated that, "not much has changed since 2006" and that although the respondent had, "amassed seventy-six convictions in Canada, nine of them for violence, since 2006 there has been a stop of the criminality" in the respondent's case. The Board conceded that the respondent was a person who represented a danger to Canadian society, but found that the conditions of the 2006 release order had been sufficient to counterbalance that danger.
+[11]
+The Board's primary concern was with respect to the flight risk ground. In this regard, the Board acknowledged that the flight risk in the respondent's case had, "dramatically increased because of the danger opinion." Ultimately, however, the Board found that there was, "no reason why by imposing strict conditions", the heightened flight risk could not be "counterbalanced".
+[12]
+The new release order issued by the Board maintained the existing $5000 bond and required the respondent to:
+a) present himself when required by the CBSA or the Board in order to comply with any obligation under the
+IRPA
+;
+b) provide CBSA, prior to release, with his address and advise CBSA in person of any change in address prior to it being made;
+c) report to a CBSA officer once per week;
+d) confirm his departure with a CBSA officer prior to leaving Canada;
+e) fully cooperate with CBSA (to the satisfaction of CBSA) with respect to obtaining travel documents;
+f) not engage in any activity subsequent to release which would result in a conviction under any Act of Parliament;
+g) report any arrest, charges or convictions, within 72 hours, to CBSA; and
+h) respect any court order and/or probation order.
+[13]
+On motion by the applicant, the respondent's release was stayed on an interim basis. The applicant filed a further motion to stay the respondent's release pending the outcome of the present application for leave and for judicial review. That motion was dismissed by this Court on August 19, 2010 and the respondent was released (
+Canada (Minister of Public Safety and Emergency Preparedness) v. Steer
+, 2010 FC 830, 91 Imm LR (3d) 7).
+III. Analysis
+[14]
+The applicant challenges the Board's decision in two respects. First, the applicant submits that the Board erred by failing to consider the danger opinion as part of its analysis under paragraph 58(1)(a). Second, the applicant argues that the Board erred by applying unreasonably lax terms and conditions of release.
+[15]
+With respect to the first issue, deciding whether or not the Board erred by failing to consider the danger opinion as required under the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 [
+Regulations
+] is a question of law and is reviewable on the standard of correctness (
+FRAGMENT_SUPPRESSED).
+[16]
+Subsection 58(1) of the
+IRPA
+indicates that the Board is required to order the release of a foreign national unless it is satisfied, "taking into account prescribed factors," that one of four grounds for detention exists:
+Release - Immigration Division
+58. (1) The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that
+(a) they are a danger to the public;
+(b) they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2);
+(c) the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security or for violating human or international rights; or
+(d) the Minister is of the opinion that the identity of the foreign national has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity.
+Mise en liberté par la Section de l'immigration
+58. (1) La section prononce la mise en liberté du résident permanent ou de l'étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants:
+a) le résident permanent ou l'étranger constitue un danger pour la sécurité publique;
+b) le résident permanent ou l'étranger se soustraira vraisemblablement au contrôle, à l'enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d'une mesure de renvoi en vertu du paragraphe 44(2);
+c) le ministre prend les mesures voulues pour enquêter sur les motifs raisonnables de soupçonner que le résident permanent ou l'étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux;
+d) dans le cas où le ministre estime que l'identité de l'étranger n'a pas été prouvée mais peut l'être, soit l'étranger n'a pas raisonnablement coopéré en fournissant au ministre des renseignements utiles à cette fin, soit ce dernier fait des efforts valables pour établir l'identité de l'étranger.
+The ground for detention at issue is the "danger to the public" ground set out in paragraph 58(1)(a) of the
+IRPA
+.
+[17]
+Paragraph 244(b) of the
+Regulations
+indicates that the factors listed in Part 14 of the
+Regulations
+"shall be taken into consideration" when assessing whether a person is a danger to the public. In particular, paragraph 246(a), found in Part 14 of the
+Regulations
+, reads:
+Danger to the public
+246. For the purposes of paragraph 244(b), the factors are the following:
+(a) the fact that the person constitutes, in the opinion of the Minister, a danger to the public in Canada or a danger to the security of Canada under paragraph 101(2)(b), subparagraph 113(d)(i) or (ii) or paragraph 115(2)(a) or (b) of the Act; ...
+Danger pour le public
+246. Pour l'application de l'alinéa 244b), les critères sont les suivants:
+a) le fait que l'intéressé constitue, de l'avis du ministre aux termes de l'alinéa 101(2)b), des sous-alinéas 113d)(i) ou (ii) ou des alinéas 115(2)a) ou b) de la Loi, un danger pour le public au Canada ou pour la sécurité du Canada; ...
+[18]
+The applicant argues that the Board "failed completely to take into consideration" the factor set out in paragraph 246(a) of the
+Regulations
+.
+[19]
+I agree. While it is clear that Board was aware of the danger opinion (as it was considered in the Board's flight risk analysis), it is
+not
+clear that the danger opinion was considered by the Board in its analysis under paragraph 58(1)(a) of the
+IRPA
+. Although the Board acknowledged that the respondent did, in fact, represent a danger to the public, it is apparent from its reasons that the Board believed that this was essentially the same danger that had been considered and addressed in 2006. The Board indicated that, "not much has changed since 2006". On the contrary, a danger opinion had been issued by the Minister of Citizenship and Immigration Canada on August 3, 2010 pursuant to paragraph 115(2)(a) of the
+IRPA
+declaring the respondent to be a, "present and future danger to the Canadian public". As was rightly stated by the Board at the conclusion of the respondent's 48-hour detention review hearing, "the danger opinion is an important new element" that must be considered as part of the danger analysis. Paragraphs 244(b) and 246(a) of the
+Regulations
+require it.
+[20]
+Since I am not satisfied that the Board considered the danger opinion in its analysis under paragraph 58(1)(a), the Board's decision to release the respondent can not stand.
+[21]
+Further, as the Federal Court of Appeal indicated in
+Canada (Minister of Citizenship and Immigration) v. Thanabalasingham
+, 2004 FCA 4 at para 24, 236 DLR (4th) 329, when there is a previous decision to detain an individual under sections 57 and 58 of the
+IRPA
+, the Board must provide "clear and compelling reasons" to depart from that previous decision:
+At each detention review made pursuant to sections 57 and 58 of the
+Immigration Refugee Protection Act
+, S.C. 2001, c. 27, the Immigration Division must come to a fresh conclusion whether the detained person should continue to be detained. Although an evidentiary burden might shift to the detainee once the Minister has established a prima facie case, the Minister always bears the ultimate burden of establishing that the detained person is a danger to the Canadian public or is a flight risk at such reviews.
+However, previous decisions to detain the individual must be considered at subsequent reviews and the Immigration Division must give clear and compelling reasons for departing from previous decisions
+. (Emphasis added)
+In the current case, I note that the Board has not provided any explanation as to why the respondent's release was warranted after the August 13th detention review, when it had not been warranted after the August 6th detention review.
+[22]
+Given the above, it is unnecessary to consider the reasonableness of the terms and conditions of the respondent's release. The application is allowed and the decision to release the respondent is quashed.
+[23]
+The applicant submitted the following question for certification:
+Does the Immigration Division err in law when ordering the release of a person who is the subject of a danger opinion that has been recently issued pursuant to paragraph 115(2)(a) of the Act if the ID
+• revisits the danger opinion without having new evidence before it;
+• fails to examine the whole of the Minister's opinion noting that such an opinion is a mandatory factor for consideration by the ID under paragraph 246(a) of the
+Immigration and Refugee Protection Regulations
+, and
+• fails to distinguish the previous week's ID decision to not release the person precisely because the Respondent is, in the Minister's opinion, a danger to the public?
+Given my determination, this question does not satisfy the requirements for certification - it is not a serious question of general importance which would be dispositive of an appeal.
+JUDGMENT
+[24]
+THIS COURT ORDERS
+that the application for judicial review is allowed and the decision to release the respondent is quashed.
+Application allowed.
+Editor: E. Joanne Oley/vnh
+[End of document]

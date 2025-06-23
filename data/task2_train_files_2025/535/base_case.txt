@@ -1,0 +1,207 @@
+[1]
+Noël, J.
+[Translation]: This is an application for judicial review under s. 72 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+IRPA
+) of a decision by the Refugee Protection Division (RPD), dated July 11, 2005. In this decision, the RPD denied the applicant's refugee claim, finding that he was not a "Convention refugee" or a person in need of protection and that he was excluded under paragraph 1F(b) of the
+Convention Relating to the Status of Refugees
+, Can T.S. 1969 No. 6 (
+Convention
+) since he had been convicted in the United States of conspiracy to possess with intent to distribute 325 kilograms of marijuana.
+ISSUES
+[2]
+The issues are as follows:
+- What are the applicable standards of review?
+- Did the RPD err in deciding that the applicant should be excluded under paragraph 1F(b) of the
+Convention
+?
+- Did the RPD err in deciding that the applicant is not a
+Convention
+refugee or a person in need of protection?
+CONCLUSIONS
+[3]
+For the following reasons, the application for judicial review is dismissed.
+FACTS ALLEGED BY APPLICANT
+[4]
+On August 24, 2000, the applicant was sentenced to 60 months imprisonment and four months probation for conspiracy to possess with intent to distribute 325 kilograms of marijuana. In June 2004, he was expelled from the United States to Mexico after being incarcerated for about 52 months. Upon his return to Mexico, he began working in his brother's machine shop and, commencing in July 2004, he was employed by a metal fabricating and lead recycling plant in the State of Zacatecas. The applicant protested the shutdown of this plant with other workers. He was laid off on August 28, 2004. He then returned to work at his brother's shop, but continued to be involved in efforts to prevent the plant's closure. In January 2005, the State governor ordered the closure of the plant but the protests by the applicant and other workers continued. On February 11, 2005, the applicant was threatened by the owners' representatives and associates and he was beaten that day by three individuals.
+[5]
+The applicant then left Mexico. He asked to be admitted as a tourist and did not claim protection when he arrived at the Montréal airport on February 16, 2005. He did not make a refugee claim until February 25, 2005. On June 3, 2005, a hearing was held before the RPD and on July 11, 2005 the claim was dismissed by the RPD.
+IMPUGNED DECISION
+[6]
+The decision of Division member Léon Graub is based on two grounds. First, he thought that for reasons of credibility the applicant was not a person in need of protection or a refugee (inclusion). Second, he decided that the applicant falls under paragraph 1F(b) of the
+Convention
+and that he should be excluded because of the crime he committed in the United States (exclusion).
+[7]
+With respect to inclusion, Mr. Graub noted various inconsistencies in the applicant's story, drawn from his oral testimony, the immigration officer's notes, his Personal Information Form (PIF) and other immigration documents:
+- The applicant gave contradictory versions regarding the purposes of his activism. Sometimes he claimed he was protesting the closure of the plant, while sometimes he said he wanted it to close because of its pollutant emissions. The applicant's explanations at the hearing attempting to justify these different versions were not considered satisfactory;
+- The applicant gave contradictory versions of the reasons for his fear (in Appendix 1 of the form "Information on Individuals Seeking Refugee Protection", he writes that he fears one or more [Translation] "family problems" and claims he fears, in particular, [Translation] "a neighbour Guadalupe Ruborcado", while at the hearing he said rather that he feared returning to Mexico because of the plant owners);
+- A number of aspects of the applicant's conduct indicate that he did not really fear persecution (delay in requesting asylum, failure to tell the immigration officer that he feared persecution if he returned to Mexico, statements about his desire to return to Mexico, the stated objective of immigration to Canada for economic reasons); and
+- The applicant's passport application, prior to the threats he received, is a fact tending to show that it was not out of fear of persecution that the applicant claimed refugee status.
+[8]
+In respect of exclusion, the RPD relied on the judgments in
+Chan v. Canada (Minister of Citizenship)
+, [2000] 4 F.C. 390; 260 N.R. 376 (F.C.A.) and
+Zrig v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2003] 3 F.C. 761; 307 N.R. 201; 2003 FCA 178; [2003] F.C.J. No. 565. The RPD thought that paragraph 1F(b) of the
+Convention
+applied to the applicant, a serious non-political crime having been committed and the applicant's sentence not having been fully served. Furthermore, the RPD emphasized the seriousness of the crime and the importance of the punishments associated with it under both Canadian and U.S. law.
+ANALYSIS
+1. Standards of review
+[9]
+Two distinct standards of review apply in this case. On the question of inclusion, it is the standard of the patently unreasonable decision that applies, because the RPD's conclusions are based on questions of credibility (
+Mugesera v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2005] 2 S.C.R. 100; 335 N.R. 229; 2005 SCC 40; [2005] S.C.J. No. 39, at paragraphs 39 to 43;
+Aguebor v. Ministre de l'Emploi et de l'Immigration
+, [1993] F.C.J. No. 732; 160 N.R. 315 (F.C.A.), at paragraph 4). On the question of exclusion, it is the standard of reasonableness simpliciter. That is the necessary standard when it is a question of verifying whether the exclusion clauses in section F should or should not apply in a particular case, since this is a question of mixed law and fact (
+Shrestha v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.T.R. Uned. 599; 2002 FCT 887; [2002] F.C.J. No. 1154, at paragraph 12;
+Valère v. Canada (Minister of Citizenship and Immigration)
+, [2005] F.C.J. No. 643; 273 F.T.R. 33; 2005 FC 524), at paragraph 12).
+2. Inclusion
+[10]
+The applicant argues that the RPD should not have questioned his credibility because he failed to disclose his fear of persecution immediately upon his arrival in Canada. In his affidavit, the applicant contends that he thought he had to make his complaint in a refugee office, not when he arrived. The applicant is also of the opinion that the RPD should have asked him some additional questions in order to determine why he had requested a passport at a date prior to the threats he said he had received.
+[11]
+The respondent, for his part, draws attention to the ample evidence cited by the RPD to support its findings concerning the applicant's credibility.
+[12]
+In
+Aguebor v. Canada (Minister of Employment and Immigration)
+, supra, Mr. Justice Décary writes:
+"There is no longer any doubt that the Refugee Division, which is a specialized tribunal, has complete jurisdiction to determine the plausibility of testimony: who is in a better position than the Refugee Division to gauge the credibility of an account and to draw the necessary inferences? As long as the inferences drawn by the tribunal are not so unreasonable as to warrant our intervention, its findings are not open to judicial review. In
+Giron
+, the Court merely observed that in the area of plausibility, the unreasonableness of a decision may be more palpable, and so more easily identifiable, since the account appears on the face of the record. In our opinion,
+Giron
+in no way reduces the burden that rests on an appellant, of showing that the inferences drawn by the Refugee Division could not reasonably have been drawn. In this case, the appellant has not discharged this burden."
+[13]
+Having reviewed the transcripts of the hearing and the whole of the evidence, it does not appear to me that the RPD has made any error that would warrant the intervention of this Court. The RPD relied on the evidence and noted various significant inconsistencies between the versions given by the applicant at the point of entry, in the PIF and in oral testimony.
+[14]
+The applicant adds that, on review of the record, his hesitation as to whether to request refugee status and his expressed agreement to return to Mexico are justified and comprehensible. On this point, the delay in requesting asylum can give rise to negative inferences (
+Huerta v. Canada
+, [1993] F.C.J. No. 271) since it is a means of gauging the claimant's subjective fear of persecution. However, this consideration alone is not decisive in impeaching a claimant's credibility. In
+Canada (Minister of Citizenship and Immigration) v. Koriagin
+, [2003] F.T.R. Uned. 720; 2003 FC 1210; [2003] F.C.J. No. 1534, at paragraph 7, Mr. Justice Martineau writes:
+"The subjective fear of the claimant must always be assessed. When the evidence shows that the claimant did not take advantage of the first opportunity to claim refugee status this could compromise his claim under certain circumstances. Although this consideration is not determinative in itself, it is relevant in assessing the claimant's credibility:
+Gavryushenko v. Canada (Minister of Citizenship and Immigration)
+, [2000] F.C.J. 1209 (QL);
+Ilie v. Minister of Citizenship and Immigration
+(1994), 88 F.T.R. 220;
+Huerta v. Minister of Employment and Immigration
+, [1993] 157 N.R. 225, paragraph 4 (F.C.A.)."
+[15]
+In the case at bar, a number of facts combine to undermine the applicant's credibility (these facts are clearly noted in the RPD decision - see the Tribunal record, at pages 53 et seq. and in particular the notes of the immigration officer, which contain a number of admissions by the claimant concerning his fear and the reasons why he came to Canada: pages 53, 54, 56 and 57). The RPD decision did not reject the applicant's contentions solely because he delayed in requesting asylum. It relied on a number of observations drawn from the evidence in determining that the applicant's behaviour was not that of a person who fears to return to his country. In doing so, it did not err.
+3. Exclusion
+[16]
+Persons who have committed serious non-political crimes cannot qualify as refugees or persons in need of protection under Canadian law. Section 98 of the
+IRPA
+provides:
+"98. A person referred to in section E or F of Article 1 of the Refugee Convention is not a Convention refugee or a person in need of protection."
+[17]
+Sections E and F of the Refugee
+Convention
+(defined in s. 2 of the
+IRPA
+- this is the
+Convention
+) are appended to the
+IRPA
+. The relevant passage of section F reads:
+"F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+. . . . .
+(b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee; ..."
+[18]
+The applicant argues that exclusion does not apply in his case. In his opinion, his sentence was served and a person who has served his sentence should not be excluded. He argues that he should have been entitled to adduce evidence of good conduct and that the fact that he has been on probation since his removal to Mexico in June 2004 should not be held against him. Finally, the applicant submits that the RPD has not provided sufficient reasons on the issue of exclusion.
+[19]
+The respondent essentially repeats the RPD's findings. In his opinion, the applicant's crime is a serious non-political crime and the sentence he was given has not been fully served. The respondent further argues that even if the sentence was considered to be fully served the seriousness of the crime that was committed warrants the applicant's exclusion nevertheless. On the question of the sufficiency of the reasons, the respondent argues that the decision is sufficiently detailed to understand its basis and to follow the RPD's reasoning.
+[20]
+In
+Zrig v. Canada (Minister of Citizenship and Immigration)
+, supra, at paragraph 134, Décary, J.A., analyzes the content of the Section F(b) exclusion:
+"The phrase 'serious non-political crime' requires that three conditions be met: there must be a crime, the crime must be a non-political one and the crime must be serious."
+[21]
+In this case, there is no doubt that the applicant committed a crime, as the authenticity of the U.S. judgment, dated August 24, 2000, handed down against the applicant, has not been disputed. On the expression "non-political crime", Décary, J.A., adds at paragraph 136:
+"Article 1F(b) deals with ordinary crimes. ... Such crimes have not been defined by the international community acting collectively. ... As I have already mentioned, strictly speaking it can be said that crimes recognized in extradition treaties have been the subject of international consensus and constitute serious non-political crimes in the eyes of the international community; but such crimes are not international crimes in themselves and are defined in terms of the applicable domestic law. Although in practice it is assumed that such ordinary crimes, which are usually the subject of extradition treaties, generally constitute serious crimes, the other crimes will be the subject of debate and each time the question will arise as to whether an act is an ordinary crime, and if so whether it is a serious crime within the meaning of the
+Convention
+."
+[22]
+In
+Zrig v. Canada (Ministesr of Citizenship and Immigration)
+, supra, the Federal Court of Appeal explained the appropriate scope of section F(b). In that case, Nadon, J.A., conducted a detailed review of the cases and authorities on this question. At paragraphs 59 to 97, he explains the meaning of section F(b). In particular, at paragraphs 59 and 79, he writes (explanations omitted):
+"[59] In the appellant's submission, the intention of the signatories of the
+Convention
+was to ensure that persons committing non-political crimes could not avoid extradition proceedings, criminal prosecution or the execution of a sentence of imprisonment in their countries by seeking refugee status in a third country.
+. . . . .
+"[79] ...
+The only question that must be answered is whether there are serious reasons for considering that a claimant committed a serious non-political crime.
+" (Emphasis added)
+The Canadian courts consider drug trafficking to be a serious non-political crime (see in particular
+Delisle v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.T.R. Uned. 483; 2002 FCT 737; [2002] F.C.J. No. 977, at paragraph 13). In the case at bar, the applicant was not convicted of drug trafficking, but rather of possession with intent to distribute 325 kilograms of marijuana.
+[23]
+To determine whether a crime is serious, we can refer to the penalty provided in Canadian law (see
+FRAGMENT_SUPPRESSED). The crime for which the applicant was convicted amounts in Canadian law to conspiracy to possess drugs for the purpose of trafficking. The relevant provisions are the following:
+"
+Criminal Code
+, R.S.C. 1985, c. C-46
+"465(1) Except where otherwise expressly provided by law, the following provisions apply in respect of conspiracy:
+. . . . .
+(c) every one who conspires with any one to commit an indictable offence not provided for in paragraph (a) or (b) is guilty of an indictable offence and liable to the same punishment as that to which an accused who is guilty of that offence would, on conviction, be liable"
+"
+Controlled Drugs and Substances Act
+, S.C. 1996, c. 19
+"5(2) No person shall, for the purpose of trafficking, possess a substance included in Schedule I, II, III or IV.
+"5(3) Every person who contravenes subsection (1) or (2)
+(a) subject to subsection (4), where the subject-matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life;
+. . . . .
+"SCHEDULE II
+. . . . .
+"1. Cannabis, its preparations, derivatives and similar synthetic preparations, including:
+. . . . .
+(2) Cannabis (marihuana)"
+[24]
+Canadian criminal law provides the same maximum sentence for the offence of conspiracy to possess drugs for the purpose of trafficking as it does for trafficking itself: life imprisonment. The fact that s. 36(1) of the
+IRPA
+characterizes as serious criminality an offence punishable by a term of imprisonment of at least 10 years, combined with the remarks of the Supreme Court concerning the seriousness of drug-trafficking related offences (see in particular
+Delisle v. Canada (Department of Citizenship and Immigration)
+, [2002] F.C.J. No. 977; 2002 FCT 737, at paragraph 13), can only lead me to find that the offence for which the applicant was convicted is a serious non-political crime.
+[25]
+The sentence he was given under the U.S. judgment dated August 24, 2000, is composed of a term of imprisonment of 60 to 71 months and a period of post-release supervision of four to five years. It is true, as the applicant submits, that
+Chan v. Canada (Minister of Citizenship)
+, supra, of the Court of Appeal adopted the principle that a person serving his entire sentence cannot be excluded under section F(b) of the
+Convention
+. At paragraph 41, Mr. Justice Robertson writes:
+"Assuming without deciding that the appellant's conviction qualifies as a serious non-political crime, it is clear to me that Article 1F(b) cannot be invoked in cases where a refugee claimant has been convicted of a crime and served his or her sentence outside Canada prior to his or her arrival in this country."
+However, these comments were qualified to a considerable degree by Mr. Justice Nadon in
+Zrig
+, supra, at paragraphs 118 to 129, and particularly in paragraph 128:
+"In short, in
+Chan
+the Court was dealing with a different situation and the comments it made on Article 1F(b) of the
+Convention
+must be read with caution, as the very wording of that article indicates that it applies to more than the cases covered by Canadian law in the three aforementioned sections. There is also no question, as the Court held in
+Chan
+, that the country of refuge can certainly decide not to exclude the perpetrator of a serious non-political crime who has already been convicted and has served his sentence. However, I do not think the Court decided that the country of refuge could not decide to exclude the perpetrator of a serious non-political crime, whatever the circumstances, provided he has been convicted and has served his sentence."
+In any event, it appears from the evidence that the applicant has not yet served his sentence in full. The four- to five-year probation period that was to follow the period of imprisonment was not served and the record indicates that surveillance of the applicant would be resume if he were to set foot again in the United States. The page of the U.S. judgment entitled "Special Conditions of Supervision" reads:
+"If deported, the defendant is not to re-enter the United States illegally. If the defendant is deported during the period of probation or the supervised release term, supervision by the probation office becomes inactive. If the defendant returns, the defendant shall report to the nearest U.S. Probation Office immediately. Supervision by the probation office reactivates automatically upon the defendant reporting."
+For these reasons, I am of the opinion that the applicant has not yet even fully served his sentence.
+[26]
+The argument regarding the evidence of good conduct that the applicant claims he never had an opportunity to make is unfounded, and he did not offer any reference in support of this. The existence of this right, which the applicant claims to have, has not been established. The Refugee Protection Division is not an appropriate forum for deciding the merits of the severity of a sentence issued abroad against a refugee claimant, or for deciding whether a person has demonstrated good conduct following his release. In this case the applicant committed a serious non-political crime, was convicted of that crime and has not finished serving his sentence. These facts give rise to the application of the exclusion under section F(b).
+[27]
+Finally, the applicant submits that the reasons of the RPD are insufficient. The RPD's obligation to give reasons for its decisions dismissing a refugee claim is set out in s. 61(2) of the
+Refugee Protection Division Rules
+, SOR/2002-228. Generally speaking, to satisfy the obligation to give reasons for a decision, the reasons must be sufficiently clear, precise, appropriate and intelligible that a claimant can understand why the claim has failed and decide whether to seek leave to appeal and on what basis. More specifically, the Federal Court of Appeal applied this principle to the protection of refugees in
+Mehterian v. Minister of Employment and Immigration
+, [1992] F.C.J. No. 545 (F.C.A.), at paragraph 2:
+"Section 69.1(11) of the
+Immigration Act
+, R.S.C. 1985, c. I-2, requires that the Refugee Division 'give written reasons' for any decision against the claimant. If this obligation is to be met, the reasons must be sufficiently clear, precise and intelligible that the claimant may know why his claim has failed and decide whether to seek leave to appeal, where necessary."
+The impugned decision, which is nine pages long, contains ample reasons and is sufficiently detailed. It refers to the relevant legislation and case law, and indicates how the decision was reached. The applicant's argument is therefore dismissed.
+[28]
+For these reasons, the RPD decision must be upheld.
+[29]
+The parties were invited to submit questions for certification and no question was submitted.
+ORDER
+[30]
+THE COURT ORDERS THAT:
+- The application for judicial review is dismissed and no question will be certified.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/gs

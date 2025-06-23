@@ -1,0 +1,146 @@
+[1]
+Beaudry, J.
+[Translation]: This is an application for judicial review by Transport D. Laliberté Inc. (the applicant) under section 18.1 of the
+Federal Courts
+Act
+, R.S. 1985, c. F-7, challenging the decision dated October 9, 2007, by Adjudicator Claude Roy, in response to a dismissal complaint filed by Mr. Georges Mancas (the respondent) under Division XIV of Part III of the
+Canada Labour
+Code
+(the
+Code
+), R.S. 1985, c. L-2.
+I.
+Facts
+[2]
+The applicant is a trucking company owned by Gestion Denis Coderre Inc., whose President and Chief Executive Officer is Denis Coderre. The company employs approximately 40 drivers at Saint-Apollinaire near Québec.
+[3]
+This company is affiliated with another transport company, SGT 2000 Inc., which has between 300 and 400 employees, is located in Saint-Germain-de-Grantham near Drummondville, Quebec, and is also run by Mr. Coderre.
+[4]
+The drivers must use SGT 2000 Inc.'s facilities, yard and garage, and they are asked to refuel there when they drive past on their way to the United States.
+[5]
+On April 1, 2001, the respondent began working for Transport Laliberté Inc., which made an assignment in bankruptcy near the end of 2002. Its shares were acquired by a new company incorporated on November 29, 2002, in the applicant's name. Mr. Mancas continued to work for the applicant as a truck driver from early 2003 to July 17, 2006.
+[6]
+On October 4, 2005, a one-week notice of suspension was issued against the respondent, who refused to sign it. The notice refers to a note dated June 7, 2004, regarding the respondent's behaviour towards the company's clients and employees. The notice also mentions a log book performance report dated January 12, 2005, which criticized Mr. Mancas for not completing log books properly. The last event occurred on September 1, 2005; the respondent allegedly did not want to open the doors of his trailer at the SGT 2000 Inc. guardhouse and was rude and uncooperative with the guard on duty. The notice also refers to telephone complaints made by the guard at SGT 2000 Inc. but does not specify when they were made or the reasons for them. However, there is mention of an e-mail sent on September 28, 2005, by the guard at the SGT 2000 Inc. guardhouse, Mr. Joël Paillé, who complained that the respondent had criticized him and the procedures.
+[7]
+On July 17, 2006, the respondent received a notice of dismissal in which the word [Translation] "Attitude" is checked off under the heading [Translation] "Nature of the Incident". The notice does not mention other grounds such as disobedience, negligence, driving, lateness or driving hours. Under the heading [Translation] "Employer's Comments", the following appears:
+[Translation] "Mr. Mancas, your driver file indicates that your attitude towards the SGT2000/TDL companies is unacceptable. On several occasions, you have behaved aggressively towards employees of these companies.
+. . . . .
+"Based on two other similar incidents that occurred after you were suspended, we note that your behaviour has not improved. Since SGT2000 is a sister company of TDL and we must work so as to not endanger other users of the road, and because you do not want to submit to various policies on control and surveillance of TDL/SGT equipment without always behaving aggressively towards them, we must terminate your employment immediately."
+[8]
+The notice of dismissal indicates that disciplinary action was taken in the past, such as the notice of suspension dated October 4, 2005, as well as the two new incidents that occurred subsequently. On November 14, 2005, the respondent allegedly let his truck motor run for more than ten minutes at SGT 2000 Inc.
+[9]
+On July 10, 2006, a guard noticed an air leak on the respondent's truck. The respondent was returning to work after a week's vacation, and a truck had been assigned to him that was not the one he normally drove. That day, the respondent went to the garage to have the braking system repaired. A little later in the day, when he arrived at the SGT 2000 Inc. guardhouse, Dominic Lemire noticed an air leak on the blue pipe of the braking system, as well as a disconnected electrical wire. The notice of dismissal states that the respondent refused to go to the garage after these new defects were discovered. However, the garage repair statement shows that the respondent arrived at the garage at 2:30 p.m.
+[10]
+On August 28, 2006, he made a complaint under subsection 240(2) of the
+Code
+. The complaint was heard on April 30, May 1 and May 2, 2007, in Québec, and the adjudicator's decision was issued on October 9, 2007.
+II.
+Issues
+[11]
+This application for judicial review deals with the following issues:
+1. What is the appropriate standard of review for the adjudicator's decision?
+2. Did the adjudicator breach the principles of natural justice and procedural fairness?
+3. Is the adjudicator's decision reasonable in the circumstances?
+III.
+Impugned decision
+[12]
+First, it must be noted that in the case of a dismissal complaint under section 240(1) of the
+Code
+, the adjudicator does not have the power to change the employer's decision. His or her jurisdiction is limited to considering whether the dismissal was unjust (paragraph 242(3)(a) of the
+Code
+). The adjudicator need not determine the legality of the employer's decision or whether the adjudicator would have rendered a different decision in the circumstances.
+[13]
+Accordingly, the adjudicator had to analyze the allegations against the respondent to determine whether the dismissal of July 17, 2006, was unjust.
+[14]
+With respect to the incident on November 14, 2005, the adjudicator noted that the respondent did not receive a notice for this incident and was not disciplined.
+[15]
+According to the applicant, the culminating incident occurred on July 10, 2006, (air leak and disconnected wire). The adjudicator explained that the respondent did not refuse to go to the garage to have the repairs done. The adjudicator stated that the respondent was angry because the mechanic who repaired the truck in Saint-Apollinaire that morning should have seen the air leak and the disconnected wire if they were present at that time.
+[16]
+The adjudicator decided that this incident did not justify dismissal nor could it be viewed as a culminating incident leading to a dismissal. In his view, it was unjust to base the respondent's dismissal on this incident.
+[17]
+He set aside the dismissal and ordered the applicant to reinstate the respondent with compensation for lost wages. He retained his jurisdiction in case the parties were unable to agree on the quantum.
+IV.
+Relevant legislation
+[18]
+The relevant legislation can be found in Schedule A at the end of these reasons.
+V.
+Analysis
+A.
+What is the appropriate standard of review?
+[19]
+In the recent decision in
+New Brunswick (Board of Management) v. Dunsmuir
+, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, the Supreme Court held that there are now two standards of review: correctness and reasonableness. In the past, the appropriate standard for an adjudicator's decision on a question of fact would have been patent unreasonableness.
+[20]
+In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and the law (
+Dunsmuir
+, at paragraph 47).
+[21]
+The parties submit here that the appropriate standard of review should be reasonableness. The Court concurs with this statement. An assessment of the facts is involved. However, where procedural fairness or natural justice is concerned, the jurisprudence teaches us that the Court does not have to conduct a pragmatic and functional analysis.
+B.
+Did the adjudicator breach the principles of natural justice and procedural fairness?
+[22]
+The applicant contends that the adjudicator prevented it from making its case, thus breaching the audi alteram partem rule. The applicant also submits that refusing to allow it to cross-examine the respondent on certain aspects of the case is a breach of procedural fairness.
+[23]
+The applicant states that a party must be heard prior to a decision being made that may affect it. The adjudicator must give each party the opportunity to present all its evidence FRAGMENT_SUPPRESSED.
+[24]
+Under paragraph 242(2)(b) of the
+Code
+, the adjudicator determines the presentation of evidence and the procedure to be followed, but he or she must comply with the principles of natural justice. The adjudicator cannot deprive a party of the right to cross-examine a witness for a party adverse in interest (
+Précis de procédure du Québec
+(4th Ed.), vol. 1, Cowansville, Éditions Yvon Blais, 2003, at page 534).
+[25]
+The incident that allegedly breached the principles of natural justice took place during the hearing. After counsel for Mr. Mancas filed the log books, the applicant noticed that the departure times from Saint-Apollinaire that Mr. Mancas had listed on July 10, 2006, did not match those that appeared on the satellite positioning or the repair times before his departure as well as the time he arrived at the SGT 2000 Inc. guardhouse.
+[26]
+The adjudicator refused to allow the applicant to cross-examine the respondent on this issue. The applicant wanted to attack Mr. Mancas' credibility. In the Court's view, this decision is at the very heart of the adjudicator's jurisdiction. The decision-maker was completely entitled to assess the relevance of the cross-examination in relation to the grounds for dismissal. The hearing lasted more than two days. The employer was not represented by counsel but was able to have his witnesses heard and to present reply evidence.
+C.
+Is the adjudicator's decision reasonable in the circumstances?
+[27]
+The applicant contends that the adjudicator made a critical error regarding the facts of the dispute. It submits that the evidence before the adjudicator clearly showed that, on the morning of July 10, 2006, the respondent had his truck repaired and then attached the trailer to it. He should have noticed the air leak at that time and should have had it taken care of before driving away. However, an e-mail written by Mr. Lemire, the employer's representative, stated the following (page 140, applicant's record):
+[Translation] "Driver had a very significant (major) air leak on the blue hose but on the truck.
+He did not know about it
+. ..." (Emphasis added)
+[28]
+Did this defect exist when the respondent left the garage that morning or did this defect appear en route? The evidence before the adjudicator shows that the guard noticed it when the truck arrived at SGT 2000 Inc. at 2:30 p.m. It was repaired, and the respondent left at 3:00 p.m. The adjudicator considered the testimony and the written evidence and found that this criticism, in particular, could not be the basis of a dismissal (paragraphs 83 to 88 of the decision, tab 2, applicant's record). There is no reason for the Court to intervene as this finding is supported by the evidence.
+[29]
+The applicant also submits that the adjudicator did not take into account the respondent's disciplinary file. On this point, the applicant raises paragraph 62 of the adjudicator's decision:
+[Translation] "The Employer cannot use an act that has already been sanctioned as grounds for a new sanction, i.e., the dismissal of July 17, 2006." (D-7; P-4)
+However, it is clear from reading paragraphs 59 to 65 that paragraph 62 deals with the production of certain documents. The Court finds that the adjudicator's determinations on this point are reasonable.
+[30]
+The applicant also objects to the fact that the adjudicator's decision does not discuss the Guide published by the Société de l'assurance automobile du Québec (S.A.A.Q.) concerning [Translation] "Pre-Departure Inspection" (Exhibit D-4, tab 10, the applicant's record).
+[31]
+Given that the notice of dismissal (page 139, applicant's record) indicates that the main reason was the respondent's attitude, not his driving or his negligence, the Court cannot accept this argument.
+[32]
+Last, the Court believes that the adjudicator's decision satisfies the reasonability test because the findings are justified based on the evidence that was adduced.
+JUDGMENT
+[33]
+THE COURT ORDERS that
+the application for judicial review is dismissed. A lump sum of $1,500 is awarded to the respondent for costs.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/clh
+SCHEDULE A
+The following provisions of the
+Canada Labour
+Code
+, R.S. 1985, c. L-2, are relevant to this case:
+240(1) Subject to subsections (2) and 242(3.1), any person
+(a) who has completed twelve consecutive months of continuous employment by an employer, and
+(b) who is not a member of a group of employees subject to a collective agreement, may make a complaint in writing to an inspector if the employee has been dismissed and considers the dismissal to be unjust.
+(2) Subject to subsection (3), a complaint under subsection (1) shall be made within ninety days from the date on which the person making the complaint was dismissed.
+242(1) The Minister may, on receipt of a report pursuant to subsection 241(3), appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate on the complaint in respect of which the report was made, and refer the complaint to the adjudicator along with any statement provided pursuant to subsection 241(1).
+(2) An adjudicator to whom a complaint has been referred under subsection (1)
+(a) shall consider the complaint within such time as the Governor in Council may by regulation prescribe;
+(b) shall determine the procedure to be followed, but shall give full opportunity to the parties to the complaint to present evidence and make submissions to the adjudicator and shall consider the information relating to the complaint; and
+(c) has, in relation to any complaint before the adjudicator, the powers conferred on the Canada Industrial Relations Board, in relation to any proceeding before the Board, under paragraphs 16(a), (b) and (c).
+(3) Subject to subsection (3.1), an adjudicator to whom a complaint has been referred under subsection (1) shall
+(a) consider whether the dismissal of the person who made the complaint was unjust and render a decision thereon; and
+(b) send a copy of the decision with the reasons therefor to each party to the complaint and to the Minister.
+(3.1) No complaint shall be considered by an adjudicator under subsection (3) in respect of a person where
+(a) that person has been laid off because of lack of work or because of the discontinuance of a function; or
+(b) a procedure for redress has been provided elsewhere in or under this or any other Act of Parliament.
+(4) Where an adjudicator decides pursuant to subsection (3) that a person has been unjustly dismissed, the adjudicator may, by order, require the employer who dismissed the person to
+(a) pay the person compensation not exceeding the amount of money that is equivalent to the remuneration that would, but for the dismissal, have been paid by the employer to the person;
+(b) reinstate the person in his employ; and
+(c) do any other like thing that it is equitable to require the employer to do in order to remedy or counteract any consequence of the dismissal.
+243(1) Every order of an adjudicator appointed under subsection 242(1) is final and shall not be questioned or reviewed in any court.
+(2) No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain an adjudicator in any proceedings of the adjudicator under section 242.

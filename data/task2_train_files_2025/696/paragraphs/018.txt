@@ -1,0 +1,2 @@
+[18]
+In the batch feeding system, logs are cut into prescribed lengths before they are delivered to an OSB plant, generally a "nominal eight foot length". A batch feeding system for logs of such a length, bundles nominal eight foot length logs into piles or bundles and then delivers the bundles into the flaker compartment in an incremental manner.

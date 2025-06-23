@@ -1,0 +1,10 @@
+[81]
+To determine whether a statute that authorizes a search or seizure is unreasonable, it is first necessary to ascertain whether the criteria formulated by Dickson, J. (as he then was), in
+Hunter
+are applicable. Those criteria were summarized as follows by Wilson, J., in
+Thomson Newspapers Ltd. v. Director of Investigation and Research, Combines Investigation Act et al.
+, [1990] 1 S.C.R. 452; 106 N.R. 161; 39 O.A.C. 161, at p. 449:
+"(a) a system of prior authorization, by an entirely neutral and impartial arbiter who is capable of acting judicially in balancing the interests of the State against those of the individual;
+"(b) a requirement that the impartial arbiter must satisfy himself that the person seeking the authorization has reasonable grounds, established upon oath, to believe that an offence has been committed;
+"(c) a requirement that the impartial arbiter must satisfy himself that the person seeking the authorization has reasonable grounds to believe that something which will afford evidence of the particular offence under investigation will be recovered; and
+"(d) a requirement that the only documents which are authorized to be seized are those which are strictly relevant to the offence under investigation."

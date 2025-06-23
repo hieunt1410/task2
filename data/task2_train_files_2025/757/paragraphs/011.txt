@@ -1,0 +1,16 @@
+[11]
+Sections 46.04(1) and (3) of the
+Immigration Act
+deal with the landing of persons who have been determined to be Convention refugees, and their dependants:
+"46.04(1) Any person who is determined by the Refugee Division to be a Convention refugee may, within the prescribed period, apply to an immigration officer for landing of that person and any dependant of that person, unless the Convention refugee is
+(a) a permanent resident;
+(b) a person who has been recognized by any country, other than Canada, as a Convention refugee and who, if removed from Canada, would be allowed to return to that country;
+(c) a national or citizen of a country, other than the country that the person left, or outside of which the person remains, by reason of fear of persecution; or
+(d) a person who has permanently resided in a country, other than the country that the person left, or outside of which the person remains, by reason of fear of persecution, and who, if removed from Canada, would be allowed to return to that country.
+. . . . .
+"(3) Notwithstanding any other provision of this Act, but subject to subss. (3.1) and (8), an immigration officer to whom an application is made under subs. (1) shall grant landing to the applicant, and to any dependant for whom landing is sought if the immigration officer is satisfied that neither the applicant nor any of those dependants is a person described in paragraph 19(1)(c.1), (c.2), (d), (e), (f), (g), (j), (k), or (l) or a person who has been convicted of an offence under any Act of Parliament for which a term of imprisonment of
+(a) more than six months has been imposed; or
+(b) five years or more may be imposed."
+Without wishing to make too broad a generalization, it seems that ss. 46.04(1) and (3) would account for the large majority of persons who might otherwise fit the indirect persecution category as defined in
+Bhatti
+. Specifically, dependants who might otherwise be obliged to return to their country of origin because they could not establish an independent claim to refugee status, will (unless disqualified for specified reasons) be allowed to remain in Canada. Section 46.04 reflects the principle of family unity. It is true that it is limited to dependants and does not include members of an extended family such as parents of adult children. However, such a limitation in the legislation does not justify the development of a common law notion of indirect persecution to account for family unity situations not covered by the section. Parliament has determined which family members qualify for admission and landing, i.e. dependants, and it is not the role of the court to expand the scope of the family for immigration purposes beyond that which Parliament has determined to be appropriate.

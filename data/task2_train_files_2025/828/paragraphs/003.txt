@@ -1,0 +1,12 @@
+[3]
+Paragraphs 24 to 27 of the statement of defence read:
+24. Claims 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36 and 27 of the '006 Patent cover infusion solutions containing 1 mol lactic acid to 1 mol of ciprofloxacin (hereinafter "1:1 Molar Claims"). Claims covering infusion solutions containing 1 mol of lactic acid to 1 mol of ciprofloxacin ("equimolar") or less than 1 mol of lactic acid to 1 mol of ciprofloxacin ("subequimolar") are broader than the invention made or disclosed.
+25. In a declaration dated April 18, 1989, the named inventor Peter Serno stated that the invention did not relate to solutions having a equimolar or subequimolar ratio of ciprofloxacin to lactic acid:
+5. I am familiar with the article of Gert Höffken et al., Pharmacokinetics of Ciprofloxacin after Oral and Parenteral Administration published in Antimicrobial Agents And Chemotherapy, March 1985, p. 375-379; and that
+. . . . .
+7. Due to the results of those tests I have to draw the following conclusions:
+Höffken describes solutions of ciprofloxacin lactate in a physiological sodium chloride solution. The molar ratio of ciprofloxacin to lactic acid is thus 1.
+The ciprofloxacin lactate concentration in Höffken's solutions is already close to the solubility limit at room temperature. Thus in repeated attempts to prepare formulations those obtained are in some cases still clear but in other cases already display cloudiness, depending on the batches of ciprofloxacin and lactic acid employed and other limiting conditions (Table 1).
+It was surprising and could not be predicted by the skilled man that the solubility problems which were also inherent in the Höffken solutions could be eliminated by adding an excess of a physiologically tolerated acid."
+26. In addition, as of the date of the April 18, 1989 declaration, the named inventors only had demonstrated that a molar ratio of 1.33:1 (mol of lactic acid: mol of ciprofloxacin) provided the stable solution. Accordingly, claims 7, 10, 22 and 23 which include within their scope molar ratios of less than 1.33:1 are also broader than the invention made or disclosed.
+27. As a result, the 1:1 Molar Claims and claims 7, 10, 22 and 23 are broader than the invention made by the named inventors.

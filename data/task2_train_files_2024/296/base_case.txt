@@ -1,0 +1,169 @@
+INTRODUCTION
+[1]
+Lemieux, J.
+: Arcorp Investments Ltd. ("Arcorp"), an investment and management company, appeals, pursuant to subsection 172(2) of the
+Income Tax Act
+(the "
+Act
+"), the income tax reassessments by the Minister of National Revenue (the "Minister") for its 1984, 1985 and 1986 taxation years.
+[2]
+The Minister reclassified from capital gains to business income monies earned by Arcorp on the disposition of securities in its portfolio during its 1984 and 1985 taxation years. The reassessment in 1986 involves a decrease in the refundable dividend tax on hand. The parties agree the validity of the 1986 reassessment flows out of the determination of the capital gains versus business income issue.
+[3]
+Arcorp's position in this appeal is that the securities transactions it carried out during those years were properly on capital account and not in the nature of trade. The Minister's position is that Arcorp was trading in securities.
+[4]
+However, Arcorp has a fall-back position claiming it should benefit from the life-time capital gains election pursuant to subsection 39(4) of the
+Act
+. This subsection provides, subject to an exception for traders and dealers in securities, that a taxpayer may elect the disposition of Canadian securities to be a disposition of capital property.
+[5]
+The Minister, on the other hand, says Arcorp did not make a proper election and, in any event, is ineligible for such election because it falls within the prohibition of being a trader or a dealer in securities set out in subsection 39(5) of the
+Act
+.
+THE FACTS
+[6]
+Arcorp is a corporation incorporated pursuant to the laws of British Columbia and was, at all relevant times, a private corporation defined in subsection 89(1) of the
+Act
+. At all material times, its sole shareholder was Robert L. Hodgkinson who was employed as a commission securities salesman by Canarim Investment Corp., a licenced securities brokerage firm in B.C.
+[7]
+In its income tax returns for the 1980 to 1986 taxation years, Arcorp reported net capital gains from the disposition of "Canadian securities" as defined in subsection 39(6) of the
+Act
+and, as a result, for those taxation years, it included one half of the net capital gains reported by it in its income tax returns as taxable capital gains. Conversely, Arcorp did not, at any time, report any net gains from its security transactions as income.
+[8]
+The Minister reassessed Arcorp for the 1984 and 1985 taxation years increasing Arcorp's income by $296,297 for the 1984 taxation year and by $158,096 for the 1985 taxation year on the basis that the gains derived by Arcorp from the sale of securities in 1984 and 1985 were business income and not capital gains as reported by it. Arcorp duly objected to the assessments.
+[9]
+As noted, the Minister reassessed Arcorp's 1986 taxation year to disallow the dividend refund claimed by it. The Minister did so on the basis that the gains from the disposition of Canadian securities realized by Arcorp in the 1984 and 1985 taxation years were business income and, as a consequence, Arcorp had no refundable dividend tax credit on hand at the end of its 1986 taxation year. Arcorp duly objected to the reassessment.
+[10]
+The Minister confirmed the reassessments thereupon Arcorp appealed to this Court.
+[11]
+It was agreed between the parties that Arcorp was at no time licenced to carry on business as a trader or dealer in securities under any securities legislation nor did Arcorp at any time buy or sell securities on behalf of third parties.
+ANALYSIS
+(1) Issue No. 1 — capital gains or income
+[12]
+"Business" defined in the
+Act
+, as it read for Arcorp's relevant taxation years, was:
+"'business' includes a profession, calling, trade, manufacture or undertaking of any kind whatsoever, except for the purposes of paragraph 18(2)(c), an adventure or concern in the nature of trade but does not include an office or employment."
+[13]
+The resolution of the issue whether Arcorp's transactions in securities are to be classified as capital or income falls to be determined by the application of the following principles:
+(1) Whether the gain accrued to an owner of securities depends whether the gain is a mere realization or a change of investment (in which case it falls into the capital category) or whether the gain is attributable in what is truly the carrying on, or carrying out, of a business (where it would be classified as income). See,
+Californian Copper Syndicate Ltd. and Reduced v. Inland Revenue (Harris, Surveyor of Taxes)
+(1904), 5 T.C. 159 (Scot. Ex. Ct.), quoted with approval by Martland, J., in
+Irrigation Industries Ltd. v. Minister of National Revenue
+(1962), 62 D.T.C. 1131 (S.C.C.);
+(2) Cattanach, J., in
+Admiral Investment Ltd. v. Minister of National Revenue
+, [1967] 2 Ex. C.R. 308, at 319, put it this way:
+"What must be looked at is what was done by the appellant with a view to asking the question in Lord President Clyde's words in
+C.I.R. v. Livingston et al.
+(11 T.C. 538, at 542):
+'... whether the operations involved (in the transactions of the company) are of the same kind, and carried out in the same way, as those which are characteristic of ordinary trading in the line of business in which the venture was made.'"
+(3) Whether a series of transactions result in a capital gain or loss or a trading profit or loss is a question of fact to be determined after considering all of the surrounding circumstances; (see
+Wellington Hotel Holdings Ltd. v. Minister of National Revenue
+(1973), 73 D.T.C. 5391 (F.C.T.D.)), at 5396, per Urie, J., as he then was);
+(4) The corporation's objects are not relevant to the determination of the question. Locke, J., in
+Sutton Lumber and Trading Co. v. Minister of National Revenue
+, [1953] 2 S.C.R. 77, said this:
+"The question to be decided is not as to what business or trade the company might have carried on under its memorandum, but rather what was in truth the business it did engage in. To determine this, it is necessary to examine the facts with care."
+(5) "The course of conduct of the taxpayer should be given precedence over the oral testimony of company officers as to the intent of the company where there is a specific conflict between the two". That proposition was stated by Heald, J., at page 5518 in
+Canada Permanent Mortgage Corp. v. Minister of National Revenue
+(1971), 71 D.T.C. 5509 (F.C.T.D.).
+[14]
+In this context, the question to be resolved is whether Arcorp's securities transactions during 1984 and 1985 have the badge or characteristics of ordinary trading in securities. This question does not fall to be determined on the basis whether any particular transaction carried out by Arcorp constitutes an adventure or concern in the nature of trade which is usually concerned with isolated transactions. Rather, the entire activities of the taxpayer are to be looked at.
+[15]
+In
+Vancouver Art Metal Works Ltd. v. Minister of National Revenue
+, [1993] 2 F.C. 179; 152 N.R. 309 (F.C.A.), Létourneau, J.A., in a case where the issue was whether a taxpayer was a trader or a dealer in securities, said at page 187 [F.C.]:
+"It is, however, a question of fact to determine whether one's activities amount to carrying on a trade or business. Each case will stand on its own set of facts. Obviously, factors such as the frequency of the transactions, the duration of the holdings (whether, for instance, it is for a quick profit or a long-term investment), the intention to acquire for resale at a profit, the nature and quantity of the securities held or made the subject-matter of the transaction, the time spent on the activity, are all relevant and helpful factors in determining whether one has embarked upon a trading or dealing business."
+[16]
+During Arcorp's 1984 fiscal year: (1) its assets were almost exclusively in the form of marketable securities having a market value of $1,138,163 at year end; (2) it bought or sold 1,595,735 shares in 32 resource sector (mining and oil and gas) companies traded on the Vancouver Stock Exchange ("VSE") resulting in proceeds of disposition of $1,445,037.43 for a net gain of $592,594.79.
+[17]
+During Arcorp's 1985 fiscal year: (1) again, its assets were almost exclusively in the form of marketable securities having a market value of $474,658 at year end; (2) it transacted in approximately 900,000 shares in 24 companies in the resource sector (some of whom were on the 1984 year end inventory) resulting in proceeds of disposition of $1,009,092.72 for a net gain of $316,192.
+[18]
+The securities and their transactions as carried out by Arcorp had the following characteristics:
+(1) the number of the shares held by Arcorp in each resource sector company in its portfolio was substantial: for example, there were six resource companies in which Arcorp held in each over 100,000 shares in 1984;
+(2) for the most part, these shares were speculative penny stock shares often purchased by Mr. Hodgkinson by way of private placement with expectations of listing on the VSE;
+(3) Arcorp's sole directing mind was Mr. Hodgkinson who, as noted, at all material times, was employed as a commission securities salesman by Canarim Investment Corp. ("Canarim), a licenced securities brokerage firm with whom Arcorp had an account; moreover Canarim, in certain cases, was involved in underwriting or making public certain of the companies in which Arcorp had purchased private placement shares;
+(4) the securities transactions were frequent. In 1985, Arcorp recorded some 460 transactions i.e. an average of over 38 share transactions per month. In 1984, they were of a similar magnitude;
+(5) Arcorp's stock inventory was, for the most part, not held for any length of time (less than one year). In those cases where the holdings were for longer periods, it appears that Arcorp was restricted from selling them because of its status as an insider or because trading restrictions were in place when the private placement shares became the subject of public offering or listing on the VSE;
+(6) the velocity in the securities transactions in an individual company could be rapid and intense as purchases of shares would be made over several days during a short period of time and, on some occasions, more than one transaction (up to four transactions per day in those shares);
+(7) in several cases, transactions in one company included both buys and sells within a month.
+[19]
+Applying the legal principles identified above to Arcorp's securities transactions in 1984 and 1985 leads me to conclude, without hesitation, that the net profits so derived by Arcorp are to be classified as income earned by Arcorp in carrying out the business of a trader or dealer in securities because its operations are the same kind and were carried out in the same way as those which are characteristic of ordinary trading in that line of business.
+[20]
+This case has much similarity to that of
+Gairdner Securities Ltd. v. Minister of National Revenue
+, [1954] C.T.C. 24 (S.C.C.). In that case, the appellant had become a personal corporation and exhibited trading patterns in securities similar to those identified here. Rand, J., held the following at pages 26 and 27:
+"These complimentary transactions in buying and selling on their face bear the imprint of a course of action pursued with a view to making a profit through their ultimate result ... but the contention is that all of these transactions represent mere changes of investments, strictly so called, as distinguished from the merchandising of securities, and that the profit or loss were chargeable to capital.
+"It is unnecessary to dwell at any length on this contention. Investments, in the sense urged, look primarily to the maintenance of an annual return in dividends or interest. Substitutions in the securities take place, but they are designed to further that primary purpose and are subsidiary to it. On the facts before us, there cannot, in my opinion, be any real doubt that there was no such dominant purpose here."
+[21]
+I considered the testimony of Mr. Hodgkinson who identified at least three circumstances which defeated Arcorp's plans to hold on to these securities as long-term investments:
+(1) his personal investments in apartment buildings and shopping centres which turned out to be disastrous requiring huge cash calls;
+(2) similarly, the financial settlement arising out of his marriage breakdown required cash liquidity; and
+(3) the 1984 purchase of an expensive home.
+[22]
+Mr. Hodgkinson's explanations do not satisfy me that the dominant purpose of the Arcorp transactions during 1984 and 1985 was not to earn profits from transacting in the securities themselves rather than looking to these securities as long-term investments from which interest and dividends would be forthcoming. Indeed, his desperate need for cash explains why Arcorp, of which he was the sole directing mind, would look to frequent buying and selling of securities for profit and therefore for income purposes. Moreover, Mr. Hodgkinson's testimony does not explain why, in those years, Arcorp was frequently purchasing and not only liquidating to meet the cash needs of its sole shareholder.
+(2) Issue No. 2 — Did Arcorp elect under subsection 39(4) of the Act
+?
+[23]
+Subsection 39(4) of the
+Act
+, which was first enacted by Parliament in 1977, provides for an election of gains or losses in Canadian securities to be treated as capital.
+[24]
+The issue that arises in this case is whether Arcorp, in fact, made such an election in 1980 when it filed its income tax returns because between 1977 and 1983 there was no special prescribed form for use by the taxpayer when making the election. This form (T-123) was available in 1982 but only prescribed in March 1983.
+[25]
+Counsel for the Minister argued the plaintiff did not make a proper election when it filed its corporation income tax return for its 1980 taxation year because there was no clear statement attached to the return that it was making the election. Counsel for the Minister relied upon Justice Joyal's decision in
+FRAGMENT_SUPPRESSED in order for a proper election to have been made under section 44 of the
+Income Tax Act
+, a letter must be attached to the return.
+[26]
+In argument, counsel for the Minister pointed out that section 44 of the
+Act
+was worded identically as was subsection 39(4) "if he so elects under this subsection in his return of income under this Part".
+[27]
+On the other hand, counsel for Arcorp pointed to the Minister's response on undertakings given at discovery to the effect the department's administrative practice, where no form had been prescribed, was to accept the taxpayer's method of reporting in the income tax return as representing the election under various provisions of the
+Income Tax Act
+.
+[28]
+In my view,
+Hawkins
+, supra, is not relevant to the facts of this case because there the Interpretation Bulletin issued by the Department made it clear the election under section 44 of the
+Act
+should take the form of a letter attached to the return of income. The Interpretation Bulletins to which I was referred to contained no such direction for a subsection 39(4) election.
+[29]
+The evidence shows Arcorp first reported its securities transactions as capital in its 1980 return and that it did so continuously thereafter including in its 1984 through 1986 taxation years.
+[30]
+Since such lifetime election was in its return and this in accordance with departmental practice, I find that Arcorp effectively elected under section 39(4) when it filed its 1980 income tax return which carried forward in subsequent taxation years.
+(3) Issue No. 3 — Was Arcorp entitled to elect?
+[31]
+Subsection 39(4) of the
+Act
+provides exceptions in subsection 39(5) to an election; the first prohibition is that a trader or a dealer in securities could not elect.
+[32]
+My finding under issue No. 1 effectively resolves issue No. 3 and this is confirmed by the Federal Court of Appeal's decision in the
+Vancouver Art Metal Works
+decision, supra.
+[33]
+The issue put to the Federal Court of Appeal was the following:
+"Do the words 'a trader or a dealer in securities' in subsection 39(5) of the
+Income Tax Act
+refer only to a person who is registered or licenced by regulatory authority to buy and sell securities, or to a person who, in the ordinary course of business, buys and sells securities on behalf of other persons; or are the words broad enough to include anyone other than a person engaged in an adventure or concern in the nature of trade?"
+[34]
+Létourneau, J.A., held that the words "a trader or a dealer" should be given their ordinary meaning. These words normally refer to a person who deals in merchandise, is engaged in buying and selling or whose business is trade and commerce. He said he had no doubt that a taxpayer who makes it a profession or business of buying and selling securities is a trader or a dealer in securities within the meaning of paragraph 39(5)(a) of the
+Act
+.
+[35]
+Justice Létourneau concluded as follows:
+"In enacting subsections 39(4) and (5), Parliament had, in my view, no intention of allowing a taxpayer, who makes it a business or a profession of buying and selling securities, to convert his business income or losses into capital gains or losses as is the case for a simple investor engaged in an adventure in the nature of trade. Moreover, in my respectful opinion, to limit the scope of the exception to registered or licensed traders or dealers as found by the trial judge would lead to a strange result. A taxpayer who has a business of dealing in securities could make the election under 39(4), convert his income into capital gains and avoid falling under the exception relating to dealers not because he is not a dealer, but simply because he has not registered or obtained a licence as required by the regulatory authority."
+[36]
+As noted, I found in issue No. 1 that Arcorp's securities activities exhibited a badge of trade and a manner of operating similar to that of a trader in securities. I therefore find that Arcorp is a trader in securities within the meaning of paragraph 39(5)(a) of the
+Act
+and was not entitled to make the subsection 39(4) election.
+DISPOSITION
+[37]
+Counsel for Arcorp argued that if I should find Arcorp was a trader or dealer in securities and not entitled to the benefit of the subsection 39(4) election, I am required to determine which of Arcorp's particular and specific securities transactions were on the income account and which transactions were on the capital account because a trader in securities or a trader in real estate or any other commodity is still entitled to have investments on capital account and those investments need to be distinguished from those on an income account.
+[38]
+I do not think Arcorp's argument is well-founded. First, its statement of claim dated December 2, 1998, is not framed on that basis and second, I have found that taken together, all of the securities transactions by Arcorp in 1984 and 1985 formed a profit-making scheme whose gains were income.
+[39]
+For all of these reasons, both of the plaintiff's actions are dismissed with costs.
+Appeal dismissed.
+Editor: Gary W. McLaughlin/klf
+[End of document]

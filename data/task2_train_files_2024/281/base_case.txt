@@ -1,0 +1,66 @@
+[1]
+Lafrenière, Prothonotary
+: The issue on this motion is whether an affidavit filed by the Applicant, The Chamberlain Group, Inc. (Chamberlain), in support of its application appealing a decision of the Trademarks Opposition Board should be struck in its entirety on the grounds that it is irrelevant to the issues at the heart of the application.
+Facts
+[2]
+On July 21, 2004, the Respondent, Lynx Industries Inc. (Lynx), filed two trademark applications with the Registrar of Trademarks, one for LYNXMASTER (Application No. 1,224,296) and the other for LYNXMASTER & Design (Application No. 1,224,318). Each application was based upon proposed use of the trademarks in association with garage door openers.
+[3]
+Following advertisement for opposition purposes, Chamberlain filed a statement of opposition against each application. Lynx filed and served a counter statement with respect to each opposition.
+[4]
+On October 19, 2009, the Trademarks Opposition Board (Opposition Board) rejected both of Chamberlain's oppositions pursuant to s. 38(8) of the
+Trade-marks Act
+. Chamberlain commenced the within proceeding seeking to appeal of the decision of the Opposition Board rejecting its opposition relating to the trademark LYNXMASTER. Chamberlain brought a second application in Court File No. T-2140-09 to appeal the Opposition Board's decision relating to the trademark LYNXMASTER & Design.
+[5]
+In support of its two applications, Chamberlain served and filed the affidavit of Joseph T. Nabor, sworn February 5, 2010, (Nabor Affidavit). Mr. Nabor is a partner with the law firm Fitch, Even, Tabin & Flannery of Chicago, Illinois, USA, (Fitch, Even). Fitch, Even was counsel of record for Chamberlain in respect of its opposition to Lynx's applications for registration of the trademarks LYNXMASTER and LYNXMASTER & Design in the United States of America, (US Trademark Proceedings).
+[6]
+The Nabor affidavit introduces into evidence a copy of an opposition decision rendered by the United States Trademark Trial and Appeal Board (TTAB) involving Lynx's trademark LYNXMASTER covering "electric door openers; electric garage door openers; remote controls for garage doors" which was opposed by Chamberlain. Mr. Nabor attests that Chamberlain was successful in its opposition of the LYNXMASTER mark in the USA and that Lynx did not appeal the decision in respect of the US Trademark Proceedings. Mr. Nabor also provides a summary of an excerpt of the deposition of Mark Schram, Vice-President and General Manager of Lynx, taken in the context of the LYNXMASTER & Design US Trademark Proceedings.
+[7]
+The TTAB decision was rendered subsequent to the evidentiary stage of the proceedings before the Opposition Board and was not adduced as part of Chamberlain's evidence in the Canadian opposition proceedings. However, a copy of the TTAB decision was annexed to Chamberlain's written argument to the Opposition Board.
+[8]
+The body of the Nabor Affidavit reads as follows:
+"Joseph T. Nabor, in support of the applications by The Chamberlain Group, Inc. to the Federal Court of Canada from a decision rendered on behalf of the Registrar of Trademarks, in opposition proceedings by The Chamberlain Group, Inc. to applications filed by Lynx Industries for registration of the trademarks LYNXMASTER and LYNXMASTER & Design, application Nos. 1,224,296 and 1,224318.
+1. I am an attorney licensed to practice in the State of Illinois, U.S.A., and I was so licensed and registered during all times of interest to this Affidavit.
+2. I am a partner with the law firm of Fitch, Even, Tabin & Flannery of Chicago, Illinois, USA (Fitch and Even) and my firm was counsel of record for The Chanberlain Group, Inc. (Chamberlain) in an opposition proceeding in the United States Patent and Trademark Office, Opposition No. 91/160,673 (the US Action), to application Serial No. 78281660, filed by Lynx Industries, Inc. on July 31, 2003, for the trademark LYNXMASTER as applied to 'Electric Door Openers; Electric Garage Door Openers; Remote Controls for Garage Doors.' The opposition was commenced on May 21, 2004.
+3. The parties to the US Action are the applicant and respondent in the present application. A decision in the US Action in which Chamberlain was successful was rendered by the United States Trademark Trial and Appeal Board in a decision mailed December 14, 2007, a copy of which is annexed as Exhibit 'A' to my affidavit.
+4. The decision of the United States Trademark Trial and Appeal Board was not appealed by Lynx Industries, Inc.
+5. On December 20, 2007, less than one week following the decision mailed by the United States Trademark Trial and Appeal Board, Lynx Industries, Inc. filed an application to register the trademark LynxMaster & Design, a representation which appears in the affidavit of Joseph T. Nabor, in the United States and Trademark Office under application Serial No. 77356941. The application is based on Lynx Industries' intention to use the trademark in the United States of America in association with 'Electric door openers, electric garage door openers and remote controls for electric garage door openers.'
+6. The application was published for opposition on July 1, 2008 and opposition papers were filed by Mr. Nabor's firm on behalf of Chamberlain on August 1, 2008. The firm is counsel of record for The Chamberlain Group, Inc. (Chamberlain) in the opposition proceeding in the United States and Trademark Office, Opposition No. 91185559 (the Second US Action), to application Serial No. 77356941, filed on December 20, 2007.
+7. On January 21, 2010, in the United States and Trademark Office before the Trademark Trial and Appeal Board, Mr. Nabor deposed Mark Schram, Vice-President and General Manager of Lynx Industries, Inc. in the Second US Action.
+8. During the deposition Mr. Nabor specifically asked Mark Schram if Lynx Industries had commenced use of either of the LYNXMASTER trademarks in Canada for garage door openers or accessories. Mark Schram answered that the mark had not yet been used anywhere."
+Submissions of the Parties
+[9]
+Lynx submits that the Nabor Affidavit should be struck in its entirety for the following reasons. First, paragraph 3 of the affidavit, which refers to and attaches the TTAB decision, is immaterial because trademarks decisions from foreign jurisdiction are of no precedential value. Second, paragraphs 4 to 6 of the affidavit calls for an explanation from Lynx as to why there was no appeal, which is both inappropriate and prejudicial. Third, the statement by Mr. Schram at paragraph 8 of the affidavit constitutes inadmissible hearsay.
+[10]
+Chamberlain submits that the evidence in the Nabor Affidavit is of relevance as a further surrounding circumstance to the issue of confusion between Lynx's trademark LYNXMASTER & Design and Chamberlain's trademark LIFT MASTER. Chamberlain further submits that the Nabor Affidavit supports its arguments that Lynx's application for the trademark LYNXMASTER & Design was contrary to subsection 30(i) of the
+Trade-marks Act
+, and that Lynx did not act in good faith in filing its application for the said trademark after Chamberlain opposed Lynx's first application for the trademark LYNXMASTER in the United States.
+Analysis
+[11]
+In
+P.S. Partsource Inc. v. Canadian Tire Corp.
+(2001), 7 N.R. 135; 11 C.P.R.(4th) 386 (F.C.A.), the Federal Court of Appeal held that an interlocutory motion to strike evidence usually will fail because the matter is best left to the trier of fact. Only in exceptional cases where prejudice is demonstrated and the evidence is obviously irrelevant will such motions be justified. For the reasons that follow, I conclude that the Nabor Affidavit, taken as a whole, contains irrelevant or hearsay evidence that goes to controversial issues, and that Lynx would be prejudiced by leaving the matter for disposition by the trier of fact.
+[12]
+Relying on the decision of the Trademarks Opposition Board in
+Origins Natural Resources Inc. v. Warnaco U.S. Inc.
+(2000), 9 C.P.R.(4th) 540 (T.M. Opp. Bd.), Chamberlain submits that an opposition decision rendered by a foreign court or tribunal involving substantially the same trademarks as are at issue in opposition proceedings in Canada, and as applied to similar wares, will have persuasive value in determining the issue of confusion between the trademarks in the appropriate [sic]. However, at the hearing of the motion, counsel for Chamberlain advised that Chamberlain is seeking to rely on the TTAB decision as evidence, as opposed to simply a precedent. Chamberlain intends to argue at the hearing of the appeal that persuasive value should be accorded to the TTAB decision since the test applied by the TTAB in assessing the likelihood of confusion between Lynx's trademark LYNXMASTER and Chamberlain's registered trademark LIFT MASTER is essentially the same test as is applied by the Registrar of Trademarks when assessing the likelihood of confusion between Lynx's trademark LYNXMASTER & Design and Chamberlain's registered trademark LIFT MASTER in relation to the paragraph 12(1)(d) ground of opposition.
+[13]
+Chamberlain did not cite any jurisprudence in support of its contention that a decision of a foreign jurisdiction, based on foreign legal standards, can constitute evidence in this Court. The US Trademark Proceedings took place in a foreign jurisdiction, subject to foreign legal standards and procedures. While the TTAB decision may have some precedential value in appropriate circumstances, it is clearly irrelevant to the determination of the factual issues in the Canadian Trademark Proceedings.
+[14]
+Moreover, whether or not Lynx was successful in the LYNXMASTER US Trademark Proceedings and the fact that Lynx did not appeal the decision rendered in the LYNXMASTER US Trademark Proceedings have no bearing on the issues raised in this application. It would be inappropriate, and in violation of the Lynx's private legal and business affairs, to require Lynx to adduce evidence to explain why no appeal was taken, especially given that its considerations in respect of an appeal of foreign proceedings may be completely different with respect to a similar Canadian decision.
+[15]
+At paragraph 8 of his affidavit, Mr. Nabor provides a summary of the evidence taken during the Schram deposition. A summary of previous testimony by a deponent is inappropriate evidence due to the fact that the accuracy of the testimony may be compromised. As well, admitting an excerpt of testimony into evidence bears the risk of taking the evidence out of context as it disjointed from any other qualifications or preceding or anteceding evidence taken in the course of the deposition.
+[16]
+In addition, Mr. Schram swore an affidavit on March 8, 2007 in support of the two Canadian Trademark Proceedings. Prior to the hearing before the Trademark Opposition Board, Chamberlain elected not to cross-examine Mr. Schram on his affidavit. By means of filing the Nabor Affidavit in support of its request for judicial review, Chamberlain seeks to rely on prior statements of Mr. Schram, made outside of the context of these proceedings.
+[17]
+A prior statement is only receivable if the person who made the statement is unavailable due to death or disability, or because the person cannot be found. This principle applies to statements made in another proceeding because they cannot be tested by way of cross-examination in the present proceeding: see
+FRAGMENT_SUPPRESSED
+[18]
+Mr. Schram was available to Chamberlain for cross-examination in respect of these proceedings. Chamberlain's election not to cross-examine Mr. Schram on his evidence in respect of these proceedings does not provide Chamberlain with a basis to put in evidence transcripts from Mr. Schram's US deposition, taken in the course of the LYNXMASTER & Design US Trademark Proceedings.
+Conclusion
+[19]
+For the reasons above, an order will be issued in this proceeding and in Court File No. T-2140-09 striking the Nabor Affidavit in its entirety. As for costs, the parties agreed on the amount of $5,000.00, plus G.S.T., to be paid by Chamberlain for both motions.
+[20]
+A copy of these reasons shall be placed in Court File No. T-2140-09.
+Motion granted.
+Editor: Sharon McCartney/ve
+[End of document]

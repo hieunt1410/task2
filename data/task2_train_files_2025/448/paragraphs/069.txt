@@ -1,0 +1,4 @@
+[69]
+Verification of certain attributes of an already disclosed compound does not meet the threshold of inventiveness required for patent protection. In
+SmithKline Beecham
+, supra, the Federal Court of Appeal found that only "mechanical skill", rather than inventive genius, was needed to apply the prior art to arrive at the invention contained in the challenged patent. As stated by the Court at page 138-39, "The only 'improvement' referenced in the disclosure merely verifies properties of a known substance formulated using common techniques." In my opinion, the present case is similar, given that the inventors of the '080 patent were merely verifying properties of the known racemic ofloxacin by determining which of its enantiomers displayed better results with respect to antimicrobial activity, solubility and toxicity.

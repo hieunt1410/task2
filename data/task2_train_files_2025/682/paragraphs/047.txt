@@ -1,0 +1,6 @@
+[47]
+The reaction sequence for the process operation claimed by 1(b), then, is one in which the hydrogen in the (OH) hydroxyl group leaves as does one bromine, and an epoxide ring structure is formed with the carbon at one end of the three carbon chain. Then, the triazole reacts with either the terminal carbon that is part of that epoxide ring or it reacts with the bromine on the other side of the three carbon chain. In the former case the epoxide ring structure opens to allow the attachment of the triazole (depicted above at C
+1
+), and the epoxide structure then reforms in conjunction with the carbon at the other end of the three carbon chain in the C
+3
+position, the bromine on that side having left the molecule. The second triazole attaches in either case by breaking open the epoxide ring and simultaneously creating the hydroxyl (OH) to complete the fluconazole molecule.

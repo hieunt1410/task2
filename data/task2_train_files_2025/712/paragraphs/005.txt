@@ -1,0 +1,12 @@
+[5]
+It is true that this case law developed in connection with art. 65 of the
+Code of Civil Procedure
+, (65. A plaintiff who does not reside in Quebec must give security for the costs which may be incurred in consequence of his suit. The same applies to a person who acts on behalf of another under the second paragraph of article 59 if neither he nor any of his mandators resides in the province.) which imposes on a plaintiff not resident in Quebec a duty to provide security for costs which may be incurred in consequence of his suit. In short, residence is the essential aspect of that article, and thus in the case of a company its head office, regardless of its places of business or the place where it has its assets. Rule 446(1) is less radical and authorizes the court to have regard to the circumstances or the case. However, I consider that examined strictly from the standpoint of residence the Quebec case law is valid and applies equally in connection with rule 446(1), though what is at issue here is ordinary residence out of the jurisdiction. In short, I consider that this concept can only be applied to a physical person and not to a company having its head office outside the jurisdiction of this court.
+"Rule 446(1) Where, on an application of a defendant, it appears to the court
+(a) that the plaintiff is ordinarily resident out of the jurisdiction,
+(b) that the plaintiff (not being a plaintiff who is suing in a representative capacity) is a nominal plaintiff who is suing for the benefit of some other person and there is reason to believe that he will be unable to pay the costs of the defendant if ordered to do so,
+(c) subject to paragraph (2), that the plaintiff's address is not stated in the statement of claim or declaration or other originating document, or is incorrectly stated therein, or
+(d) that the plaintiff has changed his address during the course of the proceedings with a view to evading the consequence of the litigation,
+if, having regard to all the circumstances of the case, it seems just to do so, the court may order the plaintiff to give such security for the defendant's costs of the action or other proceeding as seems just (Form 17).
+. . . . .
+"446(4) A plaintiff ordinarily resident out of the jurisdiction may be ordered to give security for costs, though he may be temporarily resident within the jurisdiction."

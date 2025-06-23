@@ -1,0 +1,18 @@
+[28]
+On this issue, Arbour, J., notes that the language used in 672.8 of the
+Criminal Code
+is akin to the standard of patent unreasonabless, rather than reasonableness simpliciter. However, applying the pragmatic and functional approach, she concludes that a standard of patent unreasonableness would be unduly deferential and that reasonabless simpliciter is the proper one. Her reasoning is expressed in the following manner at paragraphs 87 and 88:
+"I agree that the applicable standard of review of the disposition by the Board is that of reasonableness simpliciter, largely for the reasons expressed by Binnie, J. I would however point out that the use by Parliament of virtually identical language in ss. 672.78 and 686(1)(a)(I) creates the obvious anomaly that the same words in different sections of the same statute - the
+Criminal Code
+- mean something entirely different.
+While, as expressed by Binnie J, 'unreasonable' in s. 672.78 means 'unreasonable in the sense of not being supported by reasons that can bear even a somewhat probing examination' (para. 33), the same expression in s. 686 means that no reasonable trier of fact, properly instructed and acting judicially could have convicted (see
+R. v. Biniaris
+, [2000] 1 S.C.R. 381, at para. 36;
+R. v. Yebes
+, [1987] 2 S.C.R. 168, at p. 185). This, in my view, is akin to the standard of patent unreasonableness, rather than reasonableness simpliciter
+, as these standards are understood in administrative law.
+"In the end, despite this anomaly in Parliament's having used identical wording in different sections of the same statute to express different concepts, I am satisfied that the standard of review under s. 672.78 is that of reasonableness simpliciter. The similarity of language is deceptive in that there are important substantive differences between the two sections. In s. 686, an appellate court is reviewing the verdict of a court (composed of a judge alone or of a judge and jury) while under s. 672.78, the appellate review is that of a disposition by an administrative body. The difference is also well illustrated by the fact that the unreasonableness of a verdict is a question of law (
+Biniaris
+, supra) and when an appellate court concludes that a verdict of guilty is unreasonable, its only remedial power is to enter an acquittal. In contrast, in the case of appellate review under s. 672.78, in the face of an 'unreasonable disposition', the Court of Appeal may allow the appeal and substitute its own disposition to that of the Board, or refer the matter back to it (s. 672.78(3)). For the reasons expressed by Binnie J., I agree that the functional and pragmatic approach must be applied to ascertain the applicable standard of review.
+Here, that approach indicates that a standard of patent unreasonableness would be unduly deferential to the Board and that reasonableness simpliciter is the proper one.
+" (My emphasis)

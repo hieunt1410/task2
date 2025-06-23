@@ -1,0 +1,14 @@
+[82]
+Further, the Court of Appeal in
+Nekoosa Packaging Corp. v. AMCA International Ltd. et al.
+(1994), 172 N.R. 387; 56 C.P.R.(3d) 470 (F.C.A.), has clarified the jurisprudence relating to claim construction. The court indicated that a claim must be read in light of the specification so that apparently broad language in a claim is to be limited where the specification, when fairly read, clearly indicates that a broad interpretation cannot be supported. The court also noted that the fact that some claims may be narrow does not necessarily permit the court to afford broad protection to claims drafted more broadly for that reason alone. Robertson, J.A., made the following comments at page 482 C.P.R.:
+"In my opinion, the cases decided after
+Beecham
+place it in proper perspective and clear the way for us to recognize the Supreme Court's approach to the proper construction of a patent.
+"In
+Consolboard Inc. v. MacMillan Bloedel (Saskatchewan) Ltd.
+... Dickson, J. (as he then was), speaking for the court, stated:
+'We must look to the whole of the disclosure and the claims to ascertain the nature of the invention and the methods of its performance ... being neither benevolent nor harsh, but rather seeking a construction which is reasonable and fair to both the patentee and public. There is no occasion for being too astute or technical in the matter of objections either title or specification for, as Duff, C.J.C., said, giving the judgment of the court in
+Western Electric Co. et al. v. Baldwin Int'l Radio of Canada Ltd.,
+... "where the language of the specification, upon a reasonable view of it, can be so read to afford the inventor protection for that which he has actually in good faith invented, the court, as a rule, will endeavour to give effect to that construction". Sir George Jessel spoke to like effect at a much earlier date ... He said the patent should be approached "with a judicial anxiety to support a really useful invention".'
+"As Hayhurst, supra, cautions at p. 24: 'Terms must be read in context and it is therefore unsafe in many instances to conclude that a term is plain and unambiguous without a careful review of the specification ...'."

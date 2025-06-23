@@ -1,0 +1,53 @@
+[14]
+The following are the relevant sections of the
+Code
+:
+"240(1) Subject to subsections (2) and 242(3.1), any person
+(a) who has completed twelve consecutive months of continuous employment by an employer, and
+(b) who is not a member of a group of employees subject to a collective agreement, may make a complaint in writing to an inspector if the employee has been dismissed and considers the dismissal to be unjust.
+"240(2) Subject to subsection (3), a complaint under subsection (1) shall be made within ninety days from the date on which the person making the complaint was dismissed.
+"240(3) The Minister may extend the period of time referred to in subsection (2) where the Minister is satisfied that a complaint was made in that period to a government official who had no authority to deal with the complaint but that the person making the complaint believed the official had that authority.
+"241(1) Where an employer dismisses a person described in subsection 240(1), the person who was dismissed or any inspector may make a request in writing to the employer to provide a written statement giving the reasons for the dismissal, and any employer who receives such a request shall provide the person who made the request with such a statement within fifteen days after the request is made.
+"241(2)
+On receipt of a complaint made under subsection 240(1), an inspector shall endeavour to assist the parties to the complaint to settle the complaint or cause another inspector to do so.
+"241(3) Where a complaint is not settled under subsection (2) within such period as the inspector endeavouring to assist the parties pursuant to that subsection considers to be reasonable in the circumstances, the inspector shall,
+on the written request of the person who made the complaint that the complaint be referred to an adjudicator
+under subsection 242(1),
+(a) report to the Minister that the endeavour to assist the parties to settle the complaint has not succeeded; and
+(b) deliver to the Minister the complaint made under subsection 240(1), any written statement giving the reasons for the dismissal provided pursuant to subsection (1) and any other statements or documents the inspector has that relate to the complaint.
+"242(1)
+The Minister may
+, on receipt of a report pursuant to subsection 241(3),
+appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate on the complaint in respect of which the report was made, and refer the complaint to the adjudicator along with any statement provided pursuant to subsection 241(1)
+.
+"242(2) An adjudicator to whom a complaint has been referred under subsection (1)
+(a) shall consider the complaint within such time as the Governor in Council may by regulation prescribe;
+(b) shall determine the procedure to be followed, but shall give full opportunity to the parties to the complaint to present evidence and make submissions to the adjudicator and shall consider the information relating to the complaint; and
+(c) has, in relation to any complaint before the adjudicator, the powers conferred on the Canada Industrial Relations Board, in relation to any proceeding before the Board, under paragraphs 16(a), (b) and (c).
+"242(3)
+Subject to subsection (3.1), an adjudicator to whom a complaint has been referred under subsection (1) shall
+(a) consider whether the dismissal of the person who made the complaint was unjust and render a decision thereon
+; and
+(b) send a copy of the decision with the reasons therefor to each party to the complaint and to the Minister.
+"242(3.1) No complaint shall be considered by an adjudicator under subsection (3) in respect of a person where
+(a) that person has been laid off because of lack of work or because of the discontinuance of a function;
+or
+(b) a procedure for redress has been provided elsewhere in or under this or any other Act of Parliament.
+"242(4)
+Where an adjudicator decides pursuant to subsection (3) that a person has been unjustly dismissed, the adjudicator may, by order, require the employer who dismissed the person to
+(a) pay the person compensation not exceeding the amount of money that is equivalent to the remuneration that would, but for the dismissal, have been paid by the employer to the person;
+(b) reinstate the person in his employ; and
+(c) do any other like thing that it is equitable to require the employer to do in order to remedy or counteract any consequence of the dismissal.
+"243(1)
+Every order of an adjudicator appointed under subsection 242(1) is final and shall not be questioned or reviewed in any court
+.
+"
+243(2) No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain an adjudicator in any proceedings of the adjudicator under section 242
+.
+"244(1) Any person affected by an order of an adjudicator under subsection 242(4), or the Minister on the request of any such person, may, after fourteen days from the date on which the order is made, or from the date provided in it for compliance, whichever is the later date,
+file in the Federal Court a copy of the order, exclusive of the reasons therefor
+.
+"244(2) On filing in the Federal Court under subsection (1), an order of an adjudicator shall be registered in the court and, when registered, has the same force and effect, and all proceedings may be taken thereon, as if the order were a judgment obtained in that court.
+"245 The Governor in Council may make regulations for the purposes of this Division defining the absences from employment that shall be deemed not to have interrupted continuity of employment.
+"246(1) No civil remedy of an employee against his employer is suspended or affected by sections 240 to 245.
+"246(2) Section 189 applies for the purposes of this Division." (Emphasis added)

@@ -1,0 +1,280 @@
+Date: 20190501
+Docket: T-38-18
+Citation: 2019 FC 545
+Ottawa, Ontario, May 1, 2019
+PRESENT:  The Honourable Madam Justice Kane
+BETWEEN:
+DAWN THOMSON
+Applicant
+and
+AFTERLIFE NETWORK INC.
+(O/A AFTERLIFE.CO)
+Respondent
+JUDGMENT AND REASONS
+[1]
+Dawn Thomson [the Applicant or Ms. Thomson], is the representative Applicant in a class proceeding against Afterlife Network Inc. [the Respondent or Afterlife]. Afterlife operated a website which posted obituaries and photographs which were authored and taken by the Applicant and other Class Members without their permission. The Applicant alleges that Afterlife infringed the copyright and the moral rights of the Class Members, contrary to sections 27 and 28.1 of the Copyright Act, RSC 1985, c C-42 [Copyright Act].
+[2]
+The Applicant, on behalf of the Class Members, seeks injunctive relief, statutory damages, damages for the infringement of moral rights, aggravated damages, punitive damages, and costs.
+[3]
+For the reasons that follow, the Court finds that the Applicant has established that the obituaries and the photographs were original works for which the authors owned the copyright. Afterlife infringed the copyright of the authors. The Court orders that Afterlife is enjoined from infringing the copyright of the Applicant and Class Members in the original works. The Class is entitled to statutory and aggravated damages and costs as set out below.
+I.
+Background
+[4]
+Afterlife operated the website, www.afterlife.co/ca, which is a database of obituaries. On January 11, 2018, the website claimed to contain 1,141,790 obituaries “in Canada”. Afterlife reproduced on its website obituaries and accompanying photos from the websites of Canadian funeral homes and newspapers. The Terms of Service on Afterlife’s website asserted that Afterlife owns the copyright in the contents.
+[5]
+The Afterlife website included advertising for third party businesses and sales of flowers and virtual candles on the same page as the obituary, which generate profits for Afterlife.
+[6]
+Ms. Thomson recounts that her father, Denis Trainor, passed away in January 2017. Ms. Thomson authored an obituary for her father and allowed Fahey’s Funeral Home and the Green’s Harbour Community Channel to publish it, along with a photograph she had taken of her father.
+[7]
+Ms. Thomson recounts that in January 2018, she discovered that the Afterlife website displayed her father’s obituary and photograph along with options to buy flowers and virtual candles on the same page—all without her permission. Ms. Thomson submits that Afterlife caused people who viewed the obituary on the website to believe that she had consented to its use and that she was profiting. Ms. Thomson described her outrage and mortification that others would think she sought to profit from her father’s death.
+[8]
+Ms. Thomson’s description of her reaction upon discovering her father’s obituary on the Afterlife website is echoed by many other Class Members who discovered that an obituary they had written for a family member, often accompanied by a photograph, had been posted on Afterlife’s website without their permission. The evidence of many Class Members is that they had written the obituaries in a personal way and that their discovery that the obituaries had been reproduced with the addition of sales of candles and other advertising was an emotional blow to them. In some cases, inconsistent information was added, for example, inaccurate details about the deceased or options to order flowers where the family had specifically discouraged flowers. The Class Members also describe Afterlife’s conduct, in seeking to profit from their bereavement and in conveying to the public that the families were benefitting from sales of virtual candles or other advertising, as reprehensible, outrageous and exploitative.
+II.
+The Class Proceeding
+[9]
+Ms. Thomson brought this Application for infringement of copyright and moral rights. She describes her experience as typical and representative of the Class Members.
+[10]
+By Order dated July 27, 2018 [the Certification Order], this Court certified the Application as a class proceeding, set out the common questions, and defined the Class as follows:
+All natural persons and estates in Canada who have authored or received by assignment an obituary that has been reproduced, in whole or in substantial part, without permission on www.afterlife.co/ca; and all natural persons and estates in Canada who have authored or received by assignment or the terms of the Copyright Act a photograph that was reproduced, in whole or in substantial part, without permission on www.afterlife.co/ca.
+Excluded from the Class are all directors, shareholders, officers, and employees of the Respondent.
+[11]
+The Certification Order appointed Ms. Thomson as the Representative Applicant and Stewart McKelvey as Class Counsel. The Certification Order also provided that Class Members could opt out of the class proceeding using an attached opt-out form by no later than October 1, 2018.
+III.
+The Respondent Did Not Participate
+[12]
+On March 12, 2018, counsel for Afterlife moved to be removed as the solicitor of record and was removed. The Case Management Judge directed Afterlife to either file a notice of appointment of solicitor (i.e., a new solicitor) or to bring a motion for leave to be represented by an officer of the company. Afterlife did not respond. Afterlife did not file any materials in response to the Applicant’s motion for certification. Nor did Afterlife respond to the Case Management Judge’s Direction, dated September 12, 2018, requiring the parties to provide the Court with a status update and proposed timetable.
+[13]
+On October 19, 2018, the Case Management Judge issued an Order stating that the Applicant is not required to serve Afterlife with any further documents in this proceeding until final judgment and that Afterlife is not entitled to submit a record or to cross-examine on affidavits in the Applicant’s record. Afterlife has not participated in the determination of this Application.
+[14]
+The Applicant has provided evidence which establishes that Afterlife shut down its website approximately one month after the class proceeding was commenced. Afterlife directed all website traffic to a new website, Everhere. Everhere is similar in that it posts obituaries and sells advertising, flowers and virtual candles in association with the obituaries. However, the obituaries appear to be in a template form rather than exactly copied from the authored work. The company documents list Mr. Pascal Leclerc as the director of both Afterlife and Everhere.
+IV.
+The Applicant’s Submissions
+[15]
+The Applicant submits that Afterlife has breached copyright and moral rights by reproducing the obituaries, by modifying the content of many obituaries, and by adding sales of virtual candles and flowers and posting advertisements for a range of products. The Applicant and other Class Members describe Afterlife’s conduct as “obituary piracy”.
+[16]
+The Applicant notes that in accordance with sections 3 and 5 of the Copyright Act, copyright grants the owner the sole right to reproduce or authorize reproduction of their original work. The Applicant attests that she has never granted anyone the right to reproduce the obituary she authored or the photograph she took of her father, apart from Fahey’s Funeral Home and the Green’s Harbour Community Channel. Other Class Members attest to the same facts; they authored obituaries, included photographs taken by them or by other family members and did not authorize reproduction. There is no evidence that Afterlife had a licence or any authorization from any Class Member to reproduce the obituaries or photographs [the original works].
+[17]
+The Applicant further submits that her honour and reputation were prejudiced by the association of her original work with advertisements, which constitutes the infringement of her moral rights. The Applicant submits that significant weight should be given to her view that prejudice has occurred. The Applicant described feeling embarrassed, angry, and stressed as a result of Afterlife using her original work. She attests that she felt her honour and reputation were diminished because others may think that she was trying to profit from her father’s death. Other Class Members expressed similar feelings.
+[18]
+The Applicant seeks an injunction against Afterlife, its officers and directors and all others over whom it exercises control. The Applicant submits that Mr. Leclerc, the director of both Afterlife and Everhere, must be personally enjoined from continuing and repeating the infringement of her copyright and that of Class Members.
+[19]
+The Applicant also submits that a wide injunction, pursuant to section 39.1 of the Copyright Act, is warranted and appropriate in this case because new obituaries are created every day. The Applicant argues that Afterlife appropriated the intellectual property of more than one million Canadians and only removed some obituaries when requested and confronted with claims of infringement. The Applicant submits that this conduct supports a finding that Afterlife and Mr. Leclerc would be likely to infringe the copyright in other works.
+[20]
+The Applicant also seeks aggregate damages representing statutory damages for the copyright infringement, damages for breach of moral rights, aggravated damages and punitive damages. The Applicant submits that aggregate damages are appropriate where identifying all the Class Members who would be entitled to an award would require a case-by-case analysis (Markson v MBNA Canada Bank, 2007 ONCA 334 at para 53, 85 OR (3d) 321, leave to appeal refused, 32134 (November 15, 2007) [Markson]). The Applicant notes that there are thousands of Class Members and that they have all suffered damages, which would be difficult to quantify on a case-by-case basis. The Applicant submits that a reasonable estimation of the damages is possible and is appropriate in this type of Class Action.
+[21]
+The Applicant further submits that Afterlife’s lack of participation in this Application is not a reason to limit aggregate damages.
+[22]
+With respect to statutory damages, the Applicant again notes that Afterlife revealed on its website that it posted or had an archive of over one million obituaries. Given that most were accompanied by a photograph, the Applicant submits that the only evidence available is that there were approximately two million infringements.
+[23]
+The Applicant acknowledges that the original works do not have commercial value, but submits that they have value to the authors. The Applicant notes that in accordance with paragraph 38(1)(a) of the Copyright Act, the statutory damages could range from $500 to $20,000 per work infringed. The Applicant submits that statutory damages in this range would be disproportionate and unreasonably high given that there are two million infringements. The Applicant, therefore, seeks an amount not exceeding $10,000,000 as statutory damages for copyright infringement.
+[24]
+The Applicant further submits that Afterlife’s conduct may be the most egregious infringement of moral rights considered by the Federal Court to date and, as a result, an additional $100,000,000 for the infringement of moral rights is warranted.
+[25]
+The Applicant also seeks $10,000,000 in aggravated damages to provide compensation for the intangible losses, such as distress and humiliation. The Applicant again points to the evidence of Class Members who describe feeling outraged, sick to the stomach, disgusted and exploited upon discovering their family member’s obituary on the Afterlife site and the distortion of the obituaries.
+[26]
+The Applicant submits that Afterlife’s infringement was blatant. Afterlife removed some obituaries at the request of some families, but refused other requests and took no action to remove all the pirated obituaries until this Application was commenced. It then set up another similar website. Given that Afterlife claimed its own copyright in the obituaries on the Afterlife website, and also on the Everhere website, its knowledge of copyright law should be imputed.
+[27]
+The Applicant submits that Afterlife’s audacity in stating that it held copyright and in warning others against reproduction of the content when the reality is that Afterlife infringed the copyright of the Class Members justifies both aggravated and punitive damages.
+[28]
+The Applicant submits that $5,000,000 in punitive damages is warranted due to the Respondent’s reprehensible conduct which offends standards of decency.
+[29]
+To summarize, the Applicant submits that there has been an infringement of copyright and moral rights and seeks the following relief:
+A permanent injunction restraining the respondent, its officers, directors and all others over whom it exercises control (in particular, Pascal Leclerc) from infringing the copyright and moral rights of the Applicant and the Class Members;
+A wide injunction restraining the respondent, its officers, directors and all others over whom it exercises control (in particular, Pascal Leclerc) from infringing the copyright and moral rights in other copyrighted works owned by the Applicant and the Class Members;
+Aggregate damages (i.e., assessed on a class wide basis) as follows:
+Statutory damages in an amount of not less than $10,000,000;
+Damages for infringement of moral rights in an amount of not less than $100,000,000;
+Aggravated damages in an amount of not less than $10,000,000;
+Punitive damages in an amount of not less than $5,000,000; and
+Directions for costs and payment to Class Members.
+V.
+The Issues
+[30]
+The common questions which were certified and must be determined are:
+Did the Respondent infringe the copyright and moral rights of the Class members when it reproduced the obituaries and/or photographs on the Domain (afterlife.co/ca) without permission?
+Are the Class members entitled to injunctive relief as against the Respondent?
+Can monetary relief be measured on an aggregate, Class-wide basis and, if so, what is the amount of aggregate monetary relief?
+Should punitive and/or aggravated damages be awarded against the Respondent and, if so, in what amount?
+[31]
+Given that Afterlife has not taken part in the proceedings, the Application is analogous to a default judgment. The Applicant must establish the infringement and entitlement to the relief sought on a balance of probabilities.
+[32]
+As noted by Justice Rennie in Cuzzetto v Business in Motion International Corporation, 2014 FC 17 at para 4, 445 FTR 261 [Cuzzetto]:
+On a motion for default judgment where no defence has been filed, every allegation in the statement of claim must be taken as denied. Evidence must be led that enables the Court to find, on a balance of probabilities, that there is liability and that the plaintiff is entitled to the remedies sought.
+VI.
+The Obituaries and Photographs Are Original Works
+[33]
+In CCH Canadian Ltd v Law Society of Upper Canada, 2004 SCC 13, [2004] 1 SCR 339, the Supreme Court of Canada explained at para 25:
+For these reasons, I conclude that an “original” work under the Copyright Act is one that originates from an author and is not copied from another work. That alone, however, is not sufficient to find that something is original. In addition, an original work must be the product of an author’s exercise of skill and judgment. The exercise of skill and judgment required to produce the work must not be so trivial that it could be characterized as a purely mechanical exercise. While creative works will by definition be “original” and covered by copyright, creativity is not required to make a work “original”.
+[34]
+The evidence establishes that the Applicant and other Class Members personally authored the obituaries using their own skill and judgment, choosing their own words to convey the appropriate message about the life of the deceased person and their funeral arrangements and adding a photograph taken by them or by another Class Member. Class Members also exercised their skill and judgment in taking the photographs of the deceased person. The obituaries and photographs fall within the term “original work” as it has been interpreted by the Supreme Court of Canada. As noted, the threshold to constitute originality in the work is low and creativity is not required.
+VII.
+Afterlife Infringed the Applicant’s and Class Members’ Copyright
+[35]
+Subsection 3(1) of the Copyright Act provides that copyright “means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatever,” and also includes the sole right to authorize such acts.
+[36]
+Subsection 27(1) provides that “[i]t is an infringement of copyright for any person to do, without the consent of the owner of the copyright, anything that by this Act only the owner of the copyright has the right to do.”
+[37]
+The postings on Afterlife’s website provide evidence that it reproduced the original works. The evidence provided by the Applicant and Class Members establishes that they did not give permission to Afterlife to do so. The evidence also establishes that some Class Members asked Afterlife to remove their original works. Afterlife removed some but refused to remove others. Afterlife did not take any steps to remove all the content or to seek permission from the authors once concerns were brought to its attention. Afterlife shut down the website only after the Applicant launched this Application. The evidence also establishes that the director of Afterlife then set up another obituary website.
+[38]
+The Court finds that Afterlife has infringed the Applicant’s and Class Members’ copyright in the original works.
+[39]
+Section 28.2 of the Copyright Act provides that moral rights to the integrity of a work are infringed where the author’s honour or reputation is prejudiced by the distortion or modification of the original work or by using the work in association with a product, service, cause or institution.
+[40]
+The Applicant points to Snow v Eaton Centre Ltd, [1982] OJ No 3645, 70 CPR (2d) 105 (Ont H Ct J) [Snow], where the Court found that the adornment of a sculpture of Canada geese with Christmas themed ribbons modified and distorted the artist’s work and was a breach of the artist’s moral rights. The Court stated at para 5, “I believe the words "prejudicial to his honour or reputation" in s. 12(7) involve a certain subjective element or judgment on the part of the author so long as it is reasonably arrived at” (referring to the relevant provision of the former Copyright Act, RSC 1970, c C-30). The Court noted that the plaintiff’s view was shared by several other artists, although it was “not undisputed” (Snow at para 6). The Court concluded that the adornment of the geese would be prejudicial to the artist’s honour or reputation and ordered that the ribbons be removed.
+[41]
+The interpretation of section 28.2 has been the subject of more recent jurisprudence, including in this Court, which highlights that there is both a subjective and objective aspect to the test to establish infringement of moral rights.
+[42]
+In Maltz v Witterick, 2016 FC 524, [2016] FCJ No 484 (QL) [Maltz], Justice Boswell noted the requirements to establish breach of moral rights at para 49:
+[49]  Section 28.2 of the Act provides that an author’s right to the integrity of a work is infringed “only if” the work is, to the prejudice of its author’s honour or reputation, (a) “distorted, mutilated or otherwise modified” or, absent authorization from the author, (b) “used in association with a product, service, cause or institution.” The courts have acknowledged that the concept of moral rights has not only a highly subjective aspect, which in practice only the author can prove, but an objective one as well. In Prise de parole Inc. v Guérin Éditeur Ltée, (1995), 66 CPR (3d) 257 (appeal dismissed (1996), 73 CPR (3d) 557 (FCA)), Justice Denault stated (at para 26) that, in addition to an author’s own subjective evidence as to how his or her honour or reputation has been affected: “the assessment of whether a distortion, mutilation or other modification is prejudicial to an author’s honour or reputation also requires an objective evaluation of the prejudice based on public or expert opinion.”
+[43]
+In Maltz, Justice Boswell found that there was little relevant evidence of how the Applicant’s honour or reputation had been affected. Justice Boswell highlighted, at para 51, that no expert or public opinion evidence had been provided to satisfy the objective aspect of the criteria and concluded that the claim for infringement of moral rights failed on this basis alone.
+[44]
+More recently, in Collett v Northland Art Company Canada Inc, 2018 FC 269, [2018] FCJ No 349 (QL) [Collett], Justice Gleeson noted, at para 22:
+The jurisprudence recognizes that an author’s right to the integrity of a work includes not only a highly subjective aspect, which the author of the work must establish, but also an objective element requiring evaluation of the prejudice to that author’s honour or reputation based on public or expert opinion (FRAGMENT_SUPPRESSED).
+[45]
+The evidence establishes that Afterlife associated the original works with a product or service, even though there was little connection between the two, by adding the sale of ads, flowers and candles to the pages displaying obituaries. Clearly the original works have been used in association with these products.
+[46]
+The evidence of Class Members, provided by way of affidavits, describes in detail the emotional impact of Afterlife’s conduct on them. The Applicant described that she felt the association of her original work with sales prejudiced her honour and reputation. The Applicant and Class Members, among other concerns, were mortified that others would think that they were profiting from their bereavement. The Applicant and Class Members have established the subjective aspect of the test.
+[47]
+The Applicant argued that honour is based on self-perception, while reputation is adjudged by others, and noted that section 28.2 speaks to prejudice to honour or reputation. The Applicant also argued that significant weight should be given to the author’s view whether prejudice has occurred. However, the jurisprudence has established that there is both a subjective and objective element to establishing that the author’s honour or reputation has been prejudiced. In other words, it is not only prejudice to reputation that requires objective evidence. The author of the original works must, therefore, establish not only their own subjective view that their honour or reputation has been prejudiced but also provide objective evidence of the prejudice. Although the Applicant is sincere in her belief that both her honour and reputation have been prejudiced, no objective evidence has been provided, such as public opinion or expert evidence. All the evidence describes the Class Members’ own view of the impact on their dignity and the dignity of their deceased loved ones. I have not been directed to any authority, nor have I found any, that suggests that the Court can make its own determination regarding prejudice to honour or reputation without objective evidence.
+[48]
+Therefore, the Court cannot find that Afterlife has infringed the moral rights of the Applicant and Class Members.
+VIII.
+An Injunction is Warranted
+[49]
+An injunction is a normal remedy for copyright infringement, in accordance with section 34 of the Copyright Act. An injunction is warranted to stop Afterlife from continuing to infringe the Class Members’ rights in the original works. Afterlife refused some families’ requests to remove obituaries and did not take the website down until this Application was filed. I agree that the injunction should also name Mr. Leclerc, who is the director of Afterlife and has continued to post obituaries at his new website, Everhere.
+IX.
+A Wide Injunction is not Warranted
+[50]
+Section 39.1 of the Copyright Act expands the scope of injunctions. Subsection 39.1(1) provides that when granting an injunction for copyright infringement, the court may also grant a wide injunction to enjoin the defendant from infringing the copyright in any other works if (a) the plaintiff is the copyright owner and (b) the plaintiff satisfies the court that the defendants will likely infringe the copyright in those other works without such an injunction.
+[51]
+The onus is clearly on the party seeking the injunction to demonstrate that the infringer will likely infringe the copyright in other works. Wide injunctions have been awarded where the likelihood of continued infringement was demonstrated (Nintendo of America Inc v King, 2017 FC 246 at paras 175-177, [2018] 1 FCR 509) and refused where the Court was not satisfied of the likelihood (Interbox Promotion Corp v 9012-4314 Québec Inc, 2003 FC 1254 at para 67, 2003 FCT 1254).
+[52]
+Although the Applicant submits that a wide injunction is tailor-made for this type of case, the Applicant has not directed the Court to any cases similar to the present circumstances where a wide injunction was ordered.
+[53]
+Section 39.1 permits the Court to enjoin the same defendant from infringing other works, including works that did not exist when the proceedings commenced. However, those other works must be the works of the same plaintiff. In this case, a wide injunction would only enjoin Afterlife and Mr. Leclerc from infringing other works of the Applicant and Class Members. The Court has no evidence that there are other works by the same Class Members or that there will be other works by the same Class Members. The Court must also be satisfied that Afterlife is likely to infringe the other works of the Class Members. While Mr. Leclerc’s creation of another obituary website suggests that he is inclined to repeat a similar type of conduct, whether he will likely infringe the works of Class Members remains speculative, as does the notion that the same Class Members will author obituaries in the future.
+[54]
+The Court is not satisfied that a wide injunction is justified or would be practical. The injunction ordered pursuant to section 34, which is also directed against Mr. Leclerc, coupled with the award of statutory damages and aggravated damages should provide a sufficient deterrent.
+X.
+Statutory and Other Damages
+[55]
+Section 34 of the Copyright Act provides that damages are a remedy for infringement. In class proceedings, Rule 334.28 of the Federal Courts Rules, SOR/98-106 provides that a judge may make any order in respect of the assessment of monetary relief due to a class, including aggregate assessments.
+[56]
+The only evidence available, which is based on Afterlife’s own statement, is that approximately two million infringements occurred, because Afterlife posted over one million Canadian obituaries and a sample indicated that most were accompanied by a photograph. The Applicant submits that there are thousands of Class Members; however, the precise size of the Class is not known.
+[57]
+As noted in Cuzzetto at para 103:
+Aggregate damage awards are available even if identifying class members who would be entitled to an award would be impractical or would require a case-by-case analysis. As explained by the Ontario Court of Appeal in Markson v MBNA Canada Bank, 2007 ONCA 334 (Leave to appeal refused 32134, November 15, 2007), at para 48:
+[…] where the court makes an aggregate assessment, but the circumstances render impracticable the determination of those class members entitled to share in the award or the exact share that should be allocated to particular class members, the court should be empowered to order that the members of the class are entitled to share in the award on an average or proportional basis where the failure to do so would deny recovery to a substantial number of class members who have been injured. An aggregate assessment of damages is appropriate in this case. Identifying the potential thousands of Class Members who would be entitled to an award would be impractical and assessing individual damages would require a case-by-case analysis. An aggregate award is based on a reasonable estimation of loss and avoids individual assessments.
+[58]
+The Respondent’s choice not to participate in these proceedings does not defeat the Applicant’s claim for damages. In Cuzzetto, the Court noted at para 109:
+Notwithstanding the concerns noted, it would be contrary to the objectives of class proceedings, and indeed, defeat the intent of justice, to limit the aggregate award by reason of the defendants’ failure to appear. As noted, an un-cooperative defendant should not be able to defeat or limit an otherwise legitimate claim. Aggregate awards, by their very nature, are not exacting, and are based on some reasonable estimation of loss.
+[59]
+The Court has discretion in assessing how damages should be aggregated. Compensatory damages may be a combination of damages for copyright infringement, damages for moral rights infringement, and aggravated damages. Aggregate damages are appropriate in this case given that assessing the individual damages of the Class Members, which may include over one thousand people, would be impractical, among other reasons.
+A.
+Statutory Damages
+[60]
+The Applicant has elected an award of statutory damages.
+[61]
+Subsection 38.1(1)( a) provides:
+38.1 (1) Subject to this section, a copyright owner may elect, at any time before final judgment is rendered, to recover, instead of damages and profits referred to in subsection 35(1), an award of statutory damages for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally,
+38.1 (1) Sous réserve des autres dispositions du présent article, le titulaire du droit d’auteur, en sa qualité de demandeur, peut, avant le jugement ou l’ordonnance qui met fin au litige, choisir de recouvrer, au lieu des dommages-intérêts et des profits visés au paragraphe 35(1), les dommages-intérêts préétablis ci-après pour les violations reprochées en l’instance à un même défendeur ou à plusieurs défendeurs solidairement responsables :
+(a) in a sum of not less than $500 and not more than $20,000 that the court considers just, with respect to all infringements involved in the proceedings for each work or other subject-matter, if the infringements are for commercial purposes; and
+a) dans le cas des violations commises à des fins commerciales, pour toutes les violations — relatives à une œuvre donnée ou à un autre objet donné du droit d’auteur —, des dommages-intérêts dont le montant, d’au moins 500 $ et d’au plus 20 000 $, est déterminé selon ce que le tribunal estime équitable en l’occurrence;
+(b) in a sum of not less than $100 and not more than $5,000 that the court considers just, with respect to all infringements involved in the proceedings for all works or other subject-matter, if the infringements are for non-commercial purposes.
+b) dans le cas des violations commises à des fins non commerciales, pour toutes les violations — relatives à toutes les œuvres données ou tous les autres objets donnés du droit d’auteur —, des dommages-intérêts, d’au moins 100 $ et d’au plus 5 000 $, dont le montant est déterminé selon ce que le tribunal estime équitable en l’occurrence.
+[62]
+Subsection 38.1(5) sets out factors for the Court to consider in exercising its discretion to award statutory damages. The relevant factors to consider in this case include the good faith or bad faith of the respondent, the conduct of the parties before and during the proceedings, and the need to deter other infringements of the copyright in question. These factors fully support an award of statutory damages. The infringements were for a commercial purpose. Afterlife’s goal is to profit by using the obituaries without the owners’ permission. Afterlife refused to remove some obituaries upon requests to do so and shut down the website only after this Application was served and filed.
+[63]
+In this case, if the Court were to award the lowest amount of $500 per infringement and apply this amount to the estimate of approximately two million infringements—which is based on the only evidence before the Court, Afterlife’s own statement regarding its archives—the statutory damages would amount to $1 billion. In these circumstances, such an amount would be grossly disproportionate. A more reasonable amount must be determined in accordance with paragraph 38.1(3)(b).
+[64]
+The Applicant seeks $10,000,000, which reflects a much lesser amount per work infringed. The Applicant submits that this amount is reasonable and conservative relative to the amounts to which each Class Member may be entitled. The total amount of damages to be paid by Afterlife must still yield a just result (Colette at para 59, citing Telwizja Polsat SA v Radiopol Inc, 2006 FC 584 at para 37, [2006] FCJ No 738 (QL)). The Court agrees with the Applicant’s submission that $10,000,000 is a just and appropriate amount of statutory damages in the particular circumstances.
+B.
+Damages for Moral Rights Infringement
+[65]
+As found above, the Court cannot find that the moral rights of the Applicant and Class Members have been infringed and, therefore, no damages are awarded.
+C.
+Aggravated Damages
+[66]
+The Applicant also seeks an award of not less than $10,000,000 for aggravated damages to compensate her and Class Members for the intangible injuries, such as distress and humiliation, caused by Afterlife’s conduct.
+[67]
+In Bauer Hockey Corp v Sport Maska Inc, 2014 FCA 158 at para 23, [2014] FCJ No 646 (QL) [Bauer Hockey], the Federal Court of Appeal explained the role of aggravated damages in the context of trademark infringement, which would also apply in the present context given that the principles are derived from the law of damages in general. The Court of Appeal stated at para 23:
+Aggravated damages will frequently cover conduct that could also be the subject of punitive damages, but the role of aggravated damages remains compensatory, and they usually are awarded to take account of intangible injuries so as to augment damages assessed under the general rules relating to the assessment of damages. Aggravated damages are thus compensatory in nature and may only be awarded for that purpose: Vorvis at pp. 1097 to 1099; Hill at paras. 188 to 191. They may be awarded in cases where the defendant’s conduct has been particularly high-handed or oppressive, thereby increasing the plaintiff’s humiliation and anxiety: Lubrizol pp. 17-18 of the C.P.R. ed.
+[Emphasis in original]
+[68]
+The Applicant acknowledges that the obituaries have personal value but no commercial value (although Afterlife found commercial value by adding sales and advertisements). The impact described by the Applicant and Class Members—that they felt exploited, outraged and disgusted, and also that they were mortified that others may think they sought to profit from their family member’s death—shows that they do not seek to profit. Financial gain is not the motivation for this action. Quantifying the compensatory damages for the intangible injuries suffered by the Applicant and Class Members is a challenge. This is exacerbated by the unknown size of the Class, which could be in the thousands. Regardless of these unique circumstances, aggravated damages are warranted.
+[69]
+As the Applicant stated, Afterlife took advantage of her at her most vulnerable time of grief. She expressed anger and stress as a result of her original works being used on Afterlife’s website and embarrassment that someone might believe that she tried to profit from her father’s death. Other Class Members described their intangible injuries which included a range of emotions and impact; they were sick to their stomach, saddened, mortified and angry.
+[70]
+The impact of Afterlife’s conduct on Class Members has been significant. The evidence establishes that the conduct of Afterlife has been high handed, to say the least, particularly given Afterlife’s reluctance to remove the obituaries, its assertion of its own copyright in the original works pirated from the Class Members, and in its apparent callousness regarding the impact on the Class Members.
+[71]
+Given the potential size of the class and the pro-rated distribution of any amounts recovered, none of the Class Members will truly be adequately compensated. But, as noted, they are not motivated by financial gain. Aggravated damages in the amount of $10,000,000 are justified and are awarded.
+D.
+Punitive Damages
+[72]
+The Applicant seeks an additional award of not less than $5,000,000 in punitive damages.
+[73]
+The jurisprudence has established that punitive damages are not intended to compensate, but to punish. However, punitive damages remain exceptional and are awarded only where the compensatory damages and other remedies are not sufficient to denounce the infringing conduct.
+[74]
+In Whiten v Pilot Insurance Co, 2002 SCC 18 at para 36, [2002] 1 SCR 595 [Whiten], the Supreme Court of Canada explained that punitive damages are awarded where a party’s conduct has been malicious, oppressive and highhanded and offends the court’s sense of decency. The Court stated that the test “limits the award to misconduct that represents a marked departure from ordinary standards of decent behaviour” (Whiten at para 36). If all other penalties have been taken into account and found to be inadequate to accomplish the objectives of retribution, deterrence, and denunciation, punitive damages may be awarded (Whiten at para 123). More reprehensible conduct points to a greater need for denunciation (Whiten at paras 112-113).
+[75]
+In Bauer Hockey, the Federal Court of Appeal also explained the law on punitive damages, reiterating the principles established by the Supreme Court of Canada, at paras 19, 20 and 26:
+[19] Punitive damages, as the name indicates, are designed to punish. As a result they constitute an exception to the general rule, in both common law and civil law, that damages are designed to compensate the injured, not to punish the wrongdoer. Punitive damages may be awarded in situations where the defendant’s misconduct is so malicious, oppressive and high-handed that it offends the court’s sense of decency. Punitive damages bear no relation to what the plaintiff should receive by way of compensation. Their aim is not to compensate the plaintiff, but rather to punish the defendant. It is the means by which the court expresses its outrage at the egregious conduct of the defendant where the defendant’s conduct is truly outrageous. Punitive damages are in the nature of a fine, which is meant to act as a deterrent to the defendant and to others from acting in the impugned manner: Hill v. Church of Scientology of Toronto, [1995] 2 S.C.R. 1130 at paras. 196 to 199 (Hill); Whiten v. Pilot Insurance Co., 2002 SCC 18, [2002] 1 S.C.R. 595 (Whiten) at para. 36.
+[20] The level of blameworthiness of the defendant's conduct leading to punitive damages may be influenced by many factors, which include (a) whether the misconduct was planned or deliberate; (b) the intent and motive of the defendant; (c) whether the defendant persisted in the outrageous conduct over a lengthy period of time; (d) whether the defendant concealed or attempted to cover up its misconduct; (e) the defendant's awareness that what it was doing was wrong; (f) whether the defendant profited from its misconduct; and (g) whether the interest violated by the misconduct was known to be deeply personal to the plaintiff: Whiten at para. 113.
+[…]
+[26] Punitive damages “are very much the exception rather than the rule” and “should be resorted to only in exceptional cases and with restraint”: Whiten at paras. 94 and 69. Such damages should only be awarded where the evidence shows that there has been high-handed, malicious, arbitrary or highly reprehensible conduct that departs to a marked degree from the ordinary standards of decent behaviour. This is a high threshold that considerably limits the circumstances in which punitive damages may be awarded: Eurocopter FCA at para. 184.
+[Emphasis in original]
+[76]
+In a recent application of these principles, in Collett, Justice Gleeson noted at para 71:
+71  Punitive damages should only be awarded where all other damages have been taken into account and the Court concludes those damages are “inadequate to accomplish the objectives of retribution, deterrence and denunciation” (Whiten at para 123).
+[77]
+I agree with the Applicant that Afterlife’s conduct, aptly characterized as “obituary piracy”, is high-handed, reprehensible and represents a marked departure from standards of decency. The factors noted in Bauer Hockey with respect to the blameworthiness of Afterlife’s conduct suggest that punitive damages should be imposed. However, punitive damages are exceptional and the high threshold for their imposition has not been met in this case. The injunction, coupled with the imposition of a $20,000,000 award against Afterlife (representing statutory damages of $10,000,000 and aggravated damages of $10,000,000) should be sufficient to denounce and deter Afterlife’s conduct.
+XI.
+Conclusion
+[78]
+In conclusion the common questions are answered as follows:
+The Respondent infringed the copyright of the Class members when it reproduced the obituaries and/or photographs on the Domain (afterlife.co/ca) without permission;
+The Applicant has not established that the Respondent has infringed the moral rights of the Applicant and Class Members;
+The Class Members are entitled to injunctive relief in accordance with section 34 against Afterlife and Mr. Pascal Leclerc;
+Aggregate damages on a class wide basis are appropriate and are awarded in the amount of $20,000,000, representing:
+statutory damages in the amount of $10,000,000; and
+aggravated damages in the amount of $10,000,000.
+Punitive damages are not awarded against the Respondent.
+[79]
+The Applicant acknowledges that any amounts recovered in satisfaction of the judgment will be held in trust by Class Counsel. Class Counsel will bring a motion to this Court for further Orders and Directions regarding the administration and distribution of the amounts collected to Class Members and the payment to Class Counsel.
+JUDGMENT in T-38-18
+THIS COURT’S JUDGMENT is that:
+The Respondent has infringed the Applicant’s and the Class Members’ copyright in their original works, which include obituaries authored and photographs taken by the Applicant and Class Members.
+The Respondent and its officers and directors, including, but not limited to, Mr. Pascal Leclerc, and all others over whom the Respondent exercises control shall be permanently enjoined from infringing the copyright of the Applicant and Class Members in the original works.
+The Respondent shall forthwith pay the amount of $20,000,000 as aggregated damages, representing:
+statutory damages of $10,000,000 under section 38.1 of the Copyright Act, RSC 1985, c. C-42; and
+aggravated damagesof $ 10,000,000.
+The Respondent shall pay the costs of the Applicant and Class Members in an amount to be determined by the Court.
+Any amounts paid by the Respondent in satisfaction of this Judgment shall be held in trust by Class Counsel.
+Class Counsel shall seek the Direction of the Court with respect to the administration of any amounts recovered from the Respondent in satisfaction of this Judgment, distribution to Class Members, and payment of Class Counsel’s fees.
+"Catherine M. Kane"
+Judge
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET:
+T-38-18
+STYLE OF CAUSE:
+DAWN THOMSON v AFTERLIFE NETWORK INC., (O/A AFTERLIFE.CO)
+PLACE OF HEARING:
+ottawa, ontario
+DATE OF HEARING:
+February 12, 2019
+REASONS FOR JUDGMENT AND JUDGMENT:
+KANE J.
+DATED:
+may 1, 2019
+APPEARANCES:
+Erin Best
+Trent Horne
+For The Applicant
+SOLICITORS OF RECORD:
+Stewart McKelvey
+Barristers and Solicitors
+St. John’s, Newfoundland
+Aird & Berlis LLP
+Toronto, Ontario
+For The Applicant

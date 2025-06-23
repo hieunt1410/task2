@@ -1,0 +1,132 @@
+[1]
+Tremblay-Lamer, J.
+[Translation]: In a judgment released on December 17, 2004, I awarded the plaintiff $35,792 plus interest and indemnity against the defendant for its wrongful dismissal of the plaintiff. Following my direction, the parties filed written submissions with the Court regarding costs.
+[2]
+The defendant is seeking costs on a party-and-party basis payable by the defendant to March 16, 2004, the date of service of an offer to settle made by the defendant; and, double such costs, excluding disbursements, payable by the plaintiff to the defendant, subsequent to March 16, 2004. The plaintiff refutes the defendant's entitlement to double costs, seeking costs as the party who succeeded in establishing that the plaintiff was wrongfully dismissed.
+[3]
+Sections 400 and 420 of the
+Federal Courts Rules, 1998
+, SOR/98-106, are the pertinent provisions for the determination of this issue. In view of the evidence presented by the plaintiff, I find it convenient to deal with the application of paragraph 420(2)(a) of the
+Rules
+to the case at bar first. It reads as follows:
+"420(2)
+Unless otherwise ordered by the Court
+, where a defendant makes a written offer to settle
+that is not revoked
+,
+(a) if the plaintiff obtains a judgment
+less favourable
+than the terms of the offer to settle, the plaintiff shall be entitled to party-and-party costs to the date of service of the offer and the defendant shall be entitled to double such costs, excluding disbursements, from that date to the date of judgment;" (Emphasis added)
+[4]
+From the wording of s. 420(2) of the
+Rules
+, it is clear that two preconditions must be met before the Court decides to exercise its discretion [see footnote 1] and award double costs to the defendant; namely, the offer must have been made in writing and it must not have been revoked:
+Halford v. Seed Hawk Inc.
+, [2004] F.C.J. No. 1541; 253 F.T.R. 122 (F.C.);
+Francosteel Canada Inc. v. Ship African Cape et al.
+, [2003] 4 F.C. 284; 301 N.R. 313; 2003 FCA 119;
+671905 Alberta Inc. et al. v. Q'Max Solutions Inc.
+, [2002] F.C.J. No. 1765; 225 F.T.R. 300; 2002 FCT 1293.
+[5]
+The defendant submits that its offer to settle dated March 16, 2004, later modified on September 20, 2004, (but remaining essentially the same) was reasonable and indicated a willingness to avoid lengthy litigation. Further, the plaintiff acted unreasonably having made no settlement offer of his own and insisting on reinstatement. The defendant also submits that its offer, as expressed on March 16 and September 20, 2004, was manifestly superior to the remedy ordered by this Court and that paragraph 420(2)(a) of the
+Rules
+should therefore apply.
+[6]
+I do not agree with the defendant. To begin, there is evidence that the offers to settle made by the defendant were revoked on September 24, 2004. In a letter sent by fax, counsel for the defendant informed the plaintiff of the following:
+(Translation) "Please note that FINTRAC hereby withdraws all offers to settle previously made in the above-mentioned file; namely, the offers made in our letters dated September 20, 2004, March 16, 2004, and November 17, 2003."
+[7]
+This is a clear revocation. The defendant nevertheless contends that the offers to settle remained open within the meaning of s. 420(2) of the
+Rules
+. I cannot agree with this argument.
+[8]
+While the authorities may be unclear as to precisely when the offer must not have been revoked by, [see footnote 2] regardless of whether the above revocation occurred on the date the letter was written (September 24, 2004) or on the date it was faxed (October 13, 2004), the revocation took place prior to the hearing (November 19, 2004) and, of course, prior to the date of judgment (December 17, 2004).
+[9]
+Thus one of the two preconditions for awarding double costs pursuant to paragraph 420(2)(a) of the
+Rules
+has not been met.
+[10]
+I am also not persuaded that the judgment rendered was "less favourable" to the plaintiff in comparison to the offer made. In monetary terms, the award of damages was equivalent to four month's salary whereas the offer to settle made by the defendant was equivalent to six months of salary. However, whether the judgment was more or less favourable to the plaintiff can encompass non-pecuniary considerations. [see footnote 3] Although the defendant offered to provide the plaintiff with a reference letter in its settlement offers, presumably this would not go nearly as far in terms of mitigating the harm to the plaintiff's reputation as a finding that he was wrongfully dismissed. In this sense, the judgment rendered, despite awarding less in monetary compensation than the offers to settle, may actually have been more favourable to the plaintiff. Although unnecessary in view of the fact that the offers to settle had been revoked prior to judgment, I would deny the application of paragraph 420(2)(a) of the
+Rules
+on this basis as well.
+[11]
+The costs award in this case must then derive from s. 400(1) of the
+Rules
+, which gives the Court "full discretionary powers over the amount and allocation of costs and the determination of by whom they are to be paid." The award is based on any number of factors, which s. 400(3) of the
+Rules
+states "may" be considered. [see footnote 4] The relevant factors in this case are underscored below:
+"400(3) In exercising its discretion under subsection (1), the Court
+may
+consider
+(a)
+the result of the proceeding
+;
+(b)
+the amounts claimed and the amounts recovered
+;
+(c)
+the importance and complexity of the issues
+;
+(d) the apportionment of liability;
+(e)
+any written offer to settle
+;
+(f) any offer to contribute made under rule 421;
+(g)
+the amount of work
+;
+(h) whether the public interest in having the proceeding litigated justifies a particular award of costs;
+(i)
+any conduct of a party that tended to shorten or unnecessarily lengthen the duration of the proceeding
+;
+(j) the failure by a party to admit anything that should have been admitted or to serve a request to admit;
+(k) whether any step in the proceeding was
+(i) improper, vexatious or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution;
+(l) whether more than one set of costs should be allowed, where two or more parties were represented by different solicitors or were represented by the same solicitor but separated their defence unnecessarily;
+(m) whether two or more parties, represented by the same solicitor, initiated separate proceedings unnecessarily;
+(n) whether a party who was successful in an action exaggerated a claim, including a counterclaim or third party claim, to avoid the operation of rules 292 to 299; and
+(o)
+any other matter that it considers relevant
+."
+[12]
+In the case at bar, the plaintiff was only partially successful on the merits of his claim against his former employer. While the Court did not see fit to order reinstatement and the award of damages was significantly less than the quantum claimed, the Court did find that the plaintiff was wrongfully dismissed, thus rehabilitating, at least to some extent, the plaintiff's reputation and integrity.
+[13]
+Secondly, the case was not overly complex. The conclusions reached hinged mostly on the evidence concerning when and how the relationship between the plaintiff and a subordinate employee commenced and the events that occurred thereafter.
+[14]
+Thirdly, the defendant made offers to settle but none sought to address the key harm the plaintiff alleged to have suffered: harm to his reputation and integrity. Perhaps this was something the defendant could not undo. In any event, in these circumstances, it was not unreasonable for the plaintiff to proceed to a hearing in an attempt to clear his name.
+[15]
+Fourthly, the parties were generally able to collaborate in preparation for the proceeding even though extra time was needed for the cross-examination of the plaintiff. It is true that the plaintiff was somewhat evasive in his responses to certain questions, this is in part due to the particularly sensitive and personal nature of the case. It is also noteworthy that by modifying its stated reason for dismissing the plaintiff from the fact of his relationship with another employee to his delay in disclosing that relationship and his role in her promotion, the defendant also added time and expense to the proceeding.
+[16]
+Consequently, on balance, I am satisfied that the costs should be awarded entirely to the plaintiff in accordance with column III of the table to Tariff B of the
+Federal Court Rules
+, 1998
+.
+ORDER
+[17]
+THE COURT ORDERS that costs be awarded to the plaintiff in accordance with column III of Tariff B of the
+Federal Courts Rules, 1998
+.
+Order accordingly.
+Editor: Giovanni A. Merlini/gs
+Footnotes
+1. It is worth noting that the opening words of s. 420(2) of the
+Rules
+- "unless otherwise ordered by the Court" - confer a measure of discretion on the Court: see
+Canadian Olympic Association v. Olymel, Sociétéen en Commandite et al.
+(2000), 195 F.T.R. 216 (T.D.), at paragraphs 14 and 15.
+2. In
+Francosteel
+, supra, Létourneau, J.A., in a concurring opinion, wrote that the offer must remain open until the date of the judgment, whereas in
+FRAGMENT_SUPPRESSED 220 F.T.R. 60; 19 C.P.R.(4th) 524 (T.D.), affd. [2002] N.R. Uned. 261; [2002] F.C.J. No. 1603 (F.C.A.), MacKay, J., opined that an offer to settle remaining open only until the commencement of trial was not revoked within the meaning of s. 420(2) of the
+Rules
+.
+3. For example, in
+Monsanto
+, supra, MacKay, J., entertained the suggestion that because the judgment found infringement and set out the
+basis for that determination
+, it was more favourable than the offer to settle. MacKay, J., however, rejected the argument because the offer to settle recognized that certain claims of the patent at issue had been infringed. Still, this supports the notion that such substantive findings, quite apart from the quantum of the damages award, can make a judgment more or less favourable vis-à -vis an offer to settle, depending on the terms of that offer.
+4. Notwithstanding this wording, I should note that the Federal Court of Appeal has said in the past "that all of the relevant factors
+must
+be considered in deciding the quantum of costs":
+Francosteel
+, supra, at paragraph 20.

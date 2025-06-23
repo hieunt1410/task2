@@ -1,0 +1,15 @@
+[191]
+The meaning of "action" and "prosecute the application" are important to understanding section 30(1). Section 45 of the
+Patent Rules
+, C.R.C., 1978, vol. XIII, c. 1250 reads:
+"(1) In this section and in sections 46 to 49,
+'action' means a report of an examiner making a requirement upon the applicant.
+"(2) The Commissioner shall give written notice to the applicant of the grounds of an action taken by the examiner, which notice and action may be withdrawn by the Commissioner by giving written notice to the applicant of such withdrawal.
+"(3) An application shall be deemed to be prosecuted after an action thereon by an examiner only when, in
+answer to the action, the applicant makes a bona fide attempt to advance the application to allowance.
+" (Emphasis added.)
+"(1) Dans le présent article et dans les articles 46 à 69, le mot
+'décisions' signifie le rapport d'un examinateur qui impose une exigence au demandeur
+.
+"(2) Le commissaire doit aviser le demandeur par écrit des motifs qui ont inspiré la décision de l'examinateur, et le commissaire peut se désister de cet avis et de cette décision en donnant avis par écrit au demandeur d'un tel désistement.
+"(3) Après qu'une demande a fait l'objet d'une décision de l'examinateur, ladite demande n'est censée être poursuivie que lorsque, en réponse à la décision rendue, le demandeur tente de bonne foi de faire accepter sa demande."

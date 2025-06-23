@@ -1,0 +1,180 @@
+[1]
+Martineau, J.
+: The present file originated by way of an appeal from a decision of the Canadian International Trade Tribunal (the "CITT") pursuant to s. 81.19 of the
+Excise Tax Act
+, R.S.C. 1985, c. E-15 (the "
+Act
+"). However, the present decision relates to a request for the determination of a preliminary question of law pursuant to paragraph 17(3)(b) of the
+Federal Court Act
+, s. 81.37 of the
+Act
+, and Rule 220(1)(a) of the
+Federal Court Rules, 1998
+, on the basis of the Agreed Statement of Fact filed with the court on October 31, 2001.
+AGREED FACTS
+[2]
+The plaintiff, W. Ralston (Canada) Inc., is a federally incorporated company whose head office is located in Montreal in the Province of Quebec.
+[3]
+The defendant, Her Majesty the Queen in Right of Canada, is represented by the Minister of National Revenue (Canada Customs and Revenue Agency since November 1, 1999) in this action.
+[4]
+The plaintiff's business involves the manufacture of various construction materials, including vapour barriers. The plaintiff was licensed at all material times, as a manufacturer for Federal Sales Tax (the "FST") purposes under the
+Act
+.
+[5]
+By way of Refund Claim No. 033354 dated January 21, 1988 (the "Refund Claim"), the plaintiff filed, on the prescribed form (N-15), an application for refund of FST paid in error in the amount of $107,682.75. The only reason provided for the refund was "allowable credits in assessment; error in assessment".
+[6]
+By Notice of Determination dated May 6, 1988, under number MTL 42112, a representative of the defendant disallowed the plaintiff's Refund Claim without performing an audit as to the amount potentially recoverable.
+[7]
+The plaintiff filed a Notice of Objection dated May 26, 1988, to the Notice of Determination. The only reason provided for the objection was "as per S. 51.1 paragraphs 6 to 9 of the Canadian Sales Tax Guide, please apply any allowable credits against previous tax assessment as originally requested on Form N-15 033354, and refused on Notice of Determination (refund) MTL 42112".
+[8]
+The Refund Claim and Notice of Objection did not specify that the plaintiff was requesting a refund of FST with respect to the plaintiff's sale of vapour barriers.
+[9]
+By Notice of Decision No. 80233RE dated September 25, 1992, the plaintiff's objection was allowed in part and the Notice of Determination was varied. The plaintiff was allowed the amount of $677.32, which represented an amount found to have been paid in error as a result of a failure to deduct transportation costs.
+[10]
+The plaintiff appealed the Notice of Decision to the CITT pursuant to s. 81.19 of the
+Act
+. By a decision dated July 26, 1995, the CITT dismissed the appeal on the ground that the plaintiff was supposed to serve a Notice of Objection to the assessment. Furthermore, the CITT pointed out that there was nothing in the appeal record to suggest that the defendant's determination was incorrect.
+[11]
+On October 6, 1995, the plaintiff appealed the CITT's decision and commenced the present action by filing a Statement of Claim. According to the plaintiff's Statement of Claim the plaintiff's appeal should be allowed on the following grounds:
+a) Application for Refund Number 033354 is valid under the
+Act
+; and
+b) FST was paid in error by the plaintiff because the "vapour barriers" it sold were materials for waterproofing and moisture-proofing buildings which are "construction materials" that benefit from a reduced rate of FST pursuant to ss. 50(1.1)b) and 12 of Schedule IV of the
+Act
+.
+ISSUE
+[12]
+The sole issue to be considered on this preliminary determination of law is whether or not the Refund Claim filed by the plaintiff under s. 68 of the
+Act
+on January 21, 1988, entitles the plaintiff to claim a refund with respect to FST paid in error on its sales of vapour barriers, notwithstanding the fact that the Refund Claim did not mention vapour barriers.
+[13]
+The parties have agreed that:
+a) Should this court determine that the plaintiff is entitled to a refund, pursuant to s. 68 of the
+Act
+, for FST paid in error with respect to its sales of vapour barriers for the relevant time period, the Canada Customs and Revenue Agency must conduct an audit, within a reasonable time, of the amount claimed by the plaintiff in order to determine the amount eligible for a refund; or
+b) Should this court determine that the plaintiff is not entitled to a refund, pursuant to s. 68 of the
+Act
+, for FST paid in error with respect to its sales of vapour barriers for the relevant time period, the within action would be disposed of in its entirety.
+THE PARTIES' SUBMISSIONS
+[14]
+In a nutshell, the plaintiff contends that the "object and spirit" approach to the interpretation of s. 68 of the
+Act
+should prevail. The only obligatory element in s. 68 is the filing of the formal claim and the court should give effect to the clear wording of the statute:
+Canada v. Antosko
+, [1994] 2 S.C.R. 312; 168 N.R. 16. Where FST has been paid in error, it requires the clearest of statutory language to deprive the taxpayer of the right to a refund of its own money. Since the Government is in possession of the taxes as paid in error, and since the burden to prove that the taxes were paid in error together with the amount thereof is on the taxpayer, it is in keeping with the "object and spirit" of the
+Act
+that the requirements of s. 68 are interpreted in favour of the taxpayer. The plaintiff submits that the vapour barriers, which were sold during the relevant time periods covered by the Refund Claim, were exempt from FST pursuant to s. 12 of Part I of Schedule IV to the
+Act
+. In this regard, the plaintiff contends that the Refund Claim is valid insofar that FST was paid in error with respect to vapour barriers and sold by the plaintiff during the relevant time periods covered by the Refund Claim, notwithstanding the fact that the Refund Claim did not mention vapour barriers. The plaintiff must be permitted to correct a mistake where the mistake concerns a directory provision rather than a mandatory one.
+[15]
+The defendant denies that the plaintiff is entitled to a refund of FST with respect to its sales of vapour barriers and submits that s. 68 of the
+Act
+requires that the Refund Claim specifies the error as well as the nature of the product or products for which FST has allegedly been paid in error. Limitation periods enacted by Parliament are to be strictly enforced and the court has no jurisdiction to extend or abridge them:
+Merck Frosst Canada & Co. v. Canada (Minister of National Health)
+, [2001] F.C.J. No. 336; 273 N.R. 353 (F.C.A.), at para. 4;
+Domjancic v. Minister of National Revenue
+, [1997] N.R. Uned. 40; [1997] F.C.J. No. 448 (F.C.A.), at para. 3; and
+Dawe v. Minister of National Revenue (Customs and Excise)
+(1994), 174 N.R. 1 (F.C.A.). It is submitted that s. 68 is not merely a procedure but rather a substantive limitation on an applicant's ability to recover taxes paid in error. Therefore, there is no discretion to allow an applicant to correct a mistake, and the issue of whether or not the defendant has suffered any prejudice is irrelevant. The plaintiff waited until October 1995, before filing the Statement of Claim appealing the CITT decision, to advance its claim regarding vapour barriers. This is nearly eight years after the payments were made, and well outside the limitation period provided for under s. 68 of the
+Act
+.
+[16]
+Counsel for both parties referred the court to the same CITT decisions:
+Erin Michaels MFG Inc. v. Canada (Minister of National Revenue)
+, [1997] C.I.T.T. No. 2;
+Barney Printing Ltd. v. Canada (Minister of National Revenue)
+, [2001] C.I.T.T. No. 36; and
+Scott Paper Ltd. v. Canada (Minister of National Revenue)
+, [2002] C.I.T.T. No. 25. The latter two decisions are directly relevant to the issue at bar and are treated below (at para. [24]).
+ANALYSIS
+[17]
+Section 68 of the
+Act
+reads as follows:
+"68. Where a person, otherwise than pursuant to an assessment, has paid any moneys in error, whether by reason of mistake of fact or law or otherwise, and the moneys have been taken into account as taxes, penalties, interest or other sums under this Act, an amount equal to the amount of those moneys shall, subject to this Part, be paid to that person if he applies therefor within two years after the payment of the moneys."
+"68. Lorsqu'une personne, sauf à la suite d'une cotisation, a versé des sommes d'argent par erreur de fait ou de droit ou autrement, et qu'il a été tenu compte des sommes d'argent à titre de taxes, de pénalités, d'intérêts ou d'autres sommes en vertu de la présente loi, un montant égal à celui de ces sommes doit, sous réserve des autres dispositions de la présente partie, être payé à cette personne, si elle en fait la demande dans les deux ans suivant le paiement de ces sommes."
+[18]
+The main issue is to determine if the failure to mention that FST was paid in error on the sale of vapour barriers in the Refund Claim affects the validity of the claim and if this requires the application to be filed within two years (or four years before the amendment to s. 68 of the
+Act
+) of the payment in error of the moneys.
+[19]
+The plaintiff does not deny the fact that the Refund Claim did not mention or refer to vapour barriers. Rather, the plaintiff argues that its Refund Claim is technically valid and therefore entitles it to a refund in respect of
+any amounts
+of FST overpaid by the plaintiff, including vapour barriers.
+[20]
+I cannot agree with the plaintiff's proposition. To permit a taxpayer to rely on a broadly general claim for a refund would allow him to avoid the operation of the two-year (previously four-year) limitation period found in s. 68 of the
+Act
+and would render the section devoid of any meaning. In my opinion, such an interpretation would clearly be contrary to the intent of Parliament in enacting the limitation period contained in s. 68. I therefore find that this provision commands that the "application" state the type of goods and the nature of the error. I find this latter interpretation more consistent with the object and purpose of s. 68, which must also be read in conjunction with s. 71 and s. 72(2) of the
+Act
+. These read as follows:
+"71. Except as provided in this or any other Act of Parliament, no person has a right of action against Her Majesty for the recovery of any moneys paid to Her Majesty that are taken into account by Her Majesty as taxes, penalties, interest or other sums under this Act.
+. . . . .
+"72(2) An application shall be made in the prescribed form and contain the prescribed information."
+"71. Sauf cas prévus à la présente loi ou dans toute autre loi fédérale, nul n'a le droit d'intenter une action contre Sa Majesté pour le recouvrement de sommes payées à Sa Majesté, dont elle a tenu compte à titre de taxes, de pénalités, d'intérêts ou d'autres sommes en vertu de la présente loi.
+. . . . .
+"72(2) Une demande doit être faite en la forme prescrite et contenir les renseignements prescrits."
+[21]
+In
+Dawe
+, supra, Letourneau, J.A., mentions:
+"First, a limitation period is dictated by very fundamental principles relating to an efficient and proper administration of justice. Litigation has to come to an end so that judgments and decisions can be enforced. Limitation periods are designed to achieve that end and cannot be ignored. Nor, as I have already pointed out, can they be waived or extended in the absence of a clear statutory provision:
+Rules of Court
+cannot be used to enlarge or abridge the time prescribed by a statute. (
+Duzs v. Duzs
+, [1973] 3 W.W.R. 394 (Alta. C.A.);
+Fair v. Toronto (City)
+, [1930] 3 D.L.R. 76 (Ont. C.A.)).
+"Second, the limitation period in the present case, to wit 90 days, is a long and reasonable one if one compares it to the 30 days which are usually given to appeal judicial decisions. Furthermore, the respondent had ample time to comply with the requirement of the
+Act
+when the alleged misunderstanding with his lawyer was cleared up. The failure of his lawyer to do so is not to be borne by the appellant who is entitled to expect that the law, even as it relates to limitation periods, will be followed. Her Majesty the Queen represents the collectivity and is not to be made accountable for the failure of a litigant and his counsel to act expeditiously as required by law."
+[22]
+The principles mentioned above clearly apply, although here there is no alleged misunderstanding or failure on the part of plaintiff's counsel. In the present case, we are not speaking of some short delay of 30 or even 90 days, but of a limitation period of two years (previously four years). This very long delay is clearly sufficient to permit the taxpayer to indicate on the prescribed form (N-15), the error and the nature of the goods.
+[23]
+In
+FRAGMENT_SUPPRESSED
+[24]
+I also endorse the following comments made by the CITT in
+Scott Paper Limited
+, supra, decision:
+"The appellant argued that the plain and ordinary meaning of s. 68 of the
+Act
+is that a refund claim is in respect of money paid in error. According to the appellant, the taxpayer is not in fact applying for a refund of any specific moneys, but with respect to money, in general, paid to the respondent in error and in relation to any error that might have been made.
+"The Tribunal does not agree with the appellant's interpretation of s. 68 of the
+Act
+. Section 68 of the
+Act
+indicates that the amount of the moneys paid in error by a person will be paid to the person 'if he applies therefor' within the required period. In the Tribunal's view, the person has not fulfilled the requirement of 'appl[ying] therefor' unless the person gives a reasonable indication of what he is applying for. Consequently, it is the Tribunal's view that s. 68 requires that a person who applies for a refund indicate the nature of the alleged error.
+"To accept the appellant's interpretation would require the Tribunal to ignore the explicit wording of the part of the section pertaining to the two-year limitation period. The limitation period would be rendered meaningless if an applicant could simply make a blanket claim, within the two-year period, and then use that claim to support an unlimited number of specific claims, made over an unlimited period of years, as new potential errors are identified. The Tribunal also notes that, according to the
+Act
+, the 'N 15' form is to be prescribed by the respondent. In this regard, the Tribunal further notes that the 'N 15' form and attached schedules clearly require that the applicant provide detailed information regarding the nature of the refund claim.
+"The Tribunal recently came to a similar conclusion regarding the requirements of s. 68 of the
+Act
+. In its decision in Barney Printing, the Tribunal stated that:
+'... to accept that the nature of the error not be specified on the application for refund would seem to render the phrase "if he applies therefor", found in s. 68 of the
+Act
+, devoid of any substantive obligatory content. This, given the obligation put on the respondent to determine the amount payable to an applicant, ... would place an unreasonable burden on the respondent. As indicated above, it would also constitute a way around the two-year limitation period. In the Tribunal's view, this could not have been Parliament's intent.'"
+[25]
+I therefore conclude that the Refund Claim filed by the plaintiff under s. 68 of the
+Act
+on January 21, 1988, does not entitle the plaintiff to claim a refund with respect to FST paid in error on its sales of vapour barriers. The plaintiff's claim in this regard is statute-barred under s. 68 of the
+Act
+. Since this determination disposes of the plaintiff's action in its entirety, an order dismissing the plaintiff's action with costs shall be issued accordingly.
+ORDER
+[26]
+The preliminary question of law submitted by the parties pursuant to paragraph 17(3)b) of the
+Federal Court Act
+, s. 81.37 of the
+Excise Tax Act
+, and Rule 220(1)a) of the
+Federal Court Rules, 1998
+, on the basis of the Agreed Statement of Fact filed with the court on October 31, 2001, is answered as follows:
+"The plaintiff is not entitled to a refund of Federal Sales Tax for vapour barriers sold during the periods covered by the Refund Claim filed by the plaintiff under s. 68 of the
+Excise Tax Act
+, as the plaintiff's claim with respect to the latter product is outside the limitation period prescribed by s. 68 of the
+Excise Tax Act
+."
+[27]
+Consequently, the plaintiff's action is dismissed with costs.
+Action dismissed.
+Editor: Jana A. Andersen/gs
+[End of document]

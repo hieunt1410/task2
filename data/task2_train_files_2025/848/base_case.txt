@@ -1,0 +1,102 @@
+Introduction
+[1]
+Strayer, D.J.
+: This is a motion by the Plaintiff for an interlocutory injunction to prevent the Defendants from using a trademark of the Plaintiff, namely HYUNDAI, registration number 302,619 and from causing confusion in Canada between the Defendants' automotive wares, services or businesses and the wares, services or business of the Plaintiff. This motion is brought in an action for a permanent injunction, damages or an accounting of profits and other incidental remedies.
+Facts
+[2]
+The Plaintiff, Hyundai Auto Canada (HAC), is a division of Hyundai Motor America, a California Corporation. HAC has its headquarters in Markham, Ontario. It imports Hyundai automobiles and parts from Korea and the United States. According to its affidavit evidence, it sells automobiles, parts and accessories through a network of franchise automobile dealers in Canada and has been doing so since January, 1984. It owns, inter alia, the trademark HYUNDAI, registration number 302,619.
+[3]
+It is not in dispute that the Defendants sell among other things parts for HYUNDAI automobiles. These parts or their packaging bear the HYUNDAI trademark. The Defendants take the position that these are genuine parts which they acquire in Canada from a single supplier who they have so far refused to name. The Defendants received from Plaintiff's counsel a letter dated January 22, 2004 alleging that the Defendants were infringing the Plaintiff's trademark and demanding that the Defendants cease to sell automotive parts and accessories bearing the trademarks registered to the Plaintiff. Between then and July 30, 2004 there were exchanges of correspondence which did not resolve the matter. The Defendants then heard nothing until May 25, 2005 when the Plaintiff commenced the present action. Counsel for the Plaintiff in forwarding the Statement of Claim to counsel for the Defendants said that the Plaintiff would be bringing a motion for interlocutory injunction the following week. In fact more than a year elapsed before the present motion was brought on July 31, 2006.
+[4]
+The Defendants filed a Statement of Defence in which they made the usual counterclaim that the Plaintiff's trademark is invalid.
+[5]
+In the meantime, the Defendants had applied on June 20, 2006 for the registration of the trademark HYUNDAI in the name of Cross Canada Auto Body Supply (Windsor) Limited. The descriptive words to be used in association with this trademark were exactly the same as in the existing registration of the Plaintiff's trademark HYUNDAI. It is agreed that that application is in abeyance pending the completion of a proceeding under s. 57 of the
+Trade-marks Act
+, R.S.C. 1985, c. T-13 (
+Act
+), which the Defendants have also brought for the expungement of five registered trademarks of the Plaintiff including the trademark HYUNDAI.
+[6]
+The only evidence provided by the Plaintiff as to possible harm to the Plaintiff if the injunction is not given, and as to the balance of convenience, are the following paragraphs from the affidavit of Peter Renz, Director, Marketing & Public Relations of the Plaintiff:
+"36. I believe that Cross Canada Auto Body Supply (Windsor) Limited and the other defendants intend to use the trademark HYUNDAI in order to obtain the business and goodwill of HAC in the trademark HYUNDAI. The use of the trademark HYUNDAI by the defendants will damage the goodwill associated with the trademark HYUNDAI and the reputation of HAC. Distribution of automobile parts and accessories by the defendants using the trademark HUYNDAI do not have the warranty protection Canadian consumers would normally expect i.e. from HAC. This conduct has the potential for undermining HAC's substantial investment in generating and maintaining the goodwill of Canadian customers. A true copy of HAC's service passport for 2005 Hyundai vehicles is attached as exhibit 'BBB'. Service passports are given to purchasers of all Hyundai vehicles and set out information regarding maintenance, warranties and customer relations, and identify HAC as the warrantor of Hyundai vehicles in Canada.
+"37. HAC cannot ensure that automobiles, parts and accessories marked with the HYUNDAI trademark by Cross Canada Auto Body Supply (Windsor) Limited will conform to Canadian automobile safety standards. I am not aware of any history or expertise of the defendants producing vehicles, or producing parts to be used in vehicles of others. Thus, the defendants' lack of expertise may result in potential safety risks since such parts and accessories may not conform to Canadian automobile safety standards and will undoubtedly not conform to HAC's specifications. This will negatively impact on HAC's reputation and goodwill in the Canadian market and its trademark HYUNDAI.
+"38. While the damage to HAC's goodwill and its trademark HYUNDAI from the defendants actions will be very real, there is no way to measure and quantify the loss of goodwill and in particular the loss of customers as a result of such sales. This impact on HAC's reputation and goodwill, although not quantifiable, could be very serious."
+Analysis
+[7]
+The parties agree, and I accept, that the proper test for determining whether an interlocutory injunction should be granted is confirmed by the Supreme Court decision of
+RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général)
+, [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241, at 334 [S.C.R.]. That test requires, for the grant of an interlocutory injunction at the request of the Plaintiff:
+1. that there be a serious question to be tried in the main action;
+2. that in the absence of an interlocutory injunction the Plaintiff will suffer irreparable harm; and
+3. that the balance of convenience as between the parties favours the grant of an injunction against the Defendants.
+If one of these elements is absent, then the injunction should not be granted. I will apply these factors to the facts of this case.
+Serious Question
+[8]
+The Defendants do not dispute, and I accept, that there is a serious issue to be tried in the main action.
+Irreparable Harm
+[9]
+I am not satisfied that the Plaintiff has demonstrated that it will suffer irreparable harm that cannot be compensated in damages if the injunction is refused. Its only evidence on potential harm is set out in paras. 36-38 of the affidavit of Peter Renz as quoted above. This evidence is essentially speculative. He states that the use of the trademark HYUNDAI by the Defendants will damage the Plaintiff's goodwill associated with that trademark. By way of giving substance to this conventional statement he says that parts distributed by the Defendants do not have warranty protection. The Defendants have produced evidence to the contrary. Further he states that parts bearing the HYUNDAI trademark sold by the Defendants may not conform to Canadian automobile safety standards. But the Plaintiff admits that it has had samples of the parts sold by the Defendants since 2003 and I must infer that in that time the Plaintiff has had ample opportunity to inspect those parts. Yet there is not a bit of evidence produced by the Defendants that any of the parts it has inspected have been found defective or unsafe. On the other hand, evidence from the Defendants is to the effect that the parts are made by the same company that supplies the Plaintiff. The Plaintiff, in spite of its ability to inspect those parts, has produced no evidence to the contrary. It is therefore pure speculation that the parts being sold by the Defendants are inferior and will damage the goodwill attributed to the HYUNDAI trademark.
+[10]
+In general it may also be said that the Plaintiff has produced no evidence of confusion on the part of any customer of the Defendants: no example has been provided of such a customer complaining to the Plaintiff or its dealers about quality, or failure of warranty, in respect of parts sold by the Defendants.
+[11]
+Finally, Mr. Renz in paragraph 38 of his affidavit says that while the damage to the Plaintiff's goodwill and its trademark HYUNDAI will be very real there will be no way to measure and quantify the loss of goodwill and the loss of customers. I take it this is to support the view that damages could not be an adequate remedy. I do not believe that the Plaintiff has sufficiently established that there would be damage to its goodwill and trademark by the activities of the Defendants and, therefore, the difficulties of quantifying such damage are very hypothetical.
+[12]
+The jurisprudence of the Federal Court of Appeal is quite clear that in order to obtain an interlocutory injunction against the use of its trademark a plaintiff must demonstrate clearly that otherwise it will suffer irreparable harm, not that it might or could suffer irreparable harm: see
+Syntex Inc. v. Novopharm Ltd.
+(1991), 126 N.R. 114; 36 C.P.R.(3d) 129 (F.C.A.), at 135 [C.P.R.];
+Nature Co. v. Sci-Tech Educational Inc.
+(1992), 141 N.R. 363; 41 C.P.R.(3d) 359 (F.C.A.);
+Centre Ice Ltd. v. National Hockey League et al.
+(1994), 166 N.R. 44; 53 C.P.R.(3d) 34 (F.C.A.).
+[13]
+The Plaintiff has argued strenuously that whether or not it can demonstrate that it will suffer harm, in a case of "blatant infringement" of a registered trademark the Court can grant an injunction without proof of irreparable harm. I have considered carefully the cases counsel cites in support of this proposition. Three of these cases,
+I.B.M. Corp. v. Ordinateurs Spirales Inc.
+, [1985] 1 F.C. 190 (T.D.),
+Overseas Enterprises Ltd. et al. v. Feathers Publishing and Marketing Inc. et al.
+(1990), 41 F.T.R. 147; 34 C.P.R.(3d) 78 (T.D.) and
+Dennis et al. v. Genex Communications Inc. et al.
+, [2003] F.T.R. Uned. 541; 2003 FC 974, involve copyright, not trademarks, and I think are distinguishable on that basis. Counsel for the Plaintiff placed some reliance on passages from the Judgement in
+Vulcan Northwest Inc. et al. v. Vulcan Ventures Corp.
+(2001), 198 F.T.R. 316; 12 C.P.R.(4th) 95 (T.D.), at paras. 6 and 14. I would first observe that para. 6 cited with approval is actually a passage from the Reasons wherein the learned motion Judge was describing the plaintiffs' contentions. Apart from that, the case involved quite different companies, the two plaintiffs being well-established high technology companies in Washington State, the defendant a "penny stock mining exploration company" based in Vancouver. Both used the name "VULCAN VENTURES" in their businesses. The motion Judge observed that:
+"The potential for confusion is obvious and much of it may never come to the plaintiffs' attention thus making damages unknown and irreparable."
+With respect I believe that was a natural conclusion in the particular circumstances: the companies were in quite different businesses and the plaintiffs might never know of any impact on its goodwill. On the other hand, in the present case, the Plaintiff and the Defendants are in similar businesses, each supplying HYUNDAI parts and the impact of one on the other will be more immediately apparent and more measurable. I believe that the outcome in the VULCAN VENTURES case was related to the particular circumstances and not to any general proposition that "blatant infringement" necessarily justifies the grant of an interlocutory injunction.
+[14]
+Similarly, in the case of
+Fednav Ltd. v. Fortunair Canada Inc.
+(1994), 89 F.T.R. 153; 59 C.P.R.(3d) 1 (T.D.), which the Plaintiff also relied on, there were special circumstances justifying the grant of an interlocutory injunction. The defendant had widely-known business problems which created a special risk of confusion for the Plaintiff. Further it was uncertain that the defendant could pay any damages awarded against it and this militated in favour of an injunction.
+[15]
+I, therefore, can find no clear authority for the Plaintiff's proposition that "blatant infringement" justifies an injunction even in the absence of irreparable harm. This proposition is akin to one which at one time was accepted by some judges of the Federal Court Trial Division. It was our understanding that the registered owner of a trademark had a presumptive right to enforce the trademark until it was determined in a proper proceeding to be invalid. We drew this conclusion from s. 54(3) of the
+Act
+which states as follows:
+"54(3) A copy of the record of the registration of a trademark purporting to be certified to be true by the Registrar is evidence of the facts set out therein and that the person named therein as owner is the registered owner of the trademark for the purposes and within the territorial area therein defined."
+"54(3) Une copie de l'inscription de l'enregistrement d'une marque de commerce, donnée comme étant certifiée conforme par le registraire, fait foi des faits y énoncés et de ce que la personne y nommée comme propriétaire est le propriétaire inscrit de cette marque de commerce aux fins et dans la région territoriale qui y sont indiquées."
+[16]
+Therefore, it was thought that if a defendant was clearly and deliberately using a plaintiff's registered trademark with identical or similar words and symbols he could be stopped at least until he had successfully obtained a decision as to the invalidity of the registered trademark. This analysis was, however, consistently rejected by the Federal Court of Appeal which took the view that once a defendant pleaded the invalidity of the trademark then the plaintiff was not automatically entitled to have it enforced: see
+Syntex Inc.
+, above;
+Nature Co.
+, above;
+Centre Ice Ltd.
+, above.
+[17]
+In the present case, the Defendants have not only pleaded invalidity of the Plaintiff's trademark but they have also launched s. 57 proceedings to have it and other trademarks expunged. In these circumstances, I am not at liberty to make a finding of irreparable harm simply because there is clear and undisputed identity between the Plaintiff's registered trademark HYUNDAI and the marks on the parts that the Defendants sell for Hyundai automobiles.
+Balance of Convenience
+[18]
+As I have concluded that there is no irreparable harm demonstrated in the evidence, it is unnecessary for me to consider whether a balance of convenience would be in favour of issuing or refusing the injunction. In case I am wrong in my other conclusions, however, I would agree with the Defendants that this remedy should be denied on account of delay.
+[19]
+The Plaintiff has taken exception to the Defendants' activities since at least the beginning of 2004. Indeed it admitted having obtained samples of the Defendants' parts as early as 2003. It did not commence action until May 25, 2005, and then did not seek this injunction until July 28, 2006 some 2 1/2 years after it first formally objected to the Defendants' activities. According to the evidence, during that period the Defendants have developed their business in the sale of the products complained of. The Plaintiff seeks to justify the delay on the basis that it did not consider the matter urgent until it discovered in June, 2006, that the Defendants had in the preceding February applied for registration of the HYUNDAI trademark. There is no affidavit evidence to support this assertion but counsel for the Plaintiff argued that it was only then that the urgency of the matter became apparent.
+[20]
+I do not accept the Plaintiff's explanation: there was no new urgency created by an application for registration, an application which cannot be processed and will not be processed until at least the s. 57 proceeding is completed. If that proceeding leaves the Plaintiff as registered owner of the trademark HYUNDAI and if the Defendants still seek to advance their application to become registered owners of the trademark, the Plaintiff can at that time in opposition proceedings protect their interest.
+[21]
+I note that in
+FRAGMENT_SUPPRESSED a delay of about one year after the commencement of the action to seek an interlocutory injunction was found to be excessive and a bar to the grant of an injunction and, in
+Ikea Ltd. et al. v. Idea Design Ltd. and Mortimore (No. 1)
+(1987), 8 F.T.R. 215; 13 C.P.R.(3d) 476 (T.D.), a delay of over one year after the plaintiff became aware of the defendant's use of a confusing tradename before seeking an injunction tipped the balance of convenience against the plaintiff. By its own actions the Plaintiff has demonstrated the lack of urgency required for an interlocutory injunction.
+[22]
+This motion will, therefore, be dismissed with costs.
+ORDER
+[23]
+THIS COURT ORDERS that
+the Plaintiff's motion of July 31, 2006 for an interlocutory injunction is dismissed with costs.
+Motion dismissed.
+Editor: Anick Ouellette-Levesque/gs
+[End of document]

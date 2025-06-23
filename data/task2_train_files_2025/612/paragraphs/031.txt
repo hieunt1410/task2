@@ -1,0 +1,4 @@
+[31]
+There is a tendency to intermix the first two requirements, a legal right in an applicant for mandamus, in effect the person's standing and the concomitant duty due, on the premise that they both go to the same issue: see for example
+Distribution Canada Inc. v. Minister of National Revenue
+, [1991] 1 F.C. 716; 39 F.T.R. 127 (T.D.), at p. 724, a decision of Mr. Justice Strayer, as he then was, upheld [1993] 2 F.C. 26; 149 N.R. 152; 99 D.L.R.(4th) 440 (F.C.A.). Thus, the test for these requirements is a two-pronged test: a right must be both legal and clear or specific and matched by a duty. Unless there is a statutory provision imposing and defining the duty which is sought to be enforced, mandamus is not appropriate: the court is neither empowered to compel ministers to perform an action which may be contrary to law nor can it grant performance of an action which is not clearly defined."

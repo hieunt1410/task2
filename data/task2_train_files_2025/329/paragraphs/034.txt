@@ -1,0 +1,46 @@
+[34]
+Second, I find the following matters support the conclusion that the first decision is justiciable.
+(1) Section 34 of the
+Act
+is set out at paragraph 4, above. Reading subsections 34(1) and 34(2) together, it makes little sense to me that a request for ministerial relief from a finding of inadmissibility would be considered before a finding of inadmissibility is made. This is consistent with the conclusion of my colleague Mr. Justice Mosley in
+Hassanzadeh v. Canada (Minister of Citizenship and Immigration)
+(2005), 276 F.T.R. 117; 2005 FC 902. There, he accepted the finding of Justice Mactavish in
+Ali
+that a subsection 34(1) finding is a separate and discrete determination of inadmissibility that is not tied to the exercise of ministerial discretion under subsection 34(2). He went on to note that, but for an exceptional circumstance, it is preferable for the evidence to be presented and fact finding to be conducted with respect to inadmissibility before the Minister considers an application for discretionary relief.
+(2) The wording of the officer's March 7, 2005 memorandum is consistent with a final decision on admissibility. She wrote, "I am satisfied that the applicant is inadmissible to Canada on grounds of national security".
+(3) The following instructions to officers contained in IP 10 are also consistent with the conclusion that the March 7, 2005 memorandum embodies a justiciable decision that Mr. Naeem is inadmissible, subject to ministerial relief being granted.
+(a) section 6 of IP 10 defines the term "Ministerial relief" as follows:
+"There are exceptional situations where individuals may fall within the above grounds of inadmissibility but it would not be contrary to the program objectives mentioned in section 2 above to grant their admission to Canada. In such instances, the Minister can grant relief where the Minister is of the opinion that the person's presence in Canada would not be detrimental to the national interest.
+Once the Minister has made this determination, the person is no longer inadmissible on that ground
+.
+Relief provisions are found in A34(2) (security), A35(2) (designated regimes or persons whose entry is restricted pursuant to international sanctions), and A37(2) (organized crime). The relief provisions do not apply to persons who have committed or have been complicit in human rights violations as described in A35(1)(a)."
+(b) When instructing officers with respect to rendering a decision, section 8.8 of IP 10 advises:
+"Procedural fairness requires that the officer must render a decision in a timely manner. Where the officer determines that the person is not inadmissible on grounds of national security, the person should be advised accordingly and informed that the processing of the application will continue.
+Subject to section 9 below (Requests for relief), where the officer determines that the person is inadmissible, a letter refusing the application for permanent residence should be sent to the applicant
+. While it is not necessary to provide detailed reasons to the client, the officer must record the reasons for their decision in notes on the file. The content of the letter may be discussed with the CBSA NHQ analyst. See Appendix F for a sample refusal letter."
+(c) When an applicant for permanent residence applies for ministerial relief, section 9 of IP 10 states "[t]he officer should be guided by the following principles and guidelines". Under the subheading "Processing the request" officers are instructed in section 9.2:
+"
+The request for relief must be processed only if the officer is satisfied that the applicant is inadmissible
+on grounds of national security.
+After having reviewed all the information, if the officer determines that the person is not inadmissible on grounds of national security, processing of the application for permanent residence will continue."
+(d) Under the subheading "After issuance of Minister's decision" officers are instructed in section 9.5:
+"A faxed copy of the Minister's decision will be forwarded to the CIC. Where the decision is positive, the client should be informed that they are not inadmissible on grounds of national security and processing of the application for permanent residence should continue.
+Where the decision is negative, the client should be issued a refusal letter and action taken pursuant to section 8.8 above.
+The refusal letter (see Appendix F) should indicate that the application for permanent residence is refused as the applicant was determined to be inadmissible and the Minister did not grant relief
+."
+(e) Returning to section 9 of IP 10, one of the principles set out to guide officers is found in section 9.1:
+"The national interest provisions are intended to be exceptional. A6(3) precludes any delegation from the Minister. The following principles apply:
+- The decision to grant relief is entirely within the discretion of the Minister.
+The role of the officer is primarily to ensure that accurate and complete information is placed before the Minister so that the Minister can make an informed decision
+." (underlining added throughout)
+Section 9.2 and Appendix D thereto instruct that preparing the request for relief report and the request to the Minister should consist of three parts:
+"1. The client's submission and all supporting documentation;
+2. A report prepared by the officer addressing the applicant's current situation with respect to the ground of inadmissibility and any exceptional circumstances to be taken into account. This includes:
+- details of the immigration application;
+- basis for refugee protection, if applicable;
+- other grounds of inadmissibility, if applicable;
+- activities while in Canada;
+- details of family in Canada or abroad;
+- any Canadian interest;
+- any personal or exceptional circumstances to be considered.
+3. A recommendation to the Minister prepared by the CBSA, NHQ. In order to assess the current situation regarding the ground of inadmissibility, evidence must be produced to address the questions stated in the following table: [...]"

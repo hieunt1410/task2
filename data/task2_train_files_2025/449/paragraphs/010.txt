@@ -1,0 +1,9 @@
+[10]
+In
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817; 243 N.R. 22, the Supreme Court of Canada established that reasonableness is the appropriate standard of review for H&C application decisions. The Court stated at paragraph 62:
+"
+¶ 62
+... I conclude that considerable deference should be accorded to immigration officers exercising the powers conferred by the legislation, given the fact-specific nature of the inquiry, its role within the statutory scheme as an exception, the fact that the decision-maker is the Minister, and the considerable discretion evidenced by the statutory language. Yet the absence of a privative clause, the explicit contemplation of judicial review by the Federal Court - Trial Division and the Federal Court of Appeal in certain circumstances, and the individual rather than polycentric nature of the decision, also suggest that the standard should not be as deferential as 'patent unreasonableness'.
+I conclude, weighing all these factors, that the appropriate standard of review is reasonableness simpliciter.
+" (Emphasis added)

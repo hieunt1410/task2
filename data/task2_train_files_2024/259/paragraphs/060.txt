@@ -1,0 +1,9 @@
+[60]
+The essential requirements to support a finding of jurisdiction in the Federal Court have been well established by the Supreme Court of Canada in several cases such as
+Miida Electronics Inc. v. Mitsui O.S.K. Lines Ltd. and ITO-International Terminal Operators Ltd.
+, [1986] 1 S.C.R. 752; 68 N.R. 241; 28 D.L.R.(4th) 641 per McIntyre, J., for the majority at page 650:
+"1. There must be a statutory grant of jurisdiction by the Federal parliament.
+"2. There must be an existing body a federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction.
+"3. The law on which the case is based must be a 'law of Canada' as the phrase is used in s. 101 of the
+Constitution Act, 1867
+."

@@ -1,0 +1,548 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moussa v. IRB (2006), 297 F.T.R. 244 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2006] F.T.R. TBEd. AU.020 
+ 
+ 
+ 
+ Francois Alain Moussa (applicant) v. The Immigration and Refugee Board (respondent) 
+ 
+ (T-1346-05; 2006 FC 918) 
+ 
+ 
+ 
+ Indexed As: Moussa v. Immigration and Refugee Board (Can.) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Teitelbaum, J. 
+ 
+ July 26, 2006. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Moussa was an employee of the Immigration and Refugee Board (IRB). Moussa filed a complaint with the Canadian Human Rights Commission alleging that the IRB discriminated against him on the ground of race contrary to s. 7 of the Canadian Human Rights Act (CHRA). The Commission dismissed the complaint pursuant to s. 41(1)(b) of the CRHA on the basis that the complaint could be more appropriately dealt with according to a procedure provided for under another Act of Parliament other than the CHRA. Moussa applied for judicial review of the Commission's decision. 
+ 
+ 
+ 
+ The Federal Court allowed the application. 
+ 
+ 
+ 
+ Civil Rights - Topic 7070.1 
+ 
+ Federal, provincial or territorial legislation - Commissions or boards - Jurisdiction - Complaints - Bars - Moussa was employed by the Immigration and Refugee Board (IRB) - Moussa filed a complaint with the Canadian Human Rights Commission alleging that the IRB discriminated against him on the ground of race - The Commission dismissed the complaint pursuant to s. 41(1)(b) of the Canadian Human Rights Act (CHRA) on the basis that the complaint could be more appropriately dealt with according to a procedure provided for under another Act of Parliament other than the CHRA - Moussa applied for judicial review of the Commission's decision - The Federal Court allowed the application - The Commission erred in determining that it did not have to address Moussa's complaint because complaints of harassment and discrimination which Moussa had made to the Public Service Commission (PSC) Recourse Branch were before the Federal Court on an application for judicial review - It was clear that the PSC Recourse Branch did not investigate Moussa's complaints of discrimination. 
+ 
+ 
+ 
+ Civil Rights - Topic 7080 
+ 
+ Federal, provincial or territorial legislation - Commissions or boards - Jurisdiction - Pre-investigation decision not to deal with complaint - [See  
+ Civil Rights - Topic 7070.1 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Sketchley v. Canada (Attorney General) (2005), 344 N.R. 257; 2005 FCA 404, refd to. [para. 11]. 
+ 
+ Canada (Attorney General) v. Sasvari (2005), 277 F.T.R. 186; 2005 FC 1021, refd to. [para. 22]. 
+ 
+ Davey v. Canadian Human Rights Commission (2004), 257 F.T.R. 316; 2004 FC 1496, refd to. [para. 22]. 
+ 
+ Jadwani v. Canada (Attorney General) et al. (2001), 141 O.A.C. 22 (C.A.), refd to. [para. 25]. 
+ 
+ Pileggi v. Canadian Union of Postal Workers, [2005] O.T.C. 344 (Sup. Ct.), refd to. [para. 25]. 
+ 
+ Moussa v. Public Service Commission et al., [2003] F.T.R. Uned. 14 (T.D. Protho), affd. [2003] F.T.R. Uned. 949 (T.D.), affd. [2006] N.R. Uned. 8 (F.C.A.), refd to. [para. 26]. 
+ 
+ Hutchinson v. Canada (Minister of the Environment) (2003), 302 N.R. 66 (F.C.A.), refd to. [para. 26]. 
+ 
+ Wood v. Canada (Attorney General) (2001), 199 F.T.R. 133 (T.D.), refd to. [para. 28]. 
+ 
+ Dr. Q., Re, [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170, refd to. [para. 30]. 
+ 
+ Dr. Q. v. College of Physicians and Surgeons (B.C.) - see Dr. Q., Re. 
+ 
+ Canadian Imperial Bank of Commerce v. Durrer (2005), 280 F.T.R. 234; 2005 FC 1064, refd to. [para. 32]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Canadian Human Rights Act, R.S.C. 1985, c. H-6, sect. 41(1)(b) [para. 1]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Dorothy-Jean O'Connell, for the applicant; 
+ 
+ Keitha J. Elvin-Jensen, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Ash, O'Donnell, Hibbert, for the applicant; 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard on June 29, 2006, at Vancouver, British Columbia, before Teitelbaum, J., of the Federal Court, who delivered the following decision on July 26, 2006. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Teitelbaum, J. 
+ : The Applicant, François Alain Moussa, seeks judicial review, pursuant to section 18.1 of the  
+ Federal Courts Act 
+ , R.S.C. 1985, c. F-7, of the decision of the Canadian Human Rights Commission (the "Commission"), dated July 8, 2005. In its decision, made pursuant to section 41(1)(b) of the  
+ Canadian Human Rights  
+ Act 
+ , R.S., 1985, c. H-6 (the " 
+ CHRA 
+ "), the Commission dismissed the Applicant's complaint against the Respondent, the Immigration and Refugee Board (the "IRB"), on the basis that it can be properly dealt with according to a procedure provided for under another  
+ Act 
+  of Parliament other than the  
+ CHRA 
+ . 
+ 
+ 
+ 
+ [2] 
+  The Applicant is a Black Canadian of African ancestry. He began his employment with the IRB on August 9, 1999 as a casual employee. He became a permanent employee in September 2000. On September 16, 2003, the Applicant filed a complaint with the Commission. In his Complaint Form, he alleges that the IRB discriminated against him on the ground of race, by treating him in an adverse differential manner, contrary to section 7 of the  
+ CHRA 
+ . He claims that while working for the IRB he was subjected to harassment, discrimination, threats, and retaliatory tactics on the basis of race, colour, and ethnic origin. The Applicant alleges that certain employees treated him in an aggressive manner and repeatedly threatened him. He maintains that he was unnecessarily monitored at work, and that management was aware that he was being treated rudely by other IRB staff members. The Applicant claims that from January 2001 until September 2001, he was assigned debasing tasks on a daily basis, that ranged from stamping tens of thousands of envelopes, to dusting desk stations, to spending full days photocopying materials. 
+ 
+ 
+ 
+ [3] 
+  The Applicant also claims that he was required to purchase bottles of alcohol for the human resources manager, the regional director, and a third employee on four separate occasions in 1999 and 2000 as a way of thanking them for bringing him into the IRB. He states that he was advised by them not to discuss the matter with anyone. He also alleges that he was required to run personal errands for the human resources manager and regional director, and even cooked vegetarian dishes for the human resources manager at the request of his manager. 
+ 
+ 
+ 
+ [4] 
+  The Applicant alleges that in September 2000 an IRB employee solicited narcotic substances from him. He alleges that he has been stereotyped, which is why he was singled out and approached for the narcotic substances. 
+ 
+ 
+ 
+ [5] 
+  The Applicant also alleges that he was denied an opportunity to compete for an indeterminate bilingual position as an Information Officer, and that the human resources manager intentionally raised the education requirement for the position for the sole purpose of making the Applicant unqualified for the position. He claims that the IRB subsequently destroyed his personal records in order to hide its discriminatory employment practices. 
+ 
+ 
+ 
+ [6] 
+  The Applicant claims that as a result of the treatment he has received he has been unable to work since October 2001. 
+ 
+ 
+ 
+ [7] 
+  The Applicant's complaint was initially held in abeyance pending the outcome of an internal mediation process. In an Investigation Report, dated June 9, 2004, an Investigator recommended that the Commission deal with the complaint because the Investigator was not satisfied that the internal mediation process had fully addressed the issue of discrimination. In response to the report, the IRB objected to the Commission dealing with the complaint on the basis that the Applicant's complaint had not been brought forward in a timely manner, pursuant to section 41(1)(e) of the  
+ CHRA 
+ . The IRB also provided the Investigator with a copy of a Public Service Commission Recourse Branch (PSC) Investigation Report, dated June 28, 2002. 
+ 
+ 
+ 
+ [8] 
+  The Commission investigated the IRB's section 41(1)(e) objection. A Supplementary Report, dated September 21, 2004, recommended that the Commission deal with the complaint because the Applicant had contacted the Commission within one year of the alleged discrimination. The Commission adopted this recommendation and advised the Applicant, by way of a letter dated December 14, 2004, that it would deal with the complaint. 
+ 
+ 
+ 
+ [9] 
+  The Supplementary Report did not, however, consider the second objection made by the IRB, viz. that the PSC Investigation Report had already addressed the Applicant's allegations. 
+ 
+ 
+ 
+ [10] 
+  The complaint was assigned for investigation on February 8, 2005. A review of the file revealed that there were outstanding section 41 issues (grounds upon which the Commission can decide not to deal with a complaint) on which the Commission had yet to rule; the parties were advised by the Investigator that the section 41 issues would be put to the Commission for a decision. A second Supplementary Report, dated April 29, 2005, was prepared. It recommended that the Commission not deal with the complaint, pursuant to section 41(1)(b) of the  
+ CHRA 
+ . This recommendation was adopted by the Commission in its decision dated July 8, 2005, and it is this decision which is the subject matter of the present judicial review. 
+ 
+ 
+ 
+ [11] 
+  The Commission's July 8, 2005 decision adopted the Investigator's recommendations without providing detailed reasons. In such a case, the Court treats the Investigator's report as constituting the Commission's reasons for the purpose of a screening decision under section 44 of the  
+ CHRA 
+ :  
+ Sketchley v. Canada (Attorney General) 
+ , [2005] F.C.J. No. 2056; 344 N.R. 257; 2005 FCA 404, at para. 37. 
+ 
+ 
+ 
+ [12] 
+  In the second Supplementary Report, the Investigator noted that the allegations contained in the Applicant's complaint to the Commission are nearly identical to the complaints he made to the PSC. The only differences between the two complaints are that the PSC complaint does not include the alleged solicitation of narcotics, nor does the PSC complaint link the alleged events to a prohibited ground of discrimination. The Investigator determined that the allegations investigated by the PSC rest on the same set of facts and pertain to the same alleged incidents as those found in the complaint to the Commission. 
+ 
+ 
+ 
+ [13] 
+  The Investigator accepted that the Federal Court is seized with an application for judicial review of the PSC's decision to dismiss the Applicant's complaint against the IRB "alleging racial harassment and discrimination in the workplace" (File No. T-1209-02). The Applicant also filed an application for judicial review of the IRB's refusal to provide him with access to his personal information under the  
+ Privacy Act 
+  (File No. T-1206-02). The IRB submitted to the Investigator that this application for judicial review addresses the allegations of the destruction of documents and the Applicant's opportunity, or lack thereof, to compete for a position at the IRB. 
+ 
+ 
+ 
+ [14] 
+  The Investigator concluded that the Applicant's applications for judicial review are based on the same allegations as those contained in the human rights complaint to the Commission. The Investigator determined that the PSC decision under judicial review by the Federal Court is the PSC's dismissal of the complaint of harassment and discrimination. The Investigator also determined that the Applicant's allegations regarding solicitation of narcotics have been dealt with by the IRB, which referred the matter to the Royal Canadian Mounted Police. Consequently, the Investigator recommended that the Commission not deal with the complaint, pursuant to section 41(1)(b) of the  
+ CHRA 
+ , which provides that a complaint need not be dealt with by the Commission when it can be dealt with according to a procedure provided for under another  
+ Act 
+  of Parliament. 
+ 
+ 
+ 
+ [15] 
+  The Applicant submits that once the December 14, 2004 decision was made, the next phase under the  
+ CHRA 
+  was either mediation or investigation. The Applicant contends that the Commission erred by failing to uphold its own jurisdiction and its December 14, 2004 decision. 
+ 
+ 
+ 
+ [16] 
+  The Applicant also submits that the Commission erred in law in deciding not to deal with his complaint. The Applicant concedes that there was some overlap between his harassment complaint before the PSC and his complaint to the Commission; however, he argues that the PSC Recourse Branch did not investigate the racial discrimination allegations. The Applicant also contends that the PSC can only inform a complainant that corrective or disciplinary measures will be taken as a result of a successful complaint. This contrasts with the Commission, which provides that an individual who successfully proves discrimination may be entitled to a remedy that will make the individual whole again. 
+ 
+ 
+ 
+ [17] 
+  The Applicant submits that even if the Commission considered the application for judicial review in File No. T-1209-02 was relevant to its investigation, it should not have closed the file as it did, but rather it should have held his complaint in abeyance, pending the outcome of the judicial review. 
+ 
+ 
+ 
+ [18] 
+  The Applicant also contests the Commission's determination that the allegation regarding solicitation of narcotic substances is a matter to be addressed only by the RCMP. The Applicant claims that this incident raised the issue of racial discrimination and stereotyping. 
+ 
+ 
+ 
+ [19] 
+  The Applicant also submits that the Commission based its decision on several erroneous findings of fact. The Applicant contends that the Commission did not have before it two harassment complaints, one against his supervisor, and a second against IRB management for failing to protect him from harassment. The Applicant also contends that the Commission erred in finding that the PSC had investigated his allegations of racial discrimination, and that the Federal Court could examine that issue in its judicial review of the PSC's decision. The Applicant maintains that the PSC Recourse Branch Investigator informed him that racial discrimination could not be considered in a PSC investigation. 
+ 
+ 
+ 
+ [20] 
+  The Applicant also submits that specific allegations in the human rights complaint occurred after the release of the PSC Investigator's Report, which is subject to judicial review. 
+ 
+ 
+ 
+ [21] 
+  The Respondent objects to certain materials filed by the Applicant as not being properly before the Court. This objection will be dealt with at the outset of the Analysis section below. 
+ 
+ 
+ 
+ [22] 
+  The Respondent notes that section 44(1) of the  
+ CHRA 
+  grants the Commission a broad discretion in screening claims. Courts have repeatedly held that decisions made under this section are reviewed against the standard of patent unreasonableness:  
+ Canada (Attorney General) v. Sasvari 
+ , [2005] F.C.J. No. 1263; 277 F.T.R. 186; 2005 FC 1021, at para. 50;  
+ Davey v. Canadian Human Rights Commission 
+ , [2004] F.C.J. No. 1840; 257 F.T.R. 316; 2004 FC 1496, at para. 12. The Respondent also submits that the Commission's decision could withstand review on a reasonableness simpliciter standard. 
+ 
+ 
+ 
+ [23] 
+  The Respondent contends that the Commission had jurisdiction to consider the Respondent's objection pursuant to section 41(1)(b) of the  
+ CHRA 
+ . Although the Respondent did not seek judicial review of the Commission's December 14, 2004 decision, it contends that it was not precluded from raising other objections pursuant to section 41(1) that the Commission had not yet considered. The Respondent notes that when the complaint was assigned for investigation, the file indicated that there were outstanding section 41 issues. The parties were advised of this. The Respondent maintains that the Commission acted within its jurisdiction in considering its section 41(1)(b) objection. 
+ 
+ 
+ 
+ [24] 
+  The Respondent submits that the Investigator determined that all of the allegations save one that were investigated by the PSC were identical to those raised in the Applicant's complaint. The Investigator was aware that the PSC Recourse Branch had already dealt with the Applicant's allegations and that the PSC's decision would be judicially reviewed. The Investigator was aware that the allegations regarding the destruction of documents would be judicially reviewed. The Respondent submits that the Investigator was also aware that the allegation with respect to the solicitation of narcotic substances had been referred to the RCMP. The Respondent maintains that in these circumstances, the Commission's decision that the Applicant's complaint could be more appropriately dealt with by other Acts of Parliament was not patently unreasonable. 
+ 
+ 
+ 
+ [25] 
+  Finally, with regard to the Applicant's submission that the Commission should have considered that the remedies available under the  
+ Treasury Board Policy on the Prevention and Resolution of Harassment in the Workplace 
+  and the  
+ CHRA 
+  differ, the Respondent notes that section 41(1)(b) of the  
+ CHRA 
+  does not impose an obligation on the Commission to consider remedy at the screening stage. The Respondent contends that the remedy available under the  
+ Treasury Board Policy 
+  is not inadequate simply because it is not the same as that offered under the  
+ CHRA 
+ :  
+ Jadwani v. Canada (Attorney General) et al. 
+ , [2001] O.J. No. 560; 141 O.A.C. 22 (C.A.), at para. 34 and  
+ Pileggi v. Canadian Union of Postal Workers 
+ , [2005] O.T.C. 344; [2005] O.J. No. 1734, at paras. 52-53. 
+ 
+ 
+ 
+ [26] 
+  As a preliminary matter, the Respondent submits that the only evidence that a Court may take into account in a judicial review is the evidence that was before the decision-maker whose decision is under review:  
+ Moussa v. Public Service Commission et al. 
+ , [2003] F.T.R. Uned. 14; [2003] F.C.J. No. 2 (T.D. Protho), at para. 4; affd. [2003] F.T.R. Uned. 949; [2003] F.C.J. No. 685 (T.D.), affd. [2006] N.R. Uned. 8; [2006] F.C.J. No. 60 (F.C.A.);  
+ Hutchinson v. Canada (Minister of the Environment) 
+ , [2003] F.C.J. No. 439; 302 N.R. 66 (F.C.A.), at para. 44. At the outset of the hearing, the Respondent sought leave to strike the Applicant's affidavit, sworn August 29, 2005, as well as a Rule 318 Certificate, dated September 16, 2005, which contains materials that were before the Commission when it made the December 14, 2004 decision. 
+ 
+ 
+ 
+ [27] 
+  The Applicant contended that these materials should have been before the Commission and that the Commission erred in not considering them. 
+ 
+ 
+ 
+ [28] 
+  The Applicant's submissions on this issue are not persuasive. It is clearly settled law that on judicial review, a Court can consider only the evidence that was before the decision-maker whose decision is being reviewed and not new material:  
+FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [29] 
+  The Rule 318 Certificate materials, dated September 16, 2005, were not before the Commission when it rendered its July 8, 2005 decision. The Applicant's August 29, 2005 affidavit contains documents and arguments that were also not before the Commission. Accordingly, this Court will not have any regard for this further evidence and this judicial review will be based on the evidence that was before the Commission when it made the July 8, 2005 decision. 
+ 
+ 
+ 
+ [30] 
+  The standard of review of the Commission's decision is determined by considering the four factors of the pragmatic and functional approach as set out by the Supreme Court of Canada in  
+ Dr. Q., Re 
+ , [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170. The four factors are: the presence or absence of a privative clause or statutory right of appeal; the expertise of the tribunal relative to that of the reviewing court on the issue in question; the purposes of the legislation and the provision in particular; and the nature of the question as being one of law, fact, or mixed law and fact. I will consider each of these in turn. 
+ 
+ 
+ 
+ [31] 
+  The  
+ CHRA 
+  does not contain a privative clause. The presence of such a clause may indicate a higher level of deference. The silence of a statute on the question of review, however, is neutral in that it does not imply a high standard of scrutiny. 
+ 
+ 
+ 
+ [32] 
+  Turning to the expertise of the Commission, I note that its expertise was recently considered by this Court in  
+ Canadian Imperial Bank of Commerce v. Durrer 
+ , [2005] F.C.J. No. 1321; 280 F.T.R. 234; 2005 FC 1064. Justice Snider held, at paragraphs 13 and 14, 
+ 
+ 
+ 
+ "13. No one questions the expertise of the Commission. The Supreme Court of Canada in  
+ Bell Canada v. Canadian Telephone Employees Assn. 
+ , [2003] 1 S.C.R. 884, described the Commission's expertise as follows at para. 41: 
+ 
+ 
+ 
+ 'The Commission is responsible, among other things, for maintaining close liaisons with similar bodies in the provinces, for considering recommendations from public interest groups and any other bodies, and for developing programs of public education (s. 27(1)). These collaborative and educational responsibilities afford it extensive awareness of the needs of the public, and extensive knowledge of developments in anti-discrimination law at the federal and provincial levels.' 
+ 
+ 
+ 
+ "14. This expertise warrants greater deference. As acknowledged in  
+ MacLean 
+ , the Commission's greater ease than the Court's in fact-finding and screening complaints favours a greater deference on judicial review." 
+ 
+ 
+ 
+ [33] 
+  The third factor is the purpose of the legislation and the particular section. The  
+ CHRA 
+  is remedial legislation, often described as quasi-constitutional. Its purpose is set out in section 2 of the  
+ Act 
+ , which provides as follows: 
+ 
+ 
+ 
+ "2. The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "2. La présente loi a pour objet de compléter la législation canadienne en donnant effet, dans le champ de compétence du Parlement du Canada, au principe suivant: le droit de tous les individus, dans la mesure compatible avec leurs devoirs et obligations au sein de la société, à l'égalité des chances d'épanouissement et à la prise de mesures visant à la satisfaction de leurs besoins, indépendamment des considérations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, l'âge, le sexe, l'orientation sexuelle, l'état matrimonial, la situation de famille, la déficience ou l'état de personne graciée." 
+ 
+ 
+ 
+ [34] 
+  The particular section in question, section 41(1), reads as follows: 
+ 
+ 
+ 
+ "41(1) Subject to section 40, the Commission shall deal with any complaint filed with it unless in respect of that complaint it appears to the Commission that 
+ 
+ 
+ 
+ (a) the alleged victim of the discriminatory practice to which the complaint relates ought to exhaust grievance or review procedures otherwise reasonably available; 
+ 
+ 
+ 
+ (b) the complaint is one that could more appropriately be dealt with, initially or completely, according to a procedure provided for under an Act of Parliament other than this Act; 
+ 
+ 
+ 
+ (c) the complaint is beyond the jurisdiction of the Commission; 
+ 
+ 
+ 
+ (d) the complaint is trivial, frivolous, vexatious or made in bad faith; or 
+ 
+ 
+ 
+ (e) the complaint is based on acts or omissions the last of which occurred more than one year, or such longer period of time as the Commission considers appropriate in the circumstances, before receipt of the complaint." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "41(1) Sous réserve de l'article 40, la Commission statue sur toute plainte dont elle est saisie à moins qu'elle estime celle-ci irrecevable pour un des motifs suivants: 
+ 
+ 
+ 
+ a) la victime présumé de l'acte discriminatoire devrait épuiser d'abord les recours internes ou les procédures d'appel ou de règlement des griefs qui lui sont normalement ouverts; 
+ 
+ 
+ 
+ b) la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par une autre loi fédérale; 
+ 
+ 
+ 
+ c) la plainte n'est pas de sa compétence; 
+ 
+ 
+ 
+ d) la plainte est frivole, vexatoire ou entachée de mauvaise foi; 
+ 
+ 
+ 
+ e) la plainte a été déposée après l'expiration d'un délai d'un an après le dernier des faits sur lesquels elle est fondée, ou de tout délai supérieur que la Commission estime indiqué dans les circonstances." 
+ 
+ 
+ 
+ [35] 
+  While the purpose of the  
+ CHRA 
+  in a global sense is to prevent discrimination and provide redress when it occurs, section 41 serves a screening function, thus limiting the application of the  
+ Act's 
+  purpose. In particular, as section 41(1)(b) makes clear, a complaint will not make it through the screening stage if the Commission determines that it could more appropriately be dealt with under a procedure provided for in another Act of Parliament. 
+ 
+ 
+ 
+ [36] 
+  Finally, the nature of the question must be considered. The issue before the Commission in the present case was whether the Applicant's complaints could be more appropriately dealt with under other procedures. These other procedures were the PSC Investigation and the subsequent applications for judicial review, as well as the referral of the allegation regarding solicitation of a narcotic substance to the RCMP for investigation. Thus, the Commission's decision not to deal with the Applicant's complaint pursuant to section 41(1)(b) is a finding of fact. 
+ 
+ 
+ 
+ [37] 
+  Applying the four factors of the pragmatic and functional approach leads to the conclusion that the appropriate standard of review is that of patent unreasonableness. I refer also to the decision of Justice O'Keefe in  
+ Sasvari 
+ , supra, at paragraphs 48 to 50, wherein he concludes that with respect to section 41, the scope for judicial review is narrow. Only considerations such as bad faith by the Commission, error of law, or acting on the basis of irrelevant considerations are applicable; the standard of review is that of patent unreasonableness. 
+ 
+ 
+ 
+ [38] 
+  I do not accept the Applicant's submission that the Commission failed to exercise its jurisdiction and enforce its decision of December 14, 2004. The Applicant claims that once that decision was made the next phase of the procedure was either mediation or investigation. The Commission, as noted above, has broad discretion over the screening process of complaints. The December 14, 2004 decision only addressed the issue of the timeliness of the complaint. The Commission was in no way precluded from examining additional section 41 grounds in a later Supplementary Investigator's Report. 
+ 
+ 
+ 
+ [39] 
+  In this case, the Commission notified the parties that it would be considering additional section 41 grounds, received their submissions, and rendered a decision in July 2005. In my view, the Commission acted reasonably in conducting the Supplementary Investigation to determine whether the complaint should not be dealt with pursuant to section 41 of the  
+ CHRA 
+ . 
+ 
+ 
+ 
+ [40] 
+  In my opinion, the Commission fell into error when it determined that it did not have to address the Applicant's complaint because his harassment and discrimination complaints to the PSC are now before the Federal Court. It is clear from the letter dated April 29, 2002 from the PSC Recourse Branch to the Applicant that the PSC Recourse Branch did not investigate his complaints of discrimination. The letter states, in part, as follows: 
+ 
+ 
+ 
+ "I would like to explain that as part of the Public Service Commission's new role in the context of the revised Policy on the Prevention and Resolution of Harassment in the Workplace, the Public Service Commission may, upon request from a department, investigate  
+ harassment 
+  complaints within the meaning of the  
+ Canadian Human Rights  
+ Act 
+ . However, the Public Service Commission was not given the mandate to investigate complaints of  
+ discrimination 
+ . The Canadian Human Rights Commission is the proper organization mandated to investigate such complaints. 
+ 
+ 
+ 
+ "Given the Public Service Commission's lack of jurisdiction to investigate complaints of discrimination within the meaning of the  
+ Canadian Human Rights  
+ Act 
+ , the Recourse Branch will not proceed any further with your request and our file remains closed." (Emphasis in the original) 
+ 
+ 
+ 
+ [41] 
+  I note that this letter was part of the material before the Commission when it made its July 8, 2005 decision. 
+ 
+ 
+ 
+ [42] 
+  The Investigator's Report - Supplementary No. 2 states that the Federal Court is seized with the matter of the PSC's decision to dismiss the Applicant's racial harassment and discrimination complaints. However, the PSC's letter, referred to above, makes it abundantly clear that the PSC did not actually investigate the racial discrimination complaints. It declined to do so due to its lack of jurisdiction. Indeed, it advises the Applicant to pursue these complaints with the Canadian Human Rights Commission. 
+ 
+ 
+ 
+ [43] 
+  In my view, the Commission erred in relying on and interpreting the PSC's Investigation Report and the Applicant's subsequent application for judicial review to conclude that the Applicant's discrimination complaint is one that, in the language of section 41(1)(b), could more appropriately be dealt with, initially or completely, according to a procedure provided for under an Act of Parliament other than the  
+ CHRA 
+ . The PSC decision and the judicial review will simply not be examining the allegations of discrimination. 
+ 
+ 
+ 
+ [44] 
+  I will deal briefly with the Applicant's argument that the Commission erred in relying on section 41(1)(b) because the remedies available to the Applicant under the  
+ Treasury Board Policy on the Prevention and Resolution of Harassment in the Workplace 
+  and the  
+ CHRA 
+  differ. At this screening stage, there is no obligation on the Commission to consider the matter of remedy; rather, its task at this stage is to determine whether the facts warrant referring the complaint to the Canadian Human Rights Tribunal. And, of course, there is never a guarantee of an entitlement to a remedy even if the matter is referred on to the Canadian Human Rights Tribunal. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [45] 
+  For the foregoing reasons, this application for judicial review is allowed with costs. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/kdm 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

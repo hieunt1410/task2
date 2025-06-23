@@ -1,0 +1,7 @@
+[20]
+The test currently being followed by the courts in cases of this sort is:
+1. The applicant must make out a serious question to be tried. If not, the application should be rejected.
+2. The applicant must make out irreparable injury not compensable by damages if the applicant is successful at trial. If damages are sufficient compensation an interlocutory injunction should not issue.
+3. If the applicant makes out requisites numbered 1 and 2 and the opposite party shows a bona fide arguable case to be tried the court must then decide whether the balance of convenience lies in granting or refusing the interlocutory injunction. The burden in this respect is on the applicant.
+(This is a summary of Halliburton Co. v. Northstar, (supra) at 76 per Cattanach, J.)
+Serious Question

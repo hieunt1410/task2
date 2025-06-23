@@ -1,0 +1,211 @@
+[1]
+Harrington, J.
+: This case brings to mind such old song titles as "It's Just a Matter of Time" and "Time Changes Everything". Hoffmann-La Roche applied to have two patents listed under the
+Patented Medicines (Notice of Compliance) Regulations
+. The Minister says he would have listed them if the application had been made earlier. He says it is now too late. This is a judicial review of that decision. An application for listing made in relation to a New Drug Submission would have been made in time. The question is whether an application made in connection with a supplement thereto is also timely.
+[2]
+Patent medicines are big business. Our law plays off the innovative, or brand name, pharmaceutical companies against the generic companies in order to get the best of all worlds. The goal is to have state-of-the-art medicine at affordable prices. The commercial interests of competing pharmaceutical companies and the administration of a food and drug policy designed to prevent the marketing of drugs which are not safe and efficient come together in the said
+Regulations
+.
+[3]
+Where an innovator, or first person, such as Hoffmann-La Roche has filed a New Drug Submission ("NDS") and has been given a Notice of Compliance ("NOC") with respect to that drug (meaning that Health Canada considers it safe and efficacious and that it can be marketed), and another company comes along seeking its own NOC for a comparable drug on the basis of bioequivalence, the innovator can take steps under the
+Regulations
+to prevent the imitator from marketing its drug for a certain period of time, but only if the innovator's patents have been listed.
+[4]
+The operation of the
+Regulations
+has been aptly summarized by Sharlow, J.A., in
+Eli Lilly Canada Inc. v. Canada (Minister of Health)
+(2003), 23 C.P.R.(4th) 289 (F.C.A.). A drug manufacturer, such as Hoffmann-La Roche, to whom a NOC has been issued for a patented medicine, may submit a list of related patents, and becomes the "first person" in respect thereof. The Minister may not issue a NOC for a comparable drug unless the provisions of s. 5 of the
+Regulations
+are met. The requisite comparability includes bioequivalence. The second drug manufacturer, often a generic, must in its Abbreviated NDS either agree that no NOC shall be issued to it until the first patent expires, or allege that the first person made false representations in its original application, that the patent has either expired or is not valid, or that its drug would not infringe any claim on the original drug or its use. If the first person takes issue with the said Notice of Allegation it may bring an application in this Court for an order prohibiting the Minister of Health from issuing a NOC for 24 months, unless terminated earlier by the expiry of the patent or by a court declaration that the patent is not valid or that the non-infringement allegation is justified. The mere application precludes the Minister from issuing a NOC to the second person. As noted by the Supreme Court in
+Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al.
+, [1998] 2 S.C.R. 193; 227 N.R. 299; 80 C.P.R.(3d) 368, this is a "draconian" statutory stay, without the first person even having to establish a prima facia case of infringement.
+[5]
+Thus, if Hoffmann-La Roche can get its patents listed, it can keep the competition at bay, at least for a while.
+THE FACTS
+[6]
+The application for a patent entitled "Recombinant Immunoglobin Preparations" was filed in Canada in 1984, and granted in 1987. It was assigned Canadian patent number 1,218,613 ('613). The application for the second patent in question, entitled "Method of Treating Tumour Cells by Inhibiting Growth Factor Receptor Function" was filed in Canada in 1989, and granted 8 August 2000 under patent number 1,321,082 ('082). Both patents are owned by Genetech, Inc., an American corporation.
+[7]
+In October 1998, Hoffmann-La Roche filed an NDS for trastuzumab 21mg/ml lyophilized powder, known as HERCEPTIN. No patent list was submitted with that NDS. A Notice of Compliance (NOC) issued 13 August 1999.
+[8]
+The patent list for the two patents was only submitted in May 2002 when Hoffmann-La Roche filed a Supplementary New Drug Submission ("SNDS") for approval of an additional manufacturing site for HERCEPTIN.
+ISSUE
+[9]
+It is accepted that the patents meet the
+Regulation
+requirement that they contain a claim for the medicine itself or its use.
+[10]
+After some discussion, Health Canada decided that an SNDS for the addition of a manufacturing site did not provide a valid opportunity for the listing of a patent on the Patent Register. Health Canada is of the view that under s. 4(3) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133, as amended (
+PM(NOC) Regulations
+), the patent list for the '613 patent should have been filed with the 1998 NDS. As the '082 patent was granted 8 August 2000, under s. 4(4) of the said
+Regulations
+, the patent list should have been filed within 30 days thereof.
+[11]
+Hoffmann-La Roche takes the position that a submission for a NOC includes an SNDS, and that the patent list was timely because it was submitted at the same time as an SNDS.
+ANALYSIS
+[12]
+The case turns on the meaning of the said
+Regulations
+, as well as on the meaning of a "Notice of Compliance". As we are dealing with questions of law, the parties agree that the proper standard of review is correctness.
+[13]
+The
+Regulations
+provide:
+"4(1) A person who files or has filed a submission for, or has been issued, a notice of compliance in respect of a drug that contains a medicine may submit to the Minister a patent list certified in accordance with subsection (7) in respect of the drug.
+"(2) A patent list submitted in respect of a drug must
+(a) indicate the dosage form, strength and route of administration of the drug;
+(b) set out any Canadian patent that is owned by the person, or in respect of which the person has an exclusive licence or has obtained the consent of the owner of the patent for the inclusion of the patent on the patent list, that contains a claim for the medicine itself or a claim for the use of the medicine and that the person wishes to have included on the register;
+. . . . .
+"(3) Subject to subsection (4), a person who submits a patent list must do so at the time the person files a submission for a notice of compliance.
+"(4) A first person may, after the date of filing of a submission for a notice of compliance and within 30 days after the issuance of a patent that was issued on the basis of an application that has a filing date that precedes the date of filing of the submission, submit a patent list, or an amendment to an existing patent list, that includes the information referred to in subsection (2).
+"(6) A person who submits a patent list must keep the list up to date but may not add a patent to an existing patent list except in accordance with subsection (4)."
+"4(1) La personne qui dépose ou a déposé une demande d'avis de conformité pour une drogue contenant un médicament ou qui a obtenu un tel avis peut soumettre au ministre une liste de brevets à l'égard de la drogue, accompagnée de l'attestation visée au paragraphe (7).
+"(2) La liste de brevets au sujet de la drogue doit contenir les renseignements suivants:
+a) la forme posologique, la concentration et la voie d'administration de la drogue;
+b) tout brevet canadien dont la personne est propriétaire ou à l'égard duquel elle détient une licence exclusive ou a obtenu le consentement du propriétaire pour l'inclure dans la liste, qui comporte une revendication pour le médicament en soi ou une revendication pour l'utilisation du médicament, et qu'elle souhaite voir inscrit au registre;
+. . . . .
+"(3) Sous réserve du paragraphe (4), la personne qui soumet une liste de brevets doit le faire au moment du dépôt de la demande d'avis de conformité.
+"(4) La première personne peut, après la date de dépôt de la demande d'avis de conformité et dans les 30 jours suivant la délivrance d'un brevet qui est fondée sur une demande de brevet don't la date de dépôt est antérieure à celle de la demande d'avis de conformité, soumettre une liste de brevets, ou toute modification apportée à une liste de brevets, qui contient les renseignements visés au paragraphe (2).
+"(6) La personne qui soumet une liste de brevets doit la tenir à jour mais ne peut ajouter de brevets à une liste que si elle le fait en conformité avec le paragraphe (4)."
+[14]
+The
+Regulations
+say in s. 2:
+"'notice of compliance' means a notice issued under section C.08.004 of the Food and Drug Regulations;"
+"'avis de conformité' Avis délivré au titre de l'article C.08.004 du Règlement sur les aliments et drogues."
+[15]
+Section C.08.004 of the
+Food and Drug Regulations
+, C.R.C. 870, as amended, requires the Minister, if the circumstances warrant, to issue a NOC after completing "an examination of a new drug submission or abbreviated new drug submission or a supplement to either submission".
+[16]
+Under s. C.08.003 of those
+Regulations
+, the manufacturer needs approval in order to continue to sell a drug in respect of which a NOC has been issued if it proposes certain changes. It must file a supplement to the NDS to cover, among other things, a change in the brand name of the drug, the plant and equipment used in manufacturing, preparation and packaging the new drug, and new claims made for the drug, i.e., indications that it may be used for a purpose other than that for which it was first approved.
+[17]
+In order to be eligible to submit a patent list, the manufacturer must also be the owner, have an exclusive license, or have the consent of the patent owner.
+[18]
+The only evidence that Hoffmann-La Roche is eligible to apply for an SNDS is the patent list itself, dated 29 April, 2002. Hoffmann-La Roche states that it has the consent of the owner of the patents. This list, which is on a government form, does not call upon the applicant to state when it obtained consent, and it has not volunteered that information. It should be noted that Genetech, the patent owner, could not have submitted the patents for listing because it was not in a position to obtain a NOC. Only the person who intends to manufacture the medicine in Canada, in this case Hoffmann-La Roche, can apply . Thus, it may well be that no one could have submitted the two patents for listing before April 2002; Genetech, because it was not the manufacturer, and Hoffmann-La Roche because it may not have had an exclusive license from or the consent of Genetech, the patent owner.
+[19]
+The bona fides of Hoffmann-La Roche in applying for approval of a new manufacturing site is not questioned by the Minister. While it may be taking advantage of its need for a new manufacturing site in order to get the patents listed, there is no suggestion whatever that the exercise is a sham.
+RULE OF STATUTORY INTERPRETATION
+[20]
+The modern rule of statutory interpretation is well-known. A recent example in
+Glykis v. Hydro-Québec
+, [2004] S.C.J. No. 56; 325 N.R. 369; 2004 SCC 60, where Deschamps, J., said:
+"5. The approach to statutory interpretation is well-known (
+Bell ExpressVu Limited Partnership v. Rex
+, [2002] 2 S.C.R. 559; 2002 SCC 42). A statutory provision must be read in its entire context, taking into consideration not only the ordinary and grammatical sense of the words, but also the scheme and object of the statute, and the intention of the legislature. This approach to statutory interpretation must also be followed, with necessary adaptations, in interpreting regulations."
+[21]
+The
+PM(NOC) Regulations
+were last amended in 1998. The Regulatory Impact Analysis Statement serves as a guide to Parliament's intentions. In
+Bristol-Myers Squibb Canada Inc. v. Canada (Attorney General) et al.
+(2001), 199 F.T.R. 142; 10 C.P.R.(4th) 318 (T.D.), Campbell, J., quoted a portion of the statement to support the proposition that there is a balance between effective enforcement of patent rights and ensuring generic drug products enter the market as soon as possible. He said at FRAGMENT_SUPPRESSED
+His decision was maintained in appeal (2002), 288 N.R. 24; 16 C.P.R.(4th) 425 (F.C.A.). More recently, the Regulatory Impact Analysis Statement, and Campbell, J.'s, analysis thereof in
+Bristol-Myers Squibb
+, supra, were referred to by Heneghan, J., in
+AstraZeneca Canada Inc. v. Canada (Minister of Health)
+, [2004] F.C.J. No. 883; 253 F.T.R. 195; 2004 FC 736, at paragraphs 22 and following. I agree the statement is useful in this particular instance.
+THE CASE LAW
+[22]
+The parties rely on the same cases, but differ as to what they stand for, and propose that I draw different inferences from them. This much is certain: the submission for a notice of compliance which can support a patent list within the meaning of s. 4 of the
+Regulations
+need not necessarily be a new drug submission or an abbreviated new drug submission. It may be an application supplementary to either.
+-
+Apotex Inc. v. Canada (Minister of Health) et al.
+(1999), 165 F.T.R. 42; 87 C.P.R.(3d) 271 (T.D.), affd. [2001] N.R. Uned. 25; 11 C.P.R.(4th) 538 (F.C.A.).
+[23]
+Although a supplementary submission may serve as the vehicle for a patent listing, it does not follow that the Minister must register every patent list sent along with an SNDS. Even though a change in the brand name of the drug requires an SNDS, if the name change has no purpose other than to allow the manufacturer to submit a patent list which it could have filed earlier, the Minister should refuse to register the list because to do otherwise would be to circumvent the timing requirements of the
+Regulations
+.
+-
+Bristol-Myers Squibb Canada Inc.
+, supra, affd. (2002), 16 C.P.R.(4th) 425;
+-
+Toba Pharma Inc. v. Canada (Attorney General) et al.
+(2002), 227 F.T.R. 261; 21 C.P.R.(4th) 232 (T.D.), Blais, J.;
+-
+Ferring Inc. v. Canada (Attorney General) et al.
+(2003), 310 N.R. 186; 26 C.P.R.(4th) 155 (F.C.A.).
+[24]
+Although a change in the brand name of the drug requires an SNDS, a change in the manufacturer's name does not. However, there is an administrative practice to cover that change by an SNDS. Even assuming that the name change was not solely motivated by a desire to submit a patent list, it was held in
+AstraZeneca Canada
+, supra, that such an SNDS does not trigger the opportunity to list a patent. Heneghan, J., was of the view that the
+PM(NOC) Regulations
+are connected with the safety and efficacy of pharmaceutical products, so that the submission for a patent list must be related to those purposes. She held that the underlying submission was not so connected as its purpose was purely administrative, i.e., to record a change of the manufacturer's name. I agree with her analysis.
+[25]
+In the present case, it is common ground that:
+A) there is no evidence that Hoffmann-La Roche is trying to make up for a missed opportunity to file the patent list. There is no evidence that it could have filed such a list any earlier than it did, i.e. when did it obtain Genetech's consent?
+B) Hoffmann-La Roche needs to have an additional manufacturing site and it requires approval by way of an SNDS.
+[26]
+Both parties agree that the most relevant decision is the one recently handed down by the Federal Court of Appeal in
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+, [2004] F.C.J. No. 708; 320 N.R. 37; 2004 FCA 154. That case dealt with an SNDS for a new indication, i.e., a new purpose for which the pharmaceutical product could be used. The motions judge found that the SNDS was not filed in an effort to circumvent the time limitations set out in s. 4 of the
+Regulations
+. Hoffmann-La Roche says that the case stands for the proposition that once bona fides was established the motions judge should not have gone any further and should have held that the Minister was wrong to refuse to list the patent.
+[27]
+The Minister's position in its written submissions filed before
+Abbott
+was decided was that the only SNDS which can support a submission for patent listing is one which involves a comparison between the drug covered by the NDS and the drug covered by the SNDS. Since both deal with HERCEPTIN there is no basis for comparison and therefore no basis for filing.
+[28]
+Hoffmann-La Roche counters that even if its bona fides argument is not good enough, the Minister is wrong in arguing that since the SNDS does not propose changes to the drug itself, the patent cannot be listed because it should have been listed with the original NDS. It relies upon
+Eli Lilly Canada Inc.
+, supra, and
+Abbott
+. Eli Lilly had been issued a NOC in respect of a drug, Tazidime, that contained a medicine, Ceftazidime. It was permitted to submit a patent list with respect to the drug Tazidime. The Court had to identify the patents it was entitled to include in that list. Sharlow, J.A., speaking for the majority, concluded that in the case of a patent list submitted for Tazidime, any patent that contained a claim for Ceftazidime itself, or that contained a claim for a formulation in which Ceftazidime was an active medical ingredient was within the scope of the
+Regulations
+. She dismissed the Minister's argument that the
+Regulations
+required a relevance relationship between the drug named in the NOC and the patent. Although it was undisputed that Tazidime made no use of the invention disclosed in the patent, the Minister's argument was rejected because it could be theoretically possible that a generic drug manufacturer could produce a drug consisting of a formulation of Ceftazidime and amorphous lactose that was bioequivalent to Tazidime even though not exactly the same because Tazidime does not include amorphous lactose. That product could infringe the patent. Consequently, the patent should have been listed as otherwise Eli Lilly would be deprived of its right to stop the Minister from issuing a NOC to a competitor.
+[29]
+Hoffmann-La Roche goes further and suggests the purpose of the law is to protect patents. Since there is no evidence that it is in bad faith or that it could have listed the patents earlier, the list should have been accepted when the SNDS for an additional manufacturing site was made. It also relies upon
+Apotex Inc. v. Canada (Minister of Health) et al.
+, [2004] F.C.J. No 790; 252 F.T.R. 8; 2004 FC 650. That was in essence a dispute between two pharmaceutical companies on the meaning of another section of the
+Regulations
+, and does not appear to me to be of application.
+[30]
+I am of the view that
+Eli Lilly
+, supra, is not of assistance in determining whether a patent list is filed late, as opposed to whether it can be filed at all. Furthermore, there was a bioequivalence issue between the drug and the patent.
+Abbott
+, supra, controls and stands for the proposition that a person may submit a patent list with an SNDS as long as the SNDS relates to the drug or to its use.
+[31]
+In
+Abbott
+, supra, the SNDS was in respect of a new indication, that is to say was in respect of the drug or its use. An SNDS for an additional manufacturing site is not and so cannot support a patent listing. Matters such as brand names and manufacturing sites are merely incidental to the drug and its purposes.
+[32]
+I think the reference by Richard, C.J., in
+Abbott
+to bona fides serves as a warning that a concocted SNDS for a new indication may not serve as the basis of a patent listing if the real purpose is to circumvent the timing requirements of the
+Regulations
+.
+[33]
+Richard, C.J., said:
+"27. This Court has previously contemplated when an SNDS will not support a patent listing.
+Bristol-Myers Squibb Canada Inc. v. Attorney General of Canada et al.
+(2002), 16 C.P.R.(4th) 425 (F.C.A.), affg. (2001), 10 C.P.R.(4th) 318 and
+Ferring Inc. v. Canada (Attorney General)
+(2003), 26 C.P.R.(4th) 155 (F.C.A.), offer examples of manifest attempts to list patents after the time limitations set out in s. 4 of the
+PM(NOC) Regulations
+had expired.
+"28. The case at bar falls outside of the scope of
+Bristol-Myers Squibb
+and
+Ferring
+. As I have already determined, the SNDS was in respect of a new indication, for Abbott and Abbott required Ministerial approval to sell or market the combination of Biaxin (clarithromycin), amoxicillin and lansoprazole in Canada. As stated by the Motions Judge, this was not an attempt by Abbott to circumvent the time limitations set out in the
+PM(NOC) Regulations
+."
+[34]
+Although
+Abbott
+is not as broad as the submissions made by the Minister in this case, he was still right in his refusal to list the patents.
+[35]
+In the circumstances, it is not necessary to speculate as to what the result would have been had Hoffmann-La Roche's SNDS been in relation to the drug itself or to its use and if there were evidence that it could have filed a patent list years ago. There is simply nothing in the record as to when it first obtained Genetech's consent to file the list.
+[36]
+The application for judicial review shall be dismissed with costs. At the hearing both parties agreed that costs should follow the event, and that they would endeavour to reach an agreement. I remarked that irrespective of the outcome of the case, costs should be on a party and party basis, preferably for a lump sum. If they cannot reach an agreement they may come to me for directions.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/gs
+[End of document]

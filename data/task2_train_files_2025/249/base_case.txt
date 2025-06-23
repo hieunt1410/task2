@@ -1,0 +1,53 @@
+Fallahi v. Can. (M.C.I.), [2003] F.T.R. Uned. 493 (FC)
+MLB unedited judgment
+Hossain Fallahi (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-1505-02; 2003 2003 FC 906)
+Indexed As: Fallahi v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2003] F.T.R. Uned. 493
+Federal Court
+Dawson, J.
+July 22, 2003.
+Counsel:
+Mira Thow, for the applicant;
+Nalini Reddy, for the respondent.
+Solicitors of Record:
+Zaifman Associates, Immigration Lawyers, Winnipeg, Manitoba, for the applicant;
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Dawson, J.
+: On January 28, 2002, a visa officer at the Canadian Embassy in Damascus, Syria rejected Mr. Fallahi's application for permanent residence in Canada on the ground that his dependent wife, Homa Khatibi, was medically inadmissible. Mr. Fallahi brings this application for judicial review of that decision.
+[2]
+Mrs. Khatibi received a kidney transplant in 1987 and as a result is required to be maintained on anti-rejection medications, including 200 mg of cyclosporine daily. Cyclosporine is an expensive medication. Two medical officers concluded that the cost of cyclosporine for Mrs. Khatibi will be approximately $8,100.00 per year, that the cost of cyclosporine is covered by the Government of Ontario (the intended destination in Canada of Mr. Fallahi and his wife) and that the average cost of medical and (perhaps) social services for an average Canadian is around $3,000.00 per year. Based on those conclusions the medical officers determined that the admission of Mrs. Khatibi to Canada would likely cause excessive demands for Canadian health services. In consequence, the visa officer found that Mrs. Khatibi is medically inadmissible pursuant to subparagraph 19(1)(a)(ii) of the Immigration Act, R.S.C 1985, c. I-2 (repealed) ("Act"). Subparagraph 19(1)(a)(ii) was as follows:
+19(1) No person shall be granted admission who is a member of any of the following classes:
+(a) persons, who are suffering from any disease, disorder, disability or other health impairment as a result of the nature, severity or probable duration of which, in the opinion of a medical officer concurred in by at least one other medical officer,
+. . . . .
+(ii) their admission would cause or might reasonably be expected to cause excessive demands on health or social services;
+19(1) Les personnes suivantes appartiennent à une catégorie non admissible:
+a) celles qui souffrent d'une maladie ou d'une invalidité dont la nature, la gravité ou la durée probable sont telles qu'un médecin agréé, dont l'avis est confirmé par au moins un autre médecin agréé, conclut:
+. . . . .
+(ii) soit que leur admission entraînerait ou risquerait d'entraîner un fardeau excessif pour les services sociaux ou de santé;
+[3]
+It is conceded by the Minister on this application for judicial review that the two medical officers erred in their conclusion that the cost of cyclosporine for Mrs. Khatibi would be approximately $8,100.00 per year. This figure apparently comes from a document entitled "Renal Insufficiency & Failure Condition Report" prepared by the Immigration Health Policy Division, Selection Branch, Citizenship and Immigration Canada ("Report"). The amount of $8,100.00 is based upon a daily dosage of 400 mg per day. The evidence before the medical officers was that Ms. Khatibi requires only 200 mg per day.
+[4]
+It is argued on the Minister's behalf that this error is immaterial, in that adjusting the anticipated cost of the cyclosporine required by Mrs. Khatibi to specifically reflect her dosage would have no effect on the outcome of the application for permanent residence. This is said to be so because $4,050 ($8,100.00 divided in half, so as to reflect the proper dosage level) would still exceed the average annual per capita cost of health services and result in an excessive demand. As noted above, the medical officers in this case found that the average amount per capita cost of health services is around $3,000.00 per year.
+[5]
+I have, however, concluded that the error on the part of the medical officers does warrant the intervention of the Court for the following reasons.
+[6]
+First, the jurisprudence requires that a finding of medical inadmissibility be based upon an assessment of the particular and unique circumstances of the individual in question. FRAGMENT_SUPPRESSED. In the case at bar, Dr. Saint-Germain, the Senior Medical Officer at the Canadian Embassy in Paris who counter-signed the medical notification and provided the concurring medical opinion on medical inadmissibility, swore an affidavit in opposition to the application for judicial review. In it he deposed that:
+5. According to the documentary evidence submitted, Mrs. Khatibi would require to be maintained on cyclosporine and imuran as antirejection drugs. Cyclosporine itself is very expensive and costs significantly more than the amount spent annually on the average Canadian. According to a report prepared by the Immigration Health Policy Division of CIC, the cost for cyclosporine is approximately $40,475 per 5 year period.
+[7]
+Reliance upon the cost contained in the Report reflects the failure to assess Mrs. Khatibi as an individual and to assess her unique circumstances and dosage requirements. In my view, that failure cannot safely be rendered immaterial by simply dividing the cost projected in the Report in half.
+[8]
+Second, "excessive" demands for social or health services for the purpose of paragraph 19(1)(a)(ii) of the Act are those demands "that exceed normal demands, provided that the margin is significant. What is significant in this context calls for an assessment of all the circumstances". See: Deol v. Canada (Minister of Citizenship and Immigration), [2003] 1 F.C. 301 (C.A.), at paragraph 30. I am not prepared to speculate as to what the result would have been had the consideration regarding the cost of cyclosporine been based upon the correct dosage. It is not for this Court to conclude whether, after assessing all of the circumstances, the cost margin in the case at bar is sufficiently significant such that it constitutes an excessive demand. For example, Deol, supra at paragraph 31 is express that, when cost is the issue, normal demands should be related to the section of the Canadian population in the same age group as the individual in question. This is a different comparator than the average annual per capita cost relied upon by the Minister in arguing that the error is not material.
+[9]
+Having concluded that the error of the medical officers was material, it is necessary to send the matter back for redetermination.
+[10]
+Counsel posed no question for certification and no question arises on this record.
+ORDER
+[11]
+IT IS HEREBY ORDERED THAT:
+1. The application for judicial review is allowed and the decision of the visa officer dated January 28, 2002 is hereby set aside.
+2. The application for permanent residence is to be referred for reconsideration by a different visa officer and by two different medical officers.
+[End of document]

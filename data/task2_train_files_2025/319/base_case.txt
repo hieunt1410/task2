@@ -1,0 +1,80 @@
+[1]
+Teitelbaum, J.
+: This is an application for judicial review, pursuant to s. 18.1 of the
+Federal Court Act
+, of the visa officer's decision dated February 17, 1998 refusing the applicant's application for permanent residence in Canada. The applicant seeks a writ of certiorari quashing the said decision and a mandamus directing the respondent to reconsider and process the applicant's application for permanent residence.
+Facts
+[2]
+The applicant and his family, citizens of Nigeria, filed an application for permanent residence in Canada which was received at the Canadian High Commission in London on June 20, 1997. They have resided in the UK since 1989. Following the original paper-screening process, the applicant was awarded 63 units and was therefore invited to an interview. On January 5, 1998, the visa officer Delphina Ocquaye interviewed the applicant and his spouse. By letter dated February 17, 1998, the visa officer rejected their application for permanent residence on the basis that the applicant failed to obtain 70 units of assessment as required under the
+Immigration Regulations
+, 1978. The officer assessed the applicant as an editor and awarded him the following units of assessment:
+Age	10
+Occupational Demand 	03
+Specific Vocational Preparation/	17
+Education and Training
+Experience	 0
+Arranged Employment	0
+Demographic Factor	08
+Education	16
+English	9
+French	0
+Bonus (Close Relative in Canada)	0
+Personal Suitability	5
+Total	68
+Parties' Position
+Applicant's Position
+[3]
+The applicant argues that the visa officer erred in awarding him zero units of experience as an editor. It is argued that the visa officer misinterpreted the employment requirements, truncated the definition of editor from the National Occupational Classification ("NOC"), and in turn failed to assess whether the applicant's related work experience as a reporter met the requirements under the occupation of editor. Also, it is submitted that the officer's decision that the applicant did not perform the duties of an editor is unreasonable.
+Respondent's Position
+[4]
+The respondent argues that the visa officer correctly found that the applicant failed to meet his burden of showing he had the relevant experience for the occupation of editor and that his experience was transferable to the Canadian environment. Further, it is submitted that the officer considered the applicant's related experience as a reporter and professor of journalism and found that the applicant lacked the necessary experience in journalism, writing, publishing or a related field as required by the NOC. Further, it is submitted that the officer's decision was not unreasonable as the officer found that the applicant did not perform a number of the duties of an editor. Also, the applicant failed to show that the officer exercised his discretion without regard to the relevant material or in any way contrary to law.
+Issues
+[5]
+The applicant raises two issues:
+1) Did the visa officer fail to take into consideration the phrase "related field" in assessing whether the applicant met the employment requirements of his intended occupation.
+2) Is the visa officer's finding that the applicant did not perform the duties of an "editor" unreasonable in light of the material before her.
+Analysis
+Relevant Considerations
+[6]
+The present application raises the issue of whether the officer misinterpreted the definition of editor and, in turn, failed to consider the applicant's related experience as a reporter to determine whether the applicant met the occupational requirements for editors. The applicant relies on
+Qui v. Canada (Minister of Citizenship and Immigration)
+, [1997] F.T.R. Uned. 235 (T.D.), for the proposition that visa officers have a duty to consider experience in related fields in assessing a person's experience for a specific occupation.
+[7]
+The respondent submits that the visa officer Mrs. Ocquaye did consider the applicant's related experience as a reporter in assessing his experience as an editor. By way of affidavit, the visa officer deposed to the fact that the applicant advised her of his experience as a reporter for the Ministry of Information and Culture in Nigeria, the details of which are recorded in the CAIPS notes. Mrs. Ocquaye's affidavit also states the following regarding the applicant's experience as a reporter, in paragraphs 7 and 11.
+"Experience as a journalist or in writing is usually required in order to be an editor. The applicant's work as a reporter for the Department of Information in Nigeria to promote the government's policies did not, in my opinion, qualify him as a journalist. I was not satisfied that the applicant's work for the Ministry of Information and Culture could be transferred to the Canadian job market. I therefore did not believe he met the employment requirements of an editor.
+. . . . .
+"I therefore gave the applicant zero points for experience because I did not feel he met the employment requirements for the position as specified in the National Occupational Classification Dictionary or that the duties he had performed provided the required skills for the position in Canada."
+[8]
+In my view, this excerpt shows that the visa officer thought that experience as a journalist or in writing was required to be an editor. Consequently, the officer disregarded the applicant's related experience as a reporter because the duties he performed as a reporter for the Department of Information in Nigeria were not tantamount to those of a journalist. The respondent contends that there is no reviewable error as the officer did consider the applicant's experience as a reporter.
+[9]
+I disagree with the respondent's position. While the officer was advised of the applicant's experience as a reporter and considered it in her assessment, I am satisfied that the officer erred in concluding that the applicant's application should be dismissed because his experience as a reporter did not qualify him as a journalist and that experience as a journalist was required to be an editor. In my view, this conclusion shows that the applicant's related experience was dismissed for the reason that it was not tantamount to experience in journalism.
+[10]
+This is a misconceived interpretation of the Canadian Classification and Dictionary of Occupations ("CCDO"). The applicant's memorandum reproduces the definition of editor, which is as follows:
+"A bachelor's degree in journalism, English, French or a related discipline is usually required.
+"Several years of experience in journalism, writing, publishing or a
+related field
+are usually required." (emphasis added by the applicant)
+[11]
+It is clear upon reading this definition that while experience in journalism or in writing may most usually be the basic standards of comparison, experience in related fields which allow a person to gain the experience and skills required to work as an editor should not be disregarded for the mere reason that it is not tantamount to journalism. In my view, the visa officer misinterpreted the CCDO or failed to take into account the entire definition of editor in assessing the applicant's experience.
+[12]
+In
+FRAGMENT_SUPPRESSED the court allowed an application for judicial review on the ground that the visa officer had misinterpreted the occupation description on the facts of the applicant's situation, and in so doing erred in law. FRAGMENT_SUPPRESSED[13]
+I am satisfied that the officer misinterpreted the definition of editor from the CCDO on the facts of this case, and as Justice Gibson did in
+Prajapati
+, supra, I would remit the matter back to the respondent for redetermination.
+[14]
+The applicant also contends that the officer's decision that he did not perform the duties of an editor is unreasonable. There seems to be discrepancies between the parties' recollection of what transpired at the interview, as evidenced by their respective affidavit. The applicant declares in his affidavit that he advised the visa officer of a long list of duties he performed as an editor, which is listed in his affidavit. The visa officer denies that the applicant made any mention of these duties during the interview. The visa officer declared at paragraphs 14 and 15 of her affidavit:
+"At no point during the interview or any other relevant time did the applicant say that as part of his duties he would liaise with other line editors such as sports editor, feature editor and women's editor. In fact there was no reference to sports editor, feature editor or women's editor during the interview.
+"At no point during the interview did the applicant say his general duties included attending meetings and conferences, budget control, motivating journalists and office assistants, ensuring that journalists attended certain meetings or courses or seminars and improving the image of the publisher."
+[15]
+However, in the present case, there is no need to determine the probity of these conflicting statements or to ascertain the reasonableness of the visa officer's decision regarding the applicant's experience as an editor as I am satisfied that the case should be referred back for redetermination.
+Conclusion
+[16]
+The visa officer's conclusion is based on the assumption that the applicant's related experience did not qualify him as a journalist. I am satisfied the officer erred in disregarding the applicant's experience as a reporter for the reason that it did not qualify him as a journalist.
+[17]
+I allow the application for judicial review and refer the matter back for redetermination before a different visa officer.
+[18]
+Neither party had a question for certification.
+Application allowed.
+Editor: Angela E. McKay/klf
+[End of document]

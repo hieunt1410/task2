@@ -1,0 +1,45 @@
+[27]
+The relevant provisions of the
+Canada Labour
+Code
+are subsection 240(1) and sections 242 and 243 which read as follows:
+"240(1) Subject to subsections (2) and 242(3.1), any person
+(a) who has completed twelve consecutive months of continuous employment by an employer, and
+(b) who is not a member of a group of employees subject to a collective agreement, may make a complaint in writing to an inspector if the employee has been dismissed and considers the dismissal to be unjust.
+"242(1) The Minister may, on receipt of a report pursuant to subsection 241(3), appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate on the complaint in respect of which the report was made, and refer the complaint to the adjudicator along with any statement provided pursuant to subsection 241(1).
+"242(2) An adjudicator to whom a complaint has been referred under subsection (1)
+(a) shall consider the complaint within such time as the Governor in Council may by regulation prescribe;
+(b) shall determine the procedure to be followed but shall give full opportunity to the parties to the complaint to present evidence and make submissions to the adjudicator and shall consider the information relating to the complaint; and
+(c) has, in relation to any complaint before the adjudicator, the powers conferred on the Canada Industrial Relations Board, in relation to any proceeding before the Board, under paragraphs 16(a), (b) and (c).
+"242(3) Subject to subsection (3.1), an adjudicator to whom a complaint has been referred under subsection (1) shall
+(a) consider whether the dismissal of the person who made the complaint was unjust and render a decision thereon; and
+(b) send a copy of the decision with the reasons therefor to each party to the complaint and to the Minister.
+"242(3.1) No complaint shall be considered by an adjudicator under subsection (3) in respect of a person where
+(a) that person has been laid off because of lack of work or because of the discontinuance of a function; or
+(b) a procedure for redress has been provided elsewhere in or under this or any other Act of Parliament.
+"242(4) Where an adjudicator decides pursuant to subsection (3) that a person has been unjustly dismissed, the adjudicator may, by order, require the employer who dismissed the person to
+(a) pay the person compensation not exceeding the amount of money that is equivalent to the remuneration that would, but for the dismissal, have been paid by the employer to the person;
+(b) reinstate the person in his employ; and
+(c) do any other like thing that it is equitable to require the employer to do in order to remedy or counteract any consequence of the dismissal.
+"243(1) Every order of an adjudicator appointed under subsection 242(1) is final and shall not be questioned or reviewed in any court.
+"243(2) No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain an adjudicator in any proceedings of the adjudicator under section 242."
+"240(1) Sous réserve des paragraphes (2) et 242(3.1), toute personne qui se croit injustement congédiée peut déposer une plainte écrite auprès d'un inspecteur si:
+a) d'une part, elle travaille sans interruption depuis au moins douze mois pour le même
+b) d'autre part, elle ne fait pas partie d'un groupe d'employés régis par une convention collective.
+"242(1) Sur réception du rapport visé au paragraphe 241(3), le ministre peut désigner en qualité d'arbitre la personne qu'il juge qualifiée pour entendre et trancher l'affaire et lui transmettre la plainte ainsi que l'éventuelle déclaration de l'employeur sur les motifs du congédiement.
+"242(2) Pour l'examen du cas dont il est saisi, l'arbitre:
+a) dispose du délai fixé par règlement du gouverneur en conseil;
+b) fixe lui-même sa procédure, sous réserve de la double obligation de donner à chaque partie toute possibilité de lui présenter des éléments de preuve et des observations, d'une part, et de tenir compte de l'information contenue dans le dossier, d'autre part;
+c) est investi des pouvoirs conférés au Conseil canadien des relations industrielles par les alinéas 16a), b) et c).
+"242(3) Sous réserve du paragraphe (3.1), l'arbitre:
+a) décide si le congédiement était injuste;
+b) transmet une copie de sa décision, motifs à l'appui, à chaque partie ainsi qu'au ministre.
+"242(3.1) L'arbitre ne peut procéder à l'instruction de la plainte dans l'un ou l'autre des cas suivants:
+a) le plaignant a été licencié en raison du manque de travail ou de la suppression d'un poste;
+b) la présente loi ou une autre loi fédérale prévoit un autre recours.
+"242(4) S'il décide que le congédiement était injuste, l'arbitre peut, par ordonnance, enjoindre à l'employeur:
+a) de payer au plaignant une indemnité équivalant, au maximum, au salaire qu'il aurait normalement gagné s'il n'avait pas été congédié;
+b) de réintégrer le plaignant dans son emploi;
+c) de prendre toute autre mesure qu'il juge équitable de lui imposer et de nature à contrebalancer les effets du congédiement ou à y remédier.
+"243(1) Les ordonnances de l'arbitre désigné en vertu du paragraphe 242(1) sont définitives et non susceptibles de recours judiciaires.
+"243(2) Il n'est admis aucun recours ou décision judiciaire - notamment par voie d'injonction, de certiorari, de prohibition ou de quo warranto - visant à contester, réviser, empêcher ou limiter l'action d'un arbitre exercée dans le cadre de l'article 242."

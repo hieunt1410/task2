@@ -1,0 +1,9 @@
+[20]
+It is well settled that the test to be applied in considering whether an interlocutory injunction is appropriate is the tri-partite test articulated by the Supreme Court of Canada in
+RJR-MacDonald Inc. v. Canada (Attorney General)
+, [1994] 1 S.C.R. 311. In that case, the Court stated that an applicant must establish three principles in order to be granted an interlocutory injunction. Those principles are:
+i. the existence of a serious issue to be tried;
+ii. the existence of irreparable harm if the injunction is not granted; and
+iii. the balance of convenience must favour granting the injunction.
+All three elements must be considered in turn.
+Serious issue to be tried

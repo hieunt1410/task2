@@ -1,0 +1,198 @@
+[1]
+Muldoon, J.
+: How the parties became to be styled "plaintiff" and "defendant" respectively is a mystery which will be resolved by order, reverting to the original, proper style of cause as seen above.
+[2]
+On February 5, 1997, Madam Justice Tremblay-Lamer accorded ex parte to the applicant (the MNR) a so-called "jeopardy order" against the respondent pursuant to paragraphs 225.1(1)(a), (b), (c), (d), (e), (f) and (g) of the
+Income Tax Act
+, R.S.C. 1985 (5th Supp.) c. 1 as amended, (the
+Act
+).
+[3]
+The respondent, herself, has filed a notice of motion for review of the above mentioned order, "as per rule 330". That rule permits the court to rescind any order which was made ex parte. (At the hearing of this matter in Winnipeg on July 15, 1997 she was represented by counsel.)
+[4]
+The respondent's notice of motion continues:
+"This motion is based on the following
+1. That the properties seized, according to the
+Insurance Act
+[Manitoba], s. 173(1) and 173(2) cannot be seized.
+2. That these are life insurance policies with a named primary beneficiary, and cannot be seized.
+3. This motion is accompanied by a copy of the appropriate sections of the
+Insurance Act
+.
+4. This motion is accompanied by attached affidavit."
+The notice of motion is dated February 11, 1997.
+[5]
+The parties filed a great mass of finely detailed documentation on this motion, which has taken the court an inordinate time to assimilate. Much of the respondent's supporting material turned out, in the end, to be irrelevant to the issues of law. Much of the respondent's material, although far from all of it, was of a personal, sociological nature which evoked a feeling of sympathy for the respondent and her family. The court respects their plight.
+[6]
+A brief overview of the statutory framework is necessary to comprehend the issue before the court. Section 225.1(1) of the
+Act
+prohibits the Minister from taking any of the collection actions regarding an amount assessed under the
+Act
+which are enumerated in ss. 225.1(1)(a) to (g), for ninety days after the mailing of the notice of assessment. Section 225.1(2) provides that where a taxpayer lodges an objection against the assessment, the Minister is similarly prohibited from taking the above actions to collect the outstanding tax for ninety days after the mailing of the confirmation or variation of the assessment. Section 225.1(3) provides that where there is an appeal against the assessment to the Tax Court of Canada, the Minister is prohibited from taking the above actions until the day after the day on which the decision is mailed to the taxpayer or on the day on which the taxpayer discontinues the appeal.
+[7]
+Section 225.2(2), however, sets out an exception to the prohibitions in section 225.1. It reads:
+"(2) Notwithstanding section 225.1, where, on ex parte application by the Minister, a judge is satisfied that there are grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection of that amount, the judge shall, on such terms as the judge considers reasonable in the circumstances, authorize the Minister to take forthwith any of the actions described in paragraphs 225.1(1)(a) to (g) with respect to the amount."
+[8]
+In the same vein, s. 225.2(3) allows the Minister to make a s. 225.2(2) application prior to issuance of a notice of assessment if the judge is "satisfied that the receipt of the notice of assessment by the taxpayer would likely further jeopardize the collection of the amount". Section 225.2(8) provides for the review of orders made pursuant to s. 225.2(2) if the application is made within 30 days or other limit as a judge may allow (s. 225.2(9).)
+[9]
+The test for a s. 225.2(8) review was set out by the Associate Chief Justice in
+Minister of National Revenue v. Duncan
+, [1992] 1 F.C. 713; 47 F.T.R. 220 (T.D.) at pp. 727-729:
+"In reviewing the authorization granted under s. 225.2(2), it is necessary to consider whether there are reasonable grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by the delay in the collection thereof. McNair, J., in
+Danielson v. Deputy Attorney General of Canada and Minister of National Revenue
+, [1986] D.T.C. 6518 at 6519, 2 C.T.C. 380 at 381 (F.C.T.D.), enunciated the test to be met with respect to the previous s. 225.2(1):
+'... the issue is not whether the collection per se is in jeopardy but rather whether the actual jeopardy arises from the likely delay in the collection thereof.'
+"This test continues to be appropriate despite the 1985 amendments:
+Minister of National Revenue v. Satellite Earth Station Technology
+(1989), 30 F.T.R. 94; 89 D.T.C. 5506; [1989] 2 C.T.C. 291 (T.D.). In
+Satellite Earth
+, MacKay, J., reviewed the factors to be considered by a court on a s. 225.2(8) review of a jeopardy collection order. After considering the case law dealing with the former version of s. 225.2 he concluded [at D.T.C. 5510] that in a s. 225.2(8) application the Minister has the ultimate burden of justifying the decision despite the fact that s. 225.2 as amended no longer includes the former paragraph (5) that specifically stated that 'on the hearing of an application under paragraph 2(c), the burden of justifying the decision is on the Minister'. However, the initial burden is on the taxpayer to show that there are reasonable grounds to doubt that the test has been met.
+'In an application to review a "jeopardy order" originally granted under paragraph 225.2(2) the issue will be whether that order will now be set aside or varied. In this, an applicant under paragraph 225.2(8) has the initial burden to muster evidence, whether by affidavits, by cross-examination of affiants on behalf of the Crown, or both, that there are reasonable grounds to doubt that the test required by paragraph 225.2(2) has been met. Thus the ultimate burden on the Crown established by paragraph 225.2(2) continues when an order granted by the court is reviewed under paragraph 225.2(8).
+'Occasionally there may be concern about whether the order should have been made initially, but I expect that this will not often be the principal focus, unless there appears to have been a serious procedural flaw in the original application.
+'... The evidence must be considered in relation to the test established by paragraph 225.2(2) itself and by relevant cases, that is, whether on a balance of probability the evidence leads to the conclusion that it is more likely than not that collection would be jeopardized by delay.'
+"Mere suspicion that collection will be jeopardized by the delay is not sufficient:
+1853-9049 Québec Inc. v. Her Majesty the Queen
+(1986), 87 D.T.C. 5093 (F.C.T.D.). In
+1853-9049 Québec Inc.
+, Rouleau, J. [at pp. 142-143] provided additional guidance with respect to the test set out in the former s. 225.2 which continues to be appropriate today:
+'I agree with McNair, J. [in
+Danielson
+] when he says that the Minister can require payment of the assessment forthwith if a taxpayer may not be in a position to pay simply because of the passage of time allowed by the
+Act
+. The amount of money involved is not significant: what the Minister has to know is whether the taxpayer's assets can be liquidated in the meantime or be seized by other creditors and so not available to him.
+'... In my opinion, this latitude allows the Minister to rely on the exceptional provisions contained in section 225.2(1) whenever, on a balance of probability, the time allowed by the taxpayer by section 225.1(1) would jeopardize his debt. I emphasize on a balance of probability, not beyond all reasonable doubt ... .
+'... The Minister may certainly act not only in cases of fraud or situations amounting to fraud, but also in cases where the taxpayer may waste, liquidate or otherwise transfer his property to escape the tax authorities: in short, to meet any situation in which a taxpayer's assets may vanish into thin air because of the passage of time.'"
+To this should be added Mr. Justice MacKay's additional comment in the
+Satellite
+case [
+Minister of National Revenue v. Satellite Earth Station Technology Inc.
+(1989), 30 F.T.R. 94; 89 D.T.C. 5506; [1989] 2 C.T.C. 291 (T.D.)] (p. 297, C.T.C.):
+"When the evidence submitted by the taxpayer applicant raises reasonable doubt about the sufficiency of evidence originally provided by the Crown in an ex parte application, it is implicit in the process established by section 225.2(8) that the court considering review of the authorization once made may consider originally presented on behalf of the Minister * * * and any additional evidence * * *"
+[10]
+In sum, on a review of a jeopardy authorization 1) the taxpayer has the initial onus to show reasonable grounds that the Minister did not satisfy her onus before the court in the ex parte hearing; this means full disclosure of evidence, 2) if so, the court must consider the evidence before the authorizing judge and any additional evidence to find whether on a balance of probability the collection would be jeopardized by the delay.
+[11]
+An authorization under s. 225.2(2) is an extraordinary measure for two reasons. The first is that s. 225.1 of the
+Act
+generally limits the Minister's ability to take collection actions when an assessment is formally disputed. Secondly, it is not a discretionary order. Section 225.2(2) states that if the judge is satisfied that collection of the assessment is jeopardized, the judge
+shall
+issue the authorization. The provision is a formidable and necessary weapon in the Minister's arsenal. It is because of its potentially devastating effect on certain types of properties, e.g. increasing risk by freezing securities of volatile nature, that the Minister must make full, fair and frank disclosure of the facts.
+[12]
+This being the law, has the taxpayer satisfied her initial onus? The evidence which was before Madam Justice Tremblay-Lamer, contained in the affidavit of Mr. Gilbert Desroches sworn February 3, 1997 and attached exhibits, is summarized as follows: Two assessments were at issue, a personal reassessment against the respondent issued May and September, 1996, and a January 20, 1997 assessment pursuant to s. 160 of the
+Act
+, which at the time of the jeopardy application had not yet been issued. (It was subsequently personally served on February 7, 1997). Section 160 makes the transferor and transferee jointly and severally liable for the transferor's tax when a direct or indirect transfer of property between spouses, people under 18 years old or nonarm's length parties is attributable to the transferor by ss. 74 to 75.1 of the
+Act
+.
+[13]
+The respondent's current salary is about $30,000 per annum. Her husband was involved in home construction between 1984 and 1995 and is a self-employed insurance broker. The respondent was registered as a title holder of rental properties at 2165 West Taylor Boulevard and 52 Dumbarton Boulevard, and of their current principal residence at 133 Park Place West. She was the former title holder of 129 Park Place, an empty lot which was sold to Ms. Susan Barron. The respondent and/or her husband arranged for the construction of several real properties (2 Hopwood, 2 Dumfries and 2165 West Taylor in 1991; 919 McIvor in 1992, 8 Erinview in 1994 and 129 Park Place West in 1994 and 1995). The respondent or her husband reported the disposition of the Hopwood, Dumfries and Dumbarton properties as principal residences.
+[14]
+Revenue Canada initiated an audit of the respondent and her husband for the tax years 1991 to 1994. Both the respondent and her husband were reassessed. In meetings with Revenue Canada it was the husband's position that none of the disputed income should be attributed to the respondent because all relevant activity was carried on by her husband and moneys from the transactions were paid into the respondent's bank account only at her husband's instruction. The Minister reassessed the respondent and her husband on the basis that these properties were transactions resulting in business income for failure to report the disposition of the West Taylor property and the income from building homes at the McIvor and Erinview addresses. The respondent was specifically reassessed for one-half of the business profits of the sale of 51 Dumbarton and for half of the unreported income (because the auditor opined that she and her husband were in a partnership) earned from the construction of homes at 919 McIvor and 8 Erinview because payments from these properties were deposited into her personal bank account. A business loss for the respondent's re-possession of 2165 Taylor and capital cost allowance claims for that and the 52 Dumbarton property were also disallowed because the applicant considered them inventory.
+[15]
+On May 14, 1996, the respondent filed a notice of objection for the tax years of 1989, 1990 and 1992-94. Her husband did the same for the 1991, 1992 and 1994 years on June 14, 1996. She and her husband took the position that none of the income should be attributed to her for the reasons noted above and because her name and bank account were only being used to shield her husband from his creditors. That is a significant factor in the applicant's favour in these circumstances. The objection resulted in the business income from the construction of homes on 51 Dumbarton, 919 McIvor and 8 Erinview, and rental income from 2165 West Taylor and 52 Dumbarton being attributed to the respondent's husband. The rest of the assessment against her was upheld which resulted in a tax liability of $24,236.23 for the 1989, 1990, 1992, 1994 and 1995 years. The respondent was also disputing her liability of $11,400.02 for the 1991 taxation year, but no longer, as a result of the judgment of the Federal Court of Appeal, A-1053-96, on July 30, 1997, filed on August 1, 1997. This is also subject to collection. The respondent's husband was reassessed for the 1991, 1992 and 1994 years and for tax debt from the 1987, 1990, 1993 and 1995 in the amount of $301,956.21.
+[16]
+The respondent's husband made an assignment into bankruptcy on September 6, 1996. Over $600,000 in insecure debts were listed, with his assets value being "nil". Mr. Moss had not made any voluntary payments to Revenue Canada since 1990. Revenue Canada filed a proof of claim as a creditor in bankruptcy for $301,956.21 on December 5, 1996. On January 20, 1997, Revenue Canada assessed the respondent under s. 160 of the
+Act
+for the sum of $301,956.21.
+[17]
+Mr. Desroches received and reviewed statements of account and a series of cheques deposited into the respondent's personal bank account at the Royal Bank of Canada. The respondent has the sole signing authority for the account. Between 1992 and 1996 she received more than $550,000 in her account through negotiated cheques which were payable to Mr. Moss, Mrs. Moss and Danro Construction. Numerous deposits were made for payment of the Erinview, McIvor, 129 Park Place, 121 Park Place and 51 Dumbarton properties.
+[18]
+A series of negotiated cheques, written by the respondent between October 28, 1993 and February 12, 1996 show that the respondent had transferred $477,470.50 from her account to NN Life Insurance and Equitable Life. Other negotiated cheques written by her between April and August 1996 show that she transferred $120,268 to NN Life Insurance, Manulife, Metropolitan Life and Gerling Global Life. This comes to a total sum of $597,738.50.
+[19]
+The respondent's husband also has the power of attorney over his mother's (Mrs. Eliza Moscovici's) bank account at the Astra Credit Union. Copies of negotiated cheques indicated that the account was used to deposit rental monies from the West Taylor and 52 Dumbarton properties.
+[20]
+These were the facts which the Minister brought before Madam Justice Tremblay-Lamer. It was the Minister's position that collection of the assessed amounts would be jeopardized if delayed because of stated factors, (paragraph 25 of Mr. Desroches' affidavit, sworn on January 31, 1997.) In essence, it was the Minister's position that the respondent and her husband arranged their affairs so that the assets could be liquidated or hidden. This was the evidence before Madam Justice Tremblay-Lamer and provided the basis for issuing the jeopardy order.
+[21]
+The respondent makes three submissions in favour of setting aside the order. The first is that when the circumstances surrounding the s. 160 assessment are considered, which in the respondent's view are necessary to meet the Minister's disclosure requirements, the issuance of the jeopardy order was not warranted. The respondent states that a jeopardy order should be set aside if the department's action can be seen as defeating the principle that taxpayers should have the opportunity to have their notice of objection heard and the opportunity to pay prior to seizure.
+[22]
+The respondent cites Madam Justice Southin's decision in
+Chudina and Griffin v. Minister of National Revenue
+(1987), 88 D.T.C. 6043 (B.C.S.C.), in support of this proposition. Briefly, the taxpayers in that case were on vacation in Mexico when the Minister sent the assessment and accompanying letters to them by registered post. The assessment, as required by s. 225.2 as it then read, advised that the Minister considered collection of the taxpayers' debts to be in jeopardy and that they were entitled to apply for a judicial determination as to whether collection would be jeopardized. On that same day the Minister obtained writs of fieri facias against the taxpayers, and the next day executed the writs. Southin, J., found that the Minister knew that the taxpayers would not have any opportunity whatsoever to pay the assessed amount. The case is not helpful because s. 225.2(1) as it then read required that the assessment be served on the taxpayers. The 1988 amendments (s. 170, S.C. 1988, c. 55) to the section, allow the department to apply for an authorization even before an assessment is issued. This amendment obviates the very principle for which the
+Chudina
+case stands.
+[23]
+Section 225.2 deals with the very narrow issue of whether actual jeopardy arises from the likely delay in the collection. It cannot deal with the circumstances surrounding the s. 160 assessment. Indeed, when a court is faced with an ex parte application or review under the section, s. 152(8) deems an assessment to be valid:
+"(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission therein or in any proceeding under this Act relating thereto."
+When it is recalled that the whole point of the provision is to spring a surprise attack on the nonpaying taxpayer, if the circumstances be appropriate, the issuance of an authorization comes down to the facts concerning the possibility of collection of the assessed amount. Nothing else.
+[24]
+The evidence is clear that the respondent's spouse, the transferor, has made no voluntary payment of tax due since around 1990. The respondent herself has to be threatened with or subjected to litigation, garnishment or other attachment procedures before back tax can be realized by the department. The respondent and her husband evince a willingness to shelter or hide their assets from legitimate creditors. While Canada's income tax system is based on self-reporting - the honour system - the respondent always has to be threatened, garnished, proceeded against. Of course she, in common with all others, is entitled to engage in lawful avoidance of taxation although there is very little lawful scope to the avoidance of lawful collection of taxes. In any event, it is a factor, this proclivity demonstrated by conduct to avoid collection of taxes, which raises a solid inference that collection is in jeopardy because of delay in invoking lawful collection enforcement mechanisms.
+[25]
+The second submission goes to the Minister's disclosure of information in the ex parte hearing. This is really the substance of the review, and it must be kept in mind that the only question is the possibility of collecting the amount of the respondent's assessment: has the applicant shown reasonable grounds for the court to find that the Minister did meet the onus? The respondent cites some specific examples, some which deal with the circumstances of the s. 160 assessment. The relevant ones deal with how the respondent dealt with the over $500,000 which passed through her account to financial institutions for "purposes which are yet unknown" (Jan. 31/97 affidavit of Mr. Desroches, paragraph 25(c)). The main point of this is that the money has not disappeared. It was invested in life insurance policies. Newly revealed facts raise a strong inference by which such purposes can now be known. In his April 9/97 affidavit Mr. Desroches swears:
+"4. I am further informed and do verily believe based on my review of the information received from the institutions pursuant to the Requirements for Information that in the period between January 1996 and January of 1997, the respondent has in fact withdrawn a total of in excess of $100,000 from these four investment accounts, approximately $60,000 of which was withdrawn in January of 1997. The documentation relating to the said withdrawals received from each of NN Life, Manulife and Equitable Life are attached hereto to this my Affidavit and marked respectively as Exhibits 'B' 'C' and 'D'."
+This paragraph is not contradicted by the respondent.
+[26]
+So, it appears that the insurance investments with NN Life, Manulife and Equitable Life evince one characteristic of a bank chequing account: funds can be withdrawn from time for family living expenses or anything else. That fact raises an inference of jeopardy of collection. Further, these investments which are like chequing accounts, are held in what the respondent believes is immunity from garnishment or other seizure pursuant to s. 173 of the
+Insurance Act
+of Manitoba, R.S.M. 1987, c. I-40. Although the respondent's belief is not conclusively shown to be correct in law, the inference of the purpose to place collection in jeopardy is a clear one.
+[27]
+In paragraph 36 of his June 30/97 affidavit, Mr. Moss identified the destination of the monies which the respondent transferred to the financial institutions for "purposes which are yet unknown" as of February, 1997, as approximately $550,000 worth of equity in four insurance policies with three companies. Broken down, they are presently valued thus:
+1) NN Life:
+$350,000
+2) Manulife:
+$ 80,000
+3) Equitable Life:
+$193,000
+$623,000 (total)
+[28]
+As an example of where the funds came from to purchase the policies, Mr. Moss gives a detailed account of how the NN Life policy was financed. As this goes to the s. 160 issue, it is more of interest than actual relevance. The applicant Minister argues, correctly, that whether or not the moneys ultimately seized by the department be the very same which are the subject of the transfer on which the s. 160 assessment is based, is still irrelevant. The s. 160 assessment is directed to, or against, Rochelle Moss, who has incurred a joint and several liability which has not disappeared and will continue to exist even if the transferor and original tax debtor, her husband, be discharged from bankruptcy, and even from the original liability on which the s. 160 liability was based. The authority for such proposition is
+Minister of   National Revenue v. Heavyside
+(1996), 206 N.R. 206; 43 C.B.R.(3d) 128; 97 D.T.C. 5026; 25 R.F.L.(4th) 334 (F.C.A.).
+[29]
+Had Madam Justice Tremblay-Lamer had the facts later discovered by Mr. Desroches and revealed by Mr. Moss, the above inferences of purpose could then have been drawn, on a balance of probability and the authorization would still have been given. The applicant's opinion was based on these facts: 1) the respondent was reassessed because she accepted nonarm's length transfers, 2) the respondent's husband was reassessed because he mischaracterized and failed to report income, 3) the husband is in arrears with Revenue Canada, assigned himself into bankruptcy and has not made any voluntary payments to the department since 1990, and 4) the respondent's husband controls his mother's account and deposits monies into it which were made payable to the respondent. When this is juxtaposed with the insurance policies, viz. over half a million dollars were transferred from the respondent's bank account to financial institutions for "purposes yet unknown", it is no surprise that an authorization issued. This said, the respondent has raised virtually no relevant, reasonable grounds to doubt that the Minister fulfilled the onus concerning the disclosure of completeness evidence before Madam Justice Tremblay-Lamer.
+[30]
+The question now, however, is whether in light of all of the facts the order should be continued. At the outset it must be noted that the respondent owes a total amount, under both assessments of:
+"(a) $ 24,235.23 - (for the 1989, 1990, 1992, 1994 and 1995 tax years)
+"(b) + $ 11,400.02 - (for the 1991 tax year)
+"(c) +
+$301,956.21
+- (s. 160 assessment)
+$337,591.46 (total)"
+The Minister has served writs of fieri facias on the investment institutions which hold the respondent's assets. Mr. Desroches, in his affidavit sworn April 9, 1997, states that the institutions have frozen the investment accounts. No one seems to dispute that the amount of equity in the accounts is a far higher amount than $337,591.46. If the figures Mr. Moss deposes to are correct, the current value is over $600,000. It has been said in the cases that the department should not seize (or freeze) more than is necessary to satisfy the debt (
+Satellite Earth
+, supra at C.T.C. p. 298;
+FRAGMENT_SUPPRESSEDThis is absolutely correct. Section 225.2 does not give the department the ability nor the court the jurisdiction to authorize seizure of "all or any part of an amount assessed" if delay would jeopardize collection action. Thus, if the order is to be continued, it can authorize only seizure of an amount which could satisfy the respondent's debt.
+[31]
+In order to satisfy the onus, the Minister has brought additional evidence in the April 7, 1997 affidavit of Mr. Desroches. The first is that all of the insurance policies -- which Mr. Desroches calls investment account -- allow the respondent to withdraw or liquidate funds at her discretion as noted above. The respondent, however, is able to account for these funds withdrawn to the date of the hearing. Exhibit 24 to Mr. Moss's affidavit shows that $83,000 was reinvested in the first of the two NN Life policies. This is hardly the covert wasting of an asset. The other $17,000 (recalling this is over a twelve month period) was used to satisfy living expenses and to make mortgage payments. As the respondent notes, the discretion to draw a reasonable amount of money from a capital asset for living expenses is implicit in Mr. Justice NcNair's decision in
+Danielson
+, noted above, because this would not put the actual amount in jeopardy: $17,000 drawn, about $340,000 assessed and assets which appear to be in excess of $600,000. While there might have been "significant withdrawals", as the Minister characterized it, there were also "significant deposits". There is absolutely no evidence of dissipation thus far.
+[32]
+The only other new evidence the Minister tenders is in paragraphs 6-9. The gravamen of this evidence is that the respondent and her husband are reluctant to pay taxes. Both assessments at issue concern the respondent. They were not issued in the name of Mr. Daniel Moss. This aside, the Minister submits that collection would be jeopardized because she unsuccessfully contested a tax assessment as far as the Court of Appeal. The assessment left the applicant with a debt of $13,000, which the department was forced to collect via a garnishing order in order to intercept the proceeds of a house sale in 1994. This was after the applicant advised the department that she was unable to pay her debt or unable to borrow to satisfy it, and entered into arrangements to clear the debt, which were not maintained.
+[33]
+In view of these figures, which speak for themselves, the fact that Revenue Canada had to get a garnishee to collect a tax debt of $13,000, is just enough evidence to satisfy the court, on a balance of probabilities, that collection of the tax is in jeopardy. Adjudication on the assessment is still outstanding. The only thing which is apparent on a balance of probabilities is that the department has sufficient evidence to support the conclusion that collection will be jeopardized. In view of all of this evidence, some of which was not before Madam Justice Tremblay-Lamer, the authorization given under s. 225.2(2) is confirmed.
+[34]
+One final point which should be put to rest here, as the issue was raised, is that the insurance policies are not exempt from seizure under the
+Income Tax Act
+by operation of s. 173 of the
+Insurance Act
+, R.S.M. 1987, c. I-40, of Manitoba. The authority for this can be drawn from the analysis of the majority of the Manitoba Court of Appeal in
+Pembina on the Red Development Corp. v. Triman Industries Ltd.
+, [1991] 6 W.R.R. 481; 75 Man.R.(2d) 175 (C.A.), Chief Justice Scott was faced with the constitutional issue of s. 224(1.2) of the
+Income Tax Act
+which, generally speaking, deals with garnishment. Even though the issue was not ultimately determinative of the case before the court, the following remarks warrant reproduction:
+"The purpose of the
+Act
+[
+Income Tax Act
+] is not only to levy tax, but to collect it. There is a strong public duty on employers to remit; indeed, this is central to the scheme of self-assessment under the
+Act
+. The machinery for collection and enforcement under the
+Act
+is part of the very subject matter of s. 91(3) of the
+Constitution Act
+and not merely incidental to the raising of revenue * * *" (p. 489)
+At p. 491, Scott, C.J.M., wrote:
+"* * * In my opinion, collection is an integral part of Parliament's taxation scheme and clearly authorized by s. 91(3) of the
+Constitution Act
+. That is the pith and substance of the section. Necessity or the wisdom of the technique is not the issue; rather the question is whether the collection provisions fit within the scope of the federal legislation. This should be answered in the affirmative."
+These remarks are equally applicable to the case at bar. Unlike the s. 67(b) of the federal
+Bankruptcy Act
+, R.S.C. 1985, c. B-3 (now redundantly renamed the
+Bankruptcy and Insolvency Act
+), which was at issue in
+Canadian Imperial Bank of Commerce v. Meltzer and Essers (Bankrupts)
+, [1991] 5 W.W.R. 506; 74 Man.R.(2d) 105 (Q.B.), there is no provision in the
+Income Tax Act
+which exempts property that is immune from seizure under provincial law. Even if there be a prima facie conflict between the two statutes, Chief Justice Scott's remarks apply equally to seizure of insurance policies in Manitoba. To have it otherwise would be to frustrate Parliament's power to levy taxes, accompanied by the power to collect them.
+[35]
+In the result, the court accepts the applicant's counsel's submissions. Accordingly, the jeopardy order of Madam Justice Tremblay-Lamer, rendered February 5, 1997, is confirmed.
+Order accordingly.
+Editor: Janette Blue/ldl
+[End of document]

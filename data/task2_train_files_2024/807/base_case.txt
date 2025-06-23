@@ -1,0 +1,170 @@
+[1]
+Hargrave, Prothonotary
+: The issues on this motion include whether alleged use of copyright yacht designs might sound in rem. The defendants contend that there is no applicable in rem jurisdiction in this court in copyright or otherwise and therefore the "Amity" must be released from arrest.
+[2]
+Pursuant to the preliminary objection under rule 208(d), as to the jurisdiction of the court, the in rem action against the partially completed Catamaran yacht "Amity" is set aside. The "Amity" is released from arrest pursuant to rule 488(1). Before considering this in detail I first turn to some relevant background.
+BACKGROUND
+[3]
+For an interlocutory challenge of jurisdiction to succeed, the want of jurisdiction must be plain and obvious in order to justify striking out a proceeding: see for example
+FRAGMENT_SUPPRESSED. Moreover, a challenge under rule 221, the striking out rule, as to the jurisdiction of the court, may be supported by affidavit evidence:
+Erasmus et al. v. Minister of National Revenue
+, [1992] 2 F.C. 681; 145 N.R. 321 (F.C.A.), at p. 687. All this being the case I may rely both upon the Statement of Claim and upon affidavit material in order to set out the events leading up to the present motion and, as applicable, to decide the jurisdiction question.
+[4]
+In September of 1998 the defendant, Mr Folden, gave the plaintiff, Mr Pfister, a deposit of $7,950 (US) so that Mr Folden might obtain study copies of plans for a power-driven catamaran yacht that has been designed by the plaintiffs. Mr Folden wished the plans so he could provide input as to general layout for a yacht which he then intended to have built at Northern Marine Inc. of Anacortis, Washington. Mr Folden deposes that he elected not to proceed with the project when he learned, contrary to advice from the plaintiffs, that the plaintiffs had made no arrangement to build the vessel, a rather boxy 55-foot catamaran yacht utilizing displacement type transverse frame hulls, at the Northern Marine yard.
+[5]
+Subsequently Mr Folden retained Mr Howard Apollonio, an established and substantially architect [sic], who not only had a stock plan which could be adopted for a 70-foot catamaran motor yacht for Mr Folden, but also had access to an existing mould for his design at Atlantis Yacht Inc. of Delta, British Columbia. The Apollonio 70-foot yacht is of sleeker design, utilizing high-speed planing hulls, strengthened by longitudinal stringers and bulkheads. By inspection of the drawings the hull and superstructure designs are very different.
+[6]
+On 16 September, 2002 the plaintiffs commenced this action and subsequently arrested the partially completed "Amity". The plaintiffs allege breach of a contract to execute a purchase and construction agreement. They also claim breach of copyright through the use of the plaintiffs' drawings which were allegedly taken by the defendants to their architect and which plans, after modification, were used to construct the "Amity". As a result of all of this the plaintiffs say they provided confidential information, or services, to the defendants and should be compensated, by quantum meruit, if necessary. The plaintiffs say that the above activities make the defendants liable for breach of contract, negligence, fraudulent misrepresentation and breach of trust. The plaintiffs also claim against the defendants for breaking obligations of confidence, passing off, creating confusion pursuant to s. 7 of the
+Copyright Act
+and misleading the public pursuant to s. 52 of the
+Competition Act
+, for which they should be compensated pursuant to s. 36(1) of the
+Competition Act
+.
+[7]
+Among other relief, the plaintiffs claim a declaration that they have a statutory right in rem against the "Amity", condemnation of the "Amity" and any bail, an accounting of profits and a mandatory or mareva injunction to prevent the arrested vessel from leaving the jurisdiction. This appears to be intellectual property type litigation, but I must consider all of this in more detail in order to determine if there are any bases for an in rem claim.
+[8]
+I should also note that the plaintiffs have now abandoned any claim that the hull or superstructure of the Apollonio-designed "Amity" infringe on the plaintiffs' design, but merely say that the interior layout contains elements similar to those used by the plaintiffs. Mr Apollonio deposes that he did not see the plaintiffs' drawings until after this action was commenced. In Mr Apollonio's view, while Mr Folden did have input as to interior layout of the vessel, none of the interior planning was unique, much of it being mandated by basic considerations, such as engine room placement and indeed the features of the interior layout are those used by Mr Apollonio and by naval architects other than the plaintiffs. All of these may fall to be sorted out in the future: right now I must see if there is any argument, based on the facts in the Statement of Claim and given the statutory jurisdiction of this court, which might in any way possibly succeed in establishing in rem jurisdiction over the "Amity".
+CONSIDERATION
+[9]
+The basic argument of the plaintiffs is that the present dispute ought to sound in rem either by reason of s. 22(1) or ss. 22(2)(m) or (n) of the
+Federal Court Act
+, which provide that:
+"
+Navigation and shipping
+"22.(1) The Trial Division has concurrent original jurisdiction, between subject and subject as well as otherwise, in all cases in which a claim for relief is made or a remedy is sought under or by virtue of Canadian maritime law or any other law of Canada relating to any matter coming within the class of subject of navigation and shipping, except to the extent that jurisdiction has been otherwise specially assigned.
+"Maritime jurisdiction
+"(2) Without limiting the generality of subsection (1), it is hereby declared for greater certainty that the Trial Division has jurisdiction with respect to any one or more of the following:
+. . . . .
+(m) any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage;
+(n) any claim arising out of a contract relating to the construction, repair or equipping of a ship;"
+"
+Navigation et marine marchande
+"22.(1) La Section de première instance a compétence concurrente, en première instance, dans les cas -- opposant notamment des administrés - où une demande de réparation ou un recours est présenté en vertu du droit maritime canadien ou d'une loi fédérale concernant la navigation ou la marine marchande, sauf attribution expresse contraire de cette compétence.
+"Compétence maritime
+"(2) Il demeure entendu que, sans préjudice de la portée générale du paragraphe (1), la Section de première instance a compétence dans les cas suivants:
+. . . . .
+m) une demande relative à des marchandises, matériels ou services fournis à un navire pour son fonctionnement ou son entretien, notamment en ce qui concerne l'acconage et le gabarage;
+n) une demande fondée sur un contrat de construction, de réparation ou d'équipement d'un navire;"
+[10]
+The plaintiffs refer to but do not argue for in rem jurisdiction by way of the
+Competition Act
+. Rather, one submission, although perhaps not argued with great vigour, is that jurisdiction under the
+Copyright Act
+ought to be extended to include in rem jurisdiction.
+Claim in Copyright
+[11]
+While the Federal Court has jurisdiction under s. 20 of the
+Federal Court Rules, 1998
+, to deal with, among other things, matters of copyright, that jurisdiction must be founded upon applicable federal law and not on the basis of an action in tort or contract, incidental to copyright law. The source of federal law, in the present instance, is said to be the
+Copyright Act
+.
+[12]
+In reaching the conclusion that a copyright claim ought not to sound in rem, I have kept in mind that I should interpret s. 22(1) of the
+Federal Court Act
+broadly. I have also kept in mind that the reference to remedies being sought under or by virtue of Canadian maritime law should not be confined to a traditional or historic approach, but should be interpreted in a modern and relevant context: here see
+Monk Corp. v. Island Fertilizers Ltd.
+, [1991] 1 S.C.R. 779; 123 N.R. 1, at p. 795 [S.C.R.]. This approach of broad interpretation allows the Federal Court jurisdiction into subject matter "so integrally connected with maritime matters as to be legitimate Canadian maritime law ..." (loc. cit.).
+[13]
+A further difficulty I have with finding jurisdiction within s. 22(1) of the
+Federal Court Act
+is that the copyright claim involved plans supplied for a ship neither built nor in existence. This is because the claim, involving copyright in a vessel's plans sent to a prospective customer so he might visualize the nature of the vessel, neither falls within the scope of admiralty or maritime law as incorporated into the laws of Canada, nor falls within the federal legislative jurisdiction in respect of navigation and shipping: see for example
+Quebec and Ontario Transportation Co. v. Ship Incan St. Laurent and Inca Ships Ltd.
+, [1979] 2 F.C. 834; 29 N.R. 39; 104 D.L.R.(3d) 139 (F.C.A.), at pp. 141-142, affd. [1980] 2 S.C.R. 242; 33 N.R. 528.
+[14]
+Certainly there have been cases in the Federal Court involving yacht design and here I have in mind, as an example,
+Bayliner Marine Corp. v. Doral Boats Ltd.
+(1985), 5 C.P.R.(3d) 289 (F.C.T.D.) affd. (1986), 67 N.R. 139; 10 C.P.R.(3d) 289 (F.C.A.). However,
+Bayliner
+did not have an in rem aspect. Indeed, I do not see how copyright or industrial design matters might be enforced in rem. In rem jurisdiction depends upon coming within s. 22 of the
+Federal Court Act
+, enforced in rem as authorized by s. 43(2) and as excepted in s. 43(3). This leads back to a consideration of whether the claim of the plaintiffs comes within s. 22(2), (m) or (n), which I will deal with shortly.
+Claim in Contract
+[15]
+The plaintiffs claim damages as a result of the defendants' breach of a contract to enter into a contract to build a vessel. This is not the time to decide if this is what it appears to be, an unenforceable agreement to agree, within
+Walford et al. v. Miles et al.
+, [1992] 2 A.C. 128; 142 N.R. 179 (H.L.), or either an enforceable contract to enforce a second contract, or some form of an uncertain contract to negotiate in good faith. Contracts to enter into contracts involve arguments which found no support from the law Lords in
+Walford
+and which finds no support in Canada and here I have in mind cases such as
+Westcom TV Group Ltd. v. CanWest Global Broadcasting Inc.
+, [1997] 1 W.W.R. 761 (B.C.S.C.) and
+Mannpar Enterprises Ltd. v. Canada
+, [1997] B.C.T.C. Uned. 548; 33 B.C.L.R.(3d) 203 (S.C.), affd. (1999), 121 B.C.A.C. 275; 198 W.A.C. 275; 173 D.L.R.(4th) 243 (C.A.).
+[16]
+At best, this may be some form of an in personam claim, for there is nothing in the pleadings, or in the plaintiffs' material to establish a nexus between, on the one hand, whatever might have been the contract between plaintiffs and the in personam defendants and, on the other hand, the "Amity", which did not exist at the relevant time. In any event, no in rem proceeding is available in the case of some form of in personam contract to enter into a contract to build a vessel.
+Jurisdiction in Rem Pursuant to Section 22(2) of the Federal Court Act
+[17]
+In an instance where objection to jurisdiction is at stake, "the Court must be satisfied that there are jurisdictional facts or allegations of such facts supporting an attribution of jurisdiction":
+MIL Davie Inc. v. Société d'exploitation et de développement d'Hibernia ltée
+(1998), 226 N.R. 369 (F.C.A.), at p. 374. There the court went on to note that affidavit evidence was admissible on a motion under the striking out rule, then rule 419(2):
+"[8] Generally speaking, where an objection is taken to its jurisdiction, the court must be satisfied that there are jurisdictional facts or allegations of such facts supporting an attribution of jurisdiction. The existence of the necessary jurisdictional facts will normally be found in the pleadings and in the affidavits filed in support of or in response to the motion. In this respect, the prohibition contained in rule 419(2) against the admissibility of evidence does not apply when it is the jurisdiction of the court which is contested as opposed to a mere objection to the pleadings on the basis that they do not reveal a reasonable cause of action ..."
+[18]
+The pleading of the claim, while it does not refer specifically to s. 22(2)(m) of the
+Federal Court Act
+, the supply of goods, materials or services for the operation or maintenance of the ship, does refer to the supply of proprietary information to the defendants. The affidavit to lead warrant, relied upon by the plaintiffs, refers to facts which the deponent, the individual plaintiff believes meet the requirements of ss. 22(2)(m) and (n) of the
+Federal Court Act
+. This was argued as a possible route to an attribution of jurisdiction.
+[19]
+A claim for materials or services supplied to a ship is often referred to as a necessaries claim, however that is not a term used in the
+Federal Court Act
+. Indeed s. 22(2)(m) may be broader than merely the supplying of traditional necessaries, but may extend to materials or services ancillary or complimentary to or which may be necessary for the operation of the ship and here I would refer to
+Kuhr v. The "Friedrich Busse"
+, [1982] 2 F.C. 709 (T.D.), at p. 715-716:
+"The expression 'supplying of necessaries' is not to be found among the specifically enumerated matters in subs. 22(2) of the
+Federal Court Act
+. In essence, however, it would be contained within the wording of paragraph (m) above and, if one were attempting to establish a distinction in meaning between the two concepts, one could only find that the wording of paragraph (m) must necessarily include, but is not limited to, the supplying of necessaries; in other words, that the supplying of the goods, material or services need no longer be necessary for the operation but may be ancillary or complementary thereto, as long as they are used or intended for use in the operation of the ship. Altogether apart from the apparent extension given to the concept of ship's necessaries by paragraph 22(2)(m) of the
+Federal Court Act
+, we find that the rather restrictive interpretation originally applied to that term has been considerably widened. In Roscoe's
+Admiralty Jurisdiction and Practice of the High Court of Justice
+(5th Edition) we find the following at p. 203:
+'... though primarily meaning indispensable repairs, anchors, cables, sails, and provisions, the term has now, it is clear, a wider signification, and has been and is being gradually amplified by modern requirements, as is instanced by the case of The Mecca, where canal dues were pronounced to be within the scope of the word. No distinction can be drawn between necessaries for the ship and necessaries for the voyage, and all things reasonably requisite for the particular adventure on which the ship is bound are comprised in this category.'"
+[20]
+Traditionally, in a broad sense, the supply of necessaries embraces everything necessary or which tended to facilitate the use of the ship. While s. 22(2)(m) of the
+Federal Court Act
+may be broader than this traditional view of necessaries, there are limitations contained in that section, which I will again set out for ease of reference:
+"(m) any claim in respect of goods, materials or services wherever supplied to a ship for the operation or maintenance of the ship, including, without restricting the generality of the foregoing, claims in respect of stevedoring and lighterage;"
+"m) une demande relative à des marchandises, matériels ou services fournis à un navire pour son fonctionnement ou son entretien, notamment en ce qui concerne l'acconage et le gabarage;"
+[21]
+That there are limitations in this seemingly broad provision is immediately clear. First, the goods, materials or services must be for "operation or maintenance", of the ship which is not the case where plans for a non-existing ship are involved. Second, the section refers to "operation or maintenance of
+the ship
+, ..." (emphasis added). Here the reference is not to "a ship", but rather to "the ship". When the drawings were supplied to one or the other or perhaps to both of the in personam defendants, "the ship" existed only as a possibility which might bear fruit in the future in the event the in personam defendants decided to instruct builders. The existence of the ship is an essential, without which there can only be in personam liability. Section 22(2)(m) is not a basis for jurisdiction, for not only are drawings not needed for the operation or maintenance of the ship, but also such drawings are neither incidental to nor complimentary to a non-existent ship. I will now turn to the possibility of jurisdiction based on a ship construction contract.
+[22]
+The plaintiffs submit that jurisdiction may be found in s. 22(2)(n) of the
+Federal Court Act
+, which gives jurisdiction to the court in the case of:
+"(n) any claim arising out of a contract relating to the construction, repair or equipping of a ship;"
+"n) une demande fondée sur un contrat de construction, de réparation ou d'équipement d'un navire;"
+[23]
+The Statement of Claim touches upon this aspect at paragraph 10:
+"10. The plaintiffs say and the facts are that the defendants entered into a contract with the plaintiffs by correspondence dated September 28, 1998 wherein the defendants paid a deposit of $7,950 US towards the purchase of a 59 foot powered catamaran on the basis that they were going to execute a Purchase and Construction contract with the plaintiffs."
+As I say there is also brief reference to s. 22(2)(n) in the affidavit to lead warrant. Relying on s. 22(2)(n), the pleadings and the affidavit material of the plaintiffs, including the affidavit to lead warrant, it seems that the best case for the plaintiffs is that there was a contract to enter into a contract to have the plaintiffs either build or, since they were not ship builders, to arrange to have built a vessel designed for the plaintiffs.
+[24]
+Given that the defendants' ship "Amity" did not exist in September of 1998, and that there was, according to the pleadings and affidavit material, no contract between the parties for the construction of any vessel, the plaintiffs must fall back upon a plea of breach of a contract to enter into a purchase and construction contract. Such a contract, to enter into a contract, clearly does not come within either the wording or the spirit of s. 22(2)(n) of the
+Federal Court Act
+, which requires a contract "relating to the construction" of a ship: that cannot be extended to deal with a contract to enter into a contract, the breach of which if such a breach can even exist, must sound purely in personam.
+[25]
+A second and I think equally persuasive argument is that s. 22(2)(n) must clearly relate to a construction contract between ship builder and owner. That is not the case here.
+[26]
+Third, this appears not to be a contract case, in any event, for as I say there is no contract to build a vessel. Perhaps it is a claim by the plaintiffs' in negligence or fraudulent misrepresentation in that the plaintiffs do say that they were led to believe that the defendants intended to enter into a contract. Thus this aspect is a tort case. Here I need not go into all of the reasoning establishing that such a claim of negligence would fail. It is sufficient to point out that such a claim would fall to be determined under the ordinary laws of negligence and not under an act of Parliament or under Canadian maritime law, a point made by Associate Chief Justice Jerome in
+Atlantic Sandblasting & Coating Inc. v. The "Gulf MacKenzie"
+, an unreported 3 March, 1982 decision in file T-2163-80. A tort claim against a party involved with a ship which was not built is not a claim arising out of a contract for the construction of a ship within s. 22(2)(n) of the
+Federal Court Act
+.
+CONCLUSION
+[27]
+There is nothing pleaded in this action, or explained in the affidavit material, by which to clothe the Federal Court with the necessary in rem jurisdiction to allow the arrest of the Amity. While the in personam aspect of this claim may fall within Federal Court legislative competency, a point not argued on this motion, it is not sufficient, in order to establish in rem jurisdiction, merely for the subject matter to have some connection with a ship.
+[28]
+The subject matter of the action does not come within Canadian maritime law or within the general provision providing jurisdiction under the heading of Navigation and Shipping, s. 22(1) of the
+Federal Court Act
+, or within the included maritime jurisdiction which is more specifically set out in s. 22(2).
+[29]
+All of this being the case the in rem claim is struck out and here I would refer, by way of precedent, to
+Bornstein Seafoods Canada Ltd. v. Hutcheon et al.
+(1997), 140 F.T.R. 241 (F.C.T.D.). There Mr Justice Gibson dealt with the setting aside the arrest of a ship, the cause of action being alleged transfer of a misappropriated fishing quota. Mr Justice Gibson was unable to find that the subject matter either fell within s. 22(1) or the relevant portions of s. 22(2) of the
+Federal Court Act
+and indeed, was unable to "... conclude that the subject matter of this action is so integrally connected to maritime matters as to be legitimate Canadian maritime law." (p. 251). He concluded that the subject matter of the action did not fall within the jurisdiction of the Federal Court as either Canadian maritime law or any other law coming within the subject of navigation and shipping. As such, he held the in rem action unfounded. Accordingly, the warrant for arrest could not stand (loc. cit.). This is the situation in the present instance.
+[30]
+All of this is not to say that the in personam action might not, to some degree, succeed. Rather, the action shall now proceed purely as an in personam action, with the "Amity" being released from arrest. Costs of this motion to the defendants in any event.
+Motion granted.
+Editor: Jana A. Andersen/aga
+[End of document]

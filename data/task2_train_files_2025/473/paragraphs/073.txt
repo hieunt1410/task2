@@ -1,0 +1,45 @@
+[73]
+Krasnick Estate v. Canada (Minister of Veterans Affairs)
+(2007), 321 F.T.R. 141; 2007 FC 1322, involved a judicial review of the decision of the Department of Veterans Affairs denying the applicant's eligibility for reimbursement of Chronic Care expenses. The applicant had served with the Canadian Armed Forces in the Second World War during which time he was injured, for which he received a small pension from DVA. The applicant was placed in a long-term care facility, for which DVA agreed to pay but refused reimbursement retroactive to the date that the applicant entered the care. inter alia, the applicant sought certain declarations as to the
+Charter
+. Justice Hughes relied upon the Supreme Court of Canada decision in
+Law v. Minister of Employment and Immigration
+, [1999] 1 S.C.R. 497; 236 N.R. 1, to decide the application of s. 15 to the facts of that case:
+"29. The Applicants further argue that s. 15(1) of the
+Charter
+applies and that Horace, as a veteran no longer mentally competent to deal with his affairs, has been deprived of equal benefits. The Supreme Court of Canada in
+Law v. Canada (Minister of Employment and Immigration)
+, [1999] 1 S.C.R. 497, canvassed what a claimant must first established before the
+Charter
+, s. 15, comes into play. Binnie, J., for the Court summarized three factors at paragraph 23: (1) whether a law imposes differential treatment between the claimant and others; (2) whether an enumerated or analogous ground of discrimination is the basis for the differential treatment; and (3) whether the law in question has a 'discriminatory' purpose or effect.
+"30. Applicants' Counsel argues that the
+Regulations
+fail to make provision for care of or access by those who are not mentally competent. This is not a 'discriminatory' provision of the
+Regulations
+but, taking the argument at its best, failure to make special provision for one particular group of persons. There is no 'discrimination' in the
+Regulations
+, all persons are treated the same, no group directly or indirectly is discriminated against and application of the
+Regulations
+does not have a discriminatory effect. The Applicants simply do not get beyond point (1) of the
+Law
+test.
+"31. Further, the Applicants fail the third branch of the
+Law
+test. As set out by the Supreme Court of Canada in
+Granovsky v. Canada (Minister of Employment and Immigration)
+, [2000] 1 S.C.R. 703; 2000 SCC 28 at paragraph 58, while a financial deprivation may exist it must be shown that the legislation promotes the view that a person is less capable or less worthy of recognition or value as a human being or as a member of Canadian society:
+'The question therefore is not just whether the appellant has suffered the deprivation of a financial benefit, which he has, but whether the deprivation promotes the view that persons with temporary disabilities are "less capable, or less worthy of recognition or value as human beings or as members of Canadian society, equally deserving of concern, respect, and consideration" (emphasis added). In
+Miron v. Trudel
+, [1995] 2 S.C.R. 418, McLachlin, J., noted, at para. 132, that "distinctions made on enumerated or analogous grounds may prove to be, upon examination, non-discriminatory".'
+"32. Nothing in the
+Regulations
+has been shown to diminish the sense of capability or worth or value of mentally incompetent veterans. The
+Regulations
+provide a scheme whereby benefits may be provided, nothing in that scheme reflects badly on a person in any way contemplated by
+Granovsky
+.
+"33. Thus, I find that the
+Charter
+does not assist the Applicants. Therefore, I do not have to address the issue as to whether reliance upon the
+Charter
+can survive Horace's death."

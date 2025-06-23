@@ -1,0 +1,9 @@
+[61]
+The 1976 article entitled
+Utilization of an Enantiomer as a Solution to a Pharmaceutical Problem: Application to Solubilization of 1,2-Di(4-piperazine-2,6-dione) propane
+by Repta et al., supra, cited by the respondent as prior art, refers to the ease in creating optical isomers, but notes (at p. 241) the difficulty in resolving them for an optical purity of close to 100%:
+"An inherent drawback in the use of an enantiomer is the greater difficulty and expense of preparation relative to the racemic material.
+Generally, it is not particularly difficult to attain an optical purity greater than 90%
+. [emphasis added] However, the preparation of essentially 100% optically pure material is extremely difficult and expensive. Therefore, it must be realized that it is not necessary to strive for 100% optically pure samples to obtain greatly increased solubility."
+The Repta article describes (p. 239) the generally known feature that typically one enantiomer exhibits greater or different biological activity than the racemate:
+"Although the employment of optically active compounds in pharmaceutical formulations is not new, their past and present usage has been due largely to one enantiomer exhibiting a quantitatively or qualitatively different biological activity than the corresponding racemic compound (6,7) Examples of such drugs include ... [four examples mentioned, not ofloxacin]"

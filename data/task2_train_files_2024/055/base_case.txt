@@ -1,0 +1,470 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Valookaran v. Royal Bk. (2011), 386 F.T.R. 136 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2011] F.T.R. TBEd. MR.022 
+ 
+ 
+ 
+ Gissy Valookaran (applicant) v. Royal Bank of Canada (respondent) 
+ 
+ (T-109-10; 2011 FC 276) 
+ 
+ 
+ 
+ Indexed As: Valookaran v. Royal Bank of Canada 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Snider, J. 
+ 
+ March 9, 2011. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The Canadian Human Rights Commission decided, pursuant to s. 41(1)(c) of the Canadian Human Right Act, that it would not deal with Valookaran's complaint against the Royal Bank of Canada because the allegation "is not based on a prohibited ground of discrimination identified in section 3 of the Act". Valookaran applied for judicial review. She submitted that the Commission breached the duty of fairness in the handling of her complaint. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. 
+ 
+ 
+ 
+ Administrative Law - Topic 2266 
+ 
+ Natural justice - The duty of fairness - What constitutes procedural fairness - [See  
+ Civil Rights - Topic 7046 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 9051 
+ 
+ Boards and tribunals - Jurisdiction of particular boards and tribunals - Canadian Human Rights Commission - [See  
+ Civil Rights - Topic 7046 
+ ]. 
+ 
+ 
+ 
+ Civil Rights - Topic 7046 
+ 
+ Federal, provincial or territorial legislation - Commissions or boards - Duty of fairness - The applicant alleged discrimination on account of her national or ethnic origin, colour, religion, family status and disability - The Early Resolution Services Division of the Canadian Human Rights Commission drafted a Report under s. 41 of the Canadian Human Rights Act - The Commission decided, pursuant to s. 41(1)(c) of the Act, that it would not deal with the complaint because the allegation "is not based on a prohibited ground of discrimination identified in section 3 of the Act" - The Federal Court dismissed the judicial review application - The Commission did not breach the duty of fairness in the handling of the complaint - The applicant was given an opportunity to present her case and to respond to the concerns of the Commission and the respondent - Limiting the length of the submissions and not allowing supporting evidence at the first stage of the complaint process was within the Commission's prerogative - Finally, the Commission considered the applicant's submissions made in response to the s. 41 Report - The submissions failed to provide any clear link between a ground of discrimination in the Act and the factual incidents the applicant mentioned - Given that the additional submissions did not address the lack of nexus, there was no error in failing to make more extensive references to the submissions - See paragraphs 16 to 26. 
+ 
+ 
+ 
+ Civil Rights - Topic 7069 
+ 
+ Federal, provincial or territorial legislation - Commissions or boards - Jurisdiction - Complaints - General - [See  
+ Civil Rights - Topic 7046 
+ ]. 
+ 
+ 
+ 
+ Civil Rights - Topic 7114 
+ 
+ Federal, provincial or territorial legislation - Practice - Investigation of complaint (incl. report) - [See  
+ Civil Rights - Topic 7046 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Balogun v. Canada (Minister of National Defence) (2010), 399 N.R. 306; 2010 FCA 29, refd to. [para. 10]. 
+ 
+ Corbiere v. Wikwemikong Tribal Police Services Board (2007), 361 N.R. 69; 2007 FCA 97, refd to. [para. 10]. 
+ 
+ Garvey v. Meyers Transport Ltd. (2005), 341 N.R. 102; 2005 FCA 327, refd to. [para. 10]. 
+ 
+ Khosa v. Canada (Minister of Citizenship and Immigration), [2009] 1 S.C.R. 339; 385 N.R. 206; 2009 SCC 12, refd to. [para. 11]. 
+ 
+ Cooper v. Canadian Human Rights Commission, [1996] 3 S.C.R. 854; 204 N.R. 1, refd to. [para. 12]. 
+ 
+ Michon-Hamelin v. Canada (Attorney General), [2007] F.T.R. Uned. 869; 2007 FC 1258, refd to. [para. 15]. 
+ 
+ Canada Post Corp. v. Canadian Human Rights Commission et al. (1997), 130 F.T.R. 241 (T.D.), refd to. [para. 15]. 
+ 
+ Sketchley v. Canada (Attorney General), [2006] 3 F.C.R. 392; 344 N.R. 257; 2005 FCA 404, refd to. [para. 21]. 
+ 
+ Slattery v. Canadian Human Rights Commission, [1994] 2 F.C. 574; 73 F.T.R. 161 (T.D.), affd. (1996), 205 N.R. 383 (F.C.A.), refd to. [para. 21]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Canadian Human Rights Act, R.S.C. 1985, c. H-6, sect. 41(1)(c) [para. 9]. 
+ 
+ Human Rights Act (Can.) - see Canadian Human Rights Act. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Gissy Valookaran, on her own behalf; 
+ 
+ Richard J. Charney, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Ogilvie Renault, LLP, Toronto, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard at Toronto, Ontario, on March 2, 2011, before Snider, J., of the Federal Court, who delivered the following reasons for judgment and judgment, dated March 9, 2011. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ I.  
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Snider, J. 
+ : The Applicant, Ms. Gissy Valookaran, was an employee of the Respondent, the Royal Bank of Canada, from November 2002 to June 2010. On May 19, 2009, the Applicant filed a complaint against the Respondent with the Canadian Human Rights Commission (the Commission), alleging that, between 2005 and 2009, she experienced discrimination on account of her national or ethnic origin, colour, religion, family status and disability. She is a South Indian Christian woman who is married with two children. In a letter dated December 23, 2009, the Commission advised the Applicant that it had decided, pursuant to s. 41(1)(c) of the  
+ Canadian Human Rights Act 
+ , R.S.C. 1985, c. H-6 (the  
+ Act 
+ ), that it would not deal with her complaint because the allegation "is not based on a prohibited ground of discrimination identified in section 3 of the Act." The Applicant asks this Court to quash the decision. 
+ 
+ 
+ 
+ II. 
+   
+ Issues 
+ 
+ 
+ 
+ [2] 
+  The issues raised by this application are whether the Commission erred by: 
+ 
+ 
+ 
+ • not providing the Applicant with an opportunity to respond to submissions made by the Respondent to the Commission; or 
+ 
+ 
+ 
+ • unfairly limiting the Applicant's ability to set out her complaint by setting page length limits; or 
+ 
+ 
+ 
+ • preventing the Applicant from providing supporting evidence to her complaint by telling her that she did not need to provide examples of discriminatory actions based on colour or origin until after the Commission's decision was made; or 
+ 
+ 
+ 
+ • ignoring the Applicant's November 7, 2009 submissions. 
+ 
+ 
+ 
+ III.  
+ Background 
+ 
+ 
+ 
+ [3] 
+  I will begin by outlining the background to this application for judicial review. 
+ 
+ 
+ 
+ [4] 
+  The Applicant's complaint to the Commission was made in the form required by the Commission and was confined to three pages. The events described in the complaint consisted mainly of a series of negative interactions with her supervisors. 
+ 
+ 
+ 
+ [5] 
+  Following the applicant's initial complaint of May 12, 2009, the Respondent was provided with an opportunity to respond to the complaint. The Early Resolution Services Division of the Commission drafted a Section 41 Report (the Report). The purpose of this Report was to assess whether the Commission should refuse to deal with the Applicant's complaint pursuant to paragraphs 41(1)(c), (d), or (e) of the  
+ Act 
+ . The Report, which included statements from the Respondent's submissions, considered the submissions of both parties and provided as analysis in respect of each of the statutory provisions. Key to the application before me, the Report found that the Applicant had not demonstrated a link to a ground of discrimination in the  
+ Act 
+ , as required by s. 41(1)(c). Quite simply, the complaints of the Applicant disclosed nothing more than an ongoing workplace dispute with no nexus to the Applicant's national or ethnic origin, colour, religion, family status or disability. 
+ 
+ 
+ 
+ [6] 
+  The Applicant was provided with an opportunity to respond to the Report. An Early Resolution Analyst advised the Applicant of shortcomings in her response and she was given "detailed information on redrafting her response". In a letter dated November 7, 2009, the Applicant provided her response to the Report which expanded on the allegations in her original complaint. The Respondent provided its further submissions on November 24, 2009. 
+ 
+ 
+ 
+ [7] 
+  By letter, dated December 23, 2009, the Commission advised the Applicant that it had decided, pursuant to s. 41(1)(c) of the  
+ Act 
+ , that it would not deal with her complaint because the allegations are "not based on a prohibited ground of discrimination identified in section 3 of the Act". The Commission adopted the analysis of the Report under s. 41(1)(c) and declined to address the other issues. 
+ 
+ 
+ 
+ IV.  
+ Statutory Scheme 
+ 
+ 
+ 
+ [8] 
+  It is useful to briefly describe the overall scheme of the  
+ Act 
+  in dealing with complaints. Under the  
+ Act 
+  (see s.3 and s.7), it is a "discriminatory practice" for an employer to "differentiate adversely in relation to an employee" on the prohibited grounds of race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability and conviction for which a pardon has been granted. The  
+ Act 
+  is not intended to address employee grievances that do not amount to such discrimination. In general, individuals who feel that they have reasonable grounds for believing that an employer has engaged in discriminatory practices based on one or more of the prohibited grounds may file a complaint with the Commission (s. 40(1)). 
+ 
+ 
+ 
+ [9] 
+  While s. 41 of the  
+ Act 
+  mandates the Commission to "deal with any complaint filed with it", the  
+ Act 
+  also provides the Commission with the ability to screen out certain complaints, prior to any investigation. 
+ 
+ 
+ 
+ 41. (1) Subject to section 40, the Commission shall deal with any complaint filed with it unless in respect of that complaint it appears to the Commission that 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ (c) the complaint is beyond the jurisdiction of the Commission; ... 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ 41. (1) Sous réserve de l'article 40, la Commission statue sur toute plainte don't elle est saisie à moins qu'elle estime celle-ci irrecevable pour un des motifs suivants: 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ c) la plainte n'est pas de sa compétence; ... 
+ 
+ 
+ 
+ V.  
+ Standard of Review 
+ 
+ 
+ 
+ [10] 
+  The Federal Court of Appeal has consistently held that a decision by the Commission to dismiss a complaint pursuant to s. 41 of the  
+ Act 
+  is to be afforded a large degree of deference and is to be reviewed on the reasonableness standard (see  
+ Balogun v. R, 
+  2010 FCA 29, 399 NR 306 at paragraph 6,  
+ Corbiere v. Wikwemikong Tribal Police Services Board 
+ , 2007 FCA 97, 361 NR 69;  
+ Garvey v. Meyers Transport Ltd, 
+  2005 FCA 327, 341 NR 102). 
+ 
+ 
+ 
+ [11] 
+  However, the Applicant's concerns focus on the question of whether the Commission breached the duty of fairness in the handling of her complaint. Questions of procedural fairness are reviewable on a correctness standard (see  
+ Canada (Citizenship and Immigration) v. Khosa 
+ , 2009 SCC 12, [2009] 1 SCR 339 at paragraph 43). 
+ 
+ 
+ 
+ VI.  
+ Analysis 
+ 
+ 
+ 
+ [12] 
+  As noted above, the Commission has a statutory mandate to receive and deal with complaints of discrimination on the basis of, inter alia, race, national or ethnic origin, colour, or disability. The role of the Commission is to deal with the intake of complaints and to screen them for proper disposition (see  
+ Cooper v. Canada (Human Rights Commission) 
+ , [1996] 3 SCR 854 at paragraph 52). As noted by the Supreme Court in  
+ Cooper 
+ , above, at paragraph 53: 
+ 
+ 
+ 
+ It is not the job of the Commission to determine if the complaint is made out. Rather its duty is to decide if, under the provisions of the Act, an inquiry is warranted having regard to all the facts. The central component of the Commission's role, then, is that of assessing the sufficiency of the evidence before it. 
+ 
+ 
+ 
+ [13] 
+  Moreover, I observe that s. 41(1)(c) of the  
+ Act 
+  provides the Commission with considerable discretion. Specifically, s. 41(1)(c) provides that "the Commission shall deal with any complaint filed with it  
+ unless in respect of that complaint it appears to the Commission that ... the complaint is beyond the jurisdiction of the Commission 
+ " [emphasis added]. The use of the words "it appears to the Commission" infers the exercise of discretion. 
+ 
+ 
+ 
+ [14] 
+  In sum, the question that was before the Commission was: did the submissions put forward by the Applicant disclose a link between the treatment that she received by the Respondent and discrimination on the grounds of ethic or national origin or disability? Responding to this question required the Commission to assess the sufficiency of evidence and to exercise its discretion in doing so. In carrying out this function, the Commission must comply with the rules of procedural fairness. 
+ 
+ 
+ 
+ [15] 
+  Procedural fairness does not require the Commission to undergo a lengthy analysis of the complaint at the initial stages. When the Commission dismisses a complaint prior to an investigation, the substance of the allegations must be accepted as true (see  
+ Michon-Hamelin v. Canada (Attorney General) 
+ , 2007 FC 1258, at paragraph 23). Where it is plain and obvious, assuming the truth of the allegations, that the complaint falls under s. 41, an investigation is not required and the Commission may refuse to deal with the complaint FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [16] 
+  The Applicant submits that several errors were made in the processing of her complaint. 
+ 
+ 
+ 
+ [17] 
+  First, she submits that she was not afforded an opportunity to respond to the submissions of the Respondent. 
+ 
+ 
+ 
+ [18] 
+  The Report clearly put the Applicant on notice of the potential problems in her submissions. Specifically, the Report stated that the  
+ Act 
+  "does not extend to every situation where a person feels that he/she has been aggrieved ... unless that treatment is related to a prohibited ground, it does not constitute discrimination under the Act". While it is true that the Applicant was not provided with a copy of the initial submission of the Respondent, an accurate summary of that submission was set out in the Report. The Applicant was given the opportunity to make submissions on the Report, at which time she could have addressed any concerns she had with the Report, with Respondent's submissions (as described in the Report), or the procedure. She was also given advice on the shortcomings of her response by an Early Resolution Analyst. 
+ 
+ 
+ 
+ [19] 
+  I cannot find that the Applicant was not given an opportunity to present her case or respond to the concerns of the Commission or the Respondent. 
+ 
+ 
+ 
+ [20] 
+  The Applicant also submits that she was limited in her ability to present her case by the page length limits of the complaint and response, as well as by the fact that she could not provide supplementary evidence. 
+ 
+ 
+ 
+ [21] 
+  Like other administrative bodies, the Commission is the "master of its own procedure" (see  
+ Sketchley v. Canada (Attorney General), 
+  2005 FCA 404, [2006] 3 FCR 392 at paragraph 119). In reviewing that procedure, the Court should take into account the balancing of interests between the Respondent and Applicant and the need for an administratively effective system (see  
+ Slattery v. Canada (Human Rights Commission) 
+ , [1994] 2 FC 574 at paragraph 56 (TD) affirmed (1996), 205 NR 383 (CA)). Limiting the length of the submissions and not allowing supporting evidence at the first stage of the complaint process was within the Commission's prerogative and there was no error in doing so. 
+ 
+ 
+ 
+ [22] 
+  At the screening stage, the Applicant is required to set out her allegations or facts. She is not required to provide the evidence that would prove those allegations. Moreover, at the screening stage, the allegations are taken to be true. There is no need to provide supporting documentation or evidence. Such evidence only becomes necessary  
+ if 
+  the complaint proceeds to an investigation. Thus, the Applicant's complaint that she was not allowed to submit supplementary documents or evidence is without merit. 
+ 
+ 
+ 
+ [23] 
+  Finally, the Applicant submitted that the Commission breached procedural fairness by failing to consider her November 7, 2009 submissions which were made in response to the Report. 
+ 
+ 
+ 
+ [24] 
+  In her November 7, 2009 submissions, the Applicant added a few more allegations. She stated that in January 2007 she was denied a pay raise as retaliation for disputes over her performance. In August 2009, the Applicant was interviewed for an internal Securities Administrator position, but alleges that she did not receive this position, despite being qualified, due to retaliation by her manager and supervisor. The Applicant further asserts that she was never paid for overtime hours worked. With respect to her colour or ethnicity, the Applicant simply reiterates that she is of South Indian origin. In addition, she makes the following statements regarding colour or ethnicity: 
+ 
+ 
+ 
+ • she describes that she was reprimanded in May 2005 because of her colour; 
+ 
+ 
+ 
+ • she reiterates that she was moved to another job under a different Supervisor in August 2006 and that this Supervisor didn't like people of "brown colour"; 
+ 
+ 
+ 
+ • she states that she did not receive a raise in seven years because of her skin colour; and 
+ 
+ 
+ 
+ • she alleges that the Respondent's systems were discriminatory towards people of her colour. 
+ 
+ 
+ 
+ [25] 
+  While the Applicant may have made a few further references to her colour, these statements were bald and vague assertions and accusations with no underlying facts to support them. For example, it is insufficient to claim that the Respondent's systems were discriminatory without describing of how this discriminatory practice manifested itself in the workplace. In short, the November 7 submission failed to provide any clear link between a ground of discrimination in the  
+ Act 
+  and the factual incidents she mentions. 
+ 
+ 
+ 
+ [26] 
+  In its decision of December 23, 2009, the Commission states that it had reviewed the submissions filed in response to the Report. In addition, the Record of Decision attached to the decision letter explicitly sets out the November 7 submission as "material that was considered". The submissions were not ignored and, given that the additional submissions did nothing to address the lack of nexus, there was no error in failing to make more extensive references to the submissions. In the circumstances, it was not, in my view, necessary for the Commission to engage in a detailed analysis of the submission. There is no error. 
+ 
+ 
+ 
+ VII.  
+ Conclusion 
+ 
+ 
+ 
+ [27] 
+  For these reasons, the application for judicial review is dismissed. 
+ 
+ 
+ 
+ [28] 
+  The final matter to discuss is costs. The Applicant is self-represented. At the close of the hearing, the Respondent advised the Court that it was not seeking costs. In waiving its right to costs (which would have been substantial), the Respondent is still entitled to its costs for the preliminary motions. Moreover, if the Applicant chooses to appeal this decision and loses, she bears the risk of having to pay the Respondent's costs on appeal. Because of this risk, I would encourage the Applicant to seek some legal advice prior to commencing any appeal. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [29] 
+   
+ THIS COURT ORDERS AND ADJUDGES that 
+ : 
+ 
+ 
+ 
+ 1. the application for judicial review is dismissed; and 
+ 
+ 
+ 
+ 2. no costs are awarded. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: E. Joanne Oley/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

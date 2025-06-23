@@ -1,0 +1,7 @@
+[9]
+The jurisprudence has established the standard to be employed by the courts when called upon to review the exercise of a discretionary power such as the one in question here. In
+Re Maple Lodge Farms Ltd. and Government of Canada et al.
+, [1982] 2 S.C.R. 2; 44 N.R. 354; 137 D.L.R.(3d) 558 (S.C.C.), McIntyre, J., stated at p. 562:
+"In construing statutes such as those under consideration in this appeal, which provide for far-reaching and frequently complicated administrative schemes, the judicial approach should be to endeavour within the scope of the legislation to give effect to its provisions so that the administrative agencies created may function effectively, as the legislation intended. In my view, in dealing with legislation of this nature, the courts should, wherever possible, avoid a narrow, technical construction, and endeavour to make effective the legislative intent as applied to the administrative scheme involved.
+It is, as well, a clearlyestablished rule that courts should not interfere with the exercise of a discretion by a statutory authority merely because the court might have exercised the discretion in a different manner had it been charged with that responsibility. Where the statutory discretion has been exercised in good faith and, where required, in accordance with the principles of natural justice, and where reliance has not been placed upon considerations irrelevant or extraneous to the statutory purpose, the courts should not interfere.
+" (emphasis added)

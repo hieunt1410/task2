@@ -1,0 +1,17 @@
+[91]
+The Supreme Court of Canada in
+Free World Trust
+, above, outlined the test for anticipation in Canada:
+"[26] The Solov'eva article was drawn to the respondents' attention by the appellant who cited it as prior art in the specification of the '361 patent itself. The legal question is whether the Solov'eva article contains sufficient information to enable a person of ordinary skill and knowledge in the field to understand, without access to the two patents, 'the nature of the invention and carry it into practical use without the aid of inventive genius but purely by mechanical skill' (H.G. Fox,
+The Canadian Law and Practice Relating to Letters Patent for Inventions
+(4th Ed. 1969), at pp. 126-27). In other words, was the information given by Solov'eva 'for [the] purpose of practical utility, equal to that given in the patents in suit'? (
+Consolboard Inc. v. MacMillan Bloedel (Sask.) Ltd.
+, [1981] 1 S.C.R. 504, per Dickson, J., at p. 534), or as was memorably put in
+General Tire & Rubber Co. v. Firestone Tyre & Rubber Co.
+, [1972] R.P.C. 457 (Eng. C.A.), at p. 486:
+'A signpost, however clear, upon the road to the patentee's invention will not suffice. The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.'
+"The test for anticipation is difficult to meet:
+'One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill. The prior publication must contain so clear a direction that a skilled person reading and following it would in every case and without possibility of error be led to the claimed invention.'
+(
+Beloit Canada Ltd. v. Valmet OY
+(1986), 8 C.P.R.(3d) 289 (F.C.A.), per Hugessen, J.A., at p. 297)"

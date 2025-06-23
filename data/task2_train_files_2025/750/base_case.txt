@@ -1,0 +1,113 @@
+[1]
+O'Reilly, J.
+: Mr. Badal is 71 years old and a citizen of Iran. On arrival in Canada in 1998 he claimed refugee status on the basis that he had a fear of persecution in Iran because of his religion. He has had two hearings before the Immigration and Refugee Board and, in both cases, the Board found that he is not a Convention refugee. He seeks a third hearing on the basis that the Board made various errors in the disposition of his claim.
+[2]
+Mr. Badal's family was Christian. He said that his family had various problems with the regime in Iran after the Islamic revolution. His son, George, fled Iran in 1984. For his part, Mr. Badal was arrested twice for proselytizing to Muslims.
+[3]
+In 1989, Mr. Badal married a Muslim woman. In order to marry her, he formally converted to Islam and he is identified on the marriage certificate as being Muslim. However, he says he remained Christian in his mind and continued to go to church.
+[4]
+Mr. Badal and his wife later separated. He left Iran soon after filing for divorce. He says that if he returns to Iran, his former wife's relatives will report him and he will be convicted and executed as an apostate - in this case, a person who has betrayed Islam.
+[5]
+The Immigration and Refugee Board first denied Mr. Badal's claim in 1999. It found his evidence to be inconsistent and contradictory and concluded that he had failed to establish that he would be perceived in Iran as an apostate. Its conclusion was based in part on Mr. Badal's failure to present his baptismal certificate in evidence. In effect, the Board simply did not believe that Mr. Badal was Christian.
+[6]
+That decision was quashed by Mr. Justice Campbell. He found that it was not Mr. Badal's fault that the baptismal certificate was not in evidence (it had somehow been lost). Therefore, he concluded that the Board's assessment of Mr. Badal's credibility was ill-founded and sent the matter back for reconsideration by another panel [see [2000] F.T.R. Uned. 94].
+[7]
+The evidence before the Board at the second hearing included the previously lost baptismal certificate, the various other documents in the record, the transcript of the first hearing and the decision and reasons of the first panel.
+[8]
+Mr. Badal did not testify at the second hearing. His counsel told the Board that Mr. Badal was unable to testify coherently due to post-traumatic stress disorder and related memory problems. The Board adjourned the hearing and gave counsel an opportunity to file a medical assessment of Mr. Badal's condition. Counsel filed the assessment along with written submissions and stated that she would not be calling Mr. Badal to testify.
+[9]
+The Board never resumed hearing. On January 16, 2002, it rendered the decision that is now under review. It found that the medical assessment was "insufficient to establish the claimant's incompetence to testify," and concluded that he had simply chosen not to do so. The Board accepted that Mr. Badal was a Christian. However, it also took note of the fact that the first panel had found inconsistencies and contradictions in Mr. Badal's testimony. In the result, the Board concluded there was "insufficient credible or reliable evidence that the claimant is an apostate or would be perceived by Iranian authorities to be an apostate". Accordingly, there was "less than a mere possibility that Iranian authorities would persecute the claimant if he returned to Iran based on his religion or political opinion."
+[10]
+Mr. Badal claims that the Board made a number of errors. By way of his application for judicial review, he asks the Court, once again, to set aside the Board's decision and order yet another new hearing.
+I.
+Issues
+[11]
+Counsel for Mr. Badal raised the following issues:
+1. Did the Board breach the duty of fairness by making negative credibility findings in the absence of Mr. Badal's testimony?
+2. Did the Board err in law or breach the duty of fairness in relying on the reasons of the previous panel?
+3. Did the Board err in law by ignoring relevant evidence or failing to provide adequate reasons?
+4. Did the Board err in law by failing to apply the "benefit of the doubt" principle?
+[12]
+This case turns primarily on the disposition of the second issue. A new hearing is required on that ground alone. However, issue 1 is closely related to issue 2, so I will address it as well. It is unnecessary for me to decide issues 3 and 4.
+A.
+Did the Board breach the duty of fairness by making negative credibility findings in the absence of Mr. Badal's testimony?
+[13]
+The Board had before it documentary evidence from various sources, as well as the oral testimony of Mr. Badal's son. Clearly, without oral evidence from Mr. Badal, the Board had no choice but to decide the matter on the basis of the other evidence before it. Mr. Badal argues that it was unfair for his credibility to be assessed solely on the basis of the transcript from the first hearing.
+[14]
+Counsel relies on the case of
+Akel v. Canada (Minister of Citizenship and Immigration)
+, [2000] F.C.J. No. 444; 185 F.T.R. 282 (T.D.), for the proposition that credibility findings should not be based solely on a review of a transcript. In that case, Justice Gibson held that the Board did not err by admitting and summarizing a transcript of a previous hearing. The circumstances were similar to those here. The applicant had testified at his first, but not his second, hearing. The Board relied on the transcript from the first hearing in concluding that the applicant's claim was not made out. Justice Gibson referred to subsection 68(3) of the
+Immigration Act
+which states that the Board may receive any evidence that it considers "credible or trustworthy". This made the transcript admissible, he held, so long as the Board did not rely on the previous transcript alone in order to make negative credibility findings:
+FRAGMENT_SUPPRESSED
+[15]
+There are two distinct legal questions raised by Justice Gibson's reasoning. The first one is admissibility: whether the transcript of a previous hearing that contains questionable testimony is admissible as evidence before the Board under s. 68(3). The second one is fairness: whether the Board can rely on the transcript in the absence of any new testimony from the applicant in order to make adverse credibility findings.
+[16]
+As for admissibility, transcripts of previous hearings are generally admissible before the Board: see, for example,
+Diamanama v. Canada (Minister of Citizenship and Immigration)
+, [1996] F.C.J. No. 121 (T.D.);
+Moldoveannu v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2001] F.T.R. Uned. 275 (T.D.); 2002 FCA 143 (T.D.);
+Sidhu v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.T.R. Uned. 3 (T.D.); [2002] F.C.J. No. 6 (T.D.), 2002 FCT 10. In my view, a transcript does not cease to be "credible or trustworthy" evidence if there are doubts about the truthfulness of those whose testimony is recorded in it. The transcript should still be considered "trustworthy" in the sense that it represents an accurate record of the oral testimony. It is, therefore, admissible under s. 68(3) of the
+Act
+and may be considered by the Board for purposes of fact-finding, including, where justified, making conclusions about credibility.
+[17]
+As far as the question of fairness is concerned, I believe that Justice Gibson's observation relates primarily to situations where the applicant was deprived of the chance to present his case afresh at the new hearing or where the Board did not truly reconsider the case. The important question is whether, at the second hearing, the applicant had the opportunity to introduce any new evidence and make submissions on the entirety of the evidence before the Board. If so, then the process is fair.
+[18]
+In summary, I see no reason why a Board should not be able to consider a transcript of a previous hearing and make a finding of a lack of credibility based on it. Of course, such a finding could only be made after a thorough review of the evidence and it would have to be carefully explained.
+[19]
+In this case, counsel for Mr. Badal had the opportunity to introduce evidence and make oral and written submissions to the Board. The Board's consideration of the transcript from the first hearing was not unfair under those circumstances. Reliance on it to reach the conclusion that there was "insufficient credible or reliable evidence" supporting Mr. Badal's claim was permissible. There was no breach of the duty of fairness.
+[20]
+As mentioned, when a Board considers a transcript from a previous hearing and relies on it to make credibility findings, its reasons should make the basis for those findings clear. Mr. Badal argues that the Board's decision was inadequate in that regard. This contention is related to the second issue in this case and I will deal with it below.
+B.
+Did the Board err in law or breach the duty of fairness in relying on the reasons of the previous panel?
+[21]
+Most of the Board's analysis of Mr. Badal's claim is taken up with the question whether he was competent to testify. The Board concluded that he was, and that the decision not to testify was simply a choice that he made on the advice of counsel.
+[22]
+With respect to the evidence supporting Mr. Badal's refugee claim, the Board says very little. It states that it "relied on the other evidence before it including the transcript of testimony from the original hearing to reach its decision" (at 3). It goes on to say:
+"The reasons of the original panel provide details of a number of inconsistencies and contradictions in the testimony."
+[23]
+The Board then quotes Mr. Badal's counsel at the first hearing, who had conceded that the main issue in the case was Mr. Badal's credibility.
+[24]
+The Board appears to have relied on the analysis of Mr. Badal's testimony carried out by the previous panel. This raises the question whether it is appropriate for a Board to rely on the conclusions and reasons of a previous panel, including its findings of credibility.
+[25]
+A Board can rely on the fact-finding of another panel, to a certain extent. For example, a Board can adopt another panel's conclusions in respect of the conditions in the applicant's country of origin or the feasibility of seeking refuge within its borders:
+Olah et al. v. Canada (Minister of Citizenship and Immigration)
+, [2001] F.T.R. Uned. 221; [2001] F.C.J. No. 623 (T.D.), 2001 FCT 382;
+Koroz v. Canada (Minister of Citizenship and Immigration)
+, [2000] F.C.J. No. 1593; 261 N.R. 71 (F.C.A.). In
+Olah
+, Justice Dawson stated that "a panel cannot blithely incorporate findings of fact from other cases" (at para. 25). In
+Koroz
+, Justice Linden stated that a panel cannot "blindly adopt factual findings of other panels" (at para. 3). In other words, reliance on the findings of another panel must be limited, careful and justified.
+[26]
+A Board may also admit in evidence and read the written reasons of a previous panel dealing with the same applicant:
+Lahai v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.C.J. No. 444; 288 N.R. 250 (C.A.), 2002 FCA 119. If it does, however, the question will be whether a reasonable observer would think that the Board had carried out a thorough, independent and impartial analysis of all of the evidence. In
+Lahai
+, the Court of Appeal found that the reasons of the second panel were so different from those of the first that any suspicion that might arise from the reading of the first panel's decision was dispelled. It would clearly be inappropriate, though, for the second panel simply to adopt the reasons of the first (at para. 15). It must be clear that the Board considered the matter afresh:
+Marques v. Canada (Minister of Citizenship and Immigration) (No. 2)
+, [1996] F.C.J. No. 1114; 116 F.T.R. 243 (T.D.). Equally, a Board must not simply attach to its decision the reasons of another panel. The Court of Appeal has described this as "a shortcut practice that should not be used":
+Koroz
+(at para. 4).
+[27]
+Here, the Court had ordered a reconsideration of the evidence. The failure of Mr. Badal to testify did not relieve the Board of the obligation to assess all of the evidence, which included the transcript from the first hearing. In the circumstances, I am satisfied that a reasonable observer would conclude that the Board simply relied on the previous panel's assessment of Mr. Badal's testimony instead of conducting its own. This amounted to a breach of the duty of fairness.
+[28]
+Returning briefly to the first issue considered above, I would also note that the Board, having received in evidence the transcript from the first hearing, did not give an adequate explanation of its conclusion that there was an absence of credible evidence supporting Mr. Badal's application. A mere reference to the observations of a previous panel does not satisfy the obligation to explain a negative credibility finding.
+[29]
+Accordingly, this matter must be reconsidered by a new panel.
+II.
+Certified Question
+[30]
+Counsel for the Applicant, Mr. Michael Crane, submitted a number of questions for certification for purposes of the appeal possibility provided in paragraph 74(d) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27. Counsel for the Respondent, Ms. Pamela Larmondin, did not make any submissions with respect to a certified question.
+[31]
+While I view the issues discussed above as serious, I have found that the authorities cited above have answered them. That being so, I do not think that the issues transcend the circumstances of this case. They do not raise matters of "general importance" and I have not, therefore, certified a question.
+JUDGMENT
+[32]
+IT IS HEREBY ADJUDGED that the application for judicial review is allowed and the matter is returned to the Immigration and Refugee Board for redetermination by a different panel. No certified question is stated.
+Application allowed.
+Editor: David Weir/ve
+[End of document]

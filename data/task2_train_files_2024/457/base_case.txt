@@ -1,0 +1,130 @@
+[1]
+Martineau, J.
+: The applicant, Mr. Cho Duri, filed the present application for judicial review after his application to reinstate his withdrawn refugee claim was summarily dismissed on June 30, 2009, by a member of the Refugee Protection Division of the Immigration and Refugee Board (the Division), on the grounds that the Division has no jurisdiction to reinstate a claim that was never referred to it by an officer of the Canadian Border Services Agency (the impugned decision).
+I FACTUAL BACKGROUND
+[2]
+The applicant is a Bangladeshi man who became a citizen of South Korea in 2005. Since 2006, he has had a number of interactions with Canadian immigration officials culminating in the impugned decision. The applicant moved to South Korea from Bangladesh in 1991. For many years, he worked without status in South Korea as a migrant worker. In 1998, he met his wife, a citizen of South Korea, and they got married in 2002. In 2005, after the applicant became a Korean citizen, he claims to have been the target of severe discrimination based on his ethnicity.
+[3]
+The applicant and his wife landed in Vancouver on December 28, 2006. When questioned by immigration officials about the purpose of their trip, the applicant and his wife stated that they were coming to Canada to sightsee and visit relatives. As a result of a luggage examination and a call, which led immigration officials to conclude that they intended to stay in Canada, the applicant and his wife were separated and further examined by immigration officials. During his examination, the applicant claimed refugee protection on the ground that as a Bangladeshi man, he was subject to discrimination in South Korea. After being informed that the applicant had claimed refugee protection, the applicant's wife became extremely distraught. She claimed to have come to Canada to follow her husband, and while she acknowledged that her husband faced problems in South Korea, she said that she did not have any problems. At no point did she make a claim for refugee protection. Both the applicant and his wife were then detained.
+[4]
+On December 29, 2006, less than 24 hours after they arrived, the applicant requested to return to South Korea with his wife. He stated that he was not at risk in South Korea and he signed the forms to withdraw his refugee claim and waive his right to a pre-removal risk assessment (PRRA). The applicant and his wife left Canada voluntarily on December 29, 2006. The applicant did not attempt to return to Canada until 2009.
+[5]
+Upon return to Korea, the applicant became a vocal advocate for migrant workers' rights. As a result of his activism, the applicant claims that the difficulties he was facing as a Bangladeshi in Korea only got worse. On March 12, 2009, the applicant was hit by a car, an incident he claims was not an accident. Fearing further attacks, the applicant left South Korea and arrived in Toronto on March 31, 2009, alone. He entered as a visitor and at the Toronto Pearson International Airport he was granted temporary resident status until September 30, 2009. On April 24, 2009, the applicant made a second refugee claim in Montreal. On May 20, 2009, the applicant was informed that he was ineligible to make a refugee claim because he had previously withdrawn an application for refugee protection. On that same date the applicant was issued an exclusion order.
+[6]
+The applicant has not sought leave to judicially review the decision to find him ineligible to make a refugee claim. His counsel has made it clear to the Court that the purpose of the present application is not to review this former decision. In any event, the applicant is now time barred from bringing an application for leave to judicially review this decision. He did, however, seek leave for judicial review of the exclusion order. This Court denied the applicant's application for leave on September 10, 2009. In the meantime, on May 27, 2009, the applicant filed an application to reinstate his withdrawn refugee claim with the Division. On June 30, 2009, the Division replied to the applicant's application stating that "the IRB has no jurisdiction on the file as it was never referred from the Canadian Border Services Agency." It is this new decision that the Court is asked to review in the present application.
+II JURISDICTIONAL ISSUE
+[7]
+While both the applicant and the respondent have raised various issues in their written materials, it turns out that the only issue left for the Court to determine is whether the Division had jurisdiction to reinstate the applicant's claim for refugee protection.
+[8]
+Whether the Division had jurisdiction to reinstate a claim that has not been referred to it by an officer of the Canadian Border Services Agency is a question of law that is reviewable on a standard of correctness (
+New Brunswick (Board of Management) v. Dunsmuir
+(2008), 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9 and
+FRAGMENT_SUPPRESSED). The position of the respondent is that since the claim for refugee protection made on December 28, 2006 was never referred to the Division by an officer, the Division simply does not have the jurisdiction to reinstate it. The applicant opposes this proposition.
+[9]
+To answer the question raised in this proceeding, the Court must assess the relationship between section 100 and paragraph 101(c) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c-27 (the
+Act
+) with Rule 53 of the
+Refugee Protection Division Rules
+SOR/2002-228 (the
+Rules
+). For ease of reference, they read as follows:
+"
+100.
+(1) An officer shall, within three working days after receipt of a claim referred to in subsection 99(3), determine whether the claim is eligible to be referred to the Refugee Protection Division and, if it is eligible, shall refer the claim in accordance with the rules of the Board.
+"100(2) The officer shall suspend consideration of the eligibility of the person's claim if
+(
+a
+) a report has been referred for a determination, at an admissibility hearing, of whether the person is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality; or
+(
+b
+) the officer considers it necessary to wait for a decision of a court with respect to a claimant who is charged with an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years.
+"100(3) The Refugee Protection Division may not consider a claim until it is referred by the officer. If the claim is not referred within the three-day period referred to in subsection (1), it is deemed to be referred, unless there is a suspension or it is determined to be ineligible.
+"100(4) The burden of proving that a claim is eligible to be referred to the Refugee Protection Division rests on the claimant, who must answer truthfully all questions put to them. If the claim is referred, the claimant must produce all documents and information as required by the rules of the Board.
+"100(5) If a traveller is detained or isolated under the Quarantine Act, the period referred to in subsections (1) and (3) does not begin to run until the day on which the detention or isolation ends.
+"
+101.
+(1) A claim is ineligible to be referred to the Refugee Protection Division if
+. . . . .
+(
+c
+) a prior claim by the claimant was determined to be ineligible to be referred to the Refugee Protection Division, or to have been withdrawn or abandoned;
+. . . . .
+"
+53.
+(1) A person may apply to the Division to reinstate a claim that was made by that person and withdrawn.
+"53(2) The person must follow rule 44, include their contact information in the application and provide a copy of the application to the Minister.
+"53(3) The Division must allow the application if it is established that there was a failure to observe a principle of natural justice or if it is otherwise in the interests of justice to allow the application."
+"
+100.
+(1) Dans les trois jours ouvrables suivant la réception de la demande, l'agent statue sur sa recevabilité et défère, conformément aux règles de la Commission, celle jugée recevable à la Section de la protection des réfugiés.
+"(2) L'agent sursoit à l'étude de la recevabilité dans les cas suivants:
+a
+) le cas a déjà été déféré à la Section de l'immigration pour constat d'interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée;
+b) il l'estime nécessaire, afin qu'il soit statué sur une accusation pour infraction à une loi fédérale punissable d'un emprisonnement maximal d'au moins dix ans.
+"(3) La saisine de la section survient sur déféré de la demande; sauf sursis ou constat d'irrecevabilité, elle est réputée survenue à l'expiration des trois jours.
+"(4) La preuve de la recevabilité incombe au demandeur, qui doit répondre véridiquement aux questions qui lui sont posées et fournir à la section, si le cas lui est déféré, les renseignements et documents prévus par les règles de la Commission.
+"(5) Le délai prévu aux paragraphes (1) et (3) ne court pas durant une période d'isolement ou de détention ordonnée en application de la
+Loi sur la mise en quarantaine
+.
+"
+101.
+(1) La demande est irrecevable dans les cas suivants:
+. . . . .
+c) décision prononçant l'irrecevabilité, le désistement ou le retrait d'une demande antérieure;
+. . . . .
+"
+53.
+(1) Toute personne peut demander à la Section de rétablir la demande d'asile qu'elle a faite et ensuite retirée.
+"(2) La personne fait sa demande selon la règle 44; elle y indique ses coordonnées et transmet une copie de la demande au ministre.
+"(3) La Section accueille la demande soit sur preuve du manquement à un principe de justice naturelle, soit s'il est par ailleurs dans l'intérêt de la justice de le faire."
+[10]
+The applicant argues that there is nothing within the wording of Rule 53 that restricts applications for reinstatement to claims that have been referred to the Division. According to the applicant, if the criteria in Rule 53(3) are met, the Division must allow the application for reinstatement. The applicant argues that since an application was submitted in accordance with Rule 44, as provided by Rule 53(2), the Division erred by refusing to exercise jurisdiction over his claim. Alternatively, if the Court decides that a claim must be referred to the Division before it has jurisdiction to reinstate it, the applicant argues that since his claim was not deemed ineligible under section 101 of the
+Act
+, pursuant to subsection 100(3), the refugee claim he made in 2006 should be deemed to have been referred to the Division by the simple passage of time.
+[11]
+According to a plain reading of section 100 of the
+Act
+, the Division cannot simply consider a claim before it is actually referred to it by an officer (see subsection 100(3)), and an officer shall refer a claim to the Division within three days of the claim being made, unless the officer determines that the claim is ineligible for referral (see subsection 100(1)). Rule 53 is a regulatory provision that deals with the reinstatement of a withdrawn claim or application. Rule 53 simply complements section 100. An applicant may apply to the Division to reinstate a claim that he or she has previously withdrawn if the person submits an application in the prescribed form (see Rules 53(1) and 53(2)). An application for reinstatement must be allowed, according to Rule 53(3), if it is established that there was a failure to observe a principle of natural justice or if it is otherwise in the interests of justice. According to section 101 of the
+Act
+, a claim may be ineligible if, inter alia, a prior claim was made by the same person and withdrawn or abandoned (subsection 101(c)). If an officer does not refer a claim, and the claim is not suspended or determined to be ineligible, within three days, then subsection 100(3) of the
+Act
+provides that the claim is deemed to have been referred to the Division for consideration.
+[12]
+With the foregoing in mind, the applicant's arguments cannot stand.
+[13]
+The suggestion made by applicant's counsel that the applicant's claim was referred to the Division because it was not deemed ineligible under section 101 is illogical. A claim that has been withdrawn cannot be referred to the Division because it is no longer in existence. With regard to Rule 53 and the ability for a person to apply to reinstate a claim they previously withdrew, it does not make sense that the Division would have the authority to reinstate a claim that was never referred to it. This is supported by the fact that subsection 100(3) of the
+Act
+explicitly provides that "the Refugee Protection Division may not consider a claim until it is referred by [an] officer." If the Division cannot consider a claim until it is referred by an officer, there is no authority that provides that the Division may reinstate a claim that an officer never referred.
+[14]
+In the case at bar, the applicant withdrew his first claim for refugee protection within 24 hours of making it. This means that his claim was never referred to the Division and, therefore, the Division does not have jurisdiction to consider his application for reinstatement. Thus, the Division did not err in its decision to decline jurisdiction over the applicant's application for reinstatement of his refugee claim.
+III CONCLUSION
+[15]
+For the reasons above, this application for judicial review shall be dismissed.
+[16]
+The applicant has proposed the following question for certification:
+Does the Division have jurisdiction to entertain an application to reinstate a claim for refugee protection that was withdrawn by a claimant before an officer referred it to the Division?
+[17]
+The respondent already indicated that the impugned provisions of the
+Act
+and the
+Rules
+are clear and command a negative answer to the above question. Thus, if the present application is to be dismissed, there is no need to certify the proposed question by the applicant.
+[18]
+I do not think that there is a serious question of general importance in this case.
+[19]
+While the question raised by the applicant may be determinative of an appeal of this judgment, counsel for the applicant concedes that the facts of this case are exceptional. A claimant will rarely return to his or her country prior to the issuance of an exclusion order; most claimants will not withdraw, at a port of entry, a claim he or she has made for refugee protection. On the contrary, most often applicants will want to make a claim for refugee protection after an exclusion order has been issued against them, when it is too late to do so. Moreover, even if the question raised by the applicant is new and somewhat interesting, it remains that the impugned provisions of the
+Act
+and the
+Rules
+are clear and speak from themselves. Thus, in the present circumstances, it does not appear necessary to have the issue considered by the Federal Court of Appeal.
+[20]
+Accordingly, in the exercise of my discretion, no question of general importance will be certified.
+JUDGMENT
+[21]
+THIS COURT ORDERS AND ADJUDGES that
+the application for judicial review be dismissed. No question of general importance is certified.
+Application dismissed.
+Editor: E. Joanne Oley/ve
+[End of document]

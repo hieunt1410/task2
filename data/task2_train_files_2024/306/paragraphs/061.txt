@@ -1,0 +1,15 @@
+[61]
+When all of the evidence was in, it seemed to me that the importance given to "hydraulic locks" had come somewhat late in the day. Elevating the hydraulic locks to the point that they were "an essential part of the invention" certainly provided a basis to rebut prior art of other patents or any suggestions of obviousness. Mr. Kimber's evidence at no time suggests this singular importance should be given to "hydraulic locks" or their central role in the rollover patent. In fact, his evidence is quite the contrary. His emphasis is on mechanical parallel holding. He knew he had to consult the hydraulics person, due to his own lack of knowledge about hydraulics. He was however only seeking to confirm that a hydraulic system could be designed to do the work. At page 585 of the evidence:
+"Q.	So your first sketch was the one that you showed to Mr. Rönne, was it? And that was this sketch which you are showing me now?
+A.	(Interpreter) Yes.
+Q.	And that is Exhibit P-37?
+A.	(Interpreter) Yes.
+Q.	And that was a base rotation boom, is that correct, so that the sketch, the hydraulic sketch that Mr. Rönne prepared for you, then, the theoretical sketch was for a base rotation boom?
+A.	(Interpreter) For the first time.
+Q.	Yes, and it wasn't decided right away that you were going to use hydraulic--that you were going to use hydraulic parallelism, is that correct?
+A.	(Interpreter) The company was still considering whether to use hydraulic or mechanical parallelism."
+And later at page 588:
+"Q.	That it should be equipped with a system mechanical or hydraulic for automatic parallel keeping of the feed during positioning?
+A.	(Interpreter) I can imagine that he wanted to test first.
+Q.	I see. So he had not completely decided that the hydraulic would be the best way?
+A.	(Interpreter) They had confirmed the line which to take but he may have had some doubt which to follow."

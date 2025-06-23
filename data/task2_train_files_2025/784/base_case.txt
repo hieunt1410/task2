@@ -1,0 +1,249 @@
+Dawoud v. Can. (M.C.I.), [2015] F.T.R. Uned. 439 (FC)
+MLB unedited judgment
+Maher Dawoud and Ali Mohammad Ali Dawoud (applicants) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-6379-14; 2015 FC 1110)
+Indexed As: Dawoud v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2015] F.T.R. Uned. 439
+Federal Court
+O'Keefe, J.
+September 24, 2015.
+Counsel:
+Warren Puddicombe, for the applicants;
+Darren McLeod, for the respondent.
+Solicitors of Record:
+Elgin, Cannon & Associates, Vancouver, British Columbia, for the applicants;
+William F. Pentney, Deputy Attorney General of Canada, Vancouver, British Columbia, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+O'Keefe, J.
+: The applicants' claim for refugee protection was denied by the Refugee Protection Division of the Immigration and Refugee Board of Canada [the Board]. They now apply for judicial review of that decision pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act, SC 2001
+, c 27 [the Act].
+[2]
+The applicants seek an order setting aside the negative decision and returning the matter to a different member of the Board for redetermination.
+I.
+Background
+[3]
+The applicants are Palestinians who resided in the West Bank. They owned a company together called Kofi Net Everest, providing secured wireless internet for distribution from an Israeli engineer named Ori Levy.
+[4]
+The applicants would meet Mr. Levy for payment and equipment exchange in an area between Palestine and Israel adjacent to the checkpoint in north Qalqilya.
+[5]
+On February 3, 2012, a car stopped in front of the applicants' company and a person got out and fired his gun at them. About two or three days later, they found flyers distributed around a mosque accusing them of being Israeli spies. They allege that they were targeted by a militant group called Horsemen of the Night.
+[6]
+On May 18, 2012, the applicants traveled to the United States [U.S.] on business visas. While they were in the U.S., they contacted a Canadian lawyer about getting protection in Canada because they felt the U.S. was not safe. They then applied for a Canadian visa, but were refused.
+[7]
+On September 18, 2012, the applicants crossed into Canada illegally and made refugee protection claims alleging that they were targeted by a militant group due to their association with Mr. Levy.
+II.
+Decision Under Review
+[8]
+In a decision dated August 14, 2014, the Board refused the applicants' refugee claim finding that they were not Convention refugees or persons in need of protection as defined under sections 96 and 97 of the Act.
+[9]
+The Board accepted the claimants' identities as Palestine residents and their former roles as operators of a computer business. Although the Board observed the applicants' testimony was consistent, it determined that the central elements of the applicants' claim were not credible. It based its finding on the following omissions and inconsistencies.
+[10]
+First, the applicants provided insufficient independent documentary evidence about the militant group, Horsemen of the Night. The Board acknowledged that there is a presumption of truthfulness for a claimant's sworn testimony; however, it noted in
+Adu v Canada (Minister of Employment and Immigration)
+, [1995] FCJ No 114, 53 ACWS (3d) 158 (FCA) [
+Adu
+], the Federal Court of Appeal found this presumption is rebuttable and may be rebutted by the failure of documentary evidence to mention what one would normally expect it to mention. Here, only a Facebook page was provided in support and none of the other independent documentary evidence had reference to this militant group.
+[11]
+Second, the applicants' Personal Information Forms (PIF) omitted a number of key details in the applicants' evidence:
+i. Phone calls made to Maher Dawoud's brother's cell phone demanding to know the applicants' whereabouts;
+ii. Palestinian police visiting Ali Mohammed Ali Dawoud's parents asking about the applicants' whereabouts; and
+iii. A consultation with a mokhtar, a tribal elder, for assistance.
+[12]
+Here, the applicants explained that because no one asked these questions, they did not include this information in the PIFs. The Board found this explanation was not satisfactory, given instructions on the PIF were very clear that all the events and reasons that have led the claimants to claim refugee protection should be included. The Board relied on
+FRAGMENT_SUPPRESSED, finding that it is reasonable to draw a negative credibility inference in light of the lack of corroborating evidence and the lack of reasonable and credible explanations for the failure to produce that evidence.
+[13]
+Third, the Board determined that the applicants lack subjective fear because they travelled in the U.S. for four months but did not make a claim for protection in that country. It did not accept the applicants' explanation and found if the applicants were fleeing for their lives, it was not reasonable for them to analyze the crime rate in Canada and the U.S., two very safe countries.
+[14]
+Fourth, the Board observed the applicants failed to provide corroborating evidence such as an alleged police report and the flyer distributed at the mosque and the Board was not satisfied with the applicants' explanation for not providing them.
+[15]
+Therefore, the Board rejected the applicants' claims.
+III.
+Issues
+[16]
+The applicants raise the following issues:
+1. Whether the Board failed to give due consideration to all the evidence before it when it refused the applicants' claims.
+2. Whether the Board breached procedural fairness by basing its determination regarding the applicants' credibility in part on the absence of evidence relating to the agent of persecution without first providing notice to the applicants the agent of persecution would be an issue.
+[17]
+The respondent raises the following issues:
+1. Was the decision reasonable?
+2. Was there a breach of procedural fairness?
+[18]
+I would rephrase the issues as follows:
+A. What is the standard of review?
+B. Was the Board's decision reasonable?
+C. Did the Board breach procedural fairness?
+IV.
+Applicants' Written Submissions and Further Memorandum
+[19]
+The applicants submit the standard of reasonableness should apply to the first issue (
+Lappen v Canada (Minister of Citizenship and Immigration)
+, 2008 FC 434 at paragraph 13, [2008] FCJ No 566) and the standard of correctness should apply to the second issue (
+Xiang v Canada (Minister of Citizenship and Immigration)
+, 2013 FC 256 at paragraph 13, [2013] FCJ No 281).
+[20]
+First, the applicants submit the Board erred by not performing a separate section 97 analysis. They argue the Board failed to consider the evidence surrounding the applicants' interaction with Mr. Levy. It did not assess whether these actions would be sufficient to create a perception that they were collaborating with the Israelis. The Board failed to account for this credible evidence. They argue they would be considered as "economic collaborators". The applicants submitted to the Board that they would face persecution on the basis of their membership in the group of "perceived collaborators". They provided country evidence in support. However, the Board failed to conduct an analysis of the evidence after it had accepted the applicants' business relationship with Mr. Levy. Therefore, despite the Board's negative credibility findings in other aspects, it committed a reviewable error.
+[21]
+Second, the applicants submit the Board's finding with respect to subjective fear was unreasonable. They argue delay in making a claim for refugee protection should not be fatal to the claim where the delay is supported by a reasonable explanation. In the present case, the applicants had lawful status in the U.S. and there was no urgency for them to claim. Also, it was not implausible about wanting to seek the safest refugee protection possible. The applicants submit where a claimant does not have to seek protection when outside the country of persecution because he/she is safe from being forced to return, not making a refugee claim at the first opportunity should not be held against the claimant (
+Abawaji v Canada (Minister of Citizenship and Immigration)
+, 2006 FC 1065 at paragraph 16, [2006] FCJ No 1344).
+[22]
+Also, the applicants argue the lack of subjective fear would have been irrelevant to an assessment of risk under subsection 97(1) of the Act, where the inquiry is whether the applicants would be perceived as Israeli collaborators. Here, the analysis should be forward-looking.
+[23]
+Third, the applicants submit the Board breached procedural fairness because the Board's screening form did not have "agent of persecution" checked. They argue the Board did not identify it as an issue and did not raise this concern during the proceedings. The Board only inquired whether there was other independent documentary evidence. The applicants argue the Board failed to meet its obligation to provide them with notice that this would be an issue for their claim (
+El-Bahisi v Canada (Minister of Employment and Immigration)
+, [1994] FCJ No 2 at paragraph 6, 72 FTR 117 [
+El-Bahisi
+]; and
+Islas v Canada (Minister of Citizenship and Immigration)
+, [1994] FCJ No 1901 at paragraph 2, 52 ACWS (3d) 393 [
+Islas
+]). They submit it was unreasonable for the Board to assume that each cell, militia and faction would be specifically named in the National Documentation Package (NDP). They noted the disclaimer at the beginning of the NDP that NDPs are not and do not purport to be exhaustive with regard to conditions in the countries surveyed.
+[24]
+Here, the absence of any reference in the country documentation of the agent of persecution was an essential basis for the Board's negative credibility finding. Therefore, the Board made a reviewable error. The applicants submit "an unreasonable mistake causes a break in the chain and casts doubt upon the Decision as a whole" (
+Song v Canada (Minister of Citizenship and Immigration)
+, 2008 FC 1321 at paragraph 52, 337 FTR 72).
+V.
+Respondent's Written Submissions and Further Memorandum
+[25]
+The respondent submits the standard of review applicable to the Board's consideration of the evidence and whether a separate section 97 analysis was required is the standard of reasonableness. The standard of review on the question of procedural fairness is the standard of correctness (
+Canada (Minister of Citizenship and Immigration) v Khosa
+, 2009 SCC 12 at paragraphs 46, 59, 61 and 63, [2009] 1 SCR 339 [
+Khosa
+]; and
+Velez v Canada (Minister of Citizenship and Immigration)
+, 2010 FC 923 at paragraphs 22 and 23, [2010] FCJ No 1138 [
+Velez
+]).
+[26]
+First, the respondent submits the Board's decision was reasonable. Credibility findings are the "heartland of the Board's jurisdiction" (
+RKL v Canada (Minister of Citizenship and Immigration)
+, 2003 FCT 116 at paragraph 7, [2003] FCJ No 162 [
+RKL
+]). Although the Board accepted the applicants' evidence regarding their business relationship with Mr. Levy, it did not accept their allegations regarding the militant group and drew negative inferences from the applicants' failure to provide corroborating documents. These were the core elements of the applicants' refugee protection claim.
+[27]
+Further, the Board was reasonable to conclude the applicants lacked subjective fear. Here, in light of its negative credibility findings, the Board examined the circumstances and did not accept the applicants' explanations for waiting four months to make a claim and not making a claim in the U.S. The respondent argues the applicants' arguments regarding delay are contradictory. On one hand, the applicants' reason for the delay was they felt the U.S. was unsafe so they wanted to claim in Canada; on the other hand, they argued delay was reasonable because they were safe in the U.S. Also, the delay was only one of the negative credibility findings which contributed to the Board's conclusion that the applicants lacked subjective fear.
+[28]
+Second, the respondent argues a separate section 97 analysis was not required because the credibility and factual findings made by the Board were entirely dispositive of the case. It argues the present case is analogous to
+Lopez v Canada (Minister of Citizenship and Immigration)
+, 2014 FC 102, [2014] FCJ No 123 [
+Lopez
+]. In that case, two young brothers who alleged to be at risk of gang violence failed to claim protection in the U.S. This Court found a separate section 97 analysis was not required because the documentary evidence addressed only a generalized risk faced by some young males in El Salvador, but did not provide objective and credible evidence of a personalized risk faced by them (at paragraphs 41 to 46).
+[29]
+In the present case, the applicants established that they had a business relationship with Mr. Levy, but failed to establish that they had ever received any threats or were subjected to any risk. Therefore, given the lack of credible evidence that anyone perceived the applicants to be collaborators, the Board did not have to conduct a separate section 97 analysis.
+[30]
+Third, the respondent submits the Board did not breach procedural fairness. It argues the Board's findings regarding the agent of persecution went to credibility and subjective fear, which the screening form had identified as being at issue. In the present case, the Board directed the applicants to whether or not there was more corroborating evidence on the Horsemen of the Night during the hearing. Further, the applicants have not indicated any other evidence they would have provided had the issue been marked on the Screening Form. The respondent argues even with further independent evidence, it would not have affected the result because the Board did not believe many central elements of the applicants' claim. Here, the applicants are asking this Court to prefer form over substance. Both subjective fear and credibility were marked on the screening form and the discussion regarding the Horsemen of the Night in the decision went primarily to the credibility of the applicants' subjective fear of this group.
+[31]
+Further, the respondent argues both
+El-Bahisi
+and
+Islas
+can be distinguished from the present case. In these two cases, the Board erred in relying on changing circumstances in the claimants' home country without this issue being raised at the hearing. This is not the case here because the Board in the present case asked for more documentary information during the hearing and the applicants failed to provide more.
+[32]
+Therefore, the Board's decision was reasonable and it did not breach procedural fairness.
+VI.
+Analysis and Decision
+A.
+Issue 1 - What is the standard of review?
+[33]
+With respect to the standard of review for the Board's decision, I agree with the parties that the standard of reasonableness should apply. The issues concerning the Board's consideration of the evidence and whether a separate section 97 analysis was required involve questions of fact and questions of mixed fact and law. They generally attract the standard of reasonableness (
+Velez
+at paragraphs 22 and 23). This means that I should not intervene if the decision is transparent, justifiable, intelligible and within the range of acceptable outcomes (
+Dunsmuir v New Brunswick
+, 2008 SCC 9 at paragraph 47, [2008] 1 SCR 190). As the Supreme Court held in
+Khosa
+at paragraphs 59 and 61, a court reviewing for reasonableness cannot substitute its own view of a preferable outcome, nor can it reweigh the evidence.
+[34]
+With respect to the issue of procedural fairness, I agree with the parties that the standard of review is correctness. This means I must determine whether the process followed by the decision maker satisfies the level of fairness required in all of the circumstances (
+Khosa
+at paragraph 43).
+B.
+Issue 2 - Was the Board's decision reasonable?
+[35]
+I find the Board's decision was reasonable.
+[36]
+First, I find the Board's credibility findings were reasonable.
+[37]
+It is trite law that credibility findings are the "heartland of the Board's jurisdiction" (
+RKL
+at paragraph 7). Here, the Board found that the central elements of the applicants' claim were not credible based on omissions and inconsistencies. It was not satisfied with the applicants' explanation of why some of the corroborating evidence was not produced. In
+Castaneda
+, this Court found it is reasonable to draw a negative credibility inference in light of the lack of corroborating evidence and the lack of reasonable and credible explanations for the failure to produce that evidence.
+[38]
+As for the rest of the applicants' argument surrounding the NDP regarding the agent of persecution, in my view, this amounts to a disagreement with the Board's assigned weight of the documentary evidence. It is not my role to reweigh the evidence when determining the reasonableness of the Board's decision. Here, I find the Board was not unreasonable to prefer the documentary evidence over the applicants' submitted Facebook evidence.
+[39]
+In
+Adu
+, the Federal Court of Appeal found the presumption of the truthfulness for sworn testimony may be rebutted by the failure of the documentary evidence to mention what one would normally expect it to mention. I find the Board was within its right to conclude the lack of corroborating documentary evidence on the agent of persecution undermined the applicants' credibility as there was no mention of the Horsemen of the Night. Therefore, the Board's credibility findings were reasonable.
+[40]
+Second, I find in light of the negative credibility findings, the Board was not unreasonable to find the applicants lacked subjective fear.
+[41]
+Although the failure to claim refugee status in another country is not determinative of a lack of subjective fear, it is a relevant factor which also affects credibility.
+[42]
+Here, the Board was not satisfied with the applicants' rationale in delaying to file for their refugee claims. It reasoned if the applicants were fleeing for their lives, they would not be comparing crime rates between the U.S. and Canada. This was not an unreasonable analysis. Further, the delay was only one of the negative credibility findings which all contributed to the Board's conclusion that the applicants lacked subjective fear. Therefore, the Board's determination that the applicants lacked subject fear was not unreasonable.
+[43]
+Third, I find the Board did not err in not conducting a separate section 97 analysis.
+[44]
+I agree with the respondent's reliance on
+Lopez
+. In that case, Madame Justice Catherine Kane clearly found at paragraph 46 that "negative credibility findings are sufficient to foreclose the section 97 analysis unless there is independent objective evidence to support that the particular applicants would face a personalized risk." She explained in paragraph 42 that documentary evidence provides support for generalized risk, but not personalized risk which is required under subparagraph 97(1)(b)(ii) of the Act:
+The applicants rely on documentary evidence which indicates that young Salvadorian males in Maras-controlled neighbourhoods are at risk of gang violence. These documents seek to demonstrate a generalized risk experienced by all young Salvadorian males in neighbourhoods controlled by the Maras. However, personalized risk, as opposed to generalized risk, is required under subparagraph 97(1)(b)(ii) of the Act.
+[45]
+I find the present case is analogous to
+Lopez
+. Here, although the applicants provided country evidence to support there would be a risk of persecution if one is perceived to be an economic collaborator, this evidence established generalized risk. However, the applicants failed to establish personalized risk because their evidence with respect to the shooting attempt and the contents of the flyer was not accepted.
+[46]
+In the case at bar, the applicants established that they had a business relationship with Mr. Levy; but in light of the Board's negative credibility findings, they did not establish that they had ever received any threats or that they were subjected to any personal risk. Therefore, I find the Board did not commit a reviewable error by not conducting a separate section 97 analysis.
+C.
+Issue 3 - Did the Board breach procedural fairness?
+[47]
+The applicants allege the Board breached procedural fairness because the Board's screening form did not have "agent of persecution" checked. The respondent submits the applicants' argument focuses on form over substance because the agent of persecution went to issues of credibility and subjective fear, which the screening form had identified as being in issue.
+[48]
+Here, I agree with the respondent. Although the Board did not check off "agent of persecution", it did bring up the question on whether or not there was more corroborating evidence on the Horsemen of the Night during the hearing.
+[49]
+With respect to the applicants' reliance on
+El-Bahisi
+and
+Islas
+, I agree with the respondent that these two cases can be distinguished from the present case. In these two cases, this Court found the Board breached procedural fairness because the Board based its decision on changing circumstances in the claimants' home country without raising this issue at the hearing. However, in the present case, the Board asked for more documentary information regarding the agent of persecution during the hearing.
+[50]
+In my view, although this inquiry was brief, it satisfied the Board's procedural obligation to put the applicants on notice. Therefore, I find the Board did not breach procedural fairness.
+[51]
+For the reasons above, I would deny this application.
+[52]
+Neither party wished to submit a proposed serious question of general importance for my consideration for certification.
+JUDGMENT
+[53]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed.
+ANNEX
+Relevant Statutory Provisions
+Immigration and Refugee Protection Act
+, SC 2001, c 27
+72. (1) Judicial review by the Federal Court with respect to any matter - a decision, determination or order made, a measure taken or a question raised - under this Act is commenced by making an application for leave to the Court.
+...
+96. A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
+(b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+97. (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+(i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+(ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+(iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+(iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+72. (1) Le contrôle judiciaire par la Cour fédérale de toute mesure - décision, ordonnance, question ou affaire - prise dans le cadre de la présente loi est subordonné au dépôt d'une demande d'autorisation.
+...
+96. A qualité de réfugié au sens de la Convention - le réfugié - la personne qui, craignant avec raison d'être persécutée du fait de sa race, de sa religion, de sa nationalité, de son appartenance à un groupe social ou de ses opinions politiques:
+a) soit se trouve hors de tout pays don't elle a la nationalité et ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de chacun de ces pays;
+b) soit, si elle n'a pas de nationalité et se trouve hors du pays dans lequel elle avait sa résidence habituelle, ne peut ni, du fait de cette crainte, ne veut y retourner.
+97. (1) A qualité de personne à protéger la personne qui se trouve au Canada et serait personnellement, par son renvoi vers tout pays don't elle a la nationalité ou, si elle n'a pas de nationalité, dans lequel elle avait sa résidence habituelle, exposée:
+a) soit au risque, s'il y a des motifs sérieux de le croire, d'être soumise à la torture au sens de l'article premier de la Convention contre la torture;
+b) soit à une menace à sa vie ou au risque de traitements ou peines cruels et inusités dans le cas suivant:
+(i) elle ne peut ou, de ce fait, ne veut se réclamer de la protection de ce pays,
+(ii) elle y est exposée en tout lieu de ce pays alors que d'autres personnes originaires de ce pays ou qui s'y trouvent ne le sont généralement pas,
+(iii) la menace ou le risque ne résulte pas de sanctions légitimes - sauf celles infligées au mépris des normes internationales - et inhérents à celles-ci ou occasionnés par elles,
+(iv) la menace ou le risque ne résulte pas de l'incapacité du pays de fournir des soins médicaux ou de santé adéquats.
+[End of document]

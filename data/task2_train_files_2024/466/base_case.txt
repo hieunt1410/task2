@@ -1,0 +1,209 @@
+[1]
+Lutfy, C.J.
+: The respondent, Mark McKindsey, is employed as an oiler on
+Quest
+, an auxillary vessel of the Canadian Forces.
+[2]
+According to paragraph 1(d) of Annex "B" Conventional Work System (paragraph 1(d)) of the applicable collective agreement (the collective agreement), the respondent's "normal daily hours of work shall be between 06:00 hours and 18:00 hours and employees shall be given forty-eight (48) hours notice of any change in scheduled starting time" (at page 259 of the applicant's record).
+[3]
+On July 16, 2003, while the
+Quest
+was in dry dock in Halifax, the respondent was directed to work from 16:00 hours to 24:00 hours for the next two days, July 17 and 18.
+[4]
+The respondent complied with this direction to work outside the "normal daily hours of work" even though the required 48-hour notice was not provided by the employer.
+[5]
+Although the issue was contested before the adjudicator, the parties now agree that the employer was required to provide the respondent with the 48-hour notice of the change in the scheduled starting time (the notice requirement) and that the employer failed to do so.
+[6]
+In addition to his principal finding that the employer failed to comply with the notice requirement, the adjudicator also ordered that the respondent was "... entitled to receive payment at the time and one-half (1-½) rate for all hours worked after 18:00 hours on July 17 and 18, 2003" (the monetary remedy).
+[7]
+The applicant challenges the adjudicator's monetary remedy. The applicant's principal ground is that the adjudicator, in the circumstances of this case, has no express power to award damages as a consequence of the employer's breach of the collective agreement. He is limited to making a declaration of the breach. From the applicant's perspective, the declaration here is the remedy.
+[8]
+The parties acknowledge that the issue of a monetary remedy, in the range of $160 in this case, was not fully argued before the adjudicator. Procedural fairness was not raised in this proceeding to challenge the adjudicator's decision.
+The Relevant Provisions of the Collective Agreement
+[9]
+A proper understanding of the adjudicator's decision requires a review of the relevant provisions of the collective agreement.
+[10]
+The notice requirement is set out in paragraph 1(d):
+"For employees who regularly work five (5) consecutive days per week on 'non-watchkeeping' vessels the hours of work shall be consecutive, except for meal periods,
+and
+the normal daily hours of work shall be between 06:00 hours and 18:00 hours.
+and
+employees shall be given forty-eight (48) hours notice of any change in scheduled starting time."
+[11]
+Paragraph 1(d) does not provide for a monetary remedy where there has been a breach of the 48-hour notice requirement.
+[12]
+In concluding that the respondent should be indemnified time and one-half in compensation for the employer's breach of the notice requirement, the adjudicator referred to paragraph 2.03 (c) of Appendix "G" Ships' Crews Specific Provisions and Rates of Pay (page 248 of the applicant's record): "... an employee shall be entitled to compensation at time and one-half (1½) for overtime worked by the employee".
+[13]
+Other provisions of the collective agreement, not identical but similar to paragraph 1(d), specify a remedy where the employer changed scheduled hours of work without seven days prior notice. One example is found in paragraph 2.04(a) of Appendix "B" General Labour & Trades Group (page 168 of the applicant's record): "An employee whose scheduled hours of work are changed without seven (7) days prior notice: (a) shall be compensated at the rate of time and one-half (1½) ...".
+[14]
+Two other provisions similar to paragraph 2.04(a) of Appendix "B" are found at pages 221 and 236 of the applicant's record.
+[15]
+In attacking the adjudicator's award of damages, the applicant relies principally on s. 96(2) of the
+Public Service Staff Relations
+Act
+, R.S.C. 1985, c. P-35:
+"(2) No adjudicator shall, in respect of any grievance, render any decision thereon the effect of which would be to require the amendment of a collective agreement or an arbitral award."
+"(2) En jugeant un grief, l'arbitre ne peut rendre une décision qui aurait pour effet d'exiger la modification d'une convention collective ou d'une décision arbitrale."
+The parties agree that this legislation, now repealed, was in force at all times relevant to this proceeding.
+The Adjudicator's Decision
+[16]
+The adjudicator understood that paragraph 1(d) of the collective agreement, unlike his experience with other collective agreements, did not explicitly provide for a penalty in the form of overtime compensation:
+"¶50 The employer and bargaining agent have not specified in the collective agreement a consequence where the employer fails to provide the required 48 hours notice under paragraph 1(d). This is not, for example, a situation where the collective agreement explicitly imposes a penalty in the form of overtime compensation, as is the case under some collective agreements where the employer fails to provide the required advance notice of a change in an employee's shift schedule. ..."
+[17]
+The adjudicator also acknowledged that the respondent's scheduled hours of work did not meet the definition of "overtime" at paragraph 2.01(q) of the collective agreement (see paragraph 52 of his decision and page 114 of the applicant's record):
+"¶58 ... I find, however, that the arguments made by [the respondent] are not sufficient to overcome a plain reading of the language used in the collective agreement.
+The definition of 'overtime' in the collective agreement clearly states that the hours worked must be 'in excess of' the employee's scheduled hours of work
+. ...
+"¶59 Taken within the context of paragraph 1(a) of Annex 'B' which establishes a daily work requirement of eight hours,
+it follows from the foregoing analysis that the [respondent's] scheduled hours of work must have exceeded eight hours in order to meet the definition of overtime. The facts are that they did not. Barring this condition precedent
+, the
+entitlement to premium pay pursuant to clause 2.03 of Appendix 'G' is not triggered
+." (emphasis added)
+[18]
+However, the adjudicator concluded that "corrective action" for the employer's breach of the collective agreement was necessary to prevent the employer from enjoying "... free license to ignore the advance notice provision at will, ...":
+"¶61 ... Is there corrective action available beyond declaring the breach of the collective agreement? If the answer to this question were in the negative, the employer could, in effect, enjoy free license to ignore the advance notice provision at will, leaving this aspect of paragraph 1(d) devoid of any practical significance. The parties presumably included the notice requirement in paragraph 1(d) for good reason. I feel bound, as a result, to determine whether I can give it substantial meaning beyond declaring a breach of the collective agreement."
+The adjudicator's concern that he give paragraph 1(d) "... substantial meaning beyond declaring a breach" suggests that he was searching for a monetary remedy which may have not been envisaged by the parties to the collective agreement.
+[19]
+The adjudicator understood that paragraph 1(d) provided no remedy for the breach of the notice requirement. Yet, he crafted a monetary remedy on his view that the rescheduled hours of work were analogous to overtime:
+"¶64 ... The normal consequence under the collective agreement where work does not form part of scheduled hours is the payment of premium compensation, principally in the form of overtime. I, therefore, believe that it is reasonable in the circumstances of this case,
+and in the absence of explicit guidance in the collective agreement as to the consequences of the employer's failure to respect the 48 hours notice requirement, to consider the time worked by grievor McKindsey after 18:00 hours as equivalent to 'work in excess of the employee's scheduled hours of work
+' within the meaning of paragraph 2.01(d) [sic] definition of 'overtime'. As such, they should attract compensation at the premium rate of time and one-half (1-½) in accordance with paragraph 2.03(c) of Appendix 'G' ..." (emphasis added)
+[20]
+The adjudicator's monetary remedy was, in his words, to compensate "... hours which are not within an employee's proper schedule". He also explained that he was not amending the collective agreement:
+"¶65 In reaching this conclusion, I do not believe that I am amending or compromising the existing framework of the collective agreement. ... the corrective action is congruent with the overall system of the collective agreement put in place by the parties."
+The Standard of Review
+[21]
+The principal issue identified by the parties is whether the adjudicator erred in awarding the respondent overtime compensation as a result of the employer's failure to comply with the notice requirement. Put differently, could the adjudicator order corrective action, absent any specific provision to that effect in the collective agreement, in view of s. 96(2) of the
+Public Service Staff Relations
+Act
+?
+[22]
+Counsel for the respondent, in particular, has reminded the Court that the decision of an adjudicator acting within the scope of the collective agreement should attract the highest curial deference: for example,
+Canada (Attorney General) v. Séguin
+, [1995] F.C.J. No. 1178 (T.D.);
+Barry v. Canada (Treasury Board)
+, [1997] F.C.J. No. 1404; 221 N.R. 237 (F.C.A.);
+Currie et al. v. Canada Customs and Revenue Agency
+(2006), 350 N.R. 252; 2006 FCA 194, at paragraphs 20-22. Counsel also noted the jurisprudential trend from the Supreme Court of Canada signaling a broader approach to the remedial powers of an adjudicator:
+Public Service Alliance of Canada v. Nav Canada
+, [2002] O.J. No. 1435; 158 O.A.C. 276 (C.A.), at paragraphs 27-42.
+[23]
+The applicant characterized the issue as jurisdictional or one of statutory interpretation. In either event, I am satisfied, as conceded by the applicant at the hearing, that the adjudicator's expertise in the circumstances of this proceeding invites a standard of review other than correctness:
+Dynamex Canada Inc. v. Mamona et al.
+(2003), 305 N.R. 295; 2003 FCA 248, at paragraph 26. The applicant now urges the standard of reasonableness to review the outcome of this case.
+[24]
+During the hearing, the respondent also modified his written submissions concerning the standard of review. He framed the issue as twofold. The respondent conceded that the question as to whether the adjudicator
+can
+award damages in the absence of an express provision in the collective agreement should be subject to a reasonableness test. According to the respondent, the second issue as to whether the adjudicator
+should
+have awarded damages in this case attracts a patently reasonableness standard.
+[25]
+The relevant inquiry in this proceeding is whether the collective agreement envisaged the adjudicator making the monetary remedy, even keeping in mind his broad remedial powers. If not, the adjudicator may be said to have provided a remedy that is outside the ambit of the collective agreement.
+[26]
+Until 1992, the former
+Public Service Staff Relations
+Act
+contained a privative clause which Parliament then repealed in the
+Public Service Reform
+Act
+, S.C. 1992, c. 54, s. 73. Thereafter, the legislation was silent on the standard of review. The parties acknowledge that no privative clause in the collective agreement applies to this case. The one at pages 32-33 of the applicant's record is for a different adjudication process.
+[27]
+The purpose of adjudication is to facilitate the timely resolution of disputes between the employer and the union. The relative expertise of adjudicators in these matters is not in issue.
+[28]
+The question of the monetary remedy coming within the scope of the adjudicator's role pursuant to the terms of the collective agreement is one of mixed fact and law. Also, the decision of a statutory labour board, such as the Public Service Staff Relations Board, may attract greater curial deference than that of an adjudicator:
+Public Service Alliance of Canada v. Canadian Food Inspection Agency
+(2005), 343 N.R. 334; 2005 FCA 366, at paragraph 21. Whether the adjudicator is named in the collective agreement, chosen by the parties or appointed by the Board pursuant to s. 95 of the
+Act
+should not affect the degree of curial deference. In this case, the Court has not been told who appointed the adjudicator.
+[29]
+Balancing these factors, I am satisfied that the appropriate standard as to whether the adjudicator
+could
+make the monetary remedy is reasonableness.
+[30]
+Whether the adjudicator
+should
+have made the monetary remedy is to be scrutinized against the patent unreasonableness standard. However, the decision must be supportable on the evidence that was presented to him:
+Reibin et al. v. Canada (Treasury Board)
+, [1996] F.C.J. No. 794; 114 F.T.R. 174 (T.D.), at paragraph 15;
+Canada (Attorney General) v. Wiseman
+, [1995] F.C.J. No. 692; 95 F.T.R. 200 (T.D.), at paragraph 17.
+Analysis
+[31]
+The applicant's position is straightforward. The adjudicator's mandate was to determine if the employer breached the notice requirement. The respondent's remedy was the adjudicator's declaration that there was a breach. In making such a finding, the adjudicator made the parties "whole" in the absence of any evidence that the breach caused any financial loss. The monetary award in this case was not contemplated by the parties to the collective agreement. The adjudicator's corrective action is a remedy in the nature of punitive damages. This remedy was contrary to the collective agreement and to the terms of s. 96(2) of the
+Public Service Staff Relations
+Act
+.
+[32]
+The respondent's position is equally succinct. The core principle of the grievance process is to make the employee "whole", in the absence of any specific remedial provision to the contrary. The case law affords adjudicators broad remedial jurisdiction to fashion a remedy appropriate to the circumstances. In the absence of "explicit guidance" concerning a monetary remedy in the collective agreement, it was open to the adjudicator to apply the overtime provisions. The adjudicator's remedy was consistent with the collective agreement and the broad remedial jurisdiction of labour adjudicators.
+[33]
+Support for the applicant's position that the monetary remedy was beyond the scope of the collective agreement can be found in the adjudicator's own words:
+• "[t]he employer and bargaining agent have not specified in the collective agreement a consequence where the employer fails to provide the required 48 hours notice under paragraph 1(d)": paragraph 50
+• "[t]he plain wording of the collective agreement definition of overtime does not support the grievors' claim for overtime compensation": paragraph 56
+• "the arguments made by [the respondent] are not sufficient to overcome a plain reading of the language used in the collective agreement.
+The definition of 'overtime' in the collective agreement clearly states that the hours worked must be 'in excess of' the employee's scheduled hours of work
+. ..." (emphasis added): paragraph 58
+• "...
+it follows from the foregoing analysis that the [respondent's] scheduled hours of work must have exceeded eight hours in order to meet the definition of overtime. The facts are that they did not. Barring the condition precedent, the entitlement to premium pay pursuant to clause 2.03 of Appendix 'G' is not triggered.
+" (emphasis added): paragraph 59
+• "[w]hether it is fair or appropriate for the employer to be able to reschedule work in this fashion without a requirement to pay overtime or otherwise compensate [the respondent] beyond [his] regular pay
+is a question that must be left to the employer and the bargaining agent
+" (emphasis added): paragraph 60
+These statements again indicate the adjudicator's concern, if not his understanding, that a monetary remedy for the breach of the notice requirement was not envisaged by the parties to the collective agreement.
+[34]
+There are other passages from the adjudicator's decision which indicate his awareness that he may have been acting outside the scope of the collective agreement, perhaps even to sanction the employer for its breach of the notice requirement or, at least, to serve as a deterrent:
+• "[a]m I left, therefore, with no corrective action for grievor McKindsey other than to declare the breach of the collective agreement?": paragraph 50
+• "[i]f the answer to this question were in the negative, the employer could, in effect, enjoy free licence to ignore the advance notice provision at will, leaving this aspect of paragraph 1(d) devoid of any practical significance": paragraph 61
+• "I, therefore, believe that it is reasonable in the circumstances of this case, and in the absence of explicit guidance in the collective agreement ... to consider the time worked by grievor McKindsey after 18:00 hours as equivalent to 'work in excess of the employee's scheduled hours of work' within the meaning of paragraph 2.01(d) [sic] definition of 'overtime'": paragraph 64
+• "[i]n reaching this conclusion, I do not believe that I am amending or compromising the existing framework of the collective agreement": paragraph 65
+[35]
+In this case, the respondent acknowledges that the employer was acting in good faith. The breach of the notice requirement resulted from the employer's honestly-held but mistaken view of the collective agreement. In these circumstances, the need for "corrective action" or a deterrent is not adequately explained by the adjudicator.
+[36]
+The adjudicator, furthermore, compared the collective agreement in this case with others which explicitly provided for a monetary remedy (at paragraph 50):
+"This is not, for example,
+a situation where the collective agreement explicitly imposes a penalty
+in the form of overtime compensation,
+as is the case under some collective agreements
+where the employer fails to provide the required advance notice of a change in an employee's shift schedule." (emphasis added)
+[37]
+In drawing this distinction with other collective agreements, the adjudicator makes no mention of three other clauses, in the collective agreement he was interpreting, which specified time and one-half compensation where scheduled hours of work were changed without seven days prior notice (at pages 168, 221 and 236 of the applicant's record). Had he referred to these clauses, his interpretation of the collective agreement and his ability to make the monetary remedy pursuant to paragraph 1(d) might have been different. The collective agreement must be interpreted as a whole and not in the abstract:
+Richmond et al. v. Canada (Attorney General)
+, [1996] 2 F.C. 305; 108 F.T.R. 205 (T.D.), at paragraph 5.
+[38]
+The respondent argues that the parties' failure to provide for any additional remuneration in paragraph 1(d) allowed the adjudicator to establish a monetary remedy at any amount he deemed appropriate. I do not consider this submission to be a reasonable interpretation of the bargain made by the employer and the union in the collective agreement.
+[39]
+In summary, the adjudicator's conclusion that he could award a monetary remedy cannot withstand "a somewhat probing examination" as a reasonable interpretation of the collective agreement. The adjudicator's monetary remedy was not contemplated in the collective agreement. The adjudicator himself conceded that "the plain language" of the collective agreement did not specify that the respondent's new hours of work constituted "overtime". The parties acknowledge that the employer's breach of the notice requirement was made in good faith. Nonetheless, the adjudicator concluded that without "corrective action" the employer could "... enjoy free license to ignore the advance notice provision at will". This view is speculative. In the absence of any language providing for additional compensation as a consequence of a breach of paragraph 1(d), the adjudicator erred in creating his monetary remedy:
+FRAGMENT_SUPPRESSED
+Canada (Attorney General) v. Lussier
+, [1993] F.C.J. No. 64 (F.C.A.), per Justice Létourneau.
+[40]
+The adjudicator did not take into consideration, in my view, all of the relevant provisions of the collective agreement. Had he done so, he should have concluded that the collective agreement envisaged no monetary remedy as a result of the breach of the notice requirement in paragraph 1(d) with respect to employees on "non-watchkeeping" vessels.
+[41]
+If I am wrong in concluding that the adjudicator's determination as to whether he
+could
+make a monetary remedy was subject to the reasonableness standard or if I have erred in finding that the adjudicator's interpretation of the collective agreement was unreasonable, I would still set aside his decision as being patently unreasonable.
+[42]
+First, the respondent did not seek a monetary remedy in presenting his grievance. In paragraph 4 of his decision, the adjudicator quoted the corrective action sought by the respondent:
+"McKindsey: I would like a clear description of the conventional work system as to how it applies to 'Quest' i.e., for hrs worked 16-24 hrs at applicable rate. An explanation as to why Management disregarded QHM Standing Orders, Master Standing Orders and our collective agreement with regard to work hrs." (Sic throughout)
+[43]
+Second, there is no evidence of any financial loss in the record placed before the Court. This is consistent with the parties' acknowledgment that the respondent presented no evidence of damages before the adjudicator. As another adjudicator has noted, damages must be certain and not speculative:
+Chénier v. Treasury Board (Solicitor General Canada - Correctional Service)
+, 2003 PSSRB 27. In
+Chénier
+, no aggravated damages were awarded, although the adjudicator was of the view that his broad remedial powers allowed him to do so in the circumstance of that case.
+[44]
+Third, the monetary remedy of some $160 is, at the very least, more than the respondent's stated purpose of the adjudicative process to make him "whole". Rather, it has the appearance of being a penalty, or at least a deterrent so that the employer would not have "free license" to repeat the breach. On the basis of his own reasoning, the adjudicator appears to have imposed a remedy which was other than being compensatory. In the words of Justice Létourneau in
+Lussier
+, above, "... in view of the absence of any evidence of damage, the fact that the adjudicator awarded compensation for the error made is ... [not] genuine compensation for damage actually suffered."
+[45]
+Put simply, even keeping in mind the highest deference owed to decisions of adjudicators, the monetary remedy in this case was not supportable on the evidence presented to the adjudicator. His decision must be set aside.
+[46]
+I have concluded that no monetary remedy could reasonably have been made. Also, the respondent neither sought compensation nor presented evidence of financial loss. Accordingly, the matter will not be referred for redetermination.
+JUDGMENT
+[47]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. This application for judicial review is granted and the decision of the adjudicator dated August 2, 2006 is set aside.
+2. The undersigned remains seized of this proceeding to adjudicate the issue of costs, if necessary.
+Application allowed.
+Editor: Angela E. McKay/clh
+[End of document]

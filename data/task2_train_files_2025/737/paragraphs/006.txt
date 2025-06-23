@@ -1,0 +1,11 @@
+[6]
+First, it is necessary to determine the applicable standard of review. Subsection 18.1(4) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 lists the grounds upon which the Court may intervene:
+"18.1(4) The Trial Division may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+(a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+(b) failed to observe a principle of natural justice, procedural fairness or other procedure that it was required by law to observe;
+(c) erred in law in making a decision or an order, whether or not the error appears on the face of the record;
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;
+(e) acted, or failed to act, by reason of fraud or perjured evidence; or
+(f) acted in any other way that was contrary to law."

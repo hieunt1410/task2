@@ -1,0 +1,47 @@
+[26]
+The trial judge dismissed his application, and the inmate then appealed the case to the Court of Appeal. In dismissing the appeal, Rothman, J.A., for the court, stated:
+"Appellant's counsel makes it equally plain, in his letter of November 10, 1993, that what appellant wished to have was an oral hearing at which he could cross-examine the witnesses, including the confidential sources, who had provided information to the prison authorities against him:
+[TRANSLATION] 'Mr. Gaudet hereby informs you that he wishes to attend in person at the hearing of his case regarding his transfer, with his counsel, and also requests that he be able to confront the witnesses who have allegedly accused him of certain facts which form the basis of the transfer recommendation (see P.S.R. of October 28, 1993).
+'At the same time, Mr. Gaudet requests complete disclosure of the evidence used against him, including a copy of the witness statements on which the factual allegations against him are based, to enable him to make full answer and defence.
+'
+"The identities and statements of police informers is, (sic) of course, protected by a well-established rule of confidentiality. (
+Bisaillon v. Keable et al.
+, [1983] 2 S.C.R. 60) In a prison context, the reasons for the rule are too obvious to need elaboration. Suffice it to say, there would be few prison informers if their identities were not protected.
+"Further, while the penitentiary authorities did have a duty to act fairly and to afford appellant an opportunity to know the reasons for the transfer and an opportunity to be heard or to make representations on his behalf, the prison context must be borne in mind. In
+Cardinal and Oswald
+(supra) the Supreme Court of Canada considered the duty of procedural fairness in the context of prison administration. Mr. Justice Le Dain observed (p. 654):
+'The question, of course, is what the duty of procedural fairness may reasonably require of an authority in the way of specific procedural rights in a particular legislative and administrative context and what should be considered to be a breach of fairness in particular circumstances. The caution with which this question must be approached in the context of prison administration was emphasized by this court in
+Martineau (No. 2)
+, supra. Pigeon, J., with whom Martland, Ritchie, Beetz, Estey and Pratte, JJ., concurred, said at p. 637:
+"I must, however, stress that the Order issued by Mahoney, J., deals only with the jurisdiction of the Trial Division, not with the actual availability of the relief in the circumstances of the case. This is subject to the exercise of judicial discretion and in this respect it will be essential that the requirements of prison discipline be borne in mind, just as it is essential that the requirements of the effective administration of criminal justice be borne in mind when dealing with applications for certiorari before trial, as pointed out in
+Attorney General of Quebec v. Cohen
+([1979] 2 S.C.R. 305). It is specially important that the remedy be granted only in cases of serious injustice and that proper care be taken to prevent such proceedings from being used to delay deserved punishment so long that it is made ineffective, if not altogether avoided."
+'Dickson, J. (as he then was), with whom Laskin, C.J., and McIntyre, J., concurred, expressed a similar caution at p. 630 as follows:
+"It should be emphasized that it is not every breach of prison rules of procedure which will bring intervention by the courts. The very nature of a prison institution requires officers to make 'on the spot' disciplinary decisions and the power of judicial review must be exercised with restraint. Interference will not be justified in the case of trivial or merely technical incidents. The question is not whether there has been a breach of the prison rules, but whether there has been a breach of the duty to act fairly in all the circumstances The rules are of some importance in determining this latter question, as an indication of the views of prison authorities as to the degree of procedural protection to be extended to inmates."
+'The same caution was emphasized by the Court of Appeal in
+R. v. Hull prison Board of Visitors, ex parte St Germain
+, [1979] 1 All E.R. 701, which was referred to by Pigeon and Dickson JJ. in
+Martineau (No. 2)
+, supra, and in which Megaw, L.J., said p. 713 concerning the judicial review of prison disciplinary decisions:
+"It is certainly not any breach of any procedural rule which would justify or require interference by the courts. Such interference, in my judgment, would only be required, and would only be justified, if there were some failure to act fairly, having regard to all relevant circumstances, and such unfairness could reasonably be regarded as having caused a substantial, as distinct from a trivial or merely technical, injustice which was capable of remedy."'
+"The standards by which procedural fairness is measured are not immutable. They vary according to the context in which they are invoked. (
+R. v. Lyons
+, [1987] 2 S.C.R. 309, 361;
+R. v. Wholesale Travel Group Inc.
+, [1991] 3 S.C.R. 154) A criminal trial to determine the guilt or innocence of an accused person is a different context from a hearing to determine the transfer of a prisoner from the general prison population to administrative segregation or a special handling unit and the hearing cannot be the same.
+"In this case, appellant was given the opportunity to consult counsel and to make representations in person and in writing as to the reasons for the transfer.
+"In my view, the authorities satisfied their obligation to act fairly, as indicated by the Supreme Court in
+Cardinal and Oswald
+(supra, p. 659):
+'The issue then is what did procedural fairness require of the Director in exercising his authority pursuant to s. 40 of the
+Penitentiary Service Regulations
+, to continue the administrative dissociation or segregation of the appellants, despite the recommendation of the Board, if he was satisfied that it was necessary or desirable for the maintenance of good order and discipline in the institution. I agree with McEachern, C.J.S.C., and Anderson, J.A., that because of the serious effect of the Director's decision on the appellants, procedural fairness required that he inform them of the reasons for his intended decision and give them an opportunity, however informal, to make representations to him concerning these reasons and the general question whether it was necessary or desirable to continue their segregation for the maintenance of good order and discipline in the institution.'
+"In my respectful opinion, the authorities had no duty to provide appellant with copies of the statements given by informers, nor to afford appellant an opportunity to cross-examine these witnesses or the penitentiary authorities themselves. In a prison context, such a hearing would go considerably beyond procedural fairness into the realm of an unreasonable intrusion into the administration and security of the penitentiary.
+"I am mindful that it is not always an easy matter to balance the need for procedural fairness to a prisoner with the contextual requirements of prison administration and safety, as well as the duty to protect the identities and safety of informers and other confidential sources. (See, for example,
+Demaria v. Regional Classification Board
+, [1987] 30 C.C.C.(3d) 55, Fed. C.A.;
+Balian v. Regional Transfer Board
+, [1988] 62 C.R.(3d) 258, Ont. H.C.;
+Gallant v. Canada (Deputy Commissioner, Correctional Service Canada)
+, [1989] 3 F.C. 329, Fed. C.A.)
+"In this case, I believe the balance was struck and the requirement of procedural fairness was met."

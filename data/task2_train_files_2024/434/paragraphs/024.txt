@@ -1,0 +1,18 @@
+[24]
+The objectives of the
+PCMLTFA
+are clearly set out in the statute. They include the following:
+"3. The object of this Act is
+(a) to implement specific measures to detect and deter money laundering and the financing of terrorist activities and to facilitate the investigation and prosecution of money laundering offences and terrorist activity financing offences, including
+. . . . .
+(ii) requiring the reporting of suspicious financial transactions and of cross-border movements of currency and monetary instruments,
+. . . . .
+(b) to respond to the threat posed by organized crime by providing law enforcement officials with the information they need to deprive criminals of the proceeds of their criminal activities, while ensuring that appropriate safeguards are put in place to protect the privacy of persons with respect to personal information about themselves; and
+(c) to assist in fulfilling Canada's international commitments to participate in the fight against transnational crime, particularly money laundering, and the fight against terrorist activity."
+"3. La présente loi a pour objet:
+a) de mettre en oeuvre des mesures visant à détecter et décourager le recyclage des produits de la criminalité et le financement des activités terroristes et à faciliter les enquêtes et les poursuites relatives aux infractions de recyclage des produits de la criminalité et aux infractions de financement des activités terroristes, notamment:
+. . . . .
+(ii) établir un régime de déclaration obligatoire des opérations financières douteuses et des mouvements transfrontaliers d'espèces et d'effets,
+. . . . .
+b) de combattre le crime organisé en fournissant aux responsables de l'application de la loi les renseignements leur permettant de priver les criminels du produit de leurs activités illicites, tout en assurant la mise en place des garanties nécessaires à la protection de la vie privée des personnes à l'égard des renseignements personnels les concernant;
+c) d'aider le Canada à remplir ses engagements internationaux dans la lutte contre le crime transnational, particulièrement le recyclage des produits de la criminalité, et la lutte contre les activités terroristes."

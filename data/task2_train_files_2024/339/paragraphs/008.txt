@@ -1,0 +1,8 @@
+[8]
+The point levels required for each level in the PM group are as follows:
+Level 1: 190-300 points
+Level 2: 301-400 points
+Level 3: 401-500 points
+Level 4: 501-610 points
+Level 5: 611-720 points
+Level 6: 721-1000 points

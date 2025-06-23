@@ -1,0 +1,134 @@
+INTRODUCTION
+[1]
+Heneghan, J.
+: Her Majesty the Queen and the Minister of National Revenue (the "defendants") bring a Motion pursuant to the
+Federal Court Rules, 1998
+, for an Order striking out all or part of the claim for relief set out in paragraphs 36 and 43 of the Statement of Claim in this proceeding.
+BACKGROUND
+[2]
+George William Harris, on his own behalf and on behalf of a group of taxpayers, is the plaintiff. He brings this action seeking a declaration about the legality of the actions taken by the defendants in December 1991 when a certain advance tax ruling was issued to a taxpayer. The defendants attempted to have the plaintiff's action stricken out, on the grounds that the Statement of Claim failed to disclose a reasonable cause of action and that the plaintiff lacked standing to bring this action.
+[3]
+The defendants' motion in that regard was initially granted by Prothonotary Giles by an Order issued on December 31, 1997. [see footnote 1] The plaintiff successfully appealed from this Order to the Federal Court Trial Division and in a Judgment dated December 20, 1998 the appeal was allowed and the action was maintained. [see footnote 2]
+[4]
+The defendants then appealed to the Federal Court of Canada, Court of Appeal, but without success. In its Judgment dated June 4, 2000, [see footnote 3] the Court of Appeal upheld the decision of Justice Muldoon. The defendants sought leave to appeal to the Supreme Court of Canada; their application was denied on October 26, 2000. [see footnote 4]
+DEFENDANTS' SUBMISSIONS
+[5]
+The defendants bring the present motion on the basis of what essentially amounts to jurisdictional grounds, involving both the adjudicative capacities of the court and the division of Executive and Judicial powers at play. The defendants submit that these are new issues distinct from those addressed in earlier proceedings, namely with respect to reasonable cause of action and standing.
+[6]
+In the first place, the defendants submit that the plaintiff's claims for relief are inconsistent with the narrow ground upon which the plaintiff was granted standing. The defendants point out that public interest standing is a privilege conferred in the discretion of the court and in this case the Federal Court of Appeal granted that standing in relation to a narrow issue.
+[7]
+The defendants here rely on the statement made by Sexton, J.A., in
+Harris
+, supra, at paragraph 60 as follows:
+"In my view, Mr. Harris' statement of claim raises a justiciable issue. His claim that the Minister of National Revenue acted illegally or improperly or for ulterior motives, namely favouritism and preferential treatment by way of a covert deal when he interpreted the provisions of the
+Act
+in favour of a specific trust, raises a question of a potential violation of the
+Act
+that a court may assess by reference to the Minister's duty to follow the
+Act
+'absolutely,' as this court held in
+Ludmer
+."
+[8]
+The defendants argue that the Court of Appeal "approved" of a narrow cause of action for the plaintiff and broadly hinted that the plaintiff should amend his Statement of Claim to ensure consistency between the prayer for relief and the cause of action recognized by the Court of Appeal. Here the defendants rely on the following words from Sexton, J.A., at paragraph 66:
+"I wish to emphasize the narrow cause of action for which public interest standing has been granted. Mr. Harris does not merely seek to obtain the interpretation of a particular provision of the
+Act
+, akin to requesting a court to provide a legal opinion. A mere bona fide change of position on interpretation of a statute, without more, would be insufficient to constitute a cause of action and would have been insufficient to persuade this court to exercise its discretion to recognize public interest standing. Nevertheless, in considering Mr. Harris' cause of action for which public interest standing has been granted, the Trial judge may incidentally find it necessary to consider whether, on a proper construction of the
+Act
+, 'taxable Canadian property' may be held by a resident of Canada."
+[9]
+The defendants argue that the plaintiff has failed to act on the instructions given by the Court of Appeal. As the plaintiff has not amended the Statement of Claim, the original prayer for relief remains in place. The defendants suggest that the prayer for relief is too broad in relation to the narrow ground upon which the plaintiff was granted standing, specifically in light of the Court of Appeal's characterization of his action as being one alleging impropriety on the part of the defendant Minister in issuing the advance tax ruling in December 1991.
+[10]
+The second argument advanced by the defendants on this motion is that the plaintiff is effectively inviting the court, that is the Judicial branch of government, to become involved with matters vested in the Executive branch, that is a decision concerning the assessment or collection of taxes under the
+Income Tax Act
+, R.S.C. 1985 (5th Supp.), c. 1, as amended. The defendants argue that such an invitation creates a constitutional discord.
+[11]
+The defendants argue that the relief sought in paragraphs 36(d), 36(e) and 43(c) of the Statement of Claim is superfluous, on the basis that if a declaration of illegality is issued by the court, the government will be obliged to take action without the issuance of an order against it. Here the defendants rely on the decision of the Supreme Court of Canada in
+LeBar v. Canada
+, [1989] 1 F.C. 603; 90 N.R. 5 (F.C.A.).
+[12]
+The defendants acknowledge that this court can intervene if it is established that the defendants acted illegally, that is beyond their statutory authority, but submit that the pleadings do not recognize that allegation. The defendants say that the plaintiff is inviting the court to make a decision which is properly within the authority of the defendant Minister and to allow the prayer for relief to stand in its present form is to ask the court to involve itself in the executive branch of government.
+PLAINTIFF'S SUBMISSIONS
+[13]
+The plaintiff's principal argument in reply to this motion is that the defendants are re-contesting the arguments advanced in their initial motion to strike the Statement of Claim. Those arguments were advanced before the Prothonotary at first instance, on appeal to the Trial Division, on further appeal to the Federal Court of Appeal, and ultimately, in an application for leave to appeal to the Supreme Court of Canada. The plaintiff submits that, notwithstanding the defendants' submissions to the contrary, this motion is yet another attempt to advance arguments which have been weighed and rejected, all in an effort to delay the trial.
+[14]
+The plaintiff argues that he seeks declaratory relief which is clearly within the discretion of this court to grant. If the prayer for relief is too broadly framed, then it is within the power of the trial judge to limit any declaratory relief to conform with the findings of fact. In support of this argument, the plaintiff relies on the decision of the Supreme Court of Canada in
+Solosky v. Canada
+, [1980] 1 S.C.R. 821; 30 N.R. 380; 105 D.L.R.(3d) 745; 50 C.C.C.(2d) 495.
+[15]
+In his written submissions, the plaintiff argues that the defendants' motion at this time is inappropriate and offensive since it is an attack on the original Statement of Claim and that prior decisions of this court have determined that such motions should not be brought on a piecemeal basis. The defendants filed their Defence on October 20, 2000, pursuant to an Order of this court made on October 17, 2000. The defendants, having pleaded to the allegations in the Statement of Claim, should not now be allowed to bring a further motion to strike.
+ANALYSIS
+[16]
+The defendants bring their motion pursuant to the
+Federal Court Rules, 1998
+, rule 221. This rule provides as follows:
+"221(1) On motion, the court may, at any time, order that a pleading, or anything contained therein, be struck out, with or without leave to amend, on the ground that it
+(a) discloses no reasonable cause of action or defence, as the case may be,
+(b) is immaterial or redundant,
+(c) is scandalous, frivolous or vexatious,
+(d) may prejudice or delay the fair trial of the action,
+(e) constitutes a departure from a previous pleading, or
+(f) is otherwise an abuse of the process of the court, and may order the action be dismissed or judgment entered accordingly.
+"(2) No evidence shall be heard on a motion for an order under paragraph (1)(a)."
+"221(1) À tout moment, la Cour peut, surrequête, ordonner la radiation de tout ou partie d'un acte de procédure, avec ou sans autorisation de le modifier, au motif, selon le cas:
+(a) qu'il ne révèle aucune cause d'action ou de défense valable;
+(b) qu'il n'est pas pertinent ou qu'il est redondant;
+(c) qu'il est scandaleux, frivole ou vexatoire;
+(d) qu'il risque de nuire à l'instruction équitable de l'action ou de la retarder;
+(e) qu'il diverge d'un acte de procédure antérieur;
+(f) qu'il constitue autrement un abus de procédure. Elle peut aussi ordonner que l'action soit rejetée ou qu'un jugement soit enregistré en conséquence.
+"(2) Aucune preuve n'est admissible dans le cadre d'une requête invoquant le motif visé à l'alinéa (1)a)."
+[17]
+The defendants have not identified any particular part of Rule 221 as being the foundation for this Motion but to the extent that they now argue a lack of jurisdiction in the court to grant the relief sought, it appears that they are relying on Rule 221(1)(a). In reaching this conclusion, I am guided by
+Federal Court Practice 2001
+, Sgayias, David et al., Federal Court Practice 2001 (Toronto: Carswell, 2000) where cases dealing with lack of jurisdiction are compiled in the discussion of the application of rule 221(1)(a).
+[18]
+The record clearly shows that the defendants have already challenged the plaintiff's Statement of Claim on the basis of the rule 221(1)(a). The decisions of the Associate Senior Prothonotary, the Trial Division and of the Court of Appeal have all been reported. All three decisions show that the prayer for relief received consideration from all adjudicators in their analyses.
+[19]
+It is well established that there can be no reasonable cause of action in the absence of effective relief; see
+Weiten (J.H.) v. Canada
+, [1993] 1 C.T.C. 2 (F.C.T.D.). I infer from the decisions of the Trial Division and the Federal Court of Appeal that those courts were satisfied that the relief sought by the plaintiff is available to him since they found that he had a reasonable cause of action.
+[20]
+The relief granted to the plaintiff will be determined in relation to the findings of fact which must be ascertained by the trial judge. The trial judge will be in a more advantageous position to mould the appropriate remedy. An order to strike part or all of the prayer for relief at this late stage, some two and a half months before the scheduled trial date, would work to the greater prejudice of the plaintiff than to the defendants since there is little practical opportunity to appeal from any such order.
+[21]
+I accept the plaintiff's submissions that the defendants are now recycling arguments which have previously been made and rejected. The arguments concerning lack of jurisdiction were clearly before the court in the initial application to strike. The submissions concerning the serious issue of intrusion by the judicial branch upon matters entrusted to the executive branch was raised by the defendants in their memorandum of argument filed in support of their application for leave to appeal to the Supreme Court of Canada. [see footnote 5]
+[22]
+Furthermore, the jurisprudence of this court has established that an application to strike a pleading should not be made in a piecemeal fashion; see
+Speedo Knitting Mills Ltd. v. Christina Canada Inc.
+(1985), 3 C.P.R.(3d) 360 (F.C.T.D.) and
+Windsurfing International Inc. v. Novaction Sports Inc. and Teasdale
+(1988), 15 F.T.R. 302; 18 C.P.R.(3d) 230 (T.D.). In the present case, the defendants are attacking the original, unamended Statement of Claim which has been thoroughly reviewed by several courts, including the Supreme Court of Canada.
+[23]
+In
+Horii v. Canada (Attorney General) et al.
+(2000), 195 F.T.R. 163 (T.D. Protho.), Prothonotary Hargrave reviewed the purpose of Rule 221 and said at paragraph 10:
+"I now turn to relevant case law supporting the general rule that a party should be allowed only one chance to attack an opponent's pleadings, unless there are special circumstances. This rule is at least in part based on the principle that a litigant ought not to be faced with a continuing series of motions on similar subjects. Moreover, there is a judicial economy aspect: motions should be a means to getting expeditiously to the hearing of a case on its merits and not on any other agenda. Thus time spent on interlocutory motions should be kept to a minimum: this may be accomplished in part by combining motions, for example a motion seeking particulars as an alternative to striking out and by not traversing old ground, as in the present instance."
+[24]
+In rendering his decision in
+Horii
+, supra, Prothonotary Hargrave said as follows, at paragraph 15 and 16:
+"That the Trial Division and the Court of Appeal have refused to strike out the Statement of Claim as futile or leading to no useful result does not mean that the plaintiff's action will succeed, but rather that the plaintiff ought not to be denied a day in court.
+"Since the inception of the action, nearly 10 years ago, there appears to have been no appreciable change in the situation. Indeed, that is implicit from both the way in which the Trial Division and the Court of Appeal have dealt with intervening interlocutory proceedings. Moreover, I have been referred to no relevant change of circumstances by which yet a further attack on the pleadings might be justified. Rather, and here I turn to the aspect of costs, the plaintiff has been put to the expense of dealing with an attack which is similar to or identical with that which has already been brought and that must sound in costs."
+[25]
+There is a further reason for denying this motion. A pleading should not be struck when the other party has "pleaded over" or when there is a lengthy delay between delivery of the pleading and the motion to strike; see
+FRAGMENT_SUPPRESSED
+[26]
+The defendants filed their Defence in October 2000, several years after the service of the Statement of Claim and following an earlier challenge to the Statement of Claim. They should have canvassed all of their arguments when the first motion was brought. Since no material changes have occurred since that initial challenge, I find that there is no justification for bringing this motion at this time.
+[27]
+For these reasons, I decline to exercise my discretion to grant the defendants' motion. There will be no order as to costs since the issue was not raised.
+ORDER
+[28]
+The defendants' motion is dismissed with no order as to costs.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+Footnotes
+1. (1998), 141 F.T.R. 199.
+2.
+Harris et al. v. Minister of National Revenue
+(1998), 161 F.T.R. 288 (T.D.).
+3.
+Harris et al. v. Minister of National Revenue
+, [2000] 4 F.C. 37; 256 N.R. 221 (C.A.).
+4. (2001), 264 N.R. 391 (S.C.C.).
+5. Defendants' Motion Record filed October 12, 2000, pages 18-21.
+[End of document]

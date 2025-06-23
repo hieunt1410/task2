@@ -1,0 +1,210 @@
+[1]
+Morneau, Prothonotary
+: This is essentially a motion pursuant to rule 181 by the Plaintiff in a patent infringement action for an order directing the Defendant to serve further and better particulars to its Defence and Counterclaim (the Defence).
+The law in respect of particulars
+[2]
+Before making an order in respect of particulars, the Court must evaluate whether a party has enough information to be able to understand the other party's position and to prepare a responsive answer, be it a defence or a reply. (See
+FRAGMENT_SUPPRESSED)
+[3]
+In
+Embee Electronic Agencies Ltd. v. Agence Sherwood Agencies Ltd. et al.
+(1979), 43 C.P.R.(2d) 285 (F.C.T.D.), at page 287, Marceau, J., stated the extent to which the defendant is entitled to be furnished with particulars of the plaintiff's case at the pleading stage:
+"At that early stage, a defendant is entitled to be furnished all particulars which will enable him to better understand the position of the plaintiff, see the basis of the case made against him and appreciate the facts on which it is founded
+so that he may reply intelligently to the statement of claim
+and state properly the grounds of defence on which he himself relies, but he is not entitled to go any further and require more than that." (My emphasis)
+Analysis
+[4]
+I shall begin my analysis by referring to a general objection raised by the Defendant. The Defendant stressed that the Plaintiff has failed to provide an affidavit containing any details as to why the Plaintiff was unable to instruct counsel for the purpose of replying. Consequently, according to the Defendant, the Plaintiff's motion for particulars must fail.
+[5]
+I do not think that the Defendant's objection should prevail under the present circumstances. As indicated by this Court in
+Covington Fabrics Corp. v. Master Fabrics Ltd.
+(1993), 48 C.P.R.(3d) 521 (F.C.T.D.), at 522:
+"The absence of a request and of an affidavit setting out with some particularity what particulars are required can be waived if the need for particulars is obvious from the file. That the party cannot plead without the particular might also be obvious from the file and that the party does not have the particulars might be assumed in a proper case."
+(See also
+Omark Industries Ltd. v. Windsor Machine Co.
+(1981), 56 C.P.R.(2d) 111 (F.C.T.D.), at 112, at the bottom of the page.)
+[6]
+Here I believe that the need for particulars is obvious from the file since a reading of the Defence demonstrates that the impugned paragraphs are quite short on material facts.
+[7]
+The impugned paragraphs of the Defence for which particulars are claimed read as follows:
+"10. The Defendant states that the '295 Patent, and each of the claims thereof, is invalid on the following bases:
+(a) The subject matter of the '295 Patent was disclosed more than one year before the filing date by the applicant, or by a person who obtained knowledge, directly or indirectly, from the applicant, in such a manner that the subject matter became available to the public in Canada or elsewhere, contrary to paragraph 28.2(1)(a) of the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended (the '
+Patent Act
+').
+(b) The subject matter of the '295 Patent was disclosed in such a manner that the subject matter thereof became available to the public in Canada or elsewhere, in particular but not limited to the references listed in Schedule 1, which were available to the public before the claim date of the '295 Patent in Canada, contrary to paragraph 28.2(1)(b) of the
+Patent Act
+.
+(c) The subject matter defined by the claims in the '295 Patent would have been obvious on the claim date thereof to a person skilled in the art or science to which it pertains, having regard but not limited to the prior art listed in Schedules '1' and '2' hereto, contrary to section 28.3 of the
+Patent Act
+.
+(d) The claims in the '295 Patent are not patentably distinct from those found in the Defendant's earlier Canadian patent number 2,180,714, contrary to subsection 36(1) of the
+Patent Act
+.
+(e) The specification of the '295 Patent does not comply with subsection 27(3) of the
+Patent Act
+for the following reasons:
+(i) contrary to paragraph 27(3)(a) of the
+Patent Act
+, the specification of the '295 Patent does not correctly or fully describe the invention and its operation or use as contemplated by the inventor;
+(ii) contrary to paragraph 27(3)(b) of the
+Patent Act
+, the specification of the '295 Patent does not set out clearly the method of constructing, making or using the subject matter of the '295 Patent, in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which it pertains, or with which it is most closely connected, to make, construct or use it;
+(iii) contrary to paragraph 27(3)(c) of the
+Patent Act
+, the specification of the '295 Patent fails to explain the principle of the invention and the best mode in which the inventor has contemplated the application of that principle.
+(f) The '295 patent is invalid for failure to comply with section 27(1) of the
+Patent Act
+. The inventors of the 'invention', if any, identified in the '295 patent, were persons other than Richard Chao. These other individuals, known to the Plaintiff, but unknown to the Defendant, either with or without the contribution of Richard Chao, made the invention, if any, identified in the '295 Patent.
+(g) In view of paragraph (f) above, the allegation in the petition of the applicant in respect of the '295 Patent that Richard Chao is the inventor, is untrue. This omission is material. The omission was willfully made for the purpose of misleading and renders the '295 Patent invalid pursuant to subsection 53(1) of the
+Patent Act
+.
+(h) The claims in the '295 Patent are broader than the disclosure.
+(i) The claims in the '295 Patent are ambiguous for failing to define distinctly and in explicit terms the subject matter of the invention contrary to s. 27(4) of the
+Patent Act
+."
+[8]
+As to paragraph 10(a), it contains no material facts supporting the positive assertions it contains. It is not an appropriate defence against particulars for the Defendant to say that the information requested is within the knowledge of the Plaintiff.
+[9]
+In
+Wellcome Foundation Ltd. v. Novopharm Ltd.
+(1992), 56 F.T.R. 282; 44 C.P.R.(3d) 456 (T.D.), at 458, the Court cites the case of
+Bror With v. Ruko of Canada Ltd.
+(1977), 31 C.P.R.(2d) 3 (F.C.T.D.), at 5, where the Court said:
+"Plaintiff cannot be expected to admit that his patent is invalid, and without making this admission I fail to see how it can be seriously contended that plaintiff already knows the reasons why it is invalid. Neither is it proper to assume that plaintiff's knowledge is necessarily co-existent with whatever knowledge defendant may have and that therefore defendant need not give further particulars of the facts on which it bases its claim of invalidity."
+[10]
+The fact that the Defendant has indicated in a letter that it was relying on the fact that the Plaintiff has a practice of making the subject matter of its patents available to the public before filing for patent protection is not sufficient particulars.
+[11]
+Additionally, I refuse to follow here the approach advanced in the case of
+Parker v. G.M. Gest Ltd.
+(1952), 15 C.P.R. 76 (Ont. Master), at 84, and the dissent in the case of
+Gulf Canada Ltd. v. Tug Mary Mackin and Seawest Holdings Ltd.
+, [1984] 1 F.C. 884; 52 N.R. 282 (F.C.A.), at 894, where a party was allowed to have discovery before being required to give particulars.
+[12]
+I do not consider that it is proper pleading to allow the Defendant to try to make its case out of the mouth of the Plaintiff.
+[13]
+Therefore, the Defendant shall provide the following particulars with respect to paragraph 10(a) of the Defence:
+(i) the date, being more than one year before the claim date of the patent, on which the subject matter of the '295 patent was disclosed by the applicant;
+(ii)	(a) the date on which the subject matter of the '295 patent was disclosed by a person other than the applicant, and
+(b) the name of that person who disclosed said subject matter;
+(iii) the manner in which said subject matter became available to the public in Canada;
+(iv) the manner in which said subject matter became available to the public elsewhere than Canada.
+[14]
+Paragraphs 10(b) and (c) may be considered together for the purposes of the Plaintiff's request for particulars.
+[15]
+In support of these paragraphs, the Defendant relies on all the references listed respectively in Schedules 1 and 2 of the Defence. The listed references are numerous; Schedule 2 includes 79 references alone.
+[16]
+Reliance on the whole of the patents listed is not adequate pleading. In
+Bror With v. Ruko of Canada Ltd.
+, supra, at 8, Walsh, J., reports the following extract of North, J., in
+Heathfield v. Greenway
+(1893), 11 R.P.C. 17, at 19:
+"I can hardly believe ... that the whole of these sixteen or eighteen specifications are all anticipations ... I should think, looking at them prima facie, it is impossible to say you rely on the whole: and that being so, you ought to say what part."
+[17]
+Defendant's counsel also contended that the invention reflected in each of the patents relied on is a simple one and, therefore, no further particularization was required to allow the Plaintiff to plead intelligently. In the case of
+Parker v. G.M. Gest Ltd.
+, supra, Senior Master Marriott refused to order most of the particulars sought on the basis that the patent in suit was not of a sufficiently complicated nature to warrant particularization.
+[18]
+However, as Walsh, J., ruled in
+Bror With
+, supra, I am not prepared here to conclude that the inventions relied upon by the Defendant are "... so simple that the judgment in the
+Parker
+case should be followed" (at 8). In addition, I am of the opinion that the situation at bar should be governed by the following comments of Jerome, A.C.J., in the case of
+Smith (T.J.) & Nephew Ltd. v. Deseret Canada Inc.
+(1984), 78 C.P.R.(2d) 227 (F.C.T.D.), at 228:
+"The defendants contend that since the invention is not complex and since the number of patents is not great, the pleading is sufficient and that the plaintiffs are not placed under an unreasonable burden. I have recently canvassed the jurisprudence on the issue of sufficiency of pleadings in the cases of
+FMC Corp. et al. v. Canadian Pneumatic Tool Co. (Ltd.) et al.
+;
+B & J Mfg. Co. v. Canadian Pneumatic Tool Co. (Ltd.) et al.
+and for the reasons set out there, I must reject the defendants' contention."
+[19]
+Finally, the fact that the Plaintiff might have become familiar with the listed patents due to consideration of these patents in the past in terms of patentability does not provide the Plaintiff with the Defendant's list in terms of invalidity.
+[20]
+Therefore, the Defendant shall provide the following particulars with respect to paragraphs 10(b) and (c) of the Defence.
+[21]
+With respect to paragraph 10(b):
+(i) which ones of the references listed in Schedule 1 are alleged to disclose the subject matter of the '295 patent before the claim date thereof;
+(ii) which ones of the claims of the '295 patent are alleged to have been disclosed before the claim date having regard to the references listed in Schedule 1.
+[22]
+With respect to paragraph 10(c):
+(i) which ones of the references listed in Schedules 1 and 2 would have rendered the subject matter defined in the claims of the '295 patent obvious on the claim date thereof;
+(ii) which ones of the claims of the '295 patent would have been obvious on the claim date thereof to a person skilled in the art or science to which it pertains having regard to the prior art listed in Schedules 1 and 2.
+[23]
+As for paragraphs 10(d), (e), (h) and (i), the Defendant argues that they advance technical attacks against the validity of the patent in suit that are based on the interpretation of the claims.
+[24]
+I am unable to share the Defendant's point of view.
+[25]
+Here, one must be careful to appreciate that for the purpose of pleading, the Defendant is in the shoes of a plaintiff when the time comes to appreciate the sufficiency of
+the assertions in its allegations. As echoed by Addy, J., in
+Caterpillar Tractor Co. v. Babcock Allatt Ltd.
+(1983), 67 C.P.R.(2d) 135 (T.D.), at 137, the Defendant's allegations:
+"... are not mere denials of matters alleged by the plaintiff and which the latter must prove but, on the contrary, constitute positive assertions which must be affirmatively proven by the defendant. The latter, in so far as these assertions are concerned, is in the same position as a plaintiff would be in seeking to have a patent declared null and void."
+(See also on the same point
+Bror With v. Ruko of Canada Ltd.
+, supra, at page 5.)
+[26]
+In
+B & J Manufacturing Co. v. Canadian Pneumatic Tool Co.
+(1984), 77 C.P.R.(2d) 257 (F.C.T.D.), the Court entertained an application for particulars in relation to a statement of defence and counterclaim in a patent infringement action. In the course of dealing with the application, Jerome, A.C.J., observed at 259:
+"The remaining issues raise questions which have given this court considerable difficulty in the past. They touch several defences commonly raised in infringement cases by way of attack upon the validity of the patent in suit:
+(1) prior use;
+(2) prior publication;
+(3) common general knowledge;
+(4) lack of distinction;
+(5) failure to disclose the distinctive features of the invention in clear terms;
+(6) the patent claims more than the invention; and
+(7) the invention is inoperative.
+The defendants have followed the customary practice of pleading the defences in language as close as possible to the statute or jurisprudence, as the case may be. I am frankly somewhat puzzled at the constant reluctance of counsel to make a more direct connection between these general defences and the particular issues in suit and, as a matter of principle and good practice, it seems well established that they ought to be required to do so. I base that conclusion upon the reasoning of four learned members of this court ..."
+[27]
+The four authorities relied upon by Jerome, A.C.J., were: Jackett, C.J., in
+Leithiser and Timberland Ellicott Ltd. v. Pengo Hydra-Pull of Canada Ltd.
+(1975), 6 N.R. 301; 17 C.P.R.(2d) 110 (F.C.A.), at 115-6; Walsh, J., in
+Bror With
+, supra; Marceau, J., in
+Mitten v. P.H. Tech Inc.
+(1982), 63 C.P.R.(2d) 232 (F.C.T.D.), at 233; and Mahoney, J., in
+Omark Industries Inc.
+, supra, at 113-4.
+[28]
+On the basis of these general comments, I intend to order the Defendant, with respect to the particulars, to file and serve the particulars requested by the Plaintiff in its motion.
+[29]
+Therefore, the Defendant shall provide the following particulars with respect to paragraphs 10(d), (e), (h) and (i) of the Defence.
+[30]
+With respect to paragraph 10(d):
+(i) particulars of the basis on which the Defendant states that the claims in the '295 patent are not patentably distinct from those found in patent 2,180,714;
+(ii) which of the claims of the '295 patent are not patentably distinct from those found in Canadian patent 2,180,714.
+[31]
+With respect to paragraph 10(e):
+(i) particulars of the basis on which the Defendant claims that the '295 patent does not correctly or fully describe the invention and its operation or use;
+(ii) particulars of the basis on which the Defendant claims that the specification of the '295 patent does not set out clearly the method of constructing, making or using the subject matter of the '295 patent;
+(iii) particulars of the basis on which the Defendant states that the '295 patent fails to explain the principle of the invention and the best mode in which the inventor has contemplated the application of that principle.
+[32]
+With respect to paragraph 10(h):
+(i) particulars of the basis on which the Defendant states that the claims of the '295 patent are broader than the disclosure;
+(ii) which claims of the '295 patent are broader than the disclosure.
+[33]
+With respect to paragraph 10(i):
+(i) particulars of the basis on which the Defendant states that the claims in the '295 patent are ambiguous;
+(ii) which claims of the '295 patent are ambiguous.
+[34]
+With respect to paragraph 10(f) of the Defence, the Defendant shall provide the following particulars:
+(i) the names of the other individuals alleged to have invented the invention disclosed in the '295 patent and the date said other supposed inventors invented the '295 patent.
+[35]
+As discussed above with respect of paragraph 10(a) of the Defence (see paragraphs [12] and [13], supra), I do not consider appropriate to allow the Defendant to have discovery of the Plaintiff before providing the said particulars.
+[36]
+With respect to paragraph 10(g), based on rule 181(a), the Defendant shall provide the following particulars:
+(i) the basis on which the Defendant states that the omission was willfully made for the purpose of misleading.
+[37]
+All the particulars ordered above shall be served on or before March 30, 2001.
+[38]
+As for the Plaintiff's request under rule 206, it shall be sufficient for the Defendant to serve on the Plaintiff, on or before March 9, 2001, a copy of the following documents: U.S. patent No. 2,920,327, European patent No. 458,815 and Japanese patent No. 4,504,177.
+[39]
+The Plaintiff shall serve and file its Reply and Defence to Counterclaim within fifteen days of the date of service of the Defendant's particulars.
+[40]
+The Plaintiff's motion is otherwise dismissed.
+[41]
+Costs to the Plaintiff.
+Order accordingly.
+Editor: Angela E. McKay/pdk
+[End of document]

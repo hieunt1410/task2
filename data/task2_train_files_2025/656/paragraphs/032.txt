@@ -1,0 +1,10 @@
+[32]
+Bayer's argument concerning Patent Rules 58-60 is set out in its memorandum:
+"64. The 913 application (which issued as the 334 patent), as a divisional application, could only be accorded divisional status if the invention defined in the claims in the resulting 334 patent were in the 435 appli­cation (which issued as the 067 patent). At the date of filing the 435 application, August 13, 1982, Patent rule 60 "deemed" an application to be directed to more than one invention where the application did not contain a claim broader in its scope than any other claim in the application. This reflects the concept of "unity of invention" required by the Patent Office at the time and applied in respect of the requirement that an applicant file divisional applica­tions.
+65. An application that contained claims to (a) a process for preparing a novel com­pound; (b) a novel compound in process dependent form; (c) a composition contain­ing the novel compound with a carrier; and (d) the use of the composition, would have been deemed to be directed to more than one invention by operation of rules 58-60, thereby requiring the filing of divisional applications. The Patent Office routinely applied these rules to require applicants to file divisional applications in respect of different embodiments when there was no unity of invention.
+Rules
+58, 59 and 60
+66. Subject matter disclosed in a parent application is not prior art for the purposes of considering the inventiveness of the subject matter claimed in a divisional application of the parent.
+Patent Act
+, s. 38(3)
+"67. Bayer, the applicant in the 435 appli­ca­tion was required by the Patent Office to file a number of divisional applications as is apparent from the disclosure of the 334 patent. It is also clear that claims of the type in the 334 patent, were lawfully patentable at the date thereof."

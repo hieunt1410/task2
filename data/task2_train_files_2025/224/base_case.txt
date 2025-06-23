@@ -1,0 +1,643 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kent v. Universal Studios Can. Inc. (2008), 333 F.T.R. 63 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2008] F.T.R. TBEd. AU.004 
+ 
+ 
+ 
+ George Arthur Kent (plaintiff) v. Universal Studios Canada Inc. (defendant) 
+ 
+ (T-754-08; 2008 FC 906) 
+ 
+ 
+ 
+ Indexed As: Kent v. Universal Studios Canada Inc. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Aalto, Prothonotary 
+ 
+ July 25, 2008. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Kent alleged that the Hollywood movie "Charlie Wilson's War" (the Movie) made unauthorized use of parts of a news report which had been prepared by Kent and broadcast on the BBC. Universal Studios Canada Inc. (Universal Canada) was the Canadian distributor of the Movie. Kent commenced an action against Universal Canada, seeking declaratory and injunctive relief, as well as damages for copyright infringement. Universal Canada brought a motion for an order temporarily staying the action pursuant to s. 50(1) of the Federal Courts Act pending the resolution of a similar proceeding brought by Kent against Universal Canada's affiliate, Universal Pictures, and others, in the United States. 
+ 
+ 
+ 
+ A Prothonotary of the Federal Court dismissed the motion. 
+ 
+ 
+ 
+ Courts - Topic 4033.1 
+ 
+ Federal Court of Canada - Jurisdiction - Federal Court - Stay of proceedings where claim proceeded with in another court - Kent alleged that the Hollywood movie "Charlie Wilson's War" (the Movie) made unauthorized use of parts of a news report which had been prepared by Kent and broadcast on the BBC - Universal Studios Canada Inc. (Universal Canada) was the Canadian distributor of the Movie - Kent commenced an action against Universal Canada, seeking declaratory and injunctive relief, as well as damages for copyright infringement - Universal Canada moved for an order temporarily staying the action pursuant to s. 50(1) of the Federal Courts Act pending the resolution of a similar proceeding brought by Kent against Universal Canada's affiliate, Universal Pictures, and others, in the U.S. - A Prothonotary of the Federal Court dismissed the motion - Universal Canada had not demonstrated that the continuation of the action would cause them prejudice or injustice - A stay would cause injustice to Kent - A determination regarding infringement in the U.S. action would be made under U.S. copyright law and would not necessarily be determinative of the outcome in Canada - Given the stage of the U.S. action there was no risk of an "imminent" inconsistent finding in the U.S. action. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Empire-Universal Films Ltd. et al. v. Rank et al., [1947] O.R. 775 (H.C.), refd to. [para. 15]. 
+ 
+ Hall Development Co. of Venezuela, C.A. v. B. and W. Inc. (1952), 16 C.P.R. 67 (Ex. Ct.), refd to. [para. 15]. 
+ 
+ Weight Watchers International Inc. v. Weight Watchers of Ontario Ltd. (1972), 5 C.P.R.(2d) 122 (F.C.T.D.), refd to. [para. 15]. 
+ 
+ Varnam v. Canada (Minister of Health and Welfare), [1987] F.C.J. No. 511 (T.D.), refd to. [para. 15]. 
+ 
+ Figgie International Inc. v. Citywide Machine Wholesale Inc. et al. (1992), 66 F.T.R. 7; 50 C.P.R.(3d) 89 (T.D.), refd to. [para. 15]. 
+ 
+ Discreet Logic Inc. v. Registrar of Copyrights (Can.) et al. (1993), 51 C.P.R.(3d) 191 (F.C.T.D.), refd to. [para. 15]. 
+ 
+ Biologische Heilmittel Heel GmbH et al. v. ActiForm Ltd. et al. (1995), 103 F.T.R. 212; 64 C.P.R.(3d) 198 (T.D.), refd to. [para. 15]. 
+ 
+ Compulife Software Inc. v. Compuoffice Software Inc. (1997), 143 F.T.R. 19; 77 C.P.R.(3d) 451 (T.D.), refd to. [para. 15]. 
+ 
+ Canadian Pacific Railway Co. v. Ship Sheena M et al. (2000), 188 F.T.R. 16 (T.D.), refd to. [para. 15]. 
+ 
+ White v. E.B.F. Manufacturing Ltd. et al., [2001] F.T.R. Uned. 478; 2001 FCT 713, refd to. [para. 15]. 
+ 
+ Safilo Canada Inc. v. Contour Optik Inc. et al. (2005), 280 F.T.R. 66; 48 C.P.R.(4th) 339 (T.D.), refd to. [para. 15]. 
+ 
+ Mugesera et al. v. Canada (Ministre de la Citoyenneté et de l'Immigration), [2005] 2 S.C.R. 91; 335 N.R. 220; 2005 SCC 39, refd to. [para. 16]. 
+ 
+ Blue Crest Music Inc. et al. v. Compo Co., [1980] 1 S.C.R. 357; 29 N.R. 296, refd to. [para. 26]. 
+ 
+ Kraft Canada Inc. v. Euro Excellence Inc. (2007), 365 N.R. 332; 2007 SCC 37, refd to. [para. 28]. 
+ 
+ Hollinger International Inc. v. Hollinger Inc. et al., [2004] O.T.C. Uned. 782 (Sup. Ct.), refd to. [para. 36]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Federal Courts Act, R.S.C. 1985, c. F-7, sect. 50(1) [para. 14]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Anthony Prenol, for the plaintiff; 
+ 
+ Brian W. Gray and Kristin Wall, for the defendant. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Blake, Cassels & Graydon, LLP, for the plaintiff; 
+ 
+ Ogilvy Renault, LLP, for the defendant. 
+ 
+ 
+ 
+ This motion was heard on July 21, 2008, at Toronto, Ontario, before Aalto, Prothonotary, of the Federal Court, who delivered the following decision on July 25, 2008. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Overview 
+ 
+ 
+ 
+ [1] 
+   
+ Aalto, Prothonotary: Charlie Wilson's War 
+  (the "Movie") is a Hollywood film released on December 21, 2007 in both Canadian and U.S. theatres. It stars several well known actors including Tom Hanks, Julia Roberts, and Phillip Seymour Hoffman. The film concerns the exploits of a U.S. Congressman in his quest to persuade the U.S. Congress to approve funding of a covert operation by the U.S. to assist the resistance fighters of Afghanistan who were opposing the Soviet invasion in the 1980's. 
+ 
+ 
+ 
+ [2] 
+  The Defendant ("Universal Canada") is the Canadian distributor of the Movie. The Plaintiff ("Mr. Kent") is a well-known Canadian journalist who spent more than two months in northern Afghanistan in the mid-1980's as a freelance journalist filming various aspects of the Soviet-Afghan war and interviewing leaders of the so-called "mujahideen" resistance fighters. 
+ 
+ 
+ 
+ [3] 
+  Mr. Kent prepared a news report from the film footage he shot in Afghanistan and he also recorded the voiceover narrative for the report. The news report was broadcast on the BBC. Mr. Kent obtained a Canadian Copyright Registration for the BBC report. 
+ 
+ 
+ 
+ [4] 
+  In this action, Mr. Kent alleges that the Movie makes unauthorized use of parts of the BBC report which is an original audio, visual and audio-visual work authored by Mr. Kent. 
+ 
+ 
+ 
+ [5] 
+  This motion is brought by Universal Canada for an order temporarily staying this action pursuant to s. 50(1) of the  
+ Federal Courts Act 
+  pending the resolution of a similar proceeding brought by Mr. Kent against Universal Canada's affiliate, Universal Pictures, and others, in the United States District Court for the Central District of California, Western Division (the "U.S. Action"). 
+ 
+ 
+ 
+ [6] 
+  The U.S. Action and this action both concern Mr. Kent's allegation that approximately 34 seconds of audio and 5 seconds of video from the television documentary were used in the Movie in a manner that infringes Mr. Kent's copyright and related rights. 
+ 
+ 
+ 
+ [7] 
+  The U.S. Action was commenced on April 24, 2008 against approximately 20 parties. The Canadian action named simply one Defendant, Universal Canada. The U.S. Defendants have brought various motions attacking the legal sufficiency of portions of Mr. Kent's complaint, which is now in its second iteration and is referred to as the Second Amended Complaint. In the U.S. Action, the motions are set to be heard in August 11, 2008. No defence has yet been filed in the U.S. Action or this action. 
+ 
+ 
+ 
+ [8] 
+  On May 13, 2008, Mr. Kent commenced this action against Universal Canada pursuant to sections 27(1), 27(2) and 28.1 of the  
+ Copyright  
+ Act 
+ , R.S.C. 1985, c. C-42, as amended (the " 
+ Act 
+ "). Universal Canada is not a defendant in the U.S. Action. 
+ 
+ 
+ 
+ [9] 
+  In this action, Mr. Kent seeks various declarations including a declaration that copyright subsists in the news report aired on BBC and that Mr. Kent is the owner of it. He also seeks an interim and permanent injunction and damages for infringement as well as punitive and exemplary damages and other relief. He has also commenced a motion for summary judgment in this action. 
+ 
+ 
+ 
+ [10] 
+  The U.S. Action asserts claims for violation for U.S. copyright and trademark law as well as claims for damages. 
+ 
+ 
+ 
+ [11] 
+  There is a significant overlap between the factual allegations in the Statement of Claim in this action and the Second Amended Complaint in the U.S. Action. Indeed, several of the allegations appearing in the Statement of Claim in this action are taken virtually verbatim from the Second Amended Complaint. Universal Canada in its submissions emphasized the significant similarities between this Statement of Claim and the Second Amended Complaint. Universal Canada also emphasizes that it had no role in the production of the alleged infringing material used in the Movie. As the Movie was produced by Universal U.S., it is the primary culprit if there is a finding of infringement. Thus, Universal Canada argues that the U.S. Action will resolve the primary determination of copyright infringement against the producer of the Movie. 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ 
+ [12] 
+  The following issues are raised on this motion: 
+ 
+ 
+ 
+ (a) Should this action be temporarily stayed pending the outcome of the U.S. Action? 
+ 
+ 
+ 
+ (b) If this action is not stayed, should the Defendant be granted an extension of time for the filing of the Statement of Defence? 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ [13] 
+  The second issue does not raise any great difficulty. Universal Canada is within its procedural rights to bring a motion for a stay instead of immediately filing its Statement of Defence. For the reasons that follow I am not persuaded that a stay should be granted and, thus, Universal Canada will be granted an appropriate time frame within which to file its Statement of Defence. 
+ 
+ 
+ 
+ Should A Stay be Granted? 
+ 
+ 
+ 
+ [14] 
+  Section 50(1) of the  
+ Federal Courts  
+ Act 
+  gives the Court discretion to grant a stay in certain circumstances. Section 50(1) provides as follows: 
+ 
+ 
+ 
+ "50(1) Stay of proceedings authorized - The Federal Court of Appeal or Federal Court may, in its discretion, stay proceedings in any cause or matter 
+ 
+ 
+ 
+ (a) on the ground that the claim is being proceeded with in another court or jurisdiction; or 
+ 
+ 
+ 
+ (b) where for any other reason it is in the interest of justice that the proceedings be stayed." 
+ 
+ 
+ 
+ [15] 
+  The general test to be applied on a motion for a stay pursuant to section 50(1) of the  
+ Federal Courts  
+ Act 
+  is a two-part test, which has been consistently applied by this Court and other Courts over many years. This two-part test requires that the defendant demonstrate: 
+ 
+ 
+ 
+ (a) that the continuation of the action will cause prejudice or injustice (not merely inconvenience or extra expenses) to the defendant; and 
+ 
+ 
+ 
+ (b) that the stay will not work an injustice to the plaintiff. 
+ 
+ 
+ 
+ There is a long line of cases that support this two-part test. They include:  
+ Empire-Universal Films Ltd. et al. v. Rank et al. 
+ , [1947] O.R. 775 (H.C.), at p. 779;  
+ Hall Development Co. of Venezuela, C.A. v. B. and W. Inc. 
+  (1952), 16 C.P.R. 67 (Ex. Ct.), at p. 70;  
+ Weight Watchers International Inc. v. Weight Watchers of Ontario Ltd. 
+  (1972), 5 C.P.R.(2d) 122 (F.C.T.D.), at pp. 129-130;  
+ Varnam v. Canada (Minister of Health and Welfare) 
+ , [1987] F.C.J. No. 511 (T.D.), at p. 3;  
+ Figgie International Inc. v. Citywide Machine Wholesale Inc. et al. 
+  (1992), 66 F.T.R. 7; 50 C.P.R.(3d) 89 (T.D.), at p. 92;  
+ Discreet Logic Inc. v. Registrar of Copyrights (Can.) et al. 
+  (1993), 51 C.P.R.(3d) 191 (F.C.T.D.), at p. 191;  
+ Biologische Heilmittel Heel GmbH et al. v. ActiForm Ltd. et al. 
+  (1995), 103 F.T.R. 212; 64 C.P.R.(3d) 198 (T.D.), at p. 201;  
+ Compulife Software Inc. v. Compuoffice Software Inc. 
+  (1997), 143 F.T.R. 19; 77 C.P.R.(3d) 451 (T.D.), at p. 456;  
+ Canadian Pacific Railway Co. v. Ship Sheena M et al. 
+  (2000), 188 F.T.R. 16 (T.D.), at p. 16;  
+ White v. E.B.F. Manufacturing Ltd. et al. 
+ , [2001] F.T.R. Uned. 478; 2001 FCT 713, at para. 5; and,  
+ Safilo Canada Inc. v. Contour Optik Inc. et al. 
+  (2005), 280 F.T.R. 66; 48 C.P.R.(4th) 339 (T.D.) at p. 27. 
+ 
+ 
+ 
+ [16] 
+  It should also be noted that the granting of a stay is a discretionary order and the Court's discretion must be exercised sparingly and only in the clearest of cases. There are many cases which support this proposition including:  
+ Mugesera et al. v. Canada (Ministre de la Citoyenneté et de l'Immigration) 
+ , [2005] 2 S.C.R. 91; 335 N.R. 220; 2005 SCC 39, at para. 12;  
+ Safilo Canada Inc. v. Contour Optik Inc. 
+ , supra, at para. 27; and,  
+ FRAGMENT_SUPPRESSED 
+ 
+ 
+ 
+ [17] 
+  A summary of guidelines which have evolved over time to assist in the determination of whether a stay should be granted are usefully summarized by Justice Dubé of this Court in  
+ White v. E.B.F. Manufacturing Ltd. et al. 
+ , [2001] F.C.J. No. 1073 as follows: 
+ 
+ 
+ 
+ "1. Would the continuation of the action cause prejudice or injustice (not merely inconvenience or extra expense) to the Defendant? 
+ 
+ 
+ 
+ "2. Would the stay work an injustice to the Plaintiff? 
+ 
+ 
+ 
+ "3. The onus is on the party which seeks a stay to establish that these two conditions are met; 
+ 
+ 
+ 
+ "4. The grant or refusal of the stay is within the discretionary power of the Judge; 
+ 
+ 
+ 
+ "5. The power to grant a stay may only be exercised sparingly and in the clearest of cases; 
+ 
+ 
+ 
+ "6. Are the facts alleged, the legal issues involved and the relief sought similar in both actions? 
+ 
+ 
+ 
+ "7. What are the possibilities of inconsistent findings in both Courts? 
+ 
+ 
+ 
+ "8. Until there is a risk of imminent adjudication in the two different forums, the Court should be very reluctant to interfere with any litigant's right of access to another jurisdiction; 
+ 
+ 
+ 
+ "9. Priority ought not necessarily be given to the first proceeding over the second one or, vice versa." 
+ 
+ 
+ 
+ [18] 
+  These guidelines have been approved in other cases in this Court. See, for example,  
+ Safilo Canada Inc. v. Contour Optik Inc. 
+ , supra, at pp. 349 - 350. 
+ 
+ 
+ 
+ [19] 
+  There is one additional factor that is sometimes referred to and that is whether an undertaking has been given by the defendant in the action which is sought to be stayed that it will abide by the factual or legal determinations made in the ongoing action. No such undertaking has been given in this proceeding by Universal Canada. The only undertaking given by Universal Canada which was made during the course of oral argument was that Universal Canada's defence would raise the following material factual issues common to both actions: 
+ 
+ 
+ 
+ "23. The U.S. Second Amended Complaint and the Canadian Statement of Claim raise the following material factual issues common to both actions: 
+ 
+ 
+ 
+ a) the amount and character (quantity and quality) of material allegedly taken from the BBC Segment; 
+ 
+ 
+ 
+ b) the extent to which the Movie's alleged use of a small excerpt of the audio, and an almost non-discernable portion of the video from the BBC Segment, adversely affected the commercial value of the BBC Segment; 
+ 
+ 
+ 
+ c) whether Mr. Kent is the sole author and owner of the BBC Segment; 
+ 
+ 
+ 
+ d) whether the BBC Segment is owned by the BBC; 
+ 
+ 
+ 
+ e) whether the BBC Segment, or the excerpts used by Universal U.S., were licensed to Universal U.S., or any other third party, by the BBC; 
+ 
+ 
+ 
+ f) whether the Movie's alleged use of excerpts of the BBC Segment adversely affects the value and reputation of Mr. Kent; and 
+ 
+ 
+ 
+ g) whether the Movie's alleged use of excerpts of the BBC Segment was incidental and not deliberate or intentional." 
+ 
+ 
+ 
+ [20] 
+  Fundamental to Universal Canada's position is that the factual matrix between the U.S. Action and this proceeding are the same. They argue that a finding of primary infringement in the U.S. Action is a prerequisite to this action. As the producer of the Movie is one of the U.S. Defendants prima facie there must be a finding of infringement in the U.S. Action before there can be a finding of infringement against the distributor of the Movie, the Canadian Defendant, Universal Canada. They point to the lengthy portions of the Statement of Claim, which target Universal Studios, the U.S. Defendant, as the main culprit. This, they say, will result in having to try the action in Canada and require many of the witnesses and parties in the U.S. to come to Canada to provide evidence if this action is not stayed. The net result of this is prejudicial to Universal Canada because it will entail substantial cost, duplication of effort and inconvenience and raises the spectre of inconsistent factual and legal findings. Staying this action will avoid a multiplicity of legal proceedings and the concomitant prejudice that two actions seeking the same relief will generate. 
+ 
+ 
+ 
+ [21] 
+  They further argue that by staying this action, the result in the U.S. Action may render this action moot and would be the best use of judicial resources. As the U.S. Action is wider in its scope in both the causes of action asserted and in the number and breadth of defendants, it should proceed in advance of this action and save some or all of the expense of litigating in Canada. 
+ 
+ 
+ 
+ [22] 
+  They further argue that there will be no prejudice to Mr. Kent as he will have his day in Court in the U.S. Action and to the extent that any issues remain outstanding after that proceeding he will be free to pursue those matters in this action as Universal Canada is only seeking a temporary stay not a permanent stay. In addition, Universal Canada argues that Mr. Kent would be free to move to lift the stay if the U.S. Action becomes a quagmire of procedural wrangling and does not proceed in a timely manner. 
+ 
+ 
+ 
+ [23] 
+  Notwithstanding the fervency with which these arguments were put forth by counsel for Universal Canada, I am not persuaded that this action should be stayed in favour of letting the U.S. Action be determinative of issues raised in this action. Mr. Kent has separate and distinct rights, which he is asserting in this action and he should be allowed to pursue them. 
+ 
+ 
+ 
+ [24] 
+  There is ample authority for the proposition that mere expense and the inconvenience that may be encountered is not a sufficient ground for a stay to be granted. While Universal Canada may incur costs in bringing witnesses from Hollywood to respond to this action, in and of itself that is insufficient grounds upon which to grant a stay. In addition, the U.S. Action is at its seminal stage and there is little likelihood given the initial procedural issues being dealt with that there is any "imminent" possibility of a decision being made, never mind one that may be inconsistent with a decision in Canada. 
+ 
+ 
+ 
+ [25] 
+  There is no doubt that both this action and the U.S. Action flow from the same set of facts. This, however, is not determinative of whether a stay of this proceeding should be granted. It is but one factor. A determination in the U.S. Action of whether there has been infringement will not necessarily be determinative of the outcome in Canada. In this action, Mr. Kent must demonstrate that, under  
+ Canadian 
+  law, he is the owner of the copyright in issue and that Universal Canada has performed one or more of the specific acts set out in the  
+ Copyright Act 
+ . While there will have to determinations in the U.S. Action of copyright infringement such determinations will be made under U.S. copyright law. 
+ 
+ 
+ 
+ [26] 
+  Copyright law is statutory law and there are both subtle and not so subtle differences between U.S. copyright law and Canadian copyright law. For example, statutory definitions are not identical nor are the treatment of moral rights which are in issue in this proceeding. A finding that Universal U.S. did not infringe Mr. Kent's copyright is not necessarily determinative of any issue in this proceeding. There may be defences to available to Universal U.S. under U.S. copyright law that would not be available under Canadian copyright law. As the Supreme Court of Canada noted in  
+ Blue Crest Music Inc. et al. v. Compo Co. 
+ , [1980] 1 S.C.R. 357; 29 N.R. 296, per Estey, J., at pp. 372-3: 
+ 
+ 
+ 
+ "Mr. Hughes for the respondent in answer to a question from the Bench put it very well when he said that copyright law is neither tort law nor property law in classification, but statutory law. It neither cuts across existing rights in property or conducts nor falls between rights and obligations heretofore existing in the common law. Copyright legislation simply creates rights and obligations upon the terms and in the circumstances set out in the statute. This creature of statute has been known to the law of England at least since the days of Queen Anne when the first copyright statute was passed. It does not assist the interpretive analysis to import tort concepts. The legislation speaks for itself and the actions of the appellant must be measured according to the terms of the statute." 
+ 
+ 
+ 
+ [27] 
+  Thus, copyright issues in Canada must be determined by reference to the Canadian  
+ Copyright  
+ Act 
+ . Findings under U.S. copyright law may not necessarily be the same as those under Canadian law. As noted by Justice Estey in  
+ Campo 
+ , supra: 
+ 
+ 
+ 
+ "The United States  
+ Copyright Act 
+ , both in its present and earlier forms has, of course, many similarities to the  
+ Canadian Act 
+ , as well as to the pre-existing Imperial  
+ Copyright Act 
+ . However,  
+ United States court decisions, even where the factual situations are similar, must be scrutinized very carefully because of some fundamental differences 
+  in copyright concepts which have been adopted in the legislation of that country." (Emphasis added) 
+ 
+ 
+ 
+ [28] 
+  Further, in  
+ Kraft Canada Inc. v. Euro Excellence Inc. 
+  (2007), 365 N.R. 332; 2007 SCC 37, a recent decision of the Supreme Court of Canada it was noted at par. 20: 
+ 
+ 
+ 
+ "Section 27(2)(e) stands out as an apparent exception to the rule in  
+ CCH 
+  that secondary infringement first requires primary infringement because, unlike s. 27(2)(a) to (d), it does not require  
+ actual 
+  primary infringement. Instead, it requires only  
+ hypothetical 
+  primary infringement. Under s. 27(2)(e), 
+ 
+ 
+ 
+ 'It is an infringement of copyright for any person to ... import ... a copy of a work ... that the person knows ...  
+ would infringe copyright if it had been made in Canada by the person who made it 
+ .' 
+ 
+ 
+ 
+ "Section 27(2)(e) substitutes hypothetical primary infringement for actual primary infringement. It is possible that the infringing imports may have been lawfully made outside of Canada. Still, they are deemed to infringe copyright if the importer has imported into Canada works that  
+ would have infringed 
+  copyright if those works had been made in Canada by the persons who made the works abroad." 
+ 
+ 
+ 
+ [29] 
+  The differences between U.S. copyright law and Canadian law militate against a stay of this action being granted. However, this factor is not absolutely determinative. It is simply one of the guidelines to be considered in the exercise of the discretion of the Court. 
+ 
+ 
+ 
+ [30] 
+  A further key factor which militates against the granting of a stay is the prejudice or injustice that may be suffered by Mr. Kent versus the prejudice or injustice that may be suffered by Universal Canada if this action is stayed. There is no evidence from Universal Canada of any actual prejudice other than the submission that the two proceedings are duplicative which will necessitate extra costs to Universal Canada and cause inconvenience. This is not enough. Unnecessary or excessive litigation costs can always be dealt with in costs orders which are within the discretion of the Court at the hearing of the action. 
+ 
+ 
+ 
+ [31] 
+  The onus of demonstrating that no injustice will be suffered by Mr. Kent has not been met by Universal Canada. It argues that as the Movie has been released in theatres and is now available on DVD, this action will not pre-empt any alleged infringement as the "horse is already out of the barn". Thus, there is no urgency to Mr. Kent's claim and he will be saved the expense of both litigating here and in the U.S. and may have the benefit of rulings in the U.S. that will narrow the issues in this action or be completely determinative of them. 
+ 
+ 
+ 
+ [32] 
+  However, the fact of having the Movie distributed in Canada is a continuing instance of infringement if those allegations are proven. If Mr. Kent is correct in his allegation of infringement to permit the distribution to continue is indirectly licensing the offending actions. This is an injustice to Mr. Kent as he is entitled to his day in Court with respect to the claims that he has asserted. 
+ 
+ 
+ 
+ [33] 
+  Further, there is no timetable relating to the U.S. Action to give any comfort that it will be expeditiously heard and disposed of. Mr. Kent could be left in limbo for some considerable period of time without a remedy or access to this Court. It may be that Universal Canada is only seeking a temporary stay and conceding that Mr. Kent can return to Court to lift the stay if the U.S. Action does not proceed expeditiously. That is an injustice in itself as, for example, he will then have the onus of demonstrating why the stay should be lifted and incurring the costs of such a motion. 
+ 
+ 
+ 
+ [34] 
+  Finally, on the point of injustice, Justice Heald's observations in  
+ Weight Watchers International Inc. v. Weight Watchers of Ontario Ltd. 
+  (1972), 5 C.P.R.(2d) 122 at p. 131 are apposite: 
+ 
+ 
+ 
+ "I have concluded that a stay at this point in time would work a grave injustice on the Plaintiff. The Plaintiff alleges trademark infringement, both within and without Ontario and indeed, has tendered evidence of such infringement. To prevent the Plaintiff from proceeding with his infringement action might well result in irreparable loss and damage. Plaintiff has alleged that Defendant has embarked on a deliberate course of action which is designed to destroy the value and worth of the Plaintiff's registered trademarks. Surely, he must have the opportunity to place such serious allegations before the Court at the earliest possible moment." 
+ 
+ 
+ 
+ [35] 
+  Mr. Kent ought to be afforded that opportunity as well. 
+ 
+ 
+ 
+ [36] 
+  During the course of argument counsel for Universal Canada argued at some length that the decision of Justice Farley in  
+ Hollinger International Inc. v. Hollinger Inc. et al. 
+ , [2004] O.T.C. Uned. 782; [2004] O.J. No. 3464 (Sup. Ct.) should be applied. This case was raised in the context of whether the test for granting a stay was different for a temporary stay as opposed to a permanent stay. Justice Farley was dealing with a temporary stay of an Ontario proceeding pending the final disposition of an Illinois proceeding. The temporary stay was granted. In so doing, Justice Farley noted at par. 5: 
+ 
+ 
+ 
+ "5. It appears that temporary stays pending resolution of a foreign proceeding are typically granted when the foreign proceeding would 'substantially reduce the issues to be determined' or if success in the foreign proceeding could render the local proceeding 'substantially moot' or otherwise have a 'material' impact on the outstanding issues in the case: see  
+ Ainsworth Lumber Co. v. Canada (Attorney General) 
+  (2001), 1 C.P.C.(5th) 49 (B.C.C.A.);  
+ Dowell v. Spencer 
+ , [2001] O.J. No. 5149 (Ont. S.C.J. Master);  
+ Carom v. Bre-X Minerals Ltd. 
+  (1998), 20 C.P.C.(4th) 163 (Ont. Gen. Div.). Courts have considered the following issues in deciding to exercise their discretion in issuing a temporary stay pending the resolution of another proceeding: 
+ 
+ 
+ 
+ (a) whether there is substantial overlap of issues in the two proceedings; 
+ 
+ 
+ 
+ (b) whether the two cases share the same factual background; 
+ 
+ 
+ 
+ (c) whether issuing a temporary stay will prevent unnecessary and costly duplication of judicial and legal resources; and 
+ 
+ 
+ 
+ (d) whether the temporary stay will result in an injustice to the party resisting the stay." 
+ 
+ 
+ 
+ [37] 
+  It is to be noted that while these observations relate to a temporary stay, the tests summarized by Justice Farley are very similar to those discussed above. In my view, there is no substantive difference between the tests to be applied for a temporary stay versus a permanent stay. Each type of stay deprives a litigant of rights and each of the two components of the test must be carefully considered without priority one over the other. 
+ 
+ 
+ 
+ [38] 
+  Thus, in reviewing the all of the materials and the authorities referred to in the course of argument I conclude that: 
+ 
+ 
+ 
+ (a) Universal Canada has not met the heavy onus of demonstrating that the continuation of this action would cause them prejudice or injustice; 
+ 
+ 
+ 
+ (b) that a stay would cause injustice to Mr. Kent; 
+ 
+ 
+ 
+ (c) that this in not the clearest of cases in which a stay should be granted; 
+ 
+ 
+ 
+ (d) that while there are overlapping factual issues between this action and the U.S. Action, the legal issues are not identical and not such that a finding in the U.S. Action will be determinative of the issues in this action; 
+ 
+ 
+ 
+ (e) that there is no risk of an imminent inconsistent finding in the U.S. Action; 
+ 
+ 
+ 
+ (f) that Mr. Kent is entitled to proceed with his action in Canada. 
+ 
+ 
+ 
+ [39] 
+  The motion for a temporary stay is therefore dismissed. Universal Canada will be granted an extension of time to August 18, 2008 to serve and file its statement of defence. 
+ 
+ 
+ 
+ Costs 
+ 
+ 
+ 
+ [40] 
+  Mr. Kent is entitled to his costs of this motion. Counsel for Mr. Kent proposed that costs be fixed in the amount of $15,000 payable forthwith. Counsel for Universal Canada proposed that costs should be based on the tariff although conceded in response to questions from the Court regarding the fixing of costs that $10,000 would be an appropriate amount. There was no bill of costs to support a claim for $15,000. However, there is little doubt that a substantial amount of work went into the preparation of the motion and the very helpful written representations and oral submissions of both counsel. In my view, considering the length of time spent on arguing the motion and the factors relating to the awarding of costs in the  
+ Federal Courts Rules 
+ , I conclude that costs in the amount of $12,000 payable forthwith is appropriate. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [41] 
+   
+ THIS COURT ORDERS that 
+ : 
+ 
+ 
+ 
+ 1. The motion for a temporary stay is dismissed. 
+ 
+ 
+ 
+ 2. The Defendant is granted an extension of time to August 18, 2008 to serve and file its Statement of Defence. 
+ 
+ 
+ 
+ 3. The Defendant shall pay the Plaintiff his costs of this motion fixed in the amount of $12,000 inclusive of GST and payable forthwith. 
+ 
+ 
+ 
+ 4. A case conference with the Court shall be held as soon as practicable to set a schedule for the hearing of the summary judgment motion commenced by the Plaintiff. 
+ 
+ 
+ 
+ Motion dismissed. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

@@ -1,0 +1,269 @@
+I.
+INTRODUCTION
+[1]
+Heneghan, J.
+: Canada Post Corporation (the "Applicant") seeks judicial review pursuant to section 18.1 of the
+Federal Courts Act,
+R.S.C. 1985 c. F-7 of a decision of Canada Occupational Health and Safety Officer Richard LaFrance (the "Appeals Officer"). In that decision, dated August 8, 2013, the Appeals Officer varied the directions of Health and Safety Officer Nicole Dubé ("HSO Dubé") by concluding that the Applicant had contravened paragraphs 136(5)(g) and 135(7)(e) of the
+Canada Labour Code,
+R.S.C. 1985 c. L-2 (the "Code"), in addition to the Applicant's previously determined violations of paragraphs 125(1)(z.11) and 125(1)(z.19) of the Code.
+[2]
+The Canadian Union of Postal Workers ("CUPW") is the Respondent in this application for judicial review.
+II.
+BACKGROUND
+[3]
+This application for judicial review originates from a complaint made by Ms. Gayle Bossenberry, First National Vice-President of CUPW.
+[4]
+The details below are taken from the Records filed by the parties, including the affidavits submitted by Paul Mekis and Gayle Bossenberry on behalf of the Applicant. The Respondent also included the affidavit of Ms. Bossenberry in its Application Record; it did not file an affidavit from any employee or representative on its behalf.
+[5]
+In 2004, the Respondent became the collective bargaining agent for the Applicant's Rural and Suburban Mail Carriers ("RSMCs"). Shortly thereafter, complaints were made in respect of the safety of delivery to Rural Mail Boxes ("RMBs").
+[6]
+In 2006, the Applicant engaged the National Research Council to develop a tool to assess the safety of the RMB delivery. The Applicant retained iTRANS Consulting to develop the Traffic Safety Assessment Tool ("TSAT"). The Respondent was consulted in the development of the TSAT.
+[7]
+On September 20, 2007, Ms. Bossenberry launched a complaint to Human Resources and Skills Development Canada ("HRSDC") alleging that Canada Post was violating section 125, paragraphs 135(7)(e) and 136(5)(g) by failing to include the National Joint Health and Safety Committee ("NJHSC"), the Local Joint Health and Safety Committee ("LJHSC") and the Health and Safety Representatives ("HSRs") in the onsite TSAT inspection of the RMBs. The complaint further alleged that the Applicant had violated paragraph 134.1(6) of the Code by failing to provide the NJHSC with complete information about the safety assessments.
+[8]
+HSO Dubé was assigned to the complaint. Her direction, which was issued on December 8, 2008 found that the Applicant violated paragraphs 125(1)(z.11) and 125(1)(z.19) of the Code. She did not find that paragraphs 135(7)(e) or 136(5)(g) had been violated.
+[9]
+The Respondent appealed the direction on the grounds that HSO Dubé erred in failing to conclude that the Applicant was in violation of paragraphs 135(7)(e) and 136(5)(g), and subsections 134.1(4), 134.1(5) and 134.1(6). It also argued that HSO Dubé erred in closing the file prematurely without providing CUPW the opportunity to make submissions.
+[10]
+The Applicant requested the Appeal be dismissed because the Applicant had missed the limitations period.
+[11]
+On April 17, 2009, the Appeals Officer held that the appeal was receivable. The Federal Court quashed that decision on February 16, 2010. The Federal Court of Appeal allowed the Appeal on January 25, 2011. Leave to appeal to the Supreme Court of Canada was denied on June 16, 2011.
+[12]
+Hearings were held in Ottawa over six sessions between December 2009 and June 2012. The parties' final submissions were received on July 23, August 2 and August 13, 2012.
+III.
+THE DECISION UNDER REVIEW
+[13]
+The Appeals Officer issued his decision on August 8, 2013 finding that, in addition to the directions issued by HSO Dubé, the Applicant had also violated paragraphs 135(7)(e) and 136(5)(g) of the Code.
+[14]
+The Appeals Officer identified the issue as whether the Applicant had violated paragraphs 135(7)(e) and 136(5)(g) of the Code by not permitting the LJHSCs and the HSRs to participate in the inspections in accordance with their legal obligation to do so under the Code.
+[15]
+The Appeals Officer first considered the preliminary issue of whether the TSAT was an investigation, study or inspection pertaining to the health and safety of an employee. He concluded that the TSAT assessment was an inspection, and that it pertained to the health and safety of employees within the meaning of the Code.
+[16]
+The Appeals Officer then turned to the issue of whether the Applicant had allowed the LJHSCs and HRSs to participate in the TSAT process in a way that satisfied the duties imposed by paragraphs 135(7)(e) and 136(5)(g) of the Code.
+[17]
+The Appeals Officer considered the decision in
+Canadian Union of Public Employees, Air Canada Component v. Air Canada
+(2010), 361 F.T.R. 61 in support of the Applicant's argument that physical participation onsite was not required. The Appeals Officer found that
+Air Canada
+,
+supra
+was distinguishable on the facts because in that case there was extensive involvement in the investigative process, whereas in the within proceedings, the LJHSCs and HSRs were only involved in the elaboration phase, and not in the inspection or investigation phases. He found that participation in the inspections was required to satisfy the requirements as set out in paragraphs 135(7)(e) and 136(5)(g) of the Code.
+[18]
+The Appeals Officer found that the LJHSCs and HSRs have a duty to participate in the inspection phase of the process, and that it is their responsibility to determine the level of participation that is required.
+[19]
+The Appeals Officer found that the Applicant did not permit the LJHSCs and HSRs to be present during the TSAT assessments unless a complaint or refusal to work had been made. He further found that the Applicant had failed to co-operate with them, by either failing to communicate with them prior to the inspections, or by failing to develop a strategy to ensure their participation. Further, he found that the Applicant had failed to ensure that the LJHSCs and HSRs were informed and trained on their responsibilities.
+[20]
+The Appeals Officer concluded that paragraphs 135(7)(e) and 136(5)(g) of the Code had been contravened. Pursuant to subsection 146.1(1) of the Code, he exercised his discretion and varied the direction of HSO Dubé to include these contraventions.
+IV.
+LEGISLATION
+[21]
+The sections of the Code relevant to the within application for judicial review provide as follows:
+Duties of committee
+135(7) A work place committee, in respect of the work place for which it is established,
+...
+(e) shall participate in all of the inquiries, investigations, studies and inspections pertaining to the health and safety of employees, including any consultations that may be necessary with persons who are professionally or technically qualified to advise on those matters;
+...
+Duties of representative
+136(5) A health and safety representative in respect of the work place for which the representative is appointed,
+...
+(g) shall participate in all of the inquiries, investigations, studies and inspections pertaining to the health and safety of employees, including any consultations that may be necessary with persons who are professionally or technically qualified to advise the representative on those matters;
+...
+Comités locaux de santé et de sécurité
+135(7) Le comité local, pour ce qui concerne le lieu de travail pour lequel il a été constitué:
+...
+(e) participe à toutes les enquêtes, études et inspections en matière de santé et de sécurité des employés, et fait appel, en cas de besoin, au concours de personnes professionnellement ou techniquement qualifiées pour le conseiller;
+...
+Représentants en matière de santé et de sécurité
+136(5) Le représentant, pour ce qui concerne le lieu de travail pour lequel il est nommé:
+...
+(g) participe à toutes les enquêtes, études et inspections en matière de santé et de sécurité des employés et fait appel, en cas de besoin, au concours de personnes professionnellement ou techniquement qualifiées pour le conseiller;
+...
+V.
+ISSUES
+[22]
+There is a preliminary issue about the admissibility of the affidavits filed by the Applicant in this application.
+[23]
+In broad terms, the principal issue arising from this application for judicial review is whether the Appeals Officer committed a reviewable error, specifically:
+i Did the Appeals Officer err in law in misinterpreting paragraphs 135(7)(e) and 135(7)(g) of the Code; and
+ii Did the Appeals Officer unreasonably conclude the Applicant's course of conduct was inconsistent with its obligation to co-operate with the LJHSCs and HSRs.
+VI.
+SUBMISSIONS
+A.
+The Applicant's Submissions
+[24]
+The Applicant argues that the decision of the Appeals Officer is reviewable on the standard of correctness, because the subject matter of this application for judicial review had previously been reviewed by the Federal Court.
+[25]
+It also submits that the Appeals Officer was bound by the precedent set in
+Air Canada
+,
+supra
+, relative to the interpretation of the word "participate" in the Code. Relying on the decision in
+Chernikov v. Canada (Minister of Citizenship and Immigration)
+, 2013 FC 649 at paragraphs 11-12, it argues that whether a legal precedent has been followed is a legal issue, i.e. a question of law, reviewable on the standard of correctness. The Applicant therefore submits that the Appeals Officer's failure to follow the precedent in
+Air Canada
+constitutes an error, reviewable on the standard of correctness.
+[26]
+Alternatively, the Applicant submits that if the Appeals Officer did follow the precedent in
+Air Canada
+,
+supra
+, then the issue becomes whether the precedent was properly applied. The Applicant characterizes this as a question of mixed fact and law, reviewable on the standard of reasonableness.
+B.
+The Respondent's Submissions
+[27]
+As a preliminary issue, the Respondent challenges the admissibility of the affidavit evidence filed by the Applicant, that is, the affidavit of Ms. Gayle Bossenberry. The Respondent submits the affidavit evidence cannot be used to expand the record and should be limited to providing general background.
+[28]
+The Respondent proceeds to argue that the standard of reasonableness applies, relying on the decision of the Federal Court of Appeal in
+Canada Post Corp. v. C.U.P.W.
+(2011), 31 Admin. L.R. (5th) 72 at paragraphs 17-18, and that the Appeals Officer's decision is reasonable. It submits that the decision in
+Air Canada, supra
+, did not create a precedent that was binding on the Appeals Officer.
+VII.
+DISCUSSION AND DISPOSITION
+[29]
+I will first address the issue about the affidavits.
+[30]
+The Respondent raised an argument about the admissibility and relevance of the affidavit evidence filed by the Applicant. It submits that such evidence should not be relied on to resolve factual disputes, but be considered only to provide context. In this regard, the Respondent relies on the decision of the Federal Court of Appeal in
+Assn of Universities and Colleges of Canada v. Canadian Copyright Licensing Agency
+(2012), 428 N.R. 297 (F.C.A.).
+[31]
+It is well established that applications for judicial review proceed on the basis of the evidence before the statutory decision-maker. In certain cases, the record may be supplemented by further evidence as permitted by Rule 312 of the
+Federal Courts Rules
+, SOR/98-106.
+[32]
+In this case, there is no transcript of the hearings before the Appeals Officer. Mr. Mekis, in his affidavit, purports to provide a summary of the evidence presented to the Appeals Officer. To the extent that he is giving a précis of the evidence, no objection can be taken to his affidavit. However, any personal observations by Mr. Mekis about the evidence that was presented are not relevant and will not be taken into account.
+[33]
+In her affidavit, Ms. Bossenberry provides a chronology of background events leading up to the hearing before the Appeals Officer. She also provides a summary of the evidence that was presented at the hearing.
+[34]
+Insofar as she addresses a factual background, her affidavit evidence is acceptable. However, as noted above in reference to the affidavit of Mr. Mekis, any personal view about the meaning of the evidence presented to the Appeals Officer constitutes inadmissible evidence that will not be considered by this Court. As such, the personal views of Ms. Bossenberry about the meaning of the evidence are not relevant and will not be considered.
+[35]
+The next issue is the applicable standard of review.
+[36]
+The Applicant initially argues that the standard of correctness applies because the subject of this complaint has already been considered by the Court; see paragraph 11 of the Applicant's Memorandum of Fact and Law.
+[37]
+The Applicant's arguments in favour of a standard of correctness are based on its view that the Appeals Officer erred in law by failing to apply a binding precedent as to the meaning of "participate", that is, the decision of the Federal Court in
+Air Canada
+,
+supra
+. It submits that the failure to follow binding precedent is an error of law, reviewable on the standard of correctness. In this regard, the Applicant relies on the decision in
+Chernikov
+,
+supra
+at paragraphs 11-12.
+[38]
+In my opinion, the Applicant's submissions about "binding precedent" are unpersuasive.
+[39]
+The Applicant's argument is not well-founded because it relies upon the assumption that the
+Air Canada
+,
+supra
+decision was a binding precedent.
+[40]
+The decision in
+Air Canada
+,
+supra
+is a decision of the Federal Court made upon judicial review of a decision of an administrative decision-maker, in that case, a Health and Safety Officer, pursuant to the Code. That decision involved an interpretation of the word "participate" in the particular factual context of that case.
+[41]
+The Federal Court applied the standard of reasonableness and dismissed the application for judicial review. While the practical effect of the Federal Court's decision was to "uphold" the decision of the administrative decision-maker, neither that decision nor the decision of the Federal Court created a binding precedent.
+[42]
+According to the decision of the Supreme Court of Canada in
+Domtar Inc. v. Quebec (Commission d'appel en matière de lesion professionnelles)
+, [1993] 2 S.C.R. 756, decisions of federally constituted boards, commissions or other tribunals do not create binding precedent.
+[43]
+As discussed in the recent decision of
+Jones' Masonry Ltd. v. Labourers' International Union of North America, Local 900
+(2013), 408 N.B.R. (2d) 163 (N.B.C.A.), the doctrine of
+stare decisis
+does not apply in the context of administrative tribunals.
+[44]
+Further, the law also holds that reviewing courts are not mandated to ensure consistency in administrative decision-making by shifting the standard of review from reasonableness to correctness.
+[45]
+In
+Domtar, supra
+at pages 784-801, the Supreme Court considered the issue of inconsistent decisions among administrative decision makers, and concluded that where decisions made within jurisdiction are not unreasonable, the principle of deference prevails; see page 795 of
+Domtar, supra.
+[46]
+The Court observed at page 786 of that decision, that if courts are required to review administrative decision-makers for inconsistency, it would risk transforming judicial review into an appellate jurisdiction, contrary to the legislative intent of Parliament. The Court concluded that the existence of a conflict in decisions as an independent basis for judicial review would undermine the principles of decision-making freedom and independence bestowed upon administrative decision-makers by Parliament; see the decision in
+Domtar, supra
+at pages 800-801.
+[47]
+This summary of the jurisprudence makes it clear that the resolution of conflicting tribunal decisions is not the role of courts in conducting judicial review; see the decision in
+Jones' Masonry
+,
+supra
+at paragraph 6.
+[48]
+The Applicant here seeks the application of the standard of correctness on the basis of an alleged error of law. The Applicant's submissions in this regard are ill-founded and ignore the role of a court in judicial review. That role is to review the process by which the challenged decision was made, in light of the governing legislation.
+[49]
+In this case, the relevant legislation is the Code. The Appeals Officer here was required to make factual findings and to apply the relevant provisions of the Code.
+[50]
+The meaning of "participate" is the critical issue in the present case. The question of whether the participation requirement was met is a question of mixed fact and law, reviewable on the standard of reasonableness.
+[51]
+In
+Air Canada
+,
+supra
+, the decision-maker found that in the circumstances of that case, physical presence was not required to allow the members of the Workplace Health and Safety Committee to "participate" in a joint hazardous investigation.
+[52]
+The
+Air Canada
+decision was made in the context of a judicial review of a decision of a statutory decision-maker that the word "participate", within the meaning of the Code, does not require physical presence. The decision of that decision-maker was reviewed by the Federal Court on the standard of reasonableness.
+[53]
+The content of "reasonableness" requires that the decision be transparent, justifiable and intelligible. It also requires that decisions fall within a range of possible, acceptable outcomes that are defensible in light of the facts and the law; see the decision in
+Dunsmuir v. New Brunswick
+, [2008] 1 S.C.R. 190 at paragraph 47.
+[54]
+In administrative law, the concept of deference is fundamental to judicial review, and serves to distinguish judicial review from appellate review. Relative to issues of statutory interpretation, deference to administrative tribunals operates to recognize and protect a range of reasonable outcomes when a decision-maker is interpreting its home statute; see the decision in
+Canada (Canada Human Rights Commission) v. Canada (Attorney General)
+, [2011] 3 S.C.R. 471 at paragraphs 29-30.
+[55]
+In the within proceedings, the Appeals Officer found that the physical presence of the LJHSCs and HSRs was required in the onsite investigation to allow those parties to fulfill their mandate set out in paragraphs 135(7)(e) and 136(5)(g). Was that conclusion reasonable?
+[56]
+In my opinion, this finding was reasonable, having regard to the facts.
+[57]
+The Applicant is in the business of providing mail delivery services. The onsite investigation required an assessment of the safety of rural mailboxes by evaluating factors such as: the number of traffic lanes and the speed of traffic; whether a vehicle will be on or off road during delivery; conducting a count of the number of vehicles that pass the rural mailbox; determining additional safety considerations if the mailbox is close to a hill, curve or other obstruction; and, determining whether a rural mailbox that had failed the TSAT inspection could be moved to a safer location.
+[58]
+The Appeals Officer was the person authorized to make a finding as to the meaning and requirements of "participate" on the basis of the evidence submitted. He was not bound to adopt and apply the interpretation of "participate" in the same manner as the decision in
+Air Canada
+,
+supra
+. The reasonableness standard of review allows for a range of outcomes; see the decision in
+Dunsmuir
+,
+supra
+at paragraph 47. This means that there can be different interpretations of the word "participate", as informed by the facts of a particular case.
+[59]
+The Appeals Officer considered the decision in
+Air Canada
+,
+supra
+. At paragraphs 142-144 of his decision, the Appeals Officer distinguished the situation in
+Air Canada
+on its facts.
+[60]
+I am satisfied that the decision of the Appeals Officer on the meaning of "participate", in the factual circumstances of this case, is reasonable.
+[61]
+I turn now to the next issue, that is, the alleged unreasonable finding that the Applicant's conduct was inconsistent with its obligation to co-operate.
+[62]
+The thrust of the Applicant's submissions on this issue is that the Appeals Officer failed to weigh the evidence against the so-called test set out in
+Air Canada
+,
+supra
+.
+[63]
+As noted above, there is no "test" arising from the decision in
+Air Canada
+,
+supra
+. Second, this argument of the Applicant seems to be an invitation to this Court to reweigh the evidence that was before the Appeals Officer. It is trite law that re-weighing the evidence is not the role of this Court in judicial review; see the decision in
+Canada (Citizenship and Immigration) v Khosa
+, [2009] 1 S.C.R. 339 at paragraph 61.
+[64]
+Further, I am satisfied that the Appeals Officer's assessment of the evidence was reasonable. The decision shows that the Appeals Officer summarized the evidence and made findings of fact based on that evidence, including the witness testimonies and the submissions of the parties. He concluded, based on the totality of the evidence before him that the level of participation and co-operation was not sufficient to satisfy the duties of the Code. It was open for the Appeals Officer to draw this conclusion, and in my opinion, that conclusion was reasonable.
+[65]
+In the result, this application for judicial review was dismissed with costs, by the Judgment that was issued on March 20, 2015.
+Application dismissed.
+Editor: Angela E. McKay/bk
+[End of document]

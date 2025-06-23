@@ -1,0 +1,58 @@
+[87]
+Dealing first with whether an off-shore necessaries supplier, using an American agent, may claim a maritime lien for goods supplied either in an American port, or in yet another off-shore port, I have considered and accepting the expert evidence of Charles S. Donovan of the Walsh Donovan firm in San Francisco. Mr. Donovan is well known in the international admiralty bar. His credentials are solid. His opinion is that "... under the laws of the United States, having sold and delivered goods and services to those three vessels [see footnote 4], Unitor obtained maritime liens against the vessels to the extent of its claims against them.". Now the reasoning by which Mr. Donovan reaches this conclusion is interesting, concise and shows a grasp of the subject. It is worth while setting out a portion of his affidavit sworn 30 October 1998:
+"5. Under U.S. law, a maritime lien may arise by statute. Prior to 1989, the relevant statute, the
+Federal Maritime Lien Act
+('
+FMLA
+'), 46 U.S.C. §§ 971-974, in pertinent part, provided as follows:
+'Any person furnishing repairs, supplies, towage, use of dry dock or marine railway, or other necessaries, to any vessel, whether foreign or domestic, upon the order of the owner of such vessel, or of a person authorized by the owner, shall have a maritime lien on the vessel, which may be enforced by a suit in rem, and it shall not be necessary to allege or prove that credit was given to the vessel.'
+46 U.S.C. § 971.
+"Other necessaries include such things as vessel stores and supplies of the type Unitor furnished.
+Findley v. Robert C. Herd & Co.
+, 250 F.2d 77; 80 (5th Cir. 1957);
+Gounares Bros. & Co. v. United States
+, 292 F.2d 79, 84 n. 12 (5th Cir. 1961).
+"6. The FMLA legislative history makes it clear that the purpose of the act is to protect terminal operators, ship chandlers, ship repairers, stevedores and other suppliers who furnish necessaries to vessels. See, e.g., H.R. Rep. No. 340, 92 Cong. 1st Sess. (1971)
+reprinted in
+1971 U.S.C.C.A.N. 1363, 1971 W.L. 11348 (Leg. Hist.).
+"7. The case law interpreting the FMLA also makes it clear that a maritime lien arises in favor of a supplier even if the goods and services are provided in a foreign port. See, e.g.,
+Exxon Corp. v. Central Gulf Lines, Inc.
+, 780 F. Supp. 191 (S.D.N.Y. 1991) (Exxon held to have maritime liens for bunkers supplied in New York and Saudi Arabia);
+Mobil Sales and Supply Corporation v. M/V PANAMAX VENUS
+, 1986 A.M.C. 420 (C.D. Cal. 1985), affd., 804 F.2d 541 (9th Cir. 1986) (Mobil held to have maritime liens for lubrication oil supplied in China and Japan);
+Gulf Trading & Transportation Co. v. M/V TENTO
+, 694 F.2d 1191 (9th Cir. 1982) (Gulf held to have maritime liens for bunkers and canal expenses supplied in Italy and Panama Canal). See also W. Tetley,
+Maritime Liens and Claims
+249 (1985) ('In virtue of 46 U.S.C. § 971, it is now clear that the lien for supplies and services is against U.S. as well as foreign vessels, whether or not the supplies or services were provided in U.S. or foreign waters.').
+"8. When, as here, the owner's agent, C Ventures of New York, places an order with the supplier's agent, Unitor Ships Services, Inc., in New Jersey, a lien arises under U.S. law, even though physical delivery takes place outside the United States. See
+M/V TENTO
+, 694 F.2d, at 1192, 1195 (where transaction was concluded in the United States, lien arose even though fuel delivered to vessel in Italy). The fact that Unitor A.S.A. is incorporated outside the United States does not defeat its lien claim.
+A/S Dan-Bunkering, Ltd. v. M/V ZAMET
+, 945 F. Supp. 1576 (S.D. Ga. 1996) (lien enforced in favor of Danish bunker supplier);
+Conti-Lines, S.A. v. M/V BARONESS V.
+, 1992 A.M.C. 681 (M.D. Fla. 1991) (lien enforced in favor of Belgian company who advanced money in U.S. for repairs).
+"9. The FMLA, in 1988, was amended and re-codified as part of the Commercial Instruments and
+Maritime Liens Act
+, 46 U.S.C. §§ 31301-31343 ('CIMLA'). CIMLA, in pertinent part, provides as follows:
+Persons presumed to have authority to procure necessaries
+(a) The following persons are presumed to have authority to procure necessaries for a vessel:
+(1) the owner;
+(2) the master;
+(3) a person entrusted with the management of the vessel at the port of supply; or
+(4) an officer or agent appointed by --
+(A) the owner;
+(B) a charterer;
+(C) an owner pro hac vice; or
+(D) an agreed buyer in possession of the vessel.
+46 U.S.C. § 31341
+Establishing maritime liens
+(a) Except as provided in subsection (b) of this section, a person providing necessaries to a vessel on the order of the owner or a person authorized by the owner --
+(1) has a maritime lien on the vessel;
+(2) may bring a civil action in rem to enforce the lien; and
+(3) is not required to allege or prove in the action that credit was given to the vessel;
+(b) This section does not apply to a public vessel.
+46 U.S.C. § 31342.
+"The CIMLA legislative history makes it clear that, in amending and re-codifying the FMLA, the U.S. Congress did not intend to make any substantive change in the law regarding the creation of a maritime lien in favor of a supplier of necessaries to a vessel. See, H.R. Rep. No. 918, 100th Cong., 2nd Sess. (1988),
+reprinted in
+1988 U.S.C.C.A.N. 6104, 1988 W. L. 169925 (Leg. Hist.).
+"9. Consequently, in view of the cited statutory provisions, legislative history and judicial decisions, and based upon my personal experience, I hold the firm opinion that the claims of Unitor constitute maritime liens under U.S. law with respect to the goods and services sold and delivered to each of the aforementioned three vessels regardless of whether the goods and services were delivered to the vessel at foreign or U.S. ports."

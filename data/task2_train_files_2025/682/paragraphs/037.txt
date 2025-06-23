@@ -1,0 +1,14 @@
+[37]
+Dr. McClelland describes the overall route of claim 1(a) of the '076 patent as involving the reaction of a fluoroaromatic and acid chloride (claim 7, example 2(A)) to form an
+α-halo substituted ketone
+(claim 7). This ketone is reacted with 1,2,4-triazole (claim 7, example 2(B)) to form an
+α-triazole substituted aromatic ketone
+of formula III which is converted to an
+epoxide
+of formula II (claim 6, example 2(c)) and then fluconazole (claim 1(a), example 2(D)). The process steps of the route of claim 1(a) of the '076 patent involves a
+Friedel-Crafts acylation, a nucleophilic displacement
+of a leaving group, an
+epoxide formation
+via a sulfonium ylide and a
+nucleophilic ring opening
+of the epoxide.

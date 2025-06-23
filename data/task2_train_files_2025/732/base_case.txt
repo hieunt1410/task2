@@ -1,0 +1,202 @@
+Tuquabo v. Can. (A.G.), [2008] F.T.R. Uned. 429 (FC)
+MLB unedited judgment
+Dawit Tuquabo (applicant) v. Attorney General of Canada Canada Revenue Agency (respondents)
+(T-520-07; 2008 FC 563)
+Indexed As: Tuquabo v. Canada (Attorney General) et al.
+Cite As: [2008] F.T.R. Uned. 429
+Federal Court
+Heneghan, J.
+April 30, 2008.
+Counsel:
+Dawit Tuquabo, for the applicant;
+Simon Kamel, for the respondents.
+Solicitors of Record:
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+Introduction
+[1]
+Heneghan, J.
+: Mr. Dawit Tuquabo (the "Applicant") seeks judicial review of the decision of Adjudicator Mr. Ian R. Mackenzie, dated November 22, 206. In that decision, the Adjudicator found that he lacked jurisdiction to hear a grievance presented by the Applicant.
+II.
+Background
+[2]
+The Applicant was a term employee at the Canada Revenue Agency (the "CRA") during the period March 15, 2004 to February 12, 2006. He was employed as an assessing services clerk in the Return Processing Division (the "home organization") at the International Tax Service Office from March 15 to July 18, 2004. He then accepted a temporary lateral move to the Compensation Client Services Centre ("host organization"). On January 12, 2006, the Director of the home organization made the decision not to renew the Applicant's term employment ending on February 3, 2006.
+[3]
+The Applicant wrote to the Commissioner of the CRA on January 13, 2006, asking him to investigate what he considered to be "an abuse of power" by his supervisors. He also alleged discrimination. The Applicant considered this letter to be his grievance.
+[4]
+On January 27, 2006, the Assistant Commissioner responded to the Applicant and advised that her findings did not show any abuse of power by the host organization. The Assistant Commissioner repeated that term employment can not be considered as an offer for an indeterminate appointment and that employment can be terminated for lack of work, discontinuance of the duties to be performed and work performance.
+[5]
+The applicable collective agreement between the CRA and the Public Service Alliance of Canada provides that the final level of grievance procedure is the Commission or his authorized representative.
+[6]
+The hearing before the Adjudicator was held on September 18, 2006. The issue before him was whether the Applicant's letter of January 13, 2006 was a "grievance" pursuant to the
+Public Service Labour Relations Act
+, S.C. 2003, c. 22, s. 2, being Part 1 of the
+Public Service Modernization Act
+, S.C. 2003, c. 22 (the "Act"). The second question was whether the Applicant's reference to adjudication was a valid referral.
+[7]
+The Adjudicator found that the grievance process that was available to the Applicant was set out in the Collective Agreement. The
+Public Service Labour Relations Board Regulations
+, SOR/2005-79 (the "Regulations") provide the basic framework for the grievance process. The Regulations require that an employee who wishes to present a grievance "shall do so" on a form provided by the employer and approved by the Board. The Adjudicator determined that the Applicant did not submit a grievance form.
+[8]
+Subsection 241(1) of the Act provides that a "defect in form" does not make a proceeding invalid. The Adjudicator found that the Applicant's letter of January 13, 2006 requested an investigation and the maintenance of his employment status pending that investigation. The Adjudicator decided that a request for an investigation is not the same as a grievance against an alleged disciplinary termination, and the Applicant did not request a grievance hearing at the final level.
+[9]
+The Adjudicator determined that the Applicant's letter to the Commissioner could not be considered to be a valid grievance and consequently, he lacked jurisdiction to proceed with adjudication of the Applicant's complaints. He did not address the merits of those complaints.
+III.
+Discussion and Disposition
+[10]
+The sole issue for disposition in this application for judicial review is whether the Adjudicator committed a reviewable error.
+[11]
+The first matter to be addressed is the relevant standard of review. In the recent decision of the Supreme Court of Canada in
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, the Court said that decisions of administrative decision-makers could be reviewed upon either the standard of correctness or the standard of reasonableness. In the present case, the Adjudicator was required to determine if the Applicant had filed a grievance in accordance with the Act, thereby giving rise to the grievance process. The question can be characterized as one of mixed fact and law. In my opinion, the appropriate standard of review in this case is that of reasonableness. See
+Dunsmuir
+at para. 53:
+Where the question is one of fact, discretion or policy, deference will usually apply automatically (Canada (Attorney General) v. Mossop, [1993] 1 S.C.R. 554, at pp. 599-600; Dr. Q, at para. 29; Suresh, at paras. 29-30). We believe that the same standard must apply to the review of questions where the legal and factual issues are intertwined with and cannot be readily separated.
+[12]
+The Act, in section 208, sets out the rights of an employee to present a grievance, as follows:
+208. (1) Subject to subsections (2) to (7), an employee is entitled to present an individual grievance if he or she feels aggrieved
+(a) by the interpretation or application, in respect of the employee, of
+(i) a provision of a statute or regulation, or of a direction or other instrument made or issued by the employer, that deals with terms and conditions of employment, or
+(ii) a provision of a collective agreement or an arbitral award; or
+(b) as a result of any occurrence or matter affecting his or her terms and conditions of employment.
+Limitation
+(2) An employee may not present an individual grievance in respect of which an administrative procedure for redress is provided under any Act of Parliament, other than the Canadian Human Rights Act.
+Limitation
+(3) Despite subsection (2), an employee may not present an individual grievance in respect of the right to equal pay for work of equal value.
+Limitation
+(4) An employee may not present an individual grievance relating to the interpretation or application, in respect of the employee, of a provision of a collective agreement or an arbitral award unless the employee has the approval of and is represented by the bargaining agent for the bargaining unit to which the collective agreement or arbitral award applies.
+Limitation
+(5) An employee who, in respect of any matter, avails himself or herself of a complaint procedure established by a policy of the employer may not present an individual grievance in respect of that matter if the policy expressly provides that an employee who avails himself or herself of the complaint procedure is precluded from presenting an individual grievance under this Act.
+Limitation
+(6) An employee may not present an individual grievance relating to any action taken under any instruction, direction or regulation given or made by or on behalf of the Government of Canada in the interest of the safety or security of Canada or any state allied or associated with Canada.
+Order to be conclusive proof
+(7) For the purposes of subsection (6), an order made by the Governor in Council is conclusive proof of the matters stated in the order in relation to the giving or making of an instruction, a direction or a regulation by or on behalf of the Government of Canada in the interest of the safety or security of Canada or any state allied or associated with Canada.
+208. (1) Sous réserve des paragraphes (2) à (7), le fonctionnaire a le droit de présenter un grief individuel lorsqu'il s'estime lésé:
+a) par l'interprétation ou l'application à son égard:
+(i) soit de toute disposition d'une loi ou d'un règlement, ou de toute directive ou de tout autre document de l'employeur concernant les conditions d'emploi,
+(ii) soit de toute disposition d'une convention collective ou d'une décision arbitrale;
+b) par suite de tout fait portant atteinte à ses conditions d'emploi.
+Réserve
+(2) Le fonctionnaire ne peut présenter de grief individuel si un recours administratif de réparation lui est ouvert sous le régime d'une autre loi fédérale, à l'exception de la Loi canadienne sur les droits de la personne.
+Réserve
+(3) Par dérogation au paragraphe (2), le fonctionnaire ne peut présenter de grief individuel relativement au droit à la parité salariale pour l'exécution de fonctions équivalentes.
+Réserve
+(4) Le fonctionnaire ne peut présenter de grief individuel portant sur l'interprétation ou l'application à son égard de toute disposition d'une convention collective ou d'une décision arbitrale qu'à condition d'avoir obtenu l'approbation de l'agent négociateur de l'unité de négociation à laquelle s'applique la convention collective ou la décision arbitrale et d'être représenté par cet agent.
+Réserve
+(5) Le fonctionnaire qui choisit, pour une question donnée, de se prévaloir de la procédure de plainte instituée par une ligne directrice de l'employeur ne peut présenter de grief individuel à l'égard de cette question sous le régime de la présente loi si la ligne directrice prévoit expressément cette impossibilité.
+Réserve
+(6) Le fonctionnaire ne peut présenter de grief individuel portant sur une mesure prise en vertu d'une instruction, d'une directive ou d'un règlement établis par le gouvernement du Canada, ou au nom de celui-ci, dans l'intérêt de la sécurité du pays ou de tout État allié ou associé au Canada.
+Force probante absolue du décret
+(7) Pour l'application du paragraphe (6), tout décret du gouverneur en conseil constitue une preuve concluante de ce qui y est énoncé au sujet des instructions, directives ou règlements établis par le gouvernement du Canada, ou au nom de celui-ci, dans l'intérêt de la sécurité du pays ou de tout État allié ou associé au Canada.
+[13]
+An employee may refer an individual grievance to adjudication in accordance with section 209 of the Act, as follows:
+209. (1) An employee may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the grievance is related to
+(a) the interpretation or application in respect of the employee of a provision of a collective agreement or an arbitral award;
+(b) a disciplinary action resulting in termination, demotion, suspension or financial penalty;
+(c) in the case of an employee in the core public administration,
+(i) demotion or termination under paragraph 12(1)(d) of the Financial Administration Act for unsatisfactory performance or under paragraph 12(1)(e) of that Act for any other reason that does not relate to a breach of discipline or misconduct, or
+(ii) deployment under the Public Service Employment Act without the employee's consent where consent is required; or
+(d) in the case of an employee of a separate agency designated under subsection (3), demotion or termination for any reason that does not relate to a breach of discipline or misconduct.
+Application of paragraph (1)(a)
+(2) Before referring an individual grievance related to matters referred to in paragraph (1)(a), the employee must obtain the approval of his or her bargaining agent to represent him or her in the adjudication proceedings.
+Designation
+(3) The Governor in Council may, by order, designate any separate agency for the purposes of paragraph (1)(d).
+209. (1) Après l'avoir porté jusqu'au dernier palier de la procédure applicable sans avoir obtenu satisfaction, le fonctionnaire peut renvoyer à l'arbitrage tout grief individuel portant sur:
+a) soit l'interprétation ou l'application, à son égard, de toute disposition d'une convention collective ou d'une décision arbitrale;
+b) soit une mesure disciplinaire entraînant le licenciement, la rétrogradation, la suspension ou une sanction pécuniaire;
+c) soit, s'il est un fonctionnaire de l'administration publique centrale:
+(i) la rétrogradation ou le licenciement imposé sous le régime soit de l'alinéa 12(1)d) de la Loi sur la gestion des finances publiques pour rendement insuffisant, soit de l'alinéa 12(1)e) de cette loi pour toute raison autre que l'insuffisance du rendement, un manquement à la discipline ou une inconduite,
+(ii) la mutation sous le régime de la Loi sur l'emploi dans la fonction publique sans son consentement alors que celui-ci était nécessaire;
+d) soit la rétrogradation ou le licenciement imposé pour toute raison autre qu'un manquement à la discipline ou une inconduite, s'il est un fonctionnaire d'un organisme distinct désigné au titre du paragraphe (3).
+Application de l'alinéa (1)a)
+(2) Pour que le fonctionnaire puisse renvoyer à l'arbitrage un grief individuel du type visé à l'alinéa (1)a), il faut que son agent négociateur accepte de le représenter dans la procédure d'arbitrage.
+Désignation
+(3) Le gouverneur en conseil peut par décret désigner, pour l'application de l'alinéa (1)d), tout organisme distinct.
+[14]
+Sections 66 and 67 of the Regulations describe the formalities of submitting an individual grievance. Sections 66 and 67 provide as follows:
+66. (1) An employer shall prepare a form for an individual grievance that sets out the information to be provided by the grievor, including
+(a) the name, address, telephone number, place of work, position title, division and section or unit and classification of the grievor as well as the name of the grievor's employer;
+(b) either
+(i) a statement of the nature of each act, omission or other matter that establishes the alleged violation or misinterpretation giving rise to the grievance including, as the case may be, a reference to any relevant provision of a statute or regulation or of a direction or other instrument made or issued by the employer, that deals with the terms and conditions of employment or any relevant provision of a collective agreement or an arbitral award, or
+(ii) a statement of the alleged occurrence or matter affecting the grievor's terms and conditions of employment;
+(c) the date on which the alleged violation or misinterpretation or the alleged occurrence or matter affecting the grievor's terms and conditions of employment occurred; and
+(d) the corrective action requested.
+Approval
+(2) The form shall be submitted to the Board for approval, and the Board shall approve it if the form requests the information that is required under paragraphs (1)(a) to (d) and if any other information requested on the form is relevant to resolving the individual grievance.
+Copies
+(3) The employer shall make copies of the approved form available to all of its employees.
+67. An employee who wishes to present an individual grievance shall do so on the form provided by the employer and approved by the Board and shall submit it to the employee's immediate supervisor or the employee's local officer-in-charge identified under subsection 65(1).
+66. (1) L'employeur établit une formule de grief individuel qui indique les renseignements à fournir par le fonctionnaire s'estimant lésé, notamment:
+a) les nom et adresse du fonctionnaire, son numéro de téléphone, son lieu de travail, le nom de sa section ou de son unité, celui de sa direction ou division, le titre de son poste, sa classification et le nom de son employeur;
+b) selon le cas:
+(i) un exposé de la nature de chaque action, omission ou situation qui permettra d'établir la prétendue violation ou fausse interprétation ayant donné lieu au grief, y compris, le cas échéant, le renvoi à toute disposition pertinente d'une loi, d'un règlement, d'une convention collective, d'une décision arbitrale ou d'une directive ou autre document de l'employeur concernant les conditions d'emploi,
+(ii) un exposé du prétendu fait portant atteinte à ses conditions d'emploi;
+c) la date de la prétendue violation ou fausse interprétation ou du prétendu fait portant atteinte à ses conditions d'emploi;
+d) les mesures correctives demandées.
+Approbation
+(2) L'employeur soumet la formule à l'approbation de la Commission, qui l'approuve si elle demande tous les renseignements visés aux alinéas (1)a) à d) et si tout autre renseignement qu'elle demande est pertinent pour la résolution de griefs individuels.
+Exemplaires
+(3) Une fois la formule approuvée, l'employeur en met des exemplaires à la disposition de ses fonctionnaires.
+67. Le fonctionnaire qui souhaite présenter un grief individuel remplit la formule établie par son employeur et approuvée par la Commission, et la remet à son supérieur hiérarchique immédiat ou à son chef de service local visé au paragraphe 65(1).
+[15]
+The Adjudicator found that the Applicant had not presented a grievance in the proper form, as required by the Regulations and the Act. Section 241 deals with the effect of an irregularity or defect in the form of a grievance, as follows:
+241. (1) No proceeding under this Act is invalid by reason only of a defect in form or a technical irregularity.
+Grievance process
+(2) The failure to present a grievance at all required levels in accordance with the applicable grievance process is not a defect in form or a technical irregularity for the purposes of subsection (1).
+241. (1) Les procédures prévues par la présente partie ne sont pas susceptibles d'invalidation pour vice de forme ou de procédure.
+Procédure de grief
+(2) Pour l'application du paragraphe (1), l'omission de présenter le grief à tous les paliers requis conformément à la procédure applicable ne constitue pas un vice de forme ou de procédure.
+[16]
+Subsection 241(2) provides that a defect in the grievance form, however, will not be excused pursuant to subsection 241(1). Subsection 241(2) clearly requires that an aggrieved person must pursue the grievance process at "all required levels" and the failure to do so will not be viewed as a defect in form or a technical irregularity", for the purposes of subsection 241(1).
+[17]
+The Adjudicator found that the Applicant had not presented a grievance. He found that the letter of January 13, 2006 did not satisfy the requirements of the Act or the Regulations. He determined that the letter was a request for an investigation, not a grievance, and that he was without jurisdiction to proceed with an adjudication of the Applicant's complaint.
+[18]
+The Applicant argues that this finding is discriminatory within the meaning of section 15 of the
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act, 1982
+(U.K.), 1982, c. 11 (the "Charter"). He submits that the finding of the Adjudicator has deprived him of a remedy, contrary to section 24 of the Charter.
+[19]
+The Applicant relies on section 24 of the Charter in order to justify this application to the Court. He argues that since the Adjudicator's decision has deprived him of the opportunity for a hearing into the circumstances of the termination of his employment, he can seek the assistance of the Court. He characterized his recourse to the Court in terms of the "pursuit of justice."
+[20]
+In my opinion, the Applicant's reliance on the Charter is misplaced. The Adjudicator's conclusion, with respect to the nature of the letter of January 13, 2006, is reasonable, having regard to the requirements of the Regulations as to the form of a grievance and having regard to the clear language of subsection 241(2) of the Act. The Applicant requested an investigation in his letter of January 13, 2006. He did not submit a grievance and he did not follow the grievance procedure set out in the Act.
+[21]
+It follows that the Adjudicator's ultimate finding, that he lacked jurisdiction to hear the Applicant's complaint, is also reasonable. I agree with the submissions of the Respondent that the Applicant knew or should have known that a grievance procedure existed and that, pursuant to subsection 241(2) of the Act, that procedure should have been followed. In
+Collin v. Canada (Attorney General)
+, [2006] F.C.J. No. 729 at para. 5, the Court addressed the importance of adhering to the internal grievance process, as follows:
+A comprehensive grievance resolution process is provided under the
+Corrections and Conditional Release Act
+. The case law demonstrates that the internal grievance process under the
+Corrections and Conditional Release Act
+and its Regulations must be exhausted before applying for judicial review (
+FRAGMENT_SUPPRESSED;
+Veley v. Fenbrook Institution
+, [2004] F.C.J. No. 1902 (T.D.) (QL);
+Giesbrecht v. Canada
+, [1998] F.C.J. No. 621 (T.D.) (QL)). The final decision rendered as a result of the grievance process may be subject to judicial review.
+[22]
+The Applicant has failed to show that he suffered any act of discrimination contrary to section 15 of the Charter. He has failed to show that he has suffered discriminatory treatment on the basis of any of the enumerated grounds in section 15 or that a system for resolving workplace related complaints can be regarded as an analogous ground of discrimination. Section 15 of the Charter has no application to the within matter.
+[23]
+Similarly, I see no basis for the Applicant's reliance on section 24 of the Charter. He sought relief for a perceived wrong arising from the workplace. His remedy lay in the grievance process. The Applicant is not unfamiliar with the grievance process. As noted by the Respondent, he has already unsuccessfully applied for judicial review of a decision by the Ontario Labour Board; see
+Tuquabo v. United Steel Workers of America, Local 9597
+, [2006] S.C.C.A. No. 442 and
+Securitas Canada Ltd.
+, [2003] O.L.R.D. No. 2584, online: QL (OLRD).
+[24]
+The Applicant was required to exhaust the grievance process before engaging the arbitration and judicial review processes; see
+Estwick v. Canada (Treasury Board)
+, [2004] F.C.J. No. 1259, para. 34.
+[25]
+At the hearing of this application, the Applicant sought to introduce additional evidence, including newspaper articles about access to the Courts. Counsel for the Respondent objected, on the basis that the application for judicial review should proceed on the basis of the evidence that was before the Adjudicator.
+[26]
+The objection of the Respondent was well-founded and the Applicant was denied leave to introduce further evidence which, in any case, was not relevant.
+[27]
+In the result, the application for judicial review is dismissed with costs.
+JUDGMENT
+[28]
+The application for judicial review is dismissed, with costs.
+[End of document]

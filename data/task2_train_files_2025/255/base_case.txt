@@ -1,0 +1,288 @@
+[1]
+O'Keefe, J.
+: This is an application for judicial review of a decision by the Veterans Review and Appeal Board (the VRAB), dated November 15, 2004, which refused the applicant's request for reconsideration of a decision of the former Veterans Appeal Board (the VAB) of April 20, 1995 that denied the applicant pension disability benefits under subsection 21(2) of the
+Pension Act
+, R.S.C. 1985, c. P-6 (the
+Pension Act
+).
+[2]
+The applicant seeks:
+1. an order quashing or setting aside the decision of the VRAB dated November 15, 2004;
+2. an order remitting the matter for reconsideration by a differently constituted panel of the VRAB; and
+3. a declaration that the Minister's Table of Disabilities, Chapter 9, Ears and Hearing, to the extent that it purports to supersede the definition of "disability" under subsection 3(1) of the
+Pension Act
+, is of no force and effect in respect of the applicant's application for pension benefits.
+Background
+[3]
+Larry Nelson (the applicant) was born on July 6, 1950. He served in the Canadian Regular Forces from August 13, 1970 until his honourable discharge on July 17, 1978. During the course of his service, the applicant worked in the infantry for several years and drove an armoured personnel carrier.
+[4]
+Prior to joining the armed forces, the applicant was medically examined and it was found that he did not have any hearing problems. However, an undated audiogram, taken at about the time of his discharge, indicated that the applicant had some high frequency hearing loss in his left ear. The applicant believes that the hearing loss was due to excessive noise exposure during the course of his military service, from performing tasks such as firing small arms and missiles, driving personnel carriers, and working on aircraft.
+[5]
+The applicant's hearing continued to worsen after his discharge and in 1991, he was diagnosed with bilateral moderately severe high frequency sensorineural hearing loss. The applicant subsequently applied for a hearing loss disability pension on the basis of his 1991 diagnosis. His application was denied on June 7, 1993 by the Canadian Pension Commission because the applicant's hearing loss at the time of his discharge was not sufficiently severe to be considered a disability as described in a report of the Pensions Medical Advisory Division dated May 20, 1993.
+[6]
+The applicant appealed this decision to the Entitlement Board, which denied the appeal on February 28, 1994. The applicant then appealed that decision to the VAB, which also denied the appeal, on April 20, 1995.
+[7]
+Meanwhile, the applicant continued to consult with doctors. As a result of audiometry tests performed by Dr. R.B. Stillwater, a specialist in otolaryngology in Winnipeg, Manitoba, and the medical opinions received from him and other doctors regarding the cause of the applicant's hearing loss, the applicant contacted Veterans Affairs in January 1997 to determine if his application for a hearing loss disability pension could be reopened. In January 1998, Veterans Affairs responded unfavourably to his request.
+[8]
+After sporadic telephone contact between the applicant and Veterans Affairs, the applicant's case was eventually assigned to a Veterans Affairs area advocate in March 2003, who invited the applicant to submit new evidence. The applicant accordingly submitted letters and reports from his doctors. They suggested that the applicant's hearing loss at the time of his discharge, and the subsequent deterioration in his hearing after his discharge, were likely caused by excessive noise exposure during his years of military service.
+[9]
+On August 31, 2004, an area advocate filed a request for reconsideration of the applicant's pension application. By letter dated November 15, 2004, the VRAB denied the request for reconsideration. This is the judicial review of that decision.
+Reasons for the VRAB's Decision
+[10]
+The applicant submitted various letters and medical reports from Dr. Kerr Graham, Dr. R.B. Stillwater, and Dr. R.K. Watson, prepared on various dates between 1994 and 2003. The VRAB found that these letters and reports were credible, but they were nonetheless inadmissible as new evidence under the criteria enunciated in
+MacKay v. Canada (Attorney General)
+(1997), 129 F.T.R. 286 (T.D.). That case held that the criteria for admissibility of new evidence are: (1) the evidence should generally not be admitted if it could have been adduced earlier by due diligence; (2) the evidence must be relevant in the sense that it bears upon a decisive or potentially decisive issue in the trial; (3) the evidence must be credible in the sense that it is reasonably capable of belief; and (4) the evidence must be such that if believed it could reasonably, when taken with other evidence adduced at trial, be expected to have affected the result. The VRAB found that the proffered evidence did not satisfy the second and fourth criteria.
+[11]
+In particular, the VRAB found that the evidence did not address the relevant issue in this case, namely, that the applicant did not have the disability level hearing loss at the time of his discharge from the armed forces. The VRAB stated:
+"While the Board recognizes that some decibel losses were recorded within the Appellant's military service, and while it recognizes that excessive noise exposure within that service was at least a partial cause of those decibel losses and, therefore, of the Appellant's present-day hearing loss disability, it is bound by the legislative authority of the hearing loss policy [Chapter 9 of the Table of Disabilities] which states, in part:
+'If the audiogram on release from service does not meet the requirements for hearing loss disability, any hearing loss demonstrated on subsequent audiograms is not considered due to service-related noise exposure and therefore, pension entitlement is not normally awarded.'
+"Given that situation, the information you offer as new evidence could not,
+when taken with other evidence adduced earlier, be expected to affect the result.
+"
+[12]
+The VRAB consequently refused to admit the applicant's new evidence and denied the applicant's request for reconsideration.
+Issues
+[13]
+The applicant raised these issues in his memorandum:
+1. Did the VRAB err in law by allowing the Minister's Table of Disabilities, Chapter 9 to supersede the definition of "disability" found in subsection 3(1) of the
+Pension Act
+?
+2. Did the VRAB act without jurisdiction or refuse to exercise its jurisdiction in finding that the applicant did not have a "disability" as defined under subsection 3(1) of the
+Pension Act
+?
+3. Did the VRAB act without jurisdiction or refuse to exercise its jurisdiction by denying the applicant a hearing loss disability pension in view of all the medical evidence and medical opinions?
+4. Did the VRAB err in law by failing to overturn the decisions of the Entitlement Board issued February 28, 1994 and the VAB issued April 20, 1995, denying the applicant a hearing loss disability pension?
+[14]
+The respondent submitted that the issues raised by the applicant are more properly stated in the context of this Court's ability to review the VRAB's decision of November 15, 2004. Pursuant to section 111 of the
+Veterans Review and Appeal Board Act
+, S.C. 1995, c. 18 (the
+Veterans Review and Appeal Board Act
+), which is reproduced below, the VRAB has the discretion to reconsider a decision of the VAB if (1) an error was made with respect to any finding of fact or the interpretation of any law in the decision, or (2) new evidence is presented by the applicant. Accordingly, the respondent restated the issues as follows:
+1. Did the VRAB err in failing to reconsider the VAB decision of April 20, 1995 for errors of law or errors of fact?
+2. Did the VRAB err in refusing to admit the new evidence submitted by the applicant for reconsideration?
+Applicant's Submissions
+[15]
+The applicant submitted that the statutory interpretation of what constitutes a "disability" is a pure question of law and therefore the standard of review for the decision of the VRAB is correctness.
+[16]
+The applicant referred to various provisions of the
+Pension Act
+including section 3, which defines a "disability" to mean "the loss or lessening of the power to will and to do any normal, mental or physical act." Subsection 21(2) provides that an individual is entitled to a disability pension if it can be shown that the disability arose out of or was directly connected with military service.
+[17]
+The applicant also referred to subsection 35(2) of the
+Pension Act
+which provides that "the assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments". The applicant submitted that the purpose of this provision is to provide a mechanism for quantifying the extent of a disability to promote a uniform standard of assessment FRAGMENT_SUPPRESSED. The applicant submitted that rather than using the Minister's Table of Disabilities to quantify the extent of a disability, the VRAB effectively allowed the Table of Disabilities to supersede the definition of "disability" found in section 3 of the
+Pension Act
+. The applicant submitted that this is a reviewable error.
+[18]
+The applicant submitted that where a conflict or inconsistency exists between statutory and subordinate provisions, the statutory provision must prevail (see
+Friends of the Oldman River Society v. Canada (Minister of Transport and Minister of Fisheries and Oceans)
+, [1992] 1 S.C.R. 3; 132 N.R. 321; 88 D.L.R.(4th) 1, at paragraph 42). It was therefore submitted that the
+Pension Act
+must prevail over the Table of Disabilities in cases of conflict.
+[19]
+The applicant submitted that section 39 of the
+Veterans Review and Appeal Board Act
+mandates that a claimant is to be provided with the benefit of any reasonable doubt (see
+Metcalfe v. Canada
+(1999), 160 F.T.R. 281 (T.D.), at paragraph 17). This means that if the evidence is uncontradicted and is considered credible, the VRAB must accept it (see
+Martel v. Canada (Attorney General)
+(2004), 264 F.T.R. 89; 2004 FC 1287, at paragraph 41). The applicant submitted that in the present case, all of the medical evidence supported his contention that his hearing loss resulted from excessive exposure to loud noises during his years of military service, and no evidence was tendered with the VRAB to contradict this contention. The applicant submitted, therefore, that the VRAB committed a jurisdictional error when it failed to draw from the evidence every reasonable inference in favour of the applicant and failed to accept the uncontradicted medical evidence presented to it.
+Respondent's Submissions
+[20]
+The respondent submitted that the
+Pension Act
+and Table of Disabilities, taken together, set out a generalized definition of a disability, the statutory mandate to create guidelines for determining the extent of disabilities, and objective criteria for that purpose. The respondent submitted that the hearing loss provisions in the Table of Disabilities can be read such that there is no conflict with its parent legislation. The respondent submitted that the Federal Court has previously found that the VRAB's reliance on the Table of Disabilities does not fetter the VRAB's discretion, as the Table of Disabilities are specifically authorized by legislation, namely subsection 35(2) of the
+Pension Act
+(see
+Gavin v. Canada (Attorney General)
+(1999), 170 F.T.R. 304 (T.D.), at paragraph 8).
+[21]
+The respondent submitted that the standard of patent unreasonableness is applicable to decisions of the VRAB involving the interpretation of medical evidence (see
+Caswell v. Canada (Attorney General)
+(2004), 262 F.T.R. 58; 2004 FC 1364, at paragraph 17). The respondent submitted that the central and determinative piece of evidence before the VAB was an undated audiogram, taken at the time of the applicant's discharge in 1978, which showed a hearing loss of insufficient severity to constitute a disability. The respondent submitted that this evidence plainly contradicted all the subsequent medical evidence, and thus, the VRAB was entitled to reject the applicant's evidence (see
+Caswell
+at paragraph 26).
+[22]
+The respondent submitted that it was because of this 1978 audiogram that the VAB concluded that there was no causal link between the applicant's service and his hearing loss. The respondent submitted that the new evidence did not address the 1978 audiogram, and thus the applicant did not establish that his new evidence was relevant and capable of affecting the result.
+[23]
+The respondent submitted that the conclusions drawn by the VAB on April 20, 1995, and the VRAB on November 15, 2004, were clearly supported by the evidence before it and the applicant's evidence was incapable of rebutting the evidence of the prior hearing test and establishing a link between the applicant's service and his hearing loss. On this basis, the respondent submitted that the VRAB was entitled to reject the applicant's evidence, and the decision to do so cannot be said to be patently unreasonable.
+Relevant Statutory Provisions
+[24]
+The relevant provisions of the
+Pension Act
+are set out below.
+"3(1) In this Act,
+. . . . .
+'award' means a pension, compensation, an allowance or a bonus payable under this Act;
+. . . . .
+'disability' means the loss or lessening of the power to will and to do any normal mental or physical act;
+. . . . .
+'pension' means a pension payable under this Act on account of the death or disability of a member of the forces, including a final payment referred to in Schedule I;
+"21(2) In respect of military service rendered in the non-permanent active militia or in the reserve army during World War II and in respect of military service in peace time,
+(a) where a member of the forces suffers disability resulting from an injury or disease or an aggravation thereof that arose out of or was directly connected with such military service, a pension shall, on application, be awarded to or in respect of the member in accordance with the rates for basic and additional pension set out in Schedule I;
+. . . . .
+"35(1) Subject to section 21, the amount of pensions for disabilities shall, except as provided in subsection (3), be determined in accordance with the assessment of the extent of the disability resulting from injury or disease or the aggravation thereof, as the case may be, of the applicant or pensioner.
+(2) The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments."
+"3(1) Les définitions qui suivent s'appliquent à la présente loi.
+. . . . .
+'compensation' Pension, indemnité, allocation ou boni payable en vertu de la présente loi.
+. . . . .
+'invalidité' La perte ou l'amoindrissement de la faculté de vouloir et de faire normalement des actes d'ordre physique ou mental.
+. . . . .
+'pension' Pension payable en vertu de la présente loi en raison du décès ou de l'invalidité d'un membre des forces, y compris un paiement définitif visé à l'annexe I.
+"21(2) En ce qui concerne le service militaire accompli dans la milice active non permanente ou dans l'armée de réserve pendant la Seconde Guerre mondiale ou le service militaire en temps de paix:
+a) des pensions sont, sur demande, accordées aux membres des forces ou à leur égard, conformément aux taux prévus à l'annexe I pour les pensions de base ou supplémentaires, en cas d'invalidité causée par une blessure ou maladie - ou son aggravation - consécutive ou rattachée directement au service militaire;
+. . . . .
+"35(1) Sous réserve de l'article 21, le montant des pensions pour invalidité est, sous réserve du paragraphe (3), calculé en fonction de l'estimation du degré d'invalidité résultant de la blessure ou de la maladie ou de leur aggravation, selon le cas, du demandeur ou du pensionné.
+(2) Les estimations du degré d'invalidité sont basées sur les instructions du ministre et sur une table des invalidités qu'il établit pour aider quiconque les effectue."
+[25]
+Section 18 of the
+Veterans Review and Appeal Board Act
+gives the VRAB "full and exclusive jurisdiction to hear, determine and deal with all applications for review that may be made to the [VRAB] under the
+Pension Act
+". That
+Act
+also has a privative clause in section 31, which states that a "decision of the majority of members of an appeal panel is a decision of the [VRAB] and is final and binding".
+[26]
+Section 111 of the
+Veterans Review and Appeal Board Act
+provides the VRAB with the discretion to reconsider decisions of the former VAB and other predecessor bodies in certain circumstances. It reads:
+"111. The Veterans Review and Appeal Board may, on its own motion, reconsider any decision of the Veterans Appeal Board, the Pension Review Board, the War Veterans Allowance Board, or an Assessment Board or an Entitlement Board as defined in section 79 of the Pension Act, and may either confirm the decision or amend or rescind the decision if it determines that an error was made with respect to any finding of fact or the interpretation of any law, or may, in the case of any decision of the Veterans Appeal Board, the Pension Review Board or the War Veterans Allowance Board, do so on application if new evidence is presented to it."
+"111. Le Tribunal des anciens combattants (révision et appel) est habilité à réexaminer toute décision du Tribunal d'appel des anciens combattants, du Conseil de révision des pensions, de la Commission des allocations aux anciens combattants ou d'un comité d'évaluation ou d'examen, au sens de l'article 79 de la Loi sur les pensions, et soit à la confirmer, soit à l'annuler ou à la modifier comme s'il avait lui-même rendu la décision en cause s'il constate que les conclusions sur les faits ou l'interprétation du droit étaient erronées; s'agissant d'une décision du Tribunal d'appel, du Conseil ou de la Commission, il peut aussi le faire sur demande si de nouveaux éléments de preuve lui sont présentés."
+[27]
+In addition, the VRAB is governed by the following provisions under the
+Veterans Review and Appeal Board Act
+:
+"3. The provisions of this Act and of any other Act of Parliament or of any regulations made under this or any other Act of Parliament conferring or imposing jurisdiction, powers, duties or functions on the Board shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who have served their country so well and to their dependants may be fulfilled.
+"38(1) The Board may obtain independent medical advice for the purposes of any proceeding under this Act and may require an applicant or appellant to undergo any medical examination that the Board may direct.
+(2) Before accepting as evidence any medical advice or report on an examination obtained pursuant to subsection (1), the Board shall notify the applicant or appellant of its intention to do so and give them an opportunity to present argument on the issue.
+"39. In all proceedings under this Act, the Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case."
+"3. Les dispositions de la présente loi et de toute autre loi fédérale, ainsi que de leurs règlements, qui établissent la compétence du Tribunal ou lui confèrent des pouvoirs et fonctions doivent s'interpréter de façon large, compte tenu des obligations que le peuple et le gouvernement du Canada reconnaissent avoir à l'égard de ceux qui ont si bien servi leur pays et des personnes à leur charge.
+"38(1) Pour toute demande de révision ou tout appel interjeté devant lui, le Tribunal peut requérir l'avis d'un expert médical indépendant et soumettre le demandeur ou l'appelant à des examens médicaux spécifiques.
+(2) Avant de recevoir en preuve l'avis ou les rapports d'examens obtenus en vertu du paragraphe (1), il informe le demandeur ou l'appelant, selon le cas, de son intention et lui accorde la possibilité de faire valoir ses arguments.
+"39. Le Tribunal applique, à l'égard du demandeur ou de l'appelant, les règles suivantes en matière de preuve:
+a) il tire des circonstances et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible à celui-ci;
+b) il accepte tout élément de preuve non contredit que lui présente celui-ci et qui lui semble vraisemblable en l'occurrence;
+c) il tranche en sa faveur toute incertitude quant au bien-fondé de la demande."
+Relevant Policy Guidelines
+[28]
+As the respondent relied on policy guidelines in justifying its decision, I shall reproduce the relevant portions from the Veterans Affairs Table of Disabilities, Chapter 9, Ears and Hearing:
+9.01 - Hearing loss Entitlement
+General
+"A clinical audiologist's diagnosis or opinion concerning the type of hearing loss (e. g. noise- induced, presbycusis, conductive, etc.) will be considered by departmental adjudicators. The Department will not consider a diagnosis or opinion proclaimed by any one other than a physician or clinical audiologist.
+"For sensorineural hearing loss claims, in making the determination that the pattern of hearing loss is noise- induced, adjudicators will consider decibel losses at all frequencies, including the 4000, 6000 and 8000 hertz frequencies.
+"A disability is established:
+(i) when the Pure Tone Average (PTA)1 over the 500, 1000, 2000 and 3000 hertz frequencies is 25 decibels or more for either ear;
+or
+(ii) when the above criteria is not met, and there is a loss of 50 decibels or more at the 4000 hertz frequency in both ears.
+"Once a disability is established, the type of hearing loss and its relationship to service must be determined.
+"Generally, entitlement will be awarded for bilateral hearing loss unless there is compelling evidence of disability in one ear only that is attributable or directly connected to service.
+. . . . .
+"
+Noise- induced hearing loss claims under subsection 21( 2) of the Pension Act
+:
+"Where there is no audiogram during service or on release, it should be demonstrated medically that the current loss is, in fact, a noise-induced one. This determination should be made by a departmental adjudicator who has examined the result of a current audiometric test and has been given the factual history of the applicant. The adjudicator will also consider any other medical evidence on file.
+"The evidence should show that the loss arose out of, was directly connected with or was aggravated by service (e. g. significant service-related noise exposure that seems reasonably to be the cause of the current disability).
+"In cases where there is an audiogram on release and it shows a noise- induced hearing loss, full entitlement may be considered:
+(i) if there is evidence of significant service-related noise exposure; and
+(ii) there is no evidence of pre- enlistment hearing loss or of other contributing factors (e. g. an audiogram showing post-discharge deterioration, medical opinions to the effect that age or non-service noise exposure are factors, etc.).
+"Partial entitlement may be considered if there is evidence of pre-enlistment hearing loss or of other contributing factors (e. g. an audiogram showing post-discharge deterioration, medical opinions to the effect that age or non- service noise exposure are factors, etc.).
+"If the audiogram on release from service does not meet the requirements for hearing loss disability, any hearing loss demonstrated on subsequent audiograms is not considered due to service-related noise exposure and therefore, pension entitlement is not normally awarded.
+"In any event, each individual case should be considered on its own merits."
+9.01 - Hypoacousie admissibilité
+Généralités
+"Les arbitres du Ministère tiendront compte du diagnostic ou de l'opinion d'un audiologiste clinique concernant le type d'hypoacousie (p. ex. causée par le bruit, presbyacousie ou de transmission). Il ne sera pas tenu compte d'un diagnostic ou d'une opinion prononcé par toute personne autre qu'un médecin ou un audiologiste clinique.
+"Dans le cas des demandes à l'égard de la surdité de perception, les arbitres tiendront compte de la perte de décibels à toutes les fréquences, y compris celles de 4 000, 6 000 et 8 000 hertz pour déterminer si l'hypoacousie est attribuable au bruit.
+"Il y a invalidité:
+i. lorsque le seuil d'audition moyen (SAM)1 est de 25 décibels ou plus, aux fréquences de 500, 1 000, 2 000 et 3 000 hertz, dans l'oreille droite ou l'oreille gauche;
+out
+ii. lorsque le requérant ne répond pas aux critères précités, et que la perte d'audition est de 50 décibels ou plus à la fréquence de 4 000 hertz dans les deux oreilles.
+"Une fois l'invalidité établie, il faut déterminer le type d'hypoacousie et s'il est imputable au service.
+"En général, une pension est accordée pour une perte d'audition bilatérale, à moins que des preuves concluantes démontrent que l'hypoacousie n'affecte qu'une oreille et qu'elle est attribuable ou directement liée au service.
+. . . . .
+"
+Demande de pension pour surdité attribuable à l'exposition au bruit aux termes du paragraphe 21(2) de la Loi sur les pensions
+"Lorsque aucun audiogramme n'a été passé au cours du service militaire ou au moment de la libération, il doit être établi médicalement que la surdité est attribuable à l'exposition au bruit. Seul un arbitre du Ministère qui a examiné le résultat d'un examen audiométrique récent et qui a considéré les antécédents médicaux du requérant peut déterminer si tel est le cas. L'arbitre étudiera aussi la preuve médicale au dossier.
+"La preuve doit démontrer que la perte d'audition est attribuable ou liée directement au service ou qu'elle a été aggravée par l'exposition au bruit pendant le service (p. ex. la preuve doit établir qu'il y a eu une exposition considérable au bruit durant le service militaire et que l'on peut conclure que celle-ci est la cause de l'invalidité actuelle).
+"Lorsqu'un audiogramme passé au moment de la libération révèle une perte d'audition due au bruit, on peut envisager la pleine pension:
+i. si, selon la preuve, il y a eu exposition considérable au bruit au cours du service;
+ii. si rien ne confirme l'existence de la perte d'audition avant l'enrôlement ou d'un facteur qui en serait la cause (p. ex. un audiogramme démontrant une détérioration après la libération, des avis médicaux selon lesquels l'âge ou l'exposition au bruit en dehors du service sont des facteurs, etc.).
+"On peut envisager d'accorder une pension partielle lorsque, d'après la preuve, le requérant souffrait déjà de surdité avant de s'enrôler et qu'il existe un ou plusieurs facteurs contributifs (p. ex. un audiogramme démontrant une détérioration après la libération, des avis médicaux selon lesquels l'âge ou l'exposition au bruit en dehors du service sont des facteurs, etc.).
+"Si l'audiogramme effectué au moment de la libération est négatif, toute perte d'ouïe établie par un audiogramme ultérieur ne peut être imputée à l'exposition au bruit reliée au service et ne donne habituellement pas droit à une pension.
+"Chaque cas doit être étudié en toute objectivité."
+Analysis and Decision
+[29]
+I propose to consider the following issue:
+Did the VRAB err in refusing to reconsider the previous decision of the VAB?
+[30]
+At the hearing, it became clear that the major question to be determined was how it was to be determined whether a person had a disability. Was it pursuant to the definition of disability contained in section 3 of the
+Pension Act
+, or by using the Veterans Affairs Table of Disabilities, Chapter 9, Ears and Hearing? This table was made by the Minister pursuant to subsection 35(2) of the
+Pension Act
+.
+[31]
+It is accepted law that the provisions of an enactment cannot be changed by a regulation or policy. Justice La Forest stated in
+Friends of the Oldman River Society
+, supra, at paragraph 42:
+"... Just as subordinate legislation cannot conflict with its parent legislation so too it cannot conflict with its parent legislation unless a statute so authorizes. Ordinarily, then, an act of Parliament must prevail over inconsistent or conflicting subordinate legislation ..."
+[32]
+In the present case, section 3 of the
+Pension Act
+contains the following definition of "disability":
+"'disability' means the loss or lessening of the power to will and to do any normal mental or physical act."
+[33]
+Section 9.01 of the Veterans Affairs Table of Disabilities, Chapter 9, Ears and Hearing states in part:
+"A disability is established:
+(i) when the Pure Tone Average (PTA)1 over the 500, 1000, 2000 and 3000 hertz frequencies is 25 decibels or more for either ear;
+or
+(ii) when the above criteria is not met, and there is a loss of 50 decibels or more at the 4000 hertz frequency in both ears."
+[34]
+In my view, section 3 of the
+Pension Act
+means that an applicant would have a disability if his or her ability to hear was lessened or lost. Section 9.01 on the other hand, only permits a disability to be established if certain levels of hearing loss are established. This is inconsistent with the definition of disability in the
+Pension Act
+which provides that an applicant has a disability if his or her ability to hear is lessened.
+[35]
+As noted earlier, when there is a conflict between a statutory provision (section 3 of the
+Pension Act
+) and a provision of subordinate legislation or policy, the
+Act
+prevails. In the present case, the Minister established the Veterans Affairs Table of Disabilities, Ears and Hearing, pursuant to section 35 of the
+Pension Act
+. Accordingly, the definition of "disability" contained in section 3 of the
+Pension Act
+is the prevailing definition.
+[36]
+In its decision, the VRAB stated in part:
+"... While the Board recognizes that some decibel losses were recorded within the Appellant's military service, and while it recognizes that excessive noise exposure within that service was at least a partial cause of those decibel losses and, therefore, of the Appellant's present-day hearing loss disability, it is bound by the legislative authority of the hearing loss policy [Chapter 9 of the Table of Disabilities] which states, in part:
+'If the audiogram on release from service does not meet the requirements for hearing loss disability, any hearing loss demonstrated on subsequent audiograms is not considered due to service-related noise exposure and therefore, pension entitlement is not normally awarded.'
+"Given that situation, the information you offer as new evidence could not,
+when taken with other evidence adduced earlier, be expected to affect the result
+."
+[37]
+It is obvious from the VRAB's decision that it followed section 9.01 of the Table in order to determine whether the applicant had a disability. It did not apply the definition of "disability" contained in section 3 of the
+Pension Act
+. The VRAB made an error of law in failing to apply the definition of "disability" contained in section 3 of the
+Pension Act
+.
+[38]
+As there was clearly an error of law made by the previous tribunal in regard to the definition of "disability", the VRAB had the statutory mandate under section 111 of the
+Veterans Review and Appeal Board Act
+to determine whether or not it should reconsider the earlier decision. The VRAB committed a reviewable error by ignoring this error of law in determining whether or not to reconsider the earlier decision. The VRAB did not dispute that the applicant did suffer some hearing loss during his military service which was at least partially caused by noise exposure within that military service. There is no question that the Minister can establish and use a table to assess the extent of a disability, but to determine whether or not there is a disability, section 3 of the
+Pension Act
+applies.
+[39]
+The applicant's application to set aside the decision of the VRAB is granted and the matter is referred to a new panel of the VRAB for redetermination.
+[40]
+The applicant shall have his costs of the application.
+ORDER
+[41]
+IT IS ORDERED that:
+1. The decision of the VRAB dated November 15, 2004 is set aside and the matter is referred to a different panel of the VRAB for redetermination.
+2. The applicant shall have his costs of the application.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

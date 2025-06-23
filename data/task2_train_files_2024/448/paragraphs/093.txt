@@ -1,0 +1,13 @@
+[93]
+In asserting that a patent claim has been anticipated, the argument is that the invention has already been disclosed to the public and is therefore not novel. The well-established approach to anticipation is found in
+Beloit
+, supra, at page 297 [C.P.R.]:
+"It will be recalled that
+anticipation, or lack of novelty, asserts that the invention has been made known to the public prior to the relevant time
+. The inquiry is directed to the very invention in suit and not, as in the case of obviousness, to the state of the art and to common general knowledge. Also ... anticipation must be found in a specific patent or other published document; it is
+not enough to pick bits and pieces from a variety of prior publications and to meld them together so as to come up with the claimed invention. One must, in effect, be able to look at a prior, single publication and find in it all the information which, for practical purposes, is needed to produce the claimed invention without the exercise of any inventive skill
+. The prior publication must contain
+so clear a direction
+that a skilled person
+reading and following it would in every case and without possibility of error be led to the claimed invention
+. Where, as here, the invention consists of a combination of several known elements, any publication which does not teach the combination of all the elements claimed cannot possibly be anticipatory." (Emphasis added)

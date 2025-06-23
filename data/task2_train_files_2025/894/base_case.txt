@@ -1,0 +1,263 @@
+Introduction
+[1]
+Morneau, Prothonotary
+[Translation]: This case raises the question of whether a decision of the National Energy Board (the "Board") was made pursuant to the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the "
+Act
+"), and, if so, whether the process followed by the Board in making that decision was such as would allow the applicant (Hydro-Québec) to bring an application for judicial review of that decision under s. 44 of the
+Act
+.
+[2]
+In its decision, the Board told Hydro-Québec that it intended to give an applicant a copy of a contract for the sale of electricity between Hydro-Québec and an American purchaser, which contract Hydro-Québec considers to be confidential (the "diversity contract").
+Context Of The Proceedings
+[3]
+The question which was summarily set out supra is asked as a preliminary question in the following context, which it is important to understand.
+[4]
+On May 24, 1994, Hydro-Québec submitted an application to the Board for a permit for the export of firm and interruptible electricity.
+[5]
+The Grand Council of the Crees (of Quebec) and the Cree Regional Authority (hereinafter referred to collectively as the "Council") and the Mouvement Au Courant (MAC) filed an intervention with the Board. The Council's intervention was based on its opposition to the initiative undertaken by Hydro-Québec. MAC's intervention was designed to pressure Hydro-Québec into greater transparency in the context of that initiative.
+[6]
+On December 7, 1994, the Board granted Hydro-Québec two permits: permit EPE-64 for the export of interruptible energy and permit EPE-65 for the export of firm energy (hereinafter referred to as the "permit" or "permits"). For the purposes of these proceedings, these permits are identical, and they both contain a clause that provides that Hydro-Québec shall, upon entering into a contract,
+"for exports of one months or more in duration, file with the Board, within 15 consecutive days of execution, a copy of any specified contractual arrangements associated with an export and, upon request, serve a copy thereof on the requesting accessible Canadian purchaser."
+[7]
+When the permits - which some people refer to as "umbrella permits" - were issued, they related to contracts to be signed by Hydro-Québec.
+[8]
+On January 16, 1996, MAC sent the Board a letter in which its representative requested a copy of two contracts. The body of that letter is reproduced infra. For the purposes of this case, it will be noted that the contract with which we are concerned is the contract referred to in the first paragraph of the letter - the diversity contract.
+"The Mouvement Au Courant would like to obtain a copy of the contract signed on 13th December 1995 regarding the supply of 400 to 700 MW of firm power by Hydro-Québec to Consolidated Edison starting in 1999 as described in the attached press release.
+We would also like to obtain a copy of the interconnection agreement concerning spot market transactions also mentioned in the press release.
+We assume that these agreements have been concluded under the umbrella export permits EPE-64 and EPE-65 issued to Hydro-Québec by the Board in 1994 and that consequently a copy of each agreement has been filed with the Board.
+In addition could you please send us a list of all the contracts and other information submitted to the Board by Hydro-Québec in compliance with s. 6 of EPE-64 and s. 7 of EPE-65."
+[9]
+As may be seen, the letter does not specify that the request for access it contains is being made under the
+Act
+.
+[10]
+The evidence now in the record indicates that on February 1, 1996, the Board was involved in two letters: a letter that it first sent to MAC, and a letter that it subsequently received from Hydro-Québec.
+[11]
+The first paragraph of the letter that the Board sent to MAC reads as follows:
+"The Board is in receipt of your letter dated January 16, 1996, concerning the above agreement. The Board is not yet in receipt of the agreement as Hydro-Québec has informed the Board that the contract is not completely finalized. Once the Board is in receipt of the agreement from Hydro-Québec it will proceed to consider
+your request pursuant to the
+Access to Information Act
+." (Emphasis mine)
+[12]
+Thus the letter clearly indicates to MAC that its request for access to the diversity contract would be dealt with pursuant to the
+Act
+when the Board received the contract.
+[13]
+On the same day, Hydro-Québec sent the Board a copy of the two contracts referred to by MAC in its letter of January 16, 1996. That letter - the third paragraph of which refers to the diversity contract - read as follows:
+[Translation] "Please find enclosed copies of two contracts between Hydro-Québec and Consolidated Edison Company of New York, Inc. ('Con Edison').
+The first, which is entitled the Transactions Agreement, relates to the purchase and sale of firm and interruptible power and energy and other services. This document is in the public domain.
+The second, which is entitled the Diversity Contract, relates to the sale by Hydro-Québec to Con Edison of a minimum of 400 MW and a maximum of 700 MW of firm power during the months of April to October for the period from April 1999 to March 2004. The quantity of energy associated with that power, and the price, are negotiated each year. Energy returns are anticipated for the years when the parties do not agree on a sale of energy. Given that the contract contains information of a commercial nature, we are asking that you treat it as a confidential document.
+We hope that this will be satisfactory. Please do not hesitate to contact us if you require any further information."
+[14]
+On March 25, 1996, the Board sent Hydro-Québec the following letter:
+[Translation] "The Board acknowledges receipt of your letter of February 4, 1996, concerning the diversity contract with Consolidated Edison. It notes that you have asked that the contract remain confidential.
+In a letter sent to the Board on January 16, 1996, the Mouvement Au Courant requested a copy of the contract. The Board
+has examined this request under the
+Access to Information Act
+and would advise you:
+(1) that it will make a decision concerning the request by the Mouvement Au Courant and that it could decide to disclose the contract or a part thereof to the Mouvement Au Courant;
+(2) that Hydro-Québec will have twenty days from the date of this notice to make representations to the Board to protest the disclosure of the contract or a part thereof.
+Yours truly, ..." (Emphasis mine)
+[15]
+On April 14, 1996, Hydro-Québec sent the Board a letter, the relevant paragraphs of which, for the purposes of this examination, read as follows:
+[Translation] "On March 25 of this year you sent us a letter in which you mentioned that the Mouvement Au Courant had asked you for a copy of the diversity contract between Hydro-Québec and Consolidated Edison Company of New York, Inc. ('Con Edison').
+. . . . .
+On February 1, 1996, Hydro-Québec forwarded a copy of the contract to the Board asking that it be treated as a confidential document. That request is supported by Con Edison. Accordingly, for the reasons set out above, Hydro-Québec objects to a copy of the diversity contract between Hydro-Québec and Con Edison being supplied to the Mouvement Au Courant, or to the content thereof being disclosed to it."
+[16]
+On September 4, 1996, the Board sent a letter to Hydro-Québec in which it informed Hydro-Québec of its decision to disclose the diversity contract (the "Board's decision"). The following is the text of that correspondence:
+[Translation] "This is in relation to the above noted request and the following letters:
+January 16, 1996 - Mouvement Au Courant ('MAC')
+February 1, 1996 - Hydro-Québec
+February 1, 1996 - National Energy Board
+March 25, 1996 - National Energy Board
+April 14, 1996 - Hydro-Québec
+MAC has requested a copy of the above-noted contract, but Hydro-Québec has objected to disclosure of the contract. The Board has examined the issue of whether the information that Hydro-Québec considers to be confidential is protected under the
+Access to Information Act
+, even though the request was not made under that
+Act
+.
+The Board notes that according to clause 6 of permit EPE-64 and clause 7 of permit EPE-65, Hydro-Québec is required to file this contract with the Board and to serve a copy on any accessible Canadian purchaser. Having regard to this obligation, the Board has determined that the contract is a public record and that the
+Access to Information Act
+does not provide a legal basis for refusing to disclose it to MAC
+A copy of the contract will be supplied to MAC no earlier than 30 days after the date set out in this letter to enable Hydro-Québec to consider other remedies in this matter if it wishes."
+[17]
+On September 23, 1996, Hydro-Québec filed a notice of motion in this court seeking to have the Board's decision reviewed pursuant to s. 44 of the
+Act
+.
+[18]
+By order dated November 5, 1996, MAC was added to the style of cause as a respondent, as permitted by s. 44(3) of the
+Act
+. That order also gave the Council the right to intervene in the application for review instituted by Hydro-Québec.
+[19]
+By order dated December 5, 1996, a timetable in respect of Hydro-Québec's application for review was set and the parties were given leave to submit a preliminary question to the court. On this point, the order of December 5, 1996, provided the following:
+[Translation] "The National Energy Board, the Mouvement Au Courant, the Grant Council of the Crees (of Quebec) and the Cree Regional Authority shall submit a preliminary question to the court so that it may decide whether the National Energy Board has made a decision pursuant to the provisions of the
+Access to Information Act
+and whether that decision is reviewable by the court having regard to the provisions of that
+Act
+, or whether the matter must be referred back to the National Energy Board for it to make a decision on the request made by the respondent Mouvement Au Courant."
+[20]
+As will have been noted, it is this question that was summarized at the beginning of these reasons.
+[21]
+On April 14, 1997, the Council and MAC made a motion to have this question determined, and this is the decision thereon.
+Analysis
+[22]
+Hydro-Québec and the Board presented a united front in respect of this preliminary question, and contend that the Board's decision was indeed made pursuant to the
+Act
+and that the process followed by the Board in reaching that decision was such that Hydro-Québec may proceed under s. 44 of the
+Act
+.
+[23]
+It is apparent from their respective notices of motion that MAC and the Council are of the contrary view. MAC and the Council relied on essentially the same grounds. Since the Council made the lengthiest argument in court, their common position will be addressed hereinafter as the Council's position.
+[24]
+According to counsel for the Council, it must necessarily be concluded that the Board's decision was not and could not have been made pursuant to the
+Act
+. According to her, the Board's decision was or should have been made pursuant to the Board's enabling statute, the
+National Energy Board Act
+, R.S.C. 1985, c. N-7, and more specifically pursuant to the consultation and decision-making process set out in s. 12(1)(b) of the
+Act
+. That paragraph reads as follows:
+"12(1) The Board has full and exclusive jurisdiction to inquire into, hear and determine any matter
+. . . . .
+(b) where it appears to the Board that the circumstances may require the Board, in the public interest, to make any order or give any direction, leave, sanction or approval that by law it is authorized to make or give, or with respect to any matter, act or thing that by this Act or any such regulation, certificate, licence, permit, order or direction is prohibited, sanctioned or required to be done."
+[25]
+I cannot agree with this position.
+[26]
+Counsel for the Council acknowledged that it cannot be concluded that the Board's decision was made pursuant to this paragraph, since the decision-making process followed by the Board in response to MAC's request of January 16, 1996, did not follow, or did not reflect, what happens when the Board exercises its jurisdiction under this paragraph.
+[27]
+In addition, I do not believe that this paragraph is intended to govern or to make provision for the primary fact underlying Hydro-Québec's application for review, which is the request to obtain a copy of the diversity contract to be filed with the Board. In that request, MAC did not ask the Board to adopt its own interpretation of the diversity contract, to order Hydro-Québec to comply with that interpretation or to amend the permits so that they would comply with that interpretation. All that MAC did on January 16, 1996, was to request a copy of a contract, nothing more. I therefore do not consider the decisions in
+New Brunswick Electric Power Commission v. Maritime Electric Co. and National Energy Board
+, [1985] 2 F.C. 13; 60 N.R. 203 (F.C.A.) and
+New Brunswick Electric Power Commission v. Maritime Electric Co. and National Energy Board
+(1985), 60 N.R. 352 (F.C.A.), which the Council submitted, to be relevant in the instant case.
+[28]
+I consider it important to note as well that on the day after MAC's request was made, the Board did not have the diversity contract MAC was seeking in its possession, nor did it know what position Hydro-Québec would take in respect of MAC's request.
+[29]
+I therefore conclude that the Board's decision was not and did not have to be made pursuant to its enabling statute. There can therefore be no question of referring the matter back to the Board for it to decide the issue of access to the diversity contract on the basis of the
+National Energy Board Act
+.
+[30]
+It remains to be determined whether the Board's decision may be considered to have been made pursuant to the
+Act
+. To answer that question, I believe that we must first ask whether that decision could have been made under the
+Act
+, and if so, whether it was.
+[31]
+Although the access request made by MAC on January 16, 1996, was not expressly formulated as a request for access under the
+Act
+(the letter in question does not refer to the
+Act
+, the request was not filed on the usual form and MAC was not required to pay the usual administrative fees), I believe that there is nothing in the
+National Energy Board Act
+or in the
+Act
+itself that prevented the Board from deciding on its own to deal with this access request pursuant to the provisions of the
+Act
+. I was not referred to any statutory provision or, having examined the matter, any decisions that lay down or specify any such prohibition.
+[32]
+In my view, it was entirely proper for the Board to want to deal with this access request under the
+Act
+, since its enabling statute does not provide any framework for responding to a request for documents outside the context of hearings pending before it. I believe that the decision of this court in
+FRAGMENT_SUPPRESSED supports that approach.
+[33]
+Nor do I believe that the Board can be criticized for proceeding under the
+Act
+, because under the provisions of its enabling statute it is a court of record. The Board is clearly a government institution which falls under the
+Act
+, and its status as a court of record does not, in my view, mean that it must comply with every request for documents, even if the document is a contract filed pursuant to a permit, without being able to deal with such a request pursuant to the
+Act
+.
+[34]
+Nor do I believe that the Board decided to proceed under the
+Act
+by reason of and in response to the letter from Hydro-Québec dated February 1, 1996, in which Hydro-Québec stated its views concerning the confidential nature of the diversity contract. As the facts set out supra establish, the Board referred to the
+Act
+before it ultimately was aware of what position Hydro-Québec would adopt in respect of the diversity contract. It could therefore not be argued that by deciding to deal with MAC's request dated January 16, 1996, the Board was deliberately attempting to avoid engaging in an interpretation of the contract; outside the context of the
+Act
+, it would have been required to engage in that exercise.
+[35]
+Accordingly, we must conclude that the Board's decision could have been made pursuant to the
+Act
+. It now remains to determine whether it was.
+[36]
+On this point, counsel for the Council asserted that the text of the Board's decision itself leaves some doubt on this question. I think it is important to reproduce the relevant portion of that decision:
+[Translation] "
+The Board has examined the question
+of whether the information that Hydro-Québec considers to be confidential is protected
+under the
+Access to Information Act
+, even though the request was not made under the
+Act
+.
+The Board notes that according to clause 6 of permit EPE-64 and clause 7 of permit EPE-65, Hydro-Québec is required to file that contract with the Board and to serve a copy thereof on any requesting accessible Canadian purchaser. Having regard to that obligation,
+the Board has determined
+that the contract is a public record and
+that the
+Access to Information Act
+therefore does not provide any legal basis for refusing to disclose it to MAC
+." (Emphasis mine)
+[37]
+According to the passages reproduced above, the Board undeniably, in my view, reached its decision pursuant to the
+Act
+. Where the Board indicates in its decision that the
+Act
+does not provide any legal basis for refusing the documentation requested, it is not thereby dealing with MAC's request outside the framework of the
+Act
+, but is trying to express the fact that it was not satisfied that it had to apply an exception within the meaning of s. 2(1) of the
+Act
+so as to refuse MAC's request.
+[38]
+Moreover, according to the Council, the Board's decision should be regarded as having been made outside the framework of the
+Act
+, since the Board also failed to comply with certain requirements of the
+Act
+in its decision-making process. Those requirements relate to certain time limits set out in the
+Act
+and to the content of certain notices required by the
+Act
+.
+[39]
+However, as we shall see, the time limits and notices that were not complied with affected the interests of MAC and Hydro-Québec. At no time while the Board was dealing with MAC's request does it appear that these two entities complained of these deficiencies to anyone, including the Information Commissioner. It will be noted in passing that it was not until March 27, 1997, that MAC, in an affidavit, challenged the fact that its request of January 16, 1996, had been dealt with pursuant to the
+Act
+, although it had been aware of this fact since February 1, 1996.
+[40]
+To come back to the failure to comply with time limits and notices, it must be admitted that the Board extended its deadline for responding to MAC and undertook consultations with Hydro-Québec which fell outside some of the requirements of s. 9 of the
+Act
+.
+[41]
+Hydro-Québec was consulted by the Board after the 30 day period allowed by s. 27(1) of the
+Act
+. MAC's request is dated January 16, 1996, and the consultation that the Board undertook with Hydro-Québec dates from March 25, 1996. However, it should be noted that the contract that had been requested was not filed with the Board until February 1, 1996.
+[42]
+The content of the notice that was then sent to Hydro-Québec does not entirely follow the requirements set out in the various subsections of s. 27 of the
+Act
+.
+[43]
+Contrary to what is required by s. 28(1)(b) of the
+Act
+, the Board's decision was not made within 30 days of the letter it sent on March 25, 1996. Lastly, in its decision, the Board gave Hydro-Québec 30 days to object to the disclosure of the contract, while s. 28(3) of the
+Act
+requires that there be a specific statement that a third party, in this instance Hydro-Québec, is entitled to request a review by this court under s. 44 within 20 days.
+[44]
+Despite the various deficiencies for which the Board is responsible, it appears to me that both the Board and Hydro-Québec have nonetheless complied with the substance and objective of the consultation process provided for by ss. 27, 28 and 44 of the
+Act
+.
+[45]
+Accordingly, I am not prepared to find that because of these deficiencies the Board's decision must be considered to have been made outside the substantive framework of the
+Act
+and that Hydro-Québec was not in a position to proceed under s. 44 of the
+Act
+to have that decision reviewed. In
+Sawridge Indian Band v. Canada (Minister of Indian Affairs and Northern Development
+(1987), 10 F.T.R. 48 (T.D.), to which the Council referred, the court found that proceedings could not be brought under s. 44 of the
+Act
+since it was clear that the government institution in question had reached its decision to disclose the information requested without offering the third party in question, within 20 days after the notice was given, an opportunity to make representations as to why the record should not have been disclosed, in accordance with ss. 27(1) and 28(1) of the
+Act
+. In the situation that concerns us, the consultation between the government institution, the Board, and the third party, Hydro-Québec, certainly took place despite the deficiencies referred to supra.
+[46]
+The order to accompany these reasons should therefore answer the preliminary question asked in the affirmative.
+[47]
+Of course, these reasons have no bearing on the merits of Hydro-Québec's application for review; the merits will be examined at the time and place established by the timetable set out in the order of December 5, 1996.
+Order accordingly.
+Editor: Angela E. McKay/gs

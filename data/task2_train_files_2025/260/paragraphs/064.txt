@@ -1,0 +1,17 @@
+[64]
+In the
+Novopharm
+Trial, Justice Hughes, has noted, turning to the construction of claim 4:
+"[94] ... S(-) Ofloxacin is what is clearly stated. It is different from that which is in racemic (±) Ofloxacin. Claim 4 addresses that which has been obtained from the racemic compound or through a process beginning not with Ofloxacin, but rather an intermediate compound. Purity is not stipulated, nor does it need to be. The S(-) compound is something which has been produced by techniques expected to give reasonably pure S(-) compound. We are told that the S(-) compound is expected to be a useful antimicrobial agent having greater antimicrobial properties than the racemic mixture while being less toxic and markedly more soluble.
+"[95] Thus, claim 4 is properly construed as:
+S(-) Ofloxacin, different from that contained in the racemate, obtained in a reasonably pure state.
+"[96] The claim does not address medical properties or uses, nor does it need to. Where the compound is new, it is sufficient that its utility is set out in the specification it need not be included in the claim. (
+Monsanto Canada Inc. v. Schmeiser
+(2001), 12 C.P.R.(4th) 204 (F.C.), at para. 26, affd. (2006), 21 C.P.R.(4th) 1 (F.C.A.), at paras. 41 to 46, affd. [2004] 1 S.C.R. 902;
+Aventis Pharma Inc. v. Apotex Inc.
+(2006), 43 C.P.R.(4th) 161 (F.C.), at para. 82, affd. (2006), 46 C.P.R.(4th) 401 (F.C.A.))
+"[97] With this construction in mind, the issues as to validity must be addressed. They are those of anticipation, obviousness and ambiguity. It must be kept in mind that section 45 of the 'old'
+Patent
+Act
+provides that a patent is presumed to be valid in the absence of evidence to the contrary. The onus is on the Defendant to lead such evidence and persuade the Court on the balance of probability that claim 4 is invalid."
+Claim 4 of the '080 patent covers levofloxacin hemihydrate

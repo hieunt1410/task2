@@ -1,0 +1,12 @@
+[83]
+While not prior art, a section of the English text by Philip W. Grubb,
+Patents in Chemistry and Biotechnology
+(Clarendon Press: Oxford, U.K.), published in 1986, illustrates the common knowledge at that time among chemists respecting the nature of optical isomers claimed as new compounds in patents. As stated at page 134:
+"Perhaps the closest that a new compound can be to the prior art is the situation when the new compound is an optically active enantiomer of a compound previously known only in racemic form.
+This may be regarded as an extreme form of a selection invention
+, and it has been argued that the optically active form cannot be regarded as novel if the racemate is known, since the racemate could be considered as an equimolar mixture of the d- and l- forms. However, in cases both in the UK and the USA it has been decided that optical isomers of known racemates may be considered as novel per se.
+"
+Usually
+, however,
+the problem is regarded as one of obviousness rather than lack of novelty. It is obvious from the presence of an asymmetric centre in the molecule that optically active forms can exist, and it is usually obvious that they can be isolated by one or other of the standard methods of resolution. The only way in which an optical isomer can be patentable is if it has surprisingly superior properties as compared with the racemate, or if it has a use that the racemate did not have
+." (Emphasis added)

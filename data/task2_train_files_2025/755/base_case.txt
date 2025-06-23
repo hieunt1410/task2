@@ -1,0 +1,246 @@
+[1]
+de Montigny, J.
+: This is an application pursuant to section 18.1 of the
+Federal Courts Act
+for judicial review of the decision of an adjudicator in which it was held that the Applicant, the Bank of Montreal, did not have just cause to dismiss Debra Brown, the Respondent. The Attorney General of Canada is also named as a Respondent, by reason of his role in appointing the adjudicator.
+FACTS
+[2]
+Debra Brown was hired by the Applicant as an Investment Fund Specialist on November 21, 2000. Investment Fund Specialists derive part of their income from commissions earned through promoting and selling the bank's investment products to customers. During the course of her employment with the Applicant, Ms. Brown consistently obtained positive performance reviews, and never received any verbal or written warnings expressing concerns about her performance or any inappropriate behaviour.
+[3]
+On or about October 30, 2002, an audit was conducted of several of Ms. Brown's investment files to review eligibility for commissioned earnings. On November 14, 2002, a second audit was conducted to further review Ms. Brown's investment files. Following this second audit meeting, which was attended by the Area Manager for the Bank of Montreal in the City of Lethbridge, Mr. Ken W. Segboer, Ms. Brown was suspended with pay. She was subsequently interviewed by Mr. Coyle, Ms. Brown's supervisor, on November 20, 2002, and on November 29, 2002, she was dismissed from her employment without notice or compensation in lieu of notice. Ms. Brown's dismissal was based on allegations of dishonest conduct, including that Ms. Brown had claimed commission earnings that were not due to her.
+[4]
+On January 24, 2003, Ms. Brown filed a complaint with Human Resources Development Canada (amended February 3, 2003), pursuant to section 240 of the
+Canada Labour Code
+, alleging that she had been unjustly dismissed by the Applicant. When the Inspector was unable to assist the parties to resolve the issues, Mr. Bruce Hepburn was appointed by the Minister of Labour as an adjudicator to conduct a hearing.
+[5]
+It is not disputed that Mr. Hepburn was involved as counsel in an action against the Bank of Montreal (the "Olsen file") at the time he was appointed. The statement of claim in this other file alleges that the Bank was negligent in its management and supervision of its employees in allowing one of them to forge cheques, such negligence causing the Plaintiffs damages in the sum of $194,955.78. Mr. Hepburn's involvement in this other case was not known by the Minister nor by either of the opposing parties in this judicial review application.
+THE IMPUGNED DECISION
+[6]
+In his decision dated August 13, 2004, Mr. Hepburn considered the submissions of the Applicant that Ms. Brown's dismissal was justified based on her dishonest behaviour, including falsely recording sales, misrepresenting her involvement in transactions to obtain commissions, and misrepresenting her personal experiences and qualifications to customers of the bank. He also considered Ms. Brown's defence that she had never acted dishonestly in the alleged ways, and had properly obtained the permission of her supervisors before claiming commissions when she was unsure as to her entitlement thereto.
+[7]
+The adjudicator also reviewed the nature of Ms. Brown's position and the manner in which commissions are reported and tracked, noting that commissions could be earned directly through final sales of investment products to customers, indirectly through substantial efforts to assist in closing sales, or in completing preparatory work that eventually resulted in sales. Employees were required to provide adequate supporting documentation when they tracked a file for the purposes of earning commission.
+[8]
+Two commissions tracked by Ms. Brown were brought to the attention of her supervisors by Ms. Tracy Dykslaag, a branch manager, who questioned whether they should have been tracked to Ms. Brown. The adjudicator considered evidence and submissions from both parties with respect to events surrounding the tracking of these two files. The adjudicator also considered evidence concerning the allegations that Ms. Brown had misrepresented her travel and work experience in conversations with customers, as well as evidence about the meeting at which Ms. Brown was dismissed.
+[9]
+The adjudicator considered the law with regard to what constitutes "clear and convincing proof" for the purposes of an adjudication where misconduct has been alleged, as well as the applicable standard in assessing claims of employee dishonesty by bank employees. The adjudicator found that the allegations in this case, if proven, would be seen as causing irreparable harm to the employment relationship.
+[10]
+After a lengthy and thorough examination of the evidence and of the applicable legal principles, the adjudicator found that although Ms. Brown's record-keeping was deficient in minor ways, this was insufficient to justify dismissal. On the ground of dishonest conduct with respect to commissions and tracking, the adjudicator held at p. 32 of his reasons:
+"... the Bank of Montreal has failed to prove in a clear and cogent manner, and on the balance of probabilities that Brown misreported any information in relation to the S or D transactions or that she acted in any fashion with a dishonest mind. After fully considering all of the evidence at hearing, I am unable to conclude that the preponderance of the evidence supports the Bank's allegations. Based on the evidence before me, I conclude the Brown's denial has an equal or greater likelihood of truth than the Bank's accusation."
+[11]
+The adjudicator found that there may have been a legitimate connection between Ms. Brown's involvement with the two files and their successful completion. At page 34 of his reasons, he noted that "... it is unclear what made these actions worthy of dismissal when, in the ordinary course of the Bank's operations, Brown would have been required to provide better documented proof of involvement". On the issue of lying to customers, the adjudicator found Ms. Brown's evidence more credible than that of the Bank's witnesses. He further noted that it would be reasonable to expect that the Bank, which submitted that it required a high standard of honesty from its employees, would have taken steps to confront Ms. Brown had such dishonestly been apparent; however, nothing was mentioned until the day she was dismissed. Based on the above reasoning, the adjudicator held that the bank had failed to prove that there was just cause for the dismissal of Ms. Brown.
+[12]
+The Applicant claims that shortly after receiving the decision, it became aware of the fact that Mr. Hepburn, the adjudicator, was also acting as counsel for the claimants in the Olsen file. As a result, the Bank brought this application for judicial review and requested that this Court quash Mr. Hepburn's decision, on the basis of a reasonable apprehension of bias. In its memorandum of fact and law, it also sought an order directing the Attorney General of Canada to pay solicitor-client costs to both the Bank and Brown for this judicial review application, as well as the adjudicator's hearing.
+[13]
+In a motion made before the hearing pursuant to Rule 369, the Attorney General asked the Court to strike the application as against it, since the Applicant did not challenge the Attorney General's decision to appoint the adjudicator in its Notice of application or supporting affidavits. By Order dated September 19, 2005, Prothonotary Tabib ruled that this motion be dealt with as part of the judicial review application.
+ISSUES
+[14]
+The questions to be decided are largely agreed upon by the parties, and can be stated as follows:
+a) Should the motion to strike the Notice of Application as it relates to the Attorney General of Canada be granted?
+b) Is the decision of the adjudicator subject to review notwithstanding section 243 of the
+Canada Labour Code
+?
+c) Was the duty of procedural fairness breached due to a reasonable apprehension of bias on the part of the adjudicator?
+d) Did the Bank of Montreal waive its right to raise the issue of a reasonable apprehension of bias?
+ANALYSIS
+a) The legislative scheme
+[15]
+Under Division XIV of Part III of the
+Canada Labour Code
+, R.S.C. 1985, c. L-2, an individual who has completed 12 consecutive months of continuous employment with an employer and is not a member of a group of employees subject to a collective agreement may make a complaint in writing to an inspector if the employee has been dismissed and considers the dismissal to be unjust (s. 240).
+[16]
+Should the complaint not be settled with the assistance of the inspector, the complainant may request that the matter be referred to an adjudicator under section 242(1). In that instance the inspector reports to the Minister of Labour and delivers to the Minister the complaint, any written statement giving the reasons for the dismissal and any other statements or documents the inspector has that relate to the complaint (s. 241).
+[17]
+Upon receipt of the inspector's report, the Minister has the authority to appoint an adjudicator to hear and rule on the complaint. This power, along with the procedure to be followed by the adjudicator, are set out in paragraphs 242(1) and (2):
+"242(1) The Minister may, on receipt of a report pursuant to subsection 241(3), appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate on the complaint in respect of which the report was made, and refer the complaint to the adjudicator along with any statement provided pursuant to subsection 241(1).
+"(2) An adjudicator to whom a complaint has been referred under subsection (1)
+(a) shall consider the complaint within such time as the Governor in Council may by regulation prescribe;
+(b) shall determine the procedure to be followed, but shall give full opportunity to the parties to the complaint to present evidence and make submissions to the adjudicator and shall consider the information relating to the complaint; and
+(c) has, in relation to any complaint before the adjudicator, the powers conferred on the Canada Industrial Relations Board, in relation to any proceeding before the Board, under paragraphs 16(a), (b) and (c)."
+"242(1) Sur réception du rapport visé au paragraphe 241(3), le ministre peut désigner en qualité d'arbitre la personne qu'il juge qualifiée pour entendre et trancher l'affaire et lui transmettre la plainte ainsi que l'éventuelle déclaration de l'employeur sur les motifs du congédiement.
+"(2) Pour l'examen du cas dont il est saisi, l'arbitre:
+a) dispose du délai fixé par règlement du gouverneur en conseil;
+b) fixe lui-même sa procédure, sous réserve de la double obligation de donner à chaque partie toute possibilité de lui présenter des éléments de preuve et des observations, d'une part, et de tenir compte de l'information contenue dans le dossier, d'autre part;
+c) est investi des pouvoirs conférés au Conseil canadien des relations industrielles par les alinéas 16a), b) et c)."
+[18]
+Subsections 16(a), (b) and(c), to which paragraph 242(2) refers, gives the adjudicator the power to summon and enforce the attendance of witnesses and to compel them to give oral or written evidence on oath and produce documents the adjudicator deems requisite. The adjudicator could also administer oaths and solemn affirmations and receive such evidence as the adjudicator in his discretion sees fit whether it is admissible in a court of law or not.
+[19]
+Section 243 is a privative clause, insulating an adjudicator's decision from judicial review in the following terms:
+"243(1) Every order of an adjudicator appointed under subsection 242(1) is final and shall not be questioned or reviewed in any court.
+"(2) No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain an adjudicator in any proceedings of the adjudicator under section 242."
+"243(1) Les ordonnances de l'arbitre désigné en vertu du paragraphe 242(1) sont définitives et non susceptibles de recours judiciaires.
+"(2) Il n'est admis aucun recours ou décision judiciaire - notamment par voie d'injonction, de certiorari, de prohibition ou de quo warranto - visant à contester, réviser, empêcher ou limiter l'action d'un arbitre exercée dans le cadre de l'article 242."
+b) The motion to strike
+[20]
+Counsel for the Attorney General submitted that the Bank cannot seek an order as to costs against the Attorney General, since the Bank did not challenge the Minister's decision, sought no relief against the Attorney General and alleged no reviewable errors committed by the Minister in its Notice of Application. He relied on Rule 301, and more particularly on paragraph 301(d) and (e), according to which a Notice of Application must set out a "precise statement of the relief sought", and "a complete and concise statement of the grounds intended to be argued, including a reference to any statutory provision or rule to be relied on ...".
+[21]
+Additionally, counsel for the Attorney General invoked Rule 302, which limits each application for judicial review to a single order in respect of which relief is sought. Had the Bank wanted to challenge both the adjudicator's decision and the decision of the Minister to appoint this adjudicator, they would have had to proceed with two separate applications for judicial review. In any event, the Attorney General argues that the Bank is out of time to challenge the Minister's decision to appoint Mr. Hepburn, since the Notice of Application was issued on September 14, 2004, well over a year after the parties were advised by letter dated July 14, 2003, of Mr. Hepburn's appointment.
+[22]
+In the alternative, the Attorney General had originally requested an opportunity to file additional materials and a supplementary record pursuant to Rule 312, with a view to explain the process whereby adjudicators are appointed. But this request was subsequently abandoned after the Prothonotary's order, and no explanations were given in argument before this Court as to the selection and appointment of adjudicators pursuant to section 242 of the
+Canada Labour Code
+.
+[23]
+The Applicant, in response, contends that the decision in issue is of a continuing nature, and that it is difficult to pinpoint whether the breach of natural justice was by the Minister, by the adjudicator, or both. The Bank further stated that it was unaware of the conflict of interest as it was disclosed by neither the adjudicator nor the Minister; therefore, the decision to appoint an adjudicator is inextricably linked to the conflict of interest issue here, and counsel for the Applicant submits that the Notice of Application suffices to put the Minister on notice of this issue.
+[24]
+While it is no doubt true that there are exceptions to the rule that an application for judicial review should be limited to a single order, I do not think that the facts underlying the present application call for such an exception. I fail to see, in particular, how the decision of the Minister to appoint the adjudicator and the decision reached by that adjudicator can be assimilated to a continuing process. Quite to the contrary, they appear to me to be two discrete decisions of an entirely different nature. One is administrative and discretionary, and the other is quasi-judicial and circumscribed by legal principles as applied to the evidence.
+[25]
+I am also satisfied that this is not a case where I should exercise my discretion to relax the principle set out in Rule 302. Despite counsel for the Applicant's able argument to the contrary, I do not think the Attorney General was given fair notice that the issue of the appointment of the adjudicator would be put before the Court. The only grounds for the application mentioned in the Notice of Application are that:
+"1. The Adjudicator acted without jurisdiction, acted beyond his jurisdiction, and refused to exercise his jurisdiction; and
+"2. The Adjudicator failed to observe the rules of natural justice and procedural fairness in reaching his decision due to a conflict of interest and reasonable apprehension of bias."
+[26]
+As Justice Gibson pointed out in
+Arora v. Canada (Minister of Citizenship and Immigration)
+, [2001] F.T.R. Uned. 11; [2001] F.C.J. No. 24 (T.D.), at para. 9:
+"[T]he principle that the court will deal only with the grounds of review invoked by the applicant in the originating notice of motion and in the supporting affidavit must, I am satisfied, govern. If, as here, the applicant was able to invoke new grounds of review in his memorandum of argument, the respondent would conceivably be prejudice [sic] through failure to have an opportunity to address the new ground in her affidavit or, once again as here, to at least consider filing an affidavit to address the new issue. In the result, I determine that the second issue raised on behalf of the applicant is not properly before the Court."
+[27]
+The same principle must apply here. Since the Bank has not challenged the Minister's decision, sought no relief against the Attorney General of Canada, and alleged no reviewable error committed by the Minister of Labour, its Notice of Application is deficient. Can it be saved by allowing the Applicant to amend it, pursuant to Rule 75(2)a), so as to make the Notice of Application accord with the issues at the hearing? At the hearing, counsel for the Attorney General did not object to amending the Notice of Application along the lines proposed by the Applicant, and it may well be the best course of action to ensure that all the issues raised by the Applicant are dealt with. As a result, I would normally allow the Attorney General to file additional affidavits and invite all the parties to submit further written arguments. But this will not be necessary, for reasons that will become evident upon reading the following paragraphs of these reasons.
+[28]
+It is not entirely clear how the Minister would have either failed or refused to comply with the principles of natural justice and procedural fairness in its appointment of the adjudicator. The Applicant contends that the Minister totally disregarded the rules of natural justice and procedural fairness, since there is no evidence of any consideration of his duty to uphold and apply these principles in appointing the adjudicator. Had he paid any attention to a potential conflict of interest of reasonable apprehension of bias, it would have been readily apparent and correctable immediately, prior to the appointment and the six day hearing.
+[29]
+Whether or not Mr. Hepburn was in conflict of interest, I do not think it was incumbent on the Minister to make inquiries in this respect before appointing him. Section 242(1) of the
+Canada Labour Code
+empowers the Minister to appoint "any person that [he] considers appropriate as an adjudicator". Commenting on a similar provision of the
+Code
+enabling the Minister to appoint "any person that the Minister considers appropriate as a referee" (section 251.12), the Federal Court of Appeal came to the conclusion, relying on
+Canadian Union of Public Employees et al. v. Ontario (Minister of Labour)
+, [2003] 1 S.C.R. 539; 304 N.R. 76; 173 O.A.C. 38; 2003 SCC 29, that the Minister "has an obligation to ensure that referees have the requisite capacity, knowledge, experience and skill to perform his or her statutory obligations" (
+Dynamex Canada Inc. v. Mamona et al.
+, [2003] F.C.J. No. 907; 305 N.R. 295; 2003 FCA 248, at para. 39).
+[30]
+The qualifications of Mr. Hepburn have not been questioned by the Applicant (nor, for that matter, by the Respondent Brown). He was apparently a chartered arbitrator, regularly appointed to conduct adjudications under the
+Canada Labour Code
+, and as such it was completely appropriate for the Minister to consider that he would be an acceptable choice to perform this particular duty (see, FRAGMENT_SUPPRESSED).
+[31]
+It is up to the lawyer to live up to the high standards of his or her profession, and to be mindful of any real or potential conflict of interest. As a member of the Law Society of Alberta, Mr. Hepburn had an obligation to abide the rules of his
+Code of Professional Conduct
+. Since not all conflicts will be apparent from the outset, and given that the Minister's role in the process ends upon the appointment of the adjudicator, the Minister must of necessity rely upon the person he appoints to spot a conflict should it arise at the outset or at a later date.
+[32]
+How could it be otherwise? Not only is the person in conflict of interest (real or perceived) very often the only one to know of the facts from which the conflict arises, but it would also put an untenable burden on the Minister or his delegates if they were to ensure that prospective adjudicators are not in conflict. Considering the number of such appointments made throughout Canada and the range of application of the
+Canada Labour Code
+, this would be an extremely cumbersome exercise. If a large corporation like a bank finds it difficult to track down all the litigation files they are involved with and to connect the dots between some of these files to find out about possible conflicts of interest, how and why should the Minister be in a better position?
+[33]
+Quite apart from the difficulties involved in any process designed to determine if a person sounded out about an appointment as adjudicator could be in conflict of interest, I firmly believe that this is a responsibility that properly rests with the professional himself or herself. After all, the lawyer is the only person who knows all the facts, and it is the lawyer's professional duty to make sure that he or she acts in conformity with the ethical principles governing the profession. I recognize that in cases like this one, it would be convenient to have the government foot the bill if ever it is found that the application for judicial review should be granted. But convenience does not make for a principled basis to allocate responsibility and costs.
+[34]
+Be that as it may, the decision of which adjudicator to appoint, as opposed to the initial decision to appoint an adjudicator, is an exercise of purely ministerial power that does not affect the rights, privileges or interests of the parties. The Minister makes no findings or determinations binding upon the parties, does not adjudicate the hearing and has no involvement in the matter beyond the appointment of a specific adjudicator. Accordingly, it is not even clear that the requirements of the duty of fairness are triggered in this instance (
+Cardinal and Oswald v. Kent Institution (Director)
+, [1985] 2 S.C.R. 643; 63 N.R. 353).
+[35]
+For all of the above reasons, I am of the view that the application for judicial review, to the extent that it relates to the Attorney General of Canada, must be dismissed. I can find no breach of the principles of natural justice and procedural fairness in the Minister's decision to appoint Mr. Hepburn as the adjudicator. It may be more prudent for the Minister, when appointing an adjudicator pursuant to section 242 of the
+Canada Labour Code
+, to draw the attention of the appointee to his professional code of conduct and to the basic rules of conflict of interests. But the failure to do so or to investigate the matter cannot be equated to a breach of the principles of procedural fairness by the Minister, as the ultimate responsibility to uphold these principles in the context of the adjudication rests with the adjudicator.
+c) The privative clause
+[36]
+The right to have an unbiased adjudicator is one of the cornerstones of the duty of fairness. This has been repeated time and again. I need only rely on the decision of the Supreme Court of Canada in
+Newfoundland Telephone Co. v. Board of Commissioners of Public Utilities (Nfld.)
+, [1992] 1 S.C.R. 623; 134 N.R. 241; 95 Nfld. & P.E.I.R. 271; 301 A.P.R. 271, for that proposition, where Cory, J., stated for the Court:
+"Everyone appearing before administrative boards is entitled to be treated fairly. It is an independent and unqualified right. As I have stated, it is impossible to have a fair hearing or to have procedural fairness if a reasonable apprehension of bias has been established. If there has been a denial of a right to a fair hearing it cannot be cured by the tribunal's subsequent decision. A decision of a tribunal which denied the parties a fair hearing cannot be simply voidable and rendered valid as a result of the subsequent decision of the tribunal. Procedural fairness is an essential aspect of any hearing before a tribunal. The damage created by apprehension of bias cannot be remedied. The hearing, and any subsequent order resulting form it, must be void. (para. 40)"
+[37]
+It is also well established that a breach of natural justice and procedural fairness is a jurisdictional error (see, for example,
+Eamor v. Air Canada Ltd. et al.
+(1999), 129 B.C.A.C. 212; 210 W.A.C. 212; 179 D.L.R.(4th) 243 (C.A.), at 256 (B.C.C.A.);
+Braemar Bakery Ltd. v. Liquor Control Commission (Man.)
+(1999), 142 Man.R.(2d) 47; 212 W.A.C. 47; 181 D.L.R.(4th) 565 (C.A.), at 574-5 (Man. C.A.)).
+[38]
+Finally, there are numerous authorities to the effect that a privative clause like the one found in s. 243(2) of the
+Canada Labour Code
+cannot oust judicial review when a jurisdictional error is at stake. Indeed, the Federal Court of Appeal came to that conclusion in the context of this specific provision:
+Canada Post Corp. v. Pollard
+(1993), 161 N.R. 66; 109 D.L.R.(4th) 272 (F.C.A.), at p. 277. See also
+National Bank of Canada v. Canada (Minister of Labour) et al.
+(1997), 133 F.T.R. 142; 3 Admin. L.R.(3d) 51 (F.C.), per Rothstein, J.; affd. (1998), 229 N.R. 1 (F.C.A.), leave to appeal refused (1999), 236 N.R. 196 (S.C.C.).
+[39]
+This position was not disputed by either of the Respondents, and I therefore assume that there is general agreement on the proposition that section 243 of the
+Canada Labour Code
+cannot prevent this Court from reviewing the decision of the adjudicator if it is established that there was a reasonable apprehension of bias due to the fact that he was also acting as counsel for a claimant against the Bank in another file.
+d) The reasonable apprehension of bias
+[40]
+Once again, there is no disagreement between the parties as to the accepted test for identifying a reasonable apprehension of bias. The test was set down in the following terms by de Grandpré, J., in his dissent in
+Committee for Justice and Liberty Foundation et al. v. National Energy Board et al.
+, [1978] 1 S.C.R. 369; 9 N.R. 115; 68 D.L.R.(3d) 716, at pp. 394-395 [S.C.R.]:
+"[...] the apprehension of bias must be a reasonable one, held by reasonable and right-minded persons, applying themselves to the question and obtaining thereon the required information. In the words of the Court of Appeal [at p 667], that test is 'what would an informed person, viewing the matter realistically and practically - and having thought the matter through - conclude.'"
+[41]
+This approach was subsequently reiterated by the Supreme Court in
+R. v. R.D.S.
+, [1997] 3 S.C.R. 484; 218 N.R. 1; 161 N.S.R.(2d) 241; 477 A.P.R. 241, and
+Wewayakum Indian Band v. Canada and Wewayakai Indian Band
+, [2003] 2 S.C.R. 259; 309 N.R. 201; 2003 SCC 45, and followed in numerous lower court decisions including, most recently, the Federal Court of Appeal in
+Fetherston v. Canadian Food Inspection Agency
+, [2005] F.C.J. No. 544; 332 N.R. 113; 2005 FCA 111. The reason for insisting on impartiality of decision makers was aptly explained by the Supreme Court in
+Szilard v. Szasz
+, [1955] 1 D.L.R. 370 (S.C.C.), at p. 373:
+"These authorities illustrate the nature and degree of business and personal relationships which raise such a doubt of impartiality as enables a party to an arbitration to challenge the tribunal set-up. It is the probability or the reasoned suspicion of biased appraisal and judgment, unintended through it may be, that defeats the adjudication at its threshold. Each party, acting reasonably, is entitled to a sustained confidence in the independence of mind of those who are to sit in judgment on him and his affairs."
+[42]
+It may well be that Mr. Hepburn considered that he could dissociate the two files in his mind and that his state of mind was not such as to preclude him of being impartial. But this is irrelevant, as a reasonable apprehension of bias must not be confused with actual bias. As stated by the Manitoba Court of Appeal in
+Braemar Bakery Ltd. v. Manitoba Liquor Control Commission
+, above, at pp. 570-1:
+"13. Further it has been established that, in dealing with an allegation of apprehension of bias, evidence which would have the effect of negating bias is irrelevant and is not to be considered. In Jones and de Villars,
+Principles of Administrative Law
+, 2nd Ed. (Toronto: Carsewell, 1994), the authors state at p. 365:
+'... common sense says that the delegate (or another party) can lead evidence to contradict that introduced by the applicant for the judicial review. The purpose of such evidence is to show that there is no reasonable apprehension of bias disclosed by the facts.
+On the other hand, it would appear to be wrong in principle to permit the delegate (or another party) to lead evidence to show that there was no actual bias, or no actual participation by a disqualified person in the decision. Such evidence is irrelevant to determining whether there is an
+apprehension
+of bias, and therefore is inadmissible
+. [Emphasis in italics added]'
+. . . . .
+"17. In his reasons quoted above, the motions court judge refers to actual bias as opposed to dealing with the concept of reasonable apprehension of bias. The concepts are quite different and cannot be used interchangeably. It is an error in law to deal with the concept of actual as opposed to apprehended bias just as it is an error to place any weight or consideration on the fact that the adjudicating body might have reached a decision that appears to be eminently reasonable."
+[43]
+It seems to me that a reasonable and right-minded person, apprised of all the facts, would have a reasonable apprehension of bias. It is not only the fact that Mr. Hepburn was acting as counsel in the Olsen claim against the Bank of Montreal which raises an apprehension of bias, although this is not in itself an insignificant factor. But the circumstances of that claim are also of some relevance. Not only was the Olsen claim quite substantial and involving a branch of the Bank in the same area as the file he was appointed to decide as adjudicator, but it was also quite active despite the fact that it had been launched three years before his appointment by the Minister of Labour. Indeed, the record shows that Mr. Hepburn sent a letter to the lawyer representing the Bank in the Olsen file on June 17, 2004, barely two months before he handed down his decision in the instant case.
+[44]
+But there is more than that. A perusal of that June 17, 2004 letter, as well as of another letter sent by Mr. Hepburn on November 20, 2002 in that same Olsen file, denotes some frustration and even exasperation with respect to the examination of the Bank's representative. Mr. Hepburn alleged that the Bank's representative was "ill-prepared to meet [the Bank] 's responsibilities and had no personal knowledge or understanding of any of the information that was required of her". In the June 17, 2004 letter, he even threatened to apply to the Court to compel delivery of undertakings previously made by the Bank if they were not in his possession by June 28, 2004. This is certainly not illustrative of a harmonious professional relationship between Mr. Hepburn and the Bank.
+[45]
+In light of all this, it seems obvious to me that an informed person, viewing the matter realistically and practically and having thought the matter through, would conclude that there is a reasonable apprehension of bias. At the very least, Mr. Hepburn should have disclosed his involvement in the Olsen file to the parties before proceeding with the hearing, and preferably as soon as he was appointed. Lord Denning's admonition as regard the risk of conflict of interest rings with a particular echo in the instant case:
+"No man can be an advocate for or against a party in one proceeding, and at the same time sit as a judge of that party in another proceeding. Everyone would agree that judge, or a barrister or solicitor (when he sits ad hoc as a member of a tribunal) should not sit on a case to which a near relative or a close friend is a party. So, also, a barrister or solicitor should not sit on a case to which one of his clients is a party; nor on a case where he is already acting against one of the parties. Inevitably people would think he would be biased."
+Metropolitan Properties Co. (F.G.C.) Ltd. v. Lannon
+, [1968] 3 All E.R. 304 (C.A.), at 310 (C.A.)
+e) The waiver
+[46]
+For the Applicant to be successful, it is not sufficient to establish that the adjudicator's role as counsel in another file involving the Bank raised a reasonable apprehension of bias. The Respondent Ms. Brown submits that the Applicant was aware prior to the hearing that Mr. Hepburn was acting against the Applicant in the Olsen file, and therefore waived its right to complain on that basis.
+[47]
+There are, indeed, a number of cases where the issue of waiver was canvassed. This Court, in particular, has repeated time and again that a person aware of the facts creating a reasonable apprehension of bias and of his or her right to object must do so at the earliest occasion. Otherwise, the party not complaining immediately will be taken to have implicitly waived his or right to raise the issue of bias. It would be most unfair to the other party if one could wait and see if the decision turns out to be in his or her favour before alleging an apprehension of bias.
+[48]
+This issue was fully considered by this Court in
+Oh v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.T.R. Uned. 142; [2003] F.C.J. No. 245; 2003 FCT 161, in which Justice MacKay stated:
+"13. When a reasonable apprehension of bias arises in the course of a hearing of a tribunal, or an interview by an immigration officer, whose decision has substantial significance for the person concerned, it may make the proceeding voidable. But where the person concerned is aware of the circumstances and of a reasonable apprehension, and of his or her right to object and fails to take advantage of a reasonable opportunity to do so, he or she may in effect waive the right to raise objection to the decision on grounds of bias after the decision is made. (See:
+Abdalrithah v. M.E.I.
+(1988), 40 F.T.R. 306; See also
+Gill v. M.E.I.
+(1988), 5 Imm. L.R.(2d) 82 (F.C.T.D.)
+"14. In
+Khakh v. Canada (Minister of Employment and Immigration)
+, [1994] 1 F.C. 548 (T.D.), Mr. Justice Nadon, as he then was, allowed an application for judicial review of a decision of an adjudicator whose comments at a hearing were found by the learned judge to create a reasonable apprehension of bias, where no objection was made by the person concerned until the adjudicator's decision was subject to a judicial review. The application was allowed. I note that the learned judge specifically comments that in that case, the person concerned was not aware that the comments made by the adjudicator gave him the right to make an objection, and had the applicant been represented by legal counsel who could be expected to object, to perceived bias at an early opportunity, but did not do so, the determination might have been different.
+"15. In
+Khakh
+, Mr. Justice Nadon reviewed authorities and a number of treatises whose authors discuss the concept of waiver. Among these Dussault and Borgeat in
+Administrative Law: A treatise
+, Vol. 4, 2nd Ed., (Toronto: Carswell, 1990) at pp. 296-7 comment as follows:
+'At common law, it is also a fundamental rule of natural justice that an agency or inferior tribunal manifest neither bias nor interest: nemo judex in sua causa. Contrary to actual bias, which as we have seen affects the tribunal's capacity to act and therefore may impair its jurisdiction, mere apprehension of bias will remove capacity to act only if it is invoked within the time frame available.'
+David J. Mullan in
+Administrative Law
+, Title 3, Vol. 1 of the
+Canadian Encyclopedic Digest
+, 3rd Ed., (Ontario, Carswell, 1979) comments at p. 57:
+'A possible defence to an allegation of bias is waiver. If a party to proceedings, with full knowledge of all the facts, consents nevertheless to the continued presence of an adjudicator in whom there is a reasonable apprehension of bias, that person is precluded from subsequently complaining about the particular adjudicator's presence and participation in the decision-making process. Indeed, a failure to object has at times been held sufficient to constitute a waiver of any future right to complain.'"
+[49]
+In the present case, it is undisputed by the parties that at the time of his appointment and at the time of the hearing, the adjudicator was acting as counsel against the Applicant in a separate action. It is also undisputed that the issue of bias was not raised at the hearing, but was in fact raised for the first time in the present application. The question on which this case turns is whether or not the Applicant was aware of the potential for bias on the part of the adjudicator.
+[50]
+The Bank submitted that at all times during the Brown adjudication, Mr. Matthews, Senior Consultant with Corporate Employee Relations in the Bank of Montreal Financial Group in Toronto, was responsible for instructing legal counsel acting on behalf of the Bank. I am satisfied from the evidence that he did not know of the Olsen file prior to August 26, 2004, and that he had no involvement with counsel for the Bank on the Olsen claim as that claim was not managed by his department. He could not, therefore, consent to the adjudicator acting in the capacity of adjudicator in the Brown file while actively pursuing the Olsen claim against the Bank.
+[51]
+The same cannot be said, however, of Mr. Ken Segboer. It was Mr. Segboer's contention that he met the adjudicator for the first time on April 22, 2004, when he appeared before him to give sworn testimony on behalf of the Bank in the Brown adjudication. In his affidavit, Mr. Segboer testified that he had no knowledge that the adjudicator was the solicitor to the Olsens in the Olsen claim, as he took no notice of any reference to the name Hepburn on any correspondence that was provided to him or may have been provided to him in his capacity as a manager with an oversight role in the Olsen claim. He also alleged that he did not understand that an adjudicator could act as a lawyer and an adjudicator at the same time and had no reason to believe that the adjudicator in the Brown adjudication could be the same person as the lawyer acting for the Olsens in their claim against the Bank given the conflict the two positions create.
+[52]
+It is apparently only on or about August 16, 2004, when reviewing a letter sent on June 17, 2004 by Mr. Hepburn to counsel acting for the Bank in the Olsen file, that he would have taken note of the name of the author of that letter and realized that counsel for the Olsens was the same person as the adjudicator in the Brown file. But then again, it is only after being contacted by Mr. Matthews on or about August 26, 2004 and advised of the decision in the Brown adjudication that he raised his concern with him over whether the Bank would have received a fair hearing as a result of Mr. Hepburn's involvement as counsel in the Olsen claim.
+[53]
+I must say that I find this story hard to swallow, for a number of reasons. First of all, Mr. Segboer had been involved with the Olsen file since the summer of 2000 and, as the Senior Bank officer in Lethbridge, had been briefed on that file by the legal counsel for the Bank on several occasions. This was a serious claim, and Mr. Segboer had received many pieces of correspondence relating to the litigation which named Mr. Hepburn as legal counsel throughout these years, including at least two letters during the time period of the Brown adjudication. It is hard to believe that he would never have paid attention to the name of the opposing counsel, as it is found in large characters on the letterhead, and that he would never have connected the dots, especially after having appeared in front Mr. Hepburn as a witness for the Bank in the Brown adjudication.
+[54]
+But there is more. Mr. Segboer contended that he paid attention to the name of the counsel in the Olsen file on the June 17, 2004 letter because of the seriousness of the allegations. Yet there is no explanation as to why his curiosity was not aroused by the same kind of allegations, made in relation to the same file, in the letter of November 20, 2002. It is hardly credible that he would not have known the name of the lawyer representing the Olsens before his appearance in the Brown adjudication, and that he would or could not make the connection before August 16, 2004.
+[55]
+I also find it to be a strange coincidence that Mr. Segboer would have reviewed Mr. Hepburn's letter of June 17, 2004 only on August 16, 2004. When asked about this, Mr. Segboer replied that the letter (attached to the reply of July 23, 2004 by counsel for the Bank) was received while he was on vacation (until August 10, 2004), and that a large deal that had gone off the tracks prevented him from looking at this letter for another week upon his return. While this may well be true, I can't help thinking that this is a very convenient happenstance.
+[56]
+Finally, the Respondent Ms. Brown argued that perhaps the most telling indication of the lack of credibility of Segboer's evidence is found in the cross-examination on his Affidavit where he is being questioned about the seriousness of the allegations in the November 20, 2002 letter from Mr. Hepburn to Mr. Richard Low, counsel for the Bank. Mr. Segboer admits to speaking with Mr. Low about the allegations and responds that "he didn't have any real problem with it. He thought Bruce was - that it was over - overdone, I think". I agree that the reference to "Bruce" in the familiar tense by Mr. Segboer, and the hesitations noted by the Court Reporter in the transcript immediately after that reference, at a time when he was maintaining that he did not know who the legal counsel for the Olsens was, tends to confirm that Mr. Segboer did know who Mr. Hepburn was at that time and throughout the Brown adjudication. The explanations given by counsel for the Applicant at the hearing with respect to that incident were not convincing.
+[57]
+For all of the above reasons, I am of the view that the Applicant, through Mr. Segboer, was aware of the conflict of interest resulting from the dual role played by Mr. Hepburn in the Brown adjudication and in the Olsen claim. At the very least, Mr. Segboer was negligent in not actively making further enquiries about Mr. Hepburn's potential conflict of interest before August 16, 2004. Consequently, the Bank is now precluded from raising a reasonable apprehension of bias to seek the quashing of the adjudicator's decision.
+JUDGMENT
+[58]
+THIS COURT ORDERS THAT this Application for judicial review is dismissed, with costs against the Applicant.
+Application dismissed.
+Editor: Angela E. McKay/vnh
+[End of document]

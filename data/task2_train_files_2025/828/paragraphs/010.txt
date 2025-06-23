@@ -1,0 +1,10 @@
+[10]
+According to
+Hughes and Woodley on Patents
+, Second Edition (Markham, Ontario: LexisNexis, 2005), at paragraph 25:
+2. The Disclosure
+Subsection 27(3) of the
+Patent Act
+lies at the heart of the whole patent system. The description of the invention provided for therein is the
+quid pro quo
+for which the inventor is given a monopoly for a limited term of years on the invention; it is to give to the public adequate details as will enable a workman skilled in the art to which the invention relates to construct or use that invention when the period of the monopoly has expired. In essence what is called for in the specification (including both disclosure and claims) is a description of the invention and the method of producing and constructing it, coupled with a claim or claims which state those novel features in which the applicant wants the exclusive right; the specification must define the precise and exact extent of the exclusive property and privilege claimed. The Act requires that an applicant file a specification, including disclosure and claims, whereby everything that is essential for the invention to function properly is disclosed. To be complete it must meet two conditions: it must describe the invention and define the way it is produced or built; and it must define the nature of the invention and how to put it into operation. Failure to define the first would render the application invalid for ambiguity; failure to meet the second renders it invalid for insufficiency. The description must be full enough to enable a person skilled in the art to produce the invention using only the disclosure in the patent.

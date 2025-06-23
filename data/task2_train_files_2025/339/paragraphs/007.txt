@@ -1,0 +1,46 @@
+[7]
+The classification level in the Program Administration (or "PM" group) is assessed according to the factors below. Where the factor has sub-factors, the first sub-factor is given an alphabetical designation, and the second factor is given a numerical designation. For example, the Knowledge factor could be scored from A to E for "Program/Technical", and from 1 to 4 for "General Administration".
+Factors
+Factor Weights
+Min. Value
+Max. Value
+Knowledge
+400
+81
+400
+--• Program/Technical
+-
+-
+-
+--• General Administration
+-
+-
+-
+Decision Making
+300
+69
+300
+--• Scope
+-
+-
+-
+--• Impact
+-
+-
+-
+Operational Responsibility
+150
+10
+150
+--• Nature of Responsibility
+-
+-
+-
+--• Complexity & Size of subordinate organization
+-
+-
+-
+Contacts
+150
+30
+150

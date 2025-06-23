@@ -1,0 +1,17 @@
+[33]
+A stringent standard of review has also been applied to decisions of adjudicators made pursuant to subsection 242(3.1) of the
+Canada Labour Code
+. In
+Canada Post Corp. v. Pollard
+, [1994] 1 F.C. 652; 161 N.R. 66; [1993] F.C.J. No. 1038 (F.C.A.), the Appeal Division of the Federal Court of Canada made a lengthy analysis of the standard of review applicable to decisions of adjudicators under that provision, and it ruled that such decisions were jurisdictional in nature and thus subject to a standard of correctness in judicial review proceedings. This was again reiterated by Strayer, J.A., in the 1995 decision of
+Byers Transport
+, at page 371, with respect to both paragraphs 242(3.1)(a) and (b) of the
+Canada Labour
+Code
+:
+"In reviewing the adjudicator's conclusion that he was not precluded from jurisdiction over the claim by virtue of paragraph 242(3.1)(a), the learned trial judge applied the standard of patent unreasonability. He found no such unreasonability to exist in the adjudicator's conclusion. The appellant argues that the adjudicator's finding was one of jurisdiction for which the standard of review should have been correctness. I agree. In its decision in
+Pollard
+this Court had occasion to consider the standard of review in respect of the application of subsection 242(3.1). It held that a determination as to whether an adjudicator is precluded by this subsection from considering the unjust dismissal complaint of a person is a finding as to the existence of jurisdiction and the standard for judicial review of such a determination is that of correctness. This is so notwithstanding the provisions of the privative clause which states as follows: [follows section 243 of the
+Canada Labour
+Code
+reproduced above]."

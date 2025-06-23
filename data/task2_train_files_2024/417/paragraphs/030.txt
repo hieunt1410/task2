@@ -1,0 +1,5 @@
+[30]
+An applicant seeking an interlocutory injunction must show that they would suffer irreparable harm if the injunction is not granted. Establishing irreparable harm is a difficult task, as it involves establishing that the harm caused could not later be compensated through damages. As I stated in
+White v. E.B.F. Manufacturing Ltd.
+, 2001 FCT 1133, 15 C.P.R. (4th) 505 at paragraph 13:
+¶ 13 ... The second question is whether damages will provide the plaintiff with an adequate remedy. An interlocutory injunction is a discretionary and equitable remedy which will not be granted in the absence of the applicant showing irreparable harm. "Irreparable" refers to the nature of the harm suffered rather than its magnitude. It is harm which cannot be quantified in monetary terms or which cannot be cured with damages....

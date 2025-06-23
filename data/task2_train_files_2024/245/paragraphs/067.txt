@@ -1,0 +1,41 @@
+[67]
+This reasoning was however shortly thereafter questioned by the Court of Appeal in
+Byers Transport
+. In that case, the complainant had filed both a complaint for unjust dismissal under section 240 of the
+Canada Labour
+Code
+and a complaint under section 97 of that
+Code
+claiming that her employer had committed an unfair labour practice in laying her off or dismissing her for her union activities. Strayer, J.A., ruled that the section 97 complaint precluded the adjudicator from hearing the section 240 complaint in the light of the provisions of paragraph 242(3.1)(b) of the
+Code
+. The reasoning of Strayer, J.A., is set out in pages 377 to 380 of
+Byers Transport
+(paras. 20 to 22):
+"I have also considered carefully the decision of the Trial Division in
+Sagkeeng Alcohol Rehab Centre Inc
+. In that case it was argued that because one of the grounds alleged for the complaint of unjust dismissal was discrimination as prohibited by the
+Canadian Human Rights
+Act
+, there was another form of redress under that
+Act
+of Parliament which precluded the adjudicator from dealing with the complaint by virtue of paragraph 242(3.1)(b). The Trial judge emphasized that he did not have evidence before him as to the nature of these allegations but he rejected the argument based on paragraph 242(3.1)(b) in part on the basis of his interpretation of the meaning of that paragraph. He held [at page 463] that the other 'procedure for redress' referred to therein 'cannot be based on a different cause of action or provide a lesser remedy' than the procedure under Part III of the
+Canada Labour
+Code
+.
+. . . . .
+"While not questioning the result in that case, given the evidence before the trial judge, I have some reservations as to his analysis of the meaning of 'a procedure for redress' of a 'complaint' as referred to in the statute. I believe that the complaint (i.e. the factual situation complained of) must be essentially the same in the other 'procedure for redress'. But I doubt that the remedies have to be as good or better under the other provision in order to oust the jurisdiction of the adjudicator under paragraph 242(3.1)(b). That paragraph does not require that
+the same redress
+be available under another provision of the
+Labour
+Code
+or some other federal Act. What it requires is that in respect of the same complaint there be
+another
+procedure for redress. The point is even clearer in the French version which simply requires that there be 'un autre recours'. I do not believe that for there to be a 'procedure for review ... elsewhere' there must be a procedure which will yield exactly the same remedies, although no doubt that procedure must be capable of producing some real redress which could be of personal benefit to the same complainant.
+. . . . .
+"This analysis supports the view that where Parliament has established specialist tribunals, whether under the
+Canada Labour
+Code
+or elsewhere, to deal with certain aspects of employer-employee relationships, it should not be taken to have conferred concurrent jurisdiction on ad hoc adjudicators to deal with the same matter. In my view the procedure in Part III for the filing of complaints by non-unionized employees for unjust dismissal, for hearing by an adjudicator, should be seen as a residual procedure intended to provide some redress where such redress was not otherwise available. It seems to me that that is the clear meaning of paragraph 242(3.1)(b).
+"Nor need this approach create serious problems for a dismissed employee who is perhaps not sure which procedure for redress to invoke. As far as I can ascertain, one can file complaints under both Part I and Part III of the
+Code
+without incurring any expense. The critical deadline in each case is 90 days after the complainant is aware of the cause for complaint. The Part III remedy being residual, it would be prudent for the complainant to prosecute first the Part I complaint. Only if she is unable to establish an unfair labour practice as the cause for her dismissal should she then pursue further the Part III complaint. It will be noted that in the present case the respondent did in fact file complaints under both Parts, but she failed to pursue the Part I complaint to its conclusion by seeking a hearing before the Board. It was she who terminated her Part I redress procedure."

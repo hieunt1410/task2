@@ -1,0 +1,7 @@
+[10]
+The defendant's refusal to provide further particulars with respect to the Particulars of Objection was based on the sole ground that the plaintiffs "have the knowledge demanded". In
+Bror With v. Ruko of Canada Ltd.
+(1976), 31 C.P.R.(3d) 3 (F.C.T.D.), a similar argument was put forward by the defendant to justify its unwillingness to provide particulars. Walsh, J., rejected that reasoning stating at p. 5:
+"I do not find this argument persuasive. Plaintiff has sued defendant in infringement of his patent and in defence defendant is contesting the validity of this patent as it has the right to do. The burden is on the defendant to prove why plaintiff's Canadian letters patent is invalid, null and void ab initio and unenforceable as contended by defendant in its statement of defence on the grounds set forth in its particulars of objections.
+It is certainly insufficient to state that no further particulars should be given because plaintiff is well aware of the reasons for the alleged invalidity of his patent. Plaintiff cannot be expected to admit that his patent is invalid, and without making this admission I fail to see how it can be seriously contended that plaintiff already knows the reasons why it is invalid. Neither is it proper to assume that plaintiff's knowledge is necessarily co-existent with whatever knowledge defendant may have and that therefore defendant need not give further particulars of the facts on which it bases its claim of invalidity.
+" (emphasis added)

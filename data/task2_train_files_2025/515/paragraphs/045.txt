@@ -1,0 +1,22 @@
+[45]
+Finally, I note that the RPD did not follow its own procedural Rules in this case: the respondent's response was filed (but not served) within the seven-day period required by rule 45, and the RPD issued its decision the next day without providing the applicant with an opportunity to reply, which pursuant to rule 46, it is entitled to do. The relevant portions of rules 45 and 46 read:
+"45(3) A party who responds to a written application must provide
+(a) to the other party, a copy of the response and any affidavit or statutory declaration; and
+(b) to the Division, the original response and any affidavit or statutory declaration, together with a written statement of how and when the party provided the copy to the other party.
+"(4) Documents provided under this rule must be received by their recipients no later than seven days after the party received the copy of the application.
+"46(1) A reply to a written response must be in writing.
+"(2) Any evidence that the party wants the Division to consider with the written reply must be given in an affidavit or statutory declaration together with the reply. Unless the Division requires it, an affidavit or statutory declaration is not required if the party was not required to give evidence in an affidavit or statutory declaration with the application.
+"(3) A party who replies to a written response must provide
+(a) to the other party, a copy of the reply and any affidavit or statutory declaration; and
+(b) to the Division, the original reply and any affidavit or statutory declaration, together with a written statement of how and when the party provided the copy to the other party.
+"(4) Documents provided under this rule must be received by their recipients no later than five days after the party received the copy of the response."
+"45(3) La partie transmet:
+a) à l'autre partie, une copie de la réponse et, selon le cas, de l'affidavit ou de la déclaration solennelle;
+b) à la Section, l'original de la réponse et, selon le cas, de l'affidavit ou de la déclaration solennelle, ainsi qu'une déclaration écrite indiquant à quel moment et de quelle façon une copie de ces documents a été transmise à l'autre partie.
+"(4) Les documents transmis selon la présente règle doivent être reçus par leurs destinataires au plus tard sept jours suivant la réception de la copie de la demande par la partie.
+"46(1) La réplique à une réponse écrite se fait par écrit.
+"(2) La partie énonce dans un affidavit ou une déclaration solennelle qu'elle joint à sa réplique écrite tout élément de preuve qu'elle veut soumettre à l'examen de la Section. A moins que la Section l'exige, il n'est pas nécessaire d'y joindre d'affidavit ou de déclaration solennelle dans le cas où la partie n'était pas tenue d'y joindre un tel document.
+"(3) La partie transmet:
+a) à l'autre partie, une copie de la réplique et, selon le cas, de l'affidavit ou de la déclaration solennelle;
+b) à la Section, l'original de la réplique et, selon le cas, de l'affidavit ou de la déclaration solennelle, ainsi qu'une déclaration écrite indiquant à quel moment et de quelle façon une copie de ces documents a été transmise à l'autre partie.
+"(4) Les documents transmis selon la présente règle doivent être reçus par leurs destinataires au plus tard cinq jours suivant la réception de la copie de la réponse par la partie."

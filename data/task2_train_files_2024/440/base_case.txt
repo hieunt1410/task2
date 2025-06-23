@@ -1,0 +1,93 @@
+[1]
+Pinard, J.
+: This is an application for judicial review for an order of mandamus with respect to an allegation of unlawful failure, refusal or unreasonable delay by the respondent to grant permanent resident status to the applicant.
+[2]
+The applicant is a citizen of Ethiopia and was accepted as a Convention refugee by the Immigration and Refugee Board of Canada on October 30, 1997.
+[3]
+According to the immigration officer at the Case Processing Centre ("CPC") in Vegreville, Alberta, the CPC received the applicant's application for permanent residence as a Convention refugee on December 24, 1997. The CPC informed the applicant that he would have to obtain the appropriate identity documents before his application for permanent residence in Canada could be approved.
+[4]
+The applicant indicated in his application that he had a passport issued by the Ethiopian Embassy in Canada, though a copy of this passport was not enclosed. After a letter of request, the applicant submitted his passport, issued by the Ethiopian Embassy in Ottawa on February 12, 1998.
+[5]
+As the passport did not predate the applicant's claim to refugee status, the immigration officer deemed it to be unacceptable proof of identity, and on June 15, 1998, requested further identity documentation. The applicant submitted the same passport and upon further demand stated that he had no further documents, as he had used false documents to enter the country.
+[6]
+On November 30th, 1998, the applicant was informed that the processing of his application was suspended until further documentation could be provided. On December 1, 1998, the applicant requested time to find his birth certificate, and two years later, by letter dated April 2, 2001, he submitted what was determined to be a false birth certificate by the Immigration Section, Canadian High Commission in Nairobi, Kenya.
+[7]
+The applicant obtained a passport from the Ethiopian Embassy in Ottawa on March 23, 2002 and forwarded this passport to the CPC.
+[8]
+The CPC notified the applicant that the document he had submitted did not meet the requirements of subsection 46.04(8) of the
+Immigration Act
+, R.S.C. 1985, c. I-2 (the "
+Act
+") and after a series of letter exchanges, the CPC determined that his file would remain suspended until the applicant submitted further documentation.
+[9]
+Thus, the immigration officer found that the application for permanent residence did not meet the requirements of subsection 46.04(8) of the
+Act
+because the applicant's Ethiopian passport was unacceptable proof of his identity since it was issued by the Ethiopian Embassy in Ottawa after the applicant entered Canada.
+[10]
+Subsection 46.04(8) of the
+Act
+governed the processing of the applicant's application until the repeal of the
+Immigration Act
+on June 28, 2002, and reads:
+"(8) An immigration officer shall not grant landing either to an applicant under subsection (1) or to any dependant of the applicant until the applicant is in possession of a valid and subsisting passport or travel document or a satisfactory identity document."
+"(8) Tant que l'intéressé n'est pas en possession d'un passeport ou d'un document de voyage en cours de validité ou de papiers d'identité acceptables, l'agent d'immigration est tenu de lui refuser, ainsi qu'aux personnes à sa charge, le droit d'établissement."
+[11]
+The new
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (the "
+IRPA
+") contains similar requirements which are found in the
+IRPA Regulations
+. Paragraph 50(1)(a) of the
+IRPA Regulations
+states that an applicant for permanent residence must possess a passport that was issued by the country of which the foreign national is a citizen or national. Section 178 of the
+IRPA Regulations
+gives an alternative list of documents for applicants applying for permanent residence as Protected Persons, where they cannot obtain the document required in section 50 of the
+IRPA Regulations
+. Subsection 50(1) of the
+IRPA Regulations
+reads:
+"50(1) In addition to the permanent resident visa required of a foreign national seeking to become a permanent resident at a port of entry, a foreign national seeking to become a permanent resident must hold
+(a) a passport, other than a diplomatic, official or similar passport, that was issued by the country of which the foreign national is a citizen or national;
+(b) a travel document that was issued by the country of which the foreign national is a citizen or national;
+(c) an identity or travel document that was issued by a country to non-national residents, refugees or stateless persons who are unable to obtain a passport or other travel document from their country of citizenship or nationality or who have no country of citizenship or nationality;
+(d) a travel document that was issued by the International Committee of the Red Cross in Geneva, Switzerland, to enable and facilitate emigration;
+(e) a passport or travel document that was issued by the Palestinian Authority;
+(f) an exit visa that was issued by the Government of the Union of Soviet Socialist Republics to its citizens who were compelled to relinquish their Soviet nationality in order to emigrate from that country;
+(g) a British National (Overseas) passport that was issued by the Government of the United Kingdom to persons born, naturalized or registered in Hong Kong; or
+(h) a passport that was issued by the Government of Hong Kong Special Administrative Region of the People's Republic of China."
+"50(1) En plus du visa de résident permanent que doit détenir l'étranger qui cherche à devenir résident permanent à un point d'entrée, l'étranger qui entend devenir résident permanent doit détenir l'un des documents suivants:
+a) un passeport - autre qu'un passeport diplomatique, officiel ou de même nature - qui lui a été délivré par le pays don't il est citoyen ou ressortissant;
+b) un titre de voyage délivré par le pays dont il est citoyen ou ressortissant;
+c) un titre de voyage ou une pièce d'identité délivré par un pays aux résidents non-ressortissants, aux réfugiés au sens de la Convention ou aux apatrides qui sont dans l'impossibilité d'obtenir un passeport ou autre titre de voyage auprès de leur pays de citoyenneté ou de nationalité, ou qui n'ont pas de pays de citoyenneté ou de nationalité;
+d) un titre de voyage délivré par le Comité international de la Croix-Rouge à Genève (Suisse) pour permettre et faciliter l'émigration;
+e) un passeport ou un titre de voyage délivré par l'Autorité palestinienne;
+f) un visa de sortie délivré par le gouvernement de l'Union des républiques socialistes soviétiques à ses citoyens obligés de renoncer à leur nationalité afin d'émigrer de ce pays;
+g) un passeport intitulé 'British National (Overseas) Passport', délivré par le gouvernement du Royaume-Uni aux personnes nées, naturalisées ou enregistrées à Hong Kong;
+h) un passeport délivré par les autorités de la zone administrative spéciale de Hong Kong de la République populaire de Chine."
+[12]
+In
+FRAGMENT_SUPPRESSED
+[13]
+Since the applicant had a "valid and subsisting" passport at the time of his application, which is no longer disputed by the respondent, it was not within the officer's discretion to determine if the issuance of this document was satisfactory. The "satisfactory" test applies only to identity documents other than passports and if a person has a "valid and subsisting" passport or travel document, then the person will have satisfied the identity part of the requirement to become landed (see
+Vairamuthu et al. v. Canada (Minister of Citizenship and Immigration)
+, [2000] F.C.J. No. 1557; 195 F.T.R. 44 (T.D.)). In this case, there was no question of the authenticity or the validity of the passport, and it bore both the name and the photograph of the applicant. Hence, the officer erred in law when she rejected the passport submitted by the applicant on the grounds that it was issued after his entry into Canada.
+[14]
+It is important to note that the issues of credibility addressed by the officer in her affidavit occurred well after the initial suspension of the applicant's application. The fake birth certificate was produced by the applicant after
+three years
+of waiting to be processed on a valid passport. Though I do not condone the use of false documents, I think the applicant's submission of a fraudulent birth certificate was the act of a desperate man, not a dishonest one. There were no evident negative credibility or identity issues when the officer initially chose to suspend the processing. The name on the passport was the name of the applicant, and as officials of the Ethiopian Government were satisfied with the validity of its issuance, it was not for the officer to consider. Consequently, I find that the officer erred in law when she refused to accept the "valid and subsisting" passport under subsection 46.04(8) of the
+Act
+. She would have made the same error had she based her refusal on paragraph 50(1)(a) of the
+IRPA Regulations
+.
+[15]
+I agree with the respondent, as well as Justice Gibson in
+Popal
+, supra, that mandamus is not the appropriate remedy under the circumstances. This decision is rather set aside and the matter, sent back for redetermination in accordance with the law and these given reasons.
+[16]
+Finally, I am not satisfied that there are special circumstances which warrant an award of costs.
+[17]
+Considering the above result, it is clear from the correspondence filed by counsel for the parties after the hearing of this matter that no question ought to be certified.
+Order accordingly.
+Editor: Jana A. Andersen/clh
+[End of document]

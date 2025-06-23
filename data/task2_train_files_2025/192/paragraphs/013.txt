@@ -1,0 +1,12 @@
+ [13] 
+  The governing jurisprudence with respect to when the principle of functus officio is applied to administrative decisions is found in  
+ Chandler v. Alberta Association of Architects 
+ , [1989] 2 S.C.R. 848; 99 N.R. 277; 101 A.R. 321, at p. 862. Mr. Justice Sopinka, speaking for a majority of the court, indicated that the origin of the doctrine functus officio related to formal orders of a court that were subject to full appeal. He noted that there was some indication that the doctrine did not apply to administrative tribunals from which there was no appeal. In his view this was not correct since there were sound policy reasons for finality of decision-making by both administrative tribunals and courts. However, he noted that the doctrine should be applied flexibly to administrative tribunals: 
+ 
+ 
+ 
+ "... I am of the opinion that its application must be more flexible and less formalistic in respect to the decisions of administrative tribunals which are subject to appeal only on a point of law. Justice may require the reopening of administrative proceedings in order to provide relief which would otherwise be available on appeal. 
+ 
+ 
+ 
+ "Accordingly, the principle should not be strictly applied where there are indications in the enabling statute that a decision can be reopened in order to enable the tribunal to discharge the function committed to it by enabling legislation."

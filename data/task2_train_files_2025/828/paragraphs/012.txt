@@ -1,0 +1,4 @@
+[12]
+Another part of the specification is the claims. Subsection 27(4) of the
+Patent Act
+, R.S., c. P-4, states that a specification "must end with a claim or claims defining distinctly and in explicit terms the subject matter of the invention for which an exclusive privilege or property is claimed".

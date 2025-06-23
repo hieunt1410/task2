@@ -1,0 +1,153 @@
+Issue:
+[1]
+Rothstein, J.
+: These proceedings arise under s. 55.2 of the
+Patent Act
+, R.S.C. 1985, c. P-4, as amended, and the
+Patented Medicines (Notice of Compliance) Regulations)
+, SOR/93-133 ("
+Regulations
+"). The issue in these related applications is whether the
+Regulations
+contemplate one or more than one "notice of allegations" by a "second person" as those terms are used in the
+Regulations
+. Variations on the question of when a second person may amend a notice of allegations or issue a new notice of allegations have been addressed by this court, but no case identical to the one at bar has yet been considered.
+Facts
+[2]
+The facts are fairly straightforward. On or about August 3, 1993, Nu-Pharm Inc., the second person, filed with the Minister of National Health and Welfare, a submission for a notice of compliance in respect of the drug loratadine, an antihistamine. Included in the submission was a notice of allegations containing the legal and factual basis for the allegations. On August 8, 1993, the notice of allegations was served on Schering Canada Inc., the first person, in accordance with s. 5(1) and (3) of the
+Regulations
+:
+"5(1) Where a person files or, before the coming into force of these Regulations, has filed a submission for a notice of compliance in respect of a drug and wishes to compare that drug with, or make a reference to, a drug that has been marketed in Canada pursuant to a notice of compliance issued to a first person in respect of which patent list has been submitted, the person shall, in the submission, with respect to each patent on the patent list,
+(a) state that the person accepts that the notice of compliance will not issue until the patent expires; or
+(b) allege that
+(i) the statement made by the first person pursuant to paragraph 4(2)(b) is false,
+(ii) the patent has expired,
+(iii) the patent is not valid, or
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+. . . . .
+"(3) Where a person makes an allegation pursuant to paragraph (1)(b) or subs. (2) the person shall
+(a) provide a detailed statement of the legal and factual basis for the allegation; and
+(b) serve a notice of the allegation on the first person and proof of such service on the Minister."
+[3]
+On September 20, 1993, in accordance with s. 6(1) of the
+Regulations
+, Schering Canada Inc. and Schering Corporation commenced proceedings by way of an application, with supporting affidavits, for an order prohibiting the Minister from issuing a Notice of Compliance to Nu-Pharm until after expiration of its relevant patents.
+"6(1) A first person may, within 45 days after being served with a notice of an allegation pursuant to paragraph 5(3)(b), apply to a court for an order prohibiting the Minister from issuing a notice of compliance until after the expiration of one or more of patents that are the subject of an allegation."
+[4]
+The
+Federal Court Rules
+pertaining to judicial review, the Part V.1 rules, have been held to be applicable to proceedings under the
+Regulations
+. See
+Bayer AG v. Canada (Minister of Health and Welfare)
+(1993), 163 N.R. 183; 51 C.P.R.(3d) 329 at p. 336 (F.C.A.). Under rule 1603(3) Nu-Pharm was to file its evidence within 30 days of being served with the Schering application. Nu-Pharm's evidence was due on October 20, 1993. Nu-Pharm did not file affidavits by that date.
+[5]
+Schering perfected its application for prohibition by filing and serving its application record on November 19, 1993, in accordance with rule 1606(1).
+[6]
+By notice of motion dated January 5, 1994, Nu-Pharm sought an order extending the time for filing and serving it affidavit evidence. On May 10, 1994, I dismissed the extension application.
+[7]
+Because my order of May 10, 1994 precluded Nu-Pharm from filing evidence to oppose Schering's prohibition application in Court file T-2274-93 in respect of Nu-Pharm's submission for a notice of compliance for loratadine, Nu-Pharm on May 12, 1994, prepared a second notice of allegations, setting out allegations and the legal and factual basis therefore. The second notice of allegations was served on Schering on May 17, 1994. The second notice of allegations is almost identical, in its material terms, to the original notice of allegations of August 3, 1993. In this way, Nu-Pharm still hopes to be able to bring before the court evidence in support of its position opposing Schering's prohibition application. [see footnote 1]
+[8]
+In an abundance of caution, and having regard to the 45 day period provided by s. 6(1) of the
+Regulations
+, Schering commenced a second prohibition application in Court file T-1528-94 on June 29, 1994 and served Nu-Pharm on June 30, 1994.
+[9]
+Before the court now are virtually identical applications in each court file, which in effect seek a decision by the court that Nu-Pharm's second notice of allegations of May 12, 1994 is not a notice of allegations as envisaged by the
+Regulations
+and does not give rise to new prohibition proceedings. The practical effect, if Schering is successful, is that there will only be one proceeding, the first proceeding in Court file T-2274-93, in which Nu-Pharm has not filed evidence and cannot now file evidence in support of its position.
+Position Of The Parties
+[10]
+Counsel for Schering says that the
+Regulations
+contemplate only one notice of allegations. He concedes that the
+Regulations
+envisage the possibility of amending a notice of allegations in limited circumstances, but he says that an amendment is not what is at issue here. Alternatively he argues that if a second notice of allegations is contemplated by the
+Regulations
+, the court should exercise its discretion not to permit a second notice in this case. He says a second notice of allegations simply will allow the circumvention of time limits and the court order not to extend time. He says that the question of whether Nu-Pharm may file evidence in now res judicata. He also says that in the circumstances here, a second notice of allegations in an abuse of process.
+[11]
+Counsel for Nu-Pharm says that the jurisprudence recognizes that more than one notice of allegations can be issued. He says that the important thing is that the matter be decided on its merits with all relevant evidence before the court. Further, he says that nothing is res judicata in these proceedings because there has been no decision on the merits. Finally he relies on
+AGF Canadian Equity Fund et al. v. Transamerica Commercial Finance Corp. Canada et al.
+(1993), 14 O.R.(3d) 161, (Gen. Div.), for the proposition that the commencement of new proceedings in the these circumstances is not an abuse of process.
+Analysis
+[12]
+Do the
+Regulations
+envisage a second notice of allegations in circumstances such as the case at bar? In
+Zeneca v. Apotex
+, Court file T-1454-93 (F.C.T.D.), McGillis, J., in a decision dated April 27, 1994, was faced with a proceeding in which three notices of allegations had been filed and served by Apotex Inc. In respect of the third notice of allegations, McGillis, J., concluded that the information upon which this notice of allegations was based had been known to Apotex when its earlier notices of allegations had been filed and served and that the third notice of allegations amounted to an abuse of process by Apotex. She struck the third notice of allegations. She did not decide the question of whether the
+Regulations
+contemplated multiple notices of allegations.
+[13]
+In
+Eli Lilly & Co. et al. v. Novopharm Ltd. et al.
+(1994), 81 F.T.R. 313, (T.D.), Strayer, J., in his decision dated May 24, 1994, at p. 316, observed that while there is a serious question as to whether second persons may unilaterally file new notices of allegations, "it would appear to me open to a second person to apply for leave to amend its notice of allegation and the court would then have to consider whether such an amendment could be allowed, and on what terms, in order to prevent prejudice to the other party".
+[14]
+In
+Eli Lilly & Co. et al. v. Novopharm Ltd. et al.
+(1994), 81 F.T.R. 116 (T.D.), Noël, J., in his decision dated June 30, 1994, assumed, without deciding the matter, that the court had jurisdiction to allow an amendment raising wholly new grounds in support of a notice of allegations. He stated at p. 118:
+FRAGMENT_SUPPRESSED
+[15]
+In the case at bar, there is no application by Nu-Pharm to amend its original notice of allegations, nor is there an application for leave to issue and file a new notice of allegations. Nu-Pharm, acting unilaterally, simply served a second notice of allegations.
+[16]
+The
+Regulations
+do not expressly state that one, or more than one, notice of allegations may be filed and served by a second person. They do, however, recognize that a notice of allegations may have to be amended to take account of new information after the original notice of allegations has been filed:
+"5(2) Where, after a second person files a submission for a notice of compliance, but before the notice of compliance is issued, a patent list is submitted or amended in respect of a patent pursuant to s. 4(5), the second person shall amend the submission to include, in respect of that patent, the statement or allegation that is required by subs. (1)."
+The circumstances here are different. There is no new information for which an amendment is required.
+[17]
+The
+Regulations
+are intended to provide a summary procedure for determining whether or not a second person should or should not be prohibited from obtaining a notice of compliance for its product. The process is commenced by the filing with the Minister of a submission for a notice of compliance by a second person. If the second person alleges that no claim for the medicine itself and no claim for the use of the medicine would be infringed, the first person must, if it disagrees with the allegations, within 45 days of service of the notice of allegations, make an application to the court for an order prohibiting the Minister from issuing a notice of compliance to the second person. According to the
+Regulations
+, all the proceedings must be completed within 30 months of the filing of the application for prohibition, unless the court shortens or extends this time limit.
+[18]
+As I read the
+Regulations
+, if the first person fails to file and serve its application for prohibition with 45 days of being served with a notice of allegations, the Minister may issue a notice of compliance to the second person after expiration of the 45 day period. By contrast with the discretion given to the court to shorten or extend the 30 month time limit, there is no provision for the court to extend the time for a first person to file its application for prohibition.
+[19]
+The issue of whether a second person may file a second notice of allegations in circumstances such as in the case at bar is one of fairness. Both first and second persons may find themselves in the position of not having filed evidence within the time limited by the
+Rules
+. Either may be refused an extension of time to file evidence by the court. It would not be fair to allow the second person to circumvent this difficulty and regain the opportunity to file evidence by serving a new notice of allegations when it is not open to the first person to regain the same opportunity because it cannot file a new application for a prohibition order. I do not think that the Governor-in-Council enacted
+Regulations
+that, in respect of procedure, were intended to treat first and second persons unequally.
+[20]
+There is another reason that I do not think that the
+Regulations
+contemplate a second notice of allegations in circumstances such as in the case at bar. The second notice of allegations gives rise to the exact same application for prohibition and evidence by Schering as it has already filed as a result of the first notice of allegations. Once the first application for prohibition has been adjudicated, the matter will have been decided on its merits. That Nu-Pharm has no evidence filed does not change the fact that the court will have made a decision on the merits, on the basis of the material before it. That decision will render the prohibition application res judicata. There will be no basis for a second proceeding at that point because the matter will have already been finally determined.
+[21]
+Counsel for Nu-Pharm says that the court could order consolidation to alleviate this difficulty. Perhaps it could, but this would be an extraordinary unusual consolidation application. The normal consolidation application arises when two or more applications, normally by different parties, are pending in the court. But here, there are two identical applications by the first person, caused because the second person has allowed time limits to expire in the first application. It seems to me that to allow a second notice of allegations, conditional upon a consolidation order to preclude the res judicata difficulty, which the second person brings upon itself, could not have been contemplated by the
+Regulations
+. Because of the expeditious nature of proceedings under the
+Regulations
+and the Part V.1 rules, I have to conclude that the Governor-in-Council did not intend this cumbersome type of process that recognition of a second notice of allegations would require.
+[22]
+For these reasons, I do not think that the
+Regulations
+contemplate multiple notices of allegations setting forth the same allegations in order to circumvent time limits in the
+Rules of the Court
+and court orders made in respect of them. A purported new notice of allegations in these circumstances does not start the process again and does not give the second person a fresh opportunity to file evidence.
+[23]
+I am mindful that it is less than satisfactory for a party not to be able to bring forward the evidence it thinks is necessary to make its case, but the second person in this case was given that opportunity and failed to take advantage of it. Nu-Pharm is required to deal with the record in the state it chose to leave it. (It should be noted that counsel for Nu-Pharm before me was not the same as counsel who had conduct of this matter when the time limit for filing evidence expired).
+[24]
+Mr. Anthony VanDoornik, Executive Vice-President of Nu-Pharm, in his affidavit, says that if the second notice of allegations is allowed, Nu-Pharm would pay all Schering's costs on a solicitor and client basis for the first proceedings in Court file T-2274-93, would agree to the 30 month time limit being extended and would otherwise co-operate to expedite the processing of the matter. While such undertakings might be appropriate if the court were in a position to exercise its discretion and decide in favour of Nu-Pharm, in my view, this is not a case for the exercise of discretion by the court. The second notice of allegations of Nu-Pharm in these circumstances is not one that is contemplated by the
+Regulations
+and does not give rise to new prohibitions proceedings.
+[25]
+In view of this finding, it is not necessary for me to deal with whether the second notice of allegations constitutes an abuse of the process of the court.
+[26]
+Of course, my decision is restricted to the circumstances before me. It is not intended to preclude Nu-Pharm from ever making another submission for a notice of compliance, assuming it is unsuccessful in the prohibition application brought by Schering in Court file T-2274-93. The only thing that it is precluded from doing by this decision, is seeking a new determination on the same allegations which will have been dealt with in proceedings in Court file T-2274-93 arising out of its first notice of allegations.
+[27]
+This matter will therefore proceed under Court file T-2274-93 in accordance with the record in that file. The notice of allegations giving rise to the proceedings in Court file T-1528-94, is not a valid notice of allegations recognized by the
+Regulations
+. The proceedings in Court file T-1528-94 are themselves, therefore, not contemplated by the
+Regulations
+and the court should not be asked to make a decision in this court file.
+[28]
+Counsel for Schering shall prepare orders consisting with these reasons and obtain agreement as to form from counsel for Nu-Pharm and submit them to the court for signature within fourteen (14) days of the date of these reasons. In the event counsel are unable to agree, counsel for Schering shall communicate with the court and arrange for a conference call with all parties and the court for the purpose of settling the form of orders.
+[29]
+Counsel may speak to the matter of costs by way of conference call.
+Order accordingly.
+Editor: Jana A. Andersen/saf
+Footnote
+1. Nu-Pharm has also appealed the May 10, 1994 order to the Federal Court of Appeal.
+[End of document]

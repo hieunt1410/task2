@@ -1,0 +1,627 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Xiao v. Can. (M.C.I.) (2009), 341 F.T.R. 217 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2009] F.T.R. TBEd. MR.017 
+ 
+ 
+ 
+ Xiao Zi Qi (applicant) v. The Minister of Citizenship and Immigration (respondent) 
+ 
+ (IMM-1094-08; 2009 FC 195) 
+ 
+ 
+ 
+ Indexed As: Xiao v. Canada (Minister of Citizenship and Immigration) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ de Montigny, J. 
+ 
+ February 24, 2009. 
+ 
+ 
+ 
+ Summary: 
+ 
+ A visa officer refused the applicant's application for a permanent resident visa on the basis that he was inadmissible to Canada because his son was inadmissible for criminality under s. 36(2(c) of the Immigration and Refugee Protection Act. The officer found that the son had committed the offence of possession and use of an altered passport to gain entry to Hong Kong, under Chapter 521, s. 5(1)(c) of the Official Secrets Ordinance. The son's acts also constituted an offence under s. 57(3) of the Criminal Code. The applicant applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court allowed the application and remitted the matter to a different visa officer for reconsideration. 
+ 
+ 
+ 
+ Aliens - Topic 1231 
+ 
+ Admission - Immigrants - Application for admission - Immigrant visa - Dependents or accompanying dependents - A visa officer refused the applicant's application for a permanent resident visa on the basis that he was inadmissible to Canada because his son was inadmissible for criminality under s. 36(2)(c) of the Immigration and Refugee Protection Act - The officer found that the son had committed the offence of possession and use of an altered passport (missing pages) to gain entry to Hong Kong, under Chapter 521, s. 5(1)(c) of the Official Secrets Ordinance - The son's acts also constituted an offence under s. 57(3) of the Criminal Code - The applicant applied for judicial review, asserting that the officer erred in relying on foreign law without providing expert legal evidence to prove the foreign law and its meaning - The applicant had filed the legal opinion of Blanchflower, a former Department of Justice lawyer who had been practising in Hong Kong in the field of criminal law, human rights and judicial review since 1986 - Blanchflower opined that the passport with the missing pages did not constitute an "altered travel document" within s. 42(2)(c)(i) of the Ordinance for two reasons: first, there was no evidence the alteration was done "unlawfully", and second, the missing pages did not constitute an alteration under that provision - The Federal Court allowed the application - The officer could not have reasonably concluded that the son had committed acts that were an offence in Hong Kong, and therefore find him criminally inadmissible in Canada, in light of the expert opinion to the contrary provided by Blanchflower and in the absence of any contrary expert opinion. 
+ 
+ 
+ 
+ Aliens - Topic 1236 
+ 
+ Admission - Immigrants - Application for admission - Evidence and proof - [See  
+ Aliens - Topic 1231 
+ ]. 
+ 
+ 
+ 
+ Aliens - Topic 1744.1 
+ 
+ Exclusion and expulsion - Immigration - Exclusion - Particular persons - Persons committing acts constituting an offence in Canada - [See  
+ Aliens - Topic 1231 
+ ]. 
+ 
+ 
+ 
+ Conflict of Laws - Topic 9624 
+ 
+ Evidence and proof - Proof of foreign law - Sufficiency of proof - [See  
+ Aliens - Topic 1231 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ New Brunswick (Board of Management) v. Dunsmuir, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, refd to. [para. 20]. 
+ 
+ Allen v. Hay, [1922] 64 S.C.R. 76, refd to. [para. 24]. 
+ 
+ Hill v. Minister of Employment and Immigration, [1987] 1 Imm. L.R.(2d) 1; 73 N.R. 315 (F.C.A.), refd to. [para. 24]. 
+ 
+ Li v. Canada (Minister of Citizenship and Immigration), [1997] 1 F.C. 235; 200 N.R. 307 (F.C.A.), refd to. [para. 24]. 
+ 
+ Canada (Minister of Citizenship and Immigration) v. Choubak (2006), 291 F.T.R. 129; 2006 FC 521, refd to. [para. 25]. 
+ 
+ Farkas v. Canada (Minister of Citizenship and Immigration), [2007] F.T.R. Uned. 150; 155 A.C.W.S.(3d) 914; 2007 FC 277, refd to. [para. 25]. 
+ 
+ Minister of National Revenue v. Capitol Life Insurance Co., [1986] 1 C.T.C. 388; 68 N.R. 350 (F.C.A.), refd to. [para. 28]. 
+ 
+ Murphy Estate v. Minister of National Revenue, [1974] C.T.C. 552 (F.C.A.), refd to. [para. 29]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Daniel L. Kiselbach, for the applicant; 
+ 
+ Caroline Christiaens, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Miller Thompson, LLP, Vancouver, British Columbia, for the applicant; 
+ 
+ Department of Justice, British Columbia Regional Office, Vancouver, British Columbia, for the respondent. 
+ 
+ 
+ 
+ This application was heard on October 9, 2008, at Vancouver, British Columbia, by de Montigny, J., of the Federal Court, who delivered the following judgment on February 24, 2009. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ de Montigny, J. 
+ : Mr. Zi Qi Xiao (a.k.a. Xiao Zi Qi), a citizen of the People's Republic of China, seeks leave to judicially review Officer Chan's February 19, 2008 decision refusing his application for a permanent resident visa. Mr. Xiao seeks to challenge Officer Chan's finding that Mr. Xiao's son is inadmissible for criminality because he committed an act in Hong Kong that is an offence in Hong Kong and that, if committed in Canada, would constitute an offence under an Act of Parliament. 
+ 
+ 
+ 
+ BACKGROUND 
+ 
+ 
+ 
+ [2] 
+  The applicant was born on December 18, 1950 in the City of Nan County in the Province of Hunan. He is married to Jian Zi Qun, who is also a citizen of the People's Republic of China. The applicant and his wife have three children, all of whom were also born in the Province of Hunan. 
+ 
+ 
+ 
+ [3] 
+  The applicant is a businessman who has worked in the engineering and construction industry for over 33 years. He is currently the President and General Manager of Hunan Zhongqi Type Engineering Co. Ltd., a company which specializes in the construction and equipment installation of public construction projects, including government offices, schools, sports centres, hotels, and other buildings. The company has approximately 125 full-time employees. 
+ 
+ 
+ 
+ [4] 
+  On August 30, 2004, the applicant applied for a permanent resident visa through the province of Quebec under the investor category. 
+ 
+ 
+ 
+ [5] 
+  By way of letter dated November 2, 2006, the Immigration Office informed the applicant that permanent resident visas for him and his dependants were ready for collection. He was requested to collect them in person within 120 days. On December 20, 2006, Mr. Xiao attended at the Hong Kong visa office to pick up the visas. When he presented his passport and the passports of his dependants, the visa officer noticed that pages 7, 8, 25 and 26 were missing from Mr. Xiao's youngest son's (Baian's) passport. 
+ 
+ 
+ 
+ [6] 
+  The applicant told the visa officer that he did not know why pages were missing from Baian's passport, and asked for permission to have his son attend at the visa office to explain the missing pages. 
+ 
+ 
+ 
+ [7] 
+  On that same day, the visa officer interviewed Baian. Mr. Xiao was not present during the interview with the visa officer. Baian first tried to explain the missing pages by speculating that his 5-year-old cousin must have removed them. The visa officer did not find that story credible; he informed the applicant that his son had been deemed inadmissible, and that, consequently, he and his remaining dependants were also inadmissible. 
+ 
+ 
+ 
+ [8] 
+  Upon exiting the booth, Baian returned and stated that he was now prepared to tell the truth. He then told the visa officer that his girlfriend removed the pages because she was mad at him as he could not go to Europe with her. The officer questioned Baian further but did not believe his explanation. Even though Baian alleged that he had been a student in the U.K. for the previous six years and he had traveled back and forth from the U.K., there was neither a U.K. visa nor any U.K. stamps in his passport. 
+ 
+ 
+ 
+ [9] 
+  On December 21, 2006, the visa officer refused Mr. Xiao's application for a permanent resident visa on the basis that he was inadmissible to Canada because his son Baian was inadmissible for criminality under s. 36(2)(c) of the  
+ Immigration and Refugee Protection  
+ Act 
+ , S.C. 2001, c. 27 (the " 
+ IRPA 
+ "). More particularly, the visa officer found that Baian had committed the offence of possession and use of an altered passport to gain entry to Hong Kong, under Chapter 521, s. 5(1)(c) of the  
+ Official Secrets Ordinance 
+ . The visa officer also concluded that Baian's acts would also constitute an offence under s. 57(3) of the  
+ Criminal Code of Canada, R.S.C. 1985, c. C-46. 
+ 
+ 
+ 
+ [10] 
+  The applicant filed an Application for Leave and Judicial Review of that first decision and filed, as part of his record, a legal opinion prepared by Michael C. Blanchflower, a former Department of Justice lawyer who has been practising in Hong Kong in the field of criminal law, human rights and judicial review since 1986, first in various capacities for the government of Hong Kong and, since 2002, as a barrister in private practice. 
+ 
+ 
+ 
+ [11] 
+  On July 10, 2007, the respondent offered to set aside the visa officer's decision and remit his application to a different visa officer for processing if the applicant filed a Notice of Discontinuance in respect of his Application for Leave and for Judicial Review. The respondent's offer letter did not state the basis on which the offer was made. On July 12, 2007, Mr. Xiao filed a notice of discontinuance. 
+ 
+ 
+ 
+ [12] 
+  On August 21, 2007, Mr. Xiao provided the family's passports to the Hong Kong Visa Office, including a new passport for Baian. On August 27, 2007, Mr. Xiao provided further submissions to the Hong Kong Visa Office, consisting of the applicant's Record from his discontinued judicial review of the first refusal and including the opinion prepared by Mr. Blanchflower. 
+ 
+ 
+ 
+ [13] 
+  On September 12, 2007, Officer Chan sent a letter to Mr. Xiao stating that he had a serious concern that Baian was inadmissible to Canada for criminality under s. 36(2)(c) of  
+ IRPA 
+ . He indicated that Baian had committed in Hong Kong on December 20, 2006, the act of being in possession of an altered travel document which constituted an offence under s. 42(2)(c)(i) of Chapter 115 of the  
+ Immigration 
+   
+ Ordinance 
+  of Hong Kong. This offence, if committed in Canada, would constitute an indictable offence under s. 122(1)(b) of  
+ IRPA 
+ . These offences were different from those cited in the earlier refusal by the first visa officer. Officer Chan invited Mr. Xiao to provide evidence and make further submissions to address his concerns. 
+ 
+ 
+ 
+ [14] 
+  On November 9, 2007, Mr. Xiao resubmitted the evidence previously provided to the Hong Kong Visa Office, and also provided a second opinion of Mr. Blanchflower addressing the concerns raised by Officer Chan in his September 12, 2007 letter. In a nutshell, Mr. Blanchflower was of the opinion that the passport with the missing pages does not constitute an "altered travel document" within s. 42(2)(c)(i) of the  
+ Ordinance 
+  for two reasons: first, there is no evidence the alteration was done "unlawfully", and second, the missing pages do not constitute an alteration under that provision. He relied for those propositions on the legislative history of the provision, on arguments of legislative construction, and on the case law. 
+ 
+ 
+ 
+ [15] 
+  On February 19, 2008, Officer Chan refused Mr. Xiao's application for a permanent resident visa on the basis that Baian is criminally inadmissible to Canada. 
+ 
+ 
+ 
+ THE IMPUGNED DECISION 
+ 
+ 
+ 
+ [16] 
+  In his final decision, Officer Chan essentially reiterates the concerns he had previously expressed in his September 12, 2007 letter. He stated that the applicant's son Baian committed an offence under s. 42(2)(i) of the  
+ Immigration Ordinance 
+  of Hong Kong as a result of possessing and using an altered passport to gain entry to Hong Kong. He added that, if committed in Canada, this would constitute an offence under s. 122(1)(b) of the  
+ IRPA 
+ , punishable by way of indictment. The letter also stated that under s. 42(a) of  
+ IRPA 
+ , a foreign national is inadmissible on grounds of an inadmissible family member. Therefore, the applicant is inadmissible since his son is found to be criminally inadmissible. 
+ 
+ 
+ 
+ [17] 
+  The Computer Assisted Immigration Processing System ("CAIPS") notes, which form part of the reasons for the decision, expand somewhat on the rationale underlying the decision. The relevant portion of these notes read as follows: 
+ 
+ 
+ 
+ "The applicant submitted detailed legal references of HK and Canadian court cases that purported to define terms in relation to the criminal inadmissibility of his family member, Xiao Baian. This is a result of Xiao Baian's committing in Hong Kong on 20DEC06 the offence of s42(2)(c)(i) of Chapter 115 the  
+ Immigration Ordinance 
+  of Hong Kong. If committed in Canada, would constitute an offence under S122(1)(b) of the  
+ IRPA 
+ . 
+ 
+ 
+ 
+ "While the submission in response to our concern letter provided suggestions on definitions of the terms in the offences in  
+ Immigration Ordinance 
+  of Hong Kong and  
+ IRPA 
+ , there is no denial of the fact that Xiao Baian was in possession of an altered travel document/passport. Secondly, there is no denial of the fact that the said passport was presented for the purpose of entering into Canada because it was used for the permanent resident visas. Finally, after the applicant was advised of our concern by our letter, applicant did not give credible explanation that might justify the alteration. 
+ 
+ 
+ 
+ "Applicant submitted that the alteration did not take place in the bio-page of the said passport, yet, this does not change the fact that it was an altered passport possessed by applicant's family member, presented to our office for permanent resident visas for entering into Canada. 
+ 
+ 
+ 
+ "S42(4)(a) of Chapter 115 the  
+ Immigration Ordinance 
+  of Hong Kong states that this is an indictable offence up to 14 years of imprisonment. 
+ 
+ 
+ 
+ "S123(1)(b) of  
+ IRPA 
+  stipulates that 'Every person who contravenes paragraph 122(1)(b) ... is guilty of an offence and liable on conviction on indictment to a term of imprisonment of up to 14 years.' 
+ 
+ 
+ 
+ "Thus, applicant's family member, Xiao Baian, is a person described in paragraph 36(2)(c) of  
+ IRPA 
+ . Xiao Baian is criminally inadmissible. As per s42(a) of  
+ IRPA 
+ , applicant was also inadmissible as a result of an inadmissible family member. 
+ 
+ 
+ 
+ "Application is refused today pursuant to subsection 11(1) and subsection 42(a) of  
+ IRPA 
+ . Refusal letter signed." 
+ 
+ 
+ 
+ RELEVANT STATUTORY PROVISIONS 
+ 
+ 
+ 
+ [18] 
+  For ease of reference and for a better understanding of the analysis that follows, the relevant statutory provisions are provided here: 
+ 
+ 
+ 
+ "Application before entering Canada 
+ 
+ 
+ 
+ "11(1) A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document may be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act. 
+ 
+ 
+ 
+ "Criminality 
+ 
+ 
+ 
+ "36(2) A foreign national is inadmissible on grounds of criminality for 
+ 
+ 
+ 
+ (c) committing an act outside Canada that is an offence in the place where it was committed and that, if committed in Canada, would constitute an indictable offence under an Act of Parliament; or 
+ 
+ 
+ 
+ "Inadmissible family member 
+ 
+ 
+ 
+ "42. A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if 
+ 
+ 
+ 
+ (a) their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or 
+ 
+ 
+ 
+ (b) they are an accompanying family member of an inadmissible person. 
+ 
+ 
+ 
+ "Documents 
+ 
+ 
+ 
+ "122(1) No person shall, in order to contravene this Act, 
+ 
+ 
+ 
+ (a) possess a passport, visa or other document, of Canadian or foreign origin, that purports to establish or that could be used to establish a person's identity; 
+ 
+ 
+ 
+ (b) use such a document, including for the purpose of entering or remaining in Canada; or 
+ 
+ 
+ 
+ (c) import, export or deal in such a document." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "Visa et documents 
+ 
+ 
+ 
+ "11(1) L'étranger doit, préalablement à son entrée au Canada, demander à l'agent les visa et autres documents requis par règlement. L'agent peut les délivrer sur preuve, à la suite d'un contrôle, que l'étranger n'est pas interdit de territoire et se conforme à la présente loi. 
+ 
+ 
+ 
+ "Criminalité 
+ 
+ 
+ 
+ "36(2) Emportent, sauf pour le résident permanent, interdiction de territoire pour criminalité les faits suivants: 
+ 
+ 
+ 
+ c) commettre, à l'extérieur du Canada, une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable par mise en accusation; 
+ 
+ 
+ 
+ "Inadmissibilité familiale 
+ 
+ 
+ 
+ "42. Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants: 
+ 
+ 
+ 
+ a) l'interdiction de territoire frappant tout membre de sa famille qui l'accompagne ou qui, dans les cas réglementaires, ne l'accompagne pas; 
+ 
+ 
+ 
+ b) accompagner, pour un membre de sa famille, un interdit de territoire. 
+ 
+ 
+ 
+ "Possession, utilisation ou commerce 
+ 
+ 
+ 
+ "122(1) Commet une infraction quiconque, en vue de contrevenir à la présente loi et s'agissant de tout document - passeport, visa ou autre, qu'il soit canadien ou étranger - pouvant ou censé établir l'identité d'une personne: 
+ 
+ 
+ 
+ a) l'a en sa possession; 
+ 
+ 
+ 
+ b) l'utilise, notamment pour entrer au Canada ou y séjourner; 
+ 
+ 
+ 
+ c) l'importe ou l'exporte, ou en fait le commerce." 
+ 
+ 
+ 
+ ISSUES 
+ 
+ 
+ 
+ [19] 
+  The applicant has raised four issues, which have been rejoined by the respondent in his oral and written submissions. They can be framed as follows: 
+ 
+ 
+ 
+ - Did the Visa Officer err in failing to provide a legal opinion to support his concerns and in failing to properly consider the submissions of the applicant? 
+ 
+ 
+ 
+ - Did the Visa Officer err in finding that the applicant's family member committed an offence in Hong Kong? 
+ 
+ 
+ 
+ - Did the Visa Officer fail to compare the essential ingredients of the alleged offence in the Hong Kong statute and the alleged offence in the Canadian statute? 
+ 
+ 
+ 
+ - Did the Visa Officer err in finding that the alleged offence would have constituted an offence in Canada? 
+ 
+ 
+ 
+ ANALYSIS 
+ 
+ 
+ 
+ [20] 
+  Both parties agreed that reasonableness was the applicable standard of review in the case at bar. The decision of the visa officer with respect to the last three issues was clearly fact-based, and as such calls for the standard of reasonableness. Before the decision of the Supreme Court in  
+ New Brunswick (Board of Management) v. Dunsmuir 
+ , [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, there was conflicting case law in this Court on this issue: some cases applied a standard of reasonableness while others stipulated a standard of patent unreasonableness. With the merging of these two standards, this has now become a moot issue. 
+ 
+ 
+ 
+ [21] 
+  However, the same cannot be said of the first issue. Whether the officer could come to his own interpretation of the Hong Kong  
+ Ordinance 
+  without relying on expert evidence is a question of law. As such, it calls for the standard of correctness. 
+ 
+ 
+ 
+ [22] 
+  Given that the interpretation of the words "unlawful" and "altered" in the  
+ Immigration Ordinance 
+  of Hong Kong is crucial to the assessment of the applicant's son's potential criminal inadmissibility, the applicant contends that the visa officer erred in relying upon foreign law without providing expert legal evidence to prove the foreign law and its meaning. Indeed, counsel for the applicant argued that the legal opinion of Mr. Blanchflower cried out for a rebuttal from the government, and that it was unreasonable for the visa officer to dismiss that opinion without addressing it in any meaningful manner. 
+ 
+ 
+ 
+ [23] 
+  After having carefully reviewed Mr. Blanchflower's second opinion and the visa officer's purported answer to it, I have come to the conclusion that the applicant's argument must prevail. 
+ 
+ 
+ 
+ [24] 
+  It is well established that to rely on foreign law in judicial proceedings, the party asserting the foreign law must provide expert evidence to prove it. Foreign law must be proven as a matter of fact by the evidence of persons who are experts in the law:  
+ Allen v. Hay 
+ , [1922] 64 S.C.R. 76, at para. 24. I agree with the respondent, however, that these rules of evidence do not have to be adhered to strictly in the context of administrative proceedings. For example, it is now well-settled that foreign criminal law may be proved without expert evidence in determining criminal inadmissibility in the immigration context. The decision-maker may rely on expert evidence if it is available, but may also rely on the foreign and domestic statutory provisions and the totality of the evidence, both oral and documentary: see, e.g.,  
+ Hill v. Minister of Employment and Immigration 
+ , [1987] 1 Imm. L.R.(2d) 1; 73 N.R. 315 (F.C.A.);  
+ Li v. Canada (Minister of Citizenship and Immigration) 
+ , [1997] 1 F.C. 235; 200 N.R. 307 (F.C.A.). 
+ 
+ 
+ 
+ [25] 
+  That being said, expert evidence remains the most reliable way to prove foreign law, not only as to its existence but, more importantly, as to its meaning. For example, this Court recently found that it was unreasonable for the Refugee Protection Division to give meaning to a section of the  
+ Aliens  
+ Act 
+  of Germany by relying merely on German consular officials. FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [26] 
+  Be that as it may, it seems to me the visa officer could not reasonably conclude as he did. The only expertise on file is to the effect that carrying a passport with four missing pages would not amount to an offence under the Hong Kong  
+ Immigration Ordinance 
+ , unless the alteration has been done with a criminal intent and the missing pages contain information about the holder's identity, nationality and other material particulars. The conclusion that the applicant's son had committed an offence is thus unreasonable. It is one thing to say that expert evidence is not always required to prove and decipher foreign law; it is quite another to determine that an offence has been committed pursuant to a foreign statute despite contrary expert evidence and upon no other basis than the Officer's own understanding of that statute. 
+ 
+ 
+ 
+ [27] 
+  The respondent argued that there is no evidence Mr. Blanchflower has direct experience or knowledge in interpreting the  
+ Immigration and Refugee Protection  
+ Act 
+ , since it came into force 16 years after he left Canada. While this may well be so, Mr. Blanchflower's credentials with respect to the law of Hong Kong are undisputable. Not only has he been practising law in Hong Kong for the last 20 years, but he has successively held senior positions as a government lawyer in that country, first as Crown counsel, and then as Assistant Solicitor General, Senior Assistant Director of Public Prosecutions, Deputy Principal Government Counsel (Mutual Legal Assistance Unit), Senior Assistant Director of Public Prosecutions, and Senior Assistant Director of Public Prosecutions. He is not just any other lawyer from Hong Kong, and his expert opinion could not be dismissed offhand. 
+ 
+ 
+ 
+ [28] 
+  It is no doubt true, as contended by the respondent, that a decision-maker's factual findings regarding foreign law, including findings of fact regarding expert evidence, warrant deference. It is also well established that the weight to be given to expert evidence is a matter for the trier of fact. However, this is not the same as saying that the decision-maker can disregard expert opinion, especially when it is cogent and well-reasoned. Interestingly, the decision of the Federal Court of Appeal relied on by the respondent to support his plea for deference makes this very point: 
+ 
+ 
+ 
+ "... the weight to be given expert evidence is a matter for the trier of fact and an expert's conclusion which is not appropriately explained and supported may properly be given no weight at all. A lawyer's bare opinion, without supporting and explanatory references to legislation and decisions, is no more likely to prove foreign law to the satisfaction of the court than, for example, the bare opinion of a land appraiser, without reference to comparable properties and transactions ... It would, indeed, be astonishing if foreign law could not be established as a matter of fact by the opinion of a qualified lawyer." 
+ 
+ 
+ 
+ Minister of National Revenue v. Capitol Life Insurance Co. 
+ , [1986] 1 C.T.C. 388; 68 N.R. 350 (F.C.A.), at para. 13-14. 
+ 
+ 
+ 
+ [29] 
+  This is all the more so when there is no evidence that the decision-maker is not himself a lawyer, and when the expert legal opinion as to the proper interpretation of a foreign statute is the only one on file and is not obscure or manifestly extravagant. To quote from another decision of the Federal Court of Appeal: 
+ 
+ 
+ 
+ "Mr. Boreman was the only witness who was called to depose as to what the law of the Commonwealth of Pennsylvania is. If there had been the evidence of another witness which conflicted with that of Mr. Boreman I would then be entitled to examine and construe the passages cited in order to arrive at a satisfactory conclusion on the conflicting testimony. I would be entitled to do that if the evidence of Mr. Boreman was obscure. 
+ 
+ 
+ 
+ "I approach this matter bearing in mind that it is not the function of this Court to substitute its own interpretation of the foreign law predicated upon the citations proffered for the sworn testimony of an expert as to what the foreign law is on this particular matter. This is not a case where I find myself unable to accept the testimony of a foreign lawyer which may be done in exceptional cases. The exceptional cases I have in mind are when a foreign expert arrives at a result so extravagant and involving such a misunderstanding of concepts familiar to lawyers of all countries that the evidence of the foreign expert cannot be accepted and the Court concludes that it can safely and must interpret the matter for itself, based on those universally accepted concepts. The proposition put forward by Mr. Boreman, and for which he cites and interprets authorities, is not so astounding as to warrant its rejection. 
+ 
+ 
+ 
+ "There was no contradictory expert evidence and the proposition advanced by Mr. Boreman was not obscure. In my opinion this is not a case where I may or should resort to my own interpretation of the citations with a view to reaching a conclusion as to the law of Pennsylvania." 
+ 
+ 
+ 
+ Murphy Estate v. Minister of National Revenue 
+ , [1974] C.T.C. 552 (F.C.A.), at paras. 69-71 
+ 
+ 
+ 
+ [30] 
+  If the Court of Appeal, composed of distinguished jurists, is of the view that uncontested expert legal opinion deserves some deference, it seems to me an administrative decision-maker should at the very least adopt the same kind of attitude. The respondent alleges that the visa officer did consider Mr. Blanchflower's opinion and discussed it. While this may notionally be true, the discussion is, at best, rather cursory. Rather than conducting a full review and analysis of the opinion and of the applicant's submissions, the visa officer merely acknowledged the assistance of Mr. Blanchflower and refers to his analysis regarding the definition of terms in the  
+ Hong Kong Ordinance 
+  as "suggestions". 
+ 
+ 
+ 
+ [31] 
+  The visa officer then concluded, by what amounts to a circular argument, that the expert evidence does not change the fact that the Xiao Baian was in possession of an altered passport, and presented it for the purpose of entering Canada. That finding, of course, begs the question, since the passport would not be altered as a result of its missing pages if Mr. Blanchflower's opinion were accepted. 
+ 
+ 
+ 
+ [32] 
+  The respondent further submitted that Mr. Blanchflower was not aware of key, relevant facts in forming the opinion that the alterations to Xiao Baian's passport were not intentional, unlawful or material. In particular, it is alleged that he was not aware that Baian had deliberately removed four pages from his passport, that he was not eligible for a Canadian permanent resident visa unless he was a student, that he claimed to have been studying in the U.K., and that all the pages pertaining to his alleged travels to the U.K. were missing. 
+ 
+ 
+ 
+ [33] 
+  This argument calls for a number of comments. First, it is not at all clear whether and how these "facts" - even assuming they are established - would impact the opinion of Mr. Blanchflower. I fail to see, in particular, how it would modify his opinion that it is only an offence to alter a passport if the alteration prevents the holder's true identity, nationality, domicile or place of permanent residence from being known. Moreover, some of the "facts" referred to by the respondent would seem to be more accurately characterized as speculations, and do not align with the evidence that was before the visa officer. (For example, there is no evidence that Baian "deliberately removed" the four pages from his passport; his version to the visa officer, admittedly after having lied before, is that his girlfriend ripped those pages and that he subsequently "cleaned it up and made it look nice".) Finally, and maybe more importantly, the decision of the visa officer is also not based on the "facts" Mr. Blanchflower had possibly not been made aware of. The reason Xiao Baian was found to contravene s. 42(2)(i) of the Hong Kong  
+ Ordinance 
+  was that he was in possession of an altered document; the visa officer did not determine how the document was altered, and did not ascribe any mens rea to Xiao Baian beyond saying that he did not give a credible explanation that might justify the alteration. 
+ 
+ 
+ 
+ [34] 
+  Finally, the respondent tried in his Memorandum and Further Memorandum of argument to challenge Mr. Blanchflower's opinion and to present an alternative construction of the impugned section of the  
+ Hong Kong Ordinance 
+ . In particular, counsel for the respondent contends that Mr. Blanchflower's opinion, according to which the word "altered" is restricted to alterations relating to the holder's identity, nationality, domicile or place of residence, is not borne out by the explanatory memorandum to the Bill that preceded the enactment of the  
+ Immigration Ordinance 
+ . It is also argued that this opinion of Mr. Blanchflower is not consistent with the purpose of a passport as evidenced from the Canadian Immigration Enforcement Manual. 
+ 
+ 
+ 
+ [35] 
+  These are no doubt interesting submissions that might well have been worth considering had they been made by the visa officer. However, it is trite law that counsel for the respondent cannot supplement the reasons given by the decision-maker at the stage of an application for judicial review. What must be reviewed are the reasons provided by the visa officer himself. In any event, these submissions would suffer from the same frailty as the reasons given by the visa officer: while they would have the benefit of being more extensive and transparent than the explanations given by the visa officer, they would still emanate from a Canadian lawyer with no proven expertise on Hong Kong law. While I would be remiss to categorically exclude the possibility that such an opinion could provide the reasonable basis upon which to find the applicant inadmissible, this is not the issue of which the Court is seized in the case at bar. 
+ 
+ 
+ 
+ [36] 
+  For all the foregoing reasons, I am of the view that the visa officer could not reasonably conclude that the main applicant's son had committed acts that were an offence in Hong Kong, and therefore find him criminally inadmissible in Canada, in light of the expert opinion to the contrary provided by Mr. Blanchflower and in the absence of any contrary expert opinion. This is not to say that the visa officer himself should have sought an independent legal opinion; in the normal course of events, I believe the respondent should bear the burden of providing expert opinion supporting his position. 
+ 
+ 
+ 
+ [37] 
+  I wish to make it clear that these reasons should not be interpreted as requiring expert opinion in all circumstances where immigration officials make decisions predicated on foreign law. However, when an applicant's position is buttressed by credible and well-articulated opinion authored by an expert whose credentials are not in dispute, it will most likely be unreasonable to come to an opposite conclusion without the benefit of any expert evidence to the contrary. 
+ 
+ 
+ 
+ [38] 
+  Considering this finding, there is no need to make any determination as to the other three questions raised in this application for judicial review. 
+ 
+ 
+ 
+ [39] 
+  Accordingly, this application for judicial review is allowed. The parties did not suggest certification of any serious questions of general importance, and I am satisfied that none arises in the case at bar. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [40] 
+   
+ THIS COURT ORDERS that 
+  this application for judicial review is allowed. This matter will be referred back for reconsideration by a different visa officer. No question is certified. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Anick Ouellette-Levesque/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

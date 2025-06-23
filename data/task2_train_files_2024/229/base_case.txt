@@ -1,0 +1,113 @@
+[1]
+von Finckenstein, J.
+: The principal applicant ("applicant") is a 32 year-old man. The dependent applicants are his wife and two daughters.
+[2]
+In 1998, the applicant unwittingly became involved with a mafia organization, which he later claims threatened his life. He submits that the Slovakian police were either unable or unwilling to protect him. As a result, in August 1999, he fled with his family to Canada.
+[3]
+The applicant was denied refugee status in June 2001. He submitted a Post Determination Refugee Claim in Canada (PDRCC) application which was converted to a Post Removal Risk Assessment (PRRA) application on the coming into effect of the
+Immigration and Refugee Protection Act
+("
+Act
+"). On December 20th, 2002, this application was dismissed. The applicant now seeks judicial review of that decision.
+DECISION
+[4]
+In a decision dated December 20th, 2002, the PRRA officer concluded that there was no evidence on the record nor had the applicant submitted new evidence which established that he would be denied state protection if returned to Slovakia.
+ISSUES
+[5]
+The applicant raises two issues:
+1. Does section 113(a) of the
+Act
+violate section 7 of the
+Canadian Charter of Rights and Freedoms
+("
+Charter
+")?
+2. If not, was there a violation of the principles of natural justice and breach the duty of fairness depriving the applicant with a meaningful opportunity to be heard?
+Issue 1: Does section 113(a) of the Act violate section 7 of the Charter?
+Background
+[6]
+Under the old
+Immigration Act
+, the Convention Refugee Determination Division (CRDD) determined whether or not an applicant was a Convention Refugee. The applicant was then able to apply for a risk assessment under the PDRCC procedures, through which
+all
+information related to his case was assessed. These procedures changed under the new
+Act
+. Now, the Immigration and Refugee Board, Refugee Protection Division (RPD) determines whether or not an applicant is either a Convention Refugee or a Person in Need of Protection. A PRRA is then undertaken based upon a more limited range of information: namely evidence which arose after the denial or which was not reasonably available before or submitted during the RPD hearing.
+[7]
+As noted above, in this case, the applicant's refugee claim was assessed under the old
+Act
+. His PRDCC application was converted to a PRRA application with the coming into effect of the new
+Act
+. As a result, a body such as the CRDD or the RPD did not consider whether or not he was a person in need of protection. This question was only addressed by the PRRA Officer.
+Argument
+[8]
+The applicant argues that, as a result, his section 7 rights were breached, because the PRRA Officer could only consider evidence which arose after the Convention Refugee determination was made. He submits that he was denied the opportunity to adduce evidence from prior to the determination as to why he is a person in need of protection. He argues that the result is grievous in this case because evidence from prior to the decision indicates that he faces persecution on a non-nexus ground, and that, therefore, he is the type of individual designed to be captured by section 97 of the
+Act
+.
+Analysis
+[9]
+A full
+Charter
+analysis is not necessary in this case as the applicant's argument may be disposed of with a simple statutory interpretation. Section 113(a) provides:
+"Consideration of an application for protection shall be as follows:
+a) an applicant whose claim to refugee protection has been rejected may present only new evidence that arose after the rejection or was not reasonably available,
+or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection
+. ..." (underlining added)
+[10]
+When undertaking statutory interpretation, "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament" (
+Rizzo and Rizzo Shoes Ltd. (Bankrupt), Re
+, [1998] 1 S.C.R. 27; 221 N.R. 241; 106 O.A.C. 1, at 21.)
+[11]
+The PRRA is an innovation in the new act which is designed to ensure that the vast majority of individuals facing removal from Canada are given a full but expedited chance to establish that they face a risk of torture or gross mistreatment on their return to a home country. In most cases today, the RPD has first undertaken an assessment of whether or not the applicant is a Convention Refugee or a Person in need of protection. Therefore, the PRRA Officer is limited by the first half of subsection 113 (a) to considering evidence which arose after the RPD hearing.
+[12]
+However, it seems clear that the second half of section 113(a) addresses the very situation faced by the applicant: namely that in which the CRDD did not determine whether or not he was a person in need of protection. In these cases, the Act makes clear that the officer is entitled to also consider evidence that "the applicant could not reasonably have been expected ... to have presented, at the time of the rejection" from the CRDD. This includes information regarding a section 97 claim which the applicant did not present during at the hearing.
+[13]
+As section 113(a) of the
+Act
+does not deny the applicant a chance to present all evidence relevant to his case, there is no need to continue with the section 7 analysis.
+Issue 2. Was there a violation of the principles of natural justice and breach the duty of fairness depriving the applicant with a meaningful opportunity to be heard?
+Argument
+[14]
+Regardless of the requirements of the
+Act
+, the applicant submits that he was instructed to provide only new evidence in support of his PRRA application by Immigration Officer Tammy McKnight and by the terms of the application guide.
+[15]
+The Respondent replies that the application form itself contains two questions, numbers 52 & 53, which request the relevant information. It notes that the applicants failed to answer these questions and have failed to indicate what information they would have submitted had they realized that they had the chance to do so.
+Analysis
+[16]
+As is clear from the facts this is a case caught in the transition from the
+Immigration Act
+to the
+Immigration and Refugee Protection Act
+. The applicants claim for refugee status was heard and denied under the old
+Act
+. His PDRCC application was converted into a PRRA application by virtue of the entry into force of the
+IRPA
+and thus was considered pursuant to that
+Act
+.
+[17]
+An application for PRRA is governed by s. 113(a) of the
+Act
+. The "kit" for such applications defines "new evidence" by essentially quoting the statute:
+"New evidence is evidence that arose after the rejection of your claim at the Immigration and Refugee Board, or after the rejection of a previous PRRA application, or that was not normally accessible, or that you could not reasonably have been expected in the circumstances to have presented at the time of rejection."
+[18]
+The letter to the applicant (p. 35 of the applicants record) informing him that his PDRCC application has been converted into a PRAA application refers to this definition. According to his affidavit the applicant filled out his PRRA application with a friend who acted as translator but without the benefit of counsel. It is hard to see how a layman could understand the definition of "new evidence" as set out in the kit, and the
+Act
+, and appreciate that it allowed for the introduction of additional evidence insofar as it relates to persons in need of protection.
+[19]
+While the definition may be adequate for a normal PRAA application, for a converted PDRCC application it is woefully inadequate. At least the letter informing the applicant of the conversion of his application should have informed him that the PRAA officer now has additional authority to determine whether the applicant is a person in need of protection (something which the Convention Refugee Determination Division could not) and that any evidence in that respect would qualify as new evidence
+[20]
+No such explanation was provided in the letter or given orally to the applicant in his meetings with Immigration Officer. Not having such information the applicant did not fill out questions 52 and 53 and the PRAA, believing that any information thus provided would fall into the definition of 'new evidence'. And without the questions being answered the PRAA officer had no information to consider. Consequently this is just the situation my Gibson , J. foresaw in
+FRAGMENT_SUPPRESSED
+[21]
+I agree with Gibson, J. that this is a situation to be avoided. Procedural fairness demand that the applicant understands the issues that will be decided and has a meaningful opportunity to be heard. This was not the case here.
+[22]
+Accordingly I am prepared to allow this application. The matter is referred back to another PRAA officer for reconsideration. The applicant shall be given 15 days to file a new PRAA application.
+ORDER
+1. The application is allowed.
+2. The applicant shall have 15 days to file a new PRAA application.
+3. The new application shall be considered by another PRAA officer.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/pdk
+[End of document]

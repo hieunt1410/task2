@@ -1,0 +1,6 @@
+[10]
+Implicit in the way the
+Act
+is structured is the assumption that the certificate will be based at least in part on information which may, for security reasons, remain secret. Only the judge has access to this information. The person for whom the certificate is issued or his counsel may not have access to the information, if its disclosure would be injurious to national security or to the safety of any person. However, pursuant to subsection 78(h),
+"(h) the judge shall provide the permanent resident or the foreign national with a summary of the information or evidence that enables them to be reasonably informed of the circumstances giving rise to the certificate, but that does not include anything that in the opinion of the judge would be injurious to national security or to the safety of any person if disclosed; (...)"
+"h) le juge fournit au résident permanent ou à l'étranger, afin de lui permettre d'être suffisamment informé des circonstances ayant donné lieu au certificat, un résumé de la preuve ne comportant aucun élément dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d'autrui;"

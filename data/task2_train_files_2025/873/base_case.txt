@@ -1,0 +1,232 @@
+INTRODUCTION
+[1]
+Shore, J.
+[Translation]: As previously established by this Court, questions of fact should be accorded a high degree of deference. Mr. Justice Jean-Eudes Dubé noted in
+Barry v. Canada (Treasury Board)
+, [1996] F.C.J. No. 901; 115 F.T.R. 281 (T.D.):
+"[8] ... The Court should exhibit great reticence in intervening when a question of fact is involved. In
+Sarco Canada
+, the Federal Court of Appeal held that a finding of fact will not be interfered with 'unless there was a complete absence of evidence to support it or a wrong principle was applied in making it'. In
+Kibale v. Transport
+Canada
+, the Federal Court of Appeal has set out three conditions precedent that must be met to justify judicial intervention when dealing with a finding of fact:
+(a) the finding must be truly erroneous;
+(b) the finding must be made capriciously or without regard to the evidence; and
+(c) the decision must be based on the erroneous finding."
+[2]
+In
+Canada (Attorney General) v. Public Service Alliance of Canada
+, [1993] 1 S.C.R. 941; 150 N.R. 161, Mr. Justice Peter deCarteret Cory made the following comments on the meaning of "patently unreasonable":
+"[44] ... Obviously, the patently unreasonable test sets a high standard of review. In the
+Shorter Oxford English Dictionary
+'patently', an adverb, is defined as 'openly, evidently, clearly'. 'Unreasonable' is defined as '[n]ot having the faculty of reason; irrational. ... Not acting in accordance with reason or good sense'. Thus, based on the dictionary definition of the words 'patently unreasonable', it is apparent that if the decision the Board reached, acting within its jurisdiction, is not clearly irrational, that is to say evidently not in accordance with reason, then it cannot be said that there was a loss of jurisdiction. This is clearly a very strict test.
+. . . . .
+"[46] It is not enough that the decision of the Board is wrong in the eyes of the court; it must, in order to be patently unreasonable, be found by the court to be clearly irrational."
+NATURE OF PROCEEDING
+[3]
+This is an application for judicial review under s. 92 of the
+Public Service Labour Relations
+Act
+, R.S.C. (1985), c. P-35 (
+PSLRA
+), of a decision dated December 15, 2003, by Jean-Pierre Tessier, sitting as an adjudicator for the Public Service Labour Relations Board (Board), who heard the matter on June 9 and 10, 2003.
+FACTS
+[4]
+The applicant, Ms. Charlotte Rhéaume, is an employee at the Canada Customs and Revenue Agency, formerly Revenue Canada.
+[5]
+Pursuant to an agreement signed August 30, 1990, and October 24, 1991, the Government of Canada transferred the administration of the Goods and Services Tax (GST) to the Government of Québec; on August 11, 1992, the parties signed a revised version of the agreement. Quebec is the only province that administers the GST on behalf of the federal government.
+[6]
+Following the transfer of the GST to the Quebec government, most of the federal employees whose positions were connected with the administration of the GST in the Quebec Region accepted a transfer to the Quebec government. However, the applicant remained in the employ of Revenue Canada, Customs and Excise.
+[7]
+From 1992 to 1995, the Regional Excise and GST Liaison Office (REGLO), Revenue Canada, Customs and Excise, Montréal (Quebec) was established to ensure liaison between the federal and Québec governments.
+[8]
+On July 16, 1993, the applicant accepted a transfer to the GST/HST Inquiries and Technical Interpretation Service. She worked as an inquiries and information officer at the PM-02 group and level within the Interpretation and Services division of the REGLO. However, the REGLO was abolished in April 1995.
+[9]
+In April 1995, following the consolidation of Revenue Canada Customs and Excise and Revenue Canada Taxation into one department, the applicant accepted a transfer to a position of interpretation officer, which was classified at the PM-02 group and level, at the Tax Services Office in Montréal, Quebec.
+[10]
+In January 1999, the employer announced the creation of new positions in the Technical Interpretation Service throughout Canada. However, because the GST had been transferred to the Government of Québec, no new positions were created in the Quebec Region following this announcement.
+[11]
+In the autumn of 1999, the applicant held a position in Quebec that involved a number of functions relating to the GST. She found out that some of her colleagues elsewhere in Canada held positions at the PM-03 or AU-02 level and that they were better paid although they also worked on GST-related matters.
+[12]
+On October 29, 1999, the applicant filed a grievance seeking by way of corrective action (Translation) "to be treated fairly and equitably and in the same manner as my colleagues in the other parts of Canada, and I ask that the position I hold be duly reclassified to a higher level, retroactively to Jan. 1, 1999".
+[13]
+Between 1993 and October 29, 1999, the applicant was compensated in accordance with the salary scale for the PM-02 group and level. On October 29, 1999, when she filed her grievance, the applicant still held a position at the PM-02 group and level at the Tax Services Office in Montréal, Quebec.
+[14]
+A request for a "reference to adjudication" alleging a violation of articles 55 (Statement of Duties) and 64 (Pay Administration) of the relevant collective agreement was approved by the bargaining agent on September 14, 2001, under s. 92(2) of the
+PSLRA
+. However, the bargaining agent withdrew the file before the adjudication hearing began.
+[15]
+A second "reference to adjudication" was submitted by the applicant under paragraph 92(1)(b) of the
+PSLRA
+. This request proceeded to adjudication and was heard by the Board on June 9 and 10, 2003.
+IMPUGNED DECISION
+[16]
+The applicant alleges that she suffered a demotion in her working conditions as of January 1, 1999, because she was the de facto holder of the reclassified position from January 1, 1999, to October 31, 2001, but did not receive the associated remuneration and benefits and was deprived of the opportunity to belong to a class of professional employees and to transfer to positions at the higher reclassified level.
+[17]
+The Board determined that the applicant's evidence was not conclusive, and, therefore, the adjudicator dismissed the grievance on the grounds that he was unable to conclude that she had been treated unfairly compared to her other colleagues or that she should receive higher compensation.
+ISSUES
+[18]
+(1) The first issue in this application is to determine the standard of review that this Court should apply to the adjudicator's decision.
+(2) The second issue is whether the adjudicator's decision meets the appropriate standard of review.
+ANALYSIS
+[19]
+The applicant submits that the adjudicator declined to exercise his jurisdiction in refusing to address the merits of the grievance, i.e., the demotion and the applicant's request to be treated fairly and in the same manner as her peers in other provinces. However, the respondent points out that the adjudicator did address those issues since he clearly ruled that the fact that the applicant's work changed as a result of the transfer of the GST administration to the Quebec government did not constitute a demotion. This finding is the subject of the applicant's judicial review.
+Standard of review
+[20]
+Section 92 of the
+PSLRA
+sets out the circumstances in which an employee may refer a grievance to adjudication:
+"92(1) Where an employee has presented a grievance, up to and including the final level in the grievance process, with respect to
+(a) the interpretation or application in respect of the employee of a provision of a collective agreement or an arbitral award,
+(b) in the case of an employee in a department or other portion of the public service of Canada specified in Part I of Schedule I or designated pursuant to subsection (4),
+(i) disciplinary action resulting in suspension or a financial penalty, or
+(ii) termination of employment or demotion pursuant to paragraph 11(2)(f) or (g) of the Financial Administration Act, or
+(c) in the case of an employee not described in paragraph (b), disciplinary action resulting in termination of employment, suspension or a financial penalty,
+and the grievance has not been dealt with to the satisfaction of the employee, the employee may, subject to subsection (2), refer the grievance to adjudication.
+"(2) Where a grievance that may be presented by an employee to adjudication is a grievance described in paragraph (1)(a), the employee is not entitled to refer the grievance to adjudication unless the bargaining agent for the bargaining unit, to which the collective agreement or arbitral award referred to in that paragraph applies, signifies in the prescribed manner its approval of the reference of the grievance to adjudication and its willingness to represent the employee in the adjudication proceedings.
+"(3) Nothing in subsection (1) shall be construed or applied as permitting the referral to adjudication of a grievance with respect to any termination of employment under the Public Service Employment Act.
+"(4) The Governor in Council may, by order, designate for the purposes of paragraph (1)(b) any portion of the public service of Canada specified in Part II of Schedule I."
+[21]
+The Board is an independent tribunal that specializes in administering collective bargaining regimes and adjudicating grievances in the federal public service and in Parliament. The specialized expertise of its members in grievance matters raises the standard of judicial review of an adjudicative decision: such a decision should be accorded substantial deference by the judge (
+Alberta Union of Provincial Employees et al. v. Lethbridge Community College
+, [2004] 1 S.C.R. 727; 319 N.R. 201; 348 A.R. 1; 321 W.A.C. 1;
+Canada (Attorney General) v. Public Service Alliance of Canada
+, [1993] 1 S.C.R. 941; 150 N.R. 161).
+[22]
+In order for this Court to review an erroneous finding of fact, the applicant must be able to demonstrate the particular nature and extent of the alleged error. Mr. Justice Robert Décary noted the following in
+Harb v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2003] F.C.J. No. 108; 302 N.R. 178; 2003 FCA 39:
+"[14] insofar as these are findings of fact they can only be reviewed if they are erroneous and made in a perverse or capricious manner or without regard for the material before the Refugee Division (this standard of review is laid down in s. 18.1(4)(d) of the
+Federal Court Act
+, and is defined in other jurisdictions by the phrase 'patently unreasonable'). These findings, insofar as they apply the law to the facts of the case, can only be reviewed if they are unreasonable."
+[23]
+In light of the foregoing, the Court finds that the appropriate standard of review in this case is patent unreasonableness.
+Burden of Proof
+[24]
+Paragraph 18.1(4) of the
+Federal Courts
+Act
+, R.S.C. 1985, c. F-7, sets out the specific grounds that the applicant must establish on an application for judicial review. The provision reads as follows:
+"
+Application for judicial review
+"18.1 ...
+"
+Grounds of review
+"(4) The Federal Court may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+(a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+(b) failed to observe a principle of natural justice, procedural fairness or other procedure that it was required by law to observe;
+(c) erred in law in making a decision or an order, whether or not the error appears on the face of the record;
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;
+(e) acted, or failed to act, by reason of fraud or perjured evidence; or
+(f) acted in any other way that was contrary to law."
+Jurisdiction of the adjudicator
+[25]
+The applicant submits that the adjudicator erred in substituting his own analysis of her functions for the existing national analysis of positions identical to hers in the same work sector. The adjudicator clearly acknowledged that he did not have jurisdiction over classification issues and he did not in any way evaluate the applicant's position in terms of classification.
+[26]
+Subparagraph 11(2)(
+g
+) of the
+Financial Administration
+Act
+, R.S.C. 1985, c. F-11, am. by S.C. 1992, c. 54, s. 81 (
+FAA
+), provides that "... the Treasury Board may, in the exercise of its responsibilities in relation to personnel management including its responsibilities in relation to employer and employee relations in the public service":
+"11(2)(g) provide for the termination of employment, or the demotion to a position at a lower maximum rate of pay, for reasons other than breaches of discipline or misconduct, of persons employed in the public service, and establishing the circumstances and manner in which and the authority by which or by whom those measures may be taken or may be varied or rescinded in whole or in part."
+[27]
+For the adjudicator to rule on a compensation issue and order that the applicant receive acting pay, it must be demonstrated that other employees are doing work similar to that of the applicant in quantity and quality (complexity of the work). In
+Bégin and the Treasury Board Revenue Canada - Taxation
+, [1990] C.P.S.S.R.B. No. 26, a decision of the Board, the adjudicator relied on the balance of probabilities to determine that the employees had performed, in an acting capacity, the duties of a higher level position. The adjudicator found that the grievors spent 70% of their time performing the duties of a higher classification.
+[28]
+The only evidence before the adjudicator in this case was the fact that the applicant received a work description that referred, inter alia, to giving advice on excise tax. She also provided activity reports demonstrating that she performed GST-related activities.
+[29]
+Thus, the applicant did not file any evidence that she had been demoted to a position at a lower maximum rate of pay under subparagraph 11(2)(g) of the
+FAA
+.
+[30]
+Furthermore, working at a position that has not been reclassified at a higher level does not constitute demotion within the meaning of subparagraph 11(2)(g) of the
+FAA
+.
+[31]
+The applicant's arguments to the effect that she de facto held a position with a higher classification level involves the power of appointment, conferred by the
+Public Service Employment Act
+, R.S.C. 1985, c. P-33. As the respondent submits, the adjudicator was correct in not ruling on this issue in accordance with s. 92 of the
+PSLRA
+.
+Assessment of the evidence
+[32]
+With regard to assessing the testimonial and documentary evidence, s. 96.1 of the
+PSLRA
+grants adjudicators all the powers, rights and privileges vested in the Board by s. 25 of the
+PSLRA
+, including complete discretion on evidentiary issues:
+"
+Powers of Adjudicator
+"96.1 An adjudicator has, in relation to the adjudication, all the powers, rights and privileges of the Board, other than the power to make regulations under s. 22.
+"
+Powers of Board in proceedings
+"25. The Board has, in relation to the hearing or determination of any proceeding before it, power:
+(c) to receive and accept such evidence and information on oath, affidavit or otherwise as in its discretion it sees fit, whether admissible in a court of law or not and, without limiting the generality of the foregoing, to refuse to accept any evidence that is not presented in the form and within the time prescribed;"
+[33]
+In
+United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd.
+, [1993] 2 S.C.R. 316; 153 N.R. 81; 106 Nfld. & P.E.I.R. 140; 334 A.P.R. 140, the Supreme Court of Canada considered a provision in a provincial statute that was analogous to s. 25(c) of the
+PSLRA
+. The Court stated that the court will not intervene in an arbitrator's decision unless the evidence shows that it is patently unreasonable:
+"[46] Section 84(1) of the
+Labour Relations
+Act
+, 1977
+provides that the arbitrator may receive and accept such evidence as he deems advisable whether or not it would be admissible in a court of law. ... While provisions such as these do not oust judicial review completely, they enable the arbitrator to relax the rules of evidence. This reflects the fact that arbitrators are often not trained in the law and are permitted to apply the rules in the same way as would be done by reasonable persons in the conduct of their business. Section 84(1) evinces a legislative intent to leave these matters to the decision of the arbitrator. Accordingly, an arbitrator's decision in this regard is not reviewable unless it is shown to be patently unreasonable."
+[34]
+In
+Teeluck v. Canada (Treasury Board)
+, [1999] F.C.J. No. 1544; 177 F.T.R. 39 (T.D.), affd. [2000] F.C.J. No. 1748; 262 N.R. 389 (F.C.A.), in the context of the
+PSLRA
+, the Federal Court of Appeal specifically referred to the above passage and held that courts must also accord great deference when reviewing adjudicators' decisions on evidentiary matters:
+"[24] ... That comment applies to paragraph 25(c) of the
+Public Service Staff Relations
+Act
+. The decisions of adjudicators on evidentiary matters are not generally reviewable unless they are found to be patently unreasonable, or irrational."
+[35]
+Accordingly, the Court finds that the adjudicator did not act in a patently unreasonable manner in considering the testimony of Ms. Carole Gouin, director of the Montréal Tax Services Office, and in giving it the appropriate weight.
+[36]
+The adjudicator did not act in a patently unreasonable manner because he heard the applicant's testimony and admitted all the documents she presented. It is for the adjudicator to decide the appropriate weight to be given to the evidence.
+[37]
+Under the
+Federal Courts
+Act
+, this Court will only intervene in a question of fact in the situations set out in subsection 18.1(4)(d):
+"
+Application for judicial review
+"18.1 ...
+"
+Grounds of review
+. . . . .
+"(4) The Federal Court may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;"
+[38]
+The adjudicator's decision was based on his assessment of the evidence and not on erroneous, perverse or capricious findings of fact without regard for the material before him.
+[39]
+As previously established by this Court, questions of fact should be accorded a high degree of deference. Dubé, J., noted in
+Barry
+, above:
+"[8] ... The Court should exhibit great reticence in intervening when a question of fact is involved. In
+Sarco Canada
+, the Federal Court of Appeal held that a finding of fact will not be interfered with 'unless there was a complete absence of evidence to support it or a wrong principle was applied in making it'. In
+Kibale v. Transport Canada
+, the Federal Court of Appeal has set out three conditions precedent that must be met to justify judicial intervention when dealing with a finding of fact:
+(a) the finding must be truly erroneous;
+(b) the finding must be made capriciously or without regard to the evidence; and
+(c) the decision must be based on the erroneous finding."
+[40]
+The adjudicator discussed the issue of higher compensation in response to the applicant's evidence. Therefore, the adjudicator's decision on the corrective action sought by the applicant is not erroneous and does not warrant the intervention of this Court.
+[41]
+There is clear evidence in this case to support the adjudicator's findings of fact and his decision to dismiss the grievance. The decision is neither patently unreasonable nor irrational.
+[42]
+Accordingly, for these reasons, there is no basis on which this Court could intervene, despite the fact that it might have arrived at a different conclusion.
+JUDGMENT
+[43]
+THE COURT ORDERS
+that the application for judicial review be dismissed.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/gs

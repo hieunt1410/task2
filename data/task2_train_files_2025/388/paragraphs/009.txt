@@ -1,0 +1,14 @@
+[9]
+The respondent argued that the adjudicator asked himself the right question -- was there the discontinuance of a function? -- and proceeded to answer the question in the negative. By asking the right question, the adjudicator established that he was acting within his jurisdiction and the finding that there was no discontinuance of a function is a finding of fact to which this court should show a high degree of deference and intervene only if the finding is patently unreasonable. While I do not dispute that a high degree of curial deference should be accorded to an adjudicator on findings of fact, when an adjudicator acts outside of the jurisdiction accorded him by the statute, the standard of review is correctness. Although both parties directed me to the case of
+National Corn Growers' Association et al. v. Canadian Import Tribunal
+, [1990] 2 S.C.R. 1324; 114 N.R. 81; 74 D.L.R.(4th) 449, I think that
+Dayco (Canada) Ltd. v. National Automobile, Aerospace and Agricultural Implement Workers Union of Canada (CAW-Canada)
+, [1993] 2 S.C.R. 230; 152 N.R. 1; 63 O.A.C. 1; 102 D.L.R.(4th) 609; 93 C.L.L.C. 14,032, more clearly sets out the standard of review. La Forest, J., at pp. 250-251 [S.C.R.], summarized the degree of deference which should be accorded to an arbitrator's decision:
+"This court has stated in previous cases that courts should, as a matter of policy, defer to the expertise of the arbitrator in questions relating to the interpretation of collective agreement: see
+Volvo Canada Ltd. v. U.A.W., Local 720
+, [1980] 1 S.C.R. 178;
+Douglas Aircraft Co. of Canada v. McConnell
+, [1980] 1 S.C.R. 245. This development is traced in the dissenting reasons of Wilson, J., in
+National Corn Growers Assn. v. Canada (Import Tribunal)
+, [1990] 2 S.C.R. 1324, at pp. 1340-1342. It is clear that an arbitrator has jurisdiction 'stricto sensu' to interpret the provisions of a collective agreement in the course of determining the arbitrability of matters under that agreement. In that case the arbitrator is acting within his or her 'home territory', and any judicial review of that interpretation must only be to a standard of patent unreasonableness."
+Implicit in His Lordship's statements is that when the adjudicator is acting outside of his jurisdiction -- not in his or her "home territory" -- the standard of review is no longer "patent unreasonableness". I take this to mean that when the adjudicator is assessing his or her own jurisdiction, he or she must be correct.

@@ -1,0 +1,10 @@
+[34]
+Once again, I am unable to agree with this submission. S.8 of the Privacy Act, R.S.C. 1985, c. P-21, reads in part as follows:
+8.
+(1) Personal information under the control of a government institution shall not, without the consent of the individual to whom it relates, be disclosed by the institution except in accordance with this section.
+(2) Subject to any other Act of Parliament, personal information under the control of a government institution may be disclosed
+(a) for the purpose for which the information was obtained or compiled by the institution or for a use consistent with that purpose;
+8.
+(1) Les renseignements personnels qui relèvent d’une institution fédérale ne peuvent être communiqués, à défaut du consentement de l’individu qu’ils concernent, que conformément au présent article.
+(2) Sous réserve d’autres lois fédérales, la communication des renseignements personnels qui relèvent d’une institution fédérale est autorisée dans les cas suivants :
+a) communication aux fins auxquelles ils ont été recueillis ou préparés par l’institution ou pour les usages qui sont compatibles avec ces fins;

@@ -1,0 +1,9 @@
+[57]
+One may ask if it would not be preferable to have only two standards of review instead of three, considering that it is more and more difficult to distinguish the lines between the patent unreasonableness standard from those of reasonableness simpliciter. In this regard, we can refer to the corroborative remarks of LeBel, J., in
+Toronto (City) et al. v. Canadian Union of Public Employees, Local 79 et al.
+(2003), 311 N.R. 201; 179 O.A.C. 291; 2003 SCC 63, where he states at paragraph 66:
+"
+As the analysis that follows indicates, the patent unreasonableness standard does not currently provide sufficiently clear parameters for reviewing courts to apply in assessing the decisions of administrative adjudicators
+. From the beginning, patent unreasonableness at times shaded uncomfortably into what should presumably be its antithesis, the correctness review.
+Moreover, it is increasingly difficult to distinguish from what is ostensibly its less deferential counterpart, reasonableness simpliciter
+. It remains to be seen how these difficulties can be addressed." (my emphasis)

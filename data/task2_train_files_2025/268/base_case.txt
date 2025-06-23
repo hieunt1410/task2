@@ -1,0 +1,285 @@
+I.
+Background
+[1]
+Crampton, J.
+: By letter dated October 1, 2009, Novopharm served the Applicant, Pfizer Canada Limited ("Pfizer") with its Notice of Allegation (NOA) pursuant to section 5 of the
+Patented Medicines (Notice of Compliance) Regulations
+(
+PMNOC Regulations
+) in relation to the drug pregabalin.
+[2]
+In response to the NOA, on November 13, 2009, Pfizer commenced the within application for judicial review pursuant to section 6 of the
+PMNOC Regulations
+for an order prohibiting the Minister of Health from issuing a Notice of Compliance ("NOC") to Novopharm until after the expiry of five patents: Canadian Patent Nos. 2,134,674; 2,297,163; 2,255,652; 2,325,045; and 2,327,285.
+[3]
+By notice of motion dated February 22, 2010, Novopharm sought a protective Order designating, among other things, Novopharm's NOA as confidential pursuant to Rule 151 of the
+Federal Courts Rules
+. No other term in the proposed protective Order is at issue.
+[4]
+Novopharm submits that it has made a substantial investment in the preparation of its NOA and that it has consistently treated and maintained that NOA as confidential. The evidence indicates that Novopharm incurred approximately $200,000.00 in costs to prepare its NOA. That investment was made to assist Novopharm "to be a very close second, if not the first, generic [drug manufacture] to obtain an NOC for its pregabalin product."
+[5]
+Novopharm further submits that "there is no public benefit to disclosing" its NOA and that if it prevails in its litigation with Pfizer and its NOA has been "made available to its competitors, [they] could use that NOA to 'springboard' onto the pregabalin market at considerably less expense than that incurred by Novopharm."
+[6]
+Novopharm maintains that its NOA as a whole is confidential, and that the nature of the confidential information in the NOA is such that the NOA cannot be redacted in any way which preserves the confidentiality of that information. In short, the entire work product reflected in the NOA is confidential. Even if that work product were heavily redacted, its rivals could still use the redacted NOA to significantly accelerate their entry into the pregabalin market, and thereby reap significant sales and profits that otherwise would be made by Novopharm.
+[7]
+The NOA is not a pleading or court document. The
+PMNOC Regulations
+require that an NOA containing a detailed statement of the legal and factual basis for the allegations of non-infringement and/or invalidity of a patent be delivered by a generic drug manufacturer ("generic"). The NOA cannot be amended once it has been delivered. As a result, NOAs typically are very detailed and thorough.
+[8]
+Novopharm's NOA was delivered several months after another generic, ratiopharm Inc. ("ratiopharm"), delivered an NOA for pregabalin to Pfizer. That NOA became public on October 16, 2009, after Novopharm delivered its NOA to Pfizer. It has not been suggested that Novopharm had access to ratiopharm's NOA prior to that time.
+II.
+The Decision to Deny Novopharm's Request to Designate Its NOA as Confidential
+[9]
+Prothonotary Milczynski began her analysis by observing that the public's interest in open and accessible court proceedings should not be compromised except in exceptional circumstances. She then articulated the test applicable to a motion for an order of confidentiality pursuant to Rule 151 of the
+Federal Courts Rules
+(the "
+Rules
+"), as established by the Supreme Court of Canada in
+Sierra Club of Canada v. Canada (Minister of Finance) et al.
+, [2002] 2 S.C.R. 522; 287 N.R. 203; 2002 SCC 41, at 543-544. She stated that confidentiality orders under Rule 151 should only be granted when:
+(i) such an order is necessary to prevent a serious risk to an important interest, including a commercial interest, in the context of litigation because reasonable alternative measures will not prevent the risk; and
+(ii) the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings.
+She further noted that there are three elements to the first part of the
+Sierra Club
+test:
+(i) the risk in question must be real and substantial, in that the risk is well grounded in the evidence, and poses a serious threat to the commercial interest in question;
+(ii) in order to qualify as an "important commercial interest", the interest in question cannot merely be specific to the party requesting the confidentiality order, the interest must be one which can be expressed in terms of a public interest in maintaining confidentiality; and
+(iii) the Court must consider not only whether reasonable alternatives to a confidentiality order are available, but must also restrict the order as much as is reasonably possible while preserving the commercial interest in question.
+[10]
+Prothonotary Milczynski accepted that the preparation of Novopharm's NOA required substantial time (approximately 10 months), effort, resources and money. She further accepted that the NOA "may well be unique, novel and original as Novopharm contends in the structure and support of its arguments and be a first-class piece of work."
+[11]
+However, regarding the first element of the first part of the
+Sierra Club
+test, she found that Novopharm had not presented evidence of a serious risk to its commercial advantage with respect to its market position and what it hopes to be the timing of its market entry.
+[12]
+As to the second element of the first part of the
+Sierra Club
+test, Prothonotary Milczynski found as follows:
+"Novopharm's market position cannot be characterized as an important commercial interest within the meaning of
+Sierra Club
+. The commercial interest identified by Novopharm is narrow and personal to Novopharm, namely, its first-to-market status and its investment of time and money in the preparation of its NOA. There is no principle or element of public interest in the confidentiality at stake of the NOA, unlike the public interest identified in
+Sierra Club
+in maintaining confidentiality of the information at issue in that case. In
+Sierra Club
+, disclosure would cause a breach of a confidentiality agreement - there is a public interest in preserving such agreements. There is no public interest in ensuring Novopharm the time and/or exclusivity of its market entry over any other generic drug manufacturer."
+[13]
+With respect to the third element in the first part of the
+Sierra Club
+test, Prothonotary Milczynski took note of Novopharm's position that the entire NOA should be kept confidential and that the confidentiality of the information in the NOA could not be protected by simply redacting parts of the NOA.
+[14]
+Regarding the second part of the
+Sierra Club
+test, she concluded that the deleterious effects of the confidentiality order proposed by Novopharm outweigh any alleged salutary effects.
+[15]
+Given the foregoing, Prothonotary Milczynski dismissed Novopharm's motion.
+III.
+The Decision to Impose Costs on Novopharm
+[16]
+Prothonotary Milczynski noted that the purpose of an award of costs to a successful party is to (a) discourage unmeritorious litigation; and (b) partially indemnify the successful party for the costs incurred.
+[17]
+She further noted that Rule 400(1) of the
+Rules
+gives the Court "full discretionary power over the amount and allocation of costs," and that the discretion granted in respect of costs includes the jurisdiction to award a lump sum in lieu of, or in addition to, any assessed costs.
+[18]
+After identifying the various factors that the Court may consider in making a determination as to costs, Prothonotary Milczynski observed that there "is no provision in the [
+PMNOC Regulations
+] nor precedent in this Court for what Novopharm was seeking, for the reasons Novopharm was giving." She then stated that the reasons supporting Novopharm's request to protect the confidentiality of its entire NOA were without merit on the basis of the test set out in
+Sierra Club
+, above.
+[19]
+Accordingly, she held that Novopharm's motion should not have been brought. Given the foregoing, and considering the important public interest in open and accessible proceedings, she concluded that a higher amount of costs is warranted, in a fixed sum amount. She therefore ordered costs in the amount of (i) $8,000.00 payable forthwith by Novopharm to Pfizer and The Board of Regents for the University of Oklahoma ("Oklahoma"); and (ii) $2,000.00 payable forthwith to Northwestern University ("Northwestern"). These amounts exceeded the bill of costs in the amount of $7,668.34 submitted by Pfizer and Oklahoma, based on the high end of Column IV of the Tariff, and the $1,800.00 that was sought by Northwestern, calculated at the mid-point of Column III of the Tariff.
+IV.
+Issues
+[20]
+Novopharm has alleged that Prothonotary Milczynski made several errors in her reasons for dismissing its motion to designate its NOA as confidential. In essence, Novopharm claims that she erred by:
+1. failing to find that its entire NOA is a confidential document;
+2. finding that there was insufficient evidence of a serious risk to an important interest;
+3. concluding that its competitive position cannot qualify as an important interest under the
+Sierra Club
+test; and
+4. failing to recognize that the public interest in open and accessible court proceedings would not be deleteriously affected by designating the Novopharm NOA as confidential.
+[21]
+With respect to her reasons for issuing the Cost Order, Novopharm claims that Prothonotary Milczynski erred by:
+1. awarding costs against Novopharm, rather than ordering that they follow the cause; and
+2. awarding costs payable forthwith and in amounts greater than the amounts requested by Pfizer and Northwestern.
+V.
+The Standard of Review
+[22]
+The test applicable on an appeal of a discretionary order issued by a prothonotary is whether
+(i) the questions raised in the motion are vital to the final issue of the case; or (b) the order "is clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts" (
+Merck & Co. et al. v. Apotex Inc.
+, [2004] 2 F.C.R. 459; 315 N.R. 175; 2003 FCA 488, at 478). More recently, the Federal Court of Appeal has clarified that discretionary decisions of prothonotaries should stand unless intervention is warranted "to prevent undoubted injustices and to correct clear material errors" (
+J2 Global Communications Inc. v. Protus IP Solutions Inc.
+(2009), 387 N.R. 135; 2009 FCA 41, at para. 16).
+[23]
+It is common ground between the parties that the questions raised in Novopharm's motions are not "vital to the final issue of the case."
+VI.
+Analysis
+A.
+The refusal to designate Novopharm's NOA as confidential
+(i) Did the Prothonotary err by failing to find that Novopharm's entire NOA is a confidential document?
+[24]
+Novopharm claims that its "NOA as a whole is an original, commercially valuable and confidential document because it is an original compilation resulting from of (sic) ten months of knowledge, skill and effort of Novopharm and its consultants".
+[25]
+I am satisfied that Prothonotary Milczynski fully understood Novopharm's position on this point. This is clear from the following passage at paragraph 15 of her decision:
+"From Novopharm's perspective, the entire NOA must be kept confidential from a particular segment of the public (other generics) to prevent those generics from relying on the way Novopharm researched, compiled, organized and argued its allegations and detailed statement of fact and law relating to the validity of the patents in issue and non-infringement. Novopharm's commercial interest in so doing, is to ensure these generics do not gain market entry any faster or for less expense than they would otherwise as a result of their relying on Novopharm's NOA and not doing their own work."
+[26]
+Prothonotary Milczynski also accepted that Novopharm's "NOA may well be unique, novel and original as Novopharm contends in the structure and support of its arguments and be a first-class piece of work" (para. 10).
+[27]
+However, she did not explicitly assess whether the NOA is a confidential document.
+[28]
+She did appropriately note that "[t]here is no provision in the
+PMNOC Regulations
+relating to whether or not NOA's are confidential unlike other pieces of information or documents that are treated as confidential, such as Abbreviated New Drug Submissions." I agree with her implicit inference that this suggests that the
+PMNOC Regulations
+do not contemplate that entire NOAs should be treated as confidential in proceedings there under.
+[29]
+A second factor implicitly and appropriately recognized by Prothonotary Milczynski as weighing against the view that an entire NOA should be treated as a confidential document is that there is no precedent in this Court for designating an NOA as confidential in the manner and for the purpose that Novopharm seeks. In response, Novopharm has identified three consent cases in which entire NOAs were designated as confidential in proceedings under the
+PMNOC Regulation
+(
+Merck-Frosst - Schering Pharma GP et al v. The Minister of Health et al.
+(T-1610-08), Order dated November 18, 2009;
+Pfizer Canada Inc. et al. v. Genpharm ULC et al.
+(T-1118-09), Order dated December 1, 2009;
+Novo Nordisk Canada Inc. et al v. Cobalt Pharmaceuticals Inc. et al.
+(T-1221-08), Order dated September 11, 2008). However, it is well established that judgments given on consent have "no precedential value" (
+Minister of National Revenue v. Armstrong
+, [1996] 2 C.T.C. 266; 197 N.R. 262 (F.C.A.), at para. 13;
+Uppal v. Minister of Employment and Immigration
+, [1987] 3 F.C. 565; 78 N.R. 152 (F.C.A.), at para. 18).
+[30]
+Where an NOA raises legitimate questions regarding the validity of one or more patents, another significant factor that weighs against the view that the entire NOA should be treated as a confidential document is that a patent effectively confers a statutory monopoly on the patent holder, in the sense that the patent holder is shielded from competition for the life of the patent. This provides the basis for a strong public interest in transparency and openness with respect to (i) the allegations contained in an NOA, (ii) the basis for those allegations, and (iii) the proceedings involving those allegations. This consideration distinguishes this case from
+AB Hassle et al. v. Canada (Minister of National Health and Welfare) et al.
+(2000), 253 N.R. 284; 5 C.P.R.(4th) 149 (F.C.A.), which concerned information relating to the process, components and formulae by which the Respondent in that case produced a drug that it claimed did not infringe the Appellant's patent.
+[31]
+In this case, an additional factor that is relevant is that Novopharm's General Counsel, Ms. Ildeko Mehes, admitted in cross-examination that she did not expect that Pfizer would agree to treat Novopharm's NOA as confidential if Novopharm had requested such an agreement prior to sending the NOA, which Novopharm unilaterally marked as confidential, to Pfizer. This raises a serious question as to whether Novopharm had a reasonable expectation that its NOA would be kept confidential, and ultimately designated as such, particularly given the absence of any prior such designations of an entire NOA by this court, outside the consent context.
+[32]
+The foregoing considerations all distinguish this case from cases involving information that is generally recognized to be highly competitively sensitive, such as strategic and business plans, prices, profit margins, marketing contacts, market intelligence, sales invoices, the terms and conditions of licensing agreements, and the type of financial information that could allow competitors to have access to a firm's sales or marketing strategy, (
+Rivard Instruments Inc. v. Ideal Instruments Inc.
+(2006), 302 F.T.R. 301; 54 C.P.R.(4th) 420; 2006 FC 1338, at para. 17;
+Orange County Choppers Inc. v. Trio Selection Inc.
+, [2006] F.T.R. Uned. 675; 2006 FC 1122, at paras. 4 and 5; and
+Lundbeck Canada Inc. v. Canada (Minister of Health) et al.
+(2007), 312 F.T.R. 1; 2007 FC 412, at para. 19). It would appear to be generally accepted that the public interest in preserving the confidentiality of such competitively sensitive information typically outweighs the public interest in openness.
+[33]
+In my view, it was not a reviewable error for Prothonotary Milczynski to fail to more explicitly assess whether the NOA is a confidential document or to explicitly find that the NOA is such a document. She did not need to reach a conclusion on this point because she found that Novopharm had not satisfied the two main parts of the test set forth in
+Sierra Club
+, above, for determining whether a document should be designated confidential under Rule 151 of the
+Rules
+.
+[34]
+Even if she did implicitly find that the NOA is not a confidential document, I am unable to conclude, on the particular facts of this case, that this conclusion was clearly wrong, in the sense that it was based on a wrong principle or a misapprehension of the facts.
+(ii) Did the Prothonotary err in finding that there was insufficient evidence of a serious risk to an important interest of Novopharm's?
+[35]
+In reaching her conclusion on this point, Prothonotary Milczynski found that there were a number of significant problems with Novopharm's argument that a failure to designate its NOA as confidential would pose a serious threat to an important commercial interest, as contemplated by the first element of the first part of the test set forth in
+Sierra Club
+, above. Specifically, she noted the following:
+"First, there is no evidence of a serious risk to Novopharm's commercial advantage with respect to its market position and what it hopes to be the timing of its market entry. Novopharm assumes it will succeed on all five patents in issue in this case and makes assumptions about how its and ratiopharm's hearings will be scheduled by the Court. Novopharm may or may not be first or a close second on the market. There is also no evidence other than its own confidence in the quality of its work product to suggest that other generics will be lining up to copy any part of the Novopharm NOA, particularly when there is no evidence that ratiopharm's NOA has attracted such keen attention (or evidence that ratiopharm's NOA should not warrant it)."
+[36]
+I am unable to conclude that this conclusion was clearly wrong. In my view, Prothonotary Milczynski did not misapprehend the relevant facts in reaching this conclusion and she did not base her conclusion upon a wrong principle.
+[37]
+Indeed, in my view, the conclusion that Novopharm did not establish a real and substantial risk of harm to an important interest was entirely appropriate, particularly given that (i) the evidence adduced was entirely speculative and largely based on bald assertions and unsupported assumptions (
+FRAGMENT_SUPPRESSED); (ii) no evidence was adduced that ratiopharm's NOA, which dealt with the same patents at issue in this case and was filed several months in advance of Novopharm's NOA, had attracted the type of attention from rival generic drug manufacturers that Novopharm claimed its NOA will attract; and (iii) Novopharm adduced no persuasive evidence to demonstrate that its NOA would be of greater interest to those rivals than ratiopharm's NOA. In short, the alleged serious threat to Novopharm's commercial interest was not "well grounded in the evidence" (
+Sierra Club
+, above, at p. 542).
+(iii)
+Did the Prothonotary err by concluding that Novopharm's competitive position cannot qualify as an important interest under the
+Sierra Club
+test?
+[38]
+I can certainly sympathize with the difficulty that Novopharm has in accepting, as a general principle, that a firm's market position cannot be characterized as an important commercial interest, within the meaning of the test set forth in
+Sierra Club
+, above.
+[39]
+Market-oriented economies are distinguished from central-command economies and other highly regulated or protected economies precisely, and perhaps most importantly, by the fact that businesses in market-oriented economies are much more focused on innovating and otherwise striving to better compete in order to enhance or at least protect their market positions. The public benefits that result from firms' efforts to enhance their market positions include more competitive prices, new or improved products and services, and more efficient production methods and supply chains. In turn, these benefits generally result in increased general economic growth and productivity, as well as an increase in the average standard of living of those living in the economy.
+[40]
+Firms' concerns with their market positions therefore lie at the very root of our market-oriented economy and, arguably, are a matter of substantial public interest.
+[41]
+To the extent that the disclosure of a firm's confidential information in legal proceedings could pose a serious threat to its commercial interests, and thereby harm its market position, the failure of the law to recognize the importance of protecting the confidentiality of such information could have significant adverse consequences for the public interest. This is because such failure could have a considerable chilling effect on other firms' willingness to fully avail themselves of their legal rights through legal proceedings, due to a concern about the potential adverse impact on their market position that might result from the disclosure of their competitively sensitive confidential information. Accordingly, in my view, the issue of whether to protect the confidentiality of such information can certainly be expressed in terms of a public interest in maintaining confidentiality, as contemplated in
+Sierra Club
+, above, at 544.
+[42]
+However, there is plain language in
+Sierra Club
+that does not support this view. At page 544, the decision states that an interest "cannot merely be specific to the party requesting the order; the interest must be one which can be expressed in terms of a public interest in confidentiality." As an example, the decision states that "a private company could not argue simply that the existence of a particular contract should not be made public because to do so would cause the company to lose business, thus harming its commercial interests." On their face, these passages support the conclusion reached by Prothonotary Milczynski that Novopharm's market position cannot be characterized as an important commercial interest because that interest is personal to Novopharm.
+[43]
+Notwithstanding these passages, other language in
+Sierra Club
+appears to support the view that the harm to a firm's market position that would likely result from the disclosure of the firm's competitively sensitive information, can constitute a risk to an important commercial interest. Specifically, at page 546 of
+Sierra Club
+, the Supreme Court appeared to accept that confidential information which could be of interest to competitors' warrants protection to prevent a serious risk to an important commercial interest.
+[44]
+This latter language can be reconciled with the example quoted above from page 544 of the decision by viewing that example as having been intended to be confined to situations in which the disclosure of a firm's confidential information may result in some lost sales, but is not likely to have a significant adverse impact on the firm's market position. An example would be a situation where the disclosure of a purchase or sales contract would lead a supplier or customer of the disclosing firm to switch all or part of its business away from the disclosing firm upon learning that the firm had agreed to better terms with another supplier or customer.
+[45]
+It is not difficult to imagine a broad range of scenarios involving this type of situation, in which the firm in question might lose some sales, but would not face a risk to its market position that rises to the level of being "serious." These would be scenarios in which the nature of the information disclosed is not likely to give rivals of the disclosing firm a material competitive advantage, in the sense of helping them to win significant market share away from the disclosing firm.
+[46]
+That said, it is not clear that the Supreme Court intended the aforementioned language at page 546 of
+Sierra Club
+, above, to stand for the proposition that a firm's market position can be characterized as an important commercial interest, as contemplated by the second element in the first part of the test established in that decision. Therefore, I am unable to conclude that Prothonotary Milczynski's conclusion on this point was clearly wrong.
+[47]
+In any event, her conclusion that Novopharm had not met its burden in respect of the first element in the first part of the test set forth in
+Sierra Club
+provided a sufficient basis upon which to dismiss Novopharm's motion.
+(iv) Did the Prothonotary err by failing to recognize that the public interest in open and accessible court proceedings would not be deleteriously affected by designating Novopharm's NOA as confidential?
+[48]
+With respect to the second main part of the test established in
+Sierra Club
+, above, Prothonotary Milczynski concluded that the deleterious effects of the confidentiality order proposed by Novopharm would outweigh any alleged salutary effects. I am satisfied that this conclusion was reasonably open to her on the facts of this case, particularly given (i) Novopharm's inability to adduce persuasive evidence to establish any such salutary effects; and (ii) the fact that the deleterious effects would have included:
+(a) a very real prospect of substantial portions of the main legal proceeding in this case, and potentially also portions of interlocutory hearings, having to be held in camera;
+(b) many additional court documents having to be designated confidential or redacted; and
+(c) a consequential adverse impact on the right to free expression, which in this context includes the public interest in open and accessible court proceedings.
+[49]
+In aggregate, these deleterious effects would be potentially quite substantial and would be more likely to flow from designating Novopharm's NOA as confidential, than the salutary effects alleged by Novopharm.
+[50]
+In my view, designating Novopharm's entire NOA as confidential would give rise to a significant prospect of "the concealment of an excessive amount of information" from the public (
+Sierra Club
+, above, at 541). This is essentially what Prothonotary Milczynski stated when she concluded that "what Novopharm seeks would gravely diminish the importance and value of open and accessible court proceedings and the need to preserve the public's confidence in the integrity of the administration of justice."
+[51]
+A further deleterious effect that could well result from the order sought by Novopharm is that it could make it difficult for Northwestern University to present its case. Any adverse impact upon Northwestern University's ability to present its case, as the co-owner of one of the patents that Novopharm has alleged is invalid, would undermine its right to a fair trial (
+Sierra Club
+, above, at 549). By contrast, Novopharm did not claim that denying its motion for confidentiality would cause Novopharm to withhold any information in order to present its case.
+[52]
+It is also significant that no evidence was adduced to attempt to demonstrate that the public availability of NOAs has slowed, let alone prevented, the filing of NOAs.
+[53]
+I do not attribute much significance to the fact that the hearing in
+Merck-Frosst-Schering Pharma GP et al. v. The Minister of Health et al.
+, above, in which the NOA in that case was designated confidential on consent, may be proceeding on the public record.
+B.
+The decision on the Cost Order
+[54]
+Rule 400(1) of the
+Rules
+gives the Court "full discretionary power over the amount and allocation of costs and the determination of by whom they are to be paid."
+[55]
+Rule 400(3) lists various factors that the Court may consider in exercising its discretion under Rule 400(1). Prothonotary Milczynski identified several of those factors in her decision, including "the conduct of a party that tended to shorten or unnecessarily lengthen the duration of the proceeding" and "whether any step in the proceedings was improper, vexatious or unnecessary." I am satisfied that these were entirely appropriate factors to consider in this case. It was certainly not clearly wrong for Prothonotary Milczynski to base her decision on these factors and the other factors mentioned in her reasons for issuing the Cost Order.
+[56]
+Rule 401(1) gives the Court "the discretion to award the costs of a motion to either party, regardless of the outcome of the main matter" (
+Singer et al. v. Enterprise Rent-A-Car Co. et al.
+, [1999] N.R. Uned. 102; [1999] F.C.J. No. 1687; 91 A.C.W.S.(3d) 716 (F.C.A.), at para. 6. I am satisfied that it was entirely appropriate for Prothonotary Milczynski to award costs against Novopharm, rather than ordering that they follow the cause, in this case. Once again, it was certainly not clearly wrong for her to do so.
+[57]
+Rule 400(4) gives the Court the discretion to "award a lump sum in lieu of, or in addition to, any assessed costs". I am in agreement with Hugessen, J.'s, statement in
+Barzelex Inc. v. M.V. Ebn Al Waleed et al.
+, [1999] F.T.R. Uned. 930; [1999] F.C.J. No. 2002 (T.D.), at para. 11, affd. [2001] N.R. Uned. 153; 2001 FCA 111, that, "as a matter of policy the Court should favour lump sum orders." I am also of the view that the specific lump sum awards in this case were reasonable and not clearly wrong.
+[58]
+Rule 401(2) gives the Court discretion to order that costs be payable forthwith where it "is satisfied that a motion should not have been brought or opposed." In her reasons, Prothonotary Milczynski specifically found that Novopharm's motion should not have been brought and that it was without merit on the test enunciated for confidentiality orders under Rule 151 of the
+Rules
+, as set forth in
+Sierra Club
+, above. In my view, these conclusions were reasonably open to her and were certainly not clearly wrong.
+VII.
+Conclusions
+[59]
+This motion is dismissed.
+[60]
+Costs of the motions below are payable in accordance with the reasons of Prothonotary Milczynski.
+[61]
+As to the costs of this motion, I am satisfied that it should never have been brought. In my view, it was improper and vexatious. Novopharm's refusal to accept the Orders issued in the motions below forced Pfizer and Northwestern to incur substantial additional costs to deal with this motion. Accordingly:
+ORDER
+[62]
+THIS COURT ORDERS that
+:
+1. Costs in the amount of $5,000.00 are payable forthwith by Novopharm Limited to Pfizer Canada Inc. and the Board of Regents for the University of Oklahoma.
+2. Costs in the amount of $1,500.00 are payable forthwith by Novopharm Limited to Northwestern University.
+Motion dismissed.
+Editor: Anick Ouellette-Levesque/pdk
+[End of document]

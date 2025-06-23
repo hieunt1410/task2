@@ -1,0 +1,7 @@
+[73]
+I must say I was most impressed by the evidence of Dr. Lundquist the expert witness called by the defendant. His evidence at pages 1046-47 after much discussion about various earlier patents, runs like this:
+"Q.	Dr. Lundquist, I would ask you now to put yourself in the position of a designer of mining equipment and the hydraulic circuits for such equipment in let us say 1963 as a date earlier than my friend has alleged in his invention date.
+"Further, I would ask you to assume that you wish to use as a throttle valve a valve that you knew was likely to leak. I would then ask what expedient you would have, as a designer of mining equipment of ordinary skill used, to deal with that problem in designing a parallelism and adjustment circuit as that shown in the Kimber patent.
+A.	I believe that an engineer of ordinary skill of that time would have known then, as I certainly know myself now, that you can use crosspiloted check valves to protect that circuit from leaking through the throttle valve.
+Q.	And when you say "use crosspiloted check valves", how in fact would those valves have been used?
+A.	They would have been connected as are valves 35 and 36 in Figure 1 of the Kimber patent; that is, across those lines which lead to the throttle valve that is used for the adjustment, throttle valve T25."

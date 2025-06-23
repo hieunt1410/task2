@@ -1,0 +1,11 @@
+[9]
+The
+Act
+provides for a statutory stay of execution of a removal order under s. 49(1) which reads in part as follows:
+"49(1) Subject to subs. (1.1), the execution of a removal order made against a person is stayed
+(a) in any case where the person against whom the order was made has a right of appeal to the Appeal Division, at the request of that person until the time provided for filing of the appeal has elapsed;
+(b) in any case where an appeal from the order has been filed with the Appeal Division, until the appeal has been heard and disposed of or has been declared by the Appeal Division to be abandoned."
+Section 49(1.1) reads:
+"49(1.1) Subs. (1) does not apply to
+(a) a person residing or sojourning in the United States or St. Pierre and Miquelon who is the subject of a report made pursuant to paragraph 20(1)(a); or
+(b) a person who has been determined to be not eligible to make a claim to be a Convention refugee by reason of paragraph 46.01(1)(b) and who is to be removed to a country with which the Minister has entered into an agreement under s. 108.1 for sharing the responsibility for examining refugee claims."

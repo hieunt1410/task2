@@ -1,0 +1,72 @@
+[1]
+Tremblay-Lamer, J.
+: On January 16, 1995 I dismissed a motion on behalf of defendants for an Order to strike the Statement of Claim and for security for costs.
+[2]
+These are the reasons for that Order.
+[3]
+The litigation at issue surrounds the sale of a car wax. The plaintiffs are companies operating in the consumer products industry. K-Tel Entertainment (UK) Ltd. is an entity incorporated in the United Kingdom. K-Tel International Ltd. is a related company incorporated in Manitoba. The plaintiffs marketed their car wax, trade marked "LUSTRE 7", internationally. 175869 Canada Inc. supplied the car wax product to the plaintiffs. The defendant David Gareau was intimately involved in this transaction. One of the ways that the plaintiffs sold the car wax was through the mail order-catalogue business of Muralex. The defendant Pierre Benoît was the President and sole shareholder of Muralex.
+[4]
+Eventually, the defendants were approached by a third party to whom they supplied a car wax that was very similar to "LUSTRE 7" in both content and packaging. The defendants sold this new product in competition with the plaintiffs. The plaintiffs allege that their property rights have been infringed by the conduct of both the corporate defendants, and their natural masters.
+1. Order Striking Out
+The Statement Of Claim
+As Against The Defendants
+Pierre Benoît And David Gareau.
+[5]
+The defendants submit that the Statement of Claim does not disclose a cause of action against the defendants Pierre Benoît and David Gareau.
+[6]
+Pursuant to Rule 419(1) a pleading can only be struck on the basis of one of the enumerated grounds. The defendants have brought this motion pursuant to paragraph (a):
+"419(1) The court may at any stage of an action order any pleading or anything in any pleading to be struck out, with or without leave to amend, on the ground that
+(a) it discloses no reasonable cause of action or defence, as the case may be,"
+a) Pierre Benoît
+[7]
+In the case at bar, the defendant Pierre Benoît is the President and sole director of the corporate defendant Muralex and the secretary and sole director of the corporate defendant Multirox.
+[8]
+The plaintiffs submit that because of his duties M. Benoît is intimately and directly involved in the day-to-day activities and management of all the activities procured, ordered, authorized and directed by the corporate defendants Multirox and Muralex.
+b) David Gareau
+[9]
+David Gareau is the president and sole director of 175869 Canada Inc. He is also a key employee of the corporate defendant Multirox.
+[10]
+The plaintiffs submit that due to his position, M. Gareau is intimately and directly involved in the day-to-day activities and management of all the activities of the corporate defendant 175869 Canada Inc., and personally procured, ordered, authorized and directed all of the actions of that corporate defendant.
+[11]
+The test for determining the personal liability of a director was established in
+Smithkline Beecham Animal Health Inc. et al. v. Interpharm Inc. et al.
+(1993), 67 F.T.R. 146; 52 C.P.R.(3d) 400 (T.D.), at pp. 150-151 F.T.R.:
+"The test for determining personal liability of a director of a company which has engaged in infringing activities was commented on by Justice Le Dain in
+Mentmore Manufacturing Co. v. National Merchandise Manufacturing Co.
+(1978), 40 C.P.R.(2d) 164; 89 D.L.R.(3d) 195 at p. 174 (C.A.) Le Dain, J., stated that test as follows:
+'But in my opinion, there must be circumstances from which it is reasonable to conclude that the purpose of the director or officer was not the direction of the manufacturing and selling activity of the company in the ordinary course of his relationship to it but the deliberate, wilful and knowing pursuit of a course of conduct that was likely to constitute infringement or reflected an indifference to the risk of it. The precise formulation of the appropriate test is obviously a difficult one. Room must be left for a broad appreciation of the circumstances of each case to determine whether as a matter of policy they call for personal liability.'
+"This test was followed in
+Windsurfing International Inc. v Novaction Sports Inc.
+(1987), 15 F.T.R. 302; 15 C.I.P.R. 164 at p. 170 C.I.P.R. (T.D.). There Jerome, A.C.J. held that in order to establish a cause of action against an individual as the directing mind of a corporation it is not sufficient to merely plead the fact of his or her capacity as President.
+There must be an allegation that he or she knowingly and willingly authorized the infringing actions which form the basis of the cause of action
+." (my emphasis)
+[12]
+Based on the Statement of Claim of the plaintiffs, I am of the view that there are enough allegations, in particular at paragraphs 3, 4, 16, 23-26, 39, 30 to arrive at the conclusion that indeed, Pierre Benoît and David Gareau "knowingly and willingly authorized the infringing actions which form the basis of this cause of action". Consequently, I dismissed this motion.
+2. Security For Costs
+[13]
+The defendants submit that the plaintiff K-Tel Entertainment (UK) Ltd. is ordinarily resident outside the jurisdiction. The circumstances are therefore described by rule 446(1)(a) of the
+Federal Court Rules
+:
+"446(1) Where, on an application of a defendant, it appears to the court
+(a) that the plaintiff is ordinarily resident out of the jurisdiction
+. . . . .
+if, having regard to all the circumstances of the case, it seems just to do so, the court may order the plaintiff to give such security for the defendant's costs of the action or other proceedings as seems just (Form 17)."
+[14]
+The plaintiff, K-Tel Entertainment (UK) Limited, describes itself in the following manner in its Statement of Claim:
+"2. The plaintiff K-Tel Entertainment (UK) Limited (hereinafter referred to as 'K-Tel (UK)') is a company incorporated pursuant to the laws of the United Kingdom and has a place of business at Windmill Court, 192 Windmill Lane, Greeford, Middlesex, UB6 9DW, United Kingdom. K-Tel (UK) frequently works together with K-Tel International in the development, promotion and sale of household consumer products, particularly in the United Kingdom and parts of Europe."
+Clearly this company is resident outside Canada and therefore falls within the first ground for ordering security for costs.
+[15]
+Yet, falling within one of the grounds described by rule 446(1) is not sufficient by itself to order security for costs. The jurisprudence on that matter has stated the following:
+FRAGMENT_SUPPRESSED (my emphasis)
+[16]
+In the present case, the circumstances do not warrant security for costs. The other plaintiff, K-Tel International Ltd., is a company incorporated pursuant to the laws of Manitoba and has a place of business at 220 Salteaux Crescent, Winnipeg, Manitoba. Thus, one of the plaintiffs has a place of business and
+significant
+assets in Canada and all of the plaintiffs are related companies. A similar situation arose before Denault, J. (Ibid.):
+"In the case at bar, in so far as the plaintiff is a corporation having its head office in Delaware, even though it is registered as an extra-provincial company in British Columbia, it is still a party which is 'ordinarily resident out of the jurisdiction' of this court. However, I consider that the fact that it has long had a place of business in Canada where it maintains employees and that it keeps inventory there and accounts receivable for large sums operates in its favour and constitutes circumstances justifying this court to exempt it from providing security."
+[17]
+In these circumstances, it was unnecessary to award security for costs as I was satisfied that the plaintiff resident in Canada would meet its cost obligations.
+[18]
+Consequently, the motion for security costs was dismissed.
+Motion dismissed.
+Editor: Jean A. Merlini/saf
+[End of document]

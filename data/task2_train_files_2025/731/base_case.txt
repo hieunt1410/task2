@@ -1,0 +1,139 @@
+Date: 20181005
+Docket: T-1507-17
+Citation: 2018 FC 1004
+[ENGLISH TRANSLATION]
+Ottawa, Ontario, October 5, 2018
+PRESENT: The Honourable Madam Justice Roussel
+BETWEEN:
+CYRILLE RAOUL TEMATE
+Applicant
+and
+ATTORNEY GENERAL OF CANADA
+Respondent
+JUDGMENT AND REASONS
+I.
+Background
+[1]
+On May 4, 2016, the applicant, Cyrille Raoul Temate, lodged a complaint against the Public Health Agency of Canada (“Agency”) with the Canadian Human Rights Commission (“Commission”). He claims to have been the victim of employment discrimination because of his race, colour and national or ethnic origin, contrary to section 7 of the Canadian Human Rights Act, R.S.C., 1985, c. H-6 (“CHRA”). He notably reproaches the Agency for transferring a third party to a management position following the withdrawal of the selected candidate when he was the only candidate in the established pool following the internal appointment process.
+[2]
+In a report signed April 27, 2017, a human rights officer (“officer”) recommended, pursuant to paragraph 41(1)(e) of the CHRA, that the Commission not deal with Mr. Temate’s complaint, given that the last alleged discriminatory act occurred more than one (1) year before receipt of the complaint. The officer also considered that Mr. Temate did not exercise due diligence in submitting the complaint and provided no reasonable explanation for the delay.
+[3]
+Both parties were invited to and did make submissions in response to the officer’s report.
+[4]
+On August 23, 2017, the Commission rendered a decision in which it refused to deal with the complaint. It informed the parties by letter on August 30, 2017.
+[5]
+At the beginning of its decision, the Commission confirmed that it had reviewed the complaint form, the officer's report and the parties’ written submissions. Upon reviewing the complaint as submitted, it found that Mr. Temate was complaining about not being selected from a pool of candidates for which he was qualified. It therefore concluded that the last alleged discriminatory act was the selection of another candidate in the selection process.
+[6]
+The Commission added that Mr. Temate learned that he had not been selected between January 12 and 15, 2015, and that this information was confirmed to him during a meeting on January 30, 2015. According to the Commission, Mr. Temate understood that he was the victim of a discriminatory decision shortly afterwards, because he contacted the Commission for the first time in May 2015. The Commission indicated that Mr. Temate made the same allegations of discrimination in a complaint submitted to the Public Service Labour Relations and Employment Board (“Board”) on June 9, 2015.
+[7]
+The Commission then considered certain arguments made by Mr. Temate in his submissions in response to the officer’s report.
+[8]
+The Commission concluded that no discriminatory act occurred on June 29, 2015 when Mr. Temate learned that the position had been filled by the transfer of a third party who was not part of the pool of candidates, nor on July 5, 2015, when he received the response to his access to information request. The Commission considered that in these two (2) instances, Mr. Temate received information supporting his allegation that he was not selected from the pool of candidates.
+[9]
+The Commission also concluded that the fact that the Agency provided instructions on April 4, 2016 to cease all contact with Mr. Temate in relation to the defence of his complaint before the Board was not an act of differential treatment that could constitute the last discriminatory act.
+[10]
+The Commission also rejected the argument that the last discriminatory act occurred during another staffing process between August 2016 and January 2017. It considers that these are new facts separate from the facts described in the initial complaint.
+[11]
+The Commission concluded its decision by indicating that Mr. Temate had been warned about the limitation period for submitting a complaint, as indicated in paragraphs 17 and 18 of the officer's report.
+[12]
+Mr. Temate is seeking judicial review of this decision. He maintains that the Commission erred in its interpretation of paragraph 41(1)(e) of the CHRA because it was not “plain and obvious” that the Commission should not process the complaint. He also reproaches the Commission for failing to exercise discretion under paragraph 41(1)(e) of the CHRA by failing to extend the deadline. Lastly, Mr. Temate cites a reasonable apprehension of bias on the Commission’s part because of its “closed mindedness” towards his evidence and submissions.
+[13]
+Upon reviewing the case, the Court considers that there is a basis for review in this case.
+II.
+Analysis
+[14]
+Under paragraph 41(1)(e) of the CHRA, the Commission may refuse to deal with any complaint submitted if over a year as passed since the last occurrence of the facts on which the complaint is based. The Commission may, however, exercise discretion and allow a longer period of time for submitting the complaint.
+[15]
+Paragraph 41(1)(e) of the CHRA reads as follows:
+41 (1) Subject to section 40, the Commission shall deal with any complaint filed with it unless in respect of that complaint it appears to the Commission that
+41 (1) Sous réserve de l’article 40, la Commission statue sur toute plainte dont elle est saisie à moins qu’elle estime celle-ci irrecevable pour un des motifs suivants :
+[…]
+[…]
+(e) the complaint is based on acts or omissions the last of which occurred more than one year, or such longer period of time as the Commission considers appropriate in the circumstances, before receipt of the complaint.
+e) la plainte a été déposée après l’expiration d’un délai d’un an après le dernier des faits sur lesquels elle est fondée, ou de tout délai supérieur que la Commission estime indiqué dans les circonstances.
+[16]
+The parties agree that the standard of review applicable to this type of decision is the standard of reasonableness (Richard v. Canada (Attorney General), 2010 FCA 292 at para. 9; Gauthier v. Canada (Attorney General), 2017 FC 697 at para. 15 [Gauthier]; Grenier v. Canada (Attorney General), 2016 FC 687 at para. 28 [Grenier]; Canadian Museum of Civilization v. Public Service Alliance of Canada, 2014 FC 247 at para. 33 [Canadian Museum of Civilization]; Richard v. Canada (Treasury Board), 2008 FC 789 at para. 10 [Richard]).
+[17]
+Where the reasonableness standard applies, the Court’s role is to determine whether the decision “falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.” As long as “the process and the outcome fit comfortably with the principles of justification, transparency and intelligibility,” it is not open to this Court to substitute its own view of a preferable outcome (Dunsmuir v. New Brunswick, 2008 SCC 9 at para. 47 [Dunsmuir]; Canada (Citizenship and Immigration) v. Khosa, 2009 SCC 12 at para. 59; Newfoundland and Labrador Nurses' Union v. Newfoundland and Labrador (Treasury Board), 2011 SCC 62 at para. 14-18).
+[18]
+The allegation of bias falls under procedural fairness. The Federal Court of Appeal recently ruled that matters of procedural fairness do not necessarily lend themselves to an analysis in relation to a standard of review. Rather, the role of this Court is to determine whether the procedure was fair having regard to all of the circumstances (Canadian Pacific Railway Company v Canada (Attorney General), 2018 FCA 69 at para. 54; Dunsmuir at para. 79).
+[19]
+It is worth reiterating the context of the Commission’s decision. When a complaint is submitted, the Commission must initially determine whether it must deal with it pursuant to subsection 41(1) of the CHRA. During this preliminary step, the Commission must notably determine which complaints require further investigation and screen out those that it considers to be inadmissible pursuant to one (1) of the five (5) exceptions stipulated in subsection 41(1) of the CHRA (Canadian Museum of Civilization at para. 38; Canada (Attorney General) v. Mohawks of the Bay of Quinte First Nation, 2012 FC 105 at para. 38-39 [Maracle]; Bredin v. Canada (Attorney General), 2007 FC 1361 at para. 26 [Bredin]; Cape Breton Development Corp. v. Hynes, [1999] FCJ no. 340 (QL) 1999 CanLII 7768 (FC) at para. 16 [Cape Breton]).
+[20]
+The Commission’s discretion to screen out a complaint at this stage of the process is limited to cases where it is “plain and obvious” (évident et manifeste) that the complaint should not be processed because the Commission’s decision summarily ends the complaint (Canada Post Corporation v. Canadian Human Rights Commission [1997] FCJ No 578 (QL) at para. 3; Canadian Museum of Civilization at para. 64 and 68; FRAGMENT_SUPPRESSED; Bredin at para 24; affd [1999] FCJ no. 705, 1999 CanLII 7865 [FCA]). During this preliminary step, the Commission is not required to investigate the merits of the complaint (Khapar at para. 64; Bredin at para. 26; Cap-Breton at para. 16).
+[21]
+If the Commission determines that the complaint is inadmissible because it was submitted outside the one (1) year time limit stipulated in paragraph 41(1)(e) of the CHRA, it must then decide if it will exercise its discretion to grant a longer period of time to file the complaint (Bredin at para. 27; Price v. Concord transportation Inc., 2003 FC 946 at para. 38).
+[22]
+When the Commission decides not to exercise discretion and not to deal with a complaint, it must send a written notice of its decision to the complainant setting out the reason for its decision pursuant to subsection 42(1) of the CHRA. When the Commission adopts an investigator’s recommendations and provides no reasons or only brief reasons, the investigator’s report may be considered as constituting the Commission’s reasoning (Sketchley v. Canada (Attorney General), 2005 FCA 404 at para. 37; Gauthier at para. 14; Grenier at para. 40; Richard at para. 14; Bredin v. Canada (Attorney General), 2006 FC 1178 at para. 57).
+[23]
+Given the procedural background and corresponding principles, the Court considers that the deciding issue in this case concerns the Commission’s discretion to allow a longer period of time for submitting the complaint.
+[24]
+Mr. Temate reproaches the Commission for failing to consider several factors in exercising its discretion. He claims that the Commission should have investigated whether the delay occurred in good faith or resulted in any injustice or prejudice. It should have also considered the objectives of the CHRA and the effect of dismissing the complaint on Mr. Temate.
+[25]
+In response, the Attorney General of Canada (“AGC”) maintains that the Commission exercised reasonable discretion in determining whether or not to deal with the complaint despite the fact that it was submitted after the allowed time period. She claims that the Commission considered many factors, including the length of the delay, the nature of the complaint, public interest considerations, the complaint before the Board, and Mr. Temate’s control over the delay incurred. Mr. Temate was expressly informed of the one-year time limit by the Commission and provided no explanation to justify this delay. The AGC considers that it was reasonable for the Commission, in light of these factors, to not allow a longer time period for Mr. Temate to submit his complaint.
+[26]
+Paragraph 41(1)(e) of the CHRA does not specify the criteria the Commission should apply in exercising discretion. That said, this Court had the opportunity to make a decision on the issue in Richard. It is worth reiterating certain passages:
+[8]  As can be seen, paragraph 41(1)(e) of the CHRA does not specify the criteria for exercising the discretion to extend the one-year time limit. Therefore, it is left to the Commission to devise any relevant criteria pertaining to the exercise of its discretion. According to the jurisprudence, the criteria used by the Commission may be similar, albeit not identical, to the criteria used by the courts: “[a]mong these, particularly, whether the delay was incurred in good faith and the weighing of any prejudice or unfairness to the respondent caused by the delay” (Bredin v. Canada (Attorney General), 2006 FC 1178 (CanLII), at paragraph 51) [sic](Bredin)). This supposes that findings of fact are to be made by the Commission with respect to the good faith of the complainant, the reasonableness of her or his explanations for the delay, and/or the existence of some harm or prejudice caused to the respondent by the delay.
+[9]  Each request for an extension of the time limit must be assessed by the Commission on its own merits. The particular weight to be given to any relevant factor may vary from case to case. Further, the list of factors or criteria to extend the time limit is not exhaustive. The length of the delay and the particular nature of the allegation of discrimination (i.e., whether it is exceptional or not and whether it was isolated or continuous), combined with the fact that the complainant is acting in good faith and is not bringing a trivial, frivolous or vexatious complaint, may also be relevant considerations in the Commission’s exercise of its discretion to extend the one-year delay. Considering the objectives of the CHRA and the possible harm and prejudice that may be caused to victims of discrimination, a lengthy delay in bringing a complaint may not, in and of itself, constitute reasonable grounds to refuse to extend the one-year time bar. This is especially so if, for example, the complainant has a reasonable explanation for the delay or the respondent will not suffer any prejudice.
+(Richard at para. 8-9; see also Bredin at para. 29.)
+[27]
+Following a review of the Commission’s decision, there is no indication that it considered any factors that could justify allowing a longer period of time. Its reasoning is limited to the following laconic statement:
+[translation]
+As noted in paragraphs 17 and 18 of the Report, the complainant was informed of the time period for submitting a complaint under paragraph 41(1)(e) of the [CHRA].
+[28]
+Even though the officer’s report can be considered to constitute the reasons for the Commission’s decision, paragraphs 17 and 18 referred to by the Commission nevertheless do not address the issue. These two (2) paragraphs simply take stock of Mr. Temate’s actions after the one-year time period. They contain no analysis or conclusion and definitely do not take account of the factors to be taken into consideration in whether to exercise discretion by allowing for a longer time period.
+[29]
+It is also explicitly stated in paragraph 17 that Mr. Temate would have [translation] “the opportunity to provide further information on the delay when invited to comment on the report.” In accordance with the officer’s instructions, Mr. Temate did just that. In response to paragraph 8(g) of the report, which lists a series of matters the Commission can consider if the complaint is submitted after the one (1) year time period, Mr. Temate indicated, among other things, that he made use of other dispute resolution mechanisms (including submitting a complaint to the Board), that he had not been represented since August 2015, and that the Agency had known since the complaint had been submitted to the Board that he was claiming to have experienced discrimination.
+[30]
+In its decision, the Commission in no way responded to Mr. Temate’s submissions. It did not state that it rejects his explanations, nor that it agrees with the conclusions set out in the report on the justification of the delay. Given the offer made by the officer, which was taken up by Mr. Temate, it would have been reasonable for the Commission to comment on the merits or lack thereof of the explanations provided by Mr. Temate.
+[31]
+The Commission also did not comment on another aspect the officer opened up to comment. In paragraph 21 of her report, the officer mentions that the Agency did not indicate whether its ability to contest the complaint would be seriously undermined if the Commission dealt with the complaint. She added that the Agency would have the opportunity to comment on this in its submissions in response to the report. Given that the prejudice experienced by the party complained against is one of the considerations stipulated in paragraph 8(g) of the report that the Commission can take into account when exercising discretion, it would have been reasonable for the Commission to comment on this matter, given that the Agency's response included no such allegation.
+[32]
+The Court recognizes that it must defer to the Commission’s conclusions, especially when the decision was made under subsection 41(1) of the CHRA (Public Service Alliance of Canada v. Canada (Attorney General), 2015 FCA 174 at para. 34; Bell Canada v. Communications, Energy and Paperworkers Union of Canada, [1998] FCJ no 1609 (QL) at para. 51; Canadian Museum of Civilization at para. 59; Maracle at para. 40; Cape Breton at para. 15).
+[33]
+Nothing, however, in the Commission's decision can be used to establish that the Commission did indeed consider exercising discretion. On the contrary, when read in full, the decision seems to be based only on the fact that the complaint was not submitted in time. That said, even if it is presumed that the Commission considered the factors that should guide its decision of whether to exercise discretion, the Court finds that the decision did not meet the justification, transparency and intelligibility criteria set out in Dunsmuir, because its reasons are clearly insufficient.
+[34]
+For these reasons, the application for judicial review is allowed. The Court therefore does not need to comment on the other means mentioned by Mr. Temate. That said, the Court believes it appropriate to voice certain concerns about the Commission’s interpretation of the event on April 4, 2016. Mr. Temate reproaches the Agency for providing instructions to stop speaking with him and to cease all contact with him. In its decision, the Commission concluded that this could not be considered an act of differential treatment that could constitute the last discriminatory act because [translation] “it is obvious that this was a strategy used by [the Agency], which at that point had been contesting the complaint before the Board for over two years.” That said, according to the Commission's own decision, the complaint was submitted before the Board on June 9, 2015—within a year of the event that occurred on April 4, 2016. According to the officer’s report, it also appears that Mr. Temate received the Board’s decision on January 27, 2016. Board proceedings had therefore concluded by April 4, 2016.
+[35]
+According to both the docket and the decision, it does not appear that the Commission considered the allegation included in Mr. Temate's response to the report about [translation] “inflammatory, discriminatory, racist remarks” in relation to a teleconference in November 2015, despite the fact that the Commission decided to comment on Mr. Temate’s arguments, which were provided for the first time in his submissions in response to the officer's report.
+[36]
+In conclusion, the Court would like to point out that it did not take consideration of Mr. Temate’s affidavit or the attached documents. The Court agrees with the AGC’s arguments: (1) that Mr. Temate’s affidavit and the attached documents do not comply with the requirements set out in subsections 80(1) and 80 (3) of the Federal Court Rules, SOR/98-106, given that they do not include the signature of a commissioner for oaths; and (2) that the documents that Mr. Temate is trying to submit are not included in the Commission’s file (Association of Universities and Colleges of Canada v. Canadian Copyright Licensing Agency (Access Copyright), 2012 FCA 22 at para. 19-20; Gauthier at para. 12; Caba v. Canada (Attorney General), 2012 FC 1017 at para. 18-21).
+[37]
+At the request of the Court, Mr. Temate submitted a bill of costs following the hearing for a total of $5,354.50 in disbursements and costs. According to Mr. Temate, the total amount represents $100 in disbursements and $5,254.50 in costs (including tax) for preparing and submitting the application, for preparing for and participating in the hearing, and for services following the judgment.
+[38]
+The AGC is claiming $3,750.
+[39]
+The Court is exercising its discretion and will grant Mr. Temate only $3,000 in costs, given that part of the hearing was used solely for the parties to hear about the eligibility of the documents submitted by Mr. Temate as well as his argument that the certified record was incomplete, which was raised for the first time at the hearing and was deemed unfounded.
+JUDGMENT in case T-1507-17
+THE COURT’S JUDGMENT is that:
+The application for judicial review is allowed.
+The decision rendered by the Canadian Human Rights Commission on August 23, 2017 is overturned, and the case shall be referred back to the Commission for a new investigation by another decision-maker;
+The applicant is awarded costs in the amount of $3,000.
+“Sylvie E. Roussel”
+Judge
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET:
+T-1507-17
+STYLE OF CAUSE:
+CYRILLE RAOUL TEMATE v ATTORNEY GENERAL OF CANADA
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+SEPTEMBER 17, 2018
+JUDGMENT AND REASONS:
+ROUSSEL, J.
+DATED:
+OCTOBER 5, 2018
+APPEARANCES:
+William N. Fuhgeh
+For the applicant
+Charles Maher
+For the respondent
+SOLICITORS OF RECORD:
+Fuhgeh Law Office
+Ottawa, Ontario
+For the applicant
+Attorney General of Canada
+Ottawa, Ontario
+For the respondent

@@ -1,0 +1,32 @@
+[14]
+In light of the foregoing, I must now address the second issue raised by the applicants, that is the meaning to be given to the words "finally dismissed" found in s. 7(4) of the
+Regulations
+. Section 7 reads:
+"Notice of Compliance
+"7(1) The Minister shall not issue a notice of compliance to a second person before the latest of
+(a) the expiration of 30 days after the coming into force of these Regulations,
+(b) the day on which the second person complies with s. 5,
+(c) subject to subsection (3), the expiration of any patent on the patent list that is not the subject of an allegation,
+(d) subject to subsection (3), the expiration of 45 days after the receipt of proof of service of a notice of any allegation pursuant to paragraph 5(3)(b) in respect of any patent on the patent list,
+(e) subject to subsections (2), (3) and (4), the expiration of 30 months after the receipt of proof of the making of any application referred to in subsection 6(1), and
+(f) the expiration of any patent that is the subject of an order pursuant to subsection 6(1).
+"(2) Paragraph (1)(e) does not apply if at any time, in respect of each patent that is the subject of an application pursuant to subsection 6(1),
+(a) the patent has expired; or
+(b) the court has declared that the patent is not valid or that no claim for the medicine itself and no claim for the use of the medicine would be infringed.
+"(3) Paragraphs (1)(c), (d) and (e) do not apply in respect of a patent if the owner of the patent has consented to the making, constructing, using or selling of the drug in Canada by the second person.
+"(4) Paragraph (1)(e) ceases to apply in respect of an application referred to in subsection 6(1) if the application is withdrawn or is finally dismissed by the court.
+"(5) A court may shorten or extend the time limit referred to in paragraph (1)(e) in respect of an application where the court has not yet made an order pursuant to subsection 6(1) in respect of that application and where the court finds that a party to the application failed to reasonably cooperate in expediting the application."
+"Avis de conformité
+"7(1) Le ministre ne peut délivrer un avis de conformité à la seconde personne avant la plus tardive des dates suivantes:
+(a) la date qui suit de 30 jours la date d'entrée en vigueur du présent règlement;
+(b) la date à laquelle la seconde personne se conforme à l'article 5;
+(c) sous réserve du paragraphe (3), la date d'expiration de tout brevet énuméré dans la liste de brevets qui n'est pas visé par une allégation;
+(d) sous réserve du paragraphe (3), la date qui suit de 45 jours la réception de la preuve de signification de l'avis d'allégation visé à l'alinéa 5(3)(b) à l'égard de tout brevet énuméré dans la liste de brevets;
+(e) sous réserve des paragraphes (2), (3) et (4), la date qui suit de 30 mois la date à laquelle est faite une demande au tribunal visée au paragraphe 6(1);
+(f) la date d'expiration de tout brevet faisant l'objet d'une ordonnance rendue aux termes du paragraphe 6(1).
+"(2) L'alinéa (1)(e) ne s'applique pas si, à l'égard de chaque brevet visé par une demande au tribunal aux termes du paragraphe 6(1);
+(a) soit le brevet est expiré;
+(b) soit le tribunal a déclaré que le brevet n'est pas valide ou qu'aucune revendication pour le médicament en soit ni aucune revendication pour l'utilisation due médicament ne seraient contrefaites.
+"(3) Les alinéas (1)(c), (d) et (e) ne s'appliquent pas à l'égard d'un brevet si le proprétaire [sic] de celui-ci a consenti à ce que la seconde personne utilise, fabrique, construise ou vende le drogue au Canada.
+"(4) L'alinéa (1)(e) cesse de s'appliquer à l'égard de la demande visée au paragraphe 6(1) si celle-ci retirée ou est rejetée par le tribunal de façon définitive.
+"(5) Le tribunal peut abréger ou proroger le délai visé à l'alinéa (1)(e) à l'égard d'une demande lorsqu'elle n'a pas encore rendu d'ordonnance aux terme du paragraphe 6(1) à l'égard de cette demande et qu'elle constate qu'une partie à la demande n'a pas collaboré de façon raisonnable au traitement expéditif de celle-ci."

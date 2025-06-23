@@ -1,0 +1,204 @@
+Arora v. Can. (M.C.I.), [2011] F.T.R. Uned. 166 (FC)
+MLB unedited judgment
+Vishal Arora (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-3091-10; 2011 FC 241)
+Indexed As: Arora v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2011] F.T.R. Uned. 166
+Federal Court
+O'Keefe, J.
+March 1, 2011.
+Counsel:
+Chantal Desloges, for the applicant;
+Melissa Mathieu, for the respondent.
+Solicitors of Record:
+Green and Spiegel, Toronto, Ontario, for the applicant;
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+O'Keefe, J.
+: This is an application pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (the Act) for judicial review of a decision of an immigration officer of the Immigration Section of the High Commission of Canada in Delhi, India (the officer), dated May 10, 2010, wherein the officer refused the applicant's application for a Canadian work permit.
+[2]
+The applicant requests that the decision of the officer be set aside and the application remitted for redetermination by a different officer.
+Background
+[3]
+Vishal Arora (the applicant) was born on September 6, 1987 in Meham, India.
+[4]
+The applicant completed high school in 2005 and alleges that he began working for Ghandi Infotech as a telemarketer in June 2005. At Ghandi Infotech, he states that he supervised two teams of telemarketers. The applicant further alleges that he joined Assent India in May 2006 as a business development executive.
+[5]
+The applicant joined One Touch Solutions India (OTS India) as a business development manager in September 2007. He states that his main duties are to contact companies in the United Kingdom and Australia and offer them OTS telemarketing services. The applicant states that as the business grew, he was in charge of approximately 25 people. Currently, the staff he supervises is approximately 58 people including account managers, team leaders and supervisors.
+[6]
+The applicant was offered a position to work in Canada on a temporary basis with OTS Canada.
+[7]
+The applicant applied for a Canadian work permit and temporary resident visa as an intra-company transferee under subsection 205(a) of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (the Regulations).
+[8]
+The normal application process requires foreign nationals seeking a temporary resident visa and work permit to apply for a labour market opinion (LMO) assessing the economic impact of hiring a foreign national for the position sought. Section 205 of the Regulations provides an exemption from the LMO requirement for intra-company transferees.
+Officer's Decision
+[9]
+Through a combination of a refusal letter and the Computer Assisted Immigration Processing System (CAIPS) notes, the officer found that the applicant had not demonstrated that he met the requirements of an intra-company transferee such that he should be exempted from applying for an LMO and receive a work permit and temporary resident visa.
+[10]
+The officer found discrepancies between a letter from the applicant's employer and the applicant's submitted forms with respect to his annual salary.
+[11]
+The officer was not satisfied that the applicant works as a senior executive or holds a managerial level position due to his age (23 years old), his level of education (grade 12), his limited experience with the company (less than three years), his modest income and the lack of evidence with respect to his prior work experience.
+Issues
+[12]
+The issues are as follows:
+1. What is the appropriate standard of review?
+2. Did the officer ignore letters of the applicant's past work experience?
+3. Did the officer ignore evidence or base her decision on extraneous criteria?
+Applicant's Written Submissions
+[13]
+The applicant submits that the officer erred by importing subjective and extraneous criteria into her assessment. The officer improperly considered the applicant's age, lack of post-secondary education, limited number of years with the company and level of income to determine whether the applicant is a senior manager. These factors are not mentioned in the Citizenship and Immigration Canada Foreign Worker Manual (FW1 Manual) in outlining the positions of senior executive or manager. Rather, the FW1 Manual specifically states that only one year of management experience in the past three years is necessary.
+[14]
+Further, the position of business development manager under the NOC 0621 only requires the completion of secondary school. It was a reviewable error to require a higher education than that set down in the NOC.
+[15]
+The applicant submits that the officer's reasons are inadequate as she did not indicate on what basis she concluded the applicant's salary to be modest.
+[16]
+The applicant also submits that the officer failed to consider the details of the applicant's current duties with OTS India when making her assessment. These duties demonstrated the applicant's managerial role.
+[17]
+Finally, the officer failed to take into consideration the evidence of the applicant's previous employment.
+Respondent's Written Submissions
+[18]
+The respondent submits that the factors considered by the officer are not irrelevant or subjective. Rather, the officer must make a determination as to whether transferees are qualified for the job positions for which they apply and the officer is not limited to the general considerations included in the policy manual. The officer was required to assess all information presented to her as stipulated in the processing manual.
+[19]
+It was reasonable for the officer to consider the applicant's age and education as both are unusually low for a position as a senior executive or manger.
+[20]
+It was also reasonable for the officer to find that the applicant is a relatively junior employee as the applicant has limited experience with OTS India and there were no other letters or documentary evidence on file from previous employers, despite the submissions made by the applicant that there were.
+[21]
+The officer based her decision in part on the discrepancies between the applicant's bank statements and the statements from the applicant's employer concerning his salary. It was reasonable for the officer to compare the applicant's current salary of approximately $8,000 to that which he would receive in Canada, $65,000 and determine that he currently makes a modest salary.
+[22]
+The respondent submits that the officer fully considered the letters from OTS India outlining the applicant's current duties in India and prospective duties in Canada. However, the officer concluded that based on the entirety of the evidence, the applicant had not shown he worked as a senior executive or managerial level position.
+Analysis and Decision
+[23]
+Issue 1
+What is the appropriate standard of review?
+A refusal of a temporary work permit is an administrative decision made within the officer's legislative authority and is ostensibly a determination of fact (see
+FRAGMENT_SUPPRESSED). In accordance with the direction of the Supreme Court of Canada, administrative fact finding is afforded a high degree of deference and reasonableness is the appropriate standard of review for the immigration officer's factual determination (see
+Canada (Minister of Citizenship and Immigration) v. Khosa
+, 2009 SCC 12, [2009] 1 S.C.R. 339 at paragraph 46).
+[24]
+Issue 2
+Did the officer ignore letters of the applicant's past work experience?
+The applicant submits that his application included documents from his previous employers Ghandi Infotech, Delhi Call Centers and Assent India.
+[25]
+The officer did not mention these letters in the CAIPS notes, the respondent asserts that such letters were not included in the application for the Canadian Work Permit and the letters are not included in the certified tribunal record.
+[26]
+As such, I cannot find that the letters were before the officer in determining the application or that she ignored such letters.
+[27]
+Issue 3
+Did the officer ignore evidence or base her decision on extraneous criteria?
+The officer was required to determine whether the applicant was a senior executive or manager such that he qualified for the subsection 205(a) exemption in the Regulations.
+[28]
+In order to do this, the officer needed to assess the qualities listed in section 5.31 of the FW1 Manual. This section details what executive capacity and managerial capacity entail.
+[29]
+The officer did not refer to these qualities, nor did she refer to the letter from the applicant's employer indicating his current job duties and proposed job duties at OTS Canada.
+[30]
+Rather, the officer was not satisfied that the applicant works as a senior executive or manager because of his age, education level, limited experience with the company, lack of evidence of past work experience and modest salary.
+[31]
+While these factors may play a part in an officer's assessment, they cannot be substituted for an assessment of the qualities of a manger as outlined in the FW1 Manual.
+[32]
+In addition, several factors noted by the officer were irrelevant to the assessment. For example, the officer was concerned that the applicant could not be a senior executive at the age of 23 years. However, age is not a factor listed in the FW1 Manual and not allowing the exemption under subsection 205(a) of the Regulations based on the applicant's age is inappropriate.
+[33]
+In addition, the officer noted with concern that the applicant had limited experience with the company - only three years - and therefore he must be a relatively junior employee. The problem with the officer's finding is that the FW1 Manual explicitly states that the applicant must show only one year of managerial experience at the company for which he is applying for a work permit.
+[34]
+Finally, neither the FW1 Manual nor the Regulations require a certain salary level before an applicant can be considered a senior executive or manager. As such, it was an error for the officer to draw a negative inference from the finding that the applicant made a modest salary.
+[35]
+The officer's failure to consider whether the applicant's position met the qualities of a senior executive or manager and her use of inappropriate criteria in assessing the applicant's application is not a decision making process demonstrating justification, transparency and intelligibility as required by the reasonableness standard of
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, [2008] S.C.R. 190 at paragraph 47.
+[36]
+As such, I would allow the judicial review.
+[37]
+The decision of the officer is therefore set aside and the matter is referred to a different officer for redetermination.
+[38]
+Neither party wished to submit a proposed serious question of general importance for my consideration for certification.
+JUDGMENT
+[39]
+IT IS ORDERED that
+the application for judicial review is allowed and the matter is referred to a different officer for redetermination.
+ANNEX
+Relevant Statutory Provisions
+Immigration and Refugee Protection Act
+, 2001, c. 27
+72.(1) Judicial review by the Federal Court with respect to any matter - a decision, determination or order made, a measure taken or a question raised - under this Act is commenced by making an application for leave to the Court.
+72.(1) Le contrôle judiciaire par la Cour fédérale de toute mesure - décision, ordonnance, question ou affaire - prise dans le cadre de la présente loi est subordonné au dépôt d'une demande d'autorisation.
+Immigration and Refugee Protection Regulations
+, SOR/2002-227
+205. A work permit may be issued under section 200 to a foreign national who intends to perform work that
+(a) would create or maintain significant social, cultural or economic benefits or opportunities for Canadian citizens or permanent residents;
+(b) would create or maintain reciprocal employment of Canadian citizens or permanent residents of Canada in other countries;
+(c) is designated by the Minister as being work that can be performed by a foreign national on the basis of the following criteria, namely,
+(i) the work is related to a research, educational or training program, or
+(ii) limited access to the Canadian labour market is necessary for reasons of public policy relating to the competitiveness of Canada's academic institutions or economy; or
+(d) is of a religious or charitable nature.
+205. Un permis de travail peut être délivré à l'étranger en vertu de l'article 200 si le travail pour lequel le permis est demandé satisfait à l'une ou l'autre des conditions suivantes:
+a) il permet de créer ou de conserver des débouchés ou des avantages sociaux, culturels ou économiques pour les citoyens canadiens ou les résidents permanents;
+b) il permet de créer ou de conserver l'emploi réciproque de citoyens canadiens ou de résidents permanents du Canada dans d'autres pays;
+c) il est désigné par le ministre comme travail pouvant être exercé par des étrangers, sur la base des critères suivants:
+(i) le travail est lié à un programme de recherche, d'enseignement ou de formation,
+(ii) un accès limité au marché du travail au Canada est justifiable pour des raisons d'intérêt public en rapport avec la compétitivité des établissements universitaires ou de l'économie du Canada;
+d) il est d'ordre religieux ou charitable.
+Citizenship and Immigration Canada, FW 1, Foreign Worker Manual
+5.31. Canadian Interests: Significant benefit-intra-company transferees R205(a), C12
+a) General
+The intra-company category was created to permit international companies to temporarily transfer qualified employees to Canada for the purpose of improving management effectiveness, expanding Canadian exports, and enhancing the competitiveness of Canadian entities in overseas markets.
+The entry of intra-company transferees is guided by the IRPA regulations and the general provisions of this section, and is supplemented by provisions contained in international trade agreements for citizens of signatory countries. Harmonization of IRPA and NAFTA intra-company transferee provisions means that there are now no differences in terms of entry requirements and work permit durations.
+• Qualified intra-company transferees require work permits and are LMO exempt under R205(a), C12, as they provide significant economic benefit to Canada through the transfer of their expertise to Canadian businesses. This applies to foreign nationals from any country.
+• Regulation 204(a) provides LMO exemption code T24 for qualified intra-company transferees who are citizens of a country that has signed an international agreement with Canada, namely NAFTA (and similar FTAs) and the GATS, and supplements the IRPA general provisions.
+General requirements
+Intra-company transferees may apply for work permits under the general provision if they:
+• are seeking entry to work in a parent, subsidiary, branch, or affiliate of a multi-national company;
+• will be undertaking employment at a legitimate and continuing establishment of that company (where 18-24 months can be used as a reasonable minimum guideline);
+• are taking a position in a Executive, Senior Managerial, or Specialized Knowledge capacity;
+• have been employed (via payroll or by contract) by the company outside Canada in a similar full-time position (not accumulated part-time) for one year in the three-year period immediately preceding the date of application. Extensions may be granted up to the 5 and 7 year maximums referred to in the tables at the end of this section (5.31) and in the table in section 11.2.
+. . .
+d) Qualifying job positions
+Executives and senior managers
+As in NAFTA, this group includes persons in the senior executive or managerial categories, in possession of a letter from a company conducting business in Canada, identifying the holder as an employee of a branch, subsidiary, affiliate or parent of the company which is located outside Canada. The holder must be transferring to a Senior Executive or Managerial level position at a permanent and continuing establishment of that company in Canada for a temporary period.
+Executive capacity means that the employee primarily:
+• directs the management of the organization or a major component or function of the organization;
+• establishes the goals and policies of the organization, component, or function;
+• exercises wide latitude in discretionary decision-making; and
+• receives only general supervision or direction from higher level executives, the board of directors, or stockholders of the organization.
+Managerial capacity means that the employee primarily:
+• manages the organization, a department, subdivision, function, or component of the organization;
+• supervises and controls the work of:
+o other managers or supervisors;
+o professional employees, or
+o manages an essential function within the organization, or a department or subdivision of the organization.
+• has the authority to hire and fire, or recommend these and other personnel actions, such as promotion and leave authorization; if no other employee is directly supervised, functions at a senior level within the organization hierarchy or with respect to the function managed; and,
+• exercises discretion over the day-to-day operations of the activity or function for which the employee has the authority.
+In general, executives and managers plan, organize, direct, or control the activities of a business, or a division of a business (e.g. Vice President of Marketing), either independently or through middle managers. They are frequently responsible for the implementation of the policies of a business.
+More senior persons, either alone or in conjunction with a board of directors, may formulate policies which establish the direction to be taken by the business.
+5.31. Intérêts canadiens: Avantage important - Personnes mutées à l'intérieur d'une société R205a), C12
+a) Généralités
+La catégorie des personnes mutées à l'intérieur d'une société a été créée pour permettre aux entreprises internationales de muter temporairement des employés qualifiés au Canada afin d'améliorer leur gestion, 'accroître leurs exportations canadiennes et de renforcer la concurrence des entreprises canadiennes dans les marchés étrangers.
+L'entrée au Canada de personnes mutées à l'intérieur d'une société est basée sur le Règlement de la LIPR et les dispositions générales de la présente section, lesquelles sont complétées par les dispositions des accords commerciaux internationaux pour les citoyens des pays signataires. L'harmonisation des dispositions de la LIPR et de l'ALENA sur la mutation des personnes à l'intérieur d'une société comprend les mêmes exigences concernant l'entrée au Canada et la  durée des permis de travail.
+• Les personnes mutées à l'intérieur d'une société qui sont admissibles doivent obtenir un permis de travail et sont dispensées de l'AMT en vertu du R205a), code C12, parce qu'elles Apportent des avantages significatifs au Canada sur le plan économique, grâce au transfert de leur expertise aux entreprises canadiennes. Cela comprend les ressortissants de tous les pays.
+• Le R204a) prévoit une dispense d'AMT, correspondant au code de dispense T24, pour les personnes mutées à l'intérieur d'une société qui sont citoyennes d'un pays qui a conclu un Accord international avec le Canada, à savoir l'ALENA (ainsi que d'autres ALE similaires) et l'Accord général sur le commerce des services (GATS) et elle complète les dispositions générales de la LIPR.
+Exigences générales
+Les personnes mutées à l'intérieur d'une société peuvent présenter une demande de permis de travail en vertu des dispositions générales si elles:
+• sollicitent l'admission au Canada pour travailler dans une société mère, une filiale, une succursale ou une société affiliée à une entreprise multinationale;
+• occuperont un emploi dans une installation légitime et constante de cette société (pour laquelle une affectation de 18 mois à 24 mois peut servir de minimum raisonnable);
+• veulent occuper un emploi en qualité de cadre de direction, de gestionnaire principal ou de travailleur qui possède des connaissances spécialisées;
+• ont occupé un poste semblable (à titre permanent ou contractuel), dans la société à l'étranger à temps plein (et non le cumul d'heures à temps partiel), pendant un an au cours des trois années précédant immédiatement la date de la demande; des prorogations peuvent être accordées jusqu'à cinq et sept ans au maximum, comme l'indiquent les tableaux à la fin de cette section (5.31) et le tableau de la section 11.2;
+. . .
+d) Postes admissibles
+Cadres de direction et gestionnaires principaux
+Comme dans l'ALENA, ce groupe comprend les personnes qui font partie des catégories d'emplois de cadres de direction ou de gestionnaires, qui sont munies d'une lettre d'une société qui exerce des activités au Canada, dans laquelle le titulaire est identifié comme employé d'une succursale, d'une filiale ou d'une société affiliée, ou de la société mère de l'entreprise établie à l'extérieur du Canada. Le titulaire doit en outre être muté à un poste de cadre de direction ou de gestionnaire permanent et continu de cette société au Canada pour une période temporaire.
+Par poste de cadre de direction, on entend une affectation où l'employé exerce principalement les fonctions suivantes:
+• dirige l'organisation elle-même ou une composante ou fonction importante de celle-ci;
+• fixe les objectifs et établit les politiques de l'organisation ou d'une composante ou d'une Fonction de celle-ci;
+• exerce un grand pouvoir discrétionnaire dans la prise de décisions;
+• ne fait l'objet que d'une supervision ou d'une orientation générale de la part de cadres supérieurs, du conseil d'administration ou d'actionnaires de l'entreprise.
+Par poste de gestionnaire, on entend un poste où l'employé:
+• gère l'organisation ou un service, une subdivision, une fonction ou une composante de celle-ci;
+• supervise et contrôle le travail d'autres employés (superviseurs, professionnels ou gestionnaires) ou gère une fonction essentielle, un service ou une subdivision de l'organisation;
+• a le pouvoir d'embaucher et de licencier ou de recommander ces mesures et d'autres en matière de ressources humaines (comme la promotion et l'autorisation de congés); lorsqu'il ne supervise directement aucun autre employé, il exerce des fonctions de niveau supérieur dans la hiérarchie de l'organisation ou par rapport à la fonction qu'il gère;
+• exerce un pouvoir discrétionnaire sur les opérations courantes de l'activité ou de la function dont il est chargé.
+En général, les cadres de direction et les gestionnaires planifient, organisent, dirigent ou contrôlent les activités d'une entreprise ou de la division d'une entreprise (par exemple, le vice-président du marketing) de façon indépendante ou par l'entremise de cadres intermédiaires. Ils sont souvent chargés de la mise en oeuvre des politiques d'une entreprise. De nombreuses personnes qui ont de telles fonctions peuvent, seules ou avec un conseil d'administration, élaborer des politiques sur l'orientation de l'entreprise.
+[End of document]

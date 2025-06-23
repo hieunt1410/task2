@@ -1,0 +1,117 @@
+Lowe v. Can., [2006] F.T.R. Uned. 102 (FC)
+MLB unedited judgment
+Jon Lowe (applicant) v. Her Majesty the Queen (respondent)
+(T-524-05; 2006 FC 179)
+Indexed As: Lowe v. Canada
+Cite As: [2006] F.T.R. Uned. 102
+Federal Court
+Pinard, J.
+February 14, 2006.
+Counsel:
+Mark Redgwell, for the applicant;
+Edward Burnet, for the respondent.
+Solicitors of Record:
+Donna Turko and Company, Vancouver, British Columbia, for the applicant;
+John H. Sims, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Pinard, J.
+: This is a judicial review of a decision made on February 16, 2005 by the Disciplinary Board convicting the applicant under paragraph 40(c) of the Corrections and Conditional Release Act, S.C. 1992, c. 20 (the "CCRA") of wilfully causing damage to prison property.
+[2]
+Jon Lowe (the "applicant") is presently incarcerated at Kent Institution, a maximum security federal penitentiary.
+[3]
+On December 20, 2004, a fire began in a cell in the segregation unit of Mission Institution, and the sprinkler in that cell activated.
+[4]
+The fire occurred within 25 to 30 feet of Cell 85, the applicant's cell, which was the closest cell on its range to where the fire was located.
+[5]
+The sprinkler in the applicant's cell was activated.
+[6]
+The applicant was transferred from Mission Institution, a medium-security facility, to Kent Institution, a maximum-security facility, and spent one month in segregation at Kent because of his purported involvement in this matter.
+[7]
+On January 6, 2005, the applicant was charged under paragraph 40(c) of the CCRA for wilfully causing damage to a sprinkler head causing activation.
+[8]
+On February 16, 2005, a Disciplinary Hearing was held and the applicant was found guilty of the charge for which he received a reprimand. The Independent Chairperson (the "Chairperson") found that the applicant's segregation and transfer to maximum security constituted a sufficient penalty.
+* * * * * * * *
+[9]
+The relevant provisions of the CCRA are as follows:
+40. An inmate commits a disciplinary offence who
+[. . .]
+(c) wilfully or recklessly damages or destroys property that is not the inmate's;
+40. Est coupable d'une infraction disciplinaire le détenu qui:
+[. . .]
+c) détruit ou endommage de manière délibérée ou irresponsable le bien d'autrui;
+* * * * * * * *
+[10]
+In its decision, the Disciplinary Board convicted the applicant under paragraph 40(c) of the CCRA of wilfully causing damage to prison property because the evidence showed that:
+- the applicant had exclusive access to the sprinkler head;
+- the sprinkler head was activated;
+- the applicant testified that there was no excessive heat in his cell; and
+- the Chief of Works and Engineering at Mission Institution, Mr. J. Ratzlaff, testified in an email that activation can only be caused by "heat at a certain temperature" or abuse and that no sprinkler head was ever activated by reason of malfunction during his tenure.
+* * * * * * * *
+[11]
+At the hearing before me, the applicant raised two issues, one concerning the burden of proof and the other, the right to cross-examine witnesses.
+Burden of Proof
+[12]
+The applicant submits that the Chairperson effectively reversed the burden of proof onto the applicant, which is an error in law. The applicant submits the following statement of the Chairperson:
+... Simply stating that you didn't do something I don't think in and of itself is a reasonable explanation ...
+So it is my view that Mr. Lowe did set off the sprinkler head and did flood his cell ...
+[13]
+Additionally, the applicant submits that the Chairperson erred in his application of the test of reasonable doubt by failing to consider whether the institution had proven its case against the applicant.
+[14]
+While the deference this Court should give the Chairperson in determining credibility and the facts is high, there must nevertheless be enough evidence to prove the accused's guilt beyond a reasonable doubt: it must be the only inference that can be drawn from the proven facts (McLarty v. Canada, [1997] F.C.J. No. 808 (T.D.) (QL), Regina v. Levy (1991), 62 C.C.C. (3d) 97 (Ont. C.A.), and R. v. Cooper, [1978] 1 S.C.R. 860).
+[15]
+The evidence that was before the Chairperson was: (i) the applicant had exclusive access to the sprinkler head; (ii) the sprinkler head was activated; (iii) the applicant testified that there was no excessive heat in his cell; and (iv) the Chief of Works and Engineering at Mission Institution testified in an email that activation can only be caused by "heat at a certain temperature" or abuse and that no sprinkler head was ever activated by reason of malfunction during his tenure.
+[16]
+The Chairperson had to be satisfied that guilt was the only reasonable inference to be drawn from these facts. I am of the view that the Chairperson could not reasonably be satisfied. To conclude as the Chairperson did, the Chairperson had to speculate that it was not possible that the sprinkler malfunctioned. The Chairperson would have also had to speculate that there was not "heat at a certain temperature" in the applicant's cell sufficient to set off the sprinkler. The Chairperson was entitled to disbelieve the applicant's explanation but could not infer guilt on sheer speculation.
+[17]
+In McLarty v. Canada, supra, where an inmate was convicted for being unlawfully in possession of a shank, Justice Tremblay-Lamer referred to the case of R. v. To (W.H.) (1992), 16 B.C.A.C. 223 (B.C.C.A.):
+... it is legitimate to infer knowledge from mere physical possession in proper circumstances which inference will be displaced if an explanation is offered which raises a reasonable doubt or if, as in Hess, other inferences consistent with innocence may be drawn from all of the proven circumstances.
+[18]
+This case is instructive as it is my opinion that the applicant did raise reasonable doubts in this case, even though the issue of inferring knowledge is not relevant in the case at bar. Indeed, in the case at bar, the applicant raised two possible explanations, that the heat was of a certain temperature to set off the sprinkler and that the sprinkler malfunctioned, both of which raised a reasonable doubt that the facts led only to the conclusion that the applicant did in fact damage prison property.
+[19]
+While "persons conducting the disciplinary hearing may admit any evidence they consider reasonable or trustworthy" (Barnaby v. Canada, [1995] F.C.J. No. 1541 (T.D.) (QL), at para. 9; see also Forrest v. The Attorney General, 2002 FCT 539, and CSC Commissioner's Directive 580, "Discipline of Inmates", January 19, 2004, page 12), there was little evidence that contradicted either of these reasonable possibilities. The evidence did show that smoke does not set off the sprinkler, that "heat at a certain temperature will activate them", and that no sprinkler head was ever activated by reason of malfunction during Mr. Ratzlaff's tenure. However, none of this evidence excluded the possibility that there was heat of a "certain temperature" in the applicant's cell, or that the sprinkler malfunctioned.
+[20]
+One of Mr. Ratzlaff's statements by email was that "[the sprinkler] did not go off by accident", however, the Chairperson had no information regarding what this belief was based on.
+[21]
+Mr. Ratzlaff's statement does not address the possibility that the heat was of a "certain temperature" in the applicant's cell, as this would also be consistent with the statement that the sprinkler "did not go off by accident". The applicant did testify that he did not find there to be excessive heat in his cell, however, there was no evidence that "excessive heat" was required to activate the sprinkler.
+[22]
+The only evidence which pointed exclusively to a conclusion that the sprinkler had been tampered with follows:
+Chairperson Christien: Back to the earlier testimony, Officer Devine. You said that the damage was obvious. Can you describe to me more clearly the damage that you're talking about that's obvious?
+Officer Devine: Well, from what the chief - like, I went - okay, the Chief of Works went into the cell, did whatever. I went in there, and he was kind of pointing out things like - and yes, I don't know what a damaged sprinkler head looks like. I don't know what a real sprinkler head looks like. He was just showing me what shouldn't be there, type thing and what¼
+Chairperson Christien: All right. Do you recall what it looked like? Were there pieces of metal that were bent and broken?
+Officer Devine: [No audible response]
+Chairperson Christien: So it was pretty obvious to him but not necessarily obvious to you?
+Officer Devine: Right.
+[23]
+Again, Officer Devine was not able to expand on Mr. Ratzlaff's opinion that the sprinkler had been tampered with, and therefore we do not know upon what this belief is based.
+[24]
+It is true that the Chairperson is entitled to admit any evidence that the Chairperson considers reasonable or trustworthy. However, it seems unlikely that this evidence could possibly have been accorded great weight.
+The Right to Cross-Examine Witnesses
+[25]
+The applicant submits that when an oral hearing is conducted, the right to call and cross-examine witnesses is often part of the procedure protected by the duty of fairness.
+[26]
+The applicant submits that in failing to provide an opportunity for the applicant to cross-examine the expert witness on the evidence that had been admitted, the applicant was prevented from making full answer and defence to the charges against him, contrary to the principles of natural justice and section 7 of the Canadian Charter of Rights and Freedoms.
+[27]
+However, on judicial review, this Court must only determine whether there has been a breach of procedural fairness "so severe in nature as to constitute a loss of jurisdiction" FRAGMENT_SUPPRESSED It is trite law that the Chairperson was under no requirement to follow or conform to any particular procedure generally applicable to judicial or quasi-judicial tribunals or adversary proceedings (see Hendrickson and Forrest, supra). Disciplinary hearings are, instead, inquisitorial by nature.
+[28]
+Though in Cardinal v. Director of Kent Institution, [1985] 2 S.C.R. 643, the Supreme Court of Canada held that the duty of procedural fairness applied to disciplinary proceedings within a penitentiary, the precise content of "fairness" must be assessed in the prison context (Gaudet v. Laval Marchand, [1994] A.Q. No. 375 (C.A.) (QL)).
+[29]
+The respondent submits that courts have held that affording an applicant the opportunity to cross-examine witnesses, or even penitentiary authorities themselves, would "go considerably beyond procedural fairness into the realm of an unreasonable intrusion into the administration and security of the penitentiary" (Gaudet, supra, at paragraph 39).
+[30]
+However, the Gaudet case concerns the procedural fairness rights of an inmate to cross-examine in a case involving informants. This case is relevant only insofar as it illustrates that the content of procedural fairness varies depending on the issue at hand.
+[31]
+In the present case, it is true that the applicant was afforded the opportunity to attend an oral hearing, was provided with Mr. Ratzlaff's email evidence at the hearing, and was represented by counsel, who conducted examinations, cross-examinations and made submissions on his behalf.
+[32]
+However, given that there was no confidential information or informants in this case, that there was very little evidence that the applicant had tampered with the sprinkler, that this evidence was seemingly quite tenuous, that there were two other reasonable explanations raised by the applicant, and there were only two very vague statements attempting to exclude these explanations (one which was in email form and one which was second-hand information by Officer Devine), it is my opinion that procedural fairness in this case demanded that the applicant be able to cross-examine Mr. Ratzlaff.
+[33]
+Without the opportunity to cross-examine the expert witness, the applicant suffered the following prejudices:
+- The applicant was prevented from determining the duration of the expert witness's tenure at Mission Institution. Thus, the strength of propositions made on the basis of the expert witness's experience and familiarity with the institution's sprinkler system could not be challenged by the applicant.
+- The applicant was prevented from questioning the expert witness regarding whether his knowledge of the sprinkler heads was based solely on experience or on a technical understanding of the sprinkler system.
+- The applicant was prevented from asking the expert the temperature that is necessary to activate the sprinkler heads. Without determining the temperature necessary to activate the sprinkler heads, the applicant's answer is insufficient to prove that heat could not have caused the activation.
+- The applicant was prevented from testing the expert's belief that mechanical malfunction could not have accounted for the activation of the sprinkler system.
+[34]
+In view of there being very little information supporting the conclusion that the applicant wilfully caused damage to prison property, and in view of the applicant being denied the opportunity to test this evidence, it is my opinion that procedural fairness was denied, and that this breach is so severe in nature as to constitute a loss of jurisdiction.
+[35]
+For all the above reasons, the application for judicial review is allowed, the impugned decision is set aside and the matter is sent back to a differently constituted panel of the Disciplinary Board at Kent Institution.
+[End of document]

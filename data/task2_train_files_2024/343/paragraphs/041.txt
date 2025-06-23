@@ -1,0 +1,8 @@
+[41]
+The test governing this type of stay was enunciated by Wetston, J., in
+Compulife Software Inc. v. Compuoffice Software Inc.
+(1997), 143 F.T.R. 19 (T.D.), where he said this at page 22-23:
+"It is well established that a stay of proceedings should not be granted unless it can be shown that (1) the continuation of the action would cause prejudice or injustice, not merely inconvenience or additional expense, to the defendant, and (2) that the stay would not be unjust to the plaintiff. The onus is on the party requesting the stay to prove that these conditions exist. ...
+"The court will exercise its discretion to grant a stay, under s. 50(1) of the
+Federal Court Act
+, only in the clearest of cases. In consideration of whether granting a stay would be unjust to the plaintiff or applicant, this court will be reluctant to interfere with any right of access, unless there is a risk of imminent adjudication in two different forums."

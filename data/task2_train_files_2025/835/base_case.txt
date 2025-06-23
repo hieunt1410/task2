@@ -1,0 +1,150 @@
+[1]
+O'Reilly, J.
+: This is a motion pursuant to s. 232(4) of the
+Income Tax Act
+, R.S.C. 1985 (5th Supp.), c. 1, as amended (hereinafter "the
+Act
+") to determine whether the applicants have a solicitor-client privilege in respect of certain documents that would protect them from disclosure to the Canada Customs and Revenue Agency (hereinafter "the CCRA"), which is otherwise required under s. 231.2 of the
+Act
+.
+I. Factual Background
+[2]
+The documents in question relate to a multilateral commercial transaction that took place in 1997 ("the leasing transaction"). As part of that transaction, Pitney Bowes of Canada Ltd. ("Pitney Bowes") purchased railway cars from NS Group N.V. ("N.S. Group"), and then leased them to Maple Assets Pipin Limited ("MAPL"), who then sub-leased these cars to NS Group. Royal Bank of Canada ("Royal Bank") loaned Pitney Bowes a portion of the purchase price of the railway cars.
+[3]
+Various parties were represented by different legal counsel in the leasing transaction. In particular, McMillan Binch represented all of the applicants in one way or another. To avoid conflicts, different lawyers were involved in different aspects of the transaction, and Clifford Chance of the UK provided independent advice on certain matters to Royal Bank and MAPL.
+[4]
+The parties to the leasing transaction agreed that, where multiple parties needed legal advice in areas where their interests were not adverse, they would all obtain advice from one legal counsel, regardless of the general legal representation in the transaction. In particular, Clifford Chance of the UK provided two opinions on United Kingdom law, both dated December 12, 1997: one addressed solely to Pitney Bowes, and the other addressed jointly to N.S. Group and Royal Bank. It is these two opinions that are the subject of this application.
+[5]
+On April 18, 2002, the CCRA served McMillan Binch with a requirement pursuant to s. 231.2 of the
+Act
+to provide documents related to the leasing transaction. McMillan Binch refused to provide certain documents to the CCRA, claiming that they were exempt from disclosure on the basis of solicitor-client privilege. Those documents were sealed in two boxes and have been retained by McMillan Binch in accordance with s. 232(3.1) of the
+Act
+. McMillan Binch then brought an application to determine the question of solicitor-client privilege which has resulted in this motion.
+[6]
+The parties have reached a settlement with regard to many documents. The only documents that remain in dispute are the two legal opinions by Clifford Chance described above. The sole issue is whether these two documents are protected by solicitor-client privilege and are thereby excluded from disclosure to the CCRA.
+[7]
+The relevant sections of the
+Act
+are set out below as an Annex.
+II. Issue
+[8]
+Are the two legal opinions dated December 12, 1997, authored by the United Kingdom law firm of Clifford Chance and in the possession of the applicants, protected by solicitor-client privilege?
+III. Analysis
+[9]
+I have reviewed the numerous cases cited to me by the parties on the subject of solicitor- client privilege. Those that were decided in circumstances similar to the matter before me appear to support the position of the applicants. Counsel for the respondent, in all candour, urged me to conclude that those cases were wrongly decided.
+[10]
+On one level, this matter is simple. Indeed, the applicants see it that way. The respondent is seeking disclosure of legal opinions in the custody of the applicants' solicitors. Those opinions, say the applicants, are privileged under the ordinary rules protecting solicitor-client communications.
+[11]
+The respondent sees things differently, arguing that attaching privilege to the documents in issue would amount to an unjustified extension of the concept of privilege, even beyond what is contemplated by the so-called "common interest" privilege.
+A. Common Interest Privilege in Litigation
+[12]
+In
+Buttes Gas and Oil Co. v. Hammer et al. (No. 3)
+, [1980] 3 All E.R. 475, Lord Denning described common interest privilege as "a privilege in aid of anticipated litigation in which several persons have a common interest" (at 483). In that case, privilege was found to attach to documents prepared after the point in time when litigation between the parties was anticipated. The privilege extended to documents prepared by the litigants and shared with other persons who, while not parties to the litigation, had interests in common with the respective litigants. Lord Denning provided a simple example to illustrate the kind of situation where this kind of privilege should be recognized:
+"Owners of adjoining houses complain of a nuisance which affects them both equally. Both take legal advice. Both exchange relevant documents. But only one is a plaintiff ... In all such cases I think the courts should, for the purposes of discovery, treat all the persons interested as if they were partners in a single firm or departments in a single company. Each can avail himself of the privilege in aid of litigation." (at 484)
+[13]
+One can readily see the logic of such a rule. However, its relevance to these proceedings is not immediately apparent. Clearly, the common interest privilege Lord Denning had in mind was a specific kind of privilege that applied in circumstances when litigation was contemplated. In those circumstances, it is clear which parties have interests in common and which are adversaries. That is not the case here. In the case at bar, the parties were trying to achieve a fairly large commercial transaction. There is no suggestion that litigation was on their minds. The parties had overlapping, but not identical, interests. They were neither adversaries nor brothers-in-arms. It would be difficult to view them "as if they were partners in a single firm or departments in a single company", to use Lord Denning's words.
+[14]
+Strictly speaking, then, the rule in
+Buttes
+is not applicable here. However, Lord Denning's reasoning may be. The point of recognizing common interests is not as a means of determining whether privilege exists. The real issue is whether privilege has been lost. In Lord Denning's example, a legal opinion secured by the plaintiff homeowner is clearly privileged. The question is whether that privilege would be lost if the opinion was shared with the plaintiff's neighbour. His answer was that the privilege would remain intact if the opinion was shared with persons who had common interests. It would be otherwise if the opinion was shared with the nuisance-causing defendant.
+[15]
+In the matter before me, it seems obvious that the legal opinions the disclosure of which is sought by the respondent are prima facie privileged. The question is whether privilege was lost when those opinions were shared with other parties to the transaction. To answer that question, one must decide whether the logic of
+Buttes
+has any application to commercial transactions.
+B. Common Interest Privilege in Commercial Transactions
+[16]
+Other courts have addressed this issue and have concluded that
+Buttes
+applies when parties to a commercial transaction share legal opinions with one another. Of the cases cited to me,
+Fraser Milner Casgrain et al. v. Minister of National Revenue
+, [2002] B.C.T.C. 1344; [2002] B.C.J. No. 2146 (S.C.), is closest to the circumstances before me. There, the respondent sought production of a number of documents relating to the creation of certain business partnerships. The documents in issue included legal advice that was prepared for one group of companies and then shared with other corporate parties to the proposed transaction. In the course of his reasons, Lowry, J., summarized in the following terms the other recent cases in the area, all of which were cited to me (
+Archean Energy Ltd. v. Minister of National Revenue
+, [1997] A.J. No. 347; 202 A.R. 198; 98 D.T.C. 6456 (Q.B.);
+Anderson Exploration Ltd. et al. v. Pan-Alberta Gas Ltd.
+, [1988] 10 W.W.R. 633; 229 A.R. 191 (Q.B.) and
+FRAGMENT_SUPPRESSED2002 FCT 274 (T.D.):
+"In
+Archean Energy
+, legal opinions concerning the tax consequences of a number of share purchases were developed for one company which subsequently provided them to a second company, the purchaser in the transactions. The opinions were held, on application by the purchaser under the
+Income Tax Act
+, to be privileged because they had been provided to further the common interest of having the transaction concluded and not with the intent of waiving the privilege attached. In
+Anderson Exploration
+, two corporations exchanged confidential documents of a proprietary nature in negotiating a merger. A legal opinion obtained by one was also given to the other. Later, in unrelated litigation involving a subsidiary of one of the corporations, the plaintiff sought access to the documents arising from the merger negotiations. The court held that the disclosure of the documents to third parties did not waive the privilege that attached to all of the documentation because of the common interest associated with their disclosure. And in
+St. Joseph
+, legal opinions exchanged in the course of a commercial transaction were held to be privileged given that the parties had a joint interest in ensuring its completion." (at para. 8)
+[17]
+In the result, Lowry, J., held that besides the common interest litigation privilege recognized in
+Buttes
+, the courts should also recognize another kind of common interest privilege: one based on "the parties' common interest in the successful completion of a transaction" at (para. 12). He found that "economic and social values inherent in fostering commercial transactions" favoured the recognition of such a privilege. It is that kind of privilege that he applied to the circumstances before him.
+[18]
+As mentioned above, in these kinds of cases the real issue is whether the privilege that would originally apply to the documents in dispute has somehow been lost - through waiver, disclosure or otherwise. This is a question of fact that will turn on a number of factors, including the expectations of the parties and the nature of the disclosure. I read the foregoing cases as authority for the proposition that in certain commercial transactions the parties share legal opinions in an effort to put them on an equal footing during negotiations and, in that sense, the opinions are for the benefit of multiple parties, even though they may have been prepared for a single client. The parties would expect that the opinions would remain confidential as against outsiders. In such circumstances, the courts will uphold the privilege.
+[19]
+However, the cases do not say, as I read them, that the mere existence of a commercial transaction is sufficient on its own to insulate all shared solicitor-client communications from attempts to gain access to them. There may well be cases where the parties to a commercial transaction disclose privileged documents in circumstances that suggest that there has indeed been a loss or waiver of privilege. As mentioned, in the commercial setting it is less clear than in Lord Denning's example which parties have common interests. Therefore, it is more difficult to make a hard and fast rule. I agree with the observation of Slatter, J., in
+Pinder v. Sproule et al.
+, [2003] A.J. No. 32; 333 A.R. 132 (Q.B.), that "[p]otential parties to a merger or other business transaction are in many ways adverse in interest, and it strains the common interest exception to try and fit disclosures between such parties within that exception" (at para. 62).
+[20]
+Still, in many commercial transactions, the parties will want to negotiate on the footing of a shared understanding of each other's legal position. They will seek legal advice from reputable solicitors whose opinions will be respected by the other parties. Indeed, the solicitors may represent more than one party to the deal. The sharing of legal opinions will ensure that each party has an appreciation of the legal position of the others and negotiations can proceed in an informed and open way. The advice may be provided for one or more party on the understanding that others should be provided copies. The expectation, whether express or implied, will be that the opinions are in aid of the completion of the transaction and, in that sense, are for the benefit of all parties to it. Such circumstances, in my view, create a presumption that the privilege attaching to the solicitor-client communications remains intact notwithstanding that they have been disclosed to other parties.
+C. Application to the Facts of this Case
+[21]
+Here, the legal opinions in issue were prepared by Clifford Chance for specific parties: Pitney Bowes of Canada Ltd. on the one hand, and N.S. Group N.V. and Royal Bank of Canada on the other. Those opinions were privileged communications between solicitors and clients. The question is whether the disclosure of those opinions to the other parties dissolved that privilege.
+[22]
+The applicants acknowledge that some of the parties were adverse in interest in many aspects of the transaction. However, the expectation was that these opinions, as well as others, should be sought and distributed among them so that the parties would have a common understanding of certain legal aspects of the transaction. The opinions were prepared with distribution in mind. This approach was economical, in that each party did not have to seek the same legal advice. It also facilitated completion of the transaction because parties were informed of the respective legal positions of the others. While the opinions are addressed to particular clients, they were prepared with the intention of sharing them with other parties with like interests for their collective benefit.
+[23]
+In these circumstances, the presumption is that the privilege should be maintained unless there is some evidence to suggest that it was somehow waived, disclosed to outsiders or otherwise terminated. There is no evidence of this in the case before me. Accordingly, these documents are privileged and should remain in the custody of McMillan Binch.
+JUDGMENT
+[24]
+IT IS HEREBY ADJUDGED THAT:
+(a) an opinion written by Clifford Chance dated December 12, 1997 addressed solely to Pitney Bowes of Canada Limited, and
+(b) an opinion written by Clifford Chance dated December 12, 1997 addressed jointly to NS Group N.V. and to Royal Bank of Canada, London Branch;
+are not required to be produced to the Canada Customs and Revenue Agency under the requirement to provide documents dated April 18, 2002 and shall remain in the custody of McMillan Binch.
+[25]
+The remaining documents are to be dealt with in the manner set out in the Consent to Order dated February 10, 2003 and filed with the court at the hearing of this motion on February 11, 2003 in Toronto.
+Order accordingly.
+Editor: Steven C. McMinniman/gs
+Appendix
+Annex: Legislative Scheme
+"231.2(1) Notwithstanding any other provision of this Act, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of this Act, including the collection of any amount payable under this Act by any person, by notice served personally or by registered or certified mail, require that any person provide, within such reasonable time as is stipulated in the notice,
+. . . . .
+(b) any document.
+"232(1) In this section,
+'solicitor-client privilege' means the right, if any, that a person has in a superior court in the province where the matter arises to refuse to disclose an oral or documentary communication on the ground that the communication is one passing between the person and the person's lawyer in professional confidence, except that for the purposes of this section an accounting record of a lawyer, including any supporting voucher or cheque, shall be deemed not to be such a communication.
+"(3.1) Where, pursuant to section 231.1, an officer is about to inspect or examine a document in the possession of a lawyer or where, pursuant to section 231.2, the Minister has required provision of a document by a lawyer, and the lawyer claims that a named client or former client of the lawyer has a solicitor-client privilege in respect of the document, no officer shall inspect or examine the document and the lawyer shall
+(a) place the document, together with any other document in respect of which the lawyer at the same time makes the same claim on behalf of the same client, in a package and suitably seal and identify the package or, if the officer and the lawyer agree, allow the pages of the document to be initialed and numbered or otherwise suitably identified; and
+(b) retain it and ensure that it is preserved until it is produced to a judge as required under this section and an order is issued under this section in respect of the document.
+"(4) Where a document has been seized and placed in custody under subsection 232(3) or is being retained under subsection 232(3.1), the client, or the lawyer on behalf of the client, may
+(a) within 14 days after the day the document was so placed in custody or commenced to be so retained apply, on three clear days notice of motion to the Deputy Attorney General of Canada, to a judge for an order
+(i) fixing a day, not later than 21 days after the date of the order, and place for the determination of the question whether the client has a solicitor-client privilege in respect of the document, and
+(ii) requiring the production of the document to the judge at that time and place;
+(b) serve a copy of the order on the Deputy Attorney General of Canada and, where applicable, on the custodian within 6 days of the day on which it was made and, within the same time, pay to the custodian the estimated expenses of transporting the document to and from the place of hearing and of safeguarding it; and
+(c) if the client or lawyer has proceeded as authorized by paragraph 232(4)(b), apply at the appointed time and place for an order determining the question.
+"(5) An application under paragraph 232(4)(c) shall be heard in camera, and on the application
+(a) the judge may, if the judge considers it necessary to determine the question, inspect the document and, if the judge does so, the judge shall ensure that it is repackaged and resealed; and
+(b) the judge shall decide the matter summarily and,
+(i) if the judge is of the opinion that the client has a solicitor-client privilege in respect of the document, shall order the release of the document to the lawyer, and
+(ii) if the judge is of the opinion that the client does not have a solicitor-client privilege in respect of the document, shall order
+(B) that the lawyer make the document available for inspection or examination by the officer or other person designated by the Commissioner of Customs and Revenue, in the case of a document that was retained under subsection 232(3.1),
+and the judge shall, at the same time, deliver concise reasons in which the judge shall identify the document without divulging the details thereof."
+Annexe: Procédure législative
+"231.2(1) Malgré les autres dispositions de la présente loi, le ministre peut, sous réserve du paragraphe (2) et, pour l'application et l'exécution de la présente loi, y compris la perception d'un montant payable par une personne en vertu de la présente loi, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d'une personne, dans le délai raisonnable que précise l'avis:
+. . . . .
+b) qu'elle produise des documents.
+"232(1) Les définitions qui suivent s'appliquent au présent article.
+'privilège des communications entre client et avocat' Droit qu'une personne peut posséder, devant une cour supérieure de la province où la question a pris naissance, de refuser de divulguer une communication orale ou documentaire pour le motif que celle-ci est une communication entre elle et son avocat en confidence professionnelle sauf que, pour l'application du présent article, un relevé comptable d'un avocat, y compris toute pièces justificative out tout chèque, ne peut être considéré comme une communication de cette nature.
+"(3.1) Lorsque, conformément à l'article 231.1, un fonctionnaire est sur le point d'inspecter ou d'examiner un document en la possession d'un avocat ou que, conformément à l'article 231.2, le ministre exige la fourniture ou la production d'un document, et que l'avocat invoque le privilège des communications entre client et avocat en ce qui concerne le document au nom d'un de ses client ou anciens clients nommément désigné, aucun fonctionnaire ne peut inspecter ou examiner le document et l'avocat doit:
+a) d'une part, faire un colis du document ainsi que de tout autre document pour lequel il invoque, en même temps, le même privilège au nom du même client, bien sceller ce colis et bien le marquer, ou, si le fonctionnaire et l'avocat en conviennent, faire en sorte que les pages du document soient paraphées et numérotées ou autrement bien marquées;
+b) d'autre part, retenir le document et s'assurer de sa conservation jusqu'à ce que, conformément au présent article, le document soit produit devant un juge et une ordonnance rendue concernant le document.
+"(4) En cas de saisie et mise sous garde d'un document en vertu du paragraphe (3) ou de rétention d'un document en vertu du paragraphe (3.1), le client ou l'avocat au nom de celui-ci peut:
+a) dans les 14 jours suivant la date où le document a ainsi été mis sous garde ou a ainsi commencé à être retenu, après avis au sous-procureur général du Canada au moins trois jours francs avant qu'il soit procédé à cette requête, demander à un juge de rendre une ordonnance qui:
+(i) d'une part, fixe la date -- tombant au plus 21 jours après la date de l'ordonnance -- et le lieu où il sera statué sur la question de savoir si le client bénéficie du privilège des communications entre client et avocat en ce qui concerne le document,
+(ii) d'autre part, enjoint de produire le document devant le juge à la date et au lieu fixés;
+b) signifier une copie de l'ordonnance au sous-procureur général du Canada et, le cas échéant, au gardien dans les 6 jours suivant la date où elle a été rendue et, dans ce même délai, payer au gardien le montant estimé des frais de transport aller-retour du document entre le lieu où il est gardé ou retenu et le lieu de l'audition et des frais de protection du document;
+c) après signification et paiement, demander, à la date et au lieu fixés, une ordonnance où il soit statué sur la question.
+"(5) Une requête présentée en vertu de l'alinéa (4)c) doit être entendue à huis clos. Le juge qui en est saisi:
+a) peut, s'il l'estime nécessaire pour statuer sur la question, examiner le document et, dans ce cas, s'assure ensuite qu'un colis du document soit refait et que ce colis soit rescellé;
+b) statue sur la question de façon sommaire:
+(i) s'il est d'avis que le client bénéficie du privilège des communications entre client et avocat en ce qui concerne le document, il ordonne la restitution du document à l'avocat ou libère l'avocat de son obligation de le retenir, selon le cas,
+(ii) s'il est de l'avis contraire, il ordonne:
+(B) à l'avocat de permettre au fonctionnaire ou à l'autre personne désignée par le commissaire des douanes et du revenu d'inspecter ou examiner le document, en cas de rétention de celui-ci en vertu du paragraphe (3.1).
+Le juge motive brièvement sa décision en indiquant de quel document il s'agit sans en révéler les détails."
+[End of document]

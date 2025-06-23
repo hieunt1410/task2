@@ -1,0 +1,73 @@
+Zahra v. Can. (M.C.I.), [2009] F.T.R. Uned. 516 (FC)
+MLB unedited judgment
+Atia Zahra (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(T-204-08; 2009 FC 444)
+Indexed As: Zahra v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2009] F.T.R. Uned. 516
+Federal Court
+Simpson, J.
+May 1, 2009.
+Counsel:
+Atia Zahra and Masood Abid (applicant's husand), for the applicant (self-represented);
+Brad Gotkin, for the respondent.
+Solicitors of Record:
+Atia Zahra, Toronto, Ontario, for the applicant (self-represented);
+John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Simpson, J.
+: Atia Zahra is a self-represented applicant (the Applicant). She describes her application as one for judicial review but, in fact, it is an appeal under subsection 14(5) of the
+Citizenship Act
+, R.S. 1985, c. C-29 (the Act). The appeal is from a decision of a Citizenship Judge dated December 10, 2007 (the Decision) in which he found that Ms. Zahra failed to meet the knowledge requirement under section 5(1)(e) of the Act and declined to recommend the exercise of discretion to the Minister of Citizenship and Immigration under sections 15(1), 5(3) and 5(4) of the Act. He therefore denied her application for Canadian citizenship.
+BACKGROUND
+[2]
+The Applicant is a 32 year-old citizen of Pakistan. She immigrated to Canada on April 2, 2004 with her son. Her husband and three young children are all Canadian citizens.
+[3]
+On April 3, 2007, Ms. Zahra applied for Canadian Citizenship. She received the instructional material. On July 5, 2007, Ms. Zahra wrote the citizenship test and correctly answered only 4 of 20 multiple choice questions. In order to pass the test, applicants must answer at least 60%, or 12 questions, correctly and correctly answer all questions relating to the electoral system. Although Ms. Zahra failed the knowledge requirement of the citizenship test, she met all the other requirements for citizenship.
+[4]
+On November 27, 2007, Ms. Zahra appeared before the Citizenship Judge for an interview. At the time of the hearing, Ms. Zahra was five months pregnant with her third child and was accompanied by her husband and children. Ms. Zahra's husband acted as her representative and interpreter. Upon questioning, she became nervous and uncomfortable. Due to her upset mental and physical condition, she had trouble speaking both in English and Punjabi, her native language.
+[5]
+Ms. Zahra's husband pointed out his wife's inability to speak and the Citizenship Judge recommended that she take a break for half an hour. After the break, her condition returned.
+[6]
+Ms. Zahra's husband told the Citizenship Judge that she could not answer the questions properly due to her condition and asked what other options she had. The Citizenship Judge informed him that she was would receive information in a letter in the mail in about four weeks. That information was the Citizenship Judge's Decision.
+THE ISSUES
+[7]
+Ms. Zahra takes no issue with the Citizenship Judge's determination that she failed to meet the knowledge requirement under subsection 5(1)(e) of the Act. However, she does take issue with his refusal to exercise his discretion in favour of making a recommendation based on compassionate grounds under section 5(3) and/or special and unusual hardship under section 5(4) of the Act (a Recommendation).
+[8]
+The Respondent submitted that there are two issues:
+Did the Applicant meet her onus to satisfy the Citizenship Judge that she warranted a Recommendation?
+Is a failure to make a Recommendation under subsection 15(1) considered a "decision" under subsection 14(2) of the Act, which gives the Federal Court's appellate jurisdiction?
+THE STANDARD OF REVIEW
+[9]
+In
+FRAGMENT_SUPPRESSED, Justice Blais provided that patent unreasonableness was the proper standard of review for a citizenship judge's decision not to recommend that the Minister exercise discretion pursuant to subsections 5(3) and 5(4) of the Act, as this is a discretionary decision. In light of the decision in
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, which eliminated the standard of patent unreasonableness, I conclude that the proper standard of review should be reasonableness.
+ANALYSIS
+1) Did the Citizenship Judge commit a reviewable error when he concluded that there were no special circumstances that would justify a Recommendation to the Minister to waive the knowledge requirement or otherwise grant citizenship to the Applicant?
+[10]
+At the hearing of the appeal, Ms. Zahra's husband submitted that when he told the Citizenship Judge about her condition and asked what other options there were if she failed the interview, the Citizenship Judge ought to have told them about the option to ask to be considered on compassionate grounds. He submits that, in asking about other options, he was essentially seeking that she be considered on compassionate grounds.
+[11]
+Ms. Zahra's husband argued that when his wife developed symptoms of severe stress at the interview and they asked about other options, the Citizenship Judge should have answered comprehensively and informed them that they could request a waiver of the knowledge requirement based on compassionate grounds.
+[12]
+Ms. Zahra only experienced this level of stress on the date of the hearing, She had no history of panic attacks and there was no medical evidence about any problems. Ms. Zahra submits that, because the Citizenship Judge observed her condition and recommended that she take a break, he knew that she was experiencing circumstances that prevented her from answering questions.
+[13]
+However, self-represented applicants have an obligation to know and understand the law. Accordingly, it was Ms. Zahra's responsibility to know that, if necessary, she could ask for an adjournment of the interview and that she could present evidence to support a request for a Recommendation.
+[14]
+Upon being questioned at the hearing of the appeal, Ms. Zahra and her husband confirmed that she had no history of panic attacks or other disorders and that she was having a healthy third pregnancy. Ms. Zahra made no mention of any facts that could have been presented before the Citizenship Judge explaining her inability to retain information or answer questions. She also offered that the reason she had only answered four of the twenty questions correctly on the written test was that she had not adequately studied the material.
+[15]
+Ms. Zahra appeared before the Citizenship Judge as a healthy pregnant woman who had badly failed the knowledge requirement of the written citizenship test. She became nervous during the interview when she again failed to correctly answer questions. There was no evidence of a medical problem which might have justified a Recommendation and no request for an adjournment. In these circumstances, the Citizenship Judge had no duty to mention the fact that a Recommendation could be made in appropriate cases.
+[16]
+I have therefore concluded that the Citizenship Judge's failure to mention the possibility of a Recommendation was reasonable in the circumstances of this case.
+2) Does the Federal Court have appellate jurisdiction in this matter?
+[17]
+Subsection 14(2) of the Act reads:
+Forthwith after making a determination under subsection (1) in respect of an application referred to therein but subject to section 15, the citizenship judge shall approve or not approve the application in accordance with his determination, notify the Minister accordingly and provide the Minister with the reasons therefor.
+Aussitôt après avoir statué sur la demande visée au paragraphe (1), le juge de la citoyenneté, sous réserve de l'article 15, approuve ou rejette la demande selon qu'il conclut ou non à la conformité de celle-ci et transmet sa décision motivée au ministre.
+[18]
+In my view, this provision makes it clear that, as part of his or her decision-making process, a citizenship judge is to turn his or her mind to the possibility of a Recommendation. Further, the Decision in this case shows that the Citizenship Judge made a decision on the issue of a Recommendation. For these reasons, I have concluded that the Court has jurisdiction over this matter.
+JUDGMENT
+[19] THIS COURT ORDERS AND ADJUDGES that
+: for the reasons given concerning Issue 1, this appeal is hereby dismissed.
+[End of document]

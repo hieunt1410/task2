@@ -1,0 +1,170 @@
+Merck Frosst Can. Inc. v. Can., [2000] F.T.R. Uned. 334 (TD)
+MLB unedited judgment
+In The Matter Of an application pursuant to Sections 44, 47 and 51 of the Access to Information Act (R.S.C. 1985, c. A-1)
+In The Matter Of decisions made on January 27 and 28, 1998 and, received on January 28 and 29, 1998, by the Assistant Coordinator Access to Information and Privacy for Health Canada respecting disclosure of documents:
+Merck Frosst Canada Inc. (applicant) and The Minister of National Health (respondent)
+Indexed As: Merck Frosst Canada Inc. v. Canada (Minister of National Health and Welfare)
+Cite As: [2000] F.T.R. Uned. 334
+Federal Court of Canada
+Trial Division
+Pinard, J.
+August 14, 2000.
+(T-262-98)
+Counsel:
+Louis Brousseau, for the plaintiff;
+Christopher Rupar, for the defendant.
+Solicitors of Record:
+McCarthy Tetrault, Montreal, Quebec, for the plaintiff;
+Department of Justice, Ottawa, Ontario, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2000] F.T.R. TBEd. AU.127.
+[1]
+Pinard, J.
+: This is an application pursuant to section 44 of the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the Act). The applicant requests a review of two decisions by the Access to Information and Privacy Centre of Health Canada respecting the disclosure of documents relating to the drug FOSAMAX, which is the subject of an application bearing the Health Protection Branch's file numbers 97-A-190/1/2, 96-A-347 and 97-A-511:
+- with respect to file nos. 97-A-190/1/2 and 96-A-347, Mr. Gerry Hoogeveen, Assistant Coordinator, Access to Information, wrote the following letter dated January 27, 1998:
+On December 5 and December 9, 1997, the Department of Health forwarded Notices to Mr. W.J. Saheb, Director, Regulatory Affairs, Merck Frosst Canada Inc. informing him of our intent to partially release certain records related to the New Drug Submission for FOSAMAX under the Access to Information Act.
+We have reviewed your representations of January 5 and January 16, 1998 concerning the records Health Canada seeks to partially disclose.
+The Department does not concur with Merck Frosst Canada Inc. The documents referred to are not confidential in their entirety as much of the information can be found in the public domain. Your views/representations are not exempt from disclosure under section 19(1) and 20(1) of the ATI Act.
+Therefore it is our decision to disclose the requested records as severed to the applicants.
+- with respect to file no. 97-A-511, Mr. Hoogeveen wrote a letter on January 28, 1998 indicating Health Canada's intention to partially disclose the cover letter submitted for FOSAMAX:
+We have reviewed your representations and are in agreement to sever some of the information under section 20(1)(b)(c) of the Access to Information Act. We have decided, however, that all your views/representations are not exempt from disclosure as you requested under subsection 20(1) of the ATI Act. I am enclosing another copy of the record to be disclosed as now severed to the applicant.
+[. . . . .]
+It is our decision to disclose the requested record as now severed to the applicant.
+[2]
+At the outset, I am of the view that the applicant has failed to comply with Rule 302 of the
+Federal Court Rules
+, 1998
+, which states:
+302.
+Unless the Court orders otherwise, an application for judicial review shall be limited to a single order in respect of which relief is sought.
+302.
+Sauf ordonnance contraire de la Cour, la demande de contrôle judiciaire ne peut porter que sur une seule ordonnance pour laquelle une réparation est demandée.
+[3]
+Mr. Hoogeveen's letter of January 27, 1998 indicates that it is in reference to file nos. 97-A-190/1/2 and 96-A-347. Likewise, his letter of January 28, 1998 indicates that it refers to file no. 97-A-511. In my opinion, there are two separate decisions and as far as I can tell, the Court has not given the applicant permission to join them in one application.
+[4]
+However, considering that it is likely that leave to challenge both decisions in the same proceeding would have been granted, if requested, given that the questions are so closely related, I intend to deal with the merits of the applicant's application.
+[5]
+The applicant objects to the disclosure of the documents referred to in file nos. 97-A-190/1/2, 96-A-347 and 97-A-511, invoking the grounds in paragraphs 20(1)(
+a
+), (
+b
+) and (
+c
+) of the Act:
+20.
+(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+(
+a
+) trade secrets of a third party;
+(
+b
+) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+(
+c
+) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; or
+(
+d
+) information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party.
+20.
+(1) Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant:
+a
+) des secrets industriels de tiers;
+b
+) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
+c
+) des renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité;
+d
+) des renseignements dont la divulgation risquerait vraisemblablement d'entraver des négociations menées par un tiers en vue de contrats ou à d'autres fins.
+[6]
+It is clear law that under the Act disclosure is the general rule and exemption the exception, and that the burden is on those who claim an exemption to prove their entitlement in this regard (see for example
+Rubin v. Canada
+, [1989] 1 F.C. 265 at 276-277 (F.C.A.);
+The Information Commissioner of Canada v. The Prime Minister of Canada
+, [1993] 1 F.C. 427 at 441 (F.C.T.D.) and
+Société Gamma Inc. v. Canada (Secretary of State)
+(1994), 79 F.T.R. 42 at 45 (F.C.T.D.)). It is with all these principles in mind that I have carefully examined all of the relevant documents and considered the information requested in the exemptions relied on. I will deal with each of the grounds invoked by the applicant in turn.
+(i)
+Paragraph 20(1)(
+a
+)
+[7]
+In
+Société Gamma
+,
+supra
+, Justice Strayer held, at page 45, that a trade secret:
+... must be something, probably of a technical nature (this impression is strengthened by the French version which uses the term "secrets industriels" as the equivalent of "trade secret"), which is guarded very closely and is of such peculiar value to the owner of the trade secret that harm to him would be presumed by its mere disclosure. ...
+[8]
+In its application, the applicant did not identify any specific part of the disputed information as a trade secret. Moreover, in her letter of December 17, 1997, written in response to Health Canada's letter of October 15, 1997 (file no. 97-A-511), Ms. St-Jean did not characterize anything in the disputed information as a trade secret. Similarly, although Mr. Saheb, Director, Regulatory Affairs for the applicant, states in his affidavit that "a detailed analysis of the record . . . will show specifically why the information . . ., if disclosed, may result . . . in financial loss from the disclosure of trade secrets", he does not identify what part of the information can be characterized as a trade secret.
+(ii)
+Paragraph 20(1)(
+b
+)
+[9]
+The applicant argues that it has consistently treated the disputed information as confidential. However, this is only one part of the test prescribed in paragraph 20(1)(
+b
+) for confidentiality. The information must also be "financial, commercial, scientific or technical information that is confidential information". Whether information is confidential must be decided objectively. According to Justice MacKay in
+Air Atonabee Ltd. v. Canada (Minister of Transport)
+(1989), 27 F.T.R. 194 at 210, the following factors indicate that information is confidential:
+a) that the content of the record be such that the information it contains is not available from sources otherwise accessible by the public or that could not be obtained by observation or independent study by a member of the public acting on his own,
+b) that the information originate and be communicated in a reasonable expectation of confidence that it will not be disclosed, and
+c) that the information be communicated, whether required by law or supplied gratuitously, in a relationship between government and the party supplying it that is either a fiduciary relationship or one that is not contrary to the public interest, and which relationship will be fostered for public benefit by confidential communication.
+[10]
+It appears from Mr. Hoogeveen's decision of January 27, 1998 with respect to file nos. 97-A-190/1/2 and 96-A-347 that much of the disputed information can be found in the public domain. Likewise, Mr. Hoogeveen's decision of January 28, 1998 with respect to file no. 97-A-511 indicates that most of the information at issue could be found in published literature, published studies or articles. Where this was not the case, the information was severed.
+[11]
+Similarly, Laura Freeman, a Proprietary and Scientific Information Assessment Officer on behalf of the respondent, provides in her affidavit a list of documents related to FOSAMAX and its New Drug Submission which have been rendered public.
+[12]
+These findings indicate that most of the disputed information is available from sources otherwise accessible to the public. It is true that in some limited instances the respondent's evidence is that part of the disputed information is "likely" available from sources otherwise accessible to the public. This inference is not unreasonable, considering the extensive and detailed evidence of Ms. Freeman, which clearly demonstrates that the material sought to be released is already largely in the public domain, and considering that the applicant's evidence in that regard is contained in a document entitled "Merck's Response to HPB'S Objections" [see footnote 1], a document which merely contains a cryptic response by the applicant affirming that the material is confidential but providing no factual basis for this statement. Therefore, it seems to me that the criteria in
+Air Atonabee
+,
+supra
+, are not met and that the applicant has failed to demonstrate that the disputed information is objectively confidential.
+(iii)
+Paragraph 20(1)(
+c
+)
+[13]
+The test for the application of the exemption in paragraph 20(1)(
+c
+) is that of a "... reasonable expectation of probable harm". In
+Canada Packers Inc. v. Canada
+, [1989] F.C. 47, the Federal Court of Appeal interpreted this disposition as follows, at page 60:
+... The words-in-total-context approach to statutory interpretation which this court has followed in
+Lor-Wes Contracting Ltd. v. The Queen
+, [1986] 1 F.C. 346; (1985), 60 N.R. 321 and
+Cashin v. Canadian Broadcasting Corp.
+, [1988] 3 F.C. 494 requires that we view the statutory language in these paragraphs in their total context, which must here mean particularly in the light of the purpose of the Act as set out in section 2. [5] Subsection 2(1) provides a clear statement that the Act should be interpreted in the light of the principle that government information should be available to the public and that exceptions to the public's right of access should be "limited and specific". With such a mandate, I believe one must interpret the exceptions to access in paragraphs (
+c
+) and (
+d
+) to require a reasonable expectation of
+probable
+harm. [6]
+5. The same "could reasonably be expected to" phrase is found in sections 16, 17 and 18, but I believe that only subsection 2(1) is decisive as to its meaning.
+6. This is not unlike the test adopted by Lacourcière J. in a different context in
+McDonald v. McDonald
+[1970] 3 O.R. 297 (H.C.), at p. 303, that "Reasonable expectation ... implies a confident belief".
+[14]
+This interpretation was confirmed by the Federal Court of Appeal in
+St. John Shipbuilding Ltd. v. Canada (Min. of Supply and Services)
+(1990), 67 D.L.R. 315 at 316.
+[15]
+The applicant's evidence, here, is that of Mr. Saheb who, in his affidavit, merely states the procedural steps taken by the parties and makes the following general statement:
+10. A detailed analysis of the record and documents which Health Canada proposes to allow access to, will show specifically why the information contained therein constitutes confidential information and/or which, if disclosed, may result in prejudice to the competitive position and result in financial loss from the disclosure of trade secrets.
+[16]
+I agree with the respondent that such bare statements are simply an affirmation of the alleged result of disclosure of the information and does not provide the Court with evidence that such outcomes are reasonably probable. FRAGMENT_SUPPRESSED
+[17]
+In my view, therefore, the applicant's evidence falls well short of the evidence required to sustain an exemption under paragraph 20(1)(
+c
+).
+[18]
+In light of all of the above, I find that the applicant has not met its burden of demonstrating that the disputed information should not be disclosed. Consequently, this application must be dismissed.
+[19]
+In order not to defeat the purpose of the section 44 review in the event that the applicant should successfully appeal my decision, I have referred to the documents which are the subject of the application in general terms only. Accordingly, I now direct that all the documents in issue which were ordered to be filed in sealed envelopes continue to be so filed. In the event that an appeal is taken against my decision, the documents will have to be dealt with at the direction of the Court of Appeal. Upon the expiration of the time limit for filing an appeal, if no appeal is filed, the documents are to be taken out of the sealed envelopes and are to form a part of the public record in this matter.
+[20]
+Costs are adjudicated against the applicant, in favour of the respondent.
+Footnote
+1. Applicant's Record, pages 23 to 42.
+[End of document]

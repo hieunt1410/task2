@@ -1,0 +1,24 @@
+[2]
+It is important to note at the outset that judicial review of decisions of the Privacy Commissioner under s. 14 of
+PIPEDA
+are not reviews of its findings and recommendations. This section provides for a de novo review of the conduct in question; in this case, the actual decision of Alta Flights to attempt to surreptitiously record the conversations of some of its employees, including the Applicant: see
+Englander v. Telus Communications Inc.
+, [2003] F.C.J. No. 975; 235 F.T.R. 1 (T.D.), at paras. 29-30, var. in part [2004] F.C.J. No. 1935; 328 N.R. 297 (F.C.A.), at paras. 47-48, suppl. reasons [2004] F.C.J. No. 440 (F.C.A.);
+Eastmond v. Canadian Pacific Railway et al.
+, [2004] F.C.J. No. 1043; 254 F.T.R. 169 (F.C.), at paras. 118, 121-123 (F.C.). The preliminary question of whether the Privacy Commissioner had jurisdiction to proceed with the investigation in light of the proceedings commenced by the Applicant under s. 243 of the
+Canada Labour Code
+, R.C.S. 1985, c, L-2, as amended, following her dismissal by Alta Flights, was not pursued. However, since exemplary damages were being sought in both instances, the parties, after some discussion, agreed that these could only be awarded once, either by the labour arbitrator or by the Federal Court, should Ms. Morgan be successful in both forums. Therefore, the remaining issues that the Court had to deal with are as follows:
+-
+Alta Flights' actions and
+PIPEDA
+: Did Alta Flights violate any provisions of
+PIPEDA
+, and specifically those dealing with the collection and/or the use of personal information, by either recording or attempting to record employees' conversations? Does the fact that the recorded material, if any, was erased prior to being put to any use, change this answer?
+-
+Potential remedies:
+If there was a violation of the Applicant's rights under
+PIPEDA
+, what remedies are available to the Applicant? This includes the question, if it becomes necessary, of whether the Court has jurisdiction to grant additional remedies not authorized by
+PIPEDA
+.
+CONCLUSION

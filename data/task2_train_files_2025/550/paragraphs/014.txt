@@ -1,0 +1,11 @@
+[14]
+Federal Court Rule
+419 is the rule relevant to striking pleadings. Under rule 419(1):
+"419(1) The Court may at any stage of an action order any pleading or anything in any pleading to be struck out, with or without leave to amend, on the ground that
+(a) it discloses no reasonable cause of action or defence, as the case may be,
+(b) it is immaterial or redundant,
+(c) it is scandalous, frivolous or vexatious,
+(d) it may prejudice, embarrass or delay the fair trial of the action,
+(e) it constitutes a departure from a previous pleading, or
+(f) it is otherwise an abuse of the process of the Court,
+and may order the action to be stayed or dismissed or judgment to be entered accordingly."

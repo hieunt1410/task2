@@ -1,0 +1,12 @@
+[11]
+It regrettably appears that the applicant was convicted in the U.K. of an offence which, if committed in Canada, constitutes an offence under another Act of Parliament, the Criminal Code. But is it an offence in Canada which "may be punishable by way of indictment under" the Criminal Code? Alas, it is. Section 255 of the Code in part provides:
+"255(1) Every one who commits an  offence under s. 253 or 254 is guilty of an indictable offence or an offence punishable on summary conviction and is liable,
+(a) whether the offence is prosecuted by indictment or punishable on summary conviction, to the following minimum punishment, namely,
+(i) for a first offence, to a fine of not less than three hundred dollars,
+(ii) for a second offence, to imprisonment for not less than fourteen days, and
+(iii) for each subsequent offence, to imprisonment for not less than ninety days;
+(b) where the offence is prosecuted by indictment, to imprisonment for a term not exceeding five years; and
+(c) where the offence is punishable on summary conviction, to imprisonment for a term not exceeding six months.
+"255(2) Every one who commits an offence under paragraph 253(a) and thereby causes bodily harm to any other person is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+"255(3) Every one who commits an offence under paragraph 253(a) and thereby causes the death of any other person is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years."
+This is a "hybrid offence" with Crown option as to manner of proceeding.

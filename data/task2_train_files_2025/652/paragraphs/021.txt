@@ -1,0 +1,20 @@
+[21]
+Further, in
+Kotacka v. Cellcor Corp. of Canada Ltd., Plastistarch Corp. and Hughes
+(1976), 14 N.R. 204; 27 C.P.R.(2d) 63, the Federal Court of Appeal held that the court was without jurisdiction to decide ownership of an invention and entitlement to apply for a patent with respect to ownership of an invention. Although the case dealt with the
+Patent Act
+, I am of the view that the Court of Appeal's comments at pp. 73 and 74, regarding the court's jurisdiction under s. 20 of the
+Federal Court Act
+, apply equally to the case before me:
+"The respondent's main argument was that s. 22 gives jurisdiction to the court in this matter. The main relief sought [footnote omitted], said he, is a declaration that the plaintiff, being the owner of the invention, is entitled, under the
+Patent Act
+, to apply for letters patent. That relief, he added, is clearly a relief 'respecting a patent of invention' within the meaning of s. 20 and is also a relief provided for by law since the court is authorized to pronounce declaratory judgments ...
+"The respondent's contention is, in my view, ill-founded. Assuming that the declaration sought in this action is a remedy respecting a patent of invention, within the meaning of s. 20, I am nevertheless of opinion that, in the circumstances of this case, it is not a relief that the Federal Court has power to grant because I agree with the appellants' view that there is no legal basis for it. Under the
+Patent Act
+, the official who must first decide whether a patent may issue to an applicant is the Commissioner. The
+Act
+does not empower the courts to give him directions on the decision he should reach; it is only if he is alleged to have made a wrong decision that, under the statute, the courts may be seized of the matter. In my view, it would be contrary to the scheme of the
+Patent Act
+for the courts to assume the power, in a case like the present one, to make the declaration sought. In my opinion, the power of the court under rule 1723, to make 'binding declarations of right' cannot be exercised in respect of letters patent of invention when its exercise is not expressly or impliedly contemplated by the
+Patent Act
+or another statute within the legislative jurisdiction of Parliament."

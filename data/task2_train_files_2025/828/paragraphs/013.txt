@@ -1,0 +1,14 @@
+[13]
+The Supreme Court of Canada stated in
+Whirlpool Corp.
+v.
+Camco Inc.
+, [2000] S.C.J. No. 68, at paragraphs 42 and 43 that:
+42. The content of a patent specification is regulated by s. 34 of the Patent Act. The first part is a "disclosure" in which the patentee must describe the invention "with sufficiently complete and accurate details as will enable a workman, skilled in the art to which the invention relates, to construct or use that invention when the period of the monopoly has expired": Consolboard Inc. v. MacMillan Bloedel (Sask.) Ltd., [1981] 1 S.C.R. 504, at p. 517. The disclosure is the
+quid
+provided by the inventor in exchange for the
+quo
+of a 17-year (now 20-year) monopoly on the exploitation of the invention. The monopoly is enforceable by an array of statutory and equitable remedies and it is therefore important for the public to know what is prohibited and where they may safely go while the patent is still in existence. The public notice function is performed by the claims that conclude the specification and must state "distinctly and in explicit terms the things or combinations that the applicant regards as new and in which he claims an exclusive property or privilege" (s. 34(2))". An inventor is not obliged to claim a monopoly on everything new, ingenious and useful disclosed in the specification. The usual rule is that what is not claimed is considered disclaimed.
+43. The first step in a patent suit is therefore to construe the claims. Claims construction is antecedent to consideration of both validity and infringement issues. The appellants' argument is that these two inquiries -- validity and infringement -- are distinct, and that if the principles of "purposive construction" derived from
+Catnic
+are to be adopted at all, they should properly be confined to infringement issues only. The principle of "purposive construction", they say, has no role to play in the determination of validity, and its misapplication is fatal to the judgment under appeal.

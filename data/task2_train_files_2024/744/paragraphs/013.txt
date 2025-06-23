@@ -1,0 +1,10 @@
+[13]
+In
+Hartco Enterprises Inc. v. Becterm Inc.
+[see footnote 13], Mr. Justice Dubé considered the use of two identical trademarks, except for one being spelled with a hyphen, where one user was a distributer of computer hardware and software and the other was a manufacturer and installer of highly sophisticated computers. Both businesses were based in the province of Quebec. Mr. Justice Dubé concluded that the use of the two trademarks would be confusing:
+"In the instant case, the trademarks being identical (except for the hyphen) there was clearly a likelihood of confusion at the time the respondent applied for the registration of the trademark. Under the confusion criteria provided by s. 6(5) of the
+Act
+, the only criterion which might not be self-evident is the nature of the trade or the services or business, bearing in mind that the applicant is a distributor of standard computers to its own stores, whereas the respondent provides sophisticated custom-made computers to specific customers. That element, however, is not sufficient, in my view, to remove the obvious likelihood of confusion between the two marks used in association with computers. Although the nature of the trade is not similar, both marks are used in association with the same type of wares on the same market.
+"Moreover, the 'raison d'être' of the
+Act
+is primarily to protect the public: there is a strong public interest in maintaining the purity of the register. Public interest ought to transcend rival claims between parties."

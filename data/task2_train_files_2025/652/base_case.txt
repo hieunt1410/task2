@@ -1,0 +1,59 @@
+[1]
+Morneau, Prothonotary
+: This is a motion by the defendants under rule 221(1)(b) of the
+Federal Court Rules, 1998
+(the
+Rules
+) for an order striking out paragraphs 42, 43, 44 and 45 of the plaintiffs' re-amended statement of claim (the impugned paragraphs) on the basis that they are immaterial to the present action.
+[2]
+The plaintiffs' action is for trademark infringement and expungement on the basis that the defendants' use of the registered trademark LIPITOR in Canada, for a pharmaceutical known as atorvastatin, is confusing with the plaintiffs' registered LIPIDIL and LIPIDIL MICRO trademarks in Canada, for formulations of a pharmaceutical known as fenofibrate. Atorvastatin and fenofibrate are used in the treatment of blood cholesterol disorders.
+The Impugned Paragraphs
+[3]
+In impugned paragraphs 42 to 44, the plaintiffs essentially allege that the defendants' atorvastatin pharmaceutical is present in only two countries where the mark LIPIDIL is used, namely Canada and Germany. The plaintiffs further allege that with the exception of Germany, the defendants do not use the trademark LIPITOR with their atorvastatin pharmaceutical as they do elsewhere, including Canada, thereby consciously avoiding the risk of confusion between the marks LIPIDIL and LIPITOR.
+[4]
+The impugned paragraphs read as follows, according to a translation provided by the defendants:
+"42. The defendants' statin is only present in two countries where the mark 'LIPIDIL' is used, namely in Canada and in Germany;
+"43. The defendants use the mark 'LIPITOR' to market their statin in all the countries where the product has been launched, with the exception of Germany where the product is marketed under the mark 'SORTIS';
+"44. The defendants have therefore taken the exceptional route of marketing their statin product in association with a mark other than 'LIPITOR' in the only other country where the mark could have given rise to confusion with the mark 'LIPIDIL';
+"45. The defendants were therefore fully aware of the risk of confusion between the marks 'LIPIDIL' and 'LIPITOR' in Germany, which explains why they decided to market their statin in association with the mark 'SORTIS' in Germany;"
+[5]
+In their amended statement of defence, the defendants answer to the impugned paragraphs as follows:
+"31. The defendants have no knowledge of the allegation in paragraph 42 of the Statement of Claim, and deny the allegations contained in paragraphs 43, 44 and 45. The choice of trademarks by the defendants in Germany or any other country is irrelevant to this action. In the alternative, if the choice of trademarks by the defendants in countries outside Canada is relevant to this action, which is denied, then the defendants state that atorvastatin is sold under the trademark SORTIS in Germany and several other countries for marketing reasons not related to the LIPIDIL and LIPIDIL MICRO trademarks. Furthermore, the LIPIDIL and LIPITOR trademarks presently co-exist on the trademark Registers of numerous countries around the world, and there has never been any opposition to the registration of the LIPITOR trademark by either plaintiff."
+[6]
+I should point out at this stage that I agree with the defendants that by specifically pleading irrelevancy of the impugned paragraphs, they preserved their right to bring the motion at bar although it could have been brought earlier in the process. However, I do not intend to rule on the instant motion on the basis that it is late.
+The Law On Striking Out
+[7]
+The possibility of seeking the striking out of an entire pleading or part thereof in the context of an action is now provided for by rule 221, which is the counterpart of rule 419 of the
+Federal Court Rules
+. Therefore, the case law developed under rule 419 is applicable to rule 221.
+[8]
+Consequently, pursuant to s. 221(1)(b), the impugned paragraphs are required to be so intolerable and harmful that they must be struck out entirely or in part. As Mr. Justice Teitelbaum stated in
+FRAGMENT_SUPPRESSED
+Analysis
+[9]
+I agree with counsel for the defendants when he states that the jurisdiction of this court to determine claims under the
+Trade-marks Act
+, R.S.C. 1985, c. T-13 (the
+Act
+), should be considered in the context that the
+Act
+applies only in Canada, and, therefore, evidence of confusion or depreciation of goodwill in foreign jurisdictions is not evidence of confusion or depreciation of goodwill in Canada. (See
+Coca-Cola Ltd. et al. v. Pardhan et al.
+(1997), 139 F.T.R. 223; 77 C.P.R.(3d) 501 (T.D.), at 511.)
+[10]
+However, as it was held in
+Kellogg Co. et al. v. Imperial Oil Ltd.
+(1996), 3 O.T.C. 1; 67 C.P.R.(3d) 426 (Gen. Div.), at 441, evidence of use of trademarks in a foreign jurisdiction, either with or without confusion, may be relevant to the issue of likelihood of confusion between these trademarks in Canada.
+[11]
+In the instant case, one is not concerned with use of similar marks outside Canada. Nevertheless, based on the liberal approach expressed in the
+Kellogg
+case, I would dare to suggest that the use by the defendants of a different trademark in Germany should be seen at this stage of the proceedings as a surrounding circumstance which might present some value to the judge at trial.
+[12]
+Therefore, I must conclude that I am not satisfied that the impugned paragraphs are so clearly immaterial that they are obviously forlorn and futile and must succumb to a motion to strike. These paragraphs shall therefore be allowed to remain in the plaintiffs' re-amended statement of claim.
+[13]
+Finally, I agree with counsel for the defendants that impugned paragraph 45 expresses a damaging conclusion of fact and law as to the defendants' motives in resorting to a different trademark in Germany from the one retained in Canada. However, under the present circumstances, this is not a sufficient reason to order the striking out of that paragraph. As everyone knows, that conclusion, and the weight it should receive, will be for the court to determine. At this stage, impugned paragraph 45 remains an allegation for which the plaintiffs will be put to strict proof.
+[14]
+This motion shall therefore be dismissed, with costs to follow.
+Motion denied.
+Editor: Steven C. McMinniman/clh
+[End of document]

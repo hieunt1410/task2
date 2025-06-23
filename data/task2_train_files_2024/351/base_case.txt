@@ -1,0 +1,139 @@
+[1]
+Campbell, J.
+: This judicial review application concerns the resolution of an apparent conflict between the provisions of s. 44(1) of the
+Immigration Act
+, R.S.C. 1985, c. I-2 as am. (the "
+Act
+") and s. 32.02(2) of the
+Act
+. [see footnote 1]
+A. The Facts
+[2]
+It is agreed that the pertinent facts under consideration are as follows:
+"1. The applicant is a citizen of Pakistan and a Lahori Amhadi. While in Pakistan, the applicant alleged he suffered persecution at the hands of the police and the violent Sipah-e-Sahaba group.
+"2. The applicant first came to Canada on October 13, 1994. Upon arrival at the Vancouver International Airport, the applicant claimed refugee status. Pursuant to s.28(1) of the
+Act
+, a Conditional
+Departure Order was issued to the applicant, pending the determination of his claim for Refugee status.
+"3. On October 21, 1996, the Convention Refugee Determination Division ('CRDD') dismissed the applicant's claim.
+"4. On October 23, 1998, the applicant was found not to be a member of the Post Claim Determination Refugee Claimant in Canada Class and, accordingly, pursuant to s. 28(2)(c)
+, the Conditional Departure Order issued against him became effective.
+"5. On March 5, 1997, the applicant's Application for Leave and for Judicial Review to the Federal Court was dismissed.
+"6. The applicant left Canada on November 25, 1998 and unlawfully entered the United States on or about November 25, 1998.
+"7. The applicant did not advise the respondent in advance of his departure to the United States and, as a result, the respondent issued no Certificate of Departure to him under s.32.01.
+"8. On December 25, 1998, the applicant left the United States for Pakistan in order to visit his hospitalized mother.
+"9. On December 27, 1998, the applicant was lawfully admitted to Pakistan. While visiting his mother in Pakistan, the applicant alleged that he was threatened by both the police and members of Sipah-e-Sahaba.
+"10. On March 4, 1999, the applicant returned to Canada without authorization utilizing an agent.
+"11. On April 9, 1999, the applicant claimed Convention Refugee status.
+"12. On April 12, 1999, an eligibility hearing was held at the Canada Immigration Centre in Calgary, Alberta, after which a decision was made which is the subject matter of the present Judicial Review Application." [see footnote 2]
+B. The Senior Immigration Officer's decision
+[3]
+The actual decision of the Senior Immigration Officer is stated in a formal typewritten document as follows:
+"FOLLOWING A DETERMINATION UNDER PARAGRAPH 45 (1)(A) OF THE IMMIGRATION ACT, YOU HAVE BEEN FOUND INELIGIBLE UNDER SECTION 46.01(1) TO HAVE YOUR CLAIM TO BE A CONVENTION REFUGEE REFERRED TO THE CONVENTION REFUGEE DETERMINATION DIVISION OF THE IMMIGRATION AND REFUGEE BOARD. THE BASIS FOR THE DETERMINATION IS AS FOLLOWS:
+"SINCE LAST COMING INTO CANADA YOU HAVE BEEN DETERMINED: BY THE REFUGEE DIVISION NOT TO BE A CONVENTION REFUGEE OR TO HAVE ABANDONED YOUR CLAIM."
+[4]
+Just above the signature of the Senior Immigration Officer the following entries are also found:
+"21OCT96 - FOUND NOT TO BE A CONVENTION REFUGEE
+13NOV98 - LEAVE TO APPEAL DISMISSED
+28NOV98 - DEEMED DEPORT
+SUBJECT OF AN UNEXECUTED REMOVAL ORDER"
+[5]
+After hearing extensive argument on the topic, I find that the decision made by the Senior Immigration Officer under review in the present application is that made under s. 46.01(1). I find that the entry "28NOV98 - DEEMED DEPORT SUBJECT OF AN UNEXECUTED REMOVAL ORDER" is a finding made in the course of reaching the decision under review but is not the decision itself.
+C. Investigating The Statutory Provision Conflict
+1. The issue: the correctness of the s. 44(1) finding
+[6]
+It was agreed between counsel that, on the facts as they exist in the present case, the Senior Immigration Officer had no jurisdiction to exercise authority under s. 46.01(1), given the finding he made that, at the time of the presentation of his refugee claim, the applicant was the subject of an unexecuted removal order.
+[7]
+Section 44(1) presents a first hurdle which a claimant must cross in order to have a refugee claim determined. That is, in order to be able to proceed with the making of a refugee claim, by virtue of s. 44(1), a claimant must not be "a person against whom a removal order has been made but not executed". If this first hurdle, of merely being able to notify an immigration officer of a claim to be made, is not crossed, considerations arising under s. 46.01(1) do not arise. That is, in the present case, it is agreed that, by virtue of his finding that the applicant was the subject of an unexecuted removal order, the Senior Immigration Officer could not exercise jurisdiction to render a decision pursuant to s. 46.01(1).
+[8]
+However, it is also agreed that, if the Senior Immigration Officer was wrong in his finding on the condition precedent, then s. 46.01(1) concerns do arise. The applicant argues that such is the case, and, consequently, it is agreed that the correctness of the Senior Immigration Officer's finding is properly before me for consideration and decision.
+2. The arguments
+[9]
+It is agreed that because the applicant left Canada without obtaining a Certificate of Departure pursuant to s. 32.02(1), by virtue of s. 32.02(2) the applicant became subject to a deportation order. As a result, it is also agreed that the applicant could not re-enter Canada without the permission of the Minister of Citizenship and Immigration pursuant to s. 55(1).
+[10]
+As stated, as a result of the agreements reached, the respondent argues that an unexecuted removal order was outstanding when the applicant made his claim on April 9, 1999 and, therefore, by operation of s. 44(1) he is barred from pursuing his claim. In response, the applicant argues that the Senior Immigration Officer erred in finding that an unexecuted removal order exists.
+[11]
+The applicant's argument that no unexecuted removal order exists exposes the conflict between s. 44(1) and s. 32.02(2). The applicant argues that, by operation of s. 32.02(2), since he is the subject of a deportation order, he is not, therefore, the subject of a unexecuted removal order; that is, he argues that to be the subject of a deportation order, and the subject of an unexecuted removal order, are different things, and, consequently, s. 44(1) presents no barr to him notifying an immigration officer of his refugee claim.
+[12]
+In response, the respondent argues that to allow this interpretation would make a mockery of the scheme for dealing with refugee claimants found within ss. 44 to 55 of the
+Act
+. Indeed, the respondent argues that by application of s. 55(1), the applicant would not even be allowed to set foot in the country without the Minister's permission, and, therefore, could not be considered as being "in Canada" as required in order to seek a determination of the claim by notifying an immigration officer pursuant to s. 44(1).
+[13]
+The applicant's reply to this argument is that if there is a conflict in the provisions of the
+Act
+respecting whether the applicant can make a refugee claim, this conflict ought to be decided in favour of the applicant.
+3. Analysis
+[14]
+I find there is no conflict.
+[15]
+Following the reasoning expressed by Muldoon, J., in
+FRAGMENT_SUPPRESSED the execution of a removal order is perfected when a person, who is the subject of an unconditional departure order, has issued to him or her a Certificate of Departure pursuant to s. 32.01. That is, if no Certificate of Departure has been issued, I find that a removal order has not been executed within the meaning of those terms as used in s. 44(1).
+[16]
+The result of not obtaining a Certificate of Departure is, by operation of s.32.02(2), to have a departure order made against a person "deemed to be a deportation order". Therefore, if a removal order is considered unexecuted if no Certificate of Departure is obtained, and a deportation order is deemed if no Certificate of Departure is obtained, I find that, for the purposes of the application of s. 44(1), they are one and the same.
+ORDER
+[17]
+Therefore, in the present case, pursuant to s. 18.1(3)(b) of the
+Federal Court Act
+, I declare that the Senior Immigration Officer was correct in his finding that the applicant was the subject of an unexecuted removal order.
+[18]
+Also pursuant to s. 18.1(3)(b) of the
+Federal Court Act
+I set aside the decision of the Senior Immigration Officer as made without jurisdiction, but in view of the declaration ordered, the practical result for the applicant remains that he is precluded from having his refugee claim considered. However, if I am incorrect in my finding of law respecting the equivalence of a deemed deportation order and an unexecuted removal order, the applicant is not barred by s.44(1) from making his claim.
+[19]
+Therefore, my findings respecting the correctness of the Senior Immigration Officer's finding respecting the existence of an unexecuted removal order, in my opinion, presents a question which is not only determinative of the present application, but is also of general importance. [see footnote 3] Accordingly, pursuant to rule 18(1) of the
+Federal Court Immigration Rules, 1993
+,
+I certify the following questions:
+1. Respecting the application of s. 44(1) of the
+Act
+, is a departure order "unexecuted" as a result of not obtaining a Certificate of Departure?;
+and
+2. Respecting the application of s. 44(1) of the
+Act
+, is a deemed deportation order that arises under s. 32.02(1) of the
+Act
+the equivalent of an unexecuted removal order?
+Order accordingly.
+Editor: Sharon J. McLaughlin/aga
+ADDENDUM
+Provisions of the Immigration Act,
+R.S.C. 1985, c. I-2 as am.
+S. 28(1) Conditional departure order
+Where a senior immigration officer is of the opinion that a person who claims to be a Convention refugee is eligible to have their claim referred to the Refugee Division and is a person in respect of whom the senior immigration officer would, but for this section, have made an exclusion order under subsection 23(4) or (4.01) or a departure order under subsection 27(4), the senior immigration officer shall make a conditional departure order against the person.
+S. 28(2) When conditional departure order becomes effective
+No conditional departure order made pursuant to subsection (1) against a person who claims to be a Convention refugee is effective unless and until
+(c)
+the person is determined by the Refugee Division not to be a Convention refugee and has been so notified ...
+S. 32(1) Where person shall be allowed to come into or remain in Canada
+Where an adjudicator decides that a person who is the subject of an inquiry is a person described in subsection 14(1) or a person who has a right to remain in Canada, the adjudicator shall let that person come into Canada or remain therein, as the case may be.
+S. 32(1)(4) Where visitor may be granted entry
+Where an adjudicator decides that a person who is the subject of an inquiry is a person who, at the time of his examination, was seeking entry and that it would not be contrary to any provision of this Act or the regulations to grant entry to that person, the adjudicator may grant entry to that person and, except in the case of a person who may be granted entry pursuant to subsection 19(3), impose terms and conditions of a prescribed nature.
+S. 32.01 Examination of person subject to departure order
+A person against whom a departure order has been made shall appear or be brought before an immigration officer so that the immigration officer can verify the person's departure from Canada and issue a certificate of departure in the prescribed form to the person.
+S. 32.02(1) Where no certificate issued
+Where no certificate of departure is issued within the applicable period specified in the regulations to a person against whom a departure order has been made, the departure order is deemed to be a deportation order made against the person.
+S. 32.02(2) Deemed deportation
+Where by the operation of subsection (1) a departure order made against a person is deemed to be a deportation order and the person is at that time no longer in Canada, the person is deemed to have been deported from Canada.
+S. 44.1
+Refugee claim
+Any person who is in Canada, other than a person against whom a removal order has been made but not executed, unless an appeal from that order has been allowed, and who claims to be a Convention refugee may seek a determination of the claim by notifying an immigration officer.
+S. 46.01(1) Access criteria
+A person who claims to be a Convention refugee is not eligible to have the claim determined by the Refugee Division if the person
+(c)
+has, since last coming into Canada, been determined
+(i)
+by the Refugee Division not to be a Convention refugee or to have abandoned the claim, or
+(ii)
+by a senior immigration officer not to be eligible to have the claim determined by the Refugee Division;
+S. 55.1 Effect of deportation order
+Subject to section 56, where a deportation order is made against a person, the person shall not, after he [sic] is removed from or otherwise leaves Canada, come into Canada without the written consent of the Minister unless an appeal from the order has been allowed.
+Footnotes
+1.	The argument of this case followed a somewhat tortured path because of differences in opinion concerning the actual decision under review. In the end result, regardless of the wording of the application for judicial review, and the subsequent written arguments presented, following a first day of oral argument, and an adjournment for the presentation of further written and oral submissions, agreement was reached on the legal issue for determination as expressed.
+Since the issue for determination involves examination of various sections of the
+Act
+, for the sake of simplicity in the delivery of these reasons, the relative sections are set out in an Addendum to these reasons and, in the narrative, are simply referred to by number.
+2.	This précis of the facts has been adapted from the applicant's Memorandum of Fact and Law, applicant's Application Record, pp. 26-28.
+3.	See
+Alvarado v. Canada (Minister of Citizenship and Immigration)
+(1997), 215 N.R. 318 (F.C.A.).
+[End of document]

@@ -1,0 +1,88 @@
+[1]
+Jerome, A.C.J.
+: This is an application by Hoffmann-La Roche Limited and Syntex (U.S.A) Inc. for an order prohibiting the Minister of National Health and Welfare from issuing a Notice of Compliance to the respondent Apotex Inc. in respect of the medicine Ketorolac Tromethamine, including the medicine Ketorolac Tromethamine tablets, until after the expiration of the applicants' Canadian patents no. 1,111,431; 1,168,244; and, 1,102,809.
+[2]
+It is agreed by the parties that all of the claims of the 1,111,431 and 1,168,244 patents are process claims. In view of the Federal Court of Appeal decision in
+Deprenyl Research Ltd. et al. v. Apotex Inc. et al.
+(1995), 180 N.R. 323; 60 C.P.R.(3d) 501, which held that process claims were not claims to a medicine itself, the applicants do not resist the dismissal of their applications as it relates to those patents, without prejudice to any rights which they may have on appeal.
+[3]
+Accordingly, the only patent in issue in these proceedings is patent no. 1,102,809, which relates to the preparation of a series of compounds, amongst them ketorolac and ketorolac tromethamine. Claim 38 of the Patent is a product by process claim, where the process is that described in Claim 1. Claim 1 of the Patent recites a process for producing a compound of the formula (A) as depicted in claim 1
+"... or the individual (1)-acid isomers thereof and the pharmaceutically acceptable, non-toxic esters and salts thereof, wherein R represents hydrogen or a lower alkyl group having from 1 to 4 carbon atoms and R1 represents hydrogen, a lower alkyl group having from 1 to 4 carbon atoms, a lower alkoxy group having from 1 to 4 carbon atoms, chloro, fluoro or bromo, the R1 substitution being at the ortho, meta or para positions of the aroyl group which
+comprises one or more of the following steps:
+"
+[4]
+Six discrete steps lettered (a) through (f) are then listed.
+[5]
+On April 7, 1993, the applicants filed a Form IV Patent List pursuant to the
+Patented Medicines (Notice of Compliance) Regulations
+in respect of ketorolac tromethamine, and in particular for the 10 mg tablet dosage. Thereafter, in accordance with s. 5(b) of the
+Regulations
+the respondent Apotex forwarded a Notice of Allegation to the applicants alleging non-infringement and invalidity of their patents. In the Notice, Apotex asserted the following legal and factual bases for its allegations:
+"
+Patent 1102809
+This patent has no claim for the use of the medicine. This patent does have claims for the medicine when made by a claimed process. However, until patent 1102809 expires we will use ketorolac tromethamine only as made by a process not within the scope of claim 1 of the patent 1102809, and we hereby so undertake. Since all other claims are dependent directly or indirectly on claim 1, it also follows that no other claim will be infringed.
+We are prepared to disclose further details of the process and the basis of non-infringement pursuant to a confidentiality agreement or order.
+In addition, with regard to patent 1,102,809, we allege that all claims of the patent are invalid. The claims cover: a process for producing a compound of formula (a) or isomers thereof and esters or salts thereof which comprises any one or more of several steps, one of which is the single step of esterifying the carboxylic acid function in the compounds of formula (A) or converting them to salts. Hence, the claims include within their scope processes for producing a compound of formula (A) or converting them to salts.
+The claims are invalid on the following grounds:
+i) A process of esterifying compounds of formula (A) or converting them to salts is a process for producing esters or salts of a compound of formula (A), but it is not a process for producing a compound of formula (A). Hence, it is not a process for producing a compound of formula (A) and esters or salts thereof. Hence, the claim covers inoperable processes.
+ii) A process for producing esters or salts of a compound of formula (A) by the step of esterifying the carboxylic acid function in compounds of formula (A) or converting into salts is obvious and non-inventive.
+iii) The step of esterifying the carboxylic acid function in compounds of formula (A) or converting them into salts is not limited to methods or processes of manufacturing particularly described and claimed or by their obvious chemical equivalents, contrary to s. 41(1) of the
+Patent Act
+as in force at the time of issue of the patent. More specifically, a claim for the making of salts of a compound of formula (A) which is claimed only as 'converting each of them into pharmaceutically acceptable non-toxic salts' is a claim for the making of salts of the compound not limited to methods or processes particularly described and claimed.
+iv) The claims do not set out distinctly and in explicit terms the method of performing the esterification of the carboxylic acid function in compounds of formula (A) or converting them into salts that is regarded as new or in which as exclusive property or privilege is claimed, contrary to s. 34(2), formerly s. 36(2) of the
+Patent Act
+."
+[6]
+The applicants now seek an order prohibiting the Minister from issuing a Notice of Compliance on the grounds that Apotex has failed to comply with the
+Regulations
+by not providing a detailed statement of the legal and factual basis for its allegation; that Apotex' allegation that no claim of the 809 patent would be infringed is not justified; and, that Apotex' allegation that all claims of the 809 patent are invalid is not justified.
+[7]
+I am not persuaded that the alleged deficiencies in Apotex' Detailed Statement are fatal to its position in these proceedings. In
+Bayer AG and Miles Canada Inc. v. Canada (Minister of National Health and Welfare) and Apotex Inc.
+(1995), 179 N.R. 122; 60 C.P.R.(3d) 129 (F.C.A.), the Court of Appeal recognized that a second person such as Apotex could not be expected to disclose confidential information in its Detailed Statement in the absence of a Protective Order. In the present case, Apotex specifically undertook to provide the confidential details of its non-infringing process pursuant to a confidentiality agreement or order, and did so, once the order was issued. That was the appropriate course to follow. After receiving the Apotex evidence, the applicants made no complaint and did not seek leave to file further evidence responding to the Apotex evidence.
+[8]
+With respect to the infringement issue, Apotex argues that the creation of ketorolac as claimed in step (a) of claim 1 of the '809 patent is an essential and fundamental element of the invention claimed in the Patent. Since its process does not include step 1(a), it maintains that it does not fall within the scope of the claimed invention, and particularly, claim 1.
+[9]
+However, the language of claim 1 is clear and unambiguous. It relates to "a process ... which comprises
+one or more
+of the following steps". In other words, the process may involve any one, or any combination of, the steps set out in (a) through (f). Apotex' allegation of non-infringement is based on the premise that its process does not contain step (a) in claim 1. However, that is not sufficient. To succeed in its allegation of non-infringement, it must also establish that its process does not contain any of the other steps set out in claim 1. This was the same conclusion reached by Noel, J., in
+FRAGMENT_SUPPRESSED
+[10]
+For these reasons, it is my view that Apotex' allegation of non-infringement pursuant to s. 5(1)(b)(iv) of the
+Regulations
+is not justified.
+[11]
+Finally, I turn to the Apotex' argument that patent 809 is invalid. In accordance with s. 43 of the
+Patent Act
+, a patent is presumed to be valid. The onus is always on the party attacking a patent to prove, on a balance of probabilities, that it is invalid and there must be clear and convincing evidence before the court will make such a finding. Furthermore, the purpose of this proceeding is not to determine patent infringement or invalidity but rather to determine whether the Minister may issue an NOC to Apotex. In making that determination, the only issue before the court is whether the allegations made by Apotex are justified, based on the legal and factual bases alleged in the Notice of Allegation and the Detailed Statement.
+[12]
+Here, there is insufficient evidence before the court to support a finding that Apotex' allegations of invalidity are justified. The first alleged ground is that the claims of the patent cover inoperable processes. The only basis put forward for this ground is a construction of claim 1 which interprets the language to require the process not to produce a compound of formula (A)
+or
+a pharmaceutically acceptable, non-toxic salt thereof, but rather to simultaneously produce a compound of formula (a)
+and
+a pharmaceutically acceptable, non-toxic salt thereof.
+[13]
+However, Apotex adduced no evidence in its affidavits to support this allegation. Furthermore, the plain and ordinary language of the claim makes it clear that it covers a process for producing, inter alia, ketorolac
+or
+ketorolac tromethamine, comprising one or more of steps (a) through (f). Accordingly, claim 1 covers a process for producing ketorolac tromethamine by converting ketorolac to ketorolac tromethamine. This is further confirmed by claim 38 which reads "a compound selected from the group ... when prepared by the process of claim 1". Claim 38 therefore, specifically claims ketorolac tromethamine when prepared by the process of step (e) of claim 1.
+[14]
+The second alleged ground of invalidity is that step (e) of claim 1, the converting of a compound of formula (A) to a salt or ester, is obvious and non-inventive. However, it is uncontradicted and admitted by Apotex' own witnesses that both ketorolac and ketorolac tromethamine were unknown as of the relevant date.
+[15]
+Next, Apotex alleges that the claim for making the salt of the compound of formula (A) does not comply with s. 41(1) of the
+Patent Act
+. In support of this ground, Apotex alleges that the step of converting compounds of formula (A) into salts is not limited to methods or processes of manufacturing particularly described and claimed or by their obvious chemical equivalents. Again, Apotex led no evidence in support of this ground of invalidity. Indeed, its witnesses suggested that they, as persons skilled in the art, readily appreciated from claim 1 how to convert ketorolac to ketorolac tromethamine and that the process was obvious to them.
+[16]
+The last ground of invalidity is that the claims in patent 809 do not set out distinctly and in explicit terms the method of converting compounds of formula (A) into salt that is regarded as new or in which an exclusive property or privilege is claimed, contrary to s. 34(2) of the
+Patent Act
+. There is no evidence to support this. The expert witnesses, including those on behalf of Apotex, had no difficulty appreciating the scope of step (e) of claim 1, which specifically addresses the conversion of ketorolac to ketorolac tromethamine.
+[17]
+At the hearing of this matter, Apotex sought to raise two new grounds of invalidity which were not contained in its Notice of Allegation. After considering the written and oral submissions made by the parties in this regard, it is my view that Apotex is precluded from raising these new grounds at this point in time. In
+Eli Lilly & Co. et al. v. Novopharm Ltd. et al.
+(1995), 90 F.T.R. 241; 60 C.P.R.(3d) 163 (T.D.), this court held that a second person may only argue those allegations which are set out in its Notice of Allegation and Detailed Statement. The reason is clear. The Notice of Allegation is intended to make the patentee fully aware of the grounds upon which the second person says that infringement will not occur or that the patent is invalid. Apotex cannot raise new factual and legal bases subsequent to the commencement of these proceedings such as would have the effect of amending its Notice of Allegation. The jurisdiction of this court is limited to the issues raised in the Notice of Allegation and Detailed Statement.
+[18]
+For these reasons, an order will be issued allowing the application for prohibition with respect to Canadian patent No. 1,102,809. The application is dismissed with respect to Canadian patents No. 1,111,431 and 1,168,244 without prejudice to any rights which the applicants may have on appeal.
+[19]
+Costs to the applicants.
+Application granted.
+Editor: Reginald W. Curtis/saf
+[End of document]

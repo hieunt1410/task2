@@ -1,0 +1,280 @@
+I. Overview
+[1]
+O'Reilly, J.
+: The applicants (Merck) ask me to order the Minister of Health not to issue a Notice of Compliance (NOC) to the respondent Apotex Inc. Merck bases its application on s. 6 of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133. The NOC would allow Apotex to market a generic version of the drug dorzolamide, which is used in the treatment of glaucoma. Merck currently has a monopoly on sales of dorzolamide in Canada by virtue of its patent (Canadian Patent No. 1,329,211 - the '211 patent). It submits that the Minister should not provide Apotex with a NOC until the '211 patent has expired.
+[2]
+Apotex argues that I should refuse Merck's application because, before it obtained the '211 patent, Merck already had a patent for a family of compounds that included dorzolamide (Canadian Patent No. 1,328,262 - the '262 patent). Apotex contends that Merck was not entitled to a second patent for the same invention and, therefore, that the '211 should not stand in the way of Apotex's NOC. In short, Apotex alleges the '211 patent is invalid for double-patenting.
+[3]
+For its part, Merck maintains that Apotex's allegation of invalidity is unjustified because Merck has voluntarily relinquished its rights under the earlier patent, the '262, by having dedicated it to the public in 2007. Merck claims that the dedication has cured the alleged double-patenting problem and that I should, therefore, prohibit the Minister from issuing an NOC to Apotex. The parties agree that if the '211 patent is valid, Apotex's generic version of dorzolamide would infringe it.
+[4]
+To obtain its order, Merck must persuade me that Apotex's allegation of invalidity for double-patenting is unjustified. I find that Merck has not met its burden of proof. In particular, I find that Merck's dedication of the '262 patent does not defeat Apotex's allegation of double-patenting. Therefore, I must dismiss Merck's application.
+[5]
+The issues in this case are narrow. It is unnecessary to analyze the scope of the two patents in issue because the parties agree that both the '262 patent and '211 patent include claims to dorzolamide. This case turns solely on the effect of Merck's dedication of the '262 patent. Accordingly, I will confine myself to the following questions:
+1. What is the relevant date for determining whether Apotex's allegation of invalidity is justified - is it the date the notice of allegation was served, or is it the date of the hearing?
+2. What is the effect of Merck's dedication of the '262 patent?
+3. Has Merck proved that Apotex's allegation - that the '211 patent is invalid for double-patenting - is unjustified?
+II. Factual Background
+(a) The invention
+[6]
+Glaucoma is a visual impairment resulting from progressive damage to the optic nerve caused primarily by elevated intra-ocular pressure (IOP). IOP results from an excess of liquid, called aqueous humour, in the eye. Dorzolamide helps reduce IOP by inhibiting an enzyme, carbonic anhydrase, that produces water, the main ingredient in aqueous humour.
+[7]
+Doctors have used various carbonic anhydrase inhibitors to treat glaucoma for decades. However, these drugs were administered as tablets and had unwanted side effects. In the 1980s, experts considered drugs like dorzolamide to be novel and superior because they could be administered directly to the eye by way of drops.
+(b) The '262 patent
+[8]
+Merck applied for a patent for a number of compounds, including dorzolamide, in 1988. Dorzolamide was named as an "especially preferred" compound. The product of that application was the '262 patent.
+[9]
+Because Merck's application preceded the coming into force of the 1989 amendments to the
+Patent
+Act
+, it was governed by the "old
+Act
+" (R.S.C. 1985, c. P-4), which provided that patents should expire 17 years after issuance (s. 45 - statutory provisions are set out in "Annex A"). The '262 patent was issued on April 5, 1994 and, therefore, will expire on April 5, 2011.
+(c) The '211 patent
+[10]
+Merck applied for a second patent for a group of compounds that included dorzolamide in 1991. That application resulted in the issuance of the '211 patent on May 3, 1994. The '211 patent will expire on May 3, 2011, 28 days after the '262.
+[11]
+The '211 patent is a so-called "divisional patent". Divisional patents claim a monopoly over an invention that was within the claims of another patent, often referred to as the "parent patent". For example, in a situation where the parent patent claims more than one invention, the patentee can seek a divisional patent for one of those inventions (s. 36). Divisional patents are deemed to have the same application date as their parents. So, here, as with the '262 patent, the '211 patent is governed by the old
+Act
+.
+[12]
+Merck filed its application for the '211 divisional patent on May 13, 1991. According to a common practice at the time, Merck added the '211 patent's claims to the '262 patent and, then, two days later, cancelled them. This technique was devised to ensure that the claims of the divisional patent were included in the parent patent and, therefore, could be separated out into the divisional. Generally, this approach made clear that the divisional patent's claims were distinct from the parent's. However, the parties agree that in this case some of the claims in the two patents continued to overlap, including claims relating to dorzolamide.
+(d) Apotex's Notices of Allegation
+[13]
+Apotex served Merck with its first notice of allegation (NOA) regarding the '211 patent in 2007. In 2008, Apotex withdrew that NOA and served a second one that specifically alleged that the '211 patent contained the same invention as the '262 and, therefore, was invalid for double-patenting. Between the service of those two NOAs, Merck dedicated the '262 patent to the public.
+(e) Merck's Dedication of the '262 patent
+[14]
+On October 3, 2007, Merck declared that it no longer intended to assert its rights under the '262 patent. Merck relies on this dedication in defence of the allegation of double-patenting. Merck says that once it dedicated the '262 patent, it no longer had two patents for the same invention. Therefore, Apotex's subsequent allegation of double-patenting in respect of the '211 patent is unjustified.
+III.
+Issue One
+-
+What is the relevant date for determining whether Apotex's allegation of invalidity is justified - is it the date the notice of allegation was served, or is it the date of the hearing?
+[15]
+The question is whether the allegations set out in Apotex's NOA should be evaluated on the date the NOA was filed, or the date of the hearing. There is support in this Court's jurisprudence both for the former approach (e.g.,
+Bristol-Myers Squibb Canada Co. et al. v. Apotex Inc. et al.
+(2009), 342 F.T.R. 161; 74 C.P.R.(4th) 85; 2009 FC 137) and for the latter (
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2009), 347 F.T.R. 159; 2009 FC 648). However, on the appeal of the
+Abbott
+case to the Federal Court of Appeal, Justice Eleanor Dawson made clear that the correct approach is to determine whether the allegations contained in the NOA are justified as of the date of the hearing (
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2010), 404 N.R. 356; 85 C.P.R. (4th) 279; 2010 FCA 168 at para. 52). This means that the Court must consider the effect of any dedication that was made prior to the hearing. Accordingly, I must take account of Merck's dedication of the '262 patent in determining whether Apotex's allegation of double-patenting is justified.
+IV.
+Issue Two
+-
+What is the effect of Merck's dedication of the '262 patent?
+(a) The legal effect of dedications
+[16]
+The
+Patent
+Act
+contains two mechanisms for correcting faulty patents - reissue (s. 47) and disclaimer (s. 48). These devices permit patentees to rectify inadvertent errors.
+[17]
+Unlike reissues and disclaimers, dedications are a creature of common law. Case law recognizes that a patentee can publicly declare, through a dedication of the patent's claims, that it will not enforce its monopoly.
+[18]
+The Federal Court of Appeal has stated that "the dedication of a patent to public use is analogous to a gift, in the sense that it is a unilateral act that results in a patent holder voluntarily depriving itself of patent rights" (
+Warner-Lambert Canada Inc. et al. v. Canada (Minister of Health) et al.
+, [2003] 2 F.C. 514; 296 N.R. 279; 22 C.P.R.(4th) 417; 2002 FCA 454 at para. 85). Recent cases have considered what the legal effect of a dedication is. In
+Sandoz
+, Justice Dawson found that it was unnecessary there to decide "whether the effect of the dedication of claims of a patent is that the patent is to be read as if those claims had never issued". Rather, it was "sufficient for the purpose of this appeal to conclude that after claims have been dedicated, the patent is to be construed without reference to the dedicated claims" (para. 39). Further, she observed that where the dedication is made in a timely way, "the effect of the dedication would have been to remove the evidentiary basis for the allegation of double patenting" (para. 58).
+[19]
+Obviously, being a creature of common law, dedications are not circumscribed by statutory requirements or conditions. At the same time, the Court must ensure that the use of a dedication would not be inconsistent with the
+Patent
+Act
+.
+(b) The effect of Merck's dedication
+[20]
+Apotex served its first NOA in respect of the '211 patent on May 19, 2007. Merck first responded by applying to the Court to prohibit the Minister from issuing a NOC to Apotex. Then Merck, on October 3, 2007, served its notice of dedication in respect of the '262 patent. In turn, Apotex withdrew its original NOA and served a new one specifically alleging that both the '211 patent and the '262 patent claimed a monopoly for dorzolamide.
+[21]
+Merck does not dispute that the two patents claim the same compound. However, it submits that its dedication of the '262 patent is a complete answer to the allegation of double-patenting. Merck relies heavily on the proposition that a dedication will cause the Court to read the patent without reference to the dedicated claims. If that is so, Merck suggests that I must find that Apotex's allegation that the '211 patent is invalid for double-patenting is unjustified.
+[22]
+Merck originally argued that its dedication meant that the '262 patent should be read as if its claims had never existed. It relied on Justice Elizabeth Heneghan's statement in
+Searle (G.D.) & Co. et al. v. Merck & Co. et al.
+(2002), 219 F.T.R. 64; 20 C.P.R.(4th) 103; 2002 FCT 540, that "[u]pon dedication of the claims, the patent is to be read as if those claims had never issued, subject to any claim for past infringement" (at para. 96). Merck also relies now on Justice Dawson's conclusion that, in the circumstances before her, "after claims have been dedicated, the patent is to be construed without reference to the dedicated claims" (at para. 39).
+[23]
+In
+G.D. Searle
+, there was no issue of double-patenting. The question was the effect, if any, that a dedication of some claims would have on other related, but non-dedicated, claims. Justice Heneghan concluded that dedication of some claims "terminates a patentee's rights to a monopoly on the subject matter described in those claims" but "does not affect the right conferred by the remaining claims in the patent" (at para. 96). It was in that context that Justice Heneghan observed that dedications should cause the Court to read the claims as if they had never issued.
+[24]
+In my view, Justice Heneghan could not have had in mind the circumstances here - a situation where a patentee purported to defeat a double-patenting allegation against a second patent by dedicating the first. Given that the circumstances are so different, I cannot interpret Justice Heneghan's statement as binding on me here.
+[25]
+As for
+Abbott
+, again, I must note the difference between the circumstances there and here. Justice Dawson carefully confined her discussion of dedications to the particular circumstances before her. She found that "for the purpose of [that] appeal" she did not feel it necessary to decide whether Justice Heneghan was correct to say that the Court should regard dedicated claims as having never issued (at para. 39). She did, however, state that the Court should interpret patents without reference to the dedicated claims. And, elsewhere in her reasons, she noted that a dedication may "remove the evidentiary basis for the allegation of double patenting" (at para. 58).
+[26]
+However, it is also clear that, on the facts before Justice Dawson, the dedication did not yield any advantage to the patentee. She specifically noted that the dedication did not allow Abbott to evergreen its monopoly. The two patents in issue expired on the same date.
+[27]
+Here, however, there is no doubt that, if I were to accept Merck's position, Merck would achieve a monopoly over its invention beyond the statutory 17-year period - 17 years and 28 days.
+[28]
+Apotex argues that, in these circumstances, Merck's dedication does not fix the double-patenting problem. Apotex suggests that the '211 patent should never have issued given the existence of the '262 patent. Accordingly, from the day it was issued, the '211 patent was an improper divisional patent, the remedy for which lies in the rule against double-patenting. A subsequent dedication, Apotex says, changes nothing.
+[29]
+In addition, Apotex argues that the Court should not recognize a dedication whose effect is to create rights for Merck. In the circumstances of this case, if the dedication were to have the effect Merck desires, Merck could legitimately claim a monopoly for dorzolamide beyond the 17-year period the
+Patent
+Act
+provides.
+[30]
+From the case law, I derive the following:
+རྭ The Court recognizes that a dedication is an effective means by which a patentee can relinquish its patent rights;
+རྭ Dedication of some claims does not affect the patentee's rights under other undedicated claims;
+རྭ In circumstances where there is no suggestion that the patentee had extended its monopoly, dedication of claims under one patent may protect another patent with overlapping claims from an allegation of double-patenting.
+[31]
+These propositions do not dictate what should happen in circumstances like those before me - where the patentee would secure an advantage through a dedication. In my view, the Court should not permit a dedication to have the effect that Merck suggests. Here, the advantage obtained is a mere 28 days of extra monopoly. While it is not a lengthy extension, neither is it de minimus. I think it is unlikely that Merck deliberately sought to obtain more than it was entitled to under the
+Patent
+Act
+(a 17-year monopoly). At the same time, I see no reason why it should be awarded such an advantage. If Merck made a good faith mistake when it acquired the '211 patent as a divisional, it had available to it the remedies provided in the
+Patent
+Act
+- reissuance or disclaimer. The legal effect of those remedies would have been clear. The overlapping claims of the '211 patent would have been severed off. Merck would not have derived any advantage in proceeding that way. Indeed, it would have no basis on which to commence these proceedings.
+[32]
+It is unnecessary for me to conclude, as Apotex urged me to do, that the '211 patent was void from the beginning given its overlapping claims with the '262 patent. As explained above, I must evaluate Apotex's NOA as of the date of the hearing, not some prior date.
+V.
+Issue Three
+-
+Has Merck proved that Apotex's allegation - that the '211 patent is invalid for double-patenting - is unjustified?
+[33]
+Merck must prove on a balance of probabilities that Apotex's allegation of invalidity is unjustified.
+[34]
+Where a patentee obtains a divisional patent that does not conform to the
+Patent
+Act
+, the remedy is provided by the prohibition against double-patenting:
+"From a global perspective, when considering the harm that may result from an improper divisional, it becomes clear that the principle of double patenting provides a sufficient remedy. The harm is that two patents might issue for the same invention, giving the patentee differing monopolies." (
+Merck & Co. et al. v. Apotex Inc.
+, [2007] 3 F.C.R. 588; 354 N.R. 51; 55 C.P.R.(4th) 1; 2006 FCA 323 at para. 49.)
+[35]
+As discussed above, in the circumstances of this case, Merck's dedication of the '262 patent should not immunize the '211 patent from an allegation of double-patenting. Merck also argued that the '211 patent issued in accordance with the practices of the Patent Office at the time and that the '211 patent's life-span does not exceed the 17-year statutory time-frame.
+[36]
+Practices adopted by the Patent Office cannot expand a patentee's rights under the
+Patent
+Act
+(see
+FRAGMENT_SUPPRESSED). Further, while it is correct to say that the '211 patent itself will provide a monopoly to Merck for no more than 17 years, overall, if I were to give the dedication of the '262 patent the effect Merck desires, its monopoly on sales of dorzolamide would exceed 17 years.
+VI. Conclusion and Disposition
+[37]
+In the circumstances, I find that Apotex's allegation of invalidity for double-patenting is justified. Merck has not discharged its burden of proof to establish the contrary. Therefore, its application for an order prohibiting the Minister from issuing Apotex an NOC is dismissed with costs.
+JUDGMENT
+[38]
+THIS COURT'S JUDGMENT is that
+1. The application for an order prohibiting the Minister from issuing Apotex an NOC is dismissed with costs.
+Application dismissed.
+Editor: E. Joanne Oley/vnh
+Annex "A"
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133
+Right of action
+6(1) A first person may, within 45 days after being served with a notice of allegation under paragraph 5(3)(a), apply to a court for an order prohibiting the Minister from issuing a notice of compliance until after the expiration of a patent that is the subject of the notice of allegation.
+6(2) The court shall make an order pursuant to subsection (1) in respect of a patent that is the subject of one or more allegations if it finds that none of those allegations is justified.
+6(3) The first person shall, within the 45 days referred to in subsection (1), serve the Minister with proof that an application referred to in that subsection has been made.
+6(4) Where the first person is not the owner of each patent that is the subject of an application referred to in subsection (1), the owner of each such patent shall be made a party to the application.
+6(5) Subject to subsection (5.1), in a proceeding in respect of an application under subsection (1), the court may, on the motion of a second person, dismiss the application in whole or in part
+(a) in respect of those patents that are not eligible for inclusion on the register; or
+(b) on the ground that it is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process in respect of one or more patents.
+6(5.1) In a proceeding in respect of an application under subsection (1), the court shall not dismiss an application in whole or in part solely on the basis that a patent on a patent list that was submitted before June 17, 2006 is not eligible for inclusion on the register.
+6(6) For the purposes of an application referred to in subsection (1), if a second person has made an allegation under subparagraph 5(1)(b)(iv) or (2)(b)(iv) in respect of a patent and the patent was granted for the medicinal ingredient when prepared or produced by the methods or processes of manufacture particularly described and claimed in the patent, or by their obvious chemical equivalents, it shall be considered that the drug proposed to be produced by the second person is, in the absence of proof to the contrary, prepared or produced by those methods or processes.
+6(7) On the motion of a first person, the court may, at any time during a proceeding,
+(a) order a second person to produce any portion of the submission or supplement filed by the second person for a notice of compliance that is relevant to the disposition of the issues in the proceeding and may order that any change made to the portion during the proceeding be produced by the second person as it is made; and
+(b) order the Minister to verify that any portion produced corresponds fully to the information in the submission or supplement.
+6(8) A document produced under subsection (7) shall be treated confidentially.
+6(9) In a proceeding in respect of an application under subsection (1), a court may make any order in respect of costs, including on a solicitor-and-client basis, in accordance with the rules of the court.
+6(10) In addition to any other matter that the court may take into account in making an order as to costs, it may consider the following factors:
+(a) the diligence with which the parties have pursued the application;
+(b) the inclusion on the certified patent list of a patent that should not have been included under section 4; and
+(c) the failure of the first person to keep the patent list up to date in accordance with subsection 4(7).
+Patent
+Act
+, R.S.C. 1985, c. P-4
+Patent for one invention only
+36(1) A patent shall be granted for one invention only but in an action or other proceeding a patent shall not be deemed to be invalid by reason only that it has been granted for more than one invention.
+Limitation of claims by applicant
+36(2) Where an application (the "original application") describes more than one invention, the applicant may limit the claims to one invention only, and any other invention disclosed may be made the subject of a divisional application, if the divisional application is filed before the issue of a patent on the original application.
+Limitation of claims on direction of Commissioner
+36(2.1) Where an application (the "original application") describes and claims more than one invention, the applicant shall, on the direction of the Commissioner, limit the claims to one invention only, and any other invention disclosed may be made the subject of a divisional application, if the divisional application is filed before the issue of a patent on the original application.
+Original application abandoned
+36(3) If an original application mentioned in subsection (2) or (2.1) becomes abandoned, the time for filing a divisional application terminates with the expiration of the time for reinstating the original application under this Act.
+Separate applications
+36(4) A divisional application shall be deemed to be a separate and distinct application under this Act, to which its provisions apply as fully as may be, and separate fees shall be paid on the divisional application and it shall have the same filing date as the original application.
+. . . . .
+Term of patents based on applications filed before October 1, 1989
+45(1) Subject to section 46, where an application for a patent is filed under this Act before October 1, 1989, the term limited for the duration of the patent is seventeen years from the date on which the patent is issued.
+Term from date of issue or filing
+45(2) Where the term limited for the duration of a patent referred to in subsection (1) had not expired before the day on which this section came into force, the term is seventeen years from the date on which the patent is issued or twenty years from the filing date, whichever term expires later.
+. . . . .
+Issue of new or amended patents
+47(1) Whenever any patent is deemed defective or inoperative by reason of insufficient description and specification, or by reason of the patentee's claiming more or less than he had a right to claim as new, but at the same time it appears that the error arose from inadvertence, accident or mistake, without any fraudulent or deceptive intention, the Commissioner may, on the surrender of the patent within four years from its date and the payment of a further prescribed fee, cause a new patent, in accordance with an amended description and specification made by the patentee, to be issued to him for the same invention for the then unexpired term for which the original patent was granted.
+Effect of new patent
+47(2) The surrender referred to in subsection (1) takes effect only on the issue of the new patent, and the new patent and the amended description and specification have the same effect in law, on the trial of any action thereafter commenced for any cause subsequently accruing, as if the amended description and specification had been originally filed in their corrected form before the issue of the original patent, but, insofar as the claims of the original and reissued patents are identical, the surrender does not affect any action pending at the time of reissue or abate any cause of action then existing, and the reissued patent to the extent that its claims are identical with the original patent constitutes a continuation thereof and has effect continuously from the date of the original patent.
+Separate patents for separate parts
+47(3) The Commissioner may entertain separate applications and cause patents to be issued for distinct and separate parts of the invention patented, on payment of the fee for a reissue for each of the reissued patents.
+Patentee may disclaim anything included in patent by mistake
+48(1) Whenever, by any mistake, accident or inadvertence, and without any willful intent to defraud or mislead the public, a patentee has
+(a) made a specification too broad, claiming more than that of which the patentee or the person through whom the patentee claims was the inventor, or
+(b) in the specification, claimed that the patentee or the person through whom the patentee claims was the inventor of any material or substantial part of the invention patented of which the patentee was not the inventor, and to which the patentee had no lawful right, the patentee may, on payment of a prescribed fee, make a disclaimer of such parts as the patentee does not claim to hold by virtue of the patent or the assignment thereof.
+Form and attestation of disclaimer
+48(2) A disclaimer shall be filed in the prescribed form and manner.
+48(3) [Repealed, 1993, c. 15, s. 44]
+Pending suits not affected
+48(4) No disclaimer affects any action pending at the time when it is made, unless there is unreasonable neglect or delay in making it.
+Death of patentee
+48(5) In case of the death of an original patentee or of his having assigned the patent, a like right to disclaim vests in his legal representatives, any of whom may exercise it.
+Effect of disclaimer
+48(6) A patent shall, after disclaimer as provided in this section, be deemed to be valid for such material and substantial part of the invention, definitely distinguished from other parts thereof claimed without right, as is not disclaimed and is truly the invention of the disclaimant, and the disclaimant is entitled to maintain an action or suit in respect of that part accordingly.
+Règlement concernant les avis de conformité portant sur les médicaments brevetés
+, DORS/93-133
+Droits d'action
+6(1) La première personne peut, au plus tard quarante-cinq jours après avoir reçu signification d'un avis d'allégation aux termes de l'alinéa 5(3)a), demander au tribunal de rendre une ordonnance interdisant au ministre de délivrer l'avis de conformité avant l'expiration du brevet en cause.
+6(2) Le tribunal rend une ordonnance en vertu du paragraphe (1) à l'égard du brevet visé par une ou plusieurs allégations si elle conclut qu'aucune des allégations n'est fondée.
+6(3) La première personne signifie au ministre, dans la période de 45 jours visée au paragraphe (1), la preuve que la demande visée à ce paragraphe a été faite.
+6(4) Lorsque la première personne n'est pas le propriétaire de chaque brevet visé dans la demande mentionnée au paragraphe (1), le propriétaire de chaque brevet est une partie à la demande.
+6(5) Sous réserve du paragraphe (5.1), lors de l'instance relative à la demande visée au paragraphe (1), le tribunal peut, sur requête de la seconde personne, rejeter tout ou partie de la demande si, selon le cas:
+a) les brevets en cause ne sont pas admissibles à l'inscription au registre;
+b) il conclut qu'elle est inutile, scandaleuse, frivole ou vexatoire ou constitue autrement, à l'égard d'un ou plusieurs brevets, un abus de procédure.
+6(5.1) Lors de l'instance relative à la demande visée au paragraphe (1), le tribunal ne peut rejeter tout ou partie de la demande pour la seule raison qu'un brevet inscrit sur une liste de brevets présentée avant le 17 juin 2006 n'est pas admissible à l'inscription au registre.
+6(6) Aux fins de la demande visée au paragraphe (1), dans le cas où la seconde personne a fait une allégation aux termes des sous-alinéas 5(1)b)(iv) ou 5(2)b)(iv) à l'égard d'un brevet et que ce brevet a été accordé pour l'ingrédient médicinal préparé ou produit selon les modes ou procédés de fabrication décrits en détail et revendiqués dans le brevet ou selon leurs équivalents chimiques manifestes, la drogue qu'elle projette de produire est, en l'absence d'une preuve contraire, réputée préparée ou produite selon ces modes ou procédés.
+6(7) Sur requête de la première personne, le tribunal peut, au cours de l'instance:
+a) ordonner à la seconde personne de produire les extraits pertinents de la présentation ou du supplément qu'elle a déposé pour obtenir un avis de conformité et lui enjoindre de produire sans délai tout changement apporté à ces extraits au cours de l'instance;
+b) enjoindre au ministre de vérifier si les extraits produits correspondent fidèlement aux renseignements figurant dans la présentation ou le supplément déposé.
+6(8) Tout document produit aux termes du paragraphe (7) est considéré comme confidentiel.
+6(9) Le tribunal peut, au cours de l'instance relative à la demande visée au paragraphe (1), rendre toute ordonnance relative aux dépens, notamment sur une base avocat-client, conformément à ses règles.
+6(10) Lorsque le tribunal rend une ordonnance relative aux dépens, il peut tenir compte notamment des facteurs suivants:
+a) la diligence des parties à poursuivre la demande;
+b) l'inscription, sur la liste de brevets qui fait l'objet d'une attestation, de tout brevet qui n'aurait pas dû y être inclus aux termes de l'article 4;
+c) le fait que la première personne n'a pas tenu à jour la liste de brevets conformément au paragraphe 4(7).
+Loi sur les brevets
+, L.R.C. 1985, ch. P-4
+Brevet pour une seule invention
+36(1) Un brevet ne peut être accordé que pour une seule invention, mais dans une instance ou autre procédure, un brevet ne peut être tenu pour invalide du seul fait qu'il a été accordé pour plus d'une invention.
+Demandes complémentaires
+36(2) Si une demande décrit plus d'une invention, le demandeur peut restreindre ses revendications à une seule invention, toute autre invention divulguée pouvant faire l'objet d'une demande complémentaire, si celle-ci est déposée avant la délivrance d'un brevet sur la demande originale.
+Idem
+36(2.1) Si une demande décrit et revendique plus d'une invention, le demandeur doit, selon les instructions du commissaire, restreindre ses revendications à une seule invention, toute autre invention divulguée pouvant faire l'objet d'une demande complémentaire, si celle-ci est déposée avant la délivrance d'un brevet sur la demande originale.
+Abandon de la demande originale
+36(3) Si la demande originale a été abandonnée, le délai pour le dépôt d'une demande complémentaire se termine à l'expiration du délai fixé pour le rétablissement de la demande originale aux termes de la présente loi.
+Demandes distinctes
+36(4) Une demande complémentaire est considérée comme une demande distincte à laquelle la présente loi s'applique aussi complètement que possible. Des taxes distinctes sont acquittées pour la demande complémentaire, et sa date de dépôt est celle de la demande originale.
+. . . . .
+Durée de dix-sept ans
+45(1) Sous réserve de l'article 46, la durée du brevet délivré au titre d'une demande déposée avant le 1er octobre 1989 est limitée à dix-sept ans à compter de la date à laquelle il est délivré.
+La date d'expiration la plus tardive s'applique
+45(2) Si le brevet visé au paragraphe (1) n'est pas périmé à la date de l'entrée en vigueur du présent article, sa durée est limitée à dix-sept ans à compter de la date à laquelle il a été délivré ou à vingt ans à compter de la date de dépôt de la demande, la date d'expiration la plus tardive prévalant.
+. . . . .
+Délivrance de brevets nouveaux ou rectifiés
+47(1) Lorsqu'un brevet est jugé défectueux ou inopérant à cause d'une description et spécification insuffisante, ou parce que le breveté a revendiqué plus ou moins qu'il n'avait droit de revendiquer à titre d'invention nouvelle, mais qu'il apparaît en même temps que l'erreur a été commise par inadvertance, accident ou méprise, sans intention de frauder ou de tromper, le commissaire peut, si le breveté abandonne ce brevet dans un délai de quatre ans à compter de la date du brevet, et après acquittement d'une taxe réglementaire additionnelle, faire délivrer au breveté un nouveau brevet, conforme à une description et spécification rectifiée par le breveté, pour la même invention et pour la partie restant alors à courir de la période pour laquelle le brevet original a été accordé.
+Effet du nouveau brevet
+47(2) Un tel abandon ne prend effet qu'au moment de la délivrance du nouveau brevet, et ce nouveau brevet, ainsi que la description et spécification rectifiée, a le même effet en droit, dans l'instruction de toute action engagée par la suite pour tout motif survenu subséquemment, que si cette description et spécification rectifiée avait été originalement déposée dans sa forme corrigée, avant la délivrance du brevet original. Dans la mesure où les revendications du brevet original et du brevet redélivré sont identiques, un tel abandon n'atteint aucune instance pendante au moment de la redélivrance, ni n'annule aucun motif d'instance alors existant, et le brevet redélivré, dans la mesure où ses revendications sont identiques à celles du brevet original, constitue une continuation du brevet original et est maintenu en vigueur sans interruption depuis la date du brevet original.
+Brevets distincts pour éléments distincts
+47(3) Le commissaire peut accueillir des demandes distinctes et faire délivrer des brevets pour des éléments distincts et séparés de l'invention brevetée, sur versement de la taxe à payer pour la redélivrance de chacun de ces brevets redélivrés.
+Cas de renonciation
+48(1) Le breveté peut, en acquittant la taxe réglementaire, renoncer à tel des éléments qu'il ne prétend pas retenir au titre du brevet, ou d'une cession de celui-ci, si, par erreur, accident ou inadvertance, et sans intention de frauder ou tromper le public, dans l'un ou l'autre des cas suivants:
+a) il a donné trop d'étendue à son mémoire descriptif, en revendiquant plus que la chose dont lui-même, ou son mandataire, est l'inventeur;
+b) il s'est représenté dans le mémoire descriptif, ou a représenté son mandataire, comme étant l'inventeur d'un élément matériel ou substantiel de l'invention brevetée, alors qu'il n'en était pas l'inventeur et qu'il n'y avait aucun droit.
+Forme et attestation de la renonciation
+48(2) L'acte de renonciation est déposé selon les modalités réglementaires, notamment de forme.
+48(3) [Abrogé, 1993, ch. 15, art. 44]
+Sans effet sur les actions pendantes
+48(4) Dans toute action pendante au moment où elle est faite, aucune renonciation n'a d'effet, sauf à l'égard de la négligence ou du retard inexcusable à la faire.
+Décès du breveté
+48(5) Si le breveté original meurt, ou s'il cède son brevet, la faculté qu'il avait de faire une renonciation passe à ses représentants légaux, et chacun d'eux peut exercer cette faculté.
+Effet de la renonciation
+48(6) Après la renonciation, le brevet est considéré comme valide quant à tel élément matériel et substantiel de l'invention, nettement distinct des autres éléments de l'invention qui avaient été indûment revendiqués, auquel il n'a pas été renoncé et qui constitue véritablement l'invention de l'auteur de la renonciation, et celui-ci est admis à soutenir en conséquence une action ou poursuite à l'égard de cet élément.
+[End of document]

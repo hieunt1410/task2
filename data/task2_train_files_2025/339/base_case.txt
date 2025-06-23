@@ -1,0 +1,449 @@
+INTRODUCTION
+[1]
+Shore, J.
+[Translation]: "It is not uncommon for employees who have a common Work Description to have different duties and responsibilities. So long as those different duties and responsibilities all fall within the general language of their common Work Description, all is well. ..." (
+Currie et al. v. Canada Customs and Revenue Agency
+, [2006] F.C.J. No. 784; 350 N.R. 252; 2006 FCA 194, para. 1).
+[2]
+To take a case that turns on its own facts out of context would be going from the particular to the general when, in fact, a case decided on its own facts remains just that. Can a specific example be cited to create a
+cause célèbre
+of general application, given that taking a case out of context to use as an example in a broader sense would be describing a situation as something other than it is?
+[3]
+A work description cannot be engraved in stone; if an exceptional situation arises infrequently, should it become the rule? Should infrequent work that does not fall under a compulsory or even a normal work description alter a position?
+[4]
+Mr. Justice Denis Pelletier of the Federal Court of Appeal explained that adhering to a work description that some adjudicators describe as "sufficiently complete" "speaks of a relatively rigid conception of the role of an employee's Work Description. That view is not shared by all adjudicators" and such a "view of the role of a Work Description suggests that it is a document which must reflect the realities of the employee's work situation since so many aspects of the employee's rights and obligations in the workplace are bound to his or her Work Description." (
+Currie
+, above, paras. 25-26).
+[5]
+Therefore, any job that calls for cooperation between individuals requires team work where the individuals are connected by a real or symbolic chain to ensure that things run smoothly; this does not remove the real and essential need for each individual to have an accurate description of his or her own daily, or rather, ordinary work, without denying that in
+certain infrequent circumstances
+an individual could go beyond his or her work description to assist a person who has another job description within this real or symbolic chain.
+LEGAL PROCEEDING
+[6]
+This is an application for judicial review under paragraphs 18.1(4)(b) and (d) of the
+Federal Courts
+Act
+, R.S.C. 1985, c. F-7, of the decision by the Classification Grievance Committee (the Committee) dated May 25, 2006, and supported by the Assistant Commissioner who recommended that the grieved position, i.e., collection officer (INA0241/PM-0066), be classified at the PM-01 group and level, effective February 17, 1999.
+Procedure for the handling of classification grievances
+[7]
+The
+Financial Administration
+Act
+, R.S.C. 1985, c. F-11 (
+FAA
+), as amended, authorizes the Treasury Board to manage the organization of the federal public administration, which includes the classification of positions in the public service.
+[8]
+Madam Justice Johanne Gauthier of the Federal Court analyzed and explained the Committee's role in
+Maurice v. Canada (Treasury Board)
+, [2004] F.C.J. No. 1165; 267 F.T.R. 107; 2004 FC 941. It is important in this case to reproduce the analysis:
+"[25] As these classification grievances cannot be dealt with under the
+Public Service Staff Relations
+Act
+, R.S.C. 1985, c. P-35 (sections 91, 92(1)(a) and (b) and 96(3)), the Treasury Board has adopted Chapter 4 of the Treasury Board Manual, titled
+Personnel Management, Classification, Classification Grievances
+, which defines its policies and rules on this matter. It appeared that the primary objective of the Treasury Board policy is:
+'To ensure that the relative value of all jobs in the Public Service is established in an equitable, consistent and effective manner and provides a basis for the compensation of public servants. ...'
+"[26] In 1994, the Treasury Board also adopted a supplement to Chapter 4, mentioned above, which describes the general outline of the methods and procedures to be used in submitting and disposing of classification grievances.
+"[27] The Committee's mandate is described in section V(a) as follows:
+'The Classification Grievance Committee is responsible for establishing the appropriate classification and evaluating the grieved position based on the duties assigned by management and performed by the employee and additional information provided by management and by the grievor and/or his or her representative. It must review and analyze all information presented in a gender neutral way. The classification recommended to the deputy head or nominee must be fair, equitable and consistent with the classification principles. ...'
+"[28] In Schedule I of the Procedure, the Treasury Board even sets out the format which the Committee's report must observe. It states at paragraph 7, titled:
+'
+COMMITTEE DELIBERATIONS
+'7. This section is the heart of the report and must clearly indicate how the Committee arrived at its recommendation. It should analyze the grievor's work in relation to the classification standard(s), the arguments made by or on behalf of the grievor and management's information, and provide a detailed explanation for the Committee's evaluation. It should state why the Committee evaluated the position in the specific category and occupational group and level, what, if any, other categories or groups were considered and the reasons why these were considered inappropriate. If the existing category, group, level and rating are being confirmed, a complete rationale must, nevertheless, be developed. Statements such as "No change to present rating" are not acceptable. ...'
+"[29] On the Committee's procedure, it is indicated at paragraph 5 that the classification grievance process was not intended to be an adversarial system, but one providing for a meeting to be convened during which information would be presented and sought, allowing Committee members to make a recommendation to the deputy head or his nominee."
+[9]
+In addition, the Classification Standard - PM - Programme Administration, of the Public Service Agency provides:
+"
+INTRODUCTION
+"This standard describes the plans to be used in classifying and evaluating positions in the Programme Administration Group.
+. . . . .
+"
+Use of the Position Classification Plan
+. . . . .
+"2. The position description is studied to ensure understanding of the position as a whole and of each factor. The relation of the position being rated to positions above and below it in the organization is also studied.
+. . . . .
+"
+Determination of Levels
+"The ultimate objective of job evaluation is to determine the relative value of positions in each occupational group so that employees in the positions may be paid at rates consistent with the relationship indicated. Positions that fall within a designated range of point values will be regarded as of equal difficulty and value and will be allocated to the same level."
+[10]
+The procedure provides that once a complainant files a grievance, it is heard by a committee of three members. Both the complainant and the employer are given the opportunity to present their arguments before the committee at separate hearings. The committee must review all the information that was provided and then submit a recommendation on the classification of the grieved position to the deputy head or to his or her nominee. The deputy head or the nominee receives a report containing the committee's recommendation. The deputy head or the nominee must then either confirm or set aside the committee's recommendation, and his or her decision on the recommendation is final (Respondents' Record, Affidavit of Paul Lamont, sworn January 19, 2007, Tab A; Canada Revenue Agency (CRA) Classification and Work Description Grievances Procedures, Tab 1, p. 13).
+[11]
+How the committee deals with information is also set out in the procedures:
+"If significant
+new information
+is presented to the committee by management, the grievor and/or the representative will be provided with the information and have 10 working days to respond." (My emphasis.)
+(Respondents' Record, Affidavit of Paul Lamont, above; CRA Organizational and Classification Policy, Tab 1, p. 16)
+FACTS
+[12]
+Between October 2001 and May 2002, 136 complainants, all employed at the Department of Human Resources and Development Canada (now the Department of Human Resources and Social Development Canada) filed classification grievances requesting that the "collection officer" position at Social Development Canada be reclassified.
+[13]
+On August 1, 2005, position INA0241, which is the grieved position, was transferred to the Canada Revenue Agency and renumbered PM-00666; the grievances in question were handled by the Agency.
+[14]
+The Classification Grievance Committee met on March 15, 2006.
+[15]
+Jacqueline Préfontaine-Moor of the Public Service Alliance of Canada (PSAC) represented the applicants and presented oral and written arguments. André Julien, one of the applicants and the local representative of the union at Social Development Canada Union (SDC), formerly HRDC, was also present and also provided a number of documents in support of the grievance to establish the relative value during the job evaluation.
+[16]
+At the hearing, the complainants' representatives submitted a number of documents illustrating the relative value of the position during the job evaluation as well as documentation concerning the points awarded to the collection officer position and comparator positions. The Committee members questioned Ms. Préfontaine-Moore and Mr. Julien to obtain clarifications regarding the documents submitted and the arguments made.
+[17]
+Following the applicants' presentation, the Committee members asked the functional management for further clarification regarding, inter alia, the responsibilities of the grieved position. Management provided details about the process of federal certification and the interrelationship between the grieved position and other positions in the SDC regional organization.
+[18]
+On April 26, 2006, the applicants submitted additional evidence to show that, as collection officers, they had to appear in Court.
+[19]
+On May 26, 2006, the Committee concluded that the PM-01 group and level assigned to the INA0241/PM-0066 position was appropriate as of February 17, 1999, the effective date of the work description.
+[20]
+The applicants maintain that the Committee's decision contains erroneous facts and contradictions presented by the employer's representatives and that it was made without considering four key parts of the evidence:
+[Translation] "རྭ The employer's representatives stated that the applicants were not responsible for
+complex cases
+and that such cases could be referred to collection consultants (PM-03), monitoring and training officers officers (PM-02), the manager, overpayment collections (PM-04) or even to the managers of collection services (PM-05);
+"རྭ The Committee's decision stated that the responsibilities of the collection officer
+position
+(PM-01) at the Department of
+Citizenship and Immigration
+were
+similar
+to those of the grieved position and that both positions required the same level of knowledge and decision making to perform the duties. However, the applicants provided the Committee with evidence that this position was reclassified from the PM-01 level to the PM-02 level on November 13, 2002;
+"རྭ The Committee did not take into account the fact that the collection officers were summoned
+to appear in Court
+because of their obligations as employees; and
+"རྭ The Committee also determined that the collection officer position did not require
+issuing third party demands
+, which includes garnishing salaries from third parties. However, Instrument B-44 states that this authority was delegated to them."
+(Applicants' Record, vol. II, Tab 5, Applicants' Memorandum of fact and law, p. 304, para. 14)
+[21]
+The respondents contend that there is nothing in the Committee's analysis showing that it ignored or refused to recognize the applicants' duties as set out in the job description. The Committee's analysis, as it should, dealt with the weight it assigned to those duties compared with those described in various benchmark positions that were provided for comparison purposes in the classification standard.
+[22]
+In addition, the respondents note:
+[Translation] "(a) Contrary to the applicants' argument about the complexity of the files assigned to the collection officers, the information that the Committee obtained from management (the employer) confirms that
+advice and guidance were available
+for the complex cases and that such cases were referred to senior employees in the organization
+to obtain advice on how to proceed
+;
+"(b) With respect to the collection officer position (PM-01) at the Department of Citizenship and Immigration, the Committee commented on the notices of reclassification submitted by the applicants and indicated that the fact that other positions had eventually been reclassified was of little importance to the applicants' classification grievance proceeding;
+"(c) With respect to the possibility that the applicants could be summoned to appear in Court, the Committee referred to this evidence and to the supporting documentation in its report; the Committee also considered the difference between a responsibility that is clearly described in a work description and the civic duty to appear in court after being summoned to do so by an officer of the court; and
+"(d) Contrary to the applicants' argument pertaining to their duty to
+issue
+third party demands, Instrument B-44 does not delegate this authority to them, and the Committee commented on this fact in its report."
+(Respondents' Record, Respondents' Memorandum of fact and law, Tab 2-C, para. 5, p. 176)
+ISSUES
+[23]
+(1) Did the Committee beach its duty of procedural fairness?
+(2) Was the classification at the PM-01 level patently unreasonable?
+ANALYSIS
+Standard of review
+[24]
+The recent jurisprudence of this Court is clear regarding the standard of review applicable to the merits of a decision by the Classification Grievance Committee. However, the jurisprudence distinguishes between the appropriate standard for reviewing a question of procedural fairness and the standard to be applied where the question is one of classification.
+[25]
+Mr. Justice Michael L. Phelan determined in
+FRAGMENT_SUPPRESSED These reasons were adopted by Mr. Justice James Russell in
+Utovac v. Canada (Treasury Board)
+, [2006] F.C.J. No. 833; 293 F.T.R. 256; 2006 FC 643, at paragraph 14.
+[26]
+Consequently, since the issue in this case is similar and engages the recognized expertise of the Committee, i.e., whether it acted appropriately in the selection, weight and analysis in its classification exercise, the appropriate standard of review is "patent unreasonableness".
+[27]
+With respect to questions relating to procedural fairness, it is settled law that the proceeding before the Committee is administrative and non-adversarial, thus suggesting less deference (
+Chong et al. v. Canada (Attorney General) et al.
+, [1995] F.C.J. No. 1600; 104 F.T.R. 253 (T.D.) (
+Chong I
+);
+Chong et al. v. Canada (Attorney General) et al.
+, [1999] F.C.J. No. 176; 236 N.R. 371 (F.C.A.) (
+Chong II
+);
+Argyracoupoulou et al. v. Canada
+, [2003] F.T.R. Uned. 958; [2003] F.C.J. No. 1641; 2003 FC 1304;
+Utovac
+, above).
+[28]
+These guarantees are thus limited to the applicant's right to have his arguments considered by the Committee and to be kept informed of
+information that is crucial
+to the dispute and that he could not reasonably have known (
+Chong I
+and
+Chong II
+, above;
+Hale v. Canada (Treasury Board)
+, [1996] F.C.J. No. 685; 112 F.T.R. 216 (T.D.)).
+Did the Committee breach its duty of procedural fairness?
+[29]
+The applicants allege that the Committee breached the rules of procedural fairness. They contend that the Committee considered evidence about the responsibility for complex cases that was obtained without their knowledge and that they did not have the opportunity to respond to this evidence.
+[30]
+The applicants argue that, on the one hand, the employer's representatives directly contradicted some of the facts pleaded by the applicants. In particular, the employer's representatives stated that the applicants were not responsible for complex cases and that such cases can be referred to some of their superiors. Since the Committee relied on this contradictory submission in rendering its decision, the Committee had an obligation to give the applicants the right to reply.
+[31]
+The respondents' position is that the evidence in the record does not support these arguments and that the Committee did not breach its duty of fairness towards the applicants by deciding as it did.
+[32]
+The Federal Court and the Federal Court of Appeal considered the general principles and obligations of the Committee with respect to procedural fairness in
+Chong I
+and
+Chong II
+, above.
+[33]
+In
+Chong II
+, Mr. Justice Robert Décary reiterated the principle that the content of the duty of fairness will be more or less comprehensive depending on the nature of the interests affected by the decision and the nature of the process and that, in the case of a classification grievance, the applicants have the right to only a minimum level of equity. He wrote as follows:
+"[12] In our view, nothing turns on whether the process is defined as being adversarial or non-adversarial. There is clearly a dispute between parties which the grievance process seeks to resolve and the duty of fairness clearly applies to that process. The content of the duty of fairness will be more or less comprehensive depending upon the nature of the interests affected by the decision and the nature of the process involved. In the case at bar, the level of fairness is somewhere in the lower zone of the spectrum rather than in the upper zone and we do not read Madam Justice Reed's reasons in
+Hale v. Canada (Treasury Board)
+as saying otherwise. While Reed, J., in
+Hale
+, and McKeown, J., in
+Chong 1
+, have adopted a different approach, we do not see any significant difference into [sic] the conclusion they reach with respect to the content of the duty of fairness as it applies to grievances governed by the Classification Grievance Procedure of the Treasury Board."
+[34]
+In the specific circumstances of
+Chong II
+, Décary, J.A., also adopted Reed, J.'s, reasons in
+Hale
+, above, that the Committee has an obligation to provide the employee with information that he or she was never told about:
+"[13] Wherever one finds oneself on the spectrum, there are essential requirements and one of those requirements is that expressed by Justice Reed at para. 20 of her reasons:
+'... when the committee decides to review an aspect of the classification assessment, which the employee did not think was in dispute, and decides to elicit and rely on evidence with respect thereto about which the employee had no notice or information, fairness requires that that information be disclosed to the employee and he be given an opportunity to comment thereon. ...'"
+[35]
+The applicants maintain that the Committee had an obligation to apprise them of the employer's information because this information influenced its decision. They point out the following:
+"[32] In these circumstances, it has already been shown that the Committee must give an employee or his or her representative an opportunity to make submissions on additional or contradictory information obtained from the employer or on new facts that may influence the Committee's decision. In
+Chong
+, supra, at paragraph 45, McKeown, J., also held that the Committee should take current comparable positions into account in its assessment, even if these were positions in other regions. Further in
+Argyracoupoulou
+, supra, Blanchard, J., clearly indicated that in view of the union's submissions the Committee had a duty to consider the Revenue Canada PM-02 position." (
+Maurice
+, above)
+[36]
+The respondents maintain that the Classification Grievance Committee did not breach its duty of procedural fairness in any way. Furthermore, there was no information in this case that the applicants did not know about or could not have anticipated.
+[37]
+Contrary to the applicants' submission, the Committee's report does not state that the applicants were not responsible for complex cases but, rather, that the information obtained from the employer confirmed that
+advice and guidance were available
+for the complex cases and that such cases were referred to senior employees in the organization
+to obtain advice on how to proceed
+(Applicants' Record, Classification Grievance Committee Report, vol. I, Tab 2, p. 8).
+[38]
+Gauthier, J., confronted the principle of the right of reply in
+Maurice
+, above. She noted the following:
+"[31] ... the Committee had a duty to act fairly. Case law has clearly established that the degree of fairness applicable in the circumstances tends toward a lesser requirement rather than a more limiting standard (
+Chong v. Canada (Treasury Board)
+, [1999] F.C.J. No. 176 (F.C.A.) (Décary, J.A., para. 12);
+Chong v. Canada (Attorney General)
+, [1995] F.C.J. No. 1600 (McKeown, J.) (F.C.T.D.);
+Bulat v. Canada (Treasury Board)
+, [2000] F.C.J. No. 148, para. 9)).
+"[32] In these circumstances, it has already been shown that the Committee must give an employee or his or her representative an opportunity
+to make submissions on additional or contradictory information obtained from the employer or on new facts that may influence the Committee's decision
+. In
+Chong
+, supra, at paragraph 45, McKeown, J., also held that the Committee should take current comparable positions into account in its assessment, even if these were positions in other regions. Further in
+Argyracoupoulou
+, supra, Blanchard, J., clearly indicated that in view of the union's submissions the Committee had a duty to consider the Revenue Canada PM-02 position." (My emphasis.)
+[39]
+She concluded that "the Committee should have informed the applicant that it could not consider her arguments because the evidence submitted was not in an acceptable form and given her a short period of time to provide additional information." (
+Maurice
+, above, para. 35).
+[40]
+However, the case at bar can be distinguished from the
+Maurice
+case since the facts here do not raise the issue of a document that is not in an acceptable form. The issue is that, in the applicants' view, the Committee had to give them a right of reply because the employer's information was not accurate and misled the Committee.
+[41]
+However, according to Paul Lamont's evidence, which was not the subject of any cross-examination, this information had already been confirmed by the applicants and their representative during the applicants' presentation. Mr. Lamont explains in his affidavit:
+[Translation] "12. The clarifications provided by the functional management were not significant or large enough to require or justify a reply or additional arguments on the part of the applicants. The clarifications did not involve any information that the applicants did not know about or that could have had a considerable impact on the Committee's recommendation. Other than the fact that management adopted a different position than the applicants with respect to certain responsibilities associated with the numerous job descriptions submitted to the Committee, management did not provide any new or contradictory information."
+[42]
+The applicants' position is that the alleged errors regarding their duties as collection officers were sufficiently important and that the Committee had an obligation to provide them with an opportunity to respond to the employer's information.
+[43]
+Consequently, was there sufficient disclosure to enable the applicants to truly participate in the proceeding? The respondents explain that, in this case, the Committee considered the applicants' key arguments and addressed them in its report. There is nothing in the Committee's analysis to indicate that the requisite rational connection for its findings was not established.
+[44]
+The respondents note that the Committee hearing, however, was conducted pursuant to Canada Revenue Agency's grievance classification process and in accordance with the objectives and principles governing classification as described in the
+Treasury Board Manual
+, the "Classification Grievances Policy" (Applicant's Record, Affidavit of Paul Lamont, above, p. 4, para. 11).
+[45]
+However, Russell, J., notes in
+Utovac
+, above:
+"[19] The classification grievance process is not an adversarial process, and in my view neither griever nor employer has a vested right to respond to the other's submissions to the Committee. Appendix B to the Policy states as follows:
+'Employees and/or their representative must be given the opportunity to appear before the committee and state their views on the classification of the position. They must withdraw from the meeting once their presentation is complete. Representations by the complainant or his or her representative may also be submitted in writing. All aspects of the decision being grieved, i.e., group and sub-group allocation, level and ratings (where applicable) accorded to all factors, must be examined even though, in some instances, not all are being challenged.
+'If invited to appear before the classification grievance committee to provide information on the assigned duties and responsibilities, management must withdraw once the committee has completed its questioning.'
+"The Policy does not grant the griever the right to respond to management's answers.
+"[20] Neither is the Court persuaded that the Committee omitted to grant the Applicant an opportunity to address a central issue to its classification grievance decision, namely the comparison of the Applicant's position to the proposed ES group. After hearing from both the Applicant and the employer, the Committee invited the Applicant to make further submissions regarding which benchmarks of the ES Standard he believed would justify the classification of his position in the ES group. The affidavit sworn by Richard Joyal on behalf of the Respondent discloses that the Applicant declined to make further representations because 'he had already provided evidence to support the rating he has assigned to the job description.' In these circumstances, it cannot be said that the Committee breached its duty of fairness to the Applicant."
+[46]
+The legislation grants discretion to the Committee to assign probative value to the parties' representations. Unlike
+Chong II
+, above, where the Federal Court of Appeal determined that the Committee had breached one of the essential requirements of the duty of fairness by failing to inform the applicants that the basis of the comparison they were seeking to establish had been dramatically altered and thus the Committee had a duty to grant a right of reply, the facts in this case and the basis of the Committee's decision do not disclose any perceived unfairness.
+[47]
+The applicants were given the opportunity to make representations, which the Committee considered. The fact that the Committee, based on the representations and the evidence adduced, chose to maintain the level and rank of the collection officer position at PM-01 does not constitute an error warranting the intervention of this Court.
+[48]
+The procedure followed by the Committee in reaching its conclusion did not breach its duty of procedural fairness. Accordingly, the Committee exercised its discretion properly.
+Was the PM-01 classification patently unreasonable?
+[49]
+In the applicants' view, however, the Committee made patently unreasonable errors of fact.
+[50]
+According to the respondents, the applicants must show that the Committee's analysis is so flawed that the Court will be unable to understand how the Committee arrived at the result that it did. The respondents maintain that as long as there is a rational connection between this analysis and the findings, the Court should not intervene (Respondents' Record, Memorandum of fact and law, p. 182, para. 13).
+[51]
+In
+Adamidis
+, above, Phelan, J., explained the classification level in the "PM" group. He wrote:
+"[7] The classification level in the Program Administration (or 'PM' group) is assessed according to the factors below. Where the factor has sub-factors, the first sub-factor is given an alphabetical designation, and the second factor is given a numerical designation. For example, the Knowledge factor could be scored from A to E for 'Program/Technical', and from 1 to 4 for 'General Administration'.
+Factors
+Factor Weights
+Min. Value
+Max. Value
+Knowledge
+400
+81
+400
+--Program/Technical
+-
+-
+-
+--General Administration
+-
+-
+-
+Decision Making
+300
+69
+300
+--Scope
+-
+-
+-
+--Impact
+-
+-
+-
+Operational Responsibility
+150
+10
+150
+--Nature of Responsibility
+-
+-
+-
+--Complexity and size of subordinate organization
+-
+-
+-
+Contacts
+150
+30
+150
+"[8] The point levels required for each level in the PM group are as follows:
+Level 1: 190-300 points
+Level 2: 301-400 points
+Level 3: 401-500 points
+Level 4: 501-610 points
+Level 5: 611-720 points
+Level 6: 721-1000 points
+"[9] Each factor or sub-factor has a number of different levels within it. These levels are defined in the Classification  Standard.  Thosedefinitions are then assessed against the work description of the position at issue to determine what level the position should be at for each sub-factor. Also, there are a number of 'Benchmark' positions identified in the Classification Standard. These 'Benchmark' positions are helpful guides to determining a position's classification: if the position at issue is similar to the Benchmark position for a particular sub-factor, then it will be scored the same as the Benchmark position. Positions are also compared to other non-Benchmark positions within the public service, to ensure that all positions are classified fairly."
+[52]
+In this case, the Committee assessed the grieved position as follows:
+Factors
+Level
+Value given
+Knowledge
+A1
+081 points
+--Program/Technical
+-
+-
+--General Administration
+-
+-
+Decision Making
+A1
+069 points
+--Scope
+-
+-
+--Impact
+-
+-
+Operational Responsibility
+A
+010 points
+--Nature of Responsibility
+-
+-
+--Complexity & size of organization
+-
+-
+Contacts
+2
+070 points
+-
+Total
+230 points (190 to 300) PM-01
+[53]
+In the applicants' view, the Committee's decision stated that the responsibilities of the collection officer position (PM-01) at the Department of Citizenship and Immigration are similar to those of the grieved position and that these two positions require the same level of knowledge and decision making to perform the duties. They point out, however, that the collection officers at Immigration were reclassified from PM-01 to PM-02 on November 13, 2003 (Applicants' Record; Affidavit of André Julien, sworn November 30, 2006, Reclassification Department: Citizenship and Immigration Canada, vol. I, Tab 3-A, p. 131).
+[54]
+However, the respondents say that far from not considering the applicants' arguments about the collection officer position (PM-01) at the Department of Citizenship and Immigration or the supporting documentation, the Committee considered and commented on the reclassification notices submitted by the applicants and indicated that the fact that other positions were eventually reclassified had little impact on the applicants' grievance classification proceeding (Respondents' Record, Memorandum of fact and law, p. 186, para. 28; Applicants' Record, Classification Grievance Committee Report, vol. I, Tab 2, p. 13; Respondents' Record, Affidavit of Paul Lamont, above, p. 6, para. 16).
+[55]
+The Committee even stated that it was unable to establish how the staffing action would prove that the grieved position was under-classified. Furthermore, Mr. Lamont clarified that [Translation] "the applicants provided the Committee with separate work descriptions pertaining to separate PM-01 and PM-02 positions at the Department of Citizenship and Immigration. The Committee took into account the similarities and the differences between these two distinct positions (PM-01 and PM-02) and the grieved position ..." (Respondents' Record, Memorandum of fact and law, above; Applicants' Record, Classification Grievance Committee Report, above; Respondents' Record, Affidavit of Paul Lamont, above).
+[56]
+The applicants also note that the Committee erred in determining that the position did not require issuing third party demands, which included salaries from third parties. It noted that Instrument B-44 clearly provides as follows:
+"The Canada Employment and Immigration Commission, pursuant to subsection 18(3) of the
+Employment and Immigration Department and Commission Act
+, hereby authorizes the officers and employees of the Commission occupying, on an acting basis or otherwise, the positions identified below to require a person who is or is about to become indebted or liable to make a payment to a person liable to make a payment under Part I of the
+Unemployment Insurance
+Act
+to pay, in whole or in part, the monies otherwise payable to the person liable under Part I to the Receiver General on account of the liability under that Part, pursuant to subsection 94(4) of this
+Act
+."
+(Applicants' Record, Affidavit of André Julien, above, Reclassification Department: Citizenship and Immigration Canada, vol. I, Tab 3-A, Instrument B-44, p. 92).
+[57]
+However, the Committee notes in its report:
+[Translation] "The authority to strike and to issue third party demands was not granted to the collection officer position at SDC.
+Recommendations are presented to the supervisor who approves or rejects their implementation.
+The recommendations are then sent, depending on the case, to a review committee or to the Department of Justice to be accepted or rejected.
+"The grieved position has the delegated authority to formally ask for information from clients or their representative. However, if the clients or a third party refuse to comply with the demand or ignore it, the case is deemed to be more complex and is sent to the next higher level. The positions at the higher level can give opinions and advice. If the collection officer does not take advantage of this expertise, the problem is operational, since the higher positions are responsible for giving technical opinions and guidance to the collection officers. This responsibility is set out in the work descriptions of collection consultants, monitoring and training officers and supervisors." (My emphasis.)
+(Applicants' Record, Classification Grievance Committee Report, vol. I, Tab 2, p. 11)
+[58]
+Contrary to the applicants' submissions, the Committee considered the argument that they were required to issue third party demands and found that Instrument B-44 did not delegate this power to them (Applicants' Record, Classification Grievance Committee Report, above, p. 13).
+[59]
+Contrary to the Committee's finding, the applicants state that collection officers are summoned to appear before the Court as a result of their obligations as employees. This is not a question of civic duty but, rather, is a consequence of the nature of the work of collection officers and the signing authority that has been granted to them. Consequently, in their view, the Committee did not attribute significant value to this document, and this constitutes a patently unreasonable error (Applicants' Record, Affidavit of André Julien; above; E-mail dated April 26, 2006, Tab C, p. 223).
+[60]
+The evidence to support the applicants' allegation that they are required to appear in Court in their capacity as collection officers is corroborated by only
+one
+claim for costs. Because of the large number of applicants, this evidence cannot confirm that, in fact, this duty occurs so often that a reclassification of the grieved position is warranted (Affidavit of André Julien, above; E-mail dated April 26, 2006, above).
+[61]
+In addition, the respondents note that the Committee considered this argument because the Committee referred to the documentation supporting this argument in its report. The Committee also considered the difference between a responsibility that is clearly described in a job description and the civic duty to appear in Court when summoned to do so (Respondents' Record, Memorandum of fact and law, p. 186, para. 29; Affidavit of Paul Lamont, above, p. 5, para. 14).
+[62]
+It is important to bear in mind that, regardless of where a person is classified, situations arise in which people are called upon to perform duties that do not necessarily or ordinarily fall within their work descriptions. This can happen from time to time, but it does not mean that every time a person wears a different hat, knowing that it is not during a career in these particular positions, that this person would be called upon to perform duties that are outside or beyond or at a higher level, hierarchically speaking.
+[63]
+Pelletier, J., explained that adhering to a work description that some adjudicators describe as "sufficiently complete", "speaks of a relatively rigid conception of the role of an employee's Work Description. That view is not shared by all adjudicators" and such a "view of the role of a Work Description suggests that it is a document which must reflect the realities of the employee's work situation since so many aspects of the employee's rights and obligations in the workplace are bound to his or her Work Description." (
+Currie
+, above, paras. 25-26)
+[64]
+He also notes "[that it] is not uncommon for employees who have a common Work Description to have different duties and responsibilities. So long as those different duties and responsibilities all fall within the general language of their common Work Description, all is well." (
+Currie
+, above, para. 1)
+[65]
+It must be noted that to take a case that turns on its own facts for a particular situation or a very specific event within a context that is generally limited would be going from the particular to the general when, in fact, a case decided on its own facts remains just that. Can a specific example be cited to create a
+cause célèbre
+of general application, given that taking a case out of context to use as an example in a broader sense would be describing a situation other than it is?
+[66]
+Therefore, any job that calls for cooperation between individuals requires team work where the individuals are connected by a real or symbolic chain to ensure that things run smoothly; this does not remove the real and essential need for each individual to have an accurate description of his or her own daily, or rather, ordinary work, without denying that in
+certain infrequent circumstances
+an individual could go beyond his or her work description to assist a person who has another job description within this real or symbolic chain.
+[67]
+According to the PM-01 and PM-02 work descriptions, the difference is clear. In the work description of the grieved position, the Committee observed that there were similarities between the principal activities of this position and the positions submitted as relative value. At the conclusion of the review, the Committee determined that, in the majority of cases, the jobs presented for purposes of comparison with the PM-02 jobs had more important responsibilities than the grieved position (Applicants' Record, Classification Grievance Committee Report, above, p. 9).
+[68]
+Mr. Lamont, a member of the Classification Grievance Committee that heard the grievance brought by the 136 applicants, stated that the Committee members studied all the information and documents submitted by the applicants along with any other document they considered relevant in order to carry out a complete evaluation of the grievance. The members reviewed the work description for the grieved position. The flow charts in support of the grievance (the flow charts from various regions, indicating positions as collection programs consultant, PM-02; collection services consultant, PM-03; etc.), the work descriptions of the regional supervisors and senior positions, the Alliance's written presentation and the documents submitted by Mr. Julien. The Committee members also examined the work description of the grieved position in comparison with the classification standard of the programme administration group (PM) (Respondents' Record, Affidavit of Paul Lamont, above, p. 6, para. 17).
+[69]
+In addition, he stated that the Grievance Committee, after deliberating and considering all the evidence and the documentation submitted and mentioned above, including the comparisons used by the applicants, concluded that the PM-01 group and level assigned to the INA0241/PM-0066 position was appropriate as of February 17, 1999, the effective date of the work description and that all of this complied with the objectives and principles governing classification as described in the
+Treasury Board Manual
+, Classification System Policy (Respondents' Record, Affidavit of Paul Lamont, above, p. 6, para. 18).
+[70]
+Based on the evidence in this case and as stated earlier, cases that turn on their own facts where people infrequently go beyond their duties does not mean that this happens systematically, and, similarly, because a person is called upon to perform a duty as an individual in an institution for a civic reason should not mean that this falls within a work description for the particular position. A work description cannot be engraved in stone; if an exceptional situation arises infrequently, should it become the rule? Accordingly, does the infrequent duty that does not fall within a compulsory or even a normal work description alter a position?
+CONCLUSION
+[71]
+At the meeting with the Committee, the applicants had the opportunity to file written submissions and to present oral arguments. As part of its deliberations, the Committee considered the official work description as well as the applicants' submissions. In its decision, the Committee summarized the applicants' presentation, then considered each of the evaluation factors individually in relation to the description for the benchmark positions, in order to determine the appropriate degree and the number of corresponding points. As a result of this analysis, the Committee concluded that the classification of the position should be maintained at the PM-01 level.
+[72]
+In addition, in considering the functions and responsibilities assigned by management and regularly performed by the employee, the Committee made a decision based on assessing the probative value of all the available work descriptions. Through this analysis, the Committee determined that [Translation] "in the majority of cases, the jobs presented for purposes of comparison with the
+PM-2 jobs had more important responsibilities
+than the grieved position" and that the result of weighing the classification factors was that the Committee would not reclassify the position upwards (Applicants' Record, Classification Grievance Committee Report, above, p. 9).
+[73]
+The Committee's decision to not reclassify the position is not patently unreasonable.
+[74]
+Furthermore, the Committee did not breach its duty of procedural fairness when it exercised its discretion to evaluate the evidence and the representations.
+[75]
+Therefore, the application for judicial review is dismissed.
+JUDGMENT
+[76]
+THE COURT ORDERS that
+the application for judicial review is dismissed.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/pdk

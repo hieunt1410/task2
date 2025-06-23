@@ -1,0 +1,37 @@
+[23]
+Section 55.2 as passed in 1993 (omitting subsections (2) and (3)) remains in that form to this day and says:
+"
+Exception
+"55.2(1) It is not an infringement of a patent for any person to make, construct, use or sell the patented invention solely for uses reasonably related to the development and submission of information required under any law of Canada, a province or a country other than Canada that regulates the manufacture, construction, use or sale of any product.
+"
+Regulations
+"55.2(4) The Governor in Council may make such regulations as the Governor in Council considers necessary for preventing the infringement of a patent by any person who makes, constructs, uses or sells a patented invention in accordance with subsection (1), including, without limiting the generality of the foregoing, regulations
+(a) respecting the conditions that must be fulfilled before a notice, certificate, permit or other document concerning any product to which a patent may relate may be issued to a patentee or other person under any Act of Parliament that regulates the manufacture, construction, use or sale of that product, in addition to any conditions provided for by or under that Act;
+(b) respecting the earliest date on which a notice, certificate, permit or other document referred to in paragraph (a) that is issued or to be issued to a person other than the patentee may take effect and respecting the manner in which that date is to be determined;
+(c) governing the resolution of disputes between a patentee or former patentee and any person who applies for a notice, certificate, permit or other document referred to in paragraph (a) as to the date on which that notice, certificate, permit or other document may be issued or take effect;
+(d) conferring rights of action in any court of competent jurisdiction with respect to any disputes referred to in paragraph (c) and respecting the remedies that may be sought in the court, the procedure of the court in the matter and the decisions and orders it may make; and
+(e) generally governing the issue of a notice, certificate, permit or other document referred to in paragraph (a) in circumstances where the issue of that notice, certificate, permit or other document might result directly or indirectly in the infringement of a patent.
+"
+Inconsistency or conflict
+"55.2(5) In the event of any inconsistency or conflict between
+(a) this section or any regulations made under this section, and
+(b) any Act of Parliament or any regulations made thereunder,
+this section or the regulations made under this section shall prevail to the extent of the inconsistency or conflict.
+"
+For greater certainty
+"55.2(6) For greater certainty, subsection (1) does not affect any exception to the exclusive property or privilege granted by a patent that exists at law in respect of acts done privately and on a non-commercial scale or for a non-commercial purpose or in respect of any use, manufacture, construction or sale of the patented invention solely for the purpose of experiments that relate to the subject-matter of the patent."
+"
+Exception
+"55.2(1) Il n'y a pas contrefaçon de brevet lorsque l'utilisation, la fabrication, la construction ou la vente d'une invention brevetée se justifie dans la seule mesure nécessaire à la préparation et à la production du dossier d'information qu'oblige à fournir une loi fédérale, provinciale ou étrangère réglementant la fabrication, la construction, l'utilisation ou la vente d'un produit.
+"55.2(4) Afin d'empêcher la contrefaçon d'un brevet d'invention par l'utilisateur, le fabricant, le constructeur ou le vendeur d'une invention brevetée au sens du paragraphe (1), le gouverneur en conseil peut prendre des règlements, notamment:
+a) fixant des conditions complémentaires nécessaires à la délivrance, en vertu de lois fédérales régissant l'exploitation, la fabrication, la construction ou la vente de produits sur lesquels porte un brevet, d'avis, de certificats, de permis ou de tout autre titre à quiconque n'est pas le breveté;
+b) concernant la première date, et la manière de la fixer, à laquelle un titre visé à l'alinéa a) peut être délivré à quelqu'un qui n'est pas le breveté et à laquelle elle peut prendre effet;
+c) concernant le règlement des litiges entre le breveté, ou l'ancien titulaire du brevet, et le demandeur d'un titre visé à l'alinéa a), quant à la date à laquelle le titre en question peut être délivré ou prendre effet;
+d) conférant des droits d'action devant tout tribunal compétent concernant les litiges visés à l'alinéa c), les conclusions qui peuvent être recherchées, la procédure devant ce tribunal et les décisions qui peuvent être rendues;
+e) sur toute autre mesure concernant la délivrance d'un titre visé à l'alinéa a) lorsque celle-ci peut avoir pour effet la contrefaçon de brevet.
+"
+Divergences
+"55.2(5) Une disposition réglementaire prise sous le régime du présent article prévaut sur toute disposition législative ou réglementaire fédérale divergente.
+"
+Interprétation
+"55.2(6) Le paragraphe (1) n'a pas pour effet de porter atteinte au régime légal des exceptions au droit de propriété ou au privilège exclusif que confère un brevet en ce qui touche soit l'usage privé et sur une échelle ou dans un but non commercial, soit l'utilisation, la fabrication, la construction ou la vente d'une invention brevetée dans un but d'expérimentation."

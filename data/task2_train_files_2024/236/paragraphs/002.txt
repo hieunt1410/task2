@@ -1,0 +1,11 @@
+[2]
+Rule 210 of the
+Federal Court Rules
+, 1998, SOR/98-106, provides the following:
+"210(1) Where a defendant fails to serve and file a statement of defence within the time set out in rule 204 or any other time fixed by an order of the Court, the plaintiff may bring a motion for judgment against the defendant on the statement of claim.
+"(2) Subject to section 25 of the Crown Liability and Proceedings Act, a motion under subsection (1) may be brought ex parte and in accordance with rule 369.
+"(3) A motion under subsection (1) shall be supported by affidavit evidence.
+"(4) On a motion under subsection (1), the Court may
+(a) grant judgment;
+(b) dismiss the action; or
+(c) order that the action proceed to trial and that the plaintiff prove its case in such a manner as the Court may direct."

@@ -1,0 +1,149 @@
+[1]
+Hargrave, Prothonotary
+: The "Renegade III" suffered substantial damage during the 2000 Victoria-Maui race. This matter arises out of an in rem and in personam claim by the plaintiff underwriter, for return of some $110,000.00 in "Renegade III" insurance proceeds which the underwriter had paid out, the policy subsequently being voided by the underwriter because of alleged non-disclosure or misrepresentation by the defendant vessel owners. As security for the claim the plaintiff underwriter has the "Renegade III" under arrest, in this action, but no security has been provided.
+[2]
+By the present motion the defendant vessel owners seek a stay, or a partial stay, of this Federal Court proceeding, on the basis that they have a B.C. Supreme Court in personam action in which they seek payment of the balance of their vessel damage claim, some $12,000.00.
+[3]
+I have denied the stay. In order to put all of this into context, I shall first turn to a brief overview of some pertinent facts.
+BACKGROUND
+[4]
+The "Renegade III", of the port of Vancouver, is a racing yacht of 19.2 metres in registered length, built in 1993 in Tallinn, Estonia. The insured value of the vessel is $880,000.00. Here I would note that in the insurance application of 9 June 2000 the current market value was said to have been $850,000.00 (U.S.), with a replacement cost of about double that.
+[5]
+In July of 2000 the "Renegade III", while participating in the Victoria-Maui Race, ran into a driftnet, bringing the vessel from about 20 knots to a sudden stop in short order, resulting in a claim in excess of $100,000.00, together with survey fees. In the result the underwriter paid $110,721.12. This left outstanding the amount of $12,349.59, being a disputed amount for repainting the bottom of the vessel.
+[6]
+The plaintiff underwriter says that it received information, 28 June 2001, that at the time of the insurance application there was a failure to disclose material circumstances. That same day the underwriter instructed counsel to represent them. On 16 July 2001, after he had assessed the circumstances, counsel for the underwriter wrote to counsel for vessel owners to advise that there had been material non-disclosure or misrepresentation as to prior claims. On that day the owners, the Sinclairs, then commenced an action against the underwriter in the B.C. Supreme Court.
+[7]
+On 24 July 2001 counsel for the underwriter wrote to counsel for owners voiding the policy, pursuant to ss. 21 and 22 of the
+Marine Insurance Act
+, S.C. 1993, c. 22. That letter was, in effect, a demand letter, requesting the return of the proceeds paid to date and giving notice that an action would be commenced in the Federal Court of Canada if repayment were not made within seven days. The underwriter commenced the Federal Court action, as it said it would, on 1 August 2001, arresting the vessel on 15 August 2001. At this point there has been neither a defence filed nor security to obtain the release of the vessel lodged.
+[8]
+The defendant owners, as I understand it, by their Amended Motion, contend that the Federal Court action should be partially stayed, leaving the vessel under arrest, or alternatively, completely stayed, with the underwriter, should it so desire, bringing an in rem claim in the B.C. Supreme Court.
+[9]
+At this point, in the B.C. Supreme Court action, the underwriter has filed a defence, with the assured owners filing a reply 15 August 2001, thus closing pleadings. As I understand it demands for discovery of documents are outstanding in the B.C. Supreme Court. Thus the B.C. Supreme Court action is marginally ahead of the Federal Court action, however I would note that the defence, in this Federal Court action, is now overdue.
+[10]
+The owners, in the B.C. Supreme Court action, have requested an early trial date. Here, in the Federal Court, leaving aside the possibility of a summary judgment application, trial dates are not usually allocated until the parties have completed the discovery process and they are ready for trial. However, while Federal Court trial dates are firm, a substantial percentage of B.C. Supreme Court trial dates are adjourned by the court. I now turn to an analysis of the issues.
+ANALYSIS
+The Test for a Stay and the Onus
+[11]
+There is no issue as to when a stay, under s. 50 of the
+Federal Court Act
+, will be granted. The test, as set out in
+FRAGMENT_SUPPRESSED a court will exercise discretion, granting a stay "only in the clearest of cases.". In order to establish that a proceeding falls within the clearest of cases test, the party with the onus must show that to allow the action to continue would cause prejudice or injustice, not merely inconvenience or additional expense to the defendant and that the stay itself would not be unjust to the plaintiff:
+FRAGMENT_SUPPRESSED
+Here, in
+Compulife
+, Mr. Justice Wetston, relying upon on the
+Discreet Logic
+case (
+Discreet Logic Inc. v. Registrar of Copyrights (Can.) et al.
+(1993), 51 C.P.R.(3d) 191 (F.C.T.D.)), referred to in the quotation, places the onus on the party requesting the stay to prove that the two conditions exist. This proposition has an excellent pedigree.
+Discreet Logic
+was a decision of Mr. Justice Denault. He relied upon
+Plibrico (Canada) Ltd. v. Combustion Engineering Canada Inc.
+(1990), 32 F.T.R. 30; 30 C.P.R.(3d) 312 (T.D.), at 315, a decision of Mr. Justice Strayer, as he then was.
+[12]
+Counsel for the defendant owners submits that, in this instance, I ought not to place much or any real emphasis on the traditional view that the onus is on a party seeking a stay, because the parties both commenced their proceedings in different courts at about the same time and thus either party might have moved for a stay. To some degree this is an appropriate comment. Here I will refer to
+Amchem Products Inc. et al. v. Workers' Compensation Board (B.C.)
+, [1993] 1 S.C.R. 897; 150 N.R. 321; 23 B.C.A.C. 1; 39 W.A.C. 1; [1993] 3 W.W.R. 441, a decision of Mr. Justice Sopinka. He notes, at page 921, that the burden of proof should not play a significant role, but come into play where the judge cannot, on the material presented by the parties, come to a decision. He then writes that to gain a stay there must be a clearly more appropriate forum:
+"While the standard of proof remains that applicable in civil cases, I agree with the English authorities that the existence of a more appropriate forum must be
+clearly
+established to displace the forum selected by the plaintiff. This was the position adopted by McLachlin, J.A. (as she then was), in
+Avenue Properties Ltd. v. First City Dev. Corp.
+(1986), 7 B.C.L.R.(2d) 45. She emphasized that this had particular application where there were no parallel foreign proceedings pending." (Emphasis in the original - page 921)
+This passage ends with a reference to the decision of Madam Justice of Appeal McLachlin, as she then was, in the
+Avenue Properties
+case (
+Avenue Properties Ltd. v. First City Development Corp.
+(1986), 7 B.C.L.R.(2d) 45 (C.A.)). That case is useful for, as Mr. Justice Sopinka points out, it did not involve parallel foreign proceedings.
+Avenue Properties
+did involve British Columbia and Ontario actions, but that is not particularly different from parallel actions in the B.C. Supreme Court and in the Federal Court of Canada. On the analysis of Mr. Justice Sopinka and of Madam Justice McLachlin, a defendant must clearly establish that there is a more appropriate forum in order to displace the forum selected by the plaintiff. The corollary of this is that, even if the party applying for a stay is successful in clearly establishing the existence of a more appropriate forum, a plaintiff, nonetheless, may be able to prevent a stay by showing deprivation of a legitimate personal or juridical advantage which would be available in the court in which the plaintiff sues. Madam Justice McLachlin, in
+Avenue Properties
+, considered
+MacShannon v. Rockware Glass Ltd.
+, [1978] A.C. 795 (H.L.), a decision of the House of Lords, which first placed the burden on the defendant, to establish a more appropriate forum and then said:
+"If the first condition is met, the plaintiff may still prevent a stay being granted if he can show that a stay would deprive him of a legitimate personal or juridical advantage which would be available to him if he invoked the jurisdiction of the court where the stay is sought.
+"It will be noted that the onus is on the defendant on the first branch of the test; and on the plaintiff on the second branch."
+In the present instance it is this sort of a division of onus which I will apply. But here I will also note that the plaintiff need not establish, with certainty, that it will fall heir to and in fact gain such an advantage, but need merely show "... a fair possibility of gaining an advantage by prosecuting the action in the desired jurisdiction.":
+"As for the second requirement - that the plaintiff had a fair possibility of gaining a personal or juridical advantage by prosecuting the action in the jurisdiction in which the stay is sought - it is important to note all that is required is that a plaintiff show a fair possibility of gaining an advantage by prosecuting the action in the desired jurisdiction. He need not show that he will with certainty gain such an advantage:
+Hume & Rumble Ltd. v. Commonwealth Construction Company Ltd.
+, [1972] 4 W.W.R. 546, at 560, 561 (B.C.S.C.)." (
+Avenue Properties
+, supra, at page 52)
+This is consistent with Mr. Justice Sopinka's comment, in
+Amchem
+, at page 920, that it is the reasonable expectation that an advantage will be available and thus, by implication, it need not be a certainty, but rather, in the words of Madam Justice McLachlin, requires only the establishment of a fair possibility of gaining an advantage by means of an action in the desired jurisdiction.
+[13]
+Madam Justice McLachlin, in
+Avenue Properties
+, sums this up as a balancing of interests between any advantage to the plaintiff on the one hand, and any disadvantage to the defendant on the other hand, referring to
+Castanho v. Brown & Root (U.K.) Ltd.
+, [1981] 1 All E.R. 143; [1980] 3 W.L.R. 991 (H.L.), at 999 - 1000. This is consistent with
+Amchem Products Inc.
+It is not inconsistent with anything in the Federal Court line of cases, for a defendant who seeks a stay and believes that he or she has a good chance of succeeding, is going to take a particular view of the facts and do their best to convince the court that the stay would not be unjust. Thus, at some point, there is a shifting of burden to the plaintiff to show, on the plaintiff's view of the facts, that a stay does result in deprivation of some legitimate advantage.
+Consideration of the Present Circumstances
+[14]
+To begin, the defendant vessel owners have, to my mind, established a prima facie case that the B.C. Supreme Court is a convenient place for the action to proceed. However, while it is a convenient forum the B.C. Supreme Court stops short of being clearly the more appropriate place for the pursuit of the action.
+[15]
+To elaborate, the B.C. Supreme Court action has progressed slightly farther than this Federal Court action, although it is difficult to say which venue might produce a resolution in less time or at less overall expense. Certainly, there is a concept that, in the case of two parallel actions, a duplicity of actions may, in itself, cause serious harm and here I would refer to
+Poitras v. Sawridge Band
+, an unreported 17 March 1999 decision of Mr. Justice Hugessen in action T-2655-89. There Mr. Justice Hugessen was considering two actions which would be lengthy and expensive, with complex constitutional issues, each on an identical question with the same party. He was of the view that "duplicity in itself causes a serious harm" (paragraph 5 of Poitras). Moreover, where there are two actions, one could profitably be stayed, for a multiplicity of proceedings, which might result in inconsistent findings, excessive costs and duplication of effort are to be avoided: see the Ontario General Division Court decision in
+Eli Lilly & Co. v. Novopharm Ltd.
+(1994), 53 C.P.R.(3d) 428 (Ont. Gen. Div.), at 433. However, after hearing argument from counsel for the plaintiff underwriter and considering the response of counsel for the vessel owners, I am, as I say, of the view that the vessel owners have not clearly established the B.C. Supreme Court as the clearly more appropriate forum, that being the test set out in
+Amchem
+, supra, at page 921.
+[16]
+The underlying principle is that a plaintiff ought not easily to be deprived of its choice of a court through the mechanism of a stay. Thus the requirement that the existence of the more appropriate forum must be clearly established.
+[17]
+In the present instance, assuming that the underwriter were to bring an in personam counterclaim in the B.C. Supreme Court action, an in personam judgement would not do the underwriter a great deal of good. An in personam judgment could not be used in execution proceedings in order to transfer title to a registered ship: such a transfer may only be accomplished by court order. I do not see that the underwriter, as a defendant with a counterclaim, could graft an in rem counterclaim onto an in personam proceeding in the B.C. Supreme Court. In the result, were the underwriter forced to proceed in that B.C. Supreme Court proceeding, by reason of a stay in this court, they would have to commence an in rem proceeding in the B.C. Supreme Court, arresting the vessel, for a second time, in the B.C. Supreme Court, in order to give that court jurisdiction over the ship, resulting in a multiplicity of proceedings. Here I will make a short digression.
+[18]
+As a further reason that the B.C. Supreme Court is unsuitable in this instance counsel for the plaintiff submits that the
+B.C. Supreme Court Rules
+, and here the reference is to Rule 55, merely purport to allow in rem claims, leaving some doubt as to in rem jurisdiction. There is no case of which I am aware in which there has been more than a cursory analysis of the jurisdiction of the B.C. Supreme Court in rem. In
+Terrasses Jewellers Inc. v. Triglav
+, [1983] 1 S.C.R. 283; 54 N.R. 321, a challenge of the federal jurisdiction in the marine insurance field, the Supreme Court of Canada observed that a number of provinces, including British Columbia, had enacted legislation on marine insurance, however, for the purposes of the case, it was not necessary to define the scope of the provincial entry into the area of marine insurance. The Supreme Court observed that marine insurance, a contract of maritime law, which had proceeded other varieties of insurance by at least several centuries, was an integral part of maritime law. The Supreme Court concluded that the Federal Court had concurrent jurisdiction over insurance. However, to characterize the jurisdiction over a contract of maritime law as a concurrent jurisdiction does not answer the question of whether the B.C. Supreme Court has a constitutionally proper in rem jurisdiction. Certainly the B.C. Supreme Court, in
+Tilbury Cement Ltd. v. Seaspan International Ltd.
+(1991), 47 C.P.C.(2d) 292 (B.C.S.C.), at 299, was of the view that it had an admiralty jurisdiction, however the reasoning is circular: in effect it has an admiralty jurisdiction because Rule 55 of the
+B.C. Supreme Court Rules
+says it has. Counsel for the underwriter referred to
+Holt Cargo Systems Inc. v. ABC Containerline N.V. (Bankrupt) et al.
+(1999), 239 N.R. 98; 173 D.L.R.(4th) 493 (F.C.A.), at 497, in which the Federal Court of Appeal stated that the Federal Court was the only court that had jurisdiction over an arrested ship and an in rem claim. However I neither wish to decide this point, on the basis of limited argument, nor do I need to do so for I am able in this instance to reach a decision, denying a stay and thus retaining jurisdiction in the Federal Court, without having to consider whether the B.C. Supreme Court's in rem jurisdiction might possibly be flawed and subject to a constitutional challenge.
+[19]
+To return to the concept of a multiplicity of proceedings, to stay this action would most certainly result in the multiplicity of proceedings with at least two B.C. Supreme Court actions and a consolidation, together with a re-arrest of the vessel.
+[20]
+That two parallel actions, one in each court, might result in any substantial additional time or expense in proceeding to a resolution, is certainly not a foregone conclusion. In all probability production of documents and examinations for discovery would need only be conducted once and be applicable to proceedings in both courts. The underwriter points out that it is a good deal more sensible to add the vessel owners' small claim, a claim eight or nine times smaller than that of the underwriter, as a counterclaim in the Federal Court as a way of clearly avoiding a multiplicity of proceedings, here referring to
+Methanex New Zealand Ltd. v. Fontaine Navigation S.A. et al.
+, [1998] 2 F.C. 583; 142 F.T.R. 81 (T.D.), at 610 for the proposition that "Duplicitous proceedings, which would be the result of a stay in the present matter, are always strong grounds for refusing a stay: see for example
+Donohue Inc. et al. v. Ship Ocean Link et al.
+(1995), 94 F.T.R. 69 (T.D.) and
+Halifax Overseas Freighters Ltd. v. Rasno Export et al.
+, [1958] 2 Lloyd's Rep. 146.
+[21]
+I should also touch again upon the possibility of inconsistent outcomes as between the B.C. Supreme Court and Federal Court actions. Certainly that is a factor, but only one of many. Further, the danger of such is minimal, for once a decision is rendered in one court the whole matter will likely become res judicata.
+[22]
+Counsel for the vessel owners submits that I ought to be cautious in rejecting a stay of the Federal Court proceedings because, at some point, the vessel owners might decide to add their insurance broker as a party, referring to
+Intermunicipal Realty & Development Corporation v. Gore Mutual Insurance Company, Canadian Marine Underwriters Ltd. and Reed, Shaw, Stenhouse Ltd.
+, [1978] 2 F.C. 691, for the proposition that the court does not have jurisdiction over a marine insurance broker in agency and misrepresentation. I accept that there are two valid answers to this proposition. First, there is nothing in the material to suggest, let alone substantiate, that there might be a claim against the vessel owners' broker. Rather than hypothesize about the possibility of such a claim, I should look at this motion on the basis of the material before me at the time of this application. As I say, there is no material which even suggests a claim against the broker.
+[23]
+Second, the
+Gore Mutual
+case may no longer be good law and here I would refer to
+Zavarovalna Skupnost Triglav v. Terrasses Jewellers Inc.
+, supra, in which the Supreme Court of Canada pointed out that while marine insurance might, strictly speaking, form part of the property and civil rights jurisdiction of the provinces, it has nevertheless been assigned to Parliament and is part of navigation and shipping, except as regards the part of that power which remained within the provincial jurisdiction. Moreover, in the view of Mr. Justice Chouinard:
+"It is wrong in my opinion to treat marine insurance in the same way as the other forms of insurance which are derived from it, and from which it would be distinguishable only by its object, a maritime venture. It is also incorrect to say that marine insurance does not form part of the activities of navigation and shipping, and that, although applied to activities of this nature, it remains a part of insurance.
+"Marine insurance is first and foremost a contract of maritime law. It is not an application of insurance to the maritime area. Rather, it is the other forms of insurance which are applications to other areas of principles borrowed from marine insurance.
+"I am of the opinion that marine insurance is part of the maritime law over which s. 22 of the
+Federal Court Act
+confers concurrent jurisdiction on that court. It is not necessary to determine what other courts may have jurisdiction concurrent with the Federal Court, nor to determine the scope of their jurisdiction. I am further of the opinion that marine insurance is contained within the power of Parliament over navigation and shipping, and that accordingly a negative answer must be given to the constitutional question." (at page 298)
+Mr. Justice Chouinard went on to find that the Federal Court had law to administer. Thus there was jurisdiction in the area of marine insurance.
+[24]
+Considering both aspects, that there is no apparent likelihood of the involvement of a broker and, even were a broker to be involved, that would not result in a fatal jurisdictional flaw, the objection of the vessel owners, based on the possible involvement of a broker, is one which is easy enough to reject.
+CONCLUSION
+[25]
+In the result, I am not persuaded that this is a clear case for a stay. Although there may be inconvenience and perhaps minimal extra cost, there is no real prejudice or injustice to the vessel owners in denying a stay. Conversely, taking all of the circumstances into consideration, the choice of the underwriter, as a plaintiff, to litigate in the Federal Court, is a reasonable one. To put into place a stay, depriving the underwriter of this jurisdiction, would deprive the underwriter of a legitimate juridical advantage, that of being able to have the complete matter disposed of, including as to realizations through a sale of the arrested ship, in one court, being the Federal Court.
+[26]
+I cannot force the vessel owners to come into this court with a counterclaim, however it may well be that they will elect to bring their in personam claim, for the balance of their insurance claim, in this Federal Court action, which is both in rem and in personam, rather than seek recourse in the B.C. Supreme Court and defend in the Federal Court. Here I would note that there is no apparent hardship, in suggesting that the vessel owners ought to come into this court, for what we have here is a luxury racing yacht of high value, with the amount at stake being a fraction of the value of the vessel.
+[27]
+In the result, a stay is denied, however the vessel owners, as defendants, will have an extension of time within which to file a defence and, if in their view it is warranted, to bring a counterclaim.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

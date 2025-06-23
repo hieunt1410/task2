@@ -1,0 +1,157 @@
+[1]
+Blais, J.
+: This is a contempt hearing, held pursuant to rule 467 of the
+Federal Court Rules, 1998
+, SOR/98-106 as am. SOR/2002-417 (
+Rules
+). On December 10, 2003, Prothonotary Morneau granted CHUM Ltd. et al. (plaintiffs) a show cause order to be served on the defendant Intracommar Inc., whereby the defendant is to appear before the Court and show cause as to why it should not be found in contempt.
+FACTS
+[2]
+The plaintiffs all hold licenses, issued by the Canadian Radio-Television and Telecommunications Commission (CRTC), to carry on broadcasting undertakings, pursuant to the
+Broadcasting Act
+, S.C. 1991, c. 11.
+[3]
+The defendant is Intracommar Inc. whose principal is Afonso Januario.
+[4]
+In April 2003, the plaintiffs commenced an action against a number of defendants, including the defendant named in the show cause order, for damages and injunctions arising out of the contraventions by the defendants of ss. 9(1)(c) and 10(1)(b) of the
+Radiocommunication Act
+, R.S.C. 1985, c. R-2. The main unlawful activities were the following:
+a) importation, distribution, offering for sale, sale, modification, operation and possession of equipment and devices, and components thereof, used or intended to be used for the purpose of unlawfully receiving and decoding encrypted satellite direct-to-home (DTH) subscription programming signals;
+b) offering for sale and sale of unlawful reception and decoding systems for DTH subscription programming signals;
+c) offering for sale and sale of access cards for the unlawful decoding of DTH subscription programming signals, devices to unlawfully program such access cards, and unlawful access card emulation devices; and
+d) unlawful programming and reprogramming of access cards.
+[5]
+In July 2003, the plaintiffs concluded settlements with the defendants Intracommar and its principal Afonso Januario, Bill Destounis, Arie Reiser and Orit Sheck. The minute of settlements became the basis for consent orders rendered by Mr. Justice Pinard, of this Court, on August 11, 2003. These orders provided that the defendants were perpetually restrained from unlawfully providing access to encrypted programming, and provided also that all equipment or devices used for such purposes had to be turned over to the plaintiffs for inspection and destruction, or, in the case of access cards, for return to the lawful broadcaster/owner of the cards. The specific terms of the order concerning Intracommar Inc. read as follows:
+"1. Intracommar Inc. and Afonso Januario, and (where applicable) their respective directors, officers, employees, representatives and agents, shall be perpetually restrained (in a personal capacity and, directly or indirectly, as owners, members, directors, officers, employees, representatives, agents, contractors, or partners of any present or future corporation, firm, partnership, proprietorship or other entity) from manufacturing, importing, distributing, leasing, offering for sale, selling, installing, modifying, operating, or possessing any equipment or device, or any component thereof (including but not limited to all equipment and devices listed in Schedule 'A' hereto) that has been used, is being used, or is or was intended to be used for the purpose of receiving and/or decoding (or to facilitate the receiving and /or decoding of) an encrypted subscription programming signal or encrypted network feed other than under and in accordance with an authorization from the lawful distributor of the signal or feed (within the meaning of the
+Radiocommunication Act
+(Canada)).
+"2. Any and all equipment and devices (to which paragraph 1, above, applies), and all supplier, customer and other records relating thereto, whether in paper or electronic format, in the possession, power or control of Intracommar Inc. or Afonso Januario shall be transferred to the plaintiffs for destruction, or in the case of access cards, for destruction or return to the lawful direct-to-home broadcaster/owner of the cards."
+[6]
+The plaintiffs now allege that there is evidence that defendant Intracommar is in contempt of court because it has not complied with the first part of the order, and continues to sell and service equipment and devices allowing access to DIRECTV, as well as providing access cards and programming them. DIRECTV is a satellite broadcasting service, based in the United States, which cannot be legally received and decoded in Canada.
+PLAINTIFFS' EVIDENCE
+[7]
+The Court heard from three witnesses for the plaintiffs. The first witness was Ms. Karine Joizil, a lawyer from the firm of Fasken Martineau. She stated that the case had been undertaken in both Ontario and Quebec. She gave a rather detailed explanation of the whole process and explained that minutes of settlement were agreed to orally by the parties on July 24, 2003.
+[8]
+On August 4, 2003, her office received a signed copy of the minutes of settlement from the defendant. Justice Pinard rendered a consent order on August 11, 2003, based on the minutes of settlement. Thereafter, Ms. Joizil attempted on numerous occasions to set up an appointment with the defendant's counsel to inspect the premises of the defendant, as provided by the consent order, but to no avail.
+[9]
+In cross-examination, Ms. Joizil states that the Anton Piller order was not served on the defendant Intracommar Inc., for financial reasons. However, the minutes of settlement were signed by Mr. Januario, both on his own behalf and on behalf of Intracommar Inc.
+[10]
+The second witness for the plaintiff was Gary Osmond, National Coordinator of the Canadian Anti-Piracy Program of the Film and Video Security Office of the Canadian Motion Picture Distributors Association. The Association represents a number of major motion picture studios in respect of the Canadian distribution of feature films, television, pay television and videos. Mr. Osmond is a specialized investigator. He worked for a number of years as an officer of the Royal Canadian Mounted Police, and for the last nine years in the RCMP, he was mainly assigned to cases of copyright and illegal accessing of satellite signals.
+[11]
+Mr. Osmond stated that he purchased from Intracommar Inc. a satellite service, with access card, giving him access to DIRECTV, a system which can only be unlawfully received in Canada. To have access to DIRECTV, it is necessary to have both a receiver and a card from DIRECTV, as well as a satellite dish, which can be procured from another company.
+[12]
+The system had been purchased before the August 11, 2003 order. On October 9, 2003, Mr. Osmond received a new access card from Intracommar Inc. for continued access to DIRECTV. On October 23, 2003, the access card was deactivated by anti-piracy electronic measures. Mr. Osmond was able to reinstate his connection thanks to Intracommar, which reprogrammed his access card.
+[13]
+When Mr. Osmond went to renew his card on October 24, 2003 he was told by Ms. Ranger, the Intracommar employee with whom he had already dealt with in the past, that there had been "a big hit" and that a number of customers had called to complain that their access card was no longer working. From overhearing Ms. Ranger's conversations with clients on the phone (one third hit, about 150 hit) and his discussion with her following the phone calls, Mr. Osmond concluded that about one third represented some 150 customers, which meant that Intracommar had perhaps some 450 customers for DIRECTV.
+[14]
+In cross-examination, counsel for the defendant pointed out that it was highly doubtful that there was such a high number of customers, given that Mr. Osmond admitted never seeing any other customer when he attended Intracommar's office, whereas such a "big hit" should have brought in a flood of disgruntled customers.
+[15]
+I found Mr. Osmond to be a highly credible and experienced witness. He testified to being provided with a pager number to communicate with Intracommar. When he went to have his access card reinstated, he saw a small pile of cards, perhaps seven or eight, from which his new card was drawn then activated by computer. The only weak point in his testimony was the number of clients he extrapolated from overhearing Ms. Ranger on the phone. This weakness, however, in no way diminishes the very solid evidence that contempt of court did in fact occur and that Intracommar knowingly sold illegal systems even after the court order from Justice Pinard.
+[16]
+The third witness presented by the plaintiff was Mr. Gilles Marcotte, Director of sales for Bell Canada, whom I also found to be a very credible witness. Mr. Marcotte stated very clearly that Intracommar is not an authorized agent for Bell ExpressVu, one of the two authorized systems in Canada. According to Mr. Marcotte, as of January 1, 1999, there were no business relations between Bell ExpressVu and Intracommar. (Earlier data was unavailable, and in any event, irrelevant to the present proceedings). There was no trace of any invoice or delivery, and Mr. Marcotte could not imagine how there could be any business relationship, since an authorized dealer had to activate at least four customers a month to maintain his dealership.
+[17]
+Mr. Marcotte was shown an exhibit which appeared to be an invoice for advertisement, but Mr. Marcotte denied that this would prove any client activity, since by law ExpressVu had to communicate directly with the customers because of confidential information that had to be obtained, and that had been no such case in the last four years.
+DEFENDANT'S EVIDENCE
+[18]
+In his affidavit filed on January 12, 2004, Afonso Januario, on behalf of Intracommar Inc., had asserted that he was an authorized dealer for Star Choice and Bell ExpressVu, the only two satellite services authorized by the CRTC in Canada. He had further affirmed that any equipment or device in his possession was in accordance with authorization from the lawful distributor of the signal.
+[19]
+Unfortunately, I found this witness completely unreliable. He stated that after April 2003 (after receiving the statement of claim from the plaintiff), he had ceased selling the American system to concentrate on the Canadian systems. Yet, in July 2003, Ms. Ranger was calling Mr. Osmond to remind him that he needed to renew his access card.
+[20]
+He stated that he had gotten rid of all the material related to the U.S. system, and that he was certain he was an authorized dealer for Bell ExpressVu. In fact, he had been very surprised to hear the witness from Bell ExpressVu say that he was no longer an authorized dealer.
+[21]
+He stated that although he was aware of the minutes of settlement, he had maintained some eight customers already connected to the DIRECTV system in order to honour his contract with them. He had a pager to reach his store after July 2003, according to him, to help the customers already connected to DIRECTV and also special customers such as hotels, restaurants and bars. I find him completely unbelievable on that last point.
+[22]
+The witness also indicated that he bought equipment from other suppliers and had customers deal directly with Bell ExpressVu or Star Choice, thus flatly contradicting the Bell ExpressVu witness. He added that he did not get any commission from Bell ExpressVu, having simply given it up, and made his money simply from system installations. Again, I find this completely unbelievable.
+[23]
+Mr. Januario produced no documents to demonstrate his customer base, nor any proof of ever referring any customer to Bell ExpressVu or Star Choice. The only document was a single invoice for the cost of the ExpressVu demo in his store, an invoice reimbursed by ExpressVu.
+ISSUE
+[24]
+Have the plaintiffs made out a case for contempt of court on the part of defendant Intracommar Inc.?
+LEGISLATION
+[25]
+Federal Court Rules, 1998
+"466. Subject to rule 467, a person is guilty of contempt of Court who
+. . . . .
+(b) disobeys a process or order of the Court; . . .
+"467(1) Subject to rule 468, before a person may be found in contempt of Court, the person alleged to be in contempt shall be served with an order, made on the motion of a person who has an interest in the proceeding or at the Court's own initiative, requiring the person alleged to be in contempt
+(a) to appear before a judge at a time and place stipulated in the order;
+(b) to be prepared to hear proof of the act with which the person is charged, which shall be described in the order with sufficient particularity to enable the person to know the nature of the case against the person; and
+c) to be prepared to present any defence that the person may have. ...
+"469. A finding of contempt shall be based on proof beyond a reasonable doubt.
+"470(1) Unless the Court directs otherwise, evidence on a motion for a contempt order, other than an order under subsection 467(1), shall be oral.
+"(2) A person alleged to be in contempt may not be compelled to testify."
+"466. Sous réserve de la règle 467, est coupable d'outrage au tribunal quiconque:
+. . . . .
+b) désobéit à un moyen de contrainte ou à une ordonnance de la Cour; (...)
+"467(1) Sous réserve de la règle 468, avant qu'une personne puisse être reconnue coupable d'outrage au tribunal, une ordonnance, rendue sur requête d'une personne ayant un intérêt dans l'instance ou sur l'initiative de la Cour, doit lui être signifiée. Cette ordonnance lui enjoint:
+a) de comparaître devant un juge aux date, heure et lieu précisés;
+b) d'être prête à entendre la preuve de l'acte qui lui est reproché, don't une description suffisamment détaillée est donnée pour lui permettre de connaître la nature des accusations portées contre elle;
+c) d'être prête à présenter une défense. [...]
+"469. La déclaration de culpabilité dans le cas d'outrage au tribunal est fondée sur une preuve hors de tout doute raisonnable.
+"470(1) Sauf directives contraires de la Cour, les témoignages dans le cadre d'une requête pour une ordonnance d'outrage au tribunal, sauf celle visée au paragraphe 467(1), sont donnés oralement.
+"(2) La personne à qui l'outrage au tribunal est reproché ne peut être contrainte à témoigner."
+ANALYSIS
+[26]
+Rules 466 to 472 of the
+Rules
+have codified common law principles applying to contempt of court procedures. Thus, the standard of proof is proof beyond a reasonable doubt (Rule 469), and the person alleged to have been in contempt is entitled to a hearing where the evidence will be presented orally (Rule 470) and where he or she will have the opportunity to present a defence (Rule 467).
+[27]
+To establish contempt, the plaintiff has to show that the defendant was aware of the court order (
+Bhatnager v. Canada (Minister of Employment and Immigration)
+, [1990] 2 S.C.R. 217; 111 N.R. 185. Given that Mr. Januario had signed the minutes of settlement in July 2003, in his personal capacity as well as on behalf of Intracommar Inc., there can be no doubt that he was aware of the terms of the consent order. Copy of the order was sent to his solicitor, which in a context such as this is considered sufficient notice of the order (
+FRAGMENT_SUPPRESSED).
+[28]
+The burden is on the plaintiff to prove beyond a reasonable doubt that the actions of the defendant should give rise to a finding of contempt.
+[29]
+I have no hesitation to conclude from the evidence that was presented to me at the hearing that contempt of court did in fact occur. Both Mr. Osmond's evidence and the defendant's own admissions lead me to conclude that after Justice Pinard's issuing of the consent order, Intracommar was still selling and servicing unlawful satellite systems.
+[30]
+The defendant's counsel tried to argue that access cards were not covered by Justice Pinard's order. I find that argument has no merit. Justice Pinard's order clearly states,
+"... any equipment or device, or any component thereof (...) that has been used, is being used, or is or was intended to be used for the purpose of receiving and/or decoding (or to facilitate the receiving and/or decoding of) an encrypted subscription programming signal or encrypted network feed other than under and in accordance with an authorization from the lawful distributor ..."
+[31]
+Further, the defendant's counsel also contended that continuing, even after the court order, to offer the service of DIRECTV to clients already receiving the satellite signal was only proper business. This argument is simply ludicrous. Selling the unlawful satellite service was illegal even before Justice Pinard's order. An illegal contract cannot be made legal because of its sheer existence.
+[32]
+The other issue to be determined, now that a finding of contempt has been made, is the penalty.
+[33]
+The plaintiffs are asking for a fine of $100,000, without explaining how exactly they have set this amount. In his affidavit, Mr. Osmond calculates that if Intracommar has 450 clients, each paying as he did $50 per month for access to DIRECTV, this means a sales figure of some $270, 000 per year, not including the sale and installation of satellite dishes.
+[34]
+The main principle that seems evident from the cases is the need for deterrence, both general and specific. In
+Baxter Travenol Laboratories Inc. v. Cutter (Canada) Ltd.
+, [1987] 2 F.C. 557; 81 N.R. 220 (C.A.), the Court of Appeal carefully reviewed the elements to be taken into account when imposing a fine. The Court was asked to review the amount of the fine that had been imposed on Cutter Ltd. for acting despite an injunction by selling blood bags that had been found to infringe a patent. Cutter had received legal advice to the effect that it was not bound by the reasons for judgment as long as the order had not been made. After a ruling from the Supreme Court of Canada to the effect that contempt could occur even before the order was entered, once the reasons had been given, it was found in contempt and fined $100,000 by the Trial Division of the Federal Court. Cutter appealed the amount of the fine, on the basis that all circumstances had not been sufficiently taken into account. The Court of Appeal stated that civil damages were irrelevant to determining what the fine should be.
+[35]
+What is relevant is the gravity of the contempt in the context of the particular circumstances of the case as they pertain to the administration of justice. (at paragraph 10)
+[36]
+In that case, the Court of Appeal found that because the behaviour was not contumacious, the defendant having relied in good faith on his lawyer's advice, the fine was too high. An error of law did not serve to counter the finding of contempt, but it could mitigate the penalty to be imposed. The Court of Appeal reduced the fine from $100,000 to $50, 000, stating:
+"To reduce it further or to levy only a token fine would, in my view, be inconsistent with the gravity of the contraventions and might serve to encourage others to flout the law if it is to their financial advantage to do so." (para. 17)
+[37]
+In
+Louis Vuitton S.A. v. Tokyo-Do Enterprises Inc.
+(1990), 37 C.P.R.(3d) 8 (F.C.T.D.), Mr. Justice Pinard emphasized the importance of deterrence:
+"... if those who get caught were to get away unscathed that would encourage such activities and consequently destroy the intended effect of the laws that have been passed, especially with respect to the protection of the intellectual and industrial property.
+"I for one am very strict before issuing injunction orders in intellectual and industrial property matters. When I have proof, however, and when there is an order forbidding contravention of such laws, I insist that they be respected; otherwise it is a waste of time and money, and a serious breach of justice, to tolerate, permit or overlook such things without sufficiently punishing those who are guilty." (p. 13)
+[38]
+In
+Lyons Partnership, L.P. v. MacGregor
+, [2000] F.C.J. No. 341; 186 F.T.R. 241 (T.D.), Mr. Justice Lemieux assessed the fine after making a finding of contempt; the exercise was necessarily approximate, but the goal was clear:
+"In assessing the fine, I have taken into account the amount of revenue earned by the defendant [in activity in breach of court order]. ... I adjusted the revenues by an amount I estimated in order to yield no profit to the defendant [for the activity] so as to not provide him with an incentive to further disobey the Court's injunction which is the primary purpose in assessing the fine." (para. 24)
+[39]
+There is no way to determine from the evidence produced the number of clients that obtained unlawful satellite services through Intracommar. The defendant admitted to having kept 8 clients and having had 85 the year before; Mr. Osmond spoke of 150, or even 450, from his conversation with Ms. Ranger. I suspect the true number is somewhere within that range, but keeping in mind the purpose of a fine in this context, which is mainly deterrence as has been stated by other Justices of this Court, I believe a fine of $25,000 is appropriate in this case. There are no mitigating circumstances, as I find the defendant acted in very bad faith by continuing to offer the service after the settlement minutes had been signed, and even more so after the consent order had been given.
+[40]
+It is usual in a case of contempt for costs to be imposed on a solicitor-and-client basis.
+[41]
+In
+Louis Vuitton Malletier, S.A. et al. v. Bags O'Fun Inc. et al.
+, [2003] F.C.J. No. 1686; 242 F.T.R. 75; 2003 FC 1335 (T.D.), Madam Justice Dawson succinctly states the case for solicitor-and-client costs in a case of contempt such as this:
+"¶ 41 With respect to costs, where an application for an order finding contempt of Court is successful, the normal practice is to award reasonable costs on a solicitor-client basis to the party seeking enforcement of the Court order. This reflects the policy of the Court that a person who assists the Court in the enforcement of its orders and in ensuring respect for Court orders should not be put out of pocket. See, for example,
+Coca-Cola Ltd. v. Pardhan (c.o.b. Universal Exporters)
+, 5 C.P.R.(4th) 333 (F.C.T.D.), affd. (2003), 23 C.P.R.(4th) 173 (F.C.A.), on other grounds, and the authorities reviewed therein by Associate Chief Justice Lutfy (as he then was)."
+[42]
+I see no reason not to follow this reasoning here. Counsel for the applicant provided evidence of the costs as well as invoices. Pursuant to rule 400 (6)c), all costs are awarded on a solicitor-and-client basis. The applicant will also be entitled to his disbursements.
+ORDER
+[43]
+THIS COURT ORDERS that:
+1. The defendant Intracommar Inc. is found to have been in contempt of the order of Mr. Justice Pinard dated August 11, 2003;
+2. The defendant Intracommar Inc. shall pay a fine of $25,000;
+3. The defendant Intracommar Inc. shall pay to the plaintiffs their costs on a solicitor-and-client basis.
+Order accordingly.
+Editor: Angela E. McKay/gs
+[End of document]

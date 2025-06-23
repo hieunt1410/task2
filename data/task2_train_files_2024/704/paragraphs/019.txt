@@ -1,0 +1,11 @@
+[19]
+I turn first to the product claims. If it is determined that they are infringed, it will not be necessary to consider whether the process claims are also infringed. The product claims in the patent are 1 to 4, 9, 12 and 14 to 16. They read as follows:
+"1. A fabric having oppositely facing furry surfaces and comprising (a) an elongated strip of a hairy-coated skin of a fur-bearing animal twisted such that the skin forms an elongated longitudinally extending core of the strip and the hair stands radially outward from the skin and forms a substantially continuous outer layer which encircles the core; and (b) an elongated non-furry piece.
+"2. The fabric as claimed in Claim 1, wherein said twisted strip is knitted to form said fabric.
+"3. The fabric as claimed in Claim 1 wherein said twisted strip is crocheted to form said fabric.
+"4. The fabric as claimed in Claim 1 wherein said twisted strip is woven to form said fabric.
+"9. The fabric as claimed in Claim 1, wherein said elongated non-furry piece is disposed within and is surrounded by said skin.
+"12. A fabric having oppositely facing furry surfaces and comprising: an elongated twisted strip of a hairy-coated skin of a fur bearing animal; and an elongated non-furry piece, said skin and said non-furry piece being plied together to form a variegated composite yarn such that said skin alternates with said non-furry piece along the length of said yarn.
+"14. The fabric as claimed in Claim 12, wherein said twisted strip and said non-furry piece are knitted to form said fabric.
+"15. The fabric as claimed in Claim 12, wherein said twisted strip and said non-furry piece are crocheted to form said fabric.
+"16. The fabric as claimed in Claim 12, wherein said twisted strip and said non-furry piece are woven to form said fabric."

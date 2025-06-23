@@ -1,0 +1,149 @@
+[1]
+Teitelbaum, J.
+: This is an application by way of originating Notice of Motion pursuant to s. 57 of the
+Trade-marks Act
+, R.S.C. 1985, c. T-13 ("the
+Act
+"), by Everex System Inc. against Everdata Computer Inc., for an order striking the respondent's registration of the trademark Everdata from the register on the grounds that the entry as it appears on the register does not accurately express or define the existing rights of the person appearing as the registered owner of the mark as at the date of this application.
+Facts
+[2]
+On April 29, 1988, an application, serial number 606,043, was filed by STD Computer Inc. to register the trademark Everdata for computers, computer systems and computer peripherals based on proposed use of the trademark in Canada.
+[3]
+On July 12, 1988, the application for registration was assigned by STD Computer Inc. to the respondent, Everdata Computer Inc., and the registration was later issued under the registration number 358,700 on July 21, 1989, in the name of Everdata Computer Inc. Everdata Computer Inc. is therefore the owner of the Canadian trademark registration 358,700 for Everdata computers, computer systems and computer peripherals.
+[4]
+The applicant filed this application seeking a declaration that the respondent's trademark registration is invalid. The applicant also seeks an order that the entry of the registration be struck from the Trademarks Register on the following grounds:
+"The Grounds Of The Motion are that, as of the date of this application, the registration is invalid and the entry thereof as it appears on the register does not accurately express or define the rights of the person, namely the respondent, who appears to be the registered owner of the trademark, because:
+"1. The registration is invalid pursuant to s. 18 in that the applicant for registration, namely the respondent's predecessor in title namely, STD Computer Inc., was not the person entitled to registration in view of s. 16(3) of the
+Trade-marks Act
+in that at the date filing the application for registration, namely April 29, 1989, the trademark 'Everdata' was confusing with:
+(a) the trademark 'Everex' which had been previously used in Canada and made known in Canada by the applicant; and
+(b) the trade names 'Everex' and 'Everex Systems Inc. which had been previously used in Canada by the applicant;
+"2. The registration is invalid pursuant to s. 18(1)(b) of the
+Trade-marks Act
+in that the trademark is not distinctive of the respondent as of the date of commencing this proceeding in that the trademark does not actually distinguish nor is it adapted to distinguish the computers, computer systems and computer peripherals of the respondent from the computers, computer systems and computer peripherals of the applicant; and
+"3. The registration is invalid pursuant to s. 18(1)(c) of the
+Trade-marks Act
+in that the trademark has been abandoned."
+[5]
+The respondent filed the affidavits of Mr. Pui Kuong Lui, president and sole owner of STD Computer Inc. and of Mrs. Suk Ching Au Lui, president and sole owner of Everdata Computer Inc.
+[6]
+According to the Pui Kuong Lui affidavit, Everdata Computer Inc. was incorporated to retail the Everdata computer, computer systems and computer peripherals. For the period from about August 1988 to January, 1989, computers, computer systems and computer peripherals under the trademark Everdata were sold through three 51% owned subsidiaries of Everdata Computer Inc., namely, Everdata Computer (Dundas East) Inc., Everdata Computer (Yonge) Inc. and Everdata Computer (Scarborough) Inc.
+[7]
+Subsequently, for the period between January 1989 to July, 1990, the Everdata computers, computer systems and computer peripherals were imported from Hong Kong and distributed by STD Computer Inc. to dealers across Canada. Since about July of 1990, the Everdata computers, computer systems and computer peripherals have been distributed by another company owned by Mr. Lui namely, STD Electric Industries Ltd.
+[8]
+The total gross sales of computers, computer systems and computer peripherals under the Everdata mark between 1988 to October 1, 1991 were $2,470,000.
+[9]
+For its part, in support of this application, the applicant filed the affidavits of Mr. Gene Wasik, president of Servex Corporation Inc., ("Servex") and John K. Lee, Executive vice-president of Everex Systems, Inc.
+[10]
+According to the Wasik affidavit, from late July, 1984, Servex purchased from Everex Systems Inc., Everex computer equipment. The first Everex products purchased by Servex were hard disk subsystems. These items were in boxes marked with the "Everex" trademark. Furthermore, the name "Everex" was on the manuals and diskettes associated with these hard disk subsystems.
+[11]
+Initially, Servex received the Everex products in Niagara Falls, New York, and transported them into Canada. The company then sold the products to dealers in Canada who in turn, sold them to end-users. When Servex sold and delivered the Everex computer products in Canada, the Everex mark was on the boxes in which the products were sold and delivered.
+[12]
+In the autumn of 1984, Everex stopped shipping its Everex products to Servex at Niagara Falls, New York and started shipping the products directly to Servex in Oakville, Ontario.
+[13]
+From 1984 to date, Servex has continually sold Everex computers and computer equipment in Canada to dealers and those dealers have resold the computer equipment to end-users in Canada.
+[14]
+The total sales of Everex computers and computer equipment by Servex in Canada for the period between 1985 and 1990 were $82,633,000.
+Issues
+[15]
+1. Were the trademarks "Everex" and "Everdata" confusing at the date of filing of the application for registration by the respondent, namely April 29, 1988?
+2. Was the trademark "Everdata" distinctive of the respondent as of the date of the commencing this proceeding, namely September 16, 1991?
+3. Has the respondent abandoned the trademark "Everdata"?
+[16]
+Before getting into the analysis of this case, it is important to note that it is admitted that the applicant is a person interested pursuant to s. 57 of the
+Act
+. As a result, it is not necessary for me to discuss this point any further.
+Confusion
+[17]
+By virtue of paragraph 18(1) of the
+Act
+, a trademark is invalid if the applicant for registration was not the person entitled to secure the registration:
+"18(1) The registration of a trademark is invalid if
+(a) the trademark was not registrable at the date of registration,
+(b) the trademark is not distinctive at the time proceedings bringing the validity of the registration into question are commenced, or
+(c) the trademark has been abandoned, and subject to s. 17, it is invalid if the applicant for registration was not the person entitled to secure the registration."
+[18]
+Section 16 sets out the conditions under which an applicant may secure registration of a registrable trademark. More specifically, paragraph 16(3)(a) deals with proposed trademarks and provides that an applicant may secure registration of a trademark in respect of wares or services specified in an application
+unless at the date of filing
+of the application it was
+confusing
+with a trademark that had been previously used by another person:
+"16(3) Any applicant who has filed an application in accordance with s. 30 for registration of a proposed trademark that is registrable is entitled, subject to ss. 38 and 40, to secure its registration in respect of the wares or services specified in the application, unless at the date of filing of the application it was confusing with
+(a) a trademark that had been previously used in Canada or made known in Canada by another other person;"
+[19]
+When challenging the owner's registered trademark pursuant to s. 18 on the basis that the applicant for registration of the trademark was not the person entitled to registration, the burden of establishing a likelihood of "confusion" lies with the person seeking expungement. See for example
+La Maur Inc. v. Prodon Industries Ltd. et al.
+(1971), 2 C.P.R.(2d) 114; [1971] S.C.R. 973 at pp. 116-117 and
+Oshawa Holdings Ltd. v. Fjord Pacific Marine Industries Ltd.
+(1981), 36 N.R. 71; 55 C.P.R.(2d) 39 (F.C.A.) at p. 45. Moreover, s. 17(1) of the
+Act
+stipulates that the person expungement must establish that he or his predecessor in title had not abandoned the confusing trademark at the date of advertisement of the application pursuant to which the trademark was registered.
+[20]
+In addition, when dealing with the question of confusion, reference to s. 6, in particular subs. 6(5), of the
+Act
+must be made since it sets out the conditions which the court must consider in determining if a trademark used in association with wares gives rise to confusion.
+"6(5) In determining whether trademarks or trade names are confusing, the court or the Registrar, as the case may be, shall have regard to all the surrounding circumstances including
+(a) the inherent distinctiveness of the trademarks or trade names and the extent to which they have become known;
+(b) the length of time the trademarks or tradenames have been in use;
+(c) the nature of the wares, services or business;
+(d) the nature of the trade; and
+(e) the degree of resemblance between the trademarks and trade names in appearance or sound or in the ideas suggested by them."
+[21]
+In determining whether or not trademarks are confusing, the criteria set out in subs. 6(5) are not exhaustive. Moreover, it is not necessary that each of the criteria exist or be given equal weight. See, for example,
+Kellogg Salada Canada Inc. v. Registrar of Trademarks and Maximum Nutrition Ltd.
+(1987), 9 F.T.R. 136 at 139.
+[22]
+With respect to the inherent distinctiveness of the two marks and the extent to which they are known, it is my opinion that both the Everdata and Everex marks used in association with computer equipment are inherently distinctive. However, I agree with counsel for the applicant that the Everex trademark is more inherently distinctive than the Everdata trademark since the latter mark, specifically the suffix "data" is suggestive of computer data and, therefore, computers in general. Regarding the extent to which the marks are known, I am satisfied that the applicant's mark is better known than the respondent's. I am able to come to this conclusion by reference to the sales figures of both companies. The sales figures for both parties indicate that the applicant's mark has been used much more extensively than the respondent's mark. By 1988, the applicant's total sales were approximately $28,000,000 (par. 11, of the Wasik affidavit) in comparison to the respondent's total sales for the same year of $140,000 (par. 7, Pui Kuong Lui affidavit). Thus, it can be said that this consideration favours the applicant.
+[23]
+Insofar as the length of time the trademarks have been in use, it cannot be contested that the applicant's mark has been in use longer than the respondent's mark. Furthermore, it is apparent from the evidence that the applicant's mark has been used much more extensively than the respondent's mark. For example, in 1988, the respondent's predecessor applied for the trademark registration of the mark Everdata based on
+proposed use
+. Consequently, it is clear that the mark had not been in use prior to this date. In contrast, the applicant began selling the Everex computer equipment in late July 1984, to Servex Computers Inc., a Canadian corporation, who, I am satisfied acted as a distributor for the applicant. It is clear from the jurisprudence that this type of arrangement does in fact qualify as being "use" by the applicant. In the case of
+Manhattan Industries Inc. v. Princeton Manufacturing Ltd.
+(1971), 4 C.P.R.(2d) 6 (F.C.T.D.), it was held that use in Canada by a wholesaler or distributor of goods bearing the mark of the foreign trademark owner was "use" by the foreign owner, not the Canadian importer. This reasoning was also applied in
+Waxoyl A.G. v. Waxoyl Canada Ltd.
+(1984), 3 C.P.R.(3d) 105 (F.C.T.D.);
+Royal Doulton Tableware v. Cassidy's Ltd.
+(1984), 1 	C.P.R.(3d) 214 (F.C.T.D.);
+Argenti Inc. v. Exode Importations Inc.
+(1984), 8 C.P.R.(3d) 174 (F.C.T.D.);
+Lin Trading v. CBM Kabushiki Kaisha and Registrar of Trademarks
+(1988), 93 N.R. 321; 21 C.P.R.(3d) 417 (F.C.A.); and the recent decision
+FRAGMENT_SUPPRESSED
+[24]
+The nature of the wares concerned is virtually identical. Both the applicant and the respondent use the trademarks in question in association with computer equipment.
+[25]
+Considering the nature of trade, it is not necessary that one prove that the wares in question are, or have, in the past, been sold in the same places. Rather, one may properly look at whether the wares
+could
+eventually be sold in the same places. As stated by Mr. Justice Dubé in
+Cartier Inc. v. Cartier Optical Ltd./Lunettes Cartier Ltée
+(1988), 17 F.T.R. 106; 20 C.P.R.(3d) 68 (T.D.) at 74:
+"However, so as to establish the likelihood of confusion, it is not necessary to prove that the wares are sold in the same places, provided they are of the same general class, could eventually be sold in the same places, and the parties are entitled to do so: see
+Eminence, SA v. Registrar of Trademarks
+(1977), 39 C.P.R.(2d) 40."
+[26]
+In this case, both parties sell computer equipment by using distributors and dealers who then sell to end-users. For example, Everex sells its products using Servex Computer Inc. as its distributor. Similarly, the Everdata computer products are being distributed by STD Electric Industries Ltd. Moreover, since the wares in question are extremely similar, it is safe to assume that the same type of customers would ultimately purchase both products. Consequently, I agree with counsel for the applicant that there is a reasonable inference that the nature of the two trades is identical and it is possible that the two products could be sold in the same places.
+[27]
+Resemblance should be judged from the position of one who has a general recollection of one mark and who later sees the other mark so as to determine whether one would be likely to think that one mark originates from the same source as the other. See, for example
+British Drug Houses Ltd. v. Battle Pharmaceuticals
+(1944), 4 C.P.R. 48 (Ex. Ct.).
+[28]
+It is quite evident that the two marks namely "Everex" and "Everdata" are not identical. They do, however, possess the same prefix "Ever" which in my opinion is an important consideration in this case due to the family of "Ever" marks created by the applicant. There is ample evidence to support the statement made by the applicant that it expanded upon the "Ever" prefix and created a line of computer products. Exhibit "D" to the Wasik affidavit displays a computer diskette which is marked with the words "Everdisk" and "Everstore". Furthermore, Exhibit "B2" of the Wasik affidavit contains a picture of a computer monitor which is marked with the words "Evervision". In his affidavit at paragraph 17 and which I accept as evidence, Mr. Wasik explains that since about 1985, Servex has sold in Canada the hard disk drives from Everex bearing the trademark "Everdisk". Moreover, in 1986, Servex has sold in Canada computer diskettes and cards from Everex bearing the trademark "Evergraphics" and "Everstore". I am satisfied that the use of the family of "Ever" marks by the applicant was prior to April 29, 1988, the critical date.
+[29]
+Another relevant surrounding circumstance that merits consideration is the packaging in which Everex computer equipment has been sold in Canada by Servex. See for example Exhibit "E" of the Wasik affidavit. The slogan found on the boxes reads as follows: "Ever for excellence". This phrase indicates that the applicant has been capitalizing on the "Ever" prefix and does suggest that computer products containing the "Ever" mark are associated with the applicant.
+[30]
+In the circumstances, I am satisfied that the average computer purchaser who has a general recollection of the Everex line of computer equipment would infer that the Everdata mark was a logical extension identifying another product in the Everex line. To support this view, I quote Madam Justice Reed in
+Kabushiki Kaisha Edwin
+, also trading as
+Edwin Co. Ltd. v. S.D.B. Design Group Inc.
+(1986), 3 F.T.R. 209; 9 C.P.R.(3d) 465 (F.C.T.D.) at p. 469 who states that where there is a family of marks, there is greater likelihood that the public would consider another word in the family as another product manufactured by the same person who produced the wares in association with the family of marks:
+"But most significant is counsel's argument that because the applicant has used the words 'power old wash' in the context of a family of trademarks there is a greater likelihood than otherwise would be the case that the public would consider the words 'old wash' to signify merely another product manufactured by the same person as goods produced by the owner of the trademark Power Old Wash. I accept that argument."
+Conclusion
+[31]
+There is no need for the applicant to show actual confusion. The test is whether or not there is a likelihood of confusion. After examining the relevant surrounding circumstances in light of the evidence submitted in this case, I conclude that use by the respondent of the "Everdata" mark, at the date of the filing of the application for registration, would likely have led to the inference that the respondent's wares were those manufactured by the applicant.
+[32]
+In light of the above, I am satisfied that the applicant has discharged the onus of proving a likelihood of confusion at the material date and as such, there is no need for me to deal with the questions of distinctiveness or abandonment by the respondent. In addition, I am satisfied that the mark "Everex" has never been abandoned by the applicant.
+[33]
+Thus, I order that the trademark "Everdata", registration No. 358,700 dated July 21, 1989, be expunged from the register. The applicant is entitled to its costs.
+Application allowed.
+Editor: Janette Blue/slm
+[End of document]

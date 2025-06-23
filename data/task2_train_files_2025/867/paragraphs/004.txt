@@ -1,0 +1,34 @@
+[4]
+The son's academic record demonstrates that he has had little success in academia:
+1990/1991
+Grade 12
+Full-Time
+FAILED
+1991/1992
+Grade 12
+(Repeat)
+Full-Time
+PASSED
+1992/1993
+1st year B.S.C.
+Full-Time
+FAILED
+1993/1994
+1st year B.S.C.
+(Repeat)
+Full-Time
+FAILED
+1994/1995
+1st year B.S.C.
+(Repeat)
+Full-Time
+FAILED
+1995/1996
+1st year B.S.C.
+(Repeat)
+Full-Time
+FAILED
+1996/1997
+1st year B.S.C.
+Full-Time
+CONTINUING [see footnote 2]

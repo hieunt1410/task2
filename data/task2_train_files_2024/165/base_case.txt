@@ -1,0 +1,479 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geldon v. Can. (M.C.I.) (2015), 477 F.T.R. 173 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2015] F.T.R. TBEd. AP.009 
+ 
+ 
+ 
+ Barre Farah Geldon (applicant) v. The Minister of Citizenship and Immigration (respondent) 
+ 
+ (IMM-1038-14; 2015 FC 374) 
+ 
+ 
+ 
+ Indexed As: Geldon v. Canada (Minister of Citizenship and Immigration) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ LeBlanc, J. 
+ 
+ March 24, 2015. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The Refugee Protection Division of the Immigration and Refugee Board rejected Geldon's claim for refugee protection. Geldon appealed. The Refugee Appeal Division, applying a standard of review of reasonableness, dismissed the appeal. Geldon applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court allowed the application, remitting the matter for redetermination by a different panel. 
+ 
+ 
+ 
+ Aliens - Topic 1331 
+ 
+ Admission - Refugee protection, Convention refugees and persons in need of protection - Evidence - The Federal Court indicated that the interpretation of s. 110(4) of the Immigration and Refugee Protection Act regarding the admissibility of fresh evidence on an appeal was to be "sufficiently flexible to ensure that such claimants have access to a 'full fact-based appeal', as intended by Parliament, especially considering the strict timelines a claimant now faces for initially submitting evidence before the [Refugee Protection Division of the Immigration and Refugee Board]" - Section 110(4) was not to be interpreted based on the wording and jurisprudence of s. 113, which governed the admissibility of evidence in the context of pre-removal risk assessments - See paragraphs 16 to 21. 
+ 
+ 
+ 
+ Aliens - Topic 1334 
+ 
+ Admission - Refugee protection, Convention refugees and persons in need of protection - Appeals or judicial review - Scope of review - The Refugee Protection Division (RPD) of the Immigration and Refugee Board rejected Geldon's claim for refugee protection - Geldon appealed - The Refugee Appeal Division (RAD), applying a standard of review of reasonableness, dismissed the appeal - The Federal Court allowed Geldon's application for judicial review, remitting the matter for redetermination by a different panel - The RAD was intended to be an administrative tribunal with expertise equal to that of the RPD in the area of refugee protection so as to be in a position to correct errors that the RPD might have committed - An appeal before the RAD was to be a "complete review" of the questions of fact, law and mixed fact and law raised in the appeal - It was a full, fact-based appeal, rather than a form of judicial review - By reviewing the RPD's decision on a reasonableness standard, the RAD had deprived Geldon of the appeal process that Parliament had created - See paragraphs 9 to 15. 
+ 
+ 
+ 
+ Aliens - Topic 4071 
+ 
+ Practice - Judicial review and appeals - Fresh evidence - [See  
+ Aliens - Topic 1331 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Immigration and Refugee Protection Act, S.C. 2001, c. 27, sect. 110(4) [para. 16]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ David Matas, for the applicant; 
+ 
+ Nalini Reddy, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ David Matas, Winnipeg, Manitoba, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Winnipeg, Manitoba, for the respondent. 
+ 
+ 
+ 
+ This application was heard at Winnipeg, Manitoba, on November 4, 2014, by LeBlanc, J., of the Federal Court, who delivered the following reasons for judgment at Ottawa, Ontario, on March 24, 2015. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ I.  
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ LeBlanc, J. 
+ : The Applicant seeks judicial review of a decision of the Refugee Appeal Division (RAD) confirming the decision of the Refugee Protection Division (RPD) of the Immigration and Refugee Board of Canada that the Applicant is neither a Convention refugee nor a person in need of protection within the meaning of sections 96 and 97 of the  
+ Immigration and Refugee Protection Act 
+ , SC 2001, c 27 (Act). 
+ 
+ 
+ 
+ [2] 
+  The Applicant is a citizen of Somalia. He is a widower and father of three children. His wife died in a car accident in September of 2011. He arrived in Canada in May 2013 and filed for refugee protection a few weeks later. His children remained in Somalia. 
+ 
+ 
+ 
+ [3] 
+  The Applicant claims to be a Sunni-Muslim and a member of a minority group, the Tumaal tribe. He fears persecution from a radical Islamic fundamentalist group, Al Shabab, for starting a relationship with a divorced woman following the death of his wife. He says that Al Shabab came after them for being in an adulterous relationship which caused this woman to be stoned to death. As this woman was from another tribe, he also fears reprisals from the members of her tribe who hold him responsible for her death. Finally, the Applicant alleges having been targeted by Al Shabab in 2010 for owning a video store providing material contrary to their beliefs. 
+ 
+ 
+ 
+ [4] 
+  The RPD rejected the Applicant's refugee protection claim after finding he was not credible in a number of respects, including his membership in the minority Tumaal clan, his reasons for leaving Somalia and his alleged relationship with the divorced woman. 
+ 
+ 
+ 
+ [5] 
+  The Applicant appealed that decision to the RAD. The issue of concern to the Court at this time is how the RAD defined the standard of review it should employ in the circumstances of the appeal before it. The relevant text from the decision on this issue reads as follows: 
+ 
+ 
+ 
+ [41] The appellant has made no submissions as to the appropriate standard of review the RAD should employ in the circumstances of this appeal. 
+ 
+ 
+ 
+ [42] When considering such standards with regard to the judicial review of administrative tribunal determinations, the Supreme Court of Canada (the SCC) in  
+ Dunsmuir 
+  held that a standard of review analysis need not be conducted in every instance. Instead, where the standard of review applicable to a specific issue before a review court is well settled by past jurisprudence, a reviewing court may adopt that standard of review. It is when that search proves fruitless that a reviewing court must undertake a consideration of factors comprising the standard of review analysis. 
+ 
+ 
+ 
+ [43] The RAD is a new appellate administrative tribunal about which, to the best of my knowledge, the Federal Court has yet to comment on the question of what standard of review the RAD should apply under various circumstances that might come before it. 
+ 
+ 
+ 
+ [44] However, some RAD decisions which,  
+ inter alia 
+ , set out detailed analysis establishing standards of review to be applied by the RAD, have now been made publicly available. 
+ 
+ 
+ 
+ [45] In my assessment, the issues raised by the appellant in this case concern issues of fact or of mixed fact and law. The RAD has previously determined that appeals based on such are to be assessed on a reasonableness standard. I agree with those conclusions and will apply that standard in this case. 
+ 
+ 
+ 
+ [46] In assessing reasonability, the Supreme Court of Canada, in  
+ Dunsmuir 
+  noted in paragraph 47 of its decision: 
+ 
+ 
+ 
+ In judicial review, reasonableness is concerned mostly with the existence of justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within range of possible, acceptable outcomes which are defensible in respect of the facts and law. 
+ 
+ 
+ 
+ [47] The SCC made clear that on judicial review a court should not lightly interfere with a decision, even when the decision may not have been the one which the reviewing court would have reached on its own. As the SCC noted further in its subsequent decision in  
+ Khosa 
+ : 
+ 
+ 
+ 
+ There may be more than one reasonable outcome. However, as long as the process and the outcome fit comfortably with the principles of justification, transparency and intelligibility, it is not open to a reviewing court to substitute its own view of a preferable outcome. 
+ 
+ 
+ 
+ [6] 
+  At paragraph 104 of its decision, the RAD concluded that, overall, "the conclusions drawn by the RPD were reasonable as that word has been interpreted by the SCC in  
+ Dunsmuir 
+ ." As a result, the RAD confirmed the RPD determination that the Applicant was not a Convention refugee or a person in need of protection. 
+ 
+ 
+ 
+ II.  
+ Issue 
+ 
+ 
+ 
+ [7] 
+  The issue to be determined in this case is the appropriate type of review to be undertaken by the RAD, as required by the Act, when adjudicating an appeal from an RPD decision. 
+ 
+ 
+ 
+ [8] 
+  Given my answer to that question, it will not be necessary to decide whether the RAD's decision on the merits of the case is open to review. 
+ 
+ 
+ 
+ III.  
+ Analysis 
+ 
+ 
+ 
+ [9] 
+  As the RAD correctly points out, when it issued its decision in February 2014, this Court had yet to comment on the question of the type of review the RAD should apply when reviewing a decision from the RPD. The same is true of the parties when they filed their written submissions. 
+ 
+ 
+ 
+ [10] 
+  However, the Court has now had the opportunity to decide on this issue and to certify questions for the Federal Court of Appeal to answer. In so doing, the Court has systematically rejected the position taken by the RAD which has consistently been, as is the case here, that its role is to review the decisions of the RPD on a reasonableness standard of review, as this standard has been defined in  
+ Dunsmuir 
+ , above. The Court has arrived at that result whether it has reviewed the RAD's position on this issue on the standard of correctness or on the standard of reasonableness ( 
+ Iyamuremye v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 494;  
+ Triastcin 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 975;  
+ Akuffo 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 1063;  
+ Alvarez 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 702;  
+ Eng 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 711;  
+ Njeukam 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 859;  
+ Yetna v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 858;  
+ Spasoja 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 913;  
+ Huruglica 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 799;  
+ Diarra 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 1009;  
+ Guardado 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 953;  
+ Alyafi 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 952;  
+ Djossou 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 1080). 
+ 
+ 
+ 
+ [11] 
+  On December 19, 2014, in  
+ Aloulou c Canada (Ministre de la Citoyenneté et de l'Immigration 
+ ), 2014 CF 1236, I expressed the view that the RAD's position regarding its role as an appellate statutory body offended what Parliament intended that role to be and was, as a result, not legally defensible. I summarized, at paragraph 52 of that decision, what appears to me to be the consensus developed among the judges of this Court as to the justification for rejecting the approach advocated by the RAD: 
+ 
+ 
+ 
+ a. To conceive the standard of review to be applied by the RAD as being similar to the reasonableness standard used in the context of judicial review of decisions from administrative tribunals, amounts to a mere duplication of the role of the RAD and that of the Court; 
+ 
+ 
+ 
+ b. Such duplication is incompatible with the responsibilities and powers that Parliament vested in the RAD, making it a specialized administrative tribunal, especially considering the decision-making and reformatory powers vested in the RAD, which are broader in scope than those normally applicable in the context of judicial review; 
+ 
+ 
+ 
+ c. Such duplication is also antithetical to the presumption that by creating the RAD, Parliament intended to establish a means to review RPD decisions that is different from what already exists; 
+ 
+ 
+ 
+ d. Nothing in the Hansard supports the idea that the RAD was intended to play a role that is confined to reviewing the decisions of the RPD on the basis of a deferential standard of review such as the reasonableness standard; and 
+ 
+ 
+ 
+ e. Finally, the approach taken by the RAD ignores the substantial differences between an appeal and a judicial review. In this regard, it trivialized the concept of standard of review which, in the perspective of the doctrine of the separation of powers, is inherent to the relationship between the Executive and Judiciary branches of government, and not, strictly speaking, to the relationship between two bodies of the same branch of government, as is the case with the RPD and the RAD. 
+ 
+ 
+ 
+ [12] 
+  As my colleague Justice Yvan Roy, pointed out in  
+ Spasoja 
+ , above, the Act, when read as a whole, does not suggest that the RAD must show deference to the decisions of the RPD within the meaning of the reasonableness standard. Rather, it suggests the opposite: 
+ 
+ 
+ 
+ The second observation is that the legislative scheme, viewed as a whole, does not at all suggest deference within the meaning of the reasonableness standard. To the contrary, the Act instructs the RAD to examine the record of proceedings before the RPD while admitting additional evidence, in the prescribed circumstances. The English version of subsection 111(1) specifically states "[a]fter considering the appeal" before stating the possible outcomes for the RAD. There is no question of owing deference: the determination is confirmed or a new determination is substituted. If there was an error of fact or law, or mixed fact and law, but the RAD cannot confirm or substitute its determination without a new hearing to reassess the evidence before the RPD, the matter is referred back. I fail to see where deference, arising from the reasonableness standard, fits into that scheme considered as a whole. 
+ 
+ 
+ 
+ ( 
+ Spasoja 
+ , at para 20) 
+ 
+ 
+ 
+ [13] 
+  In  
+ Djossou 
+ , above, Justice Luc Martineau expressed the view that the objective Parliament was pursuing in creating the RAD was two-fold: first, it was to create an administrative tribunal with equal expertise in the area of refugee protection than that of the RPD so as to be in a position to correct the errors the RPD might have committed by proceeding, given that expertise, to a "complete review of questions of fact, law and mixed law and fact"; second, it was to ensure consistency in the decision-making process by establishing, through the decisions of the RAD, uniformity in the Immigration and Refugee Board's jurisprudence respecting refugee protection ( 
+ Djossou 
+ , at para 41 and 86;  
+ Aloulou 
+ , above at para 59). 
+ 
+ 
+ 
+ [14] 
+  As I indicated in  
+ Aloulou 
+ , I fully agree with that characterization of Parliament's intent in creating the RAD. Unless the Federal Court of Appeal or the Supreme Court of Canada eventually rule otherwise, an appeal before the RAD shall therefore involve a "complete review" of the questions of fact, law and mixed law and fact raised in the appeal. In other words, an appeal before the RAD is intended to be a "full fact-based appeal", not just another form of judicial review FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [15] 
+  Here, by reviewing the RPD's decision in this case through  
+ Dunsmuir's 
+  reasonableness standard of review, the RAD stood on the wrong foot and, in so doing, deprived the Applicant access to the appeal process Parliament created to the benefit of failed refugee claimants. As the Applicant's counsel indicated at the hearing, this error is dispositive of the present judicial review application. 
+ 
+ 
+ 
+ [16] 
+  The RAD's decision in this case raises another area of concern; that of the interpretation of subsection 110(4) of the Act regarding the admissibility of new evidence submitted by the Applicant on his clanship affiliation. The RAD took the view that given their "near identical wording", subsection 110(4) was to be interpreted alike to section 113, which governs the admissibility of new evidence in the context of Pre-Removal Risk Assessments (PRRA) and that the Federal Courts' jurisprudence regarding that provision of the Act was relevant in this regard as it provided "important guidance with respect to the interpretation of subsection 110(4)." 
+ 
+ 
+ 
+ [17] 
+  Again, the RAD adopted that approach prior to this Court being engaged on this issue. In  
+ Singh 
+ , above, which was issued on October 28, 2014, Justice Jocelyne Gagné ruled that it was unreasonable for the RAD to strictly apply the section 113 jurisprudence in interpreting subsection 110(4) as this approach failed in two respects. First, it failed to appreciate the differences in the respective roles of the RAD and of a PRRA officer, one being a quasi-judicial body acting as an appellate tribunal of the RPD decisions, the other having no appeal role with regards to these decisions and no quasi-judicial functions ( 
+ Singh 
+ , above at para 49-50 and 57). Second, it failed to appreciate Parliament's intention in creating the RAD which was to give a "full-fact based appeal" to failed refugee claimants ( 
+ Singh 
+ , above at para 54). 
+ 
+ 
+ 
+ [18] 
+  As a result, it was important, according to Justice Gagné, that the criteria regarding the admissibility of evidence in the context of a request made under subsection 110(4) of the Act, be sufficiently flexible to ensure that such claimants have access to a "full-fact based appeal", as intended by Parliament, especially considering the strict timelines a claimant now faces for initially submitting evidence before the RPD ( 
+ Singh 
+ , above at para 55). 
+ 
+ 
+ 
+ [19] 
+  Commenting on the seminal section 113 authority of  
+ Raza v Canada (Minister of Citizenship and Immigration) 
+ , 2007 FCA 385, Justice Gagné further wrote, at paragraph 56 of her reasons for judgment, that: 
+ 
+ 
+ 
+ In Raza, Justice Sharlow distinguishes between the express and the implicit questions raised by paragraph 113(a) of the Act and specifically states that the four implied questions (credibility, relevance, newness and materiality) find their source in the purpose of paragraph 113(a) within the statutory scheme of the Act relating to refugee claims and PRRA applications. In my view, they need to be addressed in that specific context and are not transferable in the context of an appeal before the RAD. 
+ 
+ 
+ 
+ [20] 
+   
+ Singh 
+  was followed in subsequent cases ( 
+ Djossou 
+ , above, and  
+ Khachatourian 
+   
+ v Canada (Minister of Citizenship and Immigration) 
+ , 2015 FC 182), and the following two questions were certified: 
+ 
+ 
+ 
+ a. What standard of review should be applied by this Court when reviewing the Refugee Appeal Division's interpretation of subsection 110(4) of the  
+ Immigration and Refugee Protection Act 
+ , SC 2001, c 27? 
+ 
+ 
+ 
+ b. In considering the role of a Pre-Removal Risk Assessment officer and that of the Refugee Appeal Division of the Immigration and Refugee Board, sitting in appeal of a decision of the Refugee Protection Division, does the test set out in  
+ Raza v Canada (Minister of Citizenship and Immigration) 
+ , 2007 FCA 385 for the interpretation of paragraph 113( 
+ a 
+ ) of the  
+ Immigration and Refugee Protection Act, 
+  SC 2001, c 27 apply to its subsection 110(4)? 
+ 
+ 
+ 
+ [21] 
+  I see no reason to depart from Justice Gagné's reasons in  
+ Singh 
+  as to the interplay between subsection 110(4) and section 113 and the interpretation to be ultimately given to subsection 110(4). The Applicant's request under subsection 110(4) for the filing of new evidence as to his clanship affiliation was an important feature of his appeal before the RAD as it concerned a key aspect of the RPD's negative credibility finding. This request must be assessed in accordance with Justice Gagné's ruling in  
+ Singh 
+  and not, as the RAD did in this case, strictly on the basis of the wording and jurisprudence of section 113. 
+ 
+ 
+ 
+ [22] 
+  The Applicant's judicial review application is granted and the matter is remitted back to a different member for re-determination. 
+ 
+ 
+ 
+ [23] 
+  While the Applicant had a question for certification to propose if his application for judicial review was dismissed, the Respondent had none. No question will therefore be certified although, it is worth mentioning that, questions relating to the issue of the appropriate type of review to be undertaken by the RAD, as required by the Act, when adjudicating an appeal from an RPD decision, have, to date, been certified in at least five cases ( 
+ Huruglica 
+ ,  
+ Triastcin 
+ ,  
+ Yetna 
+ ,  
+ Akuffo 
+  and  
+ Spasoja 
+  above). 
+ 
+ 
+ 
+ [24] 
+  Ultimately, the Federal Court of Appeal will provide its views on this important issue. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [25] 
+   
+ THIS COURT'S JUDGMENT is that 
+ : 
+ 
+ 
+ 
+ 1. The application for judicial review is granted. 
+ 
+ 
+ 
+ 2. The decision of the Refugee Appeal Division of the Immigration and Refugee Board of Canada, dated February 6, 2014, is set aside and the matter is remitted back to a different member for re-determination. 
+ 
+ 
+ 
+ 3. No question is certified. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Sharon McCartney/nmg 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

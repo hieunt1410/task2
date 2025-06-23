@@ -1,0 +1,36 @@
+[40]
+The plaintiffs' counsel in his written submissions, drew such best prices per pound from the invoices in exhibit 11, thus:
+choice large
+$1.26
+choice medium
+1.04
+choice small
+.86
+standard large
+$1.16
+standard medium
+.94
+standard small
+.75
+Application of the weights shown in exhibit 10, to the best prices per pound revealed in the invoices in exhibit 11, produces the following calculation:
+choice large
+2,125 lbs. x 1.26
+$2,677.50
+choice medium
+13,912 lbs. x 1.04
+14,468.48
+choice small
+2,547 lbs. x .86
+2,190.42
+standard large
+12,594 lbs. x 1.16
+14,609.04
+standard medium
+94,455 lbs. x .94
+88,787.70
+standard small
+28,167 lbs. x .75
+21,125.25
+TOTAL:
+153,800 lbs.
+$143,858.39

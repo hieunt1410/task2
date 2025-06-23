@@ -1,0 +1,106 @@
+[1]
+Pinard, J.
+: This is an application for judicial review under s. 18 of the
+Federal Court Act
+, R.S.C. 1985, c. F-7, from a decision of an adjudicator made pursuant to Part III, Division XIV of the
+Canada Labour Code
+, R.S.C. 1985, c. L-2 and amendments thereto, (the "
+Code
+") dated March 24, 1997. The applicant seeks an order quashing the decision on the basis that the adjudicator lacked jurisdiction and that his findings were not supported in fact or law.
+Facts
+[2]
+The respondent began employment with the Maliseet Nation at Tobique on November 27, 1978 and was employed for 17 years. During this time, she held a variety of positions including Assistant to the Band Chief, Band Personnel Manager and Central Filing Clerk within the Personnel and In­formation Services Department of the band.
+[3]
+On February 1, 1996 the respondent was given written notice by the chief of the Tobique band, Mr. Edwin Bernard, that she would be laid off the next day due to budgetary constraints. The letter stated that she would be given two weeks' salary in lieu of notice.
+[4]
+While 20 employees were laid off at this time, the applicant also retained ap­proximately 20 employees, some of whom had less service than the respondent.
+[5]
+The respondent filed a complaint under s. 240 of the
+Code
+on February 26, 1996 for unjust dismissal. The hearing was held on December 13, 1996 before adjudicator Eugene McGinley in Perth-Andover, New Brunswick.
+[6]
+The decision of adjudicator McGinley was issued on March 24, 1997 and found that the respondent had been unjustly dis­missed by the applicant. The applicant was ordered to reinstate the respondent in a suitable position and to negotiate com­pensation for her for the losses caused by the invalid dismissal.
+[7]
+As of yet, the respondent has not been reinstated by the applicant. On April 23, 1997 the applicant filed an application for judicial review with the Federal Court of Appeal but this application was denied as the matter was outside of its jurisdiction.
+[8]
+On July 16, 1997 the applicant filed a notice of motion to transfer the application to the Federal Court of Canada, Trial Division. The motion was not opposed by the respondent and was granted on Septem­ber 9, 1998.
+The Decision Of The Adjudicator
+[9]
+The crux of the adjudicator's decision can be found at para. 22 of his reasons and reads as follows:
+"Having listened intently to the testimonies by Pauline Bear, as well as the brief ar­guments by counsel, and having reviewed that testimony and the exhibits very care­fully, I am of the opinion that the term 'constructive dismissal' best describes what did transpire in this instance. I do not believe that there was any malice involved on the part of the employer, nor has there been any suggestion of either incompetence on the part of Mrs. Bear or disciplinary action by the employer. Reduced to its simplest terms, the evidence is that Pauline Bear had a good record of long service with the Tobique band and she in effect lost her employment at a time when numerous employees were laid off in February, 1996. I note again that no con­sideration was given to her length of ser­vice either at the time of the alleged 'lay-off' or in the course of events which saw other junior employees returned to employ­ment in positions which it should have been apparent that Mrs. Bear could have filled. The undeniable fact is that Mrs. Bear was removed from employment in February, 1996 and has not been taken back by the employer. In that result, I find that Pauline Bear was constructively dis­missed. While the evidence of the financial constraints as described by Mr. Perley might offer justification for the lay-off of some of the employees who were laid off, there is no evidence of any justification for dismissal of Mrs. Bear and I must con­clude therefore that she was unjustly dis­missed."
+Analysis
+[10]
+The relevant statutory provisions, namely ss. 240, 241, 242, 243 and 244 of the
+Code
+are reproduced in the Annex to these reasons [omitted].
+[11]
+With respect to the applicant's first argument concerning the adjudicator's juris­diction, s. 242(3.1)(a) of the
+Code
+defines the parameters of that jurisdiction as follows:
+"242(3.1) No complaint shall be considered by an adjudicator under subs. (3) in respect of a person where
+(a) that person has been laid off because of lack of work or because of the dis­continuance of a function; or ..."
+"242(3.1) L'arbitre ne peut procéder à l'instruction de la plainte dans l'un ou l'autre des cas suivants:
+a) le plaignant a été licencié en raison du manque de travail ou de la suppression d'un poste; ..."
+[12]
+The Federal Court of Appeal's decision in
+Srougi v. Lufthansa German Airlines
+(1988), 93 N.R. 244 (F.C.A.), is authority for the adjudicator having the jurisdiction to hear a complaint of unjust dismissal once the employer's actions are found to disclose a clear intention to end the employment relationship. On this issue, Justice Noël for this court (as he then was) in
+Sagkeeng Education Authority Inc. v. Guimond et al.
+, [1996] 1 F.C. 387; 103 F.T.R. 274 (T.D.), stated at p. 396:
+"The determination of whether the respondent was dismissed by the applicant is thus a precondition to the adjudicator's jurisdiction. According to the decision of the Supreme Court of Canada in
+Bibeault
+[[1988] 2 S.C.R. 1048] and the jurisprudence reviewed above, the standard of judicial review on a jurisdictional question such as the interpretation of s. 240(1) is one of correctness. Although the decision of an adjudicator appointed under the
+Canada Labour Code
+is protected by a finality clause, it is well established that the requirement that an administrative tribunal be correct in its interpretation of a jurisdiction-conferring statutory provision nevertheless applies."
+[13]
+Applying this reasoning to the facts of the present case, adjudicator McGinley was obliged to examine the evidence in order to assess whether the employer had made a bona fide lay-off or whether there had been a dismissal. In this case, the adjudicator found that the employer's assertion that the lay-off was purely for financial reasons was unfounded and therefore assumed jurisdiction to consider the merits of the case.
+[14]
+This interpretation of s. 240(1) was affirmed by my colleague Nadon, J., in
+FRAGMENT_SUPPRESSED
+[15]
+It follows, therefore, that an adjudicator is well within his jurisdiction in considering the merits of the employer's assertion that a termination is due to either lack of work or the discontinuance of a function.
+[16]
+Therefore, I cannot agree with the applicant's submission with respect to the jurisdiction of adjudicator McGinley in examining the circumstances of the lay-off and to his subsequently assuming jurisdiction on the matter. It is my view that the adjudicator rightly considered the evidence and assumed jurisdiction of the complaint.
+[17]
+On this point, the applicant emphasized that counsel for the respondent had acknowledged that financial constraints were the basis for the lay-off as support for his position that the adjudicator did not have jurisdiction in the matter as it was a lay-off for the reasons described in s. 242(3.1)(a).
+[18]
+With respect to this argument, I am satisfied that while the respondent recognized the reason for the downsizing was financial, the respondent went on to specify that it was the nature of the treatment of the respondent which formed the basis of the complaint as it constituted unjust dismissal. It was incumbent upon the adjudicator to examine all the circumstances surrounding the lay-off of the respondent including the competency of the employee, the length of service, the possible motives, and whether the employee was recalled at the next possible opportunity. It was his obligation to thoroughly examine whether the lay-off was reasonable in light of all the evidence. As there was no direct evidence of lack of work or of discontinuance of a function, the adjudicator was certainly justified to consider whether the employer acted in a discriminatory or arbitrary manner in selecting the respondent for lay-off, or in not selecting her for positions which subsequently were filled.
+[19]
+Having read the impugned reasons and carefully considered the arguments of both parties on the question of jurisdiction, I am satisfied that adjudicator McGinley was not persuaded by the assertion of the applicant that the respondent's lay-off was neither arbitrary or discriminatory. He found that while the respondent was laid off with the other 19 employees due to budgetary constraints, the treatment she received was unjust and amounted to constructive dismissal.
+[20]
+Applying the proper standard of review, correctness, to that proper finding of jurisdictional facts, [see footnote 1] I have not been convinced, upon reviewing the evidence presented before the adjudicator, that the latter based his decision on an erroneous finding of fact that he made in a perverse or capricious manner or without regard for the material before it.
+[21]
+In considering the applicant's second argument that the adjudicator's findings were not supported in fact or law, I must adopt a standard of review corresponding to the functional and pragmatic approach which has been affirmed by the Supreme Court of Canada in several recent cases (see, for example,
+Pushpanathan v. Canada (Minister of Citizenship and Immigration)
+, [1998] 1 S.C.R. 982; 226 N.R. 201 and
+Director of Investigation and Research, Competition Act v. Southam Inc. et al.
+, [1997] 1 S.C.R. 748; 209 N.R. 20).
+[22]
+In the case at bar, considering the privative clause contained in s. 243(1) of the
+Code
+; considering that the adjudicator acted within the limits of the jurisdiction conferred upon him by the same
+Code
+; considering that the administrative structure imposed by the
+Code
+creates an effective mechanism to achieve the goals of managing the interests of employers and employees with the aim of effecting solutions which concurrently balance the advantages and disadvantages of the parties involved; considering that adjudicator McGinley possesses a high degree of expertise in the matters raised by this application as he is charged with resolving disputes between employers and employees on a continual basis and has developed a specialized knowledge in this area and considering that with respect to the merits of the complaint, the issue is primarily based on factual findings; I conclude that a high degree of deference must be accorded to the decision of the adjudicator and that the standard of patent unreasonableness must be applied.
+[23]
+In this case, the evidence presented before the adjudicator showed that the respondent had been laid off with 19 other employees in February 1996 and was not told at the time how long the lay-off would be or what considerations informed the selection of those laid off, other than that only those employees in essential positions were kept by the employer.
+[24]
+Further, the facts show that the respondent's position in the Central Registry was re-filled in mid-April when the band received new monies, however, the respondent was never contacted in regard to this opening. While the applicant argues that the respondent herself was responsible for not being rehired as she had not gone to see the chief, the evidence points to the fact that she requested in writing to be reinstated in February 1996 following the lay-off. I am convinced that the applicant was aware of the respondent's desire to be placed in her previous position or another suitable position and made no effort to accommodate her when new funds became available.
+[25]
+Based on these reasons, I am satisfied that the adjudicator was not incorrect in his interpretation of the facts and in finding that the actions of the employer were not a lay-off but rather amounted to a dismissal. Furthermore, I cannot agree with the applicant that the adjudicator made a reviewable error in fact or law.
+[26]
+The applicant relies on the fact that although the respondent's work was reassigned, the entire reason for the reassignment was due to the prevailing economic conditions and not because of any intention to dismiss the respondent. However, the evidence indicates that the position formerly occupied by the respondent was re-filled by two other employees after the respondent had written the letter requesting to be rehired that was sent in February 1996.
+[27]
+This leads me to believe that her desire to be reinstated was known, and therefore, the applicant cannot now rely on the argument that the respondent did not ask for a position with the applicant. This allegation is unsupported by the facts.
+[28]
+Under such circumstances, I am far from being convinced that the adjudicator's findings are patently unreasonable. On the contrary, the award at issue is solidly based on the written and oral evidence presented before him and I find that adjudicator McGinley was reasonable in his conclusion that the respondent was not genuinely laid off but rather was constructively dismissed. Consequently, there is no basis for interference by this court in the matter.
+[29]
+For all the above reasons, the application for judicial review is dismissed, with costs.
+Application dismissed.
+Editor: Geoffrey D. Peters/kaw
+Footnotes
+1. See
+Byers Transport Ltd. v. Kosanovich and Mellors
+(1995), 185 N.R. 107; 126 D.L.R. (4th) 679 (F.C.A.), at 685-686.
+[End of document]

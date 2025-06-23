@@ -1,0 +1,207 @@
+[1]
+Wetston, J.
+: By motion, the defendants have requested four different forms of relief. However, as I indicated during the hearing, in my opinion, it is only appropriate to consider the defendants' motion to strike certain paragraphs of the statement of claim under rule 419 of the
+Federal Court Rules
+. In this regard, I shall not deal with the defendants' request to rescind or vary the granting of an interlocutory injunction against the defendants, the request for a determination of questions of law under rule 474, nor the defendants' request for access to affidavits filed in support of the plaintiffs' motions for an interlocutory injunction.
+[2]
+By statement of claim filed December 19, 1995, the plaintiffs, Coca-Cola Ltd. ("CCL") and Coca-Cola Bottling Ltd. ("CCBL"), commenced an action against the defendants, alleging that they infringed the plaintiffs' trademarks, and depreciated the value of the plaintiffs' goodwill in them, by selling Coca-Cola, made for sale and consumption only in Canada, abroad. On January 8, 1996, the plaintiffs obtained an interlocutory injunction and an Anton Piller Order against the defendants. Copies of documents seized upon execution of the Anton Piller Order were also provided to counsel for the parties in a complementary action in the United States launched by CCL and its American parent company against the defendants and one of their clients, Omni Pacific Company.
+[3]
+The defendants filed a statement of defence and counterclaim on March 14, 1996, portions of which were struck upon motion of the plaintiffs, on May 15, 1996. The plaintiffs also brought a motion for costs in the interlocutory proceedings, in January 1997, which was subsequently denied on July 8, 1997. The defendants filed this present motion on June 2, 1997, and on July 29, 1997, the plaintiffs brought a further motion for another Anton Piller Order against the defendants and for a show cause hearing in respect of an alleged breach of the interlocutory injunction against the defendants.
+[4]
+At the same time as these proceedings were taking place, the plaintiffs' complimentary action, originally filed in the United States on December 20, 1995, has been the subject of various motions for interlocutory relief (by the plaintiffs) and to strike claims (by the defendants). On August 14, 1997, the United States District Court for the Northern District of California dismissed eight of the nine claims in the plaintiffs' action, including claims relating to alleged breaches of the U.S. trademark statute, the
+Lanham Act
+, 15 U.S.C. §§ 1114; 1125. The defendants in this proceeding contend that the claims struck by the U.S. Court are substantially the same as those which are the subject of this motion.
+[5]
+The defendants argue that the plaintiffs' two primary claims cannot stand, i.e., that the defendants' export of Coca-Cola products purchased in Canada is an unauthorized use of the plaintiffs' trademarks in those products, under the
+Trade-marks Act
+, R.S.C. 1985, c. T-13, and that the effect of the defendant's activities constitutes a devaluation of the plaintiffs' goodwill in those marks, in breach of s. 22(1) of the
+Act
+. They contend that mere export of trademarked products does not constitute "use" within the definition provided in s. 4(3) of the
+Act
+. Moreover, if there has been any devaluation of goodwill in the subject marks, which is denied, that can be attributed to the activities of the defendants, it occurred outside Canada, and is thus not subject to any determination under s. 22 of the
+Act
+. If it can be established that the defendants' purchase and subsequent resale of Coca-Cola products abroad violated the plaintiffs' policy that such products may be purchased for domestic consumption only, which is enforced by CCL through licensing agreements, such a violation is a matter of common law of contract and, therefore, beyond the jurisdiction of this court.
+[6]
+The plaintiffs argue that the defendants' motion must fail because the defendants have pleaded over the impugned paragraphs of the statement of claim, and have delayed in bringing their motion to strike. Moreover, the plaintiffs argue that s. 4(3) of the
+Act
+clearly provides that the export of trademarked wares constitute "use", and that the exclusive right of a trademark owner to make use of its mark under s. 20(1) of the
+Act
+includes the right of export. Therefore the defendants' activities constitute infringement under the
+Act
+.
+[7]
+The plaintiffs also submit that s. 8 of the
+Act
+provides the trademark owner with the right to attach binding limitations to the use of a mark, so long as such limitations are expressly set out prior to the transfer of trademarked wares. Accordingly, since the defendants were aware that CCL strictly prohibited export of its trademarked products for resale abroad, their sales for export constitute infringement under the
+Act
+. Moreover, the defendants' unauthorized sales-for-export have diminished the goodwill enjoyed by the plaintiffs in the marks, and as such, the plaintiffs are entitled to pursue a cause of action under s. 22(1) of the
+Act
+against them.
+[8]
+The plaintiffs rely on
+Procter & Gamble Co. v. Nabisco Brands Ltd.
+(1985), 62 N.R. 364 (F.C.A.), at p. 366, for the general principle that an application to strike paragraphs in a pleading should be brought by a party prior to the party pleading over the impugned paragraphs and without delay. However, there are exceptions to this general principle. First, a party that has pleaded over an impugned paragraph may nonetheless move to strike that paragraph under rule 419 if its pleadings in response to the paragraphs in question contain the same specific objections raised in its motion to strike:
+Montreuil v. R.
+, [1976] 1 F.C. 528 (T.D.), at p. 529;
+Ricafort et al. v. Canada
+(1988), 24 F.T.R. 200 (T.D.), at p. 202;
+Gould v. Canada
+, [1989] 2 F.C. D/20 (T.D. Protho.).
+[9]
+Also, insofar as it pertains to pleading over, the Court of Appeal expressly limited application of this principle to a motion to strike for grounds enumerated under rule 419(b)-(f):
+Proctor & Gamble
+, supra. In fact, in cases of delay, this general principle does not apply if the alleged grounds to strike are contained within rule 419(a), i.e., if the impugned paragraphs disclose no reasonable cause of action or defence. Rather, "a defendant may ask at any time before and even during the trial, for an action to be dismissed", under rule 419(a), "since such a motion goes to the very nature of the action or defence, and its fundamental and essential right to be heard by the court":
+FRAGMENT_SUPPRESSED
+[10]
+In any event, I find that there was no delay in the defendants having brought their motion in this case. While the defendants did take almost 15 months between filing their statement of defence and bringing this motion to strike, "delay" must be considered in the circumstances of the case.
+[11]
+The plaintiffs argue that delay exists where it has taken over nine months between the bringing of a motion to strike and the filing of pleadings in response to the paragraphs sought to be struck:
+Asse International Inc. et al. v. Sveenska Statens Sprakresor, AB
+(1996), 70 C.P.R.(3d) 184, at p. 189 (F.C.T.D.). In
+Control Data Canada Ltd. v. Senstar Corp.
+(1988), 25 F.T.R. 81; 23 C.P.R.(3d) 421, at p. 426 (F.C.T.D.), delay would also have been found where the period between the motion and pleading was four years. By contrast, in
+Comstock Canada v. Electec Ltd.
+(1989), 28 C.P.R.(3d) 495 (F.C.T.D.), it was determined that six months did not constitute delay, and in
+Cardinal et al. v. Canada
+(1996), 110 F.T.R. 241 (T.D. Protho.), at p. 265, the Prothonotary declined to dismiss a motion to strike, based on grounds found in rule 419, paragraphs (c) & (f), where it had taken 17 months for the party to bring its motion. Moreover, it was noted that the motion in that case had been brought only "as an afterthought", and without sufficient notice to the responding party.
+[12]
+In determining whether there has been delay, the period of time at issue is only one consideration. This litigation is complex in the sense that the defendants have been preoccupied with responding to motions for interlocutory injunctions, Anton Piller orders and responding to various motions and the main action in the U.S. proceedings.
+[13]
+Accordingly, I am satisfied that delay, in this case, should not be a bar to bringing this motion. It is nonetheless apparent that the defendants have pleaded over the plaintiffs' statement of claim, without specifically objecting to the paragraphs which they now move to strike. As such, the defendants cannot be permitted to rely on grounds enumerated in rule 419, paragraphs (b)-(f), for the motion to strike. Therefore, consideration of the motion will be restricted to the ground that the impugned paragraphs disclose no reasonable cause of action.
+[14]
+A claim discloses no reasonable cause of action if, according to the law, it could not possibly succeed:
+Sylvestre v. R.
+, [1986] 3 F.C. 51; 72 N.R. 245 (F.C.A.). The appropriate method for determining whether a claim could possibly succeed is to consider whether the facts asserted by the plaintiff, if taken to be proved, disclose a cause of action:
+Hirsh Co. v. Minshall
+(1988), 22 C.P.R.(3d) 268 (F.C.A.). Moreover, if the impugned paragraphs are only minimally adequate, no amendment should be allowed:
+Ceminchuk v. IBM Canada Ltd.
+(1995), 101 F.T.R. 38; 62 C.P.R.(3d) 546 (T.D.).
+[15]
+If the allegations contained within the statement of claim are taken as proved, the defendants would be found to have had knowledge that the Coca-Cola products they had purchased from their retail suppliers were not permitted to be resold abroad. This prohibition would have been known to have come from the legitimate holders of the trademark for those products in Canada, CCL. The defendants would have nonetheless exported these trademarked products for sale abroad, without the consent of CCL or its licensees. Moreover, the manner in which the products exported by the defendants would have been shipped and introduced into foreign markets would have materially affected the value of the goodwill.
+[16]
+Accepting these allegations as proved, the primary issue in this motion becomes the interpretation of the meaning of "use". If the defendants' sale for export of the trademarked products cannot be said to constitute use of the plaintiffs' marks, the defendants cannot be said to have violated any of the provisions of the
+Trade-marks Act
+, as alleged in the impugned paragraphs of the statement of claim.
+[17]
+The defendants argue that they did not use the plaintiffs' marks because they were not the first to have purchased the products with which such marks are associated, i.e., the "doctrine of first use". The plaintiffs submit that, although a purchaser of goods in Canada bearing a trademark is entitled to resell those goods without incurring liability for infringement, this entitlement is subject to the right of a trademark holder, under s. 8 of the
+Act
+, to place a limitation on how the mark may not be used in connection with the goods. The plaintiffs limit the resale of products which bear their trademarks to the Canadian market only. As such, any sale for export of such products would violate the plaintiffs' "warranty of lawful use" and constitute infringement under the
+Act
+.
+[18]
+If goods have been placed into trade channels by the owner of a trademark, and have subsequently been aquired by another party in the ordinary course of business, it is not an infringement for those same goods to be resold by that party in association with the trademark:
+Wilkinson Sword (Canada) Ltd. v. Juda
+(1966), 51 C.P.R. 55 (Ex. Ct.). In other words, the defendants are entitled to purchase and re-sell trademarked products in Canada and such activity does not per se, constitute "use" under the
+Act
+:
+Wella Canada Inc. v. Pearlon Products Ltd.
+(1984), 4 C.P.R.(3d) 287, at p. 288 (Ont. H.C.).
+[19]
+Section 8 of the
+Act
+is intended to provide a remedy to a transferee of trademarked wares against the transferor in cases where the transferee's use has been contested:
+McCabe v. Yamamoto & Co. (America) Inc.
+(1989), 25 F.T.R. 186; 23 C.P.R.(3d) 498 (T.D.). While it does not prevent the holder of a trademark from suing whoever unlawfully uses its mark (including both transferee and transferor), it is plain and obvious that s. 8 does not provide the trademark holder with the additional right to attach limitations on use of products associated with its mark, such as the plaintiffs have argued.
+[20]
+The plaintiffs contend that they may dictate the destination of the markets in which the good they produce may be sold and resold by virtue of the trademarks they hold in association with such goods and s. 8 of the
+Act
+. The plaintiffs also argue that the export of trademarked products is deemed to be a "use in Canada" under s. 4(3) of the
+Act
+. Therefore, any unauthorized export by the defendants would also constitute infringement under the
+Act
+.
+[21]
+I am unable to accept this argument. In enacting s. 4(3) of the
+Act
+, Parliament cannot be said to have intended that the provision should apply to every carriage of goods between Canada and another country, whether personal or commercial. Nor can s. 4(3) be interpreted as being limited to exports which constitute commercial transactions only. It is clear that for an export to be deemed a "use in Canada" under s. 4(3), it need not take place in the normal course of trade:
+Molson Cos. v. Moosehead Breweries Ltd.
+(1990), 32 C.P.R.(3d) 363 (F.C.T.D.), at p. 373.
+[22]
+In my opinion, a purposive interpretation of s. 4(3) means that it applies to exports which would otherwise constitute use under the
+Act
+, but for the fact that a trademarked product is being exported. The provision is intended to ensure that what would constitute infringement under the
+Act
+if done in Canada, will also constitute infringement if done abroad. For example, if a person in one province produced counterfeit Coca-Cola products, replete with trademarks it was not authorized to use, and sold such goods in another province, it would be deemed to have used the plaintiffs' marks under s. 4(1), and would be liable for infringement under s. 20(1) of the
+Act
+. With respect to s. 4(3), that same person could export the counterfeit products to the United States, and incur no liability in Canada. By enacting s. 4(3), Parliament closed this loophole:
+Molson
+, supra;
+National Sea Products Ltd. v. Scott & Aylen
+(1988), 20 F.T.R. 62; 19 C.P.R.(3d) 481 (T.D.);
+Asbjorn Horgard A/S v. Gibbs/Nortac Industries Ltd. et al.
+(1987), 16 C.P.R.(3d) 112 (F.C.A.).
+[23]
+In the present case, there has been no allegation of actual use of the plaintiffs' trademarks by the defendants. The defendants have not produced counterfeit Coca-Cola products for sale locally or abroad. They have not used a confusing mark on similar cola products which they sold in Canada or exported for sale abroad. If the facts alleged by the plaintiffs are taken as proved, the defendants have merely purchased large quantities of genuine Coca-Cola products from a third-party retailer, and then exported them for sale abroad, against the obvious wishes of the plaintiffs. "Goods which originate in the stream of commerce with the owner of a trademark are not counterfeit or infringing goods simply because they may have arrived in a particular geographical market where the trademark owner does not wish them to be distributed":
+Smith & Nephew Inc. v. Glen Oak
+(1996), 198 N.R. 302; 68 C.P.R.(3d) 153, at p. 158 (F.C.A.).
+The plaintiffs also submit that the activities of the defendants have resulted in a depreciation of the value of the goodwill attached to its marks, contrary to s. 22(1) of the
+Act
+. Section 22(1) provides:
+"No person shall
+use
+a trademark registered by another person in a manner that is likely to have the effect of depreciating the value of the goodwill attaching thereto." (emphasis added)
+[24]
+Once again, assuming the alleged facts as proved, the defendants have not violated s. 22(1) of the
+Act
+. They have not engaged in activities which constitute "use" under the
+Act
+, such as the unauthorized use of a trademark or the use of a confusing mark on a product it produces: see
+Clairol International Corp. v. Thomas Supply
+(1968), 38 Fox Pat. C. 176 (Ex. Ct.);
+Source Perrier (SA) v. Firaless Marketing Co.
+(1983), 70 C.P.R.(2d) 61 (F.C.T.D.). If the defendants have not used the trademarks in question, it is plain and obvious that their activities cannot be said to have violated s. 22(1) of the
+Act
+.
+[25]
+The plaintiffs cite a U.S. decision,
+Warner-Lambert Co. and Parke Davis 7 Co. Ltd. v. Northside Development Corp.
+, an unreported decision of Winter, C.J., 29 May 1966 (C.A. 2nd Cir.) at p. 5, for the proposition that failure to meet quality control standards set by the holder of a registered trademark for its associated products can vitiate the doctrine of first use, and give rise to a claim under American trademark law for depreciation of goodwill. Whether this decision also represents the law in Canada does not need to be answered here. It is clear that, if the defendants have failed to observe quality control standards set by the plaintiffs for the shipment and sale of Coca-Cola products, the activity took place abroad, and only involved the sale of Coca-Cola products abroad.
+[26]
+Generally, evidence of confusion or depreciation of the value of goodwill in foreign jurisdictions is not evidence of confusion or depreciation of the value of goodwill in Canada. Moreover, "the nature of goodwill as legal property with no physical existence means that where a business is carried on in more than one country or jurisdiction there must be a separate goodwill in each": Christopher Wadlow,
+The Law of Passing-Off
+(London: Sweet & Maxwell, 1990) at p. 62. I agree with this principle. In a case such as this, the jurisdiction of this court to determine claims under the
+Trade-marks Act
+should be considered in the context that the
+Act
+applies only in Canada:
+Kellogg Co. et al. v. Imperial Oil Ltd.
+(1996), 29 O.R.(3d) 70 (Gen. Div.).
+[27]
+While the defendants have relied on numerous grounds to have portions of the pleadings struck-out, this matter may be resolved solely on the grounds that the pleadings disclose no reasonable cause of action: rule 419(a).
+[28]
+The allegations contained within paragraph 17 are the basis only for causes of action which are beyond the jurisdiction of this court to adjudicate. If the sale-for-export of trademarked products constitutes infringement under the trademark laws of foreign jurisdictions, it is for the court of those jurisdictions to adjudicate:
+Manos Foods International Inc. v. Coca-Cola Ltd. et al.
+(1997), 74 C.P.R.(3d) 2, at p. 20 (Ont. Gen. Div.). Similarly, if the sale-for-export of trademarked products somehow constitutes a breach of a contractual relationship between the plaintiffs and the defendants, remedy for such breach must be found in another court because the statement of claim in such a case would not be founded on existing federal law:
+Canada v. McNamara Construction (Western) Ltd. et al. (Appeal No. 1); Canada v. Stevenson (J.) and Associates et al. (Appeal No. 2)
+, [1977] 2 S.C.R. 654; 13 N.R. 181 at p. 659.
+[29]
+No reasonable cause of action is disclosed in either paragraph 18 or 19. It is not for this court to adjudicate whether the defendants have failed to ensure that the Coca-Cola product in question is labelled in accordance with the laws of the country where the product is to be delivered, or whether the defendants have failed to obtain the necessary licenses to sell such products abroad:
+Manos
+, supra.
+[30]
+The claim in paragraph 21 cannot succeed, and it fails to satisfy a bare minimum of adequacy:
+Ceminchuk
+, supra. As I have indicated above, export of trademarked products by a secondary purchaser cannot constitute "use" as defined in s. 4(3) of the
+Act
+. The defendants have not used the marks associated with the Coca-Cola products they purchased and resold simply by virtue of their having resold the products abroad, in violation of the plaintiffs' express intent that export should not take place:
+Smith & Nephew
+, supra.
+[31]
+Paragraph 22 similarly discloses no reasonable cause of action. The plaintiffs have failed to plead the facts necessary to establish "use" under the
+Act
+, and as such, s. 22(1) of the
+Act
+cannot be engaged by their conduct. Further, any depreciation of the value of goodwill in the trademarks in question which may have taken place, would have taken place outside Canada, and is therefore beyond the jurisdiction of this court to adjudicate:
+Manos
+, supra.
+[32]
+During the hearing the parties agreed that if the court determined that the above paragraphs should be struck, those paragraphs would constitute the core of the action. Therefore, it is plain and obvious that the action cannot succeed. As such, the entire statement of claim shall be struck, without leave to amend:
+Inuit Tapirisat of Canada and National Anti-Poverty Organization v. Canada (Attorney General)
+, [1980] 2 S.C.R. 735; 33 N.R. 304; 115 D.L.R.(3d) 1;
+Operation Dismantle Inc. et al. v. Canada et al.
+, [1985] 1 S.C.R. 441; 59 N.R. 1; 18 D.L.R.(4th) 481; 13 C.R.R. 287; 12 Admin. L.R. 16.
+[33]
+The defendants shall have their costs of this motion.
+Motion allowed.
+Editor: Jocelyne M. Caissie/saf
+[End of document]

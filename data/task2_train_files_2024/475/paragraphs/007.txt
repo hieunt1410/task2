@@ -1,0 +1,31 @@
+[7]
+The relevant statutory provisions are ss. 225.1 and 225.1 [see footnote 1] of the
+Income Tax Act
+as amended by S.C. 1988, c. 55, ss. 169 and 170:
+"225.1(1) Where a taxpayer is liable for the payment of an amount assessed under this Act, the Minister shall not, for the purpose of collecting the amount,
+(a) commence legal proceedings in a court,
+(b) certify the amount under s. 223,
+(c) require a person to make a payment under subsection 224(1),
+(d) require an institution or a person to make a payment under subsection 224(1.1),
+(e) require the retention of the amount by way of deduction or set-off under s. 224.1,
+(f) require a person to turn over moneys under subsection 224.3(1), or
+(g) give a notice, issue a certificate or make a direction under subsection 225(1)
+before the day that is 90 days after the day of mailing of the notice of assessment.
+"225.2(1) In this section, 'judge' means a judge or a local judge of a superior court of a province or a judge of the Federal Court of Canada.
+"(2) Notwithstanding s. 225.1, where, on an ex parte application by the Minister, a judge is satisfied that there are reasonable grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection thereof, he shall, on such terms as he considers reasonable in the circumstances, authorize the Minister to take forthwith any of the actions described in paragraphs 225.1(1)(a) to (g) with respect to the amount.
+. . . . .
+"(4) Statements contained in an affidavit filed in the context of an application under this section may be based on belief with the grounds therefor.
+"(5) An authorization granted under this section in respect of a taxpayer shall be served by the Minister on the taxpayer within 72 hours after it is granted, except where the judge orders the authorization to be served at some other time specified in the authorization, and, where a notice of assessment has not been sent to the taxpayer at or before the time of the application, the notice of assessment shall be served together with the authorization.
+"(6) For the purposes of subsection (5), service on a taxpayer shall be effected by
+(a) personal service on the taxpayer; or
+(b) service in accordance with directions, if any, of a judge.
+. . . . .
+"(8) Where a judge of a court has granted an authorization under this section in respect of a taxpayer, the taxpayer may, upon six clear days notice to the Deputy Attorney General of Canada, apply to a judge of the court to review the authorization.
+"(9) An application under subsection (8) shall be made
+(a) within 30 days from the day on which the authorization was served on the taxpayer in accordance with this section; or
+(b) within such further time as a judge may allow, upon being satisfied that the application was made as soon as practicable.
+. . . . .
+"(11) On an application under subsection (8), the judge shall determine the question summarily and may confirm, set aside or vary the authorization and may make such other order as he considers appropriate.
+. . . . .
+"(13) No appeal lies from an order of a judge made pursuant to subsection (11)."
+Issues:

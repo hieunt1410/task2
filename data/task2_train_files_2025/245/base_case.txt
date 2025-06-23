@@ -1,0 +1,111 @@
+[1]
+Zinn, J.
+: The requirement that a tribunal conduct itself in accordance with the principles of procedural fairness does not end when the hearing is concluded and it reserves its decision.
+[2]
+In this case, I am satisfied that the applicant, Mr. Murray, did not receive procedural fairness from the Public Service Staffing Tribunal (PSST) after its hearing of his complaint was concluded, and for this reason the PSST's decision must be set aside.
+[3]
+Norman Murray is an African-Canadian man who has been employed with the Immigration and Refugee Board (IRB) in Toronto since 1989. Since commencing his employment he has worked as a Case Officer (CO) at the PM-01 level, except for a three-year acting assignment as a Refugee Protection Officer (RPO) at the PM-04 level from 2002 to 2005.
+[4]
+In October 2006, the IRB announced plans to reorganize. Its goal was to avoid layoffs that could have resulted from the lower caseload of the Refugee Protection Division of the IRB after September 11, 2001. As part of the reorganization, current RPO positions at the PM-04 level were to be replaced by Tribunal Officer (TO) positions at the PM-05 level. RPOs who qualified for the new TO position were appointed using a non-advertised appointment process. Those who failed to qualify remained at the PM-04 level as Development Tribunal Officers, and were provided with training with a view to becoming RPOs at the PM-05 level. Mr. Murray did not qualify as his acting PM-04 appointment had ended.
+[5]
+Mr. Murray filed a complaint with the PSST alleging that the non-advertised appointment process used to appoint the TOs discriminated against him on the basis of race and that the process constituted systemic discrimination and created a job barrier for the visible minority employees in CO positions who were clustered at the PM-01 level.
+[6]
+The PSST heard evidence from a number of witnesses, including an expert witness called by the applicant, and after the final day of the hearing, on November 18, 2008, it reserved its decision. Nearly a year later, in October 2009, the Public Service Commission of Canada (PSC) released a report,
+Audit of the Immigration and Refugee Board of Canada: A report by the Public Service Commission of Canada
+, October 2009 (PSC audit). The PSC audit stated its objectives as follows:
+The objectives of this audit were to determine whether the IRB has an appropriate framework, systems and practices in place to manage its public service appointment activities and to determine whether its appointments and appointment processes comply with the
+Public Service Employment Act
+(PSEA), the Public Service Commission's (PSC) Appointment Framework, the IRB's human resources (HR) policies, other governing authorities and with the instrument of delegation signed with the PSC.
+[7]
+The PSC audit examined appointments made through the non-advertised appointment process and "found 11 out of 23 appointments using non-advertised processes where merit was not met or demonstrated ... because there was either no assessment on file, or because the assessments were incomplete ... [because they] either did not evaluate all essential qualifications for the position or did not fully evaluate one or more essential qualification."
+[8]
+Mr. Murray submitted a copy of the PSC audit to the PSST and to the respondent by email on October 18, 2009, stating as follows:
+The above noted matter has been Researved [sic] since October 2008. There is other information that are [sic] relevant to the case being considered that I thought would be useful to the panel in making its decision.
+Please find attached documents on the PSC audit of the IRB. This audit was tabled in Parliament in October 2009.
+I am offering this document to be considered as further information in this matter and if accepted, [sic] fully prepared to make submissions.
+[9]
+His message was resent on October 20, 2009, and counsel for the IRB responded by email to the PSST stating: "The Respondent is not able to take a position on Mr. Murray's request, as it is not clear for what purpose the documents are being submitted." A Registry Officer has confirmed that the October 18, 2009 email request was received by the PSST.
+[10]
+There is nothing in the record to prove that these email messages were placed before Mr. Giguère, the Chairperson who was seized of the complaint. The PSST did not respond to Mr. Murray's request. There is nothing in the final decision that suggests that the PSC audit was considered.
+[11]
+Mr. Giguère issued his decision on the merits of Mr. Murray's complaint on December 21, 2009; 2009 PSST 033. He dismissed the complaint as he determined that Mr. Murray had not established abuse of authority, discrimination on the basis of race, or systemic discrimination. In reaching this result, the PSST made three main determinations:
+(a) the applicant had a right to bring the complaint;
+(b) the applicant did not establish a prima facie case of discrimination in the choice of a non-advertised appointment process; and
+(c) even if the applicant had established prima facie discrimination, the respondent provided a reasonable explanation for its choice of a non-advertised appointment process.
+[11]
+It is without question that the issue raised by the applicant is one of procedural fairness and I agree with the applicant that decision-makers are not entitled to deference on issues of procedural fairness. In
+Sketchley v. Canada (Attorney General)
+, 2005 FCA 404, the Court of Appeal held, at para. 53, that:
+CUPE [
+CUPE v. Ontario (Minister of Labour)
+, 2003 SCC 29] directs a court, when reviewing a decision challenged on the grounds of procedural fairness, to isolate any act or omission relevant to procedural fairness (at para. 100). This procedural fairness element is reviewed as a question of law. No deference is due. The decision-maker has either complied with the content of the duty of fairness appropriate for the particular circumstances, or has breached this duty.
+[12]
+The respondent's submission that the alleged breach of procedural fairness does not constitute an independent decision under review and that applicants should not be able to single out procedural violations when the final decision is reviewable on a reasonableness standard is without merit; it is irreconcilable with the fundamental principles of administrative law. The application of the reasonableness standard applies as a matter of substantive review, not when evaluating whether the decision-making process was fair. FRAGMENT_SUPPRESSED
+[13]
+In
+Université du Québec à Trois-Rivières v. Larocque
+, [1993] 1 SCR 471, the Supreme Court held that although a tribunal has the discretion to refuse to admit evidence, a refusal to admit relevant evidence engages the rule of natural justice that a party to an administrative proceeding has the right to be heard (
+audi alteram partem
+). The applicant notes that in
+Université du Québec
+the Court found that the rejection of relevant evidence may have such an impact on the fairness of a proceeding that there will be found to have been a breach of natural justice.
+[14]
+Mr. Murray submits that as in
+Université du Québec
+, the evidence he submitted to the PSST was prima facie crucial to the main issue in his complaint, which necessarily relied on circumstantial evidence to establish that the IRB's choice of a non-advertised appointment process was discriminatory. According to the applicant, the PSC audit concluded that there were significant inconsistencies in the IRB's choice of a non-advertised appointment process. However, the applicant notes that in his case the PSST found the choice of a non-advertised process was reasonable despite the IRB's failure to comply with the mandatory requirement to provide a rationale for such appointments.
+[15]
+The respondent submits that refusing to admit evidence is not an automatic breach of procedural fairness that justifies the intervention of the Court. According to the respondent, the Court should only intervene where there is a refusal to admit
+relevant
+evidence that has a significant impact on the fairness of the proceeding.
+[16]
+The respondent further submits that the test to justify the reopening of a tribunal hearing prior to a decision being rendered for the purpose of receiving fresh evidence is as follows:
+(a) it must be shown the evidence could not have been obtained with reasonable diligence for use at the trial;
+(b) the evidence must be such that, if given, it would probably have an important influence on the result of the case, although it need not be decisive; and
+(c) the evidence must be such as presumably to be believed, or in other words, it must be apparently credible, although it need not be incontrovertible.
+[17]
+The respondent submits the second requirement is not met. According to the respondent, the PSC audit is irrelevant to the complaint of systemic and personal racial discrimination before the PSST, and therefore the audit could not have had an impact on the PSST decision. The respondent points out that there is no mention of systemic barriers or discriminatory practices in the PSC audit.
+[18]
+In my view, the Supreme Court's decision in
+Université du Québec
+, above, is not helpful given the facts before the Court. In
+Université du Québec
+, the decision-maker explicitly rejected the evidence, whereas here the PSST made no mention of it whatsoever. Had the decision-maker here explicitly rejected the PSC audit, then
+Université du Québec
+would have been of assistance, and there would have been a need to determine whether the PSC audit report was relevant evidence.
+[19]
+Given the absence of any mention of the document in the decision, I can only conclude that it was either not brought to the attention of the decision-maker by the PSST or the decision-maker ignored it.
+[20]
+The duty of a board to provide procedural fairness does not end with the conclusion of a hearing. If, prior to the issuance of the decision, a registrar receives a communication from a party to a concluded hearing offering what is stated to be relevant evidence, that request must be placed before the decision-maker for his or her consideration. If it is not, then the party making the request has been denied an opportunity to present what he or she views, perhaps incorrectly, to be additional relevant evidence. Unless a board is prevented by its legislation from re-opening a hearing prior to rendering a decision, it must deal with such requests. The PSST has held that it has the authority to consider post-hearing evidence; see, for example,
+Rajotte v. Canada (Border Services Agency)
+, 2009 PSST 25, where the PSST held, at para. 22, that "the Tribunal is master of procedural post-hearing matters and should proceed as informally and expeditiously as possible, while respecting the duty of fairness."
+[21]
+I am of the view that an adverse inference may be drawn from the fact that no affidavit was provided in this proceeding attesting that the applicant's email and the PSC audit were placed before the Chairperson. Had there been then the Court might have concluded that the audit was considered and rejected. Given the absence of any such evidence, I conclude that it is more likely than not that the Chairperson was not provided with the email and document and I find that this constitutes a breach of procedural fairness.
+[22]
+In the alternative, if Mr. Murray's request was provided to the decision-maker and ignored, that too, in my view, is a breach of procedural fairness. If a decision-maker refuses to consider possibly relevant evidence in circumstances where the party has a right to present evidence, this automatically amounts to a breach of procedural fairness. Conversely, the rejection by a decision- maker of relevant evidence will not automatically lead to such a breach, and indeed
+Université du Québec
+instructs that for the rejection of evidence to constitute a breach of procedural fairness, the evidence must be more than just relevant.
+[23]
+I cannot accept on the facts before the Court that the Chairperson did consider the request and decided not to consider the PSC audit. This is so because (1) there is no reference by the Chairperson in his decision to the request or to the PSC audit despite a comprehensive analysis of all of the other evidence before him, (2) the list of exhibits considered by the PSST does not contain the PSC audit, and (3) the PSC audit is not included in the Tribunal Record. Even if I were to have found that the Chairperson did consider the request and the PSC audit, reasons would have been required for the decision to either not accede to the request or to find that the PSC audit was not relevant. There are none. The absence of reasons in these circumstances would have constituted an error of law and a breach of procedural fairness.
+[24]
+Accordingly, I find that the applicant's right to procedural fairness was breached by the PSST.
+[25]
+The respondent submits that even having made this finding, I ought to dismiss this application because the PSC audit report cannot and will not change the outcome reached by the decision-maker. I agree entirely with the observation of Justice Gauthier in
+Nagulesan v. Canada (Minister of Citizenship and Immigration)
+, 2004 FC 1382 at para. 17: "A breach of procedural fairness can only be overlooked if there is no doubt that it had no material effect on the decision." It is not for the Court to assess whether the document could have, would have, or will have an effect on the decision rendered - that is the role of the PSST. Counsel for the respondent candidly acknowledged at the hearing that it cannot be said that it is impossible that the PSC audit could affect the result. I cannot find in these circumstances that there is no doubt that the document will have no material effect on the decision.
+[26]
+Accordingly, this application must be allowed with costs. The parties agreed that a reasonable award of costs to the successful party would be $3,000.00. The respondent made no submissions concerning the appropriate Order if the application was granted. I find that the terms of an appropriate Order in these circumstances are those proposed by the applicant in his memorandum: the Chairperson of the originally constituted tribunal must consider the request made by Mr. Murray to consider the PSC audit prior to rendering a decision.
+JUDGMENT
+[27]
+THIS COURT'S JUDGMENT is that:
+1. This application is allowed with costs payable to the applicant, fixed in the amount of $3,000.00, inclusive of fees, disbursements and taxes.
+2. The decision of Chairperson Guy Giguère of the PSST is set aside, subject to the following:
+(i) This matter is remitted back to Chairperson Guy Gigurère to hear submissions by the parties to the complaint as to the relevance of the
+Audit of the Immigration and Refugee Board of Canada: A report by the Public Service Commission of Canada
+, October 2009 (PSC audit) to the matters at issue before the PSST in the applicant's complaint;
+(ii) After considering the submissions of the parties as to the relevance of this evidence, Chairperson Guy Giguère shall decide whether to accept this evidence;
+(iii) If he considers that this evidence should be accepted, then he shall consider further submissions from the parties as to whether additional evidence or argument is necessary to address that evidence prior to rendering a new decision on the merits of the complaint of Mr. Murray; and
+(iv) If he considers that this evidence should not be accepted, then he shall provide his reasons for that decision and shall also render a decision on the merits of the complaint of Mr. Murray, which may be in the form of his Reasons for Decision dated December 21, 2009.
+3. I shall remain seized to amend the terms of this Order if for any reason it is not possible for Chairperson Guy Giguère to personally hear the submissions and make the decisions referenced herein.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

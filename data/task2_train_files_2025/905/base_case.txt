@@ -1,0 +1,833 @@
+[1]
+Campbell, J.
+: The litigation over this dispute, which has been outstanding for almost seven years, involves a direct attack on the established practice of Canada Customs in assessing duty on goods that are "imported" into Canada as prescribed in s. 12(1) of the
+Customs Act,
+R.S.C 1985 (2nd Supp.), c. 1 (the
+Act
+). The interest which has generated this notable assault is well described in the following passages of the opening statement of the appellant, Mr. C.J. Michael Flavell, Q.C.:
+"My Lord, I am aware of the admonition that he who acts for himself has a fool for a client, so I will leave most of the argumentation this morning to my friend Mr. Kent. However, given the pain and suffering which I have endured over the years with respect to this matter I demanded of Mr. Kent the right to have a few minutes to outline the facts for you and to make a few general observations about customs law and policy of customs law, et cetera. ...
+"I have to say, My Lord, that this case has achieved some notoriety in Ottawa circles, particularly at the trade bar. The amusing spectacle of Canada's largest, if not best known, trade lawyer being nicked to the tune of $17,000 worth of duty on a $5,000 motor has brought tears of amusement to some eyes and tears of another sort to mine. The facts, as you have read them, sound on their face, at least whenever I recount this tale at gatherings where alcoholic beverages may or may not be served, the reaction is always one of astonishment."
+[2]
+Objections based in Mr. Flavell's astonishment culminated in a hearing before the Canadian International Trade Tribunal (the Tribunal) on February 11, 1992. It is from the decision of the Tribunal that this appeal was taken.
+I
+Facts
+[3]
+The May 4, 1992 majority decision of the Tribunal concisely sets out the essential facts as follows:
+"The appellant is the owner of a 40 foot houseboat known as 'Marmalade Skies' that is managed and operated out of a marina on Wolfe Island, near Kingston, Ontario. The houseboat, which is equipped for 12 or more passengers, is rented out to corporations and/or individuals on a daily, weekend or weekly basis. The owner of the marina and manager of the houseboat is Mr. Bob Halliday. The appellant receives a percentage of revenues for rental of the houseboat, the balance going to Mr. Halliday for his services as manager.
+"In July 1989, the inboard-outboard marine propulsion engine of the houseboat was damaged beyond repair while out on rental. The boat was towed to the nearest port at Clayton, New York, and fitted with a temporary engine. The temporary engine was supplied as part of the transaction to supply a new engine [to be ordered from Sweden]. Similarly, the marina kept the damaged engine as part consideration for the transaction. In the interim, the vessel continued to be used on the St. Lawrence River.
+. . . . .
+"The invoice between the parties suggests that these activities were all part of a single transaction relating to the emergency, although the new engine was installed some weeks later.
+"After installation of the new engine, Mr. Halliday reported to customs officials who took the position that the entire houseboat was imported into Canada. They classified the houseboat under tariff item No. 8903.92.00 as a motorboat, other than an outboard motorboat. The appellant was held liable for duty on the entire value of the houseboat, which was originally assessed at $60,000.
+. . . . .
+"As a practical matter, however, this Tribunal accepts that what was brought into Canada was a new motor as declared by the appellant at Canada Customs. There was no attempt to deceive the authorities or misrepresent the goods involved. On the contrary, the appellant entered into a contractual obligation to borrow a temporary motor and purchase a new motor as a direct consequence of an emergency situation over which it had no control."
+II
+The Canadian International Trade
+Tribunal Decision
+[4]
+In 1989, Mr. Flavell requested a redetermination of the duty assessment which was allowed in part. The value of the boat for the purpose of duty assessment was reduced to $33,465, but the tariff classification remained unchanged. On a further redetermination in 1990, the Deputy Minister of National Revenue (Deputy Minister) confirmed the tariff classification and value for duty.
+[5]
+Mr. Flavell has taken the position from the start that he is prepared to pay duty on a reasonable evaluation of the motor, and to dispense with the conflict, to even pay duty on any increase in the value of the houseboat by having the new engine installed. But he adamantly objects to paying duty on the houseboat.
+[6]
+Therefore, the hearing before the Tribunal came as an appeal from the Deputy Minister's confirmation of the tariff classification, but the evidence and the argument before the Tribunal, and as a result the decision, was directed to the question: What
+was
+imported for purposes of tariff classification? Essentially the question arises because all goods considered to be imported are subject to duty.
+[7]
+In answering the question, on the following reasoning, the majority decision of Tribunal members Mr. W. Roy Hines and Ms. Michèle Blouin concluded that the houseboat had been imported and was, therefore, subject to duty:
+"Central to the resolution of this appeal is the meaning of the term 'export' or 'import' as used in the
+Customs Act
+or
+Customs Tariff
+. Neither Act gives the terms a special definition. The
+Customs Act
+defines 'export' to mean 'export from Canada,' and 'import' to mean 'import into Canada'. The
+Customs Tariff
+adopts these definitions. In
+Harris Bell v. Her Majesty The Queen
+, [1983] 2 S.C.R. 471 McIntyre, J., at pages 488-489 of the decision, stated:
+'... I do not find it necessary to make extensive reference to dictionaries in order to define the word "import". In my view, since the
+Narcotic Control Act
+does not give a special definition of the word, its ordinary meaning should apply and that ordinary meaning is simply to bring into the country or to cause to be brought into the country ...'
+"The majority believes that the ordinary meaning of the word 'import' is applicable to the
+Customs Act
+and
+Customs Tariff
+. It adopts this definition of 'import', meaning to bring into the country or cause to be brought into the country.
+"In defining the word 'export,' reference is made to
+Old HW-GW Ltd. v. Canada
+(File Nos. T-560-87, T-602-87 and T-690-87, unreported, April 17, 1991, Federal Court of Canada - Trial Division) where Strayer, J., stated:
+'The two most pertinent Canadian cases involving interpretation of "goods exported" or "goods ... for export", expressions used there to describe goods exempted from certain sales taxes, both expressed the view that "export" normally involves the transfer of goods from one country to another.'
+"After referring to dictionary definitions of the verb 'to export,' Strayer, J., went on to state:
+'... It would appear from these definitions that apart from the literal meaning of its Latin roots, 'ex portare', meaning to carry out or away, the most natural meaning in a commercial context for the term "
+export
+" or "
+exportation
+" is the sending of goods from one country to another, foreign, country.'
+"The majority believes that the ordinary meaning of the word 'export' is also applicable to the
+Customs Act
+and the
+Customs Tariff
+. It adopts the definition of 'export,' meaning to send out from one country and into another or cause to be sent out from one country and into another.
+"The scheme of the
+Act
+clearly establishes that Canadian goods may be returned to Canada free from customs duty under tariff item No. 9813.00.00 where they have not been advanced in value or improved in condition or combined with any other article. It also provides that where Canadian goods have been repaired, work has been done or equipment added, outside Canada, relief may be provided from customs duties otherwise payable. Section 88(1) of the
+Customs Tariff
+deals with situations where goods have been exported in the prescribed manner for the purpose of having the repairs, work done or equipment added; and duties are payable at the rate applicable to the imported goods. Section 88(2) deals with situations where emergency repairs to aircraft, vehicles or vessels were required to ensure their safe return to Canada. Relief under this subsection is provided for the whole of the duties that would otherwise be payable on the imported goods.
+"Pursuant to section 19 of the
+Customs Tariff
+, when goods enumerated in Schedule I of that
+Act
+are imported into Canada, customs duties at the rates set out in that Schedule must be paid. When the Marmalade Skies left Canadian territorial waters, technically, it was exported from Canada. Similarily, when it returned to Canada it was, technically, imported. Therefore, pursuant to section 19, the boat had to be classified under Schedule I. The evidence is clear that the houseboat returned to Canada in an improved condition, possessing a new motor. As such, it was not classifiable under tariff item No. 9813.00.00. As stated above, the Tribunal does not have the jurisdiction to determine whether the appellant qualified for duty relief under section 88 of the
+Customs Tariff
+. Consequently, customs duties are payable on the full value of duty of the vessel."
+III
+Issues And Arguments
+[8]
+Leave to appeal the Tribunal's decision was granted by this court on the following questions:
+Question A
+: Did the Tribunal err in holding that the goods imported into Canada were properly classified as a "motorboat, other than outboard motorboat" (tariff item 8903.92.00), rather than as an "inboard-outboard marine propulsion engine" (tariff item 8407.29.10)?
+Question B
+: In the alternative, if the goods brought into Canada were properly classified as a houseboat, did the Tribunal err in holding that they were first exported then reimported?
+[9]
+In reaching its decision, the majority of the Tribunal made critical findings about the scheme of the
+Act
+. It is these findings that underlie the questions framed in this appeal, and it is these findings that require scrutiny to provide the answers required.
+[10]
+As will be set out, Mr. Flavell and the Deputy Minister have quite different views of how the
+Act
+should be interpreted.
+A. The Deputy Minister's Interpretation
+[11]
+The stream of the argument is as follows:
+[12]
+(1) Specifically, s. 12(1) of the
+Act
+requires that all goods which are imported must be reported to a customs office. In turn, s. 18(1) of the
+Act
+contains a presumption of importation and states that all goods reported under s. 12 shall be deemed to be imported. These sections read as follows:
+"s. 12(1) Subject to this section, all goods that are imported shall, except in such circumstances and subject to such conditions as may be prescribed, be reported at the nearest customs office designated for that purpose that is open for business.
+"s. 18(1) For the purposes of this section, all goods reported under section 12 shall be deemed to have been imported."
+[13]
+(2) The
+Act
+and
+Tariff
+do not give the words "export" or "import" any special or technical meaning. Nothing in the wording or purpose of this legislation supports giving these phrases other than their ordinary dictionary meaning as found in the majority decision of the Tribunal.
+[14]
+(3) Section 12 of the
+Act
+is not limited to goods acquired abroad, as the appellant would have it. To the contrary, s. 12, and hence, s. 18 of the
+Act
+apply to all goods entering Canada, wherever and whenever acquired.
+[15]
+(4) The Federal Court Trial Division has definitively held that s. 12 of the
+Act
+requires all goods entering Canada to be reported to a customs office regardless of their place or date of acquisition.
+[16]
+In
+Kong v. R.
+(1984), 7 C.E.R. 240, at 248 (F.C.T.D.), Collier, J., interpreted s. 12 (then s. 18 of the
+Customs Act
+, R.S.C. 1970, c. C-40) of the
+Act
+as follows:
+"Section 18 ... is quite explicit. Its net effect is that every person arriving in Canada shall make a report to customs, ..., of all goods in his charge or custody. ... The goods referred to are not necessarily goods acquired by a person outside Canada. They may have been originally acquired in or brought in to Canada, taken out for some reason, and brought back to Canada again. Personal clothing is a good example. Put simply: all goods, of any kind, no matter where, when, or how acquired, no matter whether reported ... a hundred times before, must be reported ... each time any person arrives in Canada from elsewhere."
+[17]
+To similar effect about s. 12 (then s. 18 of the
+Customs Act
+, R.S.C. 1970, c. C-40) of the
+Act
+is the statement of Strayer, J., in
+R. v. Glisic
+(1983), 6 C.E.R. 78 (F.C.T.D.), at 81:
+"Failure to declare the goods as required by section 18 is not excused by the fact that the goods had previously been in Canada prior to their removal therefrom and were returned to Canada on the occasion of the failure to declare ..."
+[18]
+(5) Thus, s. 12 of the
+Act
+required the appellant's houseboat to be declared at customs upon returning to Canada, and s. 18 of the
+Act
+deemed the houseboat to be imported.
+[19]
+(6) Further, under s. 19 of the
+Customs Tariff
+R.S.C. 1985 (3rd Supp.), c. 41 (the
+Tariff
+) customs duties must be levied and collected at the rates set out in Schedule I on
+all
+goods enumerated or referred to in that Schedule when such goods are imported. This section reads:
+"s. 19(1) Subject to this Act and the Customs Act and any regulation or order made thereunder, there shall be levied and collected on all goods enumerated or referred to in Schedule I, when such goods are imported, and paid in accordance with the Customs Act, customs duties at the rates set out in Schedule I or section 46 that are applicable to those goods."
+[20]
+(7) Given that all goods of Canadian or foreign origin must be reported under s. 12 of the
+Act
+, they must be considered to be imported, as s. 12 requires that "imported" goods must be reported. If the goods are "imported", then they are subject to duty under s. 19 of the
+Tariff
+.
+[21]
+(8) Finally, the goods which are subject to duty are those presented at the time of entry into Canada.
+[22]
+(9) Hence the scheme of the
+Act
+and
+the
+Tariff
+is to make all goods, wherever and whenever acquired, subject to reporting and duty each time they enter Canada. The goods as presented at the time of entry are assessed an amount of duty based on their tariff classification. That is, for the purposes of customs legislation, every item which physically crosses the Canadian border is imported or exported.
+[23]
+(10) Given the goods at issue in this case, only three tariff items were potentially applicable under Schedule I of the
+Tariff
+:
+"(a) 8407.29.10: inboard/outboard marine propulsion engines;
+(b) 8903.92.00: motorboats, other than outboard motorboats; or
+(c) 9813.00.00: goods, ..., originating in Canada, after having been exported therefrom, if the goods are returned without having been advanced in value or improved in condition by any process of manufacture or other means or combined with any other article abroad, under such regulations as the Minister may make."
+[24]
+(11) As the imported goods clearly did not meet the conditions of tariff item 9813.00.00, that is the boat was combined with a new engine abroad thus advancing it in value and improving it in condition, and the engine did not originate in Canada, the goods could not be classified under tariff item 9813.00.00.
+[25]
+(12) The real question for this court is the characterization of the goods to be classified: Was it a motor boat or simply a motor which had to be classified in this case?
+[26]
+(13) The Tribunal was correct in characterizing the goods as a houseboat, and hence as a motorboat under tariff item 8903.92.00. This characterization is mandated by the legislative scheme of the
+Act
+and
+Tariff
+.
+[27]
+(14) Where goods are being returned to Canada the amount of duty assessed may be nil if the goods fall under tariff item 9813.00.00. Alternatively, goods being returned to Canada may be eligible for duty relief under provisions such as ss. 88 to 92 of the
+Tariff
+. In either case, the goods are still imported and subject to duty, although the amount of duty may be reduced in recognition of the fact that the goods were not acquired outside Canada.
+[28]
+Sections 88 to 92 of the
+Tariff
+are the "Canadian Goods Abroad" provisions and, in part, read as follows:
+"s. 88(1) Subject to section 91, where an application is made in accordance with section 89, relief shall be granted from the payment of the portion of the duties, determined in accordance with section 92, that, but for this section, would be payable in respect of goods returned to Canada within one year, or, where another time is prescribed, within that other time, after their exportation in the prescribed manner from Canada where
+(a) the returned goods were repaired outside Canada after being exported for the declared purpose of repairs;
+(b) equipment was added outside Canada to the goods; or
+(c) work was done outside Canada on the returned goods and the goods exported from Canada were the product of Canada.
+"(2) Subject to section 91, where an application is made in accordance with section 89, relief shall be granted from the payment of the whole of the duties that, but for this section, would be payable in respect of aircraft, vehicles or vessels returned to Canada after their exportation from Canada, where
+(a) the returned aircraft, vehicles or vessels were repaired outside Canada as a result of an unforseen contingency that occurred outside Canada; and
+(b) the repairs were necessary to ensure the safe return to Canada of the aircraft, vehicles or vessels."
+[29]
+(15) If the appellant's position is correct, provisions for relieving duty on returned Canadian goods such as tariff item 9813.00.00 and ss. 88 to 92 of the
+Tariff
+would be redundant. Such an interpretation should be rejected.
+[30]
+(16) Applying the legislative scheme, if the "Marmalade Skies" had returned to Canada with a new motor on deck and the old motor in the boat, both the motor and the boat would be subject to duty. The new motor would be assessed under tariff item 8407.29.10 and the boat equipped with the old motor would be assessed duty under tariff item 9813.00.00.
+[31]
+(17) As a matter of fact, what returned to Canada in this case was not a motor
+and
+a houseboat. Rather, a houseboat with a new motor installed re-entered Canada. Applying the scheme explained above, at the time of re-entry to Canada a houseboat was presented to customs and hence duty was required to be assessed on the boat, as it was. Thereafter, duty relief might be available.
+B. Mr. Flavell's Interpretation
+[32]
+Mr. Flavell submits that the dissent of Tribunal member Mr. Charles A. Gracey shows a correct appreciation for the legislative scheme and Parliamentary intent behind the
+Act
+and the
+Tariff
+and, accordingly on this appeal, urges that it be accepted over the majority opinion. Mr. Gracey's view of the
+Act
+is reflected in the following passages from his judgment:
+"The scheme of the
+Act
+and the apparent intent of Parliament favours the appellant in this matter.
+"The
+Act
+defines 'import' to mean 'import into Canada'. Given this rather unilluminating definition, recourse to dictionaries is necessitated. Such definitions are replete with references to commerce or to the fact that the goods come from a foreign source. Thus, while a superficial definition might imply that anything that enters Canada is imported, I cannot disregard the more complete meaning. For example the
+Shorter Oxford English Dictionary
+defines 'import' as:
+'Import: 1. To bring in; to introduce from abroad, or from one use or connection to another
+2. To bring in (goods or merchandise) from a foreign country, in international commerce.'
+"It would appear, therefore, that there is a better description than 'imports' for goods of Canadian origin returned to Canada. The definitive term would be 'goods returned;' and indeed the
+Customs Tariff
+uses that term for purposes of duty relief.
+"I am therefore persuaded that since importation implies goods originating from a foreign source, and since there was clear evidence that the houseboat itself was of Canadian origin, the only good that was imported was the marine engine.
+"I am also persuaded that the scheme of the
+Customs Act
+and the
+Customs Tariff
+and the intent of Parliament is to only apply an import duty to foreign goods entering Canada. Certainly the right exists in law to apply duty to goods of Canadian origin if, and to the extent that, it cannot be established that they were of Canadian origin. But where proof exists that the goods at issue are partly of Canadian origin, I see no express intent any where in the legislation to exact a duty on their return to Canada. There are measures, to be sure, that provide for the proper notices and prescribed procedures for Canadian goods returned that have been advanced in value. However, these procedures are very clearly intended to enable Customs officials to determine to what extent Canadian goods were advanced in value in order to collect duty on that advanced value, again affirming the intent of Parliament. One appreciates the need for these provisions, but one should also appreciate their purpose, that being to establish clearly that which is dutiable.
+"The cautionary clauses in subsection 88(1) and (2) which that '... relief shall be granted from ... the duties ... that, but for this section, would be payable in respect of goods ... vehicles ... returned to Canada' have been construed to mean that goods returned to Canada are automatically dutiable. My view is that they are dutiable only where it cannot be established that they are, in fact, Canadian goods returned. The prescribed measures serve that purpose, and failure to follow them to the letter need not be fatal where alternative and sufficient proof of Canadian origin and value added has been provided. In the case before us there was uncontroverted evidence that the houseboat was of Canadian origin and that a new engine was installed following an engine failure. The fact that the engine was installed has also been adequately explained as a matter of practical necessity.
+"As it was the intention of Parliament to make foreign goods entering Canada dutiable and ample evidence was presented that only a marine engine of foreign origin was installed in a Canadian houseboat, it is my opinion that duty should be payable only on that engine. The marine engine should be classified as argued by the appellant. Secondly, I hold that even if it had been determined that a houseboat had been imported, the scheme of the
+Act
+is clear that any duty should apply only to the advanced value."
+[33]
+To bolster the confidence that I should place in Mr. Gracey's dissenting judgment, Mr. Flavell makes the following supporting points:
+[34]
+(1) Mr. Halliday, despite the attempts of customs officials to have him do so, did
+not
+report that he had imported a houseboat when he came back into Canada with the houseboat following the installation of the new motor. According to the Customs Declaration which he signed on August 22, 1989, he declared a "$7,000 engine repairs only".
+[35]
+(2) It is uncontested that the houseboat, with the exception of the engine that was installed, was of Canadian origin. This is acknowledged in the "Canada Customs Detailed Adjustment Statement" produced by the Deputy Minister on the 1991 redetermination application and filed before the Tribunal.
+[36]
+(3) There is no taxing authority in customs law to achieve the result that the Deputy Minister advances. There is also absolutely no statutory basis on which to impose a tariff on goods that originate in Canada and, in fact, all tariffs require a foreign origin component.
+[37]
+(4) By s. 19 of the
+Tariff
+, customs duties shall be levied and collected on "all goods enumerated or referred to in Schedule I, when such goods are imported, and paid in accordance with the
+Customs Act
+, customs duties at the rates set out in Schedule I or s. 46 that are applicable to those goods".
+In Schedule I of the
+Tariff
+, there are only three tariff categories: "Most-Favoured-Nation", "General Preferential" and "United States". There is no Canadian tariff.
+[38]
+(5) Regarding the "United States" tariff, s. 25.2 of the
+Tariff
+provides:
+"s. 25.2(1) Subject to this section, goods that originate in the United States are entitled to the rates of customs duty set out with respect to those goods in the United States Tariff of Schedule I."
+By this section it is clear that only goods which originate in the United States are entitled to the United States tariff.
+[39]
+(6) But in the 1991 redetermination of the value of the "Marmalade Skies", the rate of duty applied was 13.5% which, under Schedule I of the
+Tariff
+, was the "United States" tariff applicable at the time. Thus, the "United States" tariff was applied to goods that originated in Canada.
+[40]
+(7) A further example of the foreign origin component requirement is found in the provisions regarding the "Most-Favoured-Nation" tariff. Section 22 of the
+Tariff
+provides:
+"s. 22 Subject to sections 23 and 24, goods that originate in a country listed in Schedule III as a beneficiary of the Most-Favoured-Nation Tariff are entitled to the rates of customs duty set out with respect to those goods in the Most-Favoured-Nation Tariff in Schedule I."
+Schedule III is the "List of Countries With Applicable Tariff Treatments" comprising some 198 countries. Canada is not on the list.
+[41]
+(8) The specific wording of the "old" s. 18 of the
+Customs Act
+(R.S.C. 1970, c. C-40) under which the
+Kong
+and
+Glisic
+cases were decided, distinguish these cases as having application to the "new" s. 12 of the
+Act
+(R.S.C. 1985 (2nd Supp.), c. 1) which was in force at the time that Mr. Halliday made his declaration.
+[42]
+The "old" s. 18 reads:
+"s. 18 Every person in charge of a vehicle arriving in Canada, other than a railway carriage, and every person arriving in Canada on foot or otherwise, shall
+(a) come to the custom-house nearest to the point at which he arrived in Canada, or to the station of the officer nearest to such point if that station is nearer thereto than a custom-house;
+(b) before unloading or in any manner disposing thereof, make a report in writing to the collector or proper officer at such custom-house or station of
+all goods
+in his charge or custody ..." (emphasis mine)
+[43]
+The "new" s. 12 reads:
+"s. 12(1) Subject to this section,
+all goods that are imported
+shall, except in such circumstances and subject to such conditions as may be prescribed, be reported at the nearest customs office designated for that purpose that is open for business." (emphasis mine)
+Following the international commerce definition of "imported" accepted by Mr. Gracey, the change in the wording from the "old" s. 18 to the "new" s. 12 demonstrates an intent to now exclude goods of Canadian origin from the reporting obligation.
+[44]
+(9) On the issue of the definition of "imported", the legislative context in which the term is used is important. As a challenge to the way in which the term is defined by McIntyre, J., in
+R. v. Bell
+, [1983] 2 S.C.R. 471; 50 N.R. 172, as relied upon by the majority of the Tribunal, as the "ordinary meaning", the following quote from the judgment of Dickson, J., in
+Harris Bell
+at 476 is important:
+"In my view s. 101(a) of the
+Customs Act
+has no application. It is concerned with the levying of duty, or for any other purpose of the
+Customs Act
+or any other law relating to customs. The
+Narcotic Control Act
+is concerned with the health and welfare of mankind and the serious social and economic evil of nonmedical use of narcotics. The two
+Acts
+are unrelated and the
+Interpretation Act
+does not provide a nexus ... The true meaning of the phrase 'import into Canada', as used in the
+Narcotic Control Act
+, cannot be found by recourse to the
+Customs Act
+. It is manifestly necessary to look at the natural and ordinary meaning of the phrase."
+Thus, if the
+Customs Act
+definition is not important to the
+Narcotics Control Act
+, the
+Narcotics Control Act
+definition is not important to the
+Customs Act
+. Therefore, the international commerce definition should be used for "imported" as used within s. 12 of the
+Act
+as it is consistent with the subject matter with which the
+Act
+deals.
+[45]
+(10) The Tribunal did not consider it had jurisdiction to deal with the "Canadian Goods Abroad" provisions, being ss. 88 to 92 of the
+Tariff
+, and they were not advanced on this appeal as being relevant except to the extent of contributing to the assessment of the scheme of the
+Act
+.
+[46]
+(11) The provisions for relieving duty on returned Canadian goods such as tariff item 9813.00.00 and the "Canadian Goods Abroad" provisions are not taxing provisions and do not authorize the duty imposed on the "Marmalade Skies".
+[47]
+(12) The Deputy Minister makes the key argument that these relief provisions would be redundant unless seen as relief from the scheme that "all goods" entering Canada are subject to duty. But a credible alternate use is provided in Mr. Gracey's judgment to the effect that the provisions provide a means whereby Customs officials can establish that Canadian goods are returning to Canada and the extent to which those goods were advanced in value while outside the country for the purpose of collecting duty on that advanced value.
+[48]
+(13) In addition, it is assumed by the Deputy Minister that s. 88 only applies to goods of Canadian origin. This is not the case since s. 88 can be seen as applying to goods of foreign origin leaving Canada, having repairs done to them and coming back into Canada, and but for s. 88, those goods would be subject to tariff treatment similar to that experienced by Mr. Flavell.
+[49]
+(14) In addition, tariff items 9813.00.00 and 9814.00.00 can be seen to be included to deal with increases in value that occur to a Canadian product while it is abroad that cannot be attributed to foreign production. For example, a situation of a Canadian painting being exported and tripling in value. Customs officials might be tempted to attribute the increase in value to a foreign source, and tariff item 9813.00.00 makes sure that even if there is an increase in value no duty will be paid.
+IV
+Analysis
+[50]
+As a preliminary point on the exercise of statutory interpretation, Pierre-André Côté in
+The Interpretation of Legislation in Canada
+(2nd edition, Les Éditions Yvon Blais Inc., 1991) states:
+"The Canadian jurist interprets enactments within the context of interpretative guidelines, which may be approached from a number of standpoints. Others see them as arguments to be invoked in favour of or against a particular interpretation. Whether as guides or as arguments, interpretative guidelines consist of constraints that the interpreter must take into account in elaborating the meaning of an enactment." (p. 211)
+[51]
+Côté points out that the use of various guidelines might produce a high degree of consistency in which there is no problem of interpretation or the guidelines may point to different interpretations, in which case the interpreter must then make a decision. He stresses that the guidelines are not rules which determine the outcome of the decision making. That is, the judge should not feel bound to follow the result reached by using one set of guidelines or another, but in the exercise of using them "it is rather to decide the meaning of the provision, taking into account, among other matters the light which the actual language used and the broader aspects of legislative policy arrived at by the
+golden
+and
+mischief
+rules, throw on that meaning". (p. 211-212)
+A. Interpretive Guidelines
+[52]
+Côté's analysis provides careful summaries for a number of methods of throwing light on the meaning of statutory provisions. The following, quoted in italics, are those I believe to be the most useful to this case.
+"(1)
+The grammatical or literal method
+In the application of the grammatical method one may be guided by three principles which specify its scope:
+(1) words must be given their ordinary meaning;
+(2) words must be given the meaning they had on the day the statute was enacted;
+(3) adding to the terms of the statute, or depriving them of effect, must be avoided. (p. 219)
+(a) Ordinary meaning
+As it is presumed that the legislator wishes to be understood by the citizen, the law is deemed to have been drafted in accordance with the rules of language in common use. In particular, Parliament is presumed to use words in the same sense as would the 'man in the street'. (p. 219)
+... Of course, the judge is expected to be familiar with the usual meaning of words. Yet it is common practice to refer to dictionaries, as these supposedly reflect linguistic usage applicable in a community at a given time. (p. 220)
+... The need to determine the word's meaning within the context of the statute remains." (p. 221)
+[53]
+A main item of contention is the meaning of the phrase "all goods that are imported". The objective, therefore, in applying this method, is to find the meaning of these words, but within the context of the
+Act
+.
+[54]
+While the Tribunal majority's search purports to find the "ordinary meaning" of the words "export" and "import", I do not believe the result pays sufficient attention to the legislation under consideration. Under the guidelines, the words must be considered within the context of the
+Act
+. On this point, Mr. Flavell has made an effective argument for excluding the use of any definition found within any other unrelated legislation or context.
+[55]
+The ordinary meaning to be given to the phrase "all goods that are imported" must consider what might ordinarily be expected of customs legislation. There is no doubt in my mind that any Canadian coming back into Canada and being asked, "Anything to declare?" expects to pay customs duties only on goods acquired outside the country. In addition, those having goods sent from abroad for resale in Canada expect that they might have to pay customs duties on what they bring in. Given this background, the argument made by the Deputy Minister that the phrase "all goods that are imported" should be interpreted as meaning "all goods" is extraordinary, and accordingly, loses weight as against Mr. Flavell's interpretation.
+[56]
+I find that there is a misinterpretation within the Tribunal's majority decision which undermines its value in determining ordinary meaning. In arriving at its own interpretation of "export", the majority uses Strayer, J.'s, quotes from
+FRAGMENT_SUPPRESSED that:
+"'export' normally involves
+the transfer of goods from one country to another
+" (p. 5331)
+and
+... "the most natural meaning in a
+commercial context
+for the term 'export' or 'exportation' is the
+sending of goods from one country to another, foreign country
+". (p. 5332)
+From these phrases the majority:
+"adopts the definition of 'export', meaning
+to send out from one country and into another
+or cause to be sent out from one country and into another." (emphasis mine)
+[57]
+The error is that the majority finds from Strayer, J.'s, words the meaning of "export" to be the downgraded notion of mere mechanical movement from one country to another. The words used by Strayer, J., as authority state much more; a "transfer" of goods from one country to another or "a sending" within a commercial context.
+[58]
+The question is, what would Côté's more properly stated "average person on the street" understand by the words "export" and "import" used in an Act administering the collection of customs. Within my understanding of what generally informed people think, there is no doubt that international trade comes to mind with trucks and ships transporting goods to and from Canada and nations around the world. Thus, the words should be interpreted within this clearly commercial context.
+[59]
+Therefore, Mr. Gracey's recognition that the
+Act
+operates within a commercial context gives substantial weight to his opinion on the meaning of the phrase "all goods that are imported" as referring to goods originating from a foreign source only.
+"
+(b) The meaning at the time of the
+enactment
+As a general rule, the interpreter of a law should place himself at the time of enactment. His task is to rethink the thoughts of the legislator as expressed by the terms of the enactment. It seems logical, therefore, to give the words their ordinary meaning at the time of the legislation's adoption, while taking into account, of course, the context in which they were enacted." (p. 224)
+[60]
+Section 12 of the
+Act
+is part of a revision which took place in 1985. The ordinary meaning of the provisions of the
+Act
+were certainly the same then as now. It is important, however, to note the legal, political, economic, and social context which existed at that time and this is accomplished under "Historical Interpretation" below.
+"
+(c)
+Depriving terms of their effect
+Assuming a statute to be well drafted, an interpretation which adds to the terms of its provisions or deprives them of meaning is suspect. (p. 231)
+... It must also be presumed that each term, each sentence and each paragraph have been deliberately drafted with a specific result in mind. Parliament chooses its words carefully; it does not speak gratuitously." (p. 232)
+[61]
+Upon considering this element of the grammatical or literal method, I find the Tribunal majority and Deputy Minister's approach to ascertain the meaning of the phrase "all goods that are imported" to be flawed. It is illogical to maintain, as the Deputy Minister has, that the meaning to be given to the phrase "all goods that are imported" is the same as the meaning to be given to the two words "all goods". By the guidelines under this method, the addition of the words "that are imported" must be given effect. By giving them effect, the scope of the meaning of the phrase is more limited than available by using the words "all goods". Accordingly, the
+Kong
+and
+Glisic
+cases are distinguished which significantly diminishes the weight to be placed on the Deputy Minister's interpretation.
+"(2) The contextual and logical method
+"Just as the literal method posits that the legislator can accurately communicate via the written word, the contextual method is based on the assumption that the legislator is rational. The product of this rational legislator, the law, is deemed to be a reflection of coherent and logical thought. Interpretations consistent with this supposed legislative rationality are therefore favoured over those that are incoherent, inconsistent, illogical or paradoxical.
+"It is reasonable to believe that this rationality first manifests itself within a particular enactment; the statute to be read as a whole, and each of its components should fit logically into its scheme. This coherence should extend to other legislation, particularly in the same subject area. Accompanying this 'horizontal' consistency is a 'vertical' consistency. Enactments are deemed to fit into a hierarchy of legal norms; regulations are presumed consistent with statutory requirements, and statutes, with the Constitution. (p. 257)
+"... The courts may be justified in setting aside a meaning that seems clear and precise at first glance, if in so doing the internal consistency of the statute is re-established. The 'Golden Rule' allows a judge to dismiss the ordinary sense of a word or expression in the interests of a coherent interpretation of the law as a whole." (p. 270)
+[62]
+As can be seen from the arguments, both the Deputy Minister and Mr. Flavell have provided careful, detailed, but fundamentally different arguments on the interpretation to be accepted as to the scheme of the
+Act
+and the
+Tariff
+.
+[63]
+Applying this method, I find these separate arguments equally persuasive. Each interpretation is equally coherent, consistent, and logical, and should be given at least equal weight in this exercise of determining meaning.
+(3) The Purposive Method
+[64]
+Section 12 of the
+Interpretation Act
+, R.S. C. 1985, c. I-21, reads as follows:
+"s. 12 Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects."
+[65]
+This is the codification of the common law "mischief" rule of statutory interpretation. As cited by Côté, the original concept of the rule, stated four hundred years ago in
+Heydon's Case
+(1584), 3 Co. Rep. 7a, has four concerns:
+"(1) what was the common law before the making of the
+Act
+?
+(2) what was the mischief and defect for which the common law did not provide?
+(3) what remedy the Parliament hath resolved and appointed to cure the disease of the commonwealth?
+(4) the true reason of the remedy; and then the office of all the Judges is always to make such construction as shall suppress the mischief, and advance the remedy ..." (p. 315)
+The concept of throwing light on the meaning of a particular enactment by discovering its purpose is still valid.
+[66]
+There is no disagreement that the
+Act
+and
+Tariff
+are protectionist in nature. But there is strong disagreement about how aggressive these provisions are. In this respect lies the great debate in this case of whether the
+Act
+and the
+Tariff
+are intended to assess duties on foreign goods entering the country as Mr. Flavell argues, or on all goods entering the country as the Deputy Minister argues. Granted, the Deputy Minister's interpretation allows for nil duty to be assessed in certain situations, but the concept of imposing duties on all goods provides the opportunity for a situation to arise as the one being experienced by Mr. Flavell.
+[67]
+In fact, Mr. Lester on behalf of the Deputy Minister argues that the provisions under consideration here allow a "punitive effect" in protecting Canadian goods from foreign competition. And it is clear that he means punitive towards everyone crossing the border, including ordinary well meaning citizens of this country such as Mr. Halliday.
+[68]
+For example, Mr. Lester argued that what he termed the "Draconian reach" of s. 18 of the old
+Act
+and s. 12 of the
+Act
+provides that a Canadian motoring in the United States who puts a new spark plug, or oil filter, or even a $150 paint job on his or her car, valued at, say $10,000, makes the whole car dutiable upon return to Canada. The concept of imposing this result is apparently to deter Canadians from buying American goods. In the Deputy Minister's opinion, it is only by strict compliance with the "Canadian Goods Abroad" relief provisions that such a situation can be avoided.
+[69]
+To test this premise, I put the following question and received the following answer:
+"THE COURT: Let's just take it one step further. The money amounts here are close enough that it gets confusing. Say this was a $500,000 boat, there are lots of them around, and a $7,000 motor was replaced on the boat. What happens now?
+MR. LESTER: I say that the whole boat is dutiable." (Transcript p. 73)
+[70]
+On this basis, if the "Marmalade Skies" were such a boat, at 13.5% the duty demanded would be $67,500.
+[71]
+In the hearing of this appeal, I welcomed the candour with which Mr. Lester, Mr. Flavell and Mr. Kent presented their arguments. On the issue of whether s. 12 of the
+Act
+reaches as far as the fact example just quoted, the following exchange is important because it clearly expresses how well committed the Deputy Minister is to the position taken in opposition to Mr. Flavell:
+"MR. LESTER: Now, there is no question, My Lord, there is no question that both Mr. Kent and Mr. Flavell and Your Lordship will try and make me uncomfortable by saying take this to its logical extreme and don't you saw yourself off. I resolutely and boldly look at you in the eye and say you can try it, but I'm not going to flinch." (Transcript p. 77)
+And indeed he did not.
+[72]
+So, the general purpose of the
+Act
+and
+Tariff
+is clear as far as the Deputy Minister is concerned. But is the
+Act
+intended to be as punitive as Mr. Lester makes out? The light to be thrown on this question is established under the next method.
+"
+(4) Historical Interpretation
+"In both theory and principle, parliamentary history is inadmissible, absent a constitutional context, for the purpose of interpreting a specific provision of an enactment. However, this principle is riddled with derogations and exceptions to such a point that we may ask whether it is on its last legs, if not completely finished.
+"Frequently the principle is simply ignored by the court. These derogations would undoubtedly have less weight were it not for the fact that they occasionally find themselves cited in decisions of the Supreme Court of Canada.
+"As for the exceptions invoked to limit the scope of the exclusionary rule, there are two, of unequal importance. The first proposed by Lord Reid [in
+Warner v.
+Metropolitan Police Commissioner
+, [1969] 2 A.C. 256 (H.L.)] admits parliamentary history when its study is capable of settling an issue of interpretation in one way or another. The second, which is more important, allows resort to parliamentary history not to establish directly the meaning of a specific provision, but to clarify the context of adoption of the statute and the situation that is sought to correct, the 'mischief'. (p. 364)
+"... According to Justice Heald:
+'Recent jurisprudence has made it clear that courts are entitled to look to the Debates of the House of Commons in order to ascertain the "mischief" or "evil" that a particular enactment was designed to correct.' [
+Canada (Attorney General) v. Young
+, [1989] 3 F.C. 647 (F.C.A.)]" (p. 366)
+[73]
+Indeed, the acceptance of parliamentary history in statutory interpretation appears to be on the rise. In
+Pepper v. Hart
+, [1993] All E.R. 42, Lord Browne-Wilkinson states at p. 64 that:
+"My Lords, I have come to the conclusion that, as a matter of law, there are sound reasons for making a limited modification to the existing rule (subject to strict safeguards) unless there are constitutional or practical reasons which outweigh them. In my judgment, subject to the questions of the privileges of the House of Commons, reference to parliamentary material should be permitted as an aid to the construction of legislation which is ambiguous or obscure or the literal meaning of which leads to an absurdity. Even in such cases references in court to parliamentary material should only be permitted where such material clearly discloses the mischief aimed at or the legislative intention lying behind the ambiguous or obscure words. In the case of statements made in Parliament, as at present advised I cannot foresee that any statement other than the statement of the minister or other promoter of the Bill is likely to meet these criteria."
+[74]
+I approach this method with a concern which must be cleared away. This concern was coincidentally addressed in
+Pepper v. Hart
+by Lord Browne-Wilkinson at p. 66 as follows:
+"In addition, a number of distinguished judges have admitted to breaching the exclusionary rule and looking at
+Hansard
+in order to seek the intention of Parliament. When this happens, the parties do not know and have no opportunity to address the judge on the matter. A vivid example of this occurred in
+Hadmor Productions Ltd. v. Hamilton,
+[1981] 2 All E.R. 724; [1983] 1 A.C. 191 (C.A.); [1982] 1 All E.R. 1042; [1983] 1 A.C. 191, where Lord Denning M.R. in the Court of Appeal relied on his own researches (sic) into
+Hansard
+in reaching his conclusions; in the House of Lords, counsel protested that there were other passages to which he would have wished to draw the court's attention had he known that Lord Denning M.R. was looking at
+Hansard
+(see [1982] 1 All E.R. 1042 at 1056; [1983] 1 A.C. 191 at 233). It cannot be right for such information to be available, by a sidewind, for the court but the parties be prevented from presenting their arguments on such material."
+[75]
+Neither Mr. Lester, Mr. Flavell nor Mr. Kent made reference to
+Hansard
+in their arguments. For me now to do so might be viewed as gaining insight by a "sidewind" as Lord Browne-Wilkinson has described it. My purpose here is to decide between two very strong arguments and, frankly, I feel that any credible resource that is available within the law to do so should be used.
+[76]
+From my research, the following excerpt encompasses the entire remarks made on Second Reading by The Honourable Elmer M. MacKay, the Minister responsible for the promotion of Bill C-59 which was ultimately passed as the
+Act
+. How much argument the Minister's words would have generated at the trial is hard to say, given the adept minds of counsel. But I have come to the conclusion that it would not be enough to warrant either recalling the case for further argument or leaving out this element of the analysis entirely, particularly since it is only one facet of a multi-faceted analysis.
+[77]
+Thus, according to the Debates of the House of Commons, what was the "mischief" that the
+Act
+was designed to correct? During the second reading of Bill C-59, The Honourable Elmer M. MacKay, had quite a lot to say about this question as quoted from the Official Report (First Session-Thirty-Third Parliament, 34 Elizabeth II, Volume V, 1985), as follows:
+"
+Hon. Elmer M. MacKay (Minister of National Revenue)
+moved that Bill C-59, an Act respecting customs, be read the second time and referred to a legislative committee.
+"He said: Mr. Speaker, what we are seeing here today is an initiative which had previously been attempted. The
+Customs Act
+, which regulates the flow of goods into and out of Canada, is one of the oldest federal statutes on the books of this country. In fact, one of the earlier undertakings of Canada's first Parliament was to pass Customs and Tariff legislation to give effect to the Customs union among Canada's provinces.
+"It is a unique opportunity for me today to discuss in this House a Bill to provide the first complete revision of the
+Customs Act
+in more than 100 years. This piece of legislation was introduced in substantially the same form by the former Government. At that time it was recognized as a Bill which was long overdue. Of course, amendments to the present
+Customs Act
+has (sic) been made from time to time but none of these represented a major restructuring of the law. Many of the amendments adopted over the years have remained in force long after the need which had prompted their adoption disappeared. For example, the current Act still retains a provision enacted during prohibition regarding vessels found 'hovering in Canadian waters'.
+"What we have now is a hodgepodge of an Act, essentially a nineteenth century document trying to cope with modern needs. I believe all Hon. Members will agree it is time for a full-scale review.
+"As my colleagues will know, the
+Customs Act
+provides the legislative authority and powers for Customs to administer the law governing the import and export of goods and to collect customs revenues. This is not a tax Bill like the Customs Tariff. The
+Customs Act
+is essentially an administrative statute and, with this Bill, we are seeking to provide a complete revision of the
+Act
+for the first time since its inception.
+"For Canadians generally, Customs law is not a particularly high profile concern. The only contact most of them have with Customs is occasional dealing with Customs officers at border points, although with border crossings totalling about 80 million annually, this in itself represents an important segment of the work of the Department.
+"Like the tip of an iceberg, border control represents only one of the major responsibilities of Customs in administering legislation regulating the import and export of commodities and in collecting of Customs and Excise revenue. Canada, as we know, is one of the great trading nations of the world and Customs each year must oversee some 10 million commercial import and export transactions.
+"The need for an updated
+Customs Act
+which reflects the realities of the 1980's and beyond is very clear. The passage of this Act is especially timely, Sir, in view of Expo '86 which will be hosted by Canada next year. National Revenue, Customs and Excise, is responsible for collecting some $18 billion in revenues annually, almost 25 per cent of total federal revenues. It is therefore a major source of our country's total tax revenue and as such it behooves us to make certain that our laws in this regard are up to date, logical, efficient and equitable.
+"We must be fair and even handed in our approach but Canadian citizens must also be confident that Customs revenue which should be collected is in fact being collected.
+"In preparing this new
+Act
+, we were guided by these four overriding objectives: First, the need to eliminate provisions of the
+Act
+which were obsolete or inconsistent. Examples of obsolescence in the present
+Act
+include the provision for restricting importation to daylight hours; restricting Customs brokers' licences to British subjects; and allowing the seizing officer to share in the proceeds of a seizure.
+"Second, the desire to restructure the
+Act
+in a logical sequence. The new
+Act
+follows the natural sequence of Customs' requirements from report through transportation and warehousing, release, accounting and payment, tariff classification and valuation, appeals and refunds to seizures and forfeitures and offenses and penalties.
+"Third, the need to provide greater flexibility so as to be able to respond to developments in transportation, communications and business practices is imperative.
+"Fourth, the need to redesign and modernize the provisions for the collection of revenue and enforcement generally is very important. The new
+Act
+will accommodate all modes of transport - which I am sure my colleague, the Minister of Transport (Mr. Mazankowski), will be very pleased to see happen - for example, pipelines, containerization and so on.
+"Modern business practices such as computerization are taken into account.
+"The new
+Act
+will provide for accounting and payment of duties after release of goods on a periodic basis. It will no longer be a 'cash on the barrelhead' approach. I believe that in this Bill now before the House we have met these objectives.
+"In addition to meeting these broad objectives, we have, in reviewing and amending early drafts of the Bill, kept very much in mind some of the general commitments made by this Government in respect of its dealings with Canadian taxpayers. Specifically, Mr. Speaker, I believe Hon. Members will find that this new Bill reflects our commitment to fairness and equity in dealing with Canadian citizens; to clarity and simplification to the degree possible in the application of the law; and to consultation in developing regulations and administering the law.
+"It is not my intention to go into lengthy detail on the many provisions of the Bill at this time. There will be ample opportunity to do this later.
+"Hon. Members have had copies of the Bill and related material made available to them and I am sure they will wish to give it individual study. As I mentioned earlier, many of the principles outlined have been considered previously.
+"I would like to comment briefly, however, on a few of the features of this Bill which demonstrate our particular emphasis on aspects of fairness, simplification and consultation. With respect to the question of fairness and equity, Mr. Speaker, I would draw Hon. Members' attention to sections 59 to 72 of this Bill which deal with those individuals or companies who disagree with a departmental or tariff board decision and request a redetermination of the tariff classification or a reappraisal of the value for duty of the goods they have imported. In addition, where a departmental ruling is successfully challenged by a member of the public, he or she will be entitled to receive interest on the duties paid. Conversely, interest will be charged where the decision is in favour of the department.
+"Concerning the collection of taxes of duties owing, our Government has been clearly on record as opposed to the 'presumption of guilt' approach in disputes between the Government and individuals. I am pleased to say that with the passage of the new Bill, individuals who disagree with a ruling will not be forced to pay the duty before the matter has been resolved. They will have the option of depositing security in lieu of payment or, if they wish, making payments with the guarantee that interest will be paid on any refunds to which they ultimately may become entitled. I think this is a fair solution to a problem which has been a bone of contention. I believe it is one which will be well received by importers.
+"Protection of civil rights is reflected in a number of the provisions of the Bill. For example, in proceedings under the new
+Act
+relating to the importation or exportation of goods, the burden of proof of such importation or exportation will now rest with the Government. Under current law, the burden rests with the importer or exporter, a condition which we consider unfair. I believe, Mr. Speaker, that these and other proposed changes to the
+Customs Act
+reflect the spirit of the
+Canadian
+Charter of Rights and Freedoms
+and human rights legislation. The new Bill also spells out clearly the procedures to be followed by Customs officers in inspecting mail items, as is required in the course of their duties. As you know, Customs officers must have authority to inspect items which they have reasonable grounds to believe may contain material subject to Customs regulation. Otherwise, they would not be able to enforce fully the provisions of the
+Customs Act
+or the many other federal statutes for which they have certain administrative responsibilities.
+"To protect the public, the Bill provides that mail items 30 grams or less may not be opened without the consent of the addressee or sender. To the public, a letter is correspondence which can be mailed with a 34 cent stamp. Only mail items weighing 30 grams or less can be mailed for 34 cents - the average weight of such mail is around 20 grams.
+"In the course of their duties, Customs officers must administer and enforce parts of more than 60 federal statutes, many of which are designed to protect the social values of the nation or the health and well-being of individual Canadians. Customs officers have responsibilities ranging from checking certificates required by the
+Livestock Pedigree Act
+, to preliminary screening of travellers under the
+Immigration Act
+, through to stopping the importation of prohibited weapons under the
+Criminal Code
+. Laws such as the
+Food and Drugs Act
+, the
+Hazardous Products Act
+and the
+Cultural Property Export and Import Act
+and many others are administered in so far as they relate to the importation and exportation of goods by Canadians. This new Bill updates the provisions allowing Customs officials to search for, examine and seize goods, and thus confers on them the necessary authority to ensure compliance with these various important statutes. These officials are doing important work and they deserve to have a good framework in which to operate.
+"This new Bill has been radically simplified, Mr. Speaker, so that it may be more easily and clearly understood and acted upon by those who must comply with its provisions. The language used is simple and direct. The 290 sections of the current
+Act
+have been reduced substantially and the current 35 sections which deal with reporting requirements have been consolidated into just four sections. The current
+Customs Act
+contains numerous sections dealing with offenses and penalties. In fact, only about half a dozen of these sections are actually being used now. The new Bill simplifies this area immensely and removes a number of sections which are covered by the
+Criminal Code
+.
+"I am confident that the business community which deals regularly with Customs matters will find this Bill clearer than its predecessor, more understandable and easier to comply with in all respects. Simplification paves the way for streamlining of operations. I believe the simplified approach embodied in this Bill is in line with this Government's commitment to the streamlining of government operations and to reducing, to the degree possible, the paperwork burden on those who must do business with the Government.
+"This Bill will provide the Department of National Revenue with the legislative flexibility to modify procedures to deal with changes in modern business, transportation and communications practices. In addition, Mr. Speaker, the new Bill makes specific provision that most regulations enacted pursuant to the
+Customs Act
+must be published a minimum of 60 days in advance of their coming into force. Exceptions will be regulations such as those dealing with the setting of fees, those which make no substantive change to an existing regulation. This will provide a final opportunity for those who may wish to comment on proposed regulations to do so. Further, Bill C-59 provides for on-going parliamentary review of the operation of the
+Act
+and a comprehensive review of its operation within five years of its passage.
+"In conclusion, Mr. Speaker, we have before us for consideration today a very important and long overdue piece of legislation. This new
+Customs Act
+will, I am certain, commend itself to the public at large and in particular to the thousands of Canadian businesses whose activities must comply with Customs law. The new
+Act
+will enable the Department of National Revenue to carry out its responsibilities more efficiently and effectively, and it will help ensure that all Customs revenues due to the Government and to the people of Canada are collected in a fair and equitable manner.
+"I feel that all Members of the House, and in particular the members of the committee which will study this Bill will want to give it careful scrutiny. I welcome this and will personally review any comments and recommendations that may emerge from their deliberations. I will be co-operative in an attempt to accommodate [sic] any good initiatives to improve the nature and scope of what we are trying to accomplish. Indeed, I look forward to working with the Hon. Member for Gander-Twillingate (Mr. Baker) and the Hon. Member for Regina East (Mr. de Jong) in this regard. At the same time, I hope the House will see fit to expedite passage of this legislation as quickly as possible. It is a much needed statute and it will serve the interests of the country well if we enact it into law after proper deliberation at the earliest possible opportunity."
+[78]
+At least three relevant conclusions can be drawn from these statements. First, the "mischief" that the
+Act
+was designed to remedy were practical commercial problems either created by or unaddressed in the old legislation. Second, a commitment to "fairness and equity in dealing with Canadian citizens" was a major emphasis in the formulation of the new
+Act
+, which by implication was considered lacking in the old. And third, the objective to make customs law more "easily and clearly understood" by the use of "simple and direct" language was an important goal, obviously unachieved in the old legislation.
+[79]
+The first conclusion adds weight to the argument that the commercial definition advanced for "import" in Mr. Gracey's dissent should be accepted. The second conclusion operates against a finding that Canadians may suffer punitive treatment under the operation of s. 12. And all the conclusions taken together, in turn lead to the conclusion that the
+Act
+was much more than a simple housecleaning.
+[80]
+It is entirely consistent with these results that the scheme of the old
+Act
+, embodied in its punitive s. 18 requirement that "all goods" be reported, is one of the "obsolete and inconsistent" provisions that the
+Act
+was designed to remedy. This observation adds strong weight to Mr. Flavell's argument that full effect should be given to the added words in s. 12 of the new
+Act
+, being "all goods
+that are imported
+", as indicating a change in the scheme of Canada's custom legislation.
+[81]
+In concluding the analysis under this method, I think that the following remarks made in the debates by Mr. George Baker are of interest. Even though he spoke in response on behalf of the opposition, from what he said he can be included as a promoter of the new legislation:
+"
+Mr. George Baker (Gander-Twillingate):
+"Mr. Speaker, I think the Bill introduced by the Minister should have a fairly rapid passage through this Chamber. After all, most of the Bill was suggested by the previous Liberal Government and, as you know, anything suggested by the previous Liberal Government has to be good so far as regulations are concerned. There are some minor changes and I would like to speak briefly to those changes.
+"In introducing the Bill the Minister, certainly in his former capacity, had some input with regard to the changes made to the Bill proposed by the previous Government. Perhaps I could deal with a couple of those. As he stated, the Bill is certainly long overdue. The law relating to Customs in Canada was, I believe, made up of two main factors. Number one was the present legislation on the books which Customs officers had to follow. The other were the customs of Customs. Some of these customs of Customs dated prior to Confederation. So certainly we need a new
+Customs Act
+. As the Minister said, this Bill eliminates certain provisions of the existing law which are contrary to the
+Charter of Rights
+. Two clauses of the Bill eliminate the Writs of Assistance which were in effect continuous search warrants. In other words, the Customs officers were really under no obligation to go back to a judge for another search warrant, they could simply continue under these Writs of Assistance. Clauses 111 and 112 of this Bill will correct that fault in the existing legislation.
+"As the Minister stated as well, this Bill eliminates the necessity of paying immediately the import duties on any article imported into Canada. In other words, if someone were importing toothbrushes at the rate of 100 this week and 100 next week, he had to pay as the items crossed the border. This Bill will eliminate that and enable businessmen to make arrangements with Customs to pay weekly or monthly.
+"There is a new provision in this Bill which I would like to have come into effect in all government Departments. When the Government of Canada owes a Canadian citizen money, it does not pay interest, but if a citizen owes the Government money, he must pay interest. There is a clause in this Bill which eliminates that inequity.
+"
+The Minister referred to the parliamentary committee which will review and update this Bill every five years. That is good. The interpretation of the
+Acts
+under which customs was operative said that a Customs officer had the right to seize whatever was not declared. In other words, if you stretched it, as some interpretations by the courts did, if someone drove his car into the United States and then returned, the Customs officer could legally seize his car and even his underwear if he wanted to. Under the law he could seize anything the person had. That is eliminated in this Bill and it was included in the Bill introduced by the previous administration. It also clears up the
+Access to Information Act
+.
+" (emphasis mine)
+[82]
+The reference to "underwear" in Mr. Baker's statement undoubtedly refers to Strayer, J.'s, comment in
+Glisic
+at p. 81 as follows:
+"I have somewhat reluctantly come to the conclusion that the position of the Crown in this matter is correct in law and that the plaintiff's action cannot succeed. The automatic nature of forfeiture, for failure to declare under section 18, is well established. Failure to declare the goods as required by section 18 is not excused by the fact that the goods had previously been in Canada prior to their removal therefrom and were returned to Canada on the occasion of the failure to declare. Even if section 265 would preclude a forfeiture for any violation of section 18 which occurred more than three years before the actual seizure on April 7, 1980, the events of April 7th themselves constituted such a violation and therefore justified the forfeiture.
+"I said that I came to this conclusion 'reluctantly' because, regardless of the relative merits in this particular case I am concerned about the implications of section 18. Taken literally, it means that a person entering or reentering Canada should declare every item of personal property he carries or is wearing on his person including, presumably, his underclothes. If he fails to do so then, by the combined operation of sections 18 and 180 of the
+Customs Act
+, any or all of these items which are not declared are subject to seizure and ultimately to forfeiture to the Crown. This is because section 18 requires reporting of 'all goods in his charge or custody'. It is not confined to all goods acquired abroad or all goods acquired on this trip. I think I can take judicial notice of the fact that few if any travellers understand this to be the law or is it so administered by Revenue Canada. If a person such as the plaintiff were to bring in goods with him upon immigrating to Canada, and were to use them for many years in Canada and carry them back and forth across the border on trips outside Canada, it would indeed come as a surprise if after many such crossings without difficulty he were challenged by a customs officer with respect to such articles. Yet it is the position of the Crown that under section 18 a customs officer may so challenge the reentry of such goods to Canada and where no declaration has been made with respect to them, such goods are subject to forfeiture. I agree that section 18 must be interpreted in this way, but I feel obliged to observe that it could equally be interpreted to authorize the seizure and forfeiture of anything which a Canadian had acquired in Canada, owned all his life, and carried abroad with him on a holiday should he fail to declare it upon his reentry to Canada. That the law is not administered in this way is a tribute to the good sense of the customs officers, but it does leave in their hands and that of the Minister an arbitrary power of decision as to what goods are to be forfeited for nondeclaration."
+[83]
+While I do not put strong weight on Mr. Baker's statement, there seems no doubt that on what he had learned of the new proposed legislation before he spoke, he believed that it was changing the decided interpretation of s. 18 of the old
+Act
+.
+"(5) Pragmatic Interpretation
+"By pragmatic interpretation, we mean that method of interpretation which is based on consideration of the effects of a statute, or the effects of a given interpretation of it ...
+"To speak of favourable or unfavourable effects of a statute is to make a value judgment. Pragmatic interpretation is situated within the context of values, of the philosophy of adoption and application of the statute. From the moment of its enactment, a statute is integrated into a legal environment consisting of a complete collection of pre-existing norms. As we have already seen, this setting will likely influence the meaning of the new law. But the legal environment does not only comprise rules in their strict sense, be they legislative or judge-made. The meaning of a new statute is also likely to be moulded by principles associated with the legal system (for example, the principle of non-retroactivity) and by the contemporary values of society (for example, what is considered just or unjust, reasonable or unreasonable).
+"Such principles and values, this system of values, find their place within the process of statutory interpretation in the form of presumptions of legislative intent: the legislator is deemed to respect the values and the principles of the society for which he is legislating. We suppose, for example, that a 'good legislator' or a 'reasonable legislator' could not, unless his intention were manifested clearly, seek unreasonable or manifestly unjust results from a statute." (pp. 369, 370)
+[84]
+The Supreme Court of Canada has recently commented on statutory interpretation and absurd results in the case of
+R. v. McIntosh (B.B.),
+[1995] 1 S.C.R. 686; 178 N.R. 161; 79 O.A.C. 81; 95 C.C.C.(3d) 481, where at p. 704 Lamer, C.J., says:
+"I am of the view that the Crown's argument linking absurdity to ambiguity cannot succeed. I would adopt the following proposition: where, by the use of clear and unequivocal language capable of only one meaning, anything is enacted by the legislature, it must be enforced however harsh or absurd or contrary to common sense the result may be (
+Maxwell on the Interpretation of Statutes
+, supra, at p. 29). The fact that a provision gives rise to absurd results is not, in my opinion, sufficient to declare it ambiguous and then embark upon a broad-ranging interpretive analysis.
+"... Thus, only where a statutory provision is ambiguous, and therefore reasonably open to two interpretations, will the absurd results flowing from one of the available interpretations justify rejecting it in favour of the other. Absurdity is a factor to consider in the interpretation of ambiguous statutory provisions, but there is no distinct 'absurdity approach'."
+[85]
+Mr. Flavell has argued that the interpretation pressed by the Deputy Minster is "illogical" and results in a "ludicrous conclusion". Since the issue here is one of clarifying ambiguous wording, I think that Mr. Flavell's assessment can be given weight if it is clear that what happened to the "Marmalade Skies" is contrary to values expressed in relation to the statute thus producing an absurd result.
+[86]
+It is hard to believe that The Honourable Elmer MacKay would have escaped harsh criticism by his legislative colleagues if he told them s. 12 would be interpreted as it was when Mr. Halliday took the houseboat through customs. This is obviously because the demand for $17,000 duty for the purchase and installation of a $7,000 engine would not be seen as practicing "fairness and equity in dealing with Canadian citizens", to say the least.
+[87]
+Mr. Halliday did not know, and I venture to say that no ordinary Canadian knows, and I certainly did not know until this case, that he would be dealt with as he was. This is not because Mr. Halliday can be said to be uninformed. On what I heard in argument, it is because it was unlikely that he would know about the interpretation he faced unless perhaps he made a specific demand for information before hand. On what I have heard, I think I am entitled to draw the conclusion that there has been no concerted public education about how customs officials apply s. 12. Indeed, as Strayer, J., did in
+Glisic
+, I can take judicial notice of the fact that when crossing the border into Canada, ordinary Canadians believe they only need to declare and perhaps pay duty on goods purchased or given to them outside the country.
+[88]
+Mr. Flavell finds that everyone he tells his story to is astonished for a good reason. I do not believe that the values of 'fairness and equity' espoused by the Minister would be understood by Canadian society in 1985 or now to include the Deputy Minister's interpretation.
+[89]
+On applying this method, therefore, I give strong weight to Mr. Flavell's interpretation.
+"
+(6) Previous Interpretations
+"
+(a) Judicial interpretation as an element of the context
+The courts assume the legislator to have been aware of judicial decisions made prior to the statute's enactment. Such decisions become part of the context of the legislation and are therefore relevant to its interpretation" (p. 450)
+[90]
+In applying this method, because
+Kong
+and
+Glisic
+gave full effect to the words "all goods" in s. 18 of the old
+Act
+, the addition of the words "that are imported" in s. 12 of the
+Act
+lends weight to the argument that these words should be given full effect and thus are included to show a different interpretation is intended.
+"
+(b) Judicial interpretation as precedent
+In those cases where precedent is not binding, the judge may still cite as a guide, a written opinion capable of shedding light on the correct meaning of the provision, or in order to support his own reasons for judgment." (p. 452)
+[91]
+To my knowledge there is only one decided case on the meaning of s. 12, and it was not referred to in argument. In
+R. v. Cook
+(1992), 54 O.A.C. 325; 70 C.C.C.(3d) 239 (C.A.), the Ontario Court of Appeal decided on the construction of s. 12 in the course of deciding a criminal case of unlawfully failing to report imported goods. The decision supports the Deputy Minister's interpretation. While I am not bound by it, I have considered it in order to assess its persuasive authority.
+[92]
+In the unanimous decision, Blair, J.A., states:
+"In my opinion, the scheme of the
+Act
+is clear. It imposes a complete reporting duty under s. 12(1) on persons bringing goods into Canada but provides relief for the specific problems raised by counsel for the appellant. Had Parliament intended that s. 12(1) should apply only to goods of foreign origin, no provision would have had to be made for exemption of goods of Canadian origin.
+This interpretation of s. 12(1) of the
+Act
+is fortified by the fact that the same interpretation was placed on its predecessor in the
+Customs Act
+, R.S.C. 1970, c. C-40, s. 18, which provides: ..."
+[93]
+Blair, J.A., then goes on to refer to the interpretations found in
+Kong
+and
+Glisic
+and then says:
+"The scope of s. 12 of the
+Act
+is, in my view, as broad as that of s. 18 in the former Act in requiring 'all goods that are imported' to be reported as Rouleau, J., held in
+La Compagnie Lanka Link v. Le Ministre du Revenu du Canada
+(1990), (F.C.T.D., April 2, 1990, Action: T-2582-87). The
+Act
+, which came into force in 1986, was the first full-scale revision of the former
+Act
+passed 118 years earlier by the first Parliament after Confederation. The purposes of the revision included the elimination of obsolete terms and superfluous words and the modernization of the statutory language. In my opinion, this was all that was done when s. 12(1) of the
+Act
+replaced the former s. 18(1). The meaning of the two sections is the same."
+[94]
+Blair, J.A., obviously places weight on the existence of the relief provisions. From his five page judgment there is no way to tell how extensively the case was argued, but because of the lack of detail the judgment contains, I suspect the arguments made by Mr. Gracey in his dissent and well supported in the detailed argument by Mr. Flavell about an alternate interpretation for the exclusion provisions, were not made.
+[95]
+In addition, as can be seen from the Second Reading Debates, the question of what Parliament intended under the 1985 revision is more complex than Blair, J.A., assesses.
+[96]
+As to the reliance placed on
+Compagnie Lanka Link
+, I have read Rouleau, J.'s, reasons and cannot see how it is useful authority for resolving the interpretation of s. 12. The decision supported the seizure from a gemstone merchant who on entering Canada reported the value of his "samples" as $15,000 when in fact they were worth $75,000 and intended for resale. The case did not deal with the disputed meaning of s. 12.
+[97]
+Accordingly, I find
+Regina v. Cook
+not to be persuasive authority.
+"
+(c)
+Administrative interpretation
+As a general rule, no administrative interpretation should bind the courts. But in case of doubt, a judge may take such interpretations into consideration. (p. 453)
+... Since the judge's duty is to determine Parliament's intent using all legal means, it is normal to relegate administrative interpretations to a secondary role in the overall interpretative process. ... Thus, the judge should only consider an administrative interpretation after a reasonable effort at interpretation still leaves uncertainty about the enactment's true meaning." (p. 455)
+[98]
+The degree of confidence displayed by the customs officials who seized the "Marmalade Skies" shows that they were following a well established administrative practice. Obviously, the enforcement of
+Act
+at Canada's borders follows the interpretation argued by the Deputy Minister. Although I find that this practice is irrelevant to this statutory interpretation analysis, what I have heard in argument about the practical aspects of it causes me great concern.
+[99]
+I have learned in argument that there apparently exists widespread systemic differential enforcement of the reporting provisions of s. 12. It is quite obvious that to comply with the interpretation that "all goods" that everyone has with them on entering Canada shall be reported, that the customs system presently in place could not cope. So, as Mr. Lester said in argument:
+"As a matter of practical administrative reality the customs officers don't inquire, but if it's a question of valuable jewellery they do." (Transcript p. 66)
+[100]
+And, as Mr. Halliday found out, the same goes for houseboats because, as Mr. Lester also confirmed:
+"... [how the
+Act
+is enforced] really depends on how much money is in issue. (Transcript p. 66)
+"... The real world is, as I say, that when it comes to personal items and so on and so forth the
+Act
+is not strictly and literally enforced." (Transcript p. 78)
+[101]
+What kind of a law is this? On questioning this point, the following exchange took place in the hearing:
+"MR. LESTER: I think that what's concerning Your Lordship, bothering Your Lordship, is that Mr. Halliday was completely open and above board I think on both occasions. As I remember the evidence I think that when he came back and reported to customs, look, I've got this temporary motor and then he came back again and said look, I've got this new motor.
+THE COURT: Did he go in and report the temporary motor?
+MR. LESTER: Yes, I think that was the evidence.
+THE COURT: So he's telling them all along what he's doing.
+MR. LESTER: Oh yes. There's not a breath of a suggestion of underhandedness or smuggling or trying to avoid responsibilities and so on and so forth. This is a pure pristine case that presents the question in clear-cut form. And there is no escape from the blunt question.
+THE COURT: That's right.
+MR. LESTER: And I don't flinch, My Lord.
+THE COURT: I can see that
+MR. LESTER: Maybe I should.
+THE COURT: I don't know, in fact. You know the question is one which as you take it to its outer limits really demands an awful lot of discipline to try and stick with it. Providing this is exactly right, it really does have serious implications in otherwise totally open and very forward and honest situations.
+MR. LESTER: Well, My Lord, if it was a real problem I imagine we would have read about it in the press or had questions asked on it in Parliament. There is no evidence before Your Lordship to show that it's a widespread problem.
+THE COURT: Well, one case is good enough I'd say.
+MR. LESTER: Well, one case ... I don't want this to be a hard case which makes bad law.
+THE COURT: Bad law is ... well, the question is ...
+MR. LESTER: Perish the thought that Your Lordship would ever make bad law.
+THE COURT: It's relative, is it bad as it sits or is it something else?"
+B. Conclusions
+[102]
+From the above analysis, I have no difficulty concluding that the interpretation advanced by Mr. Flavell is correct, and accordingly, I accept it over that of the Deputy Minister's. Regarding Mr. Lester's concern that I should make bad law, I do not believe I am doing so by interpreting the
+Act
+in Mr. Flavell's favour. In my opinion, interpreting the legislation the way the Deputy Minister would have it
+is
+bad law.
+[103]
+It is bad because it promotes the systemic differential treatment of unsuspecting, uninformed citizens in a punitive way. It is bad because if the average, well meaning, and only generally informed Canadian knew about how s. 12 is applied in some cases by customs officials, he or she would be more than astonished as Mr. Flavell has suggested. Outraged comes to mind.
+[104]
+It is also bad because it shows a profound disrespect for honest people. Mr. Halliday was dealt with in a rude and disrespectful manner. He kept customs informed, he attended when required, he reported correctly, and for this the houseboat was seized with a demand for duty in an amount two and a half times the value of the engine declared. As it turns out, the duty demanded is almost equal to the value of the houseboat itself as found by the Tribunal.
+[105]
+So customs officials knew in advance that Mr. Halliday was going to declare the engine, did not tell him what they were going to do if he did, seized the houseboat, assessed it at three times its value, and refused to release it unless the duty was paid. And all of this authorized by the
+Act
+and
+Tariff
+. I don't think so.
+[106]
+Thus, the answer to both questions A and B is yes. Accordingly, this appeal is allowed.
+[107]
+Regarding the question of costs, there are special reasons to grant them in this case. In my opinion, the actions taken by the customs officials with whom Mr. Halliday dealt, regardless of the rules in force at the time, were aggressive, unwarranted and unnecessary. I find that Mr. Flavell has been put to an enormous waste of time and resources in challenging these actions and, thus, I award costs of this appeal to him.
+Appeal allowed.
+Editor: Steven C. McMinniman/slm
+[End of document]

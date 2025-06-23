@@ -1,0 +1,105 @@
+[1]
+Rothstein, J.
+: This is an application to review the order made ex parte by Muldoon, J., on July 8, 1996 pursuant to s. 225.2(2) of the
+Income Tax Act
+, S.C. 1952, c. 148, as amended, authorizing the Minister of National Revenue (Minister) to take collection actions against Douglas L. Ament, notwithstanding that Mr. Ament had filed a notice of objection to reassessments made by the Minister. The issues are:
+1. Whether an extension of time to bring the application should be allowed.
+2. Whether the Minister made full disclosure before Muldoon, J., to obtain the ex parte order.
+3. Whether the evidence supports the making of an order under s. 225.2(2).
+[2]
+Under s. 225.1 of the
+Act
+, the Minister is not generally entitled to take collection action while a taxpayer formally disputes an assessment. An exemption to the general rule is s. 225.2(2) which is sometimes referred to as a jeopardy order. Where a judge determines that collection of an amount assessed would be jeopardized by delay, a judge may authorize the Minister to take collection action forthwith. Subsection 225.2(2) provides:
+"225.2(2) Notwithstanding s. 225.1, where, on ex parte application by the Minister, a judge is satisfied that there are reasonable grounds to believe that the collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection of that amount, the judge shall, on such terms as the judge considers reasonable in the circumstances, authorize the Minister to take forthwith any of the actions described in paragraphs 225.1(1)(a) to (g) with respect to the amount."
+Issue 1: Whether An Extension Of Time To Bring The Application Should Be Allowed.
+[3]
+Subsections 8 and 9 of s. 225.2 provide:
+"225.2(8) Where a judge of a court has granted an authorization under this section in respect of a taxpayer, the taxpayer may, on six clear days notice to the Deputy Attorney General of Canada, apply to a judge of the court to review the authorization.
+"225.2(9) An application under subs. (8) shall be made
+(a) within 30 days from the day on which the authorization was served on the taxpayer in accordance with this section; or
+(b) within such further time as a judge may allow, on being satisfied that the application was made as soon as practicable."
+In this case, the order of Muldoon, J., was served on July 11, 1996. The 30 day period referred to in s. 225.2(9)(a) expired on or about August 10, 1996. The motion for review was filed on October 11, 1996 some 60 days after the expiry of the 30 day period for applying as of right. Accordingly, an application to extend time was necessary under s. 225.2(9)(b).
+[4]
+While a judge may extend the time for applying for review, he or she must be "satisfied that the application was made as soon as practicable." Practicable is defined in the
+Shorter Oxford English Dictionary
+as "capable of being carried out in action". The evidence here is that Harold Van Winssen, counsel for Mr. Ament, apparently being of the belief, as a result of a conversation he had had with Revenue Canada, that the Minister had agreed not to take collection action, wrote on July 17, 1996 to Revenue Canada asking that the Minister cease and desist from the collection action authorized by the jeopardy order. The letter indicates that if the Minister will not withhold collection action, that Mr. Ament would seek proper remedies in respect of the jeopardy order. In his affidavit, Mr. Van Winssen says that he then received a call from Douglas Forer, counsel of the Commercial and Real Property Law office of the Department of Justice, who indicated he knew nothing of any agreement not to take collection action and that he would investigate the matter further. Apparently, Mr. Forer did not get back to Mr. Van Winssen. Mr. Van Winssen says that he was on vacation when the 30-day limitation expired and was still awaiting word from Revenue Canada.
+[5]
+In argument, counsel for Mr. Ament advised that in September 1996 he had discussions with counsel for the Minister about bringing this motion. However, the motion was not filed until October 11, 1996.
+[6]
+Before me, counsel for the Minister did not oppose the application for extension of time. Nonetheless, the court cannot assume jurisdiction by consent. The court must be satisfied the application was made as soon as practicable.
+[7]
+Mr. Ament relies upon
+Minister of National Revenue v. Rudyk
+(1996), 110 F.T.R. 158; 96 D.T.C. 6192 (T.D.), in which Jerome, A.C.J., states:
+"I accept the submission that if 30 day period runs during negotiations, it could be counter-productive to efforts to settle in good faith. Furthermore, the taxpayer should not be foreclosed from reviewing an Order made pursuant to paragraphs 225.1(1)(a) to (g) when she is disputing the accuracy of her income tax assessments."
+I accept that the pendency of settlement negotiations might, in appropriate circumstances, justify delay in making an application to review an ex parte jeopardy order. It would, of course, have to be demonstrated that the nature of the negotiations would make the bringing of such an application counter-productive or otherwise be inappropriate. Here, there is no basis for delay in bringing the application. The fact that counsel for the Minister said he would investigate and get back does not justify the taxpayer ignoring relevant limitation periods. Perhaps, if there had been a request by the Minister not to bring the application or some other feature that could justify it not being made, the "as soon as practicable" standard might have been met. There is no such evidence here.
+[8]
+Counsel for Mr. Ament submits that the second statement of Jerome, A.C.J., in
+Rudyk
+, supra, means that as long as a taxpayer is disputing the accuracy of a tax assessment, a review of a jeopardy order should always be available. I cannot accept such interpretation. Indeed, it would read s. 225.2(9) out of the
+Act
+. The words of s. 225.2(9) are clear and not ambiguous and cannot be interpreted in such a manner.
+[9]
+I am not satisfied that the review application was brought as soon as practicable and therefore I am unable to extend the time under paragraph 225.2(9)(b). On this ground the application must be dismissed.
+[10]
+However, even if the application is considered on its merits, it is deficient.
+Issue 2: Whether The Minister Made Full Disclosure Before Muldoon, J., To Obtain The Ex Parte Order.
+[11]
+While counsel for Mr. Ament alluded to a number of letters and communications between the parties, there is only one issue that is relevant; that is whether there was an agreement that the Minister would not take collection action while Mr. Ament was challenging his assessments. There is no reference to such an agreement in the affidavit that was before Muldoon, J. Without question, such agreement, if it existed, would have to be disclosed on an ex parte application. The court has discretion to set aside an order made ex parte when an applicant has failed to make full and frank disclosure of all material facts. See for example
+Sharp: Injunctions and Specific Performance
+(2nd Ed. 1995), para. 2.40. Failure to disclose such an agreement in this case would, in all likelihood, be fatal.
+[12]
+Mr. Van Winssen says in his affidavit that on May 8, 1996, he spoke to Tony Kelly, who is Chief of Appeals of the Belleville Tax Services Office of Revenue Canada, Customs, Excise and Taxation. Mr. Van Winssen's concern was that it had been indicated to him that Mr. Ament was to be charged with an offence under s. 239 of the
+Income Tax Act
+and he did not want to have to disclose Mr. Ament's defence in a notice of objection that had to be filed within 90 days of Mr. Ament's reassessment. Mr. Kelly told Mr. Van Winssen that the Notice of objection could be filed indicating that the reasons would be disclosed at a later date. Mr. Van Winssen then says:
+"I again expressed my concern that Revenue Canada would proceed to enforce its assessment or reassessment against Mr. Ament if the reasons for the objection were not outlined in my client's Notice of Objection. Mr. Kelly and I agreed that Mr. Ament would file a Notice of Objection and indicate in the Notice of Objection that the reasons for the Objection would come later,
+and Revenue Canada would take no further action to enforce the Notice of Assessment or Reassessment
+." (emphasis added)
+In his letter of July 17, 1996 to Revenue Canada, Mr. Van Winssen states:
+"We had understood from our conversations with Mr. Kelly that
+all proceedings under the assessment under the
+Income Tax Act
+would cease
+. Obviously, from the actions being taken by your office, this is not the case.
+"Insofar as my client is concerned, Revenue Canada is acting contrary to the agreement reached by it with the writer. We will act accordingly." (emphasis added)
+[13]
+The Minister says, either there was no agreement or that any agreement that was made was not relevant to the issue of collection. The evidence of Mr. Kelly is that he did speak with Mr. Van Winssen, but not about Mr. Ament specifically since he did not have written authorization to do so. He said he was responding to general inquiries. He did not have Mr. Ament's file in front of him and made no notes of the call. Mr. Kelly says that he did advise Mr. Van Winssen to file Mr. Ament's notice of objection indicating that reasons would be provided at a later date. He said that Mr. Van Winssen could refer to the telephone call and to Mr. Kelly in the notice of objection.
+[14]
+Indeed, the notice of objection does state:
+"Facts and Reasons for Objection
+"To be supplied at a later date as per telephone conversation and agreement with Tony Kelly of Revenue Canada. There are ongoing proceedings and charges being brought against Douglas Ament relating to the subject matter of this assessment and it was agreed that the facts and reasons for the objection to the assessment could be filed after those charges are dealt with and disposed of."
+In his affidavit, Mr. Kelly denies there was an agreement not to take collection action against Mr. Ament.
+[15]
+In the cross-examination on his affidavit, Mr. Van Winssen says he made no notes of his call with Mr. Kelly, but prepared the notice of objection after the call. He further says that Mr. Kelly said that "Revenue Canada would take no further action to enforce the notice of assessment or re-assessment". It is apparent the notice of objection contains the information that Mr. Kelly said he provided about supplying reasons at a later date. However, there is nothing in it about Revenue Canada not taking collection action. Mr. Van Winssen said that he did not write a confirming letter to Mr. Kelly relative to the matter of collection action.
+[16]
+I am satisfied from the evidence that Mr. Kelly told Mr. Van Winssen that Revenue Canada would not proceed with the reassessment process because of the pendency of charges under s. 239 of the
+Income Tax Act
+. If Mr. Van Winssen thought this included taking no collection action, why was there no reference to collection action in the notice of objection or in a confirming letter to Mr. Kelly? I accept Mr. Kelly's evidence that he was responding to general inquiries from Mr. Van Winssen and not with respect to Mr. Ament specifically as he did not have written authorization to do so from Mr. Ament. As such he could not have made an agreement not to take collection action with respect to Mr. Ament. Further, Mr. Kelly, as Chief of Appeals would not appear to be involved with collections and there is no reason to believe that he would make an agreement about collection, especially when he had no facts before him relating to that issue. I conclude there was no agreement not to take collection action against Mr. Ament, and therefore nothing to disclose in this respect in the ex parte application. It has not been demonstrated the Minister acted in any manner other than with the utmost good faith and the ex parte order cannot be struck down on this account.
+Issue 3: Whether The Evidence Supports The Making Of An Order Under S. 225.2(2).
+[17]
+The Minister says that Mr. Ament is indebted in the amount of $129,104.10 in respect of the taxation years 1991, 1992, 1993 and 1994 and that this amount exceeds his assets.
+[18]
+Counsel for Mr. Ament says there is no evidence that Mr. Ament was taking assets out of the jurisdiction or acting nefariously and therefore there was no basis for a jeopardy order. He relies on cases such as
+FRAGMENT_SUPPRESSED for the propositions that:
+1. Inability to pay is not conclusive.
+2. Suspicion or concern that delay may jeopardize collection is not sufficient per se.
+3. Only cogent evidence as to the dissipation of the taxpayer's assets or to the movement of assets out of the jurisdiction would be compelling.
+4. Merely because a taxpayer has few assets is not sufficient reason to invoke s. 225.2.
+5. There must be evidence of a taxpayer's involvement in nefarious activities.
+[19]
+The affidavit of Ian Lenton Andrew, Collections Enforcement Officer with the Peterborough Tax Services Office of the Department of National Revenue, which was before Muldoon, J., indicates that Revenue Canada was advised by a nephew by marriage of Mr. Ament, that Mr. Ament was fraudulently obtaining unemployment insurance benefits under the name of Robert Mason. Further checking disclosed that unemployment insurance cheques were being issued to a Robert Mason and being negotiated. Mrs. Ament then confirmed that Mr. Ament was receiving unemployment insurance benefits as Robert Mason.
+[20]
+Mr. Andrew's affidavit then says that Revenue Canada ascertained the existence of a promissory note from Fay and Peter Witteveen in favour of Mr. Ament in the amount of $25,000, that payment of only $1,000 had been made and that a payment of $12,190 due in June 1995 had not been made. Revenue Canada also determined that Mr. Ament had invested $40,000 in Nedham Frontier Developments Ltd. and this investment was being repaid on a bi-weekly basis with the amount outstanding on June 21, 1996 being $32,852.34. However, on May 8, 1996, Mr. Andrew had inquired of Mr. Ament about his assets and in particular the $40,000 investment. Mr. Ament told Mr. Andrew the $40,000 had been returned to him in full.
+[21]
+Through investigations, it became apparent to Revenue Canada that Mr. Ament's assets were less than his liabilities, and in particular his assessment. It was also obvious that Mr. Ament lied about the state of his assets when he spoke to Mr. Andrew on May 8, 1996.
+[22]
+This information was before Muldoon, J., when he made the ex parte jeopardy order. I am satisfied that this information was sufficient to invoke s. 225.2(2). The test is whether a judge is satisfied there are reasonable grounds to believe that collection of all or any part of an amount assessed in respect of a taxpayer would be jeopardized by delaying the collection of that amount. An instalment of $12,190 was one year past due on the Witteveen promissory note and the investment in Nedham Frontier Development Ltd. was being drawn down. Mr. Ament had lied about the existence of his assets. This evidence constitutes reasonable grounds to believe that collection of the amount assessed would be jeopardized due to delay.
+[23]
+While inability to pay may not be conclusive per se, it is a factor in whether collection may be jeopardized by delay. This is not a case of supposition or concern about noncollection. Revenue Canada was acting on facts it had ascertained about Mr. Ament's assets and their disposition. Nor is this a case in which Revenue Canada sought the jeopardy order solely because Mr. Ament had few assets. It is not wrong to consider the extent of a taxpayer's assets, compare them to the amount of tax assessed and have regard to the disposition being made of the assets by the taxpayer. That is what was done here, and that is the information that was before Muldoon, J. Finally, while I would not think it a necessary condition for the Minister taking action under s. 225.2, there were reasonable grounds to believe that Mr. Ament was involved in nefarious activities insofar as there is evidence of his fraudulently obtaining unemployment insurance benefits.
+[24]
+I have no difficulty concluding that the evidence before Muldoon, J., fully justified the issuance of the ex parte jeopardy order by him.
+[25]
+The application is dismissed. The Minister shall have costs of $1,000 inclusive of disbursements payable by Mr. Ament.
+Application dismissed.
+Editor: Jocelyne M. Caissie/saf
+[End of document]

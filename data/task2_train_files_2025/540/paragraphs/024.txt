@@ -1,0 +1,35 @@
+[24]
+Having set out the principal steps of the process described in the patent specification, I turn now to the claims to identify the steps of the process described in the patent which are claimed by the patent. The two relevant claims are Claims 1 and 38. Claim 1 is a process claim, while Claim 38 is a product by process claim, where the process is that described in Claim 1, and the product is a compound selected from the group of those represented by the formula of compound (A). These claims read as follows:
+1. A process for producing a compound of the formula:
+[see printed version]
+or the individual (l)-acid isomers and (d)-acid isomers thereof and the pharmaceutically acceptable, nontoxic esters and salts thereof, wherein R represents hydrogen or a lower alkyl group having from 1 to 4 carbon atoms and R
+1
+represents hydrogen, a lower alkyl group having from 1 to 4 carbon atoms, a lower alkoxy group having from 1 to 4 carbon atoms, chloro, fluoro or bromo, the R
+1
+substitution being at the ortho, meta or para positions of the aroyl group which
+comprises one or more of the following steps
+:
+(a) condensing a compound of the formula
+wherein R is as defined above and R
+2
+is a lower alkyl group having from 1 to 4 carbon atoms, with an amide of the formula
+wherein R
+1
+is as defined above, thereby yielding the corresponding compounds of the formula
+wherein R, R
+1
+and R
+2
+are as defined above;
+b) hydrolyzing an alkyl ester group thereby yielding the free acids of Formula (A);
+c) separating the free acids of Formula (A) into their corresponding respective (l)-acid isomers and (d)-acid isomers;
+d) racemizing the (d)-acid isomers or the salts thereof, to the corresponding respective compounds of Formula (A);
+e) optionally esterifying the carboxylic acid function in the compounds of Formula (A) or the (l)-acid isomers or (d)-acid isomers thereof or converting each of them into their pharmaceutically acceptable, nontoxic salts;
+f) converting the salts of Formula (A) and the individual isomers thereof, to the corresponding free acids.
+38. A compound selected from the group of those represented by the formula:
+[see printed version]
+and the individual (l)-acid isomers and (d)-acid isomers thereof and the pharmaceutically acceptable, nontoxic esters and salts thereof, wherein R represents hydrogen or a lower alkyl group having from 1 to 4 carbon atoms and R
+1
+represents hydrogen, a lower alkyl group having from 1 to 4 carbon atoms, a lower alkoxy group having from 1 to 4 carbon atoms, chloro, fluoro or bromo, the R
+1
+substitution being at the ortho, meta or para positions of the aroyl group when prepared by the process of Claim 1. (My emphasis.)

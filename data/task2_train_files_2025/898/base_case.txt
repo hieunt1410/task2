@@ -1,0 +1,101 @@
+[1]
+Rennie, J.
+: This application for judicial review of a decision of the Refugee Protection Division of the Immigration and Refugee Board of Canada (the Board) dated October 27, 2010 is granted. In that decision, the Board rejected the applicant's claim that if he were returned to Cuba he would be persecuted by reason of his "dissident" act of resigning from the Communist Youth League (CYL), and by reason of his decision to overstay the exit visa granted to him by the Cuban government.
+[2]
+The matter is remitted for two reasons. First, the right to a fair hearing was compromised by the quality of the Spanish-English interpretation; and, secondly, by reason of the misapplication of the legal principle governing the assessment of sur place claims arising under the Convention. Whether the standard of procedural fairness has been met and whether the appropriate legal test applied are questions to be assessed against a standard of correctness.
+Fair Hearing
+[3]
+The transcript of proceedings from the applicant's hearing on October 27, 2010 does not comprise the entire hearing. The transcript is incomplete; in particular, it does not contain any of the questions that the applicant posed to the Board. Secondly, and of greater importance from a procedural fairness perspective, the Board acknowledged that there was a problem with the Spanish-English-Spanish interpretation and that the applicant had complained about it at the hearing. On the Hearing Information Sheet the Board member stated:
+Interpreter very slow, stutters, stammers, has difficulty hearing, frequently asks to repeat and is can [sic] unable to interp a few words at a time.
+This makes the hearing very choppy, disjointed and makes giving negative decisions even more difficult. The claimant was very frustrated. I note that the interpreter tries very hard and also I have no complaint about the quality of the actual translation.
+[4]
+As the transcript is incomplete it is impossible to properly verify the quality of the interpretation to determine whether it met the standard for adequate interpretation set by
+Mohammadian v. Canada (Minister of Citizenship and Immigration)
+, [2000] 3 FC 371 (TD), aff'd [2001] 4 FC 85 (CA). As confirmed by subsequent case law such as
+Huang v. Canada (Minister of Citizenship and Immigration)
+, 2003 FCT 326 at para 8; and
+Sayavong v. Canada (Minister of Citizenship and Immigration)
+, 2005 FC 275 at para 1, Mohammadian establishes the standard as follows:
+The interpretation must be continuous, precise, competent, impartial and contemporaneous, yet need not meet the standard of perfection. No proof of actual prejudice from any deficient interpretation is required. As a general rule, any objection to the quality of the interpretation must be raised at the first opportunity during the refugee hearing.
+[5]
+The Board's observation reproduced above is, however, more than sufficient to establish, a factual foundation for the conclusion that it failed to meet the standard established by successive decisions of this Court. Given that the applicant's oral testimony was the primary evidence upon which the Board based its decision, the accuracy and quality of the translation was material to the decision.
+[6]
+As noted, the Board acknowledged problems with the interpretation and the applicant's frustration with it. In these circumstances the respondent cannot argue that the applicant's failure to raise the issue at the hearing is fatal to his claim. In any case, this Court has held that when a review of the audio recording from a hearing reveals serious interpretation errors, the failure to raise the issue of the interpretation at the hearing does not preclude it from being raised at the Federal Court:
+Khalit Ahamat Djalabi v. Canada (Minister of Citizenship and Immigration)
+, 2007 FC 684. Here, the Board's comments about the problems with the interpreter serve the purpose analogous to a review of the recording in that they confirm both the nature and extent of the problems with the interpretation and their impact on the hearing.
+[7]
+In addition, the Board member's statement that she had no problem with the "quality" of the interpretation is not sufficient to assure the Court that the interpretation was adequate, since there is no evidence that the Board member understands Spanish herself. No weight can be given to that statement.
+[8]
+Given the acknowledged inadequacy of the interpretation it cannot be said that the standards of a fair hearing were met and the decision is set aside.
+Sur Place Claim
+[9]
+The Board concluded that the applicant could not make a claim of persecution based on the consequences of his own violation of the exit laws. The Board's decision to deny protection on this basis was consistent with the remarks of Justice Judith Snider in
+Perez v. Canada (Citizenship and Immigration)
+, 2010 FC 833:
+The Federal Court of Appeal decision in
+Valentin [v. Canada (Minister of Employment and Immigration)
+, [1991] 3 FC 390], above, is directly applicable to this application.
+Valentin
+bars self-induced refugee status. It starts from the premise that a claimant has a valid exit visa. It then bars the claimant from overstaying the visa and relying on the self-created overstay as a ground of persecution. In this case, the Applicant held a valid exit visa. She failed to renew her permit, as she could have done. She cannot rely on self-created overstay as a ground of persecution.
+Valentin
+has been consistently followed in this Court where the facts are similar to those before me; see for example,
+Jassi v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 356 (CanLII), 2010 FC 356, [2010] F.C.J No. 412 (QL).
+The jurisprudence is to a similar effect in the context of a s. 97 claim for protection. In
+FRAGMENT_SUPPRESSED, Justice Kelen considered the situation of an Iranian who defected to Canada while here for an athletic competition. In considering whether the claimant could claim protection on the basis that he would be punished for defecting on his return to Iran, Justice Kelen stated as follows:
+To paraphrase the Federal Court of Appeal in
+Valentin
+, supra, a defector cannot gain legal status in Canada under IRPA by creating a "need for protection" under section 97 of IRPA by freely, of their own accord and with no reason, making themselves liable to punishment by violating a law of general application in their home country about complying with exit visas, i.e. returning.
+In short, the jurisprudence is clear that the Applicant, who failed to renew her valid exit visa, cannot rely on the possibility of punishment under Cuba's Criminal as grounds for protection under s. 96 or s. 97.
+[10]
+To the extent that the Board analysed the case before it in a manner consistent with the analysis of Justice Snider, it is on solid ground. This does not, however, end the matter.
+[11]
+It is important to note that the Board member in
+Perez
+also undertook a detailed analysis of the evidence of extrajudicial punishment and concluded that this punishment would not constitute persecution. In the case at bar, the Board failed to do so, despite being required to undertake this analysis.
+[12]
+As noted by Justice Snider, the Board in
+Perez
+considered the persecutory nature of the exit law, as well as the extra-judicial punishment that Ms. Perez alleged would result from her having violated the exit law:
+The Board examined the evidence before it to determine "how serious, persistent and repetitive the mistreatment was and whether it was systematic". The Board concluded that there was no persuasive evidence that the claimant was facing persecution "even if considered cumulatively". In reaching this conclusion that Board made the following findings:
+• The Board noted that the Applicant's fine for selling items on the black market was imposed under Cuban laws whose purpose was to curb black-market activities. As such, the Board concluded that "the claimant fears lawful sanctions that have a valid purpose".
+• The behavioural disorders and inadaptability of her daughter at school were typical of a 13-year old's separation from her mother, and the school's phone calls home for the daughter's absence caused no harm. The Board concluded that the daughter was not being persecuted at school.
+• Although the Applicant's husband had lost his job, there is no evidence, beyond speculation, that the job loss was due to the Applicant's presence in Canada.
+• Because the Applicant had been able to leave Cuba in 2008 on a legitimate visa, the Board concluded that "if the person was a person of interest in Cuba, it is unlikely that she would have been allowed to leave". If the family members were being persecuted for the Applicant's beliefs, it is "reasonable to expect her husband would have had more difficulty [when he was arrested for an illegal internet connection]".
+The Applicant also raised the possibility that she would be subjected to imprisonment if she now returned to Cuba after overstaying her Cuban exit visa. The Board acknowledged that she might be subjected to imprisonment upon her return to Cuba. However, the Board found that the punishment for this contravention of Cuba's laws was not "repetitive, persistent or extreme and thus cannot be considered persecutory".
+[13]
+The Court, in
+Castaneda v. Canada (Minister of Employment and Immigration)
+[1993] FCJ No 1090 also reiterated the requirement that the extra-judicial consequence be examined:
+Applicant further argues that the evidence suggests that his family has been mistreated by the Cuban authorities as a result of his defection and that this constitutes extra-judicial punishment which should have been considered by the Board. Again an erroneous application of the
+Valentin
+decision is alleged.
+I believe that this argument has merit. The evidence indicates that Applicant's father who is ill may be assigned to do labour work in the fields. The job which he had held for thirty years is jeopardized. Applicant's mother has been demoted. She is considered as an untrustworthy person as a result of her son's defection.
+The Board, in its otherwise well motivated decision, did not in any way refer to this evidence presumably because the members felt that the
+Valentin
+decision which dealt with a fear of imprisonment, usually the most severe repercussion arising from a breach of exit laws, was conclusive.
+[14]
+In sum, it is true that
+Valentin
+bars an applicant from protection where the persecution faced is a result of having overstayed an exit visa. However, where the Board fails to analyze in detail the evidence of extrajudicial punishment the decision is reviewable: see, to the same effect,
+Donboli v. Canada (Minister of Citizenship and Immigration)
+, 2003 FC 883.
+[15]
+In contrast, in the present case the Board engaged in no such examination of the persecutory nature of the consequences of the violation of the exit laws nor of whether, given the extrajudicial consequences stemming from the applicant's violation of the laws, they could, in the language of
+Perez
+, be said to be repetitive, persistent, or extreme. Intervention is required in this case because the Board decided not to consider such punishment simply because the applicant could have avoided any hardship by overstaying. While undoubtedly part of the analysis, it is not sufficient, on its own, to dispose of the matter with the rule set by
+Castaneda, Perez
+and
+Donboli
+.
+JUDGMENT
+[16]
+THIS COURT'S JUDGMENT is that
+:
+1. The application for judicial review is granted.
+2. The decision of the Board is set aside and the matter remitted to the Refugee Protection Division of the Immigration Refugee Board for reconsideration before a different member of the Board.
+3. No question arises for certification.
+4. No order as to costs.
+Application granted.
+Editor: E. Joanne Oley/vnh
+[End of document]

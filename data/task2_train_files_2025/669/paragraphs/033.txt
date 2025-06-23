@@ -1,0 +1,4 @@
+[33]
+This issue can be resolved by dealing with each of the respondent's three points. I disagree with the respondent that distinctiveness as of the filing date is not a ground for expungement. Subsection 18(1)(a) states that a trade-mark is invalid if it was not registrable, and subsection 13(1)(a) states that a distinguishing guise is only registrable if it became distinctive through use as of the date of filing. Further, the requirement that distinctiveness be acquired through use in subsection 13(1)(a) is not present in subsection 18(1)(b). A trade-mark can be valid under subsection 18(1)(b) even in the absence of use if it has been adapted to distinguish the holder's wares from those of others:
+Boston Pizza International Inc. v. Boston Chicken Inc.
+(2003), 301 N.R. 190; 2003 FCA 120 (F.C.A). If distinguishing guises were only required to meet that threshold, the use requirement in subsection 13(1)(a) would effectively be cut out of expungement proceedings.

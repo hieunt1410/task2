@@ -1,0 +1,709 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cami Auto. Inc. v. Westwood Shipping (2010), 355 F.T.R. 149 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2010] F.T.R. TBEd. JA.014 
+ 
+ 
+ 
+ Cami Automotive, Inc. and Aisin World Corporation of America (plaintiffs) v. Westwood Shipping Lines Inc., AS Borgestad Shipping and Canadian National Railway Company (defendants) Westwood Shipping Lines Inc. (third party plaintiff) and Canadian National Railway Company (third party) 
+ 
+ (T-1600-05; 2010 FC 26) 
+ 
+ 
+ 
+ Indexed As: Cami Automotive Inc. et al. v. Westwood Shipping Lines Inc. et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Blanchard, J. 
+ 
+ January 8, 2010. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Cami, a Canadian automobile manufacturer, had an annual service contract with WSL Shipping, a Washington, USA, company, for the carriage of containers from Japan to Toronto, via Seattle, Washington. WSL chartered a ship from Borgestad Shipping, a Norwegian company, to carry the containers. Pursuant to its service contract with Cami, WSL issued a shipping document in Japan dated December 2, 2004 (the WSL shipping document), wherein WSL acknowledged having received 15 sealed containers on board the ship containing automobile parts for Cami and its parts supplier AWA. WSL subcontracted the inland carriage of the goods from Vancouver to Toronto to the Canadian National Railway (CN). Although Cami knew of the subcontract, the terms were confidential. The goods were damaged when the CN train derailed. Cami sued WSL, Borgestad and CN. Preliminary issues arose regarding limitations of liability between the parties and the nature of the shipping document in issue. 
+ 
+ 
+ 
+ The Federal Court, in a decision reported (2009), 351 F.T.R. 236, held that the WSL shipping document was a waybill as opposed to a bill of lading. WSL's liability was limited by the terms of the waybill and the contract of carriage was governed by the terms of United States Carriage of Goods by Sea Act. As such, WSL's liability was limited to a maximum of $500 USD per package. In the circumstances, the court defined a package to be a pallet as opposed to the individual automobile parts. There were 100 damaged packages and, consequently, WSL's liability for the damaged goods was limited to $50,000 USD. The court ruled that CN could choose to avail itself of the limitation of liability agreed to in its confidential contract with WSL or the limitation of liability in the waybill (Himalaya clause) as against Cami and AWA, the plaintiffs. In the event that CN chose the latter, its limitation of liability was the same as that of WSL. Costs issues arose. 
+ 
+ 
+ 
+ The Federal Court dealt with the costs issues accordingly. 
+ 
+ 
+ 
+ Practice - Topic 6926 
+ 
+ Costs - General principles - Time to award costs - The plaintiffs shipped goods via WSL (sea) and CN (land) - The goods were damaged - The plaintiffs sued WSL and CN (the defendants) for over $1.2 million - The trial was bifurcated such that limitation of liability issues were to determined before issues of liability and damages - Liability of the defendants was found to be limited to $50,000 USD - The defendants sought to have costs determined - The plaintiffs claimed that a determination of costs was premature, given that liability and damages had not yet been determined - The Federal Court agreed that costs should follow the event regardless of the outcome of a subsequent trial on liability or damages - The discrete issue of limitation of liability had been decided by the court and costs could therefore be determined on that discrete issue - The defendants were entitled to their costs throughout against the plaintiffs to be taxed in the mid-range of column III of Tariff B - See paragraphs 20 to 23. 
+ 
+ 
+ 
+ Practice - Topic 7003 
+ 
+ Costs - Party and party costs - General principles and definitions - Amount involved - The plaintiffs shipped goods via WSL (sea) and CN (land) (the defendants) - The goods were damaged - The plaintiffs sued the defendants for over $1.2 million - The plaintiffs received $18,905.69 USD in salvage money for the damaged cargo - CN had made a without prejudice payment to the plaintiffs in the amount of $50,000 CDN - As a preliminary matter, it was determined that liability of the defendants was limited to $50,000 USD - CN claimed it was entitled to costs pursuant to Federal Courts Rule 400(3)(h) having regard to the amount claimed and the amount resulting from the judgment ($50,000 USD) - CN alleged that the amount recoverable by the plaintiffs was zero and the plaintiffs were fully compensated by the salvage monies and the payment made by CN - An issue arose as to whether the salvage monies should be included in the amount recoverable for purposes of the costs rules (i.e., rules 400 and 420) - The Federal Court stated that since the plaintiffs would not be fully compensated for their losses by reason of the defendants' limitation of liability, it followed that the proceeds of the salvage should not be applied to reduce the amount recoverable from the defendants - CN was not entitled to benefit from the plaintiffs' mitigation effort - See paragraphs 24 to 29. 
+ 
+ 
+ 
+ Practice - Topic 7241 
+ 
+ Costs - Party and party costs - Offers to settle - General (incl. what constitutes and validity) - The plaintiffs shipped goods via WSL (sea) and CN (land) (the defendants) - The goods were damaged - The plaintiffs sued the defendants for over $1.2 million - CN made a without prejudice payment to the plaintiffs of $50,000 CDN ($41,542.05 USD) - Also WSL made a written offer to settle in the amount of $50,001 CDN plus interest as of the date of acceptance of the offer plus costs - WSL withdrew the offer to settle at the commencement of the trial on the preliminary issue of limitation of liability - It was determined that the defendants' liability would be limited to $50,000 USD - An issue arose as to whether the payment by CN and the offer to settle by WSL were sufficient to entitle the defendants to double costs (Federal Courts Rule 420) - The Federal Court held that CN's payment did not meet the criteria for the double costs rule to apply because it was not a clear and unequivocal offer to settle, that if accepted would have brought the dispute between the parties to an end - While WSL did make a written offer to settle, the matter of damages was outstanding - There was no final judgment by which to calculate whether the amount of the offer was sufficient - As a consequence, whether rule 420 applied could not be decided at this time - See paragraphs 30 to 45. 
+ 
+ 
+ 
+ Practice - Topic 7244 
+ 
+ Costs - Party and party costs - Offers to settle - Amount recovered - Calculation - [See  
+ Practice - Topic 7241 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd. (1988), 159 F.T.R. 233 (T.D.), affd. (2001), 199 F.T.R. 320 (F.C.A.), refd to. [para. 19]. 
+ 
+ Dimplex North America Ltd. v. CFM Corp. (2006), 307 F.T.R. 153; 2006 FC 1403, refd to. [para. 19]. 
+ 
+ Redpath Industries Ltd. v. Ship Cisco et al., [1994] 2 F.C. 279; 163 N.R. 161 (F.C.A.), refd to. [para. 26]. 
+ 
+ MK Plastics Corp. v. Plasticair Inc., [2007] F.T.R. Uned. 960; 2007 FC 1029, refd to. [para. 30]. 
+ 
+ TRW Inc. v. Walbar of Canada Inc. (1992), 146 N.R. 57; 43 C.P.R.(3d) 449 (F.C.A.), refd to. [para. 39]. 
+ 
+ Canada v. IPSCO Recycling Inc. et al. (2004), 259 F.T.R. 204; 2004 FC 1083, refd to. [para. 44]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Federal Courts Rules, rule 400(1), rule 400(3), rule 400(6), rule 420 [para. 18]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Barry Oland, for the plaintiffs; 
+ 
+ Thomas Keast and Andrew Epstein, for the defendant, CN; 
+ 
+ Graham Walker and Dionysios Rossi, for the defendant, Westwood Shipping and AS Borgestad Shipping. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Oland and Co, for the plaintiffs; 
+ 
+ Watson Gopel Maledy, for the defendant, CN; 
+ 
+ Borden Ladner Gervais, for the defendant Westwood Shipping and AS Borgestad Shipping. 
+ 
+ 
+ 
+ This matter was heard on November 19, 2009, by Blanchard, J., of the Federal Court, who delivered the following reasons for judgment on January 8, 2010. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Blanchard, J. 
+ : On June 24, 2009, I rendered reasons for judgment and judgment on the preliminary issues of limitations on the defendants' liability and the nature of the shipping document at issue in the within action. The issue of costs was reserved. Barring any agreement, the parties were directed to file written submissions on costs. 
+ 
+ 
+ 
+ [2] 
+  The defendants served and filed their written submissions on September 18, 2009 and the plaintiffs served and filed theirs on September 30, 2009. Further written submissions were filed by all parties on November 18, 2009 and oral submissions were heard, via video conference, on November 19, 2009. These reasons relate to my determination on costs. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [3] 
+  The factual foundation for the action and the relationship between the various parties to the action are comprehensively set out in my June 24, 2009 decision ( 
+ Cami Automotive, Inc. v. Westwood Shipping Lines Inc. 
+ , 2009 FC 664). In summary, Cami Automotive Inc. (Cami) purchased automobile transmissions from Aisin Corporation of America (Aisin) and contracted to have them shipped to Canada by the defendants WSL Shipping Lines Inc., and AS Borgestad Shipping (collectively WSL) who provided ocean carriage of the goods. Rail transport of the goods from Vancouver to Toronto was subcontracted to the defendant Canada National Railway (CN). The plaintiffs, Cami and Aisin, claim damages to their goods against the defendants resulting from a derailment which occurred in Northern Ontario on January 5, 2005. The plaintiffs' claim is for damages in the amount of $1,213,386.20 USD. 
+ 
+ 
+ 
+ [4] 
+  On March 5, 2008, and with consent of the parties, it was ordered that the issues concerning damages would be determined separately, and that the parties would proceed to trial on the remaining issues. Following the trial, by order dated May 14, 2009, the March 5, 2008 bifurcation order was amended as follows: 
+ 
+ 
+ 
+ "Pursuant to Rule 107 of the  
+ Federal Courts Rules 
+ , all issues pertaining to any limitations of liability available to the defendants in relation to the claims by the plaintiff shall be determined by trial separately from the issues of liability of the defendants generally and the assessment of any damages. The determination of any available limitations of liability shall be on the assumption that the defendants are liable to the plaintiff but that assumption is without prejudice to any defenses that the defendants may later raise when, and if, the issues of liability generally and the assessment of any damages are tried." 
+ 
+ 
+ 
+ [5] 
+  As a consequence of the consent order, I addressed only issues relating to the limitations of liability of WSL and CN in my decision. 
+ 
+ 
+ 
+ [6] 
+  I found that WSL's limitation of liability was provided for in the WSL Shipping Document, which I determined to be a waybill. The waybill set a limitation of liability at $500 per package of lawful money of the United States. Since the WSL Shipping Document was found to be a waybill, I also found that the limitation of liability of $500 USD per package contained in the United States  
+ Carriage of Goods by Sea Act 
+  ( 
+ COGSA 
+ ) was applicable. I further determined there to be 100 damaged packages and, consequently, WSL's liability for the damaged goods was limited to $50,000 USD. 
+ 
+ 
+ 
+ [7] 
+  In terms of CN's limitation of liability, I rejected CN's argument that its liability was limited by the CN Tariff 7589 (CN Tariff). However, the limitation of liability in the  
+ Railway Traffic Liability Regulations 
+ , incorporated into the Confidential Contract between CN and WSL applied to the plaintiffs. Also, the WSL waybill contained a valid Himalayan clause, and CN could choose to avail itself of the limitation of liability found in the waybill between WSL and the plaintiffs, as the Himalayan clause was engaged. I summarized my conclusion as follows: 
+ 
+ 
+ 
+ "In summary, as mandated by the amended bifurcation Order, I conclude as follows in respect to limitations of liability of the defendants CN and WSL. I find that WSL's liability is limited by the terms of the waybill and the contract of carriage is governed by the terms of  
+ COGSA 
+ . As such, WSL's limitation of liability is $500 USD per package. In the circumstances I define a package to be a pallet. CN can choose to avail itself of the limitation of liability agreed to in its Confidential Contract or the limitation of liability in the waybill as against the plaintiffs. In the event CN chooses the latter, its limitation of liability is the same as that of WSL" ( 
+ Cami 
+ , para. 95). 
+ 
+ 
+ 
+ [8] 
+  The following facts have been agreed to for the purpose of the within proceeding relating to costs: there were 100 damaged packages as a result of the derailment; the value of each package, for the purpose of liability, is limited to $500 USD pursuant to the  
+ Cami 
+  decision; the limitation of liability of the defendants is $50,000 USD. 
+ 
+ 
+ 
+ [9] 
+  The following additional information is also not disputed: the plaintiffs claim damages in the amount of $1,213,386.20 USD; the plaintiffs received approximately $18,905.69 USD in salvage money for the damaged cargo; on January 9, 2006, CN made a without-prejudice payment to the plaintiffs in the amount of $50,000 CDN ($41,542.05 USD); on February 7, 2008, WSL made a written offer to settle in the amount of $50,001 CDN plus interest as of the date of acceptance of the offer plus costs; WSL withdrew the offer to settle at the commencement of the trial (February 26, 2009). 
+ 
+ 
+ 
+ Position of the Parties with Respect to Costs 
+ 
+ 
+ 
+ [10] 
+  CN's position is that costs be awarded to it payable by the plaintiffs. CN argues that it is entitled to costs pursuant to Rules 400(1) and 400(3) of the  
+ Federal Courts Rules 
+ , SOR/2004-283, s. 2, (the  
+ Rules 
+ ) because: 
+ 
+ 
+ 
+ a. the decision in  
+ Cami 
+  decided all elements of the action in favour of CN, this militates in favour of an award of costs pursuant to Rule 400(3)(a); 
+ 
+ 
+ 
+ b. the amount claimed by the plaintiffs was in the range of $1.5 million USD, the amount resulting from the Judgment is $50,000 USD. The amount recoverable by the plaintiffs is zero, and the plaintiffs were fully compensated by the salvage monies and the payment made by CN (Rule 400(3)(b)); 
+ 
+ 
+ 
+ c. the issues were important and complex (Rule 400(3)(c)); 
+ 
+ 
+ 
+ d. CN's payment to the plaintiffs should be considered an offer to settle pursuant to Rule 400(3)(e). 
+ 
+ 
+ 
+ [11] 
+  CN contends it was successful in the litigation because the Court essentially agreed with its position on limitation of liability even though its first argument on the impact of the CN Tariff was rejected. CN also relies on the payment it made to the plaintiffs on January 9, 2006, to argue that it should be entitled to double the costs from the date of this payment pursuant to Rule 420(2). The payment in combination with the amount recovered by the plaintiffs from salvage is more favourable than the maximum amount recoverable by the plaintiffs by reason of the limitation of the defendants' liability. 
+ 
+ 
+ 
+ [12] 
+  WSL submits it is entitled to costs pursuant to Rules 400(1) and 400(3) based on the following: 
+ 
+ 
+ 
+ a. WSL was completely successful on all matters at issue between it and the plaintiffs, this militates in favour of an award of costs pursuant to Rule 400(3)(a); 
+ 
+ 
+ 
+ b. the amount claimed by the plaintiffs exceeded $1 million USD. The Court has now found that if the defendants were liable, their maximum liability would be limited to a total of $50,000 USD, of which $41,542.05 USD was already recovered (CN payment). The disparity between the amount claimed and the amount recoverable should be considered pursuant to Rule 400(3)(b); 
+ 
+ 
+ 
+ c. the limit of liability was the most important issue in this case and was determinative. This factor should militate in favour of an award of costs to WSL pursuant to Rule 400(3)(c); 
+ 
+ 
+ 
+ d. WSL made a valid offer to settle to the plaintiffs prior to the hearing, this should be considered pursuant to Rule 400(3)(e). 
+ 
+ 
+ 
+ WSL also claims it is entitled to double the costs from the date of its offer to settle, February 7, 2008, pursuant to Rule 420(2). It argues that its offer, combined with the CN payment the plaintiffs had previously received, is more favourable than the maximum amount the plaintiffs could recover by reason of the defendants' limitation of liability. 
+ 
+ 
+ 
+ [13] 
+  The plaintiffs argue that the settlement of costs is premature because liability still has to be determined. In the alternative, and if the Court is to have costs taxed for the trial on the limitation of liability, the plaintiffs submit that costs ought to be awarded to them and that neither CN nor WSL are entitled to costs. 
+ 
+ 
+ 
+ [14] 
+  The plaintiffs argue costs ought to be awarded as though judgment had been rendered in their favour against the defendants for $50,000 USD each; on this basis the plaintiffs would be entitled to tax their costs on a party to party basis under Rule 400, Tariff B. The plaintiffs contend they are entitled to costs because: the defendants denied liability and damages; the plaintiffs will obtain judgment against each of the defendants in the amount of $50,000 USD; and the offers to settle made by the defendants to the plaintiffs do not reach the judgment amount. 
+ 
+ 
+ 
+ [15] 
+  Alternatively, should the Court decide to award costs to the defendants, the plaintiffs argue that CN should not be awarded costs, and WSL should be awarded costs on a party to party basis. The plaintiffs submit that CN's principal position was that its liability was limited by the terms of the CN Tariff. CN was not successful on this claim, but did succeed in its claim that it could benefit from the limit of liability found in the waybill. The result thereby being divided, costs should not be awarded. As to WSL, the plaintiffs recognize that WSL was successful in regards to the argument on limitation of liability; therefore it should be paid costs but only on a party to party basis. 
+ 
+ 
+ 
+ [16] 
+  In regards to CN's payment, the plaintiffs argue that such a payment does not reach the threshold amount determined to be the limitation of liability. According to the plaintiffs, the salvage monies, which CN takes into account when arguing that its payment was sufficient, should not be included. Therefore, since the plaintiffs still have an amount recoverable from the defendants, the offer to settle does not fulfill the criteria of Rule 420(2) and, as a consequence, CN is not entitled to double costs. As for the offer to settle of WSL, dated February 7, 2008, the plaintiffs argue it did not reach the threshold of limitation of liability, as determined by the Court, and that, as is the case for CN, it does not fulfill the criteria of Rule 420(2) which would entitle WSL to double the costs. 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ 
+ [17] 
+  The disputed issues in regards to costs are as follows: 
+ 
+ 
+ 
+ a. Can the Court make a determination as to costs, considering that liability and damages have not been determined? And, what consequences flow from the amended bifurcation of the issues, and the fact that damages have not been finalized? 
+ 
+ 
+ 
+ b. Are the salvage monies to be included in the amount recoverable? What is the appropriate manner in computing the effect of the salvage for the purpose of Rules 400(3)(b) and 420(2)? 
+ 
+ 
+ 
+ c. Is the payment by CN and the offer to settle of WSL sufficient to fulfill the criteria of Rule 420(2) and therefore entitle the defendants to double the costs? 
+ 
+ 
+ 
+ Legal Framework 
+ 
+ 
+ 
+ [18] 
+  The relevant sections of the  
+ Rules 
+  are the following: 
+ 
+ 
+ 
+ "400(1) The Court shall have full discretionary power over the amount and allocation of costs and the determination of by whom they are to be paid. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "400(3) In exercising its discretion under subsection (1), the Court may consider 
+ 
+ 
+ 
+ (a) the result of the proceeding; 
+ 
+ 
+ 
+ (b) the amounts claimed and the amounts recovered; 
+ 
+ 
+ 
+ (c) the importance and complexity of the issues; 
+ 
+ 
+ 
+ (d) the apportionment of liability; 
+ 
+ 
+ 
+ (e) any written offer to settle; 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "400(6) Notwithstanding any other provision of these Rules, the Court may 
+ 
+ 
+ 
+ (a) award or refuse costs in respect of a particular issue or step in a proceeding; 
+ 
+ 
+ 
+ (b) award assessed costs or a percentage of assessed costs up to and including a specified step in a proceeding; 
+ 
+ 
+ 
+ (c) award all or part of costs on a solicitor-and-client basis; or 
+ 
+ 
+ 
+ (d) award costs against a successful party. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "420(1) Unless otherwise ordered by the Court and subject to subsection (3), where a plaintiff makes a written offer to settle and obtains a judgment as favourable or more favourable than the terms of the offer to settle, the plaintiff is entitled to party-and-party costs to the date of service of the offer and costs calculated at double that rate, but not double disbursements, after that date. 
+ 
+ 
+ 
+ "420(2) Unless otherwise ordered by the Court and subject to subsection (3), where a defendant makes a written offer to settle, 
+ 
+ 
+ 
+ (a) if the plaintiff obtains a judgment less favourable than the terms of the offer to settle, the plaintiff is entitled to party-and-party costs to the date of service of the offer and the defendant shall be entitled to costs calculated at double that rate, but not double disbursements, from that date to the date of judgment; or 
+ 
+ 
+ 
+ (b) if the plaintiff fails to obtain judgment, the defendant is entitled to party-and-party costs to the date of the service of the offer and to costs calculated at double that rate, but not double disbursements, from that date to the date of judgment." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "400(1) La Cour a le pouvoir discrétionnaire de déterminer le montant des dépens, de les répartir et de désigner les personnes qui doivent les payer. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "400(3) Dans l'exercice de son pouvoir discrétionnaire en application du paragraphe (1), la Cour peut tenir compte de l'un ou l'autre des facteurs suivants: 
+ 
+ 
+ 
+ a) le résultat de l'instance; 
+ 
+ 
+ 
+ b) les sommes réclamées et les sommes recouvrées; 
+ 
+ 
+ 
+ c) l'importance et la complexité des questions en litige; 
+ 
+ 
+ 
+ d) le partage de la responsabilité; 
+ 
+ 
+ 
+ e) toute offre écrite de règlement; 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "400(6) Malgré toute autre disposition des présentes règles, la Cour peut: 
+ 
+ 
+ 
+ a) adjuger ou refuser d'adjuger les dépens à l'égard d'une question litigieuse ou d'une procédure particulières; 
+ 
+ 
+ 
+ b) adjuger l'ensemble ou un pourcentage des dépens taxés, jusqu'à une étape précise de l'instance; 
+ 
+ 
+ 
+ c) adjuger tout ou partie des dépens sur une base avocat-client; 
+ 
+ 
+ 
+ d) condamner aux dépens la partie qui obtient gain de cause. 
+ 
+ 
+ 
+ . . . . . 
+ 
+ 
+ 
+ "420(1) Sauf ordonnance contraire de la Cour et sous réserve du paragraphe (3), si le demandeur fait au défendeur une offre écrite de règlement, et que le jugement qu'il obtient est aussi avantageux ou plus avantageux que les conditions de l'offre, il a droit aux dépens partie-partie jusqu'à la date de signification de l'offre et, par la suite, au double de ces dépens mais non au double des débours. 
+ 
+ 
+ 
+ "420(2) Sauf ordonnance contraire de la Cour et sous réserve du paragraphe (3), si le défendeur fait au demandeur une offre écrite de règlement, les dépens sont alloués de la façon suivante: 
+ 
+ 
+ 
+ a) si le demandeur obtient un jugement moins avantageux que les conditions de l'offre, il a droit aux dépens partie-partie jusqu'à la date de signification de l'offre et le défendeur a droit, par la suite et jusqu'à la date du jugement au double de ces dépens mais non au double des débours; 
+ 
+ 
+ 
+ b) si le demandeur n'a pas gain de cause lors du jugement, le défendeur a droit aux dépens partie-partie jusqu'à la date de signification de l'offre et, par la suite et jusqu'à la date du jugement, au double de ces dépens mais non au double des débours." 
+ 
+ 
+ 
+ [19] 
+  Rule 400(1) grants a broad discretion to the Court in relation to costs. Rule 400(3) lists a number of factors that the Court may consider in the exercise of its discretion. The Court may consider any other matter that it considers relevant (Rule 400(3)(o)). Costs should neither be punitive nor extravagant but should represent a compromise between compensating a successful party and not unduly burdening an unsuccessful party ( 
+ Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd. 
+  (1988), 159 F.T.R. 233 (T.D.), affd. (2001), 199 F.T.R. 320 (F.C.A.)). Rule 407 dictates that costs are to be awarded in accordance with Column III of the table to Tariff B on a default basis. Tariff B is formulated so as to reflect the philosophy that party and party costs should bear a reasonable relationship to the actual cost of litigation ( 
+ Apotex Inc 
+ ., para. 5). In  
+ Dimplex North America Ltd. v. CFM Corp. 
+  (2006), 307 F.T.R. 153; 2006 FC 1403, at paragraph 12, Justice Mosley stated in this regard: 
+ 
+ 
+ 
+ "The default for an award of costs remains Tariff B, Column III. Where an award of increased costs is warranted, the Court should first determine whether an award of costs that is reasonable is possible within the scope of Tariff B. Only where that would dictate an unreasonable or unsatisfactory result, should the Court consider awarding an amount in excess of the Tariff." 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ a. Can the Court make a determination as to costs, considering that liability and damages have not been determined? And, what consequences flow from the amended bifurcation of the issues, and the fact that damages have not been finalized? 
+ 
+ 
+ 
+ [20] 
+  The plaintiffs submit that a decision on costs is premature and ought to be deferred until a decision is made on the issues of liability or damages. The plaintiffs also argue that a determination as to costs at this stage is not possible. Since liability and damages were not in play, there is no final judgment on damages which could be executed upon by the plaintiffs. The limitation of liability hearing simply did not produce a successful party and an unsuccessful party. The plaintiffs submit that before proceeding to assess the factors in awarding costs under Rules 400(1) and 400(3), the Court must determine a winner and a loser of the litigation. 
+ 
+ 
+ 
+ [21] 
+  CN concedes that liability and damages remain outstanding but argues that the issues decided in the judgment on limitation of liability were effectively dispositive of the action, having regards to the payment it made to the plaintiffs. Given the finding that the limitation of liability is $50,000 USD and that CN has made a payment of $41,542.05 USD, it is unlikely that the plaintiffs will proceed to trial on liability and damages. Deferring the assessment of costs until a decision is made on the issue of liability and damages would effectively prevent CN from claiming costs, because of the likelihood that such litigation will never proceed. CN further argues that even if the plaintiffs proceed to trial on these issues and are successful, the maximum award would be in the amount of $8457.98 USD ($50,000 USD minus the payment already made by CN). As a result of this minimal amount, there would be little or no likelihood of further award of costs. Given the findings on limitation of liability, the defendants could also simply agree to pay the plaintiffs the maximum potential amount of any prospective liability, thus concluding all matters at issue between the parties. 
+ 
+ 
+ 
+ [22] 
+  WSL argues, as CN does, that the issues decided on limitation of liability were effectively dispositive of the entire action. WSL also argues that the trial on limitation of liability effectively decided the issue of damages and that costs should follow the event regardless of the outcome of a subsequent trial on the issue of liability. 
+ 
+ 
+ 
+ [23] 
+  I accept WSL's argument that costs should follow the event regardless of the outcome of a subsequent trial on liability, or for that matter damages. I reject the plaintiffs' position that the determination as to costs at this stage is premature. On the discrete issue of limitation of liability, the parties argued their respective positions, and this issue was decided by the Court. The defendants essentially argued that their limitation of liability was $50,000 USD and this was the outcome of the trial. The defendants were successful on the limitation of liability issue. Costs can therefore be determined on the discrete issue of the limitation of liability. Whether or not the parties decide to pursue the action on liability and damages, the issue of costs pertaining to the limitation of liability trial can be ruled on at this stage. 
+ 
+ 
+ 
+ (2) Are the salvage monies to be included in the amount recoverable? What is the appropriate manner in computing the effect of the salvage for the purpose of Rules 400(3)(b) and 420(2)? 
+ 
+ 
+ 
+ [24] 
+  The plaintiffs recovered $18,905.69 USD in salvage money from the damaged cargo. The determination of whether the value of salvage is to be credited against the amount to be recovered by the plaintiffs from the defendants will bear on the costs issues, particularly with regard to the offer to settle and whether, as a consequence, the double costs rule finds application. 
+ 
+ 
+ 
+ [25] 
+  The plaintiffs argue that, as owners of the damaged goods, it is the only party who can liquidate the goods and benefit from salvage proceeds. The plaintiffs maintain that the salvage proceeds in the amount of $18,905.69 USD are to be credited against its total claim, resulting in a net claim for damages of $1,213,386.20 USD. 
+ 
+ 
+ 
+ [26] 
+  CN draws a distinction between deemed value and limitation of liability. CN argues that the WSL waybill contains two distinct clauses, one dealing with the deemed value of the goods and one with limitation of liability. CN further argues that the Court made two separate findings, one pertaining to the deemed value of the goods, and another pertaining to the limitation of liability of the defendants. With respect to the deemed value of the goods, the Court found that the value of each package was deemed to be $500 USD and that there were 100 damaged packages. Consequently the value of the damaged goods cannot exceed $50,000 USD. CN argues that proceeds from the mitigation effort should be applied against this deemed value. CN also relies on  
+ Redpath Industries Ltd. v. Ship Cisco et al. 
+ , [1994] 2 F.C. 279; 163 N.R. 161 (F.C.A.), to support the proposition that, as a defendant, it is entitled to benefit from the plaintiffs' mitigation effort. 
+ 
+ 
+ 
+ [27] 
+  In my view, the deemed value and limitation of liability provisions in the waybill must be read together and as such serve only one purpose, that is to limit liability to a fixed amount. The provisions do not affect the actual losses incurred by the plaintiffs. Any amount recovered by way of salvage would apply against and serve to reduce the actual losses suffered by the plaintiffs. In this case, the amount recovered by way of salvage would not apply against the deemed value of the goods because that value is far less than the plaintiffs' actual losses. Any such further limitation on recovery by the plaintiffs would have to be expressly provided for in the waybill. I therefore reject CN's argument that it is entitled to the benefit of the plaintiffs' mitigation effort, in the circumstances. 
+ 
+ 
+ 
+ [28] 
+  I am also of the view that CN is not assisted by  
+ Redpath 
+  in its argument.  
+ Redpath 
+  stands for the following principle with respect to mitigation of damages, as explained by Letourneau, J.A., at paragraph 70: 
+ 
+ 
+ 
+ "It is well established that a party who suffers damages as a result of a breach of contract has a duty to mitigate those damages, that is to say that the wrongdoer cannot be called upon to pay for avoidable losses which would result in an increase in the quantum of damages payable to the injured party." 
+ 
+ 
+ 
+ It follows that an injured party should be compensated for its net losses. The duty to mitigate results in the wrongdoer not having to pay avoidable losses. Here, net losses far exceed any potential amount recoverable by the plaintiffs, by reason of the defendants' limitation of liability. In the result, the defendants would not be called upon to pay avoidable losses. 
+ 
+ 
+ 
+ [29] 
+  In the circumstances, since the plaintiffs will not be fully compensated for their losses by reason of the defendants' limitation of liability, it follows that the proceeds of salvage shall not be applied to reduce the amount recoverable from the defendants. 
+ 
+ 
+ 
+ (3) Is the payment by CN and the offer to settle of WSL sufficient to fulfill the criteria of Rule 420(2) and therefore entitle the defendants to double the costs? 
+ 
+ 
+ 
+ [30] 
+  There are four criteria to be met to trigger the double costs rule. These were summarized in  
+ FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [31] 
+  The plaintiffs submit that Rule 420 does not apply in the circumstances because the decision on limitation of liability does not allow for a finite calculation on the amount of recovery by the plaintiffs to be made and compared to the offers to settle. If the Court nonetheless finds that Rule 420 is engaged, the plaintiffs argue that the offer to settle and payment do not meet the criteria of the double costs rule because they fall short of the amount determined to be the limitation of liability. On this point, the plaintiffs argue that if liability was found, the plaintiffs would be entitled to recover $50,000 USD from each of the defendants. 
+ 
+ 
+ 
+ [32] 
+  The plaintiffs argue that the CN payment of $41,542.05 USD does not meet the threshold of its limitation of liability of $50,000 USD. The plaintiffs argue that salvage monies should not be considered together with the CN payment for the purpose of meeting the threshold. The plaintiffs further argue that the offer to settle made by WSL of $50,001 CDN does not meet the threshold of WSL's limitation of liability of $50,000 USD. 
+ 
+ 
+ 
+ [33] 
+  In oral submissions, the plaintiffs maintained that, in the event the Court considers the combined effect of the CN payment and the WSL offer to settle, this amount of $100,000 CDN would not meet the threshold of the combined limitation of liability of the defendants, which is $100,000 USD. 
+ 
+ 
+ 
+ [34] 
+  CN claims it is entitled to double the costs (but not disbursements) from the commencement of this action, pursuant to Rule 420(2) of the  
+ Rules 
+ , as a result of its without-prejudice payment of $50,000 CDN ($41,542.05 USD), made on January 6, 2009. CN first argues the payment, although not a formal offer to settle should have the same effect as an offer to settle. The payment in combination with the salvage monies ($18,905.69 USD) reaches and goes beyond the threshold of the limitation of liability of $50,000 USD which is the maximum amount of damages that the plaintiffs could recover. As a result, CN argues that no advantage was gained by the plaintiffs pursuing the litigation. 
+ 
+ 
+ 
+ [35] 
+  In making the above submission, CN rejects the plaintiffs' argument that each of the defendants' limitation of liability is $50,000 USD. It argues that as joint and several tortfeasers both parties rely on the same limitation of liability of $50,000 USD, which is found in the WSL waybill. 
+ 
+ 
+ 
+ [36] 
+  WSL argues that when it made its offer to settle of $50,001 CDN on February 7, 2008, CN had already paid $50,000 CDN to the plaintiffs. It contends that since the combined limitation of liability of the defendants is $50,000 USD, the amount of the CN payment and the WSL offer to settle is more favourable to the plaintiffs than any possible outcome of the liability and damage litigation. Consequently, WSL argues that the Court should exercise its discretion pursuant to Rule 400(6) to consider cumulatively the amount of the CN payment and the WSL offer and, on this basis, award double costs to WSL after February 7, 2008, date on which WSL made its offer. WSL further argues that the requirements for the application of the double costs rule, as set out in  
+ M.K. Plastics 
+ , are met in this case when the payment and offer are considered cumulatively. More specifically, with regard to the fourth requirement, WSL contends that had the plaintiffs accepted the offer by WSL, it would have brought the dispute between the parties to an end. 
+ 
+ 
+ 
+ [37] 
+  Before considering the parties' argument, I pause to note that in light of my above findings regarding salvage and mitigation, salvage monies will not be taken into account for the purposes of determining whether CN's payment meets the criteria of the double costs rule. The issue is therefore whether the payment of $50,000 CDN made by CN to the plaintiffs meets the criteria for the double costs rule to apply. There is also the question of whether the defendants are joint and several tortfeasors, raised for the first time at the hearing on costs. In the absence of a fulsome record and argument, I am not in a position to determine whether there is any merit to the issue. Such a determination is not required, in any event, to dispose of the double costs issues argued here. 
+ 
+ 
+ 
+ [38] 
+  I will now deal with CN's payment. As noted above, on January 9, 2006, CN made a without-prejudice payment to the plaintiffs in the amount of $50,000 CDN. The letter of January 9, 2006 states: 
+ 
+ 
+ 
+ "In accordance with the Terms and Conditions under which this shipment moved the maximum liability for the contents of a 20ft. container is limited to $10,000.00 Cdn Funds and as you are claiming in US funds we have adjusted payment per rate of exchange at the time of incident ... Therefore payment in the amount of $41,542.05 US funds will follow under a separate cover." 
+ 
+ 
+ 
+ [39] 
+  To meet the criteria for the double costs rule, a written offer to settle must be clear and unequivocal, in the sense it leaves the opposite party to decide only whether to accept it or reject it. In  
+ TRW Inc. v. Walbar of Canada Inc. 
+  (1992), 146 N.R. 57; 43 C.P.R.(3d) 449 (F.C.A.), in the course of giving directions to the assessment officer arising out of an appeal, Stone, J.A., expressed the following views, at page 456, with respect to the meaning of the phrase "offer of settlement made in writing" in former Rule 344(3)(g): 
+ 
+ 
+ 
+ "It seems to me that the rule requires a much more definite offer, that is, one which is normally capable of acceptance and which, if accepted, would bring the dispute between the parties to an end." 
+ 
+ 
+ 
+ [40] 
+  CN's without-prejudice payment is not a clear and unequivocal offer to settle, that if accepted would bring the dispute between the parties to an end. The letter does not provide that acceptance of the payment would result in settlement of the action. CN concedes that it did not make a written offer to settle to the plaintiffs but argues that the payment should have the same effect, legally, as such an offer because it fully compensated the plaintiffs. I am not persuaded by this argument. As noted above, the double costs rule exists to encourage the termination of litigation by agreement of the parties. The without-prejudice payment does not have the same effect as an offer to settle, because its acceptance does not expressly or impliedly bring an end to the litigation. As a consequence, the double costs rule shall not apply to CN's claim for costs. 
+ 
+ 
+ 
+ [41] 
+  WSL did make a written offer to settle to the plaintiffs. Rule 420(2)(a) provides that where a defendant makes a written offer to settle, and the plaintiff fails to obtain a judgment as favourable as the offer, the plaintiff is entitled to its cost on a party to party basis up to the date of the offer. The defendant is entitled to double costs from the date of the offer until the date of the judgment. Rule 420(2)(b) provides that where a plaintiff fails to obtain judgment, the defendant is entitled to costs on a party to party basis to the date of the offer to settle and double costs thereafter until judgment. 
+ 
+ 
+ 
+ [42] 
+  Here, the matter of damages is outstanding. This proceeding, thus far, addressed only the limitations of liability of the defendants. There is no final judgment by which to calculate whether the amount of the offer is sufficient. As a consequence, whether Rule 420 finds application in the circumstances cannot be decided at this time. 
+ 
+ 
+ 
+ [43] 
+  Should the defendants be successful in having the action against them dismissed, it would then be open to WSL to argue for double costs pursuant to Rule 420(2)(b). Should the plaintiffs be successful and the defendants were found to be liable, the judgment obtained would be, at a minimum, $50,000 USD. In such event, WSL's offer is not as favourable as the judgment that could be obtained, and consequently would not trigger the double costs rule pursuant to Rule 420(2)(a). I reject WSL's submission that its offer should be considered together with CN's payment so that the combined amount meets the Rule 420(2)(a) threshold. The Rule simply does not provide for such a consideration. 
+ 
+ 
+ 
+ [44] 
+  Before concluding, I will address two further matters. First, CN was not successful in arguing that its liability was limited by the CN Tariff. As a result, the plaintiffs contend that CN is not entitled to its costs because it was not successful on all of the issues it argued. I disagree, CN was essentially successful in respect to its position on limitation of liability. It should not be penalized on its costs award simply because not all of its points have found favour ( 
+ Canada v. IPSCO Recycling Inc. et al. 
+  (2004), 259 F.T.R. 204; 2004 FC 1083). 
+ 
+ 
+ 
+ [45] 
+  Finally, in all of the circumstances and in the exercise of my discretion, no further adjustments in costs are warranted pursuant to Rules 400(1) and 400(3). 
+ 
+ 
+ 
+ Conclusion 
+ 
+ 
+ 
+ [46] 
+  On the issues that were before me for decision, the defendants were essentially successful and are each entitled to their costs throughout against the plaintiffs, such costs to be taxed at the mid-range of column III of Tariff B in accord with the above reasons for order. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [47] 
+   
+ THIS COURT ORDERS that 
+  the defendants will have their costs throughout against the plaintiffs, such costs to be taxed at the mid-range of column III of Tariff B in accord with the above reasons for order. 
+ 
+ 
+ 
+ Order accordingly. 
+ 
+ 
+ 
+ Editor: Elizabeth M.A. Turgeon/vnh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

@@ -1,0 +1,92 @@
+[1]
+Cullen, J.
+: This is a
+motion
+for a preliminary order for a confidentiality order in the form appended as Schedule "A" to the applicants' Notice of Motion dated September 13, 1996. Specifically, the applicants seek to have included in the draft confidentiality order a new clause, to permit disclosure of confidential information to any employee of any party to the action, including any necessary secretarial and clerical personnel. The applicants' alternative position is to permit such disclosure to five of its employees, including Dr. Crawford. The respondents wish to have such disclosure completely restricted from such employees. The respondents' alternative position is to permit the disclosure solely to Dr. Crawford.
+The Facts
+[2]
+This motion originates in a patent action between the two parties concerning the drug known as fluconazole. The applicants commenced this proceeding by way of Originating Notice of Motion dated June 24, 1996, in response to a Notice of Allegation from the respondents dated May 7, 1996.
+[3]
+The respondents' Notice of Allegation had, as a two-page attachment, a brief sketch of the details of a chemical process (hereinafter, the "ICS process") by which its fluconazole product would be manufactured. The chemical process concerns complex matters relating to chemistry and processes for the manufacture of fluconazole. On the basis of this attachment, expert affidavit evidence of Dr. Thomas Crawford, an employee of Pfizer, was prepared.
+[4]
+The applicants duly filed Dr. Crawford's affidavit with the originating Notice of Motion.
+[5]
+On or about July 18, 1996, the respondents requested the applicants' consent to a confidentiality order out of concern that the respondents would be filing confidential information in the within proceeding.
+[6]
+On or about August 1, 1996, the applicants mistakenly provided their consent to the draft confidentiality order which was part of the materials provided by the respondents on July 18, 1996. As drafted, the confidentiality order prevented Dr. Crawford, the applicants's in-house chemistry expert who had already commented on the ICS process, from seeing the respondents' information designated as Confidential.
+[7]
+On or about August 1, 1996, the respondents filed Rule 324 Motion materials requesting that the confidentiality order be entered.
+[8]
+By August 12, 1996, the respondents had served sworn affidavits of three experts discussing details of the ICS process and identifying the respondents' supplier of fluconazole. The respondents stated that these affidavits were served on the understanding that, as between counsel, the confidentiality order was in place, thus making it clear that these affidavits could not be disclosed to the applicants' in-house chemistry expert.
+[9]
+On or about August 13, 1996, the respondents served a document labelled "Detailed Statement" and marked as confidential.
+[10
+]
+On August 14, the applicants wrote to this court indicating that they had withdrawn their consent to the confidentiality order. As a result, the Confidentiality order has not yet been issued.
+[11]
+Several time extensions have been granted in order to allow for the proper filing and examination of the expert affidavit evidence. On September 24, 1996, this court ordered the applicants to bring on an application for a confidentiality order, forthwith.
+[12]
+The applicants state that the confidentiality order drafted and proposed by the respondents is acceptable except for the restriction which limits disclosure of confidential information in respect of the parties to the proceeding to only lawyers, including barristers, solicitors, advocates, notaries or attorneys who are employees of any party and their parent or affiliated corporations or are retained by any party or by their parent or affiliated corporations for the purposes of this application; and up to three experts and necessary support staff as long as they are not employees of the other party or related companies. This restriction would preclude persons such as Dr. Crawford from having access to the confidential information.
+[13]
+Paragraph five of the draft confidentiality order requires that all persons to whom confidential information from this proceeding is disclosed, execute an undertaking, enforceable by this court, to comply with and be bound by the terms of the confidentiality order.
+The Issue
+[14]
+Is a higher degree of confidentiality required in this case, such that would justify a restrictive order precluding all of the applicants' employees and support staff from having access to the information subject to the confidentiality order?
+Analysis
+[15]
+It is established case law that an order preventing counsel from showing relevant evidence to his client to get instructions, while not unknown, should only be granted in very unusual circumstances (
+Zeneca Pharma Inc. v. Canada (Minister of National Health and Welfare)
+(1994), 55 C.P.R.(3d) 1 (F.C.T.D.). The onus is on the party requesting the more restrictive order to establish the need for such a restriction on the ordinary disclosure of materials which may be relevant to the issues in the case. The burden on the requesting party is a heavy one, as the request is for a deviation from the normal procedures which ensure the efficiency and integrity of the legal justice system. On confidentiality orders, MacKay, J., has stated in
+Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd.
+(1993), 69 F.T.R. 161; 51 C.P.R.(3d) 305 (T.D.), at pp. 309-310 [C.P.R.]:
+"The general principle of the court and its process being open to public scrutiny, including access for the public to court documents, is fundamental to our system of justice. Striking a balance between that principle and the interests of justice between the parties, including the bona fide commercial and proprietary interests of parties to litigation has led to the practice in this and other courts of providing by protective or confidentiality orders that information obtained in preparation for trial may, in appropriate cases, be maintained in confidence, not accessible to the general public, in the court's processes ..."
+In the circumstances that were before Mr. Justice MacKay, he found three considerations that favoured granting a broad protective order that included "for counsel's eyes only" protection for certain information within its framework. These considerations are relevant to the present case, and aid this court in deciding whether the respondents' situation warrants an unusual restrictive order.
+[16]
+The three considerations that MacKay, J., took into account, and which subsequently were applied by Gibson, J., of this court in
+Zeneca Pharma Inc. v. Minister of National Health and Welfare
+((hereinafter
+Zeneca
+), pp. 6-7) were: 1) the existence of a similar order granted upon consent in parallel litigation elsewhere; 2) authority for a party to object to a designation of confidentiality and for the court to ultimately "declassify" in appropriate circumstances; and 3) the practice of this court in issuing protective orders where a party believes in good faith that its commercial business or scientific interests associated with trade secrets may be seriously harmed by disclosure that is open to public access.
+[17]
+Even though a limited number of outside experts may have access to the confidential information, the respondents are requesting, essentially, a "counsel's eyes only" protective order with respect to the applicants. This court must decide whether the respondents have discharged the onus of establishing that the circumstances of their case are unusual enough to warrant the more restrictive order.
+[18]
+Just as Gibson, J., did in
+Zeneca
+(supra), I will apply the considerations enunciated by Mr. Justice MacKay to the circumstances before me in the reverse order from that in which they are enunciated.
+[19]
+With respect to the third consideration, this court will issue a protective order where a party believes in good faith that its commercial business or scientific interests associated with trade secrets may be seriously harmed by disclosure that is open to public access. However, no evidence was adduced before me that satisfies me that the applicants' in-house expert, Dr. Crawford, is somehow untrustworthy when it comes to abiding by the terms of a usual confidentiality order. There is no question as to the trustworthiness of Dr. Crawford regarding matters subject to confidentiality orders. The respondents do not dispute Dr. Crawford's trustworthiness. In addition, Dr. Crawford has also given expert testimony in Court Files No. T-1352-93, T-1739-95, and T-1740-95, and he has gone by the terms of the confidentiality orders in those cases. While those cases did not involve these respondents, the subject matter of the cases was the same: the drug, fluconazole.
+[20]
+In addition, no evidence was adduced before me that satisfies me that the information that might be produced under a confidentiality order such as is sought by the respondents is in some way of a higher order of confidentiality than is usual. In fact, this information is the subject matter of a patent application before this court. This information must be disclosed in a patent specification. I agree with Gibson, J., as quoted in
+Zeneca
+:
+"... In litigation involving highly technical or scientific information, information made available to counsel by virtue of a court order will often be of little or no use if counsel cannot consult with her or his client with respect to the information. In such circumstances, the court order would be effectively frustrated. This court should not lightly contribute to such a result." (p. 7)
+In my opinion, the respondents' commercial business or scientific interests will not seriously be harmed if Dr. Crawford, whose trustworthiness has never been at issue, has access, in the usual way, to information subject to the confidentiality order. Furthermore, this kind of access is essential to the applicants' preparation of their case.
+[21]
+With respect to the second consideration, authority for a party to object to a designation of confidentiality and for the court ultimately to "declassify" in appropriate circumstances is provided in paragraph 9 of the confidentiality order. However, although this paragraph does provide for some flexibility, it is by no means sufficient to provide the applicants with the access to the confidential information that their in-house expert needs. It would be inefficient for the applicants to have to apply to this court again in order to have their in-house expert have the usual access to the confidential information.
+[22]
+Concerning the first consideration identified by MacKay, J., no parallel litigation involving a more restrictive confidentiality order has been cited to me. However, it is significant to note that Dr. Crawford has already, in the past, gone by the terms of confidentiality orders in with respect to several cases involving fluconazole.
+[23]
+Does this case involve unusual facts which would justify an unusual Order? The respondents submit that the case is truly unusual, because it involves a third party supplier who has control of the details of the ICS process. However, I do not believe that such facts are unusual enough to warrant a more restrictive confidentiality order. The details of the ICS process are disclosed in the Detailed Statement. In other words, the details are available. In addition, the applicants have adduced evidence of several confidentiality orders which have involved third party suppliers. These third parties have been the suppliers of the drug that is the subject matter of this case: fluconazole. Finally, Dr. Crawford has given evidence and is bound by these confidentiality orders. I have no evidence before me that this is anything other than a run-of-the-mill proceeding.
+[24]
+Dr. Crawford has provided expert evidence in the form of an affidavit regarding the ICS process for the applicants. This affidavit was prepared on the basis of information on the ICS process provided to the applicants by the respondents. Dr. Crawford will be cross-examinable on the evidence in his affidavit. Subsequent to the filing of this affidavit, the respondents filed their own expert evidence regarding the ICS process. This evidence contained details about the process which had not been made available to Dr. Crawford.
+Conclusion
+[25]
+The onus on the respondents to prove that a more restrictive confidentiality order is warranted in such cases is a heavy one. FRAGMENT_SUPPRESSED
+This court does not easily grant such a restrictive confidentiality order as is being requested by the respondents.
+[26]
+In my opinion, a request to deny the applicants' in-house expert access to confidential information at the centre of the case is self-serving. The respondents, in order to prepare their case, have access to the ICS process, and knowledge of the ICS process. The applicants have to prepare an adequate defence to the respondents' case. The respondents allege that the applicants do not need the information on the ICS process to which only the respondents are privy. However, if the respondents need this information in order to sue or to protect, then, surely, the opposite situation exists that the applicants need this information in order to be able to defend against the knowledge that the respondents already have.
+[27]
+The details of the ICS process that are being sought to be withheld from the applicants are set out in the Detailed Statement submitted by the respondents on August 13, 1996. This is a document of crucial significance which has to be served on the applicants to allow them to present their proper case. It follows that the information contained within this document ought to be available, at a minimum, to the applicants' in-house expert
+who has already commented on the evidence
+, in order that the applicants may present their proper case.
+[28]
+The only difference in the confidentiality orders being sought by the two parties is with respect to subparagraph "C" of paragraph three, in which the applicants are seeking to have disclosure available to all of its employees and necessary support staff, whereas the defendants would like that paragraph to be excluded and to restrict disclosure to only outside experts, counsel, and the court. In the alternative, the defendants would like to have access to confidentiality information restricted to Dr. Crawford alone insofar as the access must be made available to inside experts. The applicants' alternative position is to have the access restricted to five of its employees.
+[29]
+Upon hearing counsel for the applicants and the respondents, and on the basis of the evidence before me, I will make an order for a confidentiality order that shall be in keeping with the draft order attached as Schedule "A" to the Notice of Motion dated September 13, 1996, save and except for clause 3(c), which shall be deleted and the following substituted:
+"(c) Dr. Crawford and two assistants chosen by him."
+[30
+]
+Costs shall be in the cause.
+Application allowed.
+Editor: Jana A. Andersen/gs
+[End of document]

@@ -1,0 +1,161 @@
+[1]
+Blais, J.
+: In the context of the hearing on the reasonableness of the security certificate signed by the Ministers and referred to the Federal Court under s. 77(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (
+IRPA
+), FRAGMENT_SUPPRESSED
+[2]
+As this Court has stated before FRAGMENT_SUPPRESSED, the test for reasonable apprehension of bias comes from
+Committee for Justice and Liberty Foundation v. National Energy Board et al.
+, [1978] 1 S.C.R. 369; 9 N.R. 115, at 394:
+"(...) In the words of the Court of Appeal, that test is what would an informed person, viewing the matter realistically and practically - and having thought the matter through - conclude. Would he think that it is more likely than not that the [decision-maker] whether consciously or unconsciously, would not decide fairly."
+[3]
+There are key words in this passage which I wish to emphasize: ...
+an informed person, viewing the matter realistically and practically - and having thought the matter through
+... . Mr. Zündel brings up a number of examples drawn from the transcript to show my alleged bias. No context is given, no clear explanation is furnished - in other words, he is asking an
+uninformed
+person to stand in and determine whether there is bias.
+[4]
+There is another issue which must be addressed before turning to the content of the motion. It has been well established that reasonable apprehension of bias must be raised at the first opportunity (see both decisions on this matter cited above). Mr. Zündel cannot now raise issues that should have been dealt with in either of the first two decisions.
+[5]
+The first ground for reasonable apprehension of bias is the way I dealt with Mr. Christie, who was a witness for Mr. Zündel. The motion states: "Mr. Justice Blais made very strong negative comments ... about the alleged lack of value of Mr. Christie's evidence ...". The text of the motion then refers to comments made when Mr. Christie was testifying on the relationship between Mr. Zündel and Mr. Tom Metzger.
+The context
+[6]
+Mr. Christie was announced as a witness on July 22nd, 2004, five days before the hearing resumed. The Court was told, upon resuming on July 27th, that Mr. Christie would be testifying on that day, and that day only, and that he would not be available before September. Up to July 22nd, 2004, Mr. Christie had been Solicitor of Record for Mr. Zündel. He was removed as Solicitor of Record on the 23rd.
+[7]
+The Court was taken by surprise, to say the least. The Court was also very much concerned that having a former counsel testify would create a host of problems. This was quickly confirmed by the debate that occurred between the learned lawyers as to the applicability of solicitor-client privilege in such a context. Mr. Zündel's counsel asserted that solicitor-client privilege was not in the least disturbed. Counsel for the Ministers argued that on the contrary, solicitor-client privilege had been entirely waived and any question could be asked of Mr. Christie. Both sides had authorities and doctrine to support their respective contentions.
+[8]
+This is the background to the quotes taken from the transcript that Mr. Zündel invokes to illustrate 1) a sarcastic tone on the part of the judge, and 2) an erroneous finding of fact when I state that Mr. Christie testified he had not discussed Mr. Metzger with Mr. Zündel, when in fact he testified that he had.
+[9]
+There is no sarcasm when the judge wants everything to be very clear for everyone, including himself. Mr. Christie testified that Mr. Zündel had told him about his views on Mr. Metzger. He was asked whether this was in the context of solicitor-client discussions, to which Mr. Christie answered: "No. Mr. Zündel had no legal matters that involved Mr. Metzger, to my knowledge". It is alleged that at that moment, I interrupted, made an erroneous finding of fact and sought to have Mr. Christie violate solicitor-client privilege.
+[10]
+Mr. Christie's answer was completely puzzling to me, and this is why I interjected and sought clarification. Mr. Zündel is before this Court because the Ministers have issued a certificate of inadmissibility. Evidence in this proceeding is partly confidential, and cannot be disclosed for security reasons. I authorized a summary of this evidence which could be disclosed, as the
+Act
+provides, so that he may have an idea of the evidence held against him. Mr. Metzger is clearly mentioned in this summary. For the first eight months or so of these proceedings, Mr. Christie was Mr. Zündel's lawyer. I cannot accept that he would not have discussed with his client the content of the summary, including Mr. Metzger. Perhaps I am wrong, perhaps Mr. Metzger was not discussed in a legal context. Even so, Mr. Christie's statement, that Mr. Zündel had no legal matters that involved Mr. Metzger, is patently wrong. Mr. Zündel does have a legal matter which involves Mr. Metzger: the summary of evidence. This is public evidence for the certificate under which Mr. Zündel is held, and clearly mentions Mr. Metzger's name.
+[11]
+All of this serves to illustrate the difficulty posed by having a former counsel testify. Any comment or intervention on my part has nothing to do with Mr. Christie himself, or his worth as a witness. Rather, my concern is the difficulty which arises for Mr. Christie; he can freely testify to some conversations, but not to others. He can truthfully say, no doubt, that he had general conversations about Mr. Metzger with Mr. Zündel. However, he suggests that when solicitor-client privilege applies, he cannot say anything about conversations concerning Mr. Metzger. I have the utmost respect for the principle of solicitor-client privilege, and it certainly is not my intention to have Mr. Christie renege on his duties as a lawyer.
+[12]
+Given the strong opposite views of the parties on this issue, I anticipated that the problem would emerge when we started the cross-examination of Mr. Christie. In fact, I made a final ruling on the applicability of the solicitor-client privilege on August 30th when we started the cross-examination.
+[13]
+I conclude that on that point, an informed person would understand the difficulty of trying to understand what exactly Mr. Christie is saying about Mr. Metzger.
+[14]
+As the Supreme Court of Canada has held, the analysis of the facts has to be put in context (
+R. v. R.D.S.
+, [1997] 3 S.C.R. 484; 218 N.R. 1; 161 N.S.R.(2d) 241; 477 A.P.R. 241, at paragraph 48):
+"We conclude that the reasonable person contemplated by de Grandpré, J., and endorsed by Canadian courts is a person who approaches the question of whether there exists a reasonable apprehension of bias with a complex and
+contextualized
+understanding of the issues in the case. The reasonable person understands the impossibility of judicial neutrality, but demands judicial impartiality. The reasonable person is cognizant of the racial dynamics in the local community, and, as a member of the Canadian community, is supportive of the principles of equality." (Emphasis added)
+[15]
+The second ground is general and simply states that "Mr. Justice Blais' general conduct throughout this hearing ... has also given rise to a reasonable apprehension of bias". Without more, this warrants no further comment.
+[16]
+The third ground is actions in respect to this recusal motion. The Crown argued that having less than two days to respond to a lengthy and detailed motion would be unfair; I agreed. I then set a time line for filing the response. Mr. Zündel thinks it is too generous for the Crown, in contrast with constantly pressing Mr. Zündel for time.
+[17]
+Throughout this lengthy hearing, I have been fair, allowing counsel for Mr. Zündel considerable latitude in calling witnesses at the last minute during the examination of Mr. Zündel himself (at least three times), and extending time lines to accommodate witnesses. Perhaps a fair and informed observer would wonder about a third motion for recusal as being the best use of time, especially when it brings up, as we shall see further, matters that should have been raised much earlier if they were of a genuine concern. I am reproached for not having rebuked the Crown for suggesting that Mr. Christie come back to Toronto the very day of his wife's surgery. I sit as a judge, not as a parent. I did not for a minute entertain the idea of having Mr. Christie come back. It is not my job to tell the Crown to be more sensitive.
+[18]
+When a motion for recusal is raised at the beginning of a proceeding, I agree that it would be the generally accepted practice to decide upon it before continuing the proceeding, subject to various contingencies. That being said, it has been over a year (in fact 16 months) since this proceeding has started. I have already dealt with two motions for recusal. In the first one, it should be noted, counsel for Mr. Zündel suggested that we should continue the proceeding, which we did. I thought it in the best interest to have the issue laid to rest, and for this reason, I allowed time for responses and oral pleadings. That being said, I made the decision to continue despite this motion. There is no rule or law which prohibits this, and I think a reasonable and informed person would understand the rationale for wanting to continue a process where common dates are hard to find.
+[19]
+The fourth ground is the fact that the detention order apparently already signals what my final decision will be on the certificate.
+[20]
+On January 21, 2004, I held at paragraph 14 of my decision:
+"Before giving my reasons, I wish to state that the issue of the reasonableness of the certificate still has to be ruled upon, and that the instant decision does not decide the matter. For the time being, I wish to be prudent, and sufficient information has been shown to me to support the idea that the Ministers 'have reasonable grounds to believe that the permanent resident is a danger to national security'. The determination as to whether the certificate is reasonable will be for another day."
+[21]
+I cannot see this as meaning that there is a reasonable apprehension of bias. This is the structure of the
+Act
+under which we are operating. Within the process, there must be a review of the detention every six months. Given the evidence I had when I made the decision on the detention, I believed the detention should be maintained. The process is not finished; my decision on the certificate has yet to be made.
+[22]
+The test that applies on the review of the detention is not the same as that for the review of the certificate. In reviewing the detention, the Court has to examine whether the Ministers have provided evidence that there are reasonable grounds to believe that the person is a danger to national security or to the safety of any person.
+[23]
+In reviewing the certificate, the designated judge shall determine, on the basis of the information and evidence available, whether the certificate is reasonable and whether the decision on the application for protection, if any, is lawfully made (s. 80(1) of the
+Act
+).
+[24]
+The fifth ground is that the Crown has been given greater latitude in presenting its evidence. A great deal of the Crown evidence is hearsay. Most of the evidence presented in this regard goes back to May 2003. If it was of such concern to the defence, then it should have been raised well before this point in time. That being said, hearsay evidence, although admissible pursuant to s. 78 of the
+Act
+, is always deemed as less reliable, because untested.
+[25]
+The sixth ground, conversely, is to the effect that Mr. Zündel has been severely limited in the evidence he has been allowed to present. As I stated earlier, hearsay evidence is given less weight. When I asked for documents to prove one of Mr. Zündel's allegations, I was looking for the "best evidence". Mr. Zündel seems to imply that I believe hearsay evidence when it comes from the Crown, and disbelieve it when it comes from him. Hearsay evidence is not the best evidence, and is weighed accordingly.
+[26]
+The motion states that I destroyed an entire line of questioning by repeatedly interrupting the cross-examination, "insisting erroneously that Mr. Zündel's counsel did not read out the entire paragraph to the witness". I quote from the transcript:
+"MR. LINDSAY:
+Q. Are you prepared to accept the following on behalf of CSIS: that there was an investigation by CSIS starting in 1985 for five years that documented the violence and petty criminal activity of skinheads and others, but concluded that in that five-year period there was nothing that could be construed as a threat to the security of Canada?
+MR. MacINTOSH: I object to that. That question does not take into consideration the qualifier that appears after the quote in that paragraph that we have been discussing extensively for the last 10 minutes.
+THE COURT: I think the witness is aware of the two sentences, and he can address it in respect of the classified information. I think I will allow the question.
+THE WITNESS: My answer with respect to that sentence being an unclassified representation of a submission which was presented to the Targeting Approval and Review Committee, in the sense of being accurate, I would say that it is accurate although somewhat out of context because I am aware that there was additional information that was provided to the committee. That sentence in isolation is accurate as far as it goes.
+MR. LINDSAY:
+Q. Let me follow up with this. Is it accurate with respect to there being nothing that could be construed a threat to the security of Canada in the extreme right in that time frame?
+A. It doesn't say that. It talks about violence and petty criminal activity by skinheads. This document is referring to violence and petty criminal activity by skinheads. It does talk about the extreme right and others, that is correct. What I am saying is that that is a very limited perspective of violence and petty criminal activity by skinheads and others."
+[27]
+Mr. Zündel questions at length any and all rulings I may have made in the course of the hearing. He refers to a particularly difficult situation, where we had a witness from CSIS. Considerations of national security applied, both under the
+IRPA
+and the
+Canadian Security Intelligence Service Act
+. I ruled out of order questions that were addressed to classified material, and also questions addressed to the unclassified material; in the latter case because the evidence was before the Court. It was not up to the witness to start delving into it:
+"MR. LINDSAY: I will do a bunch of questions, and you can disallow them all, sir. I don't think we even need the witness here, but I will ask them. My friend can object, and I assume you will uphold the objection.
+The next question is: Looking only at the unclassified material, does CSIS have any evidence at all that Mr. Zündel ever helped anyone in any way to commit or plan to commit any act of violence anywhere?
+Is there an objection or no objection?
+THE COURT: The problem is basic. You have the evidence before him. You don't have to ask the witness, 'Could you find somewhere in the evidence something?' It is up to you to take the evidence and say, 'Look at this,' and then ask a question of the witness, and that's it. This is the way it used to be done. Maybe I am lost, but that is the way we usually do it -- not asking a general question because you will get the same answer. Obviously, the objection will be upheld."
+[28]
+Regarding the appropriateness of the intervention of a judge during a hearing, Chief Justice Lamer, as he then was, of the Supreme of Canada in
+R. v. Brouillard
+, [1985] 1 S.C.R. 39; 57 N.R. 168, held at paragraph 17:
+"First of all, it is clear that judges are no longer required to be as passive as they once were; to be what I call sphinx judges. We now not only accept that a judge may intervene in the adversarial debate, but also believe that it is sometimes essential for him to do so for justice in fact to be done. Thus a judge may and sometimes must ask witnesses questions, interrupt them in their testimony and if necessary call them to order."
+Later, at paragraph 18, Chief Justice Lamer, as he then was, is quoting Lord Denning:
+"Lord Denning stated the following at pp. 158-159:
+'No one can doubt that the judge, in intervening as he did, was actuated by the best motives. He was anxious to understand the details of this complicated case, and asked questions to get them clear in his mind. He was anxious that the witnesses should not be harassed unduly in cross-examination, and intervened to protect them when he thought necessary. He was anxious to investigate all the various criticisms that had been made against the board, and to see whether they were well founded or not. Hence he took them up himself with the witnesses from time to time. He was anxious that the case should not be dragged on too long, and intimated clearly when he thought that a point had been sufficiently explored. All those are worthy motives on which judges daily intervene in the conduct of cases and have done for centuries.'"
+Finally, at paragraph 20, Chief Justice Lamer, as he then was, quoted:
+"Another illustration of the precept is to be found in the remarks of Lord Greene, M.R., in
+Yuill v. Yuill
+, [1945] 1 All E.R. 183 (C.A.), at p. 185:
+'It is, of course, always proper for a judge - and it is his duty - to put questions with a view to elucidating an obscure answer or when he thinks that the witness has misunderstood a question put to him by counsel. If there are matters which the judge considers have not been sufficiently cleared up or questions which he himself thinks ought to have been put, he can, of course, take steps to see that the deficiency is made good.'"
+[29]
+As to the treatment of witnesses, I strive at all times to be courteous. As mentioned, I have given considerable latitude to Mr. Zündel by allowing last minute witnesses, and by changing schedules to accommodate witnesses or a change of plans. I have the deepest sympathy for Mr. Christie, and wish his wife well. I questioned the wisdom of starting an examination which would necessarily be interrupted, since Mr. Christie would not be available in August.
+[30]
+Counsel for the Ministers also raised the principle of impartiality. This issue was discussed by the Supreme Court of Canada in
+Wewaykum Indian Band v. Canada and Wewayakai Indian Band
+[2003], 2 S.C.R. 259; 309 N.R. 201; 231 D.L.R.(4th) 1; 2003 SCC 45; [2003] S.C.J. No. 50, where the Court held at paragraph 59:
+"'[i]mpartiality is the fundamental qualification of a judge and the core attribute of the judiciary' (Canadian Judicial Council,
+Ethical Principles for Judges
+(1998), at p. 30). It is the key to our judicial process, and
+must be presumed
+. As was noted by L'Heureux-Dubé, J. and McLachlin, J. (as she then was), in
+S(R.D.)
+, supra at paras. 32, the presumption of impartiality carries considerable weight, and the law should not carelessly evoke the possibility of bias in a judge, whose authority depends upon that presumption. Thus, while the requirement of judicial impartiality is a stringent one, the burden is on the party arguing for disqualification to establish that the circumstances justify a finding that the judge must be disqualified." (Emphasis added)
+[31]
+Also, in
+R. v. R.D.S.
+, [1997] 3 S.C.R. 484; 218 N.R. 1; 161 N.S.R.(2d) 241; 477 A.P.R. 241, page 11, paragraph 32, the Supreme Court held:
+"... The presumption of impartiality carries considerable weight, for as Blackstone opined at. p. 361 in
+Commentaries on the Laws of England
+, Book III, cited at footnote 49 in Richard F. Devlin,
+We Can't Go On Together with Suspicious Minds: Judicial Bias and Racialized Perspective in R. v. R.D.S.
+(1995), 18 Dalhousie, L.J., 408, at p. 417, 'the law will not suppose a possibility of bias or favour in a judge, who is already sworn to administer impartial justice, and whose authority greatly depends upon that presumption and idea'."
+[32]
+This comment by the Supreme Court of Canada on the principle of impartiality leads to another element that must be considered: Does the allegation of a reasonable apprehension of bias rest on serious grounds? In
+Wewaykum Indian Band v. Canada
+, supra, paragraph 76, the Supreme Court held:
+"First, it is worth repeating that the standard refers to an apprehension of bias that rests on serious grounds, in light of the strong presumption of judicial impartiality. In this respect, de Grandpré, J., added these words to the now classical expression of the reasonable apprehension standard:
+'The grounds for this apprehension must, however, be substantial, and I ... refus[e] to accept the suggestion that the test be related to the "very sensitive or scrupulous conscience".'"
+(
+Committee for Justice and Liberty v. National Energy Board
+, supra, at p. 395)
+[33]
+In fact, reviewing the material, I see no serious grounds to support the allegation of a reasonable apprehension of bias.
+[34]
+At the beginning of the hearing of the oral submissions, I had to reject the proposed reply because it was based on facts that happened after the motion was filed. Counsel for Mr. Zündel suggested that all facts and rulings by the Court, even those occurring after the filing of the motion, should be addressed if they raised a reasonable apprehension of bias.
+[35]
+Over and above the simple procedural question, it raises a more pernicious element. Suggesting that all rulings not in favour of his client should be seen as raising a reasonable apprehension of bias, could be perceived as a form of intimidation; a kind of subtle suggestion that "If you don't rule in my favour, you have a bias!".
+[36]
+A motion for recusal is a very serious matter, given the presumption of integrity and impartiality of the judge, and also the necessity of serious grounds for such a motion. It should not be trivialized and raised immediately following a ruling in favour of your opponent. Neither should such a motion for recusal continuously loom in the background as a tool of leverage, coercing the judge to rule in your favour, for fear of a motion for recusal. It is, in that sense, very insidious and could create an untenable position for the judge.
+[37]
+I believe a careful reading of the transcript would not lead an informed, reasonable and independent observer to the conclusion that I may be biased. It might lead to the conclusion that this is a very difficult proceeding indeed, in uncharted waters, where all, including counsel for Mr. Zündel, struggle to do their best with evidentiary rules that are not those we are accustomed to.
+[38]
+Counsel for the Ministers has suggested that given the absence of serious grounds for this third motion for recusal, the Court should allow costs in favour of the Ministers; I agree.
+ORDER
+[39]
+THIS COURT ORDERS that:
+- This motion for recusal is dismissed.
+- With costs in favour of the Ministers.
+Motion dismissed.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

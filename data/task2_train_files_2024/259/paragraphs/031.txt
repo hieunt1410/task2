@@ -1,0 +1,25 @@
+[31]
+The last of the changes to affect section 8 came about in 2006 (SOR/2006-242). Section 8 was amended as follows:
+"
+5(1) Paragraph 8(1)(a) of the Regulation is replaced by the following
+(a) beginning on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of the Regulations, unless the court concludes that
+(i) the certified date was, by the operation of An Act to amend the Patent Act and the Food and Drugs Act (The Jean Chrétien Pledge to Africa), chapter 23 of the Statues of Canada, 2004, earlier than it would otherwise have been and therefore a date later than the certified date is more appropriate, or
+(ii) a date other than the certified date is more appropriate and
+"
+5(2) Subsection 8(4) of the Regulations is replaced by the following:
+(4) If a court orders a first person to compensate a second person under subsection (1), the court may, in respect of any loss referred to in that subsection, make any order for relief by way of damages that the circumstances require.
+"
+5(3) Section 8 of the Regulations is amended by adding the following after subsection (5)
+:
+(6) The Minister is not liable for damages under this section."
+"
+5(1) L'alinéa 8(1)a) du même règlement est remplacé par ce qui suit:
+(a) débutant à la date attestée par le ministre, à laquelle un avis de conformité aurait été délivré en l'absence du présent règlement, sauf si le tribunal conclut:
+(i) soit que la date attestée est devancée en raison de l'application de la Loi modifiant la Loi sur les brevets et la Loi sur les aliments et drogues (engagement de Jean Chrétien envers l'Afrique), chapitre 23 des Lois du Canada (2004), et qu'en conséquence une date postérieure à celle-ci est plus appropriée,
+(ii) soit qu'une date autre que la date attestée est plus appropriée;
+"
+5(2) Le paragraphe 8(4) du même règlement est remplacé par ce qui suit:
+(4) Lorsque le tribunal enjoint à la première personne de verser à la seconde personne une indemnité pour la perte visée au paragraphe (1), il peut rendre l'ordonnance qu'il juge indiquée pour accorder réparation par recouvrement de dommages-intérêts à l'égard de cette perte.
+"
+5(3) L'article 8 du même règlement est modifié par adjonction, après le paragraphe (5), de ce qui suit:
+(6) Le ministre ne peut être tenu pour responsable des dommages-intérêts au titre du présent article."

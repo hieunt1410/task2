@@ -1,0 +1,341 @@
+[1]
+Mactavish, J.
+: The central question in this application is whether the time spent by Karamuddin Sherzad in pre-trial detention should have been considered by the Immigration Appeal Division of the Immigration and Refugee Board in determining whether his right to appeal a deportation order had been extinguished by operation of section 64 of the
+Immigration and Refugee Protection Act
+("
+IRPA
+").
+[2]
+Mr. Sherzad also argues that the IAD erred in failing to consider the period that he actually spent in prison after being sentenced, for the purposes of section 64(2) of
+IRPA
+, and further erred in admitting evidence filed by the respondent after the conclusion of his appeal hearing.
+Background
+[3]
+Mr. Sherzad is a citizen of Afghanistan. He is also a permanent resident in Canada, having been found to be a Convention refugee.
+[4]
+Mr. Sherzad was convicted of several minor criminal offences in 1998, 1999 and 2001. He was not sentenced to any time in prison in relation to any of these offences.
+[5]
+In January of 2002, Mr. Sherzad pled guilty to assault causing bodily harm and aggravated assault. These charges arose out of assaults on his wife and mother-in-law. Mr. Sherzad also pled guilty to one charge of failing to comply with the terms of a recognizance. As a result of his conviction on these charges, Mr. Sherzad was sentenced to a period of detention.
+[6]
+A report was then prepared alleging that Mr. Sherzad was inadmissible to Canada under section 27(1)(d) of the former
+Immigration Act
+, and a deportation order was subsequently issued against him. Mr. Sherzad then appealed the deportation order to the IAD.
+[7]
+Mr. Sherzad's hearing before the IAD took place in March of 2004, following which the presiding member reserved her decision. Before the IAD rendered its decision, however, counsel for the Minister produced a copy of the reasons for sentence of the judge presiding over Mr. Sherzad's 2002 criminal proceedings, submitting that, pursuant to section 64 of
+IRPA
+, the IAD had no jurisdiction to hear Mr. Sherzad's appeal.
+[8]
+After receiving submissions from Mr. Sherzad, the IAD discontinued his appeal, finding that he had indeed committed a crime for which he had been punished by a term of imprisonment of more than two years.
+[9]
+Mr. Sherzad now seeks judicial review of the IAD's decision, asserting that the Board erred in admitting post-hearing evidence, that is, the reasons for sentence of Mr. Sherzad's sentencing judge, given that no explanation was provided as to why the reasons were not submitted during the hearing.
+[10]
+Mr. Sherzad further submits that the IAD erred in considering the period that he spent in pre-trial detention as "punishment" for the purposes of subsection 64(2) of
+IRPA
+.
+[11]
+Finally, Mr. Sherzad submits that the IAD erred in failing to consider the period of time that he actually spent in jail following his sentencing in determining whether he came within the provisions of subsection 64(2).
+The Trial Judge's Reasons for Sentence
+[12]
+Justice Marin of the Ontario Court of Justice passed sentence on Mr. Sherzad, apparently based upon a joint submission by counsel. The operative portion of Justice Marin's reasons for sentence provides:
+"... I have considered that you've served a hundred and ninety five days in pretrial custody which treated on a principle of roughly two for one, is something a little over a year. I concur with both counsel that for an offender such as you with your antecedents committing these offenses, serious as they are, a further period of custody is necessary. I also concur with the range or term that is proposed by both experienced counsel. In my view, the joint submission is a proper one, that addresses all of the relevant principles of sentencing. I would ask that Madam Clerk note on the information one hundred and ninety five days pretrial custody. The disposition of this court will be a further fourteen months in jail. That should be on the charge of aggravated assault, concurrent on the charge of assault causing bodily harm and the charge of failing to comply with the terms of his bail."
+[13]
+The Warrant for Committal indicates that Mr. Sherzad was imprisoned for a term of "Fourteen (14) months jail: (hundred and ninety five (195) days in pre trial custody) Probation three (3) years."
+Issues
+[14]
+Mr. Sherzad raises three issues on this application. They are:
+1. Whether the IAD erred in admitting post-hearing evidence relating to its jurisdiction;
+2. Whether the IAD erred in considering his pre-sentence detention as "punishment" for the purposes of subsection 64(2) of
+IRPA
+; and
+3. Whether the IAD erred in failing to consider the period of time that Mr. Sherzad actually spent in jail following his sentencing in determining whether he came within the provisions of subsection 64(2) of
+IRPA
+.
+Standard of Review
+[15]
+The first issue raised by Mr. Sherzad relates to the decision of the IAD to admit the reasons of the sentencing judge into evidence after the conclusion of the hearing of his appeal. The parties are in agreement that this is a discretionary decision, and as such is entitled to receive significant deference. Discretionary decisions should not be set aside unless the decision was made without regard to the relevant evidence, relied upon irrelevant evidence and extraneous considerations, or involved a breach of procedural fairness.
+[16]
+One aspect of Mr. Sherzad's argument in relation to the first issue relates to a question of procedural fairness. That is, Mr. Sherzad argues that in the event that the IAD was prepared to exercise its discretion, and admit the reasons of Justice Marin, it had a positive obligation to re-open his appeal, in order to allow him to call further evidence.
+[17]
+Questions of procedural fairness are reviewed against a standard of correctness:
+Canadian Union of Public Employees et al. v. Ontario (Minister of Labour)
+, [2003] 1 S.C.R. 539; 304 N.R. 76; 173 O.A.C. 386, at para. 100.
+[18]
+Mr. Sherzad's second and third issues largely involve questions as to the proper interpretation of subsection 64(2) of
+IRPA
+. On these points, the standard of review is one of correctness.
+[19]
+It should be noted that the question of whether Justice Marin explicitly credited Mr. Sherzad with the time that he spent in pre-trial detention in determining an appropriate sentence for him is essentially a question of fact. I note, however, that in making its factual finding, the IAD was not relying upon the viva voce testimony of witnesses, but was instead drawing conclusions from documentary evidence, which evidence is now before this Court.
+[20]
+As a result, the Court is in as good a position to determine what went on at Mr. Sherzad's sentencing hearing as was the IAD. It is not necessary, however, to make a specific finding as to the consequences that this may have for the standard of review, as I am satisfied that the factual findings of the IAD in this regard were correct.
+Relevant Statutory Provisions
+[21]
+In order to address the issues raised by Mr. Sherzad, it is necessary to have regard to subsections 64(1) and (2) of
+IRPA
+, which provide:
+"64(1) No appeal may be made to the Immigration Appeal Division by a foreign national or their sponsor or by a permanent resident if the foreign national or permanent resident has been found to be inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality.
+"64(2) For the purpose of subsection (1), serious criminality must be with respect to a crime that was punished in Canada by a term of imprisonment of at least two years."
+"64(1) L'appel ne peut être interjeté par le résident permanent ou l'étranger qui est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée, ni par dans le cas de l'étranger, son répondant.
+"64(2) L'interdiction de territoire pour grande criminalité vise l'infraction punie au Canada par un emprisonnement d'au moins deux ans."
+[22]
+Also of relevance are portions of section 719 of the
+Criminal Code
+, which provide that:
+"719(1) A sentence commences when it is imposed, except where a relevant enactment otherwise provides ...
+"(3) In determining the sentence to be imposed on a person convicted of an offence, a court may take into account any time spent in custody by the person as a result of the offence ..."
+"719(1) La peine commence au moment où elle est infligée, sauf lorsque le texte législatif applicable y pourvoit de façon différente ...
+"(3) Pour fixer la peine à infliger à une personne déclarée coupable d'une infraction, le tribunal peut prendre en compte toute période que la personne a passée sous garde par suite de l'infraction ..."
+[23]
+With this understanding of the relevant legislative provisions, I turn now to consider the issues raised by Mr. Sherzad.
+Did the IAD Err in Admitting Post-hearing Evidence Relating to its Jurisdiction?
+[24]
+Mr. Sherzad's appeal of his removal order was heard by the IAD on March 9, 2004. No question as to the IAD's jurisdiction was raised by the Minister at that time, and the merits of Mr. Sherzad's appeal were fully argued. The IAD then reserved its decision.
+[25]
+Prior to the IAD rendering its decision, counsel for the Minister forwarded a copy of Justice Marin's 2002 reasons for sentence to the IAD and to Mr. Sherzad's counsel under cover of a letter dated April 5, 2004. Counsel for the Minister submitted that it was clear from the reasons of the sentencing judge that the punishment imposed upon Mr. Sherzad exceeded two years imprisonment, and that, as a result, the IAD was without jurisdiction to deal with Mr. Sherzad's appeal.
+[26]
+Mr. Sherzad was then afforded an opportunity to respond. He took the position that the IAD had assumed jurisdiction in relation to his appeal, and that, having done so, it was functus with respect to the question of its jurisdiction.
+[27]
+The IAD ruled that it would accept the new evidence proffered by the Minister, as it went to the question of its own jurisdiction, noting that it could not make a decision in the absence of jurisdiction. According to the IAD, it was not functus, holding that it could lose jurisdiction any time up to the point at which it rendered a decision. In this regard, the IAD relied upon the decision of the Federal Court of Appeal in
+Tsang v. Canada (Minister of Citizenship and Immigration)
+(1997), 211 N.R. 131 (F.C.A.).
+[28]
+The IAD went on to note that:
+"There is no evidence to show that the respondent was dilatory in obtaining Madam Justice S. Marin's reasons for conviction in the appellant's criminal case to confirm that the punishment total[l]ed more than two years. The reasons were requested by the respondent and, through no apparent fault of the respondent, they were received post hearing."
+[29]
+It is clear that there was no evidentiary foundation for the IAD's finding in this regard. Counsel's letter of April 5, 2004 offers no explanation as to why the reasons were not produced prior to or at the hearing of Mr. Sherzad's appeal. Nevertheless, I am not persuaded that this error, by itself, justifies setting aside the IAD's decision.
+[30]
+A tribunal either has the jurisdiction to deal with a particular dispute, or it does not. Just as jurisdiction cannot be conferred on a tribunal by the consent of the parties, a tribunal cannot give itself jurisdiction, where such jurisdiction would not otherwise exist, by declining to consider evidence that would demonstrate it was without jurisdiction to deal with the matter at hand.
+[31]
+As a consequence, I am not persuaded that the IAD erred in admitting the reasons of the sentencing judge into evidence after the close of Mr. Sherzad's appeal hearing.
+[32]
+I also do not accept Mr. Sherzad's alternative submission that, in the event that the IAD was prepared to exercise its discretion and admit the evidence, it had a positive obligation to re-open his appeal, in order to allow him to call further evidence.
+[33]
+Mr. Sherzad was afforded the opportunity to respond to the new evidence. He took full advantage of that opportunity, filing lengthy submissions in response. At no time did Mr. Sherzad request the opportunity to call additional evidence. It is also noteworthy that Mr. Sherzad's counsel has not identified any additional evidence that could have possibly assisted his client. In the circumstances, I am satisfied that the requirements of procedural fairness have been satisfied.
+Did the IAD Err in Considering Mr. Sherzad's Period of Pre-sentence Detention as "Punishment" for the Purposes of Subsection 64(2) of IRPA?
+[34]
+Mr. Sherzad's second argument is that the IAD erred in considering the time that he spent in pre-trial detention in assessing whether he came within subsection 64(2) of
+IRPA
+.
+[35]
+Mr. Sherzad was sentenced to 14 months of imprisonment in relation to three separate charges, with the sentences to be served concurrently. In passing sentence, the sentencing judge took into account the 195 days that Mr. Sherzad spent in pre-trial detention, crediting him with 390 days, based upon a ratio of 2:1.
+[36]
+There are two aspects to Mr. Sherzad's argument. His first submission is that it is not sufficiently clear from the reasons of the sentencing judge that the time that he spent in pre-trial detention was factored into his sentence. In light of the very serious consequences that a finding that an individual falls within subsection 64(2) has for the person, Mr. Sherzad says, any ambiguity in the reasons of the sentencing judge should be resolved in favour of the individual.
+[37]
+Mr. Sherzad's second submission is that regardless of the reasons of the sentencing judge, pre-trial detention should not properly be considered in determining whether an individual comes within subsection 64(2).
+[38]
+Each of these arguments will be considered in turn
+Did Justice Marin Explicitly Credit Mr. Sherzad with the Time That He Spent in Pre-trial Detention in Determining an Appropriate Sentence for Him?
+[39]
+Mr. Sherzad submits that the reasons of the sentencing judge are somewhat ambiguous, as they relate to the treatment accorded to the time that he spent in pre-trial detention. According to Mr. Sherzad, fairness requires that any ambiguity in this regard should be resolved in his favour.
+[40]
+In support of this contention, Mr. Sherzad points out that the effect of subsection 64(2) is not simply to extinguish an individual's right of appeal to the IAD. By virtue of paragraph 46(1)(c) and section 49 of
+IRPA
+, the coming into effect of a removal order results in the loss of permanent resident status.
+[41]
+I am not persuaded that Justice Marin's reasons were ambiguous. She expressly stated that in passing sentence upon him, she had considered the fact that Mr. Sherzad had spent 195 days in pre-trial custody. She noted that, by applying a 2:1 ratio, this amounted to something just over a year. She then stated that a
+further
+period of custody was required, leading to her decision to impose "a
+further
+fourteen months in jail".
+[42]
+In my view, it is quite clear that Justice Marin expressly credited Mr. Sherzad with the time that he spent in pre-trial detention in determining an appropriate sentence for him.
+[43]
+This leads to Mr. Sherzad's second argument, which is that pre-sentence custody should not be considered to be part of an individual's "term of imprisonment" for the purposes of subsection 64(2) of
+IRPA
+.
+Should Pre-sentence Custody be Considered to be Part of the "Term of Imprisonment" under Section 64(2) of IRPA?
+[44]
+Mr. Sherzad acknowledges that there have been a number of decisions of this Court dealing with the treatment of time served in pre-trial detention (also known as "dead time") as it relates to the two year requirement of subsection 64(2) of
+IRPA
+, and that thus far, the Court has unanimously been of the view that time spent in pre-trial detention forms part of the term of imprisonment for the purposes of subsection 64(2) of
+IRPA
+: See
+Allen v. Minister of Citizenship and Immigration
+(May 5, 2003), IMM-2439-02;
+Canada (Minister of Citizenship and Immigration) v. Atwal
+, [2004] F.C.J. No. 63; 245 F.T.R. 170 (F.C.);
+FRAGMENT_SUPPRESSED
+Canada (Minister of Citizenship and Immigration) v. Gomes
+, [2005] F.C.J. No. 369; 265 F.T.R. 179; 2005 FC 299 and
+Jones v. Canada (Minister of Citizenship and Immigration)
+, [2005] F.T.R. Uned. 422; 2005 FC 667.
+[45]
+The reasoning in these cases is exemplified by the statement of Justice Pinard in
+Atwal
+where he observed that, in enacting subsection 64(2) of
+IRPA
+"Parliament sought to set an objective standard of criminality beyond which a permanent resident loses his or her appeal right, and Parliament can be presumed to have known the reality that time spent in pre-sentence custody is used to compute sentences under s. 719 of the
+Criminal Code
+".
+[46]
+Nevertheless, Mr. Sherzad respectfully submits that these decisions are wrong in law. According to Mr. Sherzad, subsection 64(2) of
+IRPA
+is ambiguous. As a consequence, it is necessary to have recourse to secondary canons of interpretation, including the presumption against interference with vested rights, and the consideration of
+Charter
+values, in interpreting the provision.
+[47]
+In support of his contention that subsection 64(2) is ambiguous, Mr. Sherzad points to the decision of Justice Heneghan in
+Cartwright v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.C.J. No. 1024; 236 F.T.R. 98 (T.D.), where she stated that the wording of the section was "... not immediately clear". He also refers to decisions of the IAD interpreting subsection 64(2) to exclude consideration of dead time in determining whether an individual fell within the provision: see, for example,
+Welcome v. Canada (Minister of Citizenship and Immigration)
+, [2003] I.A.D.D. No. 608 and
+Davis v. Canada (Minister of Citizenship and Immigration)
+, [2003] I.A.D.D. No. 82.
+[48]
+Interpreting subsection 64(2) in light of the aforementioned canons of interpretation leads to the conclusion, Mr. Sherzad says, that Parliament did not intend to deprive individuals of their right of appeal to the IAD in situations such as his.
+[49]
+While I agree with Justice Heneghan that the meaning of subsection 64(2) is not immediately apparent, when the section is interpreted in light of the existing criminal jurisprudence relating to sentencing, the meaning of the section becomes clear. As a result, it is not necessary to resort to secondary canons of interpretation.
+[50]
+Section 64(2) refers to crimes "punished in Canada by [... terms] of imprisonment of at least two years." The issue turns on the meaning of the word "punished". According to Mr. Sherzad, "punishment" means the sentence imposed on the offender, which, in this case was 14 months. In support of this contention, Mr. Sherzad points to the provisions of section 719(1) of the
+Criminal Code
+, which provide that a sentence ordinarily commences when it is imposed.
+[51]
+Thus it is apparent that Mr. Sherzad's submission is predicated upon the assumption that his "punishment" is synonymous with his "sentence".
+[52]
+In my view, this assumption is refuted by the decisions of the Supreme Court of Canada in
+R. v. Wust (L.W.)
+, [2000] 1 S.C.R. 455; 252 N.R. 332; 134 B.C.A.C. 236; 219 W.A.C. 236 and the Ontario Court of Appeal in
+R. v. McDonald (C.)
+(1998), 111 O.A.C. 25; 40 O.R.(3d) 641 (C.A.). Both cases dealt with the constitutionality of mandatory minimum penalties. In each case, the Court drew a distinction between the "punishment" imposed on an individual and that person's "sentence". While noting that a sentence only commences when it is imposed, the Court held that time spent in pre-trial detention could form part of the offender's punishment.
+[53]
+In this regard, Justice Arbour noted in
+Wust
+at pp. 477 to 478 that "... while pre-trial detention is not intended as punishment when it is imposed, it is in effect, deemed part of the punishment following the offender's conviction by the operation of s. 719(3) of the
+Criminal Code
+".
+[54]
+In considering the implications of pre-trial detention for the availability of conditional sentences, the Supreme Court of Canada recently confirmed that the time spent by an offender in pre-trial detention is part of the total punishment imposed on the offender: see
+R. v. Fice (L.)
+(2005), 333 N.R. 243; 198 O.A.C. 146; 2005 SCC 32.
+[55]
+It bears repeating at this juncture that subsection 64(2) of
+IRPA
+is not concerned with the length of the sentence imposed on the offender, but with the punishment. It is clear from the jurisprudence that once a person is convicted of a crime, the time served by that individual in pre-trial detention will be deemed to be part of the offender's punishment.
+[56]
+The Supreme Court of Canada has therefore clearly determined that, in calculating the term of imprisonment imposed on an offender, a sentencing judge is entitled to credit the offender with the time spent by the offender in pre-trial detention. Further, it is clear from both
+Wust
+and
+McDonald
+that, in calculating the credit to which an offender should be entitled, a sentencing judge is entitled to apply a multiplier to the "dead time", in recognition of the more onerous conditions experienced by offenders in remand centres.
+[57]
+Thus, the credit given to an offender for the time served prior to conviction is deemed part of the offender's "punishment". It would, in my view, be inappropriate for an offender to be able to argue in the criminal context that his or her sentence should be reduced in light of the time that the individual spent in pre-trial detention, and then to be able to turn around in the immigration context and say that no consideration should be given to the period spent in pre-trial detention, and that only the period of the sentence should be considered for the purposes of subsection 64(2) of
+IRPA
+.
+[58]
+As Justice Mosley noted in
+Cheddesingh (Jones)
+, such an interpretation would be inconsistent with the teachings in
+Wust
+, and with the Parliamentary intent in enacting section 64 of
+IRPA
+.
+[59]
+Further, to accept Mr. Sherzad's interpretation of subsection 64(2) would lead to an absurd result. By way of example, if an individual charged with an offence were to plead guilty on arrest, and receive a sentence of two years, that individual would have his or her right of appeal to the IAD extinguished by operation of subsection 64(2). Another individual, charged with the same offence in identical circumstances, might choose to go to trial. If convicted, that individual would receive credit for any time spent in pre-trial detention, and have his or her sentence reduced accordingly to something less than two years. In such circumstances, the second offender would still have a right of appeal to the IAD.
+[60]
+Similarly, an offender who spends two years in pre-trial detention, and is then sentenced to 'time served' would, on Mr. Sherzad's interpretation of the provision, have received no 'punishment' for the purposes of subsection 64(2).
+[61]
+Such an interpretation would provide a positive incentive for offenders to use pre-trial delay to circumvent subsection 64(2), which cannot have been Parliament's intent.
+[62]
+In this case, Mr. Sherzad spent 195 days in pre-trial detention. He received a 2:1 credit for his dead time. In other words, in arriving at an appropriate sentence for Mr. Sherzad, Justice Marin credited him with 390 days for the time served prior to his conviction. This is just under 13 months. She then imposed an additional sentence of 14 months.
+[63]
+Thus, while Mr. Sherzad's "sentence" may have been 14 months, his "punishment" was just under 27 months.
+[64]
+I am therefore satisfied that the IAD was correct in concluding that Mr. Sherzad's appeal of the 2004 deportation order was discontinued pursuant to section 64 of
+IRPA
+, on the grounds that he had been involved in serious criminality, having committed a crime for which he was punished by a term of imprisonment of more than two years.
+[65]
+This leaves Mr. Sherzad's final argument, which is that in assessing whether he came within subsection 64(2) of
+IRPA
+, the IAD should have considered the length of the time that Mr. Sherzad actually spent in jail after being sentenced. This issue will be considered next.
+Did the IAD Err in Failing to Consider the Period of Time That Mr. Sherzad Actually Spent in Jail Following His Sentencing in Determining Whether He Came Within the Provisions of Subsection 64(2) of IRPA?
+[66]
+Although Justice Marin sentenced Mr. Sherzad to a term of imprisonment of 14 months, he actually served only nine months in jail prior to being released. In Mr. Sherzad's submission, to be 'punished by a term of imprisonment' means to suffer confinement. This does not happen, he says, unless the person is physically in jail. Given that he was only imprisoned for nine months after being sentenced, he did not fall within subsection 64(2). As a result, Mr. Sherzad says that he should have been allowed to pursue his appeal before the IAD.
+[67]
+Justice Heneghan dealt with this issue in the
+Cartwright
+case previously cited. The issue was also dealt with by Justice Martineau in
+Martin v. Canada (Minister of Citizenship and Immigration)
+(2005), 268 F.T.R. 74 (F.C.). In both cases, the Court concluded that subsection 64(2) must be interpreted as referring length of the sentence imposed by the trial judge, rather than the actual amount of time actually served prior to being granted parole.
+[68]
+As Justice Heneghan noted in
+Cartwright
+:
+"[69] Parole eligibility is governed by Part II of the
+Corrections and Conditional Release Act
+, S.C. 1992, c. 20. Further, there are different types of parole, with varying conditions imposed. If the Applicant's interpretation of section 64(2) is accepted, an offender's 'term of imprisonment', as it is so defined in
+IRPA
+, would be determined by the National Parole Board or provincial parole boards, as the case may be, rather than by the criminal courts upon sentencing.
+"[70] I agree with the Applicant that the length of time actually served is one indicator of the level of rehabilitation of an individual. However, there is no indication that Parliament's intent in enacting section 64(2) was to use such parole determinations as the litmus test for serious criminality.
+"[71] In my opinion, section 64(2) must be interpreted as referring to the term of imprisonment for which an offender was sentenced, that is, the punishment imposed, rather than the actual amount of time served prior to being granted parole."
+[69]
+In this case, Mr. Sherzad respectfully submits that this is not correct, and that Justice Heneghan erred in importing words into the definition of 'punish' that are not actually present in the definition. This argument was considered, and rejected, by Justice Martineau in
+Martin
+, where he stated:
+"[14] [...] Despite counsel's able presentation, I cannot adhere to the interpretation suggested by the applicant. Where the words used in ss. 64(2) are read in their entire context, not only in their grammatical and ordinary sense but also harmoniously with the scheme and object of the
+IRPA
+(
+Rizzo & Rizzo Shoes Ltd. (Re)
+, [1998] 1 S.C.R. 27, at para. 21), their meaning can only be reasonably construed as referring to the sentence which was actually imposed and not the actual length of time served in prison."
+[70]
+I agree with the analysis in
+Cartwright
+and
+Martin
+, and accordingly cannot give any effect to Mr. Sherzad's arguments in this regard.
+Conclusion
+[71]
+For these reasons, the application is dismissed.
+Certification
+[72]
+Questions were certified in the
+Atwal
+,
+Smith
+and
+Martin
+cases. Mr. Sherzad submits that the same questions arise in this case, and that, as a result, the same questions should be certified.
+[73]
+As I understand the position of the Minister, he concedes that the case raises serious questions of general importance. While the respondent is not consenting to certification, I do not understand him to be opposing it either.
+[74]
+The same question was certified in both Atwal and Smith, that is:
+"Does pre-sentence custody, which is expressly credited towards a person's criminal sentence, form part of the 'term of imprisonment' under section 64(2) of
+Immigration and Refugee Protection Act
+?"
+[75]
+The appeals in both
+Atwal
+and
+Smith
+have since been discontinued. Nevertheless, as this case illustrates, the question continues to arise. As such, I am satisfied that it is a serious question of general importance, one which transcends the interests of these parties, and accordingly, I am prepared to certify it.
+[76]
+No questions were certified in
+Cartwright
+. In
+Martin
+, Justice Martineau certified the following questions:
+1) Does the word "punished" used in s. 64(2) of the
+IRPA
+with respect to a term of imprisonment refer to the sentence of imprisonment imposed or the actual time served in prison?
+2) Does ss. 64(2) of the
+IRPA
+violate s. 7 of the
+Charter
+in a manner which cannot be justified under s. 1 of the
+Charter
+?
+The
+Charter
+argument was not advanced in this case, and is thus not determinative of it. I am satisfied, however, that the first question should be certified. However, I proposed to modify the question slightly, in order to clearly distinguish it from the question relating to pre-trial detention.
+ORDER
+[77]
+THIS COURT ORDERS that:
+1. This application for judicial review is dismissed.
+2. The following serious questions of general importance are certified:
+1. Does pre-sentence custody, which is expressly credited towards a person's criminal sentence, form part of the "term of imprisonment" under section 64(2) of the
+Immigration and Refugee Protection Act
+? and
+2. Does the word "punished" used in subsection 64(2) of
+IRPA
+with respect to a term of imprisonment refer to the actual time served in prison after sentencing?
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/pdk
+[End of document]

@@ -1,0 +1,11 @@
+[36]
+In determining whether a patent claim is obvious, the Court must avoid using the benefit of hindsight. The question to ask is whether the solution taught by the patent would be "plain as day" to the skilled technician who was searching for something novel, without having to do experimentation or research. Suggestions or signposts in the prior art are not sufficient to make a patent invalid for obviousness:
+Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd.
+(1998), 145 F.T.R. 161; 79 C.P.R.(3d) 193 (T.D.), varied but not on the issue of obviousness, [2001] 1 F.C. 495; 262 N.R. 137 (F.C.A.), affd. [2002] 4 S.C.R. 153; 296 N.R. 130;
+Bayer Aktiengesellschaft et al. v. Apotex Inc.
+(1995), 60 C.P.R.(3d) 58 (Gen. Div.), varied on other grounds (1998), 113 O.A.C. 1; 82 C.P.R.(3d) 526 (C.A.), leave to appeal to the Supreme Court of Canada denied [1998] S.C.C.A. No. 563; 239 N.R. 200; 124 O.A.C. 199 (S.C.C.), and
+Farbwerke Hoechst Aktiengessellschaf v. Halocarbon (Ontario) Ltd. and Halocarbon Products Corp.
+, [1979] 2 S.C.R. 929; 27 N.R. 582. To refer to another oft-quoted passage from
+Beloit
+, supra, at page 295 [C.P.R.]:
+"Every invention is obvious after it has been made, and to no one more so than an expert in the field. Where the expert has been hired for the purpose of testifying, his infallible hindsight is even more suspect. It is so easy, once the teaching of a patent is known, to say, 'I could have done that'; before the assertion can be given any weight, one must have a satisfactory answer to the question, 'Why didn't you?'"

@@ -1,0 +1,6 @@
+[27]
+The doctrine of "functus officio" was considered by the Supreme Court of Canada in
+Chandler v. Alberta Association of Architects
+, [1989] 2 S.C.R. 848; 99 N.R. 277; 101 A.R. 321. Sopinka, J., writing for the majority, held that the doctrine applied to administrative bodies as well as courts, but he stated at p. 862 [S.C.R.]:
+"... I am of the opinion that its application must be more flexible and less formalistic in respect to the decision of administrative tribunals which are subject to appeal only on a point of law. Justice may require the reopening of administrative proceedings in order to provide relief which would otherwise be available on appeal. Accordingly, the principle should not be strictly applied where there are indications in the enabling statute that a decision can be reopened in order to enable the tribunal to discharge the function committed to it by enabling legislation."
+I understand this decision to mean that administrative decision-making, because it is more flexible and less formalistic than judicial decision-making, can be "reopened" in the interests of justice where the enabling statute contemplates reconsideration of a decision.

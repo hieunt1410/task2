@@ -1,0 +1,48 @@
+[32]
+The Court of Appeal speaking through Mr. Justice Strayer in
+Jafari v. Minister of Employment and Immigration
+(1995), 180 N.R. 330 (F.C.A.), set out the proper criteria for determining the validity of an immigration regulation.
+Jafari's
+headnote summary, at p. 330, reveals this:
+"Jafari's application for Convention refugee status was included in the Refugee backlog under the Refugee Claimants Designated Class Regulations (passed pursuant to the
+Immigration Act
+). However, he was removed from the backlog because he left Canada for more than seven days, contrary to s. 3(2)(f) of the
+Regulations
+. Jafari applied for an order declaring s. 3(2)(f) ultra vires under the
+Immigration Act
+or under ss. 7 and 15 of the
+Charter
+and for mandamus directing the Minister to process and finalize his application for landing in Canada as a member of the Refugee backlog.
+"The Federal Court of Canada, Trial Division, in a decision reported 82 F.T.R. 164, held that s. 3(2)(f) was ultra vires and ordered the Minister to process and consider Jafari's application for permanent residence without reference to it. The Minister appealed."
+Here is, in part, how Strayer, J.A., put the analysis:
+"[14] It goes without saying that it is not for a court to determine the wisdom of delegated legislation or to assess its validity on the basis of the court's policy preferences. [See endnote 1]. The essential question for the court always is: does the statutory grant of authority permit this particular delegated legislation? In looking at the statutory source of authority one must seek all possible indicia as to the purpose and scope of permitted delegated legislation. Any limitations, express or implied, on the exercise of that power must be taken into account. One must then look to the regulation itself to see whether it conforms and where it is argued that the regulation was not made for the purposes authorized by the statute one must try to identify one or more of those purposes for which the regulation was adopted. It is accepted that a broad discretionary power [see endnote 2], including a regulation-making power may not be used for a completely irrelevant purpose but it is up to the party attacking the regulation to demonstrate what that illicit purpose might be.
+"[15] We must therefore look to the statutory basis for the regulation in question. It seems to be common ground that the relevant powers are in ss. 114(d) and (e) which are to be exercised for the purposes of s. 6(2), quoted above. The respondent relies on the limitations found in s. 6(2) as conditioning regulations such as those in question here. As I read s. 6(2) it authorizes the Governor-in-Council to designate classes of persons (other than those already found to be Convention refugees) for purposes of admission.
+. . . . .
+"This does not mean, contrary to the arguments of respondent's counsel, that every regulation must facilitate the admission of more refugee claimants. In my view the subsection, combined with s. 114(1)(e), authorizes regulations which classify such persons in some way, and which may exempt some of those classes from some of the requirements of some of the
+Regulations
+. I see nothing mandatory in s. 6(2) or ss. 114(1)(d) and (e).
+"[16] It is the core of the respondent's position, apparently adopted by the trial judge, that s. 3(2)(f) of the
+Regulations
+advances no purpose recognized in s. 6(2) and indeed is contrary to Canada's 'humanitarian tradition'.
+"[17] ... I take s. 6(2), and ss. 114(d) and (e), to authorize systems of classification of, inter alia refugee claimants, and the provision of preferential treatment for some or all of those so classified. On their face the statutory provisions would appear to authorize the Governor-in-Council to make no classifications of refugee claimants, or to classify them in any way thought suitable.
+. . . . .
+"There is nothing to compel the making of a regulation to grant any particular exemption to any particular person or class of persons. The
+Regulations
+must of course be seen as in some way related to the purpose of the
+Act
+but this does not mean that a court can review them to see if they are necessary, wise, or effective in practice [See endnote 3]. In the present case there was evidence on behalf of the appellant as to the purpose of the
+Regulations
+in question. While I agree with the trial judge that some of the reasons advanced were not compelling and may in some measure have been misconceived, I do not think we can say they were completely unrelated to the purposes of the statute.
+. . . . .
+"[18] ... The persons assigned to the backlog program received a special advantage, at the discretion of the Governor-in-Council, and it was an advantage which was granted subject to certain conditions, one of them being that the claimant not leave Canada for more than 5 even days until his refugee claim was determined. As long as this distinction can be seen to have some connection with the proper administration of the
+Act
+there is no basis for holding it invalid just because not everyone who arrived before January 1, 1989 was given the same gratuitous advantage over those who arrived after that date.
+"[19] It would be otherwise if it could be shown that whatever modest rationale there might be for the regulation, its main purpose was to achieve some improper and unauthorized purpose. The respondent has suggested no such improper purpose being served by the regulation in question.
+"[20] Assuming then that s. 3(2)(f) of the
+Regulations
+is prima facie authorized by the statute, one must consider whether it is contrary to some condition imposed on the exercise of the regulation-making power.
+. . . . .
+"The tradition is to offer a fair process to all who come to Canada claiming refugee status, such process being for the purpose of determining whether the claimants are truly Convention refugees as interpreted by Canadian law. That is precisely what the respondent is entitled to, if he and the Board will only proceed to have his case heard by the regular refugee determination process. The fact that he might, but for his absence in the United States, have been able to take advantage of the lower threshold credible basis review allowed to backlog claimants to enable them to obtain landing does not in my view turn the fair hearing, which he is entitled to from the Board under the regular determination process, into an inhumane procedure without regard to the displaced and the persecuted.
+"[21] I am therefore unable to say that s. 3(2)(f) of the
+Regulations
+is ultra vires the Governor-in-Council." (N.R. pp. 335-337)

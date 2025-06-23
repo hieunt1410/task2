@@ -1,0 +1,5 @@
+[28]
+Subsection 6(3) of the Act creates a presumption that an amount paid by an employer to an employee:
+6(3)(a) during the course of the employment period; or
+6(3)(b) pursuant to an obligation arising out of an agreement made between the employer and the employee immediately prior to, during, or after, such period
+constitutes remuneration for the purpose of section 5 of the Act. Prima facie, in the absence of any evidence to the contrary, one would have to conclude that the amount at issue falls within subsection 6(3) and therefore becomes "remuneration" for the purposes of section 5.

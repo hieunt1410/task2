@@ -1,0 +1,10 @@
+[22]
+One of the guiding principles of statutory interpretation is that the search for the meaning of specific words or phrases is informed by the context of the entire statutory text. Words should not be construed in isolation from other surrounding language. Wherever possible the exercise is one of looking for internal consistency and harmony of the language used with the ultimate goal of advancing the intention of Parliament. A useful general statement of these points can be found in the following passage from
+R. v. Ryder Truck Rental Canada Ltd.
+, [2000] O.J. No. 297; 129 O.A.C. 80; 47 O.R.(3d) 171 (C.A.):
+"[11] The modern approach to statutory interpretation calls on the court to interpret a legislative provision in its total context. The court should consider and take into account all relevant and admissible indicators of legislative meaning. The court's interpretation should comply with the legislative text, promote the legislative purpose, reflect the legislature's intent, and produce a reasonable and just meaning. The Supreme Court has repeatedly affirmed this approach to statutory interpretation, most recently in
+R. v. Gladue
+, [1999] 1 S.C.R. 688 at p. 704, 171 D.L.R.(4th) 385, where Cory and Iacobucci, JJ., wrote:
+'As this Court has frequently stated, the proper construction of a statutory provision flows from reading the words of the provision in their grammatical and ordinary sense and in their entire context, harmoniously with the scheme of the statute as a whole, the purpose of the statute, and the intention of Parliament. The purpose of the statute and the intention of Parliament, in particular, are to be determined on the basis of intrinsic and admissible extrinsic sources regarding the
+Act's
+legislative history and the context of its enactment ...'"

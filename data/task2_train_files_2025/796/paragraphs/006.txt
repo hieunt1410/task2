@@ -1,0 +1,17 @@
+[6]
+The Defendants say the plaintiffs cannot succeed for the issue of particulars, canvassed and decided 9 May 1998, is res judicata. Clearly the doctrine of res judicata applies to interlocutory matters. In support of this proposition counsel for the Defendants referred me to
+Stamper v. Finnigan
+, [1984] 1 C.P.C.(2d) 175; 57 N.B.R.(2d) 411; 148 A.P.R. 411 (T.D.), the initial issue being whether the rule of estoppel by res judicata applied to decisions on interlocutory applications. A basic argument to the contrary is that a decision on an interlocutory application is not final in the sense that the decision is interlocutory. Mr. Justice Deschenes, Chief Justice of the New Brunswick Court of Queen's Bench, in deciding that the estoppel doctrine applied to interlocutory decisions, referred at page 178 both to a Supreme Court of Canada decision and to a passage in Sopinka and Lederman, on
+Law of Evidence in Civil Cases
+as authority that an interlocutory decision may be final in nature:
+"In the Supreme Court of Canada case of
+Diamond v. Western Reality Co.
+, [1924] S.C.R. 308, [1924] 2 D.L.R. 922 (S.C.C.) however, the comments of Duff J. at pp. 315-316 [S.C.R.] are relevant:
+'It is true that in a sense the decision was interlocutory; that is to say, the proceeding in which it was given was an interlocutory proceeding;
+but it was nevertheless a final decision in the sense that in the absence of appeal it became binding upon all parties to it
+' (underlining is mine).
+"I would adopt that view and hold that the rule of estoppel by res judicata applies to decisions on interlocutory applications.
+"I have also found some support for my views in the following comments contained in Sopinka and Lederman,
+Law of Evidence in Civil Cases
+(1974), at p. 367:
+'Although the authorities are in conflict, it would appear that in Canada, a decision in an interlocutory application is binding on the parties at least with respect to other proceedings in the same action.'".

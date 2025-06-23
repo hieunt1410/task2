@@ -1,0 +1,196 @@
+[1]
+Nadon, J.
+[Translation]: This is an application for judicial review from a decision by the Convention Refugee Determination Division (the "Board") that the applicant is not a Convention refugee.
+[2]
+The applicant is a citizen of Turkey, of Kurdish nationality and of Alavi religion. He claims he was persecuted in his country. He left Turkey on December 28, 1986 and arrived in Canada the next day, claiming refugee status on arrival.
+[3]
+On October 20, 1992 the applicant was convicted of trafficking in narcotics, in particular heroin, an indictable offence under ss. 4(1) and 4(3) of the
+Narcotic Control Act
+, R.S.C. 1985, c. N-1, subject to a term of life imprisonment.
+[4]
+The applicant was also convicted of conspiracy to traffic in narcotics (heroin), an indictable offence mentioned in s. 465(1)(c) of the
+Criminal Code
+, also subject to a term of life imprisonment.
+[5]
+The applicant was sentenced to five months' imprisonment. It is likely that this minimal sentence resulted from the fact that the quantities of heroin for which he was convicted were minimal, namely 0.1 gram for the trafficking count and 0.25 gram for the conspiracy count. The parties agreed that these quantities of heroin had a market value not exceeding Can. $100.
+[6]
+The Board concluded that the applicant was not a Convention refugee. At pp. 4 and 5 of its decision, the Board said the following:
+"At the hearing the Board raised section F(c) of Article 1 of the
+Convention
+enacted by the
+Immigration Act
+, which states that the definition of a Convention refugee does not apply to any person with respect to whom there are serious reasons for considering that he has committed an act contrary to the purposes and principles of the United Nations. On December 19, 1988 the United Nations adopted a Convention against illegal trafficking in narcotics. The drug traffic is contrary to that
+Convention
+and so contrary to the purposes and principles of the United Nations. In
+Pushpanathan
+, IMM-240-93, a Canadian judge acknowledged that drug trafficking was an act contrary to the purposes and principles of the United Nations.
+"The claimant not only admitted he was guilty of drug trafficking but also of conspiracy to traffic. The claimant was thus a link in the international drug trafficking trade.
+"The claimant Hasan YASIN was a person in the category described in section F(c) and so is not entitled to the protection of Canada. Consequently, Mr. Hasan YASIN is excluded from the definition of 'Convention refugee' in clause 1Fc of the
+Convention
+reproduced in the Schedule to the
+Immigration Act
+."
+[7]
+In his submission, in particular in paragraphs 12 and 13, the applicant submitted that the issues are the following:
+"12. Did the members of the Board draw a conclusion of fact which was capricious and unreasonable and not in accordance with the evidence filed when they concluded the applicant was a link in the international drug trafficking trade?
+"13. Did the members of the panel make an error of law when they concluded that the applicant was excluded pursuant to Article 1F(c) of the
+1951 Convention
+..."
+[8]
+In his submission the respondent argued in paragraph 2 that the two issues set out by the applicant should be restated as follows:
+"(a) Did the Commission, because it mentioned in its reasons that the applicant was 'a link in the international drug trafficking trade',
+base its decision on
+an erroneous finding of fact made in a perverse or capricious manner or without regard for the material before it [s. 18.1(4)(d) of the
+Federal Court Act
+]?
+"(b) Did the Board make an error of law when it concluded that the applicant could not be eligible for refugee status as section F(c) of Article 1 of the
+United Nations Convention Relating to the Status of Refugees
+applied in his case?"
+1st Issue
+[9]
+The Board concluded that the applicant was a link in the international drug trafficking trade. In my view there is no evidence in the record to support this finding. At the same time, as I indicated to counsel at the hearing, this mistake is not significant since, in my opinion, the applicant's exclusion does not depend on the international aspect of the crime. I adopt the observations of McGillis, J., in
+Kabirian v. Canada (Solicitor General)
+(1995), 93 F.T.R. 222 (T.D.), when she states at pp. 224 and 225 of her decision:
+"I agree with the analysis of FRAGMENT_SUPPRESSED.
+, supra, but I wish to add two points. First, the Convention and Protocols of the United Nations in the struggle against international drug trafficking pertain to the purposes and principles of article 1, paragraph 3 of the United Nations Charter, which was expressed in broad language in order to enable the United Nations to respond to the evolution of international problems. In my opinion, in view of the unresolved ambiguity or issue concerning the intention of the signatories to the
+Convention
+with respect to the scope of paragraph F(c), the subsequent Conventions and Protocols of the United Nations concerning the struggle against drug trafficking should be considered when interpreting the meaning of the words '... contrary to the purposes and principles of the United Nations' in paragraph F(c) of the
+Convention
+. Second, I am of the opinion that paragraph F(c) of article 1 of the
+Convention
+is applicable to someone convicted of heroin trafficking in Canada, even in the absence of proof of an international aspect to his crime. A survey of documentary evidence filed in the record indicates that the activities of the United Nations in the struggle against legal drug trafficking are conducted both internationally and nationally. Moreover, a trafficker constitutes an indispensible [sic] link in the chain of distribution of drugs and the importance of his role should not be minimized.
+"In the present case, notwithstanding the eloquent submission of counsel for the applicant, I have not been persuaded that the tribunal erred in concluding that paragraph [sic] F(c) of Article 1 of the
+Convention
+applied to the applicant. Even if the tribunal erred in finding that the applicant was 'guilty of international trafficking', this does not affect its conclusion."
+[10]
+I also adopt the observations of Wetston, J., in
+Atef v. Canada (Minister of Citizenship and Immigration)
+(1995), 96 F.T.R. 217 (T.D.), when he states at p. 226:
+"In addition, it appears that a relatively consistent body of jurisprudence, is developing with respect to the application of Article 1F(c) of the
+Convention
+. In this regard, the court has consistently held that the trafficking in heroin, a narcotic not produced in Canada, is a crime against which the UN has initiated and coordinated a range of international initiatives. While the applicant seeks to distinguish
+Thamotharampillai
+, supra, in particular, on the basis that the nature of Mr. Atef's crime was purely domestic and not as serious, I see no difference between the importation of heroin, the possession of heroin for the purposes of trafficking, and simply trafficking in this narcotic.
+"Moreover, I agree with Madame Justice McGillis in
+Kabirian
+, supra, where, at p. 3, in adopting her analysis in
+Thamotharampillai
+, supra, she suggests that, because the UN initiatives are directed nationally as well as internationally, Article 1F(c) may apply to a person who had been convicted of trafficking of heroin, in Canada, even absent any specific international involvement on the part of the claimant. I also agree with her observation that domestic traffickers are an indispensable link in the chain of distribution of narcotics, and their involvement ought not be minimized."
+2nd Issue
+[11]
+The second issue is whether the Board made an error of law in concluding that the applicant should be excluded pursuant to Article 1F(c) of the
+1951 Convention
+. The definition of the phrase "Convention refugee" contained in s. 2(1) of the
+Immigration Act
+("the
+Act
+") concludes as follows:
+"... but does not include any person to whom the Convention does not apply pursuant to section E or F of Article 1 thereof, which sections are set out in the schedule to this Act ..."
+[12]
+Article 1 of the
+Convention
+reads as follows:
+"F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect to such crimes;
+(b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+(c) he has been guilty of acts contrary to the purposes and principles of the United Nations."
+[13]
+As the applicant was convicted of heroin trafficking and conspiracy to traffic in heroin, there is no question that he did in fact commit the crimes mentioned by the Board in its decision. The earlier decisions of the Trial Division of this court regarding the crime of drug trafficking, and in particular trafficking in heroin, are unanimous. [see footnote 1] The judges of this court have concluded that drug trafficking is covered by the exclusion clause in Article 1 F(c) of the
+Convention
+. In
+Atef
+, Wetston, J., with whom I concur completely, said that determining the purposes and principles of the United Nations was a question of law while the question of whether those purposes and principles had been infringed in a particular case was a question of fact. At p. 19 of his judgment, Wetston, J., said the following:
+"In the exercise of its discretion to exclude, the Board must objectively determine the facts and apply the appropriate legal principles. This discretion does have an objective limit of some kind. As indicated above, what the purposes and principles of the UN are is a question of law, whether they have been contravened is a question of fact."
+[14]
+Accordingly, in the case at bar, the Board made no error when it found that heroin trafficking was contrary to the purposes and principles of the United Nations. All that has to be decided is whether, in the case at bar, the applicant, through his actions, contravened those purposes and principles.
+[15]
+The applicant submitted that the Board made several errors of law when it found that he should be excluded. The gist of the applicant's arguments appears in paragraphs 56 and 57 of his submission, which states the following:
+"56. For these reasons, we respectfully submit that the members of the Board made an error of law subject to review when they did not consider all the circumstances surrounding the offence (and in particular the absence of a prior record, the very small quantity sold, the light penalty imposed and the absence of any network) and did not give reasons for their decision to exclude the applicant;
+"57. We further submit that the members of the Board made an error when they automatically concluded that the applicant should be excluded because he had committed an act prohibited by a United Nations Convention ..."
+[16]
+In my view, based on the evidence in the record, the Board made no error when it concluded that the applicant should be excluded because he was a person whom, the Board had serious reasons for considering, was guilty of acts contrary to the purposes and principles of the United Nations. As I indicated above, the applicant's conviction on two counts, for heroin trafficking and conspiracy to traffic in heroin, was not disputed by him. The applicant's position simply was that the Board should have looked into the circumstances surrounding the commission of the crimes. The applicant submitted that the Board could not exclude him automatically.
+[17]
+Under Article 1F(c) of the
+Convention
+, the Board had to answer the following question: Was the applicant a person with respect to whom it had serious reasons for considering that he had been guilty of acts contrary to the purposes and principles of the United Nations?
+[18]
+The Board answered this question in the affirmative because the applicant had been convicted of heroin trafficking and conspiracy to traffic in heroin.
+[19]
+While it is true that in
+Thamotharampillai
+,
+Safi
+and
+Kabirian
+, the quantity of narcotics for which the applicants were convicted was greater than the quantity for which the applicant was convicted in the case at bar, in my opinion this makes no difference. If heroin trafficking is an act contrary to the purposes and principles of the United Nations, the matter is closed. In my view there is nothing in the legislation to permit the Board to look further into the seriousness of the acts. Are the applicant's acts contrary to the purposes and principles of the United Nations? This is the only question to be asked and answered.
+[20]
+In
+Atef
+, Wetston, J., had indirectly to consider this point. In that case the applicant, an Iranian citizen, came to Canada in February 1986. On arrival the applicant claimed refugee status. On December 11, 1987, he was convicted of heroin possession for the purpose of trafficking contrary to s. 4(2) of the
+Narcotic Control Act
+. The applicant was sentenced to 55 months' imprisonment. The Board concluded that the applicant was not a Convention refugee because he was a person who should be excluded under Article 1F(c) of the
+Convention
+.
+[21]
+The applicant submitted to Wetston, J., that the Board had erred inter alia because it did not take into account the mitigating circumstances associated with the crime. The applicant also made the argument that the Board should have made a connection between inclusion and exclusion, because otherwise the applicant could be excluded for insignificant or unimportant acts which might be contrary to the purposes of the United Nations.
+[22]
+After examining the arguments submitted by the parties, Wetston, J., at p. 6 of his judgment, said the following:
+"Subsection 2(1) of the
+Immigration Act
+defines a Convention refugee as any person who satisfies the requirements of paragraph 2(1)(a) but does not include any person to whom the
+Convention
+does not apply pursuant to section E or F of Article 1 thereof ... It is also clear that someone who falls within one of the exclusion clauses in sections E and F of the
+Convention
+may not claim the protection offered by Canada to Convention refugees. This view of subs. 2(1) and Article 1F is not one which may be described as literal; it is merely the only construction that the words in this section can bear. The definition of 'Convention refugee', contained in subs. 2(1) of the
+Immigration Act
+, is disjunctive. Accordingly, I am of the opinion that there is no requirement for the Board to determine and balance inclusion with exclusion when applying Article 1F(c) of the
+Convention
+."
+[23]
+Wetston, J., went on to add, at pp. 7 and 8;
+"The applicant further contends that, absent the need to balance inclusion and exclusion, Article 1F(c) results in a virtually automatic exclusion, regardless of the significance of the act, where any UN initiative has been contravened. I am of the opinion that the applicant's argument departs from the language of Article 1F(c), which I have found to be unambiguous. Moreover, my examination of the
+Travaux Préparatoires
+for the
+Convention
+leads me to conclude that:
+a) The acts committed must be criminal in nature;
+b) The exclusion in Article 1F(c) appears to be capable of including acts committed both in the country of refuge and the country of origin: See Rikhof, J.,
+The Treatment of the Exclusion Clauses in Canadian Refugee Law
+(1994), 24 Imm. L.R.(2d) 31, at p. 62. For a contrary view regarding the application of Article 1F(c), see Michael Halewood,
+Excluding Refugees pursuant to 1951 Convention
+(1995), 25 Imm. L.R.(2d) 305.
+"The meaning of purposes and principles of the U.N. is a question of law and subject, upon leave, to judicial review by the Federal Court. Moreover, as indicated by the Board on a number of occasions in its decision, an application to the Minister under subs. 144(2) of the
+Immigration Act
+for humanitarian and compassionate considerations can still be brought, at which time mitigating circumstances regarding the crime that was committed in Canada may be properly considered. Accordingly, no error of law was committed by the Board in this regard."
+[24]
+I am in complete agreement with Wetston, J., when he says that the Minister may take any mitigating circumstances into account on an application under s. 114(2) of the
+Immigration Act
+. In other words, if the Minister considers from the evidence that the applicant's exclusion is a disproportionate penalty, he can remedy the situation.
+[25]
+Since I feel that the Board made no error in concluding that the applicant had to be excluded from the definition of a Convention refugee, the application for judicial review must accordingly be dismissed.
+[26]
+At the hearing the applicant submitted that the following questions should be certified:
+1. Is trafficking of a minimal quantity of heroin an act contrary to the purposes and principles of the United Nations under section 1F(c) of the
+United Nations Convention Relating to the Status of Refugees
+?
+2. Is an individual who commits an offence described in Article 3 of the 1988 United Nations Convention against the Illicit Traffic in Narcotic and Drugs Psychotropic Substances subject to section 1F(c) of the
+United Nations Convention Relating to the Status of Refugees
+?
+3. For a crime like heroin trafficking, must the Board assess the seriousness of the offence committed or should it automatically conclude that the person is to be excluded under section 1F(c) of the
+United Nations Convention Relating to the Status of Refugees
+once there is proof of a conviction?
+[27]
+In my view these questions are sufficiently serious for me to agree to certify them.
+Application dismissed.
+Editor: Jocelyne M. Caissie/saf
+Footnotes
+1.	See
+Pushpanathan v. M.E.I.
+, September 3, 1993, IMM-240-93, McKeown, J.;
+FRAGMENT_SUPPRESSED, Gibson, J.;
+Safi v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+(1994), 88 F.T.R. 109 (T.D.), Richard, J.;
+Kabirian v. Canada (Solicitor General)
+(1995), 93 F.T.R. 222 (T.D.);
+Atef v. Canada (Minister of Citizenship and Immigration)
+(1995), 96 F.T.R. 217 (T.D.).

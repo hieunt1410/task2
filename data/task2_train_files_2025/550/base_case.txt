@@ -1,0 +1,127 @@
+[1]
+Hargrave, Prothonotary
+: The plaintiff's motion in these proceedings, which allege copyright infringement of the plaintiff's signage, violation notice and short form lease, since at least as early as September, 1994, is to strike out a part of s. 4 and all of s. 5 of the defence, under rule 419(1).
+Relevant Portions Of Defence
+[2]
+The defendant, Les Barrington, was at material times an employee of the plaintiff as is admitted in the first paragraph of s. 4 of the defence. The impugned portions of the defence, the second paragraph of s. 4 and all of s. 5, then follow. However, for reference I will set out more of the defence than just the paragraphs at issue:
+"4. The defendants further admit that, in or about October, 1990, Barrington became employed in the management of Impark and was given the title of City Manager in Saskatoon, Saskatchewan. The defendants further admit that, in or about the month of May, 1991, the defendant, Barrington, was given the title of Divisional Manager for Saskatchewan for Imperial Parking Limited until on or about October 15, 1993.
+"The defendants further state that the relationship of employee/employer between Les Barrington and Imperial Parking Limited was terminated solely due to the breach of employment terms by Imperial Parking Limited and that, as a result of the constructive dismissal of the defendant, Les Barrington, by the plaintiff, Imperial Parking Limited, the defendant, Les Barrington, was released from any and all obligations of any agreement executed with Imperial Parking Limited and any other parties dated November 7, 1990.
+"5. In the further alternative, the defendants plead that the plaintiff repudiated the said November 7, 1990 agreement through the abusive, humiliating and unconscionable actions to the defendant, Les Barrington, by the plaintiff's employee, Robert Noiles.
+"6. The defendants, and each of them, state that they were not aware of the existence of any copyright or claim of copyright in the alleged works as claimed in the plaintiff's statement of claim as the plaintiff had not registered any claim or copyright in the alleged works until May 29, 1995, nor did they in any way place any identification upon alleged works indicating that the copyright was claimed."
+[3]
+The plaintiff seeks in its motion to have the second paragraph under s. 4 of the defence and all of s. 5 struck out as disclosing no reasonable defence, as immaterial, as scandalous, frivolous or vexatious and as prejudicial: quite correctly counsel for the plaintiff, in presenting the motion, relied on rule 419(1)(a), that those specific portions of the defence disclose no reasonable defence and on rule 419(1)(b), that the specific portions of the defence are immaterial.
+[4]
+Particularly, the plaintiff objects to the defendants' reference to the alleged breach by the plaintiff of the employment contract with the defendant Barrington, which contract is referred to in the plaintiff's statement of claim and also to the reference to "... abusive, humiliating and unconscionable actions ... ", by the plaintiff, said to amount to repudiation of the employment contract. The plaintiff says that these provisions do not go to showing innocent infringement and thus ought to be struck out.
+Relevant Portions Of Statement Of
+Claim
+[5]
+In response the defendants say, among other things, that the impugned portions of the defence are in response to paragraphs 18 and 19 of the statement of claim which, if unanswered, could have serious consequences in the assessment of the punitive and exemplary damages claimed by the plaintiff. Relevant portions of the statement of claim, for the purposes of this motion, include the following:
+"18. On or about October, 1990, Barrington became employed in the management of Impark, as City Manager, in Saskatoon, Saskatchewan. On or about May, 1991, Barrington was promoted to the position of Divisional Manager of Impark for Saskatchewan, which position he occupied until he voluntarily left the employ of Impark on or about October 15, 1993. During the course of his employment, Barrington had access to the literary and artistic work and literary works referred to in paragraphs 7 to 17 above.
+"19. As a term of Barrington's employment, set out in a written agreement with Impark made as of November, 1990, Barrington agreed that during the term of his employment or at any time thereafter, he would not, for any purpose, for his own benefit or to the detriment or intended or probable detriment of Impark, make use of confidential or proprietary information concerning Impark or their business which Barrington may have acquired in the course of his employment."
+Paragraphs 22 and 23, in part, refer back to paragraph 19:
+"22.	... The defendant Barrington's activities have been with the full knowledge of the terms of the agreement referred to in paragraph 19 hereof, and with reckless disregard for the rights of the plaintiff.
+"23. The defendant White has been aware, at all material times, of the agreement between Barrington and Impark referred to in paragraph 19 above and that the defendant Barrington provided the aforesaid copyrighted works of the plaintiff without the consent, licence or authorization of the plaintiff ..."
+[6]
+The plaintiff says that the purpose of paragraph 18 of the statement of claim is merely background to show that the defendant, Les Barrington, had knowledge of and access to the material for which copyright is claimed; and further, that the reference to the employment agreement in paragraph 19 of the statement of claim is to show deliberate copying, in anticipation of the defence, under s. 39 of the
+Copyright Act
+, R.S.C. 1985, C-42, of innocent infringement. This material also, in my view, goes to the onus on the plaintiff to establish damages and particularly the additional punitive and exemplary damages which are claimed.
+Consideration
+[7]
+Had the plaintiff merely set out that the defendant, Les Barrington, was at material times an employee in a responsible position and that as such he had knowledge of and access to the plaintiff's material and that having access to that material he copied it for the benefit of the defendants and with disregard to the rights of and to the detriment of the plaintiff, I would have less difficulty in viewing the defendants' reference to the employment agreement and to wrongful dismissal both as disclosing no reasonable defence and as immaterial. However, the plaintiff has not stopped there, but has gone on, in paragraphs 18 and 19 of the statement of claim, to allege that the defendant, Les Barrington, left the plaintiff's employ "voluntarily" and has referred, pointedly, to the provisions of the employment agreement. Thus the plaintiff's motion and the defendants' response require further consideration.
+Some General Principles
+[8]
+To begin, the approach to take, in striking out pleadings, has been set out in many cases. Those cases require that the facts pleaded are to be taken as proved. It is then for the court to decide whether it is plain and obvious that the action, or the particular plea, cannot succeed, or in this instance, that it is plain and obvious that a portion of the material does not constitute proper defence material. Thus a pleading will be struck out in plain and obvious cases where the matter is beyond doubt: see for example
+Operation Dismantle Inc. et al. v. Canada et al.
+, [1985] 1 S.C.R. 441; 59 N.R. 1; 18 D.L.R.(4th) 481; 13 C.R.R. 287; 12 Admin. L.R. 16;
+Inuit Tapirisat of Canada and National Anti-Poverty Organization v. Canada (Attorney General)
+, [1980] 2 S.C.R. 735; 33 N.R. 304; and
+Hunt v. T & N plc et al.
+, [1990] 2 S.C.R. 959; 117 N.R. 321; 4 C.C.L.T.(2d) 1; 43 C.P.C.(2d) 105; 49 B.C.L.R.(2d) 273; 74 D.L.R.(4th) 321. The court will generally refuse to strike out surplus statements which are not prejudicial:
+Pater International Automotive Franchising Inc. v. Mister Mechanic Inc.
+, [1990] 1 F.C. 237 (T.D.). Finally, any doubt should be resolved in favour of permitting the pleading to stand and the impugned paragraphs in the pleadings should be left so that evidence may be brought before the trial judge:
+Pica v. Canada
+, [1985] 1 C.T.C. 160 (F.C.T.D.), at 161;
+Squamish Indian Band v. Canada
+, [1980] 2 F.C. 813 (T.D.), at 816.
+Analysis
+[9]
+Section 39 of the
+Copyright Act
+deals with innocent infringement. If the defendant proves both that on the date of infringement he was not aware of the copyright at issue and that he had no reasonable grounds for suspecting that copyright, then the plaintiff is entitled only to an injunction. Section 39 goes on to set out that if at the time of the infringement the copyright had in fact been registered under the
+Act
+, the defendant is deemed to have reasonable ground for suspecting that a copyright exists.
+[10]
+Section 53(2) of the
+Copyright Act
+, to paraphrase the section and the law, provides that prima facie presumptions of copyright and ownership are created on the production of a Certificate of Registration: for example see
+Massie & Renwick Ltd. v. Underwriters' Survey Bureau Ltd. et al.
+, [1940] S.C.R. 218, at 238. In the present instance the copyright was not registered until shortly before this action was commenced and that was well after the alleged infringement began.
+[11]
+The defence which the defendants must establish, to show innocent infringement, was considered by Madame Justice McLachlin of the B.C. Supreme Court (as she then was), in
+Slumber-Magic Adjustable Bed Co. v. Sleep-King Adjustable Bed Co. et al.
+(1984), 3 C.P.R.(3d) 81 (B.C.S.C.), at 87. That case involved the alleged copying of a copyright advertising brochure. Madame Justice McLachlin pointed out that the defendant must show that they "... did not know the material they were copying was protected by copyright, ..." and that "... they must establish as well that they had no reasonable grounds for suspecting that copyright subsisted in the work in order to avail themselves of s. 22". (s. 22 of the
+Copyright Act
+is now s. 39) and then went on to say that:
+"It has been said that it is difficult to imagine a case in which this provision can be invoked in aid of a person who has copied the work of another, in that no person is entitled to assume, without inquiry, that a work published anonymously is not the subject of copyright:
+Gribble v. Manitoba Free Press Ltd.
+, [1931] 3 W.W.R. 570, at 575 (Man. C.A.)."
+There is nothing in the paragraphs of the defence which the plaintiff wishes struck out going to this sort of defence.
+[12]
+The plaintiff concedes that s. 6 of the defence is perhaps a plea of innocent infringement, but says that the impugned part of s. 4 and all of s. 5, even if taken as proven, do not provide material facts to rebut the presumption of ownership of the copyright contained in s. 53(2) of the
+Copyright Act
+. This is a reasonable observation.
+[13]
+The plaintiff refers to
+FRAGMENT_SUPPRESSED, for the proposition that speculative allegations in a pleading, even if taken as proven, do not provide sufficient facts to rebut the presumption of ownership when s. 53(2) of the
+Copyright Act
+comes into play. Mr. Justice Rouleau struck out various paragraphs of the defence because "... these paragraphs do not allege facts which, if proven, could possibly constitute a valid challenge to the presumption of ownership". However, as noted above, at least a substantial portion of the alleged infringement occurred before registration under the
+Copyright Act
+: this weakens the plaintiff's argument.
+[14]
+The plaintiff also points out that in
+Figgie International Inc. v. Citywide Machine Wholesale Inc.
+(1993), 48 C.P.R.(3d) 331 (F.C.T.D. Prothonotary), Associate Senior Prothonotary Giles struck out a portion of the defence where it was not capable of providing a defence.
+[15]
+Counsel for the plaintiff deals more specifically with the allegation of "... abusive, humiliating and unconscionable actions ... " in s. 5 of the defence and says that these words ought to be struck out as the intention of the party is irrelevant in infringement cases, referring to
+Flexi-Coil Ltd. v. Bourgault (F.P.) Industries
+(1987), 18 C.P.R.(3d) 396 (F.C.T.D.), a decision of Mr. Justice Dubé.
+[16]
+In both
+Flexi-Coil Ltd.
+and
+Wylain Inc. v. Horsman (E.B.) & Son Ltd.
+(1977), 37 C.P.R.(2d) 148 (F.C.T.D.), to which Mr. Justice Dubé refers in
+Flexi-Coil Ltd.
+, this particular issue was in the context of the intention of the defendant to appropriate the plaintiff's property. In the present case the allegations by the defendants, as to the actions of the plaintiff, which the defendants say led to repudiation of the defendants' employment contract by the plaintiff, do not fall within the principle enunciated by Mr. Justice Dubé in both
+Flexi-Coil Ltd.
+and
+Wylain Inc.
+[17]
+On a strict reading of these cases and the application of the principles set out and on a narrow reading of the impugned paragraphs in the defendants' defence, perhaps these paragraphs ought to be struck out. However, I prefer a broader view, for it concerns me that the plaintiff pleads an employment contract, perhaps needlessly, or perhaps as going to enhanced damages, but then does not wish to allow the defendant to make a full answer. This is particularly so where both the allegations of breach of agreement by the plaintiff together with wrongful use of the material by the defendants and the explanation given by the defendants, as to release from contractual obligations, may well be relevant and of assistance to the judge at trial in assessing the punitive and exemplary damages which the plaintiff claims.
+[18]
+It has long been established that a plaintiff is allowed to set out in the statement of claim matters which merely tend to increase the amount of damages recoverable: for example
+Millington v. Loring
+(1881), 6 Q.B.D. 190, in which Lord Selborne considered an English rule similar to our rule 408. The English provided that "Every pleading shall contain as concisely as may be a statement of the material facts on which the party pleading relies" [see footnote 1]. Lord Selborne rejected the idea that "material facts" should be confined to matters material to the cause of action and went on to say that those words "... must be taken to include any facts which the party pleading is entitled to prove at trial". (p. 194).
+[19]
+On the part of the defendant, there is generally no obligation to plead to damages, even where the onus of proof is on the defendant, in the case of mitigation of damage: see a discussion of this in
+McGregor on Damages
+(14th Ed. 1980), at paragraphs 1511 and 1512. However, as the author points out, relying upon
+Speidel v. Plato Films
+, [1961] A.C. 1090 (H.L.), "... there is one important qualification. If the matters which the defendant wishes to introduce in mitigation would be likely to take the plaintiff by surprise or would raise new issues of fact, then they must be pleaded":
+McGregor on Damages
+at paragraph 1512. The material at issue in the defence falls within this ambit.
+[20]
+In
+Royal Bank of Canada v. Fogler, Rubinoff
+(1985), 3 C.P.C.(2d) 248 (Ont. H.C.), an appeal from the Master, the court dealt with a motion to strike out an allegation as to the purpose of the plaintiff's action which was used as a foundation for claiming costs payable to the defendant. The judge adopted the Master's reasons, which included the view that costs were a material issue and that facts supporting entitlement were relevant and capable of being pleaded.
+[21]
+Given that the plaintiff, in its statement of claim, has not only raised the manner in which the defendant, Les Barrington, left the plaintiff's employment, but also the confidentiality aspects of his employment contract, it is my view that the present defendants ought to be allowed to raise, in ss. 4 and 5 of their defence, what their counsel characterized, in one line of argument, as material relevant to keeping the plaintiff's enhanced damages claim under control.
+[22]
+If this assessment is incorrect, the material is not prejudicial, but merely surplus and I will not strike it out:
+Pater Int. Franchising Inc. v. Mister Mechanic Inc.
+, (supra). In any event the material is best left so that the trial judge may hear the evidence and consider the relevancy of constructive dismissal and status of the employment contract, for I am unable to say, without any doubt, that the material contained in ss. 4 and 5 of the defence is improper and without any chance of success.
+Motion dismissed.
+Editor: Jean Merlini/slm
+Footnotes
+1.	Our rule 408(1) reads: "Every pleading must contain a precise statement of the material facts on which the party pleading relies."
+[End of document]

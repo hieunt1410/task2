@@ -1,0 +1,90 @@
+[1]
+Rouleau, J.
+: This is an application made pursuant to rule 344(7) of the Federal Court Rules, for an order containing special directions to the Taxing Officer with respect to the taxation of costs of J.M. Voith and Voith S.A. in the above named actions.
+[2]
+On June 6, 1986, J.M. Voith GmbH commenced action no. T-1350-86 in this court against Beloit Corporation. In that action the plaintiffs sought a declaration pursuant to the provisions of s. 62(1) of the Patent Act, R.S.C. 1970, c. P-4, that Canadian Letters Patent No. 1,020,383, the "Beloit Patent", were invalid and void. The action was based on the allegations of J.M. Voith GmbH that the Beloit patent was invalid and void as a consequence of the prior knowledge, use and public disclosure of the alleged invention by Voith as well as prior publication by J.M. Voith GmbH pursuant to ss. 27(1) and 61(1) of the Patent Act. It was  further alleged that the Beloit Corporation, in any event, had not made a clear statement of its alleged invention in the Beloit Patent as required by s. 34 of the Patent Act.
+[3]
+On July 11, 1986, Beloit Canada Ltd. and Beloit Corporation ("Beloit") commenced action no. T-1607-86 against J.M. Voith GmbH and Voith S.A. ("Voith") seeking a declaration of infringement against Voith with respect to Beloit's patent, as well as injunctive relief and damages.
+[4]
+Judgment in these actions was rendered by myself on November 17, 1989. The judgment provided, inter alia, that:
+(a) The actions of Voith, Valmet-Dominion Inc. and CGE for impeachment of the Beloit patent be allowed;
+(b) Beloit's actions for infringement of the Beloit patent be dismissed;
+(c) The Beloit patent was invalid and ordered to be struck from the register; and
+(d) Costs in all of the actions be awarded to Voith, Valmet-Dominion Inc. and CGE.
+[5]
+Pursuant to rule 344(7), any party may apply to the court for an order containing special directions to the Taxing Officer to govern the taxation of costs. That rule provides as follows:
+"Any party may
+(a) within 30 days after judgment has been pronounced, or
+(b) after the court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any order concerning costs, bring a motion before the court to request that directions be given to the taxing officer respecting any matter referred to in this rule or rule 346. An application under this subsection in the Court of Appeal shall be made before the Chief Justice or a judge nominated by him, but either party may apply to a court composed of at least three judges to review the decision of the Chief Justice or the judge nominated by him."
+[6]
+In the present case, it must first be noted that the applicants are outside the time limitations prescribed by rule 344(7), that is, within 30 days from the date of judgment. The affidavit of Michael I. Stewart, filed in support of this application, refers to the delay and offers the following explanation:
+"The original notice of motion with respect to increased costs was served and filed on January 17, 1990. It was the intention of Voith from the time judgment was rendered in these actions, to bring this motion with respect to costs. The failure to do so within thirty days of the date of the rendering of judgment was inadvertent and partially the result of the exchange of correspondence between counsel for the parties in these actions and the Valmet/CGE actions and the court concerning the judgment and the possibility of amendment of the judgment."
+[7]
+The purpose of the time limitation imposed by rule 344(7) is that an application for a direction increasing costs should be made while the matter is sufficiently fresh in the mind of the court. In Smerchanski v. M.N.R., [1979] 1 F.C. 801, it was held that very special reasons are required to warrant a lengthy extension of the time contemplated by the rule. Nevertheless, a lengthy delay is not necessarily fatal to the application. FRAGMENT_SUPPRESSED[8]
+In the case at bar, I am of the opinion that an extension of time should be granted. The delay has not been unreasonably long and the matter remains fresh in my mind. Further, there is no evidence that the Beloit companies will, in any way be prejudiced by the granting of the extension. I am prepared therefore to deal with the application on its merits.
+[9]
+Rule 344(3) permits the court to take into account the following factors in determining the quantum of costs awarded:
+(a) the result of the proceeding;
+(b) the amounts claimed and the amounts recovered;
+(c) the importance of the issues;
+(d) the apportionment of liability;
+(e) any confession of judgment under rule 405 and the amount thereof;
+(f) any payment of money into court under rules 441 et seq. and the amount of that payment;
+(g) any offer of settlement made in writing;
+(h) any offer of contribution made pursuant to rule 1732 that is brought to its attention pursuant to a reserved right to do so;
+(i) the volume of work;
+(j) the complexity of the issues;
+(k) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding;
+(l) the denial of or the neglect or refusal of any party to admit anything that should have been admitted;
+(m) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution;
+(n) whether or not two or more parties should be allowed more than one set of costs, where they defended the proceeding by different counsel or where, although they defended the proceeding by the same counsel, they separated their defence unnecessarily;
+(o) whether two or more parties, represented by the same counsel, initiated separate proceedings unnecessarily, and
+(p) any other matter relevant to the question of costs.
+[10]
+There is no question that these actions involved substantial and complex issues both of law and technology. The lengthy trial was conducted over a period of six months at three different geographic locations, Heidenheim, Federal Republic of Germany; Thorold, Ontario and Toronto. The documentary examination for discovery involved substantial numbers of documents (including the documentation and transcripts of the proceedings in Federal Court action T-1003-76) as well as technically complicated documents, being primarily the engineering drawings produced by the parties in the course of the actions. The examinations for discovery were very lengthy, involving 15 separate days and a significant expenditure of time for preparation and conduct. There have been 26 contested motions and appeals in these actions  which have involved a significant expenditure of time in preparation and argument.
+[11]
+It must also be emphasized that if Beloit had admitted, prior to trial, that the Schiel paper was "printed" and "published" within the meaning of the Patent Act, it would not have been necessary to prepare and call the 16 witnesses whose evidence was solely directed to that issue, or to file their affidavit evidence at the trial of these actions in Heidenheim and Toronto. This conduct needlessly lengthened the duration of the proceedings within the meaning of rule 344(3) (k). In my view, it was a fact which should have been admitted and Beloit's failure to do so is a factor to be taken into consideration by this court pursuant to rule 344(3)(l).
+[12]
+I am persuaded that to allow costs according to Tariff B would be inadequate in these circumstances, particularly in light of my findings, that the evidence in support of the allegations made by the applicants was overwhelming. Having considered the result of the proceedings, the importance and complexity of the issues and the volume of work, I am satisfied to exercise my discretion and make an order giving special directions to the Taxing Officer.
+[13]
+I hereby order that the applicants J.M. Voith GmbH and Voith S.A. shall be allowed costs as follows:
+That separate Tariff B amounts shall be allowed in each of the two actions for each of the following items:
+(a) preparation and filing of pleadings;
+(b) services prior to examination for discovery;
+(c) preparation for trial.
+All reasonably necessary disbursements, including living and travelling expenses, in relation to the following attendances at Heidenheim, Germany:
+(a) attendance by Roger T. Hughes, Timothy M. Lowman and Michael I. Stewart (January 19-23, 1987);
+(b) attendance by Michael I. Stewart (November 24-26, 1987);
+(c) attendance by Roger T. Hughes and Michael I. Stewart (November 30 - December 2, 1988).
+All reasonably necessary disbursements for the living and travelling expenses of Roger T. Hughes, Timothy M. Lowman and Michael I. Stewart, in relation to the proceedings in Heidenheim.
+Fees and expenses of two counsel for J.M. Voith on the discoveries of J.M. Voith and Beloit in these two actions.
+Increases over the amounts specified in Tariff B for the services of counsel with respect to:
+(a) preparation and filing of pleadings, in particular to $5,000 in T-1350-86 and to $2,500 in T-1607-86;
+(b) services prior to examination for discovery in each action, to $5,000;
+(c) examinations for discovery, by increasing the fee for senior counsel to $1,000 and for junior counsel to $500 per diem;
+(d) preparation of and appearance on all opposed interlocutory motions, by increasing the fee for counsel per half day spent in court to $250;
+(e) conduct of the trial, by increasing senior counsel fees to $1,500 per diem and junior counsel fee to $750 per diem.
+Reasonable fees and disbursements in  relation to the travel, accommodation and living expenses for the preparation of their testimony and attendance at trial at the proceedings in Heidenheim, of the witnesses listed in paragraph 3(2)(a) of the applicant's amended notice of return of motion dated May 31, 1990.
+Reasonable fees and disbursements, including travel, accommodation, and living expenses, for the preparation of the statement of Christian Schiel and attendance at the proceedings in Toronto of Christian Schiel, Wolfgang Weitzel and Deitrich Schlette of J.M. Voith GmbH.
+Reasonable fees and disbursements, including the travel, accommodation, living expenses, for the preparation of the testimony and attendance at trial, at the proceedings in Toronto of the expert witness Frank Johnson.
+[14]
+There are two comments I wish to make concerning the applicant's request for the fees, disbursements and living expenses of their witnesses. First, the court should not disallow the costs of a witness as unnecessary unless it is satisfied that the party could not reasonably have thought the witness' evidence to be relevant to and supportive of the case. The court must consider what would have appeared reasonable to the parties at the time of the trial. I am satisfied that the witnesses called by the applicants meet this criteria and accordingly reasonable fees and disbursements relating to them should be allowed.
+[15]
+As to the expert witnesses, Christian Schiel, Wolfgang Weitzel, Deitrich Schlette and Frank Johnson, there is no doubt that their attendance at the proceedings was essential to the proper conduct of these actions. It is not reasonable to limit the expert's fees and expenses to the days in which he testified. I agree with Mr. Justice Dube in Amfac v. Irving Pulp & Paper (unreported, T-166-80, December 9, 1985) when he stated at page 6:
+"... in complex patent matters such as this one, an expert is expected to do more than merely defend his affidavit. His presence may be necessary throughout the other party's case so as to be in a position to apply his expertise to the facts of the case so as to be in a position to apply his expertise to the facts of the case as presented by the other side. He may also be called upon to rebut the opinions of other experts who took the stand before him."
+[16]
+In addition, the $2,000 paid into court by J.M. Voith GmbH on commencement of action no. T-1350-86 as Security for Costs should be paid out of court to Sim, Hughes, Dimock, Solicitors for the applicants, in trust, together with interest. Beloit Corporation and Beloit Canada Ltée/Ltd. are to pay the sum of $14,463.20 to the applicants, this being the amount paid by the applicants to Beloit's counsel for their travelling and living expenses in relation to the proceedings in Heidenheim.
+[17]
+There are certain items listed in the applicants' notice of motion which I have not dealt with. First, it is requested that all reasonably necessary disbursements in relation to the proceedings in Heidenheim be allowed, namely expenses paid to the court, rental of the court room, reporter's fees and disbursements. In my view, the equitable solution is to split these expenses between the parties involved, that is, between Voith, Beloit, Valmet-Dominion Inc. and General Electric Canada Inc.
+[18]
+Second, the applicants request that a counsel fee be allowed for attendance of Roger T. Hughes, Timothy M. Lowman and Michael I. Stewart at the premises of the Quebec and Ontario Paper Company at Thorold, Ontario for the purpose of inspecting a press section of a commercial paper machine. This inspection was made at the request of Beloit. In this regard, I am prepared to order that a reasonable amount be allowed to cover the expense incurred for the attendance of Michael I. Stewart, the patent agent, on that  occasion.
+[19]
+The applicants submit that the amounts paid for the services of the patent agent retained by them, Michael I. Stewart, constitute reasonable and necessary disbursements and request that all reasonable expenditures in relation to his attendance at trial in Toronto be allowed. In my view, these expenses are part of overhead and no allowance shall be made for them.
+[20]
+Costs for appearing on this application are hereby fixed and awarded to the applicants at $250.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/nmg
+[End of document]

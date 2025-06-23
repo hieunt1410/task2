@@ -1,0 +1,159 @@
+Lundbeck Can. Inc. v. Ratiopharm Inc., [2008] F.T.R. Uned. 585 (FC)
+MLB unedited judgment
+Lundbeck Canada Inc., H. Lundbeck A/S and Merz Pharma GmbH & Co. KGaA (applicants) v. Ratiopharm Inc. and The Minister of Health (respondents)
+(T-414-08; 2008 FC 579)
+Indexed As: Lundbeck Canada Inc. et al. v. Ratiopharm Inc. et al.
+Cite As: [2008] F.T.R. Uned. 585
+Federal Court
+Aronovitch, Prothonotary
+May 6, 2008.
+Counsel:
+Steven Garland, T. Nessim Abu-Zahra, for the applicants;
+Arthur Renaud, for the respondents.
+Solicitors of Record:
+Smart & Biggar, Ottawa, Ontario, for the applicants;
+Bennett Jones, LLP, Toronto, Ontario, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Aronovitch, Prothonotary
+: The applicants are seeking case management and proposing a timetable for the proceeding that would have the respondent Ratiopharm, Inc. (Ratiopharm) deliver its evidence on issues of invalidity before the applicants. In other words, to invert the order in which evidence is submitted in a prohibition proceeding under the
+Patented Medicines Notice of Compliance Regulations (Regulations)
+.
+[2]
+By agreement of the parties, I will address only whether, in the circumstances, it is appropriate to invert the order in which evidence is served, leaving the timetable to be dealt with by the case management judge.
+[3]
+For the reasons set out below, I find that the present case is an appropriate one in which to order the reversal of evidence on issues of invalidity as it will more likely than not lead to the just, most expeditious, and least expensive determination of the underlying application on its merits.
+Background
+[4]
+The parties to this motion are involved in prohibition proceedings in respect of the chemical memantime hydrochloride, the medicinal ingredient in a drug marketed and sold in Canada by Lundbeck Canada Inc. (Lundbeck) under the name EBIXA for use in the treatment of a variety of conditions, including Alzheimer's disease. The prohibition proceedings were initiated on March 13, 2008 when the applicants filed a Notice of Application, seeking an order prohibiting the Minister of Health from issuing a Notice of Compliance (NOC) to Ratiopharm for its 10 mg memantine hydrochloride tablets until the expiry of Canadian Patent No. 2,014,453 ('453 patent) and 2,426,492 ('492 patent).
+[5]
+The application for prohibition was filed in response to a letter dated January 24, 2008 sent by Ratiopharm to Lundbeck purporting to be a Notice of Allegation (NOA). The NOA is 35 pages long and includes 4 schedules listing prior art. It raises numerous allegations in respect of each of the two patents at issue, including listing, invalidity and non-infringement. These allegations are supported by a substantial number of prior art publications and other references: 56 publications are listed in respect of the allegations concerning the '453 patent and 47 publications in respect of the '492 patent.
+[6]
+In particular, Ratiopharm makes the following submissions and raises the following allegations in its NOA in respect of the '453 patent:
+Ratiopharm has not early worked the patent;
+Ratiopharm will not infringe the patent and moreover, the Gillette defence applies;
+The patent is improperly listed; and
+The patent is invalid on the following grounds:
+(i) Anticipation
+(ii) Obviousness
+(iii) Claims broader than the invention made or disclosed
+(iv) Insufficiency
+(v) Ambiguity
+(vi) Lack of utility
+[7]
+In respect of the '492 patent, Ratiopharm makes the allegations with the addition of the following grounds of invalidity;
+(i) Anticipation
+(ii) Obviousness
+(iii) Inventorship
+(iv) Untrue material allegation
+(v) Lack of patentable combination
+(vi) Lack of good faith prosecution
+(vii) Lack of utility
+(viii) Claiming inoperable elements
+(ix) Insufficiency; and
+(x) Ambiguity
+[8]
+In their Notice of Application, the applicants join issue on all of the above-noted allegations and variously take issue with the adequacy of the NOA.
+[9]
+Effective January 7, 2008, the Federal Court issued a Practice Direction in respect of proceedings initiated pursuant to the
+Regulations.
+The Direction cites the challenges that the growing number of intellectual property cases, most notably under the
+Regulations,
+poses for the workload of the Court and speaks of the Court's implementation of flexible and innovative case management to preserve the Court's resources while ensuring the timely and efficient disposition of NOC proceedings.
+[10]
+In addition to mandating case management for every newly initiated NOC proceeding, the Direction contemplates an initial case management conference, near inception of the proceedings, to discuss, among other matters, whether it may be appropriate to reverse the order in which some or all of the evidence is submitted. Such a reversal involves a departure from the traditional approach whereby the applicant files all of its evidence first, and the respondent files all of its evidence thereafter, in response.
+[11]
+The applicants say that the present case is a particularly appropriate one in which to order a reversal of the order in which the evidence on the invalidity is submitted, as it will serve to narrow the issues on invalidity, which, in turn, will reduce the number of experts and the volume of evidence before the Court. In addition, say the applicants, the proposed reversal will reduce the likelihood of interlocutory motions and need for reply evidence, resulting in overall savings of time, expense, and judicial resources.
+[12]
+The applicants also maintain that the proposed reversal in the order of evidence on validity is consistent with the presumption of patent validity as set out in section 43(2) of the
+Patent Act
+, R.S.C. 1985, c. P-4, as well as the jurisprudence on the burden of proof in NOC proceedings to the effect that the respondent has the burden to adduce evidence on invalidity so as to put the invalidity allegations in its NOA "in play" (
+Pfizer Canada Inc. v. Canada (Minister of Health)
+, 2007 FCA 209, 60 C.P.R. (4th) 81). They rely as well on the following comments of Justice Hughes in
+Pfizer Canada Inc. v. Canada (Minister of Health)
+, 2008 FC 11 at paragraph 32, regarding the burden of proof and what is required when issues are raised regarding the invalidity of a patent.
+1. The second person, in its Notice of Allegation may raise one or more grounds for alleging invalidity;
+2. The first person may in its Notice of Application filed with the Court join issue on any one or more of those grounds;
+3. The second person may lead evidence in the Court proceeding to support the grounds upon which issue has been joined;
+4. The first person may, at its peril, rely simply upon the presumption of validity afforded by the
+Patent Act
+or, more prudently, adduce its own evidence as to the grounds of invalidity put in issue ...
+General Principles
+[13]
+The respondent makes two principle arguments in favour of the status quo. First, Ratiopharm argues that Rule 307 of the
+Federal Courts Rules
+, which provides that the respondent in an application has 30 days after service of the applicant's affidavits to serve and file its affidavits in response, grants the respondent the right to respond to the applicant's evidence. Ratiopharm says that by reversing the order of evidence the Court will effectively be "expropriating" its rights under Rule 307.
+[14]
+Ratiopharm's further argument is that a reversal in the order of delivering evidence will ultimately prove inefficient because it will have negative implications with respect to the applicability of the doctrine of abuse of process in NOC proceedings.
+[15]
+The Federal Court of Appeal in
+Sanofi-Aventis Canada Inc. v. Novopharm Limited
+2007 FCA 163 "
+Sanofi-Aventis",
+has stated particularly at paragraphs 22 to 50 that, in the context of NOC proceedings, the parties must be aware that relitigating a patent that, in such proceedings, has previously been held to be invalid, constitutes a waste of scare judicial resources and abuse of process unless the party can clearly show that it has better evidence or argument. It therefore, is in the best interests of a first party to ensure that its best evidence and argument as to validity is raised at the first instance as it would be an abuse for a first party to assert that it should be granted another opportunity to defend the validity of its patent in a subsequent proceeding involving the same patent and same allegations of invalidity.
+[16]
+The respondent maintains that as a result of a reversal in the order of evidence, the applicant will no longer be required to put its best foot forward. It will simply be required to respond to the evidence adduced by the respondent with the consequence that respondents will no longer be able to invoke the abuse of process doctrine. In the result, scarce judicial resources will be squandered that are now preserved by avoiding duplicative litigation.
+[17]
+Finally, Ratiopharm proposes that if the Court is inclined to invert the order of the delivery of evidence on invalidity, it should limit the reversal to certain grounds of invalidity. In particular, the applicants should file their evidence first in respect of Ratiopharm's allegations that the claims of the '453 patent lack utility and are broader than the invention made or disclosed, that the claims of the '492 patent are invalid for lack of utility, and in respect of Ratiopharm's allegations of lack of good faith regarding the '492 patent. This partial reversal of the evidence on invalidity is justified on the basis that these allegations are dependent upon factual evidence that is within the applicants' knowledge and control.
+[18]
+While the Court has previously considered proposals to reverse the order of filing evidence, in whole or in part, this appears to be the first decision that post-dates the recent Practice Direction. Notably, in each of these prior cases, the Court has declined to exercise its discretion to order a reversal of the order of filing. However, the Court has confirmed that it has the discretion to make such an order under either Rule 55, which permits the Court to depart from the usual rules, or pursuant to Rule 385(1)(a), which permits a case management judge to exercise broad discretion. (
+Abbott Laboratories v. Canada (Minister of Health)
+, 2007 FC 1291).
+[19]
+Given the discretion afforded to case management judges, the Court can approve a variety of different scheduling proposals specifically tailored to the facts and issues raised in each case. On a motion for a scheduling order that involves a departure from the ordinary course of events, the moving party bears the onus of demonstrating that the requested order will ensure the just, most expeditious and least expensive determination of the matter. The Court must be satisfied of the efficiency of the proposal without however affecting "the substantial rights of the parties and the fairness of their procedural rights":
+FRAGMENT_SUPPRESSED.
+[20]
+I will first comment on Ratiopharm's two arguments for opposing any reversal of the order of evidence, essentially arguing for the maintenance of the status quo. As to whether the generic respondent will lose its "right" under Rule 307, to serve its evidence in response, the rule confers a procedural rather than a substantive right, subject always to the discretion of the Court to dispense with compliance with the rule. The inversion of the order of evidence also does not work a procedural inequity where the respondent can show that it requires a right of reply, and has the opportunity to do so.
+[21]
+I am also not persuaded by Ratiopharm's second argument concerning the abuse of process doctrine. First,
+Sanofi-Aventis,
+establishes a principle that is to be applied on a case by case basis. On that ground alone it is premature to speculate as to the application of the principle. As a general rule however, irrespective of which party files its evidence on validity first, the applicant's evidence must respond to the allegations in the NOA, not the evidence filed by the respondent. I see is no reason that the Court cannot continue to require the applicant to put in its best case whatever the order of the evidence.
+Partial and full reversal on invalidity
+[22]
+Turning to the specific submissions made in respect of the reversal of the order of evidence, as I have stated above, both parties agree that the applicants should file their evidence first on infringement. The issue that divides the parties concerns the order of the delivery of the evidence in relation to allegations of invalidity. The alternatives for consideration in that regard are as follows:
+- Lundbeck files first on invalidity (status quo).
+- Lundbeck files first on utility ('453 and '492 patents), claims broader ('453 patent) and lack of good faith ('492 patent); Ratiopharm files first on all other grounds of invalidity (partial reversal on invalidity); and
+- Ratiopharm files first on invalidity (full reversal on invalidity);
+[23]
+Before examining the alternatives in detail, I think it useful to consider briefly Prothonotary Tabib's decision in
+Purdue
+, supra, in which she had a similar motion under consideration. The applicant in that case had proposed a schedule in which the respondent was required to serve its evidence on validity first. While
+Purdue
+was decided prior to the issuance of the Practice Direction, in my view the point is without consequence.
+[24]
+At paragraphs 13-21 of her decision, Prothonotary Tabib considers the applicant's scheduling proposal and discusses the appropriateness of reversing the order of the delivery of the evidence on invalidity as follows:
+[13] It is with respect to the invalidity issues that I can conceive of the most potential for narrowing the issues and gaining efficiencies in time and expenses.
+The Applicant conceded that with respect to allegations of lack of sound prediction and over-broadness, it would likely have to file factual evidence from the inventors before Pharmascience could be required to file its evidence.
+(emphasis mine)
+Prothonotary Tabib goes on to consider the savings that would result in narrowing issues and limiting the number of experts, by reason of the generic having proceeded first:
+[16] .... The fewer the experts, the less time will be necessary to coordinate, schedule and conduct their cross-examinations. This results in a less expensive determination of the issues as well as a more expeditious one.
+She then notes some of the challenges presented by the partial reversal of the order of the submission of evidence on invalidity:
+[17] .... Indeed, the very complexity of the issues and the awkwardness created by the partial reversal needed to deal with the allegations of non-infringement, lack of sound prediction and over-broadness, would require a high degree of cooperation between the parties ...
+[21] As mentioned above, this matter involves issues of infringement, lack of sound prediction and inutility for which evidence should be adduced in the normal order; reversal would therefore apply to only part of the evidence, a procedure which, as yet, unfamiliar to the Court and the parties and might for that reason and absent exemplary cooperation between the parties, require more interlocutory inventions by the Court.
+[25]
+Counsel in the present case are cordial and cooperative but evidently disagree on the inversion of the order of evidence and the efficiencies, if any, to be afforded by an inversion of the delivery of evidence. There are also differences of note with
+Purdue
+. As noted in the decision, the applicant in that case conceded that if the Court were to order a reversal, it would likely have to file at least some of its factual evidence before the respondent would be required to file its evidence. The applicants, in this case object to doing so. They say that it is for the generic to make out an arguable case on invalidity and ask why the applicants should be compelled to provide the facts which will ground allegations made by the generic.
+[26]
+Purdue
+, also contemplates the applicant filing only its "factual evidence from the inventors" in respect of sound prediction and overbreadth before the respondent file its evidence. Here, Ratiopharm maintains that the applicants should file first both factual and expert evidence on inutility, claims broader, and lack of good faith. Indeed there is an argument to be made that the factual evidence without comment thereon by experts may not be fully useful or intelligible. Much like cases where parties decline, with reason, to cross-examine on affidavits without seeing the representations in that regard made by the party tendering the evidence.
+[27]
+Having considered these factors, I am not persuaded that a partial reversal will provide any economies in the circumstances. As Prothonotary Tabib observed a partial reversal is a procedure which is as yet unfamiliar to the Court and requires great cooperation. More compelling is that in this instance, neither counsel advocates this method of proceeding or has any enthusiasm for it. I agree with counsel who are
+ad idem
+that a partial reversal, in this instance, offers no efficiencies over the status quo.
+[28]
+I would add that the dissection of the grounds of invalidity in the manner discussed above presupposes that it is possible to identify and separate out the evidence and argument on sound prediction, overbreadth and section 53, of the
+Patent Act
+from the evidence and argument in respect of the other allegations raised in Ratiopharm's NOA. In practice, there is likely considerable overlap both of evidence and argument among the different allegations of invalidity. Requiring each party's experts to address only certain issues in their initial affidavits and other related issues in reply, may create unnecessary duplication and complexity, as it is foreseeable that parties may bring additional motions for clarification requiring time consuming intervention by the Court in the management of the proceeding.
+[29]
+Full inversion on invalidity is also not without complexity. Where, as is the case, the grounds of invalidity include sound prediction, overbreadth, and bad faith, and where the applicant may wish to file factual and expert evidence thereon that is new, it will likely require the adjudication of motions to file reply evidence thereby adding a layer of complexity. However these proceedings in the ordinary course, are rarely immune from motions to adduce reply evidence and in this case, there are obvious and substantial benefits to be gained by having the respondent put in all of its evidence on invalidity issues first that outweigh any complexity engendered by the possibility of having to provide some reply to new facts that may be in the applicants' possession.
+[30]
+The substantial narrowing of the issues on invalidity that are in play, along with the likely commensurate limits on the number of experts cannot but offer substantial economies including in respect of the likelihood of the need for reply evidence. I am satisfied that full reversal on issues of invalidity, in the circumstances of this case, is fair, and will result in a trimmer and more expeditious proceeding.
+ORDER
+[31]
+THIS COURT ORDERS THAT
+:
+1. The applicants shall deliver their evidence on infringement and Ratiopharm shall deliver its evidence on invalidity at the same time, such time to be determined by the case management judge.
+2. By agreement of counsel the costs of the motion shall be in the cause.
+[End of document]

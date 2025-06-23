@@ -1,0 +1,97 @@
+[1]
+Hargrave, Prothonotary
+: These reasons arise out motions by the Defendants, Canadian Pacific Railway Company ("CPR") and Canada Maritime Limited (Bermuda) ("Canada Maritime") to strike out a portion of one of the Plaintiffs' affidavits and all of a second affidavit, being Rule 299 affidavits adducing evidence-in-chief in this simplified action. CPR and Canada Maritime say that the Plaintiffs are bound by contradictory formal admissions made by way of affidavits in answer to interrogatories.
+[2]
+As I pointed out in
+Yazdanian v. Canada (Minister of Citizenship and Immigration)
+(1998), 150 F.T.R. 297 (T.D. Protho.), at 298, a party ought not to be permitted to strike out the affidavit of another party, but that this was subject to special circumstances, such as an abusive or clearly irrelevant affidavit, or where the Court is convinced the matter of admissibility should be resolved at an early date. The reason for this is that the trial judge is better placed to assess the weight and admissibility of such affidavit material. A further example of an affidavit which ought to be struck out is where a party will clearly be prejudiced by the material, a point made by Mr. Justice Teitelbaum in
+Belgravia Investments Ltd. et al. v. Canada
+(2002), 220 F.T.R. 246 (T.D.). In the present instance the impugned portion of one affidavit and the entirety of the second affidavit are inadmissible, irrelevant and clearly prejudicial to the Defendants. Before turning to a further consideration of this, I will deal with a preliminary jurisdictional question.
+JURISDICTION
+[3]
+As a preliminary matter, one of the counsel questioned the jurisdiction of case managers, given Rule 385(1)(d), which might be read as bringing their jurisdiction to an end once a hearing date has been set. This would bring great joy to overworked prothonotaries. However, one must read that Rule in context:
+"385(1) A case management judge or a prothonotary assigned under paragraph 383(c) shall deal with all matters that arise prior to the trial or hearing of a specially managed proceeding and may
+. . . . . . .
+(d) subject to subsection 50(1), hear and determine all motions arising prior to the assignment of a hearing date."
+"385(1) Le juge responsable de la gestion de l'instance ou le protonotaire visé à l'alinéa 383c) tranche toutes les questions qui sont soulevées avant l'instruction de l'instance à gestion spéciale et peut:
+. . . . . . .
+d) sous réserve du paragraphe 50(1), entendre les requêtes présentées avant que la date d'instruction soit fixée et statuer sur celles-ci."
+Reading it in context one can see that it deals with two different matters, the first being the temporal extent of the jurisdiction of the case management judge or prothonotary and the second giving other members of the Court and particularly the hearing judge, liberty to deal with motions, particularly as to trial management. This was the point which Madam Justice Dawson made in
+Seaspan International Ltd. v. Canada
+, [2001] F.T.R. Uned. 611; 2001 FCT 937 (T.D.).
+[4]
+In
+Seaspan
+(supra) Madam Justice Dawson dealt with a reflection of the present issue. There it was argued that she, as trial judge, did not have jurisdiction to deal with a trial management motion in advance of a trial. She pointed out that the submission failed to recognise the separate and distinct roles of a case manager and the trial judge, beginning with the proposition that:
+"13 The powers of a case management judge are set out in Rule 385(1) which provides generally that a case management judge 'shall deal with all matters that arise prior to the trial or hearing of a specially managed proceeding' .... A trial judge hearing an action maintains complete control over the trial process, and retains unimpeded jurisdiction to hear a motion brought by a party during the trial to amend its pleadings."
+While this passage refers to a motion brought during trial to amend pleadings, the motion was in fact heard at a special sitting in advance of the trial. Madam Justice Dawson went on to point out that nothing in the Rule was intended to foreclose any motion being made to the judge appointed to hear the trial.
+[5]
+In effect
+Seaspan
+(supra) stands for the proposition that while case managers are required to deal with all matters arising before trial, the ultimate qualification merely relieves case managers of the obligation to hear all of the motions before trial without exception, leaving it open to the appointed trial judge to deal with trial management matters. To extend Rule 385(1)(d) to a loss of jurisdiction by trial managers, requiring trial judges to hear all interlocutory motions taking place in the year or so between allocation of a trial date and the hearing, would be to the great disappointment and surprise of overworked Trial Division judges.
+CONSIDERATION
+[6]
+The pertinent issues, dealing with striking out of affidavits, revolve about the interrogatories which, in a simplified action, are answered by affidavit. Here I have kept in mind that such interrogatories are, by reason of the use of affidavits, the time allowed to plan an answer and the assistance of counsel in framing the answers, not of the same nature as oral examinations for discovery: see for example the reasons of Mr. Justice Hugessen in
+FRAGMENT_SUPPRESSED
+[7]
+I have struck out paragraphs 7 and 8 from the second affidavit of Rita Aloise. A key issue in striking out those paragraphs of the second Aloise affidavit, that sworn 18 October 2002, is the characterisation of the response to fourth interrogatory question, as a formal admission. There the Defendant, Canada Maritime Limited asks the Plaintiff, Tempo Marble & Granite Ltd. ("Tempo Marble"), the latter not being named in the carriage documentation, for an explanation as to the interest of Tempo Marble to sue. This is a proper question, for it asks what evidence the witness has to support a position as a party. The answer could well contain elements of law, however it is essentially a question of fact: here I paraphrase
+Montana Band
+at page 55. There might have been an answer limited to the question, however it appears that the deponent for Tempo Marble, Ms Aloise, claims and import manager, situated in Concord, Ontario, could not contain herself. Her answer is clearly not vetted. Thus we have a candid statement: Tempo Marble did not become the owner of the cargo at issue in this action; and that Tempo Marble would only have become the owner of the cargo at issue if it had been delivered to Tempo Marble's premises in good order and condition. This was, as I have said, in response to a proper question, indeed, a question to which former counsel for Tempo Marble did not object. The answer is properly within the scope of an allowable answer, for while it has elements of law in it, it remains in essence a factual answer. That is so even though it has legal consequences and adopts a certain view of the law: here I would refer to
+Montana Band
+(supra) at pages 54 and 55, paragraphs 23 and 27.
+[8]
+The answer was certainly accepted by both of the Defendants, Canada Maritime and CPR. Indeed, there being another Plaintiff, those Defendants built their response to the claim around that answer.
+[9]
+Normally, where there is no real issue of prejudice and no other special circumstances, I would let the question of whether this was a formal admission, which might not be modified at trial, or alternatively, an informal admission which might be explained away, go on to the prothonotary taking the trial. However here there is prejudice, for the Defendants have relied upon a clear statement as to ownership, a statement which was not explained or modified in any way by the Plaintiffs, until the 11th hour, at a time far too late for the Defendants to mount a proper or indeed any realistic defence. Former counsel for the Plaintiffs took a far too casual approach not only to the interrogatories and the duties of the deponent of the affidavit in response, duties to make proper inquiries and to make a proper and responsive answer, but also to producing a properly considered answer.
+[10]
+I have considered the Plaintiffs' case law in which there is a differentiation between formal and informal admissions and the Plaintiffs' cases in which modification or explanation of the latter have been allowed, for example in
+Preston v. 20th Century Fox Canada Ltd. and Lucas et al.
+(1987), 15 F.T.R. 54 (T.D.), at 55, and
+Flexi-Coil Ltd. v. Bourgault (F.P.) Industries
+(1991), 123 N.R. 235 (F.C.A.), at 238, where the procedure giving rise to the informal admissions was that of examination for discovery, not interrogatories by affidavit. Thus the Plaintiffs' cases are distinguished.
+[11]
+Paragraph 4 of the sworn interrogatory answers of Rita Aloise is a formal admission. Here I accept that formal admissions include those referred to in
+Sopinka on Evidence
+. However formal admissions also extend to other types of responses, including by affidavit, as set out in
+Phipson on Evidence
+(14th Ed.), at page 621 in which the editors point out that a formal admission for the purposes of trial may come into being through interrogatories, there referring to Order 26, Rule 1, of the
+Rules of the Supreme Court
+, being a rule which provides for interrogatories. I would also refer to page 630 of
+Phipson
+, which touches upon admissions contained in affidavits. Further, this is consistent with the observation of Mr. Justice Muldoon in
+Vancouver Art Metal Works Ltd. v. Minister of National Revenue
+(2001), 202 F.T.R. 287 (T.D.), at 293, that "admissions, such as those presented in affidavits, cannot be contradicted by evidence at trial".
+[12]
+That a formal admission cannot be contradicted by later evidence is proper, for there must be sufficient certainty in such a disclosure. Failing such certainty, ambush at trial would be not uncommon. I would add that it is no answer, in a simplified action, to submit as in the present instance, that Rule 299(1), requiring that the evidence of the Plaintiff be submitted by affidavit 20 days before trial, is protection enough against ambush. That is clearly not the case, for proper and diligent preparation for trial may take many months, particularly as here where condition of the cargo on shipment in Italy and deep sea carriage is involved. Disclosure of evidence 20 days before a trial is insufficient to avoid ambush and all the more so where a party seeks to void a formal admission.
+[13]
+In the present instance it would be inappropriate and indeed a waste of everyone's time, to allow Ms Aloise to now rely upon recent affidavit evidence which seeks to explain away and contradict an initial, candid, formal admission. Thus, paragraphs 7 and 8 of her subsequent affidavit of 18 October 2002 are struck out.
+[14]
+CPR and Canada Maritime also seek to strike out the whole of the affidavit of Andrea Cosci. The Cosci affidavit is that of the manager of Savema S.p.a. at Pietrasanta, Italy, who sold and packed the marble which went to Tempo Marble. Andrea Cosci deposes that Savema has been supplying Tempo Marble with marble and stone for 12 years. The affidavit sets out the sale and purchase by Tempo Marble, a clear attempt to override the formal admission of Ms Aloise and then goes on to detail the packing, securing and inspection of the marble in the shipping container.
+[15]
+The difficulty the Defendants have with the Cosci affidavit is that it answers all the questions asked by way of interrogatories of the shipper, the Plaintiff, General Noli Spedizioni Internazionali S.p.a. ("General Noli") relating to the packing and securing in the container and the transportation of the container, within Italy, to the shipping port. Packing and securing of the sawn slabs of marble is critical, for the slabs are shipped on edge and therefore must be secured within the container in a substantial manner. The affidavit answers of General Noli, in response to the interrogatories directed to them by the Defendants, are completely unresponsive. The deponent seems completely unaware of any duty to make reasonable enquiry of their longstanding shipper and packer, Savema S.p.a. Accepting the affidavit evidence of General Noli, as the Defendants were so entitled, there was apparently no known nor available information as to the packing, securing or shipping of the slaps of marble in Italy.
+[16]
+The Plaintiffs surprised the Defendants with the affidavit of Andrea Cosci, serving it 30 days before trial. Given that the Defendants had their cases organized for trial on the basis of the sworn interrogatory answers and that any contrary evidence as to packing, stowing and road transport would be in Italy, this is clearly an ambush.
+[17]
+The Plaintiffs say that they should be excused from any taint or suggestion of ambush, for once they received the evidence of Savema they served that evidence without delay. That it took the Plaintiffs some five years to find out packing details, having earlier misled the Defendants with sworn statements that no evidence was available, leaving the Defendants with 30 days within which to develop their rebuttal, brings current events even more into focus as an ambush. Here I would also note that the Plaintiffs made no timely report of the alleged damage, in the summer of 1997 when the container of damaged marble was received, so that the Defendants might have had their own surveyor attend in order to perform a joint survey and thus arrive at their own theory of packing and bracing failure. Indeed, the Plaintiffs say that they will not be producing their own survey as evidence at the trial.
+[18]
+General Noli had an initial duty to provide information as to the packing and blocking of marble in the container, even if it meant seeking information in the hands of a third party, here a third party long known to the Plaintiffs and upon whom the Plaintiffs have relied on packing and blocking marble in container for many years: see, as a clear statement of this duty, the decision of Mr. Justice Rouleau in
+Elders Grain Co. et al. v. Vessel M/V Ralph Misener et al.
+, [2000] F.T.R. Uned. 587 (T.D.), at paragraph 24.
+[19]
+Again this affidavit flies in the face of a sworn statement, a formal admission that established a complete lack of evidence as to packing and blocking of the marble, information on which the Defendants were entitled to rely. Even if a sworn statement, that no evidence exists, might for some reason not be relied upon by the Defendants as a formal admission, it is far too late to surprise and indeed ambush the Defendants with material which ought to have been known to the Plaintiffs years ago and made available to the Defendants during the exchange interrogatories and during settlement negotiations which were a part of the formal pre-trial conference procedure.
+[20]
+To allow the Cosci affidavit in at this point would be to prejudice the Defendants to an extent which the Defendants could not in any way now remedy or be compensated. The Cosci affidavit of 2 October 2002 is struck out.
+CONCLUSION
+[21]
+This loss of affidavit evidence may be difficult from the point of view of the Plaintiffs. However, the policy today is to provide enough simply expressed evidence so that each party engaged in the discovery or interrogatory procedure is able to know the case to be met. A party must not be put at a disadvantage by being taken by surprise at trial: see
+Montana Band
+(supra) at 51. The Court of Appeal in
+Yacyshyn v. Minister of National Revenue
+, [1999] 1 C.T.C. 139; 236 N.R. 367 (F.C.A.), takes it as given that the days of trial by ambush are gone and that "the sound rule of practice and procedure aims at ensuring both the fairness and the expeditiousness of the proceedings." (page 141).
+[22]
+What appears to have happened here is that the Plaintiffs were all too ready to commence an action, but then they and their former counsel took far too casual an approach, a clear dereliction of duty, when it came to understanding their case and then demonstrating their case to the other side by way of interrogatories. That has now irreparably prejudiced the Defendants, Canada Maritime and CPR. The Plaintiffs must live with the fact that some of their evidence, which may well be necessary evidence, is gone.
+[23]
+There will be two sets of costs, one to Canada Maritime and the other to CPR, payable in any event.
+Motions allowed.
+Editor: Rodney A. Jordan/pdk
+[End of document]

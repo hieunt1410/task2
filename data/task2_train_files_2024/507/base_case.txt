@@ -1,0 +1,120 @@
+[1]
+MacKay, J.
+: This is an application for judicial review of a decision of the Veterans' Review and Appeal Board ("the Board"), dated April 10, 2001, in which the Board declined the request of the applicant, Christine Saumure, to review its earlier decision, dated June 30, 1999. That earlier decision had rejected her appeal against a finding that she was not entitled to a pension for certain disabilities she claimed arose from her service in the Canadian armed forces between February, 1985 and March 26, 1985.
+Background
+[2]
+The applicant claims that in March 1985 she was the victim of a sexual assault, by a master corporal, while she was stationed as a recruit at Canadian Forces Base ("CFB") Cornwallis, Nova Scotia. At the time of the alleged assault, Ms. Saumure was being evaluated for possible release because of difficulties from pre-training health conditions, and after the alleged assault she was released on March 26, 1985, before completion of her basic training.
+[3]
+At the time, the applicant did not report the incident to either the military authorities or the police. On March 20, 1985, Ms. Saumure signed a document entitled "Statement of Medical Status on Release", in which she made no mention of any injury or illness suffered as a result of the alleged incident. She now claims that since 1985, as a result of the assault, she has had repeated problems with her emotional health, and that these problems led her to various substance abuse problems and alcoholism, and they created difficulties in relationships with others.
+[4]
+In December 1997, the applicant reported the alleged incident to military police at CFB Gagetown. Thereafter an investigation was conducted by the military police and the Saint John City Police. No charges were laid.
+[5]
+After reporting the incident, Ms. Saumure made application for a pension and she received treatment at CFB Gagetown by the base military surgeon, Dr. Randy B. Russell. He reported that he believed she was assaulted during her career in the forces and that this resulted in a modified form of post traumatic stress disorder ("PTSD").
+[6]
+Section 21(2)(a) of the
+Pension Act
+, R.S.C. 1985, c. P-6, as amended, provides in part:
+"21(2) In respect of military service rendered in the non-permanent active militia or in the reserve army during World War II and in respect of military service in peace time,
+(a) where a member of the forces suffers disability resulting from an injury or disease or an aggravation thereof that arose out of or was directly connected with such military service, a pension shall, on application be awarded to or in respect of the member in accordance with the rates for basic and additional pension set out in Schedule I;"
+"21(2) En ce qui concerne le service militaire accompli dans la milice active non permanente ou dans l'armée de réserve pendant la Seconde Guerre mondiale ou le service militaire en temps de paix:
+a) des pensions sont, sur demande, accordées aux membres des forces ou à leur égard, conformément aux taux prévus à l'annexe I pour les pensions de base ou supplémentaires, en cas d'invalidité causée par une blessure ou maladie -- ou son aggravation - consécutive ou rattachée directement au service militaire;"
+[7]
+The applicant's application for a pension was refused by an Entitlement Board on February 16, 1999. The Board found that despite Dr. Russell's suggestion of the applicant's condition and its cause there was no psychiatric evidence, and consequently little persuasive evidence that the applicant suffered from PTSD. Moreover, even if the Board were persuaded the condition was caused by the rape as claimed, it was not clear that it arose out of or was directly connected with her military service.
+[8]
+The applicant pursued an entitlement appeal, which was dismissed by the Board on June 30, 1999, for essentially the same reasons. In its decision of June 30, 1999, the Board stated:
+"The Board finds in examining the factum, that there is no psychiatric evidence, and no other persuasive evidence that the claimant has PTSD. The CFB Base Surgeon, Dr. R.B. Russell, suggested that the Appellant might have a modified form of Post Traumatic Stress Disorder. Even assuming however that the Appellant does have PTSD, it is not clear how she acquired it given the lack of medical evidence and other evidence."
+[9]
+Following the Board's decision of June 30, 1999, the applicant consulted a psychologist, Dr. Gary Fecteau, who interviewed her on three occasions for a total of five-and-a-half hours, in late November and early December 2000. On February 21, 2001, Dr. Fecteau wrote to the Department of Veterans Affairs, enclosing a Psychological Assessment Report in which he reviewed the applicant's problems with alcohol and substance abuse, her tendency to be a workaholic, and her problems with intimacy and anger control. He described various tests he had administered to her. Dr. Fecteau concluded that the applicant's "... symptom pattern is characteristic of chronic maladjustment and personality change as a result of post traumatic stress disorder." The applicant asked the Board to reconsider its decision of June 30, 1999 in light of this new evidence.
+[10]
+In its decision of April 10, 2001, which is the subject of this application for judicial review, the Board refused to reconsider its decision of June 30, 1999. While the Board did not challenge the validity of Dr. Fecteau's diagnosis of PTSD, the Board found that the letter did not constitute "new evidence that could be expected to persuade the Board that the Appellant's condition is connected with service, in a manner that would give rise to pension entitlement". The decision concluded that it found no errors of fact or law in the decision of June 30, 1999 and that since it did not "accept the letter from Dr. Fecteau as new and relevant evidence, other than a confirmation of the diagnosis, the Board will not review on its own motion the earlier decision".
+Issues
+[11]
+The applicant submits that the Board's weighing of the evidence and its conclusion that Dr. Fecteau's letter does not constitute new evidence was patently unreasonable bearing in mind the statutory presumptions and obligations of the Board. In written submissions the applicant also urges that in light of the new evidence adduced, the Board's decision of June 30, 1999 was patently unreasonable. At the hearing I agreed with the respondent's submission that the latter decision was not in issue in this application which concerns the decision of April 10, 2001, rejecting the report of Dr. Fecteau as not constituting new evidence.
+Did the Board err by finding that Dr. Fecteau's letter does not constitute new evidence in this case?
+[12]
+Section 32(1) of the
+Veterans Review and Appeal Board Act
+, S.C. 1995, c. 18, as amended ("the
+Act
+") provides, inter alia, that, upon application, an appeal panel may reconsider a decision made by it or by predecessor boards under s. 29(1) if new evidence is presented to the appeal panel.
+[13]
+That provision was considered by Mr. Justice Teitelbaum in
+MacKay v. Canada (Attorney General)
+(1997), 129 F.T.R. 286 (T.D.), at para. 26, where he applied the test for "new evidence" set out by the Supreme Court of Canada in
+R. v. Palmer
+, [1980] 1 S.C.R. 759; 30 N.R. 181; 106 D.L.R.(3d) 212, at 224 [D.L.R.]:
+"1. the evidence should generally not be admitted if, by due diligence, it could have been adduced at trial ...
+"2. the evidence must be relevant in the sense that it bears upon a decisive or potentially decisive issue in the trial;
+"3. the evidence must be credible in the sense that it is reasonably capable of belief, and
+"4. it must be such that if believed it could reasonably, when taken with other evidence adduced at trial, be expected to have affected the result."
+[14]
+In the decision here under review, the Board quoted the four-part test set out in
+MacKay
+, supra, and then stated that the letter from Dr. Fecteau "... does not provide new and relevant evidence that would lead the Board to a different conclusion." The Board further commented that Dr. Fecteau's letter was based on history provided by the applicant, which was not substantiated by the record; and that "the absence of evidence affects the validity of this medical opinion, and therefore, it cannot be considered as such probative value for the Board to conclude that a full reconsideration on the merits of the case should be considered".
+[15]
+Although the Board did not specify which of the four branches of the test of new evidence it found were not met in this case, I interpret its decision as indicating that the letter was not credible evidence in the absence of supporting evidence, and that it could not reasonably be expected to have affected the result in this case.
+Did the Board err by finding the letter not to be credible evidence?
+[16]
+With regards to the third branch of the test for new evidence, set out in
+MacKay
+, supra, the applicant submits that the evidence in Dr. Fecteau's letter was reasonably capable of belief, as there was no evidence available to the Board which suggested that the applicant does not have PTSD or that her PTSD could have been the result of any event other than the alleged sexual assault of 1985.
+[17]
+The applicant further submits that the Board erred by referring to correspondence concerning an investigation following the applicant's complaint in 1997 which concluded that there was insufficient evidence against her accused assailant to secure a conviction and thus no charges could be initiated. That reference, it is said, "introduced" the criminal standard of proof, requiring proof beyond a reasonable doubt, instead of the civil standard, requiring proof on a balance of probabilities, that the alleged assault had occurred.
+[18]
+The applicant submits that by relying on this letter, which discussed the Crown's opinion concerning a possible criminal conviction of the applicant's alleged assailant, the Board implicitly adopted a criminal law standard, proof beyond a reasonable doubt, to establish that the applicant had been sexually assaulted by a member of the forces. By doing so, it is said the Board failed to meet its interpretive obligations under ss. 3 and 39. The former section of the
+Act
+requires that the provisions of the
+Act
+, including the provisions relating to claims for pension entitlements, "... be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who served their country so well and to their dependants may be fulfilled". Section 39 of the
+Act
+provides:
+"39. In all proceedings under this Act, the Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case."
+"39. Le Tribunal applique, à l'égard du demandeur ou de l'appelant, les règles suivantes en matière de preuve:
+a) il tire des circonstances et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible à celui-ci;
+b) il accepte tout élément de preuve non contredit que lui présente celui-ci et qui lui semble vraisemblable en l'occurrence;
+c) il tranche en sa faveur toute incertitude quant au bien-fondé de la demande."
+[19]
+The respondent relies on
+FRAGMENT_SUPPRESSED, that statements by doctors about the cause of the applicant's injury in that case were not credible, since the doctors involved had no basis other than the applicant's recitation of events on which to base a conclusion as to the event that caused the injury, and since the applicant's description of the event was contradicted by documentary evidence which he had signed upon his discharge from military service. The respondent submits that the facts in this case are analogous to the facts in
+Hall
+, and therefore the Board did not err by finding that Dr. Fecteau's letter was not reasonably capable of belief.
+[20]
+In my opinion, the facts in
+Hall
+are distinguishable from the facts in this case. In
+Hall
+, there was a gap of four years between the date the applicant claimed to have suffered an accident giving rise to the injury, in 1983-84, and the date he first sought medical attention, in 1987-88. Then there was a further gap of eight years to 1996, when his condition was finally diagnosed as a physical defect in his spinal structure. In the case at bar the applicant first sought medical attention for her symptoms, later diagnosed as PTSD, a psychological or psychiatric condition, in 1997 when she first fully realized her PTSD symptoms, arising from the alleged assault. Furthermore, the letter from Dr. Fecteau, which the applicant alleges constitutes new evidence in this case, indicates that even in 1998, the applicant may have still been coming to terms with her condition:
+"... I met with Ms. Saumure for short-term counselling in 1998 ... I became aware of her earlier traumatic stress experience over our contact at that time. However, she could not access the longer term counselling and therapy needed at that time because of finances as well as possibly readiness to address emotional issues related to this experience."
+[21]
+For the respondent it is submitted that Dr. Fecteau's letter is not reasonably capable of belief, i.e. it is not credible, because:
+- it does not refer to family physician files or any other independent source of information;
+- it does not comment on the risk, if any, of false memory or misrepresentation;
+- it does not make an express finding with respect to the reliability of the history provided by the applicant;
+- the report does not contain any evidence to corroborate the applicant's version of events; and
+- the applicant delayed the reporting of the alleged assault for 12 years.
+[22]
+I simply note that the Board did not state that it was troubled by Dr. Fecteau's letter for any of the aforementioned reasons. I cannot assume the Board considered these arguments. Moreover, in my opinion, the Board's reliance on a criminal standard of proof as a basis for accepting Ms. Saumure's claim that the incident had occurred was patently unreasonable, particularly in light of the interpretive obligations imposed upon the Board by s. 39 of the
+Act
+. The Board did not clearly indicate that the letter from Dr. Fecteau was not credible. If it were to reach that conclusion its reasons should have been clearly stated.
+Did the Board err by finding that the evidence, if believed, could not be reasonably expected to have affected the result?
+[23]
+If the Board erred in finding Dr. Fecteau's letter not to be credible evidence, in my opinion the letter, if believed, could be reasonably expected to have affected the result. Dr. Fecteau's letter describes the alleged sexual assault of the applicant while she was still a member of the forces, and the PTSD which followed. Therefore, the letter, if believed, could provide evidence that the applicant's PTSD, the existence of which was not challenged by the Board, arose out of or was directly connected to her military service, as required by s. 21(2)(a) of the
+Pension Act
+. In
+Cummings v. Canada (Attorney General)
+(1998), 155 F.T.R. 306 (T.D.), Mr. Justice Hugessen set aside a decision of the Board which had refused the appeal of a former woman member of the forces who claimed for injury from an assault committed while she was asleep in military barracks while on temporary assignment.
+[24]
+In my opinion the Board's finding that Dr. Fecteau's letter did not meet the test for new evidence set out in
+MacKay
+, supra was patently unreasonable. If the letter in question was credible, and if it was believed, clearly it could have affected the result.
+Conclusion
+[25]
+In my opinion, with respect, the Board erred in concluding that Dr. Fecteau's letter was not credible for the reason it implied, and it erred in finding the letter, if believed, could not reasonably affect the result. The decision of the Board is quashed, and the applicant's request is remitted for reconsideration by a differently-constituted panel.
+[26]
+An Order goes so providing. In accord with this decision, that panel should accept that the letter from Dr. Fecteau is new evidence, not considered when the earlier decision of June 30, 1999, was made, and it should assess if the evidence provided by that letter is credible, and if so whether it could reasonably be expected to affect the result upon reconsideration of the applicant's claim for a pension.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/pdk
+[End of document]

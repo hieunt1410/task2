@@ -1,0 +1,53 @@
+[10]
+At issue in this case is the adjudicator's interpretation of provisions of the Work Force Adjustment Directive, namely the meaning of the terms "devolution" and "privatization". According to the terms of the Directive:
+"With the exception of those provisions for which the Public Service Commission (PSC) is responsible, this directive is deemed to be part of the collective agreements between the parties and the National Joint Council (NJC) and employees are to be afforded ready access to it." (Applicants' record, at 28.)
+Thus, an adjudicator interpreting provisions of the Directive is in effect interpreting the collective agreement. The appropriate standard of review to be applied by a court reviewing the decision of an adjudicator interpreting the provisions of a collective agreement was discussed by the Supreme Court of Canada in
+Dayco (Canada) Ltd. v. National Automobile, Aerospace and Agricultural Implement Workers Union of Canada (CAW-Canada)
+([1993] 2 S.C.R. 230; 152 N.R. 1; 63 O.A.C. 1, at 250-251 [S.C.R.] (hereinafter
+Dayco
+).) LaForest, J., held as follows:
+"This court has stated in previous cases that courts should, as a matter of policy, defer to the expertise of the arbitrator in questions relating to the interpretation of collective agreements: see
+Volvo Canada Ltd. v. U.A.W., Local 720
+, [1980] 1 S.C.R. 178 and
+Douglas Aircraft Co. of Canada v. McConnell
+, [1980] 1 S.C.R. 245. This development is traced in the dissenting reasons of Wilson, J., in
+National Corn Growers Assn. v. Canada (Import Tribunal)
+, [1990] 2 S.C.R. 1324, at pp. 1340-1342. It is clear that an arbitrator has jurisdiction 'stricto sensu' to interpret the provisions of a collective agreement in the course of determining the arbitrability of matters under that agreement. In that case the arbitrator is acting within his or her 'home territory', and any judicial review of that interpretation must only be to a standard of patent unreasonableness."
+There is no privative clause in the
+PSSRA
+insulating the decisions of adjudicators from review. This was also the case in the
+Volvo Canada
+[see [1980] 1 S.C.R. 178; 27 N.R. 502; 33 N.S.R.(2d) 22; 57 A.P.R. 22] and
+Douglas Aircraft
+[see [1980] 1 S.C.R. 245; 29 N.R. 109] cases cited by LaForest, J., in
+Dayco
+. However, the presence of a privative clause is only one of a number of important factors to be considered by the court in determining the appropriate standard of review. These factors were discussed by the Supreme Court in the
+Pezim v. British Columbia Securities Commission et al.
+(1994), 168 N.R. 321; 46 B.C.A.C. 1; 75 W.A.C. 1 decision, where Iacobucci, J., held at pp. 354 to 355 N.R.:
+"From the outset, it is important to set forth certain principles of judicial review. There exist various standards of review with respect to the myriad of administrative agencies that exist in our country. The central question in ascertaining the standard of review is to determine the legislative intent in conferring jurisdiction on the administrative tribunal. In answering this question, the courts have looked at various factors. Included in the analysis is an examination of the tribunal's role or function. Also crucial is whether or not the agency's decisions are protected by a privative clause. Finally, of fundamental importance is whether or not the question goes to the jurisdiction of the tribunal involved.
+"Having regard to the large number of factors relevant in determining the applicable standard of review, the courts have developed a spectrum that ranges from the standard of reasonableness to that of correctness. Courts have also enunciated a principle of deference that applies not just to the facts as found by the tribunal, but also to the legal questions before the tribunal in the light of its role and expertise. At the reasonableness end of the spectrum, where deference is at its highest, are those cases where a tribunal protected by a true privative clause, is deciding a matter within its jurisdiction and where there is no statutory right of appeal. See
+Canadian Union of Public Employees, Local 963 v. New Brunswick Liquor Corp.
+, [1979] 2 S.C.R. 227;
+U.E.S., Local 298 v. Bibeault
+, [1988] 2 S.C.R. 1048, at p. 1089 (
+Bibeault
+), and
+Domtar Inc. v. Quebec (Commission d'appel en matière de lésions professionnelles)
+, [1993] 2 S.C.R. 756.
+"At the correctness end of the spectrum, where deference in terms of legal questions is at its lowest, are those cases where the issues concern the interpretation of a provision limiting the tribunal's jurisdiction (jurisdictional error) or where there is a statutory right of appeal which allows the reviewing court to substitute its opinion for that of the tribunal and where the tribunal has no greater expertise than the court on the issue in question, as for example in the area of human rights. See for example
+Zurich Insurance Co. v. Ontario (Human Rights Commission)
+, [1992] 2 S.C.R. 321;
+Canada (Attorney General) v. Mossop
+, [1993] 1 S.C.R. 554, and
+University of British Columbia v. Berg
+, [1993] 2 S.C.R. 353.
+. . . . .
+"Consequently, even where there is no privative clause and where there is a statutory right of appeal, the concept of the specialization of duties requires that deference be shown to decisions of specialized tribunals on matters which fall squarely within the tribunal's expertise. This point was reaffirmed in
+United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd.
+, [1993] 2 S.C.R. 316 (
+Bradco
+), where Sopinka, J., writing for the majority, stated the following at p. 335;
+'... the expertise of the tribunal is of the utmost importance in determining the intention of the legislator with respect to the degree of deference to be shown to a tribunal's decision in the absence of a full privative clause. Even where the tribunal's enabling statute provides explicitly for appellate review, as was the case in
+Bell Canada
+, supra, it has been stressed that deference should be shown by the appellate tribunal to the opinions of the specialized lower tribunal on matters squarely within its jurisdiction.
+'On the other side of the coin, a lack of relative expertise on the part of the tribunal vis-à-vis the particular issue before it as compared with the reviewing court is a ground for a refusal of deference.'"

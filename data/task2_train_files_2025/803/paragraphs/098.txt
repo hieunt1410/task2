@@ -1,0 +1,5 @@
+[98]
+I refer to the passage quoted by the plaintiffs at paragraph 23 of their memorandum of fact and law which cites the following passage from
+Miida Electronics Inc. v. Mitsui O.S.K. Lines Ltd. and ITO-International Terminal Operators Ltd.
+, [1986] 1 S.C.R. 752; 68 N.R. 241; 28 D.L.R.(4th) 641, at 657 (S.C.C.):
+"The maritime nature of this case depends upon three significant factors. The first is the proximity of the terminal operation to the sea, that is, it is within the area which constitutes the port of Montreal. The second is the connection between the terminal operator's activities within the port area and the contract of carriage by sea. The third is the fact that the storage at issue was short-term pending delivery to the consignee ... [I]t is these factors, taken together, which characterize this case as one involving Canadian maritime law."

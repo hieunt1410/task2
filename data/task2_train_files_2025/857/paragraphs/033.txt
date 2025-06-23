@@ -1,0 +1,6 @@
+[33]
+That subsection reads:
+"169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the minister has not notified the taxpayer that the minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the minister has confirmed the assessment or reassessed."

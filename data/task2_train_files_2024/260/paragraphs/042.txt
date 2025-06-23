@@ -1,0 +1,13 @@
+[42]
+They submit that the evidentiary record at bar (unlike the evidentiary record in the
+Novopharm
+Trial and
+Novopharm
+cases) is that (1) Gerster's method was not only used as a model by Dr. Hayakawa, but that the same technique was used, including the use of the same reagents; (2) Gerster's method was not "inventive" as many other resolution techniques had been applied with success at the relevant time. For example, Justice Hughes recognized that Process A resulted in 100% optical purity, but this was a commercial chiral HPLC column bought from Sumitomo; (4) the '080 patent contemplated resolution and obvious equivalents; (5) no resolution method was claimed within the '080 patent; (6) Dr. Gerster provided evidence in this case that he only disclosed materials that were already considered routine and commonly known; (7) Daiichi was able to obtain levofloxacin at 83% optical purity, which may be considered to be in a "reasonably pure state" and capable of doing "its job for instance as an antimicrobial agent"; (8) the properties of increased activity, reduced toxicity and increased solubility were known and described in the prior art; (9) the Gerster 1985 disclosed the twofold increase in antimicrobial activity of the S(-)-compound over the racemate; (10) the activity/toxicity/solubility properties were expected and the "overall combination" of these properties does not exist for levofloxacin, because, with increased solubility, toxicity increases; (11) the Applicants assert that the invention relates only to antimicrobial activity; and (12) the Gerster 1982 is properly established as being prior art.
+(
+Novopharm
+Trial, above at paras. 39, 43, 53, 95, 119 affd.
+Novopharm
+Appeal, above at paras. 19-20;
+Eli Lilly v. Novopharm
+, above at para. 38; Gerster Affidavit at paras. 11-13, AR, v. 45, Tab 65, pp. 14458-14459; Partridge Cross Examination, AR, v. 23, Tab 33, q. 52, p. 7086.)

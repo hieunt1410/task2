@@ -1,0 +1,12 @@
+[36]
+The Applicant claims the benefit of the exemptions contained in section 20. That section provides as follows:
+"20(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+(a) trade secrets of a third party;
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+(c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; or
+(d) information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party."
+"20(1) Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant:
+a) des secrets industriels de tiers;
+b) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
+c) des renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité;
+d) des renseignements dont la divulgation risquerait vraisemblablement d'entraver des négociations menées par un tiers en vue de contrats ou à d'autres fins."

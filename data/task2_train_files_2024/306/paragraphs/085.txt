@@ -1,0 +1,12 @@
+[85]
+The point has been made, I feel, and Dr. Lundquist's comments on the Canadian patent 841,464 of Herbert Bronder (Exhibit P-25) do not need detailed elaboration. The comment that it discloses the alleged invention is made at page 1084 of the evidnece. At page 1092 and following pages he comments:
+"Figure 1 of Norwegian Patent ...--application 156388--... of Bronder also shows a hydraulic parallel keeping system with a master-slave system. The system uses three cylinders instead of the two which are usual in a master-slave situation, and has some similarities to the series arrangement in Figure 3 of Bronder's Canadian patent.
+It also includes pilot check valves, or 'hydraulic locks' as Kimber et al. call them
+.
+...
+"In my view, the Bronder disclosures clearly show the alleged invention in suit.
+...
+"This particular patent is for a boom with a base rotation rather than the cartesian boom. But, from the point of view of hydraulic parallelism, they are similar in function. That is to say that a
+hydraulic parallel system on a base rotation boom serves the same purpose as hydraulic parallelism on a cartesian boom
+."
+(Underlining is mine)

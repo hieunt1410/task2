@@ -1,0 +1,244 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chen v. Can. (M.C.I.), [2015] F.T.R. TBEd. OC.041 
+ 
+ 
+ 
+ MLB being edited 
+ 
+ 
+ 
+ Currently being edited for F.T.R. - judgment temporarily in rough form. 
+ 
+ 
+ 
+ Temp. Cite: [2015] F.T.R. TBEd. OC.041 
+ 
+ 
+ 
+ Ruijian Chen (applicant) v. The Minister of Citizenship and Immigration (respondent) 
+ 
+ (IMM-360-15; 2015 FC 1174) 
+ 
+ 
+ 
+ Indexed As: Chen v. Canada (Minister of Citizenship and Immigration) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Mactavish, J. 
+ 
+ October 16, 2015. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The Refugee Protection Division of the Immigration and Refugee Board (RPD) rejected Chen's claim for refugee protection on credibility grounds. The RPD had several reasons for finding that Chen was not at risk in China as a practitioner of Falun Gong, one of which was that a document purporting to be a Notice of Arrest relating to his father was a fraudulent document. The Refugee Appeal Division (RAD) upheld the RPD's finding as to the fraudulent nature of the Notice of Arrest, albeit on a different basis. Chen sought judicial review, arguing that this amounted to a new issue being considered by the RAD, and that it was procedurally unfair for the RAD to find the document to be fraudulent for a different reason than that cited by the RPD without first giving him notice of the RAD's concerns and the chance to address those concerns. 
+ 
+ 
+ 
+ The Federal Court dismissed the application. The genuineness of the Notice of Arrest was put squarely into issue by Chen in his appeal. As a result, the RAD was required to review the evidence and come to its own conclusion as to the authenticity of the document. The genuineness of the document was thus not a "new issue" on the appeal, with the result that the RAD did not act in a procedurally unfair manner in dismissing the appeal. 
+ 
+ 
+ 
+ Administrative Law - Topic 9122 
+ 
+ Boards and tribunals - Administrative appeals - Scope of appeal or standard of review - See paragraphs 1 to 17. 
+ 
+ 
+ 
+ Aliens - Topic 1326.1 
+ 
+ Admission - Refugee protection, Convention refugees and persons in need of protection - Refugee Protection Division and Refugee Appeal Division - Determination by - See paragraphs 1 to 17. 
+ 
+ 
+ 
+ Aliens - Topic 1334 
+ 
+ Admission - Refugee protection, Convention refugees and persons in need of protection - Appeals or judicial review - Scope of review - See paragraphs 1 to 17. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Matthew Oh, for the applicant; 
+ 
+ Nina Chandy, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Lewis & Associates, Toronto, Ontario, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent 
+ 
+ 
+ 
+ This application was heard at Toronto, Ontario, on October 14, 2015, by Mactavish, J., of the Federal Court, who delivered the following decision at Ottawa, Ontario, on October 16, 2015. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ .................................................. 
+ 
+ 
+ 
+ [1] 
+   
+ Mactavish, J. 
+ : Ruijian Chen's claim for refugee protection was rejected by the Refugee Protection Division of the Immigration and Refugee Board on credibility grounds. The RPD had several reasons for finding that Mr. Chen was not at risk in China as a practitioner of Falun Gong, one of which was that a document purporting to be a Notice of Arrest relating to Mr. Chen's father was a fraudulent document. 
+ 
+ 
+ 
+ [2] 
+  The Refugee Appeal Division upheld the RPD's finding as to the fraudulent nature of the Notice of Arrest, albeit on a different basis. Mr. Chen says that this amounted to a new issue being considered by the RAD, and that it was procedurally unfair for the RAD to find the document to be fraudulent for a different reason than that cited by the RPD without first giving him notice of the RAD's concerns and the chance to address those concerns. 
+ 
+ 
+ 
+ [3] 
+  The genuineness of the Notice of Arrest was put squarely into issue by Mr. Chen in his appeal. As a result, the RAD was required to review the evidence and to come to its own conclusion as to the authenticity of the document. The genuineness of the document was thus not a "new issue" on the appeal, with the result that the RAD did not act in a procedurally unfair manner in dismissing the appeal. 
+ 
+ 
+ 
+ I.  
+ Analysis 
+ 
+ 
+ 
+ [4] 
+  Mr. Chen's argument raises a question of procedural fairness. Where an issue of procedural fairness arises, the Court's task is to determine whether the process followed by the decision-maker satisfied the level of fairness required in all of the circumstances: see  
+ Canada (Citizenship and Immigration) v. Khosa 
+ , 2009 SCC 12 at para. 43, [2009] 1 S.C.R. 339. 
+ 
+ 
+ 
+ [5] 
+  Two issues were considered by the RPD in assessing the genuineness of the Notice of Arrest: the fact that the document cited an inapplicable section of the  
+ Criminal Procedure Law of China 
+  ( 
+ CPLC 
+ ) as authority for the arrest of Mr. Chen's father, and the fact that no address was given for the detention centre at which the father was allegedly being held. 
+ 
+ 
+ 
+ [6] 
+  The RPD was prepared to accept that the Notice of Arrest referred to the applicable section of the  
+ CPLC 
+  under an earlier version of the law, and that it was possible that the document merely referred to an out-of-date version of the statute. However, given that Mr. Chen had testified that the purpose of a Notice of Arrest was to advise family members of the detention of a relative, the RPD found that the absence of an address for the detention centre called into question the authenticity of the document. 
+ 
+ 
+ 
+ [7] 
+  Mr. Chen appealed the RPD's decision to the RAD, alleging, amongst other things, that the Refugee Protection Division had erred in finding that the Notice of Arrest was not genuine. The RAD upheld the RPD's finding, albeit on different grounds. 
+ 
+ 
+ 
+ [8] 
+  The RAD found that there was no evidentiary foundation for the RPD's finding that a Notice of Arrest would necessarily include the address of the detention centre where an individual is being held. However, the RAD disagreed with the RPD that the reference to an incorrect provision of the  
+ CPLC 
+  in the Notice of Arrest could be explained by the Notice being out of date. In coming to this conclusion, the Board noted that the documentary evidence indicated that the  
+ CPLC 
+  had been amended in 2012. As a consequence, the RAD found that it was reasonable to assume that all Notices of Arrest would be have been updated by September of 2013 to refer to the amended law. 
+ 
+ 
+ 
+ [9] 
+  Mr. Chen does not take issue with the reasonableness of the RAD's finding in this regard. What he says is that RAD denied him procedural fairness by raising and determining a new issue - the Notice of Arrest's reference to an inapplicable section of the  
+ CPLC 
+  - without providing him with notice that this issue was under consideration and giving him the opportunity to make submissions on the issue. 
+ 
+ 
+ 
+ [10] 
+  The Supreme Court of Canada addressed the question of what constitutes a "new issue" on an appeal in  
+ R. v. Mian 
+ , 2014 SCC 54, [2014] 2 S.C.R. 689. There the Court stated that an issue is 'new' where "it raises a new basis for potentially finding error in the decision under appeal beyond the grounds of appeal as framed by the parties". The Court went on to observe that "[g] enuinely new issues are legally and factually distinct from the grounds of appeal raised by the parties ... and cannot reasonably be said to stem from the issues as framed by the parties": at para. 30. 
+ 
+ 
+ 
+ [11] 
+  Although the comments in  
+ Mian 
+  were made in the context of a criminal case, the principles established by the Supreme Court have been applied in immigration proceedings: FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [12] 
+  It is incorrect for Mr. Chen to state that the only issue before the RAD was whether there was an evidentiary basis for the RPD's finding regarding the missing address for the detention centre. Mr. Chen's appeal squarely put the authenticity of the Notice of Arrest in issue on the appeal, and what he was seeking was a finding by the RAD that the Notice of Arrest was a genuine document. That was the issue that the RAD considered, and it was not a "new issue" as contemplated by  
+ Mian 
+ , as it was not "factually distinct" from the issue as framed by Mr. Chen, nor can it be said to not reasonably stem from that issue. 
+ 
+ 
+ 
+ [13] 
+  It should also be noted that this was not a case where the RAD came up with an entirely new reason for finding the document to be fraudulent - one that could not have reasonably been anticipated by Mr. Chen. The RPD made two findings with respect to the Notice of Arrest, and Mr. Chen should have been aware that the reference to the  
+ CPLC 
+  would be a live issue on the appeal. 
+ 
+ 
+ 
+ [14] 
+  The RAD reviewed both of the Board's findings relating to the Notice of Arrest, it conducted its own analysis of the evidence, and it came to its own conclusion as to the significance to the evidence. This is what Mr. Chen expected the RAD to do in considering the appeal, and it is the proper role of the RAD: see  
+ Huruglica v. Canada (Minister of Citizenship and Immigration) 
+ , 2014 FC 799 at paras. 39-55, [2014] 4 F.C.R. 811. 
+ 
+ 
+ 
+ [15] 
+  Finally, I would also note that Mr. Chen has not, in any event, demonstrated that he was prejudiced by the failure of the RAD to give him an opportunity to address the issue of the Notice of Arrest's reference to an inapplicable section of the  
+ CPLC 
+ . Mr. Chen asserts that had he known that the erroneous statutory reference in the Notice of Arrest was in issue, he would have made submissions as to the notorious failure of the Chinese police to follow criminal procedures. These submissions had, however, already been made by him to the RAD, with the result that prejudice resulting from the lack of notice has not been established. 
+ 
+ 
+ 
+ II.  
+ Conclusion 
+ 
+ 
+ 
+ [16] 
+  For these reasons, the application for judicial review is dismissed. I agree with the parties that the case is fact-specific, and does not raise a question for certification. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [17] 
+   
+ THIS COURT'S JUDGMENT is that 
+  the application for judicial review is dismissed. 
+ 
+ 
+ 
+ Application dismissed. 
+ 
+ 
+ 
+ Editor: Jana A. Andersen 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

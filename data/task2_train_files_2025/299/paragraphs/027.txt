@@ -1,0 +1,59 @@
+[27]
+The Supreme Court of Canada has on many occasions restated the principles governing the attitude that the courts should adopt when reviewing a decision rendered by a labour relations arbitration tribunal. Recently, in
+Board of Education of Toronto v. Ontario Secondary School Teachers' Federation District 15 et al.
+, [1997] 1 S.C.R. 487; 208 N.R. 245; 98 O.A.C. 241, Cory, J., stated:
+"35
+Canada (Attorney General) v. Public Service Alliance of Canada
+, [1993] 1 S.C.R. 941 (
+PSAC No 2
+),
+emphasized the essential importance of curial deference in the context of labour relations where the decision of the tribunal, like the Board of Arbitration in the instant appeal, is protected by a broad privative clause
+. There are a great many reasons why curial deference must be observed in such decisions. The field of labour relations is sensitive and volatile. It is essential that there be a means of providing speedy decisions by experts in the field who are sensitive to the situation, and which can be considered by both sides to be final and binding.
+. . . . .
+"37 It was for these reasons that
+PSAC No. 2
+stressed that decisions of labour relations tribunals
+acting within their jurisdiction can only be set aside if they are patently unreasonable. That is very properly an extremely high standard, and there must not be any retreat from this position.
+Anything else would give rise to the endless protraction of labour disputes resulting in unrest and discontent. Indeed the principle of judicial deference is no more than the recognition by courts that legislators have determined that
+members of an arbitration board with their experience and expert knowledge should be those who resolve labour disputes arising under a collective agreement
+.
+"38 A
+decision as to whether there is 'just cause' for discipline of an employee comes within the jurisdiction of an arbitration board, and therefore can only be set aside if it is patently unreasonable
+. See the reasons of Beetz, J., (for the majority) and the separate concurring reasons of Lamer, J., in
+Blanchard
+, supra, at ppp. 479 and 491-492.
+. . . . .
+"41 A number of decisions of this court have considered the circumstances which will give rise to a finding that a decision of an administrative body is patently unreasonable.
+The test has been articulated somewhat differently for findings of fact and findings of law
+.
+"42 Where a tribunal is interpreting a legislative provision, the test is:
+'... was the Board's interpretation so patently unreasonable that its construction cannot be rationally supported by the relevant legislation and demands intervention by the court upon review?'
+See
+Canadian Union of Public Employees, Local 963 v. New Brunswick Liquor Corp.
+, [1979] 2 S.C.R. 227, at p. 237.
+"43 A slight variation of this test applies to arbitrators interpreting a collective agreement. In those circumstances, a court will not intervened so long as the words of that agreement have not been given an interpretation which those words cannot reasonably bear':
+Bradco
+, supra, at p. 341.
+"44
+It has been held that a finding based on 'no evidence' is patently unreasonable. However, it is clear that a court should not intervene where the evidence is simply insufficient
+. As Estey, J., dissenting in part, noted in
+Douglas Aircraft Co. of Canada v. McConnell
+, [1980] 1 S.C.R. 245, at p. 277:
+'... a decision without any evidence whatever in support is reviewable as being arbitrary; but on the other hand, insufficiency of evidence in the sense of appellate review is not jurisdictional, and while it may at one time have amounted to an error reviewable on the face of the record, in present day law and practice such error falls within the operational area of the statutory board, is included in the cryptic statement that the board has the right to be wrong within its jurisdiction, and hence is free from judicial review.'
+"45
+When a court is reviewing a tribunal's findings of fact or the inferences made on the basis of the evidence, it can only intervene 'where the evidence, viewed reasonably, is incapable of supporting a tribunal's findings of fact':
+Lester (W.W.) (1978) Ltd. v. United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry, Local 740
+, [1990] 3 S.C.R. 644, at p. 699 per McLachlin, J.
+"46 All these tests are strict: see
+Blanchard
+, supra, at p. 481 per Beetz, J. and at p. 493 per Lamer, J. In
+PSAC No. 2
+, supra, it was put in this way at pp. 963-964:
+'It is said that it is difficult to know what "patently unreasonable" means. What is patently unreasonable to one judge may be eminently reasonable to another. Yet any test can only be defined by words, the building blocks of all reasons. Obviously, the patently unreasonable test sets a high standard of review. In the
+Shorter Oxford English Dictionary
+"patently", an adverb, is defined as "
+openly, evidently, clearly
+". "Unreasonable" is defined as "[n]ot having the faculty of reason; irrational ... Not acting in accordance with reason or good sense." Thus, based on the dictionary definition of the words "patently unreasonable", it is apparent that if the decision the Board reached, acting within its jurisdiction,
+is not clearly irrational, that is to say evidently not in accordance with reason, then it cannot be said that there was a loss of jurisdiction. This is clearly a very strict test
+.'
+Yet courts also have a duty to protect parties from a decision which is patently unreasonable."

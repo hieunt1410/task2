@@ -1,0 +1,48 @@
+[88]
+The
+Patent Act
+requires that inventions be novel. A patent claim lacks novelty if its subject matter was disclosed to the public before the claim date and the skilled person was able to construct the invention on the basis of the disclosure and the then common knowledge.
+(
+Patent
+Act
+, ss. 2, 28.2(l)(b);
+General Tire & Rubber v. Firestone Tyre and Rubber
+, [1972] R.P.C. 457 (C.A.);
+Reeves Brothers Inc. v. Toronto Quilting & Embroidery Ltd.
+, [1979] A.C.W.S. 79; 43 C.P.R.(2d) 145 (F.C.T.D.);
+Beloit Canada Ltd. v. Valmet Oy
+(1986), 64 N.R. 287; 8 C.P.R.(3d) 289 (F.C.A.), at 297 [C.P.R.];
+Free World Trust
+, above at para. 26;
+Novartis AG et al. v. Apotex Inc. et al.
+(2001), 212 F.T.R. 161; 2001 FCT 1129, at paras. 109-111;
+SmithKline Beecham Pharma Inc. et al. v. Apotex Inc. et al.
+(2001), 208 F.T.R. 105; 2001 FCT 770, at paras. 7, 34, affd. [2003] 1 F.C. 118; 291 N.R. 168; 2002 FCA 216, at paras. 3, 4, 11-14, 17, 19-21;
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(2002), 225 F.T.R. 1; 2002 FCT 1138, at paras. 146-160 (
+Pfizer v. Apotex
+(2002));
+Synthon BV v. Smithkline Beecham plc
+, [2005] N.R. Uned. 180; [2006] 1 All E.R. 685; [2005] UKHL 59, at paras. 14-17, 19-33, 48-49;
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2006), 350 N.R. 242; 2006 FCA 187, at paras. 18-26 (
+Abbott v. Ratiopharm
+);
+Calgon Carbon Corp. v. North Bay (City) et al.
+(2006), 304 F.T.R. 1; 2006 FC 1373, at paras. 115-126;
+Abbott Laboratories et al. v. Canada (Minister of Health) et al.
+(2007), 361 N.R. 308; 2007 FCA 153, at paras. 14-22 (
+Abbott v. Apotex
+(2007));
+Ranbaxy UK Ltd. v. Warner-Lambert Co.
+, [2005] EWHC 2142 (Pat.), affd. [2006] EWCA Civ. 876 (C.A.);
+Eli Lilly Canada Inc. v. Apotex Inc. et al.
+(2008), 323 F.T.R. 56; 63 C.P.R.(4th) 406; 2008 FC 142, at paras. 127-129 (
+Eli Lilly
+(2008));
+King v. Uhlemann
+, above, affd. [1952] 1 S.C.R. 143;
+Jamb Sets Ltd. v. Carlton
+, [1964] Ex. C.R. 377; (1965), 42 C.P.R. 65, at paras. 47-50, affd. (1965), 46 C.P.R. 192 (S.C.C.);
+Xerox of Canada Ltd. v. IBM Canada Ltd.
+(1977), 33 C.P.R.(2d) 24; 2 A.C.W.S. 387 (F.C.T.D.), at para. 68.)

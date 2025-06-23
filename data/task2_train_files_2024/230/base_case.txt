@@ -1,0 +1,350 @@
+[1]
+Kelen, J.
+: This is an application for judicial review of a decision of the Veterans Review and Appeal Board (Board) dated August 10, 2005, which found that the applicant was not entitled to disability pension benefits because he did not have Post Traumatic Stress Disorder (PTSD), which he claimed arose from his service in the Canadian Armed Forces.
+Facts
+[2]
+The applicant served in the Canadian Armed Forces as a military policeman, from:
+1. August 23, 1979 to January 13, 1981; and
+2. July 10, 1989 to April 23, 1997.
+[3]
+On January 24, 2002, the applicant applied for a pension pursuant to s. 21(2) of the
+Pension Act
+, R.S.C. 1985, c. P-6, on the basis that he developed Post Traumatic Stress Disorder arising from his military service.
+[4]
+After applying for this pension, the applicant was referred by the Department of Veterans Affairs for a psychological assessment by Keli Furman, Ph.D., Psychologist. Her report dated January 20, 2003 stated on the fourth page:
+"Mr. Cramb's responses to the PDS, a test screening for the presence of Post Traumatic Stress Disorder, indicate that Mr. Cramb meets the criteria for a diagnosis of Post Traumatic Stress Disorder that is Severe in Level of Impairment in Functioning and that his experienced symptoms are moderate to severe, more closely towards the severe end with a Score of 33 in this range of 21 to 35. The etiology appears related directly to his perceived mistreatment by the military, which he describes as including physical imprisonment, psychological torture, a serious accident while under suspension and ongoing harassment."
+Accordingly, Dr. Furman found that the applicant has Post Traumatic Stress Disorder and that its etiology or causation "appears related directly to his perceived mistreatment by the military".
+[5]
+The applicant alleged that nineteen incidents of harassment dating from 1984 to his discharge in 1997 caused him to develop PTSD. Inter alia, Mr. Cramb claims:
+"1. as a civilian in 1984 he was charged by military police for cultivating marijuana and was acquitted; and
+"2. on June 3, 1996 he was alleged to have used cannabis, ordered to provide a urine sample, and relieved of his military police credentials until he was reinstated six months later. During the interim, he was required to complete humiliating and menial work while wearing his military police uniform."
+Five Decisions
+1st Decision - Department of Veterans Affairs
+[6]
+On May 9, 2003, the Department of Veterans Affairs denied Mr. Cramb's pension application. While the Department accepted that Mr. Cramb suffered from PTSD, it concluded that the condition did not arise from his peace time service in the Armed Forces within the meaning of s. 21(2) of the
+Pension Act
+.
+2nd Decision - Entitlement Review Panel of the Board
+[7]
+On September 25, 2003, an entitlement review panel of the Board affirmed the Department's decision, concluding that there was no objective evidence of Mr. Cramb's harassment, for which reason the PTSD condition could not be related to his military service.
+3rd Decision - First Appeal Panel of the Board
+[8]
+On May 27, 2004, an Appeal Panel of the Board dismissed the applicant's appeal from the decision of the Entitlement Review Panel. It varied the review panel's decision, finding that the applicant did not suffer from PTSD and in the event that he did, the condition did not arise from his military service.
+4th Decision - Federal Court
+[9]
+The applicant sought judicial review of the first appeal panel's decision in Federal Court. On December 14, 2004, the respondent consented to an order allowing the judicial review and remitting the matter to a second appeal panel.
+5th Decision - Decision under review - second Appeal Panel of the Board
+[10]
+The Board's decision under review is dated May 3, 2005, and was communicated to the applicant by letter dated August 10, 2005. It held at pages 11 to 15 that:
+"1. the Veterans Affairs Canada Entitlement Eligibility Guidelines for Post Traumatic Stress Disorder indicate that the individual must have been exposed to a traumatic event which involved actual or threatened death or serious injury, or threat to the physical integrity to the applicant or others so that the individual's response involved intense fear, helplessness or horror;
+"2. the Board is required under s. 35(2) of the
+Pension Act
+to assess the disability based on these Guidelines;
+"3. the Board found that the applicant's military activity did not involve such a traumatic event;
+"4. these Guidelines adopt the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, IV Edition (DSM-IV), which has defined PTSD as a psychiatric condition if it meets six criteria. The first of which is set out as follows:
+'A. The person has been exposed to a traumatic event in which:
+i. The person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others; and
+ii. The person's response involved intense fear, helplessness, or horror; [...]'
+"5. the Board found that the Psychologist's opinion does not accord with the definition of PTSD and is therefore not credible as the basis for the pension award;
+"6. the Board found that the applicants are to be given the benefit of the doubt in the weighing of evidence in accordance with ss. 3 and 39 of the
+Veterans Review and Appeal Board Act
+. However, the benefit of the doubt does not lead the Board to accept automatically whatever submission is made by the veteran. The evidence must be credible and it must be reasonable. The Board implicitly found that the applicant had not established a reasonable doubt;
+"7. the Board also found PTSD is a condition which emerges from military combat, and to a lesser degree, personal violence and serious physical injuries in civilian life. PTSD cannot be extended to cover the circumstances of the applicant's case which is to accept that non-violent administrative activities caused PTSD;
+"8. finally, if the diagnosis of PTSD is correct, then it would have to be based on evidence that would include the complete history of the applicant's life so that the Board could assess whether or not it was related or aggravated by military service; and
+"9. since the Board did not accept the diagnosis of PTSD as claimed by the applicant, the Board made no finding as to whether the alleged disability arose out of or was directly connected to his military service."
+Relevant Legislation
+[11]
+The legislation and administrative guidelines relevant to this application are:
+1.
+Pension Act
+, R.S.C. 1985, c. P-6;
+2.
+Veterans Review and Appeal Board Act
+, S.C. 1995, c. 18 (
+VRAB Act
+);
+3.
+Instructions and Table of Disabilities for the Guidance of Pension Medical Examiners and Medical Advisers --- Part III - Medical Guidelines
+(
+Medical Guidelines
+); and
+4.
+Veterans Affairs Canada Entitlement Eligibility Guidelines
+(
+Entitlement Guidelines
+).
+The relevant excerpts from these authorities are set out in Appendix "A".
+Issues
+[12]
+In the Court's view, three main issues are raised on this application:
+1. Did the Board err in rejecting the uncontradicted medical evidence that the applicant suffered from Post Traumatic Stress Disorder?;
+2. Did the Board err in failing to provide the benefit of the doubt to the applicant as required by ss. 3 and 39 of the
+VRAB Act
+?; and
+3. Did the Board err by failing to obtain independent medical advice under s. 38(1) of the
+VRAB Act
+before rejecting the only medical evidence before the Board?
+Standard of Review
+[13]
+In
+Skouras v. Canada (Attorney General)
+, [2006] F.T.R. Uned. 113; 146 A.C.W.S.(3d) 366 (F.C.), I undertook a functional and pragmatic analysis to conclude that the standard on which to review the Veterans Review and Appeal Board deciding pension claim is patent unreasonableness for questions of fact, and reasonableness simpliciter for questions of mixed fact and law. I held at paragraphs 11 to 14:
+"¶ 11 For the first factor, the presence of s. 31 of the
+VRAB Act
+, which deems decisions made by the Board to be final and binding, means that the Board's decisions attract curial deference.
+"¶ 12 For the second factor, the Board has a greater relative expertise in deciding pension claims than does the Court. As a result, deference is owed to the Board's determination of factual questions.
+"¶ 13 The third factor is the purpose of the legislation; in this case, the applicable legislation is the
+VRAB Act
+and the
+Pension Act
+. The purpose of the
+Pension Act
+, as identified in the preamble, is to 'provide pensions and other benefits to the members of the forces'. A liberal interpretation of the
+VRAB Act
+is mandated by s. 3, with the aim of recognizing the Crown's obligation to members of the forces and their dependents. These purposes favour deference to the Board's decisions.
+"¶ 14 With respect to the nature of the question, the Court will treat the Board's factual findings with more deference than its interpretation of legal principles. Questions of fact are reviewed on the standard of patent unreasonableness, while questions of mixed fact and law attract a standard of reasonableness simpliciter."
+[14]
+On questions of law, I held in
+FRAGMENT_SUPPRESSED that the Court has equal or greater expertise than the Board, and less deference is owed to the Board on issues of statutory interpretation, jurisdiction, or articulation of legal standards. In my view, decisions of the Board turning on questions of law are reviewable on a correctness standard.
+[15]
+A decision of the Board deciding whether a pension claimant's disability was caused by or arose from military service is reviewable on a standard of patent unreasonableness, as held by Madam Justice Judith Snider in
+Currie v. Canada (Attorney General)
+, [2005] F.T.R. Uned. 899; 143 A.C.W.S.(3d) 1125 (F.C.), at paragraph 5:
+"¶ 5 The appropriate standard of review of the decision of the Board is patent unreasonableness, since the question of whether or not the Applicant's disability was caused by his military service is a question of fact [...] Stated in other terms, the Board errs only if it based its decision on an erroneous finding of fact, made in a perverse or capricious manner or without regard to the evidence [...]" (Footnotes omitted)
+[16]
+In
+Nolan v. Canada (Attorney General)
+(2005), 279 F.T.R. 311; 2005 FC 1305, Mr. Justice Conrad von Finckenstein cited decisions of Justice Simon Noël and Justice John Evans who held that patent unreasonableness is the appropriate standard to review the issue of the Board's weighing or interpretation of medical evidence. The Court held at paragraph 10:
+"¶ 10 It is well established that the standard of review for reconsideration by the Board is patent unreasonableness. As stated in
+Caswell v. Canada (Attorney General)
+, [2004] F.C.J. No. 1655, by Noël, J., at paragraph 17:
+'Both parties to this action were in agreement that the standard of review to be applied by this Court to decisions of the Veteran Review and Appeal Board is that of patent unreasonableness. This is in accordance with previous decisions of this Court and of the Federal Court of Appeal; e.g.,
+McTague v. Canada (Attorney General)
+, [2000] 1 F.C. 647, at paras. 46-47 (T.D.):
+"[P] atent unreasonableness is applicable when the issue in dispute is the Board's weighing or interpretation of often conflicting or inconclusive medical evidence and determining from it whether the claimant's disability was in fact caused or aggravated by military service. [...]"
+'Factual determinations of this nature are at the very heart of the specialized jurisdiction of the Board. Considerations of cost effectiveness and relative institutional competence call for maximum curial deference to findings of fact.'"
+[17]
+In the case at bar, the first issue turns on the Board's finding of fact that evidence was not credible, and will be reviewed on a patent unreasonableness standard. The second and third issues are questions of mixed fact and law and will be reviewed on a standard of reasonableness simpliciter.
+Analysis
+Issue No. 1: Did the Board err in rejecting the uncontradicted medical evidence that the applicant suffered from Post Traumatic Stress Disorder?
+[18]
+The applicant submits that Dr. Furman's psychological report is uncontradicted evidence diagnosing him with PTSD caused by his "perceived mistreatment" while in military service, and that the Board erred when it rejected this evidence. At issue is whether the Board made a patently unreasonable finding of fact when it rejected the credibility of the psychological report.
+[19]
+The Board rejected the credibility of Dr. Furman's psychological report at pages 13 to 14 of its decision, where it determined that the opinion did not accord with the Table of Disabilities or the medical consensus on PTSD set out in the DSM-IV published by the American Psychiatric Association:
+"The psychologist's opinion, which the Advocate suggested should be the basis for the permanent pension award, does not appear to accord either with the general medical consensus about the condition of Post Traumatic Stress Disorder as found in the DSM IV or with the
+Veterans Affairs Canada Medical Guidelines
+passed under the
+Pension Act
+to achieve fairness and consistency in military pension adjudication.
+"Because the psychologist's opinion does not accord with either the relevant guidelines or the medical consensus about the claimed condition, the Board does not consider it credible as the basis for a permanent pension award. [...]"
+[20]
+The Board assessed the extent of the applicant's disability based on the
+Instructions and Table of Disabilities for the Guidance of Pension Medical Examiners and Medical Advisers --- Part III - Medical Guidelines
+. The
+Medical Guidelines
+are issued under the authority of the Minister of Veterans Affairs Canada pursuant to s. 35(2) of the
+Pension Act
+which provides:
+"35. [...]
+"How extent of disability assessed
+"(2) The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments."
+"35. [...]
+"Estimation du degré d'invalidité
+"(2) Les estimations du degré d'invalidité sont basées sur les instructions du ministre et sur une table des invalidités qu'il établit pour aider quiconque les effectue."
+[21]
+The Medical Guidelines limit diagnosis of PTSD to "the existence of a stressor, outside the range of usual human existence, of such severity that it would evoke significant symptoms of distress in almost any previously normal person" in conjunction with other essential factors including recurrent intrusive recollections, nightmares, detachment from others with restricted emotional responses, insomnia, and survivor guilt, inter alia.
+[22]
+Without deciding which stressors outside the usual human existence evoke the requisite significant symptoms of distress to potentially ground a diagnosis of PTSD, the Board found that no such stressor existed in the circumstances of the applicant in the case at bar. While the applicant cites 19 instances of alleged harassment by superior officers within the Armed Forces, each are alleged to stem from his claim of being falsely accused of having committed drug offences. The Board was not satisfied that the social stigma and humiliation the applicant claims to have endured are outside the range of "usual" human existence, nor that they are of such severity to "evoke significant symptoms of distress in almost any previously normal person".
+[23]
+Accordingly, the Board determined that PTSD could not extend to the non-violent, administrative circumstances of the applicant. It stated at page 15 of its reasons:
+"[...] the concept of Post Traumatic Stress Disorder is one which has emerged from military combat and, to a lesser degree, personal violence and serious physical injuries and their aftermath in civilian life. To extend the concept to cover the circumstances in this case, that is to accept that non-violent administrative activity could cause Post Traumatic Stress Disorder, would be unjustified and a serious mistake given what is known about Post Traumatic Stress Disorder."
+[24]
+The American Psychiatric Association's fourth edition of the
+Diagnostic and Statistical Manual of Mental Disorders
+(DSM-IV) is also an explanatory guide which has been incorporated into the
+Veterans Affairs Canada Entitlement Eligibility Guidelines
+. In connection with PTSD, the Entitlement Guidelines and DSM-IV state in part:
+"Post-traumatic Stress Disorder [...]
+"Definition
+"[...] The
+American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders
+4th Edition (DSM-IV) has defined PTSD as a psychiatric condition if it meets the following 6 criteria:
+'A. The person has been exposed to a traumatic event in which:
+i. The person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others; and
+ii. The person's response involved intense fear, helplessness, or horror; and'
+. . . . .
+"Anatomy and Physiology
+"PTSD is a condition that can develop as a result of an individual's exposure to an extremely traumatic stressor, especially if the individual response involves intense fear, helplessness, or horror. [...]
+"Such personal trauma events include, but are not limited to:
+'Military combat; violent personal assault (sexual assault, physical attack, robbery, mugging); being kidnapped; being taken hostage; a terrorist attack; torture; incarceration as a prisoner of war or in a concentration camp; being required to exhume a dead body or body parts; natural or man-made disasters; severe automobile accidents, of a nature which meets the above-noted criteria or equivalent ...'"
+"État de stress post-traumatique [...]
+"Définitions
+"[...] Selon le
+Manuel diagnostique et statistique des troubles mentaux
+, 4e édition (DSM-IV), publié par l'American Psychiatric Association, voici les six critères qui permettent de poser un diagnostic d'ÉSPT:
+'A. Le sujet a été exposé à un événement traumatique dans lequel les deux éléments suivants étaient présents:
+i) Le sujet a vécu, a été témoin ou a été confronté à un événement ou à des événements durant lesquels des individus ont pu mourir ou être très gravement blessés ou bien être menacés de mort ou de grave blessure ou bien durant lesquels son intégrité physique ou celle d'autrui a pu être menacée;
+ii) La réaction du sujet à l'événement s'est traduite par une peur intense, un sentiment d'impuissance ou d'horreur.'
+. . . . .
+"Anatomie et physiologie
+"L'ÉSPT est une affection qui peut faire suite à l'exposition à un facteur de stress traumatique extrême, en particulier si la réaction de la personne est une peur intense, un sentiment d'être sans espoir ou d'horreur. [...]
+"Les événements traumatiques qui sont vécus directement comprennent, de manière non limitative:
+'le combat militaire; les agressions personnelles violentes (agression sexuelle, attaque physique, vol); le fait d'être kidnappé; le fait d'être pris en otage; les attaques terroristes; la torture; l'incarcération en tant que prisonnier de guerre ou dans un camp de concentration; le fait de devoir exhumer un cadavre ou les morceaux d'un corps; les catastrophes naturelles ou d'origine humaine; les accidents de voiture graves, de nature telle qu'ils satisfont aux critères susmentionnés ou à des critères équivalents ...'"
+[25]
+Section 35(2) of the
+Pension Act
+provides that the assessment of the applicant's disability
+shall
+be based on the instructions and a table of disabilities made by the Minister for guidance to persons making those assessments. These instructions and table of disabilities are authoritative medical evidence and the Board can reject other medical evidence such as the psychological report of Dr. Furman where it conflicts. In the case at bar, it was reasonably open to the Board to reject Dr. Furman's psychological report on that basis. Accordingly, the Court concludes that the Board's rejection of the psychological report as not credible was not patently unreasonable, and the Board did not err when it found no credible evidence establishing the applicant suffered from PTSD.
+Issue No. 2: Did the Board err in failing to provide the benefit of the doubt to the applicant as required by ss. 3 and 39 of the VRAB Act?
+[26]
+Pursuant to s. 2 of the
+Pension Act
+and s. 3 of the
+Veterans Review and Appeal Board Act
+, Parliament requires the disability pension law for the military be liberally construed and interpreted, and recognize the obligation of the Government to those in the military who have applied for pensions for disabilities arising from their military service.
+[27]
+In conducting an appeal, the Board shall draw from the evidence every reasonable inference in favour of the applicant, accept any uncontradicted evidence that is credible, and resolve in favour of the applicant any doubt in the weighing of the evidence. See s. 39 of the
+VRAB Act
+.
+[28]
+In the case at bar, the Board expressly recognized its obligations toward the applicant under ss. 3 and 39 of the
+VRAB Act
+. However, the Board found that it could not accept the evidence of Dr. Furman because it was contradicted, i.e. it did not accord with the Table of Disabilities and the medical consensus on PTSD set out in the DSM-IV published by the American Psychiatric Association which is incorporated in the Veterans Affairs Canada Entitlement Eligibility Guidelines.
+[29]
+As well the Board could not resolve in favour of the applicant any doubt it had in weighing the evidence because the applicant's psychological report stating that he suffered from PTSD was not credible, and the Board implicitly found that it had no doubt in this regard.
+Issue No. 3: Did the Board err by failing to obtain independent medical advice under subsection 38(1) of the VRAB Act before rejecting the only medical evidence before the Board?
+[30]
+The applicant submits that the Board erred by not giving him notice that the Board did not find Dr. Furman's report to credibly diagnose him with PTSD. In the applicant's view, if the Board rejected Dr. Furman's evidence, then under s. 38(1) of the
+VRAB Act
+, the Board should have referred the applicant to another medical expert to provide further evidence.
+[31]
+Section 38(1) of the
+VRAB Act
+provides that the Board may obtain independent medical advice and may require the applicant to undergo any medical examination that the Board may direct. This statutory language is permissive, not mandatory. The Board is not obliged to obtain independent medical advice, and it is not under any duty to inform the applicant of which evidence the Board finds credible prior to rendering the Board's decision.
+[32]
+The Board's decision not to refer the applicant for another medical opinion was reasonably open to the Board in that the Board was satisfied that the medical evidence in the Veterans Affairs Canada Table of Disabilities, the Veterans Affairs Canada Entitlement Eligibility Guidelines and the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders provided the Board with conclusive medical advice with respect to the definition of PTSD as a psychiatric condition. On this evidence it was reasonably open to the board to conclude that the applicant did not have PTSD so that no independent medical opinion was necessary.
+Conclusion
+[33]
+The applicant applied for a pension based on PTSD. The psychologist's report, which was obtained subsequent to the pension application, confirmed the applicant had PTSD. However, it was reasonably open to the Board to find that this report does not accord with the authoritative independent medical evidence about PTSD. If the applicant suffers from some other psychiatric condition, then he may apply for another pension based on proper medical evidence. Of course, he must prove that the disability arose out of, or was directly connected to, his military service.
+About PTSD
+[34]
+The evidence is that Post Traumatic Stress Disorder is a psychiatric condition defined by six criteria set by the
+American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders
+. The first criterion is that the person has been exposed to a traumatic event involving actual or threatened death or serious injury to the self or to others. The person's response involves intense fear, helplessness or horror.
+[35]
+The second criterion is that the traumatic event is persistently re-experienced with recurrent distressing recollections of the event, dreams of the event, acting or feeling as if the traumatic event were reoccurring or intense psychological distress when exposed to cues that resemble an aspect of the traumatic event. Military combat, a violent personal assault, being taken hostage, torture, and incarceration as a prisoner of war are personal traumatic events which can trigger PTSD. During the First World War, this condition experienced by returning Canadian servicemen, was referred to as "shell shocked".
+Costs
+[36]
+The applicant was referred to Dr. Furman by the Department of Veterans Affairs. Dr. Furman confirmed the basis upon which the applicant applied for the pension. The applicant reasonably relied upon the psychologist chosen by the respondent, and cannot be faulted for pursuing his pension claim on that basis, including bringing this matter before the Federal Court. Accordingly, there will be no order of costs against the applicant.
+JUDGMENT
+[37]
+THIS COURT ORDERS that:
+This application for judicial review of the decision of the Board dated August 10, 2005 is dismissed with no order as to costs.
+Application dismissed.
+Editor: Rodney A. Jordan/gs
+Appendix "A"
+RELEVANT LEGISLATION
+1. Pension Act, R.S.C. 1985, c. P-6
+"CONSTRUCTION
+"2. The provisions of this Act shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to provide compensation to those members of the forces who have been disabled or have died as a result of military service, and to their dependants, may be fulfilled.
+. . . . .
+"PART III
+"PENSIONS
+"21. [...]
+"Service in militia or reserve army and in peace time
+"(2) In respect of military service rendered in the non-permanent active militia or in the reserve army during World War II and in respect of military service in peace time,
+(a) where a member of the forces suffers disability resulting from an injury or disease or an aggravation thereof that arose out of or was directly connected with such military service, a pension shall, on application, be awarded to or in respect of the member in accordance with the rates for basic and additional pension set out in Schedule I; [...]
+"35. [...]
+"How extent of disability assessed
+"(2) The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments."
+"RÈGLE D'INTERPRÉTATION
+"2. Les dispositions de la présente loi s'interprètent d'une façon libérale afin de donner effet à l'obligation reconnue du peuple canadien et du gouvernement du Canada d'indemniser les membres des forces qui sont devenus invalides ou sont décédés par suite de leur service militaire, ainsi que les personnes à leur charge.
+. . . . .
+"PARTIE III
+"PENSIONS
+"21. [...]
+"Milice active non permanente ou armée de réserve en temps de paix
+"(2) En ce qui concerne le service militaire accompli dans la milice active non permanente ou dans l'armée de réserve pendant la Seconde Guerre mondiale ou le service militaire en temps de paix:
+a) des pensions sont, sur demande, accordées aux membres des forces ou à leur égard, conformément aux taux prévus à l'annexe I pour les pensions de base ou supplémentaires, en cas d'invalidité causée par une blessure ou maladie -- ou son aggravation -- consécutive ou rattachée directement au service militaire; [...]
+"35. [...]
+"Estimation du degré d'invalidité
+"(2) Les estimations du degré d'invalidité sont basées sur les instructions du ministre et sur une table des invalidités qu'il établit pour aider quiconque les effectue."
+2. Veterans Review and Appeal Board Act, S.C. 1995, c. 18 (VRAB Act)
+"Construction
+"3. The provisions of this Act and of any other Act of Parliament or of any regulations made under this or any other Act of Parliament conferring or imposing jurisdiction, powers, duties or functions on the Board shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who have served their country so well and to their dependants may be fulfilled.
+. . . . .
+"Medical opinion
+"38(1) The Board may obtain independent medical advice for the purposes of any proceeding under this Act and may require an applicant or appellant to undergo any medical examination that the Board may direct.
+"Notification of intention
+"(2) Before accepting as evidence any medical advice or report on an examination obtained pursuant to subsection (1), the Board shall notify the applicant or appellant of its intention to do so and give them an opportunity to present argument on the issue.
+"Rules of evidence
+"39. In all proceedings under this Act, the evidence Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case."
+"Principe général
+"3. Les dispositions de la présente loi et de toute autre loi fédérale, ainsi que de leurs règlements, qui établissent la compétence du Tribunal ou lui confèrent des pouvoirs et fonctions doivent s'interpréter de façon large, compte tenu des obligations que le peuple et le gouvernement du Canada reconnaissent avoir à l'égard de ceux qui ont si bien servi leur pays et des personnes à leur charge.
+. . . . .
+"Avis d'expert médical
+"38(1) Pour toute demande de révision ou tout appel interjeté devant lui, le Tribunal peut requérir l'avis d'un expert médical indépendant et soumettre le demandeur ou l'appelant à des examens médicaux spécifiques.
+"Avis d'intention
+"(2) Avant de recevoir en preuve l'avis ou les rapports d'examens obtenus en vertu du paragraphe (1), il informe le demandeur ou l'appelant, selon le cas, de son intention et lui accorde la possibilité de faire valoir ses arguments.
+"Règles régissant la preuve
+"39. Le Tribunal applique, à l'égard du demandeur ou de l'appelant, les règles suivantes en matière de preuve:
+a) il tire des circonstances et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible à celui-ci;
+b) il accepte tout élément de preuve non contredit que lui présente celui-ci et qui lui semble vraisemblable en l'occurrence;
+c) il tranche en sa faveur toute incertitude quant au bien-fondé de la demande."
+3. Instructions and Table of Disabilities for the Guidance of Pension Medical Examiners and Medical Advisers --- Part III - Medical Guidelines (Table of Disabilities Medical Guidelines)
+"1.01 - Authority
+"This publication is issued under the authority of the Minister of Veterans Affairs Canada in compliance with subsection 35(2) of the Pension Act [...]
+"PART III - MEDICAL GUIDELINES
+. . . . .
+"Psychiatric Conditions
+"1. Psychoneuroses [...]
+e) Post-Traumatic Stress Disorder - this may be acute and in some cases of limited duration. In other cases it may become chronic but be long delayed in being exposed. The 'sine qua non' for diagnosis is the existence of a stressor, outside the range of usual human existence, of such severity that it would evoke significant symptoms of distress in almost any previously normal person. Other essential features include
+(a) recurrent intrusive recollections, nightmares, feeling or acting as though the event were re-occurring;
+(b) decreased interest and detachment from others with restricted emotional responses;
+(c) Hyperalertness, insomnia, survivor guilt, difficulty concentrating the memory, avoidance of or upset in situations reminiscent of the traumatic event."
+"1.01 Autorité
+"La publication de cette table est autorisée par le Ministre de l'Anciens Combattants Canada conformément aux dispositions du paragraphe 35(2) de la Loi sur les pensions [...]
+"PARTIE III - DIRECTIVES MEDICALES
+. . . . .
+"Affections psychiatriques
+1. Psychonévroses [...]
+e) Stress post-traumatique - trouble parfois aigu, mais d'une durée limitée, dans certains cas. Chez d'autres sujets, le stress peut être chronique, sans, pour le fait même, être diagnostiqué avant des mois, voire des années. Avant de poser ce diagnostic, il faut évidemment identifier le facteur stressant, autre que l'un ou l'autre de ces nombreux éléments souvent désagréables composant la réalité quotidienne, don't la gravité est telle que tout être humain normal ne pourrait s'empêcher de sombrer dans la détresse. Au nombre d'autres traits caractéristiques de cet état, notons
+(a) le rappel de souvenirs pénibles, des cauchemars, une sensation irréelle faisant en sorte que la personne croit qu'elle revit l'événement traumatisant;
+(b) un désintéressement et un détachement marqués vis-à-vis l'entourage, caractérisés par l'absence quasi-totale d'émotivité chez le sujet;
+(c) une vivacité excessive, de l'insomnie, de la culpabilité (chez un survivant d'un accident, par exemple), des lacunes de mémoire, l'impossibilité, pour le sujet, de se remémorer l'événement traumatisant sans être profondément perturbé."
+4. Veterans Affairs Canada Entitlement Eligibility Guidelines (Entitlement Guidelines)
+"1.01 Preface
+"The revised entitlement eligibility guidelines are policy statements, intended to assist in the preparation and submission of applications and in adjudication. They are not intended to be a textbook of medicine or of causation. They are not mandatory or binding. [...]
+As the guidelines are intended to provide guidance as opposed to direction on the issue of entitlement, they are maintained separate and apart from the legislated Table of Disabilities.
+. . . . .
+"Post-traumatic Stress Disorder [...]
+"Definition
+"[...] The American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders 4th edition (DSM-IV) has defined PTSD as a psychiatric condition if it meets the following 6 criteria:
+'A. The person has been exposed to a traumatic event in which:
+i. The person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others; and
+ii. The person's response involved intense fear, helplessness, or horror; and'
+. . . . .
+"Anatomy and Physiology
+"PTSD is a condition that can develop as a result of an individual's exposure to an extremely traumatic stressor, especially if the individual response involves intense fear, helplessness, or horror. [...]
+"Such personal trauma events include, but are not limited to:
+'Military combat; violent personal assault (sexual assault, physical attack, robbery, mugging); being kidnapped; being taken hostage; a terrorist attack; torture; incarceration as a prisoner of war or in a concentration camp; being required to exhume a dead body or body parts; natural or man-made disasters; severe automobile accidents, of a nature which meets the above-noted criteria or equivalent ...'"
+"1.01 Avant-propos
+"Les nouvelles Lignes directrices sur l'admissibilité au droit à pension sont des énoncés de politique visant à faciliter la préparation, la présentation et le règlement des demandes. Elles n'ont pas été élaborées pour servir de manuel de médecine ou d'étiopathogénie, et ne sont ni obligatoires ni exécutoires. [...]
+"Ces lignes directrices demeurent distinctes de la Table des invalidités prévue par la Loi, puisqu'elles sont destinées à servir de guide plutôt que de directive relativement au droit à pension.
+. . . . .
+"État de stress post-traumatique [...]
+"Définitions
+"[...] Selon le Manuel diagnostique et statistique des troubles mentaux, 4e édition (DSM-IV), publié par l'American Psychiatric Association, voici les six critères qui permettent de poser un diagnostic d'ÉSPT:
+'A. Le sujet a été exposé à un événement traumatique dans lequel les deux éléments suivants étaient présents:
+i) Le sujet a vécu, a été témoin ou a été confronté à un événement ou à des événements durant lesquels des individus ont pu mourir ou être très gravement blessés ou bien être menacés de mort ou de grave blessure ou bien durant lesquels son intégrité physique ou celle d'autrui a pu être menacée;
+ii) La réaction du sujet à l'événement s'est traduite par une peur intense, un sentiment d'impuissance ou d'horreur.'
+. . . . .
+"Anatomie et physiologie
+"L'ÉSPT est une affection qui peut faire suite à l'exposition à un facteur de stress traumatique extrême, en particulier si la réaction de la personne est une peur intense, un sentiment d'être sans espoir ou d'horreur. [...]
+"Les événements traumatiques qui sont vécus directement comprennent, de manière non limitative:
+'le combat militaire; les agressions personnelles violentes (agression sexuelle, attaque physique, vol); le fait d'être kidnappé; le fait d'être pris en otage; les attaques terroristes; la torture; l'incarcération en tant que prisonnier de guerre ou dans un camp de concentration; le fait de devoir exhumer un cadavre ou les morceaux d'un corps; les catastrophes naturelles ou d'origine humaine; les accidents de voiture graves, de nature telle qu'ils satisfont aux critères susmentionnés ou à des critères équivalents ...'"
+[End of document]

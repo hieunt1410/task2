@@ -1,0 +1,98 @@
+[1]
+Snider, J.
+: Ms. Nora Healey, the respondent in this proceeding, was employed by Bell Canada Inc. ("Bell Canada") from 1987. In 1999, she became one of 13 floor managers in the Consumer Call Centre in London, Ontario. Although she continued to hold the title of Call Centre Manager and receive the remuneration and benefits of that position, Ms. Healey had been on disability leave since February 2001 and, since June 2001, had been performing temporary duties in another group while attempts were made to find her a new position within the company. Since June, it was clear that she would never resume her duties as Call Centre Manager.
+[2]
+In September 2001, Bell determined that, for financial reasons, it would cut two of the 13 manager positions in the Call Centre group. The criterion used for selecting the two employees for termination was performance; the two managers with the poorest performance measured for the years 2000 and 2001 were to be "streamlined". In Bell's view, Ms. Healey was one of the two managers who met this criterion and, on September 28, 2001, she was advised by Bell Canada that she was terminated as Call Centre Manager.
+[3]
+Ms. Healey filed a complaint of unjust dismissal and an adjudicator (the "Adjudicator") was appointed pursuant to the
+Canada Labour Code
+, R.S., c. L-1 to hear the complaint. At the commencement of the hearing, Bell contended that Ms. Healey had been terminated as a result of "discontinuance of a function" and that, therefore, the Adjudicator was without jurisdiction to consider the complaint.
+[4]
+In her decision dated June 11, 2003, the Adjudicator dismissed this argument and found that Ms. Healey had been unjustly dismissed. Bell Canada seeks judicial review of that decision.
+Adjudicator's Decision
+[5]
+Stated simply, the Adjudicator's decision was divided into two discrete parts. Firstly, she determined the basis upon which Bell Canada decided to eliminate two positions from the Call Centre. On this point, she concluded that:
+"The ... Call Centre Manager positions ... were discontinued because of the necessity of streamlining throughout the province. There is no evidence which would support a conclusion that the Employer's decision to abolish those positions was for anything other than legitimate business reasons."
+[6]
+The Adjudicator then went on to determine whether the discontinuance of function was the "actual and dominant" reason for Ms. Healey's termination. She held that it was not
+"... Ms. Healey would never be carrying out again 'the bundle of responsibilities, duties and activities' of Consumer Call Centre Manager. Overall the evidence adduced by the employer itself tends to show that Ms. Healey's employment was terminated not because of the discontinuance of a function which she was permanently restricted from ever performing again, but more likely because of performance issues, the six month freeze of her manager's salary and her declining to attend an interview for a Profile B position. The Respondent has not discharged its burden of satisfying this adjudicator that the actual and dominant reason for the Complainant's termination was the discontinuance of a function."
+Issues
+[7]
+Section 242(3.1)(a) of the
+Canada Labour Code
+provides that an Adjudicator cannot hear a complaint if the complainant "has been laid off because of lack of work or because of the discontinuance of a function". The Adjudicator has no jurisdiction to hear and rule on a complaint in the face of a "discontinuance of function". Thus, the overall issue raised by this application is whether the Adjudicator erred by concluding that the employee was not terminated because of the discontinuance of a function.
+[8]
+The actual question for determination is quite narrow. There is no dispute over the first conclusion of the Adjudicator; both parties accept that Bell Canada eliminated two manager positions for legitimate business purposes. Nor is there any disagreement that Bell Canada could use performance as the sole criterion for choosing the two employees for termination. Finally, before the Adjudicator, Ms. Healey did not argue that she was not the poorest performer of the 13 managers during the 2000 and 2001 years. Thus, if Ms. Healey had been actually performing all the duties of the position of Manager, there can be no argument that she would have been one of the two managers released. In that case, having found that the streamlining was legitimate, the Adjudicator would have been without jurisdiction to hear the complaint. However, the question becomes whether, due to her unusual position and the fact that she would never resume her duties as Call Centre Manager, Ms. Healey could be "caught" by Bell Canada's downsizing. Although the Adjudicator never makes a clear finding on this point, it appears that her conclusion was that Ms. Healey was not a Call Centre Manager at the time of her termination and could not thus be the subject of the otherwise legitimate downsizing. The question for my determination is whether the Adjudicator erred in this conclusion.
+Standard of Review
+[9]
+There was no argument between the parties as to the applicable standard of review. In determining whether the Adjudicator had jurisdiction to proceed with the complaint, the applicable standard of review is correctness (
+FRAGMENT_SUPPRESSED). With respect to the factual determinations that an Adjudicator may make, however, the appropriate standard is patent unreasonableness (
+Roe
+, supra).
+Analysis
+[10]
+It is important to understand the nature and context of Ms. Healey's employment within Bell Canada at the time of the termination. The important and relevant facts, which are not contested, are the following:
+- Ms. Healey's performance appraisals for 2000 and 2001 were the poorest of all 13 managers in the call centre.
+- Ms. Healey last performed the duties of Call Centre Manager on February 7, 2001 when she commenced a disability leave.
+- Ms. Healey was not replaced in her position.
+- Following a medical examination on May 15, 2001, Ms. Healey was deemed fit to return to work with certain medical restrictions. Specifically, she was permanently restricted from returning to her former management position in the company.
+- Due to her restrictions, in May 2001, Ms. Healey assumed temporary non-management duties in another unit while efforts were made to find her an appropriate non-management position within Bell Canada. She was not transferred to that unit or into a position within that unit.
+- Ms. Healey retained her title of Manager and continued to receive her salary as a manager, although it was frozen for a period of 6 months following her return to work in May.
+- As stated by Ms. Healey's direct supervisor in her affidavit before me, had Ms. Healey not been the bottom performer in her group for 2000 and 2001, she would not have been "streamlined".
+[11]
+The Adjudicator apparently (although it is not crystal clear) concluded that, because Ms. Healey was never to return to the active performance of managerial functions, she no longer occupied that position and could not, therefore, be terminated as a result of the streamlining. Ms. Healey argues that the essence of the Adjudicator's decision is that there was no nexus between the manager position that was eliminated and Ms. Healey, since she was not performing the functions of a Call Centre Manager at the time of the termination. For the reasons that follow, I am unable to agree with Ms. Healey.
+[12]
+In the first part of her analysis, the Adjudicator examined the motives of Bell Canada in eliminating the two manager positions. She concluded that the positions were being discontinued because of the "necessity of streamlining throughout the province". Put another way, the Adjudicator concluded that the set of activities forming the office of Call Centre Manager were no longer being carried out as a result of a decision of Bell Canada acting in good faith. I assume, since the decision is silent on this point, that the Adjudicator found nothing colourable in respect of the comparable ability and performance criterion used by Bell Canada for selection of the two managers to be laid off.
+[13]
+Contrary to the submissions of Bell Canada, I do not believe that the Adjudicator lost jurisdiction as soon as she had reached this conclusion. This is because Ms. Healey submitted that, however legitimate Bell Canada's streamlining initiative was, she no longer held the position of Call Centre Manager. On the facts of this case, the Adjudicator's assessment required a second stage of analysis. Specifically, the Adjudicator had to ascertain whether Bell Canada correctly determined that Ms. Healey held the office being eliminated from the organization. This analysis was a prerequisite to determining her jurisdiction and quite separate from assessing the merits of the termination. For how can an individual's layoff be in good faith and carried out pursuant to a company's downsizing initiative if the termination is from a position that she did not hold? The facts of this case are rather unusual in that whether a particular position is actually occupied by a complainant will not normally be a live issue. However, that is the essence of the dispute before me.
+[14]
+In the second stage of the Adjudicators's analysis, I am satisfied that she was addressing the appropriate question. In particular, the Adjudicator was apparently asking herself whether Ms. Healey actually held the position that was eliminated in the downsizing. However, although the analysis was necessary to her jurisdiction, I have concluded that she did not analyze completely or correctly the evidence before her and thus erred in her conclusion.
+[15]
+In her decision, the Adjudicator referred to a number of the facts before her and concluded as follows:
+"In these circumstances, both the employer and the employee understood as of May 2001 that because of the permanent restrictions, Ms. Healey would never be carrying out again 'the bundle of responsibilities, duties and activities' of Consumer Call Centre Manager."
+[16]
+In approaching the issue before her, the Adjudicator was relying on a definition of "function" contained in
+Flieger v. New Brunswick
+, [1993] 2 S.C.R. 651; 155 N.R. 1; 138 N.B.R.(2d) 161; 354 A.P.R. 161, at pp. 663-664 [S.C.R.]. In that case, Justice Cory, speaking on behalf of the majority of the Supreme Court of Canada stated that:
+"'Discontinuance' obviously refers to the termination of something that is termed a function. A 'function' must be the 'office' that is to say the bundle of responsibilities, duties and activities that are carried out by a particular employee or group of employees. ... Therefore, a 'discontinuance of a function' will occur when that set of activities which form an office is no longer carried out as a result of a decision of an employer acting in good faith."
+Ms. Healey would submit that, on the basis of this description and since she would never again perform the "responsibilities, duties and activities" of a manager, she could no longer be considered to be a Call Centre Manager. Unfortunately for Ms. Healey, this conclusion does not follow.
+[17]
+Justice Cory was using his definition of "function" in
+Fleiger
+to determine whether the province's decision to terminate the New Brunswick Highway Patrol was a legitimate management decision which resulted in a discontinuance of the function. In that context-at that stage of determining whether an employer has valid reasons for the terminations-the focus of the examination must be the activities associated with the position. An adjudicator can only assess whether the terminations are legitimate by reviewing the duties of the position. There is no purpose served by analyzing the benefits or other consequences of the office in question. However, it does not follow that an employee no longer occupies an office to which the function applies simply because she is not performing the work normally associated with that position. To determine whether an employee occupies such a position requires an analysis of all of the attributes of the position; this examination must extend beyond a simple review of the "responsibilities, duties and activities" of the position.
+[18]
+Every employee within an organization holds a position. And every position within an organization comes with a certain bundle of responsibilities, duties and activities. But that is not all. Attached to and forming part of every position are a further bundle of rights-the right to a salary and benefits, for example. In the case of a Call Centre Manager, one such benefit was the obligation of the company to attempt to accommodate Ms. Healey's health restrictions. But for this obligation of Bell Canada to accommodate her disability, she would not be performing the temporary duties in another unit and she would not be receiving assistance in finding a new position.
+[19]
+If Ms. Healey did not occupy the position of Call Centre Manager, then what position did she hold? How could she "return to work" in May if she did not continue to hold the management position? On what basis was she being paid her manager's salary if she did not still hold that position? Why would Bell Canada assume the obligations of trying to find her a new position if she was not in an active position at the time? On what basis was Ms. Healey receiving the benefit of the temporary position if not as a manager?
+[20]
+Ms. Healey argues that the continuation of her salary and title was nothing more than administrative in nature. I cannot agree. These administrative details formed the very foundation upon which Ms. Healey continued to be an employee of Bell Canada. The importance of this cannot be ignored, as it was by the Adjudicator. Without being a Call Centre Manager, she would not have continued to receive her salary, to retain her title, to be accommodated for her disability, and to receive assistance in being reassigned within Bell Canada. All of the benefits of her office were being accorded her; it would be illogical for her to now be able to say that, just for purposes of her termination, she is no longer a Call Centre Manager.
+[21]
+A review of all relevant evidence demonstrates that Ms. Healey was a Call Centre Manager at the time of her termination. The Adjudicator erred in concluding otherwise.
+[22]
+At this point, the following has been established:
+1. Bell Canada, in good faith and for legitimate business reasons, eliminated two manager positions;
+2. Bell Canada selected the managers to be terminated on the basis of their performance for the 2000 and 2001 years;
+3. Ms. Healey was the poorest performer for the 2000 and 2001 years; and
+4. Ms. Healey was a Call Centre Manager at the time of termination, September 28, 2001.
+[23]
+Accordingly, Ms. Healey was laid off because of the discontinuance of a function and, pursuant to section 242(3.1)(a) of the
+Canada Labour Code
+, the Adjudicator has no jurisdiction to proceed to consider further the merits of the dismissal (
+Roe
+, supra). Once it is determined that the Adjudicator was without jurisdiction to proceed, it follows that her decision must be set aside.
+Conclusion
+[24]
+In summary, the Adjudicator's conclusion that Ms. Healey was unjustly dismissed should be quashed. In determining that she had jurisdiction, the Adjudicator incorrectly viewed the position of Ms. Healey as being limited to "the bundle of responsibilities, duties and activities" associated with the office of Call Centre Manager. On a standard of correctness, the decision cannot stand. However, even if I view the Adjudicator's conclusion on this point as a finding of fact and thus subject to review only on a standard of patent unreasonableness, I would conclude that the Adjudicator's failure to consider all of the attributes of the office of Ms. Healey led her to a conclusion that is patently unreasonable or one that was made without regard to the evidence before her. Thus, on any standard of review, the Adjudicator's conclusion cannot be supported. No useful purpose would be served by remitting this matter for redetermination by this or another Adjudicator.
+[25]
+As requested by Bell Canada, each party will bear its own costs.
+ORDER
+[26]
+THIS COURT ORDERS THAT:
+1. The decision dated June 11, 2003 of the Adjudicator is quashed;
+2. The complaint of unjust dismissal by Ms. Healey made pursuant to the
+Canada Labour Code
+is dismissed; and,
+3. Each party will bear its own costs of this judicial review.
+Application allowed.
+Editor: Angela E. McKay/klf
+[End of document]

@@ -1,0 +1,570 @@
+[1]
+Noël, J.
+[Translation]: This is an application for judicial review made by the Attorney General of Canada with regard to complementary and ongoing disciplinary decisions dated December 3, 2004 (concerning the merits of disciplinary offences, or lack thereof) and January 31, 2005 (determination of the sanction) by Lawrence Poitras, in his capacity as delegate of the Superintendent of Bankruptcy ("the delegate" or "delegate Poitras") under section 14.01 of the
+Bankruptcy and Insolvency
+Act
+, R.S.C. 1985, c. B-3 (the "
+Act
+"), in which Jacques Roy, trustee in bankruptcy ("the trustee"), was the respondent. The Court is also faced with an additional application for judicial review concerning the same decisions and involving some of the same parties, but initiated by the trustee (see
+Roy v. Poitras et al.
+(2006), 306 F.T.R. 83).
+[2]
+In his decisions, the delegate ruled that the trustee had committed four (4) of the fifteen (15) disciplinary offences with which he was charged, including those which were withdrawn during the hearing. However, the delegate concluded that seven (7) other disciplinary offences were unfounded. Accordingly, a suspension of the trustee's licence for one (1) week was considered appropriate. For the purposes of this decision, instead of using the word "offence", I will use the term "breach", which is more appropriate, considering the facts in this case.
+[3]
+In his application for judicial review, the Attorney General is seeking reconsideration of the delegate's decision dismissing these seven (7) breaches. The Attorney General submits that this decision is wrong in law, in light of the interpretation to be given to certain statutory and regulatory provisions.
+I.
+Facts
+[4]
+Since 1986, the trustee has held a trustee's licence issued under the
+Act
+and has no disciplinary record.
+[5]
+In connection with the administration of the assets in the bankruptcy of Distribution Sunliner (1985) Inc. ("Sunliner bankruptcy"), one of the shareholders, Mr. Paris, wrote to the Office of the Superintendent of Bankruptcy ("OSB") on December 7, 1995, requesting an investigation [Translation] "into the conduct of the trustee in bankruptcy, Jacques Roy".
+[6]
+Josée Plourde ("Ms. Plourde") from the OSB was assigned to follow up on the request for an investigation, and she prepared a report explaining certain factual situations connected with specific work performed in the Sunliner bankruptcy. In a letter sent to the trustee on May 9, 1997, Ms. Plourde issued the following opinion:
+[Translation] "- In general, the administration of this file seems to be in compliance with the provisions of the
+Bankruptcy and Insolvency
+Act
+, the
+Bankruptcy Rules
+and the directives issues by the Superintendent.
+"- ... the bill of costs was approved by the inspectors and assessed by the Court. As far as the trustee's fees and disbursements are concerned, we leave everything to the Court, which will award you fair and reasonable compensation according to the circumstances."
+(Parties' joint record, volume XI, tab B-15: Letter from Josée Plourde to Jacques Roy, dated May 9, 1997)
+[7]
+On July 23, 1997, the Deputy Registrar signed a judgment discharging the trustee from the administration of the Sunliner bankruptcy. A final statement of receipts and disbursements, signed by the trustee on November 19, 1996, was included in the documents enclosed with the application for discharge.
+[8]
+On June 8, 1999, Ms. Plourde attended a new meeting with Mr. Paris, Mr. Gallant, and a representative of the Royal Canadian Mounted Police. During this meeting, they discussed the administration of the Sunliner bankruptcy, the involvement of Yves Lemaire ("Mr. Lemaire") in the administration of the bankruptcy, the monies received by the National Bank, and the cashing of cheques issued by a company named BCL, some of which had been cashed by Mr. Lemaire.
+[9]
+On June 10, 1999, in light of these new facts, the OSB assigned this case to Mr. Nolet of the audit section. He signed a report on October 21, 1999.
+[10]
+On March 2, 2000, Ms. L. MacDonald, Acting National Director, Compliance and Investigation, recommended to the OSB, Quebec City District, that the trustee face a disciplinary committee further to the complaints made by Mr. Paris, based on the [Translation] "new facts" revealed at the June 8, 1999 meeting, the trustee's reply, and Mr. Nolet's audit report.
+[11]
+On November 24, 1999, in the bankruptcy of Pierre-André Jacob ("Jacob bankruptcy"), a complaint was filed against the trustee by a creditor involved in the bankruptcy. The issues raised in this case concern a trustee substitution, due diligence, and the verification of the meeting minutes. The facts will be discussed in the analysis.
+[12]
+On March 23, 2000, the OSB assigned Sylvie Laperrière, a senior analyst of professional conduct ("analyst Laperrière"), to investigate the trustee's professional conduct in the Jacob and Sunliner bankruptcies.
+[13]
+Ms. Laperrière signed her report on April 17, 2001. It was amended on November 2, 2001. In her report, Ms. Laperrière concluded that the trustee's conduct in the administration of the Jacob and Sunliner bankruptcies justified that fifteen (15) allegations of breaches of the
+Act
+and/or the
+Bankruptcy and Insolvency Rules
+, C.R.C. 1978, c. 368 (the "
+Rules
+") and of the directives issued by the Superintendent of Bankruptcy be brought against him. This report was submitted to the Superintendent for a hearing under sections 14.01 and 14.02 of the
+Act
+. The Superintendent had delegated his authority under sections 14.01, 14.02 and 14.03 of the
+Act
+to delegate Poitras (the Superintendent's first choice as delegate had died, and delegate Poitras was subsequently chosen), in accordance with subsection 14.01(2).
+[14]
+In the fall of 2004, the delegate chaired a disciplinary hearing for the fifteen (15) alleged breaches, some of which were withdrawn at the hearing. In the end, the delegate retained only four (4) of the original fifteen (15) alleged breaches.
+[15]
+In his decision dated December 3, 2004, the delegate concluded that seven (7) of the other breaches of which the trustee had been accused were unfounded. They read as follows:
+Jacob file
+[Translation] (1) The trustee signed false and misleading minutes on the conduct of the meeting on October 7, 1999 regarding his confirmation as trustee by the creditors and the failure to indicate that the meeting was suspended to make certain verifications, thereby contravening section 13.5 of the
+Bankruptcy and Insolvency
+Act
+and Rule 45.
+Sunliner bankruptcy
+[Translation] (2) The trustee did not obtain the inspectors' permission to sell accounts receivable to Isomur and accept in consideration a sum of money payable at a future time, thereby contravening section 30(1)(a) and (f) of the
+Act
+.
+(3) The trustee did not obtain the inspectors' approval to employ an attorney to file a motion to recover funds against Isomur and Messrs. Rivard and Genest, thereby contravening section 30(1)(e) of the
+Act
+.
+(4) The trustee did not obtain the inspectors' approval to compromise the claim for $15,000, plus interest and the scheduled indemnity, made by the estate against Isomur pursuant to the judgment of January 4, 1995, thereby contravening section 30(1)(i) of the
+Act
+.
+(6) The trustee failed to keep a record of the time spent on administration of the estate for the prescribed period after the date of his discharge, thereby contravening section 26(2) of the
+Act
+and Rule 65 (since April 30, 1998, Rule 68(1)).
+(8) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that collection of the proceeds of sale of accounts receivable had not yet been realized, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening sections 13.5, 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2)).
+(9) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that realization of the amounts receivable from BCL was not complete, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening sections 13.5, 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2)).
+It should be noted that the numbering of the breaches follows the numbering used by the delegate in his decision dated December 3, 2004.
+[16]
+In the case at bar, the Attorney General filed an application for judicial review of the dismissal of these seven (7) alleged breaches appearing in the decision dated December 3, 2004.
+II.
+Issues
+[17]
+Considering the foregoing, and considering the knowledge the undersigned has of this case, the issues to be dealt with are as follows:
+(1) What is the standard of review applicable to each one of the following issues?
+(2) Did the delegate err in his interpretation of Rule 45 by concluding that the trustee's guilty intent had to be proven to conclude there was a disciplinary breach?
+(3) Did the delegate commit an error in law in concluding that the trustee did not breach section 152 of the
+Act
+or Rule 45 when he indicated in his final statement of receipts and disbursements for the Sunliner bankruptcy that all the assets had been realized?
+(4) Did the delegate commit an error in law in concluding that section 30 of the
+Act
+did not oblige the trustee to obtain permission from the inspectors before taking any of the actions specified in this section?
+(5) Did the delegate commit an error in law in concluding that the trustee's time sheets are not "estate documents" within the meaning of section 26 of the
+Act
+?
+III.
+Analysis
+(1) What is the standard of review applicable to each one of the issues?
+[18]
+Before conducting an analysis of each issue, it is important for the purposes of the analysis to identify the standard or standards of review applicable to each issue.
+[19]
+For the reasons mentioned in the judgment involving some of the same parties in docket number T-360-05, at paragraphs 19 et seq., I have concluded that the standard of review applicable to a disciplinary report and to the decision concerning the sanction is that of reasonableness simpliciter (see also
+FRAGMENT_SUPPRESSED). To arrive at such a conclusion, I took into consideration the purpose of the
+Act
+, the role of the Superintendent as supervisor of trustees and the estates entrusted to them, and the issues raised in this case, all of which, except for one question of fact (patent unreasonableness), were questions of mixed law and fact (reasonableness simpliciter).
+[20]
+In the case of this application for judicial review, a study of the four (4) issues shows that, for each issue, the Attorney General submits that the delegate misinterpreted certain statutory and regulatory provisions and certain directives from the Superintendent and that, consequently, the delegate applied incorrect legal principles. Therefore, the issues in this case raise questions of law.
+[21]
+The case law is to the effect that questions of law are subject to the standard of correctness. In a case involving some of the same parties but dealing with different questions of law (the scope of procedural safeguards, impartiality, and the independence of the system for investigating the conduct of trustees in bankruptcy), Mr. Justice Martineau concluded that the standard of correctness applied (see
+Lévy (Sam) & Associés Inc. et al. v. Mayrand et al.
+(2005), 277 F.T.R. 50; 2005 FC 702, at paragraph 27).
+[22]
+In connection with the fifth issue in dispute, counsel for the Attorney General argued that the time sheets constitute estate documents and that although the delegate reached a conclusion in law to the effect that these time sheets are not estate documents, such a conclusion is nevertheless based on the expert knowledge of the Superintendent, and therefore the standard of review should be that of reasonableness simpliciter. In my opinion, the fifth issue involves the interpretation to be given to section 26 of the
+Act
+, that is, whether the time sheets are estate documents. This is a question of law. Thus, the applicable standard of review is that of correctness.
+[23]
+In this case, the standard of review to be applied to each of the issues is that of correctness.
+(2) Did the delegate err in his interpretation of Rule 45 in concluding that the trustee's guilty intent must be proven to conclude that there was a disciplinary breach?
+[24]
+In the Jacob bankruptcy, analyst Laperrière alleged that the trustee breached Rule 45, which reads as follows:
+"45. Trustees shall not sign any document, including a letter, report, statement, representation or financial statement
+that they know, or reasonably ought to know, is false or misleading
+, and shall not associate themselves with such a document in any way, including by adding a disclaimer of responsibility after their signature." (Emphasis added)
+[25]
+The analyst accused the trustee of signing minutes showing that he had been confirmed as trustee in the Jacob bankruptcy at a meeting on October 7, 1999, when this was not the case. The evidence on this point was contradictory, and in his decision, the delegate did not reach any conclusion as to whether or not the trustee actually was confirmed as trustee in the Jacob bankruptcy on October 7, 1999.
+[26]
+However, with regard to the burden of proof, the delegate commented that the onus was on the analyst to prove a breach under Rule 45. The delegate wrote the following:
+"Under our case law, the Superintendent of Bankruptcy had to show that the trustee had [Translation] 'the guilty intent to mislead and prepare a false document'. We consider there is no evidence in the record that the trustee intended to mislead anyone or to prepare a false document, although the parties concerned did not agree what happened at the meetings in question. This complaint must be dismissed."
+(Joint Record, volume I, tab 2, Delegate's decision dated December 3, 2004, at page 3).
+[27]
+The Attorney General is of the opinion that this type of reasoning is mistaken in law. According to him, the use of the words "that they know, or reasonably ought to know, is false or misleading" in Rule 45 does not require proof of intent to mislead.
+[28]
+In support of this argument, counsel for the Attorney General relied on case law dealing specifically with the interpretation to be given to the words "he or she knows or reasonably ought to know" (in French: "
+qu'il sait ou devait raisonnablement savoir être faux ou trompeur
+"). In a context different from that of bankruptcy law and Rule 45, Mr. Justice Killeen stated in
+Home Depot Inc. v. Fieder Painting Inc.
+, [1995] O.J. No. 2263 (Gen. Div.), that the words "knows or reasonably ought to know" do not encompass the concept of mens rea. In
+Tam-Kal Ltd. v. Stock Mechanical Inc. et al.
+(1998), 80 O.T.C. 161 (Gen. Div.), Mr. Justice Ground, in commenting on the test required by the words "knows or reasonably ought to know", stated that the test was disjunctive because of the use of the conjunction "or" and that the second branch of the test required an objective analysis of what a reasonable person should have known in such circumstances. Therefore, there is no need to determine the true intent of the person in question.
+[29]
+Counsel for the trustee noted that the words "that they know, or reasonably ought to know, is false or misleading" require that the trustee have knowledge of the fact that the document in question is false or misleading. Thus, there is an explicit requirement to show that the trustee had the guilty intent (mens rea) to use a false document. If Rule 45 requires knowledge of the existence and use of a false or misleading document by the trustee, then it is obvious that guilty intent must be proven.
+[30]
+In support of his argument, counsel for the trustee submitted that the concepts associated with the words "false or misleading" encompass a guilty intent on the part of the person accused. If Parliament had not intended to include such a requirement in enacting this Rule, it would have used the words "mistaken", "inaccurate", "wrong" or some other synonym of this nature, and this would have eliminated any doubt as to the necessity of proving guilty intent on the part of the alleged wrongdoer.
+[31]
+According to counsel for the trustee, case law has established that when the adjective "false" had to be defined or interpreted, it was often associated with a guilty intent. In
+Dupont v. Brault, Guy, O'Brien Inc. et Letellier
+, [1990] R.J.Q. 112; 34 Q.A.C. 218 (C.A.), the Court of Appeal heard an appeal involving a securities broker accused of making misrepresentations (in French, "
+des informations fausses ou trompeuses
+") contrary to the
+Securities
+Act
+, R.S.Q., c. V-1.1. The Court was asked to rule on the meaning to be given to the adjective "
+faux
+" (false), at pages 116 and 117:
+[Translation] "I entirely agree with this point of view and would add that the definition of the adjective '
+faux
+' in Cornu's
+Vocabulaire juridique
+uses the concept of an '
+attestation intentionnellement inexacte
+' [intentionally inaccurate statement of fact]."
+[32]
+In another judgment of the Quebec Court of Appeal,
+Latulippe v. Desruisseaux
+, [1986] R.J.Q. 1350; 3 Q.A.C. 75 (C.A.), the Court was asked to rule on the legal meaning of the word "falsely" in connection with services rendered by a doctor contrary to the
+Health Insurance
+Act
+, R.S.Q., c. A-29. The Court gave the following explanation at page 1355:
+"In requiring that the service be 'faussement décrit' (falsely described) to constitute the offence, I find it difficult to see that the legislature could have contemplated anything other than an intentional misdescription on the part of a doctor. Perhaps the word 'faussement' can have a neutral meaning in some other situations, when used in a penal statute, as it is here, the normal inference would be an intentional act." (This judgment is available in English only)
+[33]
+Now, returning to Rule 45, we must note that it is part of the trustees' Code of Ethics and is similar to a criminal law provision. The Code of Ethics is an integral part of the
+Rules
+. More specifically, the Code comprises sections 34 to 53 of the
+Rules
+. Rule 34 specifies the following:
+"34. Every trustee shall maintain the high standards of ethics that are central to the maintenance of public trust and confidence in the administration of the Act."
+[34]
+Rule 45 states that documents must not be "false" or "misleading". This is the essence of this Rule.
+[35]
+The 2006
+Petit Larousse dictionary
+defines the adjective "
+faux
+" (false) as follows:
+[Translation] "1. Contrary to what is true, right, accurate or logical. E.g., false bill, false reasoning. 2. Not supported by the facts, unfounded. E.g., false alarm."
+The word "false" is defined in the first edition of the
+Concise Canadian Oxford Dictionary
+, as follows:
+"
+1.
+not according with fact; wrong, incorrect (
+false idea
+).
+2.
+(a) spurious, sham, artificial (
+false gods, false teeth; false modesty
+) (b) acting as such; appearing to be such, esp. deceptively (
+false lining
+) ...
+5.
+deceptively (
+false advertising
+).
+6.
+deceitful, treacherous, or unfaithful ..."
+We have already seen that the definition of "
+faux
+" in Cornu's
+Vocabulaire juridique
+connotes intent.
+[36]
+The adjective "
+trompeur
+" (misleading) is defined in the 2006
+Petit Larousse dictionary
+as follows:
+[Translation] "That which misleads, induces error. E.g., appearances are misleading.
+n
+.
+Lit
+. Liar, hypocrite."
+The adjective "misleading" is defined in the eighth edition of
+Black's Law Dictionary
+as follows:
+"Delusive; calculated to be misunderstood."
+Taking these definitions into consideration, it seems to me that a misleading document is one that induces error through lies or other intentional means, and this connotes an underlying component of intent.
+[37]
+It is also important to note that, as it is drafted, Rule 45 creates an offence or a breach by mere association with such a document, and the inclusion of a disclaimer in this document is of no effect.
+[38]
+Counsel for the Attorney General argued that the use of the words "that they know, or
+reasonably ought to know, is false or misleading
+" (in French: "
+qu'il sait ou
+devrait raisonnablement savoir être faux ou trompeur
+") does not require evidence of an intent to mislead by the signatory. In their view, if a reasonable person ought to have known that the document was false or misleading, the Rule has been broken, regardless of whether or not an actual intention to mislead has been proven. This is an objective test that does not consider the actual intention of the person in question.
+[39]
+According to my reading of the Rule, the trustee must have knowledge that the document signed is false or misleading. The wording of the Rule links the trustee with the verb
+to know
+or
+reasonably ought to know
+, with respect to the document's false or misleading nature. The adjectives "false" or "misleading" connote the intentional element of the knowledge that one actually has or reasonably ought to have with regard to the document's false or misleading nature. I do not see how the words "reasonably ought to know is false or misleading" can in themselves operate to set aside the trustee's knowledge and instead establish an objective test. The trustee's intent in signing a document that he knows or reasonably ought to know is false or misleading seems to me to be an essential element in determining whether or not the disciplinary breach is well founded, based on the wording of Rule 45.
+[40]
+The delegate's conclusion that Rule 45 includes the guilty intent to associate oneself with a false or misleading document is correct. His conclusion to the effect that there is no evidence on record showing that the trustee intended to utter a false or misleading document is not put in doubt. It is consistent with the applicable law and is correct.
+(3) Did the delegate commit an error in law in concluding that the trustee did not breach section 152 of the
+Act
+or Rule 45 when he indicated in his final statement of receipts and disbursements for the Sunliner bankruptcy that all the assets had been realized?
+[41]
+Section 152 of the
+Act
+reads as follows:
+"152(1) The trustee's final statement of receipts and disbursements shall contain a complete account of all moneys received by the trustee out of the property of the bankrupt or otherwise, the amount of interest received by the trustee, all moneys disbursed and expenses incurred and the remuneration claimed by the trustee,
+together with full particulars, description and value of all property of the bankrupt that has not been sold or realized, setting out the reason why the property has not been sold or realized and the disposition made thereof
+." (Emphasis added)
+[42]
+Rule 45 is reproduced at paragraph 24 of this decision. The reasons given in answer to the preceding issue (see paragraphs 24 to 40 of this decision) concerning the interpretation of Rule 45, particularly to determine whether guilty intent is an integral part of Rule 45, also apply to this issue. It was determined that guilty intent is part of this Rule. The delegate decided that even though the evidence showed that information was missing from the final statement of receipts and disbursements and that the assets had not been totally realized, the trustee was not liable, because there was no evidence of an [Translation] "intent to mislead". All that remains to deal with is the alleged offence under section 152 of the
+Act
+.
+[43]
+On November 19, 1996, the trustee signed the final statement of receipts and disbursements, in which he stated that [Translation] "all the assets have been realized" (Joint Record, volume X, tab 54, Final Statement of Receipts and Disbursements). This document had been approved by two (2) inspectors.
+[44]
+As at November 19, 1996, $15,000 had still not been recovered from three debtors (this money was part of the conclusion of a judgment dated January 4, 1995-see the Joint Record, volume XI, tab B-10, Report of Josée Plourde on the Distribution Sunliner (1985) Inc. bankruptcy). In the final statement, the trustee did not mention that this amount had not been collected, nor did he give any reasons for this situation.
+[45]
+As at November 19, 1996, BCL still had $17,660.97 to remit to the trustee. This amount was to be paid once the company had received payment from certain debtors. The trustee assigned Yves Lemaire to do the follow up, [Translation] "... because it seemed that it would take some time to recover these amounts ..." (Joint Record, volume IX, tab 4, letter from Jacques Roy to Michael Luftglass, dated November 19, 1999-Comments concerning the report of Louis Nolet, page 11). The case history shows that three (3) cheques totalling $10,178.20 were issued by BCL in April 1997, February 1998 and in 2001. The balance of the initial amount had been set off. Mr. Lemaire cashed the two (2) cheques from 1997 and 1998 even though they were made out to the trustee. The trustee cashed the third cheque. These amounts were remitted to the National Bank, because it held first-ranking securities and claims.
+[46]
+In his decision dated December 3, 2004, the delegate commented on the situation as follows, at page 16:
+"Even if, the statement of receipts and disbursements prepared by the trustee did not entirely meet the requirements of section 152(1) of the
+Bankruptcy Act
+, it did not in any way contravene Rule 45, according to which the trustee signed a document 'that [he knew] or reasonably ought to know [was] false or misleading'."
+What about the breach of section 152 of the
+Act
+noted by the delegate?
+[47]
+Counsel for the trustee argued that the investigation conducted in 1995 by Ms. Plourde of the OSB shows that the amounts mentioned at paragraphs 44 and 45, which were not included in the final statement of receipts and disbursements, were known. Ms. Plourde's report (Joint Record, volume XI, tab B-10, Report of Josée Plourde concerning the bankruptcy of Distribution Sunliner (1985) Inc.) shows that the amount of $15,000 was still potentially recoverable as at the date of the report. As far as the amount of $17,660.97 owed by BCL is concerned, I do not find any reference in Ms. Plourde's report to the status of this amount or to the trustee's agreement with Mr. Lemaire and the National Bank. Therefore, these amounts were still part of the estate in bankruptcy at the time, and no reference to or explanation of those amounts is found in the trustee's final statement of receipts and disbursements.
+[48]
+Counsel for the trustee also argued that the Sunliner bankruptcy followed procedure and that at no time was any anomaly needing correction identified. The steps followed were these: Ms. Plourde's investigation (including the letter expressing her satisfaction, dated May 1997); the assessment order, dated May 23, 1997; the discharge of the trustee; the intervention program and explanation of the steps to be followed; and supervision by the OSB. Counsel argued that if the slightest reservation had been mentioned at any step of the proceedings, [Translation] "the trustee could have presented an amended or modified statement". As far as the trustee was concerned, approval of the final statement of receipts and disbursements by the official receiver and the Court and the discharge of the trustee were sufficient to bar any allegations of such breaches. In
+Sam Lévy & Associés Inc.
+, supra, at paragraphs 195 and 196, Martineau, J., answered this argument in part in his comments on subsection 48(1) of the
+Act
+:
+"[195] Although subsection 48(1) of the
+Act
+discharges the trustee as to any act or default in the administration of the bankrupt's property and as to his conduct as trustee, the provision does not address all the Superintendent's supervisory powers under sections 14.01 et seq. of the
+Act
+. It is the Superintendent who has the exclusive power of issuing trustee licences and making the obtaining of such licences subject to certain conditions.
+"[196] Additionally, a discharge order made by the Bankruptcy Court only affects the trustee's conduct in respect of third parties and any person who has an interest in the bankruptcy. In this regard, the discharge procedure is not a proceeding for examining the professional conduct of a trustee, at the conclusion of which a trustee may be subject to a disciplinary penalty. Any other conclusion would essentially amount to giving the Bankruptcy Court the power to place bankruptcy trustees beyond the reach of any disciplinary penalty, which would be to usurp the exclusive jurisdiction of the Superintendent ..."
+[49]
+The delegate's decision does not indicate whether such an argument was invoked in defence against the allegations. The memoranda filed by the parties do not show if such arguments were considered.
+[50]
+Having said this, I can only note that the Ms. Plourde's report shows the amount of $15,000 was still at the collection stage as at the date of the report, which did not discuss the amount of $17,660.97 owed by BCL. The latter amount was partially reimbursed by three (3) cheques issued in the trustee's name well after the final statement of receipts and disbursements was signed.
+[51]
+The trustee's affidavit in support of his application for discharge, dated July 11, 1997, stated the following
+[Translation] "The statement of receipts and disbursements enclosed with said application and marked Exhibit A is an accurate and true statement of the administration of the above-mentioned estate, and said statement was approved by the bankruptcy inspectors and assessed by the Court."
+(Joint Record, volume IX, tab 55, Affidavit in support of the application for the discharge of the trustee dated July 11, 1997)
+[52]
+Section 152(1) is not ambiguous. It states that the final statement of receipts and disbursements contains, among other things (we are citing it once again because of its importance to the analysis):
+"152(1) The trustee's final statement of receipts and disbursements shall contain a complete account of all moneys received by the trustee out of the property of the bankrupt or otherwise, the amount of interest received by the trustee, all moneys disbursed and expenses incurred and the remuneration claimed by the trustee,
+together with full particulars, description and value of all property of the bankrupt that has not been sold or realized, setting out the reason why the property has not been sold or realized and the disposition made thereof
+." (Emphasis added)
+It is obvious that as far as the amounts of $15,000 and $17,660.97 are concerned, the trustee's final statement of receipts and disbursements, dated November 19, 1996, does not mention them at all, and no explanation or reason is given. The delegate noted these facts but did not reach a conclusion about the alleged breaches under subsection 152(1) of the
+Act
+. This decision is incorrect. Accordingly, the two alleged breaches numbered 8 and 9 (see paragraph 15 of this decision) must be remitted to the delegate for redetermination, taking into consideration section 152 of the
+Act
+.
+(4) Did the delegate commit an error in law in concluding that section 30 of the
+Act
+did not oblige the trustee to obtain permission from the inspectors before taking any of the actions specified in this section?
+[53]
+Section 30 of the
+Act
+reads as follows:
+"30(1)
+The trustee may, with the permission of the inspectors, do all or any of the following things
+:
+(a) sell or otherwise dispose of for such price or other consideration as the inspectors may approve all or any part of the property of the bankrupt, including the goodwill of the business, if any, and the book debts due or growing due to the bankrupt, by tender, public auction or private contract, with power to transfer the whole thereof to any person or company, or to sell the same in parcels;
+(b) lease any real property or immovable;
+(c) carry on the business of the bankrupt, insofar as may be necessary for the beneficial administration of the estate of the bankrupt;
+(d) bring, institute or defend any action or other legal proceeding relating to the property of the bankrupt;
+(e) employ a barrister or solicitor or, in the Province of Quebec, an advocate, or employ any other representative, to take any proceedings or do any business that may be sanctioned by the inspectors;
+(f) accept as the consideration for the sale of any property of the bankrupt a sum of money payable at a future time, subject to such stipulations as to security and otherwise as the inspectors think fit;
+. . . . .
+(i) compromise any claim made by or against the estate;" (Emphasis added)
+[54]
+Some other sections should be reproduced for the purposes of this issue:
+"19(1) The trustee may prior to the first meeting of creditors obtain such legal advice and take such court proceedings as he may consider necessary for the recovery or protection of the property of the bankrupt.
+"(2)
+In the case of an emergency where the necessary authority cannot be obtained
+from the inspectors in time to take appropriate action, the trustee may obtain such legal advice and institute such legal proceedings and take such action as he may deem necessary in the interests of the estate of the bankrupt. [Emphasis added]
+"31(1)
+With the permission of the court
+, an interim receiver or a trustee,
+prior to the appointment of inspectors
+, may make necessary or advisable advances, incur obligations, borrow money and give security on the property of the debtor in such amounts, on such terms and on such property as may be authorized by the court and those advances, obligations and money borrowed shall be repaid out of the property of the debtor in priority to the claims of the creditors. [Emphasis added]
+"38(4) Where, before an order is made under subsection (1), the trustee,
+with the permission of the inspectors
+, signifies to the court his readiness to institute the proceeding for the benefit of the creditors, the order shall fix the time within which he shall do so, and in that case the benefit derived from the proceeding, if instituted within the time so fixed, belongs to the estate. [Emphasis added]
+"117(1)
+The trustee may call a meeting of inspectors when he deems it advisable
+and he shall do so when requested in writing by a majority of the inspectors." (Emphasis added)
+[55]
+The trustee was criticized for not having obtained permission from the inspectors for the following actions:
+a) The sale of the accounts receivable to Isomur in exchange for a sum of money to be paid at some future date, contrary to paragraphs 30(1)(a) and (f) of the
+Act
+. (breach No. 2);
+b) Retaining the services of a lawyer to institute proceedings to recover assets, contrary to paragraph 30(1)(e) of the
+Act
+(breach No. 3);
+c) Entering into a transaction with respect to a claim of $15,000 from the estate in bankruptcy, contrary to paragraph 30(1)(i) of the
+Act
+(breach No. 4).
+[56]
+The trustee admitted not having obtained permission from the inspectors for the first two alleged breaches. According to the trustee, permission was not required, considering the state of the law on this issue following the teachings of the Supreme Court, the Quebec Court of Appeal, and the Superior Court to the effect that such authorization is not required under the
+Act
+(Joint Record, volume X, Testimony of the trustee, at pages 1239 to 1243).
+[57]
+As far as the third alleged breach is concerned, the trustee explained that there had not been an actual transaction with Isomur concerning the $15,000 judgment, since the trustee was contemplating seizures by garnishment by which he planned to seize from third parties the amounts they owed to some of the defendants in the judgment. However, the evidence shows that the trustee reached an agreement with the defendants by which they promised to pay $9,000 rather than $15,000 to the trustee and to reassign to the trustee an account receivable of $6,031 which was part of a contract of sale of accounts receivable. The inspectors did not give their permission for such an arrangement. The delegate did not rule on this issue, because he decided that permission from the inspector was not required.
+[58]
+On this point, the delegate ruled on whether or not it was necessary to obtain permission from the inspectors for the three (3) alleged breaches, as follows:
+"The trustee admitted that he had not received the inspectors' approval authorizing the sale of accounts receivable in July 1994 ...
+. . . . .
+"Counsel for the trustee responded that precedent and academic authority agree that the trustee has absolute power to sell the assets, enter into compromises in the bankruptcy file and initiate court proceedings without prior authorization from the inspectors, but in the event that a decision made by the trustee proves prejudicial to the estate, the trustee was exposing himself. Accordingly, the trustee had no legal obligation to obtain the inspectors' prior approval, as the absence of the latter's approval did not in any way affect the trustee's ability to act.
+"Counsel referred us to the following authorities to confirm his argument: ...
+"The complaint is dismissed."
+(Joint Record, volume I, tab 2. Delegate's decision, dated December 3, 2004).
+[59]
+A review of these authorities (see Appendix 1 of this decision, which consists of decisions cited at page 23 of the delegate's decision, dated December 3, 2004) shows that a trustee is authorized to act without the permission of inspectors and that the act (or acts) carried out by the trustee cannot be invalidated because permission was not obtained from the inspectors. However, I must add that some of these authorities specified that permission was required for the purposes of protecting the estate in bankruptcy. On this point, in a Supreme Court judgement,
+Brown v. Gentleman
+, [1971] S.C.R. 501, at page 511, Mr. Justice Spence wrote (See also
+Béliveau v. Mercure
+, [1971] C.A. 309, at page 313, where it is stated that the purpose of obtaining permission from the inspectors is to protect the creditors):
+"The trustee, by s. 19(1)(d) [now 30(1)(d)] is authorized to institute an action with the permission of the inspectors and the failure to obtain the permission of the inspectors cannot be set up as a defence to an action commenced by the trustee,
+that provision being only for the protection of the estate on matters relating to costs
+."
+[60]
+A trustee has the authority to act, sign instruments and bring legal proceedings before courts of law without the permission of the inspectors. However, permission is useful for protecting the estate and the creditors. If trustees do not obtain permission, they may be held personally liable.
+[61]
+In the present case, it is not so much a question of the trustee's capacity to act or of the validity of the acts (the sale of accounts receivable, the use of a lawyer to institute legal proceedings or possibly to conclude a transaction). Given that this is a disciplinary matter, the more appropriate question to be asked is the following: Did the trustee comply with the
+Act
+in not obtaining permission from the inspectors to do the things mentioned in this paragraph?
+[62]
+In subsection 14.01(1) of the
+Act
+, Parliament specified that the purpose of the investigation conducted by the delegate is to determine if the trustee:
+"14.01(1) Where, after making or causing to be made an investigation into the conduct of a trustee, it appears to the Superintendent that
+(a) a trustee has not properly performed the duties of a trustee or has been guilty of any improper management of an estate,
+(b)
+a trustee has not fully complied with this Act, the General Rules, directives
+of the Superintendent or any law with regard to the proper administration of any estate, or ..." (Emphasis added)
+[63]
+Section 30 of the
+Act
+states that the trustee can take the actions listed therein "with the permission of the inspectors". In our case, the trustee admitted that no permission was obtained in connection with the first two alleged breaches. As far as the third allegation was concerned, the trustee claimed that there had been no transaction, and therefore it was not necessary to obtain permission from the inspectors.
+[64]
+Before concluding, I wish to mention that the
+Act
+recognizes the importance of inspectors, who in a way, together with the trustee, constitute the executive at the meeting of creditors. As specified at paragraphs 53 and 54 of this decision, Parliament intended that the inspectors be significantly involved with the trustee in the administration of the estate. It should go without saying that Parliament does not speak in vain. If it has explicitly required that permission must be obtained from the inspectors in a number of given circumstances, it is not for strictly academic reasons.
+[65]
+It should be remembered that the case law, while holding that the inspectors' permission is not required, nevertheless mentioned that one of the objectives of subsection 30(1) of the
+Act
+was to protect the estate and the creditors. In this regard, the Superintendent has a statutory obligation to supervise the administration of all estates and matters to which the
+Act
+applies (see subsection 5(2) of the
+Act
+). In assuming this responsibility, the Superintendent must ensure that trustees comply with the provisions of the
+Act
+. In
+Sam Lévy & Associés Inc.
+, supra, Martineau, J., wrote at paragraph 10 that one way for the Superintendent to assume his responsibilities was through issuing and supervising trustee licences:
+"Accordingly, misconduct by a trustee in the broad sense is penalized through the system of licences covered in the
+Act
+. In this regard, misconduct should be taken to mean any infringement or breach of the
+Act
+, the General Rules (including the Code), the Superintendent's Directives or any law on the proper administration of any estate (subsection 14.01(1) of the
+Act
+)."
+With regard to the role of the Superintendent, Martineau, J., made the following comments at paragraphs 127 and 128:
+"[127] ... The decisions made by a trustee under the
+Act
+in the administration of the property of an insolvent debtor have a direct impact on the rights of creditors. Thus, it is clear that Parliament intended to guarantee a high degree of protection for creditors and public confidence in the system of bankruptcy and assignment of property by an insolvent debtor: hence the supervisory role assigned by the
+Act
+exclusively to the Superintendent ...
+"[128] ... That said, once the Superintendent has issued a licence to a trustee, he must ensure that the latter complies with the
+Act
+, the General Rules, the Directives and any rule of law applicable in the circumstances ..."
+[66]
+I will conclude by noting that under subsection 30(1) of the
+Act
+, permission from the inspectors is required for the actions specified at paragraph 55 of this decision. The delegate's decision that permission was not required is incorrect if the role of the Superintendent and the statutory obligations of trustees are taken into account. With regard to alleged breaches 2 and 3, which concern the accounts receivable and the services of a lawyer to institute legal proceedings, the case is returned to the delegate so that he may take these reasons into consideration.
+[67]
+As far as the third alleged breach is concerned (breach number 4), the case is returned to the delegate so that he may make a ruling as to whether or not there was a transaction, taking into consideration the positions of analyst Laperrière and the trustee and then, if applicable, apply the provisions of paragraph 30(1)(i) of the
+Act
+.
+(5) Did the delegate commit an error in law in concluding that the trustee's time sheets are not "estate documents" within the meaning of section 26 of the
+Act
+?
+[68]
+Section 26 of the
+Act
+provides as follows:
+"26(1) The trustee shall keep proper books and records of the administration of each estate to which he is appointed, in which shall be entered a record of all moneys received or disbursed by him, a list of all creditors filing claims, the amount and disposition of those claims, a copy of all notices sent out, the original signed copy of all minutes, proceedings had, and resolutions passed at any meeting of creditors or inspectors, court orders and all such other matters or proceedings as may be necessary to give a complete account of his administration of the estate.
+"(2) The estate books, records and documents relating to the administration of an estate are deemed to be the property of the estate, and, in the event of any change of trustee, shall forthwith be delivered to the substituted trustee."
+[69]
+Rule 65 (now Rule 68) specifies the following:
+"65(1) Unless the court otherwise orders, the trustee who completes the administration of an estate shall keep, for not less than six years from the date of his discharge, the estate books, records and documents referred to in subsection 26(2) of the Act."
+[70]
+The Superintendent's Directive No. 7, at paragraphs 5 and 6, sets out which documents are to be retained (Directive 7 (pre-1992 still active) initially issued on June 19, 1986 and reissued on January 10, 1991):
+"5. The books, records and documents pertaining to the administration of the estate referred to in subsection 26(2) of the
+Act
+are the documents generated for or by the trustee reflecting his decisions and actions in the administration (trustee's own administration file).
+"6. This will generally involve the proofs of claims, the various notices to creditors, reports to creditors, the Court and the Superintendent, the correspondence, petitions and court orders, all minutes of meetings, the banking records and the accounting records showing the receipts and disbursements of the funds as well as the supporting documents for the various disbursements."
+[71]
+In the case at bar, analyst Laperrière criticized the failure to retain the time sheets concerning the administration of the Sunliner bankruptcy for a period of six (6) years.
+[72]
+The delegate concluded that the time sheets were not part of the estate documents:
+"Nothing in Rule 65 or in subsections 26(1) or 26(2) of the
+Act
+would indicate that the trustee's time sheets are an estate document which the trustee is required to retain. In other words, the time sheets of a trustee in bankruptcy are not mentioned anywhere in subsection 26(1). They are a trustee's personal work documents, unlike statements of receipts and disbursements, which show the compensation requested by the trustee and constitute estate documents."
+[73]
+The delegate did not deal with Directive 7. However, I note that the alleged breach did not refer to it and that counsel did not mention to me whether the Directive had been argued. In any event, it will not change the final outcome.
+[74]
+Counsel for the Attorney General argued that the final statement of receipts and disbursements, an estate document, included the trustee's compensation under item 17, and consequently the time sheets are also part of the estate documents. Counsel added that the statement in itself did not give any additional information as to the breakdown of the compensation.
+[75]
+Whether time sheets must be used by the trustee when administering the estate is not at issue here. In fact, during the audit, the trustee advised Mr. Nolet of the OSB that he had a report concerning the work under way in the Sunliner case, but he disposed of it after the fees were assessed (Joint Record, volume IX, tab 3, Special audit report in the Distribution Sunliner (1985) Inc. bankruptcy, dated October 21, 1999, at page 2010).
+[76]
+For the purposes of this decision, the question to be answered is the following: Are the time sheets part of the estate documents within the meaning of section 26 of the
+Act
+and therefore must be retained for the period specified in Rule 65, namely six (6) years (now four (4) years)?
+[77]
+The
+Act
+does not define the term "estate documents". However, a simple reading section 26 of the
+Act
+shows that trustee time sheets are not included in the term "estate documents". They are not and cannot be likened to books or records of the administration of each estate, a copy of all notices sent out, the original signed copy of all minutes, proceedings had, and resolutions passed at any meeting of creditors or inspectors, court orders and all such other matters or proceedings as may be necessary to give a complete account of the trustee's administration of the estate. Instead, they are the trustee's personal documents used to calculate, if necessary, fees for an eventual assessment or a request for a special fee.
+[78]
+Including time sheets in the notion of "estate documents", as the Attorney General would do, seems to me to be unfair, because if the sheets were to go missing, this would constitute a de facto disciplinary breach. If the Superintendent is of the opinion that time sheets are important to keep, he may use his power to issue directives under paragraphs 5(4)(c) and (d) of the
+Act
+to include such documents.
+[79]
+As mentioned at paragraph 73 of this decision, the delegate did not have to make a rule on the wording of paragraphs 5 and 6 of the Superintendent's Directive No. 7. On judicial review, I am required to comment on the decisions rendered by the delegate, taking into consideration the evidence and questions of law presented to him. Directive No. 7 was not part of the alleged breach number 6, although it is included in the present issue. Once again, and merely as food for thought, Directive No. 7 could certainly be more explicit as to whether the Superintendent intended that time sheets be considered "estate documents".
+[80]
+Considering section 26 of the
+Act
+and Rule 65, the delegate's decision not to include time sheets as "estate documents" is correct.
+IV.
+Conclusion
+[81]
+For the purposes of the conclusion, I am returning the case to the delegate so that he may render a new decision, taking into consideration these reasons with regard to the following alleged breaches:
+[Translation] "(2) The trustee did not obtain the inspectors' permission to sell accounts receivable to Isomur and accept in consideration a sum of money payable at a future time, thereby contravening paragraphs 30(1)(a) and (f) of the
+Act
+.
+"(3) The trustee did not obtain the inspectors' approval to employ an attorney to file a motion to recover funds against Isomur and Messrs. Rivard and Genest, thereby contravening paragraph 30(1)(e) of the
+Act
+.
+"(4) The trustee did not obtain the inspectors' approval to compromise the claim for $15,000, plus interest and the scheduled indemnity, made by the estate against Isomur pursuant to the judgment of January 4, 1995, thereby contravening paragraph 30(1)(i) of the
+Act
+.
+"(8) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that collection of the proceeds of sale of accounts receivable had not yet been realized, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening section 13.5 and subsections 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2)).
+"(9) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that realization of the amounts receivable from BCL was not completed, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening section 13.5 and subsections 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2))."
+Accordingly, the sanction imposed by the delegate in this case must be revised, taking into consideration the complete record.
+V.
+Costs
+[82]
+The matter of costs was dealt with, as each party requested them. However, counsel for the trustee argued that, in spite of his client's profound conviction that there were material errors in connection with the four breaches for which he was found liable, as well as concerning the sanction imposed (the subject of the application for judicial review in T-360-05, initiated by the trustee), he had suggested a discontinuance to the Attorney General in return for one in this file. The Attorney General refused.
+[83]
+Counsel for the trustee is of the view that it was not up to him to bear the costs of [Translation] "an argument of principle sought out and perpetuated by the Attorney General, who has access to considerable financial resources and does not run any additional risk". Should the Court rule in favour of the Attorney General, he requested that no costs be awarded, because the Attorney General was responsible for instituting both proceedings. However, should the trustee succeed, he requests his costs.
+[84]
+Considering the outcome of this case, and pursuant to my discretionary power under section 400 of the
+Federal Courts Rules
+, SOR/98-106, costs are awarded to the Attorney General.
+JUDGMENT
+[85]
+THE COURT ORDERS
+:
+- The application for judicial review is allowed, and the case is returned to the delegate so that he may render a new decision concerning the following alleged breaches:
+[Translation] "(2) The trustee did not obtain the inspectors' permission to sell accounts receivable to Isomur and accept in consideration a sum of money payable at a future time, thereby contravening paragraphs 30(1)(a) and (f) of the
+Act
+.
+"(3) The trustee did not obtain the inspectors' approval to employ an attorney to file a motion to recover funds against Isomur and Messrs. Rivard and Genest, thereby contravening paragraph 30(1)(e) of the
+Act
+.
+"(4) The trustee did not obtain the inspectors' approval to compromise the claim for $15,000, plus interest and the scheduled indemnity, made by the estate against Isomur pursuant to the judgment of January 4, 1995, thereby contravening paragraph 30(1)(i) of the
+Act
+.
+"(8) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that collection of the proceeds of sale of accounts receivable had not yet been realized, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening section 13.5 and subsections 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2)).
+"(9) The trustee signed a statement of receipts and disbursements indicating that the entire estate had been realized, when he should reasonably have known that realization of the amounts receivable from BCL was not completed, and he then signed an application for discharge supported by an incorrect affidavit, thereby contravening sections 13.5 and subsections 41(1) and 152(1) of the
+Act
+and Rules 45 and 64(2) (since April 30, 1998, Rule 61(2))."
+- Costs are awarded to the Attorney General.
+Application allowed.
+Editor: Giovanni A. Merlini/clh
+APPENDIX 1
+- P.-E., Bilodeau,
+Précis de la faillite et de l'insolvabilité
+, Éditions Revue de droit de l'Université de Sherbrooke, Sherbrooke, 2002, p. 39;
+- J. Deslauriers,
+La Faillite et l'insolvabilité au Québec
+, Wilson & Lafleur Editors, Montréal, 2004, p. 386;
+-
+Craig, In re; Blais v. Shaw
+, [1968] B.R. 652 (Que. C.A.);
+-
+Brown v. Gentleman
+, [1971] S.C.R. 501, p. 511;
+-
+Béliveau v. Mercure
+, [1971] C.A. 309;
+-
+Masson v. Gingras
+, [1972] C.S. 634 (Que.);
+-
+International Bowling Construction Ltd., In re; Verroeulst v. Gaston
+, [1976] C.S. 344 (Que.);
+-
+Plourde, Re; Marcoux v. Filion
+(1979), 31 C.B.R.(N.S.) 308 (Que. C.A.);
+-
+Cie du Trust National Ltée v. Trottier
+, [1989] C.A. 1769 (Que.).

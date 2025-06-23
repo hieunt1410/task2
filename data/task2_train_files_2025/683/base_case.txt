@@ -1,0 +1,370 @@
+[1]
+Near, J.
+: This is a motion brought by the Respondents, United States Steel Corporation and U.S. Steel Canada Inc. (US Steel) appealing the Order of Prothonotary Martha Milczynski, issued September 23, 2009, (the Order) which granted intervenor status to Lakeside Steel Inc. and Lakeside Steel Corp. (Lakeside) and to the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (USW), Local 1005 of the USW, Local 8782 of the USW, John Pittman on behalf of himself and all affected members, and Gord Rollo on behalf of himself and all affected members (collectively the Union Intervenors and, together with Lakeside, Intervenors).
+I.
+Background
+A.
+Factual Background
+[2]
+On July 17, 2009 the Attorney General of Canada (AGC) commenced an application on behalf of the Minister of Industry (the Minister) pursuant to section 40 of the
+Investment
+Canada Act
+, R.S.C. 1985, c. 28 (the
+Act
+). The AGC alleges that US Steel has failed to comply with two written undertakings (the Undertakings) made to the Minister in connection with US Steel's acquisition of certain assets of Stelco Inc. (the Canadian Business). The undertakings relate to the annual level of steel production in US Steel's Canadian Business (the output undertaking) and aggregate employment levels at the Canadian Business (the employment undertaking).
+[3]
+The Application was commenced following the issuance of a Ministerial demand under section 39 of the
+Act
+. The AGC is now seeking a monetary penalty as well as an Order requiring the Respondents to comply with the undertakings. Consequently, at issue in the Application is:
+1) whether the Minister was justified in sending a demand to US Steel under section 39 of the
+Act
+;
+2) whether US Steel failed to comply with the demand; and
+3) what remedial order, in the Court's opinion, is appropriate in the circumstances.
+[4]
+In accordance with Rule 109 of the
+Federal Courts Rules
+(the
+Rules
+), SOR/98-106, the Intervenors sought and were granted, following the Order, leave to intervene in the proceedings.
+B.
+The Order
+[5]
+Prothonotary Milczynski was satisfied that Lakeside and the Union Intervenors met the test for intervenor status under the
+Rules
+, and determined that their submissions on remedies not sought by the Applicant would be of assistance to the Court hearing the merits of the Application.
+[6]
+Prothonotary Milczynski considered the relevant principles governing the exercise of the Court's discretion pursuant to Rule 109 as outlined in
+Canadian Union of Public Employees (Airline Division) v. Canadian Airlines International Ltd.
+, [2010] 1 F.C.R. 226; 95 A.C.W.S.(3d) 249 (
+CUPE
+), and further noted that she had to also consider whether the intervention would cause prejudice to the parties.
+[7]
+She concluded that it would be appropriate to allow the Intervenors to present arguments relating to the merit of remedies available under the
+Act
+other than those sought by the Applicant, especially considering that this is the first application being made under section 40 of the
+Act
+. Lakeside seeks to advance an argument relating to the appropriateness of divesture of the Canadian Business as a viable remedy. The Union Intervenors submit that the Court, empowered by subsection 40(2) of the
+Act
+to "make any order or orders as, in its opinion the circumstances require," ought to make an order seeking compensation for each bargaining unit and the individuals affected by the failure of US Steel to meet the production and employment level undertakings. Neither of these remedies are being sought by the Applicant, and therefore, but for the intervention of Lakeside and the Union Intervenors, these remedies would not be meaningfully before the Court.
+[8]
+Accordingly, Prothonotary Milczynski limited the role of the Intervenors to filing affidavit evidence, to cross-examine, to participate in pre-hearing motions and to make oral and written submissions in respect of their proposed remedies.
+C.
+Legislative Scheme
+[9]
+Rule 109 of the
+Rules
+gives the Court discretion to grant to non-parties leave to intervene in a proceeding upon such terms as the Court finds appropriate if it is satisfied that "participation will assist the determination of a factual or legal issue related to the proceedings" (109(2)(b)).
+[10]
+The purpose of the
+Investment
+Canada Act
+is set out in section 2:
+"
+Purpose of Act
+"2. Recognizing that increased capital and technology benefits Canada, and recognizing the importance of protecting national security, the purposes of this Act are to provide for the review of significant investments in Canada by non-Canadians in a manner that encourages investment, economic growth and employment opportunities in Canada and to provide for the review of investments in Canada by non-Canadians that could be injurious to national security."
+"
+Objet de la loi
+"2. Étant donné les avantages que retire le Canada d'une augmentation du capital et de l'essor de la technologie et compte tenu de l'importance de préserver la sécurité nationale, la présente loi vise à instituer un mécanisme d'examen des investissements importants effectués au Canada par des non-Canadiens de manière à encourager les investissements au Canada et à contribuer à la croissance de l'économie et à la création d'emplois, de même qu'un mécanisme d'examen des investissements effectués au Canada par des non-Canadiens et susceptibles de porter atteinte à la sécurité nationale."
+[11]
+The remedies available should a party fail to comply with a ministerial demand under section 39, are described in section 40:
+"
+Application for court order
+"40(1) If a non-Canadian or any other person or entity fails to comply with a demand under section 39, an application on behalf of the Minister may be made to a superior court for an order under subsection (2) or (2.1).
+"
+Court orders
+"40(2) If, at the conclusion of the hearing on an application referred to in subsection (1), the superior court decides that the Minister was justified in sending a demand to the non-Canadian or other person or entity under section 39 and that the non-Canadian or other person or entity has failed to comply with the demand, the court may make any order or orders as, in its opinion, the circumstances require, including, without limiting the generality of the foregoing, an order
+(a) directing the non-Canadian to divest themselves of control of the Canadian business, or to divest themselves of their investment in the entity, on any terms and conditions that the court considers just and reasonable;
+(b) enjoining the non-Canadian from taking any action specified in the order in relation to the investment that might prejudice the ability of a superior court, on a subsequent application for an order under paragraph (a), to effectively accomplish the end of such an order;
+(c) directing the non-Canadian to comply with a written undertaking given to Her Majesty in right of Canada in relation to an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada;
+(c.1) directing the non-Canadian to comply with a written undertaking given to Her Majesty in right of Canada in accordance with an order made under section 25.4;
+(d) against the non-Canadian imposing a penalty not exceeding ten thousand dollars for each day the non-Canadian is in contravention of this Act or any provision thereof;
+(e) directing the revocation, or suspension for any period specified in the order, of any rights attached to any voting interests acquired by the non-Canadian or of any right to control any such rights;
+(f) directing the disposition by any non-Canadian of any voting interests acquired by the non-Canadian or of any assets acquired by the non-Canadian that are or were used in carrying on a Canadian business; or
+(g) directing the non-Canadian or other person or entity to provide information requested by the Minister or Director.
+"
+Court orders - person or entity
+"40(2.1) If, at the conclusion of the hearing on an application referred to in subsection (1), the superior court decides that the Minister was justified in sending a demand to a person or an entity under section 39 and that the person or entity has failed to comply with it, the court may make any order or orders that, in its opinion, the circumstances require, including, without limiting the generality of the foregoing, an order against the person or entity imposing a penalty not exceeding $10,000 for each day on which the person or entity is in contravention of this Act or any of its provisions."
+"
+Demande d'ordonnance judiciaire
+"40(1) Une demande d'ordonnance judiciaire peut être présentée au nom du ministre à une cour supérieure si le non-Canadien, la personne ou l'unité ne se conforme pas à la mise en demeure reçue en application de l'article 39.
+"
+Ordonnance judiciaire
+"40(2) Après audition de la demande visée au paragraphe (1), la cour supérieure qui décide que le ministre a agi à bon droit et constate le défaut du non-Canadien, de la personne ou de l'unité peut rendre l'ordonnance que justifient les circonstances; elle peut notamment rendre une ou plusieurs des ordonnances suivantes:
+a) ordonnance enjoignant au non-Canadien de se départir soit du contrôle de l'entreprise canadienne, soit de son investissement dans l'unité, selon les modalités que la cour estime justes et raisonnables;
+b) ordonnance enjoignant au non-Canadien de ne pas prendre les mesures mentionnées dans l'ordonnance à l'égard de l'investissement qui pourraient empêcher une cour supérieure, dans le cadre d'une autre demande pour une ordonnance visée à l'alinéa a), de rendre une ordonnance efficace;
+c) ordonnance enjoignant au non-Canadien de se conformer à l'engagement écrit envers Sa Majesté du chef du Canada pris à l'égard d'un investissement au sujet duquel le ministre est d'avis ou est réputé être d'avis qu'il sera vraisemblablement à l'avantage net du Canada;
+c.1) ordonnance enjoignant au non-Canadien de se conformer à l'engagement écrit pris envers Sa Majesté du chef du Canada conformément au décret pris en vertu de l'article 25.4;
+d) ordonnance infligeant au non-Canadien une pénalité maximale de dix mille dollars pour chacun des jours au cours desquels se commet ou se continue la contravention;
+e) ordonnance de révocation ou de suspension, pour une période qu'elle précise, des droits afférents aux intérêts avec droit de vote qu'a acquis le non-Canadien ou du droit de contrôle de ces droits;
+f) ordonnance enjoignant au non-Canadien de se départir des intérêts avec droit de vote qu'il a acquis ou des actifs qu'il a acquis et qui sont ou ont été utilisés dans l'exploitation de l'entreprise canadienne;
+g) ordonnance enjoignant au non-Canadien, à la personne ou à l'unité de fournir les renseignements exigés par le ministre ou le directeur.
+"
+Ordonnance judiciaire - personne ou unité
+"40(2.1) Après audition de la demande visée au paragraphe (1), la cour supérieure qui décide que le ministre a agi à bon droit et constate le défaut de conformité peut rendre l'ordonnance que justifient, à son avis, les circonstances, et notamment infliger à la personne ou à l'unité en défaut une pénalité maximale de 10 000 $ pour chacun des jours au cours desquels se commet ou se continue la contravention."
+II.
+Issues
+[12]
+The issues raised in this appeal are:
+(a) What is the applicable standard of review of the Prothonotary's decision?
+(b) Is there any basis upon which this Court can set aside the Prothonotary's decision?
+III.
+Argument and Analysis
+A.
+Standard of Review
+[13]
+As set out in
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425; 149 N.R. 273; [1993] F.C.J. No. 103 (F.C.A.) and restated in
+Merck & Co. et al. v. Apotex Inc.
+, [2004] 2 F.C.R. 459; 315 N.R. 175; 2003 FCA 488, at para. 19, discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+"a) the questions raised in the motion are vital to the final issue of the case, or
+"b) the orders are clearly wrong in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts."
+[14]
+If the question is determined to be vital to the final issue, under the first branch of the test, a de novo review is conducted and no deference is shown to the prothonotary's decision. However, if the matter is reviewed on the second branch, the Court must determine that the Order was clearly wrong. This is a deferential standard.
+[15]
+The first question then, is whether, as the Respondents submit, the Order is vital to the final issue of the case.
+[16]
+The test to determine if a question is "vital" is stringent. As Justice Robert Décary explained in
+Merck & Co.
+, above, at para. 22:
+"The use of the word 'vital' is significant. It gives effect to the intention of Parliament, [...]
+"[...] that the office of prothonotary is intended to promote 'the efficient performance of the work of the Court'."
+[17]
+In
+Aqua-Gem Investments Ltd.
+, above, at para. 97, Justice Mark R. MacGuigan described questions that are vital as "questions vital to the final issue of the case, i.e. to its final resolution".
+[18]
+The Respondents argue that by permitting the Intervenors to present evidence to the Court regarding remedies not sought by the AGC, the nature of the section 40 proceeding risks being fundamentally altered from a bilateral legal proceeding into an open-ended public policy debate. They further submit that allowing affected stakeholders to seek personalized remedies upsets the legislative scheme which permits only the Minister to choose the remedy for any alleged non-compliance. In their view, the Intervenors acting to enable the Court to consider other remedies are vital to the outcome of the Application as a whole.
+[19]
+The Intervenors however, submit that the discretionary decision to grant intervenor status is not vital to the result of the case. The Intervenors have been given a circumscribed role, designed to assist the Court in evaluating factual and legal issues relevant to determining the appropriate remedy.
+[20]
+Although it is true that the presence of the Intervenors might have an effect on the ultimate outcome of the application, I cannot agree with the Respondents that the decision to allow them to participate in a limited capacity in assisting the Court think through the available remedial options is vital to the outcome of the case as required by the test in
+Merck & Co.
+, above.
+[21]
+As the Union Intervenors point out, whether the Order is vital to the final issue of the case refers to the subject matter of the order issued by the Prothonotary, not the effect of the Order (
+Society of Composers, Authors and Music Publishers of Canada v. Landmark Cinemas of Canada Ltd. et al.
+(2004), 316 N.R. 387; 2004 FCA 57 at para. 12).
+[22]
+Justice Barbara Reed cited examples of vital issues in
+James River Corp. of Virginia v. Hallmark Cards Inc. et al.
+(1997), 126 F.T.R. 1; 72 C.P.R.(3d) 157 (T.D.) stating at para. 4:
+"Questions that are vital to the final issues of a case are, for example, the entering of default judgment, a decision not to allow an amendment to pleadings, a decision to add additional defendants and thereby potentially reduce the liability of the existing defendant, or a decision on a motion for dismissal for want of prosecution."
+[23]
+In my view, the decision to grant the Intervenors intervenor status in the application is not vital to the final issue, or the resolution of the case. The Intervenors are barred from making submissions on the merits of the case. The Court still has to determine whether the Minister was justified in sending the demand under section 39 and if so, whether the Respondents failed to comply. If those questions are answered in the affirmative, as per subsection 40(2) of the
+Act
+, the Court may make any order as the circumstances require. The Intervenors were granted status because the Prothonotary determined that their intervention would assist the Court to fulfill its role in determining the appropriate remedy. That the Court might now be able to form a more complete opinion on what the circumstances require does not change the substantive rights of the parties.
+B.
+The Order is Not Clearly Wrong: it is Not Based on a Wrong Principle of Law, or Upon a Misapprehension of the Facts
+[24]
+The Respondents submit that the Order was clearly wrong and based on wrong principles of law and a misapprehension of the facts. The Respondents allege that although Prothonotary Milczynski used the proper test, she nonetheless committed several errors when considering the motion to intervene against the factors outlined in
+CUPE
+, above.
+[25]
+The
+CUPE
+test consists of six criteria that help the Court determine if, pursuant to Rule 109, granting a motion to intervene will "assist the determination of a factual or legal issue related to the proceeding". The Prothonotary listed these criteria on page 3 of the Order:
+(i) Is the proposed intervenor directly affected by the outcome?
+(ii) Does there exist a justiciable issue and a veritable public interest?
+(iii) Is there an apparent lack of any other reasonable or efficient means to submit the question of the Court?
+(iv) Is the position of the proposed intervenor adequately defended by one of the parties to the case?
+(v) Are the interests of justice better served by the intervention of the proposed third party?
+(vi) Can the Court hear and decide the cause on its merits without the proposed intervenor?
+[26]
+As the Prothonotary noted, the
+CUPE
+test is not conjunctive, all factors need not be present in order for leave to be granted. Rather, the Court must weigh the various interests involved. Additionally the Court has the inherent authority to impose terms and conditions appropriate in the circumstances (
+Boutique Jacob Inc. v. Pantainer Ltd. et al.
+(2006), 357 N.R. 384; 2006 FCA 426 at para. 21).
+[27]
+The Respondents submit that there are five reviewable errors:
+(1) Prothonotary Milczynski considered whether the Intervenors were directly affected by the outcome of the Application, but erred in law in confounding the legal and factual tests;
+(2) Prothonotary Milczynski failed to adequately consider the public interest in the proposed intervention;
+(3) Prothonotary Milczynski failed to consider any of the other factors mandated by
+CUPE
+;
+(4) Prothonotary Milczynski failed to adequately consider prejudice to the Moving Parties in her analysis of the "interests of justice" factor;
+(5) Prothonotary Milczynski erred in considering whether alleged failure to perform the Undertakings would result in the absence of "net benefit" to Canada - an issue not before her on the intervention motion, and one on which no evidence was adduced.
+[28]
+Additionally, the Respondents submit that the Prothonotary failed to consider all of the
+CUPE
+factors, and if she had, she should have concluded that the Intervenors satisfy none of them.
+[29]
+I will deal with each allegation in turn.
+(1)
+The Prothonotary Did Not Err in Law in Determining that the Intervenors Have a Sufficient Interest in the Outcome of the Application
+[30]
+The Respondents submit that Prothonotary Milczynski, in finding that the Intervenors would be affected by the outcome of the Application, has confounded the concept of being economically affected with that of being legally affected. The Respondents argue that the only interest the Intervenors have in the outcome of the Application is economic or pecuniary in nature. The Intervenors have no contract or tort rights to exercise against the Respondents and as a result the Respondents allege that in intervening they seek only to secure for themselves benefits that are not the fruit of negotiation with the Respondents. No existing legal rights of the Intervenors will be affected by the outcome of the Application.
+[31]
+While it is true that the case law relied on by the Respondents requires would-be intervenors to show that they have a direct legal interest distinct from an economic interest (
+Apotex Inc. v. Canada (Attorney General and Minister of National Health and Welfare) (No. 1)
+, FRAGMENT_SUPPRESSED), these cases relate specifically to "meddling competitors" in the context of patent litigation. In the present matter, given the uncontested impact that the Respondents' alleged failure to comply with the undertakings has on the Intervenors and the purpose with which they were granted intervenor status, I am persuaded by the Intervenors' arguments that they have a sufficient interest in the proceedings to meet the test to intervene.
+[32]
+For their part, the Union Intervenors argue that interest in employment rights are distinct from purely commercial or economic interests. Lakeside meanwhile claims that the Respondents distort the
+CUPE
+test, and that the concept of being "directly affected" as required should be interpreted broadly, keeping in mind the objective of Rule 109.
+[33]
+The Prothonotary found that the alleged failure of the Respondents to meet the employment undertakings directly impacted the employees and retirees of the Canadian business. Loss of union dues has also affected the bargaining agent's ability to represent their membership. Although, these interests are obviously in a way economic, in the same case relied upon by the Respondents,
+Apotex (1986)
+, above, the Court conceded that cited caselaw involving would-be intervenor doctors who risked losing their employment had interests distinct from a pharmaceutical company experiencing a reduction in profits. The latter is solely an economic interest, while in the former situation, "from a practical point of view, they have an intense and somewhat special interest in the outcome of these proceedings" (see
+Apotex (1986)
+, above at paras. 10 and 12).
+[34]
+In the case of Lakeside, the Prothonotary found that as a customer of the Canadian Business Lakeside had been adversely affected by the Respondents' failure to meet the production levels undertaking. More importantly, the Prothonotary found that Lakeside filed evidence on the motion that established that divesture would be a viable option.
+[35]
+Again, considering the matter contextually, and keeping in mind the central purpose of Rule 109, I am persuaded by Lakeside's position that they ought not to be denied intervenor status simply because they are not pursuing a contract or tort remedy against the Respondents.
+[36]
+Contrasting Rule 109 with Rule 303(1) which requires that applicants name as respondents every person who is "directly affected" by an application, Lakeside argues that Intervenors cannot be held to as stringent a test as actual parties to an application. I agree that one of the
+CUPE
+considerations, interpreted narrowly, cannot and should not be used to undermine the intent of Rule 109.
+(2)
+There is a Justiciable Issue and Public Interest in Granting Intervenor Status to Lakeside and the Union Intervenors
+[37]
+Prothonotary Milczynski found that the remedies under the
+Act
+are a justiciable issue and that public interest would be served in ensuring that the
+Act
+is interpreted and applied in a manner consistent with its stated purpose, which is to encourage investment, economic growth and employment opportunities in Canada.
+[38]
+The Respondents submit that the Prothonotary erred in failing to consider the absence of a justiciable issue between the parties, in stating that the subject matter of the Application is a matter of public interest even though public interest is not a dispositive factor under the
+CUPE
+test, in failing to recognize that the public interest aspect has been designated as the responsibility of the Minister alone and in incorrectly using the term public interest to refer to general public interest in the Application as opposed to public interest in a particular intervenor's participation.
+[39]
+Again, I find the arguments of the Intervenors more persuasive on these points.
+[40]
+The Respondents point to no case law to support their position. As Lakeside submits, nothing in
+CUPE
+suggests that a justiciable issue has to exist between the appellant and the intervenors, nor is this reasoning supported by the purpose Rule 109. Rather the Court's ultimate obligation to fashion the appropriate remedy is a justiciable issue.
+[41]
+The Prothonotary never suggested that the public interest in ensuring that the
+Act
+is applied consistently with its purpose was dispositive, rather it was one consideration among many as required by
+CUPE
+.
+[42]
+The argument that public interest is solely to be defended by the Minister is absurd and countered by the wording of the statute. Subsection 40(2) of the
+Act
+specifically requires the Court to make such "order or orders as, in its opinion, the circumstances require". I take Lakeside's point that public interest in the interpretation and application of the
+Act
+is analogous with public interest in injunctions and stay proceedings, where the Court has established that "the government does not have a monopoly on the public interest" (
+RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général)
+, [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241; 111 D.L.R.(4th) 385 at para. 65). Similarly, in the present matter the Minister cannot be said to be solely responsible for representing the entire landscape of Canadian commerce.
+[43]
+As found by the Prothonotary, both Intervenors are particularly well-positioned to advance specific arguments regarding appropriate remedial measures that would be of interest to Canadian workers and Canadians involved in the Steel industry.
+[44]
+In
+Benoit et al. v. Canada
+(2001), 272 N.R. 169; 2001 FCA 71 at para. 18, the Federal Court of Appeal stated:
+"[...] if in a case where important public interest issues are raised, an intervenor wishes to raise a related public interest question which naturally arises out of the existing lis between the parties, and which none of the other parties has raised, it is appropriate to permit the intervention."
+[45]
+As such, the Prothonotary was not clearly wrong in deciding that the remedy ordered by the Court under the
+Act
+is a justiciable issue of public interest, helpfully illuminated by the intervention of Lakeside and the Union Intervenors.
+(3)
+The Prothonotary Did Not Fail to Consider Any of the CUPE Factors
+[46]
+The Respondents submit that the Prothonotary failed to consider the remaining factors under
+CUPE
+.
+[47]
+In fact, Prothonotary Milczynski listed the
+CUPE
+factors and then either expressly or implicitly addressed them, as submitted by the Intervenors. However, as already discussed above, not all of the
+CUPE
+criteria need to be met in order to grant intervenor status (
+International Association of Immigration Practitioners (IAIP) et al. v. Canada et al.
+, [2004] F.T.R. Uned. 655; 15 C.P.R.(4th) 63; 130 A.C.W.S.(3d) 1100; 2004 FC 630 at para. 20).
+[48]
+Failing to expressly consider each factor is not an error of law. I am of the view that considering the circumstances, the nature of the order made and the evidence before the Prothonotary, the Order reasonably demonstrates the manner in which the Prothonotary exercised her discretion (
+Anchor Brewing Co. v. Sleeman Brewing & Malting Co.
+, [2001] F.T.R. Uned. 669; 15 C.P.R.(4th) 63; 2001 FCT 1066 at paras. 31-34).
+[49]
+Considering each
+CUPE
+factor individually (except the first two, which were discussed above), I cannot say that the Prothonotary was clearly wrong in her analysis, or based any of her findings on a misapprehension of the facts or a wrong principle of law:
+(iii) Is there an apparent lack of any other reasonable or efficient means to submit the question of the Court?
+[50]
+Prothonotary Milczynski was quite obviously referring to the point the Respondents allege she ignored, considering whether there are other means to submit the issues to the Court, when she stated:
+"I am satisfied that on this first application under section 40 of the
+Investment
+Canada Act
+, it would be of assistance to the hearing judge to consider the evidence and argument relating to these possible remedies
+and that without the intervenors, would not otherwise be before the Court in an effective or meaningful way
+." (Emphasis added)
+[51]
+This is not a baseless assumption. As the Union Intervenors submit, they have no standing in any other forum to raise the interests and concerns of the Canadian Business' employees regarding the effects of the Respondents' alleged failure to comply with the undertakings, and consequently, what the remedy should be.
+[52]
+The Prothonotary clearly did not overlook this consideration, nor can I say that she based her conclusion on any kind of misapprehension.
+(iv) Is the position of the proposed intervenor adequately defended by one of the parties to the case?
+[53]
+As the Respondents submit, the positions of the AGC and Intervenors diverge on the question of remedy. The Respondents argue that by granting the Intervenors leave to present evidence on the remedy, they are usurping the authority of the Minister and using the proceedings to obtain in personam remedies to which they are not legally entitled.
+[54]
+The Intervenors, for their part, argue that they advance a unique perspective on the interpretation and application of the
+Act
+, insofar as the remedies available but not sought by the Minister.
+[55]
+As Lakeside submits, the thrust of the Respondents' argument rests on a misunderstanding of the legislative scheme - it is not the AGC's election that determines the scope of remedies to be ordered by the Court should the merits of the Application be proven. As subsection 40(2) makes clear, it is for the Court to make any Order that it considers the circumstances to require.
+[56]
+The Intervenors were granted leave to intervene in a limited capacity in order to help the Court determine the viability and appropriateness of various remedial options. Although the Union Intervenors may support the AGC's position on the merits of the test under section 40, this is irrelevant as they have been limited to making submissions only on the remedy aspect of the Application. It is in this aspect that Lakeside's position on the divesture remedy and the Union Intervenor's position on compensation to be awarded to affected bargaining units are not being advanced by the AGC.
+[57]
+As such, I cannot say that Prothonotary Milczynski ignored or was clearly wrong in her consideration of this component of the
+CUPE
+test.
+(v) Are the interests of justice better served by the intervention of the proposed third party?
+[58]
+The Respondents submit that the Prothonotary failed to consider this component, and if she had she would have determined that it is not in the interests of justice to grant intervenor status and as a result undermine: the Minister's ability to choose the remedy; the Respondents' ability to defend themselves against potentially heavy monetary fines; and the Court's interest in efficient adjudication.
+[59]
+With respect, these submissions only amount to a disagreement with the Prothonotary's conclusion that allowing the Intervenors to provide input would ultimately be helpful to the Court. To my mind it is clear that the Prothonotary implicitly considered this factor in holding that it would be of assistance to the hearing judge on this first application under section 40 of the
+Act
+to hear evidence relating to the possible remedies (that would not be before the Court were it not for the presence of the Intervenors).
+[60]
+Although the Respondents wish to paint an application under the
+Act
+as a bilateral process, the purpose of the
+Act
+suggests that its enforcement requires engaging a broader public perspective. As Lakeside submits, if the Intervenors were truly usurping the role of the Minister, surely he would have objected on the motion to intervene. The Intervenors have an interest in the outcome of the proceedings and they have been granted status to intervene in the most efficient and helpful way by the Prothonotary.
+(vi) Can the Court hear and decide the cause on its merits without the proposed intervenor?
+[61]
+The Respondents submit that the statutory scheme envisions that the Court would be in a position to decide the merits of the application without the assistance of the Intervenors, and therefore should seek to avoid the delay and expense inherent in permitting the intervention.
+[62]
+The Union Intervenors submit that the Court should not attempt to fashion a remedy without hearing their submissions, as they are in a position to offer unique and particularly helpful evidence regarding the employment undertakings and what remedy might adequately address this issue.
+[63]
+Likewise, Lakeside argues that its presence will be helpful in adducing evidence and argument in support of the divestiture remedy. For this proposition Lakeside relies on
+United Grain Growers Ltd. v. Commissioner of Competition
+, 2005 Comp. Trib. 36, a decision of Justice Sandra J. Simpson, sitting as the judicial member of the Competition Tribunal. Justice Simpson granted intervenor status to Mission, a prospective buyer, reasoning that they had "a unique perspective on the alleged change of circumstances which lie at the heart of the Application".
+[64]
+Realistically, the Court could hear and decide the Application on the merits without the intervenors. However, the Court would have much less information and would have a more difficult time fashioning the appropriate remedy. Prothonotary Milczynski considered the purpose of Rule 109, and governed the use of her discretion under that Rule with a consideration of the
+CUPE
+factors. I cannot agree with the Respondents that she either ignored or wrongly applied any of the six factors. Rather it appears obvious to me, that she engaged in a balancing exercise and the conclusion that the Intervenors would be of assistance to the Court weighed more heavily in the end.
+(4)
+Prothonotary Milczynski Did Properly Consider Prejudice to the Respondents
+[65]
+I find no merit in the Respondents' submission that the Prothonotary neglected to properly consider the issue of prejudice to the Respondents. At the outset of the Order, the Prothonotary listed it as a necessary consideration and then, on page 9 of the Order went on to find that the Respondents' concern about "multiple prosecutors" was unfounded. The Prothonotary found that the Respondents would not experience undue prejudice as a result of the Intervenors' participation as potential delays and complexities could be managed through the case management process.
+[66]
+The Union Intervenors take the position, and I accept it as correct, that although the Respondents may now face a more challenging legal argument, this does not by itself constitute prejudice. As held in
+Abbott et al. v. Canada
+, [2000] 3 F.C. 482; 186 F.T.R. 269 (T.D.) at para. 21, having to deal with more complex issues and different viewpoints may represent an additional challenge for the Respondents and a little more expense, but it is not in itself prejudice.
+(5)
+Prothonotary Milczynski Stated a Conclusion That Does Not Undermine the Rest of Her Reasons
+[67]
+The Respondents take issue with the Prothonotary's comment on page 9 that, without the undertakings, there would have been no net benefit to Canada resulting from the sale of the Canadian Business. The Respondents submit that this issue was not before the Court, and there was no evidence upon which to base this statement and that it was therefore an error to make this comment.
+[68]
+I read the comment of the Prothonotary, in the context of the entire paragraph in which it is found, as an effort to rebuff the Respondents' position that the application is a bilateral dispute between the Respondents and the Minister. The Prothonotary is not making a conclusion regarding the matter that will be before the hearing judge, but is explaining why the application is of interest to the public.
+[69]
+The Respondents make one last argument that the
+Act
+does not contemplate granting a remedy to a third party. Prothonotary Milczynski acknowledged that this jurisdictional issue could not be determined on the motion and would need to be addressed at a later date.
+[70]
+Accordingly, the Respondents are still not able to show that the Prothonotary's decision was clearly wrong in any respect.
+V.
+Conclusion
+[71]
+In consideration of the above conclusions, I dismiss this appeal.
+ORDER
+[72]
+THIS COURT ORDERS that
+US Steel's motion appealing the decision of the Prothonotary's Order dated September 23, 2009 is dismissed with costs to the Intervenors.
+Appeal dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

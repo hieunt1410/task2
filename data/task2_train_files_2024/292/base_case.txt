@@ -1,0 +1,118 @@
+[1]
+Cullen, J.
+: This is an application for judicial review of a decision made by the Convention Refugee Determination Division of the Immigration and Refugee Board (hereinafter, the "CRDD") on September 12, 1996, which allowed the Minister's application to vacate the applicants' Convention refugee status on the ground that their status was obtained fraudulently by concealment of a material fact. Leave was granted by Madam Justice Reed on February 26, 1997.
+[2]
+The facts which lead to this application before the court unravel thus. The applicants are spouses and travelled to the United States using Djiboutian passports in December 1989. Later that month they entered Canada at Blackpool, Quebec. The applicants made Convention refugee claims in Canada on the basis of Somalian identification papers. The male applicant's personal information form (hereinafter, "PIF") states that the applicants used Djiboutian passports to get to the United States and that the passports were destroyed. The applicants were accepted by the CRDD as Somalian Convention refugees on April 17, 1990.
+[3]
+The refugee status was granted in the names Mohamoud Omar Adar and Saada Aden Chill. The applicants' adopted names for their permanent residence application in May, 1990 were, however, Mohamed Isak Adar and Saada Aden Duule. The CRDD notes, at pp. 1-2 of the vacation decision, that:
+"The male respondent acknowledged in testimony before this panel that Mohamed Isak Adar was not his real name. He alleges that the Immigration officials refused to change the name 'Adar' and gave him the choice of accepting the partially changed name or submitting to another hearing. The male respondent therefore indicated that he accepted the partially changed name and had the two people attesting to his identity sign false statements regarding his name in order to facilitate the partial name change."
+[4]
+In November, 1991, the Minister seized two Djiboutian passports, with the applicants' photographs, under the names Mohamoud Omar Adar and Saada Aden Chill. The applicants were confronted with the Djiboutian passports during an interview with Ms. Gina Champagne, an immigration officer. The applicants stated that their true names were not those in the passports but Mohamed Isak Ahmed, born in 1956, and Saada Adan Duule, born in 1958. They also stated that the passports had been bought illegally.
+[5]
+On June 11, 1992, the Minister made an application for leave, pursuant to s. 69.2(3) of the
+Immigration Act
+, R.S.C. 1985, c. I-2, (hereinafter, the "
+Act
+") to vacate the applicants' Convention refugee status on the basis of the two seized Djiboutian passports. The Minister's leave application stated that the documents were examined by the R.C.M.P.'s forensic laboratory in Montreal. The R.C.M.P. testing found the male applicant's passport to be genuine and unaltered, and the female applicant's passport to be "probably genuine and unaltered". The evidence which the Minister tendered in support of the vacation leave application was the seized passports and the R.C.M.P forensic results. Leave was refused.
+[6]
+There were two subsequent applications to the CRDD for leave to vacate the applicants' Convention refugee status, apparently on the strength of new evidence. This included evidence that the applicants applied for permanent residency under names other than those they had entered the country under and testified to having at the credible basis hearing, testimony from a R.C.M.P. officer which supported the forensic test results, evidence which showed that there was no problem with Djibouti passports being issued to non-genuine holders at the time in question, and the testimony of the ex-American Consul to Djibouti who verified the authenticity of two of the passports which had been issued in Djibouti on the basis of birth certificates. This time, leave was granted and a hearing was held. The CRDD determined that the applicants were citizens of Djibouti and not Somalia, and that they received their refugee status by concealing facts. On the strength of the Minister's evidence, and particularly on the examination of the physical evidence and the applicants' testimony, the CRDD allowed the application to vacate the applicants' refugee status. It is from this decision, made September 12, 1996, that this judicial review is taken.
+[7]
+The applicants' first submission is that the CRDD erred by proceeding with the Minister's application as it is res judicata because the Minister had already once brought a vacation application on the basis of the seized Djiboutian passports in 1992. This submission must be rejected. First, however, it must be said that the discovery of new evidence is not a reason to avoid the operation of res judicata. The principle underlying the doctrine is that there must be an end to litigation. "Interest rei publicae sit fins litium".
+[8]
+The requirements for res judicata, in the form of cause of action and issue estoppel, were enunciated by the Supreme Court of Canada in
+Angle v. Minister of National Revenue
+, [1975] 2 S.C.R. 248; 2 N.R. 397 (hereinafter, "
+Angle
+"). Mr. Justice Dickson, as he then was, found for the majority at p. 253 to 254 [S.C.R.]:
+"In earlier times res judicata in its operation as estoppel was referred to as estoppel by record, that is to say, estoppel by the written record of a court of record, but now the generic term more frequently found is estoppel 'per rem judicatam'. This form of estoppel, as Diplock, L.J., said in
+Thoday v. Thoday
+[[1964] p. 181], at p. 198, has two species. The first, 'cause of action estoppel', precludes a person from bringing an action against another when that same cause of action has been determined in earlier proceedings by a court of competent jurisdiction. We are not here concerned with cause of action estoppel as the Minister's present claim that Mrs. Angle is indebted to Transworld in the sum of $34,612.33 is obviously not the cause of action which came before the Exchequer Court in the s. 8(1)(c) proceedings. The second species of estoppel per 'rem judicatam' is known as 'issue estoppel', a phrase coined by Higgins, J., of the High Court of Australia in
+Hoystead v. Federal Commissioner of Taxation
+[(1921), 29 C.L.R. 537], at p. 561:
+'I fully recognize the distinction between the doctrine of res judicata where another action is brought for the same cause of action as has been the subject of previous adjudication, and the doctrine of estoppel where, the cause of action being different, some point or issue of fact has already been decided (I may call it "issue-estoppel").'
+Lord Guest in
+Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2)
+[[1967] 1 A.C. 853], at p. 935, defined the requirements of issue estoppel as:
+'... (1) that the same question has been decided; (2) that the judicial decision which is said to create the estoppel was final; and, (3) that the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies ...'"
+The ingredients for issue estoppel, then, are 1) same parties, 2) same issue, and 3) final decision. Among the many cases where this articulation of the doctrine has been applied is the Federal Court of Appeal decision in
+Minister of Employment and Immigration v. Chung
+, [1993] 2 F.C. 42; 149 N.R. 386.
+[9]
+In this case, both species fail. Generally speaking, it is difficult to apply
+res judicata to the definition of a Convention refugees because a person's status as a Convention refugee is fluid. This is supported by two provisions in the
+Act
+. Section 2(2) sets out the circumstances when a person ceases to be a Convention refugee. It reads:
+"(2) A person ceases to be a Convention refugee when
+(a) the person voluntarily avails himself of the protection of the country of the person's nationality;
+(b) the person voluntarily reacquires his nationality;
+(c) the person acquires a new nationality and enjoys the protection of the country of that new nationality;
+(d) the person voluntarily re-establishes himself in the country that the person left, or outside of which the person remained, by reason of fear of persecution; or
+(e) the reasons for the person's fear of persecution in the country that the person left, or outside of which the person remained, cease to exist."
+Section 69.2(1) of the
+Act
+is the provision which implements this change in circumstance.
+"69.2(1) The Minister may make an application to the Refugee Division for a determination whether any person who was determined under this Act or the regulations to be a Convention refugee has ceased to be a Convention refugee."
+[10]
+More pertinent to this case are s. 69.2(2) and (3) of the
+Act
+, which allow the CRDD the discretion to grant leave for reconsideration of an applicant's Convention refugee status on the ground that the status was fraudulently gained by the misrepresentation of a material fact. Those parts read:
+"(2) The Minister may, with leave of the Chairperson, make an application to the Refugee Division to reconsider and vacate any determination made under this Act or the regulations that a person is a Convention refugee on the ground that the determination was obtained by fraudulent means or misrepresentation, suppression or concealment of any material fact, whether exercised or made by that person or any other person.
+(3) An application to the Chairperson for leave to apply to the Refugee Division under subs. (2) shall be made ex parte and in writing and the Chairperson may grant that leave if the Chairperson is satisfied that evidence exists that, if it had been known to the Refugee Division, could have resulted in a different determination."
+[11]
+Simply put, the denial of the leave application in 1992 was not a "final decision" in the sense of res judicata. The statute gives the CRDD the powers of reconsideration. Cause of action estoppel is directly negated by the
+Act
+. And while the first two requirements for issue estoppel of Angle are met (same parties and same issue), the decision is not final because the statute provides for reconsideration. Further, the initial application for leave was denied and as a result the CRDD did not have the opportunity to reconsider the applicants' status. Also, the applicant is not even a party to an application for leave to vacate Convention refugee status. It follows that even if the provision for reconsideration does not extinguish res judicata, the doctrine would not operate in this case.
+[12]
+Nor is the Minister's second application an abuse of process. This court's process is not being abused and this court cannot adjudicate on the abuse of the CRDD's process. The CRDD controls vacation applications by virtue of the leave requirement and this would presumably abort any abusive process.
+[13]
+The second ground which the applicants invoke is that the CRDD made an erroneous finding of fact, viz. that the applicants were Djiboutian citizens and that on the evidence before it the CRDD should have found them to be Somalian citizens. The applicants submit that the CRDD "erred in determining that the physical integrity of one or more of the Djiboutian passports was sufficient proof of Djiboutian citizenship, when considered in the context of the evidence as a whole including the inconsistencies in these travel documents." The applicants supply two reasons to support this submission. First, the applicants submit that a passport is not proof of citizenship, especially when the legitimacy of the passport itself is in dispute. Furthermore, the CRDD perversely or capriciously ignored 16 Somalian identity documents supplied by the applicants when it determined that the applicants were Djiboutian citizens. Second, the transcripts of the first proceeding were not before the CRDD panel which vacated the applicants' Convention status (the CRDD notes that this was because the tapes from the original hearing were lost). Thus, the applicants submit, fundamental evidence was not before the CRDD because the initial CRDD panel may have considered and rejected the possibility that the claimants were citizens of Djibouti. I will address each of these points in succession.
+[14]
+The case law on the legal significance of passports is as follows. A passport is prima facie evidence of citizenship (
+Varin v. Cormier
+, [1937] 3 D.L.R. 588 (Que. S.C.)). In
+FRAGMENT_SUPPRESSED
+In essence, the passport is evidence of citizenship unless its validity is contested. The onus is then on the applicant to prove that the applicant is of a different citizenship than that indicated in the passport.
+[15]
+In
+Sivasamboo v. Canada (Minister of Citizenship and Immigration)
+, [1995] 1 F.C. 741; 87 F.T.R. 46 (T.D.), Mr. Justice Richard found that the CRDD is an expert tribunal. Thus, the standard of review of the CRDD on findings of fact is patent unreasonableness (as agreed with by this court in
+De Connick et al. v. Canada (Minister of Citizenship and Immigration)
+(1996), 110 F.T.R. 207 (T.D.);
+Chen v. Canada (Minister of Citizenship and Immigration)
+(1995), 102 F.T.R. 203 (T.D.);
+Acosta v. Canada
+, IMM-805-95 (September 28, 1995)). In terms of determining the validity of passports and other identity documents, this standard is underscored. The CRDD has all of the expert evidence before it as well as the documents themselves. It assesses the credibility of witness's testimony and weighs it accordingly. It is not necessary for the tribunal to address each and every document before it. However, the tribunal must, nevertheless, justify its conclusions with appropriate reference to the evidence before it.
+[16]
+In the case at Bar, I see that at pp. 9 through 11 of its decision, the CRDD specifically addressed many of the 16 Somalian identity documents tendered as evidence. The tribunal's examination of the documents is in sufficient descriptive and analytical detail to justify why it did not accept those documents over the Djiboutian passports as evidence of citizenship. Looking at the allegedly genuine Somalian identity documents, I notice that on the photograph that is pasted to the male applicant's alleged birth certificate, a beard seems to have been drawn, in ink, onto the face of the person depicted there. I am not even sure that the person depicted in this photograph is the same one as depicted in the other identity documents purported to be the male applicant's, false beard notwithstanding.
+[17]
+In contrast to the evidence of 16 allegedly Somalian documents of questionable authenticity, the tribunal had before it the Minister's evidence of two Djiboutian passports, forensic evidence attesting to their authenticity, and expert testimony. A brief summary of the CRDD's findings regarding this evidence is as follows, and reveals no error on the part of the CRDD.
+[18]
+The Minister tendered the seized Djibouti passports, which contained the applicants' photographs, as well as RCMP forensic reports which indicated that two of the documents were genuine and unaltered, and the third was probably genuine and unaltered. All of the entries in the passport were not counterfeit. Exhibit M1, a Djiboutian passport issued in Saudi Arabia, states that the holder was a "operateur-computer" and exhibit M2 states the holder's profession as being a "Programmeur". The male applicant's PIF indicates that he was a computer programmer in Saudi Arabia in 1983. The CRDD did not accept that this was merely a coincidence.
+[19]
+The forensics expert also testified that bulletins shared internationally among police forces did not indicate any problem with falsely issued Djibouti passports. The evidence of Mr. Jay Dehmlow, who was Consul of the U.S. Embassy in Djibouti between 1990 and 1993 and who had inspected thousands of Djiboutian passports, was that exhibits M2 and M3 were genuine. This was based on visual examination and discussions with the Director of National Police in Djibouti, Mr. Ali Ibrahim Goudal, who stated that M2 and M3 were recorded as being issued because Djiboutian birth certificates were presented. Mr. Dehmlow, who gave evidence by letter and by teleconference, indicated that the U.S. visas in the passports, which are usually issued based on supporting documentation such as passports and birth certificates are authentic because they matched the visa plate and log at the U.S. embassy. Mr. Dehmlow did not attempt to verify the authenticity of exhibit M1 because it had been issued in Saudi Arabia.
+[20]
+Mr. Dehmlow testified that during his tenure in Djibouti the issuance of false Djiboutian passports was very rare and that, to his knowledge, it was rare in the years prior to his arrival. The official who signed the passports was one Mr. Mousa. The CRDD wrote that "While Mr. Mousa's reputation was beginning to slip by 1993, he signed the male respondent's passport as Mr. Goudal's deputy, in November 1989, three to four years prior to his reputation beginning to slip." The CRDD accepted this evidence and, while not rejecting the evidence of witnesses (tendered by the applicants) which stated that they had been able to obtain false Djibouti passports, placed more weight on the Minister's evidence.
+[21]
+With respect to the witnesses tendered by the applicant who testified to the applicants' names and citizenship, the CRDD gave more weight to the Minister's evidence. The panel wrote at p. 8 of their decision:
+"... the Minister's evidence includes objective evidence from disinterested third parties, expert evidence and documentary evidence which has been forensically tested, all of which the panel finds to be credible and trustworthy. The identity witnesses of the respondents are friends or at the very least, acquaintances of the respondents, thus, are obviously less objective than the Minister's evidence. Their testimony, in the panel's view carries less weight than objective, documentary evidence which has been forensically tested, expert evidence and evidence from disinterested third parties."
+[22]
+After an examination of all of the evidence that the CRDD had before it in coming to its decision concerning the citizenship of the applicants, I believe that its conclusion was properly founded on the evidence. The CRDD is an expert tribunal skilled in weighing evidence such as it had before it, and I find no reason whatsoever to interfere in its preference of the Djiboutian passports over the alleged Somalian identity documents as evidence of citizenship.
+[23]
+The final issue to dispose of in this case concerns the missing transcripts from the applicants' initial refugee determination hearing. With regard to the lack of transcripts, the issue before the CRDD panel in the vacation hearing was whether the applicants gained refugee statues by concealing a material fact, viz. their Djiboutian citizenship. There is no question that the applicants testified to the original CRDD panel that they were Somalian citizens. They were accorded Convention refugee status after the CRDD found that they were Somalian citizens. The Djiboutian passports which the second CRDD panel had before them were not before the first panel. Despite the possibility that the first CRDD panel may have considered whether the applicants were Djiboutian citizens, something which the transcripts would reveal, the first panel did not have the passports in question before them because the male applicant wrote on his PIF that they had been destroyed. As the respondent points out, the applicants admitted in the CRDD proceeding and in their memorandum of argument that they travelled on (allegedly false) Djiboutian passports. The issue in the vacation proceedings was whether the applicants had misled the first CRDD panel in any way when they testified to this effect. Thus the CRDD did not err in vacating the applicants' Convention refugee status without the original transcripts in evidence, because nothing would have been added to the proceedings before it.
+[24]
+Accordingly, I cannot find that the CRDD erred in vacating the applicants' Convention refugee status without the transcripts of the first CRDD hearing and, on all the evidence, determining that the applicants are citizens of Djibouti.
+[25]
+Also important to the disposition of this application for judicial review is that a central part of the CRDD's determination was that it found the applicants' testimony not credible or trustworthy. The CRDD noted that "It [the testimony] was at times vague and evasive, and the inconsistencies raised were not plausibly explained to the satisfaction of the panel." The CRDD then pointed out 12 problems and inconsistencies which it found with the applicants' testimony. Each point of difficulty was exhaustively analyzed, and in it is this court's view that the CRDD did not err in its determination.
+[26]
+For the foregoing reasons the applicants' judicial review determination is dismissed.
+[27]
+Counsel for the respondent has asked for certification of three questions as matters of general importance. They are as follows:
+1. Can the Minister bring a subsequent application for leave pursuant to s. 69.2(2) of the
+Act
+where one has already been denied?
+2. On a vacation proceeding, is the Board required, in all cases, to have before it the record of the original CRDD decision granting the respondent refugee status?
+3. Is the Board, on a vacation proceeding, restricted only to the record of the original CRDD decision granting refugee status?
+I believe that the above questions are specific to the present case, and need not be certified.
+Application dismissed.
+Editor: Angela E. McKay/saf
+[End of document]

@@ -1,0 +1,2 @@
+[14]
+The term "ofloxacin", as it is used in the literature and described in the prior art, is generally used to refer to a specific type of mixture of that compound called a "racemic mixture" or a "racemate". A racemic mixture is a mixture containing 50% of each enantiomer of a compound. Thus, a sample of ofloxacin racemate will contain equal amounts of S(-)-ofloxacin (levofloxacin) and R(+)-ofloxacin.

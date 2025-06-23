@@ -1,0 +1,73 @@
+Grenke v. Corlac Inc., [2007] F.T.R. Uned. 268 (FC)
+MLB unedited judgment
+Edward Grenke and Grenco Industries Ltd. (plaintiffs/defendants by counterclaim) v. Corlac Inc., National-Oilwell Canada Ltd., and National Oilwell Incorporated (defendants/plaintiffs by counterclaim)
+(T-1236-01; 2007 FC 396)
+Indexed As: Grenke et al. v. Corlac Inc. et al.
+Cite As: [2007] F.T.R. Uned. 268
+Federal Court
+Lafrenière, Prothonotary
+April 16, 2007.
+Counsel:
+Ahmed Bulbulia, (Dimmock Stratton LLP), for Edward Grenke & Grenco Industries;
+Chris Kvas and Bill Regan, (Ridout and Maybee LLP), for Corlac Inc;
+Robert MacFarlane and Adam Bobker, (Bereskin & Parr), for Weatherford.
+Solicitors of Record:
+Dimmock Stratton LLP, Toronto, Ontario, for Edward Grenke & Grenco Industries;
+Ridout and Maybee LLP, Toronto, Ontario, for Corlac Inc;
+Bereskin and Parr LLP, Toronto, Ontario, for Weatherford.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Lafrenière, Prothonotary
+: The only issue to be determined on this motion is whether the Defendants should be granted leave to add the Commissioner of Patents (Commissioner) as a party to the Counterclaim and make consequential amendments to their Amended Statement of Defence and Counterclaim.
+[2]
+For substantive and practical considerations, I conclude that the Commissioner should not be joined as a party to this action.
+Background
+[3]
+In their Statement of Claim, the Plaintiffs allege that the Defendants have infringed Canadian Patent Nos. 2,095,937 (the ‘937 Patent) and 2,098,324 (the ‘324 Patent). The Defendants deny the allegations and have counterclaimed that the two patents are invalid. They allege, in particular, that Art Britton (Britton) was the true inventor or co-inventor of the ‘937 Patent. The Defendant, National Oilwell Canada Ltd., has taken an assignment of Britton's rights in the '937 Patent.
+[4]
+At paragraph 21 of their Counterclaim, the Defendants make a claim for the following relief:
+(a) an Order, pursuant to section 52 of the Patent Act that the entry in the records of the Canadian Patent Office relating to the title of the '937 Patent be expunged and that the title be varied to name Art Britton as the true inventor and National-Oilwell Canada Ltd. as the owner of the Patent;
+(b) alternatively, an Order, pursuant to section 52 of the Patent Act that the entry in the records of the Canadian Patent Office relating to the title of the '937 Patent be varied to name Art Britton as a co-inventor and National-Oilwell Canada Ltd. as the co-owner of the Patent.
+[5]
+The Defendants submit that, because the Defendants are seeking an order from the Court to rectify the Patent Office Record pertaining to one of the patents at issue in the action Section 52 of the Patent Act, R.S. 1985, c. P-4 (the Patent Act), the Commissioner must be made a party to ensure that he is bound to give effect to any order made by the Court.
+[6]
+Section 52 of the Patent Act reads as follows:
+52. The Federal Court has jurisdiction, on the application of the Commissioner or of any person interested, to order that any entry in the records of the Patent Office relating to the title to a patent be varied or expunged.
+52. La Cour fédérale est compétente sure la demande du commissaire ou de toute personne intéressée, pour ordonner que toute inscription dans les registres du Bureau des brevets concernant le titre à un brevet soit modifiée ou radiée.
+Analysis
+[7]
+Rule 104 of the Federal Courts Rules (the Rules) allows for the addition of a person who ought to have been joined or whose presence before the Court is necessary to ensure that all matters in dispute in a proceeding may be completely determined.
+[8]
+The Defendants rely on two recent decisions of this Court as support for their position that the Commissioner must be named as a party in order to ensure he will be bound by the court order: the decision of Justice Konrad von Finckenstein in FRAGMENT_SUPPRESSED and the decision of Justice Carolyn Layden-Stevenson in Micromass UK Ltd. v. Canada (Commissioner of Patents) 2006 FC 117 (Micromass).
+[9]
+In Axia, Justice von Finckenstein was dealing with an application pursuant to section 52 of the Patent Act for an order amending the ownership of two Canadian patents. The application was based in part upon a decision of the British Columbia Court regarding ownership of the counterpart U.S. patents. Justice von Finckenstein held that the issue was not res judicata because the B.C. decision did not cover the Canadian patents, and because no declaration of ownership was made. He concluded, however, that the Federal Court did not have jurisdiction because the issue was primarily a contract dispute. At paragraph 25 of the decision, he expressed the view that where an order is sought directing the Commissioner to amend the records of ownership, the Commissioner should be a party. He stated as follows:
+This action, however, was brought as a section 52 application, not as a judicial review of the Commissioner's refusal to change the register of the Canadian patents. I do not see how this Court can order the Commissioner to do something when he is not a party before this Court. I would think that to obtain an order directing the Commissioner to change the register, as requested in the prayer for relief, it will be necessary to make the Commissioner a party. This may be of little practical difference and not prove fatal, as counsel for the Applicant was advised by the Commissioner's counsel that the Commissioner would change the register when served with a declaration of a Court that Axia is the owner of the Canadian patents. However, I remain of the view that for an application under s. 52 of the Patent Act, it would be proper to make the Commissioner a party to the proceedings. As this point is not in issue, there is no need to dwell further upon it.
+[10]
+In Micromass, Justice Layden-Stevenson was also dealing with an application brought pursuant to section 52 of the Patent Act. The Applicant sought an order to vary entries in the records of the Patent Office with respect to the inventorship of a Canadian patent. At paragraph 14 of her decision, Justice Layden-Stevenson commented regarding the proper procedure to obtain relief pursuant to section 52 of the Patent Act as follows:
+An application under section 52 of the Act may be brought by an assignee of a patent, with notice to the Commissioner, by way of an originating process or by way of notice of motion during a pending infringement case relating to the patent in question.
+[11]
+The decisions in Axia and Micromass are of little assistance in determining whether the Commissioner should be named as a party in an action seeking relief pursuant to section 52 of the Patent Act.
+[12]
+To begin with, both of the proceedings in Axia and Micromass were applications brought under Part 5 of the Rules. The two decisions can therefore be distinguished on the basis that the rules relating to joinder of parties, as well as the notice requirements, are substantially different than those that apply to actions under Part 4 of the Rules.
+[13]
+Further, to the extent that the Court in Axia held that the Commissioner was a proper party to that proceeding, the statement is clearly obiter. Justice von Finckenstein acknowledges as much in the concluding sentence of paragraph 25 of his decision. The issue of whether the Commissioner should properly be named as a party in all proceedings where relief pursuant to section 52 of the Patent Act is being sought was not before Justice von Finckenstein. Nor did he have the benefit of affidavit evidence and submissions from the Commissioner as in the present motion. In the circumstances, a mere passing remark, or a statement or assumption on a matter that has not been argued may be persuasive, but certainly not binding.
+[14]
+As for the decision in Micromass, the key issue for the court to determine was whether the Commissioner had any discretion under the Patent Act to amend an issued patent. Justice Layden-Stevenson appears to be suggesting, at most, that notice should be given to the Commissioner of the section 52 application by way of an originating process or by way of notice of motion. The key point was the recognition of a notice requirement. It is trite to say that the Commissioner can only give effect to that which he has knowledge of. In my view, Micromass stands for the proposition that all that is required in order for the Commissioner to give effect to a section 52 order is that he be given notice of the order.
+[15]
+The Patent Act clearly provides an express and exclusive role for the Federal Court in relation to varying and expunging records in the Patent Office. As such, the Commissioner has no power or jurisdiction to disobey or disregard orders made in accordance with the Patent Act jurisdiction of the Federal Court.
+[16]
+In performing its jurisdiction under section 52 of the Patent Act, the Federal Court does not, and in fact, is not ordering the Commissioner to do anything. The Federal Court is simply determining the rights of private parties as reflected in the Patent Office records, and it is the statutory obligation of the Commissioner to give effect to any such orders.
+[17]
+If Parliament had intended the Commissioner to have the power to disregard or second guess orders of the Federal Court, it would have had to provide for such powers expressly in the Patent Act. No such residual jurisdiction has been reserved to the Commissioner. Instead, Parliament has given exclusive jurisdiction over varying and expunging the Patent Office records to the Federal Court pursuant to section 52. The Commissioner has no more power or authority than would a clerk of the Federal Court to refuse to give effect to such a court order.
+[18]
+There is no evidence to suggest that the Commissioner will refuse to give effect to a court order. To the contrary, the evidence before me is that the Commissioner perceives himself to be statutorily obligated to do so in connection which his mandate to maintain the patent register.
+[19]
+The duties of the Commissioner are set out in section 4(2) of the Patent Act. They do not include taking a position on the merits of proceedings between private parties. The Commissioner's exclusive role in connection with this matter is to give effect to any order of the court under section 52 of the Patent Act. I therefore conclude that the Commissioner is not a person who ought to have been joined as a party or whose presence before the Court is necessary to ensure that the matters in dispute may be effectually and completely determined, within the meaning of Rule 104.
+ORDER
+[20]
+THIS COURT ORDERS that
+1. Leave be granted to the Defendants to serve and file a Freshly Amended Statement of Defence and Counterclaim amending paragraph 17(a) and adding new paragraph 17(a)(iii) as set out in Schedule A to the Notice of Motion on the provision that the plaintiffs will be entitled to discovery on these amendments.
+2. Leave to serve and file a Freshly Amended Statement of Defence and Counterclaim adding the Commissioner of Patents as a party to the Counterclaim and proposed new paragraph 22A as set out in Schedule A to the Notice of Motion is denied.
+3. There be no order as to costs
+[End of document]

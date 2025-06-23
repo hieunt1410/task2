@@ -1,0 +1,24 @@
+[27]
+Under the BIA the Superintendent is responsible for supervision of the administration of all estates, with broad power to oversee the regime for management of bankruptcy and insolvency situations for the benefit of debtors, creditors and others interested in the estates. A primary means of supervision is through trustee licensing and regulation of the work of trustees. Under section 5 of the Act the Superintendent's supervisory responsibilities include:
+5(3) The Superintendent shall, without limiting the authority conferred by subsection (2),
+[. . . . .]
+(e) from time to time make or cause to be made such inspection or investigation of estates or other matters to which this Act applies, including the conduct of a trustee or a trustee acting as a receiver or interim receiver, as the Superintendent may deem expedient and for the purpose of the inspection or investigation the Superintendent or any person appointed by the Superintendent for the purpose shall have access to and the right to examine and make copies of all books, records, data, including data in electronic form, documents and papers pertaining or relating to any estate or other matter to which this Act applies;
+(f) receive and keep a record of all complaints from any creditor or other person interested in any estate and make such specific investigations with regard to such complaints as the Superintendent may determine; and
+[. . . . .]
+5(4) The Superintendent may
+[. . . . .]
+(b) issue, to official receivers, trustees, administrators of consumer proposals made under Division II of Part III and persons who provide counselling pursuant to this Act, directives with respect to the administration of this Act and, without restricting the generality of the foregoing, directives requiring them
+(i) to keep such records as the Superintendent may require, and
+(ii) to provide the Superintendent with such information as the Superintendent may require;
+(c) issue such directives as may be necessary to give effect to any decision made by the Superintendent pursuant to this Act or to facilitate the carrying out of the purposes and provisions of this Act and the General Rules, including, without limiting the generality of the foregoing, directives relating to the powers, duties and functions of trustees, of receivers and of administrators as defined in section 66.11;
+(d) issue directives governing the criteria to be applied by the Superintendent in determining whether a trustee licence is to be issued to a person and governing the qualifications and activities of trustees; and [...]
+5(3) Le surintendant, sans que soit limitée l'autorité que lui confère le paragraphe (2):
+[. . . . .]
+e) effectue ou fait effectuer les investigations ou les enquêtes, au sujet des actifs et autres affaires régies par la présente loi, et notamment la conduite des syndics agissant à ce titre ou comme séquestres ou séquestres intérimaires, qu'il peut juger opportunes et, aux fins de celles-ci, lui-même ou la personne qu'il nomme à cet effet a accès, outre aux données sur support électronique ou autre, à tous livres, registres, documents ou papiers se rattachant ou se rapportant à un actif ou à toute autre affaire régie par la présente loi, et a droit de les examiner et d'en tirer des copies ;
+f) reçoit et note toutes les plaintes émanant d'un créancier ou d'une autre personne intéressée dans un actif, et effectue, au sujet de ces plaintes, les investigations précises qu'il peut déterminer ;
+[. . . . .]
+5(4) Le surintendant peut:
+[. . . . .]
+b) donner aux séquestres officiels, aux syndics, aux administrateurs au sens de la section II de la partie III et aux personnes chargées de donner des consultations au titre de la présente loi des instructions relatives à l'exercice de leurs fonctions, et notamment leur enjoindre de conserver certains dossiers et de lui fournir certains renseignements;
+c) donner les instructions nécessaires à l'exécution de toute décision qu'il prend en vertu de la présente loi ou susceptibles de faciliter l'application de la présente loi et des Règles générales, et notamment en ce qui touche les attributions des syndics et des séquestres et celles des administrateurs au sens de l'article 66.11;
+d) donner des instructions régissant les critères relatifs à la délivrance des licences de syndic, les qualités requises pour agir à titre de syndic et les activités des syndics; [...]

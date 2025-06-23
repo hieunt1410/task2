@@ -1,0 +1,12 @@
+[17]
+The respondent Novopharm refers to the 2000 Federal Court of Appeal decision in
+Bayer
+, supra, where Sharlow, J.A., commented on the statutory presumption of validity and how this affected the burden of proof in a NOC proceeding. Novopharm submits that the presumption of validity is spent when the respondent puts forward evidence to the contrary and if, in the end, the evidence on both sides is a "draw", then the applicant cannot be granted a prohibition order, as the overall legal burden, on a balance of probabilities, was its to carry. At paragraph 6 of
+Bayer
+, Sharlow, J.A., stated as follows:
+"In seeking to discharge its burden of proving the allegation to be unjustified, Bayer relied on the statutory presumption of the validity of its patent. Because that presumption exists, it may be said that Apotex, as the party responding to the application for a prohibition order, has a burden of proof in this sense:
+if Apotex had adduced
+no evidence that was capable of establishing
+the invalidity of the patent, Bayer could have succeeded on the basis of the statutory presumption alone
+. As the Motions Judge correctly said at paragraph 15:
+'A statutory presumption, for example, may assist Bayer and "have the effect of displacing the burden of proof".'" (emphasis added)

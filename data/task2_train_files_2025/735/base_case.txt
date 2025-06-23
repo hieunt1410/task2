@@ -1,0 +1,213 @@
+[1]
+Reed, J.
+: This application arises as a result of the decision in
+Bell Canada v. Canadian Telephone Employees Association et al.
+(1998), 143 F.T.R. 241 (T.D.), rendered on March 23, 1998. In that case, Madame Justice McGillis held that a reasonable apprehension of bias existed for Bell, who was the subject of a complaint before a Canadian Human Rights Tribunal, because of certain structural elements in the Tribunal's composition and operation, and its relationship to the Canadian Human Rights Commission, the "prosecutor" before the Tribunal.
+[2]
+Sections 44(3) and 49 of the
+Canadian Human Rights Act
+, R.S.C. 1985, c. H-6, as amended by ss. 64 and 66 of R.S.C., 1985, c. 31 (1st Supp.), provide that the President of the Human Rights Tribunal Panel, when requested to do so by the Canadian Human Rights Commission, shall appoint a tribunal of not more than three members to inquire into a complaint. The tribunal members are chosen from a panel known as the Human Rights Tribunal Panel, which consists of members appointed by the Governor-in-Council, pursuant to s. 48.1.
+[3]
+At the time the
+Bell
+decision was rendered, a Tribunal (sometimes hereinafter the "Zündel Tribunal") was conducting a hearing with respect to two complaints against Ernst Zündel. These had been made pursuant to s. 13(1) of the
+Canadian Human Rights Act
+, and assert that he is responsible for the distribution of messages from a website originating in California, and that the messages are likely to expose persons to hatred or contempt. The Zündel Tribunal was appointed on November 29, 1996, and hearings commenced on May 26 and 27, 1997. They proceeded on October 14, 15, 16 and 17, and December 11, 12, 15, 16, 17, 18 and 19, 1997. By March 23, 1998, there had been 13 days of hearing, during which four witnesses for the Commission had given evidence and had been cross-examined.
+[4]
+After the issuance of the
+Bell
+decision, Mr. Zündel made a motion, on April 6, 1998, that the proceedings before the Tribunal be quashed because it was tainted in the same manner as the Tribunal that had been appointed to hear the
+Bell
+case (hereinafter the "Bell Tribunal"). The Zündel Tribunal dismissed this motion. It is this decision dismissing Mr. Zündel's motion that is under review in this application. The essential issue is whether Mr. Zündel's failure to object at an earlier stage to the continuation of the proceedings, based on the existence of a reasonable apprehension of bias, constitutes a waiver of his right to do so.
+[5]
+I turn then to Madame Justice McGillis' decision. As I understand that decision it is that: the independence of a decision-making body and its impartiality (or apprehended lack thereof) are different but overlapping concepts; the degree of independence and impartiality that a tribunal must have varies with the nature of the decision-making body; tribunals appointed under the
+Canadian Human Rights Act
+, because of the nature of the decisions they make, must have a high degree of independence; the terms of appointment of members to the panel from which tribunal members are chosen and the relationship between the tribunals and the Commission lead to a conclusion that there is a lack of institutional independence, which can create a reasonable apprehension of bias in the mind of a person who is the subject of a complaint before a tribunal. The factors that lead to this conclusion are: (1) the short term appointments of the members of the panel from which tribunals are chosen, and the lack of any provision allowing the members to continue in office after their term has expired in order to complete the hearing of a case; this creates the need to reappoint members in the middle of a hearing; [see footnote 1] (2) the per diem rate of remuneration to be paid to tribunal members, as well as the amount to be paid for travel and living expenses, is established by Commission bylaw, as approved by the Treasury Board. [see footnote 2] The structural elements referred to in (1) above were found to accord tribunal members inadequate security of tenure; those referred to in (2) above were found to provide insufficient financial security.
+[6]
+The Supreme Court decision in
+R. v. Valente
+, [1985] 2 S.C.R. 673; 64 N.R. 1; 14 O.A.C. 79, identified three elements as relevant when considering the independence of a court or tribunal. The
+Bell
+decision found that the tribunals chosen under the
+Canadian Human Rights Act
+fell short insofar as two of these are concerned; these were, as noted above, security of tenure and financial security. In addition, the
+Bell
+decision found that the Commission's power to issue guidelines binding on the Commission and the tribunals under ss. 27(2) and (3) of the
+Act
+offended the requirement of impartiality.
+[7]
+While the decision given in the
+Bell
+case was confined to the particular hearings before the Bell Tribunal and was not a declaration that all tribunals were tainted with the same defects, there is much in the decision that makes its terms generally applicable.
+[8]
+As noted, the Zündel Tribunal rejected the motion that its proceedings be terminated on the basis of the reasons identified in
+Bell
+. It stated that the
+Bell
+decision only related to the circumstances of the
+Bell
+case. It stated that Mr. Zündel had waived his right to now object, by not raising the concerns at an earlier time, at which time all the facts pertinent to the
+Bell
+decision were on the public record.
+[9]
+One of the circumstances that was identified by the Zündel Tribunal as distinguishing its circumstances from those of the Bell Tribunal was that in the
+Bell
+case the appointment of one of the members had lapsed during the course of the hearing. On review this does not appear to be a distinguishing factor. The Zündel Tribunal was appointed on November 26, 1996, and its hearings commenced on May 26, 1997, and are not yet completed. Two of its members, Ms. Devins and Mr. Pensa, had terms that expired in 1997 and both were reappointed in September 1997. The reappointments were for one year and they therefore expired not only once, but a second time during the course of the hearings. Ms. Devins and Mr. Pensa were again reappointed, on June 30, 1998, this time for three year terms.
+[10]
+One distinction that does exist between the two situations is that no guidelines were issued pursuant to ss. 27(2) and (3) of the
+Act
+that are relevant to the Zündel Tribunal proceedings. One such guideline did exist in the
+Bell
+case. A second distinction, although I am not persuaded that it is relevant, is that amendments to the
+Canadian Human Rights Act
+were enacted on June 30, 1998, and the offending provisions of the
+Act
+have been modified to address the issues raised in
+Bell
+. (The relevant statutory provisions are found in an Appendix to these reasons.) It is the provisions of the
+Act
+as they stood on the date of the Zündel Tribunal's decision, however, that is relevant for present purposes.
+[11]
+It does appear that there may have been some inconsistencies in the way different tribunals reacted to the
+Bell
+decision. For example, the tribunal hearing the case
+John Mills, Complainant and Via Rail Canada Inc., respondent
+, responded to a motion from the respondent by staying its proceedings and referring the question of the effect of the
+Bell
+decision on it to the Federal Court pursuant to s. 18.3(1) of the
+Federal Court Act
+. I was informed that when Commission counsel became aware of the seeming inconsistency between that procedure and the decision taken by the Zündel Tribunal to continue with its proceedings, he raised the matter with the members of the Via Rail Tribunal, and, after submissions from the parties before it, that Tribunal resigned and the reference to the Federal Court was withdrawn. Counsel for the Commission states that there had been no evidence called in the
+Via Rail
+hearing and, therefore, that case is different from the present.
+[12]
+I turn then to the issue of waiver. The decision in
+Energy and Chemicals Workers' Atomic Energy of Canada Ltd., Re
+[1986] 1 F.C. 103; 64 N.R. 126 (F.C.A.) (the "
+AECL
+" case), in my view, is determinative of this issue. AECL sought to have a proceeding before a Tribunal that was hearing a complaint against it quashed because the Federal Court of Appeal in a then recent decision,
+MacBain v. Lederman
+, [1985] 1 F.C. 856; 62 N.R. 117 (F.C.A.), had found that a reasonable apprehension of bias existed as a result of the method then used for choosing Tribunal members. The Commission was involved in the selection. All three Federal Court of Appeal judges found that AECL could not rely on the
+MacBain
+decision. The three decisions, as I read them, have a slightly different emphasis but they all find that the crucial factor was that AECL did not raise the issue of reasonable apprehension of bias at the beginning of the hearing. The court found that AECL had been in possession of all the pertinent facts at that time: the facts that formed the basis of the
+MacBain
+decision were set out in the statute itself. AECL was held, under those circumstances, to have impliedly waived its right to object to the Tribunal's decision on the ground of reasonable apprehension of bias. I quote part of Mr. Justice MacGuigan's reasons, at pages 112 - 113 [F.C.]:
+"Unlike the appellant/applicant in the
+MacBain
+case, who commenced proceedings alleging bias even before the first hearing of the Tribunal on the complaint against him and in fact withdrew from the hearing, AECL, in the view I take of the facts, both expressly and impliedly waived its right to challenge the jurisdiction of the Tribunal here. AECL was in possession of all the pertinent facts which formed the basis of this court's decision in the
+MacBain
+case before the first public hearing in this matter in December, 1984 ...
+. . . . .
+"... AECL's whole course of conduct before the Tribunal constituted an implied waiver of any assertion of a reasonable apprehension of bias on the part of the Tribunal. The only reasonable course of conduct for a party reasonably apprehensive of bias would be to allege a violation of natural justice at the earliest practicable opportunity. Here, AECL called witnesses, cross-examined the witnesses called by the Commission, made many submissions to the Tribunal, and took proceedings before both the Trial Division and this court, all without challenge to the independence of the Commission. In short, it participated fully in the hearing, and must therefore be taken impliedly to have waived its right to object."
+[13]
+Counsel for the applicant argues that the
+AECL
+decision is no longer good law in light of the decisions in
+Newfoundland Telephone Co. v. Board of Commissioners of Public Utilities (Nfld.)
+, [1992] 1 S.C.R. 623; 134 N.R. 241; 95 Nfld. & P.E.I.R. 271; 301 A.P.R. 271, and
+R. v. Curragh Inc. et al.
+, [1997] 1 S.C.R. 537; 209 N.R. 252; 159 N.S.R.(2d) 1; 468 A.P.R. 1. Also, he argues that the applicant in this case did not waive his right to object on the ground of reasonable apprehension of bias because until the
+Bell
+decision he was not aware of all the relevant facts; he was certainly not aware of the legal consequences that flowed therefrom.
+[14]
+With respect to the
+Newfoundland Telephone
+and
+Curragh
+decisions, I am not persuaded that they have changed the law. I do not read the passages to which I was referred, pages 645-646 [S.C.R.] in the former, and pages 543-545 [S.C.R.] in the latter, as establishing that a reasonable apprehension of bias in the face of a waiver renders the proceedings void, not voidable, and the decision-maker without jurisdiction. If this were so, no person could ever agree to a hearing in circumstances in which some factor existed that might give rise to a reasonable apprehension of bias. In the
+Newfoundland Telephone
+case, the court was addressing the situation in which an appellant had objected, on the basis of reasonable apprehension of bias, at the opening of the hearing before the Board whose decision was being challenged, but the Board had declined to recuse itself and had proceeded with the hearing. In that context, the Board's subsequent decision was void and it was held that the panel had been without jurisdiction as the result of the valid objection.
+[15]
+In
+Curragh
+, the action of a trial judge in attempting to have the Crown prosecutor removed from a case he was hearing was the cause of the Crown objecting to his continued hearing of the case. The decision was similar to that in
+Newfoundland Telephone
+, a valid objection having been made as soon as was possible, rendered the court without jurisdiction. Neither of these cases address the situation that exists when a waiver occurs. Indeed in
+Curragh
+, the Supreme Court noted that objections on the ground of reasonable apprehension of bias must be made in a timely fashion and that in
+Curragh
+, such had occurred.
+[16]
+Counsel for the applicant argues that in the present case it is not merely a reasonable apprehension of bias that is in issue but actual bias. He argues that actual bias cannot be waived and that it renders the proceedings void, as explained by Mr. Justice Marceau in his decision in the
+AECL
+case. There is no evidence before me that demonstrates the existence of any actual bias.
+[17]
+Counsel for the applicant argues that there could be no waiver because he and his client did not know all the relevant facts prior to the issuance of the
+Bell
+decision and they did not know the conclusions of law that would arise therefrom. The factors on which the
+Bell
+decision is based are part of the public record, they are provisions of the
+Canadian Human Rights Act
+. The dates of the appointments and reappointments of the panel members are also part of the public record (P.C. 1994-1053, P.C. 1995-1442, P.C. 1997-1408, P.C. 1997-1410, P.C. 1998-1198), as is the existence or non-existence of guidelines issued pursuant to s. 27(2). The legal consequence of those facts was not appreciated by the applicant or his counsel, or by many others, but it is trite law that insufficient knowledge of the law is not a matter that excuses delay in making a complaint.
+[18]
+I should also note, that in addition to the
+AECL
+case, Commission counsel cited a series of cases involving the Régie des permis d'alcool in Quebec. The Supreme Court of Canada held in 1996 that there was a lack of separation of the function of lawyers in the Régie such that prosecuting counsel could potentially participate in the adjudication process. This circumstance was held to cause a reasonable apprehension of bias (
+2747-3174 Québec Inc. v. Régie des permis d'alcool du Québec et autres
+, [1996] 3 S.C.R. 919; 205 N.R. 1; 140 D.L.R.(4th) 577; 42 Admin.L.R.(2d) 1). Following this decision, a different corporation facing sanctions from the Régie sought judicial review of the Régie's decision on the grounds that the Régie was not institutionally independent or impartial (
+2433-6877 Québec Inc. v. Québec (Régie des alcools, des courses et des jeux)
+, [1997] A.Q. No. 2039 (S.C.)). The Quebec Superior Court at paragraphs 25 and 28 rejected the applicant's claim indicating that the law is well settled that arguments challenging the structural independence and impartiality of a tribunal must be raised at first instance and not doing so waived the option to so challenge the Tribunal:
+"... On sait qu'un argument sur l'impartialité de l'organisme devant qui on se présente doit toujours être invoqué en début d'instance.
+. . . . .
+"Ce principe est donc clairement établi et le Tribunal doit conclure que la requérante ayant renoncé à invoquer la question d'impartialité structurelle en première instance, elle ne peut le faire dans le cadre d'une demande de révision judiciare. On se trouve alors à 'sauter' une étape, ce que l'on ne peut faire. C'est devant la Régie que l'argument devait être présenté et comme il ne l'a pas été, on ne peut le faire dans le cadre de la présente instance."
+[19]
+I am not persuaded by the argument made by the respondents Sabina Citron and the Canadian Holocaust Remembrance Association that this is a case where, had I found a reasonable apprehension of bias, necessity would require the continuation of the hearing by the panel. There is no reason why another panel could not be chosen under the new legislation.
+[20]
+I do not find counsel for the applicant's argument that
+R. v. Askov, Hussey, Melo and Gugliotta
+, [1990] 2 S.C.R. 1199; 113 N.R. 241; 42 O.A.C. 81; 59 C.C.C.(3d) 449; 79 C.R.(3d) 273; 49 C.R.R. 1; 74 D.L.R.(4th) 355; 75 O.R.(2d) 673 supports his position a compelling one. The
+Askov
+decision concerned a constitutional requirement, to be tried within a reasonable time, and, in any event, there is no evidence before me as to why and in what circumstances the decision was applied. I do not find the argument that Mr. Zündel's objection to the Tribunal's jurisdiction at the commencement of the hearing constituted an objection on the ground of reasonable apprehension of bias a valid one. His objection was based on bias by the Commission, not the Tribunal, and that the Tribunal lacked jurisdiction because the website was located in California not Canada. The applicant did not challenge the Tribunal's jurisdiction on the ground that the terms of appointment of its members, the mechanism by which their remuneration is set, and the ability of the Commission to issue binding guidelines, created for him a reasonable apprehension of bias.
+[21]
+Following the decision in the
+AECL
+case, I must dismiss this application for judicial review.
+Application dismissed.
+Editor: Jocelyne M. Caissie/kaw
+APPENDIX
+Canadian Human Rights Act
+Pre-Bell Decision
+"27(2) The Commission may, on application or on its own initiative, by order, issue a guideline setting out the extent to which and the manner in which, in the opinion of the Commission, any provision of this Act applies
+in a particular case
+or in a class of cases described in the guideline.
+"(3)
+A guideline issued
+under subs. (2) is, until it is subsequently revoked or modified,
+binding on
+the Commission,
+any Human Rights Tribunal appointed
+pursuant to s. 49(1) and any Review Tribunal constituted pursuant to s. 56(1) with respect to the resolution of any complaint under Part III regarding a case falling within the description contained in the guideline.
+"37(1)(e) The Commission may make bylaws ... prescribing the rates or remuneration
+to be paid to part-time members, members of a Human Rights Tribunal
+and any person engaged pursuant to s. 32(2); and
+(f) prescribing reasonable rates of travel and living expenses
+to be paid to members
+of the Commission, members of
+a Human Rights Tribunal
+and any person engaged pursuant to s. 32(2).
+"48.1 There is hereby established a panel to be known as the Human Rights Tribunal Panel consisting of a President and such other members as may be appointed by the Governor-in-Council.
+"48.2 The President of the Human Rights Tribunal Panel shall be appointed
+to hold office during good behaviour for a term of three years
+and each of the other members of the Panel shall be appointed to be a member of the Panel during good behaviour
+for a term not exceeding five years
+, but may be removed by Governor-in-Council for cause." (Underlining added)
+Canadian Human Rights Act
+Post-Bell Decision (1998 Amendments)
+"27(2) The Commission may, on application or on its own initiative, by order, issue a guideline setting out the extent to which and the manner in which, in the opinion of the Commission, any provision of this Act applies in a class of cases described in the guideline.
+"(3) A guideline issued under subs. (2) is, until it is revoked or modified, binding on the Commission and any member or panel assigned under s. 49(2) with respect to the resolution of a complaint under Part III regarding a case falling within the description contained in the guideline.
+"37(1)(e) The Commission may make bylaws ... prescribing the rates of remuneration to be paid to part-time members of the Commission and any person engaged under s. 32(2); and
+(f) prescribing reasonable rates of travel and living expenses to be paid to members of the Commission and any person engaged under s. 32(2).
+"48.1(1) There is hereby established a tribunal to be known as the Canadian Human Rights Tribunal consisting, subject to subs. (6), of a maximum of fifteen members, including a Chairperson and a Vice-chairperson, as may be appointed by the Governor-in-Council.
+"(6) The Governor-in-Council may appoint temporary members to the Tribunal for a term of not more than three years whenever, in the opinion of the Governor-in-Council, the workload of the Tribunal so requires.
+"48.2(2)
+A member whose appointment expires may, with the approval of the Chairperson, conclude any inquiry that the member has begun
+, and a person performing duties under this subsection is deemed to be a part-time member for the purposes of ss. 48.3, 48.6, 50 and 52 to 58.
+"48.6 (1) The members of the Tribunal shall be paid such
+remuneration as may be fixed by the Governor-in-Council
+.
+"(2) Members are entitled to be paid travel and living expenses incurred in carrying out duties as members of the Tribunal while absent from their place of residence, but the expenses must
+not exceed the maximum limits authorized by the Treasury Board directives for employees of the Government of Canada
+." (Underlining added)
+Footnotes
+1.	R.S.C. 1985, c. H-6, as amended by R.S.C., 1985, c. 31 (1st Supp.), s. 65, ss. 48.1 - 48.4.
+2.	R.S.C. 1985, c. H-6, ss. 30, 32(2), 37(1)(e)(f), 37(2).
+[End of document]

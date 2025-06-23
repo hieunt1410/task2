@@ -1,0 +1,61 @@
+[1]
+Rouleau, J.
+: This is an appeal from an assessment of the Minister of National Revenue with respect to the plaintiff's 1984 taxation year.
+[2]
+The plaintiff, CBS/Fox Company, is a partnership organized under the laws of, and carrying on business in the United States. It does not carry on business or maintain a permanent establishment in Canada. One of its divisions, CBS/Fox Video, manufactures and distributes video cassettes. CBS/Fox Video Canada Limited ("CBS/Fox Canada") is a corporation incorporated and resident in Canada and is wholly owned by the plaintiff.
+[3]
+Under the terms of a video device franchise agreement, the plaintiff provides certain videotape reproduction masters to CBS/Fox Canada, which in turn, is entitled under the terms of the agreement to duplicate from those master videotapes for distribution within Canada. CBS/Fox Canada then pays royalties to the plaintiff arising out of the sale of video cassettes. During the 1983 and 1984 taxation years, when CBS/Fox paid such royalties to the plaintiff, it first deducted and withheld 15 percent of the gross amount of payments and remitted the amount withheld to the Receiver General for Canada.
+[4]
+The Minister reassessed the plaintiff for the 1984 taxation year in the amount of $671,323.31. In February of 1985, it submitted a refund request to Revenue Canada in accordance with s. 227(6) of the
+Income Tax Act
+. This request was first agreed to by the Minister on the basis that royalties paid in respect of video cassettes are not royalties paid in respect of "motion picture films" and thus are exempt from withholding tax in Canada by virtue of Article XIIIC of the
+Canada-United States Income Tax Convention, 1942
+. Consequently, the plaintiff received a full refund for the amounts withheld and remitted in 1984. However, the Minister then reversed his position with respect to part of the 1984 royalties and by Notice of Assessment dated December 18, 1987, assessed the plaintiff for the 1984 taxation year for nonresident tax in the amount of $671,323.31 on royalty payments of $4,475,489.00 paid or credited by CBS/Fox Canada during the period from January 1, 1984, to September 30, 1984.
+[5]
+The plaintiff objected to this fresh Notice of Assessment by Notice of Objection dated March 14, 1988. The Minister confirmed the assessment on the following basis:
+"Amounts no less than $4,475,489 were paid or credited to you by persons resident in Canada in the year 1984 as on account of or in satisfaction of, payment for a right in or to the use of a motion picture film within the meaning of subsection 212(5) of the
+Act
+and Article XIIIC of the Canada-United States Tax Convention."
+[6]
+At issue in this appeal is the proper interpretation to be accorded s. 212(5)(a) of the
+Income Tax Act
+and Article XIIIC of the
+Canada-United States Income Tax Convention, 1942
+. Those provisions read as follows:
+"212(5) Every nonresident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to him as, on account or in lieu of payment of, or in satisfaction of, payment for a right in or to the use of satisfaction of, payment for a right in or to the use of
+(a) a motion picture film,
+or
+(b) a film, videotape or other means of reproduction for use in connection with television (other than solely in connection with and as part of a news program produced in Canada),
+that has been or is to be used or reproduced in Canada.
+"Article XIIIC. Royalties
+Royalties for the right to use copyrights or in respect of the right to produce any literary dramatic, musical, or artistic work (but not inclusive of rents or royalties in respect of motion picture films) derived from sources within one of the contracting States by a resident or corporation or other entity of the other contracting State not engaged in trade or business in the former State through a permanent establishment shall be exempt from tax imposed by such State." (Emphasis added)
+[7]
+There is no dispute that s. 212(5)(a) of the
+Act
+is the only relevant section for the purposes of the present appeal. CBS/Fox Canada is not licensed to reproduce or sell video cassettes for use in television broadcasting or for any use other than home video use and accordingly s. 212(5)(b) is not applicable. The sole issue now before the court is whether the words "motion picture film" in paragraph (a) include a video cassette of a motion picture film.
+[8]
+The plaintiff maintains that videotape and film are distinct concepts by definition and are not inclusive of each other. Affidavit evidence was submitted distinguishing between the two technologies, motion picture films on the one hand, and videotape and videotape reproduction masters on the other hand. The plaintiff's position is that "motion picture films" is a term used in relation to theatrical product, that is, film produced for theatrical exhibition and is not a term used in relation to videotape product. Motion picture films, it is argued, means films which are produced for the purpose of being shown cinematographically in theatres, although they may subsequently be transferred through an electronic process on to a videotape or videotape master.
+[9]
+The Minister submits that videotapes of motion picture films are motion picture films for the purpose of s. 212(5) of the
+Income Tax Act
+and Article XIIIC of the
+Canada-United States Income Tax Convention, 1942
+. Since the images displayed in certain of the video products in question were originally displayed as motion picture films produced for theatrical display, the videotapes fall within the meaning of motion picture films.
+[10]
+I am not prepared to allow the plaintiff's appeal. The wording of s. 212(5)(a) is clear and unequivocal; a nonresident of Canada who is paid by a resident for the right in, or the use of, a motion picture film, "
+that has been or is to be used or reproduced in Canada
+", is subject to taxation. This has nothing to do with public broadcasting, which is provided for in paragraph 212(5)(b). Provided the right to a motion picture film has been sold for the purpose of using that film or reproducing it in Canada, the amount falls to be taxed under paragraph (a). To exclude a motion picture film from the section simply because it has been transferred to a videotape, would defeat the manifest intention of Parliament as evinced by the language used in both the
+Income Tax Act
+and the
+Canada-United States Tax Convention
+. Although videotape may be the method of presentation, the content nevertheless remains a motion picture film within the ordinary and commonly understood meaning of those words. In this respect, I adopt the reasoning employed by Mackay, J., in
+FRAGMENT_SUPPRESSED
+[11]
+That reasoning is entirely applicable to the facts of the present case.
+[12]
+The plaintiff has indicated that for the taxation year in question, approximately 13 percent of the revenue derived by it from the titles it distributed through CBS/Fox Canada, did not involve motion picture films, and were for example, videos of children's programming, sports programming, musical video and a variety of other nonpicture film products. The defendant conceded at the hearing before me that these revenues are not taxable under paragraph 212(5)(a). Furthermore, I have to assume that video cassettes that do not originate as motion picture films are caught by paragraph 212(5)(b) if the distributor has the right to sell or lease for public broadcasting.
+[13]
+In all other respects however, the plaintiff's appeal is dismissed for the reasons set out above. Costs to the defendant.
+Appeal dismissed.
+Editor: Jana A. Andersen/gs
+[End of document]

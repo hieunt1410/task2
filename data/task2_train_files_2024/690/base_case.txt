@@ -1,0 +1,178 @@
+[1]
+Wetston, J.
+: This is an application pursuant to s. 41 of the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the "
+Access Act
+") for review of the decision made by the respondent Department of National Health and Welfare, dated October 24, 1990, refusing to disclose records containing the names of those medical practitioners in Nova Scotia who have their prescribing privileges restricted or revoked.
+Background
+[2]
+The applicant, a pharmacist, is currently the Coordinator of the Cape Breton Patient Rights Advocacy Network, an organization interested generally in the laws and practices governing the health care system in Nova Scotia and specifically with who and how physicians are dealt with when they have or are believed to have unethically prescribed drugs either to themselves, family member or patients.
+[3]
+The applicant first raised her general concerns with the Registrar of the Nova Scotia Provincial Medical Board, Dr. Bernard Steele, on July 4, 1990. By letter dated July 19, 1990, Dr. Steele suggested the applicant contact the Bureau of Dangerous Drugs, a branch of the Department of National Health and Welfare, through whom prescribing privileges for narcotics and controlled drugs are monitored.
+[4]
+Prior to making application pursuant to the
+Access Act
+, the applicant attempted to have her general concerns with the provincial health care system addressed by the provincial Minister of Health and Fitness. Ultimately, with the help of the provincial Ombudsman's office, certain of the applicant's legislative concerns were addressed. However, the applicant was unable to obtain any specific information from the province regarding how doctors suspected of prescription abuse are reported and which doctors in Nova Scotia are currently restricted in their practice.
+[5]
+On August 14, 1990 the applicant made a formal access to information request to the Bureau of Dangerous Drugs, National Health and Welfare Canada, pursuant to s. 4(1) of the
+Access Act
+. Her request read as follows:
+"I wish all information from the file which would enable me to know the specific names of all medical practitioners in Nova Scotia who presently have their prescribing privileges revoked or temporarily restricted in any way especially in regards to the prescribing of Narcotic & Controlled Drugs but not exclusive to these medications; and including any medication which requires a written or oral prescription to be dispensed ..."
+[6]
+On October 24, 1990, the applicant received notice from the Department of National Health and Welfare, in response to her access to information request, that disclosure of the information sought was refused. The refusal letter indicated that the information requested could not be disclosed on the basis that it constitutes personal information within the meaning of s. 19(1) of the
+Access Act
+.
+[7]
+On November 7, 1990, pursuant to s. 30 of the
+Access Act
+, the applicant filed a complaint with the Information Commissioner of Canada regarding National Health and Welfare's denial of access to the doctors' names. The Information Commissioner, John Grace, by letter dated March 4, 1991, informed the applicant that he would not be recommending to the respondent that the information be released. He concluded, as had the Department of National Health and Welfare, that the names of the doctors were within the scope of the definition of "personal information" in s. 3 of the
+Privacy Act
+, R.S.C. 1985, c. P-21, and therefore, excluded from disclosure by virtue of s. 19(1) of the
+Access Act
+. He indicated that one had to consider whether the information should be released under s. 19(2)(c) of the
+Access Act
+, the public interest override. In deciding that the Department did give careful consideration to the public interest in disclosure, Mr. Grace stated that the public interest must
+clearly
+outweigh an individual's privacy right, which in his opinion, in this instance it did not.
+[8]
+Accordingly, the applicant has applied to the Federal Court for review of the Department of National Health and Welfare's decision to withhold the information requested.
+Issues
+[9]
+While the applicant raises a large number of issues in her affidavit material, the issues to be resolved in this application are:
+1. Is the information, to which access is sought, personal information as defined by s. 3 of the
+Privacy Act
+, R.S.C. 1985, c. P-21, and therefore excluded from disclosure by virtue of s. 19(1) of the
+Access to Information Act
+?
+2. If the information is indeed personal information, did the respondent err in not applying s. 8(2)(m) of the
+Privacy Act
+, the public interest override, to allow disclosure of otherwise exempt personal information?
+Analysis
+[10]
+The role of the court in this matter is to review, de novo, the department's refusal to disclose the information sought:
+FRAGMENT_SUPPRESSED. In so doing, the court must decide whether the refusal was "authorized" within the provisions of the
+Access Act
+. Pursuant to s. 48 of the
+Access Act
+, the legal burden of justifying that the head of the government institution was authorized to refuse to disclose the information requested is on the respondent. Therefore, the onus rests on the respondent to justify why the information requested by the applicant falls under s. 19(1) of the
+Access Act
+. Section 19(1) of the
+Access Act
+reads:
+"19(1) Subject to subs. (2), the head of a government institution
+shall
+refuse to disclose any record requested under this Act that contains personal information as defined in s. 3 of the
+Privacy Act
+."
+[11]
+Accordingly, the respondent submits that the information requested, the names of medical practitioners whose prescribing privileges have been restricted, falls within both the opening words of s. 3 of the
+Privacy Act
+, and specifically within s. 3(i). The relevant sections read:
+"3. In this Act,
+'personal information' means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing, ...
+(i) the name of the individual where it appears with other personal information relating to the individual or where the disclosure of the name itself would reveal information about the individual."
+[12]
+An individual's name is not necessarily personal information, as Mr. Justice Dubé points out in
+Noel v. Great Lakes Pilotage Authority Ltd.
+, [1988] 2 F.C. 77; 20 F.T.R. 257 (T.D.), at page 82:
+"An individual's name does not constitute personal information unless, as provided in s. 3(i) of the
+Privacy Act
+, disclosure of the name itself would reveal (
+personal
+) information about the individual."
+However, in this instance, revealing the physicians' names necessarily reveals that a particular individual has had their prescription writing privileges restricted or revoked. This is a necessary conclusion because only individuals whose privileges have been restricted appear on the lists. In my opinion, the names of the individual doctors fall within s. 3(i) of the
+Privacy Act
+and are "personal information" properly withheld pursuant to s. 19(1) of the
+Access Act
+.
+[13]
+While s. 3 of the
+Privacy Act
+provides for instances where otherwise personal information is not considered to be within the section, the applicant must establish that the information sought falls within one of those exemptions, per Rothstein, J., in
+Sutherland v. Canada (Minister of Indian and Northern Affairs)
+(1994), 77 F.T.R. 241 (T.D.), T-2573-93, May 6, 1994, at page 10:
+"Because the purpose of the
+Privacy Act
+is to protect the privacy of 'personal information', the general rule is that information about identifiable individuals is 'personal information' and only if a specific exemption applies, would such information not be 'personal information'. It follows that a party wishing to demonstrate that information about an identifiable individual is not 'personal information' must show that exemption applies."
+In the present case, there is no evidence before the court establishing that the personal information sought falls within one of the s. 3 enumerated exemptions.
+[14]
+While I have concluded that the respondent properly withheld the information sought by the applicant, pursuant to s. 3(i) of the
+Privacy Act
+and s. 19(1) of the
+Access Act
+, this does not dispose of the matter. Section 19(1) of the
+Access Act
+is subject to s. 19(2). Section 19(2) reads:
+"19(2) The head of a government institution
+may
+disclose any record requested under this Act that contains personal information if
+(a) the individual to whom it relates consents to the disclosure;
+(b) the information is publicly available; or
+(c) the disclosure is in accordance with s. 8 of the
+Privacy Act
+."
+[15]
+Attached as exhibits to the confidential affidavit of J.A. Schriel, are letters dated December 1993 sent by Mr. Schriel to each of the doctors on the applicable notification lists. The doctors' reply letters, also attached as exhibits to the confidential affidavit of J.A. Schriel, clearly indicate that there has been no consent by the individual doctors, within the meaning of s. 19(2)(a).
+[16]
+According to the affidavit of Carol Langlois, the officer at the Department of National Health and Welfare responsible for the Domestic Control Division of the Bureau of Dangerous Drugs, the doctors' names appear on circular letters or notification of restriction lists issued to the Provincial Medical Board of Nova Scotia, retail pharmacies in Nova Scotia, and to licensed dealers in Canada involved in the distribution of narcotics and controlled drugs. The Bureau of Dangerous Drugs'
+Policy and Procedures Manual
+, at section J, states that the distribution of notification lists is limited to those who need to know (i.e., the medical board, pharmacists and licensed dealers) in order that the objectives of notification are achieved without infringing the provisions of the
+Privacy Act
+. Consequently, the information sought is not publicly available within the meaning of s. 19(2)(b).
+[17]
+Since neither paragraphs (a) nor (b) of s. 19(2) apply in this instance, the remaining issue is whether disclosure of the "personal information" is appropriate in light of s. 19(2)(c), which makes reference to s. 8 of the
+Privacy Act
+.
+[18]
+Pursuant to s. 8(1) of the
+Privacy Act
+, as a general rule, absent consent from an individual to whom the information relates, "personal information" under the control of a government institution
+shall
+not be disclosed. However, s. 8(2) enumerates thirteen (13) situations where otherwise personal information
+may
+be disclosed. The relevant subparagraph in this matter is 8(2)(m)(i), the public interest override. Section 8 reads in part:
+"8(1) Personal information under the control of a government institution shall not, without the consent of the individual to whom it relates, be disclosed by the institution except in accordance with this section.
+"8(2) Subject to any other Act of Parliament, personal information under the control of a government institution may be disclosed
+(m) for any purpose where, in the opinion of the head of the institution,
+(i) the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure, or
+(ii) disclosure would clearly benefit the individual to whom the information relates."
+[19]
+Whether the public interest "clearly outweighs" an invasion of privacy is a discretionary matter conferred on the head of the responsible government institution. In exercising said discretion, regard must be had to the purpose of the
+Access to Information Act
+and its exercise "within proper limits and on proper principles": see
+Rubin v. Canada Mortgage and Housing Corp. (President)
+, [1989] 1 F.C. 265; 86 N.R. 186 (F.C.A.), at pp. 273-274 [F.C.]. With respect to the court's role, Mr. Justice Muldoon, in
+Bland v. National Capital Commission et al.
+, [1991] 3 F.C. 325; 41 F.T.R. 202 (T.D.), at pp. 333-334, has said the following:
+"... the court in performing this review, as the statute provides 'independently of government', has thereby had conferred upon it the duty and right to prefer the court's own view of the public interest's weight over the opinion of the head of the government institution."
+(see also:
+Rubin
+, supra, (F.C.A.) and
+Rubin v. Clerk of the Privy Council (Can.)
+(1993), 62 F.T.R. 287 (T.D.).)
+[20]
+Neither the refusal letter from the respondent, nor the letter from the Information Commissioner of Canada, contain any indication that any particular public interest was weighed against a private interest, both letters merely indicate that "serious consideration was given". In my opinion, in keeping with the purpose of the
+Access Act
+, s. 8(2)(m)(i) of the
+Privacy Act
+mandates more than a blanket statement from the respondent that private interests override the public's right to disclosure.
+[21]
+While the letters of refusal provided to the applicant failed to identify specific private interests considered, in argument, the respondent identified several factors in support of nondisclosure. Pursuant to s. 8(2)(m)(i), the respondent was of the opinion that disclosure might cause the individuals further jeopardy in addition to the revoking of prescribing privileges. Moreover, the public interest would be served by notifying the Provincial Medical Board (the licensing body for physicians in Nova Scotia), retail pharmacies and licensed dealers in Canada. Also, it was submitted that practitioners would respect the limitations on their prescribing privileges because any breach would necessarily come to the attention of the respondent, due to the strict controls imposed by both the
+Narcotic Control Regulations
+, C.R.C., c. 1047, as amended, and the
+Food and Drug Regulations
+, C.R.C., c. 870, as amended. Consequently, the respondent submits the public interest, in this case, would be no better served by disclosure.
+[22]
+It would have been preferable for the respondent to have outlined in greater detail for the applicant the private vs. public interests at issue in arriving at its decision not to disclose. However, I am unable to conclude, based on the applicant's evidence, that the public interest "clearly" outweighs the potential invasion of privacy. As Mr. Justice Rothstein points out in
+Sutherland
+, supra, at page 16:
+"It might be different had it been demonstrated that the head of the government institution exercised his or her discretion in an improper way, e.g. bias. But, that is not the case here. It is also relevant that the words of subparagraph 8(2)(m)(i) of the
+Privacy Act
+imply its exceptional nature. It is only when the head of the government institution forms the opinion the public interest in disclosure 'clearly' outweighs the invasion of privacy, that there is discretion to disclose the 'personal information'."
+Order
+[23]
+Accordingly, the application is dismissed. There will be no order as to costs.
+Application dismissed.
+Editor: Angela E. McKay/blk
+[End of document]

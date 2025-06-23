@@ -1,0 +1,264 @@
+[1]
+Zinn, J.
+: The defendants are farmers. In 2004 they infringed Canadian Letters Patent No. 1,313,830 ("the '830 Patent") by planting ROUNDUP READY® soybeans, and by harvesting and selling most of the resulting crop. They saved and cleaned 337 bushels of the ROUNDUP READY® soybeans from the 2004 crop yield and planted it in 2005. Therefore, in 2005 they again infringed the '830 Patent by planting ROUNDUP READY® soybeans, and by harvesting and selling all of the resulting crop. This Judgment deals with the accounting of profits claimed by the plaintiffs.
+[2]
+This action was heard immediately following
+Monsanto Canada Inc. et al. v. Rivett
+(2009), 343 F.T.R. 203; 2009 FC 317, as both actions involve the same plaintiffs, both are actions for patent infringement arising from growing ROUNDUP READY® soybeans, and the parties in both actions were represented by the same counsel. Portions of the Reasons for Judgment in
+Rivett
+that deal with issues of fact and law that are common to this action are adopted and are referenced in these Reasons.
+Background
+[3]
+Most of the relevant underlying facts are agreed upon by the parties and the following is largely reproduced from admitted allegations in the Statement of Claim and from an Agreed Statement of Facts filed at the commencement of trial.
+[4]
+Monsanto Company is the owner of the '830 Patent issued February 23, 1993, for an invention entitled "Glyphosate-Resistant Plants". Pursuant to the provisions of the
+Patent
+Act
+, R.S.C. 1985, c. P-4, and by virtue of its patent, Monsanto Company is granted the exclusive right, privilege and liberty of making, constructing, using and selling to others to be used the invention described and claimed in the '830 Patent. Monsanto Canada Inc. is related to Monsanto Company, and is a licensee under the '830 Patent. It sells Monsanto Company products in Canada. In these Reasons reference to both plaintiffs is made by the terms "Monsanto" or "the plaintiffs".
+[5]
+The invention described and claimed in the '830 Patent relates to a plant gene which, when expressed in a plant cell, confers a substantial degree of glyphosate resistance upon the plant cell and plants containing such cells. As a result, such cells are resistant to herbicides such as Monsanto's ROUNDUP® which contains glyphosate as the active ingredient. The invention further relates to a method for producing dicotyledonous plants that are resistant to glyphosate-containing herbicides. In Canada, glyphosate-resistant seeds and plants containing genes or cells in accordance with the claims of the '830 Patent are sold under the trademark ROUNDUP READY®.
+[6]
+Among the benefits of ROUNDUP READY® seed is that a farmer can use glyphosate herbicide on the plants once they have sprouted; this kills the weeds but not the crop. This results in a saving in herbicide use, frequency of application and an increased crop yield. As a consequence, ROUNDUP READY® seed has been widely accepted by farmers in Canada.
+[7]
+ROUNDUP READY® seed is only sold pursuant to a license that is personal to the grower. The purchased seed can only be used by the grower for planting one crop which is only to be sold for consumption; the grower is not entitled to save seed for the purpose of replanting a second generation crop. These conditions are imposed as every cell of each plant produced from ROUNDUP READY® seed, as well as each resulting kernel or bean, contains the gene described in the '830 Patent.
+[8]
+The three defendants are related; they are two brothers and a step-brother. They farm together near Wallaceburg, Ontario. They are not in partnership; each operates his own farming business but they share resources such as equipment. In 2004, without permission or a license, the defendants collectively planted, cultivated and harvested 50 acres of ROUNDUP READY® soybeans and harvested the resulting crop. The 2004 crop was planted before May 1, 2004; however, it was only as of May 1, 2004, that the defendants knew that the plaintiffs had a patent on the ROUNDUP READY® technology and that a license was required to use the technology. They took no steps in 2004 to obtain a license or permission from the plaintiffs for the seed they had planted.
+[9]
+The defendants each admit that in 2004 they used, reproduced and created genes, cells and soybean seeds and plants containing genes and glyphosate resistant cells as claimed in each of claims 1, 2, 5, 6, 7, 22, 23, 26, 27, 28 and 47 of the '830 Patent.
+[10]
+They admit that in 2004 they sprayed the ROUNDUP READY® soybean sprouts with a glyphosate herbicide to take advantage of the glyphosate tolerance imparted by ROUNDUP READY® soybeans. They sold most of the yield from the 2004 crop of infringing ROUNDUP READY® soybeans.
+[11]
+The defendants retained and cleaned 337 bushels of ROUNDUP READY® soybeans from their 2004 crop yield to plant in 2005.
+[12]
+The following facts relevant to the 2004 crop were admitted by the defendants.
+a. They sold 1463 bushels of the crop of infringing ROUNDUP READY® soybeans at $7.00 per bushel providing them with gross revenues of $10,241.00.
+b. They did not pay another person to clean ROUNDUP READY® soybean seed.
+c. They did not pay rent for the land on which the ROUNDUP READY® soybean seed was planted.
+d. They did not hire employees for the sole purpose of cultivating ROUNDUP READY® soybeans.
+e. They did not pay a third party to plant ROUNDUP READY® soybeans.
+f. They did not pay a third party to apply fertilizers or herbicides to the ROUNDUP READY® soybeans.
+g. They did not pay a third party to harvest the ROUNDUP READY® soybeans.
+h. They did not pay a third party to transport ROUNDUP READY® soybeans.
+i. They did not purchase equipment for the sole purpose of cultivating the ROUNDUP READY® soybeans.
+[13]
+In 2005, the defendants planted all of the 337 bushels of ROUNDUP READY® soybeans saved from the 2004 crop yield. Alan Kerkhof and Lawrence Janssens each planted, cultivated and harvested 100 acres of ROUNDUP READY® soybeans, while Ronald Janssens planted, cultivated and harvested 50 acres of ROUNDUP READY® soybeans. They each admit that in so doing they infringed claims 1, 2, 5, 6, 7, 22, 23, 26, 27, 28 and 47 of the '830 Patent.
+[14]
+They each admit that in 2005 they made a deliberate decision to plant the ROUNDUP READY® soybean seed without a license and they admit that they each sprayed the sprouts with a glyphosate herbicide to take advantage of the glyphosate tolerance imparted by ROUNDUP READY® soybeans.
+[15]
+In 2005, the defendants collectively planted, cultivated and harvested 250 acres of ROUNDUP READY® soybeans and an additional 325 acres of conventional soybeans. They sold all of the 2005 soybean crop and did not segregate the ROUNDUP READY® soybeans when sold.
+[16]
+Each defendant admits that the gross revenue he received from the sale of ROUNDUP READY® soybeans in 2005 was as follows:
+Lawrence Janssens -
+$32,384.68
+Ronald Janssens -
+$16,192.34
+Alan Kerkhof -
+$32,384.68
+[17]
+The following facts relevant to the 2005 crop were admitted by the defendants:
+a. They did not hire employees for the sole purpose of cultivating ROUNDUP READY® soybeans.
+b. They did not pay a third party to plant ROUNDUP READY® soybeans.
+c. They did not pay a third party to apply fertilizers or herbicides to their ROUNDUP READY® soybeans.
+d. They did not pay a third party to harvest the ROUNDUP READY® soybeans.
+e. They did not pay a third party to transport ROUNDUP READY® soybeans.
+f. They did not purchase equipment for the sole purpose of cultivating the ROUNDUP READY® soybeans.
+[18]
+Ronald Janssens admits that the 50 acres of ROUNDUP READY® soybeans he planted in 2005 were planted on land that he owns and that no rent was paid by him for this land.
+[19]
+Apart from the ROUNDUP READY® and conventional soybeans, in 2005 Alan Kerkhof and Ronald Janssens also planted, cultivated and harvested corn and winter wheat.
+[20]
+The defendants admitted their infringement in 2005 and the validity of the '830 Patent. Justice Simon Noël issued a consent judgment on January 11, 2007, which granted certain declaratory relief, permanently enjoined the defendants from further infringing activities and required the defendants to deliver up any infringing seed and plants in their possession to Monsanto Canada Inc.
+[21]
+That judgment left a number of issues to be determined at the trial of this action. Some of these outstanding issues were dropped or not pursued; the issue of infringement in 2004 was subsequently admitted by the defendants. The plaintiffs were required under the terms of the Judgment to elect as between damages and an accounting of profits. The plaintiffs elected an accounting of profits. Accordingly, the only issues remaining to be determined by the Court, pursuant to the consent Judgment and the parties' subsequent agreements, are the following:
+a. An accounting of the defendants' profits derived from the infringement;
+b. Prejudgment and post-judgment interest; and
+c. The costs of the proceedings.
+[22]
+In addition to these agreed facts, its was agreed that the evidence of Michael McGuire, a vice-president of Monsanto Canada and the Director of its eastern Canadian seed and trade business given in the
+Rivett
+action, was to be admitted in this action. Mr. McGuire testified as to the benefits of ROUNDUP READY® seed and the additional profit that a farmer using this Monsanto product should expect to obtain. He also spoke to the enforcement mechanisms that have been put in place to track and deal with infringers of the '830 Patent. The defendants did not dispute any of the evidence offered by Mr. McGuire. Each defendant's testimony was directed to his farming operation and the costs of his farming operation.
+[23]
+As in
+Rivett
+, the defendants proposed to call Gary Fisher as an expert witness to speak to the costs of farming, and the costs of the defendants operations. For the Reasons given in
+Rivett
+, the Court upheld the objection of the plaintiffs to his evidence.
+Issues
+[24]
+As the trial proceeded, it became evident that the following were the relevant issues requiring the Court's determination:
+a. What is the proper method to be employed by this Court in conducting an accounting of profits;
+b. What expenses were proved by each defendant to have been incurred or were otherwise properly deductible from the gross revenue obtained from the sale of the infringing ROUNDUP READY® soybean crops in 2004 and 2005;
+c. Applying that proper method of accounting of profits, what were the profits made by each defendant in 2004 and 2005 from the infringement that are to be disgorged;
+d. Are the defendants liable to pay prejudgment and post-judgment interest and if so, in what amounts; and
+e. Are the defendants liable to pay costs and if so, what is the quantum.
+Analysis
+a. What is the proper approach in this case to an accounting of profits?
+[25]
+For the Reasons given in
+Rivett
+, the proper approach to an accounting of profits is the differential profit approach.
+Differential Profit Approach
+[26]
+As was stated in
+Rivett
+, the differential profit approach requires that the Court compare the profits made by the infringer that are attributable to the invention and the profits that the infringer would have made if he had used the best non-infringing option. Using this approach, the analysis required is as follows:
+a. Is there a causal connection between the profits made and the infringement? If there is none, then there are no profits that require an accounting.
+b. If there is a causal connection, then what were the profits made by the infringer as a result of the infringement? This amount I shall describe as the Gross Profits of Infringement.
+c. Is there a non-infringing option that the infringer could have used?
+d. If there is no non-infringing option, then the Gross Profits of Infringement are to be paid over to the patentee.
+e. If there is a non-infringing option, then what profit would the infringer have made, had he used that option? This amount I shall describe as the Gross Profits of Non-Infringement.
+f. Where there was a non-infringing option available, the amount to be paid over to the patentee is the difference between the Gross Profits of Infringement and the Gross Profits of Non-Infringement. This sum is the profit that is directly attributable to and that results from the infringement of the patent.
+[27]
+Unlike the defendant in
+Monsanto Canada Inc. et al. v. Schmeiser et al.
+, [2001] F.C.J. No. 436; 202 F.T.R. 78; 19 C.P.R.(4th) 524 (T.D.), affd. [2002] F.C.J. No. 1209; 293 N.R. 340; 22 C.P.R.(4th) 455 (F.C.A.); revd. [2004] 1 S.C.R. 902; 320 N.R. 210; [2004] S.C.J. No. 29; 2004 SCC 34, in this case, all defendants admit that in both 2004 and 2005 they sprayed their ROUNDUP READY® soybean crops with a glyphosate herbicide and thus took advantage of the Monsanto invention. Because this causal connection is established, the Court must determine what profits were made by the defendants as a result of the infringement. This amount, described earlier as the Gross Profits of Infringement is the result obtained when one deducts the deductible expenses of planting, cultivating and harvesting the ROUNDUP READY® soybean crops from the gross revenue received from the sale of those beans.
+b. What are the deductible expenses of the defendants?
+[28]
+Exhibit D-1, prepared by Mr. Kerkhof with his step-brothers, is a table entitled "Soybean Costs for 2005". The table purports to list a combination of actual expenses and custom rates related to the infringing crop. It was entered for information only and not as direct evidence of costs. At trial, Exhibit D-1 was described as an "aide-memoire," and Mr. Kerkhof, who was the principal defence witness, was indeed guided by the table.
+[29]
+In Appendices A, B, and C to its written submissions, Monsanto has relied on Exhibit D-1, with some modifications, to set out the quantum of profit it feels should be handed over by each defendant. Monsanto writes:
+"After considering all the admissible and reliable evidence in this case, after taking into consideration the principles of variable cost accounting, and after weighing the equities in this case, the amount of profit that should be disgorged by the defendants to the plaintiffs in accordance with paragraph 7 of the judgment is as set out in Appendices A, B, and C."
+The plaintiffs submitted that the profit to be disgorged by each defendant is as follows:
+Lawrence Janssens -
+$16,760.67
+Ronald Janssens -
+$16,337.17
+Alan Kerkhof -
+$16,760.67
+[30]
+The defendants, using the approach described at paragraph 35 of
+Rivett
+, submit that they made no profit in 2005 and there is nothing to disgorge to the plaintiffs.
+[31]
+All of the evidence tendered by the defendants relates to the 2005 crop. Although no evidence was submitted by any one of the defendants as to expenses in 2004, counsel for the defendants submitted that deductions from 2004 gross revenue should be the same as those supported by the evidence for 2005.
+[32]
+It is the defendants' burden to prove the costs that are to be deducted from the gross revenues from sales. FRAGMENT_SUPPRESSEDHowever, I am also guided by the fact that the remedy the plaintiffs seek is essentially an equitable remedy and equity must be done to both parties. The Federal Court of Appeal in
+Schmeiser
+noted at paragraph 85 that if the application of accounting principles in a mechanical fashion results in a quantum that not does reflect the economic profit from the infringement, it is open to a trial Judge to adjust the quantum, provided it is done on a "principled basis".
+[33]
+It was observed by counsel for the defendants that it is obvious that soybeans do not plant, cultivate and harvest themselves, and thus that some expenses must have been incurred in that process. However, the defendants provided no evidence on which the Court, on a principled basis, could find that the 2004 expenses would be of the same order as the 2005 expenses. The 2004 crop was planted in a sharecropping arrangement with a third party who is not before the Court in these proceedings. Accordingly, the Court finds that there is no basis on which to credit the defendants with any expenses against the gross revenue received from the 2004 crop.
+[34]
+The following discussion relates to expenses that are to be credited against the 2005 revenues only. Although each defendant gave evidence, Mr. Kerkhof provided the most detailed evidence and it was accepted by his co-defendants. For ease of reading, the following relates to the evidence of Mr. Kerkhof, but applies to each defendant.
+Herbicide
+[35]
+The defendants' expenses for herbicide are supported by Exhibit D-2, an invoice dated June 22, 2005, from South West Ag Partners Inc. Mr. Kerkhof testified that he applied a glyphosate herbicide (brand name "Touchdown") at a rate of 1.5 litres per acre for burndown, and 1 litre per acre for in-crop spraying. On cross-examination, Mr. Kerkhof conceded that the price paid for the herbicide was $7.30 per litre after a bulk discount and not $8.50 as indicated in Exhibit D-1. On cross-examination, Mr. Kerkhof testified that a burndown would have been conducted in preparation for seeding any crop. Monsanto's calculation of costs submitted at trial excludes the burndown application; however, Monsanto's own evidence concerning the patented technology is that the company advises a glyphosate burndown prior to seeding (Exhibit P-1). Therefore, I am satisfied that herbicide costs should be calculated on the basis of 2.5 litres per acre, at $7.30 per litre. That results in a per acre cost of $18.25.
+Fertilizer
+[36]
+Monsanto accepts the defendants' submission, supported by Exhibit D-3, that the cost of fertilizer should be deducted from gross revenue at a rate of $40.50 per acre.
+Seed
+[37]
+No costs were incurred by the defendants in 2005 in relation to the infringing soybean seed itself. Therefore no expense is properly deductible with respect to seed cost.
+Ammonium Sulphate
+[38]
+Exhibit D-4 is an invoice from GroCrop Inc. which records the purchase of ammonium sulphate. Mr. Kerkhof testified that in 2005 1 litre per acre of ammonium sulphate, at a cost of $0.90 per litre was applied for burndown. It was applied again at 1 litre per acre in-crop, in combination with the glyphosate herbicide. Therefore, on his evidence it was applied at the rate of 2 litres per acre. Monsanto's figures apparently exclude the burndown application but, as noted above, that application should be included. Therefore, the cost for this product will be calculated at $1.80 per acre.
+Pesticide
+[39]
+Exhibit D-5 is a record of a purchase of Matador and Agral from South West Ag. Partners Inc. on August 5, 2005. Matador is a pesticide the defendants applied to the infringing crop. Monsanto accepts the figure in Exhibit D-1 indicating that the per-acre cost of this product was $5.42 in 2005. Mr. Kerkhof explained that Agral is an additive one mixes with Matador. Monsanto accepts the figure in Exhibit D-1 indicating that the per-acre cost of this product was $0.83. This represents a total expense of $6.25 per acre for pesticides.
+Crop Insurance
+[40]
+The figure of $10.43 per acre for crop insurance is not in dispute, in relation to the 2005 crop.
+Land Rent
+[41]
+The figure of $125.00 per acre for land rent, for the defendants Lawrence Janssens and Alan Kerkhof, is supported by Exhibit D-6 and is not in dispute. It is admitted that the defendant Ronald Janssens incurred no expenses in relation to land rent.
+Other Costs
+[42]
+Exhibit D-1 includes a variety of other expenses to which Mr. Kerkhof spoke in his testimony, including harvesting, trucking, spraying, marketing, and interest on loans. When these expenses are included, argue the defendants, they incurred a net loss on the 2005 soybean crop.
+[43]
+The difficulty with this submission is that the claimed expenses conflate a variety of separate items, such as fuel costs and labour, which cannot be disentangled on the evidence before the Court. Further, as counsel for the plaintiffs elicited in cross-examination of Mr. Kerhhof, the custom rates relied upon by the defendants to estimate the cost of spraying and trucking, for example, do not account for the fact that the market value of these services is determined by factors such as wage rates, insurance premiums, and licensing costs which the defendants would not have incurred. For this reason the figures provided by the defendants are not reliable and the Court will not allow deductions from gross revenue for any of these expenses. Further, for the Reasons given in
+Rivett
+, the defendants are not entitled to any deduction for their own labour.
+[44]
+On the basis of the findings above, the per-acre expenses each of the defendants shall be entitled to deduct from the admitted gross revenues in 2005 are as follows:
+Herbicide
+$18.25
+Fertilizer
+$40.50
+Ammonium Sulphate
+$1.80
+Matador & Agral
+$6.25
+Crop Insurance
+$10.43
+TOTAL
+$76.98
+In addition, the defendants Alan Kerkhof and Lawrence Janssens paid rent for their land and each is entitled to deduct a further expense in this regard of $125.00 per acre.
+[45]
+Therefore, the expenses that are properly deductible from the gross revenue for each defendant, per acre in 2005 is as follows:
+Lawrence Janssens
+$201.98 per acre
+Ronald Janssens
+$76.98 per acre
+Alan Kerkhof
+$201.98 per acre
+c. Profits to be Disgorged
+[46]
+Alan Kerkhof and Lawrence Janssens each cultivated 100 acres of infringing soybeans in 2005 and each earned gross revenues of $32,384.68. The expenses each incurred to earn that revenue amounted to $20,198.00. Accordingly, each made a Gross Profits of Infringement of $12,186.68 in 2005.
+[47]
+Ronald Janssens cultivated 50 acres of infringing soybeans in 2005. His gross revenue on the infringing crop was $16,192.34. The expenses incurred to earn that revenue amounted to $3,849.00. Accordingly, he made a Gross Profits of Infringement of $12,343.34 in 2005.
+[48]
+To these numbers must be added the gross revenue of $10, 241.00 from the 2004 infringement. I am satisfied that it is reasonable that this profit be allocated to the defendants in proportion to the acreage each planted in 2005. Therefore Alan Kerkhof and Lawrence Janssens are each responsible for 40% of that profit and Ronald Janssens is responsible for 20%.
+[49]
+Therefore, the Gross Profits of Infringement that each defendant made on the ROUNDUP READY® soybeans in 2004 and 2005 is as follows:
+-
+Alan Kerkhof
+Lawrence Janssens
+Ronald Janssens
+2004
+$4,096.40
+$4,096.40
+$2,048.20
+2005
+$12,186.68
+$12,186.68
+$12,343.34
+[50]
+Having found that the proper method of accounting is the differential profit approach, one must determine the differential between the Gross Profits of Infringement and the profit each would have made had he used the next best non-infringing alternative. For the Reasons given in
+Rivett
+, I find that the appropriate comparator is conventional soybeans and further find that for every $1.00 of profit that would be generated using bulk ROUNDUP READY® soybeans, each defendant would have generated only $0.69 using conventional beans. Thus, 69% of every dollar of profit generated using ROUNDUP READY® soybeans would have been generated had the defendant used conventional beans.
+[51]
+On the basis that the Gross Profit of Non-Infringement is 69 percent of the Gross Profits of Infringement, the difference between these amounts for each defendant, and thus the amount to be disgorged to the plaintiffs, is as follows:
+-
+Alan Kerkhof
+Lawrence Janssens
+Ronald Janssens
+2004
+$1,269.88
+$1,269.88
+$634.94
+2005
+$3,777.87
+$3,777.87
+$3,826.44
+[52]
+Ronald Janssens is being required to disgorge slightly more profit with respect to the 2005 crop than the other defendants despite the fact that his crop was only half of their crop. This results as he grew the soybean crop on land he owned, rather than rented. Therefore, while the other defendants were credited with the lease costs of the land, he was not. No evidence was led of any similar costs, such as property tax, that Ronald Janssens may have incurred with respect to his land. I have considered whether there is a basis on which the Court should provide some deduction for Ronald Janssens, but have concluded that in the absence of any evidence any deduction by the Court would be arbitrary and could not be said to have been made on a principled basis.
+d. Prejudgment and Post-Judgment Interest
+[53]
+For the Reasons given in
+Rivett
+, the plaintiffs are entitled to prejudgment interest. The defendants made no submission on prejudgment interest. I accept the plaintiffs' submission, as follows:
+"Under Ontario law, pre-judgment interest on the profits award should begin to accrue from the date the defendants obtained the revenue from their infringing activities at the rate of 2.8 percent for profits made in 2004 and 3.3 percent for profits made in 2005. The amount of interest for profits made in 2004 should be compounded on a semi-annual basis from January 15, 2005 to the date of judgment; the amount of interest for profits made in 2005 should be compounded on a semi-annual basis from January 15, 2006 to the date of judgment."
+[54]
+Post-judgment interest is fixed at the rate of 4.0 percent, for the Reasons given in
+Rivett
+.
+e. Costs
+[55]
+The parties jointly requested that the Court defer making any award of costs until the other issues raised in this action had been determined. They both wished for an opportunity to file written submissions. I will therefore allow the plaintiffs two weeks to prepare a submission on costs not to exceed 10 pages in length. The defendant shall have a further 10 days to respond with a submission not to exceed 10 pages in length. The plaintiffs shall then have 3 days to reply with a not to exceed 5 pages in length.
+Summary and Conclusion
+[56]
+I have found that the total amount of profits to be disgorged by each of the defendants Alan Kerkhof and Lawrence Janssens for the 2004 crop is $1,269.88. The plaintiffs are entitled to prejudgment interest on this sum at 2.8 percent from January 15, 2005, to the date of judgment compounded on a semi-annual basis.
+[57]
+I have found that the total amount of profits to be disgorged by each of the defendants Alan Kerkhof and Lawrence Janssens for the 2005 crop is $3,777.87. The plaintiffs are entitled to prejudgment interest on this sum at 3.3 percent from January 15, 2006, to the date of judgment compounded on a semi-annual basis.
+[58]
+I have found that the total amount of profits to be disgorged by Ronald Janssens for the 2004 crop is $634.94. The plaintiffs are entitled to prejudgment interest on this sum at 2.8 percent from January 15, 2005, to the date of judgment compounded on a semi-annual basis.
+[59]
+I have found that the total amount of profits to be disgorged by the Ronald Janssens for the 2005 crop is $3,826.44. The plaintiffs are entitled to prejudgment interest on this sum at 3.3 percent from January 15, 2006 to the date of judgment compounded on a semi-annual basis.
+[60]
+The plaintiffs are entitled to post-judgment interest from the date hereof until payment at the rate of 4.0 per cent. The matter of costs is reserved pending the receipt of further submissions from the parties.
+[61]
+In accordance with Rule 394 of the
+Federal Courts Rules
+, counsel for the plaintiffs is directed to prepare a draft judgment, to be supplemented later, if necessary with additional terms to be settled, and to circulate the draft to counsel for the defendant for comment, within 30 days of the filing of these Reasons. If the terms so proposed are not agreed upon by the defendant, the Court would consider written submissions or will hear counsel by teleconference, on the terms of Judgment.
+Order accordingly.
+Editor: E. Joanne Oley/vnh
+[End of document]

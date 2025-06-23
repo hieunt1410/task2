@@ -1,0 +1,28 @@
+[33]
+As noted above, the parties agree that the
+Patent Act
+, R.S.C. 1985, c. P-4 governs this Court's analysis. This version of the
+Patent Act
+is commonly referred to as the "pre-October 1, 1989"
+Patent Act
+. Subsections 27(1) and 61(1) of that
+Act
+are relevant and provide:
+"27(1) Subject to this section, any inventor or any legal representative of an inventor of an invention that was
+(a) not known or used by any other person before he invented it,
+(b) not described in any patent or in any publication printed in Canada or in any other country more than two years before presentation of the petition hereunder mentioned, and
+(c) not in public use or on sale in Canada for more than two years prior to his application in Canada,
+may, on presentation to the Commissioner of a petition setting out the facts, in this Act termed the filing of the application, and on compliance with all other requirements of this Act, obtain a patent granting to him an exclusive property in the invention.
+"61(1) No patent or claim in a patent shall be declared invalid or void on the ground that, before the invention therein defined was made by the inventor by whom the patent was applied for, it had already been known or used by some other person, unless it is established that
+(a) that other person had, before the date of the application for the patent, disclosed or used the invention in such manner that it had become available to the public;
+(b) that other person had, before the issue of the patent, made an application for patent in Canada on which conflict proceedings should have been directed; or
+(c) that other person had at any time made an application in Canada which, by virtue of section 28, had the same force and effect as if it had been filed in Canada before the issue of the patent and on which conflict proceedings should properly have been directed had it been so filed."
+"27(1) Sous réserve des autres dispositions du présent article, l'auteur de toute invention ou le représentant légal de l'auteur d'une invention peut, sur présentation au commissaire d'une pétition exposant les faits, appelée dans la présente loi le "dépôt de la demande", et en se conformant à toutes les autres prescriptions de la présente loi, obtenir un brevet qui lui accorde l'exclusive propriété d'une invention qui n'était pas:
+a) connue ou utilisée par une autre personne avant que lui-même l'ait faite;
+b) décrite dans un brevet ou dans une publication imprimée au Canada ou dans tout autre pays plus de deux ans avant la présentation de la pétition ci-après mentionnée;
+c) en usage public ou en vente au Canada plus de deux ans avant le dépôt de sa demande au Canada.
+"61(1) Aucun brevet ou aucune revendication dans un brevet ne peut être déclaré invalide ou nul pour la raison que l'invention qui y est décrite était déjà connue ou exploitée par une autre personne avant d'être faite par l'inventeur qui en a demandé le brevet, à moins qu'il ne soit établi que, selon le cas:
+a) cette autre personne avait, avant la date de la demande du brevet, divulgué ou exploité l'invention de telle manière qu'elle était devenue accessible au public;
+b) cette autre personne avait, avant la délivrance du brevet, fait une demande pour obtenir au Canada un brevet qui aurait du donner lieu à des procédures en cas de conflit;
+c) cette autre personne avait à quelque époque fait au Canada une demande ayant, en vertu de l'article 28, la même force et le même effet que si elle avait été enregistrée au Canada avant la délivrance du brevet et pour laquelle des procédures en cas de conflit auraient dû être régulièrement prises si elle avait été ainsi enregistrée."
+Obviousness

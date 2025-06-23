@@ -1,0 +1,644 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Saber & Sone Group v. MNR (2014), 468 F.T.R. 286 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2014] F.T.R. TBEd. DE.006 
+ 
+ 
+ 
+ Saber & Sone Group (applicant) v. The Minister of National Revenue (respondent) 
+ 
+ (T-608-14; 2014 FC 1119) 
+ 
+ 
+ 
+ Indexed As: Saber & Sone Group v. Minister of National Revenue 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Kane, J. 
+ 
+ November 24, 2014. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The applicants applied for judicial review of a decision by the Canada Revenue Agency suspending their electronic tax filing (EFILE) and System for Electronic Notification of Debt (SEND) privileges pursuant to s. 150.1(2) of the Income Tax Act. 
+ 
+ 
+ 
+ The Federal Court allowed the application. The Administrative Review of the decision to suspend the applicants' EFILE and SEND privileges had to be reconsidered by a different Appeals Officer. 
+ 
+ 
+ 
+ Administrative Law - Topic 546 
+ 
+ The hearing and decision - Decisions of the tribunal - Reasons for decision - General - The applicants, an accounting firm, applied for judicial review of a decision by the Canada Revenue Agency suspending their electronic tax filing and System for Electronic Notification of Debt privileges pursuant to s. 150.1(2) of the Income Tax Act - The Federal Court stated that "For the purposes of judicial review, the impugned decision is the Refusal by the Chief of Appeals. The reasons, however, include the Report by the Appeals Officer. Where an investigator or officer conducts a review, drafts a report and makes a recommendation, and the decision-maker (in this case, the Chief of Appeals) then adopts this recommendation, providing no reasons or only brief reasons of his own, the reasons of the officer or investigator are considered to be the reasons" - See paragraph 23. 
+ 
+ 
+ 
+ Administrative Law - Topic 549 
+ 
+ The hearing and decision - Decisions of the tribunals - Reasons for decision - Sufficiency of - [See  
+ Income Tax - Topic 7635 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 3202 
+ 
+ Judicial review - General - Scope or standard of review - The applicants applied for judicial review of a decision by the Canada Revenue Agency suspending their electronic tax filing (EFILE) and System for Electronic Notification of Debt privileges pursuant to s. 150.1(2) of the Income Tax Act - The Federal Court stated that "The refusal or revocation of EFILE and online access privileges is a highly discretionary decision that is reviewed on a standard of reasonableness" - See paragraph 32. 
+ 
+ 
+ 
+ Income Tax - Topic 7635 
+ 
+ Returns, assessments, payment and appeals - Returns - Electronic filing - The applicants, an accounting firm, applied for judicial review of a decision by the Canada Revenue Agency suspending their electronic tax filing and System for Electronic Notification of Debt privileges pursuant to s. 150.1(2) of the Income Tax Act - The Federal Court allowed the application - The reasons of the decision-maker and the record properly before the court did not permit the court to determine whether the Appeals Officer and the Chief of Appeals considered all the relevant facts and whether the decision to revoke the applicants' privileges was reasonable - In particular, they did not permit the court to determine whether the administrative review was focussed only on the process requirements or whether the Appeals Officer reviewed the facts and reached her own decision - Moreover, the significant facts were not clear and some of the documents on the record that were considered by Appeals Officer lacked any explanation with respect to their purpose or source - The Appeals Officer's Report on Administrative Review also failed to provide all the relevant factors to the Chief of Appeals - The Report stated only the applicants' position, that they did not believe their conduct to be fraudulent and that they were otherwise compliant, and did not indicate any assessment of that information - As a result, the decision had to be reconsidered by a different Appeals Officer - See paragraphs 61 to 75. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Sketchley v. Canada (Attorney General), [2006] 3 F.C.R. 392; 344 N.R. 257; 2005 FCA 404, refd to. [para. 23]. 
+ 
+ Stemijon Investments Ltd. v. Canada (Attorney General) (2011), 425 N.R. 341; 341 D.L.R.(4th) 710; 2011 FCA 299, refd to. [para. 28]. 
+ 
+ Paterson v. Canada Revenue Agency, [2010] F.T.R. Uned. 531; 192 A.C.W.S.(3d) 665; 2010 FC 644, refd to. [para. 32]. 
+ 
+ APL Properties Ltd. v. Minister of National Revenue (2013), 432 F.T.R. 39; 2013 FC 449, refd to. [para. 32]. 
+ 
+ Khosa v. Canada (Minister of Citizenship and Immigration), [2009] 1 S.C.R. 339; 385 N.R. 206; 2009 SCC 12, refd to. [para. 33]. 
+ 
+ New Brunswick (Board of Management) v. Dunsmuir, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, refd to. [para. 33]. 
+ 
+ Newfoundland and Labrador Nurses' Union v. Newfoundland and Labrador (Treasury Board) et al., [2011] 3 S.C.R. 708; 424 N.R. 220; 317 Nfld. & P.E.I.R. 340; 986 A.P.R. 340; 2011 SCC 62, refd to. [para. 34]. 
+ 
+ Phillips v. Canada (Attorney General) (2011), 388 F.T.R. 158; 2011 FC 448, refd to. [para. 36]. 
+ 
+ Hillier v. Canada (Attorney General) (2001), 273 N.R. 245; 2001 FCA 197, refd to. [para. 38]. 
+ 
+ Simmonds v. Minister of National Revenue (2006), 289 F.T.R. 15; 2006 FC 130, refd to. [para. 46]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ David Fenig, for the applicant; 
+ 
+ Kathleen Beahen and Carol Calabrese, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Garfinkle Biderman LLP, Toronto, Ontario, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard on November 5, 2014, at Toronto, Ontario, before Kane, J., of the Federal Court, who delivered the following judgment on November 24, 2015. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Kane, J. 
+ : This is an application for judicial review by the Saber and Sone Group ("the applicants") of a decision by the Canada Revenue Agency ("CRA") suspending their electronic tax filing ("EFILE") and System for Electronic Notification of Debt ("SEND") privileges pursuant to subsection 150.1(2) of the  
+ Income Tax Act 
+ , RSC 1985, c 1 (5th Supp). 
+ 
+ 
+ 
+ [2] 
+  The applicants argue that the decision is unreasonable because the Chief of Appeals, who made the decision on behalf of the Minister, was not provided with all the relevant facts by the Appeals Officer who conducted the Administrative Review of the decision to suspend the applicants' privileges. The applicants submit that the Appeals Officer failed to consider relevant factors, including that: the applicants had authorization to access taxpayer information; the alleged "disreputable conduct" was an isolated incident; and, there were special circumstances. In addition, the applicants argue that the Appeals Officer did not fully understand her role and it is unclear whether she made an impartial decision or simply confirmed the views of the previous decision-makers. 
+ 
+ 
+ 
+ [3] 
+  The respondent argues that the decision was reasonable. The applicants were not able to produce a signed authorization as required and, therefore, their access to the taxpayer's information was not authorized and their conduct was disreputable and fraudulent, which is a valid reason to deny the privileges for EFILE and SEND. 
+ 
+ 
+ 
+ [4] 
+  The respondent disputes some of the facts as stated by the applicants. The record does not sufficiently clarify these facts and the cross-examination of the Appeals Officer on her affidavit further muddles them. 
+ 
+ 
+ 
+ [5] 
+  The applicants and respondent both sought to rely on information provided after the decision had been made, based on this cross-examination. However, the determinative issue is whether the decision made by the Chief of Appeals, who accepted the Report and recommendation of the Appeals Officer, is reasonable. That determination can only be made on the basis of information on the record that was available to the Chief of Appeals and the Appeals Officer, who prepared the Report. 
+ 
+ 
+ 
+ [6] 
+  While the Appeals Officer, the Chief of Appeals and the earlier decision-makers properly focussed on ensuring the integrity of CRA policy with a view to protecting taxpayer information, the reasons of the decision-maker and the record properly before the Court do not permit the Court to determine whether the Appeals Officer and the Chief of Appeals considered all the relevant facts and whether the decision to revoke the applicants' privileges was reasonable. As a result, the decision must be reconsidered by a different Appeals Officer. 
+ 
+ 
+ 
+ [7] 
+  For the more detailed reasons that follow, the application is allowed. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [8] 
+  Saber and Sone is an accounting firm. It prepares financial statements and files tax returns for its clients. 
+ 
+ 
+ 
+ [9] 
+  The applicants indicate that in March 2009, they obtained two signed T1013 forms ("Authorizing or Cancelling a Representative") from Andrea and Darren Carter ("the Carters"), authorizing Saber and Sone to represent the Carters as well as to discuss their personal matters with CRA. These forms indicate that the authorization is for all years (past, present and future) and include authorization for online access. Saber and Sone then filed the Carters' individual income tax returns for the 2008 tax year, as in past years. 
+ 
+ 
+ 
+ [10] 
+  Andrea Carter is the daughter of Ms Saber and step-daughter of Mr Sone. Darren Carter is her husband. The Carters are now estranged from the applicants. The Carters left Canada for Australia around 2009. In June 2013, Mr Sone and Ms Saber learned that they had returned to Canada. 
+ 
+ 
+ 
+ [11] 
+  On July 24, 2013, Saber and Sone used the password provided by CRA and electronically accessed the Carters' tax information, indicating that they were authorized to do so. The applicants state that they did so to ascertain whether the Carters had returned to Canada; to obtain contact information; to ensure their safety; and, also, to determine whether they should resume preparing their tax returns. 
+ 
+ 
+ 
+ [12] 
+  CRA advised Mr Carter that online access to his account had been given to the applicants. Mr Carter then telephoned CRA, informing them that Saber and Sone was not authorized to do so. A CRA Security Incident Report in the record indicates that he also made a formal complaint by letter and, in further telephone conversations, informed CRA that Ms Saber and Mr Sone were his estranged relatives and that the breach of privacy was causing extreme stress. 
+ 
+ 
+ 
+ [13] 
+  In September 2013, the CRA contacted Saber and Sone to request an original paper copy of the executed T1013 authorization form for Mr Carter. CRA also advised them that the Carters had terminated the firm's authorization to represent them. 
+ 
+ 
+ 
+ [14] 
+  On September 24, 2013, Ms Lori Hindy, of the CRA Taxpayer Representative Identification Section ("TRIS"), informed the applicants that their EFILE privileges had been suspended pending further review due to their failure to store paper copies of all electronically submitted T1013 forms for six years after filing, as required by the CRA's Responsibilities (outlined on the CRA's website). 
+ 
+ 
+ 
+ [15] 
+  On September 26, 2013, C. Lemieux, of the CRA Tax Services Office, informed Saber and Sone that CRA had removed its authorized representative information for both Andrea and Darren Carter's accounts. The CRA advised that it was conducting a review of all electronically submitted T1013 forms filed by Saber and Sone between January 1, 2011 and September 18, 2013 and requested paper copies for their other clients. 
+ 
+ 
+ 
+ [16] 
+  On October 7, 2013, Mr Sone responded and requested an administrative review of the decision. He advised that Andrea and Darren Carter were relatives and explained that they used the online access in an effort to locate the Carters, noting the stress their estrangement had caused. Mr Sone emphasized the generally proper and secure method employed by his firm for all tax information over the last 40 years and the importance of retaining the EFILE privileges for their business. 
+ 
+ 
+ 
+ [17] 
+  On October 24, 2013, Mr Frank LeBreton, of the CRA EFILE Helpdesk, notified Saber and Sone that, based on information recently received from another CRA department, the Helpdesk was suspending the firm's EFILE privileges effective immediately. 
+ 
+ 
+ 
+ The decision under review 
+ 
+ 
+ 
+ [18] 
+  Ms Yvonne Taylor, the Appeals Officer, conducted the administrative review. Ms Taylor set out the process of her review and her considerations in a Memo to File and provided a summary in a Report on Administrative Review to the Chief of Appeals. 
+ 
+ 
+ 
+ [19] 
+  In her affidavit, filed to provide the record to the Court, Ms Taylor states that she considered: the TRIS file; Saber and Sone's written submissions; T-1 computer records; the screening criteria in the EFILE Guidelines; and the CRA Manual on EFILERS. She states that she contacted Ms Hindy for background on her decision and she telephoned Mr Sone on February 5, 2014. The Memo to File indicates that Mr Sone admitted that his office submitted the T1013 form for Mr Carter electronically because he believed that he was authorized from the years before. He did not believe that his conduct was fraudulent. The Memo notes that he could not provide the original signed T1013. The Memo also indicates that he asked Ms Taylor for a copy of Mr Carter's revocation of authorization but she advised him she could not provide it because he was not Mr Carter's authorized representative. 
+ 
+ 
+ 
+ [20] 
+  Ms Taylor drafted her Report on Administrative Review and recommended upholding the Helpdesk's decision to revoke Saber and Sone's EFILE and SEND privileges. The Report notes: the EFILE Helpdesk's decision; the applicants' position (i.e., that they have a good past record with EFILE; that they did not want to be removed from the electronic filing program; and, that the system was used to locate Ms Saber's estranged daughter and son-in-law); the possible reasons for suspension; the objectives for screening applicants; and, the circumstances noted in the internal guidelines that indicate a failure to meet the necessary criteria for participation in the EFILE program. 
+ 
+ 
+ 
+ [21] 
+  The Report also notes that, generally, representatives can transmit T1013 forms electronically on the condition that they obtain a signed and dated paper copy from the taxpayer. This paper copy must be kept on file for at least six years. The CRA records indicate that Saber and Sone electronically transmitted an authorization request on July 24, 2013 and accessed Mr Carter's confidential information, but that they were later unable to provide a copy of a signed authorization form. This incident formed the basis for the EFILE Helpdesk's decision. The Report adds that "upon further investigation, the efiler admitted that there was no signed form T1013. The taxpayer's information was accessed without the taxpayer's authorization." Ms Taylor concludes: "Based on our review of the database information, our conversation with the EFILE Helpdesk, and our conversation with Mr Sone, we recommend that the decision to deny the applicant's participation in the electronic filing programs be upheld." 
+ 
+ 
+ 
+ [22] 
+  The Chief of Appeals, Mr Sunil Vijh, agreed with the Appeal Officer's recommendation. By letter dated February 17, 2014, he advised Saber and Sone that, following an administrative review, CRA had decided to uphold the Helpdesk's decision to revoke Saber and Sone's EFILE privileges. The Chief of Appeals states that: 
+ 
+ 
+ 
+ "Our review indicates that on July 24, 2014, Saber and Sone transmitted an authorization request and accessed the confidential information of a taxpayer. The form T1013 is allowed to be transmitted electronically on the condition that the representative has obtained a signed and dated paper copy from the taxpayers. The form must be kept on file for six years and provided upon request. You indicate that you do not have a signed form T1013." 
+ 
+ 
+ 
+ [23] 
+  For the purposes of judicial review, the impugned decision is the Refusal by the Chief of Appeals. The reasons, however, include the Report by the Appeals Officer. Where an investigator or officer conducts a review, drafts a report and makes a recommendation, and the decision-maker (in this case, the Chief of Appeals) then adopts this recommendation, providing no reasons or only brief reasons of his own, the reasons of the officer or investigator are considered to be the reasons. ( 
+ Sketchley v Canada (Attorney General) 
+ , 2005 FCA 404 at paras 37-38, [2006] 3 FCR 392). 
+ 
+ 
+ 
+ Ms Taylor's Affidavit 
+ 
+ 
+ 
+ [24] 
+  The respondent submitted the affidavit of Ms Taylor as a means of providing the relevant documents to the Court for the purpose of the judicial review. The affidavit explains Ms Taylor's role as an Appeals Officer and the information she considered in reaching her decision. It also attests to the content of her conversation with Mr Sone, which is also noted in her Memo to File. 
+ 
+ 
+ 
+ [25] 
+  The applicant extensively cross-examined Ms Taylor on her affidavit and probed her decision-making process with reference to the exhibits attached to her affidavit. 
+ 
+ 
+ 
+ [26] 
+  Both the applicant and respondent rely on parts of this cross-examination in their submissions. The applicant relies on the testimony of Ms Taylor to highlight the contradictions with her Memo to File and to argue that Ms Taylor did not consider all the relevant information, conduct her own assessment and reach an impartial decision. The respondent relies on Ms Taylor's testimony to support the decision-making process followed and the criteria considered. 
+ 
+ 
+ 
+ [27] 
+  As noted at the oral hearing, Ms Taylor's testimony is confusing with respect to the distinction, if any, between the privileges of online access to a taxpayer's information and EFILE privileges; the requirement for the signature on a T1013 form to be provided within 6 months of processing; and whether or not Ms Taylor was aware of the 2009 authorization by the taxpayers to the applicants or any revocation of that authorization at the time of her decision. This confusing testimony may be due to the questions put to Ms Taylor in an effort to clarify the authorization needed by a representative and the requirements of the EFILE program. Regardless, there is no other evidence before the Court to clarify some relevant facts. There are only the submissions of Counsel, who cannot give evidence, and the information that was previously and properly on the record before Ms Taylor at the time she conducted the administrative review. If other documents exist regarding the decisions made by the EFILE Helpdesk or TRIS - the decisions which Ms Taylor was reviewing - these are not on the record. 
+ 
+ 
+ 
+ [28] 
+  Although Ms Taylor's affidavit on its own did not seek to supplement the basis for her decision or offer new reasons, Ms Taylor's testimony on cross-examination, to some extent, did so. To the extent that the testimony of Ms Taylor has been relied on by either party to fill in gaps in the record and provide information that was not before Ms Taylor when she made her Report and which, in turn, was not on the record when the Chief of Appeals made his decision, it cannot and has not been considered ( 
+ Stemijon Investments Ltd v Canada (Attorney General) 
+ , 2011 FCA 299 at paras 40-42, 341 DLR (4th) 710) In addition, in my view, the testimony is simply unhelpful. 
+ 
+ 
+ 
+ [29] 
+  Mr Sone's affidavit attached the signed T1013 forms dated March 13, 2009 from both Darren Carter and Andrea Carter. However, this information was not in the record as it was not in the hands of Ms Taylor when she conducted her review. 
+ 
+ 
+ 
+ [30] 
+  The reasonableness of the decision is determined based on the record - i.e. the information available to the decision-maker - and not on information provided after the fact. 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ 
+ [31] 
+  The applicant has raised two issues: whether the decision was reasonable and whether it was impartial. While the latter issue is one of procedural fairness, both issues have been considered together. 
+ 
+ 
+ 
+ Standard of Review 
+ 
+ 
+ 
+ [32] 
+  The refusal or revocation of EFILE and online access privileges is a highly discretionary decision that is reviewed on a standard of reasonableness ( 
+ Paterson v Canada 
+ , 2010 FC 644 at para 12, 192 ACWS (3d) 665;  
+ APL Properties Limited v Canada (Attorney General) 
+ , 2013 FC 449 at para 20, 432 FTR 39). 
+ 
+ 
+ 
+ [33] 
+  The Court must determine whether a decision "falls within 'a range of possible, acceptable outcomes which are defensible in respect of the facts and law' ( 
+ Dunsmuir 
+ , at para 47). There might be more than one reasonable outcome. However, as long as the process and the outcome fit comfortably with the principles of justification, transparency and intelligibility, it is not open to a reviewing court to substitute its own view of a preferable outcome" ( 
+ Canada (Minister of Citizenship and Immigration) v Khosa 
+ , 2009 SCC 12 at para 59, [2009] 1 SCR 339, quoting  
+ Dunsmuir v New Brunswick 
+ , 2008 SCC 9, [2008] SCR 190 [ 
+ Dunsmuir 
+ ]). 
+ 
+ 
+ 
+ [34] 
+  In  
+ Newfoundland and Labrador Nurses' Union v Newfoundland and Labrador (Treasury Board) 
+ , 2011 SCC 62, [2011] 3 SCR 708, [ 
+ Newfoundland Nurses 
+ ], the Supreme Court of Canada elaborated on the requirements of  
+ Dunsmuir 
+ , noting that reasons are to "be read together with the outcome and serve the purpose of showing whether the result falls within a range of possible outcomes" and that courts "may, if they find it necessary, look to the record for the purpose of assessing the reasonableness of the outcome" (at paras 14-16). The Court summed up their guidance in para 15: 
+ 
+ 
+ 
+ "In other words, if the reasons allow the reviewing court to understand why the tribunal made its decision and permit it to determine whether the conclusion is within the range of acceptable outcomes, the  
+ Dunsmuir 
+  criteria are met." 
+ 
+ 
+ 
+ [35] 
+  The corollary is also true; if the reasons do not allow the Court to understand why the decision-maker decided as it did and do not permit the Court to determine whether the decision is within the range of acceptable outcomes, the  
+ Dunsmuir 
+  criteria are not met and the decision cannot be said to be reasonable. 
+ 
+ 
+ 
+ [36] 
+  With respect to the applicants' allegations that the decision was not impartial or that there was a reasonable apprehension of bias, the applicable standard is correctness ( 
+ Philips v Canada (Attorney General) 
+ , 2011 FC 448 at para 22, 388 FTR 158). 
+ 
+ 
+ 
+ Was the decision to revoke the applicant's efile privileges reasonable? 
+ 
+ 
+ 
+ The Applicants' Position 
+ 
+ 
+ 
+ [37] 
+  The applicants submit that the decision was unreasonable because it was contradictory, unintelligible and not transparent. 
+ 
+ 
+ 
+ [38] 
+  The applicants argue that the Appeals Officer failed to consider relevant information, including the information in the EFILE Guidelines, which reflect CRA's policy. Failure to consider these guidelines renders the decision unreasonable ( 
+ Hillier v AGC 
+ , 2001 FCA 197 at paras 25-26, 208 FTR 160). 
+ 
+ 
+ 
+ [39] 
+  In particular, the applicants note that the EFILE Suitability Screening Guidelines state that in determining whether to continue to allow EFILE privileges to someone who otherwise fails to meet the criteria, the fact that the conduct is an isolated incident is a relevant consideration. The applicants submit that the Appeals Officer did not take into account that their conduct was an isolated incident, and that they had an otherwise good compliance history, although in her cross-examination, Ms Taylor acknowledged that this was likely the case. 
+ 
+ 
+ 
+ [40] 
+  The applicants also argue that the Appeals Officer failed to consider that it was Ms Saber and not Mr Sone who accessed Mr Carter's information online and that the applicants had an authorization from both Andrea and Darren Carter, dated March 13, 2009, which was valid for all future years until revocation. In addition, the Appeals Officer failed to consider the harm to the applicants' business if EFILE and online access privileges were lost. The decision did not address several factors highlighted in the applicants' request for an administrative review, including that the Carters were the daughter and son-in-law of Ms Saber, one of the applicants, that the applicants had previously acted for the Carters and filed their tax returns, and that the applicants accessed Mr Carter's information with the belief that they were authorized and for the purpose of locating the couple. 
+ 
+ 
+ 
+ [41] 
+  The applicants argue that the Chief of Appeals was not provided with the relevant information to make the decision due to omissions in the Appeal Officer's Report. For example, the Report states that Saber and Sone was unable to provide a copy of the signed authorization T1013 form for Mr Carter, but does not mention that they indicated that they had authorization forms dated in 2009 giving them online access to both Andrea and Darren Carters' information for all tax years and that they had filed their tax returns in past years. The Report did not reflect that the July 2013 access was likely an isolated incident and that Mr Sone generally files all required forms in the appropriate manner. Nor did it note the impact that the refusal of EFILE and online access would cause to Saber and Sone's business and its employees due to the costs and time involved in manual filing. 
+ 
+ 
+ 
+ [42] 
+  The applicants also submit that the Appeals Officer, Ms Taylor, made conflicting statements in her testimony on cross-examination, which reveal that she was not clear about her role or about the facts. 
+ 
+ 
+ 
+ [43] 
+  For example, the Memo to File indicates that Saber and Sone accessed Mr Carter's personal tax information without authorization and committed fraud. On cross-examination, however, Ms Taylor suggested that the applicants lost their EFILE privileges because, notwithstanding that they possibly had an authorization form dated in 2009, this form had not been signed within six months of its submission. 
+ 
+ 
+ 
+ [44] 
+  The applicants submit that in her cross-examination, Ms Taylor stated that the fraud committed was very serious because Mr Sone accessed Mr Carter's personal tax information, without authorization, and for personal reasons. However, in her Memo to File she noted that the earlier decision-makers found that "he breached confidentiality with malicious intent" and that "The T1013 submitted electronically was fraudulent". In other words, Ms Taylor did not assess the nature of the conduct, but accepted that it was fraud based on the views of the earlier decision-makers. 
+ 
+ 
+ 
+ [45] 
+  The applicants also argue that the Appeals Officer and the Chief of Appeals erred in failing to consider alternatives to the indefinite suspension of the applicants' EFILE privileges. 
+ 
+ 
+ 
+ [46] 
+  More generally, the applicants submit that the decision is unreasonable because there is no line of analysis set out in the reasons to justify the decision ( 
+FRAGMENT_SUPPRESSED). Although they were in possession of the T1013 form from 2009, which granted them authorization to represent both Andrea and Darren Carter and online access for future tax years, the decision does not explain why this was not sufficient to establish that Saber and Sone was authorized. Moreover, the Appeals Officer could have verified that Saber and Sone had filed tax returns on behalf of the Carters in 2008 and previously, and could have confirmed that authorization was provided. 
+ 
+ 
+ 
+ [47] 
+  With respect to possible procedural fairness issues, the applicants submit that the Appeals Officer was confused about the scope of her administrative review and her role. She stated on cross-examination that she believed her duty was to review the EFILE Helpdesk's decision to ensure that CRA's procedures were followed, but later stated that she was simply supposed to determine whether the decision itself was correct without scrutinizing the original decision-making process or the documents originally reviewed. 
+ 
+ 
+ 
+ [48] 
+  The applicants also argue that the Appeals Officer erred by failing to consider the information that led TRIS and the EFILE Helpdesk to revoke their privileges. The applicants submit that Ms Taylor admitted on cross-examination that she did not look at the documents that were reviewed by the EFILE Helpdesk and the other decision-makers. Instead, all she did was take their decisions as facts and did not impartially assess whether those decisions were properly made. 
+ 
+ 
+ 
+ [49] 
+  In addition, the applicants highlight the comment in the Appeals Officer's Memo to File, following her conversation with Mr Sone on February 5 where he had indicated that he believed he was authorized from years before and did not believe his conduct was fraudulent, which states that the "EFILE Helpdesk does not agree." The applicants submit that this note shows that Ms Taylor was advised by the EFILE Helpdesk on February 5 that access should be revoked and that, therefore, her administrative review was not impartial. 
+ 
+ 
+ 
+ Respondent's Position 
+ 
+ 
+ 
+ [50] 
+  The respondent submits that, overall, this decision was reasonable and within the Chief of Appeal's discretion as the Minister's delegate. The applicants could not provide the signed paper copy of the T1013 authorization form; this was the reason for the decision and it was a reasonable basis to refuse EFILE and online access privileges. The respondent notes that the issue for the Court is the reasonableness of the decision based on the record before the decision-maker, i.e., Ms Taylor and the Chief of Appeals, and not on the additional testimony of Ms Taylor in her cross-examination after the decision was made. 
+ 
+ 
+ 
+ [51] 
+  The respondent highlights that access to the EFILE program is a privilege, not a right, and that the Minister, through his delegates, has the discretion to grant or revoke EFILE access in accordance with the criteria specified in the EFILE Guidelines. 
+ 
+ 
+ 
+ [52] 
+  The respondent disputes some of the facts as characterised by the applicant. In particular, the respondent notes that the paper versions of the 2009 T1013 forms from the Carters were not provided to Ms Taylor at the time she made her Report. The forms were submitted only with Mr Sone's affidavit for the purpose of this judicial review. 
+ 
+ 
+ 
+ [53] 
+  The respondent notes that these forms were only shown to Ms Taylor at her cross- examination and she merely speculated about whether or not they would have authorized online access in 2009. She noted that she did not have the forms previously. 
+ 
+ 
+ 
+ [54] 
+  The respondent, in an effort to clarify some of the confused facts, submits that the applicants may not have submitted any T1013 authorization form in July 2013 because the system works on trust. Once a representative has an authorization that has been processed by CRA, the representative uses a password and undertakes that he or she has the authorization. The requirement is that the authorized representative keeps a signed paper version of the authorization form on hand for six years and produces it if requested. 
+ 
+ 
+ 
+ [55] 
+  The respondent also submits that, despite Ms Taylor's contrary testimony on cross-examination, the requirement that the electronic form be signed within 6 months of its submission to the CRA was not the issue. The respondent points out that Ms Taylor was not provided with any form. 
+ 
+ 
+ 
+ [56] 
+  The respondent notes that, in Mr Sone's correspondence with CRA, he never stated that he had the signed forms and that Ms Taylor's Memo to File indicates that he was unable to provide a signed copy of the T1013 forms that were filed electronically. The respondent submits that, if the applicants had the forms, they should have provided them to CRA and to Ms Taylor. 
+ 
+ 
+ 
+ [57] 
+  The respondent argues that the applicants' belief that their conduct was not fraudulent is not relevant. The applicants could not provide the signed authorization and, as a result, their access to Mr Carter's tax information was not authorized. This access was not for tax purposes but for personal reasons. Although the Appeals Officer may have considered this to be an isolated incident, as she indicated in her cross-examination, it did not change the seriousness of the conduct. 
+ 
+ 
+ 
+ [58] 
+  The respondent acknowledges that the reasons for the decision are not "perfect," but submits that the Court must first seek to supplement the reasons with reference to the record before it seeks to subvert them ( 
+ Newfoundland Nurses 
+ , above, at para 12). 
+ 
+ 
+ 
+ [59] 
+  The respondent further notes that the Appeals Officer's Report and Memo to File indicate that she considered all the relevant documents, the applicant's submissions for the administrative review, T-1 computer records, the screening criteria in the EFILE Guidelines (i.e., that participants not engage in fraud, dishonesty, breach of trust or other conduct of a disreputable nature), the CRA Manual on EFILERS and material that was provided by Ms Hindy. She relied on the information that Saber and Sone had accessed confidential taxpayer information without authorization. 
+ 
+ 
+ 
+ [60] 
+  The respondent submits that the Chief of Appeals then considered the Appeals Officer's Report and reasonably concluded that Saber and Sone did not satisfy the screening criteria and, in accordance with subsection 150.1(2) of the  
+ Income Tax Act 
+ , should not be afforded EFILE privileges. 
+ 
+ 
+ 
+ The decision is not reasonable 
+ 
+ 
+ 
+ [61] 
+  As noted by the respondent, the suitability screening for EFILE privileges serves important goals, as stated in the EFILE Guidelines: it safeguards the system, maintains a high level of public confidence in electronic filing, ensures that all participants in the program adhere to high standards of conduct and integrity, and evaluates applicants' risk as electronic filers. Section 150.1 of the  
+ Income Tax Act 
+  makes it clear that there is no right to file a tax return electronically; it is a privilege that can be revoked. 
+ 
+ 
+ 
+ [62] 
+  Although all the earlier decision-makers, the Appeals Officer and the Chief of Appeals, acted in the interest of the CRA policy, and although some of the applicants' arguments are without merit, the decision does not meet the standard of transparency, justification and intelligibility. 
+ 
+ 
+ 
+ [63] 
+  I do not agree with the applicants' assertion that Ms Taylor's review was not impartial for the reason asserted by the applicants. The applicants misunderstood the February 5 notations in the Appeals Officer's Memo to File. That Memo cryptically sets out the information Ms Taylor considered, but does not suggest that she was advised by the Helpdesk to revoke the applicants' privileges. Her notes merely reiterate the chain of events and earlier decisions, including the decision by the Helpdesk. 
+ 
+ 
+ 
+ [64] 
+  I have carefully reviewed the full record with a view to upholding the decision rather than subverting it. However, the reasons and the record do not permit me to determine that the decision is reasonable. In particular, they do not permit me to determine whether the administrative review was focussed only on the process requirements or whether the Appeals Officer reviewed the facts and reached her own decision. Moreover, the significant facts are not clear and some of the documents on the record that were considered by Ms Taylor lack any explanation with respect to their purpose or source. Submissions from the parties highlighted the lack of clarity regarding the forms or authorizations at issue. 
+ 
+ 
+ 
+ [65] 
+  The respondent narrowly characterises the issue as based simply on the fact that the applicants were required to provide a signed copy of the T1013 authorization form that was filed electronically and could not do so, and that this constitutes fraud. However, it is not clear what authorization is at issue and whether any of the other relevant considerations were taken into account by either the Appeals Officer, who concluded that the conduct was fraudulent, or the Chief of Appeals, who made the ultimate decision. 
+ 
+ 
+ 
+ [66] 
+  The testimony of Ms Taylor, who was cross-examined on her affidavit, has not assisted. Both the applicant and the respondent pointed to parts of that testimony to support their respective submissions, which are obviously different. Although I have not considered this evidence to the extent that it was not part of the record before Ms Taylor when she made her decision, it is difficult to ignore that it confirms the lack of clarity about the facts. 
+ 
+ 
+ 
+ [67] 
+  The applicant's submissions rely on the existence of a T1013 authorization, provided by Andrea and Darren Carter in 2009, allowing Saber and Sone to access their tax information until that authority is revoked. It appears that the signed original form was not provided to the decision-maker. However, it is not clear whether the applicants were authorized or whether that authorization was revoked prior to July 2013 since the record before the decision-maker refers only to the inability of the applicants to provide an original signed form. The cross-examination of Ms Taylor only adds to the confusion about the information noted on the record and whether the issue was that the signed original of the 2009 T1013 form was not provided or whether a new authorization request was submitted in 2013, but was not signed within 6 months or not processed; whether there was no authorization at all because Mr Carter had revoked the 2009 authorization; or whether the problem was only that no signed paper original of the T1013 form could be produced. 
+ 
+ 
+ 
+ [68] 
+  The respondent's submissions that the system is based on trust and that representatives who have authorization may use their passwords if they undertake that they have this authorization suggest that the applicants relied on the 2009 authorization. 
+ 
+ 
+ 
+ [69] 
+  Presumably, if the form had been provided electronically in 2009 it would have given the applicants online access to Mr Carter's information until that authorization was revoked. The applicants would have been required to retain the signed originals. Oddly, Ms Taylor refused to provide a copy of the revocation to Mr Sone and advised him this was not possible because he was not the authorized representative for Mr Carter. Ms Taylor does not indicate when the authorization was revoked or why Mr Sone was not advised. The record does not reveal any revocation prior to 2013. The Security Incident Report and the letters from Ms Hindy and Mr LeBreton indicate that Mr Sone was removed as the authorized representative for Mr Carter in September and October 2013, suggesting that Mr Sone had previously been the authorized representative and that the removal was prospective, i.e., from the date of notice in the September and October 2013 letters. 
+ 
+ 
+ 
+ [70] 
+  For example, the letter dated September 24 from Lori Hindy (TRIS) indicates "we have removed your authorized representative information from the affected taxpayer accounts and we have suspended your T1013 electronic filing privileges pending further review." The September 26 letter from C Lemieux, of the Tax Services Office, reiterates that same phrase and adds that "We have also suspended your T1013 electronic filing privileges ...." 
+ 
+ 
+ 
+ [71] 
+  The Appeals Officer concluded that the applicants' conduct was fraudulent. However, her reasons do not show a full appreciation of the notion of fraud or any real assessment of whether the applicants' conduct was fraudulent. She appears to rely on the determination by Ms Hindy and others that the conduct was fraudulent. An allegation of fraud is very serious. The applicants' conduct may have been fraud, if indeed there was no authorization at all to access the taxpayer's information. However, if the applicants had an authorization in 2009 and were not advised of revocation of that authorization, and acted on the honest belief that they remained authorized to access the taxpayer's information, the fact that they did so for reasons other than tax reasons may render their conduct disreputable, but not likely fraudulent. 
+ 
+ 
+ 
+ [72] 
+  The applicants' long history of good compliance with CRA is also relevant, as is the isolated nature of this conduct within a long history of good compliance. The Appeals Officer did not appear to consider that these factors could be taken into account; rather, she appears to have determined that the conduct was fraud and was serious, and that no factor could mitigate the nature or seriousness of this conduct. 
+ 
+ 
+ 
+ [73] 
+  The Appeals Officer also failed to consider the impact of the loss of these privileges on the applicants. Although the applicants made more extensive submissions to the Court regarding the extent of the harm, they did note the impact of the loss of these privileges in their request for the Administrative Review. Based on her experience, the Appeals Officer would have been aware of the consequences. However, there is no indication that she took these into account other than to note that the applicants stated that they did not want to lose their privileges. 
+ 
+ 
+ 
+ [74] 
+  In addition, the Memo to File does not reveal the extent of the Appeals Officer's consideration or review of the decisions taken by Lori Hindy (TRIS), Frank Lemieux (the EFILE Helpdesk), the Security Incident Report or the incomplete National Issues Sheet - all of which reiterated basically the same information and conclusions - or whether she simply accepted these decisions as established facts and focussed on whether the proper processes were followed, rather than whether they were justified. 
+ 
+ 
+ 
+ [75] 
+  The Appeals Officer's Report on Administrative Review also failed to provide all the relevant factors to the Chief of Appeals. The Report states only the applicant's position - that he did not believe the conduct to be fraudulent and that he was otherwise compliant - and does not indicate any assessment of this information. 
+ 
+ 
+ 
+ Conclusion 
+ 
+ 
+ 
+ [76] 
+  The decision to suspend the applicants' EFILE and SEND privileges is not reasonable. The reasons and the record do not provide sufficient justification for the decision. 
+ 
+ 
+ 
+ [77] 
+  I have considered the respondent's submission that costs should be ordered against the applicants, even if the application for judicial review is allowed, because the applicants should have provided the Carter's signed 2009 T1013 forms at the relevant time rather than after the decision had been made. However, I decline to order costs against the applicants or the respondent. 
+ 
+ 
+ 
+ [78] 
+  The Administrative Review of the decision to suspend the applicants' EFILE and SEND privileges must be reconsidered by a different Appeals Officer and should be done forthwith. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [79] 
+   
+ THIS COURT'S JUDGMENT is that: 
+ 
+ 
+ 
+ 1. The application for judicial review is allowed. 
+ 
+ 
+ 
+ 2. The Administrative Review of the decision to suspend the applicants' EFILE and SEND privileges must be reconsidered by a different Appeals Officer and should be done forthwith. 
+ 
+ 
+ 
+ 3. No costs are ordered. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/nmg 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

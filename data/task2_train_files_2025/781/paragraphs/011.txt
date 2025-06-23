@@ -1,0 +1,31 @@
+[11]
+A point of contention on the present motion is the part which mens rea plays in contempt, for counsel for Telus Mobility submits there is nothing in the material, since the date of knowledge of the filed order, to show a guilty mind, but rather there is some indication of an attempt to comply. Here I would note that while the test for contempt embodies wilfulness, that element does not automatically equate to a need to establish mens rea. The wilfulness aspect is present only to exclude casual or accidental and unintentional acts of disobedience: see
+Glazer v. Union Contractors Ltd.
+(1960), 25 D.L.R.(2d) 653 (B.C.S.C.), at 658 and 676, affd. (1960), 34 W.W.R. 193 (B.C.C.A.). Moreover, attempted compliance and the presence or absence of a guilty mind might better go to the severity of any penalty. However counsel for Telus Mobility goes on to refer
+Lyons Partnership L.P. v. MacGregor
+(2001), 186 F.T.R. 241 (T.D.), at 245 in Mr. Justice Lemieux refers to the constituent elements of contempt as including "... the required degree of mens rea". In
+Lyons
+Mr. Justice Lemieux does not go on to refer to mens rea. It may well be that Mr. Justice Lemieux had in mind not civil contempt, but rather criminal contempt, in which both actus reus and mens rea must be present: see for example the
+Fourth Edition of Halsbury
+, Volume 9(1) at paragraph 405. More specifically, in the case of civil contempt, not withstanding that it has a quasi-criminal aspect to it, mens rea is not an element that must be proven. This was set out by Mr. Justice Teitelbaum in
+Cartier Inc. v. Cartier Men's Shops Ltd.
+(1988), 20 F.T.R. 15 (T.D.), at 30-31:
+"[95] Although the evidence required to prove a contempt of court is equivalent to a criminal case and proof must be beyond a reasonable doubt, intention 'mens rea', is not an element that must be proven. In the case of
+Baxter Travenol Laboratories v. Cutter (Canada) Ltd.
+(1985), 1 C.P.R.(3d) 433, at 440, Mr. Justice Dubé states:
+'Barrie and Lowe's
+Law of Contempt
+(2nd Ed. 1983), considers the requirement for mens rea in chapter 13 titled "Civil Contempt". The answer is clearly "that it is not necessary to show that the defendant is intentionally contumacious or that he intends to interfere with the administration of justice".'"
+Here is a clear statement, based upon the substantial authorities of
+Barrie and Lowe on Contempt
+and upon
+Baxter Travenol
+, that while the evidence to prove contempt in a civil context is equivalent to that in a criminal case, mens rea is not an element that must be proven. Mr. Justice Teitelbaum in
+Cartier
+was upheld by the Court of Appeal, without comment upon that point, (1990), 111 N.R. 152 (F.C.A.). However, when the Court of Appeal dealt with Mr. Justice Dubé's decision in
+Baxter Travenol Laboratories v. Cutter (Canada) Ltd.
+(1987), 81 N.R. 220; 14 C.P.R.(3d) 449 (F.C.A.), it specifically referred to the passage quoted by Mr. Justice Teitelbaum in Cartier from the decision of Mr. Justice Dubé, at trial in
+Baxter Travenol
+, noting that mens rea was not necessary in the case of civil contempt. The Court of Appeal went on to consider, as an aspect of mens rea, the lack of contumacity, which was discussed at length by Mr. Justice Dubé at the trial level and by
+Barrie and Lowe on Contempt
+in dealing with mens rea, noting that non-contumacious conduct can be a mitigating factor when it comes to a penalty: see the Court of Appeal decision at pages 455 and 456 [C.P.R.]. In summary, the present matter involves civil contempt and therefore mens rea is not a factor.

@@ -1,0 +1,4 @@
+[32]
+The fifth test set out in the
+White Book
+, as a function of particulars, is "to limit and define the issues to be tried, and as to which discovery is required".

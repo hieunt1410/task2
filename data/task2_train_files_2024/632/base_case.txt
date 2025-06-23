@@ -1,0 +1,157 @@
+Cdn. Transit Co. v. Can., [2011] F.T.R. Uned. 290 (FC)
+MLB unedited judgment
+Docket: T-2189-09 The Canadian Transit Company (applicant) v. Minister of Transport, Minister of Fisheries and Oceans, Minister of the Environment, Windsor Port Authority, and Her Majesty the Queen in Right of Ontario (respondents)
+Docket: T-2192-09 Sierra Club of Canada  (applicant) v. The Attorney General of Canada and The Minister of Fisheries and Oceans, The Minister of Transport, The Minister of the Environment, Windsor Port Authority and Her Majesty the Queen in Right of Ontario (respondent)
+(T-2189-09; T-2192-09; 2011 FC 517)
+Indexed As: Canadian Transit Co. v. Canada (Minister of Transport) et al.
+Cite As: [2011] F.T.R. Uned. 290
+Federal Court
+Kelen, J.
+May 4, 2011.
+Counsel:
+Larry P. Lowenstein, Laura Fric and Kevin O'Brien, for the applicant (The Canadian Transit Co.);
+Paula Boutis, Karen Dawson, for the applicant (Sierra Club of Canada);
+Peter M. Southey, Jon Bricker and Karen Lovell, for the respondent (Deputy Attorney General of Canada);
+William J. Manuel, William MacLarkey and Lise Favreau, for the respondent (Her Majesty the Queen in Right of Ontario).
+Solicitors of Record:
+Osler, Hoskin & Harcourt, LLP, Toronto, Ontario, for the applicant (The Canadian Transit Co.);
+Iler Campbell, LLP, Toronto, Ontario, for the applicant (Sierra Club of Canada);
+Myles J. Kirvan, Deputy Attorney General of Canada, Toronto, Ontario, for the respondent (Deputy Attorney General of Canada)
+Ministry of the Attorney General, Toronto, Ontario, for the respondent (Her Majesty the Queen in Right of Ontario).
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Kelen, J.
+: These reasons relate to three motions: two motions by the respondents to strike evidence submitted by the applicants in support of their applications, and one motion by the applicant Sierra Club appealing an Order of a Prothonotary, dated December 31, 2010, refusing leave to amend its notice of application and file supplementary affidavit evidence. The two motions to strike-a motion by the provincial respondent, Her Majesty the Queen in Right of Ontario, and a motion by the federal respondents, the Attorney General of Canada, the Minister of Transport, the Minister of Fisheries and Oceans, and the Windsor Port Authority-overlap in large part.
+FACTS
+[2]
+In two separate proceedings that have been heard together, the applicants seek judicial review of a December 3, 2009, decision by the Minister of Transport, the Minister of Fisheries and Oceans, and the Windsor Port Authority (the Responsible Authorities), that a proposed new bridge and accompanying infrastructure linking Windsor, Ontario with Detroit, Michigan is not likely to cause significant adverse environmental effects. In essence, the decision was that the proposed new bridge plan met the requirements of the
+Canadian Environmental Assessment Act
+, S.C. 1993, c.37.
+[3]
+In support of this judicial review application, the applicant Sierra Club of Canada filed the Affidavits of Dan McDermott, Dr. Ronald J. Brooks, Dr. Robert Murphy, and Atif Kubursi. The applicant Canadian Transit Company (CTC) filed the Affidavit of Paula Lombardi. The applicants also filed the transcript and accompanying exhibits of the cross-examination of the federal respondents' only affiant, Kaarina Stiff.
+[4]
+After filing its application, the applicant Sierra Club of Canada sought leave to file an amendment to its notice of application and a supplementary Affidavit of Dan McDermott.
+[5]
+In the two motions to strike, the respondents challenge the admissibility of much of the evidence submitted by the applicants. Specifically, both respondents challenge the following evidence:
+1. The Affidavit of Dr. Ronald J. Brooks, sworn September 27, 2010 (the Brooks Affidavit);
+2. the Affidavit of Dr. Robert Murphy, sworn August 31, 2010 (the Murphy Affidavit); and
+3. the Affidavit of Atif Kubursi, sworn September 28, 2010 (the Kubursi Affidavit).
+[6]
+In addition, the provincial respondent challenges a number of paragraphs of the Affidavit of Dan McDermott, sworn September 27, 2010.
+[7]
+The federal respondents also challenge the following evidence submitted by the applicant CTCC:
+1. the "Wilbur Smith Study" - exhibits 165(A) and (B) to the Affidavit of Paula Lombardi, sworn September 24, 2010
+2. the "Wilbur Smith 2010 Update" - exhibit 165(C) to the Affidavit of Paula Lombardi, sworn September 24, 2010
+3. the "Halcrow Report" - exhibit 159 to the Affidavit of Paula Lombardi, sworn September 24, 2010
+4. "Ambassador Bridge Plaza Master Plan Study Report" - Exhibit G, for identification purposes, to the Transcript of Cross-examination of Kaarina Stiff.
+[8]
+The federal respondents also seek to introduce supplementary evidence in the form of an Affidavit of Rebecca Coleman.
+[9]
+On November 1, 2010, the federal respondents advised the applicant Sierra Club of Canada that in their initial disclosure of the record before the federal decision-makers, they had mistakenly failed to include expert documentation regarding species at risk. As a result, on November 3, 2010, Sierra Club of Canada served the respondents with a supplementary Affidavit of Dan McDermott and an amended notice of application for judicial review, which the applicant submits it amended in response to the changed information in the record.
+[10]
+At the hearing, Sierra Club of Canada abandoned many of its proposed amendments, and sought leave to amend its notice of application in order to add paragraphs 21 and 23 (g), (k) and (v):
+¶21. On April 9, 2010, the Ontario Government announced that it had reached an agreement with the City of Windsor for the purchase of additional properties to provide additional "green space" between the shoulder of the new freeway and homes in selected areas of the route. It is unknown to the Applicant what degree this changes the WEP footprint.
+¶23. The Respondents erred in law and/or jurisdiction by failing to comply with CEAA, including sections 2, 4 and 16, and 17, and 20 in preparing the Report. Without limiting the generality of the foregoing, the Respondents erred by:
+...
+(g) Failing to take into account the MNR economist's report on the likely scenarios for future travel demand;
+...
+(k) Relying on inaccurate information that independent experts, specifically Dr. Ron Brooks and Dr. John Ambrose, retained to provide opinions under s. 17(2) of the ESA on "jeopardy to the survival or recovery" of these species in Ontario "endorsed" the mitigation plans for Butler's Garter Snake and Colicroot ESA;
+...
+(v) Failing to consider the impact of changes in the project footprint on the species at risk known to be impacted, or if other species might be affected within the new project footprint, after substantive changes were made to the WEP after the environmental screening was concluded;
+[11]
+In its appeal, Sierra Club of Canada also seeks leave to admit a Supplementary Affidavit of Dan McDermott containing two exhibits that relate to the facts underlying the amended paragraph.
+Evidence Sought to Excluded on the Motions to Strike
+1. The Brooks Affidavit
+[12]
+Dr. Ronald Brooks was one of two experts engaged by the Minister of Natural Resources of Ontario pursuant to the
+Ontario Endangered Species Act, 2007
+, S.O. 2007, c. 6 (ESA), to provide an opinion regarding whether the highway portion of the proposed new bridge project would result in jeopardy to the Butler's Garter Snake - a threatened species. In his report, Dr. Brooks warned of potential jeopardy to the Butler's Garter Snake. In contrast to Dr. Brooks, a second expert engaged by the Minister of Natural Resources did not warn of potential jeopardy to the snake species.
+[13]
+Faced with the divergent conclusions of the two experts' reports, the Ontario Minister of Natural Resources requested a meeting with both experts in order to clarify their opinions. A note detailing the results of this meeting states that Dr. Brooks "endorsed" a series of refined mitigation measures. The experts therefore appeared to be of the opinion that there was no jeopardy to the survival or recovery of the species in Ontario. Both the initial report submitted to the Minister of Natural Resources by Dr. Brooks and the accompanying note are an uncontested part of the evidence before this Court.
+[14]
+The Brooks Affidavit contests the content of the note and the apparent agreement between the experts. In it, Dr. Brooks deposes that he never endorsed the refined mitigation plans for Butler's Garter Snake, and explains the circumstances of the meeting at which he was apparently consulted.
+2. The Murphy Affidavit
+[15]
+Dr. Robert Murphy was retained by the Sierra Club in July 2010 to provide expert evidence concerning the impact of the new bridge on species at risk. In his Affidavit, Dr. Murphy states that he was retained to provide a "peer review" of the expert reports received by the Ontario Minister of Natural Resources with respect to permit applications for the Butler's Garter Snake and Eastern Fox Snake (which is listed as endangered under the Ontario ESA, and so also required a permit from the Ontario Minister of Natural Resources). Dr. Murphy also provides his own assessment regarding whether the proposed new bridge project places the two species in jeopardy.
+[16]
+In his Affidavit and attached report, Dr. Murphy finds that the mitigation measures proposed by the Minister of Natural Resources are inadequate and that any finding that the new bridge project would not result in jeopardy to the snake species were "short-sighted" and "without scientific merit."
+3. The Wilbur Smith Study
+[17]
+The "Wilbur Smith Study" refers to two documents produced by Wilbur Smith Associates for Transport Canada in response to a request for proposals to evaluate the toll feasibility of the new bridge project. The two documents were the September 2008 "Windsor Gateway Study - Corridor Growth Comparison" and the January 2009 "Comprehensive Traffic and Toll Revenue Study".
+[18]
+Transport Canada commissioned the Wilbur Smith Study in its role as a co-proponent of the new bridge. The study makes traffic forecasts in order to forecast usage of transportation options in the Windsor-Detroit border crossing area.
+4. The Wilbur Smith 2010 Update
+[19]
+The Wilbur Smith 2010 Update is an update to the Wilbur Smith Study that was commissioned by the Michigan Department of Transportation, another co-proponent of the new bridge project. The Wilbur Smith 2010 Update was completed in February of 2010.
+[20]
+The Wilbur Smith Study and the Wilbur Smith 2010 Update are included in the application record as exhibits to the Transcript of Cross-examination of the federal respondents' affiant, Kaarina Stiff, and are marked for identification purposes only.
+5. The Kubursi Affidavit
+[21]
+Atif Kubursi is President of Econometric Research Limited. He was retained by Sierra Club following the release of the Wilbur Smith 2010 Update. Mr. Kubursi states that his company was retained to provide an "expert opinion" on the Wilbur Smith Study and Wilbur Smith 2010 Update. He attaches a report dated September of 2010, entitled "Wilbur Smith Associates Report on Comprehensive Traffic and Toll Revenue Study - A Critical Evaluation". His affidavit summarizes that report, in which he challenges the variables and methodology employed by Wilbur Smith in generating its predictions regarding future traffic patterns in the area of the proposed new bridge project.
+6. The Halcrow Report
+[22]
+The Halcrow Report is a report dated June of 2009 entitled "Ambassador Bridge - Traffic and Revenue Study," commissioned by the CTC from the Halcrow Group Limited. Like the Kubursi Affidavit, the Halcrow Report is highly critical of the variables and methodology employed by the proponents of the new bridge project in generating their predictions regarding future traffic patterns in the area of the proposed new bridge project. The Halcrow Report provides forecasts for future traffic that are significantly lower than those relied upon by the proponents of the new bridge project.
+7. The "Ambassador Bridge Plaza - Master Plan Study Report"
+[23]
+The "Ambassador Bridge Plaza - Master Plan Study Report" is a report produced by the Canadian Border Services Agency (CBSA), dated February of 2010, that states the CBSA's requirements for the Canadian-side plaza at the existing Ambassador Bridge site in the event of an expansion of the Ambassador Bridge.
+[24]
+It was first presented to Ms. Stiff on cross-examination. She had never seen it before. As a result, it is included in the application materials as an exhibit to the Transcript of Cross-examination of Kaarina Stiff, and is marked for identification purposes only.
+8. Paragraphs of the McDermott Affidavit
+[25]
+Dan McDermott has been employed by the applicant Sierra Club since 1998, and at the time of this application was the Director of the Ontario Chapter of Sierra Club of Canada. Mr. McDermott's Affidavit consists of 62 pages and 250 exhibits. The provincial respondent objects to 47 paragraphs of Mr. McDermott's Affidavit, which relate to reports questioned in the Murphy and Brooks Affidavits, information in the Kubursi Affidavit, or information relating to a proposed expansion of the Windsor-Essex Parkway.
+Evidence Sought to be added by the federal respondents on the motion to strike: Supplementary Affidavit of Rebecca Coleman
+[26]
+In the memorandum of fact law submitted by the CTC in support of its application, the CTC submitted that the federal respondents had failed to provide the public with the information relied upon by the Screening Report in determining the requisite size of the Plaza for the new bridge project, including a letter from CBSA to Transport Canada, dated November 29, 2005. It introduced the letter in its December 2010 cross examination of the federal respondents' affiant.
+[27]
+The Affidavit of Rebecca Coleman provides the respondents' evidence rebutting the CTC's submissions. It deposes that the information contained in the letter was available in a memorandum posted on the public website on November 28, 2005, while the actual letter itself was posted in 2008. At the hearing, CTC consented to the admission of this affidavit.
+Evidence sought to be added by Sierra Club of Canada on appeal from Prothonotary's Order: Supplementary Affidavit of Dan McDermot
+[28]
+The supplementary Affidavit of Dan McDermott comprises two exhibits:
+1. an email from Dr. John Ambrose to the Ministry of Natural Resources regarding strategies to respond to the concerns stated by Dr. Ambrose in his report to the Ministry of Natural Resources regarding a species at risk, and
+2. an additional Affidavit of Dr. Ronald Brooks, sworn October 12, 2010, in which he describes the circumstances of a meeting in which he discussed strategies to respond to concerns stated by Dr. Brooks in his report to the Ministry of Natural Resources regarding a species at risk.
+[29]
+The parties agree that neither of these documents was before the decision-makers.
+ANALYSIS
+[30]
+These motions raise the following issues:
+1. Should the evidence listed above be struck?
+2. Should the Sierra Club of Canada be granted leave to amend its notice of application?
+3. Should the Sierra Club of Canada be granted leave to file the supplementary Affidavit of Dan McDermott?
+[31]
+At the hearing, the Court heard the motions together with the applications. Having considered all of the evidence, the Court finds that none of the evidence subject to these three motions is determinative of the final disposition of the case. Thus, whether as part of these motions or as part of the reasons on the application, the Court has had to consider all of this evidence in detail.
+[32]
+The Court notes the summary nature of applications, according to which parties should generally be discouraged from bringing preliminary motions to strike (see, for example,
+Mayne Pharma (Canada) Inc. v. Aventis Pharma Inc.
+, 2005 FCA 50, at paragraph 13).
+[33]
+The Court also notes the test for admission of supplementary evidence, stated in
+Atlantic Engraving Ltd. v. LaPointe Rosenstein
+, 2002 FCA 503, at paragraphs 8-9, where the Court of Appeal described four requirements that must be met before this Court may permit additional affidavits:
+1. The proposed evidence must serve the interests of justice;
+2. the proposed evidence must assist the Court;
+3. the proposed evidence must not cause substantial or serious prejudice to the other side; and
+4. the proposed evidence must not have been previously available or previously anticipated as being relevant.
+[34]
+In
+FRAGMENT_SUPPRESSED, Justice Zinn recognized a fifth requirement: the evidence must not unduly delay the proceeding.
+[35]
+In this case, given that the Court considered all of the evidence at the hearing, the Court finds that the interests of justice were best served by focusing upon the main issues in this case, and then deciding these preliminary motions.
+[36]
+In the course of deciding this case, the Court concluded in its Reasons for Judgment as follows:
+1. at paragraphs 118 to125 that the CTC updated traffic information not before the decision-maker is not admissible. At the same time, the Court found that the decision-maker had other up-to-date traffic information from both applicants showing a significant decline in traffic volumes over the Ambassador Bridge and the two other crossings in the Windsor-Detroit area. It therefore follows that the Court will allow the federal respondents' motion to strike this new evidence from the CTC; and
+2. at paragraphs 177 to 182 that the Reports submitted to the Ontario Ministry of Natural Resources and the new evidence which the Sierra Club seeks to introduce which challenged those Reports, were not before the decision-maker in this case and were not relied upon in the Screening Report. The applicant submitted that they ought to have been, but were not due to a misjudgement by federal officials. The Court found that this evidence goes toward mitigation measures being considered by the province under the
+Ontario Endangered Species Act
+and their substance is properly weighed and considered in that context, subject to review before the Ontario Divisional Court in May 2011. The federal Responsible Authorities are entitled to rely upon the Ontario Ministry of Natural Resources to develop a detailed mitigation measure as expressly provided in subsection 20(1.) of CEAA, and as repeatedly upheld in the jurisprudence referred to in the Reasons for Judgment.
+[37]
+The Court is of the opinion that these three motions could not have been decided properly prior to the hearing without the benefit of the full hearing and argument from the parties. The relevance of all of these documents is best left to the hearing Judge and cannot be decided on a preliminary basis. For this reason, the Court is of the opinion that the Prothonotary could not properly decide the admissibility of the new evidence sought to be introduced by the applicant Sierra Club. However he did so and his opinion about their relevance was correct in the Judgment of this Court. Accordingly, the Court would, if it had to decide the motion appealing the Prothonotary's Order, dismiss the appeal.
+[38]
+With respect to the two motions by the federal and Ontario respondents to strike evidence, the relevance of this evidence could not be known until the full hearing. Having conducted the full hearing, the Court is of the opinion that this new evidence is not relevant for the reasons stated in the Reasons for Judgment as indicated above (paragraphs 175 to 183).
+ORDER
+[39]
+THIS COURT ORDERS that
+:
+With respect to three motions heard at the hearing of the applications for judicial review:
+1. The two motions by the respondents to strike new evidence submitted by the applicants are allowed with costs in the cause; and
+2. The motion by the Sierra Club appealing the Order of the Prothonotary dated December 31, 2010 is dismissed with costs in the cause.
+[End of document]

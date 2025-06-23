@@ -1,0 +1,11 @@
+[93]
+The law with respect to the ranking of liens was lucidly reviewed by Keirstead, D.J., in the case of Comeau's Sea Foods Limited et al. v. The "France and Troy", [1974] F.C. 556, at page 557:
+"Priority between liens: The ranking of liens becomes important when the value of the res is insufficient to satisfy all the claims against it.
+"Certain general rules have been laid down to determine priorities but these rules are subject to many exceptions.
+"The order of preference between liens may be generally stated to be as follows:
+(i) Cost of rendering a fund available by the sale of the res: The 'Immacolota Concezione' (1873), 9 P.D. 37;
+(ii) Maritime liens;
+(iii) Possessory liens;
+(iv) Mortgages;
+(v) Statutory liens.
+"The time when a lien attaches is material in determining priorities. A maritime lien attaches when the event giving rise to the lien occurs. A possessory lien arises when the claimant obtains possession of the property. A statutory lien arises when a suit is instituted to enforce the lien."

@@ -1,0 +1,17 @@
+[13]
+The defendant argues that the particular claims of the plaintiffs' patent are invalid as involving no inventive ingenuity, as being anticipated and obvious. Before considering these issues, it is first of all necessary to describe the plaintiffs' patent in more detail. The patent describes the problem to be solved as follows:
+"At the lower end of the garment bag, the clothes are usually left free. If the garment is a long one, such as a lady's dress or a long coat, the bottom part of it is usually wrinkled because it is bunched in the bottom of the bag. Even when the bag is folded, the bottoms of the long clothes still remain in bunches in the bottom of the bag."
+And that part of the invention which addresses this problem is described as follows:
+"... an improvement ... comprising: garment holding means connected to the lower portion of the interior panel and operative at a surface of the lower portion of the interior panel facing the interior space and operative for holding and supporting the lower portions of long garments in a folded U-shaped configuration spaced above the bottom gusset of the bag where the interior panel is selectively connected to the side and top gussets.
+"When the interior panel is connected to the remaining portion of the garment bag to thereby enclose the garments within the bag, the lower portion of the relatively long garment is folded in a U-shaped configuration and is retained against the lower portion of the interior panel. In this manner, the lower portions of relatively long garments are prevented from occupying the bottom of the garment bag in a crumpled bunch."
+The invention is depicted pictorially in figures 3 and 4 of the patent:
+[Diagram omitted. See original source.]
+The actual claims in issue are numbers 28 to 31 inclusive:
+"28. An improved garment bag of the type adapted to fold into a suitcase-like configuration for traveling and having an interior space within which to pack garments, the interior space formed essentially by an exterior panel, a left and a right vertical side gusset, a top gusset, a bottom gusset, and an interior panel flexibly connected to the bottom gusset and selectively removably connected to the top and side gussets, said garment bag further including means located within the interior space of the garment bag and operative for supporting the middle portion of garments packed therein when the garment bag is folded into the suitcase-like configuration, and an improvement in combination therewith comprising:
+garment holding means connected to the lower portion of the interior panel and operative at a surface of the lower portion of the interior panel facing the interior space and operative for holding and supporting the lower portions of long garments in a folded U-shaped configuration spaced above the bottom gusset of the bag when the interior panel is selectively connected to the side and top gussets.
+"29. An improved garment bag as defined in claim 28 further comprising:
+means for stiffening the lower portion of the interior panel against bending.
+"30. An improved garment bag as defined in claim 29 wherein:
+the stiffening means comprises a frame member extending generally around the perimeter of the lower portion of the interior panel.
+"31. An improved garment bag as defined in claim 30 wherein:
+the garment holding means includes at least one belt extending horizontally across the lower portion of the interior panel."

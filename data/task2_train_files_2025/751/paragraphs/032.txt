@@ -1,0 +1,14 @@
+[32]
+The Crown submits that no duty of care to AstraZeneca is made out on the pleadings. First, the Crown acknowledges that AstraZeneca has pleaded negligence but submits that the pleading amounts to a claim of breach of statutory duty, and that no such tort exists. AstraZeneca submits that the pleading is not so limited and moreover, that a breach of statutory duty may be evidence of negligence where it has an effect on civil liability. Second, the Crown submits that AstraZeneca cannot meet the two-step test set out in
+Anns v. Merton London Borough Council,
+[1978] A.C. 728 (H.L.), adopted in
+Kamloops (City) v, Neilsen
+[1984] 2 S.C.R. 2 and refined in
+Cooper v. Hobart,
+[2001] 3 S.C.R. 537 and confirmed in subsequent cases. The Prothonotary cited
+Edwards v. Law Society of Upper Canada,
+[2001] 3 S.C.R. 562, which summarized the
+Anns
+test at paragraphs 9-10:
+9 At the first stage of the Anns test, the question is whether the circumstances disclose reasonably foreseeable harm and proximity sufficient to establish a prima facie duty of care. The focus at this stage is on factors arising from the relationship between the plaintiff and the defendant, including broad considerations of policy. The starting point for this analysis is to determine whether there are analogous categories of cases in which proximity has previously been recognized. If no such cases exist, the question then becomes whether a new duty of care should be recognized in the circumstances. Mere foreseeability is not enough to establish a prima facie duty of care. The plaintiff must also show proximity -- that the defendant was in a close and direct relationship to him or her such that it is just to impose a duty of care in the circumstances. Factors giving rise to proximity must be grounded in the governing statute when there is one, as in the present case.
+10 If the plaintiff is successful at the first stage of Anns such that a prima facie duty of care has been established (despite the fact that the proposed duty does not fall within an already recognized category of recovery), the second stage of the Anns test must be addressed. That question is whether there exist residual policy considerations which justify denying liability. Residual policy considerations include, among other things, the effect of recognizing that duty of care on other legal obligations, its impact on the legal system and, in a less precise but important consideration, the effect of imposing liability on society in general.

@@ -1,0 +1,405 @@
+[1]
+Martineau, J.
+[Translation]: This is an application for judicial review of a decision by the Refugee Protection Division of the Immigration and Refugee Board (the Board) that the applicant is not a Convention refugee or a "person in need of protection" within the meaning of sections 96 and 97 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (the
+Act
+).
+Allegations
+[2]
+The applicant is a 23-year-old citizen of the Democratic Republic of the Congo (DRC). She claims to be the daughter of Umba-Di Lutete, a former dignitary of the Mobutu regime. The alleged father of the applicant purportedly left the country in September 1997; at the time, the applicant had been living at her aunt's home since the month of July of that year.
+[3]
+The applicant alleges that she was a law student at Kinshasa University (UNIKIN). On December 13, 2001, the UNIKIN students, who were seeking a reduction in their tuition fees, organized "a series of protests". There were confrontations between the students and the law enforcement agencies. Many students were arrested, including the applicant. Brought to the police station, interrogated, insulted and intimidated, the applicant says that she was released the same day, late at night.
+[4]
+The applicant alleges that on December 17, 2001, soldiers went to her aunt's home. There, after searching the premises, they discovered some family photos as well as letters from her father who had fled to South Africa. That was all it took for the applicant to be arrested and charged with a "plot by reactionary forces to destabilize the regime". The following day, she says, she was transferred to the Kinshasa penitentiary and re-education centre.
+[5]
+The applicant states that on January 15, 2002, while she was engaged in forced labour at the Makala sanatorium, a guard "suddenly moved by compassion" helped her to escape. On January 21, 2002, the applicant left the DRC. After travelling through Congo-Brazzaville and France, she arrived in Canada on January 22, 2002 and claimed refugee status. Her claim was dismissed by the Board on November 14, 2002.
+Applicable Standard of Review
+[6]
+First, it is necessary to determine the applicable standard of review. Subsection 18.1(4) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 lists the grounds upon which the Court may intervene:
+"18.1(4) The Trial Division may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+(a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+(b) failed to observe a principle of natural justice, procedural fairness or other procedure that it was required by law to observe;
+(c) erred in law in making a decision or an order, whether or not the error appears on the face of the record;
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;
+(e) acted, or failed to act, by reason of fraud or perjured evidence; or
+(f) acted in any other way that was contrary to law."
+[7]
+At first glance, Parliament appears to have already defined the applicable standard of review. For example, where a finding of fact is at issue, subsection 18.1(4) of the
+Federal Courts Act
+requires proof that it was "erroneous, ... made in a perverse or capricious manner or without regard for the material before [the federal board, commission or other tribunal]". In
+Harb v. Canada (Ministre de la Citoyenneté et de l'Immigration)
+, [2003] F.C.J. No. 108; 302 N.R. 178 (F.C.A.), at paragraph 14, the Honourable Mr. Justice Décary writes in this regard:
+"
+Insofar as these are findings of fact
+they can only be reviewed if they are erroneous and made in a perverse or capricious manner or without regard for the material before the Refugee Division (this standard of review is laid down in s. 18.1(4)(d) of the
+Federal Court Act
+, and
+is defined in other jurisdictions by the phrase 'patently unreasonable')
+.
+These findings, in so far as they apply the law to the facts of the case
+, can only be reviewed if they are
+unreasonable
+." (my emphasis)
+[8]
+Even though priority should be given to the intention expressed in subsection 18.1(4) of the
+Federal Courts Act
+(
+R. v. Owen (T.)
+(2003), 304 N.R. 254; 173 O.A.C. 285; 2003 SCC 33), it was held in
+FRAGMENT_SUPPRESSED 242 F.T.R. 295; 2003 FC 1430, at paragraph 30, I nevertheless feel obliged to turn to the pragmatic and functional approach. In effect, the Supreme Court in
+Dr. Q., Re
+(2003), 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170; 2003 SCC 19, points out at paragraph 21 that the "pragmatic and functional analysis" must be used in all cases in order to determine the applicable standard of review.
+[9]
+Four contextual factors must be considered: (1) the presence or absence of a privative clause or statutory right of appeal; (2) the expertise of the tribunal relative to that of the reviewing court on the issue in question; (3) the purposes of the legislation and the provision in particular; and, (4) the nature of the question. The four factors may overlap, but examining them enables the Court to settle the important question of the degree of deference, whether it is the standard of correctness, the standard of reasonableness simpliciter, or the standard of patent unreasonableness (
+Dr. Q.
+, supra, at paragraph 26).
+First factor
+[10]
+In
+Dr. Q.
+, supra, at paragraph 27, we read:
+"The first factor focuses generally on the statutory mechanism of review.
+A statute may afford a broad right of appeal to a superior court or provide for a certified question to be posed to the reviewing court, suggesting a more searching standard of review
+: see
+Southam
+, supra, at para. 46;
+Baker
+, supra, at para. 58.
+A statute may be silent on the question of review; silence is neutral, and 'does not imply a high standard of scrutiny'
+:
+Pushpanathan
+, supra, at para. 30. Finally, a statute may contain a privative clause, militating in favour of a more deferential posture. The stronger a privative clause, the more deference is generally due." (my emphasis)
+[11]
+I do not think that, in our case, the statute is "silent" because, after all, it provides for a right to appeal with leave.
+[12]
+In
+Neighbouring Rights Collective of Canada (NRCC) v. Society of Composers, Authors and Music Publishers of Canada (SOCAN) et al.
+, [2003] F.C.J. No. 1094; 310 N.R. 263 (C.A.), there is an example of a "neutral" application at paragraph 40:
+"The
+Copyright Act
+contains neither a right of appeal from the Board to the Court, nor a preclusive clause sheltering the Board's decisions from judicial review. This factor in the functional and pragmatic analysis is therefore neutral on the applicable standard of review:
+Dr. Q v. College of Physicians and Surgeons of British Columbia
+, [2003] S.C.J. No. 18; 2003 SCC 19 at para. 27."
+[13]
+On the other hand, in
+Pushpanathan v. Canada (Minister of Citizenship and Immigration)
+, [1998] 1 S.C.R. 982, addendum [1998] 1 S.C.R. 1222; 226 N.R. 201, the Supreme Court states, at paragraphs 30 and 31:
+"
+The absence of a privative clause does not imply a high standard of scrutiny, where other factors bespeak a low standard
+. However, the presence of a 'full' privative clause is compelling evidence that the court ought to show deference to the tribunal's decision, unless other factors strongly indicate the contrary as regards the particular determination in question. A full privative clause is 'one that declares that decisions of the tribunal are final and conclusive from which no appeal lies and all forms of judicial review are excluded' (
+Pasiechnyk
+, supra, at para. 17, per Sopinka, J.). Unless there is some contrary indication in the privative clause itself, actually using the words 'final and conclusive' is sufficient, but other words might suffice if equally explicit (
+United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd.
+, [1993] 2 S.C.R. 316, at pp. 331 and 333).
+At the other end of the spectrum is a clause in an Act permitting appeals, which is a factor suggesting a more searching standard of review
+.
+"
+Some Acts will be silent or equivocal as to the intended standard of review
+. The Court found in
+Bradco
+that the submission of a dispute to a 'final settlement' of an arbitrator was 'somewhere between a full privative clause and a clause providing for full review by way of appeal' (pp. 331 and 333). Sopinka, J., went on to examine other factors to determine that some degree of deference was owed to the arbitrator's ruling. In essence, a partial or equivocal privative clause is one which fits into the overall process of evaluation of factors to determine the legislator's intended level of deference, and does not have the preclusive effect of a full privative clause." (my emphasis)
+[14]
+In this case the
+Act
+does not contain a privative clause and does not provide an automatic right of appeal. However, subsection 72(1) of the
+Act
+provides for a judicial review process by the Federal Court, which is conditional upon obtaining leave. The grounds for review are also provided in paragraph 18.1(4) of the
+Federal Courts Act
+. As I mentioned earlier, Parliament seems to favour a broader standard of deference when questions of fact are involved. By contrast, it appears to me that this is the standard of correctness that is indicated when there is a jurisdictional error or an alleged breach of the rules of natural justice or procedural fairness. As for the standard of review intended by lawmakers in the case of errors in law, I am of the view that those that are determinative are also reviewable without exception.
+Second factor
+[15]
+As the Supreme Court of Canada explained in
+Dr. Q.
+, supra, at paragraph 28, the second factor, relative expertise, recognizes that legislatures will sometimes remit an issue to a decision-making body that has particular topical expertise or that is adept in the determination of particular issues. Where this is so, the courts will seek to respect this legislative choice when conducting judicial review. Relative expertise can arise from a number of sources and can relate to questions of pure law, mixed fact and law, or fact alone. This expertise may be derived from specialized knowledge about a topic or from experience and skill in the determination of particular issues (
+Law Society of New Brunswick v. Ryan
+, 2003 SCC 20, at paragraph 30).
+[16]
+Bearing this in mind, expertise is nonetheless a relative - not absolute - concept. A higher degree of deference is necessary only when the decision-making body has, in some way, a greater expertise than the reviewing court and the particular issue pertains to this greater expertise: see
+Conseil de la magistrature (N.-B.) v. Moreau-Bérubé
+, [2002] 1 S.C.R. 249; 281 N.R. 201; 245 N.B.R.(2d) 201; 636 A.P.R. 201, at paragraph 50. So the analysis under this heading "has three dimensions: the court must characterize the expertise of the tribunal in question; it must consider its own expertise relative to that of the tribunal; and it must identify the nature of the specific issue before the administrative decision-maker relative to this expertise":
+Pushpanathan
+, supra, at paragraph 33.
+[17]
+In this case, the Board has acquired substantial expertise over the years in terms of general requirements relevant to the objective aspect of a fear of persecution or those relative to the existence of a serious risk of torture, a risk to life or cruel and unusual treatment in a given country. With this in mind, the finding of a subjective fear of persecution obviously depends on each particular situation and is assessed directly on the basis of the claimant's credibility. In both of these cases, these are essentially questions of fact. The Board is therefore in a better position than the Court to weigh the documentary evidence in the record and the credibility of an applicant's testimony (
+R.K.L. v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.C.J. No. 162 (T.D.)).
+[18]
+What can be said, then, of the assessment of the proof of identity provided by an applicant? Generally speaking, the Board works with foreign documents on a daily basis - whether they are passports, birth certificates or any other identity document. This undoubtably enables the Board to rely on judicial notice on condition, naturally, that the rules of procedural fairness are respected. While, initially, the Court has no reason to question the Board's expertise, that is a presumption. Everything depends, in effect, on the specific nature of the identity documents submitted by an applicant. Is the Board familiar with the particular type of document submitted by the applicant or not? If so, a broader deference must be accorded to it, while if not, less deference would seem to be in order.
+[19]
+In this case, the applicant provided three pieces of identification: a student card, a birth certificate and a state diploma. On this point, the Board specifically recognized on two occasions that it did not have specific expertise in documentation. At pages 2 and 3 of its decision, the Board stated the following, inter alia:
+"As proof of her identity, the claimant filed, as Exhibit P-1, her UNIKIN student card, which was issued on October 16, 2000, for the 1999-2000 academic year.
+Although no expert
+, the panel notes that the UNIKIN logo was hand drawn, the colours go outside the design and, furthermore, the letters surrounding the logo are handwritten and uneven. When asked to explain to the panel why her student card had been issued on October 16, 2000, when she was no longer attending university, the claimant answered that she had made the application earlier but had not withdrawn it until October 2000, because the card was of no use, except to get a reduction on public transit fares. When asked why she had withdrawn it if it were of no use, the claimant answered: 'I had to withdraw it' and did not offer any other reasons. The panel is not satisfied with the claimant's answers. In view of the foregoing, the panel attaches no probative value to this document.
+. . . . .
+"Finally, as her last identity document, the claimant produced, as Exhibit P-7, the original of a DRC state diploma, which is laminated. Once again, although the
+panel is no documentalist
+, the RDC flag appearing in the upper left corner appears to have been drawn with a felt-tip pen. In addition, the panel notes that, in the lower left corner where the student's photograph usually appears, the photograph is totally covered over by a blue substance and, because of this, it is impossible to identity the person appearing on it. The panel can attach no probative value to this document." (my emphasis)
+[20]
+I therefore find that the application of the expertise test militates in favour of broad deference in the analysis of the documentary evidence and the evaluation of the applicant's credibility and, given the statements made by the Board, less deference in the assessment of the authenticity of the three pieces of identification submitted by the applicant.
+Third factor
+[21]
+The third factor involves the general purpose of the statutory scheme within which the Board's decision is taking place. The specific provisions at issue must also be considered. On this point, Layden-Stevenson, J., in
+Reddy-Cheminor Inc. v. Canada (Attorney General) et al.
+, [2003] F.C.J. No. 774; 233 F.T.R. 271 (T.D.), at paragraph 49, states:
+"The third factor is the purpose of the statute, i.e., the general purpose of the statutory scheme within which the administrative decision is taking place.
+If the question
+before the administrative body is one of law or
+engages a particular aspect of the legislation, the analysis under this factor must also consider the specific legislative purpose of the provision(s) implicated in the review
+. As a general principle, increased deference is called for where legislation is intended to resolve and balance competing policy objectives or the interests of various constituencies, characteristics described as 'polycentric' in
+Pushpanathan
+:
+Dr. Q.
+at para. 30.
+Provisions that confer a broad discretionary power upon a decision-maker will generally suggest policy-laden purposes and, consequently, a less searching standard of review. Reviewing courts should also consider the breadth, specialization, and technical or scientific nature of the issues that the legislation asks the administrative decision-maker to consider. Here, the principles animating the factors of relative expertise and legislative purpose tend to overlap
+. A legislative purpose that deviates substantially from the normal role of the courts suggests that the legislature intended to leave the issue to the discretion of the administrative decision-maker and, therefore, militates in favour of greater deference:
+Dr. Q.
+at para. 31." (my emphasis)
+[22]
+A distinction must be made here between cases that involve the application of Canadian immigration policy, the objectives of which are set out in subsection 3(1) of the
+Act
+, and cases where a person claims to be a Convention refugee or a "person in need of protection" under sections 96 and 97 of the
+Act
+. Dealing more specifically with refugees, subsection 3(2) of the
+Act
+states the objectives of the
+Act
+:
+"The objectives of this Act with respect to refugees are
+(a) to recognize that the refugee program is in the first instance about saving lives and offering protection to the displaced and persecuted;
+(b) to fulfil Canada's international legal obligations with respect to refugees and affirm Canada's commitment to international efforts to provide assistance to those in need of resettlement;
+(c) to grant, as a fundamental expression of Canada's humanitarian ideals, fair consideration to those who come to Canada claiming persecution;
+(d) to offer safe haven to persons with a well-founded fear of persecution based on race, religion, nationality, political opinion or membership in a particular social group, as well as those at risk of torture or cruel and unusual treatment or punishment;
+(e) to establish fair and efficient procedures that will maintain the integrity of the Canadian refugee protection system, while upholding Canada's respect for the human rights and fundamental freedoms of all human beings;
+(f) to support the self-sufficiency and the social and economic well-being of refugees by facilitating reunification with their family members in Canada;
+(g) to protect the health and safety of Canadians and to maintain the security of Canadian society; and
+(h) to promote international justice and security by denying access to Canadian territory to persons, including refugee claimants, who are security risks or serious criminals."
+[23]
+On the other hand, sections 96 and 97 of the
+Act
+read as follows:
+"96. A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
+(b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+"97(1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+(i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+(ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+(iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+(iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+"97(2) A person in Canada who is a member of a class of persons prescribed by the regulations as being in need of protection is also a person in need of protection."
+[24]
+In
+Pushpanathan
+, supra, at paragraph 36, Bastarache, J., explains that courts must show greater restraint when the
+Act
+requires "the consideration of numerous interests simultaneously, and the promulgation of solutions which concurrently balance benefits and costs for many different parties" than when provisions that establish rights between the parties are involved. In other words, the Court must show greater restraint in respect of a polycentric decision.
+[25]
+According to subsection 3(2) of the
+Act
+, the objective of the
+Act
+with respect to refugees is, inter alia, to guarantee the security of Canadians and of the State; the
+Act
+is also meant to save lives and to offer protection to the displaced and persecuted in order to fulfill Canada's international legal obligations. It therefore seems to me that the emphasis is placed on the protection of fundamental individual rights rather than on the achievement of general socio-economic objectives such as those found in subsection 3(1) of the
+Act
+in the case of Canadian immigration policy. In this respect, the establishment of Convention refugee status or the status of a "person in need of protection" pursuant to sections 96 and 97 of the
+Act
+is based on specific requirements that must be established by the claimant. Thus, the application of these provisions is directly related to the personal situation of each claimant and the particular conditions of the country in question at the time that the claim for asylum or protection is brought before the Board. In practice, it is therefore clear that the determination of the status of "refugee" or of a "person in need of protection" does not depend on "the consideration of numerous interests simultaneously, and the promulgation of solutions which concurrently balance benefits and costs for many different parties". In my opinion, it is more a decision establishing the rights between the parties (in a context where the applicant's life and safety are potentially at risk, but on the premise that the minister can intervene in each claim for protection because he must satisfy himself that, inter alia, the applicant is not an individual excluded under the
+Act
+) than it is a polycentric decision. In this case, therefore, the application of the third test favours a lesser standard of restraint.
+Fourth factor
+[26]
+The fourth factor concerns the nature of the problem. The provisions of sections 96 and 97 of the
+Act
+set down some specific requirements. Consequently, the Board must determine from the particular facts before it whether an individual is a Convention Refugee and whether that person has the status of a "person in need of protection". It is therefore a question of mixed fact and law.
+[27]
+With this in mind, the issue in this case, specifically involves an assessment of the proof of identity provided by the applicant. This is primarily a factual observation that, moreover, could affect the claimant's credibility. Thus, section 106 of the
+Act
+provides:
+"106. The Refugee Protection Division must take into account, with respect to the credibility of a claimant, whether the claimant possesses acceptable documentation establishing identity, and if not, whether they have provided a reasonable explanation for the lack of documentation or have taken reasonable steps to obtain the documentation."
+[28]
+On the other hand, as the Supreme Court pointed out in
+Dr. Q.
+, supra, at paragraph 34:
+"When the finding being reviewed is one of pure fact, this factor will militate in favour of showing more deference towards the tribunal's decision. Conversely, an issue of pure law counsels in favour of a more searching review. This is particularly so where the decision will be one of general importance or great precedential value:
+Chieu v. Canada (Minister of Citizenship and Immigration)
+, [2002] 1 S.C.R. 84, 2002 SCC 3, at para. 23. Finally, with respect to questions of mixed fact and law, this factor will call for more deference if the question is fact-intensive, and less deference if it is law-intensive."
+[29]
+In this case, section 106 of the
+Act
+requires the Board to determine, when the claimant does not have acceptable identity documents, whether the claimant can nevertheless provide a reasonable explanation for the lack of documentation or has taken reasonable steps to obtain the documentation. That is certainly a question of mixed fact and law.
+[30]
+Accordingly, as this case involves a question of mixed fact and law, the application of the fourth test calls for a greater deference given that the issues are primarily factual.
+Balancing the four factors
+[31]
+In light of the above, in the particular case before us, I would find that the balancing of the above-mentioned four factors militates in favour of the application of two standards of judicial review: (1) the patent unreasonableness standard in the case of the analysis of the documentary evidence and the assessment of the applicant's credibility; and 2) the reasonableness simpliciter standard in the case of the assessment of the proof of identity submitted by the applicant.
+Analysis
+[32]
+The applicant claims to have a well-founded fear of persecution in her country because of her membership in a particular social group, the family, and because of her perceived political opinions. She also submits that she is a "person in need of protection" because her life is threatened and she would face cruel and unusual treatment or punishment, as well as a risk of torture, if she were to return to the DRC.
+[33]
+In its decision, the Board found that the applicant has not provided acceptable identity documents, which affects her credibility under section 106 of the
+Act
+. Furthermore, the Board did not find that the applicant's story was credible because of the confusion, the contradictions and omissions tainting her testimony.
+Proof of identity
+[34]
+In this case, it must be determined if the Board's assessment of the proof of identity is unreasonable, in the sense that the assessment was not supported by any reasons that could bear a somewhat probing examination (
+Ryan
+, supra, at paragraph 46).
+[35]
+The applicant provided three identity documents: a student card, a birth certificate, as well as a state diploma. A careful review of the Board's reasons indicate that it considered each of the documents filed by the applicant in turn. After careful examination of these documents and consideration of the explanations given by the applicant, the Board found that the evidence filed was not sufficient to establish the applicant's identity.
+[36]
+First, the Board listed several anomalies about the student card: (1) the UNIKIN logo had been drawn by hand; (2) the colours went outside the design; and (3) the letters were handwritten and uneven. Further, the Board took into consideration the fact that the identity card had been issued on October 16, 2000, although the applicant had not attended the university since May 2000.
+[37]
+When the Board questioned the applicant about this, the following exchange took place:
+[Translation] "Q. How is it that your card was only issued on October 16, 2000 for the year 1980 ...?
+A. I had already made ... but I only got my card, it was written issued, so I only got it in October 2000, but I had already made the request a long time before.
+BY THE HEARING MEMBER (to the claimant)
+Q. When did you make the (inaudible)?
+A. When we register, normally, we must be given, how do you say it, we must be issued a student card, but I did not get it the same year, I got it at the end of the year, in October 2000, like the date that is shown.
+Q. What purpose does the student card serve to (inaudible)?
+A. Well how do I explain. Practically nothing. Normally, it could be useful to us, as a student it is useful to us, for example, in, for public transit, for the reduced fare, but it is practically useless.
+. . . . .
+Q. But I want to know why you, you did not try to get the card beforehand to benefit from this?
+A. Well me I simply avoided discussions, because often you start to argue there, there is a soldier that intervenes. I avoided.
+. . . . .
+Q. Why not go get it earlier?
+A. Because, apart from the bus, it was practically useless.
+. . . . .
+Q. Madam in October 2000, you were studying?
+A. No.
+Q. Why then get an identity card when you were not studying?
+A. I had to get it, because I had left, so I think I had to get it so I got it in October. ..."
+[38]
+The Board found that the applicant's explanations were inadequate. The Board's finding was based on the evidence and is reasonable under the circumstances.
+[39]
+Second, in the matter of the birth certificate, the Board observed that it did not have a tax stamp, even though the applicant had paid the fees. The Board also pointed out that the birth certificate does not bear the surnames of the applicant's mother and father.
+[40]
+The Board may, relying on the doctrine of judicial notice, confront a refugee claimant about any apparent anomaly. This is exactly what the Board did with regard to the applicant's birth certificate. In fact, the following exchange took place in the context of the hearing:
+[Translation] "- I see that the birth certificate is not stamped.
+A. It is not what?
+- Your birth certificate. Most birth certificates have a stamp on them, a stamp indicating that you had ... of a Congolese franc, (inaudible), here it is not stamped.
+A. I know, excuse me, I do not know why in any case. That I do not know why."
+[41]
+In this case, the Board wanted to satisfy itself that the applicant was indeed the daughter of Umba-Di Lutete, the former official of the Mobutu regime. In this regard, we can understand that the best way to prove the applicant's parentage would have been by producing a birth certificate on which the names of the applicant's father and mother appeared. As the Board observed, the birth certificate filed was lacking in this respect. As it then was a matter of assessing the credibility of the applicant's testimony, the Board was in a better position than the Court to determine, absent satisfactory documentary evidence, if she was indeed, as she claims, the daughter of Umba-Di Lutete.
+[42]
+At the hearing, the applicant testified that she did not have an identity document at the time that she went to request her birth certificate. Afterwards, she indicated that she only had a certificate of loss of documents. The applicant testified that this certificate bore the name of her father. Subsequently, the applicant stated that she had not declared the full name of her father to the person responsible for issuing the birth certificate, for fear that she would be identified. The Board states that it does not understand why the name of her father did not appear on her birth certificate. The Board was of the opinion that the birth certificate was not conclusive. Once again, the Board's finding is based on the evidence and is reasonable under the circumstances.
+[43]
+In the matter of the state diploma, the Board indicates, inter alia, that the applicant's photo is completely hidden by a blue substance. Further, the Board observes that the DRC flag in the top left hand corner appears to have been drawn with a felt-tip pen. The following exchange took place on this matter:
+[Translation] "- Here, here we (inaudible), we have seen a few of the ... we have I have had several state certificates. Generally, there is a photo here. Here, we do not see your photo, we found a blue square.
+A. No, there is a photo, but it's the blue square, you have to look closely. It's a photo, that is there ... Me, I am ... I am part of the first class of, how do you say it, of the Kabila regime, they were the first diplomas of the Kabila regime. They are like that.
+- Because we have ... Madam, there is not any ... You are ... There is no photo there, I do no see your photo, maybe, come show us ...
+A. Well, all right, I (inaudible)
+- You can show me.
+A. You have to look closely, you will notice, well, if you are familiar with my face, you will recognize it, because I am able to see my face myself.
+BY THE HEARING MEMBER (to the claimant)
+- In the back maybe.
+A. Of course, I think that from the back you can see better, because ...
+Q. Why, why does it do that Madam? Why did it turn out, why did this photo here become blue?
+A. I do not know, that I do not know. I know that during the Mobutu regime, the photo was there, but we, but I, I was part of the first class of the Kabila regime, it is like that that the diplomas came out."
+[44]
+In light of the preceding, the Board decided not to give any probative value to the state diploma. Once again, the Board's finding is supported by the evidence and is reasonable under the circumstances.
+[45]
+On this point, I do not believe that in matters of establishing identity, the Board must be so strict that the acceptance of the exhibits filed by a refugee claimant must depend on North American logic and reasoning. That said, if on their very face it is apparent that documents have various anomalies, the Board can certainly draw an unfavourable conclusion about the applicant's credibility in the absence of satisfactory explanations (
+Yogeswaran v. Canada (Minister of Citizenship and Immigration)
+, [2001] F.C.J. No. 193 at paragraphs 28-30 (T.D.);
+Husein et al. v. Canada (Minister of Citizenship and Immigration)
+, [1998] F.T.R. Uned. 301; [1998] F.C.J. No. 726 at paragraph 13 (T.D.)). This is indeed what is contemplated by section 106 of the
+Act
+. Accordingly, it was not unreasonable for the Board to exclude the proof of identity provided by the applicant.
+[46]
+At the hearing, the applicant's counsel emphasized the fact that a copy of the documents obtained from other alleged members of the applicant's family were also filed into the Board's record. See inter alia pages 46 to 52 of the Board's record where we find a copy of the documents concerning: Ngana Umba, Tania Nzolantima-Amba, Dilutete Umba, Valentine Belito Amba. In the record we also find (at page 103), the personal information form of the alleged brother of the applicant, Binda Umba, who also claimed refugee status in Canada. The mere fact that the applicant was able to obtain some of these documents does not prove her identity, however. Further, there is a presumption that all of the documentary evidence was considered by the Board (
+Florea v. Minister of Employment and Immigration
+, [1993] F.C.J. No. 598 (F.C.A.)). The failure to mention these documents, which were of secondary importance in the case being considered, does not make the Board's decision unreasonable.
+[47]
+At the hearing, the applicant's counsel also suggested, without saying so categorically, that the rules of natural justice had not been respected because the applicant was misled in that she was made to believe that her identity had been accepted. Otherwise, her counsel argues, how can we comprehend the fact that the refugee claim officer had filed the personal identification form of the applicant's alleged brother, Binda Umba, who was, apparently, granted refugee status in Canada?
+[48]
+The rules of natural justice were not breached by the Board. At the hearing, it is clear from the remarks that the Board had serious doubts about the authenticity of the documents filed. At that point, it was obvious that the identity of the applicant was in question. Further, the applicant had the opportunity to present her entire story, which was carefully reviewed and considered by the Board.
+The applicant's credibility
+[49]
+In this case, the applicant's identity and the evidence that she was related to Umba-Di Lutete, the former official of the Mobutu regime, was at the very heart of her claim for refugee status and for protection. In the absence of satisfactory explanations, the failure to establish the applicant's identity affected the credibility of her story about persecution (section 106 of the
+Act
+and
+Husein
+, supra, at paragraph 13).
+[50]
+With that in mind, the Board's dismissal of the proof of identity was not its only basis for dismissing the applicant's claim and the request for protection. The Board actually found that she was not credible. On this point, it is the patent unreasonableness standard that applies (
+R.K.L. v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.C.J. No. 162 (F.C.T.D.);
+Akinlolu v. Canada (Minister of Citizenship and Immigration)
+, [1997] F.C.J. No. 296 (T.D.), at paragraph 13 (T.D.); and
+Moyo v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.C.J. No. 1297, at paragraph 4 (T.D.)).
+[51]
+The Board considered the applicant's testimony and noted significant contradictions and omissions. As an example, the applicant failed to mention in her point of entry form that she had been detained on two occasions. She mentioned only the first detention, i.e. the detention of half a day. The applicant did not therefore mention her second detention, i.e. the detention of one month. When the Board confronted the applicant about this, she stated that the word "
+incarcéré
+" ("incarcerated") that appeared on the point of entry form referred to a short period and for that reason she had mentioned only the first detention. But as the Board pointed out in its reasons, the applicant wrote about the second detention in her personal information form using the word "
+incarcéré
+".
+[52]
+Further, the Board in its decision also mentioned a significant contradiction between the applicant's testimony and the documentary evidence that was filed. The applicant testified that she did not have any problem from 1997 to 2001, which contradicts the documentary evidence. Furthermore, she states that Mr. Umba-Di Lutete was evacuated to South Africa on June 15, 1997 in order to obtain medical care. Questioned about whether she was aware that her alleged father had gone to South Africa for treatment, the applicant replied in the negative. In its decision, the Board also mentioned the unlikelihood of the fact that the applicant would have participated in a demonstration when she claimed to be living in fear of being identified.
+[53]
+The findings of the Board, as set out earlier, are not patently unreasonable.
+Certification of a Question
+[54]
+Whether the issue was first, the assessment of the proof of identity submitted by the applicant or second, the assessment of the credibility of the applicant's story, the findings of the Board are not unreasonable or patently unreasonable, in light of the documentary evidence and the content of her testimony. Accordingly, this application must be dismissed.
+[55]
+The parties did not propose any question of general importance for certification. That said, I acknowledge that adopting the reasonableness simpliciter standard in the case of the Board's assessment of the proof of identity seems to conflict with a certain trend in the caselaw of this Court that favours the patent unreasonableness standard:
+Aboubacar v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.C.J. No. 214 (T.D.);
+Keita v. Canada (Minister of Citizenship and Immigration)
+, [2001] F.C.J. No. 376 (T.D.). More recently, in
+Gasparyan v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.T.R. Uned. 453; [2003] F.C.J. No. 1103, at paragraph 6 (F.C.), Kelen, J., concludes in this regard:
+"The appropriate standard for reviewing the Refugee Division's assessment of identity documents is patent unreasonableness:
+Adar v. Canada (Minister of Citizenship and Immigration)
+(1997), 132 F.T.R. 35 at para. 15; and
+Mbabazi v. Canada (Minister of Citizenship and Immigration)
+, [2002] F.C.J. No. 1623; 2002 FCT 1191 at para. 7. The panel had first hand access to the identity documents and the testimony of the applicants, and also possesses a high level of expertise in this area." (my emphasis)
+[56]
+Nevertheless, I am of the opinion that this matter is clearly distinguished from the cases mentioned above. I note that in these cases, the Court did not rigorously apply the pragmatic and functional method. On the other hand, with the exception of
+Gasparyan
+, all of these decisions were made under the old
+Act
+. Section 106 of the
+Act
+formally requires the consideration and assessment of the merits of the explanations provided by a claimant who does not have acceptable identity documents. Further, as mentioned above, in the case at bar the Board twice acknowledges in its decision that it does not have specific expertise in documentation. Finally, I do not exclude the possibility of applying, in the future, the patent unreasonableness standard, depending on the particular circumstances of each case.
+[57]
+One may ask if it would not be preferable to have only two standards of review instead of three, considering that it is more and more difficult to distinguish the lines between the patent unreasonableness standard from those of reasonableness simpliciter. In this regard, we can refer to the corroborative remarks of LeBel, J., in
+Toronto (City) et al. v. Canadian Union of Public Employees, Local 79 et al.
+(2003), 311 N.R. 201; 179 O.A.C. 291; 2003 SCC 63, where he states at paragraph 66:
+"
+As the analysis that follows indicates, the patent unreasonableness standard does not currently provide sufficiently clear parameters for reviewing courts to apply in assessing the decisions of administrative adjudicators
+. From the beginning, patent unreasonableness at times shaded uncomfortably into what should presumably be its antithesis, the correctness review.
+Moreover, it is increasingly difficult to distinguish from what is ostensibly its less deferential counterpart, reasonableness simpliciter
+. It remains to be seen how these difficulties can be addressed." (my emphasis)
+[58]
+In
+C.U.P.E.
+, supra, at paragraph 100, LeBel, J., recognizes the conceptual differences between the three standards of review. However, he clearly indicates that their application can cause confusion for practical purposes.
+"While the conceptual difference between review on a correctness standard and review on a patent unreasonableness standard may be intuitive and relatively easy to observe (though in practice elements of correctness at times encroach uncomfortably into patent unreasonableness review),
+the boundaries between patent unreasonableness and reasonableness simpliciter are far less clear, even at the theoretical level
+." (my emphasis)
+[59]
+At paragraph 120, LeBel, J., states:
+"Absent reform in this area or a further clarification of the standards, the 'epistemological' confusion over the relationship between patent unreasonableness and reasonableness simpliciter will continue. As a result,
+both the types of errors that the two variants of reasonableness are likely to catch -
+i.e., interpretations that fall outside the range of those that can be 'reasonably', 'rationally' or 'tenably' supported by the statutory language -
+and the way in which the two standards are applied will in practice, if not necessarily in theory, be much the same
+." (my emphasis)
+[60]
+In other words, LeBel, J., states at paragraph 122, the patent unreasonableness standard and that of reasonableness simpliciter require that reviewing courts pay "respectful attention" to the reasons of administrative tribunals when deciding on the reasonableness of their decisions. In this case, the applicant has not persuaded me that the decision at issue should be revised, regardless of which of the two standards of review is used.
+[61]
+Finally, as stated earlier, the Board could properly draw negative inferences about the applicant's credibility (
+Fwamba v. Canada (Minister of Citizenship and Immigration)
+, [1993] F.C.J. No. 1247, at paragraphs 5-6 (T.D.)). Thus, the specific application in this case of the reasonableness simpliciter standard or of the patent unreasonableness standard to assess the proof of identity would therefore have no impact on appeal. For a question of general importance to be certified, it must be determinative (
+Liyanagamage v. Canada (Minister of Citizenship and Immigration)
+, [1994] F.C.J. No. 1637; 176 N.R. 4 (F.C.A.). This is not the case in this matter. Thus, no question will be certified.
+ORDER
+[62]
+THE COURT ORDERS that the application for judicial review be dismissed. No question of general importance will be certified.
+Application dismissed.
+Editor: Elizabeth M.A. Turgeon/clh

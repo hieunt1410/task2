@@ -1,0 +1,5 @@
+[18]
+While the construction of the claims of a patent is a question of law for the court, it should be undertaken with the knowledge of a person skilled in the art, to the extent that such knowledge is revealed by the expert evidence accepted at trial. See
+Almecon,
+supra, at page 5. In the case at bar, the parties adduced expert evidence relating to the properties of the components which are the subject of the patent claims as well as the state of the art at the date of the patent. There was however, no other substantial expert evidence in relation to the construction of the claims in issue nor of the meaning of technical terms. Perhaps that is not surprising because, in this case, the claims do not cover highly technical matters. In any event, the court is the final interpreter of the claims and must construe the claims purposively with a mind willing to understand.
+Claim Construction:

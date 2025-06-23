@@ -1,0 +1,31 @@
+[27]
+In particular, at paragraphs 31, 32 and 33, Binnie, J., stated:
+"The appellant submitted an extensive analysis of the Court's administrative law jurisprudence applying the 'functional and pragmatic test' to establish the appropriate standard of review from
+U.E.S. local 298 v. Bibeault
+, [1998] 2 S.C.R. 1048, at p. 1087 (emphasis deleted), to
+Moreau-Bérubé v. New Brunswick (Judicial Council)
+, [2002] 1 S.C.R. 249; 2002 SCC 11.
+However, in the case of these review boards, Parliament has spelled out in the
+Criminal Code
+the precise standard of judicial review
+, namely that the court may set aside an order of the review board only where it is of the opinion that:
+(a) the decision is unreasonable or cannot be supported by the evidence; or,
+(b) the decision is based on a wrong decision on a question of law unless no substantial wrong or miscarriage of justice has occurred); or,
+(c) there was a miscarriage of justice. (
+Cr. C.
+, s. 672.78)
+"It must be kept in mind that '[t]o a large extent judicial review of administrative action is a specialized branch of statutory interpretation':
+Bibeault
+, at p. 1087.
+Where Parliament has shown its intent in the sort of express language found in s. 672.78
+Cr. C.
+then, absent any constitutional challenge, that is the standard of review that is to be applied.
+"
+The first branch of the test corresponds with what the courts call the standard of review of reasonableness simpliciter
+, i.e., the Court of Appeal should ask itself whether the Board's risk assessment and disposition order was unreasonable in the sense of not being supported by reasons that can bear even a somewhat probing examination:
+Canada (Director of Investigation and Research) v. Southam Inc.
+, [1997] 1 S.C.R. 748, at para. 56,
+Law Society of New Brunswick v. Ryan
+, 2003 SCC 20, and
+Dr. Q v. The College of Physicians and Surgeons of British Columbia
+, 2003 SCC 19. If the Board's decision is such that it could reasonably be the subject of disagreement among Board members properly informed of the facts and instructed on the applicable law, the court should in general decline to intervene." (My emphasis)

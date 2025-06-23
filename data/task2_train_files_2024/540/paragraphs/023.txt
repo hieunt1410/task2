@@ -1,0 +1,36 @@
+[23]
+A multi-step process is described in patent 1,102,809 for the synthesis of the novel 5-aroyl-1,2-dihydro-3H-pyrrolo {1,2-a}pyrrole-l-carboxylic acid derivatives. This process is illustrated in the following reaction sequence wherein R and R
+1
+have the above-indicated meaning and R
+2
+is a lower alkyl group of 1 to 4 carbon atoms, e.g., methyl, ethyl, isopropyl and n-butyl:
+[see printed version]
+The main steps of the applicants' process, as they can be gathered from the description of the process at pages 6 to 13 of the patent, can be summarized as follows: (Applicants' Record, at 71-80; I have labelled these steps from 1 to 10 for ease of reference only. Roman numerals in parentheses refer to the chemical formulae in the reaction sequence pictured above.)
+1a.	To prepare a compound of Formula (IV) wherein R is hydrogen:
+Reaction of equimolecular amounts of ethanolamine (I) and dimethyl 1,3-acetonedicarboxylate (II) to form a solution of the vinylamine of Formula (III).
+Treatment of this solution, preferably in situ, in a suitable inert organic solvent, under anhydrous conditions, with 2-bromoacetaldehyde or 2-chloroacetaldeyde to prepare the compound of Formula (IV) wherein R is hydrogen.
+OR		1b.	To prepare a compound of Formula (IV) wherein R is a lower alkyl group having 1 to 4 carbon atoms:
+Treatment of an aqueous mixture of ethanolamine (I) and dimethyl 1,3-acetonedicarboxylate (II) with a compound of the formula
+[see printed version]
+wherein X is bromo or chloro and R
+3
+is a lower alkyl group of from 1 to 4 carbon atoms.
+2a.	Esterification of compound (IV) with methane-sulfonyl chloride in the presence of a tertiary amine, optionally in the presence of a cosolvent such as dichloromethane to produce the corresponding mesylate of Formula (V).
+Conversion of the mesylate of Formula (V) into the corresponding N-(2-iodethyl)pyrrole of Formula (VI) by reaction with sodium iodide in acetonitrile solution.
+Reaction of the iodoethyl compounds of Formula (VI) with sodium hydride in a suitable inert organic solvent to obtain dimethyl-1,2-dihydro-3H-pyrrolo {1,2-a}pyrrole-1,7-dicarboxylate and the 6-alkyl substituted derivatives thereof (VII).
+OR:		2b.	Direct cyclization of the mesylate (V) with sodium hydride in dimothylformamide solution to produce the compounds of Formula (VII).
+3.	Basic hydrolysis of a compound of Formula (VII) with an alkali metal hydroxide or alkali metal carbonate in an aqueous lower aliphatic alcohol affording the corresponding free diacid of Formula (VIII).
+4.	Selective esterification of the carboxylic acid group at the C-1 position in compound (VIII) by treatment with a lower aliphatic alcohol in the presence of hydrogen chloride to produce the corresponding alkyl 1,2-dihydro-3H-pyrrole{1,2-a}pyrrole-1-carboxylate-7-carboxylic acid of Formula (IX).
+5.	Decarboxylation of the monoesterified compounds (IX) to the corresponding compounds of Formula (X).
+6.	Condensation of a compound (X) with an amide of the formula
+wherein R
+1
+has the above-indicated meaning, affording the corresponding alkyl 5-aroyl-1,2-dihydro-3H-pyrollo{1,2-a}pyrrole-1-carboxylate (XI).
+7.	Alkaline hydrolysis of the alkyl ester group in a compound of Formula (XI) to obtain the corresponding free acid of Formula (A).
+The specification further provides that the compounds of Formula (A) wherein R and R
+1
+are both hydrogen can be subjected to further treatment in accordance with the following flow diagram:
+[see printed version]
+8.	The compounds of Formula (A) can be resolved to obtain the corresponding individual isomers thereof.
+9. 	High pressure liquid chromotography (HPLC) can be applied to the α-phenethyl diastereoisomeric esters of the compounds of Formula (A), followed by acid cleavage to obtain the (l)-acid isomers and (d)-acid isomers of the compounds of Formula (A).
+10.	Salt derivatives of the compounds of Formula (A) and the (l)-acid isomers are prepared by treating these free acids with an appropriate amount of a pharmaceutically acceptable base.

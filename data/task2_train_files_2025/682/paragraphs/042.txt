@@ -1,0 +1,2 @@
+[42]
+The Box A at the end of each column describes the subject matter of claims 1(a), 1(b) and 1(c) respectively. These overlap: claim 1(a) depicts the last part of the process claimed in claim 1(b). Claim 1(b) does not depict the individual reaction steps or intermediates that actually occur in the process step claimed by that claim. Claim 1(c) is essentially the same as claim 1(b) except that it starts after the epoxide has been formed but before a triazole is added.

@@ -1,0 +1,217 @@
+Introduction
+Background
+[1]
+Gibson, J.
+: These reasons arise out of an application for judicial review of a decision of the Minister of Indian Affairs and Northern Development (the "Minister") wherein he determined that a decision of the manager responsible for discharging the Crown's fiduciary and statutory obligations pursuant to the
+Indian Oil and Gas Act
+[see footnote 1] (the "
+Act
+") was "justified". The manager had concluded that the applicant was required to compute its Gas Cost Allowance on the basis of its original capital cost of the relevant assets reduced by subtracting investment tax credits that the applicant earned under the
+Income Tax Act
+[see footnote 2]. The Minister's decision was made pursuant to s. 57 of the
+Indian Oil and Gas Regulations
+, 1995 [see footnote 3] and is dated the 18th of December, 1996.
+[2]
+The applicant has an interest in a series of leases located on the Stoney Indian Reserve in the Province of Alberta. Each lease provides that the applicant will pay to her Majesty in Right of Canada, in trust for the Stoney Band, a royalty on production of natural gas under the leases. The royalty is to be calculated in accordance with the
+Indian Oil and Gas Regulations
+[see footnote 4] (the "
+Regulations
+"), as amended from time to time. Section 2(4) of Schedule I to the regulations provides as follows:
+"(4) Where gas is processed by a method other than gravity, the royalty on the gas obtained therefrom shall be calculated on the actual selling price of that gas, but
+such costs of processing as the Manager may from time to time consider fair and reasonable
+, calculated on the total of the basic and the supplementary royalty portion of production, shall be allowed." (emphasis added)
+[3]
+It was not in dispute that the gas processed by the applicant under the leases located on the Stoney Indian Reserve was processed "... by a method other than gravity ...". The costs of processing referred to in the quoted provision are generally referred to as a "Gas Cost Allowance" ("GCA").
+[4]
+Throughout the years in question, [see footnote 5] the applicant calculated and remitted royalties and deducted a GCA in so doing. It took into account "Guidelines for the calculation and reporting of Gas Cost Allowance for Natural Gas and Associated By-Products on Indian Lands" published by the Indian Minerals (West) Directorate of the Department of Indian and Northern Affairs in July, 1982 [see footnote 6] (the "guidelines"). Those guidelines provide in part as follows:
+"Capital additions are to be recorded at original cost to the owner unless acquired in a non-arm's length transaction in which case they are to be recorded at original cost, less capital cost allowance claimed. Original cost includes interest during construction as defined."
+[5]
+The guidelines are preceded by the following preambulatory note:
+"All persons making use of these guidelines are advised that the guidelines do not have any legislative or official government sanction, and accordingly are not binding in any way upon the Government of Canada, and in particular, the Indian Minerals (West) Directorate of the Department of Indian and Northern Affairs.
+"Indian Minerals (West) Directorate reserves the right to amend the guidelines from time to time, without notice, in order to make any alterations it considers necessary to reflect changes in governmental policies, practices, or procedures."
+[6]
+In July of 1989, the Indian Oil and Gas Commission ("IOGC") undertook to conduct certain audits respecting, among other things, the GCA claims made by the applicant, in computing its royalty payments, for the years in question. The audit determined that the applicant had claimed as an element of its GCA, amounts in respect of allowable capital additions which it had claimed as investment tax credits ("ITCs") against its income tax for taxation years in the relevant period, with a resultant reduction in royalty payments.
+[7]
+By letter dated the 6th of June, 1994, the executive director, IOGC (the "manager") wrote to the applicant, referring to s. 2(4) of Schedule I to the
+Regulations
+quoted earlier in these reasons and, with respect ITCs, set out the following position:
+"The ITC's should have been deducted from the relevant capital cost for the assets related to the GCA calculation. IOGC's support for this position is found in the CICA Handbook 3805.12 which states that, 'Investment tax credits should be accounted for using the cost reduction approach'. This recommendation was effective for all fiscal periods beginning on or after January 1, 1985. Prior to this, two approaches were in use. The cost reduction approach noted above and the flow-through approach. The flow-through approach required that ITC's be accounted for as a reduction of income tax expense."
+[8]
+On the 14th of December, 1995, the manager again wrote to the applicant. Under the heading "
+Investment Tax Credits (ITC's)
+", the manager wrote:
+"Investment Tax Credits are removed from the carrying value of capital. The adjustment was made according to the rate applicable in the period for which a capital item was claimed for GCA purposes. This was done in the absence of any information provided by you to prove amounts were either claimed for tax credit, or in fact were never claimed. Therefore, the carrying value of capital has been reduced by the amount as outlined in the attached schedule 'Summary of ITC Audit Adjustment' and the value of this adjustment can be found in the GCA recalculation provided."
+In essence then, the manager concluded that GCA should have been calculated on the basis of original capital cost of the relevant assets reduced by ITCs.
+[9]
+The additional royalties determined to be payable by reason of the GCA recalculation amounted to $1,869,730, later reduced through discussions and negotiations $577,025.
+[10]
+The applicant appealed to the Minister the manager's decision, or alleged decision, of the 14th of December, 1995.
+[11]
+The applicant's solicitors filed extensive submissions in support of the appeal. The submissions included the following paragraph:
+"24. Shell hereby requests the opportunity to file an Answer to the IOGC's reply to this Submission."
+[12]
+The Minister acknowledged the submissions on behalf of the applicant. Without providing a reply opportunity, the Minister wrote to the applicant's solicitors on the 18th of December, 1996 providing the "final decision" that is the subject of this judicial review. His letter reads in part as follows:
+"The issue, as defined in your February 10, 1996 letter, is whether Shell was entitled to compute its Gas Cost Allowance on the basis of Shell's original capital costs of the relevant assets or whether it was required to reduce those capital costs by subtracting investment tax credits that Shell earned under the
+Income Tax Act
+by spending money.
+"I have reviewed your submission of February 10, 1996 and have concluded that the Executive Director's [the manager's] action, as given to Shell on December 14, 1995, is justified. Investment tax credits are an element to be considered in determining the cost of an asset for gas cost allowance purposes."
+Issues
+[13]
+In introducing his argument before the court, counsel for the applicant defined the issue in dispute in the following broad terms:
+"... the issue ... is the calculation of the royalty that Shell owes and, more particularly, the exercise of power by the IOGC in determining the appropriate royalty, how the IOGC went about deciding that this is the royalty that Shell owes, and the subsequent decision of the Minister of Indian Affairs confirming the decision of IOGC." (see footnote 7)
+Thus then, the issue focuses on the exercise of discretion by the IOGC or the manager, pursuant to s. 2(4) of Schedule I to the
+Regulations
+quoted above, in determining that fair and reasonable costs of processing must involve the reduction of such costs, as otherwise determined, by ITCs, for the purpose of calculating the adjusted actual selling price of natural gas on which royalties are to be calculated. That being said, counsel acknowledged that it is the Minister's decision that is under review and not that of the manager.
+[14]
+Counsel for the applicant urged that, in finding the manager's decision to be "justified", the Minister:
+1) erred in law in misinterpreting the words "costs" in s. 2(4) of Schedule I to the
+Regulations
+;
+2) on the evidence before him, reached a patently unreasonable decision; and
+3) refused to exercise his jurisdiction by simply adopting the position of the manager, failed to observe principles of natural justice and procedural fairness and acted in a manner that provides a basis for a reasonable apprehension of bias.
+[15]
+Counsel for the respondent submitted that this application for judicial review was made out of time. He urged that the manager took the decision that the applicant sought to have reviewed in his letter of the 6th of June, 1994 and not in the letter of the 14th of December, 1995 which merely reiterated the decision.
+Position Of The Applicant
+[16]
+Evidence submitted on behalf of the applicant is to the effect that, in calculating the royalty owing, the applicant deducted GCA using the cost of its relevant capital assets. Counsel submitted that this action was in accordance with the guidelines, as quoted earlier in these reasons. It was not in dispute that the guidelines were circulated and that IOGC anticipated that they would be relied upon in the calculation of GCA. Further, it was not in dispute that the guidelines failed to identify ITCs as a deduction in calculating GCA.
+[17]
+Counsel for the applicant reviewed the evidence at some length with a view to convincing the court that, on the sequence of events and the documentary evidence before the court, an inference should be drawn that IOGC itself was ambivalent on the question of whether, retroactively or retrospectively, GCA should be reduced by ITCs. IOGC had before it representations from the Canadian Petroleum Association that GCA should not be so reduced and that to do so would not accord with industry practice. Counsel acknowledged that IOGC also had before it advice from a major accounting firm, which it had retained both for the purpose of conducting an audit of the applicant's royalty calculations and payments and for the provision of advice, to the effect that GCA should be reduced by ITCs. Counsel pointed to evidence that the same accounting firm was, at more or less the same time, doing work for the Stoney Indian Band which stood to benefit if GCA were reduced by ITCs. Counsel inferred I should conclude that the manager of IOGC made no decision. Rather, in the face of conflicting representations and advice, he or she simply adopted the professional advice provided.
+[18]
+Counsel referred me to the submissions made on behalf of the applicant to the Minister in support of its appeal to him. In particular, counsel referred me to the very brief paragraph quoted earlier in these reasons wherein the applicant requested an opportunity to file an answer to the IOGC's reply to the applicant's submissions. No such opportunity to respond was provided. Indeed, the applicant was only able to obtain an edited copy of IOGC's submissions to the Minister through an access to information request. The reply made reference to the advice received by IOGC from its professional advisers and, in fact, apparently annexed a copy of that advice. Counsel urged that, in failing to provide the applicant an opportunity to answer, as requested, the Minister breached the duty of fairness owed by him to the applicant.
+[19]
+In the affidavit filed on this matter on behalf of the respondent, the affiant describes the consideration taken into account in determining that ITCs should be deducted in computing GCA. He attested:
+"The decision of June 6, 1994, was made by the Manager who was at all times material to this action authorized to allow as deductions from royalties otherwise payable such costs as he considered fair and reasonable. The Manager took into account the following matter[s] in determining whether the ITC constituted a fair and reasonable cost of process[ing] gas:
+(a) the recorded original cost as claimed by the applicant;
+(b) the verbal representations made to the Manager prior to June 6, 1994 in respect of the claim by the applicant are essentially the same as the representations in writing attached to the April 19, 1995 letter to the Stoney Trial Administration, which letter and attachment are attached and marked as Exhibit '9' to my Affidavit;
+(c) the practice of the accounting profession to account for ITC's using the cost reduction method which identifies discounts and rebates are to be included when determining costs;
+(d) that the applicant is seeking to pass on to the First Nations a cost for which it has already, been reimbursed under the
+Income Tax Act
+; and
+(e) the obligation of IOGC as fiduciary to protect the interest of First Nations."
+[20]
+Counsel for the applicant took no objection to the first consideration. Counsel expressed doubt as to the meaning and relevance of the second consideration and in this regard I am in agreement with the position of counsel. Counsel, on cross-examination of the respondent's affiant, obtained admissions that the practice of the "accounting profession" referred to in the third consideration was that set out in the Canadian Institute of Chartered Accountants handbook, the purpose of which was to provide advice in the preparation of financial statements for purposes of external reporting, a purpose unrelated to the determination of GCA. On this basis, counsel urged that the manager erred by taking into account an irrelevant consideration. Further, counsel argued that the standard on which the Manager relied only came into force in 1985 while the manager had purported to apply it retroactively as far back as 1982.
+[21]
+Counsel further urged that the manager ignored a relevant consideration, industry practice, as reflected in a letter from the Canadian Petroleum Association to the Executive Director of IOGC dated the 28th of May, 1990. [see footnote 8] That letter read in part as follows:
+"We appreciate that IOGC's intent is consistent with the 1985 CICA pronouncement requiring the reduction of asset costs by the amount of investment tax credits and we recognize the CICA Handbook as the authority for the preparation of financial statements. However, when it comes to standards commonly accepted in the oil and gas industry for accounting for revenues and costs, the publications of standards by the Petroleum Accountants Society of Canada (PASC) are generally accepted and adhered to. A PASC bulletin, confirming industry practice as it relates to accounting for incentives and credits in calculating net profits interest, is of relevance in this situation. It specifically excluded the various incentives and credits from the calculation, unless specific provisions are made."
+[22]
+Counsel for the applicant pointed to the fact that the affiant for the respondent acknowledged on cross-examination on his affidavit that he had not personally taken into account this representation. He did not, however, acknowledge that it had not been taken into account by others in IOGC.
+[23]
+Counsel for the applicant was equally critical of the fourth factor, that is to say, a concern that the applicant was seeking to pass on to the First Nations a cost for which it had already been reimbursed under the
+Income Tax Act
+. Counsel urged that this interpretation was simply an error of law and that caselaw clearly demonstrates that ITCs are not a reimbursement of costs. For this proposition, counsel referred me to
+R. v. Canadian Pacific Ltd. (No. 1)
+[see footnote 9]
+[24]
+The last consideration said by the respondent's affiant to be relied on was the obligation of IOGC as a fiduciary to protect the interest of First Nations. Counsel for the respondent urged that the inference to be drawn from this as a consideration is that the process engaged in by the Manager and affirmed by the Minister was not an open-minded process, but rather a process that gave rise to a reasonable apprehension of bias.
+Position Of The Respondent
+[25]
+Counsel for the respondent, in addition to urging that this application for judicial review was filed out of time because the decision of the manager in question was reflected in the manager's letter of the 6th of June, 1994 rather than in the letter of the 14th of December, 1995, urged that the Minister made no reviewable error in concluding that the decision of the manager that is in question was "justified". Counsel referred to the broad discretion vested in the manager by s. 2(4) of Schedule I of the
+Regulations
+. He argued that the manager made no error of law in the exercise of that discretion and neither failed to take into account relevant considerations or took into account irrelevant considerations. Counsel urged that there was simply no basis for finding a reasonable apprehension of bias on the part of the Minister or the manager in being conscious of, or in taking into consideration, the fiduciary obligation of the Minister in favour of the Stoney Band. Further, counsel urged, there was no breach of fairness on the part of the Minister in failing to provide the applicant with an opportunity to respond to the submissions made to him by IOGC, despite the fact that a request for such an opportunity was before the Minister. Finally, counsel for the respondent submitted that there was simply no basis for the allegation that the minister refused to exercise his jurisdiction by simply adopting as his, the decision of the manager.
+Analysis
+[26]
+I find no basis to the respondent's submission that this application for judicial review was filed out of time and that therefore, in the absence of leave to late file, and no such leave was sought here or granted, this application for judicial should be dismissed on that account alone. I interpret the manager's letter of the 6th of June, 1994 as expressing a preliminary position with a view to the commencement of a dialogue between the applicant and IOGC. In fact, such a dialogue followed. It was only in the letter of the 14th of December, 1995 that the manager took a final position on the deduction of ITCs in computing GCA. To reiterate, he wrote:
+"Investment Tax Credits
+are removed
+from the carrying value of capital." (emphasis added)
+This sentence constituted the essence of the decision that was appealed to the minister. The decision reflected in the sentence cannot be said to have been taken earlier. Thus, I conclude that the applicant's appeal to the minister was taken within the time provided for in s. 57(1) of the
+Indian Oil and Gas Regulations, 1995
+. [see footnote 10]
+[27]
+It was not in dispute before me that the
+Regulations
+vest in the manager a broad discretion in determining GCA. That being said, both counsel referred me to the following passage from
+Principles of Administrative Law
+[see footnote 11] for the proposition that the manager's discretion was not unlimited:
+"Nevertheless, unlimited discretion cannot exist. The courts have continuously asserted their right to review a delegate's exercise of discretion for a wide range of abuses. It is possible to identify at least five generic types of abuses, which can be described as follows. The first category occurs when a delegate exercises discretion with an improper intention in mind, which subsumes acting for an unauthorized purpose, in bad faith, or on irrelevant considerations. The second type of abuse arises when the delegate acts on inadequate material, including where there is no evidence or without considering relevant matters. Thirdly, the courts sometimes hold that an abuse of discretion has been committed where there is an improper result, including unreasonable, discriminatory or retroactive administrative actions. A fourth type of abuse arises when the delegate exercises his or her discretion on an erroneous view of the law. Finally, it is an abuse for a delegate to refuse to exercise any discretion by adopting a policy which fetters his or her ability to consider individual cases with an open mind."
+[28]
+Despite the able argument of counsel for the applicant, I find no basis on which to conclude that either the manager or the Minister committed an abuse of discretion within the first category of abuse described by Jones and DeVillars. I find no basis to conclude that either the manager or the Minister acted for an unauthorized purpose or in bad faith. Further, I am simply not satisfied that the fact that the manager took into account the obligation of IOGC as fiduciary to protect the interest of the Stoney Band amounted to an irrelevant consideration. I am conscious of the following passage from
+Imperial Oil Resources Ltd. v. Canada (Minister of Indian Affairs and Northern Development)
+[see footnote 12]:
+"However, the fiduciary duty is not a basis on which to change the meaning of relatively clear legislation, particularly when doing so will introduce uncertainty into business arrangements involving Indians or Indian land. In this respect, I think the observation of LaForest, J., in
+Mitchell v. Peguis Indian Band
+, [1990] 2 S.C.R. 85, at p. 147 is applicable:
+'I think it is safe to say that businessmen place a great premium on certainty in their commercial dealings, and that, accordingly, the greatest possible incentive to do business with Indians would be the knowledge that business may be conducted with them on exactly the same basis as with any other person. Any special considerations, extraordinary protections or exemptions that Indians bring with them to the market-place introduce complications and would seem guaranteed to frighten off potential business partners.'"
+[29]
+If the IOGC's fiduciary duty was the sole basis on which the manager here chose "... to change the meaning of relatively clear legislation, ...", I would conclude that the decision of the manager that underlies the decision of the Minister here under review, and therefore the decision of the Minister itself, would be suspect at the very least. But that is not the case here. IOGC's fiduciary obligation was only one of a number of considerations taken into account. I conclude it was an appropriate consideration. The obligations of the IOGC, the manager and the Minister in relation to the First Nations in circumstances such as those before me are obligations that should never be lost sight of. That being said, it is an appropriate concomitant of that obligation that it be borne in mind in determining what are fair and reasonable costs of processing. I can only assume that the applicant, a major corporation with extensive experience and sophisticated staff, was conscious of the implications of entering into the leases in question where the lessor had such a fiduciary obligation.
+[30]
+the second type of abuse of discretion described by Jones and DeVillars is a circumstance where the decision maker, here the Minister whom I also find to have had broad discretion in the exercise of his function, "... acts on inadequate material including where there is no evidence or without considering relevant matters".
+[31]
+In
+Williams v. Canada (Minister of Citizenship and Immigration)
+, [see footnote 13] Mr. Justice Strayer wrote:
+"Further, when confronted with the record that was, according to undisputed evidence, before the decision maker, and there is no evidence to the contrary, the court must assume that the decision maker acted in good faith in having regard to that material."
+[32]
+Against the foregoing, I am simply not prepared to conclude, as counsel for the applicant would have me, that the Minister did nothing more than rubber-stamp the decision of the manager. The Minister had before him the manager's decision, the submissions of the applicant with respect to that decision and the response of IOGC to the applicant's submissions which included advice to IOGC, previously referred to in these reasons, from a major accounting firm. I assume that the Minister had regard to all of this material.
+[33]
+What the Minister did not have before him, however, was any response on behalf of the applicant to the submissions that were before him from IOGC. The applicant had specifically asked for an opportunity to respond. The IOGC material included professional advice to which the applicant had not, at that time, had access and which it had therefore not specifically addressed in its submission to the Minister. I conclude that a response from the applicant to the IOGC submissions that were before the Minister was a "relevant consideration" and that the failure on the part of the Minister, on the facts of this matter, to provide the opportunity to the applicant to put that relevant material before him, amounted to a reviewable error, whether that reviewable error is described as acting without regard to relevant material or a denial of fairness to the applicant.
+[34]
+I conclude that this matter is distinguishable on its facts from my decision in
+FRAGMENT_SUPPRESSED where I concluded that the failure of the Minister of Finance to provide the Sovereign Life Insurance Company with an opportunity to reply to certain material that he took into account in making a decision against it was not a reviewable error because the material in question was of no significant substance. Here, at the very least, the professional advice provided by a major accounting firm to IOGC and placed by IOGC before the Minister in support of its submissions was not only relevant but substantive.
+[35]
+I conclude that the Minister made a further reviewable error in endorsing the decision of the manager to modify the costs of processing gas that he considered to be "fair and reasonable" on a retroactive or retrospective basis. Under s. 2(4) of Schedule I to the
+Regulations
+, the authority of the manager to, from time to time, fix costs of processing that he considers fair and reasonable in determining GCA does not, on its face, provide for retroactive or retrospective operation. The
+Regulation
+making authority in the
+Act
+that authorizes the regulation that in turn vests such power in the manager does not, on its face, authorize retroactive or retrospective regulations, let alone decisions made under the authority of regulations. In
+Martindale v. R.
+, [see footnote 15] the President of the Exchequer Court of Canada wrote:
+"Thus it would be sound to state as a fundamental principle that the Governor-in-Council does not have authority to pass an Order-in-Council having retrospective operation unless the
+Act
+of Parliament under the authority of which it is passed, either expressly or by necessary implication empowers its passing."
+A fortiori, if the Governor-in-Council does not have the authority to pass an Order-in-Council or regulation having retrospective operation and the underlying statute does not expressly or by necessary implication provide for the enactment of such an Order-in-Council or regulation, an Order-in-Council or regulation enacted under the authority cannot be interpreted as vesting in a delegate, such as the manager, the authority to make retroactive or retrospective change.
+[36]
+In
+Gustavson Drilling (1964) Ltd. v. Minister of National Revenue
+, [see footnote 16] Mr. Justice Dickson, as he then was, implicitly defines retrospectively as:
+"... [a law or decision that] reache[s] into the past and declare[s] that the law or the rights of parties as of an earlier date shall be taken to be something other than they were as of that earlier date."
+The decision purportedly taken by the manager here, then, was certainly retrospective. Mr. Justice Dickson concluded:
+"The general rule is that statutes are not to be construed as having retrospective operation unless such a construction is expressly or by necessary implication required by the language of the
+Act
+."
+Once again, a fortiori, a regulation conferring on a delegate an authority, as here, from the time to time to declare what are "fair and reasonable" costs of processing cannot be construed to authorize retrospective decisions in the absence of express language or language that creates a necessary implication. Further, where the statutory authority by which the regulation empowering the delegate does not expressly allow for retroactive or retrospective rule making, if the regulation purported to do so, it would be ultra vires.
+[37]
+For the foregoing reasons, I conclude that, on this ground as well, the Minister erred in a reviewable manner in endorsing the decision of the manager.
+[38]
+The fourth type of abuse of discretion described by Jones and DeVillars involves a delegate exercising his or her discretion on an erroneous view of the law. Clearly, on the facts before me, if the manager exercised his discretion to redefine GCA on an erroneous view of the law, then an exercise of the discretion of the Minister in finding the decision of manager "justified" would itself be tainted. Despite the able argument of counsel for the applicant to the effect that the manager erred in law, I conclude that the manager made no such error. Authorities cited before me by counsel for the applicant regarding the definition of "cost" are, I conclude, not applicable, In effect, the manager determined that costs of processing do not include ITCs, or, put another way, ITCs reduce costs of processing. I conclude that this interpretation was reasonably open to the manager, given the breadth of his discretion. Further, the interpretation did not involve a defining of "costs" of processing in a manner inconsistent with caselaw. In the result, in this regard, I conclude the Minister made no reviewable error in determining the decision of the manager to be "justified".
+[39]
+Finally, I cannot conclude that the manager, and through him the Minister, abused his discretion by adopting a policy which fettered his ability to consider this particular case with an open mind. I reiterate my comments earlier regarding the fact that the manager took into consideration IOGC's obligations as a fiduciary to protect the interests of the Stoney Band. Further, on the evidence before me, I simply cannot conclude that the fact that IOGC's advice from a major accounting firm was from a firm that had also done work for the Stoney Band in approximately the same time frame was such as to give rise to a reasonable apprehension of bias on the part of the manager or, indeed, on the part of the accounting firm, that would be such as to lead to the conclusion that the manager failed to approach this matter with an open mind. By extension, I simply cannot conclude that the Minister could be said to have fettered his ability to consider this matter with an open mind. In the result, on this ground as well, no relief is justified.
+Conclusion
+[40]
+Based on the foregoing analysis, I conclude that this application for judicial review should be allowed, that the Minister's decision to the effect that the decision of the manager dated the 18th of December, 1996 was "justified" should be set aside and this matter should be referred back to the respondent for reconsideration and redetermination in a manner not inconsistent with these reasons. An order will go accordingly.
+Costs
+[41]
+On the fact of the originating Notice of Motion commencing this matter, no costs were requested and no "special reasons" for costs were alluded to in a manner that would justify the exercise of the court's discretion under Federal Court Rule 1618. [see footnote 17] By contrast, in the written brief of argument on behalf of the applicant, costs were requested. At the hearing before me, no "special reasons" to justify an order as to costs were advanced. There will be no order as to costs.
+Application allowed.
+Editor: Gary W. McLaughlin/saf
+Footnotes
+1.	S.C. 1974-75-76, c. 15, s. 4.
+2.	R.S.C. 1985 (5th supp.), c. 1
+3.	SOR 94-753. Section 57 reads as follows:
+"57(1) A person who is dissatisfied with a decision, direction action or omission of the Executive Director [the manager] under these Regulations may, within 60 days after the decision , direction or action or, in the case of an omission, within 60 days after the day on which the omission was discovered or ought to have been discovered, apply in writing to the Minister for a review of the decision, direction, action or omission.
+"(2) The Minister shall review an application made pursuant to subs. 91) and advise the applicant in writing of the final decision in the matter."
+It was not in dispute before me that the procedural provisions that are applicable are those in force when the appeal to the Minister was taken. That was s. 57 of the
+Indian Oil and Gas Regulations
+, 1995. The applicable substantive provisions were those in effect during the relevant period for which the Minister required royalties to be recalculated, namely the
+Indian Oil and Gas Regulations
+, C.R.C., 1978, c. 963 as amended by SOR/81-340. This application of amended legislation is authorized by ss. 43 and 44 of the
+Interpretation Act
+, R.S.C. 1985, c. I-21.
+4.	C.R.C. 1978, c. 963.
+5.	It is not entirely clear from the material before the court whether those years were 1982 to 1989 inclusive or a lesser number of years.
+6.	Applicant's Application Record, Tab 2 B
+7.	Transcript, p. 4
+8.	Applicant's Supplementary Application Record, Tab 2
+9.	(1977), 77 D.T.C. 5383 (F.C.A.).
+10.	Supra, footnote 3.
+11.	Jones and DeVillars,
+Principles of Administrative Law
+, 2nd Ed., (Toronto: Carswell, 1994), at p. 146
+12.	[1997] F.C.J. No. 1767; (1997), 139 F.T.R. 106 (T.D.). Reasons were issued after the hearing of this matter. The reasons were drawn to the attention of counsel and counsel were provided an opportunity to make written submissions. Written submissions were provided.
+13.	[1997] 2 F.C. 646; 212 N.R. 63 (F.C.A.). Not cited before me but referred to during the course of the hearing of this matter with written representations invited and subsequently filed.
+14.	[1997] F.C.J. No. 1022; (1997), 135 F.T.R. 81 (T.D.). Reasons were drawn to the attention of counsel and counsel were provided an opportunity to make written submissions. Written submissions were provided.
+15.	[1956-60] Ex. C.R. 153 (Can.), at p. 164
+16.	[1977] 1 S.C.R. 271; 7 N.R. 401, at p. 279 (not cited before me).
+17.	C.R.C. 1978, c. 663 (as amended).

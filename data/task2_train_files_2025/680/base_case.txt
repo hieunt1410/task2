@@ -1,0 +1,345 @@
+[1]
+Dawson, J.
+: Before me are motions brought in five proceedings arising out of an assessment of costs conducted by Mr. Charles E. Stinson, an assessment officer. The plaintiff, Mr. Wilson, is dissatisfied with the assessment and requests, pursuant to Rule 414 of the
+Federal Court Rules, 1998
+, SOR/98-106, as amended ("
+Rules
+"), a review of the award of costs. The defendant Crown moves for an order disallowing interest otherwise owed to the plaintiff in respect of the costs assessed in the plaintiff's favour in two of the proceedings, T-1677-79 and T-3488-82. In the alternative, the defendant seeks an order limiting the interest owing to the plaintiff to that accrued in the period from what is described as "the date of the judgments", August 31, 1988, to September 30, 1989.
+THE FACTS
+[2]
+The plaintiff appealed, by way of the above referenced proceedings, a number of income tax assessments. The plaintiff was successful at trial in T-1677-79 and T-3488-82 and was awarded costs. Judgments in those proceedings were rendered on August 31, 1988.
+[3]
+The plaintiff was also successful at trial in T-2521-89 and was awarded costs. It appears that judgment was obtained on July 23, 1996.
+[4]
+The Crown was successful at trial in T-2518-89 and T-2522-89 and was awarded costs. The date of judgment was not in evidence.
+[5]
+Costs in all five proceedings were assessed by Mr. Stinson on April 13, 2000.
+[6]
+Mr. Stinson certified the result of the assessment as follows:
+Action
+Cost in favour of
+Costs presented for taxation at
+Costs assessed and allowed at
+T-1677-79
+Plaintiff
+$58,682.68
+$3,700.00
+T-3488-82
+Plaintiff
+$58,682.68
+$3,200.00
+T-2521-89
+Plaintiff
+$15,610.38
+$4,000.00
+T-2518-89
+Defendant
+$9,030.76
+$6,260.34
+T-2522-89
+Defendant
+$6,150.00
+$3,560.00
+[7]
+After setting off the assessed amounts pursuant to Rule 408(2), the sum of $1,079.66 was certified as being owing from the defendant to the plaintiff.
+[8]
+In the draft bills of costs submitted by the plaintiff in respect of the court files T-1677-79, T-3488-82, and T-2521-89, the plaintiff sought what was described as "Pre- judgment interest ... per Section 36 of the
+Federal Court Act
+" accruing on his costs since the date of judgment. The Crown opposed this, and argued that the plaintiff was not entitled to either pre-judgment or post-judgment interest on the costs. In the alternative, the Crown argued that interest ought to be reduced or disallowed due to the plaintiff's delay in bringing his costs to assessment.
+[9]
+The assessment officer concluded that his jurisdiction was limited to determining the actual amount allowable for costs as an indemnity, and that he had no jurisdiction to rule with respect to the interest payable on costs. The assessment officer did, however, consider, as a factor in assessing the amount of costs, the plaintiff's delay. He allowed lower amounts for some items than he would ordinarily have awarded but for the delay. In his reasons, the assessment officer did not specify the amounts of reduction for individual tariff items.
+THE PLAINTIFF'S MOTION UNDER RULE 414
+(i)
+The Court's role upon review of assessment
+:
+[10]
+The Court's jurisdiction to intervene in the decision of an assessment officer does not allow the Court to substitute its own view on the facts for that of the assessment officer. As noted by Joyal, J., in
+FRAGMENT_SUPPRESSED, intervention is limited to cases where an error in principle has occurred, or to where the amount assessed can be shown to be so unreasonable that an error in principle must have been the cause.
+(ii)
+The errors alleged by the plaintiff
+[11]
+The plaintiff submitted that the assessment officer:
+(a) erred in law in setting off against his award the costs awarded in favour of the Crown;
+(b) erred in law in failing to award interest on costs; and,
+(c) failed to consider properly the factors enumerated in Rule 400.
+(A)
+Did the assessment officer err in setting off the costs?
+[12]
+In allowing the defendant's request that the awards of costs be set off, the assessment officer gave a broad interpretation to Rule 408(2) in light of the general principles contained in Rule 3. Those provisions are as follows:
+"408(2) Where parties are liable to pay costs to each other, an assessment officer may adjust those costs by way of set-off.
+"3. These Rules shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits."
+"408(2) Lorsque des parties sont tenues de payer des dépens les unes aux autres, l'officier taxateur peut en faire le rajustement par compensation.
+"3. Les présentes règles sont interprétées et appliquées de façon à permettre d'apporter une solution au litige qui soit juste et la plus expéditive et économique possible."
+[13]
+The assessment officer's reasons were as follows:
+"[40] ... Rule 3 is imperative and requires that the
+Rules
+'shall be interpreted and applied so as to secure the just, most expeditious and least expensive determination of every proceeding on its merits.' I do not think that its operation is confined to the event of the final judgment, but rather includes events or steps such as here for these assessment (sic) of costs. The Crown has satisfied me that, if the results of these five assessment are left for independent executory processes, it has some basis for its concern about prejudice to its position because of an apparent lack of any realistic means of recovery within the jurisdiction against the Plaintiff. I give Rule 408(2) a pragmatic reading in the light of Rule 3 and conclude on equitable considerations that the Crown should receive the set-off requested."
+[14]
+The plaintiff asserted that such set off was precluded by virtue of the provisions of sections 222.1 and 225.1 of the
+Income Tax Act
+, R.S.C. 1985, c.1 (5
+th
+Supplement), as amended. The plaintiff argued that the effect of those provisions is that the Crown was prohibited from collecting costs from him until all appeals from the judgments against the plaintiff have been determined. As those appeals were outstanding, there were no enforceable awards of costs which could be set off.
+[15]
+The assessment officer determined that the plaintiff misconceived the application of the provisions of the
+Income Tax Act
+upon which he relied.
+[16]
+I agree with the assessment officer for the following reason. Once a trial-level decision has been obtained against the taxpayer, subsection 225.1(3) of the
+Income Tax Act
+does not preclude enforcement of collection if the case is further appealed to the Federal Court of Appeal.
+[17]
+I therefore find no error in principle in the assessment officer's exercise of discretion under Rule 408(2) to allow a set off of the awards of costs.
+(B)
+Did the assessment officer err in failing to assess interest on the costs awarded to the plaintiff?
+[18]
+The plaintiff sought pre-judgment and post-judgment interest on the costs awarded to him in the three actions. The assessment officer found he was without jurisdiction to award interest. He reasoned that neither Rule 409 nor Rule 407 provided him with such jurisdiction. Those rules provide:
+"407. Unless the Court orders otherwise, party-and-party costs shall be assessed in accordance with column III of the table to Tariff B.
+. . . . .
+"409. In assessing costs, an assessment officer may consider the factors referred to in subsection 400(3)."
+"407. Sauf ordonnance contraire de la Cour, les dépens partie-partie sont taxés en conformité avec la colonne III du tableau du tarif B.
+. . . . .
+"409. L'officier taxateur peut tenir compte des facteurs visés au paragraphe 400(3) lors de la taxation des dépens."
+[19]
+The assessment officer's analysis was as follows:
+"Essentially, costs are an indemnity and not compensation or damages in the sense of these definitions. This term in Rule 409, 'assessing costs', cannot be stretched as function of Rule 407 to add an element of compensation or damages to the assessed costs. In particular, Rule 409 cannot be used as authority to arrive at a final conclusion on the actual dollar amount of costs, and then, before signing off on the Certificate, to take an additional step to compensate, not for the money actually paid, but for the money lost as a function of not having been able to use for other purposes, in the interim, the money actually paid. I think that such relief is available to the parties, but Rule 409, in specifying that I may consider Rule 400(3) factors, cannot be stretched to usurp the Court's authority in the area of interest, including any relief available under the various statutes cited."
+[20]
+Having concluded that he had no jurisdiction to rule with respect to interest, the assessment officer then reduced Mr. Wilson's costs by an unspecified amount. The assessment officer allowed lower amounts on some items claimed by Mr. Wilson than he ordinarily would have allowed, the normal allowance presumably being under Column III in Tariff B pursuant to Rule 407. The assessment officer's reasons on this point were as follows:
+"... Rule 409 lets me consider certain factors, but permits me leeway only to apply that consideration as a function of Rule 407 in arriving at the actual amount for costs as an indemnity. [...] The Crown has satisfied me that the Plaintiff frustrated its efforts to resolve costs and therefore I have allowed lower amounts above than I might ordinarily have done for some items."
+[21]
+The plaintiff argued that in concluding that he had no jurisdiction to award interest, the assessment officer erred and failed to exercise his discretion under section 36 of the
+Federal Court Act
+, R.S.C. 1985, c. F-7, as amended ("
+Federal Court Act
+").
+[22]
+The defendant argued that the assessment officer properly decided that he did not have jurisdiction to adjudicate upon the issue of interest on costs, and that in proceeding as he did, the assessment officer properly exercised his discretion.
+[23]
+The Crown relied upon the provisions of section 31.1 of the
+Crown Liability and Proceedings Act
+, R.S.C. 1985, c. C-50, as amended ("
+Crown Liability and Proceedings Act
+"), and sections 129 and 130 of the
+Courts of Justice Act
+, R.S.O. 1990, c. C-43, as amended ("
+Courts of Justice Act
+").
+[24]
+To determine whether the assessment officer made any error in principle, I will first review the applicable legislative framework applicable to the plaintiff's right to pre-judgment and post-judgment interest on costs.
+[25]
+It is to be remembered that the plaintiff's entitlement to costs from the Crown flows from judgments rendered in 1988 and 1996. With respect to pre-judgment interest, subsection 31(6) of the
+Crown Liability and Proceedings Act
+provides that:
+"31(6) This section applies in respect of the payment of money under judgment delivered on or after the day on which this section comes into force, but no interest shall be awarded for a period before that day."
+"31(6) Le présent article s'applique aux sommes accordées par jugement rendu à compter de la date de son entrée en vigueur. Aucun intérêt ne peut être accordé à l'égard d'une période antérieure à cette date."
+[26]
+Section 31 came into force on February 1, 1992. Thus it has no application to the costs awarded by the judgments delivered in 1988.
+[27]
+Prior to February 1, 1992, section 36 of the
+Federal Court Act
+provided:
+"36. In adjudicating on any claim against the Crown, the Court shall not allow interest on any sum of money that the Court considers to be due to the claimant, in the absence of any contract stipulating for payment of that interest or of a statute providing in such a case for the payment of interest by the Crown."
+"36. Dans le jugement d'une plainte contre la Couronne, la Cour ne peut accorder d'intérêt sur aucune des sommes qu'elle estime être dues au demandeur, sauf si une clause d'un contract y pourvoir expressément ou si une disposition législative en prévoit le paiement par la Couronne."
+[28]
+In view of the prior provision found in section 36 of the
+Federal Court Act
+, and the absence of any statute providing for pre-judgment interest, I find no basis for an award of pre-judgment interest on the costs flowing from the 1988 judgments.
+[29]
+As for post-judgment interest on judgments rendered in 1988, section 41 of the
+Federal Court Act
+then in force provided that:
+"41. Unless otherwise ordered by the Court, a judgment, including a judgment against the Crown, bears interest from the time of giving the judgment at the rate prescribed by section 3 of the Interest Act."
+"41. Sauf décision contraire de la Cour, les jugements, y compris ceux contre la Couronne, portent intérêt, à compter de leur prononcé, au taux fixé par l'article 3 de la Loi sur l'intérêt."
+[30]
+The rate prescribed by section 3 of the
+Interest Act
+, R.S.C. 1985, c. I-15, ("
+Interest Act
+"),
+was 5% per annum. Case law interpreting section 41 of the
+Federal Court Act
+established that in the absence of an order to the contrary, interest on a judgment for costs ran from the date of the judgment, not the date of the taxation. See:
+Bethlehem Copper Corp. v. Minister of National Revenue
+,
+[1977] 1 F.C. 577; 14 N.R. 301 (F.C.A.). There remained jurisdiction in the Court in a proper case to set the rate of interest. See:
+Connaught Laboratories Ltd. v. Canada
+(1983), 49 N.R. 332 (F.C.A.), at paragraph 27.
+[31]
+With respect to the plaintiff's entitlement to interest on costs awarded in the 1996 judgment, particularly pre-judgment interest, subsection 31(1) of the
+Crown Liability and Proceedings Act
+is applicable. It provides that:
+"31(1) Except as otherwise provided in any other Act of Parliament and subject to subsection (2), the laws relating to prejudgment interest in proceedings between subject and subject that are in force in a province apply to any proceedings against the Crown in any court in respect of any cause of action arising in that province."
+"31(1) Sauf disposition contraire de toute autre loi fédérale, et sous réserve du paragraphe (2), les règles de droit en matière d'intérêt avant jugement qui, dans une province, régissent les rapports entre particuliers s'appliquent à toute instance visant l'État devant le tribunal et don't le fait générateur est survenu dans cette province."
+[32]
+Here, the cause of action arose in Ontario making relevant the
+Courts of Justice Act
+of Ontario.
+[33]
+With respect to pre-judgment interest on costs, paragraph 128(4)(c) of the
+Courts of Justice Act
+provides that there shall be no award of pre-judgment interest on costs. This has been the case in Ontario at least since judgments rendered on or after November 25, 1977. See: S.O. 1977, c. 51, s. 3(2).
+[34]
+As for post-judgment interest, for orders for the payment of money made on or after January 1, 1985, subsection 129(1) of the
+Courts of Justice Act
+provides:
+"129(1) Money owing under an order, including costs to be assessed or costs fixed by the court, bears interest at the postjudgment interest rate, calculated from the date of the order."
+[35]
+While that is the general provision, with respect to causes of action arising after October 23, 1989, as a result of amendments found in S.O. 1989, c. 67, s. 8, the Court has jurisdiction under what is now section 130 of the
+Courts of Justice Act
+to:
+"130(1) The court may, where it considers it just to do so, in respect of the whole or any part of the amount on which interest is payable under section 128 or 129,
+(a) disallow interest under either section;
+(b) allow interest at a rate higher or lower than that provided in either section;
+(c) allow interest for a period other than that provided in either section.
+"(2) Idem – For the purpose of subsection (1), the court shall take into account,
+(a) changes in market interest rates;
+(b) the circumstances of the case;
+(c) the fact that an advance payment was made;
+(d) the circumstances of medical disclosure by the plaintiff;
+(e) the amount claimed and the amount recovered in the proceeding;
+(f) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding; and
+(g) any other relevant consideration."
+[36]
+It is not clear to me that the cause of action at issue in the 1996 judgment arose after October 23, 1989 because that judgment related to a re-assessment of Mr. Wilson's 1978 income and flowed from a notice of re-assessment issued on February 1, 1989. Any uncertainty is, however, not material because prior to the amendments found in S.O. 1989, c. 67, s. 8, what was then section 140 of the
+Courts of Justice Act
+,
+1984
+provided that:
+"140. The court may, where it considers it just to do so, having regard to changes in market interest rates, the circumstances of the case, the conduct of the proceeding or any other relevant consideration,
+(a) disallow interest under section 138 or 139;
+(b) allow interest at a rate higher or lower than that provided in section 138 or 139;
+(c) allow interest for a period other than that provided in section 138 or 139,
+in respect of the whole or any part of the amount on which interest is payable under section 138 or 139. R.S.O. 1980, c. 223, ss. 36(6), 37(2)."
+Subsection 139(1) referenced in section 140 was identical to subsection 129(1) of the
+Courts of Justice Act
+set out above in paragraph [34].
+[37]
+In
+Placentile v. Fabris
+(1993), 14 C.P.C.(3d) 210 (Ont. Gen. Div.), Kovacs, J., held that with respect to post-judgment interest on costs, interest should generally run from the time when the amount of money that was properly payable could be determined.
+[38]
+Therefore, to summarize, at no time was the plaintiff entitled to receive pre-judgment interest on his costs. At all times he was entitled to post-judgment interest, but there was jurisdiction in the Court, not apparently exercised in these cases, with respect to disallowance of interest, the interest rate and the period over which interest would be paid. The exercise of the Court's discretion would be governed either by jurisprudence of this Court or the Ontario Courts, depending upon whether the judgment was rendered prior to February 1, 1992.
+[39]
+Given that legislative scheme, what of the conclusion of the assessment officer that he had no jurisdiction to rule on interest?
+[40]
+The leading authority in this Court with respect to interest on costs is the
+Bethlehem Copper
+case, supra. At page 579 [F.C.], the Court held that:
+"Section 40 of the
+Federal Court Act
+provides for the payment of interest on a judgment from the time of giving the judgment [See Note 1 below]. It was not disputed in argument that a judgment for costs is a judgment for purposes of section 40.
+Note 1: Section 40 of the
+Federal Court Act
+provides:
+'40. Unless otherwise ordered by the Court, a judgment, including a judgment against the Crown, bears interest from the time of giving the judgment at the rate prescribed by section 3 of the Interest Act.'
+"At the moment a judgment for costs is given, its amount is, of course, not precisely fixed unless the judgment is for a lump sum. Taxation is, however, essentially an administrative process although there are, sometimes, as there were in this case, discretionary elements involved. The presence of such elements of discretion in the taxing of costs does not seem to me to place any real barrier in the way of reading the words of section 40 in their ordinary sense: interest on costs taxed in due course pursuant to a judgment should run from the time the judgment is delivered subject, or (sic) course, to a contrary order. There was no such contrary order in this case."
+[41]
+In the present cases, no contrary orders were made with respect to interest on the costs awarded to the plaintiff.
+[42]
+Section 40 of the
+Federal Court Act
+, as considered by the Court of Appeal in
+Bethlehem Copper
+, is identical to the section of the
+Federal Court Act
+which I have concluded was applicable to the 1988 judgments. It follows, in my view, that in the absence of an order to the contrary, Mr. Wilson is entitled to interest on those judgments at the rate of 5% per annum, which is the rate prescribed by section 3 of the
+Interest Act.
+[43]
+With respect to the 1996 judgment, I conclude that in the absence of an order to the contrary, the effect of subsection 129(1) of the
+Courts of Justice Act
+is that Mr. Wilson is entitled to interest on that judgment, from its date, calculated at the applicable post-judgment interest rate. That rate is established under the
+Courts of Justice Act
+to be 6% per annum.
+[44]
+The
+Bethlehem Copper
+case was applied to this effect by assessment officers in
+All Canada Vac Ltd. v. Lindsay Manufacturing Inc.
+, [1992] F.C.J. No. 354 (T.D.), T-262-88 (April 9, 1992) (F.C.T.D.) and
+Canada (Attorney General) v. Doucet
+, [1994] F.C.J. No. 1290 (T.D.), T-2314-92 (May 20, 1994).
+[45]
+Thus in the
+Lindsay Manufacturing
+case, after taxing the bill of costs a certificate issued from the assessment officer for the assessed amount, plus interest at the rate fixed by section 3 of the
+Interest Act
+.
+[46]
+In the present case, the assessment officer justified his non-assessment of interest on the costs, and presumably the non-inclusion of interest in the certificate of assessment certified by the assessment officer, on the basis of his interpretation of the
+Rules
+, particularly Rules 407 and 409. With respect, I find that in so relying upon the
+Rules
+, the assessment officer erred in principle. While I agree that the
+Federal Court Act
+and
+Rules
+confer no jurisdiction on an assessment officer to award interest to a successful party, similarly the
+Act
+and
+Rules
+do not confer jurisdiction on an assessment officer to deny the substantive right to judgement interest provided by the
+Federal Court Act
+or other applicable legislation.
+[47]
+A party may receive either pre-judgment or post-judgment interest as a result of the operation of some statute or because of an order of a judge or prothonotary who dealt substantively with the proceeding. Part XI of the
+Rules
+contains no provision which authorizes an assessment officer either to award or to withhold interest. The entitlement to interest will depend upon the terms of the applicable legislation and the order of the presiding judge or prothonotary.
+(C)
+Did the assessment officer err in failing to consider properly the factors enumerated in Rule 400?
+[48]
+Mr. Wilson complains that the assessment officer did not have proper regard to paragraphs (a) through (e) and (g) through (i) of Rule 400(3) but instead concluded that "[t]he Crown has satisfied me that the Plaintiff frustrated its efforts to resolve costs and therefore I have allowed lower amounts above than I might ordinarily have done for some items".
+[49]
+I think it important to note that because Tariff B represents a compromise between compensating the successful party with costs and unduly burdening the unsuccessful party. It is only in exceptional cases that the Court should depart from Tariff B, see:
+Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd.
+(1998), 159 F.T.R. 233; 84 C.P.R.(3d) 303 (T.D.).
+[50]
+However, an assessment officer is given discretion when assessing costs. The officer may consider the factors referred to in Rule 400(3) of the
+Rules
+. One of those factors, found in paragraph (o), is "any other matter" which the assessment officer considers relevant.
+[51]
+Given that discretion, on the facts of this case and the long delay in bringing the costs forward for assessment, I can find no error in principle with respect to the assessments before me, nor can I conclude from the amounts assessed that any error in principle occurred. Instead, Mr. Wilson in effect asks that the Court exercise a fresh discretion with respect to the assessment of costs. That, as noted above, is not the role of the Court upon the review of an assessment.
+THE DEFENDANT'S MOTION TO LIMIT INTEREST
+[52]
+The defendant relied upon subsection 31.1(1) of the
+Crown Liability and Proceedings Act
+and subsection 130(1) of the
+Courts of Justice Act
+to seek an order varying the interest payable under section 129 of the
+Courts of Justice Act
+.
+[53]
+As noted above, the
+Crown Liability and Proceedings Act
+has no application to the judgments delivered in 1988. However, also as noted above, I have concluded that there was jurisdiction in the Court with respect to the disallowance of interest, the rate of interest, and the period over which interest would be paid.
+[54]
+In considering the exercise of that jurisdiction, I note at the outset that I am not persuaded that the procedure adopted by the Crown to raise this issue is appropriate. In my view, considerations with respect to the Court's discretion to grant pre-judgment or post-judgment interest should, in the normal course, be raised prior to the assessment so that any entitlement to interest may be reflected in the assessment officer's certificate. Notwithstanding that concern, because the appropriateness of the procedure was not raised by the parties, I will deal with the merits of the Crown's motion.
+[55]
+In urging that the interest otherwise payable be varied, the Crown submitted that interest should be reduced because of Mr. Wilson's excessive delay in having his costs taxed. This was said to have made it problematic for the Crown to evaluate those costs.
+[56]
+However, that submission in my view ignores two factors. First, and most significantly, the assessment officer has already reduced the amount of costs on the basis of Mr. Wilson's delay which was found to have frustrated the Crown's efforts to resolve costs. The amount of the reduction was not specified. In view of that reduction I do not consider it just to now reduce the interest which Mr. Wilson would otherwise be entitled to.
+[57]
+Second, the purpose of awarding interest on costs is to ensure that through the effluxion of time the level of indemnity provided by an award of costs is not eroded. In evidence before me was the bill from Mr. Wilson's counsel at trial in 1988 which showed payment in October of 1988 of fees and disbursements in the amount of $25,598.12 for services provided in connection with the proceedings which resulted in the judgments in 1988. A similar bill was in evidence with respect to the 1986 trial, although the evidence is not clear as to when that account was paid. The Crown has had the benefit of the use of the money it otherwise would have been obliged to pay to Mr. Wilson in respect of costs.
+[58]
+In those circumstances, I am not persuaded that the Crown should benefit by not being required to pay interest on the award of costs in the normal course.
+CONCLUSION
+[59]
+For the reasons above, I have concluded that but for the omission of the assessment officer to include the statutory allowance for post-judgment interest in the certificate of assessment there is no basis for setting aside the assessment of costs. I have also concluded that the Crown's motion for an order disallowing interest owed to the plaintiff should be dismissed.
+[60]
+As for implementation of this order, I think it simplest if these matters are remitted to the assessment officer for the purpose of re-calculating the set off in the light of the respective entitlements of the parties to interest on their awards of costs. It should not be overlooked that the Crown, in the absence of an order made by the trial judge to the contrary, will be entitled to post-judgment interest on its judgments as provided by section 37 of the
+Federal Court Act
+(assuming it to be in force when the Crown's judgments were obtained, the evidence before me not being clear as to when those judgments were obtained) and pursuant to the provisions of the Ontario
+Courts of Justice Act
+.
+[61]
+The parties are at liberty to apply for further directions.
+ORDER
+[62]
+IT IS HEREBY ORDERED AND ADJUDGED THAT:
+1. The assessments before me are to be remitted to the assessment officer for the purpose of re-calculating the set off in light of the respective entitlements of the parties to interest on their awards of costs.
+2. The balance of the plaintiff's motion for review of the assessments of costs is dismissed.
+3. The defendant's motion for an order disallowing or limiting interest is dismissed.
+4. Either party is at liberty to apply for further directions.
+Order accordingly.
+Editor: Jana A. Andersen/pdk
+[End of document]

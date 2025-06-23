@@ -1,0 +1,30 @@
+ [38] 
+  The two-prong test applicable to a motion for an order of confidentiality pursuant to Rule 151 of the  
+ Rules 
+  was established by the Supreme Court of Canada in  
+ Sierra Club of Canada v. Canada (Minister of Finance) et al. 
+ , [2002] 2 S.C.R. 522; 287 N.R. 203; 2002 SCC 41, at 543-545. There, the Supreme Court stated that confidentiality orders under Rule 151 should only be granted when: 
+ 
+ 
+ 
+ "(i) such an order is necessary in order to prevent a serious risk to an important interest, including a commercial interest, in the context of litigation because reasonably alternative measures will not prevent the risk; and 
+ 
+ 
+ 
+ "(ii) the salutary effects of the confidentiality order, including the effects on the right of civil litigants to a fair trial, outweigh its deleterious effects, including the effects on the right to free expression, which in this context includes the public interest in open and accessible court proceedings." 
+ 
+ 
+ 
+ With respect to the first prong of the test, the Supreme Court added that: 
+ 
+ 
+ 
+ "(i) the risk in question must be real and substantial, in that the risk is well grounded in the evidence, and poses a serious threat to the commercial interest in question; 
+ 
+ 
+ 
+ "(ii) in order to qualify as an 'important commercial interest', the interest in question cannot merely be specific to the party requesting the order; the interest must be one which can be expressed in terms of a public interest in maintaining confidentiality; and 
+ 
+ 
+ 
+ "(iii) the Court must consider not only whether reasonable alternatives to a confidentiality order are available, but must also restrict the order as much as is reasonably possible while preserving the commercial interest in question."

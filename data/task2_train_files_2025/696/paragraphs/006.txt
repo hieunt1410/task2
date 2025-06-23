@@ -1,0 +1,13 @@
+[6]
+Claims 1 and 2 of the patent provide:
+"1. A process for loading a wood chipping unit, comprising the steps of:
+providing a number of lumber pieces of approximately equal length;
+depositing said lumber pieces into a hopper so as to form a compact pile in which said lumber pieces are aligned along their length;
+placing said compact pile of lumber pieces into a feed compartment in such a manner that the pile remains substantially aligned;
+propelling a plate against one lengthwise end of said compact pile so as to thrust the other lengthwise end of said compact pile into a chipping compartment of the chipping unit;
+operating a chipping machine to chip a first portion of said otherwise lengthwise end of said compact pile;
+advancing said plate a predetermined length so as to thrust a further portion of said compact pile into said chipping compartment, whereby the length of said further portion substantially equals the working width of said chipping compartment;
+operating said chipping machine to chip said further portion;
+cycling said plate so as to thrust successive further portions of said compact pile into said chipping compartment after each preceding further portion has been chipped; and
+depositing and aligning a next set of lumber pieces in said hopper during said propelling of said plate step or said cycling of said plate step.
+"2. A process according to claim 1, wherein said step of placing said compact pile into a feed compartment comprises dropping said compact pile into said feed compartment. (the patent is found at Exhibit 'A' to the first McDonald affidavit)"

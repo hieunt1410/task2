@@ -1,0 +1,3 @@
+[6]
+The stay application is dismissed.
+Application dismissed.

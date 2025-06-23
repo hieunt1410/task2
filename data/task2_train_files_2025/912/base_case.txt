@@ -1,0 +1,183 @@
+[1]
+Kelen, J.
+: This is an application for judicial review of the Canadian Human Rights Tribunal decision dated August 30, 2000, which denied the applicant's Motion to amend two "pay equity" complaints numbered X00344 and X00372. The complaints were amended in 1994, but mistakenly not "referred" to the Tribunal in their amended form. The Tribunal denied leave to amend the complaints, and the Commission seeks judicial review of that decision.
+[2]
+The issues in this matter are:
+- is the applicant's judicial review application premature, in that the Tribunal's decision is interlocutory; and,
+- did the Tribunal make an error of law or jurisdiction by not amending the complaints.
+FACTS
+The Parties
+- The Canadian Human Rights Commission (the "Commission") - Applicant;
+- The Canadian Human Rights Tribunal (the "Tribunal") - the tribunal under the
+Canadian Human Rights Act
+which is considering the pay equity complaints;
+- The Canadian Telephone Employees Association ("CTEA") - Respondent;
+- Communications, Energy and Paper Workers Union of Canada ("CEP") - Co-Respondent with CTEA;
+- Femmes Action - Co-Respondent with the CTEA;
+- Bell Canada ("Bell") - Respondent.
+Background
+[3]
+In 1991-92, the CTEA filed three "group complaints" against Bell with the Commission. These complaints were dated and assigned file numbers as follows:
+- X00344, dated June 27, 1991;
+- X00372, dated April 1, 1992; and
+- X00417, dated June 27, 1991.
+The complaints (the "344, 372 and 417 complaints") alleged sex discrimination in the wages paid to employees in three groups of predominantly female employees, in comparison to employees in three comparable, predominantly male, classes of employees.
+[4]
+The three complaints vary slightly, particularly in the name of the classes of employees. Otherwise they are substantially the same. For example, complaint X00344 reads as follows, in part:
+"We allege that Bell Canada is discriminating against the Clerk 7 - Cable Locate Dispatch group because of sex, predominantly female, in matters of employment by paying them less than the Class I Cable Repair Testers and Cable Locators, predominantly male, who are currently performing work of equal value in the same establishment, contrary to Section 11 of the
+Canadian Human Rights Act
+."
+[5]
+In April, 1991, Bell, the CTEA and CEP initiated a "Joint Pay Equity Study", the mandate of which was to "complete a pay equity audit and report the findings to the appropriate group in each organization".
+[6]
+In the course of the joint study, comparisons were made of complainant jobs, being those jobs held by the groups on whose behalf CTEA had filed the complaints with the Commission, and comparator jobs, being male dominated positions considered to be of equal or similar value.
+[7]
+The Joint Study ended in November 1992. On November 23, 1992 a Final Report was issued which concluded there were "patterns of disparity" in the compensation of Bell's unionized employees represented by CTEA and CEP, indicating that female-dominated jobs received less per hour than male dominated jobs of equal value.
+[8]
+Attempts were made by Bell and the union parties to settle the disparity, to no avail. Consequently in 1994 CTEA, CEP and Femmes Action filed additional "systemic complaints" that Bell had discriminated against predominantly female groups by paying them less than similar male groups.
+The Amendments
+[9]
+Additionally, at the suggestion of the Commission and with CTEA's agreement, amendments were filed on March 4, 1994, to the three original 1991-1992 group complaints, including numbers X00344, X00372 and X00417 (the "amended 344, 372 and 417 complaints") to bring the complaints in line with the Report of the Joint Study. The amendments changed the category of comparable predominantly male job class from specific job classes to job classes referred to in the Final Report. All parties were notified of the amendments. In particular, Bell was notified on March 11, 1994.
+[10]
+For example, the amended 344 complaint reads as follows, in part:
+"Bell Canada discriminates against the predominantly female A7 CABLE LOCATION GROUP, by paying them less than male dominated jobs of equal value as demonstrated by the Joint Pay Equity Study, contrary to s. 11 of the
+Canadian Human Rights Act
+."
+Investigation Report
+[11]
+The Commission produced three investigation reports, all of which referred to the amended complaints. These reports included the recommendation that the amended complaints 344 and 372 be referred to a Tribunal. The Revised Investigation Report dated November 15, 1995 stated in paragraph 1 ... "Later C.T.E.A. amended its three complaints by changing the comparator to `all male dominated jobs of equal value'." Paragraph 15 of the Report, under the heading "RECOMMENDATIONS", recommended that all of these complaints be referred to a "single" human rights tribunal. Accordingly, it was clear on November 15, 1995 that the "amended complaints" were recommended for referral by the Commission to the Tribunal.
+Referral of Complaints to the Tribunal
+[12]
+By letters dated May 27 and May 30, 1996, the complaints were referred to the Tribunal. The May 27 letter reads as follows, in part:
+"The Canadian Human Rights Commission has reviewed the investigation report [sic] the following complaints of C.T.E.A. against Bell Canada alleging discrimination in employment on the ground of sex, contrary to section 11 of the
+Canadian Human Rights Act
+:
+(X00469) dated June 21, 1994
+(X00460) dated March 4, 1994
+(X00417) dated October 22, 1992, as amended
+(X00372) dated April 1, 1992
+(X00344) dated June 27, 1991
+[. . . . .]
+The Commission has decided, pursuant to section 49 of the
+Canadian Human Rights Act
+, to request that the President of the Human Rights Tribunal Panel appoint a Tribunal to inquire into your complaints as it is satisfied that, having regard to all the circumstances of the complaints, an inquiry thereinto is warranted."
+The May 30th letter lists the same complaints, with two additional complaints by Femmes Action and the CEP respectively. Again, only the 417 complaint is listed "as amended". The 372 and 344 complaints are not listed "as amended".
+Motion to Amend
+[13]
+In August 2000, the Commission brought a Motion before the Tribunal requesting that the amended 344 and 372 complaints replace the original 344 and 372 complaints before the Tribunal, as the originals had been placed before the Tribunal by "mistake". The Tribunal invited the Commission to bring evidence to prove that there was an error resulting in the wrong complaints being put forward. No such evidence was provided by the Commission.
+Decision
+[14]
+By decision dated August 31, 2000, the Tribunal dismissed the Commission's Motion, on the grounds that the original 372 and 344 complaints were before the Tribunal due to the choice of the Commission:
+"
+II. Decision
+"[19] The Commission in its motion requested that the Tribunal amend complaints X00344 and X00372 that have been referred to it by the Commission. In our opinion, this is not a question of amendment since these complaints were amended by CTEA on March 14, 1994 and filed with the Commission.
+"[20] Further, the Commission chose not to refer to any of the individual complaints and chose to refer CTEA amended complaint X00417. This is consistent with a choice rather than an omission.
+"[21] What the Commission is asking is that this Tribunal override the Commission's clear and unequivocal referral decision and substitute our decision for that of the Commission.
+We do not have the jurisdiction to grant this request.
+[. . . . .]
+"[26] If the Commission considered that it was by mistake that the amended complaints were not referred to the Tribunal, it was incumbent on the Commission to make that proof. The Commission did not offer any evidence on this question although invited to on at least two occasions by the Tribunal.
+"[27] The Commission has known at least since if not November 24, 1997 (the date when Bell's judicial review application was argued) that there was an issue concerning the two CTEA amended group complaints that were not referred to the Tribunal.
+"[28] The Commission could have remedied this problem by referring these two amended complaints to the Tribunal at any time since. The Commission has not done so.
+"[29] For all these reasons, the motion of the Commission is hereby dismissed." (emphasis added)
+Application for Judicial Review
+[15]
+The Commission brings the present application for judicial review of the Tribunal's decision, seeking to have, by Order of this Court: the decision quashed; the Tribunal ordered to exercise its discretion to amend the complaints; and the Tribunal prohibited from dismissing the complaints until it has amended them.
+[16]
+The respondents CTEA, CEP and Femmes Action also seek to have the decision of the Tribunal quashed and the complaints amended.
+[17]
+The respondent Bell Canada seeks to have the application dismissed.
+STANDARD OF REVIEW
+[18]
+The decision by the Tribunal in this matter was based on a question of law. The Tribunal decided that it was outside its own jurisdiction to amend the complaints upon the motion by the Commission. As decided by the Supreme Court of Canada in
+Canada (Attorney General) v. Mossop
+, [1993] 1 S.C.R. 554; 149 N.R. 1; 100 D.L.R.(4th) 658, administrative tribunals are not experts in questions of law and are entitled to minimal deference. Accordingly, the standard of review in this matter is that of correctness.
+RELEVANT LEGISLATION
+[19]
+The relevant section of the
+Canadian Human Rights Act
+, R.S.C. 1985, c. H-6, reads as follows:
+"Inquiries into Complaints
+Request for inquiry
+"49. (1) At any stage after the filing of a complaint, the Commission may request the Chairperson of the Tribunal to institute an inquiry into the complaint if the Commission is satisfied that, having regard to all the circumstances of the complaint, an inquiry is warranted.
+Chairperson to institute inquiry
+"(2) On receipt of a request, the Chairperson shall institute an inquiry by assigning a member of the Tribunal to inquire into the complaint, but the Chairperson may assign a panel of three members if he or she considers that the complexity of the complaint requires the inquiry to be conducted by three members."
+"Instruction des plaintes
+Instruction
+"49. (1) La Commission peut, à toute étape postérieure au dépot de la plainte, demander au président du Tribunal de désigner un membre pour instruire la plainte, si elle est convaincue, compte tenu des circonstances relatives à celle-ci, que l'instruction est justifiée.
+Formation
+"(2) Sur réception de la demande, le président désigne un membre pour instruire la plainte. Il peut, s'il estime que la difficulté de l'affaire le justifie, désigner trois membres, auxquels dès lors les articles 50 à 58 s'appliquent."
+ANALYSIS
+Is the Tribunal's decision subject to judicial review
+[20]
+The respondent Bell Canada has submitted that the decision of the Tribunal was an interlocutory one, and thus not subject to judicial review, as a final decision by the Tribunal on a complaint would be. The respondent has referred to instances from the jurisprudence of this Court where in fact, the Court did refuse to rule on an interlocutory matter.
+[21]
+However, regard must be given to decisions where this Court found that interlocutory rulings are reviewable. In
+Citizens' Mining Council of Newfoundland and Labrador Inc. v. Canada (Minister of the Environment) et al.
+, [1999] F.C.J. No. 273; 163 F.T.R. 36 (T.D.) MacKay, J., held at paragraph 50 that an interlocutory decision is subject to judicial review if it defines the scope of the ultimate decision, and if it is of sufficient significance. In the case at bar, the amendments to the complaints define the scope of the Tribunal hearing and decision. The amendments are of sufficient significance that the applicant need not wait until the decision of the Tribunal to commence judicial review.
+[22]
+FRAGMENT_SUPPRESSED 128 F.T.R. 81; 147 D.L.R.(4th) 739; (T.D.). (varied at [2001] F.C.J. No. 352; 277 N.R. 376 (F.C.A.), but not on this point) which held at paragraph 23 that an interlocutory decision that had a final effect on the applicant's rights is subject to judicial review.
+[23]
+In the present case, the complainants' right to have their full and proper human right complaints heard by the Tribunal are affected by the interlocutory decision. Accordingly, it is my view that this interlocutory ruling affects the final rights of the parties and is subject to judicial review on an immediate basis.
+[24]
+An additional ground for the Court to review the Tribunal's decision is that the Tribunal framed its decision, at paragraph 21 as an issue related to its jurisdiction. The Tribunal decided that it did not have the jurisdiction to amend the complaints which the Commission had referred to the Tribunal. The Federal Court of Appeal held in
+Shubenacadie Indian Band v. Canadian Human Rights Commission et al.
+(2000), 256 N.R. 109 (F.C.A.), at paragraph 10:
+"As a general rule,
+absent jurisdictional issues
+, rulings made during the course of a Tribunal proceeding should not be challenged until the Tribunal's proceedings have been completed." (Emphasis added)
+Accordingly, the Court shall entertain applications for judicial review of an interlocutory decision where the Tribunal finds that it does not have jurisdiction on a matter which will affect the final rights of the parties. In the case at bar, the Tribunal has framed its decision denying the amendments as a matter of lacking jurisdiction.
+[25]
+For these reasons, this interlocutory decision is subject to judicial review.
+Did the Tribunal err by failing to amend the complaints?
+[26]
+In view of the following facts, and the comments of the Federal Court of Appeal, it is surprising that the Tribunal failed to allow the amendments to the complaints to rectify a clear and obvious mistake.
+i. The Facts
+[27]
+In the Commission's three investigation reports, including its revised final investigation report dated November 15, 1995, the amended complaints were the subject of the investigation and recommendations considered by the Commission in its decision to refer the complaints to the Tribunal.
+[28]
+When the Commission referred the complaints to the Tribunal by letters dated May 27 and 30, 1996, the Commission, allegedly by mistake, failed to refer to complaints 372 and 344 in their amended form. With respect to counsel for Bell, this mistake was obvious. The original complaints had been amended to reflect the final report of the Joint Pay Equity Study. The fact that these complaints were amended was brought to the attention of Bell by the Commission by letter dated March 11, 1994, and the amended complaints were recited in the first paragraph of the Commission's investigation report which led to the referral of the complaints to the Tribunal.
+ii. Federal Court of Appeal reference to the amended complaints
+[29]
+The Federal Court of Appeal, three years ago in
+Bell Canada v. Communications Energy Paper Works Union of Canada et al.
+, [1999] 1 F.C. 113; 233 N.R. 87; [1998] F.C.J. No. 1609 (F.C.A.), per Décary, J.A., made reference to complaints 344 and 372 and noted that the Commission mistakenly omitted the words "as amended" and that the mistake could be easily corrected by an amendment. The Court held in Note 1 to paragraph 29:
+"With respect to complaints X00344 and X00372, the Commission omitted the words 'as amended' in its decision, leaving the impression that only the original complaints had been referred by the Commission to the President of the Human Rights Tribunal Panel. Counsel for Bell acknowledged before the Motions Judge that he had thought right from the start that this was 'a mistake' and he did not in his factum raise any issue as to the impact of such a mistake either on the validity of the two complaints ... The Court was satisfied at the hearing that the mistake had not caused any prejudice to Bell which knew all along that the seven systemic complaints were at issue. The mistake, surely, can be easily corrected before the Tribunal [...]"
+Mr. Justice Décary categorized the mistake as "administrative sloppiness" and not cause for judicial intervention. Accordingly, the Federal Court of Appeal recognized this mistake and that it could be easily corrected. Based on the facts, and the reference by the Federal Court of Appeal, it is surprising that the Tribunal failed to allow the amendments to the complaints.
+iii. Jurisdiction to amend
+[30]
+The jurisprudence is clear that the Tribunal has the jurisdiction to amend complaints of discrimination. In
+Renaud v. Board of Education of Central Okanagan District No. 23 and Canadian Union of Public Employees, Local 523
+, [1992] 2 S.C.R. 970; 141 N.R. 185; 13 B.C.A.C. 245; 24 W.A.C. 245; 95 D.L.R.(4th) 577, as per Sopinka, J., at pages 978 and 996, the Supreme Court of Canada recognized that a Human Rights Commission can amend a deficient complaint to bring the complaint into conformity with the nature of the proceedings before the Tribunal. This can be done at any time during the proceedings.
+[31]
+This jurisprudence is echoed in the decisions of the Federal Court with respect to amendments to pleadings under Rule 75 of the
+Federal Court Rules, 1998
+. I refer to the case of
+Rolls Royce plc et al. v. Fitzwilliam et al.
+, [2002] F.T.R. Uned. 858; 10 C.P.R.(4th) 1 (T.D.), where Blanchard, J., set out as a general rule that proposed amendments should be allowed where they do not result in prejudice to the opposing party:
+"10 Although leave is discretionary, as a general rule a proposed amendment should be allowed in the absence of prejudice to the opposing party. As stated by Décary J.A., speaking for the Federal Court of Appeal, in
+Canderel Ltd. v. Canada
+, [1994] 1 F.C. 3 (F.C.A.) at p. 10]:
+'... the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.'"
+[32]
+Moreover the parties acknowledged at the hearing that the Commission could at anytime refer the amended complaints to the Tribunal for adjudication. If the Commission can file the amended complaints at any time, it is logical for the Commission to seek leave to amend the original complaints which were mistakenly filed. This is particularly evident since the amended complaints were the subject of the Commission's investigation reports and had replaced the original complaints in March, 1994.
+iv. Factual finding that the complaints were not "amended complaints", but "new complaints"
+[33]
+Bell submits that the Tribunal found as a fact that the proposed "amended complaints" are not "amended complaints", but "new complaints".
+[34]
+Bell submits that the Tribunal characterized the amended 344 and 372 complaints as different complaints from the original 344 and 372 complaints, and that the Commission's motion was not to amend, but rather an attempt to substitute entirely new complaints in a matter already in progress.
+[35]
+The question is whether the Tribunal erred in this finding of fact.
+[36]
+The amendments occurred
+before
+the complaints were referred to the Tribunal. Once amended, the amended complaints were the version of complaints available to the Commission to refer to the Tribunal. While the amended complaints are broader in scope than the original complaints, their purpose is the same - to address the pay equity issues with respect to certain groups of Bell employees.
+[37]
+I find that the motion to amend was an attempt to correct an obvious error, and bring the Tribunal proceedings in line with the relevant evidence. It was not an attempt to bring wholly new complaints into a proceeding already in progress.
+DEPOSITION
+[38]
+This application for judicial review is allowed with a direction that the Tribunal allow amendments to complaints X00344 and X00372.
+[39]
+Costs in the cause are payable by Bell to the Commission and C.T.E.A.
+Application allowed.
+Editor: Angela E. McKay/djc
+[End of document]

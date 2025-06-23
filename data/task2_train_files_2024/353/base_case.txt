@@ -1,0 +1,110 @@
+[1]
+Rouleau, J.
+: This is an appeal from a decision of the Tax Court of Canada dismissing the plaintiffs appeals from reassessments made by the Minister of National Revenue with respect to the 1977, 1978, 1979 and 1980 taxation years.
+[2]
+During the years in question the plaintiff Sparkle Car Wash Ltd. sought to deduct from income certain interest expenses relating to payments made by it on account of principal and interest on a consolidated loan held by a bank. The loan included monies advanced to the shareholder Riddell as well as to the company.
+[3]
+The following is an Agreed Statement of Facts submitted by the parties:
+"
+Agreed Statement of facts
+The parties hereto, by their solicitors, hereby agree to the following facts for the purpose of the appellants' appeals of their 1977, 1978, 1979, and 1980 taxation years:
+1. The appellant Patrick W. Riddell (hereinafter 'Riddell') is a public servant residing in the city of Winnipeg, in the province of Manitoba, who, at all material times, was a director, the president, and sole beneficial shareholder of the appellant, Sparkle Car Wash Ltd. (hereinafter 'Sparkle').
+2. The appellant Sparkle is a corporation duly incorporated under the laws of the Province of Manitoba, with its registered office in the city of Winnipeg. Until the 1975 taxation years, (sic) Sparkle carried on business as a car wash.
+3. In the 1973 taxation year, Riddell purchased all the outstanding shares in Sparkle for the sum of $235,000. Of this amount, Riddell borrowed $139,750 from the bank of Montreal which was guaranteed by Sparkle, $64,250 was also borrowed from the bank of Montreal but guaranteed by Riddell's wife and mother-in-law, and $20,000 by way of a mortgage against his house. The guarantee by Sparkle was secured by real property mortgage on the land and building owned by Sparkle.
+4. Sparkle made the required principal and interest payments to the Bank of Montreal on behalf of Riddell from 1973 through 1975. During this period, the payments made by Sparkle on behalf of Riddell were expensed by Sparkle as wages to Riddell and the other part of the payments were debited to Riddell's shareholder loan account.
+5. During the 1975 taxation year, Sparkle borrowed $103,000 from the Bank of Montreal for the purposes of carrying out renovations to its building.
+6. During the 1975 taxation year Sparkle ceased carrying on business as a car wash, renovations were carried out on its premises which were thereafter leased to earn rental income. Riddell became employed with the federal government.
+7. Renovations took place during 1975. A contribution to the cost of same was to be made by one of the tenants, as soon as renovations were completed. When this payment was not immediately forthcoming, the Bank required additional security.
+8. As a result a demand debenture in the principal amount of $282,000 was given by Sparkle, and assignments of lease payments were taken. At the same time the Bank of Montreal consolidated the loans of Riddell and Sparkle into a single loan in the name of Sparkle. As at November 30, 1976 the balance of this loan was $276,752.55.
+9. Commencing in the 1976 taxation year and continuing until March 1978, Sparkle made all required payments of principal and interest in the consolidated loan from the Bank of Montreal.
+10. Sparkle deducted as business expense the full amount of the interest payments made to the Bank in respect of the consolidated loan. Sparkle's financial statements for such period show that the principal portions of the payments were applied to reduce Sparkle's share of the outstanding amount of the consolidated loan. In Sparkle's financial records, no portion of the principal payments were applied to reduce Riddell's share of the consolidated loan.
+11. In March 1978 Sparkle and Riddell changed banks from the Bank of Montreal to the Canadian Imperial Bank of Commerce (hereinafter 'C.I.B.C.').
+12. Also in March of 1978, that portion of the consolidated loan from the Bank of Montreal which was properly attributable to Riddell was paid out of a new loan from C.I.B.C. to Riddell in the amount of $216,000.
+13. Also in March 1978, that portion of the consolidated loan from the Bank of Montreal which was properly attributable to Sparkle was paid out of a new loan from C.I.B.C. to Sparkle in the amount of $60,000.
+14. As a condition of granting the aforesaid loans to Riddell and Sparkle, the C.I.B.C. required and was given the following security:
+(a) Guarantee of Riddell's indebtedness by Sparkle;
+(b) A demand debenture in the face amount of $300,000 as collateral to Sparkle's guarantee;
+(c) Assignments of the rental payments due under two leases on the premises owned by Sparkle which were rented to arm's length parties;
+(d) Guarantee of Sparkle's indebtedness by Riddell;
+(e) A general assignment of the book debts of Sparkle.
+15. C.I.B.C. directed both tenants of the premises owned by Sparkle to make their rental payments directly to C.I.B.C. for the Sparkle's account.
+16. The said tenants made such rental payments to the C.I.B.C.
+17. Commencing in March 1978 and each month thereafter during the years under appeal, C.I.B.C. would take sufficient funds out of Sparkle's bank account to pay Sparkles' (sic) and Riddell's monthly principal and interest obligation to C.I.B.C. under their respective loans.
+18. There was a bank account with the C.I.B.C. in the name of Sparkle but there was no bank account with the C.I.B.C. in the name of Riddell. However, Riddell and Sparkle had their own separate loan accounts at the C.I.B.C.
+19. Commencing in March 1978 Sparkle's financial statements have been prepared on the basis that all payments taken from Sparkle's bank account have been applied solely to reducing the principal balance owing by Sparkle. No such amounts have been credited to reducing Riddell's principal balance.
+20. Sparkles' (sic) financial statements for 1977 through 1980 indicate that the total interest incurred in those years with respect to Riddell's loan and Sparkles' (sic) loan with the C.I.B.C. was deducted as an expense of Sparkle.
+21. In Sparkles' financial statements for the years under appeal, the loan payable is calculated as follows:
+Riddell's loan payable to bank
+PLUS
+Sparkle's loan payable to bank
+LESS
+Shareholder loan receivable from Riddell
+22. During the years under appeal, no wages, dividends or management fees were paid by Sparkle to Riddell. Similarly, Riddell did not reimburse Sparkle for interest payments made by Sparkle on Riddell's loan."
+[4]
+During the 1974, 1975, and 1976 taxation years, the accounting used for Sparkle Car Wash Ltd. reflected the loan payments made by the company on behalf of Mr. Riddell to the bank. The amounts were expensed by Sparkle as wages to Riddell. Other payments were debited to his shareholder loan account. After these first three annual returns however, Mr. Riddell's accountant left the City of Winnipeg. The plaintiff then retained the services of another accountant who is now deceased. During the taxation years in question, this second accountant expensed the interest payments made by Sparkle in respect of the loans under the heading "Bank charges and interest" on the company's Statement of Earnings and Retained Earnings. The payments were not recorded in a shareholder's loan account.
+[5]
+By Notice of Reassessment dated September 23, 1982, the Minister reassessed Mr. Riddell to include in his income the following amounts:
+(a) the following interest paid by Sparkle on on the loans on behalf of Riddell;
+1977 - $28,990.59
+1978 - $27,556.68
+1979 - $27,373.97
+1980 - $39,923.97
+(b) the following sums alleged by the Minister to be the principal portion of the loans paid by Sparkle on behalf of Riddell:
+1977 - $11,990.67
+1978 - $ 9,900.00
+1979 - $ 7,812.22
+1980 - $ 2,553.83
+These amounts were considered by the Minister to be an appropriation of the property of Sparkle by Riddell, and therefore taxable in accordance with s. 15(1) of the
+Income Tax Act
+; and
+(c) allowing Mr. Riddell a deduction on account of interest expense in the amounts stated in paragraph (a) above.
+[6]
+Subsequently, the Minister further reassessed Mr. Riddell disallowing the deductions on account of interest expenses on the basis he did not incur these expenses. The Minister also reassessed Sparkle to disallow the deduction of the interest portion of the loan payments from its taxable income.
+[7]
+The plaintiffs appealed to the Tax Court of Canada which by decision dated April 21, 1986, dismissed the appeal for the following reasons:
+"Throughout, Sparkle paid the interest and principal from its bank account on account of Riddell's personal loan. There was no legal obligation upon Sparkle to make these payments in that they were the obligation of its sole shareholder -- Riddell. Such payments constituted appropriation of company funds for the benefit of Riddell as its sole shareholder. No arrangements for repayment by Riddell were made nor in fact were any repayments made by Riddell. Repayments on behalf of Riddell by Sparkle were not charged to him as a shareholder.
+"A taxpayer is certainly entitled to arrange his affairs in such a way as to avoid taxation if he comes within the wording and spirit of the
+Act
+. Riddell, through his accountant, retained in 1976, set up the books of the Company with a view to avoiding tax. Unfortunately, he arranged them in the wrong way. For instance, the financial statements did not disclose the shareholder loan account. Consequently, Riddell cannot take advantage of the provisions of s. 15(2). He was correctly assessed under s. 15(1) as having received a benefit from Sparkle conferred on him as a shareholder."
+[8]
+The plaintiffs now appeal against that decision on the grounds that the amount paid by Sparkle on behalf of Riddell as principal payments constituted loans to Riddell rather than appropriations of the company's property to him in his position as shareholder, and therefore should be taxable, if at all, under the provisions of s. 15(2) of the
+Income Tax Act
+. They further argue that the amounts referred to as interest were expenses incurred for the purpose of earning or producing income from a business or property and are therefore deductible in computing their taxable income for the years in question.
+[9]
+The defendant maintains the amounts have been correctly assessed to Riddell pursuant to s. 15(1) as they are funds appropriated for his benefit in his capacity as a shareholder of the company. It is further argued that no portion of the interest payments made by Sparkle on account of the loans are deductible by the plaintiff Riddell in computing his personal income, since no monies were paid by him in any of the taxation years in question. Finally, the Minister contends that Sparkle has been correctly assessed for its 1977 through 1980 taxation years on the basis that the amounts claimed by it as interest expense deductions from business income were not amounts paid pursuant to a legal obligation in accordance with s. 20(1)(c) of the
+Act
+.
+[10]
+There are three distinct questions to be addressed here. First, do the loan payments made by Sparkle on behalf of Riddell constitute loans to him by the company within the meaning of s. 15(2) of the
+Income Tax Act
+, or do they constitute an appropriation of the company's property by Riddell in his capacity as a shareholder, thereby falling within the parameters of s. 15(1). Second, are the interest payments made by Sparkle on behalf of Riddell deductible in computing Riddell's personal income tax returns for the taxation years in question. Finally, are the amounts claimed by Sparkle as interest expense deductions from business income deductible in accordance with s. 20(1)(c).
+[11]
+With respect to the first issue, s. 15(1) of the
+Income Tax Act
+requires that the value of a benefit which a corporation confers on a shareholder be added to the shareholder's income for the year in which it is received, unless the benefit is one described in s. 15(1)(a), (b), (c) or (d). A payment made by a corporation, in whatever form, which has the effect of extinguishing a debt or an obligation of a shareholder, constitutes a benefit conferred upon that shareholder within the meaning of s. 15(1).
+[12]
+In the present case, I am satisfied the loan payments made by the company on Riddell's behalf constitute an appropriation of Sparkle's property by Riddell in his capacity as a shareholder and are therefore properly taxed pursuant to s. 15(1) of the
+Income Tax Act
+. There is simply no evidence to support the plaintiffs' contention that the payments made by Sparkle were a loan to Mr. Riddell. No repayment nor arrangements for repayment by Mr. Riddell were ever made. Furthermore, the payments were not charged to Riddell as a shareholder and the financial statements did not disclose the shareholder loan account. As there is no indication that the amounts were paid by Sparkle with the expectation the company would be reimbursed by Riddell, there is no basis for holding the amounts to be a loan to him properly taxed under s. 15(2).
+[13]
+I take an entirely different view however, with respect to whether Mr. Riddell should be permitted to deduct the interest payments in computing his personal income tax returns for the years in question. On this issue, I am satisfied the plaintiffs' appeal should be allowed. The evidence demonstrates that the Minister of National Revenue had a policy in effect, which under these circumstances, permitted taxpayers to make the deductions Mr. Riddell was seeking to make. Exhibit P-3, submitted by counsel for the plaintiff during the trial, is an Audit Review Referral form. It shows the Revenue Canada auditor in charge of Mr. Riddell's file advising his superior that since it was Sparkle which had made the interest payments, he was of the view that Mr. Riddell could not claim the deductions. The response from his superior is unequivocal:
+"In these types of situations, it has been our Policy (as approved by the previous Chief of Audit Review) to allow the shareholder the deductions as if he had paid them himself."
+[14]
+There is no question the Minister is entitled to develop and implement policy in administering the provisions of the
+Income Tax Act
+. Having done so however, it is also indisputable that he is obliged to apply that policy in a fair and even-handed manner. This means of course, that if other shareholders in the same situation as Mr. Riddell were being permitted to make the type of interest deductions he was seeking to make, that advantage must be extended to him as well. It is not open to the Minister to exercise his discretionary power to implement policy in an arbitrary and capricious fashion.
+[15]
+In
+Aurchem Exploration Ltd. v. Whitehorse Mining District (Mining Recorder)
+(1992), 54 F.T.R. 134; 7 Admin L.R.(2d) 168 (T.D.), the plaintiff company applied to register some mining claims. The mining recorder refused to record the claims on the grounds they did not strictly adhere to certain requirements of the relevant legislation. However, for the previous six years, mining recorders had not refused to record claims simply on the basis of this particular nonconformity, but rather had engaged in the practice of modifying them and recording them as appropriate. Strayer, J. (as he then was), granted the plaintiff certiorari and made the following comments FRAGMENT_SUPPRESSED
+[16]
+I find that reasoning to be equally applicable to the facts now before me. Since it was clearly Revenue Canada's practice to allow shareholders in this position to make the deductions for interest payments as if they had made the payments themselves, there can be no valid reason for prohibiting Mr. Riddell from also doing so. Accordingly, the interest payments made by Sparkle against the loans are deductible by Mr. Riddell in computing his personal income tax return for the years in question.
+[17]
+With respect to the amounts claimed by Sparkle as interest expense deductions, I am satisfied the Minister's reassessment is correct. Section 20(1)(c) provides that there must be a legal obligation on the taxpayer to pay the interest in question before a deduction is allowed. Here, as it was the plaintiff Riddell who contracted the loans, it was he who had the legal obligation to the bank to pay the monies. Although Sparkle made the payments to the bank in respect of Riddell's personal loans, it was not under any legal obligation to do so and accordingly is not entitled to make the deductions.
+[18]
+There appears to be some dispute between the parties with respect to the principal portions which were paid on the loans during the taxation years in question. One would assume this to be a relatively straightforward matter that could be resolved by reference to the bank statements. However, should the parties be unable to come to some resolution, a hearing will have to be held in order that evidence may be presented.
+[19]
+For the foregoing reasons, the plaintiffs' appeal is allowed to the extent that the interest payments made on the loans by Sparkle Car Wash Ltd. during the taxation years in question are deductible in computing Mr. Riddell's personal income. In all other respects, the appeal is dismissed. Since success is divided, I make no order as to costs.
+Appeal allowed in part.
+Editor: David Weir/saf
+[End of document]

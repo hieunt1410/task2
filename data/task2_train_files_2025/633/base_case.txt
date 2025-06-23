@@ -1,0 +1,92 @@
+[1]
+Joyal, J.
+: This is an application by the plaintiffs for an order pursuant to rule 336(5) reversing the order of the Senior Prothonotary, on the following grounds:
+1. that the learned Prothonotary erred in deciding that the plaintiffs Repap Sales Corporation and Midtec Paper Corporation are subject to and bound by art. 8 of the
+Commercial Arbitration Code
+;
+2. that the Prothonotary erred in deciding that the parties herein agreed that the claim should proceed by was of arbitration in the United Kingdom;
+3. that the Prothonotary was not legally empowered to grant the said motion.
+[2]
+The defendants also applied for an order dismissing the plaintiff's appeal of the said order of the Senior Prothonotary for reasons of intentional dilatoriness or, alternatively, for an order directing that a specific time and date for hearing of the said appeal be fixed.
+[3]
+This second motion was dismissed and the appeal from the Senior Prothonotary's order was subsequently set down for hearing.
+Background
+[4]
+The parties entered into a contract of affreightment on the 8th of August 1986, whereby the defendants undertook to carry printing paper in rolls from Newcastle, New Brunswick to Port Royal, South Carolina on board the vessel "Repap Enterprise", (hereafter Repap), for a period of five years. At all material times, Repap was chartered by demise from her owners, Ozmillion Shipping Corporation.
+[5]
+The plaintiffs argue that the goods were delivered in a damaged condition and claim $425,000 in damages for breach of contract and or negligence by the defendants.
+[6]
+The defendants applied for an order staying the plaintiffs' action on the grounds that it is in the interest of justice that the proceedings be stayed as the parties had agreed to arbitration in the United Kingdom.
+[7]
+The Senior Prothonotary granted the motion relying on the discretion of the court, and the fairly strict interpretation of art. 8 of the
+Commercial Arbitration Code
+.
+The Applicable Law
+[8]
+The contract entered into by the parties contains a clause whereby they have agreed to submit their dispute to arbitration.
+[9]
+The arbitration clause reads as follows:
+"Clause 50 Arbitration/Proper Law
+"This contract shall be governed by English law. Should any dispute arise between owners and charterers, the matter in dispute shall be referred to three persons in London; one to be appointed by each of the parties hereto and the third by the two so chosen, their decision or that of any two of them shall be final and for the purpose of enforcing any award this agreement may be made a Rule of the Court. The arbitrators shall be commercial men.
+"If either of the appointed arbitrators refuses to act, or is incapable of acting, or dies, the party who appointed him may appoint a new arbitrator in his place. If one of the party fails to appoint an arbitrator either originally of by way of substitution as aforesaid for 7 (seven) clear days after the other party having appointed his arbitrator, has served the party making default with notice to make the appointment, the party who appointed the arbitrator may appoint the arbitrator to act as a sole arbitrator in the reference and his award shall be binding on both parties as if he had been appointed by consent."
+[10]
+The bill of lading issued pursuant to the said contract incorporates the arbitration clause previously cited by the following words:
+"All terms, conditions, liberties and exceptions of the said contract of affreightment dated 8th of August 1986, including the limitation clause 49 and the arbitration clause are herewith incorporated."
+[11]
+It appears to be an accepted rule of construction that in order to incorporate into the bill of lading an arbitration clause, clear and precise language such as "including the arbitration clause" is necessary. General wording such as "incorporating the general terms and conditions of a charterparty" is insufficient. See:
+The "Rena K"
+, [1978] 1 Lloyd's Rep. 545 (at p. 551); and
+T.W. Thomas & Co. Ltd. v. Portsea Steamship Co. Ltd.
+, [1912] A.C. 1 (at p. 6).
+[12]
+In the case of
+The "Oinoussin Pride"
+, [1991] 1 Lloyd's Rep. 126, Mr. Justice Webster states at p. 130:
+"In the absence of authority I would conclude that, if practical, effect should be given to the expressed intention of the parties to the bills, namely, to incorporate the arbitration clause in them, and that it is only practical but necessary to do so by adding those words to cl. 17 in order to give effect to that expressed intention."
+[13]
+The defendants claim that when bills of lading specifically incorporate by reference a contract of affreightment arbitration clause, the parties to the bill of lading are bound to resolve disputes arising thereunder by way of arbitration. See:
+The "Oinoussin Pride"
+, (supra) at pp. 130 and 131, and
+The "Rena K"
+, (supra) at p. 551.
+[14]
+I should therefore conclude that notwithstanding English case law submitted by the plaintiffs adopting a restrictive approach when a provision for arbitration is inserted in a bill of lading by reference to an arbitration clause in the freight contract, the reference in the case before me makes the intention of the parties specifically clear.
+[15]
+With respect to the stay of proceedings granted by the learned Senior Prothonotary, the applicable legislation comes from the
+Commercial Arbitration Act
+, R.S.C. 1985, c. 17 (2nd Supp.), article 8. It is clearly stated in that provision that:
+"A court before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative or incapable of being performed."
+[16]
+By article 8, Parliament imposes a mandatory duty upon the court to stay proceedings and refer the parties to arbitration where an arbitration agreement exists between the parties. See:
+FRAGMENT_SUPPRESSED and
+B.C. Navigation S.A. (Bankrupt) v. Canpotex Shipping Services Ltd.
+(1987), 16 F.T.R. 79 (T.D.) (at p. 80, para. 4).
+[17]
+Furthermore, article 8 is to be given a strict interpretation, as evidenced by the following passage from
+Navionics Inc.
+(supra), at p. 151:
+"The only logical conclusion from the foregoing text is that article 8 should be given a fairly strict interpretation. Furthermore, I should also apply a strict construction approach on the grounds that its imperative provisions is an exceptional departure from the court's inherent jurisdiction and from its traditional discretion in dealing with any application to stay proceedings."
+[18]
+I would like to add that this court, in the exercise of its discretion, has jurisdiction to grant a stay of proceedings when the interest of justice so dictates:
+Federal Court Act
+, R.S.C. 1985, c. F-17, s. 50(1)(b).
+"50(1) The court may, in its discretion, stay proceedings in any cause or matter,
+(b) where for any other reason it is in the interest of justice that the proceedings be stayed."
+[19]
+On this matter, the following rule was expressed by the majority in the case of
+Ship M/V "Sea Pearl" and Patmos Navigation Co. v. Seven Seas Dry Cargo Shipping Corp.
+(1982), 43 N.R. 517 (F.C.A.), at p. 520, para. 9:
+"Contractual undertaking whereby parties agree to submit their disputes to a foreign court or to arbitration do not deprive the Federal Court of its jurisdiction. However, when proceedings are commenced in defiance of such an undertaking, the court has the discretion to order that the proceedings be stayed. Paragraph 50(1)(b) of the
+Federal Court Act
+confers on the court the discretionary power to stay proceedings where 'it is in the interest of justice that the proceedings be stayed'. As a rule, it is necessary in the interest of justice that contractual undertakings be honoured."
+[20]
+And at p. 521, para. 11:
+"In order to depart from that prima facie rule, 'strong reasons' are needed, that is to say reasons that are sufficient to support the conclusion that it would not be reasonable or just, in the circumstances, to keep the plaintiff to his promise and enforce the contract he made with the defendant."
+Conclusion
+[21]
+I believe that these findings dispose of the present application. I find no authority which support the grounds invoked by the plaintiffs in support of their claim. The parties have provided for arbitration in their agreement and are therefore bound to have their claim proceed in that fashion.
+[22]
+The Senior Prothonotary was right in granting the stay of proceedings to the plaintiffs' action. The appeal before me is therefore dismissed with costs here and below.
+Application dismissed.
+Editor: Angela E. McKay/lrz
+[End of document]

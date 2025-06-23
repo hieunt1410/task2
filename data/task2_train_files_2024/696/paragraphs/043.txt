@@ -1,0 +1,19 @@
+[43]
+Federal Court Rules 432.1 and following were added effective January 13, 1994 and establish a procedure for obtaining summary judgment. The rules permit the use of affidavit evidence and provide:
+"432.1(1) A plaintiff may, after the defendant has filed a defence, or earlier with leave of the court, and at any time prior to the fixing of the time prior to the fixing of the time and date for trial, make a motion to a judge, with supporting affidavit material or other evidence, for summary judgment on all or part of the claim in the statement of claim.
+. . . . .
+"432.2(1) In response to affidavit material or other evidence supporting a motion for summary judgment, a responding party may not rest on the mere allegations or denials of the party's pleadings, but must set out, in affidavit material or other evidence, specific facts showing that there is a genuine issue for trial.
+. . . . .
+"432.3(1) Where a judge is satisfied that there is no genuine issue for trial with respect to a claim or defence, the judge shall grant summary judgment accordingly.
+"(2) Where a judge is satisfied that the only genuine issue is the amount to which the moving party is entitled, the judge may order a trial of that issue or grant summary judgment with a reference to determine the amount.
+"(3) Where a judge is satisfied that the only genuine issue is a question of law, the judge may determine the question and grant summary judgment accordingly.
+"(4) Where a judge decides that there is a genuine issue with respect to a claim or defence, the judge may nevertheless grant summary judgment in favour of any party, either upon issue or generally, unless
+(a) the judge is unable on the whole of the evidence to find the facts necessary to decide the questions of fact or law; or
+(b) the judge considers that it would be unjust to decide the issues on the motion for summary judgment.
+. . . . .
+"432.5 Where a summary judgment is refused or is granted only in part, the judge may make an order specifying what material facts are not in dispute and defining the issues to be tried, and may give such directions or impose such terms as the judge deems just, including an order
+(a) for payment into court of all or part of the claim;
+(b) for security for costs; and
+(c) limiting the nature and scope of discovery, if any, to matters not covered by the affidavits filed on the motion for summary judgment and any cross-examination on them, and providing for the use of the affidavits and cross-examination at the trial in the same manner as an examination for discovery.
+"432.6 Where it appears that the enforcement of a summary judgment ought to be stayed pending the determination of any other issue in the action or counterclaim, cross-demand or third party claim, a judge may so order on such terms as the judge deems just.
+"432.7 Rules 432.1 to 432.6 apply, with such modifications as the circumstances require, to counterclaims, cross-demands and third party claims."

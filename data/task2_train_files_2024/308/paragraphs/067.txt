@@ -1,0 +1,7 @@
+[67]
+The evidence before the judge who granted the order was:
+1) The affidavit of Andrew G. Younger where he stated:
+"I believe that if KLJ, McArthur Thompson and One 2 One were to receive notice of the plaintiffs' motion to obtain an order to search their individual premises, that there is a strong possibility that they would destroy and erase the unauthorized copies of computer programs that evidence their copyright infringement."
+2) The affidavit of Anne Marie Murphy where she stated:
+"Computer programs and computerized records and record-keeping systems can be altered or rendered prohibitively difficult to access in seconds by deletion of the directories in which the necessary information is contained. Documentary evidence can, of course, also be hidden or destroyed.
+"Because of the ease with which evidence can be destroyed or removed, and based on my experience in co-ordinating enforcement actions in Canada and the United States, I believe there is a high risk the defendants will destroy or alter information stored on computers or other computer-related devices, destroy or remove documentary evidence or counterfeit products, and otherwise conceal the existence and extent of their unlawful activities if given the opportunity to do so. Accordingly, I believe that it is likely that the plaintiffs and the court will be seriously, if not irreparably, prejudiced if the defendants are given notice of this motion and if an ex parte order providing for entry into the premises and removal of evidence is not made."

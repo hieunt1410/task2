@@ -1,0 +1,18 @@
+[29]
+In
+Merck & Co. v. Apotex Inc.
+, [see footnote 32] the Court of Appeal considered the validity of composition claims with no inventive ingenuity within the same patent as the claims for the compound. After noting the Supreme Court's two reasons for disal­lowing the composition claims in the divi­sional application in
+Farbwerke Hoechst
+, MacGuigan, J.A., summarized that decision in these words:
+"However, in effect, this was another case establishing that, once a patent has been granted in respect of an invention, another patent will not be assured for something that is inherent in the same invention." [see footnote 33]
+From this, I conclude that as recently as its decision in
+Merck & Co.
+, the Court of Appeal interpreted
+Farbwerke Hoechst
+as applying regardless of s. 41. After reviewing the cases that followed
+Farbwe­rke Hoechst
+, Justice MacGuigan stated:
+"At least after
+Shell Oil
+, it must be clear that the earlier cases do not stand for the proposition that a composition claim can­not survive with a compound claim, on the ground that it involves no inventive in­genuity. As long as there is no separate invention in the compositions, there is no rule that claims to compounds and claims to compositions including them cannot be combined in a single patent.
+"Indeed, quite the contrary is the case. Within a single patent a variety of aspects of an invention may be claimed. It has thus been longstanding practice to permit differ­ent kinds of claims in the same patent." [see footnote 34]

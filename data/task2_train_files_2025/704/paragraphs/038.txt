@@ -1,0 +1,14 @@
+[38]
+With respect to claims 1 to 4, I cannot agree that there is no infringement simply because the defendants reinforce their fur strips. The defendants' product is comprised of the same components that are found in claim 1 of the plaintiffs' patent; that is, an elongated furry strip, and an elongated non-furry piece, which are knitted, woven or crocheted to form a fabric having oppositely facing furry surfaces. While it is clear that the defendants' product adds the extra component of reinforcement, which is an improvement on the plaintiffs' product as described in claim 1, this does not mean that there is no infringement. The law is clear that where the alleged infringing manufacture or product falls within the words of a claim, it is no defence to show that it involves ingenuity.
+Marconi and Marconi's Wireless Telegraph Co. v. British Radio-Telegraph and Telephone Co.
+(1911), 28 R.P.C. 181, at 218. In essence, the mere adding of improvement to an infringing device does not serve to escape liability. As stated in
+Wenham Gas Co. v. Champion Gas Lamp Co.
+(1891), 9 R.P.C. 49 (C.A.), at 56 "The superadding of ingenuity to robbery does not make the operation justifiable". More recently, I note the case of
+Airseal Controls Inc. v. M & I Heat Transfer Products Ltd.
+(1993), 72 F.T.R. 196 (T.D.). In this case Dubé, J., states:
+"Under section 44 of the
+Act
+, the patentee enjoys exclusivity of his invention. The general principle is set out very clearly by Fox.
+'In general, infringement is committed where any person without licence from the patentee, either directly or indirectly makes, uses, or puts into practice the invention or any part of it that is embraced by the claims.'
+"Thus, there is infringement when the essential components of an invention have been appropriated by the infringer ... Moreover, although a defendant has applied for and obtained its own patent for an 'improvement', it may have appropriated the pith and substance of the patent alleged to be infringed."
+A simple example of such a proposition was suggested by counsel for the plaintiff, who argued that one who improves the wheel by inventing a bicycle still infringes the patent for the wheel unless licensed to use it. I therefore find that the defendants' product infringes claims 1 to 4 of the plaintiffs' patent. It is, therefore, not necessary to decide whether claims 5 to 8, which are process claims, or claims 9 to 19 are infringed.

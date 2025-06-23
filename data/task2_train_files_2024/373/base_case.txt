@@ -1,0 +1,306 @@
+[1]
+Martineau, J.
+: Pursuant to s. 44 of the
+Access to Information Act
+, R.S.C. 1985, c. A-1 (the
+Act
+), the applicant, Brainhunter (Ottawa) Inc., seeks review of a decision made by Public Works and Government Services Canada (PWGSC), to permit the disclosure of the remaining information contained within a bid tendered by the applicant in response to a request for proposals (RFP) issued by PWGSC, regarding the provision of information technology services at Citizenship and Immigration Canada (CIC).
+[2]
+The record in question is a redacted document comprising of pages 1 to 476 and pages 1071 to 1106 of the applicant's original bid to PWGSC. A copy of this record was provided in the applicant's confidential application record. As requested by the Court, the respondents submitted a copy of the original documentation on a confidential basis.
+Background
+[3]
+The applicant is a technology staffing and recruiting solutions company in the business of identifying, locating and evaluating Canada's strongest technical and business professionals for both contract and permanent solutions.
+[4]
+In December 2005, PWGSC issued solicitation No. B8201-040095/A, which commenced a tender process in search of the best contract for the provision of informational technology (IT) professional services at CIC. This tender process was initiated by way of an RFP, which is a comprehensive document, consisting of a model contract, a statement of work and the mandatory requirements for the positions to be staffed by qualified IT consultants. The RFP is a public document.
+[5]
+The applicant submitted a bid in response to the RFP and was later awarded the contract.
+[6]
+In February 2007, the PWGSC received a request under the
+Act
+seeking disclosure of "all the winning proposals for PWGSC (Citizenship and Immigration Canada - Stream C) including the proposal by CNC Global." PWGSC identified the applicant as a third party affected by the request and on July 11, 2007, pursuant to s. 27(1) of the
+Act
+, PWGSC contacted the applicant to inform them of the request and of their right to make written representations as to why the information sought should not be disclosed.
+[7]
+On July 30, 2007, the applicant submitted representations objecting to the release of virtually the whole bid on the basis that the information contained therein fell within the exemptions listed in s. 20(1) of the
+Act
+. On March 31, 2008, the director of the access to information and privacy office at the PWGSC contacted the applicant to inform them that their submissions had been considered, and that the applicant's bid would be
+partially
+exempt from disclosure under ss. 19(1), 20(1)(b), 20(1)(c) and 24(1) of the
+Act
+(the presently exempted information).
+The present application
+[8]
+The applicant claims that the remaining information (the record in question), some of which is in redacted format, is also confidential and should be exempted from disclosure under paragraph 19(1), ss. 20(1)(b) and/or 20(1)(c) of the
+Act
+. The applicant seeks, inter alia, an order of the Court, pursuant to s. 51 of the
+Act
+, prohibiting PWGSC from disclosing the records in question.
+[9]
+The Minister of PWGSC and the Attorney General of Canada are designated as respondents and oppose this application.
+Relevant legislative provisions
+[10]
+The exemptions presently claimed by the applicant are based on ss. 19(1), 20(1)(b) and/or 20(1)(c) which read as follows:
+"19(1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Act that contains personal information as defined in section 3 of the Privacy Act.
+"20(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains
+. . . . .
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+. . . . .
+(c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; ..."
+"19(1) Sous réserve du paragraphe (2), le responsable d'une institution fédérale est tenu de refuser la communication de documents contenant les renseignements personnels visés à l'article 3 de la Loi sur la protection des renseignements personnels.
+"20(1) Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant:
+. . . . .
+b) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
+. . . . .
+c) des renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité; ..."
+Standard of review
+[11]
+The applicable standard of review is correctness. The use of the word "shall" in s. 20(1) clearly suggests that no deference should be accorded to the government institutions who decide to disclose information in their possession (
+Canadian Tobacco Manufacturers' Council et al. v. Minister of National Revenue et al.
+(2003), 239 F.T.R. 1; 2003 FC 1037, at paragraph 78 (
+Canadian Tobacco
+);
+St. Joseph Corp. v. Canada (Minister of Public Works and Government Services)
+(2002), 218 F.T.R. 41; 2002 FCT 274, at paragraph 31 (
+St. Joseph Corp.
+)). Moreover, with regard to s. 19(1), in light of the lack of privative clause in the
+Act
+and the nature of decisions made pursuant to s. 19, no deference is owed to the head of the government institution (
+Information Commissioner (Can.) v. Royal Canadian Mounted Police (Commissioner)
+, [2003] 1 S.C.R. 66; 301 N.R. 41; 2003 SCC 8, at paragraphs 15 to 19 (
+RCMP
+)).
+Determination by the Court
+[12]
+The Court's role is to consider PWGSC's decision to disclose on a de novo basis, "including, if necessary, a detailed review of the records in question document by document" (
+Air Atonabee Ltd. v. Canada (Minister of Transport)
+, [1989] F.C.J. No. 453; 27 F.T.R. 194 (T.D.) (
+Air Atonabee
+)).
+[13]
+According to the purpose of the
+Act
+, as provided in s. 2(1), disclosure of records possessed by the government is the rule, not the exception. Accordingly, the onus of proof rests on the party seeking to exempt any such records from disclosure. Consistent with the purpose of the
+Act
+, there is a "heavy burden" on the party seeking to prevent disclosure (
+St. Joseph Corp.
+, above, at paragraphs 32, 34 and 35).
+[14]
+Prior to arriving at its own conclusion in this case, the Court has weighed all the evidence submitted by the parties and conducted a page by page examination of the record in question. The Court has found that the applicant has not shown that PWGSC erred when refusing to exempt from disclosure the record in question, and that the remaining information should not be exempted from disclosure under paragraph 19(1), ss. 20(1)(b) and/or 20(1)(c) of the
+Act
+.
+Does the record in question contain personal information?
+[15]
+Section 19(1) provides an exemption for "personal information", as defined in s. 3 of the
+Privacy Act
+, R.S.C. 1985, c. P-21 (
+Privacy Act
+). The applicant argues that its bid contains information related to the employment history of certain identifiable individuals, which falls within this definition, and particularly, paragraph 3(b) of the
+Privacy Act
+. The respondents submit, on the contrary, that the remaining information is not exempted from the disclosure, as it clearly falls under the exclusions mentioned in paragraph 3(j) and (k) of the
+Privacy Act
+.
+[16]
+According to s. 3 of the
+Privacy Act
+, "personal information" is:
+"... information
+about an identifiable individual
+that is recorded in any form
+including
+, without restricting the generality of the foregoing,
+. . . . .
+(b) information relating to the education or the medical, criminal or employment history of the individual or information relating to financial transactions in which the individual has been involved,
+. . . .
+but, for the purposes of
+sections 7, 8 and 26 and
+section 19 of the Access to Information Act, does not include
+(j)
+information about an individual who is or was an officer or employee of a government institution that relates to the position or functions of the individual
+including,
+(i) the fact that the individual is or was an officer or employee of the government institution,
+(ii) the title, business address and telephone number of the individual,
+(iii) the classification, salary range and responsibilities of the position held by the individual,
+(iv) the name of the individual on a document prepared by the individual in the course of employment, and
+(v) the personal opinions or views of the individual given in the course of employment,
+(k)
+information about an individual who is or was performing services under contract for a government institution that relates to the services performed
+, including the terms of the contract, the name of the individual and the opinions or views of the individual given in the course of the performance of those services, ..." (Emphasis added)
+"... enseignements, quels que soient leur forme et leur support,
+concernant un individu identifiable
+,
+notamment
+:
+. . . . .
+b) les renseignements relatifs à son éducation, à son dossier médical, à son casier judiciaire, à ses antécédents professionnels ou à des opérations financières auxquelles il a participé;
+. . . . .
+toutefois, il demeure entendu que
+, pour l'application des articles 7, 8 et 26, et de
+l'article 19 de la Loi sur l'accès à l'information
+, les renseignements personnels
+ne comprennent pas
+les renseignements concernant:
+j)
+un cadre ou employé, actuel ou ancien, d'une institution fédérale et portant sur son poste ou ses fonctions
+, notamment:
+(i) le fait même qu'il est ou a été employé par l'institution,
+(ii) son titre et les adresse et numéro de téléphone de son lieu de travail,
+(iii) la classification, l'éventail des salaires et les attributions de son poste,
+(iv) son nom lorsque celui-ci figure sur un document qu'il a établi au cours de son emploi,
+(v) les idées et opinions personnelles qu'il a exprimées au cours de son emploi;
+k)
+un individu qui, au titre d'un contrat, assure ou a assuré la prestation de services à une institution fédérale et portant sur la nature de la prestation
+, notamment les conditions du contrat, le nom de l'individu ainsi que les idées et opinions personnelles qu'il a exprimées au cours de la prestation; ..." (Accentuation)
+[17]
+In the
+RCMP
+case, above, the Supreme Court of Canada discussed the relationship between s. 3(b) and 3(j) of the
+Privacy Act
+. It noted at paragraphs 35 and 38:
+"... only information relating to the position or functions of the concerned federal employee or falling within one of the examples given is excluded from the definition of 'personal information'. A considerable amount of information that qualifies as 'employment history' remains inaccessible, such as the evaluations and performance reviews of a federal employee, and notes taken during an interview. Indeed, those evaluations are not information about an officer or employee of a government institution that relates to the position or functions of the individual, but are linked instead to the competence of the employee to fulfil his task.
+"...
+the examples mentioned in s. 3(j) are not exhaustive.
+However, s. 3(j) does have a specified scope, as the information must be related to the position or functions held by a federal employee ...
+Section 3(j) applies when the information -- which is always linked to an individual -- is directly related to the general characteristics associated with the position or functions held by an employee, without the objective or subjective nature of that information being determinative.
+" (Emphasis added)
+[18]
+This Court remarks that in the
+RCMP
+case, the Supreme Court ordered the disclosure of (1) the list of historical postings, their status and date; (2) the list of ranks, and the dates they achieved those ranks; (3) their years of service; and (4) their anniversary date of service, finding that such information fell squarely within paragraph 3(j) of the
+Privacy Act
+, as it related to the positions and functions of the RCMP officers in question. However, the applicant urges this Court to distinguish the facts of the
+RCMP
+case from the case at bar on the basis that the remaining information in the applicant's bid is not directly related to the general characteristics associated with the positions held or the functions performed by the individuals in question. The applicant argues that the remaining information concerning the federal government contracts performed by specific individuals provide personal information about the employment history of these individuals.
+[19]
+I have reviewed the record in question. In its redacted format, it does not contain any personal information that should be exempted from disclosure under s. 19(1) of the
+Act
+. The names of individuals, as well as their personal CV's and evaluations or performance reviews have been redacted from the bid and are not readily discernible from a reading of the remaining information. The remaining information concerning past contracts with governmental organisations is not "about" any "identifiable individual", it simply comprises references to the positions occupied by unnamed individuals in various organisations. Moreover, the applicant uses the exact language provided in the RFP with regard to the mandatory requirements for the various positions to demonstrate that their proposed candidates have the required technical experience. The only unique information is the numbers of years of experience each individual candidate has in relation to the mandatory requirement. The particular projects are also redacted. It is unlikely that anyone would be able to discover the identities of these particular individuals simply based on the information provided, further considering that government departments and municipalities are fundamentally very large public organizations.
+[20]
+However, at this point, it should be noted that after having gone through the record in question, it is apparent that PWGSC has not yet thoroughly redacted the names of
+all
+individuals from the bid. Specifically at pages 173 and 216 of the applicant's confidential application record, the identity of particular individuals is still provided. There may be other such instances of such administrative oversight. For example, while not argued, it also appears that the names of certain references and their contact information have not yet been redacted from the confidential version of the record filed with the Court. Thus, prior to any disclosure of the remaining information, PWGSC must make the appropriate redactions.
+Does the record in question contain confidential commercial information?
+[21]
+Paragraph 20(1)(b) of the
+Act
+provides for an exemption to disclosure for information which has been supplied by a third party to a government institution, and which is confidential commercial information that has consistently been treated in a confidential manner. The information must be: (1) financial, commercial, scientific or technical information as those terms are commonly understood; (2) confidential in its nature, according to an objective standard which takes into account the content of the information, its purposes and the conditions under which it was prepared and communicated; (3) supplied to a government institution by a third party; and (4) treated consistently in a confidential manner by the third party (
+Canada Post Corp. v. National Capital Commission
+(2002), 221 F.T.R. 56; 2002 FCT 700, at paragraph 10, quoting from
+Air Atonabee
+, above).
+[22]
+Based on the Court's assessment of the evidence and representations made by the parties, as well as the Court's thorough review of the record in question, the test for the application of the exemption in paragraph 20(1)(b) of the
+Act
+is not met.
+[23]
+There is no dispute that the record in question was supplied by a third party, the applicant, to a government institution, PWGSC. With regard to the commercial nature of the information, the applicant relies on the dictionary definition of "commercial", which is "of, engaged in or concerned with, commerce", to argue that the whole record in question, which was created for the sole purpose of securing a commercial contract with the PWGSC, is commercial in nature. However, in order for a record to qualify as commercial in nature the record must actually contain "commercial information" (
+Appleton & Associates et al. v. Clerk of the Privy Council Office
+(2007), 319 F.T.R. 1; 2007 FC 640, at paragraph 26).
+[24]
+The record in question does not relate to trade or commerce, but reflects the basic fact that the applicant wants to trade services for money with the government. A very large portion of the remaining information contained in the record pertains exclusively to the way in which various candidates satisfy the mandatory requirements for the positions set out in the RFP. By itself, this information is not commercial in nature. That said, there is some general corporate information in the executive summary and there are references to previous contracts with governmental organizations for similar services; however the Court doubts very much that any such general information can be labeled "commercial". In any event, the applicant has failed to provide actual direct evidence of
+any specific confidential commercial information
+. (Emphasis added)
+[25]
+In order to establish the confidential nature of the information, the applicant must provide actual direct evidence of the confidential nature of the remaining information which must disclose a reasonable explanation for exempting each record. Evidence which is vague or speculative in nature cannot be relied upon to justify an exemption under s. 20(1). See
+Information Commissioner (Can.) v. Canadian Transportation Accident Investigation and Safety Board
+(2006), 348 N.R. 263; 2006 FCA 157, at paragraph 73;
+Information Commissioner (Can.) v. Atlantic Canada Opportunities Agency
+, [1999] F.C.J. No. 1723 (F.C.A.), at paragraph 3; and
+Wyeth-Ayerst Canada Inc. v. Canada (Attorney General)
+(2003), 305 N.R. 317 (F.C.A.), at paragraph 20. The applicant has not met this burden.
+[26]
+Moreover, in
+Air Atonabee
+, above, the Court provided helpful indications with respect to the claimed confidentiality of a record:
+"a) that the content of the record be such that the information it contains is not available from sources otherwise accessible by the public or that could not be obtained by observation or independent study by a member of the public acting on his own,
+"b) that the information originate and be communicated in a reasonable expectation of confidence that it will not be disclosed, and
+"c) that the information be communicated, whether required by law or supplied gratuitously, in a relationship between government and the party supplying it that is either a fiduciary relationship or one that is not contrary to the public interest, and which relationship will be fostered for public benefit by confidential communication."
+[27]
+The bid contains a statement of confidentiality. No doubt, the applicant desired the record in question to be treated as confidential. However, the existence of a confidentiality statement is not, by itself, determinative of the reasonableness of the assertion made here by the applicant, especially in light of the fact that the record was created in the context of a professional bid involving the expenditure of public funds.
+[28]
+Since the provisions of the
+Act
+cannot be contracted out of, it is not clear to the Court that
+the totality of the information
+contained in the record in question was communicated to the PWGSC with a reasonable expectation of confidence. See
+Canadian Tobacco
+, above, at paragraph 124;
+Coradix Technology Consulting Ltd. v. Canada (Minister of Public Works and Government Services)
+(2006), 307 F.T.R. 116; 2006 FC 1030, at paragraph 23 (
+Coradix
+). (Emphasis added)
+[29]
+This Court noted in
+Canada Post Corp. v. Canada (Minister of Public Works and Government Services)
+(2004), 247 F.T.R. 110; 2004 FC 270, at paragraph 40:
+"The public policy rationale underlying the
+Act
+is that the disclosure of information provided to a government institution is the rule not the exception.
+The tendering process for government contracts is subject to the
+Act
+. A potential bidder for a government contract knows, or should know, when submitting documents as part of the bidding process that there is no general expectation that such documents will remain fully insulated from the government's obligation to disclose, as part of its accountability for the expenditure of public funds.
+In this context, the Applicant's claim that it held an 'expectation' that its records would be held in confidence, based on the disputed letter, is unreasonable."
+[30]
+In light of the foregoing, the Court finds that the remaining information contained in the record in question should not be exempted from disclosure under paragraph 20(1)(b) of the
+Act
+.
+Would disclosure of the remaining information prejudice the applicant's competitive position?
+[31]
+Section 20(1)(c) of the
+Act
+exempts from disclosure any information which, if disclosed, would reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of a third party. At the hearing before the Court, counsel on each side focused on the scope and application of this particular exemption considering the facts of this case and the nature of the remaining information contained in the record in question.
+[32]
+The test under s. 20(1)(c) requires the applicant to establish on a balance of probabilities, a reasonable expectation of probable harm (
+Canada Packers Inc. v. Canada (Minister of Agriculture) et al.
+, [1989] 1 F.C. 47; 87 N.R. 81 (F.C.A.), at paragraph 22, [1988] F.C.J. No. 615;
+Canadian Broadcasting Corp. v. National Capital Commission
+, [1998] F.C.J. No. 676; 147 F.T.R. 264 (T.D.), at paragraph 24). In meeting this burden, the applicant cannot make simple assertions, but must demonstrate a direct link between disclosure and the alleged harm (
+Coradix
+, above, at paragraph 30). An applicant cannot demonstrate a reasonable expectation of probable harm simply by attesting in an affidavit that such a result will occur if the records are released. Further evidence that establishes that these outcomes are reasonably probable is required (FRAGMENT_SUPPRESSED).
+[33]
+In arguing that they have made out a reasonable expectation of probable harm, the applicant relies heavily on this Court's decision in
+Coradix
+, above, which they say is integral to the determination of the issues at hand. In that case, a private sector company in the business of providing professional services in the field of information technology sought review of a decision by PWGSC to disclose that company's winning bid in a government procurement. The government redacted portions of the bid, including portions dealing with unit price, but decided the rest of the record could be disclosed.
+[34]
+Finding that the information in
+Coradix
+should be exempted from disclosure pursuant to s. 20(1)(c) of the
+Act
+, Justice Hansen remarked at paragraphs 31 and 32:
+"31 On a section 44 review, the Court must engage in a detailed scrutiny of the information to determine whether all or parts of the information should be withheld from disclosure. In the present case, there are a number of instances where when read in isolation it is not readily apparent how the disclosure of a specific item could compromise the Applicant's competitive position.
+However, when read in its entirety, it becomes apparent that it is the composite of these various business and management strategies that constitute the Applicant's methodology and approach to its core business, successful human resource management and quality control.
+Viewed in this light, it becomes evident that should the Information be disclosed, a competitor could implement or replicate the Applicant's methodology in subsequent bids to its competitive advantage and to the detriment of the Applicant's competitive position.
+"32 Having regard to the uncontradicted evidence relied upon by the Applicant consisting of the 'commoditized' nature of the industry, the government's past requests for proposals, the government's methodology used to evaluate the proposals, the importance of differentiation on the basis of corporate qualifications, the criteria the government will likely use in future solicitations
+and the fact that the Applicant's core business is in its unique approach to quality assurance and human resource management
+, I am satisfied on a balance of probabilities that the Applicant has a reasonable expectation of probable harm if the Information is disclosed." (Emphasis added)
+[35]
+The record in
+Coradix
+remains confidential so there is no way of verifying what particular information was exempted. What we do know from the public disclosure, is that the remaining information exempted from disclosure by the Court contained certain information about Coradix's past clients, its service delivery management approach and its technical proposal to the procurement. In the present application, the applicant essentially argues that it is not a specific portion of the bid which they seek to exempt from disclosure, but the whole bid itself, since over the years they have perfected a method of structuring their bid proposals which respond directly to the needs of the federal department issuing the solicitation. In sum, such "know-how" is privy to the applicant and should not be divulged by PWGSC since, in future bids, competitors will be able to replicate the applicant's unique methodology. The applicant observes that the bids are often awarded points for presentation, which can make their template as valuable as other substantive aspects of their bids. While the applicant acknowledges that each RFP is different, they submit that government departments often reuse certain parts of an RFP, with the result that any disclosure of their bid would give a competitor an advantage in future solicitation processes.
+[36]
+The applicant also asserts that the market in which they operate is dominated by several private sector companies which continuously compete for consultant resources and a limited number of federal government contracts. In their 26 years of existence, the applicant argues that they have focused on procuring federal government contracts which supports their contention that they have developed a unique strategy that would prejudice their competitive position if released. The applicant submits that the record in question, even in its present redacted format, would still enable someone to discover the identity of the individuals proposed. This in turn would enable competitors to learn the preferred market rates of those individuals, which could then be used to calculate an approximation of the applicant's overall pricing strategy. The applicant also suggests that given the nature of the request, there is good reason to believe the requester is a direct competitor.
+[37]
+I have carefully reviewed the evidence, including the confidential affidavit of Corine Porter, and conclude that, aside from general statements of prejudice or competitive disadvantage, the applicant has failed to provide evidence that there exists a reasonable expectation of probable harm if the record in question is released. In the Court's opinion, the applicant's allegations are based on speculation and do not apply to the remaining information contained in the record in question, given its redacted format. Moreover, in light of the Court's conclusions regarding personal information, there is no reason to believe that any member of the public, including competitors, will be able to deduce the identity of the individuals included in the record in question.
+[38]
+The applicant has simply not met their burden under s. 20(1)(c) of the
+Act
+. The identity of the requester is irrelevant. The Court notes that the original bid has been significantly redacted. The applicant has contented itself to offer only vague assertions about the uniqueness of their bid proposals without specifically referencing information in the record. Furthermore, the record in its redacted form does not disclose information that is coherent or useful enough to undermine the applicant's competitive position. The bidding process is forward looking and bidders must provide the best technical and financial proposals each time they submit a proposal. Each proposal is different with regard to pricing and technical requirements, and furthermore, financial proposals are not disclosed.
+[39]
+A large portion of the remaining information simply repeats the template used by PWGSC in its RFP. There is no evidence that the applicant's claimed "know-how" in drafting government bids is unique to their company. Indeed, a comparison between the bid made by the applicant and the RFP shows that the general proposal format, as well as the technical portions of the proposal, comply with the instructions and presentation methods dictated by PWGSC in the RFP (see s. 2 of the RFP). In Annex A (statement of work) of the RFP, there is already a detailed description of the positions and tasks to be filled by potential candidates put forward in the proposal. Furthermore, in Appendix A (resource categories), there is a template of the mandatory requirements (M) and the point rated requirements (R) for each of these positions, together with a blank space indicating the reference in the RFP that must be completed by the contractor who is submitting the proposal. Thus, the methodology used by the applicant in creating their bid is consistent with the organization of the RFP, which is already a public document (see s. 3 of the RFP).
+[40]
+Again, it is necessary to reiterate that each application to review an access to information review request must be assessed on its own merit. Contrary to Justice Hansen in
+Coradix
+, based on the particular facts and records before the Court in the present case, the applicant has not established, on a balance of probabilities, that there is a reasonable expectation of competitive prejudice if the remaining information contained in the record in question, whether read in isolation or read its entirety, was disclosed by PWGSC. Mere assertions of prejudice based on the particular nature of the applicant's core business and the market for federal government procurements are not sufficient. Having reviewed the matter on a de novo basis, the Court is satisfied today that any potentially sensitive information related to the applicant's methodology and approach to human resources management and quality control, including any information on: methods of recruitment and selection of candidates, pricing and costs allocation, evaluation of personnel, problem solving and feedback with clients, the value of the bid and past contracts, contract accountability and timely response to task authorizations, along with all other information (commercial, corporate or otherwise) which constitutes the applicant's core business and serves to distinguish the applicant from its competition, has been already excluded by PWGSC or redacted from the remaining information contained in the record in question (the presently exempted information).
+Conclusion
+[41]
+For all these reasons, the present application under s. 44 of the
+Act
+shall be dismissed, with costs in favour of the respondents.
+JUDGMENT
+[42]
+THIS COURT ADJUDGES AND ORDERS that
+the application made by the applicant under s. 44 of the
+Access to Information Act
+be dismissed, with costs in favour of the respondents.
+Application dismissed.
+Editor: E. Joanne Oley/gs
+[End of document]

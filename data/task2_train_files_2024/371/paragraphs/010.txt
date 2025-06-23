@@ -1,0 +1,15 @@
+[10]
+The standard of review that applies on such an appeal has been well stated by Jerome, A.C.J., in
+Astra Aktiebolag et al. v. Aastra Corp. et al.
+(1994), 90 F.T.R. 172; 59 C.P.R.(3d) 340 (T.D.):
+"While rule 336(5) grants the right of appeal from such a decision or order of a prothonotary, it is markedly silent on the standard of review to be applied. In
+R. v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425 (F.C.A.), at pp. 463-464, MacGuigan, J.A., set out the applicable standard of review as follows:
+'I also agree with the Chief Justice in part as to the standard of review to be applied to a discretionary decision of a prothonotary. Following in particular Lord Wright in
+Evans v. Bartlam
+, [1937] A.C. 473 (H.L.), at p. 484, and Lacourcière, J.A., in
+Stoicevski v. Casement
+(1983), 43 O.R.(2d) 463 (Div. Ct.), discretionary orders of prothonotaries ought not be disturbed on appeal to a judge unless:
+"(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+"(b) they raise questions vital to the final issue of the case."
+'Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo.'"

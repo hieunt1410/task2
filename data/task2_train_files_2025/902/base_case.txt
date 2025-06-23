@@ -1,0 +1,253 @@
+INTRODUCTION
+[1]
+Hugessen, J.
+: This is a motion pursuant to Rule 51 appealing the case management prothonotary's order, dated February 1, 2007, in which she struck out the applicant's judicial review application on the ground of abuse of process. She concluded it was an abuse of process for the applicant to commence a judicial review that was based on the same facts and issues as raised by an earlier judicial review application that the applicant had discontinued, particularly because commencing a new application was an attempt to evade the consequences of a procedural case management order made in the discontinued application.
+FACTS
+[2]
+The applicant brought an application on August 8, 2006, for judicial review of what it claims was a final decision of the Toronto Port Authority (TPA) of July 26, 2006. In that decision, the applicant alleges, the respondent set out with finality the terms under which Jazz Air would be permitted to operate at the Toronto Island Airport (TIA), also sometimes referred to as the Toronto City Centre Airport (TCCA), and refused consent to a sublease for premises at the airport. In brief, the applicant argues that the respondent acted contrary to its statutory authority and in excess of its jurisdiction by discriminatorily restricting Jazz Air's access to, and use of, the TIA.
+[3]
+The dispute extends back to the beginning of 2006. On January 31, 2006, Jazz Air received a notice of termination from its landlord at the TIA, the intervener City Centre Aviation Ltd., terminating its leased spot. The applicant tried to find alternative space and approached the respondent for assistance. The respondent raised the issue of the applicant entering into a new Commercial Carrier Operating Agreement (CCOA) and in February 2006 proposed a new CCOA that Jazz Air did not agree with.
+[4]
+At the same time, the interveners announced their intention to begin operating Porter Airlines out of the TIA.
+[5]
+The applicant first commenced an action in the Ontario Superior Court on February 23, 2006, against the respondent and the interveners. The litigation is ongoing and in it the applicant seeks damages arising from the termination of its lease.
+[6]
+The applicant commenced its first judicial review application on March 9, 2006. The same parties were involved. On motion by the interveners, June 6, 2006, the prothonotary determined that the applicant's March 2006 application should be converted into an action. Essentially, the basis for her determination was that Jazz's judicial review application challenged multiple decisions over many years and raised issues of conspiracy and breaches of the
+Competition Act
+, R.S.C. 1985, c. C-34, that could only be determined by way of viva voce evidence. In addition, she held that the applicant's judicial review application was actually a complex commercial dispute. That decision was upheld on appeal on July 20, 2006, by Justice Rouleau. No further appeal was taken from his judgment.
+[7]
+During the appeal before Justice Rouleau, the applicant expressly sought by way of alternative relief an order allowing it to file an amended application for judicial review nunc pro tunc. The proposed amended application was slightly narrower than the March 2006 application and removed references to the conspiracy claims and to the interveners. Justice Rouleau refused to deal with this request and that decision was neither appealed to the Federal Court of Appeal nor was it renewed before the case management prothonotary.
+[8]
+Meanwhile, negotiations continued between the applicant and respondent from March to July 2006. At the applicant's insistence, these were specified to be on a "without prejudice" basis.
+[9]
+In July 2006 the applicant negotiated another leasing arrangement with Stolport Corporation (Stolport). On July 6, the applicant announced publicly that it would resume flights out of the TIA. On July 26, 2006, the respondent again communicated the refusal to allow Jazz Air to resume its operations at the TIA and communicated to Stolport that the leasing arrangement was contingent upon a concluded CCOA.
+[10]
+On August 8, 2006, at the very time when it was due to file a statement of claim converting its first application into an action, the applicant discontinued the March 2006 application. On the same day it commenced the August 2006 application, naming only the TPA. The new application was somewhat narrower than the old one in that it did not name the interveners and did not raise the allegations of conspiracy or breaches of the
+Competition Act
+.
+THE DECISION OF THE PROTHONOTARY
+[11]
+The prothonotary concluded that the reason the applicant commenced the second application was to circumvent her case management order of June 6, 2006, where she had ordered that the application be converted to an action. She also considered that a party may discontinue a proceeding and commence a new one involving the same subject matter where there has been no prior determination on the merits, but it may be prevented from doing so where a Court finds the actions constitute abuse. On the law, the prothonotary noted that in
+Sauve v. Canada
+, [2002] F.T.R. Uned. 497; 2002 FCT 721, it was held that a contravention of a case management order could constitute an abuse of process.
+[12]
+She also concluded that even though the applicant dropped some of its allegations, the revised application still involved litigation over a commercial dispute between Jazz Air and the TPA. She further concluded that the July 26, 2006, letter did not constitute a new decision, as it was merely a continuation of decisions that were made in February 2006 and were the subject of the March 2006 application. The prothonotary noted that the revised application was similar to the amendments to the March 2006 application which the applicant had proposed to Justice Rouleau. Thus, there was no substantial difference between the two applications.
+[13]
+With respect to the evidence, the prothonotary noted that the proposed CCOA that formed the subject of the judicial review application in the March 2006 application was also the subject of the August 2006 application. She also noted that the applicant knew since February 2006 that Stolport would not grant the lease until the applicant had entered into a CCOA with the respondent. The subject matter of the dispute had not changed from February 2006.
+[14]
+She concluded at paragraph 33 that:
+"[...] I cannot conclude that discretion should be exercised in Jazz's favour. Jazz has brought or opposed motions needlessly, and there have been duplicative interlocutory proceedings. Jazz has created circumstances requiring the other parties to respond, sometimes on an urgent basis, and it has brought and abandoned or neglected proceedings using the court's process for other collateral purposes in its attempt to re-establish itself at the TCCA. Jazz has sought to avoid the orders of this Court regarding how the determination of this matter should best proceed as part of a thought out and considered strategy [...]"
+[15]
+The prothonotary did not address the issue as to whether the judicial review application was time-barred.
+ISSUES
+[16]
+a. Did the prothonotary err by concluding that the commencement of the August 2006 application constituted an abuse of process because it was factually and legally similar to the March 2006 application and was taken specifically for the purpose of avoiding the earlier case management order converting the first application into an action?
+b. Absent reviewable error, ought this Court to exercise its own discretion differently?
+c. Is the application time-barred?
+THE OVERLAPPING CHARACTER OF THE TWO APPLICATIONS
+[17]
+The prothonotary focused extensively in her finding of abuse on the fact that the applicants essentially discontinued one application and, instead of abiding by her case management order that the application should continue as an action, commenced essentially the same application again, with only slight differences.
+[18]
+The applicant claims that the two applications are very different and puts emphasis on the fact that the first application attacked three separate decisions made in February 2006, and included allegations of conspiracy and anti-competitive behaviour, whereas the second application concentrates on only one decision, that of July 26, 2006, and is based primarily on an alleged failure by the TPA to abide by the terms of the
+Canada Marine Act
+, S.C. 1998, c. 10. The respondent, for its part, however, highlights several aspects of the notices of applications, the affidavits and accompanying materials filed in support of them. These demonstrate quite convincingly that there is little difference in substance between the two applications. The two key factors underlying both applications, namely that the applicant could not receive a lease without a CCOA and the CCOA itself, were unchanged from the March 2006 application.
+[19]
+While the second notice of application sets out slightly narrower grounds for seeking review, it is clear that the applicant knew at the time of the first application that Stolport could not enter into a lease with the applicant unless the applicant signed a CCOA.
+[20]
+While the applicant has dropped its claims of conspiracy and restraint of trade under the
+Competition Act
+, the new application raises the exact same questions of fact and results from the same dispute, which the prothonotary properly found to be a commercial suit between the operator of an airport and one of the airlines making use of that facility.
+[21]
+With respect to the CCOA, in both the March 2006 application and the August 2006 application, the applicant notes that the respondent has purported to terminate the existing CCOA as of August 31, 2006. The applicant notes in paragraph 19 of the August 2006 application that although negotiations ensued, the TPA continues to rely on the CCOA as unilaterally proposed, refusing to meaningfully negotiate the terms of its proposed CCOA.
+[22]
+With respect to the grounds of relief, the August 2006 application encompasses most of the same grounds as in the March 2006 application, with the exception, again, of any claims under the
+Competition Act
+and regarding restraint of trade.
+[23]
+In sum, an examination of the two notices of application suggest that the July 26, 2006, letter was just the latest communication in a series of incidents arising out of the initial decision-making process in February 2006.
+[24]
+Based on a reading of the two applications I conclude, as did the prothonotary, that they raise virtually the same issues and arise out of the same factual matrix. The conclusion that the applicant filed the August 2006 application to circumvent the order of the prothonotary to turn the original application into an action was certainly, in my view, a permissible inference in the circumstances. The issue thus becomes a question of law as to whether the prothonotary was correct that she could find an abuse of process where a party seeks to circumvent an order of the Court.
+[25]
+There is no need to address the jurisprudence respecting whether a party may commence another proceeding after having discontinued a previous proceeding on the same facts and issues, if there has been no final decision on the merits. All the parties to this motion, as well as the prothonotary, appear to agree that this is permissible. What is at issue is how the doctrine of abuse of process may overlap and mitigate the general rule under these circumstances.
+[26]
+The respondent and interveners rely on the definition of abuse of process at paragraph 38 of the Supreme Court decision in
+Toronto (City) v. Canadian Union of Public Employees, Local 79 et al.
+, [2003] 3 S.C.R. 77; 311 N.R. 201; 179 O.A.C. 291; 2003 SCC 63. There is also a succinct definition of abuse of process at paragraph 37 of that judgment, relying on an earlier decision of Justice Goudge:
+"The doctrine of abuse of process engages the inherent power of the court to prevent the misuse of its procedure, in a way that would be manifestly unfair to a party to the litigation before it or would in some other way bring the administration of justice into disrepute [...]"
+[27]
+The applicant is correct that abuse of process, because it prevents a party from seeking redress from a court, may only be invoked in the "clearest of cases" and such cases will be "extremely rare":
+Blencoe v. Human Rights Commission (B.C.) et al.
+, [2000] 2 S.C.R. 307; 260 N.R. 1; 141 B.C.A.C. 161; 231 W.A.C. 161; 2000 SCC 44, at paragraph 120.
+[28]
+While relitigation of the same issues is sometimes permissible, there can be abusive attempts to relitigate. The key case appears to be the one highlighted by the prothonotary,
+Sauve
+. In that case, Justice Lemieux outlined the following parameters surrounding the doctrine of abuse of process at paragraph 19:
+"(1) it is a flexible doctrine, not limited to any set number of categories;
+(2) its purpose is a public policy purpose used to bar proceedings that are inconsistent with that purpose;
+(3) its application depends on the circumstances and is fact and context driven;
+(4) its aim is to protect litigants from abusive, vexatious or frivolous proceedings or otherwise prevent a miscarriage of justice;
+(5) a particular scheme of the rules of court may provide a special sitting for its application."
+[29]
+Justice Lemieux reviewed the circumstances of the case, in which the plaintiff's action had been dismissed on procedural grounds for not proceeding in a timely fashion under a case management order, and the plaintiff had begun another. The applicant submits that the order did not relate to procedure, but involved determination on the merits. The applicant is wrong: by definition dismissal for failure to proceed is not dismissal on the merits and in
+Sauve
+Justice Lemieux stated explicitly at paragraph 20 that the claim never received adjudication on the merits.
+[30]
+Justice Lemieux noted that the second statement of claim was virtually identical to the original in terms of material facts giving rise to the cause of action, cause of action itself and the relief sought. He concluded at paragraph 20:
+"Applying those principles in the particular circumstances of the case before me, I agree with counsel for the respondent that, notwithstanding that the plaintiff's claim has not been adjudicated on the merits, his refiling of his statement of claim after its dismissal under the case management rules constitutes an abuse of process. In my view, he had every reasonable opportunity to advance his case to an adjudication on its merits, was given an opportunity to do so by order of Justice Dubé of this Court, but violated that order and so the dismissal of his first action."
+[31]
+And further at paragraph 23, emphasizing the importance of not making a mockery of case management rules and ordered, a consideration relevant to the present file:
+"Case management judges make a multitude of orders for the purpose of ensuring the orderly progress of an action. To allow a plaintiff to disregard such orders leaving a plaintiff at liberty to simply refile a new mirror action would be contrary to the very purposes of those
+Rules
+."
+[32]
+Although the present case involves two proceedings that are not entirely identical, it is clear on a review of the evidence, as outlined above, that the general substance and purpose of the claims, is identical. Also, like
+Sauve
+, the applicant was given an opportunity to proceed with its litigation, if in a different form than it desired.
+[33]
+As the applicant points out in reply, Justice Dawson appears to have decided to the contrary in
+Envireen Construction (1997) Inc. v. Canada
+, [2007] F.T.R. Uned. 39; 2007 FC 70, where the first action was dismissed for delay after a status review and then a new one commenced 18 months later. Justice Dawson distinguishes the situation in
+Envireen Construction
+from the circumstances in
+Sauve
+. She cites several reasons for concluding there was no abuse of process, and distinguishing the case from
+Sauve
+, including that allowing the second proceeding to go forward resulted in no prejudice to the defendant's ability to defend the action, the Court could impose conditions to ensure the action moved forward and the defendant's costs could be compensated. Thus, Justice Dawson appears to have decided on the specific facts of that case. Furthermore, one of the factors she relied on was that counsel was unfamiliar with the Court processes, a consideration irrelevant to the present file. She explicitly recognized that the new proceeding was not an attempt to circumvent the processes of the Court (see paragraph 14). To the contrary, the prothonotary in this case found that the commencement of new proceedings was directly intended to circumvent the processes of the Court. The evidence supports this finding.
+[34]
+Furthermore, the Federal Court of Appeal in
+Fieldturf Inc. v. Winnipeg Enterprises Corp. et al.
+(2007), 360 N.R. 355; 2007 FCA 95, at paragraph 5 seems to have at least indirectly affirmed that the approach taken in
+Sauve
+is a legitimate course of action open to the Court where it finds on the facts an abuse of process.
+[35]
+On the other hand, there are other cases that have held that to bypass a procedural order and commence new litigation is not, at least not necessarily, an abuse of process. In
+Arbutus Environmental Services Ltd. v. Peace River (Regional District) et al.
+, [2000] B.C.A.C. Uned. 114; 2000 BCCA 261, the British Columbia Court of Appeal suggested that in some circumstances it will not be an abuse of process to recommence a new litigation with the intention of bypassing a procedural barrier barred under the first action. However, Justice Hollinrake noted at paragraph 10 that his decision did not constitute a general rule, but was decided purely on the facts of that case. Similarly, in
+Hunter v. Anderson
+(1997), 29 O.T.C. 95; 34 C.P.C.(4th) 307 (Gen. Div.), the decision was based on the fact that Justice Lederman held that the second action commenced by the plaintiff was not an attempt by the plaintiff to circumvent the order of the Master but rather to expeditiously make the pleading comport with his findings (see paragraph 3). Finally, as noted by the respondent, in
+Murray Duff Enterprises Ltd. v. Van Durme
+(1981), 23 C.P.C. 151 (Ont. Div. Ct.), at paragraph 2, Justice Van Camp of the Divisional Court noted that the plaintiff who commenced a new litigation still was in compliance with the order under the old litigation. The plaintiff accepted the need to amend and did so in the special endorsement in the new action, instead of appealing. Justice Grange dissented and held at paragraph 34 that "it cannot be that a party may repeatedly re-issue writs with a few changes of form or even of substance". These cases suggest that the applicant's decision to commence another application on narrower grounds, with the intention that it would bypass all of the reasons the prothonotary raised for having the initial application transformed into an action, may in certain situations be considered a legitimate pursuit. However, although these cases do in some regard support the position of the applicant, they are in many respects, as highlighted, distinguishable from the matter in issue.
+[36]
+Furthermore in light of the decision in
+Sauve
+, the fact that the applicant did this purely to circumvent the order of the prothonotary would appear to support a finding of abuse of process. On the evidence this remains the same commercial dispute that the prothonotary determined should be adjudicated as an action. Again, this fact was affirmed on appeal by Justice Rouleau.
+[37]
+I conclude from the foregoing that it was open to the prothonotary, in the exercise of her discretion, to find that the applicant had abused the Court's process and accordingly to impose the sanction that she did. It remains, however, that that decision was a matter for the exercise of discretion and, even though it displays no error of law and is not based on any clearly wrong finding of fact, it may still be subject to be overturned on appeal.
+SHOULD THIS COURT INTERFERE?
+[38]
+The case law on the standard of review to be applied by a judge of this Court when reviewing a discretionary decision of a prothonotary establishes a clear distinction between decisions which are "discretionary" and those which are not.
+[39]
+A discretionary decision is one respecting a question on which by definition two equally reasonable people may, without error on the part of either one, reach diametrically opposed conclusions. Error, whether of fact or of law will always, of course, open a decision to appellate review. But even where there is no error a discretionary decision may still, in some circumstances invite the reviewing Court to make a fresh and different exercise of its own discretion.
+[40]
+Until recently, the standard of review of decisions by prothonotaries appeared to have been definitively settled by a specially constituted five judge panel of the Federal Court of Appeal in
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425; 149 N.R. 273 (F.C.A.), where MacGuigan, J.A., speaking for the majority, said at page 463:
+"[...] discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo."
+[41]
+In a separate and dissenting opinion Chief Justice Isaac adopted the following wording for the test at page 454:
+"I am in agreement with counsel for the appellant that the proper standard of review of discretionary orders of prothonotaries in this Court should be the same as that which was laid down in
+Stoicevski
+for masters in Ontario. I am of the opinion that such orders ought to be disturbed on appeal only where it has been made to appear that
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) in making them, the prothonotary
+improperly exercised his discretion
+on a question vital to the final issue of the case.
+In each of these classes of cases, the Motions Judge will not be bound by the opinion of the prothonotary; but will hear the matter de novo and exercise his or her own discretion." (Emphasis added)
+[42]
+Support for the view that the two formulations of the test are the same may be found in the fact that Justice MacGuigan specifically stated (at page 463) that he agreed in part with the Chief Justice's statement of the standard of review. It remains, however, that there is a significant difference in the wording adopted by the two: the word "improperly" is absent from Justice MacGuigan's formulation. Since we are dealing with discretionary decisions, it is difficult to see how an exercise of discretion which does not reveal an error of law or of fact can still be said to have been improper.
+[43]
+It is not, I think, an indiscretion to reveal that the reason that
+Aqua Gem
+was heard and decided by a five judge bench was that there was some disagreement among the then members of the Court of Appeal over the correctness of an earlier decision in the case of
+Ship Jala Godavari et al. v. Canada et al.
+(1991), 135 N.R. 316; 40 C.P.R.(3d) 127 (F.C.A.). In that case I, speaking for a unanimous Court, said:
+"[...] contrary to a view that has sometimes been expressed in the Trial Division, [footnote appended to judgments] a judge who hears an appeal from a prothonotary on a matter involving the exercise of discretion is called upon to exercise his own discretion and is not bound by the prothonotary's opinion. He may, of course, choose to give great weight to the views expressed by the prothonotary, but the parties are, in the final analysis, entitled to the discretion of a judge and not that of a subordinate officer."
+[44]
+Until quite recently the decision in
+Aqua Gem
+has been consistently followed both in this Court and in the Court of Appeal. However, in the case of
+Pompey (Z.I.) Industrie et al. v. Ecu-Line N.V. et al.
+, [2003] 1 S.C.R. 450; 303 N.R. 201; 2003 SCC 27, Justice Bastarache, speaking for a unanimous Court, while purporting to quote and follow the majority decision of MacGuigan, J.A., in
+Aqua Gem
+, in fact quotes the dissenting opinion of Chief Justice Isaac and resurrects the difficult notion of an improper exercise of discretion as a prerequisite to the exercise by the appellate judge of his own discretion.
+[45]
+Has
+Z.I. Pompey
+changed the law? With great respect I think not. I have two primary reasons for finding this to be the case.
+[46]
+In the first place, any discussion of the applicable standard in cases where the impugned decision reveals no error of law or fact is clearly obiter dictum since the Supreme Court was unanimous in its finding in
+Z.I.Pompey
+that all the lower Courts had applied a wrong legal test to the subject matter of the appeal. The application of the wrong test is a classic example of a decision which is reviewable for error of law.
+[47]
+Second, other than simply stating the test and citing
+Aqua Gem
+, Justice Bastarache provides no discussion whatsoever of the standard of review. It would seem to me to be unlikely in the highest degree that the Court would have undertaken to modify a principle which had been consistently followed in the lower Courts without discussing and explaining why it was doing so.
+[48]
+There is a third reason: following
+Z.I. Pompey
+the Federal Court of Appeal has revisited and restated the standard as originally stated by Justice MacGuigan in
+Aqua Gem
+. In
+Merck & Co. et al. v. Apotex Inc.
+(2003), 315 N.R. 175; 2003 FCA 488, leave to appeal refused [2004] S.C.C.A. No. 80, Justice Décary correctly cited Justice MacGuigan's identification of the standard in
+Aqua-Gem
+and went on, at paragraph 19, to restate the test, stating that there has been confusion arising from the wording used by Justice MacGuigan.
+"[...] I will use the occasion to reverse the sequence of the propositions as originally set out, for the practical reason that a judge should logically determine first whether the questions are vital to the final issue: it is only when they are not that the judge effectively needs to engage in the process of determining whether the orders are clearly wrong. The test would now read:
+"Discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+a) the questions raised in the motion are vital to the final issue of the case, or
+b) the orders are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts."
+[49]
+Interestingly, Justice Décary did not make reference to the decision in
+Z.I. Pompey
+on this point. Instead, he only referred to the decision of the Supreme Court when outlining the standard to be applied to appeals of Federal Court judges. Notably, although Justice MacGuigan's test was reformulated somewhat, the phrase "improperly exercised his discretion" was still excluded from the standard. Obviously, Justice Décary did not think that Justice Bastarache had significantly altered the test.
+[50]
+I would conclude that the proper meaning of the word "improperly" as used by the Supreme Court in
+Z.I.Pompey
+is not to be equated with "erroneously" or "wrongly" but rather that of "differently" in the sense that the reviewing judge, exercising his or her own discretion, would have come to a different conclusion. Since there can be no question that the prothonotary's decision here under review was vital to the final outcome of the case, I now turn to ask myself whether I would have concluded as she did.
+[51]
+Let me begin by stating again that in my view the prothonotary committed no error of law. She did not take into account any irrelevant considerations. She did carefully consider all those which required her attention. Her findings of fact were fully consistent with the materials before her and were clearly based upon her own intimate knowledge of the file which had been under her personal intensive management (subject only to my general supervision as case management judge) from the very outset. She was fully aware of the drastic nature of the remedy which was being sought and which she granted.
+[52]
+That said, however, I cannot in all honesty say that I would have granted the same remedy. The dismissal of the judicial review without the possibility of any further recourse by the applicant seems to me to go too far, not only in what must be done to discipline this particular applicant, but also as a matter of judicial policy in governing the conduct of other litigants who may be tempted to abuse the Court's process. Other avenues were and are open.
+[53]
+Accepting, as I do, the prothonotary's finding that the applicant's actions were purely tactical and designed to circumvent the prothonotary's order, confirmed by Justice Rouleau, converting the application into an action, I am of the view that it would be enough for the Court to design an order whose effect would be to frustrate that misguided strategy while appropriately penalizing the applicant in costs.
+[54]
+The prothonotary found, correctly, that the new application did not differ in any significantly relevant respect from the earlier discontinued application. That application was properly converted into an action following two hearings in which the applicant had every opportunity to make its views known. In those circumstances, and while I think that the prothonotary was right not to simply dismiss the motion to strike, even with a heavy punitive costs order against the applicant, I think that the applicant should still be entitled to its day in Court on the merits, if any, of its application.
+[55]
+Thus, while it would be wrong simply to send the parties back to fight out the second application, with the virtual certainty that there would be a new, and successful, motion to convert it into an action with its attendant costs and delays, I believe that the Court's powers (see Rule 53(2) of the
+Federal Court Rules
+, SOR/92-106), especially when read in the light of the obligation cast upon both the prothonotary and myself in Rules 3 and 385(1)(a) to promote the "just, most expeditious and least expensive determination of the proceeding on its merits", would allow me here and now to convert the second application into an action right away.
+[56]
+In my opinion the power given to the Court in s. 18.4(2) of the
+Federal Courts Act
+is one which may be exercised on the Court's own initiative and the text does not indicate that it is a necessary prerequisite that one of the parties bring a motion to that effect. I note that this interpretation is also consistent with the text of Rule 47 although the latter is not, of course, by its terms applicable to the statute itself.
+[57]
+At the hearing before me the question of the substantial identity of the first and second applications was fully canvassed. I do not think that anything more can be usefully said on the subject. The decision that the first application should proceed as an action rather than an application was final and definitive. The nature of the factual dispute is such that the Court will have to look at the entire commercial relationship between the applicant and the TPA and that will still be best and most fairly achieved in an action, with the interveners being named as defendants.
+LIMITATION PERIOD
+[58]
+The prothonotary did not find it necessary to rule on the argument that, in any event, the second application was out of time. While she did not give any reason for that view, it seems obvious to me that it was based on the fact that the question was now moot in light of the conclusion that she had reached on the first part of the motion to strike. Since I have reached a different conclusion I should deal with the matter, if only briefly.
+[59]
+There is a compelling argument that an application should not be struck solely on the basis of a time bar. In
+Hamilton-Wentworth (Regional Municipality) v. Canada (Minister of the Environment) et al.
+(2000), 187 F.T.R. 287 (T.D.), Justice Dawson stated at paragraphs 39-40:
+"I note that even in actions where, as the Court of Appeal noted in
+David Bull Laboratories
+, supra, striking out is much more feasible, a limitation defence is not sufficient ground to strike out a statement of claim, but rather is a defence to be raised in a statement of defence. By analogy, where a proceeding is commenced by application, any issue of application of a time bar ought, in the usual case, to be argued at the hearing of the application, and not on a motion to strike.
+"That is not to say that in no case could an application be struck for being commenced out of time, but it would, in my view, be only in an exceptional case."
+[60]
+This was the same conclusion reached in
+FRAGMENT_SUPPRESSED 46 Admin. L.R.(4th) 249; 2006 FC 733, at paras. 10-19.
+[61]
+A consideration of the limitation defence will also require the Court to weigh and appreciate not only the effect but also the admissibility of an exchange of correspondence which, at the applicant's own insistence, was initiated on a "without prejudice" basis. That, too, will best be done after full discovery, oral and documentary, and possibly a preliminary motion in the context of an ordinary action in this Court. This is an additional consideration in my decision to convert the applicant's second application into an action.
+CONCLUSION
+[62]
+I conclude that, for the reasons stated, the appeal should be allowed without costs, that the order of the prothonotary should be set aside and that there should be substituted therefor an order allowing the motion to strike in part and converting the present application into an action in which the plaintiff shall serve and file a statement of claim within 30 days naming the present respondent and interveners as defendants. The respondents and interveners shall have their costs of the motion before the prothonotary and written submissions as to the amount of such costs may be made within 30 days. I believe that any costs order should reflect the abusive nature of the applicant's conduct as found by both the prothonotary and myself.
+ORDER
+[63]
+THIS COURT ORDERS that
+The motion is allowed without costs and the order of the prothonotary is set aside; there is substituted therefor an order allowing with costs the motion to strike in part only and directing that the application shall proceed as an action instead of as an application; the applicant shall within 30 days serve and file a statement of claim in which the respondent and the interveners shall be named as defendants, failing which the application shall be dismissed with costs; the respondent and the interveners shall file written submissions on costs within 30 days and the applicant may reply within 20 days.
+Appeal allowed.
+Editor: Steven C. McMinniman/gs
+[End of document]

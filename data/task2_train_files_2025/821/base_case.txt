@@ -1,0 +1,236 @@
+Introduction
+[1]
+Simpson, J.
+: Eric Scheuneman (the "Applicant") has brought two applications for judicial review of a decision made by the Canadian Human Rights Commission (the "Commission") in which it dismissed his complaints (the "Decision") against Treasury Board and against Natural Resources Canada ("NRC"), (together, the "Complaints"). The Applicant had complained that his termination by NRC and the underlying Treasury Board termination policy of September 23, 1996 (the "Board's Policy") were discriminatory.
+[2]
+The two applications were heard together on July 28, 2003. The Applicant, who was self-represented, was present at the hearing but did not address the Court because he preferred to rely on his written submissions. However, counsel for the Respondent made oral submissions and the Court ordered an expedited transcript for the Applicant's use in preparing consolidated written submissions in reply, which he filed on August 1, 2003. This procedure was followed because the Applicant did not wish to present his case orally.
+Facts
+[3]
+The Applicant began working for NRC as a Senior Technical Analyst in 1981. Four years later, in 1985, he was diagnosed with myalgic encephalomyelitis (the "Illness"), which causes profound fatigue. For this reason, he began to work from home.
+[4]
+In 1988, the Applicant was given leave without pay ("LWOP") and six years later, on December 12, 1994, he provided NRC with a doctor's letter which indicated that his Illness continued and that he would not be able to return to work for many years. On three occasions, the Applicant refused medical retirement because it involved a reduction in benefits. He also refused to update his 1994 doctor's letter. Ultimately, after eight years on LWOP, his employment was terminated for cause by NRC effective December 13, 1996 because he was unable to perform his duties. It was NRC's position that this termination was in accordance with the Board's Policy.
+[5]
+The termination letter is dated November 29, 1996 and the body of the letter reads as follows:
+"This is to inform you that in accordance with section 11(2)(g) of the
+Financial Administration Act
+(now section 31 of the
+Public Service Employment Act
+) and by virtue of the authority delegated to me, your employment with the Public Service of Canada is being terminated for cause at the close of business on December 13, 1996.
+"The reason for your termination is related to your incapacity to perform your duties. You have been absent from the workplace for medical reasons since September 6, 1988. The last medical certificate submitted by you was dated December 14, 1994 and confirmed that you would be unable to return to work for many years. As result, you were encouraged to apply for a medical retirement but you chose not to pursue this option.
+"Since that time, you have not provided the Department with any medical certification that you will be capable of returning to work in the foreseeable future. In addition, you did not attend a medical appointment scheduled for you at Health Canada to determine an expected date of return to work.
+"As a result of the length of time you have been absent from work and the lack of medical documentation to certify that you are capable of returning to work in the foreseeable future, I have no alternative than to terminate your employment.
+"In accordance with section 91 of the
+Public Service Staff Relations Act
+, you have 25 days to grieve this decision."
+The Grievance Proceedings
+[6]
+The Grievance process described below (the "Grievance Proceedings") was based on section 15 of the
+Charter
+. The Applicant filed his grievance with the Public Service Staff Relations Board ("PSSRB") on January 17, 1997. Therein, he alleged that he had been a victim of discrimination because he was terminated due to his Illness. This grievance was denied on October 30, 1998 in the following terms:
+"However, the grievor has failed to satisfy me on the evidence that in terminating his employment the employer engaged in any violation of either the
+CHRA
+or the
+Charter
+."
+[7]
+The Applicant then filed an application for judicial review of the PSSRB decision and, on November 15, 1999, the application was dismissed by Mr. Justice Cullen in
+FRAGMENT_SUPPRESSED, Mr. Justice Cullen considered the Applicant's allegation that his rights under section 15 of the
+Charter
+had been infringed by the Board's Policy and, in particular, whether the Applicant had established a prima facie case of discrimination.
+[8]
+Justice Cullen's conclusions on this issue are found in paragraphs 58 and 59 and read as follows:
+"58. The policy in question is unlike others which, having been indifferently applied, were found to have an adverse effect on a small number of individuals; see
+Ontario Human Rights Commission and O'Malley v. Simpsons-Sears Ltd. et al.
+, [1985] 2 S.C.R. 536. The policy is flexible enough to accommodate even those whose illness prevents them from returning to work for many years. The policy, therefore, does not discriminate against the applicant.
+"59. The applicant's leave status was discontinued only after eight years, as opposed to two, and only because it was clear that he would remain unable to work for the foreseeable future. I cannot imagine a more sympathetic and humane way of implementing a policy concerned with employees on leave. The applicant's termination resulted only because he was too stubborn to accept that the leave in question is, by its nature, a temporary measure. The actions of departmental employees in implementing the policy, therefore, cannot be characterized as discriminatory.
+As a result, the applicant's treatment cannot be considered prima facie discriminatory pursuant to subsection 15(1) of the
+Charter
+. The Adjudicator was, therefore, correct on the question of whether there was sufficient evidence to found a claim [page 399] of discrimination." (my emphasis)
+[9]
+On December 1, 2000, the Federal Court of Appeal dismissed the Applicant's appeal. Mr. Justice Evans, writing for the Court, reached the following conclusions in
+Scheuneman v. Canada (Attorney General)
+, [2000] F.C.J. No. 1997; 266 N.R. 254 (F.C.A.).
+"
+I agree with the Motions Judge's conclusion that the appellant has failed to show that his termination constituted discrimination for the purpose of the
+Charter
+. The undisputed evidence was that, after he had exhausted his right to disability leave, he was given leave without pay, a status that enabled him to retain his health and dental benefits, and counted as employment for pension purposes.
+"He was finally dismissed from employment eight years after first becoming ill. At the time of his termination, the medical evidence was that the appellant could not do any work, even on a part-time basis, and that it was unlikely that he would be able to work in the foreseeable future. The appellant has refused to consider a medical retirement because he regarded the terms as unattractive.
+"In my opinion these facts do not establish a breach of section 15. The appellant was dismissed because he was unable to perform any work and was unlikely to be able to do so in the foreseeable future. It is a basic requirement of the employment relationship that an employee must be able to undertake work for the employer or, if temporarily disabled by a medical condition from so doing, must be able to return to work within a reasonable period of time. Dismissing a person who cannot satisfy this requirement is not, in the constitutional sense, discrimination on the ground of disability.
+"I can well understand why the appellant would prefer to remain indefinitely on leave without pay. However, an employer to whom the
+Charter
+applies is not obliged by section 15 to comply with best employment practices and indefinitely to retain as an employee, even without pay, an employee who, like the appellant, may not be able to work for several years." (my emphasis)
+[10]
+On June 21, 2001, the Supreme Court of Canada denied leave to appeal. Later that year, on November 1, 2001, the Supreme Court of Canada also dismissed the Applicant's application to reconsider the decision to deny leave.
+[11]
+The Applicant applied for judicial review of the Supreme Court of Canada's decision not to reconsider his leave application and this application was dismissed by Mr. Justice Pinard of the Federal Court. Justice Pinard's decision was subsequently upheld by the Federal Court of Appeal and the Supreme Court of Canada denied leave on January 22, 2004.
+The Human Rights Commission Proceedings
+[12]
+On March 5, 1998, the Applicant filed the Complaints with the Commission. Unlike the Grievance Proceedings, these complaints (the "Commission Proceedings") do not involve section 15 of the
+Charter
+. Rather, they are based on sections 7 and 10 of the
+Canadian Human Rights Act
+, R.S.C. 1985, c. H-6 (the "
+CHRA
+"). The Commission appointed an investigator and, on August 19, 2000, he issued two investigation reports (the "Reports") dated August 19, 2000 in which he recommended dismissing the Complaints.
+[13]
+At the Applicant's request, the Commission refrained from acting on the Reports until his Court cases were decided. Accordingly, it was not until December 13, 2001, after the Supreme Court of Canada had denied leave and dismissed the Applicant's application for a reconsideration, that the Commission issued the Decision in which it dismissed both Complaints.
+[14]
+The material portion of the Decision reads as follows:
+"The Commission reviewed the report disclosed to you previously and any submission(s) filed in response to the report and decided, pursuant to paragraph 44(3)(b) of the
+Canadian Human Rights Act
+, to dismiss the complaint (B47189) against the Department of Natural Resources because:
+- the complainant is unable to perform the duties of his position, and was unable to provide a date of his return to work in the foreseeable future; and
+- the respondent has attempted to accommodate the complainant.
+"The Commission also decided to dismiss the complaint (B47190) against Treasury Board because:
+- the respondent's policy on termination makes provision for accommodating persons with disabilities; and
+- the difference between those disabled employees who are able to provide a return date and those disabled employees who are not able to provide a date of return to work is not based on a enumerated ground of discrimination."
+The Legislation and the Board's Policy
+(see: Appendix A for the text of sections 7, 10 and 15 of the
+CHRA
+and portions of the Board's Policy)
+The Applicant's Position
+[15]
+The Applicant's material discloses the following issues:
+1. Did the Commission err in finding no prima facie case of discrimination?
+2. In particular, did the Commission err in its choice of comparator groups?
+3. Did the Commission err with regard to the NRC's obligation to accommodate the Applicant?
+4. Did the Commission err by ignoring certain documents submitted by the Applicant?
+5. Did the Commission err by relying on the Reports because they unduly emphasized the Court decisions in the Grievance Proceedings?
+6. Did the Commission err with respect to the application of section 15 of the
+CHRA
+?
+Issues 1, 2 and 3 Prima Facie Discrimination, Comparators and Accommodation
+[16]
+The Applicant submits that the Commission did not properly apply established human rights jurisprudence when it assessed the Board's Policy. The Applicant cited, inter alia,
+Human Rights Commission (Ont.) and O'Malley v. Simpsons-Sears
+, [1985] 2 S.C.R. 536; 64 N.R. 161; 12 O.A.C. 241, para. 18:
+"An employment rule honestly made for sound economic or business reasons, equally applicable to all to whom it is intended to apply, may yet be discriminatory if it affects a person or group of persons differently from others to whom it may apply."
+[17]
+His position is that the Board's Policy discriminates against the disabled, does not allow for sufficient accommodation of individual differences and is therefore in violation of section 10 of the
+CHRA
+. In the Applicant's submission, the Board's Policy discriminates against those disabled employees who cannot return to work because it inevitably leads to their termination. Since the Applicant was denied all employment opportunities because his disability prevents his return to work, he submits that he has made out a prima facie case of discrimination.
+[18]
+Based on this submission, the first topic to be addressed is whether this issue was decided in the Grievance Proceedings. The Applicant says that it was not decided because there are differences between section 15 of the
+Charter
+and sections 7 and 10 of the
+CHRA
+. However, in my view, these differences arise after a prima facie case has been demonstrated. In
+Charter
+cases, once infringement is shown, justification under section 1 of the
+Charter
+is the issue. It often involves broad questions of public policy. In employment cases under the
+CHRA
+, once prima facie discrimination is shown, accommodation by an employer becomes the issue. This will usually be a narrow inquiry directed to the specific situation of an employer and employee.
+[19]
+With respect to the prima facie case, the Applicant did not suggest and I have not identified any material differences in the approach to be taken under the
+Charter
+and the
+CHRA
+. Accordingly, I have concluded that, once the Federal Court of Appeal upheld the Cullen Decision and the Supreme Court of Canada refused leave in the Grievance Proceedings, the Court of Appeal's decision to the effect that the Applicant had not made out a prima facie case of discrimination arising from his termination was final. In reaching this conclusion, I have noted that the facts relating to the threshold issue of whether a prima facie case has been shown are the same in the Grievance and the Commission Proceedings and that the issue of a prima facie case was specifically addressed by Justice Cullen and by the Federal Court of Appeal in the manner described above in paragraph 9 and following. I consider the Court of Appeal's decision to be binding authority which disposes of this issue and issues 2 and 3 in this application.
+Issue 4 Ignoring Documents
+[20]
+The Applicant submits that the Commission erred by not considering numerous documents that he forwarded to the Investigator.
+[21]
+According to paragraph 11 of the Applicant's submissions in reply dated August 1, 2003, the certificates filed on behalf of the Commission pursuant to Federal Court Rule 317 which appear at Tab 1 of Volume 1 of the Respondent's record are problematic. The Applicant correctly submits that they purport to list all the material that was before the Commission when it made its Decision. He then notes that, in file T-90-02, 159 pages of documents he submitted were not listed and, in file T-91-02, 560 pages were not mentioned in the certificate. These pages will be referred to as the "Material". It appears that the Material is the documentation sent by the Applicant to the Investigator before he wrote his Reports.
+[22]
+Since the Reports do not include the Material, it appears that the Applicant is correct and that the Material was not, in fact, before the Commission when it dismissed his Complaints. However, there is no allegation that the Investigator failed to consider the Material.
+[23]
+That being said, the question is whether the Commission breached the rules of procedural fairness by deciding the case without reviewing the Material. This issue was decided in
+Pathak v. Canadian Human Rights Commission et al.
+, [1995] 2 F.C. 455; 180 N.R. 152 (F.C.A.). The Federal Court of Appeal held in paragraphs 11 and 24 that the Commission is not required ,or indeed intended, to consider the documents that were before the Investigator when the Report was prepared.
+Issue 5 Improper Reliance on Court Decisions in the Reports
+[24]
+The Applicant says that the Commission erred by relying on the Reports because they unduly emphasized the judicial decisions in the Grievance Proceedings. He also says that the Investigator did not conduct independent investigations but simply relied on the Cullen Decision.
+[25]
+I have reviewed each of the Reports and while, quite properly, paragraph 59 of the Cullen Decision is quoted, the Investigator also considered the text of the Board's Policy, the Complainant's allegations and the Respondent's submissions. As well, the Investigator performed his own independent analysis which dealt with the difference between employees on LWOP who can and cannot predict when they will return to work. In my view, the Reports were the independent documents required in the circumstances and the Commission did not err in relying on them to reach the Decision.
+Issue 6 Section 15 of the CHRA
+[26]
+The Applicant submits that the Respondent cannot use section 15 of the
+CHRA
+to justify the Board's Policy or the NRC's practice. (section 15 is reproduced in Appendix "A"). The Applicant says that the exception for a bona fide occupational requirement ("BFOR") cannot apply to his situation because it was designed to apply to a different situation: one in which a person can actually work at a job. In this regard he relied on the Supreme Court of Canada's decision in
+Public Service Employee Relations Commission (B.C.) v. British Columbia Government and Service Employees' Union
+, [1999] 3 S.C.R. 3; 244 N.R. 145; 127 B.C.A.C. 161; 207 W.A.C. 161 ("
+Meiorin
+"), which established a three-part test for determining the BFOR. He also says the section is inapplicable because his position was declared surplus in 1990, and, for that reason, the test in
+Meiorin
+cannot be meaningfully applied as there is now no position from which to derive occupational requirements.
+[27]
+This issue need not be addressed in view of my determination that the Federal Court of Appeal has decided that the Applicant has not made out a prima facie case of discrimination. However, if discrimination had been shown, I would not have been persuaded by the Applicant's submissions and would have applied the exception in section 15 of the
+CHRA
+.
+Conclusion
+[28]
+The fundamental issue in this proceeding is whether the Commission's Decision was reasonable in all the circumstances. For the reasons given above, the question is answered in the affirmative.
+Application dismissed.
+Editor: Angela E. McKay/pdk
+APPENDIX A
+Section 7 of the CHRA provides that:
+Employment
+7. It is a discriminatory practice, directly or indirectly,
+(a) to refuse to employ or continue to employ any individual, or
+(b) in the course of employment, to differentiate adversely in relation to an employee, on a prohibited ground of discrimination.
+1976-77, c. 33, s. 7.
+Emploi
+7. Constitue un acte discriminatoire, s'il est fondé sur un motif de distinction illicite, le fait, par des moyens directs ou indirects:
+a) de refuser d'employer ou de continuer d'employer un individu;
+b) de le défavoriser en cours d'emploi.
+1976-77, ch. 33, art. 7; 1980-81-82-83, ch. 143, art. 3.
+Section 10 of the CHRA states that:
+Discriminatory policy or practice
+10. It is a discriminatory practice for an employer, employee organization or employer organization
+(a) to establish or pursue a policy or practice, or
+(b) to enter into an agreement affecting recruitment, referral, hiring, promotion, training, apprenticeship, transfer or any other matter relating to employment or prospective employment, that deprives or tends to deprive an individual or class of individuals of any employment opportunities on a prohibited ground of discrimination.
+R.S., 1985, c. H-6, s. 10; 1998, c. 9, s. 13(E).
+Lignes de conduite discriminatoires
+10. Constitue un acte discriminatoire, s'il est fondé sur un motif de distinction illicite et s'il est susceptible d'annihiler les chances d'emploi ou d'avancement d'un individu ou d'une catégorie d'individus, le fait, pour l'employeur, l'association patronale ou l'organisation syndicale:
+a) de fixer ou d'appliquer des lignes de conduite;
+b) de conclure des ententes touchant le recrutement, les mises en rapport, l'engagement, les promotions, la formation, l'apprentissage, les mutations ou tout autre aspect d'un emploi présent ou éventuel.
+L.R. (1985), ch. H-6, art. 10; 1998, ch. 9, art. 13(A).
+However, exceptions are provided in section 15 which reads in part:
+Exceptions
+15(1) It is not a discriminatory practice if
+(a) any refusal, exclusion, expulsion, suspension, limitation, specification or preference in relation to any employment is established by an employer to be based on a bona fide occupational requirement;
+Accommodation of needs
+(2) For any practice mentioned in paragraph (1)(a) to be considered to be based on a bona fide occupational requirement and for any practice mentioned in paragraph (1)(g) to be considered to have a bona fide justification, it must be established that accommodation of the needs of an individual or a class of individuals affected would impose undue hardship on the person who would have to accommodate those needs, considering health, safety and cost.
+Exceptions
+15(1) Ne constituent pas des actes discriminatoires:
+a) les refus, exclusions, expulsions, suspensions, restrictions, conditions ou préférences de l'employeur qui démontre qu'ils découlent d'exigences professionnelles justifiées;
+Besoins des individus
+(2) Les faits prévus à l'alinéa (1)a) sont des exigences professionnelles justifiées ou un motif justifiable, au sens de l'alinéa (1)g), s'il est démontré que les mesures destinées à répondre aux besoins d'une personne ou d'une catégorie de personnes visées constituent, pour la personne qui doit les prendre, une contrainte excessive en matière de coûts, de santé et de sécurité.
+The Board's Policy
+The Board's Policy includes the following:
+Policy objective
+To provide an equitable and consistent application of leave without pay.
+Policy statement
+It is the policy of the government to permit employees to take unpaid absences from work for personal or other reasons while maintaining continuity of their employment.
+Appendix A - Standards For Leave Without Pay Situations
+Illness or injury
+When employees are unable to work due to illness or injury and have exhausted their sick leave credits or injury on duty leave, managers must consider granting leave without pay.
+Where it is clear that the employee will not be able to return to duty within the foreseeable future, managers must consider granting such leave without pay, for a period sufficient to enable the employee to make the necessary personal adjustments and preparations for separation from the Public Service on medical grounds.
+Where management is satisfied that there is a good chance the employee will be able to return to duty within a reasonable period of time (the length of which will vary according to the circumstances of the case), leave without pay provides an option to bridge the employment gap. Management must regularly re-examine all such cases to ensure that continuation of leave without pay is warranted by current medical evidence.
+Management must resolve such leave without pay situations within two years of the leave's commencement, although they can, in some circumstances, be extended to accommodate exceptional cases.
+The period of such leave without pay must be flexible enough to allow managers to accommodate the needs of employees with special recovery problems, including their retraining.
+Employees who become disabled and who, as a result of their disability, will no longer be able to carry out the duties of their position, may be entitled to a two-year priority for employees who become disabled pursuant to the Public Service Employment Regulations, Section 36. The priority period would begin on the day on which a competent authority certifies that they are ready to return to work, provided that that day is within two years after they became disabled. This priority entitlement continues even if, as a result of their disability, these individuals cease to be employees.
+All such leave without pay will be terminated by the employee's:
+- return to duty;
+- resignation or retirement on medical grounds;
+- lay-off pursuant to Section 29 of the Public Service Employment Act; or
+- termination for reasons other than breaches of discipline or misconduct, pursuant to Section 11(2)(g) of the Financial Administration Act.
+Objectif de la politique
+Assurer l'application équitable et uniforme des congés non rémunérés.
+Énoncé de la politique
+Le gouvernement a pour politique de permettre aux employés de s'absenter du travail pour des raisons personnelles ou autres sans être rémunérés, tout en leur assurant la continuité d'emploi.
+Appendice A - Normes concernant les congés non rémunérés
+Maladie ou blessure
+Les gestionnaires doivent envisager d'accorder un congé non rémunéré aux employés qui ne peuvent travailler pour cause de blessure ou de maladie et qui ont épuisé leurs crédits de congé de maladie ou de congé d'accident du travail.
+S'il est clair que l'employé ne sera pas en mesure de retourner au travail dans un avenir prévisible, les gestionnaires doivent envisager d'accorder un congé non rémunéré d'une durée suffisante pour permettre à l'employé de prendre les dispositions nécessaires en prévision de sa cessation d'emploi de la fonction publique pour raisons médicales.
+Si la direction est convaincue qu'il y a de bonnes chances que l'employé retourne au travail dans un délai raisonnable (dont la durée variera selon les circonstances), un congé non rémunéré peut être considéré afin qu'il n'y ait pas d'interruption d'emploi. La direction doit réexaminer tous ces cas périodiquement afin de s'assurer que le congé non rémunéré n'est pas prolongé sans raisons médicales valables.
+La direction doit régler les cas de congé non rémunéré dans les deux ans qui suivent la date du début du congé, mais cette période peut être prolongée si des circonstances exceptionnelles le justifient.
+La période de congé non rémunéré doit être suffisamment souple pour permettre aux gestionnaires de tenir compte des besoins des employés ayant des problèmes particuliers de réadaptation, comme le besoin d'un recyclage.
+Les fonctionnaires qui deviennent handicapés et qui, de ce fait, ne sont plus en mesure d'exercer les fonctions de leur poste peuvent avoir droit à une priorité de nomination pendant une période de deux ans conformément à l'article 36 du Règlement sur l'emploi dans la fonction publique. La période de priorité commencerait le jour où l'autorité compétente atteste que le fonctionnaire est apte à retourner au travail, pourvu que ce jour survienne dans les deux ans suivant la date où il est devenu handicapé. La priorité continue de s'appliquer même si la personne cesse d'être un fonctionnaire en raison de son handicap.
+Il faut mettre fin à tous ces types de congé non rémunéré en faisant en sorte que l'employé:
+- retourne au travail;
+- démissionne ou prenne sa retraite pour des raisons médicales;
+- soit mis en disponibilité conformément à l'article 29 de la Loi sur l'emploi dans la fonction publique;
+- soit licencié pour des raisons autres qu'un manquement à la discipline ou une inconduite, conformément à l'alinéa 11(2)g) de la Loi sur la gestion des finances publiques.
+[End of document]

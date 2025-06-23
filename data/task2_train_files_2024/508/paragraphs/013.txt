@@ -1,0 +1,6 @@
+[13]
+McGillis, J., did not decide the question of absolute privilege because she relied on the general evidentiary principles concerning relevance. The Minister of National Health and Welfare took no position on the relevance of the documents in light of the confidentiality order of Rouleau, J., which was in effect between the parties. The relevant section of the confidentiality order reads:
+"15. Any party shall have the right to apply to the court for any modification or vacation of structures on disclosure imposed by this Order as applied to any specific item or items of designated 'Confidential Information'.
+(1) In the event of a challenge to the confidentiality of information disclosed as confidential hereunder, the party asserting confidentiality shall have the burden of proving on a balance of probabilities that the information is, in fact, confidential; and
+(2) In the event that a party wishes to use in Canada or elsewhere, any of the confidential information for the purposes of collateral litigation or related matters, or in dealing with governmental authorities, the party shall before any such use, first obtain leave from the court to use the said information."
+The drug supplier is not a party to the application and therefore cannot make use of this paragraph to protect the confidentiality of its information.

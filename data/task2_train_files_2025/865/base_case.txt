@@ -1,0 +1,152 @@
+[1]
+Teitelbaum, J.
+: The defendant Crown has brought a motion contesting the admissibility of the expert reports of Mr. James Youngblood Henderson (hereinafter the "Henderson Report") and Professor Douglas Sanders (hereinafter the "Sanders Report"), which have been tendered by the Samson plaintiffs.
+The Henderson Report
+[2]
+Mr. Henderson is a tribal citizen of the Chickasaw Nation, which is located in Oklahoma, United States of America. He earned a B.A. in history from California State University at Fullerton in 1967, and a law degree from Harvard Law School in 1974. At present, he is the Research Director of the Native Law Centre of Canada at the College of Law, University of Saskatchewan. His report, dated April 6, 2000, is titled "Report of the Royal Commission on Aboriginal Peoples on Treaties".
+[3]
+The Henderson Report is 62 pages in length. The first half purports to situate the
+Report of the Royal Commission on Aboriginal Peoples
+(hereinafter the "RCAP Report") "in relation to the efforts to respect aboriginal and treaty rights in the Western or Eurocentric legal traditions." To facilitate a "contextual understanding" of the RCAP Report, the Henderson Report summarizes several legal reviews of the rights of Aboriginal peoples, which occurred after European discovery of the American continent. The legal reports, or commissions, which are reviewed in the Henderson report are Franciscus de Vitoria's
+De Indus et de Iivre Belli Relectiones
+, which stemmed from an analysis of aboriginal rights in the New World commissioned by the Spanish Regent Charles V in 1526 and published in 1532; the 1664 Royal Commission established by King Charles II in regard to the British colonies in North America; and finally, the
+Report of the Select Committee of the House of Commons on Aborigines, 1837
+.
+[4]
+The second half of the Henderson Report provides a summary, or overview, of the Royal Commission on Aboriginal Peoples (hereinafter "RCAP"), which was established by the federal government and issued a five volume report in November 1996. The Henderson Report details the RCAP's mandate, and provides highlights of select findings, and recommendations.
+[5]
+The Crown opposes the admission into evidence of the Henderson Report on the basis that it is neither relevant nor necessary. In oral submissions, the Crown indicated that the main thrust of its argument is with regard to the aspect of necessity.
+[6]
+The Crown has articulated four general objections. First, the Crown submits that the Henderson Report consists entirely of legal and political argument. Second, the Crown contends that the Henderson Report's political arguments should be addressed in a political forum, as opposed to this Court. Third, the Crown contends that the report's legal arguments are unnecessary because they fall within the Court's expertise and usurp the function of the trial judge. Finally, the Crown submits that there is nothing unique or conceptually difficult about the RCAP Report that requires expert explanation.
+[7]
+Samson plaintiffs argue that the Henderson Report will assist the Court by providing historical background and context for the evolution of the treaty process in North America in general, and
+Treaty 6
+in particular, as well as the context of the treaty, aboriginal, and inherent rights which are the basis of the claims and constitutional questions to be determined in this action.
+[8]
+Samson plaintiffs contend that the first half of the Henderson Report is necessary as it provides the Court with the historical context of Royal Commissions and their role in the development of Aboriginal/Crown relations over the centuries. Samson plaintiffs contend that this type of evidence is necessary for the Court to fully understand the relevant constitutional facts in this case. The second half of Mr. Henderson's report, which deals with the RCAP and its final Report, assists the Court, according to Samson plaintiffs, by highlighting technical and complex statements and conclusions, and by providing an analysis and synthesis of the RCAP Report and the research on which the RCAP relied.
+The Sanders Report
+[9]
+Professor Douglas Sanders received a Bachelor of Laws from the University of Alberta in 1961 and a Master of Laws from the University of California at Berkeley in 1963. He has been a law professor at the University of British Columbia since 1977. His report, dated June 25, 1997, is titled "Historical Thinking and Practice on the Relationship Between Indian Tribes and the Crown in Canada."
+[10]
+The Sanders Report is divided into ten numbered sections. The sections purport to outline the legal historical background of the relationship between the Crown and Indian tribes, and then trace its evolution and development in terms of policy and practice.
+[11]
+The Crown objects to the admissibility of Professor Sanders' report on the basis that it is neither relevant nor necessary. The Crown submits that a significant amount of the historical background material presented in the report is irrelevant; the Crown also submits that the historical background to
+Treaty 6
+has already been addressed by historians Professor Arthur Ray and Bob Beal, who appeared as expert witnesses for Samson plaintiffs. The Crown also takes issue with Professor Sanders' extensive use of case law, legislation, Parliamentary reports, and academic articles on legal issues. The Crown contends that authorities of this nature are clearly within the knowledge and expertise of counsel and the Court, and are the proper subject matter of legal argument.
+[12]
+Samson plaintiffs submit that the Sanders Report deals with the themes of protection, benevolence, trusteeship, and assistance; central control of Aboriginal affairs; and the place of the
+Indian Act
+in developing Aboriginal/Crown relations and Aboriginal/Crown treaties. Samson plaintiffs contend that the Sanders Report deals with the historical context and evolution of colonial and state policy, as well as evolving Aboriginal/Crown relations, and will assist the Court in understanding the relationship established between the parties through
+Treaty 6
+.
+Legal Principles and Analysis
+[13]
+In
+R. v. Mohan
+, [1994] 2 S.C.R. 9; 166 N.R. 245; 71 O.A.C. 241 (hereinafter
+Mohan
+), the Supreme Court of Canada dealt with the issue of the admissibility of expert evidence. Mr. Justice Sopinka identified, at page 20, four criteria for the admission of expert evidence: relevance, necessity in assisting the trier of fact, absence of any exclusionary rule, and a properly qualified expert.
+[14]
+Although
+Mohan
+was rendered within the context of criminal proceedings, its principles have been considered and applied by the Federal Court within the context of aboriginal litigation.
+[15]
+FRAGMENT_SUPPRESSED dismissed the plaintiff's application to have a witness qualified as an expert. The Court referred to the
+Mohan
+criteria and held that the proposed expert evidence was not necessary for the Court to appreciate the issues in the trial of that action. Rothstein, J., commented that the evidence might have been of assistance in that it summarized and organized much of the factual testimony; however, he went on to note that that was a function for counsel in argument.
+[16]
+In
+Mathias et al. v. Canada
+(1998), 144 F.T.R. 106 (T.D.) (hereinafter
+Mathias
+), the defendant Crown brought a motion contesting the admissibility of two expert reports. Madame Justice Simpson, in her decision upholding the Crown's objection, referred to the
+Mohan
+criteria, as well as the prohibition against presenting legal argument through an expert witness.
+[17]
+In the instant application, the Crown contests the admissibility of the Henderson Report and the Sanders Report primarily on the ground of necessity. The Crown does not contest the qualifications of either witness as experts in their respective fields, although some reservations were expressed regarding the research abilities of Professor Sanders.
+[18]
+With regard to relevance, Justice Sopinka held, at page 20 of the
+Mohan
+decision,
+"Relevance is a threshold requirement for the admission of expert evidence as with all other evidence. Relevance is a matter to be decided by a judge as a question of law. Although prima facie admissible if so related to a fact in issue that it tends to establish it, that does not end the inquiry. This merely demonstrates the logical relevance of the evidence. Other considerations enter into the decision as to admissibility. This further inquiry may be described as a cost benefit analysis, that is 'whether its value is worth what it costs.' See
+McCormick on Evidence
+(3rd Ed. 1984), at p. 544. Cost in this context is not used in its traditional economic sense but rather in terms of its impact on the trial process. Evidence that is otherwise logically relevant may be excluded on this basis, if its probative value is overborne by its prejudicial effect, if it involves an inordinate amount of time which is not commensurate with its value or if it is misleading in the sense that its effect on the trier of fact, particularly a jury, is out of proportion to its reliability. While frequently considered as an aspect of legal relevance, the exclusion of logically relevant evidence on these grounds is more properly regarded as a general exclusionary rule (see
+Morris v. The Queen
+, [1983] 2 S.C.R. 190). Whether it is treated as an aspect of relevance or an exclusionary rule, the effect is the same. The reliability versus effect factor has special significance in assessing the admissibility of expert evidence."
+[19]
+At page 23 of the
+Mohan
+decision, Sopinka, J., made the following comments with regard to the criterion of necessity:
+"In
+R. v. Abbey
+, [insert citation], Dickson, J., as he then was, stated at p. 42:
+'With respect to matters calling for special knowledge, an expert in the field may draw inferences and state his opinion. An expert's function is precisely this: to provide the judge and jury with a ready-made inference which the judge and jury, due to the technical nature of the facts, are unable to formulate. "An expert's opinion is admissible to furnish the Court with scientific information which is likely to be outside the experience and knowledge of a judge or jury. If on the proven facts a judge or jury can form their own conclusions without help, then the opinion of the expert is unnecessary" (
+Turner
+(1974), 60 Crim. App. R. 80, at p. 83, per Lawton, L.J.).'
+"This pre-condition is often expressed in terms as to whether the evidence would be helpful to the trier of fact. The word 'helpful' is not quite appropriate and sets too low a standard. However, I would not judge necessity by too strict a standard. What is required is that the opinion be necessary in the sense that it provide information 'which is likely to be outside the experience and knowledge of a judge or jury': as quoted by Dickson, J., in
+R. v. Abbey
+, supra. As stated by Dickson, J., the evidence must be necessary to enable a trier of fact to appreciate the matters in issue due to their technical nature ..."
+[20]
+In
+Mathias
+, Simpson, J., elaborated on the criterion of necessity and referred to the following passage from
+R. v. Béland and Phillips
+, [1987] 2 S.C.R. 398; 79 N.R. 263; 9 Q.A.C. 293; 36 C.C.C.(3d) 481; 60 C.R.(3d) 1, at 415 (S.C.R.), where McIntyre, J., speaking for the Court, held,
+"The function of the expert witness is to provide for the jury or other trier of fact an expert's opinion as to the significance of, or the inference which may be drawn from proved facts in a field in which the expert witness possesses special knowledge and experience going beyond that of the trier of fact. The expert witness is permitted to give such opinions for the assistance of the jury. Where the question is one which falls within the knowledge and experience of the triers of fact, there is no need for expert evidence and an opinion will not be received."
+[21]
+In upholding the Crown's objection, Simpson, J., relied, in part, on the legal prohibition against presenting argument through an expert witness, and referred to
+Yewdale v. Insurance Corp. of British Columbia
+(1995), 3 B.C.L.R.(3d) 240 (S.C.) and
+Surrey Credit Union v. Wilson
+(1990), 45 B.C.L.R.(2d) 310 (S.C.). In
+Surrey Credit Union v. Wilson
+, McColl, J., held,
+"Expert opinions will be rendered inadmissible when they are nothing more than the reworking of the argument of counsel participating in the case. Where an argument clothed in the guise of an expert's opinion is tendered it will be rejected for what it is."
+[22]
+Upon close review of the Henderson Report, I conclude that its contents are generally political in nature and better suited to a forum other than a court of law. Indeed, that part of the Henderson Report which deals with the RCAP Report appears to be more along the lines of a summary, rather than expert opinion. And while such an undertaking may be helpful, as the RCAP Report consists of five volumes, it is not necessary and is more properly a function of counsel in argument. Furthermore, where it details the RCAP Report's findings on section 35(1) of the
+Constitution Act, 1982
+and the scope of the federal Crown's fiduciary duties and obligations, the Henderson Report again veers into territory not appropriate for an expert report. Such arguments or recommendations should be left to be made by counsel in argument.
+[23]
+During the course of argument, counsel for Samson plaintiffs referred extensively to the RCAP Report and read selected excerpts. These excerpts, however, serve to underscore both the political and legal nature of the RCAP Report. For example, reference was made to Volume 1 ("Looking Forward, Looking Back"), Chapter 6 ("Displacement and Assimilation"), pp. 173-183. Topics dealt with in this chapter included the differing assumptions and understandings of Europeans and Aboriginals; non-fulfilment by the Crown of treaty rights and promises; restoring the spirit of the treaties; and historical measures of control and assimilation on the part of the Crown through federal legislation such as the
+Indian Act
+. The content of these pages, while partly historical in nature, is generally political argument. More political argument may also be found in Volume 2 of the RCAP Report ("Restructuring the Relationship"), chapters 1 ("Treaties") and 2 ("Governance"). Examples of overt legal argument may be found in Volume 1, chapter 9 ("The
+Indian Act
+"). It is difficult, indeed nearly impossible, to fathom how Samson plaintiffs' proposed expert, Mr. Henderson, could be cross-examined on the content of the RCAP Report as he is not one of its authors. These remarks should not be taken to mean that the RCAP Report has no place whatsoever in this litigation; its place, however, is with counsel in the course of argument.
+[24]
+The Sanders Report, however, is of a different nature. Professor Sanders was tendered as a legal historian. His Report purports to be an historical overview of Crown/Aboriginal relations and policy and how they have evolved over time. In the course of his Report, Professor Sanders refers to cases, legislative instruments, reports, and academic sources; however, the context in which such references are made is that of the legal history of practice and policy by the Crown in relation to Indians. Granted, counsel for either party could marshal the cases and other materials referenced by Professor Sanders, but could counsel present them in the context of a trained legal historian? If one answers in the affirmative, then Canadian legal history could effectively be barred from ever being an acceptable subject matter of expert testimony.
+[25]
+A key issue in this case is the nature of the relationship between the parties and the resulting obligations and duties; the historical background and evolution of this relationship is therefore important and, in this respect, Professor Sanders' Report may be of assistance to the Court.
+[26]
+Samson plaintiffs also argued that the general rules of evidence must be read and applied in light of the special nature of aboriginal litigation and the Supreme Court of Canada's directions with regard to adapting the rules of evidence to accommodate aboriginal evidentiary issues. Samson plaintiffs contend that the
+Mohan
+criteria should therefore be applied in the spirit of the sui generis nature of aboriginal litigation.
+[27]
+The Supreme Court of Canada's directions regarding the approach to the rules of evidence that trial courts must take in the context of aboriginal litigation is found in
+R. v. Van der Peet (D.M.)
+, [1996] 2 S.C.R. 507; 200 N.R. 1; 80 B.C.A.C. 81; 130 W.A.C. 81; [1996] 4 C.N.L.R. 177. In that decision, Lamer, C.J., stated, at pages 558-559 [S.C.R.],
+"In determining whether an aboriginal claimant has produced evidence sufficient to demonstrate that her activity is an aspect of a practice, custom or tradition integral to a distinctive aboriginal culture, a court should approach the rules of evidence, and interpret the evidence that exists, with a consciousness of the special nature of aboriginal claims, and the evidentiary difficulties in proving a right which originates in times where there were no written records of the practices, customs and traditions engaged in. The courts must not undervalue the evidence presented by aboriginal claimants simply because that evidence does not conform precisely with the evidentiary standards that would be applied in, for example, a private law torts case."
+[28]
+Lamer, C.J., revisited these comments the following year in
+Delgumuukw et al. v. British Columbia et al.
+, [1997] 3 S.C.R. 1010; 220 N.R. 161; 99 B.C.A.C. 161; 162 W.A.C. 161, at pages 1065-1066 [S.C.R.]:
+"The justification for this special approach can be found in the nature of aboriginal rights themselves. I explained in
+Van der Peet
+that those rights are aimed at the reconciliation of the prior occupation of North America by distinctive aboriginal societies with the assertion of Crown sovereignty over Canadian territory. They attempt to achieve that reconciliation by 'their bridging of aboriginal and non-aboriginal cultures' (at para. 42). Accordingly, 'a court must take into account the perspective of the aboriginal people claiming the right ... while at the same time taking into account the perspective of the common law' such that '[t]true reconciliation will, equally, place weight on each' (at paras. 49 and 50).
+"In other words, although the doctrine of aboriginal rights is a common law doctrine, aboriginal rights are truly sui generis, and demand a unique approach to the treatment of evidence which accords due weight to the perspective of aboriginal peoples. However, that accommodation must be done in a manner which does not strain 'the Canadian legal and constitutional structure' (at para. 49). Both the principles laid down in
+Van der Peet
+- first, that trial courts must approach the rules of evidence in light of the evidentiary difficulties inherent in adjudicating aboriginal claims, and second, that trial courts must interpret that evidence in the same spirit - must be understood against this background."
+[29]
+In both cases,
+Van der Peet
+and
+Delgamuukw
+, the Court's comments, or directions, were triggered by what it held to be a misapprehension of the evidentiary value of oral history evidence. The Court was concerned with how lower courts treated, or failed to treat, oral histories as independent proof of historical facts; the Court's direction is that such evidence be admitted on an
+equal footing
+with the more familiar types of historical evidence.
+[30]
+In my opinion, the Supreme Court's directions regarding adapting the rules of evidence do not apply to the question of admissibility of the expert reports which are the subject matter of this motion.
+[31]
+Accordingly, it is my opinion that the Henderson Report is inadmissible and the Sanders Report is admissible for the reasons given above.
+Order accordingly.
+Editor: Angela E. McKay/pdk
+[End of document]

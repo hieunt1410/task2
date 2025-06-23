@@ -1,0 +1,7 @@
+[9]
+That Court of Appeal made reference to the judgment of the Supreme Court of Canada in
+Maynard v. Maynard
+, [1951] S.C.R. 346, at pp. 358-359, [1951] 1 D.L.R. 241, where the Supreme Court adopted a passage from
+Green v. Weatherill
+, [1929] 2 Ch. 213, at pp. 221-222, as follows:
+"... the court requires the parties to that litigation to bring forward their whole case and will not (except under special circumstances) permit the same parties to open the same subject of litigation in respect of matter which might have been brought forward as part of the subject in contest, but which was not brought forward only because they have from negligence, inadvertence or even accident, omitted part of their case. The plea of res judicata applies, except in special cases, not only to points upon which the court was actually required by the parties to form an opinion and pronounce a judgment, but to every point which properly belonged to the subject of litigation and which the parties, exercising reasonable diligence, might have brought forward at the time."

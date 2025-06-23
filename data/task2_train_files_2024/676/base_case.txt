@@ -1,0 +1,187 @@
+[1]
+O'Keefe, J.
+: This is an application pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 (the Act), for judicial review of a decision by an immigration officer (the officer) at the High Commission of Canada in Islamabad, Pakistan, dated December 3, 2009, wherein the officer denied the applicant's application for a permanent resident visa as a skilled worker.
+[2]
+The applicant requests an order for a writ of certiorari quashing the decision of the officer, an order for a writ of mandamus directing the respondent to process the application within 60 days and costs on a solicitor-client basis.
+Background
+[3]
+Ms. Yasmin Bano (the applicant) is a citizen of Pakistan born on December 26, 1954. In December 2004, the applicant applied for permanent residence as a skilled worker under the National Occupation Classification (NOC) Code 4131, a college or other vocational instructor. She also provided updated information in June 2009.
+[4]
+In the submissions included with her original application, her immigration consultant estimated that she would receive 20 points for education as the applicant had received a Bachelor's degree in Arts from the University of Karachi and she had also completed a one year Subject Specialist Teacher Programme at Aga Khan University.
+[5]
+On December 3, 2009, the officer sent the decision letter to the applicant, having assessed her application as follows:
+AGE - 10
+EDUCATION - 15
+EXPERIENCE - 21
+ARRANGED EMPLOYMENT - 0
+OFFICIAL LANGUAGE PROFICIENCY
+English - 12
+French - 0
+ADAPTABILITY
+Education of Spouse/Partner - 0
+Prior Work/Study in Canada - 0
+Arranged Employment - 0
+Close Relative in Canada - 5
+TOTAL - 63
+[6]
+The applicant seeks judicial review of this decision.
+Immigration Officer's Decision
+[7]
+The officer awarded the applicant 15 points for her education because she completed one year of post-secondary education at Aga Khan University. The officer did not award the applicant any points for her Bachelor degree from the University of Karachi because the documents indicate that the applicant was an external candidate.
+[8]
+The officer states in the CAIPS notes that in Pakistan, a private/external candidate is not enrolled as a student at the institution granting the degree or at a recognized college. The officer noted that candidates may have prepared for their examinations through self-study or with a private tutor who is not regulated by the government of Pakistan.
+[9]
+After quoting section 73 and subsection 78(1) of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227 (the Regulations), the officer found that there was nothing demonstrating that the applicant, a private/external candidate, attended the institution from which the degree was awarded, received at least 15 hours of instruction per week, or that the studies were part-time or accelerated. As a result, the officer concluded that the years of study from the university cannot be considered in the calculation of the applicant's points.
+Issues
+[10]
+The applicant submitted the following issues for consideration:
+1. What is the deference to be given to the immigration officer?
+2. What are the units of assessment to be awarded in this case?
+3. Did the officer fail to consider section 78 as a whole and erred by not going further to consider the application in light of subsection 78(4) in respect to the applicant's educational attainment?
+4. Did the officer err by not assessing the applicant based on her highest level of education in light of subsection 78(3) of the Regulations and therefore did not award the applicant the correct units of assessment by the application of subsection 78(4) to the applicant's situation?
+[11]
+I would rephrase the issues as follows:
+1. What is the appropriate standard of review?
+2. Did the officer err by failing to award the applicant points for her education at the University of Karachi?
+3. Should the applicant be awarded costs in this case?
+Applicant's Written Submissions
+[12]
+The applicant submits that under subparagraph 78(2)(b)(ii) and subsections 78(3) and 78(4), she was entitled to 20 points for education because she obtained a university degree which would ordinarily require 14 years of full time or full time equivalent studies. She submits that although she was registered as an external candidate, she is deemed to possess 14 years of full time equivalent studies because she received a degree that would normally take 14 years of full time study to complete.
+[13]
+The officer indicated that the applicant had not demonstrated that she sat for 15 hours of instruction per week, that she was a student of that university or whether her studies were part time or accelerated. The applicant submits that it is irrelevant whether she attended full time, part time, as an external or accelerated student.
+[14]
+The applicant relies on the Court's decision in
+Shahid v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 130, where Mr. Justice James O'Reilly stated that it was not clear why Mrs. Shahid did not meet the definition of full time equivalent studies if she proved that the degree she obtained would ordinarily take 14 years of full time study to complete.
+[15]
+The applicant further submits that the officer erred by failing to consider her educational credential in light of subsection 78(4). The applicant relies on
+McLachlan v. Canada (Minister of Citizenship and Immigration)
+, 2009 FC 975, where Mr. Justice Leonard Mandamin found that an immigration officer had simply focused on tallying the applicant's years of study without regard to the level of educational attainment. Mr. Justice Mandamin indicated that the inclusion of subsection 78(4) indicates that the legislators were aware of the possibility that an applicant may obtain a valid educational credential in fewer years than it would normally take to obtain such a degree.
+Respondent's Written Submissions
+[16]
+The respondent submits that contrary to the position of the applicant, subsections 78(2) and 78(4) of the Regulations indicate that it is entirely relevant whether the applicant was full time, part time, an external or accelerated student. The respondent relies on this Court's decision in
+Hameed v. Canada (Minister of Citizenship and Immigration)
+, 2008 FC 271. In
+Hameed
+above, the applicant obtained a Bachelor's degree from the University of Punjab as an external student. However, the applicant in that case was able to demonstrate that he was registered at another post-secondary institution affiliated with the University of Punjab as a full time student prior to taking the exams. The applicant had also provided a letter indicating that the degree conferred by the University of Punjab was recognized as the equivalent to a degree involving 14 years of schooling at other institutions. Because the applicant was able to provide this evidence, the Court found that the officer erred by failing to give effect to these documents.
+[17]
+The respondent submits that the facts in this case are very different from those present in
+Hameed
+above. The applicant did not provide any evidence indicating that she was enrolled as a full time student in any other program prior to writing her exams. She also did not provide evidence confirming that she should be given credit for "full-time equivalent" status. The respondent also relies on this Court's decision in
+Hanif v. Canada (Minister of Citizenship and Immigration)
+, 2009 FC 68, where Mr. Justice Michel Shore dismissed an application for judicial review of a similar decision because the applicant had not provided evidence confirming that he was a university registered student in a Bachelor studies program recognized by the Higher Education Commission of Pakistan.
+[18]
+The respondent submits that contrary to her submission, the applicant should not be "deemed to possess" 14 years of full time equivalent study because if this rationale were followed, there would be no need for subsection 78(4) which requires officers to award points commensurate to the number of years of completed full time or full time equivalent studies when the person has acquired a particular educational credential, but not the expected number of years of education.
+[19]
+Regarding the applicant's request for costs, the respondent notes that rule 22 of the
+Federal Court Immigration and Refugee Protection Rules
+, SOR/2002-232 states that no costs shall be awarded in immigration matters unless there are special reasons for doing so. The respondent cites
+Adesina v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 336, where the Court states that the threshold for special reasons is high and have been described as including conduct which is unfair, oppressive, improper, motivated by bad faith, or results in undue prolongation of proceedings. The respondent notes that the applicant has not provided any evidence indicating that it has engaged in such conduct and thus submits that costs are not warranted in this case.
+Analysis and Decision
+Issue 1
+What is the appropriate standard of review?
+[20]
+In
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, [2008] 1 SCR 190 at paragraph 45, the Supreme Court of Canada established that there are two standards of review for administrative decisions - correctness and reasonableness.
+[21]
+A refusal of an application for permanent residence as a skilled worker has been held to be reviewable on a standard of reasonableness (see
+FRAGMENT_SUPPRESSED). The Supreme Court has held that a decision will be reasonable if it meets the criteria of justification, transparency and intelligibility and if the decision falls within a range of possible, acceptable outcomes defensible in respect of the facts and law (
+Dunsmuir
+above, at paragraph 47;
+Canada (Minister of Citizenship and Immigration)
+v. Khosa
+, 2009 SCC 12 at paragraph 59).
+Issue 2
+Did the officer err by failing to award the applicant points for her education at the University of Karachi?
+[22]
+In my view, there is very strong precedent for the conclusion that the officer erred by failing to award the applicant 20 points for her education.
+[23]
+In
+Shahid
+above, a case cited by the applicant, Mr. Justice O'Reilly dealt with a very similar situation. In that case, the applicant, Mr. Shahid, was not awarded any points for his spouse's education. Like the applicant in this case, Mrs. Shahid had been awarded a Bachelor's degree from the University of Karachi. As evidence of her education, Mrs. Shahid submitted her university degree and her records of examinations for her first and second years. It was unclear from the record whether Mrs. Shahid had also submitted a letter from the university indicating that Mrs. Shahid had achieved 14 years of full time study. The Minister submitted that if Mrs. Shahid did not include the letter from the university in her submissions, then the officer's conclusion that Mrs. Shahid had not completed 14 years of full time or full time equivalent studies was reasonable.
+[24]
+However, Mr. Justice O'Reilly disagreed with this submission. He states at paragraphs 7 to 9:
+7 In my view, the respondent's position overlooks the definition of "full-time equivalent". Even without the evidence of 14 years of full-time study, the officer had to consider, on the evidence before him, whether Mrs. Shahid met the definition of full-time equivalent. As I read that definition, in the context here, an applicant would meet the criteria where he or she actually takes either more or less than fourteen years to acquire a bachelor's degree but, nevertheless, shows that the degree would ordinarily take fourteen years of full-time study to obtain.
+8 The officer explains in his affidavit that candidates for bachelor's degrees in Pakistan can register as external students and then pursue their studies elsewhere or through private tutors. They can sit their exams at the university (e.g., The University of Karachi) and, if successful, obtain their bachelor's degree. The university does not require students to have attended classes at the university either on a full-time or part-time basis. In Mrs. Shahid's case, the officer found that she had not provided proof that she had attended classes anywhere given that she was an external candidate. Accordingly, she did not meet the definition of a "full-time" student. He went on to state that the lack of proof of attendance in classes meant that she did not meet the definition of "full-time equivalent" either.
+9 It is clear why Mrs. Shahid did not meet the definition of "full-time" - she did not provide evidence of attendance in class for 15 hours a week. However, it is not clear why she did not meet the definition of full-time equivalent.
+Even if she studied elsewhere, or on her own, whether part-time or on an accelerated basis, it seems to me she could meet the definition of "full-time equivalent" if she proved that the degree she obtained would ordinarily take 14 years of full-time study to obtain.
+Here, the evidence showed that she took exams over the course of two years and obtained a degree that ordinarily takes two years of full-time study to achieve. And she provided proof of twelve years of full-time study preceding her university credential. In the circumstances, I believe another officer should consider whether this evidence satisfies the applicable regulatory requirements. [Emphasis added]
+[25]
+In the present case, the applicant has presented the same evidence as Mrs. Shahid: her Bachelor's degree and her record of examinations. The officer in this case also stated that private/external students prepare for their examinations through self-study or private tutors and they are not required to attend classes and the applicant was not awarded points for this educational credential because she did not provide evidence of attendance, evidence of the number of hours of instruction or proof that her studies were on a part time or accelerated basis. In my view, there is no substantial factual difference upon which
+Shahid
+above, can be distinguished from the present case and as a result, I would find that the application for judicial review should be allowed.
+Issue 3
+Should the applicant be awarded costs in this case?
+[26]
+I agree with the respondent that costs should not be awarded in this case. As the respondent has noted, the jurisprudence indicates that there must be some sort of behaviour on the part of the respondent that warrants an award of costs. The applicant has not provided any evidence indicating why she should receive costs in this case. In my view, there are no special reasons so as to justify an award of costs.
+[27]
+Neither party submitted a proposed serious question of general importance for my consideration for certification.
+[28]
+The applicant, in the memorandum of argument, also sought mandamus directing the respondent to process the applicant's application with 60 days of this order. I am not prepared to grant this relief.
+JUDGMENT
+[29]
+IT IS ORDERED that
+the application for judicial review is allowed and the matter is referred to a different officer for redetermination and there shall be no order for costs.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/vnh
+ANNEX
+Relevant Statutory Provisions
+Immigration and Refugee Protection Regulations
+, SOR/2002-227
+78.(1) The definitions in this subsection apply in this section.
+"full-time" means, in relation to a program of study leading to an educational credential, at least 15 hours of instruction per week during the academic year, including any period of training in the workplace that forms part of the course of instruction.
+"full-time equivalent" means, in respect of part-time or accelerated studies, the period that would have been required to complete those studies on a full-time basis.
+Education (25 points)
+(2) A maximum of 25 points shall be awarded for a skilled worker's education as follows:
+(a) 5 points for a secondary school educational credential;
+(b) 12 points for a one-year post-secondary educational credential, other than a university educational credential, and a total of at least 12 years of completed full-time or full-time equivalent studies;
+(c) 15 points for
+(i) a one-year post-secondary educational credential, other than a university educational credential, and a total of at least 13 years of completed full-time or full-time equivalent studies, or
+(ii) a one-year university educational credential at the bachelor's level and a total of at least 13 years of completed full-time or full-time equivalent studies;
+(d) 20 points for
+(i) a two-year post-secondary educational credential, other than a university educational credential, and a total of at least 14 years of completed full-time or full-time equivalent studies, or
+(ii) a two-year university educational credential at the bachelor's level and a total of at least 14 years of completed full-time or full-time equivalent studies;
+(e) 22 points for
+(i) a three-year post-secondary educational credential, other than a university educational credential, and a total of at least 15 years of completed full-time or full-time equivalent studies, or
+(ii) two or more university educational credentials at the bachelor's level and a total of at least 15 years of completed full-time or full-time equivalent studies; and
+(f) 25 points for a university educational credential at the master's or doctoral level and a total of at least 17 years of completed full-time or full-time equivalent studies.
+Multiple educational achievements
+(3) For the purposes of subsection (2), points
+(a) shall not be awarded cumulatively on the basis of more than one single educational credential; and
+(b) shall be awarded
+(i) for the purposes of paragraphs (2)(a) to (d), subparagraph (2)(e)(i) and paragraph (2)(f), on the basis of the single educational credential that results in the highest number of points, and
+(ii) for the purposes of subparagraph (2)(e)(ii), on the basis of the combined educational credentials referred to in that paragraph.
+Special circumstances
+(4) For the purposes of subsection (2), if a skilled worker has an educational credential referred to in paragraph (2)(b), subparagraph (2)(c)(i) or (ii), (d)(i) or (ii) or (e)(i) or (ii) or paragraph (2)(f), but not the total number of years of full-time or full-time equivalent studies required by that paragraph or subparagraph, the skilled worker shall be awarded the same number of points as the number of years of completed full-time or full-time equivalent studies set out in the paragraph or subparagraph.
+78.(1) Les définitions qui suivent s'appliquent au présent article.
+« équivalent temps plein » Par rapport à tel nombre d'années d'études à temps plein, le nombre d'années d'études à temps partiel ou d'études accélérées qui auraient été nécessaires pour compléter des études équivalentes.
+« temps plein » À l'égard d'un programme d'études qui conduit à l'obtention d'un diplôme, correspond à quinze heures de cours par semaine pendant l'année scolaire, et comprend toute période de formation donnée en milieu de travail et faisant partie du programme.
+Études (25 points)
+(2) Un maximum de 25 points d'appréciation sont attribués pour les études du travailleur qualifié selon la grille suivante:
+a) 5 points, s'il a obtenu un diplôme d'études secondaires;
+b) 12 points, s'il a obtenu un diplôme postsecondaire - autre qu'un diplôme universitaire - nécessitant une année d'études et a accumulé un total d'au moins douze années d'études à temps plein complètes ou l'équivalent temps plein;
+c) 15 points, si, selon le cas:
+(i) il a obtenu un diplôme postsecondaire - autre qu'un diplôme universitaire - nécessitant une année d'études et a accumulé un total de treize années d'études à temps plein complètes ou l'équivalent temps plein,
+(ii) il a obtenu un diplôme universitaire de premier cycle nécessitant une année d'études et a accumulé un total d'au moins treize années d'études à temps plein complètes ou l'équivalent temps plein;
+d) 20 points, si, selon le cas:
+(i) il a obtenu un diplôme postsecondaire - autre qu'un diplôme universitaire - nécessitant deux années d'études et a accumulé un total de quatorze années d'études à temps plein complètes ou l'équivalent temps plein,
+(ii) il a obtenu un diplôme universitaire de premier cycle nécessitant deux années d'études et a accumulé un total d'au moins quatorze années d'études à temps plein complètes ou l'équivalent temps plein;
+e) 22 points, si, selon le cas:
+(i) il a obtenu un diplôme postsecondaire - autre qu'un diplôme universitaire - nécessitant trois années d'études et a accumulé un total de quinze années d'études à temps plein complètes ou l'équivalent temps plein,
+(ii) il a obtenu au moins deux diplômes universitaires de premier cycle et a accumulé un total d'au moins quinze années d'études à temps plein complètes ou l'équivalent temps plein;
+f) 25 points, s'il a obtenu un diplôme universitaire de deuxième ou de troisième cycle et a accumulé un total d'au moins dix-sept années d'études à temps plein complètes ou l'équivalent temps plein.
+Résultats
+(3) Pour l'application du paragraphe (2), les points sont accumulés de la façon suivante:
+a) ils ne peuvent être additionnés les uns aux autres du fait que le travailleur qualifié possède plus d'un diplôme;
+b) ils sont attribués:
+(i) pour l'application des alinéas (2)a) à d), du sous-alinéa (2)e)(i) et de l'alinéa (2)f), en fonction du diplôme qui procure le plus de points selon la grille,
+(ii) pour l'application du sous-alinéa (2)e)(ii), en fonction de l'ensemble des diplômes visés à ce sous-alinéa.
+Circonstances spéciales
+(4) Pour l'application du paragraphe (2), si le travailleur qualifié est titulaire d'un diplôme visé à l'un des alinéas (2)b), des sous-alinéas (2)c)(i) et (ii), (2)d)(i) et (ii) et (2)e)(i) et (ii) ou à l'alinéa (2)f) mais n'a pas accumulé le nombre d'années d'études à temps plein ou l'équivalent temps plein prévu à l'un de ces alinéas ou sous-alinéas, il obtient le nombre de points correspondant au nombre d'années d'études à temps plein complètes - ou leur équivalent temps plein - mentionné dans ces dispositions.
+[End of document]

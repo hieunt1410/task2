@@ -1,0 +1,219 @@
+Merck & Co. v. Apotex Inc., [1998] F.T.R. Uned. 814 (TD)
+MLB unedited judgment
+Merck & Co. Inc. and Merck Frosst Canada Inc. (plaintiffs) and Apotex Inc. (defendant)
+Indexed As: Merck & Co. et al. v. Apotex Inc.
+Cite As: [1998] F.T.R. Uned. 814
+Federal Court of Canada
+Trial Division
+MacKay, J.
+November 3, 1998.
+(T-2408-91)
+Counsel:
+Alexander Macklin, Q.C. and Emmanuel Manolakis, for the plaintiff;
+Harry Radomski and Daniela Bassan, for the defendant.
+Solicitors of Record:
+Gowling, Strathy & Henderson, Ottawa, Ontario, for the plaintiff;
+Goodman Phillips & Vineberg, Toronto, Ontario, for the defendant;
+Greenspan, Humphrey, Toronto, Ontario, for Dr. Bernard Sherman.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [1998] F.T.R. TBEd. NO.056.
+[1]
+MacKay, J.
+: The plaintiffs seek reconsideration of, and orders varying, the terms of judgment dated December 22, 1994 [see footnote 1], as amended by the Court of Appeal on April 19, 1995 [see footnote 2], and again on May 16, 1995. By two motions different forms of relief are sought by the plaintiffs, in relation to different circumstances.
+[2]
+By one motion, pursuant to Rules 337(5) and (6) as they then applied [see footnote 3], on the ground that the matter was overlooked by an accidental slip or omission by the Court at the time of judgment, the Court is asked to change the terms of the Judgment as amended to specify that use of a particular lot of bulk enalapril maleate constitutes infringement of the plaintiffs' patent, Canadian patent No. 1,275,349. The lot in question, identified at trial as P-65388, was invoiced to Apotex by the supplier and received by the defendant, on December 6 and 7, 1990, respectively, after the grant of the plaintiffs' patent, before trial. It was received in the same shipment and at the same time as other lots specified in the Judgment, but it was not specifically referred to in the Judgment or in my Reasons for Judgment.
+[3]
+The second motion is brought pursuant to Rule 1733 as it then applied [see footnote 4], on the ground that matters discovered subsequent to the rendering of judgment are of a nature that had they been brought forward before judgment that would likely have resulted in an altered or a different judgment. The matter subsequently discovered by Merck is that the defendant Apotex acquired additional lots of bulk enalapril maleate following the trial and before judgment, the use of which, it is urged, would constitute infringement of the plaintiffs' patent, in accord with the terms of the Judgment as it applied to specified lots also acquired by the defendant after the issue of the plaintiffs' patent. The Court is asked to reopen the hearing of the trial, to consider the matter, and if necessary order trial concerning the acquisition by Apotex of additional bulk enalapril maleate after the trial hearing and before judgment was rendered, and to vary the Judgment now recorded as may then be appropriate.
+[4]
+The background leading to judgment and the subsequent initiatives by the parties following the Judgment may be summarily reviewed before turning to the motions in turn.
+The trial, judgment and appeal
+[5]
+This action, for infringement of patent rights and related relief was tried in March and April 1994. At the conclusion of the hearing decision was reserved until December 14, 1994 when Reasons for Judgment were issued, followed by formal Judgment, filed December 22,1994, after consultation with counsel and resolution of its terms.
+[6]
+The plaintiffs' patent in question, owned by Merck & Co. Inc. and used by Merck Frosst Canada Inc. in this country, includes claims for the compound enalapril maleate when produced by the patented process and claims for its use in compositions for particular pharmaceutical purposes. By my decision, following trial, I found that a number of the patent's claims were infringed by the defendant's manufacture and sale of its Apo-Enalapril product, that the plaintiffs were entitled to an injunction against further infringement and to an order for delivery up of infringing product on hand, and to damages or an accounting of profits.
+[7]
+In the action, the defendant relied upon s. 56 of the
+Patent Act
+[see footnote 5] to claim immunity from suit. That provision permits one who acquires an invention which is subsequently patented by another to continue to use the invention without any liability to the patentee for infringement. In this case, Apotex claimed to have acquired its bulk enalapril maleate, from which it manufactured its product for sale, prior to the grant of the patent to the plaintiffs on October 16, 1990, or from a producer, Delmar Chemicals, holding a compulsory license to use the invention which was the subject of Merck's patent, under the regulations then applicable.
+[8]
+In the course of the trial certain lots of bulk enalapril maleate were the subject of argument because they were not provided in finished and acceptable form to the defendant by its supplier prior to the grant of the patent. These lots were identified as P-65478, P-65479 and P-65480, hereinafter referred to as the "three P- lots". These were the lots received in the same shipment as lot P-63588 in December 1990. In addition, there was a further lot, 44.9 kg of bulk enalapril maleate, produced by the defendant's supplier and sold by it to a third party. That lot was not acquired by the defendant until after the issue of the Merck patent, indeed not until after the compulsory license to the supplier had been cancelled. I found that the three P-lots and the 44.9 kg lot of bulk enalapril maleate, could not be considered to have been acquired by the defendant before the grant of the Merck patent on October 16, 1990. The three P-lots were found not to have been in existence at the date of issue of the patents. Their use, and use of the 44.9 kg lot, was not protected by the s. 56 defence pleaded.
+[9]
+I further found that s. 56 did not provide a defence to the action for infringement even in relation to bulk enalapril maleate acquired before the date of the patent but not manufactured into tablets by Apotex and sold before that date. In this respect the Court of Appeal found that I was in error in the application of s. 56. It allowed the appeal by Apotex from the trial judgment in respect of bulk enalapril maleate acquired by the defendant before the grant of the patent, whether or not that product had been manufactured by Apotex into finished product before the issue of the Merck patent. That Court did agree with the trial finding that use of the three P-lots and the 44.9 kg lot was not protected by the s. 56 defence.
+[10]
+By its Judgment the Court of Appeal amended the trial judgment on April 19, 1995, and again on May 16, 1995. The terms of the Judgment as amended, relevant for purposes of these motions now under consideration, are as follows, with the amendments introduced by the Judgment of the Court of Appeal here underlined. Implicitly a number of these terms would be further amended if the plaintiffs' motions for reconsideration, now before the Court, are granted.
+"1. Claims 1 to 5 and 8 to 15 inclusive of Canadian Letters Patent No. 1,275,349 have been infringed by the Defendant...
+in relation to lots P-65478, P-65479 and P-65480 of bulk enalapril maleate, and the 44.9 kilograms of enalapril maleate which was purchased by the appellant from a foreign customer of Delmar Chemicals Inc. in March 1993 after the compulsory licence held by that company was extinguished by statute
+;
+. . . . .
+3. The Defendant, by its officers, directors, servants, agents, employees, or otherwise, is hereby restrained and enjoined from infringing claims 1 to 5 and 8 to 15 inclusive of Canadian Letters Patent No. 1,275,349, and in particular from manufacturing, using, offering for sale and selling, in Canada or elsewhere, APO-ENALAPRIL tablets or any tablets or other dosage forms containing enalapril maleate as an active ingredient,
+manufactured from bulk enalapril maleate contained in lots P-65478, P-65479 and P-65480 as well as from the 44.9 kilograms of enalapril maleate, referred to in paragraph 1 hereof;
+4.
+The Defendant shall deliver up, or destroy under the supervision of this Court all compositions, that is, APO-ENALAPRIL products and any compositions or dosage forms containing enalapril maleate manufactured from the bulk enalapril maleate contained in lots P-65478, P-65479 and P-65480 and the 44.9 kilograms of enalapril maleate referred to in paragraph 1 hereof, as well as the bulk enalapril maleate contained in the said three lots and in the said 44.9 kilograms;
+5.
+The Plaintiffs shall be entitled to be paid damages suffered by them or the profits made by the Defendants by reason of the use of any of the bulk enalapril maleate contained in lots P-65478, P-65479 and P-65480 and in the said 44.9 kilograms referred to in paragraph 1 hereof, subject to the entitlement to an election being determined by this trial judge at a hearing to be arranged, all in accordance with the order of the Honourable Madame Justice Tremblay-Lamer dated January 27, 1994.
+"
+. . . . .
+[11]
+Applications for leave to appeal to the Supreme Court of Canada, by both plaintiffs and defendant, were dismissed by Order of that Court on December 5, 1995.
+[12]
+The motions now before the Court concern particular lots of bulk enalapril maleate acquired by Apotex to which no specific reference is made in the Reasons for Judgment of December 14, 1994 or the Judgment of December 22, 1994 or of the Judgment as amended by the Court of Appeal on April 19, 1995 and on May 16, 1995. The first, which is the matter of concern in the motion pursuant to then rule 337(5) and (6), is lot P-65388, some 55.8 kg of bulk enalapril maleate, identified in the evidence at trial as received by the defendant from its licensed supplier on December 7, 1990, after the date of issue of the patent. The second lot or lots, comprising some 772.9 kg of bulk enalapril maleate, possibly more, is product acquired by Apotex from a third party to which Delmar Chemicals, the licensed supplier to the defendant, had earlier sold similar product. The 772.9 kg was acquired by Apotex from the third party, following the trial hearing and before judgment, while this Court's decision was under reserve. That acquisition was not reported by Apotex, even though at the time of trial Dr. Sherman, then President of the defendant, gave evidence that the Court had been advised of all the bulk product acquired by Apotex and that further acquisitions would presumably not be protected by the s. 56 defence. Indeed, Merck suggests it was implicit from Dr. Sherman's evidence that there would not be additional acquisition of bulk enalapril maleate by Apotex.
+[13]
+The plaintiffs' motions now before the Court are based on perceptions that the circumstances of lot P-65388 are comparable to those of the three P- lots, and that the circumstances of the bulk enalapril maleate acquired following the trial hearing and before judgment are comparable to those of the 44.9 kg lot. In Merck's view both lot P-63588 and the lots acquired after the trial hearing should now be provided for upon reconsideration of the terms of judgment.
+Subsequent initiatives to deal with other lots of bulk product
+[14]
+It is useful to review, at least in a summary way, the procedural steps initiated since the trial and appeal judgments in efforts to have these matters dealt with by the Court.
+[15]
+An Order for production by Apotex, of sales and production records, originally issued before trial, was affirmed as continuing in effect on December 5, 1995, and was then appealed by Apotex. On May 9, 1996, the Court of Appeal ordered that the document production order continued in effect but only with respect to the four infringing lots specifically referred to in the Judgment as amended. Further, in the course of its Reasons the Court of Appeal stated that, as a result of the amendment it earlier had approved, "the interim order from its date of issuance never applied to other quantities" than those specifically referred to in the Judgment as amended. Documents produced by Apotex that related to any other product were ordered to be returned.
+[16]
+By motion to the Court of Appeal dated December 18, 1995, the plaintiffs sought an order pursuant to then Rule 337 to have the trial judgment as amended reconsidered and varied, by adding lot P-65388 to the list of infringing lots and by including in the terms of judgment all bulk enalapril maleate acquired by Apotex after the grant of Merck's patent. That application was dismissed by the Court of Appeal by order dated March 6, 1996 [see footnote 6], basically because the issues had not been raised in the earlier appeal which led to amendment of the trial judgment.
+[17]
+In an effort to clarify the defendant's apparent access to enalapril maleate other than that identified at trial, the plaintiffs brought a series of motions. First, by motion of January 31, 1996, they sought an order of sequestration, an order for production of records, and an order that Apotex preserve records in relation to enalapril maleate. The application was adjourned,
+sine die
+, by Madam Justice McGillis on February 6, 1996. Next, the plaintiffs, by motion dated February 12, 1996 sought an order enjoining manufacture and sale by Apotex of enalapril maleate, an order for inspection of Apotex' records and inventory of the product and a writ of specific delivery. That motion was adjourned
+sine die
+on February 20, 1996 by Mr. Justice Richard, as he then was, on an undertaking by counsel for Apotex to deliver records in compliance with the original order to do so that had been made before trial.
+[18]
+Further, by motion dated March 7, 1996, the plaintiffs sought an order for specific delivery of enalapril maleate acquired after the grant of Merck's patent and an order for inspection of records of any such product, and an order requiring Apotex to recall from customers or distributors any product made of enalapril maleate acquired after the grant of Merck's patent. By Order of May 16, 1996, Mr. Justice Nadon dismissed that application. In his reasons, Nadon J. referred to the refusal of the Court of Appeal in March 1996 to amend the Judgment as amended and to provide for extending the judgment's application to lots of bulk product acquired after the hearing at trial. Yet that result would be implicit if the orders sought by Merck were to be granted. He dismissed the application noting that if the final judgment (presumably as then amended) is to be amended or modified it could not be done by the motion before him.
+[19]
+Thus Merck sought to clarify application of the Judgment in relation to the lots of enalapril maleate that are of continuing concern, and to incorporate additional lots of bulk enalapril maleate within the terms of the judgment as amended. Meanwhile, on February 5, 1996 Apotex commenced an action in Court file T-294-96, seeking a declaration that its use of bulk enalapril maleate acquired by it following trial in this action, T-2408-91, does not infringe Merck's patent and that Apotex is not liable for infringement of the patent by this use. Merck has defended in this action, an action for declaratory relief, and it has moved for leave to amend its defence and to counterclaim for damages, or for an accounting of profits, in respect of Lot P-65388 and the lots acquired by Apotex after the trial hearing.
+[20]
+Merck has sought to use discovery and documents produced in trial preparations in the action for declaratory relief for purposes of this proceeding, to include the lots of enalapril maleate now in issue within the scope of the Judgment as amended in this action. An application by Merck to be permitted to do so was dismissed by Mr. Justice Joyal on February 14, 1997.
+[21]
+By application dated January 31, 1997, dismissed on January 23, 1998, Apotex moved to vary, or to stay application of the injunction provided by the Judgment as amended by the Court of appeal, in order to contest certain claims of Merck's patent which had been found valid at trial in the absence of argument then by Apotex. I dismissed that application finding this Court is
+functus officio
+in relation to the matters pleaded and dealt with at trial, and because no ground was established that would warrant any exercise of discretion to reopen the trial.
+[22]
+Finally, in preparation for hearing of a reference as to damages or profits, in accord with trial judgment as amended in this action, the plaintiffs sought to include within the scope of the reference discovery and document production relating to all enalapril maleate acquired after the grant of Merck's patent by Apotex. An application to do so has been dismissed.
+[23]
+Throughout, apparently in relation to the reference as in relation to other steps taken by Merck, it has been Apotex' basic position that the judgment as amended in this action relates only to infringement arising from use of the bulk enalapril maleate specifically identified as in certain lots by the terms of the Judgment as amended. That, it would appear, is the basis for its request for relief in T-294-96. If there is to be a trial of the question of infringement for use of enalapril maleate other than in the lots specified in the Judgment as amended, it is urged that should be in the action in T-294-96, not by reopening the trial in this, the patent action, when the issues now raised were not raised at trial.
+[24]
+I turn to the motions before me, in turn.
+The motion pursuant to Rule 1733
+[25]
+The relief sought by the plaintiffs, in relation to bulk enalapril maleate acquired by Apotex after the trial hearing in March/April 1994, is as follows:
+"1. An Order pursuant to Rule 1733 of the Federal Court Rules entitling the Plaintiffs to make an application in Court Action No. T-2408-91:
+a. to vary the Judgment rendered December 22, 1994, as amended by the Court of Appeal on April 19, 1996 and further amended on May 16, 1996 (hereinafter "the Judgment as amended"), on the ground of matters arising subsequent to the trial of the action or subsequently discovered to the making of the judgment (collectively the "new matter");
+b. that a hearing be held in respect of the variation of the Judgment as amended in relation to the new matters;
+c. giving directions with regard to the conduct of the hearing including further oral examinations for discovery and document discovery, the presentation of
+viva voce
+and documentary evidence, the use of expert witnesses, if necessary, and the scheduling of such a hearing;
+d. directing the trial of any issue arising out of this motion to be held in conjunction with the hearing described in subparagraph (b) hereof, including:
+i. the extent of continued acquisitions of enalapril maleate by Apotex Inc. ("Apotex") subsequent to trial in March and April 1994;
+ii. the extent of any manufacture, use and sale of APO-ENALAPRIL tablets formulated from such acquisitions.
+2. An Order to expedite the trial of any issues arising out of this motion, as the Court may direct, including the issues identified in part (d) of paragraph 1.
+3. An Order specifying that for the purpose of the hearing described in part (b) of paragraph 1 and the trial of any issues described in part (d) of paragraph 1, the following facts as found in the Reasons for Judgment of the Trial Judge of December 14, 1994 and in the Reasons for Judgment of the Court of Appeal of April 1995 are not in dispute: [here follow statements of fact, in sub-paragraphs a. to m.]
+. . . . .
+4. An Order for directions as to the procedure for the trial of any issues and setting a schedule therefor, in particular:
+[here follow proposed directions, in sub-paragraphs a. to e.]
+. . . . .
+5. An Order, following the hearing that may be ordered under part (c) of paragraph 1 above, varying the Judgment as amended to provide relief reflecting the new matters, the terms of which to be settled following the said hearing."
+[26]
+The Rules [see footnote 7] upon which the plaintiffs rely, as they were at the relevant time, provided as follows:
+"
+Rule 1733
+. A party entitled to maintain an action for the reversal or variation of a judgment or order upon the ground of matter arising subsequent to the making thereof or subsequently discovered, or to impeach a judgment or order on the ground of fraud, may make an application in the action or other proceeding in which such judgment or order was delivered or made for the relief claimed.
+Rule 327
+. Upon any motion the Court may direct the trial of any issue arising out of the motion, and may give such directions with regard to the pre-trial procedure, the conduct of the trial and the disposition of the motion as may seem expedient."
+"Règle 1733
+. Une partie qui a droit de demander en justice l'annulation ou la modification d'un jugement ou d'une ordonnance en s'appuyant sur des faits survenus postérieurement à ce jugement ou à cette ordonnance ou qui ont été découverts par la suite, ou qui a droit d'attaquer un jugement ou une ordonnance pour fraude, peut le faire, sans intenter d'action, par simple demande à cet effet dans l'action ou autre procédure dans laquelle a été rendu ce jugement ou cette ordonnance.
+Règle 327
+. Sur toute requête, la Cour pourra prescrire l'instruction d'un point litigieux soulevé à l'occasion de la requête, et pourra donner, au sujet de la procédure préalable à l'instruction, de la procédure d'instruction et la décision sur la requête, les directives qu'elle estime opportunes."
+[27]
+Upon a motion under Rule 1733 a new hearing may be ordered and evidence adduced in the normal way [see footnote 8]. That may well be the appropriate manner to respond to a motion to set aside a judgment based on serious allegations of fraud [see footnote 9]. In the absence of such a claim, in my view the Court may have greater discretion where it is urged to vary a judgment because of a matter subsequently arising, and it must assess whether to direct trial of any issue arising under a Rule 1733 motion.
+[28]
+In the circumstances, in view of the plaintiffs' pleading that sought relief for all infringing acts of the defendant and in view of Apotex' conceding at trial that enalapril maleate in bulk and dosage form are within Merck's patent claims, I tend to agree with the plaintiffs that had subsequent-to-trial acquisitions of the bulk product been contemplated at trial, the Judgment rendered following trial might well have been altered. At the very least, the plaintiffs would have had opportunity to raise the matter for consideration by the Court. On that basis the application here is within Rule 1733.
+[29]
+The defendant urges that the plaintiffs have not been diligent in seeking relief, that the "new matter" now urged, the acquisition of enalapril maleate by Apotex following the trial hearing, was in evidence provided to Merck as early as March 1995, before the hearing of the Court of Appeal. In my view it is unnecessary to consider whether Merck's delay in seeking relief pursuant to Rule 1733 should preclude relief here. Clearly Merck was concerned that Apotex had acquired additional bulk product after trial but it had no evidence to support its concerns, except for one shipping invoice provided, among other documents, in March 1995, after considerable delay by Apotex in meeting its obligations to provide records of purchases, manufacture and sales of enalapril maleate. That some 100 kg of the bulk product, of a total of some 780 kg now known to have been acquired following the hearing and before judgment, was included in a shipping document or invoice provided to Merck in March 1995, was not noticed by Merck at that time is perhaps not surprising, though it is not here explained that it was then overlooked or why the matter was brought to attention of this Court more than two years later.
+[30]
+Delays by either party however, are not the determining factor in considering the plaintiffs' motion in this case. In my opinion, that factor is that the judgment rendered following trial has been amended by the Court of Appeal, which significantly changed the original judgment. The amended version is the product of three judicial judgments. It is not a judgment now to be varied by the trial court. To do as the plaintiffs seek would be to proceed in a manner that the Court of Appeal has already declined to do in its judgment of March 1996. It is true the basis of that judgment was that the matters now raised were not raised in the original appeal, and the same may be said concerning the trial. To leave unchanged the amended judgment now on record would seem to me the appropriate course. In my opinion, the motion pursuant to Rule 1733 is to be dismissed.
+[31]
+Apotex, I note, undertakes, through counsel, not to object to Merck amending its defence in T-294-96 to add a counterclaim for damages or an accounting for infringement by Apotex arising from use of enalapril maleate acquired after trial. Apotex urges that is the appropriate forum for trial of the issues, rather than now reopening the patent trial in a manner not really contemplated by Rule 1733. Without comment on that assessment of the Rule, the position of Apotex does underline that the issues Merck seeks to have tried, if not triable in this, the patent action, can be tried within Apotex' action for declaratory relief.
+The motion pursuant to Rule 337(5) and (6)
+[32]
+The relief sought by the plaintiffs in relation to the lot P-65388 of bulk enalapril maleate is an order to amend the terms of judgment as amended by specifically including this lot in the judgment, with the other specified lots, the use of which infringed the plaintiffs' patent interests. That would appear to require amendments to clause 1 designating use of lot P-65388 as infringing the designated claims of the patent, to clause 2 to apply the permanent injunction against use of product from this lot, to clause 4 for delivery up or destruction of the compositions or dosage forms produced from the lot in question, and to clause 5 providing for damages or profits arising by reason of use by the defendant of that lot.The Rules relied upon as they provided at all relevant times, are:
+"
+Rule 337(5)
+Within 10 days of the pronouncement of judgment under paragraph 2(a), or such further time as the Court may allow, either before or after the expiration of that time, either party may move the Court, as constituted at the time of the pronouncement, to reconsider the terms of the pronouncement, on one or both of the following grounds, and no others:
+(a) that the pronouncement does not accord with the reasons, if any, that may have been given therefor;
+(b) that some matter that should have been dealt with has been overlooked or accidentally omitted.
+(6) Clerical mistakes in judgments, or errors arising therein from any accidental slip or omission, may at any time be corrected by the Court without an appeal."
+"
+Règle 337(5)
+Dans les 10 jours de prononcé d'un jugement en vertu de l'alinéa (2)a), ou dans tel délai prolongé que la Cour pourra accorder, soit avant, soit après l'expiration du délai de 10 jours, l'une ou l'autre des parties pourra présenter á la Cour, telle qu'elle est constituée au moment du prononcé, une requête demandant un nouvel examen des termes du prononcé, mais seulement l'une ou l'autre ou l'une et l'autre des raisons suivantes:
+a) le prononcé n'est pas en accord avec les motifs qui, le cas échéant, ont été donnés pour justifier le jugement;
+b) on a négligé ou accidentellement omis de traiter d'une question dont on aurait dû traiter.
+(6) Dans les jugements, les erreurs de rédaction ou autres erreurs d'écriture ou omissions accidentelles peuvent toujours être corrigées par la Cour sans procéder par voie d'appel."
+[33]
+I accept, as is urged for Apotex, that, in light of the principle of the finality of judgments, these Rules confer a limited discretion on the court to reconsider a judgment, both in cases where a matter is said to have been overlooked or accidentally omitted [see footnote 10] or where it is said to be a clerical mistake or error arising from any accidental slip or omission [see footnote 11]. That slip or omission must be one by the Court, not by one of the parties [see footnote 12].
+[34]
+For Merck it is submitted that lot P-63588 was in evidence before the Court at trial as a lot received by Apotex in December 1990 along with the other three P- lots. That is so, but I am not persuaded the lot now in question was overlooked by the Court by accident or by omission and that it ought to be included now in the Judgment. It was not referred to in the Judgment because it was not referred to as a matter of any concern at trial. In Reasons for Judgment following trial I noted [see footnote 13]
+"Here, the plaintiffs accept that enalapril maleate in bulk form, shipped to and received by the defendant by October 16, 1990 [the date of issue of Merck's patent in suit], or packaged by the manufacturer Delmar and finally allocated to Apotex' purchase before but not shipped until after that date is within the meaning of the words "purchased...or acquired" within s. 56. Yet, there are certain lots which the plaintiffs say were not purchased or acquired at the requisite time."
+[35]
+The decision then goes on to discuss the three P-lots designated in the judgment. In my opinion that reflects the discussion at trial, where the only concern about the shipment received by Apotex in December 1990, a shipment including lot P-63588, was with the three P-lots which I found were not in existence at the date of the issue of Merck's patent since, though initially manufactured before that date, they required purification that was only completed to the satisfaction of the supplier after that date. Lot P-63588, however, was manufactured and available for allocation to Apotex' contract to purchase before the grant of the patent. There was no evidence, that I recall, about when it was allocated by Delmar for that purpose, but I believe that at trial it was accepted that it was in existence prior to the issue of the patent and it was capable of being acquired by Apotex. In the decision of MacGuigan J.A. for the Court of Appeal [see footnote 14] "purchased or acquired" for purposes of s. 56 was discussed in terms of a sale of goods, thus
+"I agree with the Trial Judge that the three lots of enalapril maleate [the three P-lots] had not been "purchased or acquired" by Apotex, within the meaning of s. 56. In my view, purchasers cannot be said to have "purchased or acquired" a product until they have obtained title to it. Since we were shown no evidence to the contrary intention in the contract between Apotex and Delmar, title could not pass to Apotex until the product was in a deliverable state: see s. 19, rule 5 of the Sale of Goods Act, R.S.O. 1990, c. S-1."
+[36]
+In my opinion that was the underlying basis for concern at trial only with the three P-lots, the manufacture of which was not completed when the patent was granted to Merck. No concern was expressed in relation to lot P-63588, though it had been received by Apotex at the same time in December 1990. That lot was not dealt with in reasons for judgment or in the original trial judgment since it was not raised as a concern at trial. It was not later raised as a matter of concern until after the trial judgment had been altered, twice, in the following appeal and reconsideration by the Court of Appeal.
+[37]
+I note, as a consideration in disposing of this motion that the Reasons for Judgment dated December 14, 1994, reflecting the request of counsel for both parties at trial, directed them to confer and advise the Court on appropriate terms for the formal Judgment that would provide for implementation of the conclusions specified in the Reasons for Judgment. They did consult, they did not agree, and thereafter Judgment was entered following a further hearing upon its terms. At that time no issue was raised concerning lot P-63588, and the matter was not then mentioned.
+[38]
+The plaintiffs urge that this case is analogous to the circumstances dealt with by Addy J. as Motions Judge in
+Polylok Corporation v. Montreal Fast Print (1975) Ltd.
+[see footnote 15] but there it appears that Addy J. clearly recognized that he had erred by inadvertence in referring in his Order to one person when he had intended to refer to another.
+[39]
+In the circumstances here, the omission of reference to lot P-63588, in my opinion, was not simply a matter of its being overlooked, but even if it were that cannot be attributed entirely to the Court. The circumstances are not within Rule 337, in my opinion, and the motion that lot P-63588 now be included by further amending the judgment as amended, is to be dismissed.
+Conclusion
+[40]
+For the reasons set out Orders now go dismissing both applications by Merck pursuant to Rule 1733 for leave to consider amendment, and pursuant to Rule 337 to amend, the judgment as amended.
+[41]
+The plaintiffs requested costs in relation to both motions. The defendant made no submissions specifically relating to costs but did argue in relation to the motion pursuant to Rule 1733 that the plaintiffs were abusing the process of the Court, particularly in light of their proposed amendment to the defence filed in the action for declaratory relief, T-294-96, to litigate the matter which, in essence, is raised by this motion. I am not persuaded that the motion is abusive of the Court's process, for as I understand from the hearing, the amendment proposed by Merck to its defence had not then been perfected.
+[42]
+In all the circumstances, the costs of these motions should follow the outcome, and on the usual party and party basis. On that basis the orders now issued provide for costs to the defendant.
+Footnotes
+1. The Reasons for Judgment dated December 14, 1994, (not including the terms of Judgment), may be found in (1994), 59 C.P.R. (3d) 133 (F.C.T.D.).
+2. The Reasons for Judgment dated April 19, 1995, (not including the terms of Judgment), may be found (1995), 60 C.P.R. (3d) 356 (F.C.A.). The Judgment issued that same date was subsequently amended by Order of the Court of Appeal on May 16, 1995.
+3. See: now
+Federal Court Rules, 1998
+, Rules 397(1) and (2).
+4. See: now
+Federal Court Rules, 1998
+, Rule 399(2).
+5. R.S.C. 1985, c. P-4, as amended.
+6. (1996), 66 C.P.R. (3d) 167 at 168 (F.C.A.).
+7. The Rules, 1733 and 327, are from the
+Federal Court Rules, 1998
+.
+8.
+W. H. Brady Co.
+v.
+Letraset Canada Ltd.
+, (1990), 34 C.P.R. (3d) 433 at 436 per Marceau, J.A. (F.C.A.).
+9.
+Imperial Oil Limited
+v.
+Lubrizol Corporation
+, Court file A-304-97, May 15, 1997, per Hugessen J.A. (F.C.A.).
+10.
+Consumers Distributing Co.
+v.
+United Consumers Club, Inc.
+(1991), 37 C.P.R. (3d) 283 (F.C.T.D.).
+11.
+Canadian National Railway Co.
+v.
+Norsk Pacific Steamship Co. et al.
+(1993), 56 F.T.R. 236.
+12.
+Boateng
+v.
+Minister of Employment and Immigration
+(1990), 112 N.R. 318 (F.C.A.).
+13.
+Merck & Co. Inc.
+v.
+Apotex
+(1994), 59 C.P.R. (3d) 133 at 159 (F.C.T.D.).
+14.
+Supra
+, note 2 at p. 375 (of 60 C.P.R. (3d)).
+15. (1983), 76 C.P.R. (2d) 151 (F.C.A.).
+[End of document]

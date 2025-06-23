@@ -1,0 +1,9 @@
+[15]
+By virtue of s. 7(1), when an application under s. 6(1) is commenced, the Minister is automatically prohibited from issuing a NOC to the generic drug company until the "latest of" various listed events and time periods, one of which is a period of 30 months after the application is commenced. In certain circumstances, this 30 month period can be lifted. For example, it ceases to apply when, pursuant to subsection 7(4), "the application is withdrawn or is finally dismissed by the court". In my opinion, an application is "finally dismissed" when all the appellate procedures have been completed or when the time to appeal has expired without any appeal having been launched. If it were not so, there would be no meaning to the word "finally". This is what the Supreme Court of Canada decided in
+R. v. Morgentaler
+, [see footnote 8] when asked to interpret the words "if finally acquitted" and "if finally found guilty" found in s. 11(h) of the
+Charter
+. [see footnote 9] As stated by McIntyre, J.:
+"There is a simple answer to this argument. The words of s. 11(b), 'if finally acquitted' and 'if finally found guilty', must be construed to mean
+after the appellate procedures have been completed
+, otherwise there would be no point or meaning in the word 'finally'." [see footnote 10]

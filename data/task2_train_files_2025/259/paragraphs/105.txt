@@ -1,0 +1,5 @@
+[105]
+Subsections 8(1)(a) and (b) provide for the period over which compensation for loss may be provided:
+"8(1) If an application made under subsection 6(1) is withdrawn or discontinued by the first person or is dismissed by the court hearing the application or if an order preventing the Minister from issuing a notice of compliance, made pursuant to that subsection, is reversed on appeal, the first person is liable to the second person for any loss suffered during the period
+(a) beginning on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of these Regulations, unless the court is satisfied on the evidence that another date is more appropriate; and
+(b) ending on the date of the withdrawl, the discontinuance, the dismissal or the reversal."

@@ -1,0 +1,8 @@
+[43]
+Section 13.2 of IP 5 states:
+"
+Role of H&C Units: Preliminary screening without formal H&C assessment
+When the H&C application is referred by the Case Processing Centre to the H&C Unit, the Unit performs a preliminary screening of applications and documentation to determine whether the application indicates a claim to personal risk.
+If there is no claim of personal risk, the application is referred to an H&C officer.
+If there is a claim of personal risk, but there appears to be sufficient other non-risk H&C grounds for accepting the application, the application is referred to an H&C officer.
+If there is a claim of personal risk, but there does not appear to be sufficient other non-risk H&C grounds for accepting the application, the application is referred to the PRRA unit."

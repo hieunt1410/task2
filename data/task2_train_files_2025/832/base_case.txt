@@ -1,0 +1,180 @@
+A. Introduction
+[1]
+Evans, J.
+: This is a motion brought by Cosmos Shipping Lines S.A. (hereinafter "Cosmos Shipping") under rule 208 of the
+Federal Court Rules
+(SOR/98-106) appealing an order of Prothonotary Hargrave made on October 26, 1998, with reasons issued on October 28, 1998, that the plaintiff had validly served the defendant under rule 135 by delivering the statement of claim in Vancouver to Campney & Murphy, barristers and solicitors.
+[2]
+Cosmos Shipping is the defendant in an action by the plaintiff, North Shore Health Region, in which the plaintiff seeks to recover the medical costs incurred in the provision of hospital care to Mr. Terrance Dalgado who was injured in Vancouver while a member of the crew of the defen­dant's ship, "Alpha Cosmos".
+[3]
+In this motion, Cosmos Shipping seeks the following orders:
+a) a reversal of the Prothonotary's decision holding that the delivery of the statement of claim to Campney & Murphy was a valid service on the defendant under rule 135;
+b) a declaration that service has not been effected;
+c) an order pursuant to rule 50 staying the operation of the order of Prothonotary Hargrave pending the disposition of this motion; and
+d) an order for costs payable to the defen­dants forthwith in a lump sum.
+[4]
+In the absence of any objection from the plaintiff, I indicated at the end of the hearing that I would stay the Prothonotary's order until I made an order in this motion. Counsel for Cosmos Shipping, Mr. Swanson, noted for the record that, since the defendant was bringing a motion to object to the service of the statement of claim, rule 208 provides that his appearance in this motion on behalf of the defendant did not mean that the defen­dant was thereby attorning to the jurisdiction of the court.
+B. Factual Background
+[5]
+On May 30, 1998, Mr. Dalgado, the Fourth Engineer of the "Alpha Cosmos", was seriously injured when he fell into Vancouver harbour while boarding the vessel via the gangplank. The gangplank separated from the vessel and, in the absence of adequate safety netting beneath it, he and his wife fell into the water. Mr. Dalgado was seriously injured and was taken to the Lions Gate Hospital which is operated by the plaintiff in the city of North Vancouver. Mr. Dalgado has remained in the hospital since the time of the accident, in a coma.
+[6]
+The first three bills sent by the hospital in respect of Mr. Dalgado's treatment were paid in full by Campney & Murphy, and the fourth it paid in part. The bills were not addressed to Campney & Murphy, but had "post-it" notes on them for the attention of Tom Hawkins, the lawyer at the firm who was handling this matter. The client name is described in the firm's accounting record which shows these payments as "Gard P. & I. Club", and the matter as "'Alpha Cosmos' personal injury to Fourth Engineer".
+[7]
+The hospital has continued to submit bills, but none has been paid since Campney & Murphy wrote to the Lions Gate Hospital on August 7, 1998 stating that "Our client puts Lions Gate Hospital on notice that it takes no responsibility for medical costs incurred after July 28, 1998, and that Lions Gate Hospital should look to Sheryl Dalgado and her lawyers for payment of ongoing medical costs." The hospital's charges are just over $1,000 per diem, and as of Septem­ber 26, 1998, $72,681 was owing to it in respect of the medical care rendered to Mr. Dalgado.
+[8]
+The immediate background to this letter was a rejection by Ms. Dalgado of a propo­sal to move her husband from Lions Gate Hospital to Bombay, where they reside. This proposed move had apparently been cleared by the physicians attending Mr. Dalgado at Lions Gate Hospital. Cosmos Shipping takes the view that whatever liability it may have had to pay Mr. Dalgado's hospital costs has come to an end because he is no longer a "member of a crew" by virtue of certain definitional provisions of s. 12.1 of the
+Immigration Regulations
+, 1978 (SOR/78-172) (as amended).
+[9]
+The letter of August 7, 1998 assumes particular importance in this motion because of the statements that it contains about the relationship between Campney & Murphy and Cosmos Shipping. Thus, the letter starts: "We are solicitors acting on behalf of the owner of the 'Alpha Cosmos'". The next paragraph begins, "Our client has been paying the ongoing hospital costs, ..." of Mr. Dalgado. And, as already noted, the letter states that "our client" hereby gives notice that it is accepting no more responsibility for Mr. Dalgado's medical costs.
+[10]
+It should also be noted that, early in June, 1998, Mr. Hawkins, the lawyer at Campney & Murphy who had responsibility for this matter, wrote to the Canadian High Commission in New Delhi requesting the issue of visas to Mr. Dalgado's brothers so that they could visit him in Vancouver to make future plans with Ms. Dalgado for her husband. The letter to the High Commission stated: "We are the solicitors for the ship owners, employers of Mr. Terrance Dalgado ...". A similar letter was written to the Cana­dian Consulate in New Delhi by United Ocean Ship Management Pte. Ltd., the managing agents of the "Alpha Cosmos", in which they described Campney & Murphy as "our representatives at Vancouver" and "the local P&I agents at Vancouver".
+[11]
+Counsel for the plaintiff experienced some difficulty in finding an address for Cosmos Shipping. The usual sources of reference did not indicate where they are located. However, since the "Alpha Cos­mos's" current managing agents are based in Singapore, the plaintiff now believes that the ship owner may also be found there. Partly as a result of the difficulty of locating the defendant, the law firm representing the plaintiff decided not to try to serve Cosmos Shipping out of the jurisdiction, but instead notified Campney & Murphy that they were proposing to deliver a statement of claim as a means of serving the defendant.
+[12]
+Campney & Murphy neither accepted service on behalf of the defendant, nor stated that in their view service was invalid. No defence to the statement of claim was forth­coming from the defendant. Only when the plaintiff moved for default judgment did the defendant, through its counsel, Campney & Murphy, respond by challenging the validity of the service.
+C. Statutory Framework
+Immigration Act, R.S.C. 1985 c. I-2 (as amended), s. 91(4)
+"(4) Where a person who is a member of the crew of a vehicle receives medical treatment or is hospitalized in Canada, the transportation company of whose vehicle that person is a member of the crew shall pay all costs incurred for the medical treatment or hospitalization as well as all costs incurred with respect to the departure from Canada of that person."
+"(4) Le transporteur est responsable des frais engagés pour le traitement et l'hospi­talisation du responsable ou des membres du personnel affecté à son véhicule ainsi que des frais occasionnés par leur départ du Canada."
+Canada Shipping Act, R.S.C. 1985, c. C-9, s. 285
+"285. The owner of every ship that is not a Canadian ship is liable for the cost of all medical and surgical treatment and hospital care provided in Canada to a person employed by him on that ship."
+"285. Le propriétaire d'un navire qui n'est pas un navire canadien est redevable du coût de tous les soins médicaux, chirurgicaux et hospitaliers fournis au Canada à une personne employée par lui sur ce navire."
+Federal Court Rules, 1998
+"135. Where a person
+(a) is resident outside Canada and, in the ordinary course of business, enters into contracts or business transactions in Canada in connection with which the person regularly makes use of the ser­vices of a person resident in Canada, and
+(b) made use of such services in connec­tion with a contract or business transac­tion, in a proceeding arising out of the contract or transaction, personal service of a document on the person resident outside Canada is effected by personally serving the person resident in Canada.
+"147. Where a document has been served in a manner not authorized by these Rules or by an order of the court, the court may consider the document to have been validly served if it is satisfied that the document came to the notice of the person to be served or that it would have come to that person's notice except for the person's avoidance of service."
+"135. Dans une instance découlant d'un contrat ou d'une opération commerciale, la signification à personne d'un document à une personne résidant au Canada vaut signification à la personne résidant à l'étranger si cette dernière, à la fois:
+a) dans le cours normal des affaires, conclut des contrats au Canada ou effectue des opérations commerciales au Canada dans le cadre desquelles elle utilise régulièrement les services de la personne résidant au Canada;
+b) a utilisé les services de la personne résidant au Canada relativement à ce contrat ou à cette opération commerciale.
+"147. Lorsqu'un document a été signifié d'une manière non autorisée par les présentes règles ou une ordonnance de la Cour, celle-ci peut considérer la signification comme valide si elle est convaincue que le destinataire en a pris connaissance ou qu'il en aurait pris connaissance s'il ne s'était pas soustrait à la signification."
+D. The Decision Of Prothonotary
+Hargrave
+[13]
+In thoughtful and thorough reasons, Prothonotary Hargrave addressed the following issues that arose with respect to the application of rule 135 to the facts of this case.
+[14]
+First, he concluded that the defendant was a "person ... resident outside Canada", despite the existence of some doubt about Cosmos Shipping's precise principal place of business. Second, he considered whether the defendant "in the ordinary course of business, enters into contracts or business transactions in Canada". He reasoned that, although there was no contract between Lions Gate Hospital and Cosmos Shipping, meeting the medical expenses of crew members who were injured in the course of their employment was necessarily incidental to the business of a ship owner. Accordingly, the defendant had "in the ordinary course of business" entered into a business transaction in Canada.
+[15]
+Third, he considered whether the payments made to the hospital by Campney & Murphy meant that Cosmos Shipping had made "use of the services of a person resident in Canada in connection with a contract or business transaction". In view of the statements by Campney & Murphy in the letter of August 7, 1998 that they were "acting on behalf of the 'Alpha Cosmos'", and "our client has been paying the ongoing hospital costs", Prothonotary Hargrave stated that it was difficult for Campney & Murphy to deny that their services were being used "in connection with a business transaction". He distinguished earlier cases decided under the rules of practice of both British Columbia and Ontario on the ground that those rules were narrower than rule 135 in that they required the person resident within the jurisdiction to be conducting the business of or business for the person outside the jurisdiction. He regarded the payment of the bills, which discharged the statutory liability of the ship owner to pay for the medical expenses of the injured crew member, as a "business transaction".
+[16]
+Fourth, the Prothonotary considered whether on the facts it could be said that Cosmos Shipping "
+regularly
+makes use of the services of" Campney & Murphy. He was satisfied that Campney & Murphy's payment of four bills over a period of approximately three months met the requirement of regularity in rule 135.
+[17]
+Fifth, he held that the plaintiff's statement of claim was "a proceeding arising out of the contract or transaction" in that it arose from the alleged liability of Cosmos Shipping to pay the plaintiff for the medical expenses incurred by Mr. Dalgado.
+E. Analysis
+[18]
+Since the order of the Prothonotary concerned the validity of the service of the plaintiff's statement of claim on the defendant, it was not a "discretionary order" to which the standard of review principles established in
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425; 149 N.R. 273 (F.C.A.), apply. However, to the extent that Prothonotary Hargrave's reasoning depends on the application of the provisions of rule 135 to the facts that he found, the appeal should only be allowed if I am satisfied that he made an error.
+[19]
+I should make one other preliminary observation about the issues raised in this case. Counsel for the defendant, Mr. Swanson, emphasized in his argument that I should not approach the interpretation of rule 135 solely by considering whether the plaintiff had acted in a way that was calculated to bring the statement of claim to the attention of the defendant. Rule 135, he argued, was also concerned with the jurisdiction of this court over non-residents: in this case, a corporation apparently located in Singapore. Since the court's jurisdiction does not usually extend to those outside Canada, Mr. Swanson said, it is important to consider when interpreting rule 135 whether the relationship between Campney & Murphy and the defendant was such that it could be said that the defendant was present in Canada through its agent so as to bring the defendant within the jurisdiction of the court.
+[20]
+This line of argument is certainly found in some of the older cases on which counsel relied, such as
+Central Trust Co. of China v. Dolphin Steamship Co. Ltd.
+, [1950] 2 W.W.R. 516 (B.C.C.A.). However, in the contemporary world, which has been drastically shrunk by the globalization of the economy, technological advances in telecommunications and relatively inexpensive and rapid transportation, the notion that only in exceptional circumstances should our court assert jurisdiction over claims made against foreign corporations seems decidedly anachronistic.
+[21]
+The "physical presence" principle as the basis of jurisdiction has been eroded significantly over the years. One reflection of this development of the law was the disappearance from the
+Federal Court Rules
+in 1994 of the requirement that leave be obtained before service could be effected on a person outside the jurisdiction. Another is the rise in importance of the concept of "forum conveniens" as a basis for the exercise of jurisdiction in a matter with foreign elements, even when the defendant is present within the jurisdiction.
+[22]
+In my view, therefore, rule 135 should continue to be interpreted strictly as an exception to the general rule that originating documents should be served personally. However, this is principally to ensure that defendants have actual knowledge of the claim, rather than that the court's jurisdiction is for the most part confined to claims against persons within Canada.
+[23]
+Rule 208 permits a person who is served outside Canada, and wishes to avoid having to respond on the ground that the Federal Court is "forum non conveniens", to appear through counsel for this purpose without thereby attorning to the jurisdiction. I should note that, in my view, a defence of "forum non conveniens" could not be successfully raised by the defendant in this case. The liability to pay Mr. Dalgado's medical costs arose under Canadian legislation; the plaintiff is a British Columbian body; the services in respect of which the plaintiff seeks payment were provided in British Columbia; and the accident that resulted in Mr. Dalgado's hospitalization occurred in British Columbia.
+Issue 1: Did The Defendants In
+The Ordinary Course Of Business
+Enter Into A Business Transaction
+In Canada?
+[24]
+The Prothonotary's conclusion on this issue was that the business of a ship owner should be construed broadly so as to include those matters that are fairly incidental to the corporation's core activity, in this case, the carriage of goods. Making necessary arrangements for the welfare of a member of the crew was therefore in the defendant's ordinary course of business.
+[25]
+Mr. Swanson argued, however, that this conclusion was inconsistent with a statement in
+Central Trust Co. of China v. Dolphin Steamship Co.
+, supra, where Sidney Smith, J.A., said (at p. 526):
+"When a foreign ship comes to Vancouver and makes arrangements for coaling, repairs, victualling, etc., it seems to me to be perfectly clear that it is not thereby doing business: all such matters are merely what enables it to do its business (the transportation of goods or passengers or both) and not the business itself."
+[26]
+I should point out that rule 8(a) of the rules of practice in force in British Columbia at that time did not contain a requirement that the out-of-province defendant was "doing business" in the Province, but that a person resident in the Province who transacted or carried on any of the business of or business for the foreign corporation was to be treated as the corporation's agent for the purpose of service. In other words, unlike rule 135, the rule considered in
+Central Trust
+did not require the out-of-province corporation itself to conduct or engage in business in the Province. Accordingly, this passage from the judgment of Sidney Smith, J.A., is merely obiter.
+[27]
+Moreover, to my mind, the phrase "in the ordinary course of business" in rule 135 is broader in scope than the concept "the conduct of the business" with which Sidney Smith, J.A., appears to have been concerned. Surely one would say nowadays that the payment of the wages of members of the crew were transactions entered into "in the ordinary course of business" of a ship owner. In interpreting the words "in the ordinary course of business" and "enters into business transactions in Canada", I have kept in mind that an important function of the requirement is to ensure that the connection between the subject matter of litigation and Canada is sufficiently close that the Federal Court is likely to be "forum conveniens".
+[28]
+Accordingly, I conclude that, when Cosmos Shipping became liable for the medical expenses of Mr. Dalgado and arrangements were made for payments to discharge that liability, it was entering into business transactions in Canada "in the ordinary course of business". Unlike
+Lex Tex Canada Ltd. v. Highland Mills Ltd.
+, [1978] 2 F.C. 185 (F.C.A.) and
+Mona Lisa Inc. v. Ship Carola Reith
+, [1979] 2 F.C. 633 (T.D.), where there was no evidence of any contracts or transactions entered into in Canada, the factual matrix from which this litigation arises is firmly rooted in Canada.
+Issue 2: Was The Payment Of
+The Hospital Bills By Campney &
+Murphy A Service Rendered To
+The Defendant "In Connection With
+A Contract Or Business Transaction"
+For The Purpose Of Rule 135?
+[29]
+Having concluded that the incurring by Cosmos Shipping of a statutory liability for the medical expenses of Mr. Dalgado, and the arrangements made for its discharge, constituted "business transactions", I must now consider whether Campney & Murphy's payment of the bills can be characterized as a service "in connection with a business transaction".
+[30]
+I have not found helpful cases such as
+Canada Life Assurance Co. v. Canadian Imperial Bank of Commerce
+(1974), 3 O.R.(2d) 70 (C.A.), and
+Central Trust Co. of China v. Dolphin S.S. Co.
+, supra, because they were decided under rules which provided that the person in the jurisdiction "transacts or carries on any of the business of or any business for" an out-of-province corporation. In contrast, rule 135 merely requires that the person in Canada provide "services in connection with a contract or business transaction" entered into by the person who is off-shore.
+[31]
+Price & Pierce International Inc. and Sohn v. Finland Steamship Co., Ship "Antares" and Chase International (Holdings) Ltd.
+, [1982] F.C.J. No. 1013; 46 N.R. 372 (F.C.A.), is also easily distinguished on the ground that the person to whom the statement of claim was delivered "was not in Montreal to transact any business on the appellants' behalf." And in
+FRAGMENT_SUPPRESSED, where the shipowner was held not to have been validly served, the corporation served was found to have been the agent of the charterer, and not the shipowner, and to have signed bills of lading in Canada with the authority of the charterer.
+[32]
+Mr. Swanson submitted that Campney & Murphy did not pay the hospital bills on behalf of the defendant: its client was the P. & I. Club (Gard) which had retained the firm on the day of the accident to protect the interest of itself and the ship owner. The firm was reimbursed for these payments by Gard, not by the defendant. He maintained that if the mere payment of bills was sufficient to bring the firm within rule 135, then the defendant could have been equally validly served by the delivery of a statement of claim to the courier who delivered the cheques to the hospital.
+[33]
+I am not convinced by this argument. Given the closeness of the interests of Gard and the ship owner, and the fact that the payments were made to discharge a legal liability of the defendant, it is of little relevance on whose instructions the bills were paid.
+[34]
+As for the argument by analogy, it was almost certain that by delivering the statement of claim to Campney & Murphy, the plaintiff could thereby be reasonably certain that it would come to the attention of the defendant, either through the P. & I. Club, or directly from the law firm, which was also acting for the defendant in the action brought against it by Sheryl Dalgado on her own behalf and as guardian ad litem for her husband. It is much less likely, of course, that a courier would act in the same way.
+[35]
+Moreover, counsel for the plaintiff, Mr. Morrison, submitted that the activities of Campney & Murphy should also be considered in the broader context of the business relations between the law firm and Cosmos Shipping. For instance, he pointed out, Campney & Murphy did not only pay the hospital bills, but also assisted "Alpha Cosmos's" managing agents in obtaining visas to enable Mr. Dalgado's brothers to visit him in Vancouver.
+[36]
+Accordingly, I do not think that the Prothonotary erred in law when he concluded that, on the facts, Campney & Murphy rendered services "in connection with a business transaction" when they drew cheques to pay the hospital bills for which the defendant appears to have been liable.
+Issue 3: Did The Payment Of Four
+Hospital Bills By Campney &
+Murphy Constitute A Sufficiently
+Regular Use Of Their Services
+To Satisfy Rule 135?
+[37]
+Prothonotary Hargrave found that the payment of each bill constituted a separate business transaction, and that four business transactions were sufficient to satisfy this aspect of rule 135. Mr. Swanson argued that four payments made in respect of a single, if ongoing liability, did not constitute regular use. In the alternative, he submitted that if these four payments were sufficient, rule 135 only applies to a "proceeding arising out of the contract or transaction", and the proceeding in this case arises out of the refusal of Cosmos Shipping to make any further payments to the hospital. By definition, the proceeding did not arise from the making of payments in connection with which Campney & Murphy may have rendered services to the defendant, but from the non-payment in connection with which Campney & Murphy rendered no services.
+[38]
+Again, I do not find this argument persuasive. Four monthly payments, albeit in respect of the ongoing care of the same person, seem to me to establish a sufficient "regularity" for the purpose of rule 135 so as to make it reasonable to believe that the relationship between Campney & Murphy and the defendant was such that delivery of the statement of claim to Campney & Murphy would bring it to the attention of the defendant. As for the argument that, if the payments were for separate transactions, the proceeding arises from the non-payment of subsequent bills, I would point out that Campney & Murphy wrote the letter to the Lions Gate Hospital on behalf of Cosmos Shipping stating that Cosmos Shipping had no intention of making further payments. This seems to me to be a service in connection with a business transaction within the meaning of rule 135, namely the refusal to pay a bill.
+Issue 4: Did The Prothonotary Err
+In Law When He Concluded That
+Campney & Murphy Were Served
+As Business Agents Of
+The Defendant, And Not
+As Its Solicitors?
+[39]
+It is common ground that if Campney & Murphy were served as solicitors for the defendant, the service was ineffective. This is because rule 134 provides that service on a party "may be effected by the acceptance of service by the party's solicitor", and it is clear that Campney & Murphy did not accept service. While they did not reject service either, Mr. Swanson argued that the firm was entitled to do nothing when it received the statement of claim; it was not its responsibility to advise the solicitors for the plaintiff that their attempt to serve the defendant was invalid.
+[40]
+Mr. Morrison submitted, however, that this is a very unusual case. On the day that Mr. Dalgado's injury occurred, Campney & Murphy was retained by the P. & I. Club to represent its interests and, incidentally and inevitably, those of the ship owner as well, by dealing with the legal consequences of the accident. He noted also that the firm was later retained by the ship owner to defend Mr. Dalgado's statement of claim. In addition, he argued that, by paying the hospital bills and helping to arrange the issue of visas to Mr. Dalgado's brothers, Campney & Murphy were also rendering services to the defendant that were outside the normal range of professional services rendered by solicitors to their clients. In connection with these services, therefore, Campney & Murphy should be treated, not as the defendant's solicitors, but as its business agents in Vancouver, and that the Prothonotary was therefore correct in law in his conclusion.
+[41]
+Mr. Swanson mounted his attack on this aspect of Prothonotary Hargrave's reasoning on two levels. First, he said, the Prothonotary had considered Campney & Murphy's payments of the bills out of context. In particular, he argued, Campney & Murphy had been retained as solicitors by the P. & I. Club from the outset to represent them, and hence also to protect the interest of the ship owner, and to deal with the various legal consequences flowing from the accident. While the interests of the insurer and the ship owner might not be identical, they certainly overlapped to a very considerable degree, so that the fact that Campney & Murphy had not in a formal sense been retained by the defendant in this proceeding was a mere technicality. Mr. Swanson also pointed out that in the letter of August 7, 1997, which Campney & Murphy wrote to advise Lions Gate Hospital that no more payments would be forthcoming in respect of Mr. Dalgado's medical bills, the firm stated that they were the solicitors of Cosmos Shipping and that "our client" had been paying Mr. Dalgado's hospital bills to date.
+[42]
+Second, Mr. Swanson submitted that, if Prothonotary Hargrave's decision were upheld, it would cause significant difficulties for solicitors engaged in shipping law, particularly when acting for P. & I. Associations, and would inevitably change the way in which their practice was conducted. In particular, solicitors would have to consider very carefully whether any service that they rendered in the course of their practice was of a legal nature. If it was not, it would potentially expose their off-shore clients to the risk of substitutional service under rule 135, and thus put them to the expense and inconvenience of having either to file a defence, or to engage counsel to appear to object to the matter being brought in a court in Canada. Moreover, it might be necessary to produce documents that engaged solicitor-client privilege in order to decide whether solicitors were acting as such, or as business agents.
+[43]
+In addition, he argued, a ruling that Campney & Murphy were acting as business agents, not solicitors, when they paid the hospital bills and assisted with obtaining the visas would expose portions of their files to the possibility of production. Solicitor-client privilege, he maintained, would be difficult to assert in the face of a determination by the court that the relationship between Campney & Murphy and the defendant was not that of solicitor and client in this matter.
+[44]
+While I recognize the force of these submissions, I was not ultimately persuaded that Prothonotary Hargrave erred in law when he found that Campney & Murphy were acting beyond the role of solicitors. Despite the assertion in the letter of August 7, 1997, Campney & Murphy had not been retained by Cosmos Shipping to act as their solicitors in connection with the plaintiff's claim, although they were so retained in respect of Mr. Dalgado's claim. And although there is obviously a substantial identity of interest between the P. & I. Club and Cosmos Shipping, Campney & Murphy represented only the former in this matter so that any services that they rendered to the defendant were not in their capacity as its solicitor in this claim.
+[45]
+As for the argument that there would be adverse effects upon the practice of shipping law if Campney & Murphy were not treated as acting as solicitors to the defendant, I note that Prothonotary Hargrave is greatly experienced in this area of the law, and its practice in Vancouver, and did not take the view that his ruling would involve adverse consequences of this kind to which Mr. Swanson alluded.
+[46]
+Finally, I am sceptical of the claim that to treat Campney & Murphy as business agents in paying the hospital bills is likely to jeopardize any legitimate solicitor-client privilege that they may wish subsequently to assert on behalf of Cosmos Shipping. Such claims can be made and decided on their merits in due course, and I am prepared to note for the record that my conclusion in this case is without prejudice to any claim for solicitor-client privilege that Campney & Murphy may subsequently make on behalf of Cosmos Shipping. Nor do I think that clients will be put to the election of waiving solicitor-client privilege in order to prove that the solicitor was involved in a transaction as the client's lawyer, rather than as a business agent. It will normally be clear from the nature of the service or transaction in question into which category it falls.
+[47]
+In the event that I am wrong in holding that the service of the defendant complied with the requirements of rule 135, I would validate the service under rule 147 which provides:
+"Where a document has been served in a manner not authorized by these Rules ... the court may consider the document to have been validly served if it is satisfied that the document came to the notice of the person to be served or that it would have come to that person's notice except for the person's avoidance of service."
+[48]
+Mr. Swanson argued that rule 147 did not apply to the service of an originating document because rule 127 requires that such documents "shall be served personally in a manner set out in rules 128 to 133." Rule 63(1)(a) defines "originating document" to include a statement of claim. However, rule 127 does not preclude service of an originating document under rule 135, which is "deemed personal service", and I see no reason why rule 147 should not validate an attempted service under rule 135 that does not comply with its requirements. Rule 147 is a new provision, is general in its terms and should not be subject to artificial limitations that are not contained in its text.
+[49]
+There was no direct evidence before me that the plaintiff's statement of claim had come to the attention of the defendant. However, I am prepared to infer from the circumstantial evidence that the defendant did indeed have knowledge of it. First, while Mr. Swanson said that the document had been sent to the P. & I. Club, it seems to me to be highly likely that the insurer, who was paying the hospital charges, brought it to the attention of the ship owner. Second, the fact that Mr. Swanson was instructed to appear in this motion on behalf of the defendant also suggests that the defendant has knowledge of the claim, an inference that is further supported by the fact that his firm, Campney & Murphy, has been retained by the defendant to contest Ms. Dalgado's action.
+[50]
+In the further alternative, an extension of time is granted to enable the plaintiff to serve the statement of claim on Cosmos Shipping at its address in Singapore, or wherever it turns out to be located.
+[51]
+For these reasons, I dismiss the motion with costs to the plaintiff.
+Appeal dismissed.
+Editor: Jana A. Andersen/saf
+[End of document]

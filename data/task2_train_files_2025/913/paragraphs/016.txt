@@ -1,0 +1,54 @@
+[17]
+Justice Mosley commented on the expert evidence before him in the following paragraphs of his reasons:
+"[40] At the outset of the hearing of this application, Merck renewed a motion to strike Apotex affidavits. An initial motion to strike the Tassone, Weissburg and Mazess affidavits was decided by Prothonotary Lafrenière on June 21, 2004. He ruled that the relief sought was premature, in the absence of special circumstances, and that evidentiary determinations should be left to the applications judge. The motion was dismissed without prejudice to Merck to seek leave to file reply evidence. Leave to file reply evidence was granted in a further order by the Prothonotary on July 13, 2004 resulting in the filing of the Devlin affidavit described above.
+"[41] Merck filed a fresh motion on April 6, 2005 seeking to have struck, in addition to the three affidavits addressed in the June 2004 motion, the affidavits of Drs. Langer and Mayersohn. I gave an oral ruling on the motion before proceeding to hear the merits of the application.
+"[42] Merck argued that the impugned affidavit evidence should not be admitted primarily on the grounds that:
+1. the Apotex affiants were not properly qualified to give opinion evidence in the several areas of knowledge to which they deposed.
+2. The evidence given was not relevant to the determination of the issues that are before the court in this NOC proceeding.
+"[43] Applying the principles enunciated by the Supreme Court of Canada in
+R. v. Mohan
+... [1994] 2 S.C.R. 9 at para. 17, namely: (a) relevance; (b) necessity in assisting the trier of fact; (c) the absence of any exclusionary rule; and (d) a properly qualified expert, I concluded that the opinion evidence proffered by Apotex was admissible.
+"[44] Relevance is a threshold requirement for any evidence. Logically relevant evidence may be excluded if its probative value is overborne by its prejudicial effect, if the time required is not commensurate with its value or if it can influence the trier of fact out of proportion to its reliability (
+Mohan
+at para. 18).
+"[45] Expert evidence, to be necessary, must likely be outside the experience and knowledge of a judge or jury and must be assessed in light of its potential to distort the fact-finding process. Necessity should not be judged by too strict a standard. Expert evidence can be excluded if it falls afoul of an exclusionary rule of evidence separate and apart from the opinion rule itself, such as the hearsay rule (
+Mohan
+at paras. 21-23).
+"[46] There are no specific credentials that potential experts must have in order to be admitted as experts by the Court. Opinion evidence may be given by a witness 'who is shown to have acquired special or peculiar knowledge through study or experience in respect of the matters on which he or she undertakes to testify' (
+Mohan
+at para. 27). This echoes statements by the court in
+R. v. Marquard
+, ... [1993] 4 S.C.R. 223 at para. 35, citing
+R. v. Beland
+, ... [1987] 2 S.C.R. 398 at para 16, holding that '[t]he only requirement ... is that the expert witness possesses special knowledge and experience going beyond that of the trier of fact'.
+"[47] As Sopinka, Lederman and Bryant state in
+The Law of Evidence in Canada
+(1992) at 536-7,
+'The admissibility of [expert] evidence does not depend upon the means by which that skill was acquired. As long as the court is satisfied that the witness is sufficiently experienced in the subject matter at issue, the court will not be concerned with whether his or her skill was derived from specific studies or by practical training, although that may affect the weight to be given to the evidence.'
+"[48] With respect to Drs. Langer and Mayersohn, Merck did not object to these affidavits when it brought its earlier motion. It contends that the weakness of their qualifications relevant to the issues in this proceeding only became apparent on cross-examination. Merck now objects to the reception of their evidence as they are not medical doctors and argues that the issues upon which they were asked to provide expert opinions, as characterized by Merck, relate solely to the medical fields of gastroenterology and endocrinology.
+"[49] I do not agree with Merck's contention that these two witnesses were asked to comment on matters beyond their expertise. Dr. Langer's relevant and very impressive qualifications are as an expert with respect to pharmaceutical technology involving the formulation of drugs, including bisphosphonate drugs. His opinion is tendered with respect to formulation issues and thus does not exceed his expertise in pharmaceutics.
+"[50] Dr. Mayersohn's qualifications are as an expert in pharmacokinetics, biopharmaceutics and pharmaceutics. His testimony about the equivalence of 70 and 80 mg of alendronate due to the low bioavailability of the drug was never questioned on cross-examination. Apotex objected to Merck questioning this evidence in oral argument as contravening the rule in
+Browne v. Dunn
+(1893), 6 R. 67 (H.L.). I was satisfied the evidence was highly relevant, uncontradicted and admissible.
+"[51] Dr. Mazess's affidavit primarily describes events surrounding the publication of his views on alendronate in the newsletter
+Lunar News
+produced by the corporation he had founded to manufacture and distribute bone densitometry equipment used in the diagnosis and treatment of skeletal disease. Merck objects to Dr. Mazess's being permitted to comment on the evidence of Drs. Papapoulos and Fennerty as he is not a physician. It also objects to the relevance of his testimony about meetings and correspondence between Dr. Mazess and Merck representatives concerning dosing regimens for bisphosphonates. Finally, it submits that his writings in
+Lunar News
+speak for themselves and he should not be explaining their meaning.
+"[52] Dr. Mazess, through his academic and business careers, has gained considerable knowledge about bone diseases, particularly osteoporosis. While he is not qualified to treat patients, that does not preclude him, in my view, from commenting on treatment regimes for bone disorders. It is apparent from the record that his utterances in the
+Lunar News
+carried considerable weight in the pharmaceutical and clinical worlds. Drs Papapoulos and Fennerty comment at length on his writings in their evidence. There was ample reason, in my view, to think that Dr. Mazess' comments on their evidence would be helpful in determining the issues in this matter.
+"[53] With regard to Dr. Mazess' evidence about correspondence and meetings with Merck staff, I was satisfied that it was relevant and admissible. Merck is correct that, as possible prior art references, his writings in
+Lunar News
+must speak for themselves. However, I was also satisfied that he could properly give evidence as to the background and context of those writings. Accordingly, his evidence was admissible subject to argument about its weight.
+"[54] The Weissburg affidavit does not contain expert opinion evidence but rather describes events and hearsay statements made by others. Apotex relies upon those statements not for their truth but for the fact they were made. As determined by the Supreme Court of Canada in
+R. v. Khan
+, ... [1990] 2 S.C.R. 531 and subsequently applied to civil cases by a number of courts, hearsay is not inadmissible if found to be credible and reliable: ... I allowed this evidence for the limited purpose of establishing that certain events occurred and statements were made and not for the truth of the contents of those statements.
+"[55] Attached to the Tassone affidavit are copies of documents filed by the defendant in the U.S. District Court proceedings. Apotex' object in submitting this material was, in part, to refute Drs. Papapoulos' and Fennerty's evidence that the prior art references included in the NOA would not have been relied upon to demonstrate the safety of high doses of alendronate in osteoporosis patients. Included in the Tassone material is Merck's submission to the United States Federal Drug Administration ('FDA') for approval of the 70 mg dosage of FOSAMAX®, which indicates that Merck relied upon the same prior art references to show that a dose of that size would be safe and effective.
+. . . . .
+"[64] Expert evidence presented to the Court should be, and should be seen to be, the independent product of the expert, uninfluenced as to form or content by the exigencies of litigation:
+Whitehouse v. Jordan
+[1981] 1 All ER 267 (H.L.) at 276. I had little difficulty coming to the conclusion in reading the evidence in this case that where there was a conflict between the evidence of the Merck witnesses and the Apotex witnesses, I preferred the latter. While Dr. Papapoulos is eminently well qualified in his field, I found his evidence, as it was characterized by Justice Jacob in the UK proceedings, to be 'rigid' and 'extreme' when he was confronted on cross-examination with prior art references inconsistent with Merck's position. As for Dr. Fennerty, it was apparent from his truculence in answering questions on cross-examination that he had crossed the line between independence and advocacy. I accorded little weight to his evidence.
+. . . . .
+"[110] As indicated above, I preferred the Apotex witnesses' evidence." (some citations omitted)
+Thus, Justice Mosley found the expert evidence proffered by Apotex to be admissible and to be preferable to that of Merck's expert witnesses in circumstances where there was a conflict between the two sides. Merck's expert witnesses Compston, Mazess, Weissburg, Mayersohn and Markowitz, according to the material that was before the assessment officer and the Court, expended an average of sixty-three (63) hours to provide their evidence and were compensated at hourly rates between $354.00 and $781.00 for an average rate of $484.00. By contrast, Dr. Langer, together with his associate Dr. Lipp, claimed to have devoted over four hundred fifty (450) hours to the preparation of Dr. Langer's expert affidavit and billed at the rate of $1,389.00 per hour for Dr. Langer and $266.24 for Dr. Lipp. Not surprisingly, counsel for Merck took particular exception to Apotex' disbursement claim for Dr. Langer and his associate.

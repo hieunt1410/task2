@@ -1,0 +1,33 @@
+[22]
+The leading case on the principle of "functus officio" is the Supreme Court of Canada's decision in
+Chandler
+. In
+Chandler,
+the court reviewed the application of the principle. Sopinka, J., stated:
+"'
+Functus Officio
+'
+The general rule that a final decision of a court cannot be reopened derives from the decision of the English Court of Appeal in
+In re St. Nazaire Co.
+(1879), 12 Ch.D. 88. The basis for it was that the power to rehear was transferred by the
+Judicature Acts
+to the appellate division. The rule applied only after the formal judgment had been drawn up, issued and entered, and was subject to two exceptions:
+1. where there had been a slip in drawing it up, and,
+2. where there was an error in expressing the manifest intention of the court ..." (
+Chandler
+, p. 860)
+Sopinka, J., went on to say that, in the case of administrative tribunals, a different rule may apply. He stated:
+"In
+Grillas v. Minister of Manpower and Immigration
+, [1972] S.C.R. 577, Martland, J., speaking for himself and Laskin, J., opined that the same reasoning did not apply to the Immigration Appeal Board from which there was no appeal except on a question of law. Although this was a dissenting judgment, only Pigeon, J., of the five judges who heard the case disagreed with this view. At p. 589 Martland, J., stated:
+'The same reasoning does not apply to the decisions of the Board, from which there is no appeal, save on a question of law. There is no appeal by way of a rehearing.
+. . . . .
+'I do not understand Martland, J., to go so far as to hold that "functus officio" has no application to administrative tribunals. Apart from the English practice which is based on a reluctance to amend or reopen formal judgments, there is a sound policy reason for recognizing the finality of proceedings before administrative tribunals. As a general rule, once such a tribunal has reached a final decision in respect to the matter that is before it in accordance with its enabling statute, that decision cannot be revisited because the tribunal has changed its mind, made an error within jurisdiction or because there has been a change of circumstances. It can only do so if authorized by statute or if there has been a slip or error within the exceptions enunciated in
+Paper Machinery Ltd. v. J.O. Ross Engineering Corp.
+, supra.'" (pp. 860-861)
+Sopinka, J., continued:
+"To this extent, the principle of 'functus officio' applies. It is based, however, on the policy ground which favours finality of proceedings rather than the rule which was developed with respect to formal judgments of a court whose decision was subject to a full appeal. For this reason I am of the opinion that its application must be more flexible and less formalistic in respect to the decisions of administrative tribunals which are subject to appeal only on a point of law. Justice may require the reopening of administrative proceedings in order to provide relief which would otherwise be available on appeal.
+"Accordingly, the principle should not be strictly applied where there are indications in the enabling statute that a decision can be reopened in order to enable the tribunal to discharge the function committed to it by enabling legislation. This was the situation in
+Grillas
+, supra. Furthermore, if the tribunal has failed to dispose of an issue which is fairly raised by the proceedings and of which the tribunal is empowered by its enabling statute to dispose, it ought to be allowed to complete its statutory task ..." (p. 862)
+While the principle of "functus officio" favours the finality of proceedings, its application is flexible in the case of administrative tribunals. Proceedings may be re-opened if justice requires it. I am of the opinion that, in the instant case, the CRDD discharged the function committed to it by its enabling legislation by issuing the 10 May decision, a decision which is valid on its face.

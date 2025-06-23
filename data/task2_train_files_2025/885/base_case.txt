@@ -1,0 +1,215 @@
+[1]
+MacKay, J.
+: These Reasons concern three appeals, heard together, from an Order by Prothonotary Morneau, rendered August 11, 1999 (
+Neves v. Kristina Logos (The)
+(1999), 173 F.T.R. 31), setting priorities among claims against the proceeds resulting from the sale by this court of the defendant ship "Kristina Logos" in May 1997.
+[2]
+The appeals are brought by Clearwater Fine Foods Inc. ("Clearwater") claiming as mortgagee of the defendant ship, by Ulybel Enterprises Limited ("Ulybel"), a company incorporated in Canada, and José Pratas ("Mr. Pratas"), respectively the corporate owner of the vessel and the lead director of that company, both defendants in the action initiated by the plaintiffs (the "Neves brothers"), and by Her Majesty the Queen (the "Crown") as intervenor in these proceedings and before the prothonotary.
+[3]
+Defendants oppose the prothonotary's recognition and ranking of the claims advanced by the Crown and Clearwater. They also appeal and oppose the recognition by the Order of the claim by the plaintiffs, the Neves brothers, to payment from the proceeds of sale, in recognition of the plaintiffs' claim to own a 49% interest in the vessel, unless that claim is reduced by a proportionate share of the costs expended by the defendants to protect the owner's interests in the "Kristina Logos" in proceedings in this court and in the Supreme Court of Newfoundland. The plaintiffs claim the 49% share of the proceeds, after claims with priority, without contributing to the costs the defendants seek, a claim recognized by the prothonotary's Order, which ranked their claim with priority after the Crown's claims for costs of the sale and for recovery of $50,000. ordered to be forfeited, upon sale of the ship, as a result of the conviction of Ulybel. The plaintiffs do not appeal the prothonotary's order but seek to support its recognition by that order that it is a claim separate from that of Ulybel and Mr. Pratas, and to support its priority as a claim not subject to reduction by contribution to any of the costs incurred by Ulybel as a result of fines, forfeiture, or costs of maintenance of the ship.
+Decision of the Prothonotary and the standard for its review
+[4]
+After reviewing the claims of each of the aforementioned parties, Prothonotary Morneau issued an Order which stated the following ((1999), 173 F.T.R. 31 (T.D.), at paras. 71 - 75):
+"According to my understanding of the overall position, two points still outstanding mean that the collocation plan set out below cannot be implemented before these points are settled.
+"The first of these points is the taxation of costs relating directly to the sale of the ship.
+"The second is the possible variance by the courts of the size of the forfeiture so far awarded to the Crown, a forfeiture which for the moment stands at around $50,000.
+"Then, subject to settlement of the two aforementioned points, the proceeds of the sale of the Kristina Logos will have to be distributed in the following numerical order of priority:
+(1) to the Crown, expenses relating directly to the sale of the Kristina Logos;
+(2) to the Crown, the $50,000 forfeited as a result of the conviction of Ulybel;
+(3) 49% of the remainder of the proceeds of sale to be distributed to the Neveses;
+(4) the remainder, 51%, to be distributed as follows:
+(a) $125,000 to Clearwater, representing its mortgage;
+(b) $120,000 to the Crown, representing the fine imposed on Ulybel;
+(c) the balance to go to Ulybel and Pratas.
+"Each of the amounts mentioned ... above will carry accumulated interest proportionally."
+[5]
+Since the prothonotary's Order was issued, the two uncertainties referred to in the preamble to the Order continue as uncertainties. The first, the taxation of costs relating directly to the sale of the ship, claimed by the Crown, remains to be assessed. The second concerns the fines imposed, a total of $120,000., and the $50,000. forfeiture ordered from the proceeds of sale by the Newfoundland Supreme Court upon conviction of Ulybel. That conviction was upheld, as were the fines, by the Newfoundland Court of Appeal, on August 17, 1999, but it overturned the order for forfeiture of $50,000. Leave to appeal that decision to the Supreme Court of Canada was sought. Leave was denied with respect to the conviction and the fines levied, but leave was allowed, although the appeal has not yet been determined, with respect to the order for forfeiture. Thus whether forfeiture will be allowed remains uncertain at this stage, but counsel for the Crown indicated when these appeals were heard that its appeal before the Supreme Court did not concern the amount of the forfeiture.
+[6]
+With respect to the standard of review that attaches to a discretionary decision of a prothonotary, the applicable considerations for whether disturbing such a determination is justifiable were outlined by the Federal Court of Appeal in
+Canada v. Aqua-Gem Investments Ltd.
+, [1993] 2 F.C. 425; 149 N.R. 273 (F.C.A.).
+[7]
+Writing for the majority of the court Mr. Justice MacGuigan commented (at pp. 462-463):
+"... Following in particular Lord Wright in
+Evans v. Bartlam
+, [1937] A.C. 473 (H.L.), at page 484 ... discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case.
+"Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo."
+[8]
+The
+Aqua-Gem
+criteria, and an interpretation thereof, were applied to issues of maritime law in
+FRAGMENT_SUPPRESSED
+"As I understand the decision in
+Aqua-Gem
+... a trial judge must show deference to a learned prothonotary's decision unless he has been convinced that there was a clear misapprehension of a fact so essential that it led to an unrealistic application of a legal principle vital to a final issue."
+[9]
+After reviewing the arguments of the parties on appeal, both oral and written, I find that the learned prothonotary erred in applying maritime law principles and thus erred in determining the order of priorities among the claimants for payment out of the proceeds of sale fund.
+[10]
+Before dealing with the claims raised in these appeals, I briefly summarize the essential background.
+Background
+[11]
+The chronology of events leading to the claims dealt with by the Order in question begins with the purchase of the "Kristina Logos" by Mr. Pratas, and the plaintiffs the Neves brothers, from a Quebec-based subsidiary of Clearwater on or about February 3, 1992. At the time, the unpaid portion of the sale price, an amount of $250,000.00, was provided by a promissory note due and payable to the vendor on May 1, 1992, and was secured by a first maritime mortgage on the vessel to the vendor as mortgagee. That mortgage was registered on the Canadian registry of the vessel at its port of registry, Gaspé, Québec. It was subsequently assigned, ultimately to Clearwater.
+[12]
+The Neves brothers claim to have provided to Pratas 49% of the purchase price plus the costs of fitting out the defendant ship, on understandings that the ship would be owned by Ulybel, which would be a Panamanian corporation in which they would hold 49% of the shares, and that the vessel would be registered in Panama and would be operated by one of Pratas' companies in which the Neves brothers held 49% of the shares. Steps were taken by Ulybel to have the vessel registered in Panama, but no steps were taken by Pratas or Ulybel to cancel its registration in Canada. The vessel was subject to a bareboat charter to a Portuguese company in which Pratas and the Neves brothers held 51% and 49% of the shares respectively.
+[13]
+Under s. 51 of the
+Fisheries Act
+, R.S.C. 1985, c. F-14, as amended (the "
+Act
+"), the "Kristina Logos" was seized at sea by Canadian fisheries officers on April 2, 1994, with its cargo of fish, pursuant to allegations of illegally fishing without a license or appropriate evidence of vessel registration, as required under the
+Act
+and regulations. The ship was escorted to St. John's, Newfoundland, where it was detained by the Crown as a seized vessel. Soon thereafter, Antonio Tavares, master of the ship, Mr. Pratas, as the sole director of Ulybel, and Ulybel, the owner of the ship, were also charged with associated fisheries offences.
+[14]
+On April 5, 1994, Clearwater initiated action T-799-94 in this court against Ulybel and Pratas, claiming an outstanding balance of $125,000. owed under the mortgage, and at that time, it initiated proceedings to have the "Kristina Logos" placed under arrest. Though arrested, the ship remained in the Crown's custody and it was not put in possession of the Marshall.
+[15]
+Captain Tavares was convicted, on July 27, 1994, of the charges entered against him under the
+Act
+, and, as a result of the conviction, in August 1994 an Order of forfeiture to the Crown was issued against the "Kristina Logos". The conviction and forfeiture ordered by the Newfoundland courts remained until September 9, 1996, when the conviction was overturned and the forfeiture quashed by the Newfoundland Court of Appeal, thereby returning the defendant ship to the status of seized property continuing in the possession of the Crown.
+[16]
+Meanwhile, in October 1994, the cargo of fish seized from the "Kristina Logos" and held in storage was sold by the Crown and the proceeds, the amount of $58,989.34, were forfeited to the Crown.
+[17]
+The action in which these claims and appeals arise was commenced by the Neves brothers against Ulybel and Pratas on May 23, 1995. In the action they sought a declaration of the plaintiffs' 49% ownership interest in the defendant ship and an order that it be conveyed to them by the defendants or in the alternative, judgment in an amount equivalent to their investment in the ship and its outfitting, a claim in excess of $550,000. The claim was based on the contention that the Neves brothers had contributed 49% of the purchase price and cost of repairs and outfitting of the "Kristina Logos". Pratas, who contributed 51% of the purchase and repair costs, in these proceedings acknowledged the Neves brothers' 49% ownership of the vessel, or 49% of the shares in Ulybel, which was, according to Pratas, created to be the registered owner of the defendant ship on behalf of the two groups of financial contributors. The Neves brothers commenced this action to secure their position in relation to the "Kristina Logos" when, after it was seized by the Crown, they continued to receive no formal acknowledgment of their interest in the ship, until these proceedings.
+[18]
+The Neves brothers claim their 49% ownership interest in the "Kristina Logos" entitles them to payment from the proceeds of sale in proportion to their share as owners. As noted, the defendants admit the plaintiffs are entitled to a 49% share in the vessel, however, they assert that the plaintiffs, as owners, are responsible for contributing a proportional share of the costs incurred in defending the ship by Ulybel and in relation to the prosecutions under the
+Act
+.
+[19]
+After the conviction of Captain Tavares and forfeiture of the ship were quashed by the Newfoundland Court of Appeal in September 1996, the prosecution of Ulybel in the Newfoundland courts commenced in November 1996. The corporation was convicted on four counts of allowing the "Kristina Logos" to fish illegally as regulated under the
+Act
+and regulations, and on July 2, 1997, the Newfoundland Supreme Court imposed fines to a total of $120,000.00, and ordered that $50,000.00 from the proceeds of sale of the ship be forfeited to the Crown. That decision was appealed and cross-appealed to the Newfoundland Court of Appeal. In August 1999, after the Order of Prothonotary Morneau, those appeals were dismissed by that Court of Appeal, except that the Order of forfeiture was set aside. Leave to appeal to the Supreme Court of Canada was then sought by both the Crown and the defendants. As earlier noted the Crown's application for leave to appeal the disallowance of the forfeiture was granted. The Supreme Court heard argument on January 16, 2001. Judgment was then reserved and is anticipated.
+[20]
+Steps to sell the defendant ship were initiated when on December 18, 1996, this court allowed the Crown's application to intervene in the action by the Neves brothers and permitted the Crown's application for an order for sale by the court of the "Kristina Logos" in light of the significant costs incurred by the Crown for the preservation and maintenance of the ship while seized, and the likelihood that those expenses would continue to accumulate.
+[21]
+The "Kristina Logos" was sold for the sum of $605,000.00 on May 15, 1997, with the approval of the court. The proceeds of the sale have remained in court since then.
+[22]
+Finally as we have noted, on August 11, 1997, Prothonotary Morneau issued an Order setting out the collocation of the claims filed against the sale proceeds by those claiming redress against the vessel, or its sale proceeds. Those claims dealt with by the prothonotary's Order are now the matters of these appeals. I turn now to the disposition of the appeals and of those claims.
+Claims and their priorities
+[23]
+The respective claims to be allowed and their priorities, in my opinion, are as follows, for the reasons set out in relation to each claim.
+1. the Crown's claim for costs relating directly to the sale of the ship under Court Order, which have yet to be assessed;
+2. Clearwater's claim for the outstanding balance owed on the ship's mortgage, plus interest accruing after the mortgagor's default until the date of sale;
+3. the Crown's claim for costs incurred for care of the crew;
+4. the Crown's claim for forfeiture up to $50,000. if the forfeiture is allowed by the Supreme Court of Canada;
+5. the Crown's claim to recover fines of $120,000.;
+6. the balance of the fund shall be paid
+a) to Ulybel as registered owner of the ship if the plaintiffs, the Neves brothers, and the defendant, Mr. Pratas agree, and if they do not so agree,
+b) 49% of the balance shall be paid to the plaintiffs and 51% to the defendant Pratas, representing their respective shares of ownership in the ship.
+No allowance or priority is made for any payment towards the Crown's other claims for costs incurred for care and preservation of the ship until its sale. Interest accruing to the fund in the Court's accounts shall be distributed in relation to the portion that each allowed claim, except the Crown's claim to recover fines, bears to the total of the proceeds of sale at the date of sale of the ship.
+The Crown's claim for costs relating directly to the sale of the ship
+[24]
+The Order appealed from ranked the Crown's claim for costs directly relating to sale of the "Kristina Logos" first in order of priority, to be paid before any other claim, treating these costs as custodia legis.
+[25]
+In argument before me neither Clearwater nor the plaintiffs disputed the prothonotary's ranking of the claim. It is disputed by Ulybel and Mr. Pratas on the ground that the Crown had no lawful authority to sell the vessel at the time it intervened in this proceeding and sought an order for sale of the ship. At that time only the defendants opposed the sale and on December 18, 1996, sale was ordered and subsequently, in May 1997 the sale was approved resulting in the $605,000. fund now held in court. The prothonotary's Order was appealed by the defendants to a judge of this court but was not further appealed.
+[26]
+The sale was undertaken as ordered by my colleague Mr. Justice Pinard on January 16, 1997 pursuant to a Commission issued to the High Sheriff of Newfoundland, acting as Marshall. Subsequently the Marshall's expenses and fees, a total of $25,184.31 were approved by Orders of the prothonotary in June 1997 and January 1998, and have been paid out of the fund. The costs of sale outstanding claimed by the Crown are unknown and not yet liquidated, but it would be surprising if they were large since they would at most include costs of the motion to intervene and for sale, the costs of the appeal of the Order allowing those steps; and costs, if any, incurred after the appeal was dismissed until sale by the Marshall. In my view, it is not appropriate to withhold payment of those costs at this stage.
+[27]
+For the defendants it is urged that since the Crown was without authority to have the ship sold it ought not to recover these costs now sought. In my view, while the sale was made before final judgment in the action brought by the plaintiffs, the exercise of the court's discretion to order the sale, under then Rule 1007(1) (now see Rule 491 of the
+Federal Court Rules, 1998
+) was upheld on appeal. Costs of that sale are payable from its proceeds.
+[28]
+Sale of the ship has resulted in the fund held in court in place of the "Kristina Logos", for the benefit of all creditors and owners whose claims qualify for payment. While I do not agree with Prothonotary Morneau, that all costs incurred directly in the sale of the ship, are costs custodia legis, in my opinion these costs arise from steps that resulted in the fund now subject to distribution. These are allowable as costs of bringing the ship to sale, to use Professor Tetley's description (see Tetley,
+Maritime Liens and Claims
+(2nd Ed. 1998), p. 256). This court recognizes such costs as having first priority for payment from the fund. (See
+FRAGMENT_SUPPRESSED
+[29]
+Those costs, if not yet taxed and thus liquidated, should be fixed without further delay. The Crown is directed to consult with counsel for the other parties and if agreement on a fixed amount is not settled within 45 days of the date of judgment, the Crown is to initiate the process for taxation of these costs.
+Clearwater's claim as mortgagee
+[30]
+Clearwater's claim is disputed by the defendants on the ground that evidence in this case indicates that any outstanding balance owed under the mortgage was effectively paid off or offset by monies owed by Clearwater to the defendants. The prothonotary reviewed the evidence and concluded that a balance of $125,000. is still owing under the mortgage. While that conclusion is disputed by the defendants it is supportable on the evidence. I am not persuaded the evidence indicates that the mortgage has been paid off, or set off, by other transactions, or that it had been discharged, as was argued in this appeal by the defendants.
+[31]
+The balance of $125,000. found to be outstanding under the mortgage is a secured claim which in admiralty law ranks ahead of all claims except those directly associated with the sale of the ship, and any maritime, possessory or statutory liens. None of the other claims of the parties give rise to a lien recognized in admiralty law. In my opinion, the Order appealed from was in error in ranking the unsecured claims of the Neves brothers and of the Crown ahead of the Clearwater mortgage claim.
+[32]
+In addition to the ranking of its claim, Clearwater also appeals the prothonotary's decision which refused to include interest on the mortgage claim since neither the demand note nor the mortgage itself provided for payment of interest for the term of the mortgage or in the event of failure to pay by the due date ((1999), 173 F.T.R. at para. 59). Further, he found that since the parties settled the terms of the contract, there was no sufficient reason to modify the contract so as to award interest to Clearwater. Finally, Clearwater had not established whether it had taken steps to recover its debt prior to seizure of the vessel, and thereafter following April 2, 1994 many factors continued to delay payment of the debt, factors for which Ulybel and Mr. Pratas were not completely responsible.
+[33]
+In my opinion, the last considerations, lack of evidence of prior steps by Clearwater to recover its debt before April 1994 and the factors delaying payment thereafter are irrelevant to the mortgagee's claim. The fact that the parties did not specify interest in their contract in the event of default did not constitute acquiescence by Clearwater that interest would not apply in the event of default, even though it had agreed there would be no interest charged for the relatively short term of the contract. Moreover, the claim of Clearwater is one for breach of the mortgage contract, a claim in damages which includes loss of opportunity to utilize the funds which the defendants had undertaken to pay. In my view, payment of only the principal amount of the mortgage would result in unjust enrichment of the owners of the ship, i.e. Ulybel, or the defendants and the plaintiffs.
+[34]
+In the result, while the mortgage specified no interest was payable for its term, and included no provision for interest in the event of default, after the time fixed for payment, i.e. May 1, 1992, interest is recoverable
+a) from May 2, 1992, to the date of sale of the ship, May 15, 1997, at the rate claimed by Clearwater as interest, i.e. its cost of borrowing at the Royal Bank prime rate plus 3/8% per annum, which, in my opinion, is a fair rate for that period; and
+b) after May 15, 1997 to the date of distribution and payment of its claim, at the rate attributed to the fund held in the court (see
+Holt Cargo Systems Inc. v. The Ship "Brussel" et al.
+(2000), 16 C.B.R.(4th) 188; [2000] F.C.J. 197 (T.D.), at paras. 26, 27).
+The Crown's claim for costs incurred for care of the crew
+[35]
+A portion of the costs claimed by the Crown for care of the crew and the ship until its sale relates to costs of repatriation of the Portuguese crew, serving aboard the "Kristina Logos" at the time of her seizure. By affidavit of Wayne George Evans, an officer of the Department of Fisheries and Oceans, there was no known ship's agent to provide services to the crew, and it was necessary to repatriate them to Portugal since they had no means of sustenance and no status to remain in Canada.
+[36]
+In
+Llido v. Ship Lowell Thomas Explorer
+, [1980] 1 F.C. 339 (T.D.), at 346 the Crown claimed the costs of repatriation of the crew to their own nation following arrest of a ship, where those expenditures were incurred after approval of the court. In that case, in discussing claims in rem against the proceeds of sale, Mr. Justice Marceau wrote:
+"Pursuant to an order of this court dated September 21, 1971, Her Majesty the Queen in right of Canada was granted permission to intervene in case No. T-2148-77, and was subrogated to the rights and priorities of the plaintiffs therein in respect of the funds that she would advance to cover their repatriation to the Philippine Islands. There is no question that seamen are entitled to their cost of repatriation, which cost ranks in priority with their wages (see: Price,
+The Law of Maritime Liens
+, p. 62). ..."
+[37]
+I note that in his Reasons (para. 42) the prothonotary specifically stated he did not see any special circumstances favouring the Crown within the meaning, inter alia, of the
+Lowell Thomas Explorer
+decision - or any ground to apply equity or unjust enrichment concepts to support the priority sought by the Crown. His comments were made with reference to the entire claim for costs for care of the crew and the vessel, not with reference only to costs for repatriation of the crew. I note that the cost of repatriation of the crew was not argued as a separate claim by the Crown or by the other parties, either before the prothonotary or on appeal before me. Nevertheless, I believe the claim warrants separate consideration as a matter of equity. All creditors with an interest in the vessel are liable, in my opinion, to share in those costs in the absence of an agent, the vessel's owners or the charterers. In my view that aspect of the Crown's claim ranks first in priority among the unsecured claims.
+[38]
+The circumstances here are different from those in the
+Lowell Thomas Explorer
+. Here there was no prior approval of the Crown's expenditures to repatriate the crew, and no prior subrogation of that claim to the rights of others. I do not consider this claim of the Crown to be a maritime lien or even a claim in rem. It is not a claim of the crewmen who, had they expended funds for their repatriation would have had a claim in rem and a maritime lien. Nevertheless it is a claim, unsecured, which the court in exercise of its equitable jurisdiction, recognizes in priority to all other unsecured claims. In my opinion, no party can reasonably object. In this case this claim represents necessary steps for which the charterers might have been liable had they been before the court. In their absence from the court's jurisdiction the liability for cost of repatriation of the crew, in the circumstances of this case, is ultimately borne by the shipowners.
+The Crown's claim for forfeiture
+[39]
+When this matter was heard the Crown's claim to forfeiture in the amount of $50,000. from proceeds of sale of the ship, was uncertain in light of the decision of the Newfoundland Court of Appeal overturning that award and the subsequent appeal to the Supreme Court of Canada which is not yet determined. If that decision should restore the forfeiture, it is appropriate to determine its priority among payments to be made from the fund. In doing so, I rely on the assurance of counsel for the Crown, when this matter was heard, that the amount of the forfeiture was not contested in the appeal from the Newfoundland Court of Appeal.
+[40]
+The defendants urge that the forfeiture was not proper since when the Order was made, after the Order for sale by this court, the ship had implicitly been released from seizure by the Crown whose motion was approved authorizing the sale. I agree that, at least in its effect, comments of the Newfoundland Court of Appeal in overturning the forfeiture support the defendants' position, but ultimately that position will be resolved by decision of the Supreme Court of Canada. If that court restores the forfeiture, in my opinion the claim would rank after the Crown's claim for costs of repatriation of the crew and after Clearwater's mortgage claim, not ahead of that claim as the prothonotary ordered.
+[41]
+The Order was in error in its ranking of the claim of forfeiture. No reason was given except that it is important that it be paid with priority, following the payment of the costs of sale. If the claim is restored, it will not be a claim in rem under admiralty law against the ship. Among the claims of the plaintiffs and the defendants, in admiralty this is but another unsecured claim in personam against the owner of the vessel.
+[42]
+In my view, the forfeiture, if restored, has priority ahead of the claims of the plaintiffs and the defendant. Though it makes no difference in this case, it also has priority over the claim of the Crown for $120,000. in fines assessed against Ulybel as a result of its conviction. That priority recognizes the Crown's common law priority among unsecured creditors, and, by judicial deference, the assessment by the Newfoundland Supreme Court that a set share of the proceeds of sale should be forfeited to the Crown. In my opinion, that forfeiture, if restored, should bear interest following the sale at the rate attributed to the fund paid into court.
+The Crown's claim for fines assessed
+[43]
+In my opinion, the Crown's claim for $120,000. for the fines assessed, is to be recognized as a claim by an unsecured creditor, without priority except that arising under the common law, ahead of other ordinary creditors, whose claims have yet to be assessed.
+[44]
+In my opinion the claim to recover fines levied is a claim only to the amount of the fines, whenever those are paid, without interest from the date of sale to the date of payment. There is no statutory authority, and the sentence imposing the fine made no provision, that would support the award of interest before or after sale of the vessel on the fines claimed in this case.
+The plaintiffs' claim as part owner of the ship
+[45]
+The plaintiffs' claim is essentially for payment out of the proceeds of sale its claim to 49% ownership of the ship and its appurtenances, without contribution of any portion of the costs incurred by the defendants in the actions in the Newfoundland courts, including the fines, and costs claimed by the Crown. That claim is implicitly recognized by the Order of the prothonotary, in the ranking assigned to it. With respect, as I read his decision the priority arises from considerations relating to the relationship between the plaintiffs and the defendants, but without sufficient consideration of the plaintiffs' claim in relation to the other claimants.
+[46]
+In my opinion, the prothonotary erred, not in recognizing the plaintiffs' claim to 49% ownership interest but in ranking the claim after the costs of selling the ship and payment of the $50,000. forfeiture. This was ahead of the only claim recognized as secured, the only in rem claim, that of the mortgagee, and ahead of the Crown's claim to recover fines assessed. For the Neves brothers it is argued they are entitled in equity as the beneficiary of a constructive trust separate from the claims of the defendants, Ulybel and Pratas, as owners because of their substantial initial investment and their lack of involvement, so they claim, in the operations of the "Kristina Logos".
+[47]
+In my opinion the plaintiffs' claim is no more than that of an unsecured creditor, with equitable interests against Ulybel, the registered owner, and Pratas, the other part-owner of the ship. The plaintiffs' interests do not have priority over any other claimant and they rank after the costs of sale, Clearwater's claim as mortgage, the Crown's claim for costs of crew repatriation, the forfeiture if it be restored, and the fines. Thus, their claim ranks behind all other allowed claims, with that of Pratas.
+[48]
+The plaintiffs' claim is not separate from that of the defendants except in the same sense as Pratas has a claim independent of the claim of Ulybel, i.e., as a shareholder. The plaintiffs' claim to an interest in the ship is acknowledged by the defendants, and the court has no reluctance to acknowledge that by a declaration, as the plaintiffs sought in their statement of claim.
+[49]
+After the hearing of this matter counsel for the plaintiffs provided the court, at its request, with written submissions supporting the recognition of their claim as beneficiaries of a constructive trust in the assets of Ulybel. I accept that as defining the relationship of the plaintiffs to Ulybel and Pratas but it has no adverse effect for the claims of others, i.e., of the Crown and Clearwater.
+[50]
+Insofar as the court accepts a constructive trust for the benefit of the plaintiffs, that has significance only vis-à-vis Ulybel, the registered owner of the ship. The ship having been sold, the claims of all owners, acknowledged inter se as 49% interest in the ship vested in the plaintiffs and 51% in the defendant Pratas, shall be paid, from any balance remaining after payment of approved claims of both Clearwater and the Crown, unless the Neves brothers and Pratas agree that payment of that balance should be made in toto to Ulybel.
+The claims of the defendants
+[51]
+In my opinion, if there is agreement of all three shareholders of interests in the ship, Ulybel may be paid the outstanding balance of the fund. If they do not so agree, the disposition should reflect the plaintiffs' claim in this action as one concerning ownership of a ship "or any part interest therein or with respect to the proceeds of sale of a ship or any part interest therein", within paragraph 22(2)(a) of the
+Federal Court Act
+, R.S.C. 1985, c. F-7, as amended. In other words, if the plaintiffs insist on payment of their share of the proceeds of the sale, the court, accepting the acknowledgement of the plaintiffs' interest by the defendants, and recognizing their interest as beneficiaries of a constructive trust, directs that their interest be met by payment of 49% of the balance of the funds to the Neves brothers. The remaining 51% of the balance, net of allowed claims payable to the Crown and to Clearwater, shall be paid to the defendant Pratas.
+The Crown's claim for costs incurred for maintenance
+[52]
+I do not allow the Crown's claim to recover costs incurred for maintenance of the ship from the date of its arrest on April 5, 1994, until the date of sale, apart from costs of repatriating the crew to Portugal which I have settled. In this I concur with the prothonotary whose order excludes this claim.
+[53]
+These expenses did not arise as a result of the arrest of the ship under the court's process. That process did not assign custody of the ship to the Marshall until the Order for sale in 1996. These were expenses incurred by the Crown until July 1994 as possessor by virtue of seizure of the vessel with ultimate obligation to restore it to its owner unless it were forfeited or subject to execution under the
+Fisheries Act
+. From July 1994 until September 1996 the Crown was in possession as owner of the ship, which was ordered forfeited to the Crown by the Newfoundland court, until that Order was reversed by the Newfoundland Court of Appeal. Soon after that reversal the Crown applied to intervene in this action and to have the ship sold. All of its expenses, for maintenance of the ship, for sale of its cargo, were incurred without consultation with other creditors, without seeking approval of this court, or parties affected by the arrest process of this court, or who were claimants against the ship or its owners.
+[54]
+Those expenses do not, in my opinion, qualify as expenses made for the benefit of all interested in the ship, at least at the time they were made. Only in hindsight can one say that these expenses, which are considered unduly high by Clearwater and by the defendants, were for the benefit of all claimants. They do not constitute costs "custodia legis", as urged by the Crown, for the expenses were not made as a result of arrest of the vessel but rather as a result of its seizure and possession under the
+Fisheries Act
+and for a time as owner by forfeit order of the Newfoundland Court.
+Conclusion
+[55]
+For the reasons set out above I conclude that the claims against the proceeds of sale should be paid with the following priorities:
+1. the Crown's claim to recover costs directly incurred for sale of the ship;
+2. Clearwater's claim as mortgagee for $125,000. principal outstanding with interest from the date of default, after May 1, 1992 to the date of sale at Clearwater's borrowing rate, the Royal Bank of Canada prime rate plus 3/8%, per annum;
+3. the Crown's claim for costs incurred for repatriation of the crew, i.e. $34,057.50;
+4. the Crown's claim for $50,000. ordered forfeited by the Supreme Court of Newfoundland which this court, in comity, recognizes next in priority if the forfeiture is allowed by the Supreme Court of Canada;
+5. the Crown's claim for $120,000. assessed as fines by the Supreme Court of Newfoundland;
+6. the balance of the fund shall be paid
+a) to the registered owner, Ulybel Enterprises Limited if the plaintiffs and the defendant, Pratas, so agree, or if they do not agree,
+b) to the owners of shares in the vessel, i.e. the Neves brothers and Pratas in proportion to their respective shares, 51% to Pratas and 49% to the Neves brothers.
+[56]
+All of the claims allowed, except that of the Crown for fines levied, shall bear interest from the date of the sale, May 15, 1997, to the date of payment at the rate applicable to the accumulation of the fund held by the court.
+[57]
+The prothonotary's Order assigned no costs for the proceedings, noting that the motion was a common effort by all claimants to resolve issues of payments out of the proceeds of sale. That aspect of the Order is appealed on behalf of Clearwater for which it was urged the Order erred in denying costs in relation to its claim. I accept that submission for Clearwater's appeal in relation to its priority and in relation to its claim for interest after default is allowed. Those costs should be limited to Clearwater's claim and appeal in this court file only, and I fix those costs reasonably at $3,000.
+[58]
+Since success in relation to the claims and appeals of other parties is generally divided, and all contributed generally to resolution of the claims for payment, each of the Crown, the plaintiffs and defendants should bear their own costs.
+[59]
+I would propose that if there are appeals from my Order, counsel for the parties should consult with a view to consent by all parties to payment from the fund held in court of any claim that is liquidated if its ranking here set out is not subject to appeal.
+Order accordingly.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

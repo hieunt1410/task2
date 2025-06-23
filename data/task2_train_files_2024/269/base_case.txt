@@ -1,0 +1,74 @@
+[1]
+Dubé, J.
+: This motion, brought by the defendants, is for an order compelling the plaintiffs to produce documents and answer questions which the plaintiffs claim are protected by solicitor-client privilege.
+1. Facts
+[2]
+The plaintiffs ("Commercial Union") are insurers and the defendants ("M.T. Fishing") are the registered owners of the MV "Radiant", a 110 foot wooden yacht. On April 25, 1995, a fire destroyed the "Radiant". A claim was made and Commercial Union paid M.T. Fishing a portion of the hull and machinery. On May 24, 1995, Murray Underwriting Ltd. ("Murray"), the managing general agent in British Columbia for Commercial Union, received a telephone call from the managing agent for some of the insurers to the effect that she had received information suggesting that the fire on the "Radiant" had been intentionally set. On May 25, 1995, Mr. Patrick Murray, President of Murray, received further information to that same effect from Coast Claims Service Ltd.
+[3]
+On that date, Commercial Union immediately commenced a new investigation in order to establish whether or not the fire had been deliberately set. On July 20, 1995, Commercial Union instructed their counsel to review the information collected and to provide an opinion as to whether insurers had sufficient grounds to recover the monies paid on the claim. Between July 20, 1995 and November 24, 1995, Commercial Union's investigation continued to reveal further information concerning the cause of the fire. On November 24, 1995, Commercial Union commenced this action.
+2. The Dominant Purpose Issue
+[4]
+The issue before the court in this application is whether the reports, information, notes, investigations and conversations conducted between May 25, 1995 and November 24, 1995, or certain portions of them, are privileged. This requires the court to answer two questions:
+(a) was litigation in reasonable prospect at the time of each of these communications, whether oral or written, occurred; and
+(b) was litigation the dominant purpose for the creation of each such communication? [see footnote 1]
+[5]
+It is also common ground that the onus is on the party asserting privilege to show that the dominant purpose was litigation. The court must look to the circumstances surrounding the creation of the documents so as to determine the dominant purpose of these communications. [see footnote 2] In Canada, the accepted test for whether or not litigation privilege applies to a given communication is that it must have been made for the dominant purpose of reasonably contemplated litigation in order to be privileged. [see footnote 3] In
+Solicitor-Client Privilege in Canadian Law
+[see footnote 4], the "dominant purpose" test has been stated as consisting of three separate elements, each of which must be met in order to apply:
+"(a) the communication must have been produced with litigation in mind (i.e., it cannot have existed beforehand, and merely been obtained later by the party and given to the solicitor);
+"(b) the communication must have been produced for the dominant purpose of receiving legal advice or as an aid to the conduct of litigation (in other words, for the purpose of contemplated litigation);
+"(c) the prospect of litigation must be reasonable (meaning that there is a reasonable contemplation of litigation). (p. 93)."
+[6]
+The "dominant purpose" of a communication can exist in the mind of either the author of the document or the person ordering the document's production, but it needs not exist in both. [see footnote 5] The point in time at which the dominant purpose of communications becomes that of furthering the course of litigation must be determined by the particular facts of each case. [see footnote 6] Thus, litigation privilege can apply to communication made by a party before counsel has been retained. [see footnote 7] It has also been held that where an insurer has completed its initial investigation and begun to pay the assured's claim, and where new information subsequently received by the insurer suggested that the initial claim had been fraudulent, litigation became "imminent" in the mind of the insurer upon receipt of the new information and all derivative communications made after that time were therefore privileged. [see footnote 8]
+[7]
+The facts in the
+Chrusz
+case, a decision of the Ontario Court (General Division), are quite similar to the present action. In both cases, after initial investigation had been undertaken and payment to the assured had been made, information was received by the insurer that prompted further investigation and legal action against the assured.
+3. Disposition
+[8]
+In my view, all information obtained in the course of the investigation leading to the payment in full of the claim to M.T. Fishing and all other documents created during that period that led to payment are not privileged information.
+[9]
+However, on May 24 and 25, 1995, when Commercial Union was informed that the fire on the "Radiant" had been intentionally set, and they subsequently commenced a fresh investigation to gather further information, the dominant purpose was obviously to commence an action to recover the amounts paid to M.T. Fishing. I fail to see for what other reason a second investigation would be carried out. Even if counsel had not already been retained at that early date, the information was gathered for only one obvious reason.
+[10]
+Thus, in the present instance, the three elements essential to the establishment of a dominant purpose are present after May 24, 1995: first, the communication was produced with litigation in mind; second, the communication was for the dominant purpose of receiving legal advice, or as an aid to the conduct of litigation; third, the prospect of litigation was reasonable. If Commercial Union can prove in court that M.T. Fishing intentionally set fire to its vessel, it can reasonably assume that it will obtain judgment and recover its money.
+[11]
+In conclusion, the communications in question are protected by litigation privilege and therefore excluded from inspection by the defendants.
+[12]
+Consequently, the defendants' motion is dismissed with costs.
+Motion dismissed.
+Editor: Sharon J. McLaughlin/pdk
+Footnotes
+1.
+Professional Institute of the Public Service of Canada v. Canadian Museum of Nature
+, [1995] 3 F.C. 643; 102 F.T.R. 7 (T.D.) and
+Hamalainen v. Sippola
+(1991), 9 B.C.A.C. 254; 19 W.A.C. 254; 62 B.C.L.R.(2d) 254, at 261 (C.A.).
+2.
+Brayley v. Pappas
+(1991), 64 B.C.L.R.(2d) 37 (S.C.) and
+Krusel v. Firth
+(September 7, 1993), B.C.J. No. 2926, Vancouver Registry No. C86231 (S.C.).
+3.
+Waugh v. British Railways Board
+, [1979] 2 All E.R. 1169, at 1183 (H.L.) and
+FRAGMENT_SUPPRESSED.
+4. Ronald D. Manes and Michael P. Silver,
+Solicitor-Client Privilege in Canadian Law
+(Toronto: Butterworths Canada Ltd., 1993).
+5.
+Guinness Peat Properties Ltd. v. Fitzroy Robinson Partnership
+, [1987] 2 All E.R. 716 (C.A.).
+6.
+Hamalainen v. Sippola
+, supra.
+7.
+Rush v. Phoenix Assurance Co. of Canada
+(1983), 40 C.P.C. 185, at 188 (Ont. S.C.);
+Young's Graves (Receiver of) v. Hartford Fire Insurance Co.
+(1988), 27 C.P.C.(2d) 242, at 244 (Ont. S.C.), and
+British Columbia (Minister of Forests) v. Bugbusters Pest Management Inc.
+, an unreported decision of March 24, 1995, Prince George Registry No. 27740 (B.C.S.C.).
+8.
+General Accident Assurance Co. et al. v. Chrusz et al.
+(1997), 39 O.T.C. 337; 34 O.R.(3d) 354 (Gen. Div.).
+[End of document]

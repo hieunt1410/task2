@@ -1,0 +1,387 @@
+[1]
+Mandamin, J.
+: This is an application by Mark Waxer, the Applicant, pursuant to section 14 of the
+Personal Information Protection and Electronic Documents Act
+, S.C. 2000, c. 5 (
+PIPEDA
+). This application is for a review of his complaint to the Privacy Commissioner of Canada (Privacy Commissioner) that Peter McCarthy and J.J. Barnicke, the Respondents, improperly collected his personal information. The Privacy Commissioner determined on June 15, 2006 that the claim was unfounded in respect of collection of personal information (the collection complaint) and was well-founded but satisfactorily resolved in respect of the accountability requirement (the accountability complaint).
+[2]
+Mr. Waxer's complaint to the Privacy Commissioner was prompted upon his learning that the Respondent, Peter McCarthy had sent an email to J.J. Barnicke's Ontario sales representatives asking if anyone knew who the Applicant worked for. Mr. McCarthy is a Vice President with the Respondent, J.J. Barnicke, a real estate brokerage,
+[3]
+Mr. McCarthy sent the email after learning from his sister, Martha McCarthy, that she had received two threatening telephone messages from the Applicant. Ms. McCarthy, a family law lawyer, represented the Applicant's ex-spouse in a contentious family law dispute.
+[4]
+The Privacy Commissioner concluded that there was no evidence that any personal information had actually been collected and ruled that the
+PIPEDA
+did not apply to attempts to collect personal information.
+[5]
+The Privacy Commissioner also found that the Respondent, J.J. Barnicke, did not have a privacy policy that complied with
+PIPEDA
+but decided the accountability complaint was satisfactorily resolved upon the subsequent development and implementation by J.J. Barnicke of a privacy policy in compliance with
+PIPEDA
+.
+[6]
+Mr. Waxer applies for a judicial review of his
+PIPEDA
+privacy complaint and seeks:
+1) An Order for damages in the amount of $75,000.00 against the Respondents, Peter McCarthy and J.J. Barnicke;
+2) A Declaration that the Applicant's statutory rights were violated;
+3) Costs payable on a solicitor and client basis;
+4) Such further and other relief as counsel may advise and this Court deem just.
+BACKGROUND
+[7]
+Peter McCarthy's sister, Martha McCarthy, is a family lawyer who represented the Applicant's ex-wife in contentious family law proceedings.
+[8]
+In March 2004, Peter McCarthy was advised by his sister, Ms. McCarthy, that the Applicant had left threatening messages on her voicemail. One of Mr. Waxer's messages included a reference to their father and this caused her sufficient concern to inform her brother, Peter McCarthy, about the threatening messages.
+[9]
+As a result, Mr. McCarthy sent an email inquiry using J.J. Barnicke's communications network to their Ontario real estate sales offices. The email Mr. McCarthy sent on March 24, 2004, had "Mark Waxer" in the subject line and asked:
+"Does anyone know what firm Mark is with?
+Peter"
+[10]
+On March 27, 2004, Mr. Waxer learned from a friend who was an employee of the Respondent J.J. Barnicke that Mr. McCarthy had sent the above email to all the J.J. Barnicke sales representatives in Ontario. The email distribution list was approximately 150 people.
+[11]
+On March 29, 2004, Mr. Waxer telephoned Mr. McCarthy demanding to know the purpose behind the email. Mr. McCarthy stated he had no interest in the Applicant or his business activities. The Applicant sent a series of letters initially to Mr. McCarthy and then to J.J. Barnicke executives demanding various responses and answers to his inquiries. He received a non-committal response from J.J. Barnicke's solicitors.
+[12]
+The Applicant filed a complaint with the Privacy Commissioner alleging that Mr. McCarthy inappropriately used his position at J.J. Barnicke to collect personal information about the Applicant contrary to the
+PIPEDA
+(the collection complaint). He also complained that the Respondent, J.J.Barnicke failed to observe
+PIPEDA
+privacy requirements (the accountability complaint).
+[13]
+The Privacy Commissioner released her findings on June 15, 2006. The Commissioner concluded that Mr. McCarthy made his email inquiry not as an individual but rather with every appearance of conducting business on behalf of J.J. Barnicke. The Commissioner also decided that Mr. McCarthy's request for the name of the Applicant's employer was a request for personal information. The Commissioner reasoned that since the name of a person's employer is not excluded from the definition of personal information in
+PIPEDA
+(even though a person's title, business address, and business number are) and "given the context in which the question was asked" the name of the Applicant's employer was his personal information.
+[14]
+The Commissioner was critical of the responses by Mr. McCarthy and J.J. Barnicke about the purpose of the email and the denial of any response. Although the Commissioner found it hard to believe J.J. Barnicke's answer that no one replied to the email inquiry, the Commissioner decided there was no evidence that the e-mail attempt to collect personal information was successful. Accordingly, the Commissioner ruled that, because no information about the Applicant was collected, his collection complaint was not well-founded.
+[15]
+The Privacy Commissioner expressed her dismay at the "cavalier attitude" displayed by Mr. McCarthy in particular, and J.J. Barnicke as a whole, towards the Applicant's personal information and right to privacy. She stated that it was evident that J.J. Barnicke was "unaware of, or at worst, untroubled by" its obligations under
+PIPEDA
+. She concluded that J.J. Barnicke did not have appropriate privacy policies in place nor did it have a designated privacy officer accountable for compliance as required by the Principles 4.1 and 4.1.4 of Schedule 1 to
+PIPEDA
+. The Privacy Commissioner acknowledged that, since the investigation commenced, J.J. Barnicke brought itself into compliance. The Commissioner had recommended that it: post its privacy policy on its web site; ensure it is disseminated to all employees; and provide staff with privacy training regarding proper privacy policies and practices. She found J.J. Barnicke complied in a satisfactory manner and therefore concluded the Applicant's accountability complaint was well-founded and resolved.
+[16]
+The Applicant, as a self-represented litigant, initiated an application for hearing in respect of his complaint to the Privacy Commissioner pursuant to section 14(1) of
+PIPEDA
+on July 27, 2006, adding as respondents Martha McCarthy and the Privacy Commissioner of Canada. He also, subsequently, engaged legal counsel.
+[17]
+The Privacy Commissioner of Canada applied to the Court to be removed as an automatically named Respondent and was granted leave to be added instead as an Added Respondent with the limitations of not filing affidavit evidence or cross-examining any other party on their affidavit.
+[18]
+The Added Respondent, Martha McCarthy, brought a motion to be removed as an Added Respondent, I granted her motion by Court Order of November 23, 2007. In that order, I gave leave to the parties to amend their Motion Record given that Ms. McCarthy was no longer a party to the proceeding. The Respondent, Peter McCarthy amended his Motion Record incorporating much of the material that was in Ms. McCarthy's Motion Record. The Applicant applied to strike the amendments at the hearing of this application. I decided that Mr. McCarthy's Motion Record amendments would not be allowed where they related to Mr. Waxer's family law legal matters but I allowed amendments as related to Mr. McCarthy's own knowledge. I give my reasons in a separate Order on the motion to strike dated this same date. In giving this judgment, I considered the evidence in light of my foregoing Order.
+ISSUES
+[19]
+The issues in this hearing are:
+a. Is there evidence, either directly or inferentially, that the Respondents Peter McCarthy and J.J. Barnicke obtained personal information of the Applicant in a manner contrary to
+PIPEDA
+?
+b. If there is no evidence, is an attempt to collect personal information contrary to
+PIPEDA
+?
+c. Is the Applicant entitled to damages as against the Respondents McCarthy or J.J. Barnicke in respect of:
+i. the Applicant's collection complaint: or
+ii. the Applicant's accountability complaint?
+STATUTORY FRAMEWORK
+[20]
+Section 2(1), of the
+PIPEDA
+defines "personal information":
+"2(1) The definitions in this subsection apply in this Part.
+"'personal information'
+"'renseignement personnel'
+"'personal information' means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization."
+"2(1) Les définitions qui suivent s'appliquent à la présente partie.
+"'renseignement personnel'
+"'personal information'
+"'renseignement personnel' Tout renseignement concernant un individu identifiable, à l'exclusion du nom et du titre d'un employé d'une organisation et des adresse et numéro de téléphone de son lieu de travail."
+[21]
+Sections 3 and 4 of
+PIPEDA
+state the purpose and application of the
+Act
+:
+"
+Purpose
+"3.
+The purpose of this Part is to establish
+, in an era in which technology increasingly facilitates the circulation and exchange of information,
+rules to govern the collection, use and disclosure of personal information
+in a manner that recognizes the right of privacy of individuals with respect to their personal information and the need of organizations to collect, use or disclose personal information for purposes that a reasonable person would consider appropriate in the circumstances. (emphasis added)
+"
+Application
+"4(1)
+This Part applies to every organization in respect of personal information that
+(a)
+the organization collects
+, uses or discloses in the course of commercial activities; or
+(b) is about an employee of the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business." (emphasis added)
+"
+Objet
+"3.
+La présente partie a pour objet de fixer,
+dans une ère où la technologie facilite de plus en plus la circulation et l'échange de renseignements,
+des règles régissant la collecte, l'utilisation et la communication de renseignements personnels
+d'une manière qui tient compte du droit des individus à la vie privée à l'égard des renseignements personnels qui les concernent et du besoin des organisations de recueillir, d'utiliser ou de communiquer des renseignements personnels à des fins qu'une personne raisonnable estimerait acceptables dans les circonstances.
+"
+Champ d'application
+"4(1)
+La présente partie s'applique à toute organisation à l'égard des renseignements personnels
+:
+a) soit qu'elle recueille
+, utilise ou communique dans le cadre d'activités commerciales;
+b) soit qui concernent un de ses employés et qu'elle recueille, utilise ou communique dans le cadre d'une entreprise fédérale"
+[22]
+Sections 5 and 7 state:
+"
+Compliance with obligations
+"5(1) Subject to sections 6 to 9, every organization shall comply with the obligations set out in Schedule 1.
+"
+Appropriate purposes
+"(3) An organization may collect, use or disclose personal information only for purposes that a reasonable person would consider are appropriate in the circumstances.
+"
+Collection without knowledge or consent
+"7(1) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
+(a) the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way;
+(b) it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;
+(c) the collection is solely for journalistic, artistic or literary purposes;
+(d) the information is publicly available and is specified by the regulations; or
+(e) the collection is made for the purpose of making a disclosure
+(i) under subparagraph (3)(c.1)(i) or (d)(ii), or
+(ii) that is required by law."
+"
+Obligation de se conformer aux obligations
+"5(1) Sous réserve des articles 6 à 9, toute organisation doit se conformer aux obligations énoncées dans l'annexe 1.
+"
+Fins acceptables
+"(3) L'organisation ne peut recueillir, utiliser ou communiquer des renseignements personnels qu'à des fins qu'une personne raisonnable estimerait acceptables dans les circonstances.
+"
+Collecte à l'insu de l'intéressé et sans son consentement
+"7(1) Pour l'application de l'article 4.3 de l'annexe 1 et malgré la note afférente, l'organisation ne peut recueillir de renseignement personnel à l'insu de l'intéressé et sans son consentement que dans les cas suivants:
+a) la collecte du renseignement est manifestement dans l'intérêt de l'intéressé et le consentement ne peut être obtenu auprès de celui-ci en temps opportun;
+b) il est raisonnable de s'attendre à ce que la collecte effectuée au su ou avec le consentement de l'intéressé puisse compromettre l'exactitude du renseignement ou l'accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d'un accord ou la contravention du droit fédéral ou provincial;
+c) la collecte est faite uniquement à des fins journalistiques, artistiques ou littéraires;
+d) il s'agit d'un renseignement réglementaire auquel le public a accès;
+e) la collecte est faite en vue:
+(i) soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
+(ii) soit d'une communication exigée par la loi."
+[23]
+Sections 11, 13, and 14(1) and 16 govern complaints to the Privacy Commissioner and application for review to the Federal Court:
+"
+Contravention
+"11(1) An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or for not following a recommendation set out in Schedule 1.
+"
+Contents
+"13(1) The Commissioner shall, within one year after the day on which a complaint is filed or is initiated by the Commissioner, prepare a report that contains
+(a) the Commissioner's findings and recommendations;
+(b) any settlement that was reached by the parties;
+(c) if appropriate, a request that the organization give the Commissioner, within a specified time, notice of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken; and
+(d) the recourse, if any, that is available under section 14.
+"
+Where no report
+"(2) The Commissioner is not required to prepare a report if the Commissioner is satisfied that
+(a) the complainant ought first to exhaust grievance or review procedures otherwise reasonably available;
+(b) the complaint could more appropriately be dealt with, initially or completely, by means of a procedure provided for under the laws of Canada, other than this Part, or the laws of a province;
+(c) the length of time that has elapsed between the date when the subject-matter of the complaint arose and the date when the complaint was filed is such that a report would not serve a useful purpose; or
+(d) the complaint is trivial, frivolous or vexatious or is made in bad faith.
+"If a report is not to be prepared, the Commissioner shall inform the complainant and the organization and give reasons.
+"
+Application
+"14(1)
+A complainant may
+, after receiving the Commissioner's report,
+apply to the Court for a hearing in respect of any matter in respect of which the complaint was made
+, or that is referred to in the Commissioner's report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10. (emphasis added)
+"
+Remedies
+"16. The Court may, in addition to any other remedies it may give,
+(a) order an organization to correct its practices in order to comply with sections 5 to 10;
+(b) order an organization to publish a notice of any action taken or proposed to be taken to correct its practices, whether or not ordered to correct them under paragraph (a); and
+(c) award damages to the complainant, including damages for any humiliation that the complainant has suffered."
+"
+Violation
+"11(1) Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l'une des dispositions de la section 1 ou qui omet de mettre en oeuvre une recommandation énoncée dans l'annexe 1.
+"
+Contenu
+"13(1) Dans l'année suivant, selon le cas, la date du dépôt de la plainte ou celle où il en a pris l'initiative, le commissaire dresse un rapport où:
+a) il présente ses conclusions et recommandations;
+b) il fait état de tout règlement intervenu entre les parties;
+c) il demande, s'il y a lieu, à l'organisation de lui donner avis, dans un délai déterminé, soit des mesures prises ou envisagées pour la mise en oeuvre de ses recommandations, soit des motifs invoqués pour ne pas y donner suite;
+d) mentionne, s'il y a lieu, l'existence du recours prévu à l'article 14.
+"
+Aucun rapport
+"(2) Il n'est toutefois pas tenu de dresser un rapport s'il est convaincu que, selon le cas:
+a) le plaignant devrait d'abord épuiser les recours internes ou les procédures d'appel ou de règlement des griefs qui lui sont normalement ouverts;
+b) la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par le droit fédéral - à l'exception de la présente partie - ou le droit provincial;
+c) le délai écoulé entre la date où l'objet de la plainte a pris naissance et celle du dépôt de celle-ci est tel que le rapport serait inutile;
+d) la plainte est futile, vexatoire ou entachée de mauvaise foi.
+"Le cas échéant, il en informe le plaignant et l'organisation, motifs à l'appui.
+"
+Demande
+"14(1) Après avoir reçu le rapport du commissaire, le plaignant peut demander que la Cour entende toute question qui a fait l'objet de la plainte - ou qui est mentionnée dans le rapport - et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l'annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels que modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l'article 10.
+"
+Réparations
+"16. La Cour peut, en sus de toute autre réparation qu'elle accorde:
+a) ordonner à l'organisation de revoir ses pratiques de façon à se conformer aux articles 5 à 10;
+b) lui ordonner de publier un avis énonçant les mesures prises ou envisagées pour corriger ses pratiques, que ces dernières aient ou non fait l'objet d'une ordonnance visée à l'alinéa a);
+c) accorder au plaignant des dommages-intérêts, notamment en réparation de l'humiliation subie."
+[24]
+Schedule 1 - Principle 4.1 of
+PIPEDA
+provides;
+"4.1 Principle 1 - Accountability
+"An organization is responsible for personal information under its control and shall designate an individual or individuals who are accountable for the organization's compliance with the following principles."
+"4.1 Premier principe - Responsabilité
+"Une organisation est responsable des renseignements personnels dont elle a la gestion et doit désigner une ou des personnes qui devront s'assurer du respect des principes énoncés ci-dessous."
+STANDARD OF REVIEW
+[25]
+The hearing of an application made after receipt of a report of the Privacy Commissioner under section 14(1) of the
+PIPEDA
+is not a judicial review of the Commissioner's findings and recommendations. Section 14 in effect provides for de novo review in court of "any matter in respect of which the complaint was made."
+[26]
+This hearing is not a judicial review of the Privacy Commissioner' report. Justice Décary of the Federal Court of Appeal in
+Englander v. Telus Communications Inc.
+, [2004] 2 F.C.R. 572; 328 N.R. 297; 2004 FCA 387, at paras. 47 and 48 held that:
+"What is at issue in both proceedings is not the Commissioner's report, but the conduct of the party against whom the complaint is filed. ...
+"... the hearing under subsection 14(1) of the
+Act
+is a proceeding de novo akin to an action and the report of the Commissioner, if put into evidence, may be challenged or contradicted like any other document adduced in evidence."
+[27]
+Accordingly, I am engaged in a finding of fact whether the Respondents, Mr. McCarthy or J.J. Barnicke, collected or used the personal information of the Applicant. If I find there was an attempt to collect information by the Respondents, I must decide, as a matter of law, whether the attempt constitutes "collection" of personal information as contemplated by
+PIPEDA
+.
+[28]
+With respect to Mr. Waxer's claim for damages I must decide whether Mr. Waxer should be awarded damages on the basis of his collection complaint or the accountability complaint.
+ANALYSIS
+Is there evidence, either directly or inferentially, that the Respondents, Peter McCarthy and J.J. Barnicke, obtained personal information of the Applicant in a manner contrary to PIPEDA?
+Applicant's Submissions
+[29]
+The Applicant argues that the credibility of the Respondents is at issue in light of the fact that they initially misguided the Privacy Commissioner as to the real reasons behind sending the email. As such, Mr. Waxer argues that the claim made by the Respondent that no personal information was collected should be carefully scrutinized.
+[30]
+The Applicant notes from the Commissioner's findings that Mr. McCarthy admitted to misleading the Privacy Commissioner's investigator by implying that the intention of the email was to potentially conduct business with Mr. Waxer. The Applicant was also dissatisfied with J.J. Barnicke's minimal efforts to discover whether or not any personal information was collected. The search for information resulting from the email was inadequate because J.J. Barnicke failed to:
+• conduct a search of Mr. McCarthy's email Inbox to determine whether any responses were received;
+• search Mr. McCarthy's sent email;
+• review the email archives;
+• request a copy of the back-up tapes from the information technology department; or
+• speak to the email recipients to determine whether or not they called Mr. McCarthy to speak to him in relation to the email.
+[31]
+According to Mr. Waxer, the combination of the admitted deceit on the part of Mr. McCarthy, the inadequate action taken by J.J. Barnicke with respect to determining whether information was actually collected, and the findings of the Privacy Commissioner all contribute to the likelihood that there was in fact a collection of Mr. Waxer's personal information.
+[32]
+The Applicant submits that to conclude otherwise would provide a license for organizations and individuals to fish for personal information.
+Respondents' Submissions
+[33]
+The Respondents submit in reply that Mr. Waxer admitted under cross-examination on his affidavit that he has no evidence that Mr. McCarthy or J.J. Barnicke gathered any or disseminated any personal information about him.
+[34]
+The Commissioner investigating the Applicant's complaint was suspicious of the responses given by the Respondents but concluded no evidence existed.
+[35]
+I have reviewed the affidavit of the Applicant and the transcript of the cross-examination on his affidavit. Mr. Waxer does not state in his affidavit that any personal information was collected by the Respondents. Rather he says he
+believes
+they did.
+[36]
+I have similarly reviewed the affidavits of Mr. McCarthy and Mr. Peter Sweeney, Chief Financial Officer for J.J. Barnicke. Mr. McCarthy unequivocally states that he did not receive a response to his email inquiry. His evidence was unchanged in cross-examination on his affidavit. Mr. Sweeney attested in his affidavit that he made inquiries. He acknowledged the limited scope of his inquiry. Nevertheless, he maintained that position on cross-examination of his affidavit. He believed that no reply was received by J.J. Barnicke in response to Mr. McCarthy's email.
+[37]
+The Applicant admitted he has no evidence that that the Respondents collected any personal information about him. He had an opportunity to pursue his suspicions in cross-examination of Mr. McCarthy and Mr. Sweeney and did so without shaking their evidence.
+[38]
+I conclude that the evidence before me fails to establish that the Respondents collected any personal information of the Applicant.
+If there is no evidence, is an attempt to collect personal information contrary to PIPEDA?
+Applicant's Submissions
+[39]
+The Applicant submits that the circumstances of this case can be distinguished from
+Morgan v. Alta Flights (Charters) Inc. et al.
+(2005), 271 F.T.R. 298; 2005 FC 421. Mr. Waxer argues that his case can be distinguished from
+Morgan
+because of the absence of certainty that information was not collected. Mr. Waxer submits that the deceit on the part of Mr. McCarthy, the inadequate investigation by J.J. Barnicke, and the findings of the Privacy Commissioner do not provide certainty that no personal information was gathered.
+[40]
+The Applicant does not argue whether an attempt to collect personal information constitutes the collection of information as contemplated in
+PIPEDA
+.
+Respondents' Submissions
+[41]
+The Respondents argue that their actions do not fit within the ambit of the
+PIPEDA
+. They say that the purpose of the
+PIPEDA
+as stated in section 3 is to ensure that collection, use and disclosure of personal information by commercial organizations respect an individual's privacy. There is nothing in the legislation which speaks to the attempt to gather personal information. The Respondents submit that a request seeking information about an individual to which no response is obtained does not violate the
+PIPEDA
+.
+[42]
+The Respondents submit that where statutory terms are clear and straightforward, they should be understood by their ordinary meaning, and the Courts should not impose additional meaning not intended by Parliament. In this case, the
+PIPEDA
+does not provide protection for the attempted collection of personal information, only the actual collection of information. The Respondents rely on
+Morgan
+above as support for their position.
+[43]
+I am of the view that the issue of an "attempt to collect" is decisive on this point and it is firmly answered by
+Morgan
+. Morgan was a customer service representative of Alta Flights who found a digital recording device attached to the underside of a table in the employee break room. The employee who found the digital recording device may have inadvertently deleted any recordings, thereby assuring that no information could be collected by the employer.
+[44]
+Justice Simon Noël held, in
+Morgan
+, that the only recording was that of the employer testing the device and no communications had been recorded while attached to the underside of the table. At paragraph 20, Justice Noël stated that, "[u]nder
+PIPEDA
+, there is no provision stating that the attempted collection of personal information constitutes a violation of the
+Act
+."
+[45]
+On the appeal to the Federal Court of Appeal, Justice Evans stated in
+Morgan v. Alta Flights (Charters) Inc. et al.
+(2006), 350 N.R. 93; 2006 FCA 121, at para. 4:
+"In our view, since it was not proved that any conversation had been recorded when the device was discovered, the activities in question merely constituted an unsuccessful attempt to collect personal information.
+PIPEDA
+does not expressly prohibit attempts to collect information and the word 'collects' cannot be interpreted to include them.
+" (underlining added)
+[46]
+I find that Mr. McCarthy's attempt to collect personal information about the Applicant does not constitute a violation of
+PIPEDA
+.
+Is the Applicant entitled to damages as against the Respondents McCarthy or J.J. Barnicke in respect of:
+i. the Applicant's collection complaint: or
+ii. the Applicant's accountability complaint?
+[47]
+Since there was no collection or use of the Applicant's personal information and the Applicant's privacy rights under the
+PIPEDA
+were not violated, I need not discuss what damages are available to Mr. Waxer under his collection complaint:
+FRAGMENT_SUPPRESSED.
+Applicant's Submissions
+[48]
+I turn to the Applicant's claim for damages based on the accountability complaint. Mr. Waxer submits that the Privacy Commissioner found his complaint with respect to the Respondent J.J. Barnicke's failure to have practices and policies in place to be well-founded.
+[49]
+The Applicant says the Respondent J.J. Barnicke did not seek a review of this decision and ultimately complied with the directions of the Privacy Commissioner and adopted a privacy program. Mr. Waxer submits that he has suffered a great deal of personal stress as a result of the proceedings and the conduct of the Respondents leading to feelings of humiliation and embarrassment and the insecurity of not knowing what use of any personal information collected. He contends that this damage is unchallenged.
+Respondents' Submissions
+[50]
+The Respondents say as there was no information actually collected and no use of information, there was no violation of
+PIPEDA
+. As such, the Applicant is not entitled to damages.
+[51]
+Section 16 of
+PIPEDA
+provides for a wide range of remedies by the Court including:
+"(c) award damages to the complainant, including damages for any humiliation that the complainant has suffered."
+[52]
+The Applicant initiated the events that lead to his complaint to the Privacy Commissioner by his threatening phone call to Mr. McCarthy's sister. Mr. Waxer initiated the complaint to the Privacy Commissioner. On receipt of the Commissioner's report Mr. Waxer initiated the application for a court hearing on his complaint. I do not accept the proposition that his participation in proceedings before the Privacy Commissioner or this Court can be a basis for awarding damages.
+[53]
+The Privacy Commissioner found that the accountability complaint was well-founded in that J.J. Barnicke did not have appropriate privacy policies or procedures in place. I find it significant that the Commissioner acknowledged J.J. Barnicke brought itself into compliance with
+PIPEDA
+and that the accountability complaint was resolved. I do not find any basis on these facts for a damage award to Mr. Waxer.
+[54]
+Finally, Mr. Waxer asserts that he suffered personal distress and feelings of humiliation and embarrassment. He offers no evidence for these assertions. A reading of the letters that he wrote to the Respondents on an express "with prejudice" basis disclose that he took an aggressive, assertive approach with the Respondents. I do not discern any humiliation or embarrassment in his evidence.
+[55]
+I conclude that the Applicant is not entitled to damages on the accountability complaint.
+COSTS
+[56]
+I have noted that the complaint was initiated by Mr. Waxer in July 2004. After receiving an unfavourable report from the Privacy Commissioner, Mr. Waxer sought judicial review by virtue of this proceeding. Mr. Waxer then brought a motion for a stay in this proceeding to launch a second complaint with the Privacy Commissioner, largely based on the first but with Martha McCarthy as the target of the complaint. The Prothonotary dismissed his motion for a stay and ordered that the costs of the motion be paid by Mr. Waxer to each of the Respondents and the Added Respondent, Martha McCarthy, in any event of the cause.
+[57]
+I also note that Ms. McCarthy was successful in her application to be removed as a respondent and I had awarded her costs in respect of her successful application.
+[58]
+The Applicant was unsuccessful in this application because the outcome remains much as the Privacy Commissioner determined. Since both Respondents, Mr. McCarthy and J.J. Barnicke, were successful in respect of this application, I award them costs.
+[59]
+The Privacy Commissioner is an Added Respondent and does not seek costs, a position I consider to be entirely appropriate.
+CONCLUSION
+[60]
+The application for review is therefore dismissed.
+JUDGMENT
+[61]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. The application for judicial review is dismissed.
+2. Costs are awarded to each of the Respondents, Peter McCarthy and J.J. Barnicke.
+3. No costs are awarded for or against the Privacy Commissioner.
+Application dismissed.
+Editor: E. Joanne Oley/pdk
+[End of document]

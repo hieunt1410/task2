@@ -1,0 +1,487 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Coradix Tech. Consulting Ltd. v. Can. (2006), 307 F.T.R. 116 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2006] F.T.R. TBEd. SE.017 
+ 
+ 
+ 
+ Coradix Technology Consulting Ltd. (applicant) v. The Minister of Public Works and Government Services Canada (respondent) 
+ 
+ (T-881-05; 2006 FC 1030) 
+ 
+ 
+ 
+ Indexed As: Coradix Technology Consulting Ltd. v. Canada (Minister of Public Works and Government Services) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Hansen, J. 
+ 
+ August 25, 2006. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Coradix provided information technology specialists to the federal government. The Minister allowed a Coradix competitor's application for release of information contained in a successful Coradix bid. Coradix sought judicial review. 
+ 
+ 
+ 
+ The Federal Court allowed the application. The Minister was prohibited from disclosing the information. 
+ 
+ 
+ 
+ Crown - Topic 7207 
+ 
+ Examination of public documents - Freedom of information - Bars - Confidentiality - Coradix provided information technology specialists to the federal government - The Minister allowed a Coradix competitor's application for release of information contained in a successful Coradix bid - Coradix sought judicial review - At issue was whether the information had been treated consistently in a confidential manner by Coradix - The Minister asserted that a comparison of the material available on Coradix's website and elsewhere with the information requested demonstrated that a substantial portion was already public - Coradix asserted that the confidentiality statement attached to its bid showed that it had a reasonable expectation that the information would not be disclosed - Further, the information provided greater detail than that on Coradix's website - The Federal Court held that, while there was information sought to be disclosed that was not on Coradix's website, the information as a whole had not been treated in a confidential manner - Regarding the confidentiality statement, there was no indication that the Minister had agreed to exempt the information from disclosure - Coradix failed to establish a reasonable expectation of confidentiality - Nor was it in the public interest or benefit to keep the information confidential - See paragraphs 12 to 24. 
+ 
+ 
+ 
+ Crown - Topic 7210 
+ 
+ Examination of public documents - Freedom of information - Bars - Financial loss - Coradix provided information technology specialists to the federal government - The government evaluated bidders such as Coradix according to corporate qualifications, resource qualifications and price - The Minister allowed a Coradix competitor's application for release of information contained in a successful Coradix bid regarding Coradix's past clients, its service delivery management approach and technical proposal - Coradix sought judicial review - Coradix asserted that because competing bidders drew on the same pool of individuals and there was a floor on the bidding price, corporate qualifications became the key differentiator - Thus, disclosure would compromise its ability to differentiate itself in future negotiations, resulting in prejudice to its competitive position - The Federal Court allowed the application - Read in its entirety, the information constituted Coradix's approach to successful human resource management and quality control - If disclosed, a competitor could replicate that methodology to the detriment of Coradix's competitive position - There was a reasonable expectation of probable harm to Coradix on disclosure - The fact that the requestor was a competitor was relevant in that it made the probability of harm more real - See paragraphs 25 to 33. 
+ 
+ 
+ 
+ Crown - Topic 7220.04 
+ 
+ Examination of public documents - Freedom of information - Bars - Reasonable expectation of probable harm - [See  
+ Crown - Topic 7210 
+ ]. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Air Atonabee Ltd. v. Canada (Minister of Transport) (1989), 27 F.T.R. 194 (T.D.), refd to. [para. 11]. 
+ 
+ Société Gamma Inc. v. Canada (Secretary of State) (1994), 79 F.T.R. 42 (T.D.), refd to. [para. 16]. 
+ 
+ Hi-Rise Group Inc. v. Canada (Minister of Public Works and Government Services) (2004), 318 N.R. 242; 238 D.L.R.(4th) 44 (F.C.A.), refd to. [para. 20]. 
+ 
+ Canada Post Corp. v. Canada (Minister of Public Works and Government Services) (2004), 247 F.T.R. 110 (F.C.), refd to. [para. 23]. 
+ 
+ Canada Packers Inc. v. Canada (Minister of Agriculture) et al., [1989] 1 F.C. 47; 87 N.R. 81 (F.C.A.), refd to. [para. 30]. 
+ 
+ Canadian Pacific Hotels Corp. v. Canada (Attorney General) (2004), 249 F.T.R. 151; 2004 FC 444, refd to. [para. 30]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Benjamin Mills, for the applicant; 
+ 
+ Kris Klein and Jennifer Francis, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ McCarthy Tétrault, Ottawa, Ontario, for the applicant; 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application was heard at Ottawa, Ontario, on May 10, 2006, by Hansen, J., of the Federal Court, who delivered the following reasons for order on August 25, 2006. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Hansen, J. 
+ : This is an application for judicial review pursuant to s. 44 of the  
+ Access to Information Act 
+ , R.S.C. 1985, c. A-1 ( 
+ Act 
+ ), in respect of the Respondent's decision to release certain information contained in the Applicant's winning proposal in a government procurement pursuant to an access to information request. The Applicant claims that the information is exempt from disclosure under paragraphs 20(1)(b) and (c) of the  
+ Act 
+ . 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [2] 
+  The Applicant is a provider of professional services in the field of information technology. The Applicant's core business relates to the provision of staff augmentation services. These services are provided almost exclusively to the federal government through individuals drawn from a network of independent consultants. The Applicant states that the key to its success rests on its quality assurance and human resource management activities. These practices and procedures ensure that those individuals who are providing the services are doing so in a manner that meets the required quality standards. 
+ 
+ 
+ 
+ [3] 
+  The government evaluates the bidders on three categories of information: corporate qualifications, resource qualifications and price. Corporate qualifications refer to a bidder's demonstrated experience and its ability to meet the criteria identified in the request for proposal, such as the approaches and methodologies applied in previous engagements. Resource qualifications refer to the qualifications of the individuals who are providing the information technology service. Here, the Applicant and its competitors recruit from the same pool of independent consultants to provide staff augmentative services. 
+ 
+ 
+ 
+ [4] 
+  Given that the competing bidders draw on the same pool of individuals, the Applicant takes the position that the differentiation between competitors is limited to price and corporate qualifications. In particular, the Applicant notes that because the price is associated with the recruitment of the independent consultants, there is a floor on the bidding price. As a result, corporate qualifications become the key differentiator between competitors and the Applicant's secret to success, so to speak. 
+ 
+ 
+ 
+ [5] 
+  On November 26, 2004, the Access to Information and Privacy Office at the Department of Public Works and Government Services (ATIP) received information requests in connection with the Applicant's winning proposal in a government procurement. After receiving the Applicant's submissions opposing disclosure, the ATIP concluded that portions of the record, in particular the unit price, should be exempted from disclosure. The ATIP also concluded that there was insufficient justification to prevent disclosure of other information such as the Applicant's business methods. 
+ 
+ 
+ 
+ [6] 
+  The information the Applicant asserts should be exempt from disclosure pursuant to paragraphs 20(1)(b) or (c) is underlined in Exhibit 1 to the confidential affidavit of Tony Carmanico sworn August 11, 2005 (Information). In general, the Information contains information about the Applicant's past clients, its service delivery management approach and its technical proposal to the procurement. 
+ 
+ 
+ 
+ Issue 
+ 
+ 
+ 
+ [7] 
+  The issue in this application is whether the Information is exempt from disclosure pursuant paragraphs 20(1)(b) or (c) of the  
+ Act 
+ . 
+ 
+ 
+ 
+ Relevant Statutory Provisions 
+ 
+ 
+ 
+ [8] 
+  Section 2(1) sets outs the legislative objective of ensuring public accessibility to government information and the backdrop to the analysis of this case: 
+ 
+ 
+ 
+ "2(1) The purpose of this Act is to extend the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "2(1) La présente loi a pour objet d'élargir l'accès aux documents de l'administration fédérale en consacrant le principe du droit du public à leur communication, les exceptions indispensables à ce droit étant précises et limitées et les décisions quant à la communication étant susceptibles de recours indépendants du pouvoir exécutif." 
+ 
+ 
+ 
+ [9] 
+  Section 20 of the  
+ Act 
+  allows exemptions from disclosure to third party information in various circumstances: 
+ 
+ 
+ 
+ "20(1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Act that contains 
+ 
+ 
+ 
+ (b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party; 
+ 
+ 
+ 
+ (c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party;" 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "20(1) Le responsable d'une institution fédérale est tenu, sous réserve des autres dispositions du présent article, de refuser la communication de documents contenant: 
+ 
+ 
+ 
+ b) des renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers; 
+ 
+ 
+ 
+ c) des renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité;" 
+ 
+ 
+ 
+ [10] 
+  "Third party" is defined in s. 3 as follows: 
+ 
+ 
+ 
+ "3. In this Act, 
+ 
+ 
+ 
+ 'third party', in respect of a request for access to a record under this Act, means any person, group of persons or organization other than the person that made the request or a government institution." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "3. Les définitions qui suivent s'appliquent à la présente loi. 
+ 
+ 
+ 
+ 'tiers' Dans le cas d'une demande de communication de document, personne, groupement ou organisation autres que l'auteur de la demande ou qu'une institution fédérale." 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ [11] 
+  Both parties agree that a review under s. 44 is a de novo review by the Court:  
+ Air Atonabee Ltd. v. Canada (Minister of Transport) 
+  (1989), 27 F.T.R. 194 (T.D.), at 206. As well, they agree that the onus is on the Applicant to prove that the Information at issue comes within either of the two statutory exemptions relied upon by the Applicant. 
+ 
+ 
+ 
+ A. Paragraph 20(1)(b) - Confidential Information 
+ 
+ 
+ 
+ [12] 
+  In order to bring the Information within the exemption in paragraph 20(1)(b), the Information must meet four criteria. It must be: 
+ 
+ 
+ 
+ 1. financial, commercial, scientific or technical information; 
+ 
+ 
+ 
+ 2. confidential information; 
+ 
+ 
+ 
+ 3. supplied to a government institution by a third party; and 
+ 
+ 
+ 
+ 4. treated consistently in a confidential manner by the third party. 
+ 
+ 
+ 
+ [13] 
+  The Respondent does not dispute that the Information is "financial, commercial, scientific or technical" and that it was "supplied to the government institution by the Applicant". However, the Respondent disputes the confidentiality of the Information and the Applicant's treatment of the Information. 
+ 
+ 
+ 
+ [14] 
+  In  
+ Air Atonabee 
+ , Justice MacKay articulated three criteria against which information may be assessed to determine whether it is objectively confidential. They are: 
+ 
+ 
+ 
+ "a) that the content of the record be such that the information it contains is not available from sources otherwise accessible by the public or that could not be obtained by observation or independent study by a member of the public acting on his own, 
+ 
+ 
+ 
+ b) that the information originate and be communicated in a reasonable expectation of confidence that it will not be disclosed, and 
+ 
+ 
+ 
+ c) that the information be communicated, whether required by law or supplied gratuitously, in a relationship between government and the party supplying it that is either a fiduciary relationship or one that is not contrary to the public interest, and which relationship will be fostered for public benefit by confidential communication." 
+ 
+ 
+ 
+ [15] 
+  The Applicant asserts that there is no evidence to suggest that the content of the Information is available from sources otherwise accessible by the public or that it could be obtained by observation or independent study. The Applicant points out that the fact the Minister had to request the Information indicates that the Minister did not have the Information in his possession. 
+ 
+ 
+ 
+ [16] 
+  The Applicant maintains that the confidentiality statement attached to its bid demonstrates its reasonable expectation that the Information will not be disclosed. It reads: 
+ 
+ 
+ 
+ "This document contains confidential information proprietary to CORADIX Technology Consulting Ltd. The release of any information contained within this document would harm the competitive position of the aforementioned company. This information/data shall not be duplicated, used or disclosed in whole or in part for any purpose other than to evaluate this proposal. The contents of this document are to be revealed only to those individuals directly responsible for its evaluation. Distribution to other parties is not permitted without first obtaining the express written consent of CORADIX Technology Consulting Ltd. 
+ 
+ 
+ 
+ "Moreover, the Applicant submits that the disclosure of the Applicant's confidential commercial information to its competitors will compromise the integrity of future procurements and undermine the competitive bidding process. In particular, the Applicant submits that the use of similar evaluation methodologies for future solicitations and the fact that its competitors will be bidding on those same opportunities qualify as special circumstances mentioned in  
+ Société Gamma Inc. v. Canada (Secretary of State) 
+  (1994), 79 F.T.R. 42 (T.D.), at para. 8 [ 
+ Société Gamma 
+ ] such that the Information ought to be kept confidential subsequent to the awarding of the contract. The Applicant points out that there is no rule that contracting documents should always be disclosed. For example, in this case, the Respondent decided that certain pricing information will be exempt from disclosure." 
+ 
+ 
+ 
+ [17] 
+  The Applicant further contends that various protective measures are taken to maintain the confidentiality of the Information. For example, the Applicant attached a confidentiality statement to its bid, included confidentiality clauses in its employment contracts with full-time employees and independent contractors, and engaged in specific business practices such as storing and maintaining business records in a manner that can only be accessed by authorized individuals. The Applicant argues that the information disclosed on its website is different from the Information; in particular, the Applicant argues that the level of detail that is provided between the two is different. 
+ 
+ 
+ 
+ [18] 
+  In response, the Respondent submits that a comparison of the material available on the Internet, both on the Applicant's corporate website and elsewhere, with the Information demonstrates that a substantial portion of the Information has already been made public. Therefore, not only is the content of the Information available from sources accessible by the public, it has not been consistently treated in a confidential manner by the Applicant. 
+ 
+ 
+ 
+ [19] 
+  With respect to the confidentiality statement, the Respondent argues that the Applicant must show proof that the Respondent had positively assented to abide by the statement. The Respondent states that the statement has no effect in determining whether the Information is objectively confidential because one cannot contract out of the  
+ Act 
+ . 
+ 
+ 
+ 
+ [20] 
+  Furthermore, the Respondent relies on  
+ Hi-Rise Group Inc. v. Canada (Minister of Public Works and Government Services) 
+  (2004), 318 N.R. 242; 238 D.L.R.(4th) 44 (F.C.A.), where the Federal Court of Appeal rejected the argument that information must be kept confidential beyond the end of bidding process and the award of the contract except in special circumstances such as national security. The Respondent submits that the Applicant's corporate resume does not rise to the level of special circumstances akin to national security. Similarly, the Respondent argues that there is no public benefit served by having this type of information kept secret. Instead, the public interest is best served by making the information available about the capacities and qualifications of those parties who win government contracts. Therefore, the Information is not objectively confidential. 
+ 
+ 
+ 
+ [21] 
+  While the Applicant has made efforts to be diligent in terms of maintaining confidentiality in relation to its business, I am not persuaded that based on the generic contractual measures and general good business practices, the Information has been consistently treated in a confidential manner. For example, it is unclear from the evidence what is the "Confidential Information" referred to in the employment contracts. 
+ 
+ 
+ 
+ [22] 
+  Further, a review of the information available in the public domain as attached in Exhibit G to the public affidavit of Robert Fletcher sworn October 18, 2005 and the Information show that there are several instances where the Information is a replicate of the details on the Applicant's website. For example, pages 195 and 196 of Exhibit 1C to the confidential affidavit of Tony Carmanico sworn August 11, 2005 are found verbatim on the Applicant's website (pages 90 and 91 of Exhibit G to the public affidavit of Robert Fletcher sworn October 18, 2005). Moreover, there is no evidence that any password is required to read the above mentioned information on the Applicant's website, yet in another part of the Applicant's webpage (page 87 of Exhibit G to the public affidavit of Robert Fletcher sworn October 18, 2005), a user identification and password are required. While there is information that is not on the Applicant's website, such as details of the Applicant's "Service Delivery Management Approach", I am not persuaded that the Information as a whole has been consistently treated in a confidential manner. 
+ 
+ 
+ 
+ [23] 
+  Aside from the fact that part of the Information is accessible by the public on the Internet, I am not satisfied that the Applicant's circumstance is an exception as indicated in  
+ Société Gamma 
+ . The Federal Court of Appeal stated in  
+ Hi-Rise Group 
+  at paragraph 41 that absent special circumstances such as national security, there is no rationale for extending secrecy over the information in issue beyond the time when the bidder's proposal is accepted and public funds are committed. As well, this Court also stated in  
+ Canada Post Corp. v. Canada (Minister of Public Works and Government Services) 
+ , [2004] F.C.J. No. 415; 247 F.T.R. 110 (F.C.), at paragraph 40 that a potential bidder for a government contract knows, or should know that their bidding documents will not remain insulated from the government's obligation to disclose as part of its accountability for the expenditure of public funds. Although the Applicant may have wished the Information to be kept confidential by inserting a confidentiality statement, there is no indication that the Respondent agreed to exempt the Information from disclosure. 
+ 
+ 
+ 
+ [24] 
+  For these reasons, I conclude that the Applicant has failed to establish a reasonable expectation that the Information would not be disclosed. Nor am I satisfied that it is in the public interest and benefit for the Information to be kept confidential. 
+ 
+ 
+ 
+ B. Paragraph 20(1)(c) - Prejudice to Competitive Position 
+ 
+ 
+ 
+ [25] 
+  The Applicant takes the position that disclosure of the Information will result in prejudice to its competitive position in future solicitations. Since future solicitations will require similar mandatory criteria and those criteria will be evaluated using the same methodology as was used in connection with the successful bid at issue in the present case, for the most part, future bids will contain much of the same information. 
+ 
+ 
+ 
+ [26] 
+  In particular, the Applicant claims that disclosure will compromise its ability to differentiate itself on the basis of corporate qualifications. Because the Applicant and its competitors all draw on the same pool of information technology specialists in the community to provide the required services, the industry is becoming increasingly "commoditized". Since all of the bidders are essentially able to offer the same commodity, apart from price, the Applicant is only able to differentiate itself from its competitors on the basis of its methodologies and approaches to human resource management and quality control. 
+ 
+ 
+ 
+ [27] 
+  Further, the Applicant claims that if its ability to differentiate itself on the basis of corporate qualifications is compromised, its only recourse would be to differentiate itself on the basis of price which will result in either financial hardship or a loss of contracts. 
+ 
+ 
+ 
+ [28] 
+  Finally, the Applicant maintains that, although it is not a determinative factor, the fact that the requestor is one of the Applicant's competitors is particularly relevant to the consideration of probability of harm in that the harm is more real. 
+ 
+ 
+ 
+ [29] 
+  The Respondent asserts that the identity of the requestor is not a relevant consideration when determining the application of exemptions because the Respondent is not to take into account the identity of the requestor as the  
+ Act 
+  makes the information equally available to all members of the public. As well, the Respondent contends that the Applicant's assertions about potential harm is speculative, especially since the Information is merely a description of the Applicant's past performance and the Applicant's competitors cannot change their history or "corporate resumes" in future solicitations. Further, the Applicant's evidence of their uniqueness is not evidence describing harm. 
+ 
+ 
+ 
+ [30] 
+  In  
+ Canada Packers Inc. v. Canada (Minister of Agriculture) et al. 
+ , [1989] 1 F.C. 47; 87 N.R. 81 (F.C.A.), the Federal Court of Appeal held that the person resisting disclosure bears the burden of demonstrating on a balance of probabilities that there is a reasonable expectation of probable harm. Simple assertions that disclosure will prejudice the Applicant's financial or competitive positions is insufficient. The Applicant must provide detailed and convincing evidence that demonstrates a direct link between disclosure and the alleged harm:  
+ FRAGMENT_SUPPRESSED. 
+ 
+ 
+ 
+ [31] 
+  On a s. 44 review, the Court must engage in a detailed scrutiny of the information to determine whether all or parts of the information should be withheld from disclosure. In the present case, there are a number of instances where when read in isolation it is not readily apparent how the disclosure of a specific item could compromise the Applicant's competitive position. However, when read in its entirety, it becomes apparent that it is the composite of these various business and management strategies that constitute the Applicant's methodology and approach to its core business, successful human resource management and quality control. Viewed in this light, it becomes evident that should the Information be disclosed, a competitor could implement or replicate the Applicant's methodology in subsequent bids to its competitive advantage and to the detriment of the Applicant's competitive position. 
+ 
+ 
+ 
+ [32] 
+  Having regard to the uncontradicted evidence relied upon by the Applicant consisting of the "commoditized" nature of the industry, the government's past requests for proposals, the government's methodology used to evaluate the proposals, the importance of differentiation on the basis of corporate qualifications, the criteria the government will likely use in future solicitations and the fact that the Applicant's core business is in its unique approach to quality assurance and human resource management, I am satisfied on a balance of probabilities that the Applicant has a reasonable expectation of probable harm if the Information is disclosed. 
+ 
+ 
+ 
+ [33] 
+  I also wish to add that in my view the identity of the requester is an irrelevant consideration. Indeed, it was acknowledged that the name of the requester became known through inadvertence. 
+ 
+ 
+ 
+ Conclusion 
+ 
+ 
+ 
+ [34] 
+  For these reasons, I conclude that the Information is exempt from disclosure pursuant to paragraph 20(1)(c) of the  
+ Act 
+ . The application for judicial review is allowed with costs to the Applicant. The final order will also reflect an order made at the hearing of this matter substituting The Minister of Public Works and Government Services Canada for the Access to Information and Privacy Public Works Government Services Canada as Respondent in this proceeding. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [35] 
+  THIS COURT ORDERS that: 
+ 
+ 
+ 
+ 1. The style of cause is amended by substituting The Minister of Public Works and Government Services Canada for Access to Information and Privacy Public Works Government Services Canada as the Respondent. 
+ 
+ 
+ 
+ 2. The application for judicial review is allowed with costs to the Applicant. 
+ 
+ 
+ 
+ 3. Pursuant to s. 51 of the  
+ Access to Information Act 
+ , R.S.C. 1985, c. A-1, the Minister is prohibited from disclosing the information contained in Exhibit "1" of the Affidavit of Tony Carmanico. 
+ 
+ 
+ 
+ Application allowed. 
+ 
+ 
+ 
+ Editor: Sharon McCartney/gs 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

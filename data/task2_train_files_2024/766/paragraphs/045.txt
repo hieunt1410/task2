@@ -1,0 +1,23 @@
+[45]
+I find support for this view in the comprehensive justiciability analysis carried out by Justice Richard Mosley in
+Canadian Union of Public Employees
+, above. That case involved allegations that the Minister of Health had failed to carry out certain statutory duties imposed by the
+Canada Health Act
+, R.S.C. 1985, c. C-6, related to provincial compliance with the national healthcare standards. Among other claims for relief, the applicants sought a declaration that the mandated
+Canada Health Act
+Annual Report was not sufficiently comprehensive in dealing with the issue of provincial compliance. It was also argued that the Minister had disregarded his statutory authority to compel provincial compliance and had thereby exercised his discretion in a way that frustrated the purpose of the legislation. The Minister took the position that his statutory reporting function involved a policy-laden duty owed solely to Parliament; as such it was not justiciable. The Court sided with the Minister for the following reasons:
+"39 As stated by Chief Justice Dickson in
+Canada (Auditor General) v. Canada (Minister of Energy, Mines & Resources)
+, supra at pp. 90-91, a determination of whether a matter is justiciable is:
+'... first and foremost, a normative inquiry into the appropriateness as a matter of constitutional judicial policy of the courts deciding a given issue, or instead, deferring to other decision-making institutions of the polity ... There is an array of issues which calls for the exercise of judicial judgment on whether the questions are properly cognizable by the courts. Ultimately, such judgment depends on the appreciation by the judiciary of its own position in the constitutional scheme.'
+"40 In the view of this member of the judiciary, while this application raises important questions, they are of an inherently political nature and should be addressed in a political forum rather than in the courts.
+"41 The
+Act
+requires that the annual report tabled by the Minister be laid before each House of Parliament, thus indicating that Parliament's intention in creating this obligation was to provide for review and debate on the content of the reports by Parliament itself. Allegations of informational deficiencies with such reports are, therefore, to be addressed and dealt with by that branch of government, and not, in my view, by the judiciary. It is not for the courts to usurp the role of Parliament in determining the nature and quality of the information it has deemed necessary to conduct its functions. As stated by Justice McLachlin, as she then was, in
+New Brunswick Broadcasting Co. v. Nova Scotia (Speaker of the House of Assembly)
+, [1993] 1 S.C.R. 319 at p. 389:
+'... Our democratic government consists of several branches: the Crown, as represented by the Governor General and the provincial counterparts of that office; the legislative body; the executive; and the courts. It is fundamental to the working of government as a whole that all these parts play their proper role. It is equally fundamental that no one of them overstep its bounds, that each show proper deference for the legitimate sphere of activity of the other.'
+"42 The Minister's duty to report to Parliament on an annual basis as to provincial compliance with the
+Act's
+criteria and conditions is clear. The determination of what constitutes 'all relevant information' for the purpose of the reporting requirement is appropriately determined by the Minister, in consultation with the provinces, and is subject to policy and political concerns, the parameters of which it is not for this Court to determine. The Minister is accountable to Parliament for the scope and accuracy of the information the report contains. I agree with the respondent that the section 23 obligation is one owed to Parliament and not to the applicants or the public at large although requiring production of an annual report will necessarily inform public debate on the subject. Any remedy, therefore, with regards to fulfilling the section 23 obligation lies within Parliament and not with the courts."
+IV. Conclusion

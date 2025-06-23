@@ -1,0 +1,19 @@
+[35]
+I turn then to the Pfizer patent. The '076 Patent has eleven claims. All of the claims depend upon claim 1. That claim reads:
+"1. A process for preparing a compound of the formula: -
+[Tables and diagrams may be omitted from electronic products or lose their format].
+(I)
+or a pharmaceutically acceptable salt thereof, which comprises
+"(a) reacting 1,2,4-triazole or an acid addition salt thereof with a compound of the formula: -
+[Tables and diagrams may be omitted from electronic products or lose their format].
+(II)
+or with an acid addition salt thereof;
+"(b) reacting 1,2,4-triazole or an acid addition salt thereof with a compound of formula IV
+[Tables and diagrams may be omitted from electronic products or lose their format].
+(IV)
+wherein Q is a facile leaving group; or
+"(c) reacting 1,2,4-triazole or an acid addition salt thereof with a compound of the formula V: -
+[Tables and diagrams may be omitted from electronic products or lose their format].
+(V)
+wherein Ha1 is a halogen atom;
+and if required converting the compound of formula I into a pharmaceutically acceptable salt thereof."

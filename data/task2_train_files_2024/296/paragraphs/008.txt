@@ -1,0 +1,24 @@
+[8]
+On a reading of s. 44 of the
+Income Tax Act
+, the form of an election thereunder is not quite clear. Some assistance, though not necessarily determinative, may be had from paragraph 2(e) of
+Interpretation Bulletin IT-259R2
+, which states that in order to benefit from the tax deferral, the taxpayer must make a valid election. In paragraph 7 of that same bulletin it is stated:
+"7. A taxpayer must elect to have the provisions of subs. 44(1), 13(4) and 14(6) apply.
+The election should be made as follows
+:
+(a) If the disposition and replacement takes [sic] place in the
+same year, the calculation of
+the recaptured capital cost allowance, the amount payable (net of outlays or expenses) under subparagraph 14(5)(a)(iv) by reason of subs. 14(6)
+or the capital gain under the provisions of subs. 13(4) or 44(1) in the taxpayer's return of income will be considered to constitute an election
+.
+(b) If the property is not replaced until a
+subsequent year
+, the election should take the form of a
+letter
+attached to the return of income for the year the replacement property is acquired. The letter should include a description of the replacement property and the former property, a request for an adjustment to the recapture of capital cost allowance, the taxable capital gain reported or the amount included in income by virtue of subs. 14(1) in a prior year, and a calculation of the revised recapture, taxable capital gain or cumulative eligible capital.
+(c) If the replacement property is acquired
+prior
+to the year of disposition of the property, the election to apply subsections ..., 44(1) ... should take the form of a
+letter
+attached to a return of income for the year in which the replacement property is acquired ..." (underlining mine)

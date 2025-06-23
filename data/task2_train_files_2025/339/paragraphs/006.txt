@@ -1,0 +1,2 @@
+[6]
+Classification in the federal public service is determined according to a Classification Standard. Once a position is identified as belonging to a particular classification group, it is assessed against a number of criteria and given an alpha-numeric code for each criteria. Each alpha-numeric code translates to a certain number of "points". The classification level of a position is then calculated according to the number of points earned under this system.

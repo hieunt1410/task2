@@ -1,0 +1,602 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hall v. Can. (A.G.) (2013), 439 F.T.R. 51 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ [French language version follows English language version] 
+ 
+ 
+ 
+ [La version française vient à la suite de la version anglaise] 
+ 
+ 
+ 
+ ......................... 
+ 
+ 
+ 
+ Temp. Cite: [2013] F.T.R. TBEd. SE.024 
+ 
+ 
+ 
+ George Hall (applicant) v. Attorney General of Canada (respondent) 
+ 
+ (T-5-13; 2013 FC 933; 2013 CF 933) 
+ 
+ 
+ 
+ Indexed As: Hall v. Canada (Attorney General) 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Crampton, C.J. 
+ 
+ September 4, 2013. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The Commissioner of the Correctional Service of Canada refused the applicant's request for a reduction in his security classification and a transfer to a minimum security facility. The applicant applied for judicial review. 
+ 
+ 
+ 
+ The Federal Court allowed the application in part. The court set aside the Commissioner's decision and remitted it to him for a new assessment where he failed to perform a de novo review. The court rejected the applicant's submission that the grievance process was neither fair nor effective, due to the delay of approximately 44 working days in reaching the third level grievance decision and delivering it to him. Accordingly, the court denied his request for a declaration in that regard. 
+ 
+ 
+ 
+ Administrative Law - Topic 2158 
+ 
+ Natural justice - Administrative decisions or findings - Delay - [See  
+ Prisons - Topic 1027 
+ ]. 
+ 
+ 
+ 
+ Prisons - Topic 1009 
+ 
+ Administration - General - Grievances - [See  
+ Prisons - Topic 1027 
+ ]. 
+ 
+ 
+ 
+ Prisons - Topic 1027 
+ 
+ Administration - Powers re prisoners - Classification - The Commissioner of the Correctional Service of Canada refused Hall's request for a reduction in his security classification and a transfer to a minimum security facility - The Federal Court set aside the Commissioner's decision and remitted it to him for a new assessment - Apart from addressing one single new argument made by Hall, there was virtually nothing in the Commissioner's decision which might reasonably reflect that he personally assessed the issues raised by Hall in his grievance and supplementary submissions, and that he reached his own conclusion regarding their merits - The Commissioner concluded that the Warden's decision had been made in accordance with policy and in consideration of all available evidence - However, Hall was entitled to have his grievance heard afresh, and to present new arguments and evidence that had not been presented to the Warden and the Regional Deputy Commission - The appeal was supposed to be a de novo review - However, the court rejected Hall's submission that the grievance process was neither fair nor effective, due to the delay of approximately 44 working days in reaching the third level grievance decision and delivering it to him - Accordingly, the court denied his request for a declaration in that regard. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Alberta Teachers' Association v. Information and Privacy Commissioner (Alta.) et al., [2011] 3 S.C.R. 654; 424 N.R. 70; 519 A.R. 1; 539 W.A.C. 1; 2011 SCC 61, refd to. [para. 21]. 
+ 
+ New Brunswick (Board of Management) v. Dunsmuir, [2008] 1 S.C.R. 190; 372 N.R. 1; 329 N.B.R.(2d) 1; 844 A.P.R. 1; 2008 SCC 9, refd to. [para. 23]. 
+ 
+ Khosa v. Canada (Minister of Citizenship and Immigration) (2009), 385 N.R. 206; 2009 SCC 12, refd to. [para. 24]. 
+ 
+ Spidel v. Canada (Attorney General) (2012), 416 F.T.R. 197; 2012 FC 958, refd to. [para. 28]. 
+ 
+ Rose et al. v. Canada (Attorney General), [2011] F.T.R. Uned. 901; 2011 FC 1495, refd to. [para. 35]. 
+ 
+ Riley v. Canada (Attorney General) (2011), 403 F.T.R. 75; 2011 FC 1226, refd to. [para. 35]. 
+ 
+ Tyrrell v. Canada (Attorney General) (2008), 322 F.T.R. 236; 2008 FC 42, refd to. [para. 35]. 
+ 
+ Newfoundland and Labrador Nurses' Union v. Newfoundland and Labrador (Treasury Board) et al., [2011] 3 S.C.R. 708; 424 N.R. 220; 317 Nfld. & P.E.I.R. 340; 986 A.P.R. 340; 2011 SCC 62, refd to. [para. 37]. 
+ 
+ May et al. v. Ferndale Institution et al., [2005] 3 S.C.R. 809; 343 N.R. 69; 220 B.C.A.C. 1; 362 W.A.C. 1; 2005 SCC 82, refd to. [para. 42]. 
+ 
+ Hutchison v. Canada (Attorney General), [2010] O.T.C. Uned. 535; 2010 ONSC 535, refd to. [para. 42]. 
+ 
+ Wilson v. Canada (Attorney General) (2012), 403 F.T.R. 287; 2012 FC 57 [para. 50]. 
+ 
+ Ouellette v. Canada (Attorney General), [2012] F.T.R. Uned. 352; 2012 FC 801, refd to. [para. 50]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Eric Purtzki, for the applicant; 
+ 
+ Megan F. Volk, for the respondent. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Gratl Purtzki, Vancouver, British Columbia, for the applicant; 
+ 
+ William F. Pentney, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent. 
+ 
+ 
+ 
+ This application for judicial review was heard at Vancouver, British Columbia, on August 15, 2013, by Crampton, C.J., of the Federal Court, who delivered the following decision at Ottawa, Ontario, on September 4, 2013. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Crampton, C.J. 
+ : This is an application for judicial review of a decision by the Commissioner of the Correctional Service of Canada [Commissioner] to refuse the Applicant's request for a reduction in his security classification and a transfer to a minimum security facility. 
+ 
+ 
+ 
+ [2] 
+  The Applicant, Mr. Hall, submits that the Commissioner erred by: 
+ 
+ 
+ 
+ a. Failing to conduct an independent and  
+ de novo 
+  assessment of his grievance; 
+ 
+ 
+ 
+ b. Rendering an unreasonable decision; and 
+ 
+ 
+ 
+ c. Making a decision in bad faith. 
+ 
+ 
+ 
+ [3] 
+  In addition, Mr. Hall seeks a declaration that the grievance process in this case was not fair or effective due to unjustified delays by the Commissioner in reaching his decision and delivering it to Mr. Hall. 
+ 
+ 
+ 
+ [4] 
+  For the reasons that follow, I agree that the Commissioner did not in fact conduct an independent and  
+ de novo 
+  assessment of Mr. Hall's grievance. The Commissioner's decision will therefore be set aside and remitted to him for a new assessment, in accordance with these reasons. 
+ 
+ 
+ 
+ [5] 
+  For the reasons set forth in Part V.B. of this judgment, the declaration sought by Mr. Hall will not be granted. 
+ 
+ 
+ 
+ I.  
+ Background 
+ 
+ 
+ 
+ [6] 
+  Mr. Hall is 49 years of age. He is serving an indeterminate sentence in the federal correctional system. He is currently housed at the Regional Treatment Center, a medium security prison located in Abbotsford, British Columbia. 
+ 
+ 
+ 
+ [7] 
+  In 1995, he was declared and sentenced as a "dangerous offender," following convictions for offences including sexual assault and kidnapping. 
+ 
+ 
+ 
+ [8] 
+  The following year, after serving a period of time in a maximum security institution 
+ , 
+  his security classification was downgraded to "medium security" and he was transferred to a medium security institution. 
+ 
+ 
+ 
+ [9] 
+  In 2005, his security classification was downgraded again and he was transferred to a minimum security institution in British Columbia. 
+ 
+ 
+ 
+ [10] 
+  However, in 2008, as a result of a federal policy change that was enacted in respect of all dangerous offenders in minimum security institutions, Mr. Hall was transferred back to a medium security institution. It appears to be common ground between the parties that this transfer occurred solely because of the policy change, and may not otherwise have occurred. Among other things, Mr. Hall's reclassification to that of "medium security" was principally based on the fact that he was assessed as needing to (i) take a "more flexible approach to treatment" and (ii) better address his family violence issues and daily logs. 
+ 
+ 
+ 
+ [11] 
+  In early 2009, Mr. Hall applied to be transferred back to a minimum security institution. However, in August 2009, his application was refused on the ground that he was due to be referred to the High Intensity Family Violence Programming. 
+ 
+ 
+ 
+ [12] 
+  In 2011, he made another application to be transferred to a minimum security institution. When that application was rejected, he filed what is known as a "first level" grievance with the Warden, also known as the Executive Director, of the institution where he is incarcerated. 
+ 
+ 
+ 
+ [13] 
+  In November, 2011, the Warden, sitting together with the Offender Management Review Board [OMRB], recommended the approval of Mr. Hall's request for a transfer to William Head Institution, a minimum security institution, as well as the lowering of his security rating to "minimum." 
+ 
+ 
+ 
+ [14] 
+  In accordance with the Commissioner's  
+ Directive 710-6 
+ , and in particular the provisions therein regarding the transfer of dangerous offenders to a minimum security institution, the Warden forwarded the recommendation of the OMRB to the Regional Deputy Commission [RDC]. The RDC did not agree with the OMRB's recommendation. In brief, although he agreed with the recommendation that Mr. Hall be considered as presenting a low escape risk, he assessed his public safety risk (in the event of an escape) to be moderate. Based on that conclusion, he recommended that the reclassification of Mr. Hall's security risk from medium to minimum not be approved. 
+ 
+ 
+ 
+ [15] 
+  After reviewing the RDC's recommendation, the Warden concurred with it and decided to maintain Mr. Hall's security risk at the level of "medium." He therefore declined to approve Mr. Hall's request to be transferred to a minimum security institution. 
+ 
+ 
+ 
+ [16] 
+  Pursuant to s. 80(1) of the  
+ Corrections and Conditional Release Regulations 
+ , SOR/92-620 [Regulations], where an offender is not satisfied with a decision of the institutional head respecting the offender's grievance, the offender may appeal the decision to the head of the region. This is also known as a "second level" grievance. Given the involvement of the RDC in Mr. Hall's first level grievance, it was agreed that Mr. Hall would be permitted to appeal the Warden's decision directly to the Commissioner, pursuant to s. 80(2). Such appeals are also known as "third level" grievances. 
+ 
+ 
+ 
+ II.  
+ The Decision Under Review 
+ 
+ 
+ 
+ [17] 
+  The Commissioner began by noting that Mr. Hall had raised concerns regarding the RDC's recommendation not to approve his request to transfer to a minimum security institution. He then proceeded to summarize a positive assessment of Mr. Hall that had been conducted in September 2011. This was followed by a brief summary of the initial recommendation that had been made by the OMRB. 
+ 
+ 
+ 
+ [18] 
+  The Commissioner then provided a detailed summary of the RDC's recommendation and the reasons supporting that recommendation. 
+ 
+ 
+ 
+ [19] 
+  After noting that the Warden concurred with the RDC's recommendation and therefore declined to approve Mr. Hall's transfer request, the Commissioner reiterated that the recommendations of his Case Management Team [CMT] and the RDC "were, in fact, considered." He concluded by stating: 
+ 
+ 
+ 
+ After careful consideration of all available information, it was determined that you would be most appropriately classified as a Moderate Public Safety Risk with an overall [Offender Security Level] of Medium security. Although the RDC provides a recommendation, the Institutional Head is considered the final decision maker in accordance with CD 710-6, paragraphs 5 & 19, which state ... 
+ 
+ 
+ 
+ In light of the above, it was found that the final decision by the [Warden] was made in accordance with policy and in consideration of all available information. Your grievance is, therefore, denied. 
+ 
+ 
+ 
+ III.  
+ Issues 
+ 
+ 
+ 
+ [20] 
+  This application raises the following issues: 
+ 
+ 
+ 
+ a. Did the Commissioner err by failing to conduct an independent and  
+ de novo 
+  assessment of Mr. Hall's grievance? 
+ 
+ 
+ 
+ b. Did the Commissioner render an unreasonable decision? 
+ 
+ 
+ 
+ c. Did the Commissioner make a decision in bad faith? 
+ 
+ 
+ 
+ d. Was the grievance procedure in this case unfair and ineffective, due to unjustified delays? 
+ 
+ 
+ 
+ IV.  
+ Standard of Review 
+ 
+ 
+ 
+ [21] 
+  The first issue raised concerns the Commissioner's interpretation of his mandate pursuant to s. 80(2) of the Regulations. Where an administrative decision-maker is interpreting his or her own statute, or a statute closely connected to the decision-maker's function, with which he or she has particular familiarity, deference will usually result. This principle applies unless the interpretation of the statute falls into one of the categories of questions to which the correctness standard continues to apply, i.e., (i) constitutional questions, (ii) questions of law that are of central importance to the legal system as a whole and that are outside the adjudicator's expertise, (iii) questions regarding the jurisdictional lines between two or more competing specialized tribunals, and (iv) true questions of jurisdiction or  
+ vires 
+  ( 
+ Alberta (Information and Privacy Commissioner) v Alberta Teachers' Association 
+ , 2011 SCC 61, [2011] 3 SCR 654 [ 
+ Alberta Teachers 
+ ], at para 30). 
+ 
+ 
+ 
+ [22] 
+  It is readily apparent that the Commissioner's interpretation of his mandate pursuant to s. 80(2) of the Regulations does not involve a constitutional question, a question of central importance to the legal system as a whole, or a question regarding the jurisdictional lines between two or more competing specialized tribunals. In my view, the Commissioner's interpretation of his mandate also is not one of the exceptional instances of statutory interpretation that may reasonably be characterized as involving a true question of jurisdiction or  
+ vires 
+  ( 
+ Alberta Teachers 
+ , above, at paras 33-43). This is particularly so given the absence of any demonstration of why this Court should not review this issue on the deferential standard of reasonableness ( 
+ Alberta Teachers 
+ , above, at para 39). 
+ 
+ 
+ 
+ [23] 
+  The second issue raised in this proceeding, concerning the reasonableness of the Commissioner's decision, is reviewable on a standard of reasonableness ( 
+ Dunsmuir v New Brunswick 
+ , 2008 SCC 9 [ 
+ Dunsmuir 
+ ], at paras 51-53). 
+ 
+ 
+ 
+ [24] 
+  The third and fourth issues raised in this proceeding, concerning bias and fairness, are reviewable on a standard of correctness ( 
+ Dunsmuir 
+ , above, at paras 55, 79;  
+ Canada (Minister of Citizenship and Immigration) v Khosa 
+ , 2009 SCC 12, [2009] 1 SCR 339, at para 43). 
+ 
+ 
+ 
+ V.  
+ Analysis 
+ 
+ 
+ 
+ A. Did the Commissioner fail to conduct an independent and  
+ de novo 
+  review? 
+ 
+ 
+ 
+ [25] 
+  Mr. Hall submits that the Commissioner erred by failing to conduct a  
+ de novo 
+  review of his request for a transfer to a minimum security institution and by asking himself the wrong question. Mr. Hall maintains that, instead of personally assessing his request  
+ de novo 
+ , the Commissioner simply asked himself whether the Warden's decision was "in accordance with policy and in consideration of all available information." I agree. 
+ 
+ 
+ 
+ [26] 
+  The Respondent submits that the Commissioner reviewed all of the evidence, detailed the key issues, addressed relevant new arguments, set out the Warden's decision and satisfied himself that the Warden's decision was correct. 
+ 
+ 
+ 
+ [27] 
+  The Commissioner did indeed review much of the evidence. He also detailed some of the key issues and addressed one of the new arguments made by Mr. Hall, namely, his submission that Correctional Service Canada [CSC] has a duty to ensure that offenders are housed in the least restrictive environment. In this latter regard, the Commissioner stated that section 4(c) of the  
+ Corrections and Conditional Release Act 
+ , SC 1992, c 20 [CCRA] had been modified to provide that the CSC use "measures that are consistent with the protection of society and that are necessary and proportionate to attain the purposes of this Act." Based on that amendment, the Commissioner observed that the "least restrictive measure" is no longer considered to be the appropriate test. 
+ 
+ 
+ 
+ [28] 
+  However, apart from addressing that one single new argument made by Mr. Hall, there is virtually nothing in the Commissioner's decision which might reasonably reflect that he personally assessed the issues raised by Mr. Hall in his grievance and supplementary submissions, and that he reached his own conclusion regarding their merits ( 
+ Spidel v Canada (Attorney General) 
+ , 2012 FC 958, at paras 70-73, 82). 
+ 
+ 
+ 
+ [29] 
+  It is clear that the Commissioner concluded that the Warden's decision was made in accordance with policy and in consideration of all available evidence. But that was not the question before him. The question before him was whether he, the Commissioner, considered that Mr. Hall's request for a transfer should be approved or denied, based on his own assessment of the record. 
+ 
+ 
+ 
+ [30] 
+  After reviewing the findings of the RDC and the final decision reached by the Warden, the Commissioner concluded the "decision" under review by simply referring again to positions taken by those two individuals. He did so in four sentences, before then stating: "Your grievance is, therefore, denied." 
+ 
+ 
+ 
+ [31] 
+  In the first of those sentences, the Commissioner stated: "In conclusion and reiteration of what was noted in the final decision by the [Warden], recommendations from both your CMT and the RDC were, in fact, considered." In my view, the words "in fact" make it clear that the Commissioner was referring to the Warden's decision. He was simply reiterating that the recommendations of the CMT and the RDC were considered  
+ by the Warden 
+ . 
+ 
+ 
+ 
+ [32] 
+  In the second of the four sentences, the Commissioner stated: "After careful consideration of all available information, it was determined that you would be most appropriately classified as a Moderate Public Safety Risk with an overall [Offender Security Level] of Medium security." Again, this appears to refer to the Warden's decision. This interpretation is supported by the following sentence, i.e., the third of the four sentences in question, in which the Commissioner stated: "Although the RDC provides a recommendation, the Institutional Head is considered the final decision maker in accordance with CD 710-6, paragraphs 5 & 19, which state ..." 
+ 
+ 
+ 
+ [33] 
+  In the fourth of the sentences in his conclusion, the Commissioner stated: "In light of the above, it was found that the final decision by the [Warden] was made in accordance with policy and in consideration of all available information." As noted above, this was not the decision that the Commissioner was called upon to make. 
+ 
+ 
+ 
+ [34] 
+  Section 80(2) of the Regulations provide offenders with a right to "appeal" the decision of the RDC to the Commissioner, where the offender "is not satisfied with the decision of the [RDC] respecting the offender's grievance." As previously noted, given that the RDC had already been involved in the matter, when he provided his recommendation to the Warden, it was agreed that Mr. Hall could appeal directly to the Commissioner without first appealing to the RDC. 
+ 
+ 
+ 
+ [35] 
+  This right of appeal entitled Mr. Hall to a  
+ de novo 
+  review of his grievance by the Commissioner ( 
+ Rose v Canada (Attorney General) 
+ , 2011 FC 1495, at para 45;  
+ Riley v Canada (Attorney General) 
+ , 2011 FC 1226, at para 21;  
+ Tyrrell v Canada (Attorney General) 
+ , 2008 FC 42, at paras 37-38). In other words, Mr. Hall was entitled to have his grievance heard afresh, and to present new arguments and evidence that had not been presented to the Warden and the RDC ( 
+ Tyrrell 
+ , above). 
+ 
+ 
+ 
+ [36] 
+  Unfortunately for everyone involved, the Commissioner conducted no such  
+ de novo 
+  review or fresh and independent assessment of Mr. Hall's grievance. Had he done so, I acknowledge that the record is such that he may well have reasonably reached the same decision as that which was reached by the Warden and the RDC. However, he did not. I am therefore unable to give respectful attention to his assessment because he independently conducted no such assessment ( 
+ Alberta Teachers 
+ , above, at para 52). 
+ 
+ 
+ 
+ [37] 
+  If the Commissioner had even given some meaningful indication that he had personally engaged in his own, independent, assessment of the pith and substance of Mr. Hall's grievance, it would not have been difficult for the Court to supplement those reasons, from the fulsome record that was before the Commissioner ( 
+ Newfoundland and Labrador Nurses' Union v Newfoundland and Labrador (Treasury Board) 
+ , 2011 SCC 62, [2011] 3 SCR 708, at paras 12-15). However, he did not. 
+ 
+ 
+ 
+ [38] 
+  It is therefore appropriate to set aside the Commissioner's decision and remit the matter to him for the purpose of providing his own fresh,  
+ de novo 
+ , assessment of Mr. Hall's grievance and reasons which reflect that assessment ( 
+ Alberta Teachers 
+ , above, at para 55). 
+ 
+ 
+ 
+ [39] 
+  It is unnecessary to consider the second and third issues raised by the Applicant. 
+ 
+ 
+ 
+ B. Was the grievance procedure in this case ineffective, due to unjustified delays? 
+ 
+ 
+ 
+ [40] 
+  Mr. Hall seeks a declaration that the grievance process in his case was not fair or effective due to unjustified and undue delay. I disagree. 
+ 
+ 
+ 
+ [41] 
+  Section 90 of the CCRA states as follows: 
+ 
+ 
+ 
+ Grievance procedure 
+ 
+ 
+ 
+ 90. There shall be a procedure for fairly and expeditiously resolving offenders' grievances on matters within the jurisdiction of the Commissioner, and the procedure shall operate in accordance with the regulations made under paragraph 96(u). 
+ 
+ 
+ 
+ [42] 
+  Mr. Hall emphasizes that the delay in this case was particularly glaring because the subject of the grievance, that he remain in a more restrictive setting, directly affected his liberty interests ( 
+ May v Ferndale 
+ , [2005] 3 SCR 809, at para 76;  
+ Hutchison v Canada 
+   
+ (Attorney General) 
+ , 2010 ONSC 535, at paras 30-35). 
+ 
+ 
+ 
+ [43] 
+  Mr. Hall further notes that section 80(3) of the Regulations requires the Commissioner to provide an offender who has filed a third level grievance with his decision and the reasons for the decision "as soon as practicable after the offender submits an appeal." 
+ 
+ 
+ 
+ [44] 
+  Mr. Hall submitted his grievance to the Commissioner on March 20, 2012. On April 23, 2012, after some negotiations concerning whether Mr. Hall would be permitted to by-pass the second level grievance procedure and proceed directly to an appeal to the Commissioner, CSC wrote to Mr. Hall to advise him that his grievance would be forwarded to the Commissioner for a decision. The Commissioner acknowledged receipt of the grievance on May 4, 2012 and stated that it would be managed in accordance with the Commissioner's Directive 081 -  
+ Offender Complaints and Grievances 
+  [CD 081]. Paragraph 18 of that document states that the Commissioner will respond to a third-level grievance of "routine priority" within 80 working days of receipt by the Grievance Coordinator. 
+ 
+ 
+ 
+ [45] 
+  On August 20, 2012, the analyst to whom Mr. Hall's grievance had been assigned wrote to Mr. Hall to advise that the estimated timeframe for providing the Commissioner's response would not be met. After noting that "further investigation is required to permit a thorough analysis into the issues identified in your presentation," the analyst advised that a response was expected to be finalized on or before October 2, 2012. In concluding his letter, he apologized for this delay. 
+ 
+ 
+ 
+ [46] 
+  It appears that the Commissioner's decision was ultimately rendered on November 7, 2012. However, for some reason it was not provided to Mr. Hall until approximately December 4, 2012. 
+ 
+ 
+ 
+ [47] 
+  In determining whether Mr. Hall was treated fairly, as contemplated by section 90 of the CCRA, the Regulations and CD 081 provide helpful guidance. 
+ 
+ 
+ 
+ [48] 
+  As noted above, section 80(3) of the Regulations requires the Commissioner to provide an offender with a decision and reasons "as soon as practicable after the offender submits an appeal." CD 081 then specifies a timeframe of 80 working days, and proceeds to state: 
+ 
+ 
+ 
+ 20. If the Institutional Head, the Regional Deputy Commissioner or the Director, Offender Redress, considers that more time is necessary to deal adequately with a complaint or grievance, the grievor must be informed, in writing, of the reasons for the delay and of the date by which the decision will be rendered. 
+ 
+ 
+ 
+ [49] 
+  In this case, this provision was invoked and Mr. Hall was informed of both the reasons why a decision on his grievance would be delayed and of the estimated date by which the decision would be finalized. 
+ 
+ 
+ 
+ [50] 
+  As it turned out, the decision took approximately 25 additional working days to be completed and then a further 19 days to be delivered to Mr. Hall. In my view, this delay of approximately 44 working days, while regrettable and certainly deserving of a reasonable explanation, was not such as to render the third level grievance process in this case unfair  
+ (FRAGMENT_SUPPRESSED;  
+ Ouellette v Canada (Attorney General) 
+ , 2012 FC 801, at para 28). 
+ 
+ 
+ 
+ [51] 
+  Accordingly, the declaration that Mr. Hall has requested will not be granted. 
+ 
+ 
+ 
+ VI.  
+ Conclusion 
+ 
+ 
+ 
+ [52] 
+  I agree with Mr. Hall's submission that the Commissioner erred by failing to conduct a  
+ de novo 
+  review of his request for a transfer to a minimum security institution and by asking himself the wrong question. 
+ 
+ 
+ 
+ [53] 
+  The Commissioner's decision will therefore be set aside and referred back to the Commissioner for a redetermination in accordance with these reasons, as requested in this Application. 
+ 
+ 
+ 
+ [54] 
+  However, I do not agree with Mr. Hall's submission that the grievance process in this case was neither fair nor effective, due to the delay of approximately 44 working days in reaching the third level grievance decision and delivering it to him. Accordingly, the declaration that he has requested in that regard will not be granted. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [55] 
+   
+ THIS COURT ORDERS AND ADJUGES that 
+  this Application is granted in part, with costs as to 75% in favour of Mr. Hall. 
+ 
+ 
+ 
+ 1. The Commissioner's decision on Mr. Hall's third level grievance is set aside and referred back to the Commissioner for a redetermination in accordance with these reasons. 
+ 
+ 
+ 
+ 2. The declaration sought by Mr. Hall will not be granted. 
+ 
+ 
+ 
+ Application allowed in part. 
+ 
+ 
+ 
+ Editor: Jana A. Andersen/vnh 
+ 
+ 
+ 
+

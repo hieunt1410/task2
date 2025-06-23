@@ -1,0 +1,329 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Apotex Inc. v. Merck & Co. (2004), 271 F.T.R. 1 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2004] F.T.R. TBEd. AU.035 
+ 
+ 
+ 
+ Apotex Inc. (plaintiff/defendant by counterclaim) v. Merck & Co., Inc. and Merck Frosst Canada & Co. (defendants/plaintiffs by counterclaim) 
+ 
+ (T-294-96; 2004 FC 1133) 
+ 
+ 
+ 
+ Indexed As: Apotex Inc. v. Merck & Co. et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Martineau, J. 
+ 
+ August 16, 2004. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Merck & Co. and Merck Frosst Canada & Co. brought a motion pursuant to Federal Court Rule 107, asking that the question of their entitlement to elect an accounting of the profits flowing from Apotex Inc.'s infringement of their patent be determined separately and prior to any, or further, discovery into a quantification of damages or profits. 
+ 
+ 
+ 
+ The Federal Court granted the motion. 
+ 
+ 
+ 
+ Patents of Invention - Topic 3506 
+ 
+ Infringement actions - Severance of issues - [See  
+ Practice - Topic 5204 
+ ]. 
+ 
+ 
+ 
+ Practice - Topic 5204 
+ 
+ Trials - General - Severance of issues or parties - General - Merck & Co. and Merck Frosst Canada & Co. brought a motion pursuant to Federal Court Rule 107, asking that the question of their entitlement to elect an accounting of the profits flowing from Apotex Inc.'s infringement of their patent be determined separately and prior to any, or further, discovery into a quantification of damages or profits - The Federal Court granted the motion for a bifurcation order - The court held that proceeding in such a fashion would more likely than not result in the most just, expeditious and least expensive determination of the proceeding on the merits - The court considered, inter alia, that an early determination of Merck's entitlement to an accounting of profits would narrow the scope of the discoveries to be conducted - The bifurcation order also contained directions regarding the procedures applicable to examinations for discovery and production of documents. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Apotex Inc. v. Bristol-Myers Squibb Co. et al. (2003), 308 N.R. 152; 26 C.P.R.(4th) 129; 2003 FCA 263, refd to. [para. 3]. 
+ 
+ Illva Saronno S.p.A. v. Privilegiata Fabbrica maraschino Excelsior Girolamo Luxardo S.p.A. et al., [1999] 1 F.C. 146; 157 F.T.R. 217; 84 C.P.R.(3d) 1 (T.D.), refd to. [para. 3]. 
+ 
+ Illva Saronno S.p.A. v. Privilegiata Fabbrica Maraschino Excelsior Girolamo Luxardo S.p.A. et al. (2000), 183 F.T.R. 25 (T.D.), refd to. [para. 3]. 
+ 
+ Apotex Inc. v. Merck & Co. et al. (2003), 308 N.R. 400 (S.C.C.), refd to. [para. 4]. 
+ 
+ Apotex Inc. v. Merck & Co. et al. (2003), 307 N.R. 364; 2003 FCA 291, refd to. [para. 4]. 
+ 
+ Apotex Inc. v. Merck & Co. et al. (2004), 259 F.T.R. 238; 2004 FC 1038, refd to. [para. 6]. 
+ 
+ Apotex Inc. v. Merck & Co. et al., [2004] F.T.R. Uned. B11; 2004 FC 1131, refd to. [para. 6]. 
+ 
+ Merck & Co. et al. v. Apotex Inc. (1994), 88 F.T.R. 260; 59 C.P.R.(3d) 133 (T.D.), refd to. [para. 7, footnote 1]. 
+ 
+ Merck & Co. v. Apotex Inc. (1995), 60 C.P.R.(3d) 298 (F.C.T.D.), refd to. [para. 7, footnote 1]. 
+ 
+ Apotex Inc. v. Merck & Co. et al. (2003), 307 N.R. 364; 26 C.P.R.(4th) 278 (F.C.A.), refd to. [para. 7, footnote 1]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Federal Court Rules, 1998, rule 107 [para. 2]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ G. Alexander Macklin and Connie Too, for the plaintiff (defendant by counterclaim); 
+ 
+ Nando DeLuca, for the defendants (plaintiffs by counterclaim). 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Gowling Lafleur Henderson LLP, Ottawa, Ontario, for the plaintiff (defendant by counterclaim); 
+ 
+ Goodmans LLP, Toronto, Ontario, for the defendants (plaintiffs by counterclaim). 
+ 
+ 
+ 
+ This motion was heard on August 3, 2004, at Ottawa, Ontario, before Martineau, J., of the Federal Court, who delivered the following decision on August 16, 2004. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Martineau, J. 
+ : This is a motion by Merck & Co., Inc. and Merck Frosst Canada & Co. (collectively Merck) pursuant to Rule 107 of the  
+ Federal Court Rules, 1998 
+ , S.O.R./98-106 (the  
+ Rules 
+ ), asking that the question of their entitlement to elect an accounting of the profits flowing from Apotex Inc.'s (Apotex) infringement of the Canadian Patent No. 1,275,349 (the '349 Patent) in relation to the manufacture and sale of enalapril maleate and enalapril acquired by Apotex subsequent to the trial of action No. T-2408-91, held March and April 1994, be determined separately and prior to any, or further, discovery into a quantification of damages or profits, as the case may be. 
+ 
+ 
+ 
+ [2] 
+  Pursuant to Rule 107, the Court has authority to order that an issue be determined separately: 
+ 
+ 
+ 
+ "107(1) The Court may, at any time, order the trial of an issue or that issues in a proceeding be determined separately. 
+ 
+ 
+ 
+ "(2) In an order under subsection (1), the Court may give directions regarding the procedures to be followed, including those applicable to examinations for discovery and the discovery of documents." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "107(1) La Cour peut, à tout moment, ordonner l'instruction d'une question soulevée ou ordonner que les questions en litige dans une instance soient jugées séparément. 
+ 
+ 
+ 
+ "(2) La Cour peut assortir l'ordonnance visée au paragraphe (1) de directives concernant les procédures à suivre, notamment pour la tenue d'un interrogatoire préalable et la communication de documents." 
+ 
+ 
+ 
+ [3] 
+  The onus in a motion for a bifurcation order is always on the applicant ( 
+ Apotex Inc. v. Bristol-Myers Squibb Co. et al. 
+  (2003), 308 N.R. 152; 26 C.P.R.(4th) 129; 2003 FCA 263, at para. 10). The order may be made where the Court is satisfied on a balance of probabilities that, in light of the evidence and all the circumstances of the case (including the nature of the claims, the conduct of the litigation, the issues and the remedies sought), severance is more likely than not to result in the just, expeditious and least expensive determination of the proceeding on its merits ( 
+ FRAGMENT_SUPPRESSED;  
+ Illva Saronno S.p.A. v. Privilegiata Fabbrica Maraschino Excelsior Girolamo Luxardo S.p.A. et al. 
+ , [2000] F.C.J. No. 170; 183 F.T.R. 25 (T.D.), at para. 8). Additionally, a case management judge may deal with all matters that arise prior to a trial or hearing and may give any directions that are necessary for the just, most expeditious and least expensive determination of the proceeding on the merits (Rule 385(1)). 
+ 
+ 
+ 
+ [4] 
+  This is a specially managed proceeding. Hugessen, J., acts as Case Management Judge and Prothonotary Lafrenière has been assigned to assist him (the Case Management Prothonotary). The action was commenced by Apotex on February 5, 1996. Apotex sought a declaration of non-infringement in respect of Merck's Patent No. 1,275,349. Merck defended and ultimately added a counterclaim for infringement. In late 2001, cross-motions were filed by the parties, each seeking summary judgment. By order dated February 2, 2001, McKeown, J., allowed Merck's motion for summary judgment and dismissed Apotex's cross-motion for summary judgment. The question of remedy was deferred to a subsequent hearing. The February 2, 2001 order of McKeown, J., was upheld on appeal by order of the Court of Appeal dated May 28, 2002. Leave to appeal to the Supreme Court of Canada was denied on February 17, 2003 ( 
+ Apotex Inc. v. Merck & Co. et al. 
+ , [2002] S.C.C.A. No. 323; 308 N.R. 400 (S.C.C.)). By further order dated May 31, 2002, McKeown, J., dealt with the "remedy" aspect of the summary judgment motions that had been deferred in the February 2, 2001 order. McKeown, J.'s, May 31, 2002 order was subsequently varied, in part, by an order of the Federal Court of Appeal dated June 30, 2003 ( 
+ Apotex Inc. v. Merck & Co. et al. 
+ , [2003] F.C.J. No. 1034; 307 N.R. 364; 2003 FCA 291). 
+ 
+ 
+ 
+ [5] 
+  Subsequent to the Court of Appeal's order of June 30, 2003, the parties became involved in a dispute regarding the scope and implications of that order. In connection with this dispute, Apotex brought a motion before Prothonotary Tabib on January 22, 2004 requesting that Merck produce further and better affidavits of documents. By order dated February 4, 2004, Prothonotary Tabib allowed the motion in part. That being said, her conclusion that Merck's affidavit of documents should include documents relevant to Merck's damages "should not be taken as a determination as to the propriety of a bifurcation order or a case management order splitting the discovery stage". As a result, Merck's motion to set a schedule for discoveries was referred to the Case Management Prothonotary. However, in view of the foregoing, the parties agreed that it would be premature to submit to the Case Management Prothonotary a joint schedule for completion of the next steps in the proceeding at this time. Both Apotex and Merck filed cross-motions in appeal of Prothonotary Tabib's order. In addition, Merck brought another motion seeking to bifurcate the issue of entitlement to remedy from the issues of quantification of the extent of infringement and the calculation of damages or profits (the present motion). 
+ 
+ 
+ 
+ [6] 
+  Generally speaking, the remaining steps in the proceeding involve resolving the issue of entitlement to remedy and the quantification and calculation issues discussed above. Normally, the present motion would have been heard and decided by the Case Management Judge or the Case Management Prothonotary. However, since the result of same could be affected by the motion and cross-motion in appeal of Prothonotary Tabib's February 4, 2004 order (the Case Management Judge has the practice of not hearing such appeals), by direction of the case management judge, all three motions were made returnable to general sittings on April 29, 2004. Unfortunately, when these matters came before me on April 29, 2004, I was only able to hear argument on Apotex's motion in appeal in respect of which I reserved judgment. Merck's cross-motion in appeal and its motion to bifurcate were adjourned to a date to be agreed upon by the parties, in this case, August 3, 2004. In the meantime, on July 27, 2004, I dismissed Apotex's motion in appeal ( 
+ Apotex Inc. v. Merck & Co. Inc. et al. 
+  (2004), 259 F.T.R. 238; 2004 FC 1038), now under appeal file A-411-04. Having now heard the two outstanding motions, concurrently with the release of the present order, I am also ordering the dismissal of Merck's cross-motion in appeal, [2004] F.T.R. Uned. B11; 2004 FC 1131. These are my reasons for granting the present motion to bifurcate. 
+ 
+ 
+ 
+ [7] 
+  The background facts with respect to the conduct of this proceeding have been summarized above and in various previous decisions of this Court and the Federal Court of Appeal [see footnote 1]. Details can also be found in the parties' respective motion records and affidavits. In sum, Merck seeks a bifurcation order (which, with respect to scheduling, could be supplemented, failing agreement between the parties, by a case management order) to have the issues mentioned above determined in a sequential fashion in order to avoid unnecessary costs, wasted efforts and further delays in the resolution of issues. More particularly, Merck seeks the following: 
+ 
+ 
+ 
+ a) the issue of Merck's entitlement to take an accounting of Apotex's profits be determined first. This includes the completion of discoveries of the parties and the conduct of a hearing before a judge of this Court on the issue. 
+ 
+ 
+ 
+ b) following a decision of the Court on entitlement, a reference may be held to address: 
+ 
+ 
+ 
+ i) any questions as to the extent of any infringement of the defendants' rights; 
+ 
+ 
+ 
+ ii) any question as to the defendants' damages arising from any such infringement; and 
+ 
+ 
+ 
+ iii) any questions relating to the profits of the plaintiff arising from any such infringement. 
+ 
+ 
+ 
+ [8] 
+  In addition, Merck submits that discoveries of the parties on the questions to be addressed on the reference are to be conducted prior to a hearing before a referee. If Merck is held to be entitled to take an accounting of Apotex's profits, then Merck asks that the discoveries be conducted as follows: 
+ 
+ 
+ 
+ i) Merck shall be at liberty to complete discoveries of Apotex, including into the extent of infringement and quantum of profits, prior to making an election between taking profits or damages and; 
+ 
+ 
+ 
+ ii) discoveries on Merck on the question of damages shall occur only if Merck elects to take damages. 
+ 
+ 
+ 
+ [9] 
+  Following the completion of discoveries, Merck seeks an order that they shall be at liberty to apply for the appointment of a referee and for a hearing as to profits or damages, as the case may be. 
+ 
+ 
+ 
+ [10] 
+  By proceeding in the manner indicated above, Merck submits that it would avoid unnecessary and time-consuming procedural steps, and thereby save the Court and the parties time and expenses, while resolving outstanding issues in a just fashion. 
+ 
+ 
+ 
+ [11] 
+  I am satisfied that Merck has met the onus of convincing this Court that a bifurcation order should issue. Overall, on a balance of probabilities, I find that proceeding in such a fashion would more likely than not result in the most just, expeditious and least expensive determination of the proceeding on the merits (Rules 3 and 107). I accept Merck's evidence and arguments in this regard, and which I need not to repeat here, except to add the following observations. 
+ 
+ 
+ 
+ [12] 
+  First, I accept that documentary and oral discovery is a costly and time-consuming process and may give rise to a variety of motions for further disclosure (which are also likely to result in further delays in case of subsequent appeals). Therefore, I find that an early determination of Merck's entitlement to an accounting of profits will narrow the scope of the discoveries to be conducted. If Merck is not found entitled to the remedy, further discoveries into Apotex's profits become irrelevant. On the other hand, if Merck is found entitled to the remedy, it is reasonable to permit Merck to discover Apotex or issues relating to its profits before Merck makes that request. Additionally, unless Merck elects damages, there would then be no reason for them to be submitted to discovery since, indeed, any information relevant to the extent of infringement by Apotex, and its profits made from infringement, is wholly within Apotex's knowledge. 
+ 
+ 
+ 
+ [13] 
+  Second, the disadvantages advanced by Apotex are mostly of a procedural nature. In my opinion, those, if any, are clearly outweighed by the advantages of proceeding in the manner suggested by Merck. I note in this regard that on the particular facts of this case, the full extent of infringement has not yet been disclosed to Merck. I agree with Merck that all acts of infringement ought to be identified before damages are quantified. This way, the quantification step needs to be conducted once rather than in a piecemeal fashion as each additional quantity of infringing material is disclosed by Apotex. 
+ 
+ 
+ 
+ [14] 
+  Third, I have specifically considered the arguments submitted by Apotex (which I cannot accept), including the facts and material referred to in the affidavit dated April 28, 2003 of Mr. Harry B. Radomski, and notably counsel's past experience in the four patent infringement actions referred to in his affidavit. I assign little weight to this latter evidence which, at best, I find inconclusive in view of the particular and rather unique circumstances of this case. It is clear, in view of the history of these proceedings, that Apotex's proposition would be both unjust and time consuming for the parties. In coming to this conclusion, I have also considered Apotex's submission to the effect that "preventing Apotex from taking the effect discovery of Merck on its damages in advance of the determination of the issue of entitlement could negatively impact on Apotex's ability to argue against the grant of such a remedy". I attribute no merit whatsoever to this argument. The purpose of discovery, whether oral or by production of documents, is to obtain admissions to facilitate proof of all the matters which are relevant and properly in issue between the parties. The fact that through a discovery of Merck, Apotex could elicit evidence that Merck has suffered little or no damages, or that Merck's lost profits (i.e. its damages) are small compared to Apotex's profits, even if substantiated, would have absolutely no bearing on the issue of entitlement to an accounting of profits and is entirely irrelevant. 
+ 
+ 
+ 
+ [15] 
+  Fourth, the Court may,  
+ at any time, 
+  order the trial of an issue or that issues in a proceeding be determined separately (Rule 107(1)). That being said, in the exercise of my discretion, I am mindful of the judgment of the Federal Court of Appeal on June 30, 2003 which has varied McKeown, J.'s, May 31, 2002 order. Key to the Federal Court of Appeal judgment was the fact that McKeown, J., had decided the issue of Merck's entitlement to an accounting of profits without first permitting Apotex to discover Merck on facts "relevant" to this question (notably whether there had been a change of circumstances). Here, I am satisfied that proper safeguards exist. The discovery by Apotex on matters relevant to the determination of Merck's entitlement to an accounting of profits will take place before a hearing is held by a judge. 
+ 
+ 
+ 
+ [16] 
+  Finally, in a bifurcation order, the Court may give directions regarding the procedures to be followed, including those applicable to examinations for discovery and the discovery of documents (Rule 107(2)). At present time, there is no schedule of pre-hearing steps to be conducted. I am satisfied that the herein order will help the parties in progressing promptly and in a cost efficient manner with this case. Following the issuance of the present order for bifurcation, all unresolved matters in respect of scheduling can properly be resolved by the Case Management Prothonotary if the parties are unable to agree on dates for the completion of these pre-hearing steps. In view of the result, Merck shall be entitled to their costs. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [17] 
+  THIS COURT HEREBY ORDERS THAT: 
+ 
+ 
+ 
+ 1. The question of the entitlement of Merck to elect an accounting of the profits made by Apotex in lieu of damages for all acts of infringement, shall be determined separately and prior to any, or any further, discovery into a quantification of damages or profits, as the case may be, flowing from such acts of infringement. 
+ 
+ 
+ 
+ 2. The scheduling of any examination for discovery of the parties in respect of the question of Merck's entitlement to an accounting of Apotex's profits, as well as the scheduling of a hearing before a judge of this Court on the issue of the entitlement to such accounting of the profits of Apotex, shall be by agreement of counsel for the parties or failing agreement be referred to Prothonotary Lafrenière, as Case Management Prothonotary, for determination. 
+ 
+ 
+ 
+ 3. If Merck is held, by Court order, to be entitled to the remedy of an accounting of the profits of Apotex, Merck shall be at liberty to complete their examination for discovery and production of documents from Apotex in respect of Apotex's profits arising from its acts of infringement, including the extent of said infringement, on a date or dates and at a place as may be agreed upon or ordered by the Court, prior to Merck making their election between the profits of Apotex and the damages of Merck. 
+ 
+ 
+ 
+ 4. Any examinations for discovery and production of documents of Merck on the issue of their claim for damages shall occur only if Merck elects to recover their damages and only after they make such election. 
+ 
+ 
+ 
+ 5. Any scheduling of such further examinations for discovery, including production of documents, or other matters leading up to the hearing of a reference, shall be referred to Prothonotary Lafrenière for determination. 
+ 
+ 
+ 
+ 6. Merck shall be entitled to their costs. 
+ 
+ 
+ 
+ Motion granted. 
+ 
+ 
+ 
+ Editor: Angela E. McKay/gs 
+ 
+ 
+ 
+ Footnotes 
+ 
+ 
+ 
+ 1.  
+ Merck & Co. et al. v. Apotex Inc. 
+  (1994), 88 F.T.R. 260; 59 C.P.R.(3d) 133 (T.D.);  
+ Merck & Co. Inc. v. Apotex Inc. 
+ , [1995] F.C.J. No. 403; 60 C.P.R.(3d) 298 (F.C.T.D.);  
+ Apotex Inc. v. Merck & Co. et al. 
+ , [2003] F.C.J. No. 1034; 26 C.P.R.(4th) 278 (F.C.A.). 
+ 
+ 
+ 
+ [End of document] 
+ 
+
+
+
+

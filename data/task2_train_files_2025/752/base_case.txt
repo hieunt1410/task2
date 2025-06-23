@@ -1,0 +1,161 @@
+[1]
+Hargrave, Prothonotary
+: These reasons deal with the respondents' motion to strike out this application for judicial review by reason of late filing of the Originating Notice of Motion, or alternatively for an Order that various paragraphs of the Affidavits of Beth Parkinson, Chrisanna Sampson and Roy Lee be struck out. These reasons also deal with the applicants' motion to strike out two Affidavits of Richard Montminy sworn 20 December 1995 and 10 September 1997 which are appended to the Affidavits of Meherun Clippingdale, of 11 September 1997 and 12 September 1997 or alternatively, that portions of the Montminy Affidavits be struck out.
+Background
+[2]
+By way of brief background, this judicial review relates to a new telephone system, installed for use by inmates in federal correctional centres, called the Millennium Telephone System.
+[3]
+At one point, 4 December 1997, the applicants having advised that they were ready for a full hearing, the court set a hearing date, 5 February 1998. In January the applicants sought and received an extension of time within which to file additional affidavits and a supplemental record, together with an adjournment of the hearing. With the hearing now in the offing the parties look for various procedural relief.
+Motion To Strike Out
+[4]
+Dealing first with the respondents' motion to strike out, for the most part originating notices of motion, now referred to as notices of application, ought not to be struck out, but rather should be contested at their hearing. In
+Hasan v. Canada (Attorney General)
+, [1998] F.T.R. Uned. 264 (T.D.), Mr. Justice Muldoon forcefully directed the respondents to focus on the hearing itself, not on a summary procedure to strike out. In taking that approach he referred to the relevant jurisprudence including
+Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al.
+(1994), 176 N.R. 48 (F.C.A.), where the Federal Court of Appeal observed that "... the direct and proper way to contest an originating notice of motion which the respondent thinks it to be without merit is to appear and argue at the hearing of the motion itself." (p. 52). However, in exceptional instances, the Federal Court has struck out applications for judicial review which could not possibly succeed, following upon the observation of Mr. Justice Strayer, who delivered the reasons for the Court of Appeal in the
+David Bull
+case, that an application might be struck out where it was so clearly improper as to be without any possibility of success:
+"[15] For these reasons we are satisfied that the trial judge properly declined to make an order striking out, under rule 419 or by means of the gap rule, as if this were an action. This is not to say that there is no jurisdiction in this court either inherent or through rule 5 by analogy to other rules, to dismiss in summary manner a notice of motion which is so clearly improper as to be bereft of any possibility of success. (See e.g.
+Cynamid Agricultural de Puerto Rico Inc. v. Commissioner of Patents
+(1983), 74 C.P.R.(2d) 133 (F.C.T.D.); and the discussion in
+Vancouver Island Peace Society et al. v. Canada (Minister of National Defence) et al.
+, [1994] 1 F.C. 102; 64 F.T.R. 127, at p. 120-121 F.C. (T.D.)). Such cases must be very exceptional and cannot include cases such as the present where there is simply a debatable issue as to the adequacy of the allegations in the notice of motion." (pp. 54-55)
+[5]
+I have considered whether this is the very exceptional circumstance of a notice of application which is "so clearly improper as to be bereft of any possibility of success.' (loc. cit.). The ground for the respondents' motion to strike out is that the Millennium Telephone System was installed in the various institutions represented by the applicants between late 1995 and January of 1997 and if those were firm dates the respondents would certainly have a point that the judicial review, which by s. 18.1(2) of the
+Federal Court Act
+must be begun within 30 days after the impugned decision was first communicated to a directly affected party, was begun late. However, the position of counsel for the applicants is that the installation of the Millennium Telephone System was not a static written decision, but rather a decision made over time, a fluid decision, within the concept discussed by Mr. Justice Lutfy in
+Hunter et al. v. Commissioner of Corrections (Can.) et al.
+(1998), 134 F.T.R. 81 (T.D.), at p. 85. The applicants' point here is that the directive under review in
+Hunter
+was amended from time to time, the last amended version being produced after the judicial review application had been filed. Now this clearly falls within the category of the debatable issue which Mr. Justice Strayer notes is outside of the exceptional motion which might be dismissed in a summary manner.
+[6]
+There is another reason why this particular motion to strike out fails. A plea of limitation is not a sufficient ground to strike out a statement of claim but rather, in the case of an action, the correct procedure is to plead the limitation and then set the matter down as a question of law before trial: see a discussion of this point in
+BMG Music Canada Inc. et al. v. Vogiatzakis et al.
+(1996), 110 F.T.R. 34; 67 C.P.R.(3d) 27 (T.D.), at pp. 33-34 [C.P.R.]. This same principle ought to apply to the striking out of an originating notice of motion or, as it is now referred to, a notice of application. To move to strike out a judicial review proceeding, a procedure designed to be summary in nature, in effect a motion upon a motion, is a waste of time and resources for all concerned. The time bar is a point which the parties ought to argue in full before the judge at the hearing of this application.
+Respondents' Motion To Strike
+Out Affidavits
+[7]
+In the alternative, the respondents seek to have portions of various affidavits struck out on the basis that, except on interlocutory matters, affidavits must be confined to facts of which the witness has personal knowledge: rule 81(1). However, there is the question of whether parties ought, for the sake of efficiency and as a practical exercise of judicial discretion, to be permitted to strike out each others affidavits at all.
+[8]
+In special circumstances, for example where an affidavit is abusive or clearly irrelevant, or where a party has obtained leave to admit evidence which in fact is obviously inadmissible, or where a court is convinced that admissibility should be resolved at an early date to allow a hearing to proceed in orderly manner, affidavits or portions of them may be struck out: see for example,
+Home Juice Co. v. Orange Maison Ltée
+, [1968] 1 Ex. C.R. 163, at p. 166, a decision of President Jackett and
+Unitel Communications Co. et al. v. MCI Communications Corp. et al.
+(1997), 119 F.T.R. 142 (T.D.), at p. 143, a decision of Mr. Justice Richard, as he then was. Mr. Justice Richard went on to note that a trial judge would be better placed to assess weight and admissibility of affidavit material (pp. 143 and 145).
+[9]
+The respondents submit that paragraphs 3 and 4 of the Parkinson Affidavit, paragraphs 6 and 7 of the Sampson Affidavit and paragraphs 5, 6, 8 and 10 of the Lee Affidavit ought to be struck out as not being within the personal knowledge of the deponents. Now of course affidavits which contain conjecture, speculation and legal opinion are improper, but hearsay evidence is now admissible depending upon reliability and necessity:
+Ethier v. Royal Canadian Mounted Police (Commissioner)
+(1993), 151 N.R. 374 (F.C.A.), at p. 375, the Court of Appeal there referring to
+R. v. Khan
+, [1990] 2 S.C.R. 531; 113 N.R. 53; 41 O.A.C. 353; 59 C.C.C.(3d) 92; 79 C.R.(3d) 1 and
+R. v. Smith (A.L.)
+, [1992] 2 S.C.R. 915; 139 N.R. 323; 55 O.A.C. 321; 75 C.C.C.(3d) 257; 94 D.L.R.(4th) 590; 15 C.R.(4th) 133.
+[10]
+The impugned paragraphs are, for the most part, hearsay but that in itself is not a ground for striking out those passages. Rather I should consider reliability and necessity and here I would touch upon the consideration of those two elements in
+R. v. Smith
+(supra) at p. 933 [S.C.R.] and following. My reading of Chief Justice Lamer's decision is that both elements, reliability and necessity, must be established. In most instances it would be proper to leave the weighing of these elements to the trial judge. However, counsel for the applicants has, quite properly, referred to the impugned paragraphs in the Affidavits of Parkinson and Sampson in the context of cross-examination of witnesses of the respondents. In each case, counsel submits, based on that cross-examination, that the evidence is reliable but clearly no longer necessary as it has either been presented by the respondents' witness or has been confirmed by the respondents' witness. Thus, the element of necessity being absent, I have struck out paragraphs 3 and 4 of the Parkinson Affidavit of 21 January 1998 and paragraphs 6 and 7 of the Sampson Affidavit of the same date on the basis that they are now irrelevant and should be struck out so that the hearing may proceed in the most expeditious manner.
+[11]
+Paragraphs 5, 6, 8 and 10 of the Lee Affidavit of 21 January 1998 stand on a different footing. Mr. Lee, as Chairman of the Prisoner Committee at the Mission Institution, deposes in part on the basis of his own personal knowledge and in part on information received from prison staff in his capacity as Chairman of the Prisoner Committee. Counsel for the applicants submits that it is not possible to obtain affidavits from staff of the Correctional Service of Canada and that, in this way, the test of necessity has been met. Counsel for the applicants goes on to submit that the material is as reliable as any one else's, pointing to the fact that a substantial portion of the respondents' affidavit material is based on information and belief.
+[12]
+The portions of the Lee Affidavit in question do not clearly fall within any of the instances recognized in
+Home Juice
+and in
+Unitel Communications
+(supra) as material which ought to be struck out at this stage. It is appropriate to leave the assessment of the Lee Affidavit to the trial judge, who will be in a better position to assess necessity, reliability, weight and admissibility.
+Montminy Affidavits
+[13]
+I now turn to the applicants' motion either to strike out the Montminy Affidavits of 20 December 1995 and 10 September 1997, which are appended to the Clippingdale Affidavits of 11 and 12 September 1997, or alternatively to strike out substantial portions of the Montminy Affidavits on the basis that the material relied upon by the deponent is not personal knowledge, but consists of interpretations of law, personal opinions and second hand information. However, there is first a procedural point.
+[14]
+The respondents, in written argument, submit that because of the length of the Montminy Affidavits this motion ought to be dealt with not in writing, but as an oral motion. The oral hearing of a motion in writing is not granted merely on request, but must be supported by substantial evidence that the motion can not be adequately dealt with as a written motion: see for example
+Gordon v. Matsqui Institution
+, [1973] F.C. 723 (F.C.A.), at p. 724 and
+FRAGMENT_SUPPRESSED. In this instance, the respondents have not demonstrated that the motion to strike out their affidavit material can not adequately be dealt with in writing.
+[15]
+The substantial 20 December 1995 Montminy Affidavit is one which was sworn in the case of
+Hunter et al. v. Commissioner of Corrections (Can.) et al.
+(1997), 134 F.T.R. 81; 45 C.R.R.(2d) 189. That the Trial Division of this court may have relied upon the 20 December 1995 Montminy Affidavit, or portions of it in that decision in the
+Hunter
+case, is not relevant to the present motion. However, I am also not about to strike out the whole of either of the Montminy Affidavits as coming within the test set out in
+Home Juice
+and
+Unitel Communications
+(supra). Rather I have examined each of the Affidavits, paragraph by paragraph. In no instance am I prepared to strike out any portions of either Affidavit on the basis of hearsay.
+Montminy Affidavit Of 20 December 1995
+[16]
+Paragraphs 3 and 5, to which the applicants take objection, contain observations on the
+Corrections and Conditional Release Act
+and introduce two Commissioner's Directives and a Regional Instruction. Nothing in those two paragraphs subject them to being discarded at this point.
+[17]
+Paragraphs 6 through 13 follow the heading "A Brief History of Inmates' Access to Telephones". As I understand the objection the applicants have to this section it is that Mr. Montminy, who is a Project Manager with the Correctional Service of Canada, deposes he has been working in the Inmate Telephone Access area for several years and thus can hardly give a history of telephone access over the past 20 years. I do not see this objection as meeting any of the tests for striking out an affidavit at this point. Rather, it will be for the judge to weigh Mr. Montminy's excursion into what he feels is relevant history.
+[18]
+In paragraph 16 Mr. Montminy sets out how the new telephone system is intended to work in order to facilitate reasonable and equitable access to telephones. In that he has been directly involved in the problem I do not see this as opinion or conjecture, but rather as a statement of the policy of the Correctional Service of Canada. It is not objectionable.
+[19]
+Paragraph 17 sets out the features of the new telephone system which have been incorporated to meet the objective of enhancing public and institutional security, on the one hand, but which allow supervision of telephone activity in an equitable and efficient manner, on the other hand. It appears to be a factual narrative except for a brief excursion into the
+Corrections and Conditional Release Regulations
+, Mr. Montminy there referring to the entitlement of an inmate to access to counsel without delay and his view that the new system will allow calls to a lawyer on an authorized list to be made without monitoring or interception. Again, this [is] not so much interpretation of law or a personal opinion, but rather a factual explanation of considerations underlying the design of the system.
+[20]
+Paragraphs 18, 19 and 20 deal with the interception of telephone calls made by inmates and the view that the Correctional Service of Canada has legal authority to intercept such communications, pursuant to s. 94 of the
+Corrections and Conditional Release Act
+, in certain instances. The Affidavit here touches upon the effect of the new system on the entitlement to reasonable contact with family, friend and the community. It may be useful to the judge hearing the matter to know the source of the interception policy. While Mr. Montminy may be treading close to an interpretation of the law, a judge will not need any protection from what Mr. Montminy says. Its value may well outweigh any failing. I am not prepared to strike out any of the paragraphs in this section.
+[21]
+Paragraphs 21 and 22 deal with the voice over provision, at the beginning of a call and at certain intervals throughout, an aspect of the new system. Mr. Montminy sets out the reasons for the voice over that, as a matter fairness, it is incumbent upon the Correctional System of Canada to ensure potential recipients of telephone calls realize that inmates and indeed those conversing with inmates cannot expect the same degree of privacy in their communication as might otherwise be the case. He goes on to say that the voice over system is in part to deal with the problem of inmates misrepresenting themselves during calls to the public at large. I do not find any of this objectionable to the extent that it ought to be struck out at this point.
+[22]
+Paragraphs 23 and 24 deal with the blocking of certain numbers and the reason for that policy, the view on the part of the Correctional Service of Canada that pursuant to the
+Corrections and Conditional Release Act
+the public is entitled not to receive undesirable communication from an inmate. This is not so much an interpretation of the
+Corrections and Conditional Release Act
+, but rather sets out the reason for the policy of blocking numbers. Again this is not objectionable.
+[23]
+Paragraph 26 explains a three-way calling feature and a policy objective. Paragraph 26 will remain.
+[24]
+Paragraph 27 deals with the policy as to unlisted telephone numbers and the policy of free telephone calls from inmates at the prison for women. These are factual matters and also set out the policy of the Correctional Service of Canada. They shall remain.
+[25]
+Paragraphs 29 and 30 deal with a pilot project at the Bowden Institution in Alberta. It sets out statistics and a factual background which one would expect a project manager to know about his system. One would also expect that if the applicants had any objection this would have been dealt with on cross-examination. These paragraphs shall remain.
+[26]
+Paragraphs 32, 33, 34, 36 and 37 touch on the problem of drugs in correctional institutions. They set out a Correctional Services of Canada objective, related to the new telephone system, to combat the use of drugs. The paragraphs touch on the problem and its effect in a prison environment. The material in this section also deals with the reason for the national anti-drug strategy of the Correctional Service of Canada and sets out why the new telephone system will assist in preventing drugs from being introduced into institutions. This does not fall into the realm on conjecture or speculation, nor do I take the observations to be the personal opinion of Mr. Montminy, but rather the reasoning of the Correctional Service of Canada that underlies the features, policy and objectives inherent in the new telephone system. This is borne out, at least to a substantial degree, by the exhibit which paragraph 33 introduces, a January 1995 paper, "The Drug Strategy of the Correctional Service of Canada".
+[27]
+Paragraphs 38, 41 and 42 explain inmate telephone systems in other correctional jurisdictions. I question the relevancy of these paragraphs. However, the paragraphs are not clearly irrelevant, which is a test that I must apply. Certainly there is some opinion, however, in view of Mr. Montminy's position they may well be views based on personal knowledge. I am not convinced that admissibility ought to be resolved at this point.
+[28]
+Paragraph 39 of the Montminy Affidavit, together with Exhibit "G", stand on a somewhat different footing. It is a bald and broad opinion, of the effect of deregulation of telecommunications in the United States and the situation in the prisons, correctional institutions and lock-ups in every American State. Exhibit "G", illustrating the types of hardware and software available on the American market is clearly irrelevant. Paragraph 39 and Exhibit "G" are struck out.
+[29]
+Paragraphs 44, 45 and 48 deal with the ongoing process, at the time the Affidavit was sworn, of providing inmates with an opportunity to contribute to decisions involving the Millennium Telephone System and the objectives of the Correctional Service of Canada to re-establish a reasonable degree of control over access to telephones. To that extent, those paragraphs are not objectionable. However, paragraph 45, which speculates upon what will be in a Commissioner's Directive, likely to be issued in January 1996, is speculative and clearly irrelevant. It will be struck out.
+Montminy Affidavit Of 10 September 1997
+[30]
+In paragraph 4 of the second Montminy Affidavit the deponent confirms the information contained in his earlier Affidavit, dealt with above. The paragraph is not particularly relevant, but not so clearly irrelevant that it ought to be struck out.
+[31]
+In paragraph 5, Mr. Montminy refers to a new Commissioner's Directive, which is Exhibit "A". He then goes on to speculate that the Directive was issued to reflect the 8 July 1997 ruling of Mr. Justice Lutfy in
+Hunter v. Commissioner of Corrections
+(supra). That speculation, as to the reason for the issuance of the Commissioner's Directive, is clearly irrelevant. The paragraph is struck out, except for the last sentence. This of course does not bar counsel from submitting, to the extent it may be relevant, that there is a connection between the decision in
+Hunter
+and Commissioner's Directive No. 85.
+[32]
+Counsel for the applicants submits that paragraph 6 of the Montminy Affidavit of 10 September 1997 is incorrect and indeed is false. It appears that at issue here is the type of telephone access available to inmates in institutions in the Pacific Region. The applicants read this section of Mr. Montminy's Affidavit as setting out, among other things, that there are only coinless payphones available in the Pacific Region. The affidavit evidence of Gary Fitzgerald, an inmate at the Ferndale Institution, is that there are a number of coin and visa card activated pay telephones available to prisoners at that institution. This is a point picked up by Mr. Justice Richard in
+Alcorn et al. v. Commissioner of Corrections (Can.)
+(1997), 136 F.T.R. 291; 153 D.L.R.(4th) 175, in footnote 3 on p. 184, in which he notes:
+"It would appear that inmates have been allowed money for use in payphones at Ferndale and at Elbow Lake Institutions"
+I do not view a footnote as creating some sort of estoppel, or a finding that a false affidavit has been sworn. Rather, there is clearly conflicting evidence. Conceivably the trial judge could prefer the evidence of Mr. Fitzgerald to that of Mr. Montminy, but that does not mandate that paragraph 6 of Mr. Montminy's Affidavit be struck out.
+[33]
+At paragraph 8 Mr. Montminy deposes that:
+"There has been no CSC intent to discriminate against applicants or inmates who do not have money to pay rates set by the CRTC."
+To the extent that an intent to discriminate is at issue here, that is for the judge to decide, not for Mr. Montminy to opine. Paragraph 8 is struck out.
+[34]
+The first paragraph 9 in the 10 September 1997 Montminy Affidavit is clearly opinion as to the result of the implementation of the Millennium Telephone System and interference with the right to counsel. To allow this paragraph of opinion, conjecture and speculation to remain would clearly be abuse. It is struck out.
+[35]
+The second paragraph numbered 9 in this Affidavit sets out the position of the Correctional Service of Canada that consultation was not a requirement in the implementation of the Millennium Telephone System. That is a fair comment, however there is then a reference to that position being in compliance with s. 74 of the
+Corrections and Conditional Release Act
+. This is legal opinion. It is irrelevant. It has no place in this Affidavit. The second sentence of the second paragraph 9 is struck out. Similarly, the second and ultimate sentences in paragraph 10, equating the position of the Correctional Service of Canada as consistent with various sections of the
+Corrections and Conditional Release Act
+, are also struck out.
+[36]
+Paragraph 11 of the second Affidavit is very much a motherhood paragraph dealing with the allocation of scarce resources. It may be irrelevant in the context of this judicial review, but is not clearly so. It is thus not objectionable.
+Leave To File New Affidavit Material
+[37]
+In their written submission, the respondents request that, in the event parts of the Montminy Affidavits are struck out, they then be given 30 days within which to file new affidavits. Little of any relevance or substance has been struck from the Montminy Affidavits. To allow the filing of further material would delay matters to no benefit.
+Conclusion
+[38]
+At an early stage I referred to a caution in the exercise of judicial discretion to strike out affidavits or portions of affidavits, the discretion being one which should be exercised only in clear circumstances. In the present instance, I have overlooked some affidavit material which is perhaps questionable, however, reflecting Mr. Justice Richard's comments in
+Unitel Communications
+(supra) I felt it would be best to leave the trial judge to assess the weight and admissibility of that affidavit material. Success being mixed, costs shall be in the cause.
+Order accordingly.
+Editor: David Weir/saf
+[End of document]

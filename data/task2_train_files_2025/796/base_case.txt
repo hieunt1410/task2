@@ -1,0 +1,92 @@
+Benisti Import-Export v. Modes TXT Carbon, [2002] F.T.R. Uned. 526 (TD)
+MLB unedited judgment
+Benisti Import-Export Inc. (plaintiff/defendant by counterclaim) v. Modes TXT Carbon Inc. (defendant/plaintiff by counterclaim)
+(T-1517-01; 2002 FCT 810)
+Indexed As: Benisti Import-Export Inc. v. Modes TXT Carbon Inc.
+Cite As: [2002] F.T.R. Uned. 526
+Federal Court of Canada
+Trial Division
+Rouleau, J.
+July 23, 2002.
+Counsel:
+Alain Dussault, for the plaintiff/defendant by counterclaim;
+Giovanna Spataro, for the defendant/plaintiff by counterclaim.
+Solicitors of Record:
+Léger, Robic, Richard, Montreal, Quebec, for the plaintiff/defendant by counterclaim;
+Lapointe, Rosenstein, Montreal, Quebec, for the defendant/plaintiff by counterclaim.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Rouleau, J.
+: This is an application by the Defendant for an Order striking out paragraphs 15 and 16 of the Plaintiff's Defence to the Defendant's Counterclaim pursuant to Rule 221 of the Federal Court Rules, 1998. It submits that the issue raised, the jurisdiction of the Court to entertain a cause of action under section 7(a) of the Trade Marks Act, R.S.C. (1970), c. T-10 ("the Act") as it relates to industrial designs, was finally decided by this Court by Order of Prothonotary Morneau on February 19, 2002, and therefore constitutes res judicata.
+[2]
+The Defendant further seeks an Order granting a thirty day extension of time, dating from the date of this Order, to file its reply to the Defence to the Counterclaim. Finally, the Defendant seeks the costs of this motion, payable forthwith, on a solicitor-client basis fixed in the amount of $2,500.00.
+[3]
+On or about August 23, 2001, the Plaintiff commenced an action against the Defendant claiming infringement of Industrial Design registration no. 92684. The Defendant, in its Amended Statement of Defence and counterclaim, and more particularly at paragraphs 33 to 36, has asserted section 7(a) of the Act against the Plaintiff in conjunction with the named industrial design and alleges that the Plaintiff has slandered and discredited the business wares of the Defendant.
+[4]
+On December 20, 2001, the Plaintiff brought a motion to strike paragraphs 33 to 36 of the Defendant's pleadings on the basis that section 7(a) of the Act is unconstitutional as it relates to industrial designs and that this Court would not have jurisdiction to entertain the application since this is a matter of civil rights and was beyond the competence of the Federal Court. On February 19, 2002, by Order of Prothonotary Morneau, he dismissed the Plaintiff's motion, ruling that section 7(a) of the Act was constitutionally valid as it relates to industrial designs; that this Court's jurisdiction extended to causes of action taken pursuant to industrial designs. The
+Plaintiff did not appeal that Order
+.
+[5]
+On March 19, 2002, the Plaintiff served and filed its Reply and Defence to the Counterclaim in which it raised once again, at paragraphs 15 and 16, the issue of the lack of jurisdiction of this Court to hear arguments on the basis of section 7(a) of the Act in relation to industrial designs. These paragraphs read as follows:
+15. Sous réserve expresse de ce que (sic) plaidé ci-après, la Demanderesse nie les allégations contenues au paragraphe (sic) 33 à 36 de la demande reconventionnelle ajoutant toutefois que la Cour fédérale n'a pas juridiction pour entendre la preuve et rendre jugement relativement à cette partie de la demande reconventionnelle.
+16. En effet, la cause d'action soulevée dans le cadre des paragraphes 33 à 36 est de nature purement civile et est fondée sur un acte de nature diffamatoire. La Demanderesse soumet que l'article 7(a) de la Loi sur les Marques de commerce ne peut être invoqué dans les circonstances alléguées audit paragraphe et toute preuve tendant à la supporter est irrecevable.
+[6]
+The Defendant, in light of Prothonotary Morneau's decision, requested in writing that the Plaintiff amend its Defence to the Counterclain through voluntary deletion of paragraphs 15 and 16. Counsel for the Plaintiff refused.
+[7]
+After careful consideration, I am satisfied that paragraphs 15 and 16 of the Plaintiff's Reply to the Counterclaim should be struck on the ground that the Prothonotary's decision regarding the issue of jurisdiction raised constitutes res judicata and, therefore, that the Plaintiff is estopped from raising the same issue once again.
+[8]
+In Angle v. M.N.R., [1975] 2 S.C.R. 248 , the Supreme Court of Canada reiterated the criteria for issue estoppel as defined by Lord Guest in Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2), [1967] 1 A.C. 853: that, (1) the same question must have been decided in the earlier proceedings, (2) the judicial decision which is said to create the estoppel must be final, and (3) the parties to the judicial decision or their privies must be the same persons as the parties to the proceedings in which the estoppel is raised. The underlying idea of the doctrine of issue estoppel is "that the parties cannot call into question issues which have already been decided between them": J. Sopinka, S.N. Lederman, A.W. Bryant, The Law of Evidence in Canada, 2nd ed., Butterworths: Toronto, 1999 at 1084, s. 19.78.
+[9]
+In the present case, I have no difficulty concluding that the third requirement has been met. We are dealing with the same parties.
+[10]
+As to the first requirement, namely whether paragraphs 15 and 16 of the Plaintiff's Reply to the Counterclaim raise the same question as the one decided by the Prothonotary; there is no doubt that these paragraphs raise the identical issue: lack of jurisdiction of the Federal Court under section 7(a) of the Act in relation to industrial designs. Contrary to the Plaintiff's contention, I conclude that the Prothonotary's decision clearly reveals that this issue was dealt with and was "fundamental to the decision arrived at" by the Prothonotary. The following excerpts from the Prothonotary's decision are of particular relevance:
+[11] Suivant la demanderesse, bien que la défenderesse au paragraphe 33 de sa demande reconventionnelle allègue comme fondement de son recours l'alinéa 7a) de la Loi sur les marques de commerce, S.R.C. 1985, c. T-13 (la Loi), aucune allégation relativement à des déclarations fausses ou trompeuses et se rapportant à une marque de commerce n'a été reproduite dans la demande reconventionnelle. Or, suivant la demanderesse, pour que cet alinéa 7a) s'applique, la question doit être reliée exclusivement à une question relative
+aux marques de commerce
+.
+[12] Étant dans le cadre strict d'une requête en radiation sous l'alinéa 221(1)a) [des Règles de la Cour Fédérale, 1998], la question qui se pose en l'espèce est de savoir s'il est clair et évident en droit que la position de la demanderesse est fondée.
+[13] Malgré les efforts soutenus de la demanderesse pour m'en convaincre, je crois, pour les motifs qui suivent, que l'on doit répondre par la négative à la question précédemment posée.
+[...]
+[24] Pour les motifs qui précèdent, je ne puis conclure qu'il soit clair et évident dans le cadre de la présente requête qu'une situation impliquant un dessin industriel ne peut, à l'instar d'une situation impliquant une marque de commerce, un brevet ou un droit d'auteur, être reliée et couverte par l'alinéa 7a) de la Loi.
+[25] En conséquence, la requête en radiation de la demanderesse sera rejetée avec dépens.
+[11]
+As to the question of the
+finality
+of this Court's jurisdiction, Plaintiff's counsel refers to the decision of the Federal Court of Appeal in Kealy v. Canada (1991), 139 N.R. 189 (F.C.A.) and submits that when a motion to strike pleadings is dismissed, as it was the case with the Protonothary's decision in the present case, that decision is an
+interlocutory judgment
+since the substantive rights claimed would remain to be determined in the proceeding.
+[12]
+With respect, counsel for the Plaintiff is misguided. The issue In Kealy is distinguishable. It was whether
+an appeal
+from an order of the Trial Division striking out named defendants in an action against another defendant had been launched within the times prescribed in subsection 27(2) of the Federal Court Act. The appellant in that case had
+treated the order as final
+and had filed his notice of appeal within the thirty day period prescribed in paragraph 27(2)(b). The contention advanced against him was that the Order of the Trial Division was interlocutory, since it was made on an interlocutory application, and
+should have been filed within the ten day period
+prescribed in paragraph 27(2)(a). The Court concluded that an order striking out an action against several defendants and striking out certain causes of action against another defendant was a final judgment since it determined both the substantive rights claimed by the appellant against the defendants. The decision in Kealy does not stand for the broad proposition that Plaintiff's counsel is now asserting. Rather, as the Court of Appeal stated at 191 of its decision, the "character of the order made is to me measured by the result".
+[13]
+Based on the test set out in Kealy, in deciding whether the Prothonotary's Order was final or interlocutory in the case at bar, one must look to its legal effect. If it determined in whole or in part any substantive right asserted by any of the parties; if so, it is final. If it did not, it is interlocutory.
+[14]
+In the case Reebok Canada v. Minister of National Revenue (Customs and Excise) (1995), 179 N.R. 300 (F.C.A.), the Federal Court of Appeal held at para. 12 that a decision to grant leave to appeal a decision of the Canadian International Trade Tribunal, made by a Judge of the Trial Division, was interlocutory in nature within the meaning of paragraph 27(1)(c) of the Federal Court Act because it did not determine any substantive rights of the parties; it merely enabled the appellant to come to this Court to have his substantive rights determined at the hearing of the appeal. Similarly, it may be argued that the Prothonotary's decision in the case at bar was interlocutory since it did not determine any substantive rights of the parties in the Counterclaim.
+[15]
+However, it is clear that issue estoppel may arise from a decision which is interlocutory in nature, but which becomes final and binding upon parties in the absence of an appeal: FRAGMENT_SUPPRESSED; Joli-Coeur v. R. (2000), 4 C.T.C. 95 (F.C.A.) at 96, para. 4. Accordingly, the Plaintiff should have appealed the Prothonotary's decision, pursuant to paragraph 27(2)(a) of the Federal Court Act, within ten days of the decision. Since it failed to do so, it is now too late, in my view, for it to challenge the Prothonotary's decision on the merits.
+[16]
+Of great relevance to this question is the decision of Nadon J. (as he then was) in Nordic Laboratories v. Canada (Deputy Minister of National Revenue - M.N.R.) (1996), 113 F.T.R. 168 (F.C.T.D). In that case, Reed J. had rendered a decision wherein she interpreted subsection 68(1) of the Customs Act, R.S.C. (1985) (2nd suppl.), c. 1 as follows: once leave is granted, the decision operated to activate the appeal nunc pro tunc as of the date the leave to appeal application was filed. She concluded that this Court had jurisdiction and leave to appeal was granted. The Respondent in that case, who did not appeal Reed J.'s decision, made the same submissions before Nadon J. as those made before Reed J. concerning a leave application. In dismissing the preliminary objection raised by the Respondent as constituting issue estoppel, Nadon J. stated the following at para. 23-28:
+23 I am of the opinion that Madam Justice Reed's decision gives rise to issue estoppel. [...]
+24 In the present case, I have no difficulty concluding that the three requirements have been met.
+The issue now raised by the Respondent was raised and argued before Madam Justice Reed, whose decision is now final since no appeal was taken
+.
+25 In the case of Reebok Canada v. Minister of National Revenue (Customs and Excise) (1995), 179 N.R. 300, the Federal Court of Appeal held that a decision to grant leave to appeal a decision of the Tribunal, made by a Judge of the Trial Division, was interlocutory within the meaning of paragraph 27(1)(c) of the Federal Court Act.
+Accordingly, the Respondent should have appealed Reed J.'s decision, pursuant to paragraph 27(2)(a) of the Federal Court Act, within ten days of the decision
+.
+26 In November of 1995, counsel for the Respondent wrote to me in order to bring to my attention the decision rendered by the Federal Court of Appeal on October 30, 1995 in Wilbur-Ellis Company of Canada Ltd. v. Deputy Minister of National Revenue (Customs and Excise) (1995), 129 D.L.R. (4th) 579 [hereinafter Wilbur-Ellis]. This case concerned an appeal by the Deputy Minister of National Revenue for Customs and Excise from an Order of a Judge of the Trial Division who had granted leave to the Respondent to appeal a decision rendered by the Tribunal. The Tribunal's decision was rendered on May 11, 1994. On July 6, 1994, the Respondent filed a notice of motion seeking an order granting leave to appeal the Tribunal's decision. On August 30, 1994, that is, 111 days after the Tribunal's decision was rendered, the motions Judge granted leave to the Respondent to appeal the Tribunal's decision. In granting leave, the motions Judge relied on the decision rendered by Madam Justice Reed in Nordic Laboratories, supra.
+27 The Deputy Minister of National Revenue raised the same arguments in Wilbur-Ellis as were made before Madam Justice Reed in Nordic Laboratories and before me during the hearing of this appeal. The Court of Appeal decided that, under subsection 68(1) of the Act, a notice of appeal had to be filed within ninety days of the Tribunal's decision. Since the Motions Judge had granted leave to the Respondent 111 days after the date of the Tribunal's decision, the Court of Appeal concluded that the Motions Judge was without jurisdiction to make the Order granting leave. As a result, the decision rendered by the Motions Judge was set aside and the notice of appeal was struck.
+28 In my view, the Court of Appeal's decision in Wilbur-Ellis is of no help to the Respondent in the present circumstances.
+It is worth reiterating that, in Wilbur-Ellis, the Deputy Minister of National Revenue appealed the decision of the Trial Division granting leave to appeal. That is not the case in the present matter. Even though the Court of Appeal in Wilbur-Ellis clearly indicated that Madam Justice Reed's interpretation of subsection 68(1) of the Act is erroneous, it is now too late, in my view, for the Respondent to challenge Madam Justice Reed's decision. The proper course of action for the Respondent would have been to appeal the Order of Madam Justice Reed to the Federal Court of Appeal
+. Thus, the Respondent's preliminary objection is dismissed. (Emphasis added)
+[17]
+In my view, the Prothonotary's decision in the case at bar became final in the absence of any appeal by the Plaintiff and it clearly deals with the fundamental question of this Court's jurisdiction. The Prothonotary's decision finally settled, as between the parties, the issue of the Federal Court's jurisdiction with respect to section 7(a) of the Act in relation to industrial designs.
+[18]
+In my view it is without doubt that, in this particular proceeding, the Plaintiff is seeking once again to raise the issue of jurisdiction and attempting to indirectly re-litigate an issue which has already been adjudicated upon and finally decided by this Court. Paragraphs 15 and 16 of the Plaintiff's Reply to the Defendant's Counterclaim do not disclose a cause of action or claim that has not already been adjudicated upon and decided. Accordingly, I would grant the Defendant's motion and would strike the above mentioned paragraphs from the Plaintiff's Reply to the Counterclaim. The Defendant is hereby allowed 30 days from the date of this Order to file its Reply.
+[19]
+Finally, considering the time spent in preparation and argument by counsel and the Court to entertain the present motion I am satisfied that it has been wasted because of the conduct of counsel for the Plaintiff in failing to appeal the Prothonotary's order when given the opportunity, for not accepting the Defendant's counsel's request and finally attempting to re-litigate an issue which was clearly determined by a final decision, I agree with the Defendant's counsel that the Plaintiff's allegations in its Reply to the Counterclaim are scandalous, frivolous and vexatious and an abuse of the process of this Court. I hereby allow the Defendant costs on a solicitor-client basis and fix the amount at $2,500.00 payable forthwith.
+[End of document]

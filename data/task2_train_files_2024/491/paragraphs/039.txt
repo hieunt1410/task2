@@ -1,0 +1,7 @@
+[39]
+In the aftermath of the decision of the Supreme Court of Canada in
+Nicholson v. Haldiman-Norfolk Board of Commissioners of Police
+, [1979] 1 S.C.R. 311; 23 N.R. 410; 88 D.L.R.(3d) 671; 78 C.L.L.C. 14,181, the distinction between tribunals exercising their functions in a so-called "administrative" manner, as opposed to a "judicial" or "quasi-judicial" manner in order to determine whether the rules of natural justice apply, is no longer fundamental. Rather, a general duty of "procedural fairness" is to be applied to all administrative decision-making processes, the context of which varies according to the circumstances of the particular instance. In the words of LaForest, J., in
+S.E.P.Q.A. v. Canadian Human Rights Commission
+, [1989] 2 S.C.R. 879; 100 N.R. 241; 62 D.L.R.(4th) 385, at pp. 895-896:
+"Both the rules of natural justice and the duty of fairness are variable standards. Their content will depend on the circumstances of the case, the statutory provisions and the nature of the matter to be decided. The distinction between them therefore becomes blurred as one approaches the lower end of the scale of judicial or quasi-judicial tribunals and the high end of the scale with respect to administrative or executive tribunals. Accordingly, the content of the rules to be followed by a tribunal is now not determined by attempting to classify them as judicial, quasi-judicial, administrative or executive. Instead, the court decides the content of these rules by reference to all the circumstances under which the tribunal operates."

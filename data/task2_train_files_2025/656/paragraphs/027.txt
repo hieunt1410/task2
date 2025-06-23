@@ -1,0 +1,16 @@
+[27]
+For Bayer, the only ratio in
+Farbwerke Hoechst
+is that a medicinal composition cannot circumvent the restriction in s. 41(1) of the
+Patent Act
+requiring the claim to be in a process dependent form. In my view, the decision stands for two separ­ate and distinct propositions, only the second of which is directly linked to s. 41(1). Firstly, the dilution of an original compound with no inventive ingenuity can­not support a second patent. Secondly, to do so would fly in the face of the policy sub­sumed in s. 41(1). In
+Shell Oil Co. v. Commissioner of Patents
+[see footnote 29], the Supreme Court of Canada quoted the above extracts from
+Farbwerke Hoechst
+and summarized its interpretation of that case as follows:
+"... the applicant was asking for a patent on a medicine in respect of which it already had a patent; only this time it was seeking to patent it in a diluted form. [The Court] held that the addition of an inert carrier to the original compound was noth­ing more than dilution and did not result in a further invention over and above that of the compound itself." [see footnote 30]
+This interpretation of
+Farbwerke Hoechst
+by the Supreme Court is of significance because s. 41(1) was not in issue in
+Shell Oil Co.
+which did not deal with sub­stances intended for food or medicine.

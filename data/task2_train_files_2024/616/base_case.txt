@@ -1,0 +1,160 @@
+[1]
+Hargrave, Prothonotary
+: The plaintiff claims, as exclusive Canadian licencee of a patented drum type log debarker, for infringement related to the device, which is manufactured by or for the defendant Realsearch Inc. and marketed by the defendant Valon Kone Brunette Ltd. The device of these defendants, a wood fibre debris sifter, sorter and processor, marketed under the name Deal Processor, processes scrap wood debris which results from storage and handling of logs, particularly broken log chunks, into a useable product, utilizing one piece of equipment. This scrap material would otherwise be difficult to dispose of.
+[2]
+At issue in the plaintiff's motion to strike out are paragraphs 9 and 23 of the amended defence and Counterclaim, particulars of paragraphs 13, 14, 16(b) and 16(c), and an extension of time within which to file a reply and defence to the Counterclaim.
+[3]
+In this instance I will not set out the authorities for the test to apply in the case of striking out a pleading under Federal Court Rule 221, but only say that the test is not an easy one to meet, for it must be plainly, obviously and beyond doubt that the pleading stands no chance of success, but rather is a futile pleading. I now turn to the first of the two paragraphs of the defence which the plaintiff wishes struck out.
+Paragraph 9 Of The Amended Defence
+[4]
+Paragraph 9 of the amended defence provides:
+"The defendant, Realsearch, owns Canadian patent No. 2106950 and United States patent No. 5394912 both entitled 'Wood Fibre Debris Processor' which relate to the Deal Processor."
+The plaintiff submits that ownership of a valid patent or patents by Realsearch is irrelevant in testing for infringement, referring to
+Lightning Fastener Co. v. Colonial Fastener Co.
+, [1932] Ex. C.R. 89, at p. 100:
+"The law protects a patented combination machine even if the infringing machine possesses improvements, patentable improvements; that is immaterial, because if one has taken the substance of the invention, or if the essence or substance of the plaintiff's invention is present in the defendants' combination there is infringement."
+In essence, the plaintiff's patent being earlier than those of the defendant Realsearch, the defendant's patent is said to be irrelevant if the substance of the plaintiff's patent is infringed upon.
+[5]
+The response of the defendant Realsearch, as to the relevance of paragraph 9, is that the defendant's device is not a drum barker, but rather is a wood fibre debris separation and processing device. Here counsel for the defendants refers to the cross-examination of Realsearch's Alister Hume, who explained why the device of Realsearch is not a drum barker, in the conventional sense of tumbling logs within a rotary drum, but a machine which utilizes rotors in a fixed bin in order to process wood waste.
+[6]
+Now a comparison of the plaintiff's patent and of the defendant's patent referred to in paragraph 9 of the defence might well be both relevant and helpful to a judge. Yet against this observation is
+Lightning Fastener
+. However in
+Lightning Fastener
+at issue were machines for producing separable fasteners or flexible interlocking stringers, a device which is described in other various and cumbersome manner in the reasons, but today is known as a zipper. In
+Lightning Fastener
+the machines of both the plaintiff and the defendant produced a zipper, using substantially the same procedure. The defendant's machine was neither new nor did it utilize some unique combination of the steps and elements needed to produce a zipper. In contrast, it is apparent from the patents presently in question, the defendant's set out in affidavit material and the plaintiff's described in the Statement of Claim, that the defendant's machine is fed with scrap wood, whereas the plaintiff's machine is fed with logs. Leaving aside how the machines work and whether there is infringement, for those are questions to be dealt with by a judge at trial, what the machines accomplish and the end product is quite different. I am not convinced that
+Lightning Fastener
+, involving the production of a nearly similar or identical product by a nearly identical means, or the principle it is said to teach, governs the present situation.
+[7]
+It is not clearly plain, obvious and beyond doubt that paragraph 9 discloses no reasonable defence, is immaterial or may delay the fair trial of the action. Paragraph 9 shall remain.
+Paragraph 23 Of The Counterclaim
+[8]
+Paragraph 23, a portion of the counterclaim, sets out that:
+"The defendants have suffered damages as a result of wrongful acts of the plaintiff as pleaded in the Statement of Defence."
+The plaintiff says that the wrongful acts include acquiescence and unlawful conspiracy, set out in paragraphs 17 and 18 of the defence. Here I would note that acquiescence and unlawful conspiracy are only a very small portion of what is set out in paragraphs 17 and 18. However, the plaintiff's point is that the Federal Court has no jurisdiction to entertain claims for damages for the torts of conspiracy or acquiescence.
+[9]
+The defendant's response, which carries the day, is that it specifically pleads s. 45 of the
+Competition Act
+, R.S.C. 1985, c. C-34. Section 45 of the
+Competition Act
+enjoins certain specific behaviour which lessens competition. Section 36(1) of the
+Act
+allows an aggrieved person to sue for loss or damage and s. 36(3) grants jurisdiction to the Federal Court.
+[10]
+Paragraph 23 of the statement of claim is neither clearly and obviously beyond the jurisdiction of the Federal Court nor a futile pleading which ought to be struck out as being prejudicial, delaying or otherwise an abuse of the court. Paragraph 23 of the Counterclaim shall remain.
+Particulars
+Paragraph 13
+[11]
+The defendants, in paragraph 13 of the defence, say that certain portions of the plaintiff's patent are invalid by reason of s. 27(1) of the
+Patent Act
+, essentially being a machine that was not novel, but rather was in use before the plaintiff filed its patent application. The defendants concede that the plaintiff is entitled to particulars of 13(a) and (d) as to prior use or disclosure.
+[12]
+As to 13(b) the plaintiff says it is entitled to know the parts of prior art which render an invention obvious and particularly submit that a list of patents, without more, does not meet that obligation. Here plaintiff's counsel refers to
+FRAGMENT_SUPPRESSED
+In response, the defendants say that the patents to which they refer are few, brief and simple and that a knowledgeable person looking at the patents would easily come to a conclusion as to the basis for the allegation of anticipation or obviousness.
+[13]
+One important aspect of
+Wellcome v. Novopharm
+(supra) is that while there is no indication of the number of patents involved, there were at least numerous articles which were referred to. The more applicable view, in the present instance, is that set out by Mr. Justice Mahoney, as he then was, in
+Omark Industries Inc. v. Windsor Machine Co.
+(1981), 56 C.P.R.(2d) 111 (F.C.T.D.). There the issue was one of particulars and specifically, at p. 113, the portions of various earlier patents that might be relevant. The answer was to the effect that the patents were neither lengthy nor complex and therefore further particulars were not required:
+"The alleged inventions in issue appear relatively simple; the patents in issue are relatively brief: seven or eight pages of text including two and three claims respectively and three very similar, if not identical, figures each. There is no evidence that the other patents referred to are lengthy or complex; I infer that they are probably not. The need for further particulars at this stage of the proceedings is not established" (p. 113)
+[14]
+I have looked at the five patents listed in paragraph 13(b) and an additional patent referred to by the defendants, all of which are exhibits to Mr. Hume's affidavit. The patents are very brief. The illustrations are simple. I do not see any reason for further particulars at this time and all the more so in that the particulars are for pleading: particulars for pleading are generally much less elaborate than those granted at a later stage.
+[15]
+I do not need to deal with paragraph 13(c) in that it refers back to the prior art listed in paragraphs 13(a) and 13(b), which have already been dealt with.
+Paragraph 14
+[16]
+In paragraph 14 of the defence, the defendants say the invention was obvious, being a modification of the prior art described in paragraph 13 of the defence. Any differences between the invention and the prior art are said to be merely a matter of the application of the skill of one skilled in the art. Thus, the defendants say that the plaintiff's machine is not a patentable invention.
+[17]
+The plaintiff says it is entitled to know what parts of the prior art render the invention obvious and "... how, when and where prior public use or sale by another person made the invention obvious."
+[18]
+It seems to me that the plaintiff is mixing two concepts. The first concept is obviousness, which is what the defendants plead. The second concept is prior public use or sale. The defendants do not say in paragraph 14 of the defence that there was any prior use or sale separate and apart from that alleged in paragraph 13, but merely that the plaintiff's invention is an obvious and uninventive modification of the prior art described in paragraph 13. As I have already pointed out, the prior art dealt with in paragraph 13 of the defence is either to be voluntarily particularized by the defendants, or is self evident from the brief patents referred to.
+[19]
+As to the plea of obviousness in paragraph 14, that also is tied to paragraph 13, a paragraph for which some necessary particulars will be provided voluntarily and for which other particulars are not required. The plaintiff needs no further particulars of paragraph 14 for the purpose of pleading.
+Paragraph 16(b) Of The Defence
+[20]
+Paragraph 16(b) of the defence sets out that certain claims of the patent are invalid because:
+"The claims are broader than the alleged invention made by the inventor and are not supported by the disclosure;"
+The plaintiff submits that the defendants must point out the parts of the claims that are not supported by the invention made or disclosed, here referring to
+Bror With v. Ruko of Canada Ltd.
+(1977), 31 C.P.R.(2d) 3, at pp. 4 and 10. In
+Bror
+the defence contained a bare allegation to the effect that the patent claimed more than anything that had been invented. Mr. Justice Walsh required particulars, if only to the extent of confirming the defendant's attack was as limited as was alleged by the defendant during argument. Similarly, the plaintiff refers to
+Outboard Marine Corp. v. Sabre-Saw Chain Ltd.
+(1977), 30 C.P.R.(2d) 95, at p. 96 and to
+Superseal Corp. v. Glaverbel-Mecaniver Canada Ltd.
+(1977), 30 C.P.R.(2d) 97. The latter is helpful for, rather than bare propositions as set out in
+Bror With
+and in
+Outboard Marine
+, Mr. Justice Marceau, as he then was, considered the balance that must be achieved. On the one hand there is the right of the plaintiff to accurately understand the grounds upon which its patent is contested and to have the issue circumscribed in a reasonable fashion. On the other hand, this must be achieved without requiring the defendant to disclose evidence:
+"In order to treat this motion for particulars adequately, one must examine it paragraph by paragraph and in such instances one's examination must be made with respect to general and well-established principles, namely, the right of plaintiff to know with accuracy the grounds of contestation by the defendants of the validity of its patents and the necessity of circumscribing the issue inasmuch as possible without causing the defendants to disclose its evidence, as well as having regard to the particular case, namely, the relative simplicity of the invention disclosed in the patents and the knowledge that plaintiff itself has all of the facts involved in the case and which gives rise to it:" (p. 99)
+Mr. Justice Marceau notes, at the end of this passage, that one must also consider the relative simplicity of the invention which the patent discloses and the knowledge of the plaintiff. In
+Superseal
+the defendants were required to disclose the elements in the plaintiff's patent by which the plaintiff was said to have over-reached what was invented.
+[21]
+The defendants refer to two cases which contain something of what Mr. Justice Marceau teaches in
+Superseal
+. In
+CSI Manufacturing and Distribution Inc. v. Astroflex Inc.
+(1992), 45 C.P.R.(3d) 195, Mr. Justice Noel, as he then was, considered, among other things, the suggestion that claims went beyond the specification and went on to note that this was a question of interpretation of the wording of the claims and that to require particulars "would impose on the defendant a duty to disclose the legal nature of its argument at the trial rather than essential facts, which cannot be required of it." (p. 197).
+[22]
+The defendants also refer to
+Parker v. G.M. Gest Ltd.
+(1952), 15 C.P.R. 76, a decision of Senior Master Marriott, K.C., of the Ontario Supreme Court. Senior Master Marriott adopted the concept from
+Sales Affiliates Inc. v. National Mineral Co. of Canada Ltd.
+(1949), 9 C.P.R. 155 (Ex. C.R.), which I will set out a little more fully, there the issue being, among other things, particulars to determine in what respect the applicants were said to have claimed more than they were entitled to claim under their patent.
+[23]
+In
+Sales Affiliates
+Mr. Justice O'Connor noted that it has been the practice of the Exchequer Court to order particulars of allegations of ambiguity, but not the practice of the court to order particulars where the allegation is that more has been claimed than has been invented and after referring to two exceptions to that proposition, goes on to explain why the court does not usually order such particulars:
+"The reason that it has not been the practice to do so, and why it should not, in my opinion, be done on this motion is because it is solely a matter of argument as to whether or not the claims in the patent are supported by the specifications. Particulars are usually required so that the plaintiff can make the enquiries necessary to meet the case against him at the trial. Nothing of that kind arises here. The specifications and claim speak for themselves and whether the defendant's contention as to the claims is sound or not, is a matter of argument." (pp. 157-158)
+[24]
+I have some difficulty rationalizing this series of cases, for at one end of the spectrum these sort of particulars are granted almost as a matter of course, while at the other end they are similarly denied. I believe the sensible approach taken by Mr. Justice Marceau in
+Superseal
+is not in conflict with what Mr. Justice Noel sets out in
+CSI Manufacturing
+, so long as the particulars stop short of disclosing the legal nature of argument. There may thus be some middle ground as to particulars of the allegation that the claims exceed the specifications. There is here middle ground which will assist the plaintiff to understand the allegation of an over-reaching of the specifications by the claims, yet not give away more of the defendants' argument than is already the case.
+[25]
+The defendants say that the plaintiff's claim, that it has invented a drum-barker, is not in fact disclosed in its patent. This particular has been given by the defendant indirectly as a particular to paragraph 16(a) of the defence and in a slightly round-about way in the affidavit of Realsearch's Alister Hume and in cross-examination on that affidavit.
+[26]
+In the particulars, in answer to paragraph 16(a), the defendants say the plaintiff's invention does not have the characteristics of a drum-barker: that is marginally helpful to enable the plaintiff to understand the plea in question but, even for the purpose of pleading, falls a little short of the minimum required. I think the defendants realized this, for in answer to this particular aspect of the demand for particulars the defendants, in their submissions on this motion, went on to refer to Mr. Hume's affidavit and his cross-examination. The Hume affidavit sets out the opinion of Mr. Hume, businessman and director of the defendant Realsearch Inc., an opinion based upon "approximately 30 years in the business of engineering forest related machinery". Mr. Hume begins, in paragraph 7, by stating that the patented invention "is not a 'drum-barker' as that term is understood in the industry.". He then becomes more specific, setting out a number of ways by which he has come to the opinion that the claims of the patent over-reach the description of the invention in the specifications of the patent. These specific points are certainly adequate by which to allow the plaintiff to understand the defendants' plea that the claims are broader than the invention. Yet the points made by Mr. Hume in his affidavit are not particulars as such.
+[27]
+One aspect of particulars, which are produced pursuant to a demand, is that they are clearly pleadings or indeed, an amendment of the pleadings: see a discussion of this in
+Margem Chartering Co. v. Cosena S.R.L. et al.
+, [1997] 2 F.C. 1001; 127 F.T.R. 161 (T.D.), at p. 1012 [F.C.]. Now a pleading refers to a fairly limited number of specific documents. For example, the
+Federal Court Rules
+defines a pleading as:
+"... a document in a proceeding in which a claim was initiated, defined, defended, or answered." (rule 2)
+An affidavit and cross-examination on that affidavit does not become a pleading in the sense of defining or answering a claim: to hold so would allow pleadings to get completely out of hand, with the parties not knowing the case to be met, or how it had been answered. Indeed, that an affidavit is not a pleading is implicit in the concept that an affidavit may be ordered to stand as a pleading: see Volume 36 of Halsbury, 4th Edition, at paragraph 59, footnote 6.
+[28]
+In summary, were the affidavit of Mr. Hume to be a pleading, the information which he sets out in paragraph 9 would be a completely satisfactory response to the request for particulars. However the affidavit is not a pleading. The defendants shall provide further particulars of paragraph 16(b) of their defence.
+Paragraph 16(c) Of The Defence
+[29]
+Paragraph 16(c) of the defence states that:
+"The invention described and claimed in the 309 Patent has no utility for the purposes indicated by the plaintiff; ..."
+The plaintiff submits it is entitled to be told the way in which the invention disclosed and claimed is inoperative.
+[30]
+The plaintiff refers to
+Outboard Marine
+(supra), however that matter, as reported, is just a bare order requiring particulars of the way in which the invention was not useful. Mr. Justice Noel, in
+CSI Manufacturing
+(supra), was of the view that to particularize a lack of utility would require the defendant to disclose the legal nature of the argument that it intended to make at trial, which cannot be required. Rather, utility is a matter of fact, depending on the circumstances, which is to be decided upon the evidence of experts, as noted in
+French's Complex Ore Reduction Co. v. Electrolytic Zinc Process Co.
+, [1930] S.C.R. 462, at p. 466:
+"Whether in a particular case there is invention, novelty or utility is always a question of fact depending on the special circumstances and stands to be decided on the evidence of those having the technical skill and knowledge enabling them to understand the new art, machine, manufacture, process or composition of matter or the improvement thereon for which the patent was granted."
+In
+French's Complex Ore Reduction
+the usefulness of the patent was determined, by the trial judge, with the assistance of eminent experts: the Supreme Court of Canada was not about to differ with the trial judge as to the approach to be taken.
+[31]
+In the present instance the plaintiff knows enough of the case as to utility that particulars are not required for pleading.
+Conclusion
+[32]
+Following provision of the particulars of an over-reaching of the specifications by the claims, as alleged in paragraph 16(b) of the defence, the plaintiff shall have a reasonable time within which to file a Reply and a Defence to Counterclaim.
+[33]
+For the most part the present exercise sought particulars going beyond those required merely for pleading. However, as success has not been completely one-sided, costs will be in the cause.
+Order accordingly.
+Editor: Jana A. Andersen/saf
+[End of document]

@@ -1,0 +1,169 @@
+Can. (M.C.I.) v. Petrea, [2001] F.T.R. Uned. 844 (TD)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+Le Ministre de la Citoyenneté et de l'Immigration (demandeur) et Marian Petrea (défendeur)
+Indexed As: Canada (Ministre de la Citoyenneté et de l'Immigration) v. Petrea
+Cite As: [2001] F.T.R. Uned. 844
+Federal Court of Canada
+Trial Division
+Blanchard, J.
+December 13, 2001.
+(IMM-4395-00; 2001 FCT 1373; 2001 CFPI 1373)
+Counsel:
+Claude Provencher, for the plaintiff;
+Marian Petrea, on her own behalf, for the defendant.
+Solicitors of Record:
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the plaintiff.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Blanchard, J.
+[Translation]: The Court has before it an application for judicial review from the decision of Roberto Colavecchio, a member of the Appeal Division of the Immigration and Refugee Board ("the Appeal Division") rendered on July 27, 2000.
+[2]
+At the hearing of this judicial review the Court noted that the defendant was absent. The Court is nonetheless satisfied that the application for leave and judicial review was served on the defendant in accordance with the order by Richard Morneau, prothonotary, on September 26, 2000, which authorized a special method of service, namely by leaving a certified copy with an authorized person at the Registry of the Federal Court in Montréal so that the document could be posted there.
+[3]
+On July 29, 1998, the defendant made a sponsoring application for a member of the family class, his wife Claudia Cocilnau.
+[4]
+On August 10, 1998, Claudia Cocilnau, being the defendant's wife, was able to file an application for permanent residence in Canada as a person in the family class.
+[5]
+On March 1, 1999, Claudia Cocilnau had an interview with a visa officer about her application for permanent residence in Canada.
+[6]
+On March 22, 1999, the Canadian Embassy in Bucharest told Claudia Cocilnau and the defendant that the application for permanent residence in Canada and the sponsoring application for a member of the family class had been denied because Ms. Cocilnau was not eligible under paragraph 19(2)(d) of the Immigration Act ("the Act"), R.S.C. 1985, c. I-2, as she was not within the family class within the meaning of subsection 4(3) of the Immigration Regulations, 1978, SOR/78-1/72 ("the Regulations").
+[7]
+The visa officer found that Ms. Cocilnau got married primarily in order to obtain admission to Canada as a member of the family class, not in order to live permanently with her husband.
+[8]
+On April 23, 1999 the defendant filed a notice of appeal with the Appeal Division from the visa officer's decision of March 22, 1999. The appeal was heard on March 6 and May 1, 2000. The Appeal Division allowed the defendant's appeal on July 27, 2000.
+[9]
+In allowing the appeal from the decision by the visa officer Terry Brown the Appeal Division made the following comments:
+[TRANSLATION]
+In reviewing the record it can be seen that the person who conducted the interview was not the person who made the decision on the visa application. The electronic notes (CAIPS) clearly indicate at p. 22 that Terry Brown, who is third secretary in the Immigration Section in Roumania, discussed the interview with the applicant with an unidentified Immigration officer and then made a decision on the visa application. The rule of law is quite clear: the person making the decision must be the one who heard the case.
+On account of this flagrant error, which was detrimental to the appellant, the appeal is allowed.
+[10]
+The only point at issue is: did the Appeal Division make an error of law in hearing the defendant's appeal and allowing it without considering whether it had jurisdiction to do so?
+[11]
+FRAGMENT_SUPPRESSED
+[12]
+For the purposes of the case at bar, the only point at issue is a simple question of law, and hence the appropriate standard is that of correctness.
+[13]
+The plaintiff argued that the Appeal Division did not have jurisdiction to rule on an appeal brought under s. 77(3) of the Act when the person seeking landing was not a member of the family class. The relevant provisions of the Act are as follows:
+77. (1) Where a person has sponsored an application for landing made by a member of the family class, an immigration officer or a visa officer, as the case may be, may refuse to approve the application on the grounds that
+(a) the person who sponsored the application does not meet the requirements of the regulations respecting persons who sponsor applications for landing, or
+(b) the member of the family class does not meet the requirements of this Act or the regulations,
+and the person who sponsored the application shall be informed of the reasons for the refusal.
+. . . . .
+77(3) Appeals by sponsors
+(3) Subject to subsections (3.01) and (3.1), a Canadian citizen or permanent resident who has sponsored an application for landing that is refused pursuant to subsection (1) may appeal to the Appeal Division on either or both of the following grounds:
+(a) on any ground of appeal that involves a question of law or fact, or mixed law and fact; and
+(b) on the ground that there exist compassionate or humanitarian considerations that warrant the granting of special relief.
+77. (1) l'agent d'immigration ou l'agent des visas, selon le cas, peut rejeter une demande parrainée d'établissement présentée par un parent pour l'un ou l'autre des motifs suivants - dont doit être alors informé le répondant:
+a) le répondant ne remplit pas les conditions fixées par les règlements;
+b) le parent ne remplit pas les conditions fixées par la présente loi et ses règlements.
+. . . . .
+77(3) Appel interjeté par un répondant
+(3) S'il est citoyen canadien ou résident permanent, le répondant peut, sous réserve des paragraphes (3.01) et (3.1), en appeler devant la section d'appel en invoquant les moyens suivants:
+a) question de droit, de fait ou mixte;
+b) raisons d'ordre humanitaire justifiant l'octroi d'une mesure spéciale.
+[14]
+Section 4(3) of the Immigration Regulations, 1978 reads as follows:
+(3) The family class does not include a spouse who entered into the marriage primarily for the purpose of gaining admission to Canada as a member of the family class and not with the intention of residing permanently with the other spouse.
+(3) La catégorie des parents ne comprend pas le conjoint qui s'est marié principalement dans le but d'obtenir l'admission au Canada à titre de parent et non dans l'intention de vivre en permanence avec son conjoint.
+[15]
+In the text Immigration Law and Practice, Toronto, Butterworths, 2 vol. (loose-leaf), 1992, updated July 2001, at pp. 10.41-10.42, the writer Lorne Waldman says the following:
+10.145.1 ... If the Appeal Division determines that the applicant is not a member of the family class, then the appeal must be dismissed because the Appeal Division only has jurisdiction to hear an appeal from the rejection of an application for landing made by a member of the family class.
+[16]
+According to the precedents on the point, when a plaintiff is not covered by the "family class" definition, the Appeal Division has no jurisdiction to rule on a landing application. Accordingly, I consider that the Appeal Division must first look at the evidence as a whole and then form a conclusion as to whether the person who has made a sponsored landing application is a member of the family class or is a part of the class contemplated by subsection 4(3) of the Regulations. If the Appeal Division finds that the individual is a person contemplated by subsection 4(3) of the Regulations, it does not have jurisdiction to determine whether the visa officer's decision is justified. In Samra v. Canada (Minister of Citizenship and Immigration) [2000] F.C.J. No. 1491, QL, at para. 11, Muldoon J. applied this reasoning, stating that:
+As the Appeal Division can only hear those family class appeals where the applicants are found to be within the provided definition, if the applicant is determined to be outside that category, the Appeal Division has no jurisdiction to make a determination regarding the application for landing. This is demonstrated in the decisions of Blais, J. in Chattat v. Canada (Minister of Citizenship and Immigration) (May 26, 1999, IMM-5220-98) . . .
+[17]
+In the case at bar the Appeal Division did not consider this question of jurisdiction. In its reasons it made no analysis of the relevant facts to determine whether, under the definition, Ms. Cocilnau was a person included in the family class. In my view, that exercise was necessary in order to determine whether the Appeal Division had jurisdiction to rule on the merits of the dismissal of the landing application.
+[18]
+In Taggar v. Canada, [1989] 3 F.C. 576, Pratte J.A. of the Federal Court of Appeal left no doubt about the matter: the appeal must be conferred by the Act, that is, for the purposes of the case at bar, the appeal against the denial of the landing application must be submitted by a person who is in the respondent's family class. Further, the learned judge added at 582:
+In this case, therefore, the Board had to rule on the validity of the respondent's marriage to Ranjit Singh Taggar to determine whether they had jurisdiction to hear the appeal.
+[19]
+It is impossible to conclude based on the reasons in the Appeal Division's decision that the respondent Ms. Cocilnau in fact is a member of the family class, a finding which had to be made in order to confer jurisdiction on the Appeal Division. In the absence of such a finding, I am obliged to conclude that the Appeal Division acted without jurisdiction.
+[20]
+For all the foregoing reasons, the application for judicial review is allowed.
+[21]
+Counsel for the plaintiff did not suggest certification of a serious question of general importance resulting from the application for judicial review. No question will be certified.
+ORDER
+[22]
+THE COURT ORDERS that:
+1. the application for judicial review is allowed;
+2. the matter is referred back to a new panel of the IRB Appeal Division for re-hearing and determination;
+3. these reasons and this order shall be served personally by the plaintiff on the defendant within 20 days of the date of the order.
+....................
+[1]
+Le juge Blanchard
+: La Cour est saisie d'une demande de contrôle judiciaire de la décision de Me Roberto Colavecchio, commissaire à la Section d'appel de la Commission de l'immigration et de la Section du statut de réfugié ("Section d'appel") rendue le 27 juillet 2000.
+[2]
+A l'audience de ce contrôle judiciaire, la Cour a constaté l'absence du défendeur. La Cour est néanmoins satisfaite que la demande d'autorisation et de contrôle judiciaire ait été signifiée au défendeur, conformément à l'ordonnance du 26 septembre 2000 de Me Richard Morneau, protonotaire, qui autorisait un mode spécial de signification, soit en laissant un exemplaire certifié conforme à une personne autorisée, au greffe de la Cour fédérale à Montréal afin que le document y soit affiché.
+[3]
+Le 29 juillet 1998, le défendeur a présenté une demande de parrainage de parent à l'endroit de son épouse Claudia Cocilnau.
+[4]
+Le 10 août 1998, Claudia Cocilnau, étant l'épouse du défendeur, a pu présenter une demande de résidence permanente au Canada à titre de personne de la catégorie de famille.
+[5]
+Le 1er mars 1999, Claudia Cocilnau a participé à une entrevue avec un agent des visas concernant sa demande de résidence permanente au Canada.
+[6]
+Le 22 mars 1999, l'ambassade du Canada à Bucarest a informé Claudia Cocilnau et le défendeur que la demande de résidence permanente au Canada et la demande de parrainage de parent avaient été refusées car Mme Cocilnau n'était pas admissible aux termes de l'alinéa 19(2)d) de la Loi sur l'immigration ("Loi"), L.R.C. 1985, c. I-2, car elle ne faisait pas partie de la catégorie des parents au sens du paragraphe 4(3) du Règlement sur l'immigration de 1978, DORS/78-1/72, ("Règlement").
+[7]
+L'agent des visas a déterminé que Mme Cocilnau s'est marié principalement dans le but d'obtenir l'admission au Canada à titre de parent et non dans l'intention de vivre en permanence avec son conjoint.
+[8]
+Le 23 avril 1999, le défendeur a déposé un avis d'appel auprès de la Section d'appel à l'encontre de la décision de l'agent des visas du 22 mars 1999. L'appel fut entendu le 6 mars et le 1er mai 2000. La Section d'appel a accueilli l'appel du défendeur le 27 juillet 2000.
+[9]
+En accueillant l'appel de la décision de l'agent des visas, Terry Brown, la Section d'appel a tenu les propos suivants:
+En faisant l'analyse du dossier on remarque que la personne qui a fait l'entrevue n'est pas la personne qui a rendu la décision concernant la demande de visa. Les notes électroniques (CAIPS) à la page 22 indiquent clairement que Terry Brown, qui est troisième Secrétaire à la Section d'immigration en Roumanie, a discuté avec un agent d'immigration non identifié de l'entrevue avec la requérante pour ensuite rendre une décision sur la demande de visa. Le principe de droit est très clair, la personne qui prend la décision doit être celle qui entend l'affaire.
+Suite à cette erreur flagrante qui cause un préjudice pour l'appelant l'appel est accueilli.
+[10]
+L'unique question en litige est la suivante: Est-ce que la Section d'appel a commis une erreur de droit en se saisissant de l'appel du défendeur et en l'accueillant sans avoir examiné si elle en avait la juridiction?
+[11]
+Dans l'arrêt Khangura c. Canada (Ministre de la citoyenneté et de l'immigration) (2000), 191 F.T.R. 311, le juge O'Keefe a traité de la norme de contrôle applicable dans des appels de décisions d'agent de visas. Au paragraphe 21 de sa décision, le juge O'Keefe précisait:
+[21] La norme de contrôle qui s'applique à la décision de la section d'appel est celle de la décision correcte lorsqu'une question de droit est en cause et celle de la décision raisonnable simpliciter lorsqu'une question de fait et de droit est en cause. Les conclusions de fait tirées par la section d'appel ne devraient être annulées que si elles sont manifestement erronées.
+[12]
+Pour les fins du présent litige, l'unique question en litige porte sur une pure question de droit, la norme appropriée est donc celle de la décision correcte.
+[13]
+Le demandeur argumente que la Section d'appel n'a pas la juridiction pour se prononcer sur un appel interjeté conformément au paragraphe 77(3) de la Loi lorsque la personne qui a fait la demande de droit d'établissement n'est pas un membre de la catégorie des parents. Les dispositions pertinentes de la Loi sont les suivantes:
+77.(1) l'agent d'immigration ou l'agent des visas, selon le cas, peut rejeter une demande parrainée d'établissement présentée par un parent pour l'un ou l'autre des motifs suivants - dont doit être alors informé le répondant:
+a) le répondant ne rempli pas les conditions fixées par les règlements;
+b) le parent ne remplit pas les conditions fixées par la présente loi et ses règlements.
+[. . .]
+77(3) Appel interjeté par un répondant
+(3) S'il est citoyen canadien ou résident permanent, le répondant peut, sous réserve des paragraphes (3.01) et (3.1), en appeler devant la section d'appel en invoquant les moyens suivants:
+(a) question de droit, de fait ou mixte;
+b) raisons d'ordre humanitaire justifiant l'octroi d'une mesure spéciale.
+77.(1) Where a person has sponsored an application for landing made by a member of the family class, an immigration officer or a visa officer, as the case may be, may refuse to approve the application on the grounds that
+(a) the person who sponsored the application does not meet the requirements of the regulations respecting persons who sponsor applications for landing, or
+(b) the member of the family class does not meet the requirements of this Act or the regulations,
+and the person who sponsored the application shall be informed of the reasons for the refusal.
+[. . .]
+77(3) Appeals by sponsors
+(3) Subject to subsections (3.01) and (3.1), a Canadian citizen or permanent resident who has sponsored an application for landing that is refused pursuant to subsection (1) may appeal to the Appeal Division on either or both of the following grounds:
+(a) on any ground of appeal that involves a question of law or fact, or mixed law and fact; and
+(b) on the ground that there exist compassionate or humanitarian considerations that warrant the granting of special relief.
+[14]
+Le paragraphe 4(3) du Règlement sur l'immigration, 1978, se lit comme suit:
+(3) La catégorie des parents ne comprend pas le conjoint qui s'est marié principalement dans le but d'obtenir l'admission au Canada à titre de parent et non dans l'intention de vivre en permanence avec son conjoint.
+(3) The family class does not include a spouse who entered into the marriage primarily for the purpose of gaining admission to Canada as a member of the family class and not with the intention of residing permanently with the other spouse.
+[15]
+Dans son ouvrage Immigration Law and Practice, Toronto, Butterworths, 2 vol. (à feuilles mobiles), 1992, mise à jour juillet 2001, aux pages 10.41-10.42, l'auteur Lorne Waldman précise ce qui suit:
+10.145.1 ... If the Appeal Division determines that the applicant is not a member of the family class, then the appeal must be dismissed because the Appeal Division only has jurisdiction to hear an appeal from the rejection of an application for landing made by a member of the family class.
+[16]
+Selon la jurisprudence en la matière, lorsqu'un demandeur n'est pas visé par la définition de "parent", la Section d'appel ne possède pas la juridiction pour se prononcer sur une demande d'établissement. Ainsi, je suis d'avis que la Section d'appel doit d'abord considérer l'ensemble de la preuve et ensuite conclure si la personne qui a présenté une demande parrainée d'établissement est un parent ou si elle fait partie de la catégorie prévue au paragraphe 4(3) du Règlement. Dans l'éventualité où la Section d'appel juge que l'individu est une personne prévue au paragraphe 4(3) du Règlement, celle-ci n'a donc pas la juridiction pour déterminer si la décision de l'agent des visas est justifiée. Le juge Muldoon dans l'arrêt Samra c. Canada (ministre de la Citoyenneté et de l'Immigration) [2000] A.C.F. no. 1491, en ligne: QL, au paragraphe 11, a appliqué ce raisonnement en affirmant que:
+... La section d'appel ne peut entendre des appels concernant des parents que lorsque la section a jugé que le demandeur est visé par la définition; lorsque la section estime que le demandeur n'est pas visé par cette définition, elle n'a pas le pouvoir de se prononcer sur la demande d'établissement. C'est ce que démontrent les décisions prononcées par le juge Blais dans Chattat c. Canada (Ministre de la Citoyenneté et de l'Immigration) (29 juillet 1998, IMM-5200-97).
+[17]
+En l'espèce, la Section d'appel ne s'est pas penchée sur cette question de juridiction. Dans ses motifs, elle ne fait aucune analyse des faits pertinents pour déterminer si Mme Cocilnau était une personne comprise dans la catégorie des parents selon la définition. A mon avis, un tel exercice est nécessaire afin de déterminer si la Section d'appel avait la juridiction pour se prononcer sur le bien fondé du rejet de la demande de droit d'établissement.
+[18]
+Le juge Pratte de la Cour d'appel fédérale, dans l'arrêt Taggar c. Canada, [1989] 3 C.F. 576, n'a laissé planer aucun doute, l'appel doit être conféré par la Loi, soient, pour les fins de la présente affaire, l'appel quant au refus d'une demande de droit d'établissement, doit être soumis par une personne appartenant à la catégorie de la famille du répondant. De plus, le savant juge ajoutait à la page 582:
+... En l'espèce, la Commission avait donc à se prononcer sur la validité du mariage de la répondante avec M. Ranjit Singh Taggarp afin de déterminer si elle avait compétence pour entendre l'appel.
+[19]
+Il est impossible de conclure, à la lumière des motifs de la décision de la Section d'appel, que le répondant, Mme Cocilnau, est effectivement membre de la catégorie des parents, une détermination nécessaire afin de conférer juridiction à la Section d'appel. A défaut d'une telle détermination, je suis tenu de conclure que la Section d'appel a agi sans juridiction.
+[20]
+Pour l'ensemble de ces motifs la demande de contrôle judiciaire est accueillie.
+[21]
+L'avocat du demandeur n'a proposé la certification d'une question grave de portée générale découlant de la demande de contrôle judiciaire. Aucune question ne sera certifiée.
+ORDONNANCE
+[22]
+LA COUR ORDONNE que:
+1. La demande de révision judiciaire est accueillie.
+2. L'affaire est renvoyée devant un tribunal nouvellement constitué de la Section d'appel de la CISR pour nouvelle audition et détermination.
+3. Ces motifs et ordonnance soient signifiés personnellement au défendeur par le demandeur dans un délai de vingt (20) jours de la date de cette ordonnance.
+[End of document]

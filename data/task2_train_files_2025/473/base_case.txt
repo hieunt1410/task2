@@ -1,0 +1,172 @@
+I.
+Overview
+[1]
+O'Reilly, J.
+: Mr. Gerard C. De Leeuw enlisted in the Canadian Army in the fall of 1944 when he was 18. While he was eager to serve overseas, he never made it there. At the time, only soldiers over 19 were sent into active battle. His 19th birthday was not until the spring of 1945 and, at that point, the war was winding down. He was discharged from the Army in September 1945. After the war, he played professional football with the Winnipeg Blue Bombers from 1947 to 1952.
+[2]
+In 2007, Mr. De Leeuw applied for a veteran's pension based on a disability - heart murmur and coronary artery disease. The Minister of Veterans Affairs dismissed Mr. De Leeuw's application because he had failed to establish that his disability was in any way connected to his military service. Mr. De Leeuw sought to overturn the Minister's decision before a Review Tribunal, an Appeal Board, and two reconsideration panels of the Veterans Review and Appeal Board, but at each step his application was dismissed.
+[3]
+Mr. De Leeuw now seeks judicial review of the latest reconsideration decision, arguing that the panel erred in its interpretation of the relevant provisions of the
+Pension
+Act
+, RSC 1985, c P-6, failed to recognize his rights under the
+Canadian Charter of Rights and Freedoms
+, and unreasonably concluded that he had not established his entitlement to a pension. He asks me to overturn the panel's decision and order another panel to reconsider his claim.
+[4]
+I can find no basis for overturning the panel's decision and must, therefore, dismiss this application for judicial review. I can find no error in the panel's analysis of the
+Pension
+Act
+or the
+Charter
+; nor can I find that the panel's conclusion that Mr. De Leeuw did not meet the eligibility requirements for a pension was unreasonable.
+[5]
+The three issues are:
+1. Did the panel err in its interpretation of the
+Pension
+Act
+?
+2. Have Mr. De Leeuw's rights under sections 15 and 12 of the
+Charter
+been infringed?
+3. Was the Board's conclusion unreasonable?
+II.
+Factual Background
+[6]
+Mr. De Leeuw enlisted on October 11, 1944. He underwent a medical examination which recorded a "soft systolic murmur" that disappeared with exercise. While Mr. De Leeuw signed the medical certificate, he says he was not informed about the heart murmur. Mr. De Leeuw also says that he had dental work done the following day, and that he was not given any antibiotics for it. He suggests that this treatment may have caused an infection in his heart valve.
+[7]
+During his time in the Army, Mr. De Leeuw did not have any heart problems. He kept up with his fellow soldiers during training.
+[8]
+After the war, he played professional football for five years. He retired after he was diagnosed with a heart murmur and other related symptoms.
+[9]
+Mr. De Leeuw did not experience any further heart trouble until 1985 when he had an operation for a coronary artery bypass and aortic valve replacement.
+III.
+The Panel's Decision
+[10]
+The panel reviewed the evidence relating to Mr. De Leeuw's pension application. It also considered Mr. De Leeuw's arguments under the
+Pension
+Act
+and the
+Charter
+.
+[11]
+Mr. De Leeuw argued before the panel that his right to equality under s 15 of the
+Charter
+had been infringed because he had been denied a pension on the basis of his pre-existing heart condition. Other soldiers who did not have such a condition but went on to experience heart trouble while serving in the Canadian Forces would be entitled to a pension, but he would not. The panel concluded that Mr. De Leeuw was not treated differentially because of his disability; he was simply ineligible. Further, he had not been treated as less worthy or in a manner that deprived him of human dignity.
+[12]
+Mr. De Leeuw argued that he was entitled to a pension according to the terms of s 21(1) of the
+Pension
+Act
+.
+That provision states that "where a member of the forces suffers disability resulting from an injury or disease ... that was attributable to or was incurred during such service" a pension shall be awarded. According to Mr. De Leeuw, the word "incurred" means the same as "existed" and, therefore, since he had a disability during his service, he was entitled to a pension.
+[13]
+The panel disagreed. It found no evidence linking Mr. De Leeuw's heart condition to his service in the military and concluded, therefore, that he was not entitled to a pension.
+(1) Did the panel err in its interpretation of the
+Pension
+Act
+?
+[14]
+The
+Pension
+Act
+provides that members of the forces are entitled to a pension if they suffer a disability "that was attributable to or was incurred during such military service" (s 21(1)(a) - enactments cited are set out in Annex A).
+[15]
+Mr. De Leeuw argues that, although his heart murmur was detected when he enlisted, it was "incurred" during his military service in the sense that it was ongoing. He also argues that other provisions of the
+Act
+assist him. In particular, he points to paragraph 21(1)(c), which states that "no deduction shall be made from the degree of actual disability of a member" in respect of a disability "that existed in the member before the member's period of service". He also cites subsection 21(10), which provides that "[i]nformation given by a member of the forces at the time of the enlistment of the member with respect to a disability ... is not evidence that the disability ... existed prior to the enlistment ... unless there is corroborating evidence".
+[16]
+In my view, the word "incurred" in the context of s 21(1)(a) means that the disability must have arisen during the member's military service. The provision requires that the disability be incurred
+during
+the member's service, which introduces a temporal requirement. This interpretation is reinforced by the French version of the paragraph where the corresponding phrase states that the disability must have "
+survenue
+au cours du service militaire" - meaning that the onset or appearance of the disability must have taken place during the member's service (
+Robert & Collins
+, 2nd ed., 2000).
+[17]
+Therefore, the panel correctly applied s 21(1)(a) when it required Mr. De Leeuw to provide evidence of a linkage between his condition and his military service. A causal connection between them must be proved:
+FRAGMENT_SUPPRESSED. In light of the evidence showing that Mr. De Leeuw's condition existed before he entered the military and the absence of evidence that it was aggravated during his services, I cannot conclude that the panel erred in finding that he was not eligible for a pension.
+[18]
+The other provisions of the
+Act
+to which Mr. De Leeuw refers do not appear to have been relied on at his hearing before the panel. In any case, they do not assist him. Paragraph 21(1)(
+c
+) expressly states that a deduction can be made if a disability was "obvious or was recorded on medical examination prior to enlistment" (s 21(1(c)(ii)). Mr. De Leeuw's answer is that the provision may allow a deduction but it does not justify a denial of a pension altogether. But, as pointed out above, Mr. De Leeuw is not eligible for a pension. Section 21(1)(c) appears to be directed to persons who are eligible for a pension, but also had a pre-existing condition.
+[19]
+Similarly, subsection 21(10) does not assist Mr. De Leeuw. It does not appear that he provided any information about a heart condition when he enlisted. Even if he had, that information would have been corroborated by the medical tests performed on him at the time.
+[20]
+I see no error, therefore, in the panel's conclusion that Mr. De Leeuw is not eligible for a pension under the
+Pension
+Act
+.
+(2) Have Mr. De Leeuw's rights under sections 15 and 12 of the
+Charter
+been infringed?
+[21]
+Mr. De Leeuw argues that he has been treated differentially on the basis of his disability. In particular, he notes that other soldiers who developed heart trouble during their military service are entitled to a pension while he, because he had a heart condition before he enlisted, is not.
+[22]
+In my view, the Board correctly decided that Mr. De Leeuw had not been subjected to differential treatment because of his disability. As Justice James Russell put it in
+Lunn
+, above, Mr. De Leeuw "has not been singled out for differential treatment; he has simply had his claim denied" (para 75).
+[23]
+Regarding Mr. De Leeuw's argument under s 12 - that he has been subjected to cruel and unusual treatment or punishment - he submits that he has, in effect, been denied a disability benefit on the grounds that he has a disability. The grounds on which he deserves a pension have been given as a reason for denying him one, he says. And this, he maintains, amounts to cruel and unusual treatment.
+[24]
+I interpret Mr. De Leeuw's submissions on this point as amounting to an argument that it is absurd, or perverse, to deny him a pension on the very grounds for which he claims to qualify for one. This is really an argument about the reasonableness of the panel's decision, which is the next issue. It is not seriously contended that Mr. De Leeuw has suffered cruel and unusual treatment.
+(3) Was the Board's conclusion unreasonable?
+[25]
+A decision is unreasonable only if it falls outside the range of defensible outcomes based on the facts and the law:
+Dunsmuir v. New Brunswick
+, 2008 SCC 9 at para 47.
+[26]
+I have already concluded that the panel correctly decided that applicants for a pension must show a connection between their disability and their military service. Here, Mr. De Leeuw had not presented any evidence of that essential connection. In particular, there is no record of the dental treatment he described. Therefore, he had not proved his eligibility.
+[27]
+To my mind, the Board's conclusion that Mr. De Leeuw was not eligible for a pension was reasonable in light of the facts and the law before the panel.
+IV.
+Conclusion and Disposition
+[28]
+The reconsideration panel applied the law correctly and reasonably concluded that Mr. De Leeuw had not shown his eligibility for a pension. I must, therefore, dismiss this application for judicial review, with costs. In light of the circumstances, I would fix costs in the amount of $200.00.
+JUDGMENT
+[29]
+THIS COURT'S JUDGMENT is that
+1. The application for judicial review is dismissed, with costs.
+2. Costs are fixed in the amount of $200.00.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+Annex
+Canadian Charter of Rights and Freedoms
+, Part I of the
+Constitution Act, 1982
+, being Schedule B to the
+Canada Act 1982
+(UK), 1982, c 11
+Treatment or punishment
+12. Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.
+Equality before and under law and equal protection and benefit of law
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+Pension Act
+, RSC, 1985, c P-6
+Service during war, or special duty service
+21. (1) In respect of service rendered during World War I, service rendered during World War II other than in the non-permanent active militia or the reserve army, service in the Korean War, service as a member of the special force, and special duty service,
+(a) where a member of the forces suffers disability resulting from an injury or disease or an aggravation thereof that was attributable to or was incurred during such military service, a pension shall, on application, be awarded to or in respect of the member in accordance with the rates for basic and additional pension set out in Schedule I;
+(b) where a member of the forces dies as a result of an injury or disease or an aggravation thereof that was attributable to or was incurred during such military service, a pension shall be awarded in respect of the member in accordance with the rates set out in Schedule II;
+(c) no deduction shall be made from the degree of actual disability of a member of the forces who has rendered service in a theatre of actual war, service in the Korean War or special duty service on account of a disability or disabling condition that existed in the member before the member's period of service in World War I or World War II, service in the Korean War or special duty service, as the case may be, except
+(i) to the extent that the member is receiving a pension for that disability or disabling condition, or
+(ii) to the extent that that disability or disabling condition was obvious or was recorded on medical examination prior to enlistment;
+. . . . .
+Information volunteered by member as to medical condition to be corroborated
+(10) Information given by a member of the forces at the time of the enlistment of the member with respect to a disability or disabling condition is not evidence that the disability or disabling condition existed prior to the enlistment of the member unless there is corroborating evidence that establishes beyond a reasonable doubt that the disability or disabling condition existed prior to the time the member became a member of the forces.
+Loi constitutionnelle de 1982 (R.-U.), constituant l'annexe B de la Loi de 1982 sur le Canada (R.-U.)
+, 1982, ch 11
+Cruauté
+12. Chacun a droit à la protection contre tous traitements ou peines cruels et inusités.
+Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+15. (1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+Loi sur les pensions
+, L R 1985, ch P-6
+Service pendant la guerre ou en service spécial
+21. (1) Pour le service accompli pendant la Première Guerre mondiale ou la Seconde Guerre mondiale, sauf dans la milice active non permanente ou dans l'armée de réserve, le service accompli pendant la guerre de Corée, le service accompli à titre de membre du contingent spécial et le service spécial:
+a) des pensions sont, sur demande, accordées aux membres des forces ou à leur égard, conformément aux taux prévus à l'annexe I pour les pensions de base ou supplémentaires, en cas d'invalidité causée par une blessure ou maladie - ou son aggravation - survenue au cours du service militaire ou attribuable à celui-ci;
+b) des pensions sont accordées à l'égard des membres des forces, conformément aux taux prévus à l'annexe II, en cas de décès causé par une blessure ou maladie - ou son aggravation - survenue au cours du service militaire ou attribuable à celui-ci;
+c) l'invalidité ou l'affection entraînant incapacité dont était atteint le membre des forces qui a accompli du service sur un théâtre réel de guerre, du service pendant la guerre de Corée ou du service spécial, et qui est antérieure au service accompli pendant la Première ou la Seconde Guerre mondiale, au service accompli pendant la guerre de Corée ou au service spécial n'autorise aucune déduction sur le degré d'invalidité véritable, sauf dans la mesure où il reçoit une pension à cet égard ou si l'invalidité ou l'affection était évidente ou a été consignée lors d'un examen médical avant l'enrôlement;
+[. . . . .]
+Corroboration nécessaire à l'égard des renseignements fournis volontairement par un membre quant à son état de santé
+(10) Les renseignements fournis par un membre des forces au moment de son enrôlement en ce qui concerne une invalidité ou une affection entraînant incapacité ne constituent pas une preuve que l'invalidité ou l'affection entraînant l'incapacité existait avant son enrôlement sauf si ces renseignements sont corroborés par une preuve qui établit, hors de tout doute raisonnable, que l'invalidité ou l'affection entraînant incapacité existait avant son enrôlement.
+[End of document]

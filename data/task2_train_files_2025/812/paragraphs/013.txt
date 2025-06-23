@@ -1,0 +1,29 @@
+[13]
+On August 8, 2000, the Minister wrote the following letters to BMS:
+"It has come to our attention that patent 11983436 (the '436 patent) listed by Bristol-Myers Squibb Canada Inc. (Bristol-Myers Squibb) for nefazadone hydrochloride 50, 100, 150 and 200 mg tablets on the patent register on February 18, 2000, was added incorrectly.
+"As you know, the '436 patent was added to the Patent Register on the basis of a patent list in respect of a supplemental new drug submission (S/NDS) for a change in brand-name from SERZONE to SERZONE-5HT
+2
+. The notice of compliance (NOC) for the S/NDS was issued on February 7, 2000. At your request, the Drug Identification Numbers (DINs) were maintained under the new brand-name SERZONE-5HT
+2
+.
+"When auditing the patent list containing the '436 patent, we allowed the patent to be added to the patent register. In so doing, we took note of the decision of Madame Justice McGillis of the Federal Court, Trial Division in
+Apotex Inc. v. Canada (Minister of Health)
+(1999), 165 F.T.R. 42; 87 C.P.R.(3d) 271. In that case, Justice McGillis conducted an analysis as to whether a supplement was a submission for purposes of section 4 of the
+PM(NOC) Regulations
+. She answered in the affirmative, on the grounds that a supplement was a 'submission for NOC'.
+"It has subsequently come to our attention that the above case was based upon an analysis of the
+PM(NOC) Regulations
+prior to the 1998 amendments. Justice McGillis specified at paragraph 48 of her reasons that she had interpreted and applied the
+PM(NOC) Regulations
+as they existed prior to 1998. She did not, therefore, have the opportunity to consider the introduction of subsection 4(6) of the
+PM(NOC) Regulations
+. That subsection provides:
+'4(6) A person who submits a patent list, must keep the list up to date but may not add a patent to an existing patent except in accordance with subsection (4)'
+"The introduction of subsection 4(6) appears to be a reconfirmation by the government that, although first persons are required to make updates to their patent lists (such as change of address for service of a NOA), patents must be added to the register within the strict time requirements specified in section 4. The wording is clear that a new patent cannot be introduced to an existing list, except through subsection 4(4).
+"The '436 patent was not added under subsection 4(4). The addition of the patent was through subsection 4(1) on the basis of the S/NDS. In this particular case, since the nature of the supplemental submission, being a brand name change, does not change the drug, the '436 is effectively added to the existing patent list for nefazadone hydrochloride. This is contrary to the express wording of subsection 4(6).
+"We also note that in the
+Apotex
+case, Justice McGillis did not have the opportunity to consider the effect of the introduction of subsection 4(6) in circumstances where the supplement was for a brand name change - a change for which the drug necessarily remains the same.
+"Pursuant to the authority vested in the Minister of Health by subsection 3(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+[SOR/93-133 as amended] the '436 patent will be removed from the Patent Register for the above products, subject to any written representations. Any representations made in response to this letter should be forwarded to the undersigned within 30 calendar days from the date of this letter. Any written representations that are received may be forwarded by this office to the Canadian Intellectual Property Office (CIPO) for review. If, after 30 days following the date of this letter and having taken into account CIPO's review and any representations, the TPP [Therapeutic Products Programme of the Minister of Health] remains of the view that the patent should not be listed, then the identified patent will be removed from the Register." [see footnote 5]

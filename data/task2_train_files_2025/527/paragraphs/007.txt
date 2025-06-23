@@ -1,0 +1,9 @@
+[7]
+The essential issue between the parties, on this motion, is the application of the Proceedings Against the Crown Act, R.S.O. 1980, c. 393. Section 5 provides:
+"5.--(1) Except as otherwise provided in this Act, and notwithstanding section 11 of the Interpretation Act, the Crown is subject to all liabilities in tort to which, if it were a person of full age and capacity, it would be subject,
+(a) in respect of a tort committed by any of its servants or agents;
+(b) in respect of a breach of the duties that a person owes to his servants or agents by reason of being their employer;
+(c) in respect of any breach of the duties attaching to the ownership, occupation, possession or control of property; and
+(d) under any statute, or under any regulation or bylaw made or passed under the authority of any statute.
+(2) No proceedings shall be brought against the Crown under clause (1)(a) in respect of an act or omission of a servant or agent of the Crown unless proceedings in tort in respect of such act or omission may be brought against that servant or agent or his personal representative.
+'Crown' means Her Majesty the Queen in Right of Ontario."

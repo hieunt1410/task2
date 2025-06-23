@@ -1,0 +1,34 @@
+[15]
+Health and Safety Officers are designed by the Minister of Labour under subsection 140(1) of the
+Code
+. Under subsection 127.1, 129, 141, 141.1 and 142 of Part II of the
+Code
+, HSOs have been granted broad powers for the purpose of carrying out investigations. They also have broad discretion to determine if a provision of Part II of the
+Code
+has been violated. If a violation is found, the HSO has the discretion to issue a direction or undertake other action. This is set out in subsection 127.1(10) and subsection 145(1) of the
+Code
+:
+"
+Duty and power of health and safety officer
+"127.1(10) On completion of the investigation, the health and safety officer
+(a) may issue directions to an employer or employee under subsection 145(1);
+(b) may, if in the officer's opinion it is appropriate, recommend that the employee and employer resolve the matter between themselves; or
+(c) shall, if the officer concludes that a danger exists as described in subsection 128(1), issue directions under subsection 145(2).
+. . . . .
+"
+Direction to terminate contravention
+"145(1) A health and safety officer who is of the opinion that a provision of this Part is being contravened or has recently been contravened may direct the employer or employee concerned, or both, to
+(a) terminate the contravention within the time that the officer may specify; and
+(b) take steps, as specified by the officer and within the time that the officer may specify, to ensure that the contravention does not continue or re-occur."
+"
+Pouvoirs de l'agent de santé et de sécurité
+"127.1(10) Au terme de l'enquête, l'agent de santé et de sécurité:
+a) peut donner à l'employeur ou à l'employé toute instruction prévue au paragraphe 145(1);
+b) peut, s'il l'estime opportun, recommander que l'employeur et l'employé règlent à l'amiable la situation faisant l'objet de la plainte;
+c) s'il conclut à l'existence de l'une ou l'autre des situations mentionnées au paragraphe 128(1), donne des instructions en conformité avec le paragraphe 145(2).
+. . . . .
+"
+Cessation d'une contravention
+"145(1) S'il est d'avis qu'une contravention à la présente partie vient d'être commise ou est en train de l'être, l'agent de santé et de sécurité peut donner à l'employeur ou à l'employé en cause l'instruction:
+a) d'y mettre fin dans le délai qu'il précise;
+b) de prendre, dans les délais précisés, les mesures qu'il précise pour empêcher la continuation de la contravention ou sa répétition."

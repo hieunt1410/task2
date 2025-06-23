@@ -1,0 +1,16 @@
+[94]
+The Federal Court of Appeal has emphasized that anticipation is a difficult test to meet. The recent
+Pfizer v. Ranbaxy
+case involved a patent for the drug atorvastatin calcium (Lipitor). Atorvastatin is an enantiomer. In holding that the enantiomer patent was not anticipated by the earlier disclosure of the racemate, Justice Nadon, stated:
+"[83] The allegation of anticipation, in my view, is not justified. A claim to a specific chemical compound cannot be anticipated by a prior art reference which only teaches a broad class of genus of compounds into which the compound falls because the prior art reference does not give directions which inevitably result in the specific compound (see
+Sanofi-Synthelabo Canada Inc. et al v. Apotex Inc. et al
+(2005), 39 C.P.R.(4th) 202 at paragraph 55, affirmed 2006 FCA 421 at paragraphs 25-27;
+Pfizer Canada Inc. v. Apotex Inc.
+, [1997) F.C.J. No. 1087; 77 C.P.R.(3d) 547 (T.D.);
+Pfizer Canada Inc. v. Canada (Minister of Health)
+, 2006 FCA 214; [2006] F.C.J. No. 894) ..."
+(
+Pfizer Canada Inc. et al. v. Canada (Minister of Health) et al.
+, [2008] F.C.J. No. 496; 377 N.R. 9; 2008 FCA 108, at paras. 81-83 (
+Pfizer v. Ranbaxy
+).)

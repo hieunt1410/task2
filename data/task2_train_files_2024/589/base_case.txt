@@ -1,0 +1,135 @@
+[1]
+Snider, J.
+: The Applicant is a 20 year old citizen of Turkey who claims to have a well-founded fear of persecution by reason of race, nationality, political opinion and membership in a particular social group. He also claims to be a person in need of protection. More specifically, the Applicant claims to be a Kurdish activist and supporter of HADEP, a political party that promotes the rights of Kurds. Further, he asserts that he is also at risk due to his failure to report for military duty.
+[2]
+After hearing his application, the Immigration and Refugee Board (Refugee Protection Division) (the "Board"), in its decision dated September 3, 2003, rejected the claim of the Applicant. The Board had significant concerns with the credibility of the Applicant and concluded that:
+· the Applicant is not Kurdish;
+· even if he is Kurdish, he has not suffered the persecution he testified to; and
+· he is of no interest to the authorities except as in regard to his possible military evasion.
+In summary, the Board determined that the Applicant was not a Convention refugee as described in s. 96 of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 ("
+IRPA
+") and was not a person in need of protection as described in s. 97(1).
+[3]
+The Applicant seeks judicial review of this decision.
+Issues
+[4]
+The Applicant raises the following issues:
+1. Since the Board accepted that there was a possibility that the Applicant could be arrested as a deserter, did the Board err in its analysis under s. 97(1) of the
+IRPA
+, by failing to evaluate whether the Applicant would be at risk of torture if he were arrested for his military desertion?
+2. Did the Board breach principles of procedural fairness by taking into account extrinsic evidence on country conditions that was not before the Applicant?
+3. Did the Board err on making its determination on the Applicant's credibility or overlook evidence?
+4. Did the Board exceed its jurisdiction when it amended a footnote in its reasons after the decision was taken and after leave was granted for this judicial review?
+Analysis
+Issue #1: Did the Board err in its analysis under section 97(1) of the Immigration and Refugee Protection Act?
+[5]
+Pursuant to s. 97(1) of the
+IRPA
+, the Board is required to evaluate whether a claimant is in need of protection owing to the danger of torture (ss. 97(1)(a)), risk to life (ss. 97(1)(b)), or risk of cruel and unusual treatment (ss. 97(1)(b)). A separate analysis of a claimant's refugee claim under s. 96 and the enumerated risks under s. 97(1) is required (
+Nyathi v. Canada (Minister of Citizenship and Immigration)
+, [2003] F.T.R. Uned. 641; 2003 FC 1119, at para. 21;
+FRAGMENT_SUPPRESSED). Further, a negative credibility determination in respect of a refugee claim under s. 96 is not necessarily dispositive of the considerations under s. 97(1) of the
+Act
+(
+Nyathi
+, supra;
+Bouaouni
+, supra). Ultimately, whether a Board properly considered both claims must be determined on a case by case basis with regard to the different elements required to establish each claim (
+Nyathi
+, supra).
+[6]
+In dismissing the Applicant's claim pursuant to s. 97(1) of
+IRPA
+, the Board commented as follows:
+"... if he returned to Turkey, there is a possibility he could be arrested as a deserter and it is likely that he would be forced to pay the penalty for such desertion. However, in the panel's opinion, the penalty for desertion is reasonable, under the circumstances, ... these consequences in themselves, do not amount to persecution or constitute cruel and unusual treatment or punishment."
+[7]
+The Applicant submits that, having accepted the possibility of detention, the Board was under an obligation to examine whether the conditions of being arrested, detained and interrogated before the trial might expose him to a risk of torture and whether subsequent detention might expose him to torture or maltreatment (
+Bouaouni
+, supra;
+Kilic v. Canada (Minister of Citizenship and Immigration)
+(2004), 245 F.T.R. 52; 2004 FC 84). Further, the Applicant points to documentary evidence that is, in his view, clear that the use of torture in prisons is routine.
+[8]
+While acknowledging that a more extensive explanation for the Board's conclusion under s. 97 might well have been desirable, the Respondent argues that its absence does not constitute a reviewable error (
+Kulendrarajah et al. v. Canada (Minister of Citizenship and Immigration)
+(2004), 245 F.T.R. 145; 2004 FC 79;
+Nyathi
+, supra). The Respondent submits that the documentary evidence speaks of torture in relation to political activists and not military deserters.
+[9]
+Documentary evidence on Turkish prison conditions was before the Board and is not mentioned in its decision. Contrary to the assertions of the Respondent, this evidence is not limited to the possibility of torture for political activists. The persuasiveness of this evidence that was before the Board is not for the Respondent or this Court to decide. The point is that the Board failed to consider this evidence or, if it did, failed to provide reasons in its decision for rejecting it.
+[10]
+This case is distinguishable from that of
+Nyathi
+, supra, where Justice Blanchard determined that the evidence "would not support a finding that the applicant was a person in need of protection" and that, therefore, "[no] useful purpose would be served by sending the matter back for re-consideration on this basis". Here, the record contained evidence relating to the treatment in prisoners. That evidence should have been assessed by the Board.
+[11]
+The failure to conduct a separate s. 97 analysis will not be fatal in all circumstances (
+Brovina v. Canada (Minister of Citizenship and Immigration)
+(2004), 254 F.T.R. 244; 2004 FC 635;
+Nyathi
+, supra). However, in the particular circumstances of this case, failure to assess the evidence presented constitutes a reviewable error, as it did in
+Kiric
+, supra.
+Issue #2: Did the Board breach principles of procedural fairness?
+[12]
+The Applicant claims that he is a conscientious objector and fears that his military service will entail being forced to kill and rape innocent Kurds in the southeast region of Turkey. The Board found that there is no reliable documentary evidence before it of continuing conflict in southeast Turkey. The Board stated:
+"The documentary evidence indicates that there have been changes in conditions in the southeast of Turkey in that 'years of bloody guerrilla warfare between the Turkish army and Kurdish separatists have given way to relative calm in southeast Turkey ...' ... The panel notes that this documentary evidence was dated June 4, 2000.
+The panel has reason to believe that the situation since this article was written has indeed improved even further, so that there is no present full-scale military conflict in southeast Turkey today.
+Therefore, on a balance of probabilities, if the claimant was to return to Turkey and to serve in the military, he would not have to take part in any atrocities and would not be engaged in killing innocent civilians or raping women as he has testified to." (Reasons 14) (Emphasis added)
+[13]
+The Applicant submits that the underlined portion of the aforementioned passage breaches his right to procedural fairness because:
+(1) extrinsic evidence that the Board relied upon for this finding was not disclosed to the Applicant; and
+(2) in the alternative, no reasons were given for this finding.
+[14]
+I disagree that this statement forms the basis of a reviewable error. Even without this statement, there was sufficient evidence before the Board to support its finding that, on a balance of probabilities, the Turkish military is not presently engaged in a full-scale conflict in southeast Turkey.
+[15]
+The case at bar is readily distinguishable from the facts in both cases referred to by the Applicant (
+Bachore v. Canada (Minister of Citizenship and Immigration)
+, [1994] F.C.J. No. 1871 (T.D.);
+Mehterian v. Canada (Minister of Citizenship and Immigration)
+, [1992] F.C.J. No. 545 (F.C.A.)).
+[16]
+I am satisfied that there was no breach of natural justice.
+Issue #3: Did the Board err in its credibility findings?
+[17]
+The Applicant objects to a number of the Board's negative credibility findings. In my view, most of these findings were reasonably open to the Board and accordingly, this Court's intervention is not warranted. With respect to the significant concerns identified by the Applicant, I am satisfied that there is evidence on the record to support the Board's conclusions. Specifically:
+1. It was reasonable of the Board to place greater reliance on the testimony of the Applicant about his Kurdish identity than on the affidavit of an acquaintance that stated that the affiant was "convinced that the Applicant is Kurdish".
+2. The Board was entitled to find that the Applicant's explanation of why he does not speak Kurdish to be implausible. Common sense would indicate that the Applicant's age and interests, and his claim that his parents speak Kurdish would suggest that he should be able to understand a bit of the language, even if he cannot speak it.
+3. Contrary to the Applicant's submissions, the Board did not find it implausible that the Applicant and his family would support HADEP. Rather, it could not understand why they would just be supporters and not members. The Board found it implausible that an activist family who continued their activism after being targeted by the police would not be politically committed enough to become members of the HADEP party.
+4. The Board was entitled to consider the issue of delay and make a negative credibility finding based on the Applicant's explanation for not leaving Turkey sooner. In this case, the issue of delay formed only a small part of the Board's decision. The Board made a number of adverse credibility findings to support its overall finding of negative credibility. Its finding in respect of delay was not given so much weight so as to warrant this Court's intervention.
+5. Even if the Board misunderstood the Applicant's explanation of whether he obtained his passport legally or illegally, this error is not material and does not warrant setting aside the Board's decision.
+6. The Board found numerous implausibilities with respect to the Applicant's relationship with the police. Although the Applicant may disagree with the findings, I am satisfied that each of these implausibilities was reasonably open to the Board on the evidence before it.
+[18]
+In sum, the Board had tremendous difficulty with the Applicant's entire story, beginning with his identity and ending with his ability to leave Turkey without incident. The Applicant's omissions and implausible explanations cumulatively led to an overall negative credibility finding. The Applicant has failed to persuade me that this overall finding was unreasonable.
+Issue #4: Did the Board exceed its jurisdiction when it amended its reasons?
+[19]
+A leave order was made by this Court on April 14, 2004 and communicated to the Refugee Division on or about that date. On April 28, 2004, the Board made an amendment to a footnote citation. The Applicant submits that the Board committed a fatal jurisdictional error by correcting a footnote in the decision that is subject to judicial review in this proceeding. I disagree. The amendment was inconsequential and, in no way, altered the substance of the decision or put the Applicant in a position of not knowing the case he had to meet. There is no reviewable error.
+Conclusion
+[20]
+In conclusion, the Board erred in only one aspect of its decision. Specifically, the Board failed to properly assess, as required by s. 97 of
+IRPA
+, whether the Applicant was a person in need of protection. However, the findings of the Board with respect to s. 96 of
+IRPA
+should not be disturbed. The Board did not err in its determination that the Applicant was not a Convention refugee pursuant to s. 96 of
+IRPA
+and that portion of its decision should stand. Further, the s. 97 determination can be made on a standalone basis. Accordingly, I will order that the matter be sent back for redetermination only with respect to that finding. In the redetermination, the Board may accept new evidence only with respect to whether the Applicant would be a person in need of protection as contemplated by s. 97(1) of
+IRPA
+. This possibility of, in effect, a partial allowance of this application was discussed with the parties who did not raise any objections.
+[21]
+Neither party proposed that I certify a question. None will be certified.
+ORDER
+[22]
+THIS COURT ORDERS THAT:
+1. The decision of the Board is set aside in part and the matter remitted to a different panel of the Board for redetermination of whether the Applicant is a person in need of protection pursuant to s. 97 of
+IRPA
+.
+2. For purposes of the redetermination, parties may submit further evidence to the Board provided that such evidence is limited to the issue of whether the Applicant would be a person in need of protection as contemplated by s. 97(1) of
+IRPA
+.
+3. The Board's finding that the Applicant is not a Convention refugee pursuant to s. 96 of
+IRPA
+is affirmed and shall not be the subject of a redetermination.
+4. No question of general importance is certified.
+Application allowed.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

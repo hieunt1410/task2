@@ -1,0 +1,163 @@
+Thiffeault v. Can., [1999] F.T.R. Uned. 873 (TD)
+MLB unedited judgment
+[French language version follows English language version]
+[La version française vient à la suite de la version anglaise]
+Normand Thiffeault (demandeur) et Sa Majesté la Reine (défenderesse)
+Indexed As: Thiffeault v. Canada
+Cite As: [1999] F.T.R. Uned. 873
+Federal Court of Canada
+Trial Division
+Morneau, Prothonotary
+December 13, 1999.
+(T-2491-93)
+Counsel:
+Steve Baribeau, for the plaintiff;
+Veronica Romagnino, for the defendant.
+Solicitors of Record:
+Lacoursière Vézina, Trois-Rivières, Quebec, for the plaintiff;
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2000] F.T.R. TBEd. JA.042.
+Introduction
+[1]
+Morneau, Prothonotary
+[Translation]: This is an action in damages against Her Majesty the Queen resulting, according to the plaintiff, from the actions of Customs Canada (as it was then known), which is alleged to have flouted the plaintiff's rights to be able to purchase his former car, and thus costing the plaintiff $4,725, the difference between the actual value of the car ($7,225) and the price the plaintiff would have had to pay to purchase the said vehicle by tender ($2,500).
+Facts
+[2]
+The parties agreed on the facts to be entered in evidence. This agreement reveals,
+inter alia
+, the following.
+[3]
+On June 12, 1992, the plaintiff's 1985 Cadillac Fleetwood, bearing serial number 1G6DW6980F975477, was seized by the defendant's representatives.
+[4]
+On July 22, 1992, the defendant's representatives put the vehicle up for sale by tender, publicly announcing the sale by means of a duly completed form E-34.
+[5]
+The plaintiff was notified under paragraph 7 of form E-34 that only the successful tenderer would be notified and that the sale was to be completed within seven days of such notice. More specifically, clause 7 of this form reads as follows:
+"7. The successful tenderer only will be notified as soon as possible after the closing date for receiving tenders and the sale must be completed within 7 days of such notice."
+[6]
+On August 13, 1992, the defendant's representatives selected the plaintiff's bid and on the same day sent him a letter by registered mail, which reads essentially as follows:
+[
+Translation
+] "Your bid for lot number 3, consisting of a 1985 Cadillac Fleetwood serial number 1G6DW6980F975477, has been selected.
+You should bring your certified cheque in the amount of $2,889.00 payable to the Receiver General to the Customs Office situated at 25 des Forges, Room 612, Trois-Rivières. This amount includes $2,500.00 plus $175.00 GST and $214.00 provincial taxes.
+You have seven days from this date to take possession of the vehicle."
+[7]
+On August 21, 1992, the defendant's representatives cancelled the sale to the plaintiff, since he had not showed up, and then sold the aforementioned vehicle to a third party.
+[8]
+It appears that it was not until August 19, 1992 or thereabouts that the plaintiff learned of the notice to the effect that he was to report to the postal outlet to recover the said registered letter.
+[9]
+On Wednesday, August 26, 1992, the plaintiff took possession of the letter of August 13.
+[10]
+The plaintiff reported to the office of Revenue Canada, Customs and Excise, within seven (7) days of learning of the notice, on September 1, 1992.
+Analysis
+[11]
+Plaintiff's counsel argues that it is clear from paragraph 7 of the form and the letter of August 13, 1992 that the seven (7) day period for payment and taking of possession of the vehicle were simply practical details subsequent to the sale and that the sale was to be considered complete and final upon acceptance of the plaintiff's offer. Accordingly, even if the plaintiff had not performed within seven (7) days of this acceptance, the defendant could not cancel the sale before ascertaining that the plaintiff had indeed received a notice of cancellation for delay in taking possession.
+[12]
+I am unable, in light of the facts, to accept this approach.
+[13]
+To my way of thinking, it is the form that determines the essence of any agreement to be entered into between the defendant and any tenderer. In this regard, clause 7 of the said form provides that the initial acceptance of a tenderer's bid does not complete the sale, but the sale will be completed, will therefore be perfected, only if the plaintiff's obligations - as spelled out in the letter of August 13, 1992 - are completed within seven (7) days.
+[14]
+Now, in this case, this was not done, and I do not think the defendant was duty-bound to give the plaintiff a second notice or that the defendant abused its discretion by cancelling the sale on August 21, 1992.
+[15]
+Conceivably, however, for the purposes of clause 7 of the form, the date of sending of the notice ought to remain August 13, 1992, notwithstanding the fact that the defendant, in the circumstances, used registered mail and not ordinary mail.
+[16]
+In this regard, section 149 of the
+Customs Act
+is applicable to the case at bar. This section stipulates that:
+"For the purposes of this Act, the date on which a notice is given pursuant to this Act or the regulations shall, where it is given by mail, be deemed to be the date of mailing of the notice, and the date of mailing shall, in the absence of any evidence to the contrary, be deemed to be the day appearing from such notice to be the date thereof unless called into question by the Minister or by some person acting for him or Her Majesty."
+[17]
+The plaintiff has failed to convince me that the mail referred to in section 149 excludes registered mail. In fact, in
+FRAGMENT_SUPPRESSED, the Court implicitly acknowledged that registered mail was the vehicle of choice for a mailing under section 149. FRAGMENT_SUPPRESSED
+[23] In the present circumstances, pursuant to s. 149 of the
+Act
+, notice of the Minister's decision was given to the plaintiff on October 30, 1996,
+the date it was sent by registered mail
+, and not on the date on which it was received." (emphasis added)
+[18]
+Moreover, the plaintiff was unable to refer this Court to any argument in fact or in law that would rule out such a conclusion. Accordingly, the date of receipt of the letter of August 13, 1992 can have no impact in this case.
+[19]
+On the other hand, even if registered mail ruled out the application of section 149 - which I deny in the case at bar - it still does not appear to me that the plaintiff's action could be allowed.
+[20]
+First, it has not been demonstrated that the plaintiff showed due diligence in learning about the registered mailing. There is nothing in the record to explain why it was only on August 19, 1992, and not earlier, that the plaintiff realized he had received a letter by registered mail.
+[21]
+Even accepting August 19, 1992 in favour of the plaintiff, he could, notwithstanding his schedule, have gone to the post office in time to learn the actual content of the letter of August 13, 1992.
+[22]
+Finally, the plaintiff's quantum of damages has not been established in evidence, since it is not part of the agreement on the facts that was put in evidence. This quantum has remained only an allegation in the statement of claim.
+[23]
+For these reasons, the plaintiff's action will be dismissed with costs, to be calculated according to the bottom of Column II of the Tariff.
+....................
+[1]
+Morneau, Protonotaire
+: Il s'agit d'une action en dommages et intérêts contre Sa Majesté la Reine résultant, suivant le demandeur, des agissements de Douanes Canada (ainsi connu à l'époque) qui auraient bafoué les droits du demandeur de pouvoir se porter acquéreur de son ancienne automobile ce qui aurait occasionné par le fait même au demandeur un préjudice de 4 725 $, soit la somme représentant la différence entre la valeur réelle de l'automobile, soit 7 225 $, et le prix pour lequel le demandeur aurait dû se porter acquéreur adjudicataire dudit véhicule (2 500 $).
+Les faits
+[2]
+Les parties se sont entendues sur les faits à soumettre en preuve. Cette entente révèle, entre autres, ce qui suit.
+[3]
+Le 12 juin 1992, l'automobile du demandeur de marque Cadillac Fleetwood 1985, portant le numéro de série 1G6DW6980F975477, était saisie par les représentants de la défenderesse.
+[4]
+Le 22 juillet 1992, les représentants de la défenderesse offrent le véhicule en vente par voie d'adjudication en annonçant publiquement cette vente à l'aide d'un formulaire E-34 dûment complété.
+[5]
+Le demandeur était avisé, aux termes du paragraphe 7 du formulaire E-34 que seul l'adjudicataire élu allait être avisé et que la vente devait être complétée dans les sept jours de l'envoi de l'avis. De façon plus précise, la clause 7 dudit formulaire se lit comme suit:
+"7. Seul l'adjudicataire élu sera avisé aussitôt que possible après la date limite fixée pour la réception des offres et la vente doit être complétée dans les 7 jours qui suivent la date d'un tel avis."
+[6]
+Le 13 août 1992, les représentants de la défenderesse retiennent l'offre d'achat du demandeur et lui envoient, le même jour, une lettre par poste recommandée dont le contenu essentiellement se lit comme suit:
+"Votre offre pour l'achat du lot numéro 3 qui consiste en une Cadillac Fleetwood 1985 avec numéro de série 1G6DW6980F975477 a été retenue.
+Vous devez apporter votre chèque certifié au montant de $2,889.00 payable au Receveur Général au bureau des douanes situé au 25 des Forges, suite 612, Trois-Rivières. Ce montant comprend $2,500.00 plus $175.00 TPS et $214.00 taxes provinciales.
+Vous avez sept jours de la présente date pour prendre possession du véhicule."
+[7]
+Le 21 août 1992, les représentants de la défenderesse ont annulé la vente au demandeur, compte tenu que ce dernier ne s'était pas manifesté, et ont alors vendu le véhicule susmentionné à un tiers.
+[8]
+Il appert que ce n'est que le ou vers le 19 août 1992 que le demandeur a pris connaissance de l'avis à l'effet qu'il devait se présenter au comptoir postal pour récupérer ladite lettre recommandée.
+[9]
+Le mercredi 26 août 1992, le demandeur prenait possession de la lettre du 13 août.
+[10]
+Le demandeur s'est présenté au bureau de Revenu Canada, Douanes et Accises, dans les sept (7) jours de la prise de connaissance de l'avis, soit le 1
+er
+septembre 1992.
+Analyse
+[11]
+Suivant le procureur du demandeur, il est clair à la lecture du paragraphe 7 du formulaire et de la lettre du 13 août 1992 que le délai de sept (7) jours pour le paiement et la prise de possession du véhicule ne constituait que des simples modalités subséquentes à la vente et que cette dernière devait être vue comme complète et finale dès l'acceptation de l'offre du demandeur. Partant, même si le demandeur ne s'est pas exécuté dans les sept (7) jours de cette acceptation, la défenderesse ne pouvait annuler la vente avant de s'assurer que le demandeur avait bel et bien reçu un avis d'annulation pour retard à prendre possession.
+[12]
+Je ne puis à la lumière des faits accepter cette approche.
+[13]
+C'est le formulaire qui à mon sens établit l'essence de toute entente à être conclue entre la défenderesse et tout adjudicataire. À cet égard, la clause 7 dudit formulaire fait en sorte que l'acceptation dans un premier temps de l'offre d'un adjudicataire ne complète pas la vente mais cette dernière sera parachevée, deviendra donc parfaite, que si les obligations du demandeur - tel que précisé dans la lettre du 13 août 1992 - sont complétées dans les sept (7) jours.
+[14]
+Or, ici, ce ne fut pas le cas et je ne considère pas que la défenderesse se devait de donner au demandeur un deuxième avis ou que la défenderesse a abusé de sa discrétion en annulant la vente le 21 août 1992.
+[15]
+On doit par ailleurs considérer que pour les fins de la clause 7 du formulaire, la date d'envoi de l'avis se doit de demeurer le 13 août 1992 et ce, malgré le fait que la défenderesse ait utilisé en les circonstances la poste recommandée et non la poste ordinaire.
+[16]
+À cet égard, l'article 149 de la
+Loi sur les douanes
+est applicable en l'espèce. Cet article stipule que:
+"Pour l'application de la présente loi, la date des avis ou préavis prévus par cette loi ou ses règlements est, en cas d'envoi par la poste, réputée celle de leur mise à la poste, cette dernière date étant, sauf preuve contraire, celle qu'ils semblent indiquer comme telle, à moins de contestation par le ministre, son délégué ou celui de Sa Majesté."
+[17]
+Le demandeur ne m'a pas convaincu que la poste à laquelle fait référence l'article 149 exclut la poste recommandée. De fait, dans l'arrêt
+928412 Ontario Ltd. v. Minister of National Revenue
+(1997), 130 F.T.R. 168, la Cour a implicitement admis que la poste recommandée se retrouvait comme véhicule d'envoi visé par l'article 149. La Cour s'exprime ainsi en page 173:
+"[22] Where, as in the present case, a person requests a decision of the Minister pursuant to s. 131 of the
+Act
+, and notice of that decision is sent to that person by
+registered mail
+to their latest known address, notice is effective, on the date of mailing, in accord with ss. 137 and 149 of the
+Act
+which provide as follows:
+137. The service of the Deputy Minister's notice under section 130 or the notice of the Minister's decision under section 131 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at his latest known address.
+149. For the purposes of this Act, the date on which a notice is given pursuant to this Act or the regulations shall, where it is given by mail, be deemed to be the date of mailing of the notice, and the date of mailing shall, in the absence of any evidence to the contrary, be deemed to be the day appearing from such notice to be the date thereof unless called into question by the Minister or by some person acting for him or Her Majesty.
+[23] In the present circumstances, pursuant to s. 149 of the
+Act
+, notice of the Minister's decision was given to the plaintiff on October 30, 1996,
+the date it was sent by registered mail
+, and not on the date on which it was received." (mes soulignés)
+[18]
+De plus, le demandeur n'a pu référer cette Cour à aucun argument de fait ou de droit pour écarter une telle conclusion. Partant, la date de réception de la lettre du 13 août 1992 ne peut ici recevoir aucun impact.
+[19]
+D'autre part, même si la poste recommandée écartait l'application de l'article 149, - ce que je nie en l'espèce - il ne m'apparaît pas que l'action du demandeur pourrait être accueillie pour autant.
+[20]
+Premièrement, il n'a pas été démontré que le demandeur a fait preuve d'une diligence raisonnable pour prendre connaissance de l'envoi recommandé. Il n'est en effet pas expliqué en preuve pourquoi ce n'est que le 19 août 1992 et non pas plus tôt que le demandeur a réalisé qu'il avait reçu une lettre par poste recommandée.
+[21]
+Même en acceptant le 19 août 1992 en faveur du demandeur, ce dernier aurait pu malgré son horaire se rendre au bureau de poste pour prendre connaissance à temps du contenu même de la lettre du 13 août 1992.
+[22]
+Enfin, le quantum des dommages du demandeur n'a pas été établi en preuve puisqu'il ne fait pas partie de l'entente sur les faits mise en preuve. Ce quantum n'est demeuré qu'un allégué dans la déclaration d'action.
+[23]
+Pour ces motifs, l'action du demandeur sera rejetée avec dépens à être calculés selon le bas de la colonne II du Tarif.
+[End of document]

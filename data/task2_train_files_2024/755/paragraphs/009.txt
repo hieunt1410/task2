@@ -1,0 +1,24 @@
+[9]
+The following are the relevant provisions of the
+Code
+:
+"240(1) Subject to subsections (2) and 242(3.1), any person
+(a) who has completed twelve consecutive months of continuous employment by an employer, and
+(b) who is not a member of a group of employees subject to a collective agreement,
+may make a complaint in writing to an inspector if the employee has been dismissed and considers the dismissal to be unjust.
+"242(1) The Minister may, on receipt of a report pursuant to subsection 241(3), appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate on the complaint in respect of which the report was made, and refer the complaint to the adjudicator along with any statement provided pursuant to subsection 241(1).
+"(2) An adjudicator to whom a complaint has been referred under subsection (1)
+(a) shall consider the complaint within such time as the Governor in Council may by regulation prescribe;
+(b) shall determine the procedure to be followed, but shall give full opportunity to the parties to the complaint to present evidence and make submissions to the adjudicator and shall consider the information relating to the complaint; and
+(c) has, in relation to any complaint before the adjudicator, the powers conferred on the Canada Industrial Relations Board, in relation to any proceeding before the Board, under paragraphs 16(a), (b) and (c).
+"(3) Subject to subsection (3.1), an adjudicator to whom a complaint has been referred under subsection (1) shall
+(a) consider whether the dismissal of the person who made the complaint was unjust and render a decision thereon; and
+(b) send a copy of the decision with the reasons therefor to each party to the complaint and to the Minister.
+"(3.1) No complaint shall be considered by an adjudicator under subsection (3) in respect of a person where
+(a) that person has been laid off because of lack of work or because of the discontinuance of a function; or
+(b) a procedure for redress has been provided elsewhere in or under this or any other Act of Parliament.
+"(4) Where an adjudicator decides pursuant to subsection (3) that a person has been unjustly dismissed, the adjudicator may, by order, require the employer who dismissed the person to
+(a) pay the person compensation not exceeding the amount of money that is equivalent to the remuneration that would, but for the dismissal, have been paid by the employer to the person;
+(b) reinstate the person in his employ; and
+(c) do any other like thing that it is equitable to require the employer to do in order to remedy or counteract any consequence of the dismissal.
+"243(1) Every order of an adjudicator appointed under subsection 242(1) is final and shall not be questioned or reviewed in any court."

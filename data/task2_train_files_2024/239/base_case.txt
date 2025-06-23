@@ -1,0 +1,132 @@
+[1]
+Simpson, J.
+: On September 10, 2004, the Applicant was convicted of a minor disciplinary offence (the Conviction) while an inmate of Joyceville Institution. The charge was based on subsection 40(f) of the
+Corrections and Conditional Release Act
+, S.C. 1992, c. 20 (the
+Act
+). It provides that:
+"40. An inmate commits a disciplinary offence who
+(f) is disrespectful or abusive toward a staff member in a manner that could undermine a staff member's authority;"
+"40. Est coupable d'une infraction disciplinaire le détenu qui:
+f) agit de manière irrespectueuse ou outrageante envers un agent au point de compromettre l'autorité de celui-ci ou des agents en général;"
+[2]
+The evidence at the hearing before the Minor Court at Joyceville was found in the first section of a four-part document entitled "Inmate Offence Report and Notification of Charge". Under the heading "Description of Incident" which was signed by Officer D. Beynen (the Charging Officer) a narrative appeared which I will describe as the Written Charge. It read:
+"On the above date and approximate time Macdonald looked at this writer and laughed on his way to his cell for count in a way that undermined this writer's authority."
+[3]
+No witnesses were called and based only on the Written Charge, the Applicant was found guilty by the Correctional Supervisor who presided over the hearing (the Presiding Official). As a penalty, she imposed a warning or reprimand.
+[4]
+Following his Conviction, the Applicant filed a complaint against the procedures followed in the Minor Court hearing (the Complaint) and then submitted grievances to all three levels of the inmate grievance process. The three levels are: 1) institutional; 2) regional; and 3) national. The Complaint and the grievances were all denied. This application for judicial review relates to the decision on the national grievance dated May 3, 2006 (the Decision). It was made by an analyst in the Offenders Redress Section at the head office of Correctional Service Canada (the Decision Maker).
+[5]
+In his Complaint, under the heading "Action Requested", the Applicant spoke of "unproven allegations" and under the heading "Complaint" he complained of not being able to "... question or confront his accuser ...". In my view, this document discloses that the Applicant felt that there was insufficient evidence to support his conviction because the Charging Officer did not give evidence.
+[6]
+The response to the Complaint dated October 20, 2005, read in part:
+"With respect to your opportunity to address the charging officer, it is the responsibility of the defendant, yourself in this case, to request this at the time of the hearing. There is no evidence that you requested such or named the individual you wished to have give witness [sic]."
+[7]
+In his institutional grievance dated November 4, 2005, the Applicant complained about the lack of "... proof or witnesses". In this regard, the Warden replied that the Presiding Official said that since the Applicant never asked to question the Charging Officer, she was not asked to attend the Minor Court hearing. The Warden added "You did not request any type of evidence so none was entered."
+[8]
+The Applicant's undated regional grievance included the following:
+"I do not have to request that someone be allowed to give evidence against me. That is the job of the prosecutor. Before I can be found guilty, enough evidence must be presented at the hearing by the prosecution to ensure guilt beyond a reasonable doubt. No evidence of any kind was presented so I could not question anything."
+[9]
+The denial of this grievance was dated January 23, 2006. It again blamed the Applicant for the lack of evidence and ignored his submission that he was not obliged to call evidence against himself.
+[10]
+In his undated national grievance, the Applicant quoted subsection 43(3) of the
+Act
+which requires proof beyond a reasonable doubt and repeated his submission that there had been no evidence presented at the hearing.
+[11]
+The response to this grievance of May 3, 2006 said that it was the Applicant's responsibility to list the witnesses who were to attend the hearing. However, it did not clearly answer the Applicant's question about whether he was required to list adverse witnesses.
+CONTEXT
+[12]
+Section 6 of the
+Act
+provides that, the Commissioner of Corrections (the Commissioner) under the direction of the Minister, controls and manages all matters connected with the correctional service. To this end, the Commissioner may make rules for the management of the service (s. 97 of the
+Act
+) and such rules may be designated as Commissioner's Directives (ss. 98(1) of the
+Act
+). These Directives are not "laws" but instead are statements of administrative policy (see
+Dearnley et al. v. Canada (Attorney General)
+, [2007] F.C.J. No. 308; 313 F.T.R. 143 (F.C.), at paragraph 33. Commissioners' Directives cover a wide variety of subjects related to prison management including inmate discipline.
+[13]
+The rules dealing with witnesses at Minor Court hearings are found in the Commissioner's Directive 580. It is entitled Discipline of Inmates (the Directive). It says:
+"26. The Institutional Head shall ensure that:
+. . . . .
+c. the inmate is advised that he or she may submit a list of witnesses and/or documents he or she wishes prior to the hearing.
+"44. If the plea is 'not guilty', the accused inmate shall be given a reasonable opportunity at the hearing:
+a. to question witnesses through the person conducting the disciplinary hearing;
+. . . . .
+c. call witnesses on his or her own behalf;"
+"26. Le directeur de l'établissement doit veiller à ce que:
+. . . . .
+c. le détenu soit informé qu'il peut présenter une liste des témoins et/ou des documents voulus avant l'audition de son cas.
+"44. Si le détenu plaide 'non coupable', il doit avoir, dans des limites raisonnables, la possibilité pendant l'audience:
+a. de questionner des témoins par l'intermédiaire de la personne qui tient l'audience;
+. . . . .
+c. d'appeler des témoins en sa faveur;"
+[14]
+With regard to the standard of proof, the language in subsection 43(3) of the
+Act
+is mirrored in paragraph 51 of the Directive. It reads:
+"51. The person conducting the disciplinary hearing shall not find the inmate guilty unless satisfied beyond a reasonable doubt, based on the evidence presented at the disciplinary hearing, that the inmate committed the disciplinary offence in question."
+"51. La personne chargée de l'audience ne peut prononcer un verdict de culpabilité que si elle est convaincue hors de tout doute raisonnable, sur la foi de la preuve présentée à l'audience disciplinaire, que le détenu a bien commis l'infraction reprochée."
+[15]
+Finally, regarding evidence, the Directive indicates in paragraph 47 that the rules of evidence in criminal matters do not apply and that any evidence may be admitted which the Presiding Official considers reasonable or trustworthy. For this reason, the Written Charge was treated as evidence in this case.
+THE ISSUES
+[16]
+Although Applicant's counsel raised a number of issues in his memorandum of fact and law, he pursued only one before me. It was whether the Written Charge was sufficient to support the Conviction. An underlying concern was the fact that the Charging Officer was not called to give evidence at the hearing and the Respondent took the position that, under the Directive, it had been the Applicant's responsibility to list the Charging Officer as a witness. I have treated this concern as the second issue.
+THE STANDARD OF REVIEW
+[17]
+The Supreme Court of Canada has said that a pragmatic and functional approach is to be used to determine legislative intent with respect to the standard of review to be applied to the decisions of administrative tribunals, see
+Dr. Q., Re
+, [2003] 1 S.C.R. 226; 302 N.R. 34; 179 B.C.A.C. 170; 295 W.A.C. 170,
+Ryan v. Law Society of New Brunswick
+, [2003] 1 S.C.R. 247; 302 N.R. 1; 257 N.B.R.(2d) 207; 674 A.P.R. 207, and
+Pushpanathan v. Canada (Minister of Citizenship and Immigration)
+, [1998] 1 S.C.R. 982, addendum [1998] 1 S.C.R. 1222; 226 N.R. 201.
+[18]
+The pragmatic and functional approach involves consideration of four contextual factors: the nature of the question at issue, the relative expertise of the Tribunal, the presence or absence of a privative clause or statutory right of appeal, and the purpose of the legislation and the provision in particular.
+[19]
+The first factor is the nature of the question at issue. In this case, the first issue is whether the Written Charge was sufficient to support the Conviction and the second issue is whether the Directive required the Applicant to ensure that adverse witnesses were present at the hearing by listing them pursuant to paragraph 26(c) of the Directive. Both questions are mixed questions of law and fact. However, the first depends largely on the facts and the answer to the second depends on legal principles rather than on the facts of a particular case. Accordingly, I would accord some deference on the first issue and less on the second.
+[20]
+With regard to the Decision Maker's expertise, it is generally agreed that deference should be given to those who have developed expertise in dealing with the administrative requirements of the prison system see
+FRAGMENT_SUPPRESSED However, this expertise does not necessarily extend to an understanding of the requirements for a fair hearing. In this regard, I consider the Court to have greater expertise and, therefore, this factor suggests no deference.
+[21]
+The
+Act
+does not provide for an appeal of the Decision and there is no privative clause. This factor is therefore neutral.
+[22]
+The purpose of the grievance provisions in the
+Act
+(sections 90 and 91) is to provide individual inmates in Federal prisons with a fair and expeditious system for resolving their grievances. This factor suggests that less deference is owed.
+[23]
+Viewed in their totality, these factors lead me to conclude that the appropriate standard of review is correctness on both issues.
+DISCUSSION
+Issue 1 - Sufficiency of Evidence
+[24]
+The Written Charge was accepted as trustworthy evidence by the Presiding Official and was therefore admissible evidence. However, in my view, the Written Charge did not provide sufficient facts to establish beyond a reasonable doubt that an offence under subsection 40(f) of the
+Act
+had been committed. Among other things, the Written Charge included no information about the surrounding circumstances. For example, if no other inmates had been nearby to hear the laugh, it would have been impossible to conclude that it undermined the Charging Officer's authority.
+Issue 2 - Is an inmate responsible for listing adverse witnesses?
+[25]
+The Respondent concedes that neither the
+Act
+nor the Directive expressly state that an inmate is responsible for listing adverse witnesses. However, the Respondent says that subparagraph 26(c) of the Directive has been interpreted in that way for many years.
+[26]
+When applied to this case, the Respondent's interpretation of the Directive means that even though the Applicant had no wish to question the Charging Officer, he was obliged to put her name on his witness list.
+[27]
+In my view, the Directive cannot bear this interpretation. Under 26(c) of the Directive, the inmate is only responsible to list the witnesses he "wishes" to have present and that cannot reasonably be expected to include those who will give evidence against him. Accordingly, if the inmate does not list witnesses who are necessary to prove a charge beyond a reasonable doubt, they must be made available by other means.
+[28]
+Paragraph 44 of the Directive reinforces my view because it distinguishes between witnesses the inmate calls on his own behalf and those he questions through the Presiding Officer. The text suggests that latter witnesses are not called by the inmate.
+CONCLUSIONS
+[29]
+I have concluded that the Written Charge did not include enough information to justify the Conviction and that, in the circumstances of this case, there was no onus on the Applicant to list the Charging Officer under subparagraph 26(c) of the Directive.
+[30]
+For these reasons, the application for judicial review will be allowed and the Conviction will be quashed. Normally, I would send this matter back for a rehearing but the Directive makes it clear in subparagraph 14(c) and paragraphs 27, 35, 36 and 39 that the speedy resolution of minor offences is an important objective. Since this minor offence occurred in 2004 and only resulted in a reprimand, I am not prepared to restart the Minor Court process in 2007 when recollections of the event will undoubtedly have diminished.
+[31]
+The Applicant asked for fixed costs in the amount of $3000 for this application. While I acknowledge that counsel was retained and that significant effort and travel time were involved, I also note that not all the issues which were originally raised were ultimately argued. On the other hand, the Applicant succeeded on the issues which were pursued.
+JUDGMENT
+[32]
+This Court orders that, for the reasons given above, this application for judicial review is allowed and the Conviction is hereby set aside and all records thereof are to be removed from the Respondent's files relating to the Applicant.
+[33]
+The Applicant is awarded costs fixed in the amount of $2500 payable to counsel for the Applicant within sixty days of this judgment.
+Application allowed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

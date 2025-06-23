@@ -1,0 +1,192 @@
+[1]
+Lafrenière, Prothonotary
+: The issue on this motion is whether the Wellcome Foundation Limited and Glaxo Wellcome Inc. (collectively GSK) should be granted leave to file a Further Fresh as Amended Statement of Issues. GSK submits that the proposed amendments are proper and necessary and will ensure that the pleadings accurately reflect those damages that GSK is entitled to recover as a result of the infringement of its patent.
+[2]
+Apotex Inc. (Apotex) and Novopharm Ltd. (Novopharm), collectively referred to in these reasons as the Respondents, have no objections to some of the amendments sought by GSK. They take issue with the proposed amendments that they view as constituting withdrawal of admissions or raising new causes of action.
+[3]
+For the reasons that follow, I conclude that the proposed amendments should be allowed.
+Background
+[4]
+In 1988, GSK was awarded Canadian Patent No. 1, 238,277 ('277 Patent) for the use of AZT for the treatment and prophylaxis of Human Immunodeficiency Virus (HIV) infection. Apotex and Novopharm instituted an action in 1990 (Court File No. T-3197-90) for a declaration that the '277 Patent was invalid and that their proposed generic AZT products would not infringe.
+[5]
+In 1991, GSK commenced an action against Interpharm Inc. (Interpharm), Apotex and Allen Barry Shechtman, alleging that their proposed products infringed various claims in the '277 Patent (Docket No. T-2624-91). For ease of reference, the three defendants will be referred to as the Apotex Defendants. A similar action for infringement was commenced against Novopharm in 1993 (Docket No. T-2983-93).
+[6]
+On consent of the parties, bifurcation orders were issued in 1994 in the two infringement actions on the following terms:
+"That any issue of fact as to the quantum of damages flowing from, or Defendants' profits arising from, any infringement of Plaintiffs' right in the above-noted action shall be the subject of a reference after trial under Rule 500 et seq if it then appears that such issue is required to be decided."
+[7]
+The three proceedings were consolidated and heard together. By Judgment dated March 25, 1998, Justice Wetston confirmed the validity of many of the claims contained in the '277 Patent. He concluded that GSK had the exclusive right to manufacture, construct and sell pharmaceutical formulations in Canada containing zidovudine for use in the treatment and prophylaxis of HIV/AIDS. He also held that the Apotex Defendants and Novopharm had infringed the '277 Patent and were enjoined from any other further infringement. Justice Wetston declined to allow an accounting of profits, being satisfied that the appropriate relief was damages pursuant to s. 55 of the
+Patent
+Act
+.
+[8]
+On October 26, 2000, the Federal Court of Appeal allowed an appeal with respect to claims not restricted to the use of AZT, but dismissed the appeals in all other respects. The decision was upheld by the Supreme Court of Canada on December 5, 2002.
+[9]
+On November 7, 2003, GSK filed a requisition for a reference to quantify the damages that they allegedly sustained as a result of the infringement by the Apotex Defendants and Novopharm. A Statement of Issues accompanied the requisition, in accordance with Rule 155(2) of the
+Federal Courts Rules
+(
+FCR
+). The three general elements to the damage claim by GSK that are relevant to this motion are the following:
+(a) Lost profits claim: GSK claims lost profits for each unit of Retrovir sales that it alleges it would have made but for the infringing competition of the Apotex Defendants and Novopharm with their comparable product.
+(b) Price suppression claim: GSK alleges that, but for the infringing competition of the Apotex Defendants and Novopharm, it would not have offered rebates and other benefits to its zidovudine customers, and claims compensation for these rebates. GSK also claims that, but for the infringing competition, it would have persuaded the Patented Medicines Pricing Review Board to permit it to raise its prices for Retrovir, and a whole family of other drug products.
+(c) Claim for lost opportunity to re-invest profits (LORI Claim): GSK alleges that all of the profits that it would have made, but for the infringing competition, would have been reinvested in its business. GSK measures the profitability of its business at approximately 14%, and takes the position that it would have earned a similar return on all other profits.
+[10]
+GSK alleged in its Statement of Issues that it had intended to increase the price of Retrovir to $1.88 per 100 mg capsule by 1994, and take Consumer Price Index (CPI) increases thereafter. It also alleged that it had intended to increase the price of its Retrovir products, (Retrovir 100, Retrovir 300, and the Retrovir portion of Combivir and Trizivir) and that it would have earned more on its Retrovir product sales, but that it was unable to do so because of the infringement.
+[11]
+By written Directions dated December 11, 2003, the Chief Justice directed that the reference be conducted as a specially managed proceeding, reserving to a later date the appointment of the referee.
+[12]
+GSK provided its affidavit of documents in 2004 and produced a number of documents for the purpose of the damages reference. At Novopharm's request, GSK also prepared accounting schedules to breakdown, explain, and list the documentary support for the damages being claimed in its Statement of Issues (Damages Schedules).
+[13]
+On April 6, 2005, GSK brought a motion to amend its Statement of Issues to allege that it would have increased the price of Retrovir, but for the infringement, to 1.95 per 100 mg capsule effective January 1, 1993. GSK sought this amendment and related price amendments based on the affidavit of Peter Dolton, Vice President of UK Pharma Patents of GlaxoSmithKline Inc. (Dolton's 2005 Affidavit). At paragraph 14 of his affidavit, Mr. Dolton stated that:
+"14. GSK Canada's proposed amendments arise out of the onerous efforts undertaken by it in preparing the Damages Schedules detailing the damages claim, which are appended to the Fresh as Amended Statement of Issues. Additional damages were recently determined during the process of preparing the Damages Schedules ..."
+[14]
+During cross-examination on his 2005 Affidavit, Mr. Dolton testified that information and documents had recently come to light. The amendment with respect to the proposed change in the price of Retrovir was based on discussions with the people responsible for managing the Retrovir product "who were there at the time" and those who currently had responsibility for pricing and finance matters. This led GSK to the conclusion that the original figure of $1.88 was "not correct" and that the "likely figure" should be $1.95.
+[15]
+Leave to file the Fresh as Amended Statement of Issues was ultimately granted by the Court on August 3, 2005, on consent of all parties.
+[16]
+The first round of examinations for discovery of the parties' representatives commenced in December 2005, and continued until February 27, 2007. As part of its ongoing disclosure obligations, GSK provided supplementary productions to the opposing parties on February 23 and November 23, 2006 (Found Documents).
+[17]
+Prior to embarking on the second round of examinations, counsel for GSK gave notice to Apotex and Novopharm that a further motion to amend would be brought. The proposed amendments that are at issue in the present motion consist of revisions to the prices GSK alleges it would have charged for Retrovir and certain drugs containing zidovudine but was unable to do so as a result of the infringement (2008 Price Amendments), and consequential amendments to the Damages Schedules. GSK also seeks to add a claim against Novopharm for a reasonable royalty on export sales (Royalty Amendment).
+[18]
+The most contentious allegations, that impact every head of damages claimed by GSK, are reproduced below.
+"37. GSK would have increased the price of RETROVR@ to $1.95
+2.2594
+per 100 mg capsule by January 1, 1993
+12, 2005
+, but was unable to do so as a result of the Infringement, as pleaded below.
+In particular, GSK would have increased the price of each RETROVIR capsule
+:
+(a) to $1.90 on July 1, 1991;
+(b) to $2.10 on July 1, 1992;
+(c) to $2.20 on July 1, 1993; and
+(d) to $2.2594 on January 12, 2005.
+. . . . .
+"38. In January 1991, Apotex publicly announced its intention to market zidovudine in Canada.
+"39. On May 25, 1992, Apotex received its Notice of Compliance permitting it to market and sell zidovudine for use in the treatment and prophylaxis of HIV/AIDS ...
+. . . . .
+"55. GSK would not have frozen the price of RETROVIR at $1.70 per 100 mg but for the Infringement. If Apotex and Novopharm had not entered the market, GSK would have made all sales of RETROVIR
+from January 1, 1993 until the present time at a price of $1.
+95
+July 1, 1991 to June 30, 1992 at a price of $1.90 per 100 mg from July 1, 1992 to June 30, 1993 at a price of $2.10 per 100 mg, from July 1, 1993 to January 11, 2005 at a price of $2.20 per 100 mg and from January 12, 2005 until at least December 31, 2009, at a price of at least $2.2594
+per 100 mg. GSK was unable to increase the price of RETROVIR
+to $1.95 per 100 mg capsule
+as outlined
+as a result of Infringement."
+[19]
+Mr. Dolton was called upon once again by GSK for an affidavit in support its motion for leave to amend. He deposes that since the preparation of the Damages Schedules in 2005, GSK continued to investigate its damages claims and, in particular, its determination of what pricing would have occurred but for the infringement. He states that based on these investigations, and in particular four of the Found Documents (GSK Production Nos. 2445, 2446, 2447 and 2402), the evidence supports a revised pricing of Retrovir, and certain drugs containing zidovudine.
+[20]
+On cross-examination, Mr. Dolton conceded that he had no part in the investigations, other than being told about them. He also acknowledged there are no documents that pertain specifically to the revised prices. Counsel for GSK objected to any questions about the relationship and the arrangements that the investigators had with the company to provide assistance with the litigation on the grounds of privilege. Mr. Dolton also refused to answer questions about who formulated the new theory of damages, or concerning the circumstances of the amendments and the discovery of the Found Documents.
+[21]
+In response to the motion, Apotex filed the affidavit of Mr. Stephen Cole, a forensic accountant. Mr. Cole deposes that the proposed amendments reflect at least 17 direct or consequential changes to GSK's claim and impact every schedule and type of claim, increasing the overall size of the claim by $376,100,000. According to Mr. Cole, GSK has not provided any factual information that supports the multiple changes to the methodology and factual assumptions. He also takes issue with GSK's assertions that the proposed amendments are minor and do not change the existing claim. Mr. Cole states that, in the absence of any identification of the documentation that would support the changes: "a complete review of all of the documents produced by the Plaintiffs to date, together with a review of all the information provided during the examinations to date, will be required to attempt to find support for these changes."
+[22]
+On cross-examination, Mr. Cole conceded that he had not reviewed all of the documents produced in the litigation or all of the transcripts of examinations for discovery. He also acknowledged that the Damages Schedules had assisted him to come to grips with the nature of GSK's claims.
+Analysis
+[23]
+Before dealing with the proposed amendments, it is worthwhile to review the nature of the document for which leave to amend is being sought.
+Statement of Issues
+[24]
+As the party initiating the reference, GSK was required, pursuant to Rule 155(2) of the
+Federal Courts Rules
+, to serve and file a Statement of Issues. Rule 155(2) is silent regarding the form and content of this particular document, and there is scant jurisprudence on the subject. However, as its name suggests, the purpose of a Statement of Issues is to identify the factual and legal issues in dispute on the reference. The statement can also serve to disclose the party's position on the issues, as well as list any documents of central importance to the party's case.
+[25]
+In
+Procter & Gamble Co. v. Calgon Interamerican Corp.
+(1983), 71 C.P.R.(2d) 130 (F.C.T.D.) (
+Procter & Gamble
+), Mr. Justice Patrick Mahoney considered Rule 500(5) of the
+Federal Court Rules
+, C.R.C. 1978, c. 663, the predecessor to Rule 155. Rule 500(5) provided that a party who applied for a reference hearing was required to furnish a certified copy of the pleadings, the order of reference, as well as "issues". In reflecting on what was meant by "issues", Justice Mahoney stated that they could be created either by agreement or by a series of documents similar to the pleadings. He concluded that the documents should comply with the rules on pleadings "as nearly as may be".
+[26]
+Being a document in which a claim is defined, a Statement of Issues has the same attributes as a "pleading" as defined in Rule 2. The rules governing the amendment of documents should accordingly be applied "as nearly as may be".
+Test on motion to amend
+[27]
+The principles applicable on a motion to amend a pleading are not in dispute. It is clear from the rules and the law as it has developed that the Court will consider amendments to pleadings at any time. In
+Andersen Consulting v. Canada
+, [1998] 1 F.C. 605; 220 N.R. 35 (F.C.A.), the Federal Court of Appeal held that in matters of amendment to pleadings and the withdrawal of admissions, a generous approach should be taken by the Court. Amendments based on discovery which refocus and particularize points in controversy are usually considered to facilitate the trial of an action and to help determine the real points in controversy:
+FRAGMENT_SUPPRESSED.
+[28]
+Leave may be denied, however, when the amendments at issue withdraw substantial admissions and result in a radical change in the nature of the questions in controversy:
+Merck & Co. et al. v. Apotex Inc.
+(2003), 315 N.R. 175; 2003 FCA 488 (
+Merck
+) at par. 32.
+[29]
+The relevant factors in determining whether an amendment would cause prejudice include the state of the proceedings, the extent to which the amendment could delay an expeditious hearing on the merits, and the extent to which the position of the opposite party in its pleadings and arguments would be undermined by the amendment:
+Yeager v. Correctional Service of Canada et al.
+(2000), 189 F.T.R. 196; 2000 CarswellNat 711 (T.D.).
+2008 Price Amendments
+[30]
+The Respondents have raised a number of objections concerning the 2008 Price Amendments. In essence, they argue that the proposed amendments are inconsistent with positions previously taken by GSK and constitute a withdrawal of admissions, and that complication and prejudice would result if the amendments are allowed.
+[31]
+The Respondents point out that GSK's price suppression claim has, since its inception, been premised upon its pricing strategies in the early 1990s and the actual contemporaneous intentions of the company to increase prices. They maintain that the 2008 Price Amendments do not merely clarify the issues in dispute, as alleged by GSK, but instead seek to raise completely new, speculative price increases that allegedly would have been made but for generic competition. The Respondents submit that the proposed amendments should not be allowed because they constitute a withdrawal of admissions and are inconsistent with admissions made by GSK on the record.
+[32]
+A key issue to be determined is whether the allegations of fact in the Fresh as Amended Statement of Issues, and more particularly those at paragraphs 37 and 55, as well as statements made by GSK's representatives in affidavits and during examination for discovery, are admissions and whether, in the circumstances, it is open to GSK to disavow them.
+[33]
+In
+Vancouver Art Metal Works Ltd. v. Minister of National Revenue
+(2001), 202 F.T.R. 287 (T.D.), Mr. Justice Francis Muldoon had to determine whether an admission made during an examination for discovery is defined as "formal" or "informal" and the subsequent effect of that definition on the proceedings. He concluded that while a pleading is generally viewed as a formal admission, an admission should be conclusive with regard to the matters admitted. In order words, an admission must also be made for the purpose of dispensing with proof at trial.
+[34]
+In
+Black's Law Dictionary
+, 5th Ed. (West Publishing, 1979), an admission is defined as "the acknowledgment by one party of the truth of some matter alleged by the opposite party, made in a pleading, the effect of which is to narrow the area of facts or allegations required to be proved by evidence." While no particular form of words need be given, the concession must be clear. In order for there to be an admission, a statement must be made deliberately by the party, pleading it as a concession to its opponent.
+[35]
+The Respondents have not identified any specific statement made by GSK in their pleading, or anywhere else on the record, that can be viewed as an acknowledgement or concession to the Respondents. The Respondents have in fact denied the damages claimed by GSK in their responding pleadings. They have also vigorously disputed the methodology and underlying documents used by GSK in calculating its damages during the course of examinations for discovery, including GSK`s professed intentions regarding pricing of its product. In the circumstances, I am not satisfied that the 2008 Price Amendments constitute a withdrawal of admissions.
+[36]
+The Respondents also submit that the 2008 Price Amendments are inconsistent with the theory of the case GSK has advanced from the outset. There is no dispute that GSK has changed its position regarding when and how its damages should assessed; however, a new theory is not, in and of itself, a bar to an amendment.
+[37]
+Although the answers provided by GSK's representative during examination for discovery are considered informal admissions, they can be qualified, enlarged upon, or even contradicted upon notice to the opposing party. The correction of inaccurate or deficient answers is specifically contemplated by Rule 245 which provides that a person who was examined for discovery and who discovers that the answer to a question in the examination is no longer correct or complete must provide the corrected or completed information in writing without delay.
+[38]
+The real issue and controversy between the parties in this matter is and continues to be the quantum of damages, albeit based on a different theory and a substantially increased measure of damages. I would therefore not dismiss the motion simply because the proposed amendments are inconsistent with the position previously taken by GSK.
+[39]
+The Respondents submit that GSK has filed no substantive evidence or explanation of any proposed amendments. While I agree that the evidence presented by GSK was somewhat sparse, it remains that there is sufficient evidence to explain GSK's change in position. A party seeking an amendment is not expected to lead evidence to support the facts alleged, and the responding party cannot successfully oppose an amendment by alleging that it is not accurate or not supported by the evidence. Where the nature of the amendments is clear, there is no requirement to plead the evidence by which those facts are to be proved:
+Visx Inc. v. Nidek Co. et al.
+(1996), 209 N.R. 342; 72 C.P.R.(3d) 19 (F.C.A.). The Court should assume the facts pleaded in the amendment are true:
+Rolls Royce plc et al. v. Fitzwilliam et al.
+, [2000] F.T.R. Uned. 858; 10 C.P.R.(4th) 1; 2000 CarswellNat 2973 (T.D.).
+[40]
+Despite extensive cross-examination, Mr. Dolton's evidence remained unshaken that newly discovered documents had emerged that altered the landscape of GSK's claim. He testified at length as to the individuals consulted in respect of the changes, how the documents referred to in his affidavit relate to and support the "but for" pricing, and why there are no contemporaneous documents that refer to the specific prices, given the nature of the "but for" pricing.
+[41]
+The Respondents submit that it is both illogical and incomprehensible that 15-year old documents, recently produced, concerning GSK's price projections in the face of generic competition could support a claim that GSK would have charged even more than is reflected in the documents in the absence of generic competition. However, cases turning on an assessment of evidence should be decided at trial after the witnesses have testified and been cross-examined before the judge who is to rule on the issue of reliability, weight, and probative value of all of the evidence. The Court must be very certain that there is no merit to the pleading before it will be disallowed on an interlocutory motion. In absence of such certainty, I would leave it to the trial judge to determine whether the evidence supports GSK's position.
+[42]
+It is the interests of justice that an issue ought to be resolved in the forum best suited to get at the truth of the matter unless the Respondents are now prejudged in presenting their case on the issue to the extent that it would be unfair.
+[43]
+The Respondents claim prejudice caused by the proposed amendments. It is suggested there will be a need for further extensive discovery. They also claim that the amendments will cause further delay in a matter which has already taken far too long. The Respondents argue these are matters which should be taken into account and cannot be compensated for by costs.
+[44]
+I am not satisfied that there has been undue delay by GSK bearing in mind the history of the proceedings. The Court ordered back in 1994 that the issues of liability and damages be determined separately, on consent of the parties. Bifurcation of the issues effectively postponed, for over a decade, any consideration of GSK's claim for damages.
+[45]
+GSK set out for the first time the basis of its claim for damages in 2003. While GSK may have failed to grasp the relevance of the Found Documents, there is nothing to suggest that its conduct was anything but inadvertent. Voluminous documentation was exchanged and lengthy examinations for discovery were conducted by the parties exclusively on the issue of damages. There have been numerous motions and hearings relating to discovery, and an additional week has been set aside in March 2009 to deal with interlocutory motions. The parties have throughout had the benefit of close and active case management.
+[46]
+There is no evidence before me that GSK's amendment will cause any prejudice to the Respondents that cannot be addressed by an award of costs.
+Royalty Amendment
+[47]
+Novopharm opposes the amendment seeking to add a claim against Novopharm for a reasonable royalty on export sales because the claim is based on material facts that were not pleaded in the Amended Statement of Claim against it. According to Novopharm, the alleged exports were not considered during the trial before Justice Wetston and, as such, should not be permitted to be raised during the Damages Reference. Novopharm submits that the Royalty Amendment represents a radical shift in GSK's case against it that will not only delay the reference, but will also cause the parties to incur significant additional costs.
+[48]
+In my view, the amendment proposed raises a triable issue that ought to be determined in the interests of justice. It is not plain and obvious that the claim for a reasonable royalty is beyond the ambit of the liability findings of Justice Wetston. Moreover, I am not satisfied that the claim for a reasonable royalty represents a significant departure from GSK's current claim. Of note, at paragraph 95 of the Fresh as Amended Statement of Issues, GSK alleges that the Respondents, including Novopharm, have been offering for sale and selling generic zidovudine "in and outside Canada". GSK has already claimed the full amount of any lost sales, and seeks to plead, in the alternative, that it is entitled to a reasonable royalty on sales by Novopharm in those jurisdictions in which GSK would not have sold zidovudine. While the Royalty Amendment certainly expands the claim against Novopharm, the substance of the claim for lost sales remains the same.
+[49]
+Although there has been some delay by GSK in seeking the amendment, I am not satisfied that Novopharm has been prejudiced to the extent that the amendment should be denied. On the understanding that Novopharm will be given full opportunity to conduct discovery of GSK with respect to the Royalty Amendment, the factual issue raised by the proposed amendment can be fairly and properly litigated and determined at the reference.
+Manner of Amending
+[50]
+GSK seeks to be dispensed from compliance with Rule 79 that requires that amendments in an amended pleading be underlined. Novopharm submits that GSK should not be permitted to file a Fresh as Amended pleading because questions asked and answers given during examinations for discovery will be unintelligible due to the re-numbering and re-wording of the pleading. In addition, the referee should be permitted to see and consider the actual and changing nature of GSK's damages claim.
+[51]
+The underlining of amendments would no doubt be useful for the parties and of great assistance to the referee. However, in this particular case, the sheer number of amendments renders the amended pleading difficult to read and to understand. Taking into account that an underlined draft of the amended pleading has been filed in support of this motion, and could easily be reproduced for the purpose of the reference, I conclude that a leave to file a fresh as amended pleading should be granted.
+Conclusion
+[52]
+Pleadings should reflect the real issues between the parties so that a matter can be decided on its merits and with all issues properly before the court. In
+Minister of National Revenue v. Canderel Ltd.
+, [1994] 1 F.C. 3; 157 N.R. 380 (F.C.A.), Décary, J.A., stated the basic premise as follows
+"... while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice."
+[53]
+I find that there will be no prejudice to the Respondents as a consequence of these amendments as they have been apprised of them before completion of the first round of examinations for discovery and further examinations for discovery are contemplated. In contrast, GSK would be prejudiced if these amendments are not allowed, since GSK will be prevented from asserting the proper quantification of damages which it would otherwise be entitled to assert. The amendments will also assist the referee in deciding the matters in controversy.
+[54]
+The Respondents will be put to additional expense in defending the claim for damages, chiefly through duplication of effort in preparation for examination for discovery. The Respondents should accordingly be compensated for all reasonable costs incurred in re-examining GSK's representative for discovery with respect to the 2008 Price Amendments, such costs to be assessed at the middle of Column IV of Tariff B.
+[55]
+As a general rule, a party seeking an amendment should bear the costs, particularly when the amendments are required due to inadvertence. However, the Respondents resisted this motion for leave to amend on the merits, not just as to terms. Since GSK was successful in obtaining the relief it requested, I conclude that there should be no order of costs of this motion.
+ORDER
+[56]
+THIS COURT ORDERS that
+:
+1. The Wellcome Foundation Limited and Glaxo Wellcome Inc. are granted leave to serve and file a Further Fresh as Amended Statement of Issues within 7 days of the date of this Order.
+2. Apotex Inc. and Novopharm Ltd. are entitled to their costs incurred in re-examining the representative of Wellcome Foundation Limited and Glaxo Wellcome Inc. for discovery with respect to the 2008 Price Amendments, to be assessed at the middle of Column IV of Tariff B.
+3. There shall be no order as to costs of the motion.
+Motion allowed.
+Editor: Rodney A. Jordan/vnh
+[End of document]

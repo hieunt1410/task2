@@ -1,0 +1,95 @@
+[55]
+Consolidation of actions and stays of proceedings are provided for in Rule 105, requests for particulars in Rule 181, striking pleadings in Rule 221 and costs in Rule 400 of the
+Federal Court Rules, 1998
+, supra:
+"105. The Court may order, in respect of two or more proceedings,
+(a) that they be consolidated, heard together or heard one immediately after the other;
+(b) that one proceeding be stayed until another proceeding is determined; or
+. . . . .
+"181. A pleading shall contain particulars of every allegation contained therein, including
+(a) particulars of any alleged misrepresentation, fraud, breach of trust, wilful default or undue influence; and
+(b) particulars of any alleged state of mind of a person, including any alleged mental disorder or disability, malice or fraudulent intention.
+"221(1) On motion, the Court may, at any time, order that a pleading, or anything contained therein, be struck out, with or without leave to amend, on the ground that it
+(a) discloses no reasonable cause of action or defence, as the case may be,
+(b) is immaterial or redundant,
+(c) is scandalous, frivolous or vexatious,
+(d) may prejudice or delay the fair trial of the action,
+(e) constitutes a departure from a previous pleading, or
+(f) is otherwise an abuse of the process of the Court,
+and may order the action be dismissed or judgment entered accordingly.
+"(2) No evidence shall be heard on a motion for an order under paragraph (1)(a).
+"400(1) The Court shall have full discretionary power over the amount and allocation of costs and the determination of by whom they are to be paid.
+. . . . .
+"(3) In exercising its discretion under subsection (1), the Court may consider
+(a) the result of the proceeding;
+(b) the amounts claimed and the amounts recovered;
+(c) the importance and complexity of the issues;
+(d) the apportionment of liability;
+(e) any written offer to settle;
+(f) any offer to contribute made under rule 421;
+(g) the amount of work;
+(h) whether the public interest in having the proceeding litigated justifies a particular award of costs;
+(i) any conduct of a party that tended to shorten or unnecessarily lengthen the duration of the proceeding;
+(j) the failure by a party to admit anything that should have been admitted or to serve a request to admit;
+(k) whether any step in the proceeding was
+(i) improper, vexatious or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution;
+(l) whether more than one set of costs should be allowed, where two or more parties were represented by different solicitors or were represented by the same solicitor but separated their defence unnecessarily;
+(m) whether two or more parties, represented by the same solicitor, initiated separate proceedings unnecessarily;
+(n) whether a party who was successful in an action exaggerated a claim, including a counterclaim or third party claim, to avoid the operation of rules 292 to 299; and
+(o) any other matter that it considers relevant.
+"(4) The Court may fix all or part of any costs by reference to Tariff B and may award a lump sum in lieu of, or in addition to, any assessed costs.
+"(5) Where the Court orders that costs be assessed in accordance with Tariff B, the Court may direct that the assessment be performed under a specific column or combination of columns of the table to that Tariff.
+"(6) Notwithstanding any other provision of these Rules, the Court may
+(a) award or refuse costs in respect of a particular issue or step in a proceeding;
+(b) award assessed costs or a percentage of assessed costs up to and including a specified step in a proceeding;
+(c) award all or part of costs on a solicitor-and-client basis; or
+(d) award costs against a successful party.
+"(7) Costs shall be awarded to the party who is entitled to receive the costs and not to the party's solicitor, but they may be paid to the party's solicitor in trust."
+"105. La Cour peut ordonner, à l'égard de deux ou plusieurs instances:
+a) qu'elles soient réunies, instruites conjointement ou instruites successivement;
+b) qu'il soit sursis à une instance jusqu'à ce qu'une décision soit rendue à l'égard d'une autre instance;
+. . . . .
+"181. L'acte de procédure contient des précisions sur chaque allégation, notamment:
+a) des précisions sur les fausses déclarations, fraudes, abus de confiance, manquements délibérés ou influences indues reprochés;
+b) des précisions sur toute allégation portant sur l'état mental d'une personne, tel un déséquilibre mental, une incapacité mentale ou une intention malicieuse ou frauduleuse.
+"221(1) A tout moment, la Cour peut, sur requête, ordonner la radiation de tout ou partie d'un acte de procédure, avec ou sans autorisation de le modifier, au motif, selon le cas:
+a) qu'il ne révèle aucune cause d'action ou de défense valable;
+b) qu'il n'est pas pertinent ou qu'il est redondant;
+c) qu'il est scandaleux, frivole ou vexatoire;
+d) qu'il risque de nuire à l'instruction équitable de l'action ou de la retarder;
+e) qu'il diverge d'un acte de procédure antérieur;
+f) qu'il constitue autrement un abus de procédure.
+"Elle peut aussi ordonner que l'action soit rejetée ou qu'un jugement soit enregistré en conséquence.
+"(2) Aucune preuve n'est admissible dans le cadre d'une requête invoquant le motif visé à l'alinéa (1)a).
+"400(1) La Cour a entière discrétion pour déterminer le montant des dépens, les répartir et désigner les personnes qui doivent les payer.
+. . . . .
+"(3) Dans l'exercice de son pouvoir discrétionnaire en application du paragraphe (1), la Cour peut tenir compte de l'un ou l'autre des facteurs suivants:
+a) le résultat de l'instance;
+b) les sommes réclamées et les sommes recouvrées;
+c) l'importance et la complexité des questions en litige;
+d) le partage de la responsabilité;
+e) toute offre écrite de règlement;
+f) toute offre de contribution faite en vertu de la règle 421;
+g) la charge de travail;
+h) le fait que l'intérêt public dans la résolution judiciaire de l'instance justifie une adjudication particulière des dépens;
+i) la conduite d'une partie qui a eu pour effet d'abréger ou de prolonger inutilement la durée de l'instance;
+j) le défaut de la part d'une partie de signifier une demande visée à la règle 255 ou de reconnaître ce qui aurait dû être admis;
+k) la question de savoir si une mesure prise au cours de l'instance, selon le cas:
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été entreprise de manière négligente, par erreur ou avec trop de circonspection;
+l) la question de savoir si plus d'un mémoire de dépens devrait être accordé lorsque deux ou plusieurs parties sont représentées par différents avocats ou lorsque, étant représentées par le même avocat, elles ont scindé inutilement leur défense;
+m) la question de savoir si deux ou plusieurs parties représentées par le même avocat ont engagé inutilement des instances distinctes;
+n) la question de savoir si la partie qui a eu gain de cause dans une action a exagéré le montant de sa réclamation, notamment celle indiquée dans la demande reconventionnelle ou la mise en cause, pour éviter l'application des règles 292 à 299;
+o) toute autre question qu'elle juge pertinente.
+"(4) La Cour peut fixer tout ou partie des dépens en se reportant au tarif B et adjuger une somme globale au lieu ou en sus des dépens taxés.
+"(5) Dans le cas où la Cour ordonne que les dépens soient taxés conformément au tarif B, elle peut donner des directives prescrivant que la taxation soit faite selon une colonne déterminée ou une combinaison de colonnes du tableau de ce tarif.
+"(6) Malgré toute autre disposition des présentes règles, la Cour peut:
+a) adjuger ou refuser d'adjuger les dépens à l'égard d'une question litigieuse ou d'une procédure particulières;
+b) adjuger l'ensemble ou un pourcentage des dépens taxés, jusqu'à une étape précise de l'instance;
+c) adjuger tout ou partie des dépens sur une base avocat-client;
+d) condamner aux dépens la partie qui obtient gain de cause.
+"(7) Les dépens sont adjugés à la partie qui y a droit et non à son avocat, mais ils peuvent être payés en fiducie à celui-ci."
+Analysis and Decision
+Issue 1
+Should the appeal of the Prothonotary's order dismissing the motion to strike, stay or order particulars in action T-1361-03 be allowed?

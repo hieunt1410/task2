@@ -1,0 +1,11 @@
+[12]
+This "reasonable grounds" standard applies to findings of fact, it does not apply when the issue to be addressed is essentially a question of law, as made clear by the Federal Court of Appeal in
+Moreno and Sanchez v. Minister of Employment and Immigration
+, [1994] 1 F.C. 298; 159 N.R. 210 (F.C.A.), per Robertson, J.A., for the Court at paragraphs 22 and 23:
+"22 In my opinion, the requisite standard of proof comes into legal play only when the tribunal is called on to make determinations which can be classified as questions of fact. The 'less-than-civil-law' standard is irrelevant when the issue being addressed is essentially a question of law. For purposes of application of the exclusion clause, it is sufficient if I outline briefly the basis on which I distinguish the two and my reasons for doing so.
+"23 A finding of fact has been described as a determination that a phenomenon has happened, is, or will be happening independent of or anterior to any determination as to its legal effects; see L.L. Jaffe,
+Judicial Control of Administrative Action
+, Boston: Little, Brown and Company, 1965, at page 548. A question of law has been defined in many ways; see, for example, P.J. Fitzgerald,
+Salmond on Jurisprudence
+, 12th Ed., London: Sweet & Maxwell, 1966, at page 10. Perhaps Professor Wade best describes the basis on which questions of law are readily distinguishable:
+'Questions of law must be distinguished from questions of fact, but this has been one of the situations where the rules have taken different forms under judicial manipulation.'"

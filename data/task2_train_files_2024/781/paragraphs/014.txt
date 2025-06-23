@@ -1,0 +1,17 @@
+[14]
+Basic is the proposition that where a company is found to be in contempt, aiding abetting officers and directors may also be found in contempt: see for example
+Dimatt Investments Inc. v. Presidio Clothing Inc.
+(1993), 62 F.T.R. 142; 48 C.P.R.(3d) 46 (T.D.), at 47, 49 and 50 through 52, a decision recently followed by Mr. Justice Dubé in
+Manufacturers Life Insurance Co. v. Guaranteed Estate Bond Corp.
+, [2000] F.T.R. Uned. 227 (T.D.). Another aspect of this proposition is that directors and officers may not be punished for the contempt of their corporation, where the conduct giving rise to the contempt occurred not only without their fault, but where they did everything possible to ensure that the order at issue was respected: see
+Long Shong Pictures (H.K.) Ltd. et al. v. NTC Entertainment Ltd. et al.
+(2000), 190 F.T.R. 123; 6 C.P.R.(4th) 509 (T.D.), at 515 and following. In Long Shong Pictures the order was against the defendant company, however the plaintiff relied upon the fact that the individual against who a finding of contempt was sought was the sole Ontario director and officer of the defendant company. Mr. Justice O'Keefe relied upon a passage from
+Canada Metal Co. v. Canadian Broadcasting Corporation (No. 2)
+(1975), 48 D.L.R.(3d) 641 (Ont. H.C.), at 660-661 for the proposition that, while officers and directors may be committed for contempt when they have taken a passive role or perhaps when a presumption arises that an officer or director did or failed to do something giving rise to the breach, generally it must be demonstrated that the officer or director aided and abetted the contempt:
+"The applicants have submitted that where a corporation violates an injunction, the directors and officers of the corporation can be held in contempt of Court and can be attached or otherwise punished for the contempt, without any proof that the particular directors or officers proceeded against did or failed to do anything that was responsible for the said violation. I am unable to agree with that submission. I am not saying that before an officer or director can be committed for a contempt committed by the corporation that it must be shown that the officer aided or abetted the contempt. It may well be that the director or officer could be held in contempt, even though his role in the matter was purely passive: see
+Biba Ltd. v. Stratford Investments Ltd.
+, [1972] 3 All E.R. 1041, and
+Glazer v. Union Contractors Ltd. and Thornton
+(1961), 129 C.C.C. 150; 26 D.L.R.(2d) 349. Further, the violation of the injunction may give rise in some cases to a presumption that the director or officer did or failed to do something that caused the breach, and may put that officer or director on his defence. Where, however, it is clear on the evidence that the director or officer did all he could to ensure that the injunction would be abided by and, where the breach occurred without fault on the part of the director or officer, then I am unable to see how that director or officer can be punished for contempt of Court." (
+Canada Metal
+at 660-661, varied as to a different aspect by the Ontario Court of Appeal (1976) 59 D.L.R.(4th) 430)

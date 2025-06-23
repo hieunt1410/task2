@@ -1,0 +1,159 @@
+[1]
+Blais, J.
+: This is a motion for summary judgment filed by the plaintiff pursuant to Rules 213(1) and 216(1) of the
+Federal Court Rules, 1998
+, SOR/98-106.
+FACTS
+[2]
+MB Paper Limited, a subsidiary of MacMillan Bloedel Limited and a corporate predecessor of the plaintiff Pacifica Papers Inc., entered into a contract (hereinafter referred to as the "Contract") with the defendants Kingcome Navigation Company (hereinafter referred to as KNC) and Seaspan International Ltd. dated October 23, 1997.
+[3]
+Under the Contract, KNC agreed to carry logs for MB Paper Limited between designated points (Homer, Alaska and Powell River, British Columbia) within an area referred to as "log towing territory."
+[4]
+The term of the Contract was from October 24, 1997 to October 23, 2002.
+[5]
+MB Paper Limited subsequently changed its name to Pacifica Papers Inc. and amalgamated with two (2) other companies to form Pacifica Papers Inc.
+[6]
+The defendant KNC owned the "Haida Monarch" as of the date of the Contract. The "Haida Monarch" was among the vessels referred to as "Carriers" in the said Contract.
+[7]
+On or about December 8, 1998, 500 bundles of Alaskan white spruce logs were loaded by KNC onto the "Haida Monarch" at Homer, Alaska for carriage to Powell River, British Columbia. This carriage was to take place under the terms of the Contract.
+[8]
+On December 9, 1998, while the "Haida Monarch" was in the Gulf of Alaska en route to Powell River, British Columbia the ship listed suddenly to port and then rolled violently to starboard. All but approximately 15 bundles of the logs on board were lost overboard.
+[9]
+The cargo of logs aboard the "Haida Monarch" was covered by Lloyd's Marine Cargo Policy No. MR9800187 (hereinafter referred to as the "Policy") at the time they were lost from the vessel.
+[10]
+On December 2, 1999, Pacifica Papers Inc. commenced this action against the defendants and the ship "Haida Monarch" in respect of the loss of the logs, the repayment of freight paid to KNC and the reimbursement of survey expenses. This claim is not brought by Pacifica Papers Inc. per se, rather it is a subrogated claim brought in the name of Pacifica Papers Inc. by its Underwriters who issued the Policy.
+[11]
+A statement of defence was filed by the defendants on January 31, 2000 raising no insurance issues. The amended statement of defence was made by consent, and was served on January 24, 2002 and included insurance issues.
+[12]
+On February 18, 2002, the plaintiff applied for summary judgment with respect to the defences raised by the amendments of the amended statement of claim.
+PLAINTIFF'S POSITION
+[13]
+The plaintiff submits that the defendants are not "Insureds" under the Policy and therefore that is an appropriate case for summary judgment in their favour.
+DEFENDANT'S POSITION
+[14]
+The defendants contend that they are "Insureds" under the Policy and that if this is an appropriate case for summary judgment, it should be granted in their favour.
+THE CONTRACT
+[15]
+Clauses 10, 10.1 and 10.2 of the Contract provide that each party will take out insurance on its own interests - KNC on the vessels involved in the transportation, Pacifica Papers Inc. on the cargo. Clause 10.3 of the Contract provides that each party shall obtain a policy that contains a waiver of subrogation in favour of the other.
+"10.
+INSURANCE, DAMAGE AND INDEMNIFICATION
+"10.1
+KNC's Insurance
+"KNC shall obtain and maintain in full force and effect, throughout the Term, as its sole risk, cost and expense, including all deductibles:
+(a) Hull and Machinery Insurance on each of the Vessels listed in Schedules C and F against all perils normally covered under such policies in amounts which shall not be less than the amount set out for each such Vessel in the applicable Schedule; and
+(b) Protection and Indemnity Insurance on each of the Vessels, including crew, wreck removal and statutory pollution liability, with a minimum limit of $20 million for any one occurrence.
+"10.2
+MB Paper's Insurance
+"MB Paper shall obtain and maintain in full force and effect, throughout the Term, at its sole risk cost and expense, including all deductible, All Risk Insurance on logs, lading, property or Cargo of MB Papers loaded on board any of the Carriers and on logs towed by any of the other Vessels on behalf of MB Paper pursuant to this Agreement, for the full actual value thereof.
+"10.3
+Waiver of Subrogation
+"Each of the insurance policies required to be obtained and maintained by any of the Parties under Sections 10.1 and 10.2 shall contain an express waiver of subrogation with respect to each of the other Parties, except that any waiver of subrogation in favour of KNC or Seaspan shall not apply to any loss or damage caused by the unseaworthiness of any of the Vessels."
+THE POLICY
+[16]
+Paragraphs 1, 2 and 3 of the Policy contain the following terms:
+"1. Insurers
+Lloyd's Underwriters 100%
+In consideration of the premium at rates as agreed DO INSURE
+Insured
+MacMillan Bloedel Limited and/or Subsidiary and/or Affiliated Companies and others for whom they have instructions to insure.
+2. Waiver of Subrogation
+Subrogation rights against the Insured as defined herein are hereby waived and it shall be noted that the Insured shall not contribute, directly or indirectly, towards are recoveries pursued by underwriters or their agents.
+Underwriters shall not be subrogated to any rights which the Insured has expressly waived in writing prior to a known loss.
+3. Seaworthiness
+As between these Insurers and the Insured the seaworthiness of the vessel, craft and/or conveyance is admitted."
+ISSUE
+[17]
+There is but one issue involved:
+Is this an appropriate case for summary judgment?
+APPLICABLE JURISPRUDENCE
+[18]
+Granville Shipping Co. v. Pegasus Lines Ltd. S.A. et al.
+, [1996] 2 F.C. 853; 111 F.T.R. 189 (T.D.), is a case where Tremblay-Lamer, J., provides a complete canvass of the caselaw on the subject of summary judgment in which it sets out the general principles applicable to a motion for summary judgment:
+"[para. 8] I have considered all of the case law pertaining to summary judgment and I summarize the general principles accordingly:
+1. the purpose of the provisions is to allow the Court to summarily dispense with cases which ought not proceed to trial because there is no genuine issue to be tried (
+Old Fish Market Restaurants Ltd. v. 1000357 Ontario Inc. et al.
+, [1994] F.C.J. No. 1631; 58 C.P.R.(3d) 221 (T.D.));
+2. there is no determinative test ... but Stone, J.A., seems to have adopted the reasons of Henry, J., in
+Pizza Pizza Ltd. v. Gillespie
+[(1990), 75 O.R.(2d) 225 (Gen. Div.)]. It is not whether a party cannot possibly succeed at trial, it is whether the case is so doubtful that it does not deserve consideration by the trier of fact at a future trial;
+3. each case should be interpreted in reference to its own contextual framework ...;
+4. provincial practice rules (especially Rule 20 of the
+Ontario Rules of Civil Procedure
+, [R.R.O. 1990, Reg. 194]) can aid in interpretation;
+5. this Court may determine questions of fact and law on the motion for summary judgment if this can be done on the material before the Court ...;
+6. on the whole of the evidence, summary judgment cannot be granted if the necessary facts cannot be found or if it would be unjust to do so ...;
+7. in the case of a serious issue with respect to credibility, the case should go to trial because the parties should be cross-examined before the trial judge ... The mere existence of apparent conflict in the evidence does not preclude summary judgment; the court should take a 'hard look' at the merits and decide if there are issues of credibility to be resolved."
+[19]
+While this is a trial level decision, the test was recently affirmed in the Federal Court of Appeal's decision in
+ITV Technologies Inc. v. WIC Television Ltd.
+, [2001] N.R. Uned. 33; [2001] F.C.J. No. 400; 2001 FCA 11 (F.C.A.).
+[20]
+In
+Scharf (Jim) Holdings Ltd. v. Sulco Industries Ltd. et al.
+, [1997] F.T.R. Uned. 678; [2000] F.C.J. No. 1103 (T.D.), the Court affirmed the trial judge's (Muldoon, J.), decision ([2000] N.R. Uned. 114; [1997] F.C.J. No. 1488 (F.C.A.)), that, where affidavit evidence is conflicting, the evidence must undergo the scrutiny of a trial, and thus summary judgment is not appropriate.
+[21]
+Also in
+FRAGMENT_SUPPRESSED
+[22]
+And lastly, in
+Pallmann Maschinenfabrik GmbH Co. KG v. CAE Machinery Ltd. and PS & E Projects Ltd.
+, [1995] F.C.J. No. 898; 98 F.T.R. 125 (T.D.), Teitelbaum, J., held:
+"[para. 44] Therefore, summary judgment should not be granted on an issue where either on the whole of the evidence the judge cannot find the necessary facts or it would be unjust to do so. I am of the view that summary judgment should only be granted in circumstances where the facts are clear."
+ANALYSIS
+Is this an appropriate case for summary judgment?
+[23]
+No, this is not an appropriate case for summary judgment as the test recently confirmed by the Federal Court of Appeal in
+ITV Technologies Inc. v. WIC Television Ltd.
+, supra, has not been met. We should rely on Rule 216(3) of the
+Federal Court Rules, 1998
+which reads:
+"216(3) Where on a motion for summary judgment the Court decides that there is a genuine issue with respect to a claim or defence, the Court may nevertheless grant summary judgment in favour of any party, either on an issue or generally, if the Court is able on the whole of the evidence to find the facts necessary to decide the questions of fact and law."
+"216(3) Lorsque, par suite d'une requête en jugement sommaire, la Cour conclut qu'il existe une véritable question litigieuse à l'égard d'une déclaration ou d'une défense, elle peut néanmoins rendre un jugement sommaire en faveur d'une partie, soit sur une question particulière, soit de façon générale, si elle parvient à partir de l'ensemble de la preuve à dégager les faits nécessaires pour trancher les questions de fait et de droit."
+[24]
+This motion is for an order granting summary judgment to the plaintiff with respect to issues raised in paragraphs 18, 19 and 20 of the amended statement of defence of the defendants.
+[25]
+Paragraph 19 of the amended defence asserts that the defendants were insured under the policy. The defendants thus attempt to rely upon the principle that an insurer cannot proceed with a subrogated action against its own insured for an insured peril, thus circumventing the clear limitation on their immunity from subrogation that is contemplated by clause 10.3 of the Contract.
+[26]
+The plaintiff suggests that clause 10.3 of the Contract which exempts unseaworthiness from the waiver of subrogation, makes it clear that the defendants were not intended to be insured.
+[27]
+An insurer cannot sue its own insured in respect of the coverage afforded to that insured. Therefore, if the parties to a transportation agreement intend to limit the waiver of subrogation to be obtained by one of the parties in favour of the other as in this case, the other party to the transportation agreement cannot be named insured.
+[28]
+Clause 1 of the Policy precises the definition of "insured":
+"Insured
+MacMillan Bloedel Limited and/or Pacifica Papers Inc. and/or Affiliated Companies and others for whom they have instructions to insure."
+[29]
+The defendants are not subsidiaries nor affiliated companies of MacMillan Bloedel or Pacifica Papers Inc.
+[30]
+The only basis on which the defendants could claim to be included in the definition of insured is if they were parties "for whom MacMillan Bloedel Limited has instructions to insure".
+[31]
+Mr. Russ Fountain, MacMillan Bloedel Limited's casualty risk manager, handled the entire matter of the procurement of the Policy within the MacMillan Bloedel Limited. The plaintiff provided evidence from Mr. Fountain that any instruction to insure under the MacMillan Bloedel Limited policy, including the designation of insureds, would have been transmitted to him to be acted upon. He received no instruction to insure the defendants, either from the defendants directly or from MacMillan Bloedel Limited.
+[32]
+I agree with the plaintiff that the requirement in clause 10.2 of the Contract that the plaintiff insure its own log cargoes does not amount to an instruction to insure on behalf of the defendants. The transportation agreement which included clause 10.2 and 10.3 is a different document from the insurance policy. There is nothing in the wording of clause 10.2 requiring the plaintiff to name or include the defendants as additional insureds under its policy or to procure insurance on their behalf.
+[33]
+Clause 10.3 of the transportation agreement requires MB Paper Limited to procure a waiver of subrogation in favour of the defendants except in respect of loss or damage caused by unseaworthiness, and is clearly not an "instruction to insure". I agree with the plaintiff that the waiver of subrogation is not insurance. It confers no coverage but merely prohibits a subrogated action. Even though the transportation agreement between the two parties led to conclude that this agreement requires one of the parties to insure its own property does not automatically make the other party a joint insured or co-insured.
+[34]
+The parties have both canvassed the case
+Imperial Oil Ltd. et al. v. Commonwealth Construction Ltd.
+, [1978] 1 S.C.R. 317; 12 N.R. 113. In this case the name of the insured was "[at page 319 S.C.R.] ... Imperial Oil Limited and its subsidiaries companies and any subsidiaries thereof and any of their contractors and subcontractors." The parties contracting with the named insured were held to be co-insured because they came within a generic class of additional insureds described with specificity in the builder risk policy in question.
+[35]
+Even though the parties are engaged in close contractual relationship, in the case at bar, it is not akin to contractors and subcontractors on a building site. The defendants have the responsibility to transport cargo from one place to another pursuant to a transportation agreement.
+[36]
+The defendants provided an affidavit from Captain Gosse who tried to explain the circumstances surrounding the transactions between the parties. Nevertheless, cross-examination of Captain Gosse led the Court to believe that Captain Gosse was not involved in the top management of MacMillan Bloedel Limited even though he was involved in the discussions between the parties. Captain Gosse responded clearly that he was not involved in the discussion surrounding the renewal of the insurance policy and also that Mr. Russ Fountain, who signed an affidavit, was the person that was dealing with the insurance policies.
+[37]
+The question of the seaworthiness of the vessel was raised by the parties. In fact, this question is not going to be addressed today. It will be up to the trial judge to decide this particular question and the parties will provide all the necessary evidence to address the circumstances surrounding the incident that happened on December 9, 1998 while the "Haida Monarch" was in the Gulf of Alaska and when the majority of the cargo was lost overboard.
+[38]
+Both parties suggest that I am in a position to make a decision on whether the defendants are "Insured" under the policy.
+[39]
+Based on the submissions of the parties, I find that the determination of this issue is far too complex for summary judgment. Specifically, in these circumstances, it would be impossible to continue a waiver of subrogation clause without reference to the context in which the Contract was made.
+[40]
+The trial judge will have the opportunity to hear witnesses including an expert on insurance matters if he or she so chooses, and also to hear directly from the horse's mouth what really happened and after, to form his or her own opinion.
+[41]
+It would not be in the interests of justice nor the parties to address the question of insurance coverage through a motion for summary judgment.
+ORDER
+[42]
+Therefore, this motion for summary judgment is dismissed.
+[43]
+Costs in the cause.
+Application dismissed.
+Editor: Giovanni A. Merlini/klf
+[End of document]

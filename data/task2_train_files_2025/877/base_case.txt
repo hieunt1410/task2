@@ -1,0 +1,152 @@
+[1]
+Frenette, D.J.
+: The Applicant, Allan MacDonald, seeks judicial review pursuant to section 18.1 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7, of a decision of the Correctional Service of Canada (CSC) to transfer him to an institution significantly farther from his family and community than the institution to which he was originally assigned.
+FACTS
+[2]
+The Applicant is 59 years old. He has been serving, since 2000, a life sentence for first-degree murder of an off-duty police officer in his community of Penetanguishene, Ontario. His first chance for parole will be in 2022.
+[3]
+Prior to his arrest, the Applicant was a well-known member of his community, being both a fireman and the Chairman of the Penetanguishene Police Services Board. He suffered from depression and alcoholism. His only criminal conviction until the offence was for driving under the influence and had occurred a few months earlier.
+[4]
+The Applicant was originally assessed by CSC at the Millhaven Institution Assessment Unit. Part of this assessment related to his designation as a High Profile Offender, a status based on the media and community interest in his case. Pursuant to this assessment, it was determined that he should be placed at Fenbrook Institution in Gravenhurst, Ontario, approximately 60 miles from Penetanguishene. This institution was near his family and friends, and provided the programs identified as necessary for Mr. MacDonald's correctional plan.
+[5]
+Shortly after that initial assessment, the Applicant's security level changed such that he no longer met the criteria to remain at Fenbrook. He was transferred to Joyceville Institution (approximately 250 miles from Penetanguishene) and remained there from January 2001 to January 2005, at which point his security level was re-assessed and he was transferred back to Fenbrook.
+[6]
+On January 12, 2006, the Applicant was given a Notice of Involuntary Transfer, meaning that he was to be sent back to Joyceville. There had been no changes to his security or correctional plan in the twelve months that he was at Fenbrook; that is, he still met the criteria to remain there. The Applicant submitted a rebuttal of that notice, as permitted. Nevertheless, he was transferred to Joyceville.
+[7]
+The stated reason for the transfer was the Penetanguishene community's response to having Mr. MacDonald so close. The Warden apparently received calls from the widow of the slain officer and the Canadian Police Association opposing his presence at Fenbrook. He also apparently received letters from friends and family of Mr. MacDonald, asking to keep him nearby so that they could visit him.
+[8]
+In his decision, the Warden noted that the original decision to transfer Mr. MacDonald to Fenbrook had focused on "program completion and closer proximity of Fenbrook to family for Mr. MacDonald." The Warden then took the following additional considerations into account:
+"The index offence took place in a very near proximity to the community near Fenbrook Institution. I have taken into account the sensitivity surrounding this case from the victim impact perspective. In addition, I have focused on the sensitivity of this case in terms of impacts on the community where the crime took place. I have assessed very carefully in terms of public safety, the proximity of Fenbrook to where the crime took place. As noted above, it should be noted that Fenbrook is substantially closer to where the crime took place versus Joyceville."
+RELEVANT LEGISLATION AND GUIDELINES
+[9]
+The relevant provisions are set out below:
+Corrections and Conditional Release Act
+, S.C 1992, c. 20:
+"28. Where a person is, or is to be, confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which the person is confined is one that provides the least restrictive environment for that person, taking into account
+(a) the degree and kind of custody and control necessary for
+(i) the safety of the public,
+(ii) the safety of that person and other persons in the penitentiary, and
+(iii) the security of the penitentiary;
+(b) accessibility to
+(i) the person's home community and family,
+(ii) a compatible cultural environment, and
+(iii) a compatible linguistic environment; and
+(c) the availability of appropriate programs and services and the person's willingness to participate in those programs.
+"29. The Commissioner may authorize the transfer of a person who is sentenced, transferred, or committed to a penitentiary to:
+(a) another penitentiary in accordance with the regulations made under paragraph 96(d), subject to section 28; or
+(b) a provincial correctional facility or hospital in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable legislation"
+"Commissioner's Directive 710-2: Transfer of Offenders (Issued under the authority of the Commissioner of the Correctional Service of Canada) April 10, 2006:
+Policy Objectives:
+1. To transfer offenders to meet their individual security requirements and program needs while ensuring public safety and the protection of offender rights.
+2. To ensure public safety by transferring offenders to an environment most suitable to addressing their risks and needs.
+. . . . .
+7. Involuntary transfers are transfers initiated by CSC for reasons stated in section 28 of the CCRA."
+Loi sur le système correctionnel et la mise en liberté sous condition
+, L.R.C. 1992, ch. 20:
+"Incarcération: facteurs à prendre en compte
+"28. Le Service doit s'assurer, dans la mesure du possible, que le pénitencier dans lequel est incarcéré le détenu constitue le milieu le moins restrictif possible, compte tenu des éléments suivants:
+a) le degré de garde et de surveillance nécessaire à la sécurité du public, à celle du pénitencier, des personnes qui s'y trouvent et du détenu;
+b) la facilité d'accès à la collectivité à laquelle il appartient, à sa famille et à un milieu culturel et linguistique compatible;
+c) l'existence de programmes et services qui lui conviennent et sa volonté d'y participer.
+"Transfèrements
+"29. Le commissaire peut autoriser le transfèrement d'une personne condamnée ou transférée au pénitencier, soit à un autre pénitencier, conformément aux règlements pris en vertu de l'alinéa 96d), mais sous réserve de l'article 28, soit à un établissement correctionnel provincial ou un hôpital dans le cadre d'un accord conclu au titre du paragraphe 16(1), conformément aux règlements applicables."
+"Directive du Commissionaire 710-2: Transfèrement de Délinquants:
+Objectifs de la Politique:
+1. Transférer les délinquants de manière à répondre à leurs besoins individuels en matière de sécurité et de programmes tout en assurant la sécurité du public et en sauvegardant les droits des délinquants.
+2. Assurer la sécurité du public en transférant les délinquants dans le milieu qui répond le mieux à leurs besoins et est le mieux adapté au risque qu'ils présentent.
+. . . . .
+7. Transfèrement non sollicité: transfèrement effectué sur l'initiative du SCC pour des motifs prévus à l'article 28 de la LSCMLC."
+ISSUES
+[10]
+(a) What is the standard of review to be applied in this case?
+i. What is the applicable standard of review?
+[11]
+The Applicant pleads that the applicable standard of review in this case, because it involves a breach of the duty of fairness, should be correctness, see
+Coscia v. Canada (Attorney General)
+, [2005] F.C.J. No. 607; 333 N.R. 170; 2005 FCA 132. The
+Coscia
+case related to a ruling of the National Parole Board, which confirmed a denial of parole on the basis of danger to the public (inter alia). The Court of Appeal applied the standard of review of correctness because the issue was whether there had been a breach of procedural fairness.
+[12]
+In my assessment, the facts were very different from the one in the present case and the interpretation involved a different text of law. The Applicant also relied upon
+Demaria v. Regional Classification Board
+, [1987] 1 F.C. 74; 69 N.R. 135; [1986] F.C.J. No. 493. The
+Demaria
+case addressed the possible of an involuntary transfer of an inmate serving life imprisonment for murder. The transfer order was quashed because the allegation of bringing cyanide into the institution had not been proven; however the standard of review was not discussed.
+[13]
+The Respondent proposes a standard of review of patent unreasonableness quoting
+Bachynski v. William Head Institution (Warden) et al.
+, [1995] B.C.T.C. Uned. A08; [1995] B.C.J. No. 1715 (S.C.).
+[14]
+In that case, an application for an order of habeas corpus was dismissed. It was an application to undo a transfer to another institution, i.e., from medium to maximum security.
+[15]
+Invoking a standard of patent unreasonableness, the Court rejected the application because the administration had fairly and reasonably treated the Applicant.
+[16]
+In
+Collin v. Lussier
+, [1983] 1 F.C. 218; [1983] F.C.J. No. 35 (T.D.), an order to transfer a convicted murderer, from a medium security institution to a maximum security one, allegedly without valid reasons, was considered to constitute a punishment and a reduction of freedom. Justice Decary did not elaborate on the standard of review; he based his decision on the violation of the Applicant's rights as guaranteed in section 7 of the
+Canadian Charter
+of Right and Freedom
+.
+[17]
+In the recent case of
+FRAGMENT_SUPPRESSED 2007 FC 1162, Justice Tremblay-Lamer applied a standard of review of reasonableness simpliciter to a decision of the third level of a grievance panel of the Correctional Service of Canada.
+[18]
+Justice Anne Mactavish noted in
+Dearnley et al. v. Canada (Attorney General)
+, [2007] F.C.J. No. 308; 313 F.T.R. 143; 2007 FC 219, that some deference is clearly due to the interpretation of the Commissioner's Directives.
+[19]
+In the present case, I note that there is no privative clause or statutory right of appeal, although it is clearly foreseen that an inmate may pursue a "legal remedy" (
+Corrections and Conditional Release Regulations
+, SOR/92-620, s. 81) (
+Regulations
+). This suggests less deference. However, the warden has expertise in the weighing and interpretation of the Commissioner's Directives and the interests of inmates, whereas the Court's expertise in this area is limited. The stated purpose of the statute is to carry out sentences and to assist in rehabilitation and reintegration into society of offenders (s. 3), while protecting the safety of the public. The nature of the question here is a question of fact and discretion. These last three factors favour more deference to the decision-maker.
+[20]
+As a result, I think that the standard of review in this case should be patent unreasonableness.
+ii. Did the Warden err in transferring Mr. MacDonald?
+[21]
+An involuntary transfer is a transfer initiated by CSC in order to better satisfy section 28 of the
+CCRA
+, reproduced above. That section requires consideration of the safety of the public, of the inmate(s), the security of the penitentiary; the accessibility to the inmate's community, family, culture, and language; rehabilitation and the availability of programs and services useful for the inmate. The
+Regulations
+and the Commissioner's Directives describe the procedural steps, such as the requirement for notice to the inmate to accomplish involuntary transfer.
+[22]
+The Applicant argues that the decision was based solely on the complaints of the victims' widow and representations made by the Police association of Canada. He pleads that these unilateral representations should not have been considered or should not have been determinative because they are not mentioned in section 28 of the
+CCRA
+.
+[23]
+Furthermore, family and friends of the Applicant protested the transfer by letters sent to the CSC but it did not consider them.
+[24]
+The Respondent submits that "[t] he community outcry is a valid factor to be considered in the placement of an inmate to be balanced against the other factors ... "He argues that among the factors enumerated in section 28, he bases himself specifically upon the "safety of the public" factor.
+[25]
+To him, "safety of the public" includes both physical and psychological aspects of Harm to the public. The Applicants contest this point of view arguing that if the legislator had wished to include the "public outcry" factor, he would have added it to section 28. Furthermore, he adds "safety of the public" is not affected by the transfer of an inmate from one penal institution to another, since he remains incarcerated. I must agree with that proposition.
+[26]
+Nowhere in the
+CCRA
+, the
+Regulations
+, or the Commissioner's Directive on the Transfer of Offenders is "community outcry" even alluded to. On the contrary, all three of those documents specifically identify that accessibility for the inmate to their family and rehabilitation of fundamental importance.
+[27]
+Nor does the Respondent explain how the Applicant's presence in the Fenbrook facility could put at risk the safety of the public, which is the only consideration of the public interest described in section 28 and mentioned in the decision. No reported cases in Canada support the warden's inference that the very fact that an inmate is a high-profile offender could put the public at risk.
+[28]
+Even the proposition put forward (and rejected) in
+Musitano v. Canada (Attorney General)
+, [2006] O.T.C. 291; [2006] O.J. No. 1152 (Sup. Ct.), that large amounts of media attention in the case of a transfer to the community might destabilize the security of the institution cannot be argued here, as Mr. MacDonald was already at Fenbrook and apparently in full safety and security despite the steady media and community interest from Penetanguishene. In any case, the Respondent has not raised the issue of the security of the penitentiary.
+[29]
+The Respondent has not demonstrated any basis from which the Warden could have drawn the conclusion that Mr. MacDonald should have been transferred. The sole factor to which he refers in the Notice of Involuntary Transfer does not seem to have any support in law or policy. Re: transfers in general.
+Collin
+, above;
+Hay v. Canada (National Parole Board)
+, [1985] F.C.J. No. 610;
+Zarbour v. Canada (Attorney General)
+, [2006] F.C.J. No. 1294; [2007] C.C.S. No. 17988;
+[30]
+In conclusion, the decision of the CSC cannot stand and the order of involuntary transfer of the Applicant to the Joyceville Institution must be annulled.
+JUDGMENT
+[31]
+THIS COURT ORDERS AND ADJUDGES that
+the application for judicial review is granted and the CSC decision to involuntary transfer the Applicant to the Joyceville Institution, is quashed, with costs against the Respondent.
+Application allowed.
+Editor: Angela E. McKay/pdk
+[End of document]

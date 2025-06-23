@@ -1,0 +1,195 @@
+[1]
+Hargrave, Prothonotary
+: The plaintiff, Cremco Couplings, a joint venture, is the owner of a patent reissued in 1997 for a soil pipe coupling device. The original patent was applied for in 1987, thus the reference in these reasons to sections of the
+Patent Act
+of 1970 (the "
+Act
+").
+[2]
+The patent coupling consists of an internal resilient elastomer sleeve to provide a seal and a surrounding stainless steel sleeve or ring to provide strength and alignment between the pipes to be joined, all of which is held in place and compressed, to make the joint leakproof, by either stainless steel hose clamps or by segmented bolted cast iron clamps. Cremco Supply Ltd. is the licensee.
+[3]
+The defendant, Canada Pipe Company Ltd. is said to produce and sell a similar pipe coupling without the permission of the plaintiffs. The plaintiffs thus seek the usual declaratory and injunctive relief, together with damages or an accounting. Canada Pipe has filed a defence and counterclaim. Now at issue is a motion to strike out portions of the counterclaim or, in the alternative, for particulars.
+Background
+Portions Of The
+Counterclaim At Issue
+[4]
+The focus of this motion is to strike out ss. 23 and 26 through 29(a) of the counterclaim. Alternatively the plaintiffs seek particulars of those paragraphs and of paragraph 30 of the counterclaim.
+[5]
+Paragraph 23 of the counterclaim alleges the plaintiff failed to comply with s. 36(1) of the
+Act
+. The wording of paragraph 23, which is substantially a recital of what is set out in s. 36(1) of the
+Act
+, is as follows:
+"The specification of the Patent failed to comply with the provisions of section 36(1) of the Patent Act. The specification failed:
+(a) to correctly and fully describe the alleged invention and its operation and use as contemplated by the inventors;
+(b) to set forth clearly the method of constructing, making, compounding or using the products described in such full, clear, concise and exact terms as to enable any person skilled in the art or science to which they appertain to make, construct, compound or use them; and
+(c) to explain the principle of the alleged invention and the best mode in which the inventors contemplated the application of that principle; and
+(d) to particularly indicate and distinctly claim the parts, improvements or combinations which are claimed as the alleged invention."
+The defendant also elaborates on paragraph 23 of the counterclaim by referring to 11 coupling variants which were not constructed by the inventors, which I take to mean couplings without certain features.
+[6]
+Sections 26 through 29(a) of the counterclaim allege invalidity in that the defendant says the invention was not new, but was described in earlier patents and publications, had been used and sold in Canada for more than two years before the filing of the Patent and that it was an obvious evolution of various patents, publications and manufacture, such being listed in a 45 item Schedule to the defence and counterclaim: these pleas are parallel to the wording of s. 28(1) of the
+Act
+, except as to s. 29(a) of the counterclaim, setting out the concept which, at the relevant time, was the doctrine of obviousness, to the effect that the invention "... was obvious and did not involve any inventive step having regard to what was known to those skilled in the art at the relevant time, ...".
+[7]
+Section 30 of the counterclaim also alleges invalidity, from the point of view that any changes made between the prior art used in pipe couplings and the device produced by the inventors was not an invention, but rather a matter of the exercise of skill and workshop improvement expected of those skilled in the art.
+Particulars To Date
+[8]
+The plaintiffs' initial request for particulars of paragraph 23 sought identification of the respects in which the specification failed to comply with the various recited provisions of s. 36(1) of the
+Act
+. As to paragraphs 27 and 29(a) the plaintiffs asked which portions of the 45 patents and publications, scheduled to the defence and counterclaim, were relied upon by the defendant, one patent referring to an ornamental design for a faucet. Finally, as to paragraph 28 of the counterclaim, the plaintiffs wished to know where, when and by whom the invention was used, prior to the application for the original patent, paragraph 28 being an open-ended list.
+[9]
+The defendant, in a reply to demand for particulars, filed 7 January 1998, provided open-ended particulars for paragraph 23 of the counterclaim, referring to subsequent paragraphs in the counterclaim which, in part, merely parrot wording in the
+Act
+. Here I have in mind paragraph 24 of the counterclaim, which the defendant says provides particulars of paragraph 23, but which in fact contains wording from s. 36(2) of the
+Act
+.
+[10]
+As particulars of allegations in paragraphs 27 and 29 of the counterclaim, the defendant replies that all portions of all documents scheduled to the defence and counterclaim are relied upon, however this is not an appropriate answer, even assuming that everything in all of the scheduled material is relevant, for paragraph 27 is open-ended, the defendant setting out that public use and sale includes that of the plaintiffs, the inventors, patentees, manufacturers, users and vendors listed in the substantial schedule. Finally, as to paragraph 28 of the counterclaim, the defendant sets out that various groups of entities used and sold the coupling in various specified provinces between 1960 and 1985.
+The Plaintiffs' Motion
+[11]
+Turning to the present motion, the plaintiffs submit that the initial particulars, with regard to paragraph 23 of the counterclaim, that is the failure to comply with the provisions of s. 36(1) of the
+Act
+, are in part a reiteration of the wording of s. 36(2) of the
+Act
+, set out a bare conclusion or requirement, at law, that a device must have utility to be patentable and are completely open-ended.
+[12]
+As to paragraph 26 of the counterclaim, the allegation the invention was not new and that other persons, including those listed in a schedule to the defence and counterclaim, used the alleged invention before 1987, the plaintiffs wished to know the specific facts relied upon in each of the scheduled documents. Similarly, as to paragraph 27 of the counterclaim, the plaintiffs ask what particular facts in each of the scheduled patents and publications relate to the plea of invalidity. As to paragraph 28 of the counterclaim the plaintiffs ask as to the facts of when and where the use and sale of the couplings occurred and by whom. In effect, the Schedule to the defence and counterclaim is said to provide an explanation to the grounds of invalidity set out not only in paragraphs 26, 27 and 28 but also in paragraph 29(a). The plaintiffs say that to reply intelligently to the counterclaim they need some idea of the who, when and where of prior use and what in particular, from the scheduled material, is pertinent to invalidity.
+[13]
+The further and better particulars requested of paragraph 29(a) of the counterclaim seek advice as to the facts, uses and sales listed in the schedule which support the plea of invalidity and that the invention was obvious and did not involve any inventive step.
+[14]
+Finally, the plaintiffs make a new request as to paragraph 30 of the counterclaim. There the defendant says that nothing was invented, but rather any difference between the invention and common knowledge and state of the art was merely a matter of ordinary skill and workshop improvement. The plaintiffs seek the facts supporting the allegation that nothing was in fact invented, having regard to the prior art scheduled to the counterclaim. This request for further and better particulars is clearly brought about by the initial particulars from the defendant, which set out that the prior art includes the knowledge exhibited in the patents, publications, and other material referred to in Schedule A.
+Consideration
+[15]
+The defendant has responded to the plaintiffs' requests for particulars, at least with regard to paragraphs 23 and 28 in an open-ended manner. Further, pleadings which merely set out portions of legislation or slightly reworded legislation, are defective. Finally, while it is conceivable, it does seem rather general to say that everything in all of the scheduled documents and patents, is relevant. However, given that the defendant has produced some particulars, material which might conceivably found a counterclaim, I am not prepared to say that it is beyond doubt that the paragraphs in question will not succeed and that they are futile. Even though the defendant has already had one run at providing appropriate particulars, to strike out even a portion of a claim and thus deny the defendant the opportunity to put forward its best case by way of counterclaim, is a Draconian remedy. The Statement of Claim will not be struck out. Particulars stand on a different footing.
+[16]
+In deciding any motion for particulars, it is important to keep in mind the function of particulars. The leading case, in our court, which sets out the function, approving a passage from the
+White Book
+, the English Supreme Court Practice, is
+Gulf Canada Ltd. v. Tug Mary Mackin and Sea-West Holdings Ltd.
+, [1984] 1 F.C. 884; 52 N.R. 282 (F.C.A.), at p. 889 [F.C.]. The function set out includes particulars needed both for pleading and for trial. Pertinent to this application, particulars before pleading, is to inform the other side of the nature of the case to be met and to limit the issues as to which examination for discovery will be required. I would add that, at a pleading stage, particulars are necessary to facilitate an intelligent reply to statement of claim or here, a reply to a counterclaim: see for example
+Embee Electronic Agencies Ltd. v. Agence Sherwood Agencies Inc.
+(1979), 43 C.P.R.(2d) 285 (F.C.T.D.), at p. 287 [C.P.R.]. Of course, this is bounded by the admonition that an applicant for particulars is only entitled to learn the nature of the case and not the way in which it is to be proven (ibid pages 286-287 [C.P.R.]).
+[17]
+Counsel for the defendant submits the plaintiffs are trying to limit the defendant by seeking particulars at this point: it certainly appears to be the case and indeed that is a function of particulars. Counsel goes on to submit the limiting of the defendant ought to be done on oral discovery: in
+Bror With v. Ruko of Canada Ltd.
+(1977), 31 C.P.R.(2d) 3 (F.C.T.D.), an application for particulars for pleading, Mr. Justice Walsh pointed out, at page 7, that the subject was the adequacy of pleadings, not discovery. Such is also the present situation.
+[18]
+One of the difficulties with the portion of the counterclaim at issue and with the particulars provided, is that portions of the impugned pleadings parallel the wording of the
+Act
+, or set out a bare legal definition or requirement, rather than make a connection with or set out a relationship between the
+Act
+, on the one hand, and the action and fact relied upon in support of the plea, on the other hand. Associate Chief Justice Jerome considers this concept at length in
+B & J Manufacturing Co. v. Canadian Pneumatic Tool Co.
+(1984), 77 C.P.R.(2d) 257 (F.C.T.D.), at p. 259 and following. Two short relevant passages are as follows:
+"It is not sufficient to simply plead a conclusion of law or a statutory defence. The defendants must plead the facts upon which it relies in trying to invoke the defence in this particular action and, accordingly, an order will go in that regard; ...
+"The defendants have followed the customary practice of pleading the defence in language as close as possible to the statute or jurisprudence, as the case may be. I am frankly somewhat puzzled at the constant reluctance of counsel to make a more direct connection between the general defences and the particular issues in suit and, as a matter of principle and good practice, it seems well-established that they ought to be required to do so." (page 259)
+The motion in
+B & J Manufacturing
+was for particulars including those as to prior use, prior publication, common general knowledge and failure to disclose the distinctive features of the invention in clear terms. He concluded by ordering those particulars and commenting that "in pleadings, reference to statutory language is bound to occur, but it must identify the relationship with the action and the facts relied upon in support of the plea". (page 262). In reaching this conclusion, Associate Chief Justice Jerome relied, in part, upon
+Omark Industries Ltd. v. Windsor Machine Co.
+(1981), 56 C.P.R.(2d) 111 (F.C.T.D.), a decision of Mr. Justice Mahoney, then of the Trial Division.
+[19]
+In
+Omark Industries
+the court pointed out that particulars as to prior use must be furnished, in that instance, in part, in order to explain 18 prior patents which were scheduled to the defence. The plaintiff wished the defendant to particularize the portions of those patents that it relied upon in alleging public use of the patents in Canada, more than two years before the application for the patents at issue was made. In ordering particulars Mr. Justice Mahoney noted that patents themselves do not normally disclose the use necessary to establish invalidity under s. 28 of the
+Act
+:
+"Paragraph 4 sets forth particulars, including the said 18 prior patents, of the alleged public use of the inventions in Canada more than two years before application was made for patents thereof. While I have not seen the 18 patents above referred to, patents do not normally disclose the sort of use necessary to establish invalidity under para. 28(1)(c) of the
+Patent Act
+, R.S.C. 1970, c. P-4. It is not sufficient here merely to point to the 18 patents. Further particulars should be provided".
+Section 28 of the
+Act
+is at issue and referred to, indirectly, in paragraphs 27 and 28 of the Canada Pipe counterclaim.
+[20]
+In the present instance the plaintiffs also take issue with the allegations of noncompliance with s. 36(1) and (2) of the
+Act
+, pointing out that paragraph 23 of the counterclaim parallels s. 36(1) of the
+Act
+and that paragraph 24, which is said to provide particulars, contains wording from s. 36(2) of the
+Act
+, but that no real particulars have been provided. Mr. Justice Mahoney had a comment on such a state of affairs:
+"Paragraph 6 supports an allegation of noncompliance with s. 36(1) and (2) of the
+Patent Act
+. The only particulars advanced is the allegation that the specification of each of the patents in issue fails 'to state distinctly and in explicit terms' what the inventor regarded as new and in which he claimed his monopoly. It is pretty much a paraphrasing of portions of the section. Similarly, para. 11 asserts baldly that the claims of the patents are not supported by the disclosure of their specifications. The defendant argues that these are both matters for argument and determination by the court and that neither is amenable to the provision of particulars. The argument has considerable intellectual appeal and might be acceptable if it were not for the numerous precedents in which this court has ordered just such particulars to be provided. Higher authority will have to be persuaded of the validity of the defendant's argument." (ibid page 114)
+In the result the defendant in
+Omark Industries
+was required to provide particulars.
+[21]
+At this point it would be appropriate to deal with a submission by counsel for the defendant that the defendant may rely upon all of the scheduled documents without being specific as to what parts of those documents, which are neither lengthy nor complex, are relevant. Counsel for the defendant referred to several passages in various cases, of which a passage in
+Omark Industries
+, supra, at page 113 is representative. There 18 patents were listed in a schedule, the issue being particulars of the relationship of those documents to the pleas of obviousness, common knowledge and anticipation. Mr. Justice Mahoney said the inventions were relatively simple and that he inferred that the patents referred to were neither lengthy nor complex, for the patents in issue, seven or eight pages of text and three pages of figures, were relatively brief. In the present instance, the patent at issue contains 26 pages of text and three pages of fairly detailed drawings. The defendant has introduced no evidence to indicate the length or complexity of the patents and documents incorporated by reference into its counterclaim. I will therefore assume that they are comparable to the patent at issue. That being the case, it would be improper and a waste of time to require the plaintiffs to sort through the substantial amount of material referred to in the Schedule to the counterclaim and speculate as to what aspects the defendant might rely upon for various propositions.
+[22]
+Counsel for the defendant also submits that the documents referred to in the Schedule are not before the court. However, they are certainly incorporated by reference and are relied upon in both the demand for particulars and in the particulars provided. The better view is that if the defendant is going to rely upon them, incorporates them into a pleading and refers to them in particulars they are part of the pleadings just as particulars are within the rule 2 definition of a pleading as a document which defines or answers a claim. Indeed, in
+Omark Industries
+, supra, the 18 patents referred to in particulars, but which the court had not seen, were certainly considered as before the court, for the court did order certain particulars: see the last paragraph on page 113.
+[23]
+At this point, it is clear that a plea such as that in paragraph 23 of the counterclaim, following the wording of s. 36(1) of the
+Act
+, requires particulars. To import particulars, by reference to paragraph 24 of the counterclaim, which includes the statutory wording of s. 36(2) of the
+Act
+, is an insufficient answer. To leave it open, to include those particulars that may be implied from s. 36(2) is also improper, for a pleading ought not to be left open-ended through the use of words such as "for example" and "including", the latter having been used in this instance: see for example
+Doris Hosiery Mills Ltd. v. Victoria's Secret Stores Inc.
+(1995), 58 C.P.R.(3d) 62, at p. 67 (F.C.T.D.) and
+McConway & Torley Corp. v. Maritime Steel & Foundaries Ltd.
+(1997), 126 F.T.R. 152; 72 C.P.R.(3d) 181, at p. 186 [C.P.R.] (T.D.). To also refer to the absence of various features, as the defendant has done in its pleadings, may be a step toward providing particulars of some sort, but stops short of what is required. The defendant shall provide particulars of paragraph 23 of the counterclaim identifying and limiting the ways in which the specification fails to comply with each of the recited provisions of s. 36(1) and 36(2) of the
+Act
+.
+[24]
+Dealing next with paragraphs 26 through 29(a) and 30 of the counterclaim, allegations that the invention was not new, but had earlier been known to and used by other persons as set out in Schedule A to the counterclaim and was a workshop improvement on prior art, it is well-settled that "if other prior art devices are being relied upon by the defendant, then the defendant is to provide full and complete particulars, including when these devices were allegedly used and by whom; ..." (
+McConway and Torley
+, supra, at page 186). Indeed, a plaintiff has a right to know, with accuracy, rather than by way of a shotgun prescription, the grounds on which a defendant contests the validity of a patent, of course stopping short of requiring a defendant to disclose its evidence: see for example
+Superseal Corp. v. Glaverbel-Mecaniver Canada Ltée
+(1977), 30 C.P.R.(2d) 97 (F.C.T.D.), at p. 99, a decision of Mr. Justice Marceau, as he then was. Yet more on point, is a further view of Mr. Justice Marceau's at page 100 where he comments upon a request for particulars of previous use by manufacturers and the products marketed by them, the plaintiff in that instance having been advised as to the business place of those manufacturers:
+"Yet plaintiff has the right to know furthermore where, when, how and under what form, documents, writings, drawings or products as well as the model number of the products, if any, each of the companies identified in para. (g) under Nos. 1 to 12 inclusively has known, divulged or used the invention in such a manner that it became available to the public."
+Clearly a plaintiff has a right to know, in a quite detailed manner, the particulars of prior manufacturer, including the where, when, how and other circumstances of knowledge, use and manufacture. This goes well beyond the present response that various named entities manufactured some sort of a pipe coupling during some portion of the years between 1960 and 1985 and sold those fittings in British Columbia, Quebec and the provinces lying between.
+[25]
+Also pertinent is
+Wellcome Foundation Ltd. v. Novopharm Ltd.
+(1992), 56 F.T.R. 282; 44 C.P.R.(3d) 456 (T.D.), at pp. 458-459 [C.P.R.] where Associate Chief Justice Jerome noted that merely scheduling a list of patents and articles and contending that the plaintiff knew of and was familiar with each, does not satisfy the burden on the defendant of establishing that a patent was neither novel, obvious nor inventive:
+FRAGMENT_SUPPRESSED
+The submission by Canada Pipe that the plaintiffs are aware of some of the documents, for example Canadian Government Specification Board 77-GP-2 and Cast Iron Soil Pipe Institute Standard No. 301-64T, does not materially assist the plaintiffs.
+[26]
+In the present instance, the defendant has appended to the defence and counterclaim a list of firms, inventors and patentees who invented, manufactured, used or sold a similar product. By means of particulars, the defendant advises that the listed firms manufactured, sold and used similar couplings between 1960 and 7 October 1985 and that the various inventors and patentees used and sold the invention "between the date of the filing of the application leading to the patent and October 7, 1985". The defendant says that these are sufficient particulars. However, that is not the law as I understand it, for a plaintiff is entitled to know all of the material facts of which a defendant has knowledge and intends to rely upon in support of allegations of prior invention, manufacture, use and knowledge:
+"The only particular given is the name or names of the prior inventor, user or connoisseur, as the case may be. When a party pleads prior use, for example, it is reasonable to infer that he knows not only who used the thing before, but something of when and where it was used. Similar inferences are reasonable in the cases of pleas of prior knowledge and prior invention. I think that the plaintiff is entitled to a statement of all of the material facts on which the defendant has knowledge and intends to rely in support of these allegations of prior invention, use and knowledge and I so order." (
+Amerace Corp. v. Minnesota Mining & Manufacturing Corp.
+(1975), 20 C.P.R.(2d) 105 (F.C.T.D.), at p. 107)
+[27]
+The defendant says that all of each document and patent referred to in the Schedule to the defence and counterclaim is relevant. This is at least a little too general and in one instance, American patent 224,403, fairly obviously is not the case. By way of further example, Mr. Lee of counsel for the plaintiffs, notes in his affidavit filed 13 January 1998 that document number 20 of the scheduled documents refers to a gasket with a maximum Shore hardness of 70 yet the plaintiffs' patent contains a sleeve with a Shore hardness of about 95. One might well ask whether all or any of document 20 is relevant given the plaintiffs' invention, at least in a substantial part, depends upon the compressibility of a relatively harder sealing material. This same observation applies to Scheduled documents 21, 22, 23 and 25. Similarly, several of the patents referred to are said by the plaintiffs not to relate in any way to the plaintiffs' sealing material with a Shore hardness of about 95. Counsel for the defendant says that opinions expressed on behalf of the plaintiffs as to the nature of the invention are of no assistance and by this I understand he refers to the importance of the hardness of the plaintiffs' sealing material, all of which he submits should be left to experts at trial. This would be a costly and time consuming solution, to an issue which, as Chief Justice Jacket points out in
+Leithiser and Timberland Ellicott Ltd. v. Pengo Hydra-Pull of Canada Ltd.
+(1975), 6 N.R. 301; 17 C.P.R.(2d) 110 (F.C.A.), at p. 116 [C.P.R.], ought not to be left in the air until trial. At best counsel's criticism goes to the weight of the affidavit material, although I note that Mr. Lee's affidavit is uncontradicted.
+[28]
+The plaintiffs are entitled to be advised as to the parts of prior patents relied upon and cannot be put off with the suggestion that they look at the patents for themselves: this stops short of the obligation on the defendant to clearly advise the plaintiffs as to the case to be met. This concept is set out in
+Mitten v. P.H. Tech Inc.
+(1982), 63 C.P.R.(2d) 232 (F.C.T.D.), at p. 233:
+"It seems to me that the plaintiffs are entitled to be told the parts of those prior patents the defendant relies on to establish that the invention described in the patent in issue was obvious. The plaintiffs should not be left with the obligation of perusing and examining with the greatest care all of these prior art documents covering hundreds of pages to ascertain whether any portion thereof, read in conjunction with any other, could not give rise to some argument susceptible of being presented as leading to a conclusion of obviousness. The plaintiffs are entitled to know more accurately the case which they will have to face. The further particularization of the prior art relied on by the defendant appears to me in this case to be a requirement of proper pleading; it should not be seen merely as a part of the discovery process."
+Mr. Justice Marceau, as he then was, went on to require the defendant to furnish particulars of the patents or which portions of those patents, scheduled to the defence, were relied upon to establish of obviousness.
+[29]
+Mr. Justice Marceau, in his brief reasons in
+Mitten
+, did not refer to
+Leithiser v. Pengo Hydra-Pull of Canada Ltd.
+, supra, a matter decided a few years earlier by the Federal Court of Appeal. The Court of Appeal had much the same view as to particulars of obviousness. Chief Justice Jacket, who wrote a concurring judgment, pointed out that merely to plead obviousness and lack of an inventive step, was open to attack by way of a preliminary proceeding:
+"Once a patent is granted, however, it is prima facie valid. The practice that seems always to have been followed when it is desired to put the question of validity in issue on the ground of lack of inventive ingenuity, and that was followed in this case, is simply to state in the pleadings that the 'alleged invention' was 'obvious' and 'did not involve any inventive step'. In my view, this is not a sufficient allegation for the purpose, if attacked by way of a preliminary proceeding. Whether or not the alleged invention involves inventive ingenuity can only be determined by considering it (as described in the specification) against the relevant state of affairs as they existed immediately before the time of the alleged invention, which state of affairs is usually known in patent jargon as the 'prior art'. But, while the interpretation of the specification is a question of law, the 'state of the art', in my view, is a question of fact, which should be pleaded so that the issues with regard thereto may (before trial, by the pleading process) be reduced to whatever aspects thereof are in bona fide dispute between the parties. I suggest to the members of the profession engaged in this class of litigation, and to the Trial Division, that serious attention should be given to applying the Rules of this court to this branch of pleading in future cases of this kind even though in other more leisurely times it was thought fit to leave such questions in the air until they reach the ultimate Court of Appeal." (
+Leithiser
+at pages 115-116)
+The point that Chief Justice Jacket makes, that particulars might, in past more leisurely times, be left to later date in proceedings was, even in 1974, an improper practice, becomes more of an imperative today given the substantial cost not only of getting a case to trial but also of the trial itself. In the context of pleading, it is equally important that particulars of prior art be set out in detail so that an action may move along with a minimum of wasted time and effort.
+[30]
+That I question whether the entirety of the patents are going to be relied upon is not something novel and indeed, Mr. Justice Walsh was somewhat incredulous when faced with that concept in
+Bror With v. Ruko of Canada Ltd.
+, supra, a case in which the defendant pleaded prior use and prior knowledge based on many earlier patents. Mr. Justice Walsh pointed out at pages 5 and 6 that the burden is on a defendant to prove the invalidity of the plaintiff's patent and that it was insufficient and improper to refuse further particulars, even where some of the patents relied upon by the defendant belonged to the plaintiff, or that the plaintiff was familiar with the patents. Such an assertion does not relieve a defendant of being more specific. Mr. Justice Walsh then at page 8 referred to a passage from
+Heathfield v. Greenway
+(1893), 11 R.P.C. 17, at p. 19:
+"I can hardly believe ... that the whole of these 16 or 18 specification are all anticipations ... I should think, looking at them prima facie, it is impossible to say you rely on the whole: and that being so, you ought to say what part."
+Mr. Justice Walsh, on his part, concluded that the defendant's assertion of reliance on the whole of the patents was not an adequate pleading. This reference was picked up and elaborated upon by Mr. Morneau, a fellow Prothonotary, in
+Machineries Tenco Ltée v. Weldco-Beales Manufacturing Ltd.
+(1996), 69 C.P.R.(3d) 78 (F.C.T.D. Protho.), where he noted that if a defendant relies upon the entirety of various patents, counsel for the plaintiff ought not to be left with the obligation of going through each patent, with great care, in order to assess what might go to obviousness:
+"The plaintiffs have, through their solicitors, asked the solicitor for the defendant for these particulars. The latter indicated that the defendant intends to rely on the entirety of the said patents. Plaintiffs' counsel submitted at the hearing on the motion that such an answer is of no assistance at all and that surely, in practical terms, the defendant must be relying on some portions of those patents to establish its defence of obviousness. Plaintiffs' counsel further submitted that he should not be left with the obligation of perusing and examining with the greatest care the prior patents to ascertain whether any portion thereof, read in conjunction with any other, could not give rise to some argument susceptible of being presented as leading to a conclusion of obviousness.
+"I agree with plaintiffs' counsel that the defendant's reliance on the whole of the patents is not adequate pleading." (page 79)
+[31]
+As I have noted, the defendant, through counsel, says that it relies upon "... all portions of all documents listed in Schedule 'A' to the defence ..." in order to support the allegations of invalidity. The defendant should reconsider that stand, both generally, as a practical matter and specifically with regard to reliance on the patent for the basin faucet, American patent 224,403 and the other clear examples set out in Mr. Lee's affidavit to which I have referred. It may be that the defendant believes that all of each patent is relevant in order to show obviousness, but if that is not in fact the case and were the plaintiffs put to extra time and expense of examining each patent in detail, in order to try and ferret out the relevance, that might well sound in substantial costs.
+Conclusion
+[32]
+While particulars for pleading are not as extensive as those which may be required for trial and should not include detailed material which is properly evidence at trial, a party must provide enough particulars of the case to be met so that a response may be an intelligent pleading and the scope of discovery may be kept within reasonable limits: these are basic objectives at this stage. Here the pleadings, including the scheduled documents and the particulars provided, do not achieve these basic objectives. Moreover, the case law supports the plaintiffs' request for the type of particulars sought, which is allowed in full. Costs will be to the plaintiffs in any event.
+Order accordingly.
+Editor: Angela E. McKay/gs
+[End of document]

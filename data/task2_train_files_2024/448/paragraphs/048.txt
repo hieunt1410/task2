@@ -1,0 +1,16 @@
+[48]
+Novopharm relies on the following passage from
+Fox
+, supra, at page 90:
+"Selection patents are more usually met with in the chemical, than in the other arts.
+If
+for practical purposes
+it is not obvious
+to skilled chemists in the state of chemical knowledge existing at the date of a selection patent
+that the selected components
+possess a special property
+, there is then, or at least there may be, a sufficient inventive step to support the patent.
+But mere verification is not invention
+. Where the method of manufacture is laid down in the originating patent, the selection patent must not be an exact reproduction of the same process coupled with a statement of the properties possessed by the selected bodies.
+No man can have a patent merely for ascertaining the properties of a known substance.
+" (Emphasis added)

@@ -1,0 +1,190 @@
+[1]
+Tabib, Prothonotary
+: I am seized of a motion by the Respondents Ranbaxy Laboratories Limited ("Ranbaxy"), to dismiss the within application pursuant to section 6(5)(b) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (as amended) (the "
+Regulations
+").
+Preliminary issue as to jurisdiction
+[2]
+The Applicants have argued, as a preliminary point, that a Prothonotary is without jurisdiction to hear and determine a motion brought under section 6(5)(b) of the
+Regulations
+.
+[3]
+That same question arose and was determined by Justice Marc Nadon, then of the Federal Court, in
+AB Hassle et al. v. Apotex Inc. et al.
+, [2000] F.C.J. No. 1767; 195 F.T.R. 264 (T.D.) as follows:
+"4 With respect to the jurisdiction issue, I am of the view that the prothonotary has jurisdiction to hear and dispose of the motions before him, and more particularly Apotex's motion for an order dismissing the applicants' application under subsection 6(1) of the
+Regulations
+on the ground that the application is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process. Rule 50(1)(a) and (c) of the
+Federal Court Rules
+, 1998
+(the '
+Rules
+') provides as follows:
+'50(1) A prothonotary may hear, and make any necessary orders relating to, any motion under these Rules other than a motion
+(a) in respect of which these Rules or an Act of Parliament has expressly conferred jurisdiction on a judge;
+. . . . .
+(c) for summary judgment in a proceeding other than an action referred to in subsection (2);'
+'50(1) Le protonotaire peut entendre toute requête présentée en vertu des présentes règles -- à l'exception des requêtes suivantes -- et rendre les ordonnances nécessaires s'y rapportant:
+a) une requête pour laquelle un juge a compétence expresse en vertu des présentes règles ou d'une loi fédérale;
+. . . . .
+c) une requête pour obtenir un jugement sommaire dans une instance autre que celle visée au paragraphe (2);'
+"5 The applicants' submission is that the motions before the prothonotary, and more particularly Apotex's motion for dismissal, are not motions brought under the
+Rules
+, but motions brought pursuant to the
+Regulations
+. Paragraph 6(5)(b) of the
+Regulations
+reads as follows:
+'6(5) In a proceeding in respect of an application under subsection (1), the court may, on the motion of a second person, dismiss the application
+. . . . .
+(b) on the ground that the application is redundant, scandalous, frivolous or vexatious or is otherwise an abuse of process.'
+'6(5) Lors de l'instance relative à la demande visée au paragraphe (1), le tribunal peut, sur requête de la seconde personne, rejeter la demande si, selon le cas:
+. . . . .
+(b) il conclut qu'elle est inutile, scandaleuse, frivole ou vexatoire ou constitue autrement un abus de procédure.'
+"6 In my view, the position taken by the applicants cannot be correct. I agree entirely with the submission which Apotex makes at paragraph 27 of its written representations:
+'27. Second, the Applicants' contention that Apotex' motion is not "a motion brought under the
+Federal Court Rules
+", as specified by Rule 50, is plainly incorrect. The motion was initiated by Notice of Motion, in accordance with Rule 359. In accordance with Rule 362, the Notice of Motion was served and filed at least two days before the date set out for the hearing of the motion. Similarly, Apotex filed evidence on the motion in accordance with Rule 363, and filed a Motion Record pursuant to Rule 364. It is accordingly clear that Apotex' motion is a motion under the
+Rules
+.'
+"7 In my view, it cannot be disputed that the motions before the prothonotary are motions brought under the
+Rules
+. I find support for that view in the decision of MacKay, J., in
+Brain Tumor Foundation of Canada v. Starlight Foundation et al.
+(1999), 4 C.P.R.(4th) 192. The matter before Mr. Justice MacKay was an appeal from a judgment rendered by prothonotary Richard Morneau on September 1, 1999, [1999] F.C.J. No. 1444, whereby the learned prothonotary dismissed, inter alia, the appellant's appeal from a decision, dated March 3, 1999, [1999] T.M.O.B. No. 57, of the Registrar of Trademarks. One of the issues before Mr. Justice MacKay was the authority of the prothonotary to dismiss an appeal taken to this Court pursuant to section 56 of the
+Trade-marks Act
+.
+"8 At pages 201 and 202 of his decision, MacKay, J., dealt as follows with the issue of jurisdiction:
+'[23] On the second issue it is urged that since the Prothonotary is expressly prohibited from determining a motion for summary judgment (
+Federal Court Rules
+, 1998
+, Rule 50(1)(c)), the dismissal of the applicant's statutory appeal is not a matter within the prothonotary's jurisdiction. In a technical sense the motion before the Prothonotary was not one for summary judgment. Nevertheless, it is urged that the decision to strike is the equivalent of a summary dismissal of the appeal, despite the applicant's statutory right to proceed to question the Registrar's decision.
+'[24] In my opinion, the Prothonotary had authority under the
+Federal Court Act
+and the Court's
+Rules
+to decide on the respondent's motion to strike the appeal. That was not a motion in respect of which the
+Trade-marks Act
+expressly confers jurisdiction on a judge, nor was it a motion for summary judgment, matters excluded under paragraphs (a) and (c) of Rule 51(1) from the authority of a Prothonotary. Consistent with his general authority to deal with all motions except those expressly excluded by Rule 50(1), in my opinion, it was not beyond that authority for the Prothonotary to deal with the motion in this case.'
+"9 As is apparent from a reading of the
+Regulations
+, subsection 6(5) thereof confers jurisdiction on the Court. Therefore, the motions are not motions that a prothonotary is barred from hearing. Further, like MacKay, J., in
+Brain Tumour Foundation of Canada
+, supra, I am of the view that Apotex's motion herein is not a motion for summary judgment. Thus, the applicants fail on ground one."
+[4]
+This decision is directly on point and is binding upon me.
+[5]
+The Applicants however argue that
+AB Hassle
+has effectively been overruled by the Court of Appeal's decision in
+TMR Energy Ltd. v. State Property Fund of Ukraine
+, [2005] F.C.R. 111; 329 N.R. 355; 2005 FCA 28, especially, at paragraphs [38], [41], [42] and [51] thereof, which state as follows:
+"[38] To understand the jurisdiction of prothonotaries under the
+Federal Court Rules
+, 1998
+, it is important to distinguish between actions, applications and appeals, which are the only ways allowed by the
+Rules
+to commence proceedings, on the one hand, and motions, on the second hand.
+. . . . .
+"[41] When read in that context, it is obvious that rule 50 does not grant to prothonotaries any power with respect to the final disposition of applications and appeals and grants them a limited jurisdiction with respect to the final disposition of actions. As noted by McGillis, J., in
+FRAGMENT_SUPPRESSED (my emphasis). And in
+First Canadians
+', this Court, in paragraph 9, noted that the 'distinction between "motion" and "action" was clearly in the mind of the regulator.' The same may be said with respect to the distinction between 'motion' and 'application'. An application for registration, recognition or enforcement of a foreign judgment is described as an 'application' in paragraph 300(h) and it is governed by rules 327-334, which are found in Part 5 of the
+Rules
+. It cannot therefore be disposed of by a prothonotary even though motions pertaining to it may be entertained by the prothonotary.
+"[42] Whatever might have been the law or practice under the former
+Rules
+or whatever might be the practice under the present
+Rules
+, a prothonotary does not have the jurisdiction, under the present
+Rules
+, to determine an application brought under rules 327-334. Jurisdiction is to be found in the
+Rules
+of the Court; it cannot be found in mere rules of practice, even more so where such rules of practice are inconsistent with the
+Rules
+.
+"[51] Assuming for the sake of discussion that the lack of authority of the prothonotary could be described as some form of 'non-compliance', such non-compliance would be, not with the
+Rules
+, but with the
+Act
+. As noted by Jerome, A.C.J., in
+Iscar Ltd. v. Karl Hertel GmbH
+, [1989] 3 F.C. 479 (T.D.), at page 484, the jurisdiction of the prothonotary 'springs from subsection 46(1) [of the
+Federal Court Act
+]' and 'does not originate in our rule or my practice note, but in the
+Federal Court Act
+.' I might add that the jurisdiction of prothonotaries also springs from subsection 12(3) of the
+Federal Courts Act
+, which provides that 'the powers, duties and functions of the prothonotaries shall be determined by the
+Rules
+.' [page135] The Chief Justice of the Federal Court, in assigning to the prothonotary a matter over which he has no jurisdiction, or a prothonotary, in exercising an authority he or she does not possess, acts outside of the
+Rules
+and fails in reality to comply with the
+Act
+."
+[6]
+The Applicants take from that decision the general proposition that Prothonotaries have no jurisdiction to make any final disposition of any applications or appeals, even in the context of a motion, even where the power to make a final determination of certain issues in the application or appeal by way of the motion is specifically contemplated and even where the express terms of Rule 50 would otherwise appear to give Prothonotaries jurisdiction.
+[7]
+It seems plain to me that the only way such a sweeping interpretation could be given to the Court of Appeal's reasons is by reading the first sentence of paragraph [41] in complete isolation, ignoring the reasoning with which the Court of Appeal's entire analysis begins, at paragraph [38], and that which immediately follows in paragraph [41] itself. That reasoning emphasizes the procedural distinctions between actions, applications and appeals on the one hand, and motions on the other. In
+TMR
+, the impugned decision of a Prothonotary was on the merits of an application for the registration, recognition or enforcement of a foreign judgment, qua application, and not in the context of a "motion under the
+Rules
+". That a Prothonotary could not determine such an application because it is neither a motion nor an action contemplated by Rule 50(2), and that the
+Rules
+do not otherwise grant such jurisdiction to Prothonotaries is the ratio decidendi of the Court of Appeal. As such, it neither explicitly, nor by necessary implication, overrules Justice Nadon's determination, in
+AB Hassle
+, that a motion pursuant to section 6(5)(b) of the
+Regulations
+is a motion under the
+Rules
+, that it is not a motion for summary judgment and that Rule 50(1) of the
+Federal Courts Rules
+applies to confer jurisdiction upon Prothonotaries to hear and determine same.
+[8]
+Having concluded that I have jurisdiction to hear and determine the motion before me, I now turn to the merits of that motion.
+The facts and procedural record
+[9]
+The Applicants hold several patents listed on the Patent Register against the drug atorvastatin calcium, commercialized under the brand name Lipitor®. Patents 2,450,111 (111 Patent), 2,521,903 (903 Patent) and 2,521,933 (933 Patent) respectively claim, inter alia, crystalline Forms VII, X and XII of atorvastatin calcium.
+[10]
+In its notice of allegation (NOA), Ranbaxy alleges, inter alia, that its proposed atorvastatin calcium would not infringe the relevant patents, as it would neither make, use, construct or sell crystalline Forms VII, X or XII of atorvastatin calcium if an NOC were issued to it. In response to Ranbaxy's NOA, the Applicants filed the within application, alleging, inter alia, that Ranbaxy's allegations of non-infringement are not justified.
+[11]
+There is evidence before me on this motion and in the substantive record on this application, that Ranbaxy has developed two processes for producing Ran-Atorvastatin. Both processes allegedly produce, as a final product, an amorphous form of atorvastatin calcium, rather than any patented crystalline form. Only one of these two processes has been filed with Health Canada as part of Ranbaxy's Abbreviated New Drug Submission. The other process has not been filed and the evidence before me indicates that Ranbaxy has no intention of filing it "until after" an NOC is issued in respect of Ran-Atorvastatin. As to whether Ranbaxy has a formed intention to file for a change of process in favour of the second one once the NOC is issued, the parties disagree: the Applicants submit the evidence on record permits such an inference, Ranbaxy submits that all the evidence shows is that Ranbaxy "has not closed the door" to such an eventuality.
+[12]
+The parties are, however, ad idem that the Applicants have filed substantive evidence on record in this matter in support of its submission that the second process developed by Ranbaxy (and which is not on file with the Minister) would produce crystalline Form VII of atorvastatin calcium as an intermediate. Thus, say the Applicants, if the Court accepts this evidence, Ranbaxy's allegation of non-infringement with respect of the 111 Patent would not be justified, as Ranbaxy intends, if an NOC is issued, to use a process which would make or use Form VII atorvastatin calcium.
+[13]
+At the time this motion was heard, the time for filing the Applicants' evidence pursuant to Rule 306 and for filing the Respondents' evidence pursuant to Rule 307 had expired. Both parties filed substantial evidence, and cross-examinations have yet to be conducted.
+The issue
+[14]
+Ranbaxy submits, essentially, that an application for a prohibition order pursuant to section 6(5) of the
+Regulations
+is necessarily limited to and defined by the submission on file with Health Canada, and that the only issues that can be considered by the Court or that can be relevant in such an application are whether, on the basis of the materials filed by the second party with Health Canada, the second person's allegations of non-infringement are justified. In any event, Ranbaxy submits that its notice of allegation must be read as limiting its allegations of non-infringement to the processes and data contained in its submission to Health Canada.
+Analysis
+[15]
+Ranbaxy concedes that there is no case law on this specific issue, although its argues that both section 5(1) of the
+Regulations
+and the decision in
+Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al.
+(1995), 169 N.R. 342; 55 C.P.R.(3d) 302 (F.C.A.), at p. 314 make it clear that the NOA is part of the second person's submission, and that the decision in
+Aventis Pharma Inc. et al. v. Apotex Inc. et al.
+, [2005] F.C.J. No. 1691; 281 F.T.R. 233; 2005 FC 1381, can be applied by analogy.
+[16]
+Both parties submitted in argument before me that the standard to be applied on a motion under section 6(5)(b) of the
+Regulations
+is whether it is "plain and obvious" that the application is redundant, scandalous, frivolous, vexatious or an abuse of process. Taking this as the appropriate standard, I am not satisfied that it necessarily follows from the proposition that a NOA is part of a submission that the converse must also be true: that the submission be deemed to be part of the NOA. On the facts of this case, Ranbaxy's allegation of non-infringement does not specifically refer to the process on file with Health Canada as defining its allegations.
+[17]
+As for the case of
+Aventis Pharma v. Apotex
+, I note that it was concerned with an amended product monograph rather than with an amended manufacturing process and that it was the second person, rather than the first person, who wished to rely on the amendment. Accordingly, I am not satisfied that that this case stands as a binding determination that the first person is limited, in attempting to show that the allegations are not justified, to considering only the material filed with Health Canada, or that it is plain and obvious that it would be applied in this case by analogy. An analogy could just as well be made with "use claims" cases (see for example
+Aventis Pharma Inc. et al. v. Pharmascience Inc. et al.
+, [2007] 2 F.C.R. 103; 352 N.R. 99; [2006] F.C.J. No. 980; 2006 FCA 229, and cases referred to therein), where evidence going well beyond the content of the submission filed with Health Canada is considered in determining whether the allegations of a second person are justified.
+[18]
+Thus, I find that it is not plain and obvious that the application, in respect of Patent 111, is frivolous, vexatious or an abuse of process.
+[19]
+Ranbaxy's motion also addressed the Applicants' allegations relating to the 903 and 933 Patents, those relating to Ranbaxy's identity as a second person and those relating to service of the NOA. However, Ranbaxy's motion also sought the dismissal of the application in its entirety, rather than in part, and these other issues are clearly secondary, involving little or no evidence, let alone controversial evidence. As the application will go ahead on the issue of the 111 Patent, I decline to exercise my discretion to consider whether the application should be dismissed in part in respect of those other patents and arguments. Ranbaxy's motion is therefore dismissed, with costs to
+the Applicants
+in the cause.
+Motion dismissed.
+Editor: Angela E. McKay/clh
+[End of document]

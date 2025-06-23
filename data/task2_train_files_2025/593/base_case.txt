@@ -1,0 +1,543 @@
+[1]
+Hargrave, Prothonotary
+: These reasons arise out of a motion heard in Edmonton on January 11 and 12, 1996, to determine priorities to the proceeds of the court ordered sale of the 150 foot sternwheeler "Edmonton Queen".
+Background
+[2]
+The original motion filed February 14, 1995, brought by the Intervenor, Alberta Treasury Branches ("Treasury Branches") sought, among other things, an Order declaring that the Treasury Branches' mortgage of the "Edmonton Queen" had a first priority to the sale proceeds and to that end Treasury Branches filed contemporaneous affidavit material.
+[3]
+The priorities aspect of the motion was not dealt with until October 13, 1995, when the Associate Chief Justice set the hearing of the priorities motion for December 8, 1995, and determined the issues to be then considered. The motion as it now stands is to determine the priorities as among the plaintiff, Scott Steel Ltd. ("Scott Steel"), who claim a priority based on a possessory lien, Treasury Branches, who hold various security, but relevant to this motion a builder's mortgage which has matured into a registered marine mortgage and J.C. Damar Developments Ltd. ("Damar"), who supplied goods and services to go toward finishing the interior of the "Edmonton Queen" and who base their claim alternatively on a constructive possessory lien, a maritime lien, a garageman's lien, and an equitable lien and also raise the possibility of equitable division among the parties.
+[4]
+There are also the claims of Peter S. Hatfield Ltd. ("Hatfield") and Wm. R. Brown & Associates Ltd. ("Wm. R. Brown"), the naval architects retained by the former owners for whose account the vessel was built. That claim was mentioned briefly by one of the counsel who now appears for Scott Steel.
+[5]
+The approach that I will take will be first to deal with priorities generally; second, to assign the usual ranking to the four claimants; third, the question of whether the usual ranking ought to be changed by reason of special circumstances; and finally, whether the equitable doctrine of marshalling ought to apply so as to require Treasury Branches to exhaust other security before looking to the vessel sale proceeds. However, before beginning all of this there is one point to make clear: the ranking of the priorities of the claimants does not provide, in this instance, approval of the amounts of the claims themselves. Proof of the claims will be on another day. Rather, the aim of this motion is to set out a framework of priorities by which to determine division of the ship sale proceeds at a later date.
+The Conventional Priorities
+[6]
+The ranking of maritime claims in Canada generally follows that in the United Kingdom, but, because there are some minor differences, one is best off to follow Canadian cases unless aware of the differences. The leading cases are
+Comeau's Sea Foods Ltd. v. Ship Frank and Troy
+, [1971] F.C. 556 (T.D.);
+Ship Joannis Daskalelis, Re
+, [1974] 1 Lloyd's Rep. 174 (S.C.C.);
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean I
+, [1979] 2 F.C. 661; 100 D.L.R.(3d) 11 (T.D.) and
+Llido v. Ship Lowell Thomas Explorer
+, [1980] 1 F.C. 339 (T.D.). I would add to this list
+Ship Monica S., Re
+, [1967] 2 Lloyd's Rep. 113, a decision of Mr. Justice Brandon. The
+Monica S.
+deals extensively with the position of a necessaries supplier. Much of the analysis applies equally to anyone holding a statutory right in rem by reason of ss. 22(2) and 43(2) of the
+Federal Court Act
+and I note that this would include, for the purposes of the present proceeding, "any claim arising out of a contract relating to the construction, repair or equipping of a ship;" (s. 22(2)(n) of the
+Federal Court Act
+)).
+[7]
+I now turn to the pertinent priorities in Canada. In that Damar argues a number of alternatives, I have included those as well in the ranking, which is generally as follows:
+1. Disbursements of the Admiralty Marshal;
+2. Costs of the sale, including the costs of the plaintiff in an action for arrest, appraisal and sale: in this instance portions of the claim of the Intervenor, Treasury Branches, might fall within this category;
+3. Possessory liens in which the possession predated other liens;
+4. Maritime liens including the lien traditionally granted to a seaman for wages;
+5. Possessory liens arising subsequent to a maritime lien;
+6. The claim of a mortgage holder which, in Canada, includes the claim of a lender holding a builder's mortgage recorded at the Shipping Registry;
+7. Statutory rights in rem, including for necessaries (the supply of goods, materials and services) and those with claims arising out of a contract relating to the construction, repair or equipping of a ship, which rank pari passu among themselves and with the claims of ordinary non-marine unsecured creditors, the status of which does not change so as to allow the claimant to become a secured creditor upon institution of an action.
+A Usual Ranking Of The Claimants
+[8]
+In setting out the usual ranking of the present claimants I have assumed that the Admiralty Marshal has no unsatisfied claims, but that his charges and disbursements have been met, from time to time, by Treasury Branches. The usual ranking, subject to any special circumstances, with which I will deal later, is as follows:
+1. The claim of Treasury Branches for reimbursement as to the Admiralty Marshal's agency costs and fees, which has also been touched upon in the Order of August 31, 1994;
+2. The claim of Treasury Branches for the appraisal and study costs, up to $20,000, as provided for in the August 31, 1994, Order and any other taxable costs and disbursements which Treasury Branches is able to show as instrumental in rendering the fund, the proceeds of the sale of the "Edmonton Queen", available to the creditors;
+3. The possessory lien claimed by Scott Steel;
+4. The claim of Treasury Branches as the holder of a recorded builder's mortgage, which has now matured into a registered marine mortgage as provided for in s. 46 of the Canada
+Shipping Act
+; and
+5. The statutory rights in rem of Damar, Wm. R. Brown and Hatfield as suppliers of goods, materials or services and/or as holders of claims arising out of contracts relating to construction and equipping of the "Edmonton Queen" as provided in s. 22(2)(m) and (n) of the
+Federal Court Act
+.
+I have used the term "usual ranking" as in my view there are no immutable rules of ranking, but a usual ranking which is a manifestation of a consideration over the years of then current equitable concerns, public policy considerations and commercial realities.
+[9]
+I should note here the choice of terms by which to characterize the claims. The term "lien" is in the context of possessory liens and maritime liens and is not to be confused with the claim, in Canada, of a mortgage holder. Finally, as Mr. Justice Addy pointed out in
+Benson Brothers Shipbuilding Co. (1960) v. Ship Miss Donna
+, [1978] 1 F.C. 379 (T.D.), at p. 384, one ought not to use the term "statutory lien" for those claiming a mere right in rem, but rather the proper term is a "statutory right in rem" when one refers to the claims of necessary suppliers and other claimants who do not strictly speaking have a lien, but rather have the use of a right in rem under s. 43(2) of the
+Federal Court Act
+in order to enforce a debt.
+Special Circumstances To Change
+The Ranking
+[10]
+Maritime priorities have been shaped by considerations of equity, public policy and commercial expediency in order to produce a result that is just in the circumstances of each case. This is neatly set out in a passage from Thomas on
+Maritime Liens
+, Stevens & Sons [1980] at p. 234:
+"There has to date been no attempt by the legislature, beyond giving a statutory priority to the maritime lien of the life salvor to lay down a precise scheme of priorities. Nor has the judiciary been attracted by such an approach. On the contrary, the Admiralty and Appellate Courts have adopted a broad discretionary approach with rival claims ranked by reference to considerations of equity, public policy and commercial expediency, with the ultimate aim of doing that which is just in the circumstance of each case. This is not however to suggest that the law is capricious, erratic or unpredictable. Arising from the 'value' framework within which the courts operate there have emerged various principles which are capable of providing reliable signposts to the likely attitude of the courts."
+Any change in the usual ranking of maritime priorities must be accomplished by the application of equitable principles.
+[11]
+The ranking of claims has changed over the years. However, at any given time the courts have been very hesitant, in any one case, to change the position of a claimant within the then established hierarchy. With this in mind it is useful to look at some of the early English and Canadian cases. One must bear in mind that at the time of the two English cases I have referred to, the English Admiralty Court had lost much of its equitable jurisdiction, a jurisdiction which was not regained until more recently. Similarly, our Canadian Admiralty Court, the Exchequer Court, did not have a full equitable jurisdiction until it was replaced by the Federal Court and the
+Federal Court Act
+in 1970. Thus in the early cases the courts were constrained to apply usual priorities. However, it is interesting to observe that later, when our court and the English Admiralty Court regained a full equitable jurisdiction, few judges have ventured to upset the usual and expected priorities.
+[12]
+The English Admiralty Court's admiralty jurisdiction was considered by the Privy Council as early as 1847 in
+Ship Saracen, Re
+(1847), 6 Moo. P.C.C. 56; 13 E.R. 604 (P.C.), the Privy Council there being of the view that equitable considerations ought to have their weight, although the Admiralty Court, not having a full equitable jurisdiction, could not order an equitable distribution of proceeds which would take away the priority of a prior petitioner (pp. 75-76/611-612).
+[13]
+Doctor Lushington commented on the Admiralty Court's equitable jurisdiction in the context of a crew wage claim and equitable set-off, which he was unable to allow, in
+Ship Don Francisco, Re
+, [1861] Lush 468; 167 E.R. 210, at pp. 471/212 et seq., to the effect that the Admiralty Court was a court of equity as well as of law, but that the extent to which it was a court of equity had not been clearly defined, notwithstanding some of the earlier cases, including the
+Saracen
+(supra). He contrasted the situation in the English Courts then, with the broader equitable jurisdiction of the Admiralty Courts in the United States, who obtained their jurisdiction before the equitable jurisdiction of the Admiralty Courts in England was cut back by various decisions in the common law courts.
+[14]
+Mr. Justice Anglin, writing the majority decision in the
+Montreal Dry Docks & Ship Repairing Co. v. Halifax Shipyards Ltd.
+(1920), 60 S.C.R. 359, picked up the fact that the Exchequer Court did not possess a full equitable jurisdiction, but went on to point out that since the Admiralty Court had jurisdiction over various claims against the res it could see that an injustice not be done within that framework: the court was not about to let other claimants be unjustly enriched when a ship repairer, in possession, did work on a vessel after an arrest, following which it was sold in an action by other creditors.
+[15]
+I have referred to these earlier cases to indicate that historically the Admiralty Courts, both here and in England, were constrained by their lack of jurisdiction in upsetting established priorities. However, this has changed, both in England and, in our own situation, with the 1970 enactment of the
+Federal Court Act
+, which constituted the Federal Court as a court of equity.
+[16]
+In the modern English context Mr. Justice Hewson considered whether he ought to grant necessaries suppliers a priority over the mortgage holders in
+Ship Pickaninny, Re; Hammond (George) & Co. (Interveners), Re
+, [1960] 1 Lloyd's Rep. 533, at p. 537. His view was that the court ought to be slow to depart from the usual order of priorities and then do so only where there was very strong reliable evidence:
+"It seems to me that there would have to be very strong reliable evidence before a court could upset the normal run of priorities established by judgments over many years in the Admiralty Court. I have been referred to several cases, namely,
+The Scio
+(1867), L.R. 1 A. & E. 353; also to a passage from
+The Zigurds
+, [1932] P. 113; (1932) 43 Ll. L. Rep. 387, and to
+Bristow v. Whitmore
+(1861), 9 H.L.C. 391. These cases, so far as they assist me in this particular motion, indicate that the court must be slow to depart from the usual order of priorities."
+I now turn to two Canadian cases dealing with the equitable tempering of priorities.
+[17]
+Mr. Justice Walsh commented on the fundamental rules of priorities in
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean I
+, [1979] 2 F.C. 661; 100 D.L.R.(3d) 11 (T.D.), at p. 686 et seq. where, after some consideration, he stated the proposition that priorities do not rest on a rigid application of rules, but rather on the principle of doing equity to the parties in the circumstances of each particular case. He concluded that the priorities, so far as the proceeds of
+The Atlantean I
+were concerned, ought to be equitably tempered. But the adjustments made to the usual priorities, in
+The "Atlantean I"
+, were very minor and generally had to do with the cost of preserving the vessel, subsequent to the sale, in order to deliver up the vessel in proper condition to the purchaser. Now this seems a reasonable conclusion. However, when the Court of Appeal dealt with
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean I
+(1984), 52 N.R. 10; 7 D.L.R.(4th) 395 (F.C.A.), Mr. Justice of Appeal Pratte pointed out that costs incurred, in the nature of necessaries, after the date the court ordered the sale, but before the vessel was delivered up to the purchaser, did not have an enhanced priority.
+[18]
+The outcome in
+The Atlantean I
+indicates to me that priorities ought not to be departed from except in very special circumstances or, as FRAGMENT_SUPPRESSED
+[19]
+In the
+Galaxias
+the issue of interest is the claim of Naftikon Aponachicon Tameion ("NAT"), a Greek statutory seamen's union akin to a Canadian Crown corporation. The vessel was registered in Greece. Despite the court ordered sale the Greek government made it clear that unless NAT was paid in full out of the proceeds of the sale the vessel, the Greek government would not close the Greek registry, thus preventing the transfer of the vessel to the new owners. In effect, NAT sought to have the court adjudicate on the merits of its claim yet, with the backing of the Greek authorities, was in a position to exert pressure "tantamount to blackmail" in the event that the court did not recognize NAT's claims (p. 426).
+[20]
+It was in this context that Mr. Justice Rouleau formulated what I take to be the present Canadian rule, that the court's equitable jurisdiction, to upset the priorities long established in Canadian Maritime Law, should only be exercised where necessary to prevent an obvious injustice. Notwithstanding the conduct of NAT, Mr. Justice Rouleau allowed the claim of NAT, subject to minor reimbursements to the purchasers, to the Sheriff and subject to the provision, by the Greek Shipping Registry, of a Certificate of Deletion of Registry to allow the vessel to be transferred to the new owners. However, despite the reprehensible conduct on the part of NAT, the apparent priorities were not altered.
+[21]
+At about the same time that Mr. Justice Rouleau decided
+The Galaxias
+(supra), Mr. Justice Brandon of the Queen's Bench Division, Admiralty Court, decided
+Ship Lyrma (No. 2), Re
+, [1978] 2 Lloyd's Rep. 30 (Q.B.), a contest between salvors and the crew who claimed, among other things, wages earned both before and after the salvage. For various reasons, including serious financial hardship, the seamen contended that their claim should come before that of the salvor. Mr. Justice Brandon considered the priority of the salvage claim, based on the equitable idea that the salvors, through their services having preserved the vessel, ought to be paid first, even if there were other liens which had on the one hand attached earlier or on the other hand had attached later and might arguably take priority in inverse order of attachment. In upholding the priority of the salvor he said:
+"The equitable basis of the principle appears to me to be sound. Even if I thought otherwise, the principle has been established for so long that I do not consider that I should be justified in departing from it, unless perhaps it could be shown that, on the special facts of a particular case, the application of the principle produced a plainly unjust result."
+[22]
+These two views, by Justices Rouleau and Brandon, are not particularly different. In
+The Galaxias
+it is that equitable powers should only be used to upset priorities long established in Canadian Maritime Law where it was necessary to prevent an obvious injustice and in the
+Lyrma (No. 2)
+, that established priorities ought not to be departed from "... unless perhaps it could be shown that, on the special facts of the particular case, the application of the principle produced a plainly unjust result.". However, both of these phrasings of the test, and particularly that flowing from the facts in the
+Galaxias
+, point to a heavy onus on the part of Treasury Branches to upset the usual long-established priorities.
+Consideration Of The Priority Of
+Scott Steel
+[23]
+There are two issues to consider in establishing the priority of Scott Steel: Treasury Branches submits first, that Scott Steel does not have a possessory lien; and second, that even if Scott Steel has a possessory lien, Scott Steel, through its actions, has lost its priority over Treasury Branches' claim as mortgage holder, for to hold otherwise would be an unjust result. That Scott Steel did not file an affidavit setting out their claim, under rule 1008(2) is, as pointed out by the Associate Chief Justice in his order of October 3, 1995, not an issue. In addition, there are many cases in which a creditor claiming against vessel proceeds has been added as a claimant at a later date.
+Scott Steel's Claim To A Possessory Lien
+[24]
+Treasury Branches' approach, that counsel submits denies the existence of a possessory lien to Scott Steel, is that Scott Steel agreed to provide, launch and deliver a vessel that had completed sea trials, for a set price and as such the arrangement is merely a contract for the sale of goods, referring to
+Casden v. Cooper Enterprises Ltd. et al.
+(1993), 151 N.R. 199 (F.C.A.). In that case a vessel, originally to be delivered at a fixed price, later had extras added. Mr. Justice Linden of the Federal Court of Appeal held, not surprisingly, that it was a sale of goods and indeed, in ship building situations, many
+Sale of Goods Act
+provisions normally come into play. Mr. Justice Linden went on to consider sale of goods concepts including sale by description and fitness for purpose, but not any issue directly bearing on liens. But all of this does not particularly assist Treasury Branches, for even under the
+Sale of Goods Act
+an unpaid vendor has a possessory lien. Indeed, the
+Sale of Goods Act
+is a codification and any common law builder's lien or repairers lien still survives, to the extent that such are not inconsistent with the
+Act
+. The Treasury Board may be saying that there is no possessory lien for the price of a generic chattel, one of which a supplier may take off his shelf and supply to anyone: I will deal with that argument shortly within the context of
+Woods v. Russell
+(1822), 5 B. & Ald. 942; 106 E.R. 1436.
+[25]
+Treasury Branches says that a vendor may maintain a lien only for the price of the goods retained, but no other charges in the nature of extras and refers to the 1860 case of
+Somes v. British Empire Shipping Co. (The British Empire)
+, [1843-60] All E.R. Rep. 844; [1860] 8 H.L.C. 338; 11 E.R. 459 (H.L.), a decision of the House of Lords. That case stands for the proposition that a ship repairer, claiming a possessory lien, may not (outside of a specific contractual provision) add into his lien the cost of storage. This has always been a sore point with ship builders and repairers, who have no summary remedy and may not sell a vessel under a possessory lien, but must keep and look after the vessel until it is sold by some other means or party. The case is still good law. To the extent that any of Scott Steel's claim is for storage of the vessel, it would not be secured by a lien. However, the
+British Empire
+does not stand for the proposition that proper extras, beyond the contract price, such as time, equipment and material, may not be the subject of the possessory lien: see also
+Ship Katingaki, Re
+, [1976] 2 Lloyd's Rep. 372, a decision of Mr. Justice Brandon.
+[26]
+Treasury Branches goes on to say that common law possessory liens arise where an owner delivers a vessel into the possession of a repairer. That is true, so far as the proposition goes, however, there is also a common law lien available to a ship builder in possession for the unpaid portion of the price: see for example
+Woods v. Russell
+, (supra), which I will later deal with in more detail,
+Lindsay, Re; Ex parte Lambton
+(1875), 10 Ch. App. 405 and
+Westlake, Re; Ex parte Willoughby
+(1881), 16 Ch. D. 604, the latter involving new construction and the possessory lien of engineers to steam machinery provided for the vessel. Again, these cases are still good law. That there are no modern reported ship builder's possessory lien cases of which I am aware is probably an indication that the right of a ship builder in possession to claim a lien is so well established that it has not been litigated in recent years. Indeed, the modern textbooks dealing with particular liens in the marine context generally touch on the ship builder's possessory lien only briefly. [see footnote 1]
+[27]
+Treasury Branches says that in the "Edmonton Queen" we have new construction, paid for by instalments, with the final balance not due until the vessel was delivered following sea trials. The submission then is that Scott Steel would have had to give up possession for sea trials, with owners to provide the crew for the sea trials, before the final payment was due. The result, on this line of argument, was an agreement to give up possession and thus destructive of the lien. This latter idea is generally although not exclusively an American concept where, in addition, one must keep in mind that ship construction is not a maritime matter. This is not to say that there may not be a waiver of a lien, for example the lien of an unpaid seller in possession, the question being one of fact, however, there are no facts to support waiver in this instance.
+[28]
+I reject the concept of destruction of a possessory lien, in this instance by implication from the contract, but in any event, the universally customary procedure on sea trials, and I expect that if Scott Steel did not explicitly know of it they would have done it as a matter of course, is to have a builder's representative aboard ship who retains possession, notwithstanding that the crew is almost always, as is custom, provided by the vessel owner. In this way there is no question of possession being given up, to the detriment of the ship builder and the benefit of the owner and his lenders, until the final instalment is paid. In that context, any holdback, following delivery by the ship builder, may be put into trust.
+[29]
+In answer generally to Treasury Branches' submissions that Scott Steel has no possessory lien as builder I would refer to
+Woods v. Russell
+(supra) in which new construction was to be paid for by instalments, payable at various stages of construction, to a total of £ 3,000. The ship builder, who had possession, assigned his interest to the plaintiffs. Chief Justice Abbott pointed out that while the plaintiffs were not entitled to recover the general value of the ship, the plaintiffs, through the builder and notwithstanding that the general ownership had passed to the owner of the vessel, would have a lien on the vessel for the residue of the price, that lien remaining until the third and fourth instalments were paid on the launching of the vessel. He went on to hold that the builder was entitled to so much of the fourth instalment as had been earned, the ship being incomplete.
+[30]
+Now there is at least one shipbuilding case, in a line of similar cases, in which the builder did not have a possessory lien, and that is
+Mucklow v. Mangles
+(1808), 1 Taunt. 318; 127 E.R. 856 (C.P.), an appeal from the Court of Common Pleas. In that case the ship builder undertook to build a barge. The ship builder went into bankruptcy. The customer, who had paid for the whole of the value of the barge by course of construction advances, was held to have no property right in the barge (and the corollary to this would be that the ship builder would have no possessory lien). That case hinged on the observation that "A tradesman often finishes goods, which he is making in pursuance of an order given by one person, and sells them to another." (p. 320).
+[31]
+Mucklow v. Mangles
+was a case distinguished in
+Woods v. Russell
+, in the course of granting a possessory lien. In addition,
+Mucklow v. Mangles
+was considered in
+Carruthers v. Payne
+(1828), 5 Bing 270; 130 E.R. 1065, where the goods had passed from a chariot builder to the owner. Similarly, in
+Elliott v. Pybus
+(1834), 10 Bing 512; 131 E.R. 993 (C.A.), the Appellate Court explained
+Mucklow v. Mangles
+on the basis that there had been no passage of title to the customer, while the goods were being manufactured, and that is certainly not the present case, as there was passage of title during the construction of the "Edmonton Queen". Indeed, there is no contention that the then owners of the "Edmonton Queen" did not have title to mortgage to obtain funding for construction.
+[32]
+The passage of title to the then owners of the "Edmonton Queen" may also be contrasted with the situation in
+Atkinson v. Bell
+(1828), 8 Barn. & Cress. 277; 108 E.R. 1046, involving the manufacture of spinning frames. In
+Atkinson v. Bell
+there was no passage of title and for that reason the appellate court distinguished
+Woods v. Russell
+by pointing out that the ship, in that case, was irrevocably appropriated to the buyer. These cases not only assist in explaining
+Woods v. Russell
+, but also point to the fact that the argument of Treasury Branches, that Scott Steel does not have a possessory lien, just does not hold up.
+[33]
+In summary, the possessory lien of a ship builder is really no different than the possessory lien of a ship repairer, for in both instances it is a matter of an artificer putting labour and materials into the making or repairing of a chattel followed by retention of possession until payment or discharge of a debt, all an old common law concept. At this point I would add that it is not necessary that the work be completed before the right to retain possession accrues: see for example
+Woods v. Russell
+(supra) and
+Ship Tergeste, Re
+(1902), 9 Asp. M.L.C. 356, in which Mr. Justice Philmore pointed out not only that a possessory lien begins when the shipyard takes possession of the vessel, although there may not be any amount due in respect of which the lien would operate until work is done, but also that the shipyard might have a possessory lien for work done though the shipyard had not finished all of the agreed work:
+"The shipwrights contend that if the contract here was to do certain work, it always included the term, to do it if they were paid reasonable sums in part payment as they went along, not an advance, but in part payment for work already done before they proceeded to the next thing; and if that payment was not made then the shipwright, or any other artificer, is entitled to review his work, and say, 'I have done work worth so much; true I have contracted to do other work, but it is not reasonable I should do it as I have not been paid, and in respect of work I have done I claim payment.' In my judgment Messrs. Rait and Gardiner had here a possessory lien for the work which they had done, though they had not finished all the work. If they had asked for payment on account, as they were entitled to do. They have a possessory lien on all the work they have done, and that lien takes precedence of any claim, even a maritime lien, which has accrued since the ship first came into their possession."
+[34]
+I have concluded that Scott Steel had the right to retain possession of the vessel until paid for work properly done. That possessory right would give rise to a lien for work properly done in the sense not only to the extent of the unpaid value of work required pursuant to the contract to build the vessel, but also for the unpaid value of work required through the evolution of the plans and through additions authorized by or on behalf of the then owners. While Treasury Branches, in its written brief, and counsel, in his submissions, touched on the argument that Scott Steel's claim is not proven, that is not an issue at this point, for the possessory lien came into effect when Scott Steel began constructing the vessel although, as pointed out in
+The Tergeste
+(supra, at p. 357) there may not be any amount due until relevant work is done and not paid for. Rather the value of work, falling within the properly done category, may become an issue on a motion for distribution, at which time the parties will have to prove their claims. We now turn to the more difficult question of whether it would be equitable to dispossess Scott Steel of their priority as a possessory lien holder and give priority to Treasury Branches as mortgagee.
+Entitlement Of Scott Steel To
+The Usual Priority
+[35]
+The argument of Treasury Board for not granting Scott Steel the usual priority for its possessory lien, above that of the Treasury Branches' mortgage, may be summarized by saying first that Scott Steel agreed to build the vessel that became the "Edmonton Queen" for 1.64 million dollars; second, that Scott Steel knew the 1.64 million figure was critical to the then owners, and to their lenders; third, that some time in the latter part of 1992 Scott Steel knew that to complete the "Edmonton Queen" would cost more than 1.64 million dollars, yet not only did they fail to warn Treasury Branches, but they also represented in writing to the then owners, North Saskatchewan Riverboat Company ("NSRB"), that the vessel was "on budget"; fourth, that Scott Steel knew or ought to have known that their "on budget" representations would be passed on by NSRB to another lender, the Department of Western Economic Diversification, who in turn would send a copy to Treasury Branches, who would rely on that representation; fifth, that as a result of that reliance Treasury Branches, to their detriment, made further advances which Treasury Branches would not otherwise have made; and finally, that all of this constitutes behaviour on the part of Scott Steel such as to disentitle them from claiming payment for any work, for which they might be owed, in priority to Treasury Branches. Treasury Branches say it would be an obvious injustice for Scott Steel to have a superior priority to the proceeds of the sale of the "Edmonton Queen".
+[36]
+Scott Steel, for their part, say first, that they built the ship that was required by their customer, North Saskatchewan Riverboat Company ("NSRB"), which was a very different ship from that designed by Scott Steel in 1989 and subsequently redesigned in March of 1992 by NSRB's naval architect, Wm. R. Brown; second, that the design of the ship kept changing as appears in the various subsequent drawings of NSRB's second firm of naval architects, Peter S. Hatfield Ltd.; third, that NSRB added various extras; fourth, and that Scott Steel's original concept of a sternwheeler at 1.64 million dollars, as set out in their letter of August 1, 1991, was merely a proposal and not a contract with a firm price; fifth, that Scott Steel had no direct dealings with Treasury Branches whatsoever; and sixth, no one at Treasury Branches knew or asked Scott Steel what the price for the vessel was to be. Scott Steel points to much higher values of the "Edmonton Queen" being those of the Wm. R. Brown firm who estimated the value of the vessel (then to carry only 300 passengers) at 2.2 million dollars in 1989, the Peter S. Hatfield firm, who valued the by then 400 passenger vessel at 3 million dollars in January of 1993 and the Coopers & Lybrand commissioned appraisal of September 8, 1994, which put the fair market value of the uncompleted "Edmonton Queen", in the Scott Steel yard, at 2.1 to 2.2 million dollars. [see footnote 2]
+[37]
+The "Edmonton Queen" was sold by the Admiralty Marshal, assisted by Coopers & Lybrand, at $800,000 to a local buyer. Given that Treasury Branches advanced some $700,000, that Scott Steel's claims for extras may well be in excess of that amount, that Damar claimed $75,000 and Hatfield, together with Wm. R. Brown, hold statutory rights in rem, for unpaid architectural fees, totalling some $30,000, together with the time and expense of this and other litigation to date, the likely outcome for the winning claimant will be a substantial shortfall and for the other claimants a disaster.
+[38]
+This present maritime disaster can be likened to the Honda Point naval disaster of September 8, 1923, in which a fleet of destroyers, on peace time manoeuvres off the California coast, each followed and kept station with the next vessel ahead at speed in fog, none in the rear either asking their own questions of the vessel in the van, or doing their own navigation, until eight ships struck the California coast at right angles. A little essential independent navigation and some pertinent questioning by those in the rear would likely have avoided anyone beaching themselves, just as proper investigation, inquiry and assessment by Treasury Branches should have prevented either Treasury Branches or Scott Steel from being harmed to the present apparent disastrous extent.
+[39]
+Key to this disaster are comments made on at least two occasions by Ronald Scott, president of Scott Steel, when he was cross-examined on his affidavit material in connection with the present motion, that "We didn't know what we were building until the project was complete", (p. 31 of transcript) and when further questioned as to why he did not update the value of the vessel as set out in the Scott Steel letter of August 1, 1991, that "It would be impossible to do so. I didn't know what I was building." (p. 77 of transcript). It seems to me that none of the other deponents of the affidavits, relied upon in this proceeding, ever thought about what was being built.
+[40]
+This leads to a consideration of the voluminous affidavit material filed for the motion: indeed, too voluminous material, a substantial portion of which has problems of relevance or weight.
+[41]
+I accept the affidavit evidence of Mr. Al Everett who, on cross-examination, was well prepared and gave straightforward answers. Indeed, I would give full weight to his affidavit material, although this is not to say that I would give much weight to the Consulting and Audit Canada reviews apparently relied upon by Mr. Everett's employer, the Department of Western Economic Diversification and indirectly relied upon by Treasury Branches.
+[42]
+I accept most of the Scott Steel affidavit material, that is relevant to the present motion, at face value. I would note that Mr. Scott stood up fairly well on cross-examination on his affidavit material.
+[43]
+It is unfortunate that Mr. Ivan Sawchuk, of Treasury Branches, was put in the position of having to provide affidavit evidence, for Mr. Sawchuk was not involved in the project at a relevant time, 1992 and 1993, but rather came in only in January of 1995, just in time to become involved in this priority dispute. It would have been far more satisfactory had Messrs. Fulkerth and Mooney, who were directly involved at the time and who are still employed by Treasury Branches, given evidence. Some of Mr. Sawchuk's affidavit material fails to show a grasp of the issues, particularly in that earlier affidavit material indicates no reliance on representations made by Scott Steel through NSRB and Western Economic Diversification, which one would have expected to see in early affidavit material, particularly in that this priorities motion is the motion of Treasury Branches. The evidence of reliance on Scott Steel's representations seemed to come, as an afterthought, in later affidavit material. That Mr. Sawchuk lacked first hand knowledge and was poorly informed appears to be the case both from material in his affidavits and from his performance on cross-examination on his affidavit material. This lack of knowledge on cross-examination is apparent not only from the answers that he gave, but also from the amount of protection and interference which the counsel for Treasury Branches deemed necessary to interject. Far better if one or more of Treasury Branches' employees, who is actually involved during the relevant time span, 1992 - 1993, had sworn the affidavit material. As it is, there is too much second information in Mr. Everett's evidence. I give little weight to the Sawchuk affidavit material.
+[44]
+Counsel for Scott Steel attacked Mr. Haak's affidavit material in a number of ways, including that Mr. Haak had been a guarantor of the Treasury Branches' loan and that included in the eventual settlement of his guarantee was a provision that he assist Treasury Branches in its litigation. This is a fairly normal provision with little or no effect as to the weight that I would give his material. However, Mr. Haak's affidavit material exhibits some hard swearing on points that are incorrect, some of which I will touch on later. In addition, Mr. Haak gave many answers that were less than direct on his cross-examination. Again counsel was overly protective of his witness on difficult but relevant questions. I give only moderate weight to Mr. Haak's affidavit material overall.
+[45]
+I now turn to the crux of this disaster, that the parties, with the probable exception of the architects, who prepared the evolving design and put realistic values on the vessel, appear not to have been aware of what they were building.
+[46]
+The original Scott Stell design may best be described as a self-propelled barge with some rudimentary accommodation, but few amenities, on the main deck, topped with a small wheel house and propelled by twin 180 horsepower engines. It is the vessel referred to in the Scott Steel letter of August 1, 1991, to NSRB, which letter Treasury Branches would like to call a firm contract, but which Mr. Collins, president of NSRB, referred to, in a December 28, 1989, letter to Canada/Alberta Tourism, as an estimate. If the August 1, 1991, letter from Scott Steel was the construction contract initially, it was overtaken by events, including the addition of many extras and the evolution of the vessel from the box-like self-propelled barge design of Scott Steel through to the quite sophisticated larger and more involved ship, the "Edmonton Queen".
+[47]
+In the spring of 1992 the Wm. R. Brown firm of naval architects produced new drawings at the request of their client, NSRB. While the design is still fairly basic, the hull now begins to look like that of a ship. The passenger capacity is larger. There are more amenities for the passengers. The design provides for a 200 horsepower bow thruster "if required". The vessel is altogether more attractive. Notwithstanding that it was somewhat more complex to build, it seems that Scott Steel, after discussing the vessel with the architects, believe they could build the Wm. R. Brown designed vessel for the 1.64 million dollar price.
+[48]
+The real evolution of the vessel, from an underpowered, basic barge-like vessel to what emerged as the "Edmonton Queen" is documented in the various revised drawings done by the Peter S. Hatfield firm and in the extras added by NSRB. While there are no as-built drawings, it is apparent, from the Hatfield drawings and from the evidence, that improvements including greater length, breadth and depth; substantially larger main engines; a bow thruster to improve manoeuvrability; air-conditioning and later more costly water cooled air-conditioning; an enlarged and raised wheelhouse in order to accommodate a stage below and at the forward end of the main deck dining room; a large aft deck house on the upper deck, to include washroom facilities, to complement new handicapped washroom facilities on the main deck; a raised deckhead throughout on the main deck; upper deck embarkation walkways to complement the main deck entrance; galley facilities in lieu of shore catering; increased fuel and water capacity; increased generating capacity; and larger paddle wheels, to name just the obvious. And with a larger, more powerful and more complex vessel goes much more supporting equipment and structures.
+[49]
+Now Ronald Scott, of Scott Steel, says there was never a fixed price for the vessel, however, I believe everyone treated the 1.64 million dollar 1989 figure as the price for the Scott Steel designed vessel and also for the Wm. Brown design, the latter of course without the fairly costly bow thruster unit. And here is an interesting point: Mr. Haak's evidence is that the 1.64 million price was firm throughout, that even in the face of clearly authorized extras: "The agreement of August 1, 1991, was the final agreement for construction of the riverboat and there were no amendments written or verbal." (paragraph 12 of November 20, 1995 affidavit). It is clear that Mr. Haak had no real idea of what was being built and as just one example of this he says in his October 20, 1995, affidavit, in the context of denying extras, that
+"The bow thruster is the main means of propulsion of the riverboat, is a part of the original contract and can no more be considered an extra that an engine could be considered an extra in an automobile; ..."
+apparently not realizing that a bow thruster is a useful although not essential manoeuvring device, but not a main means of propulsion.
+[50]
+As I say, I give only moderate weight to the Haak affidavit, for Mr. Haak obviously did not pay a great deal of attention to the evolution of the riverboat from the original Scott Steel design to what was eventually designed and built.
+[51]
+Nor did Treasury Branches seem to have any idea of or interest in what was being built and perhaps this is consistent with their admission, on the cross-examination of Mr. Sawchuk, that NSRB's application for funding was considered almost exclusively on the basis of the Alberta Government's guarantee (pp. 239 and 240 of transcript of Sawchuk cross-examination). It would seem, other than for one or more occasional tours of the vessel, during construction, Treasury Branches governed their advances by and relied largely on material received from their co-lender, Western Economic Diversification. Western Economic Diversification in turn seemed to have relied upon two sources for their information. First, they relied on information from NSRB, who passed along short confirmations, addressed to NSRB, from Scott Steel, to the effect that the vessel was on schedule and on budget, the latter being a point to which I will turn later, and second on the advice of Consulting and Audit Canada who are said to have conducted an audit of each claim of Scott Steel. However, it would appear that Consulting and Audit Canada did not do the obvious and look at the plans and speak with the builder in order to obtain an explanation of how a self-propelled barge with basic accommodation on it was being turned into a sophisticated ship.
+[52]
+There are still the representations by Scott Steel to NSRB, which were passed along to Western Economic Diversification, who in turn passed them to Treasury Branches that the vessel was on budget. Mr. Scott's explanation is that the basic vessel was on budget, it was just that the number of expensive extras had been added by NSRB, either by authorization or through changes in the plans made by NSRB's naval architect. It is also clear that in the summer and early fall of 1992, Mr. Collins, as president of NSRB, was aware of cost problems and indeed sought an alternate method of turning the vessel, in place of the bow thruster, by using piling by which to make one end of the vessel fast and thus utilize the river flow to gradually swing the vessel about. This confirms Mr. Scott's evidence that he advised NSRB that the changes to the vessel, the extras, were going to be costly, and I also accept his evidence that he was told by NSRB not to concern himself about the payment for the extras.
+[53]
+In addition to changes obviously required by the evolving plans, Scott Steel provided copies of signed change orders to NSRB, between February 22 and March 24, 1993, totalling $176,501.28. It is not up to Scott Steel, who had no direct or contractual dealings with Treasury Branches and owed Treasury Branches no contractual or fiduciary duty, to bring changes in plans and extras to the attention of Treasury Branches, let alone supply them with copies of change orders, without any requests or questions from Treasury Branches.
+[54]
+Even when Treasury Branches received a cash flow projection from NSRB at some time before January 22, 1993, showing expenditures on the incomplete vessel of some $1,761,000, well in excess of the 1.64 million dollar figure with which they were preoccupied, that seemed not to alert anyone to take action or to make inquiries: Treasury Branches subsequently went ahead and made three advances totalling $526,788.
+[55]
+Finally, we have the admission of Mr. Sawchuk, of Treasury Branches, that Treasury Branches had no idea what Scott Steel considered the budget to be in January of 1993 (Sawchuk cross-examination transcript at pp. 145 and 224). Indeed, Treasury Branches, on the evidence of Mr. Sawchuk, never asked Scott Steel to provide updated costing estimates other than that contained in the August 1, 1991, letter to NSRB. Again, it is clear from Mr. Sawchuk's cross-examination, when he says that he cannot agree that the vessel, as built is "a lot different" from the original Scott Steel drawing, that Treasury Branches paid little attention to what their customer, NSRB, was having built.
+[56]
+On these arguments I do not see it as unjust to leave the usual priorities in place.
+[57]
+Counsel for Treasury Branches makes an extensive estoppel argument, based in part on
+Dover Financial Corp. et al. v. Basin View Village Ltd. et al.
+(1995), 140 N.S.R.(2d) 1; 399 A.P.R. 1 (S.C.).
+[58]
+Counsel's submission is first that Treasury Branches made a mistake, as to its legal rights, in believing that it had a first charge over the "Edmonton Queen". Certainly, the plaintiff did have the first charge, in the form of a first recorded builder's mortgage and subsequently a first registered marine mortgage, but as a knowledgeable lender ought to have kept in mind and would be presumed to know of the possibility of an unpaid builder's possessory lien. It is equally as likely that Treasury Branches was so certain of its first position that it paid no direct attention either to what Scott Steel was building or to the likelihood of extra charges.
+[59]
+Second, counsel for Treasury Branches says that Treasury Branches made advances on the faith of this mistaken belief, that it held a first charge and that the vessel was proceeding on budget. Leaving aside that Treasury Branches made no reasonable inquiries and overlooked obvious signs that the vessel was going to cost more than they thought might be the case, including the cash flow sheet for January through March of 1993, and the evolution of the vessel as new designs were prepared by NSRB's architects and clearly visible extras were added, Treasury Branches has failed to establish the amount of the so-called budget, which amount they neither knew at the time nor inquired about.
+[60]
+Third, counsel for Treasury Branches says that to establish an estoppel, Scott Steel must know its own right, that is its possessory lien, and know the right is inconsistent with the right claimed by Treasury Branches. Scott Steel's possessory lien, which is in place from the minute that the first keel plate is laid, but does not come into play until Scott Steel is in the position of an unpaid builder (see
+The Tergeste
+, supra at p. 357), is only inconsistent with the Treasury Branches' mortgage if Scott Steel is not paid for work properly done. Treasury Branches cannot ignore both the evolution of the design of a self-propelled barge into a sophisticated ship and all of the danger signs that were present on reasonable inquiry and then say that Scott Steel is estopped because Treasury Branches were unaware of the claim of Scott Steel as an unpaid builder in possession.
+[61]
+Fifth, counsel for Treasury Branches notes that Scott Steel, as holder of the possessory lien, must know of Treasury Branches' mistaken belief as to the priority of claims. There is no evidence that Scott Steel had knowledge that Treasury Branches was mistaken as to priorities.
+[62]
+Finally, to establish an estoppel, Treasury Branches must show that Scott Steel encouraged Treasury Branches to spend money. Treasury Branches say Scott Steel did this by pressuring Treasury Branches for course of construction payments and by generating invoices showing the vessel was within budget. However, it must also be remembered that Scott Steel sent to NSRB copies of signed confirmations for many extras and other extras would have been readily apparent to Treasury Branches or those on whom it relied, if they had bothered to look at the evolving drawings for the vessel and at the "Edmonton Queen" to see what was truly being built.
+[63]
+Treasury Branches claims unjust enrichment. It says that Scott Steel received in excess of 1.4 million dollars of money from Treasury Branches and from their co-lenders, Western Economic Diversification, of which Treasury Branches' advances total $706,308. Treasury Branches says that this is unjust enrichment. Treasury Branches overlooks the fact that Coopers & Lybrand, whom Treasury Branches put in place to value and to sell the vessel, had the "Edmonton Queen's" fair market value appraised at between 2.1 and 2.2 million dollars as is in the Scott Steel yard. This does not appear to me to be a situation of unjust enrichment, for on Treasury Branches' own appraisal of the vessel Scott Steel did work and provided a vessel worth far more than the amount which they were paid.
+[64]
+I should also consider the requirements for estoppel set out by the Supreme Court of Canada in
+Canadian Superior Oil v. Paddon Hughes Development Co.
+, [1970] S.C.R. 932. First, "... a cause of action cannot be founded upon estoppel: ..." (p. 937). Treasury Branches, who brings this motion, in arguing estoppel, are trying to demonstrate why Scott Steel do not have the usual priority of a ship builder in possession. That goes beyond using estoppel merely as a shield.
+[65]
+Second, the principle of estoppel "... assumes the existence of a legal relationship between the parties when the representation is made." (Ibid, p. 938). In the present instance the only legal relationship was between Scott Steel and NSRB. There was no relationship of any legal sort between Scott Steel and Treasury Branches: indeed the latter received much of its information from Scott Steel third hand through Western Economic Diversification.
+[66]
+Third, Mr. Justice Martland went on to point out in
+Canadian Superior Oil
+, at pp. 938 and 939, that there was no evidence to support any allegations of fraud that would deprive one of their legal rights and that is the situation in the present matter as between Scott Steel and Treasury Branches.
+[67]
+As to the elements of estoppel, the Supreme Court of Canada sets them out in
+Canadian Superior Oil
+at pp. 939 and 940:
+"(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+"(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+"(3) Detriment to such person as a consequence of the act or omission."
+[68]
+First, as to any representation, it was certainly not made by Scott Steel to Treasury Branches. Nor I think was it intended to induce any course of conduct. Certainly Scott Steel wished to be paid for their work. However, the actual payments were controlled by NSRB.
+[69]
+Second, it seems clear that Treasury Branches, if it relied on representations received third hand from Scott Steel, it relied far more on and acted as a result of the confirmation from their co-lender, Western Economic Diversification, that the latter had either decided to or had actually made their portion of each course of construction advance first.
+[70]
+Third, while the latter advances may have been to the detriment of Treasury Branches, it is hard to say that they were as a consequence of an act or omission resulting from a representation by Scott Steel, but rather they were a consequence of Treasury Branches' failure to make reasonable inquiries about and keep an eye on the construction of the "Edmonton Queen".
+[71]
+In any event I conclude that this estoppel argument, based on the actions of Scott Steel and particularly the letter of January 18, 1993, from Scott Steel to NSRB, then passed along to Western Economic Diversification, who apparently sent a copy to Treasury Branches, fails. It does not provide a basis upon which to alter the usual ranking of the priorities, with Scott Steel coming ahead of Treasury Branches.
+[72]
+The question is, just where does the fault for this disaster lie. If Treasury Branches had made their own inquiries, it should have been apparent to anyone familiar with any sort of construction project that this one had to be going over what they thought might be the budget. Instead, they relied on Western Economic Diversification, who in turn relied on Consulting and Audit Canada and on representations obtained third hand through NSRB.
+[73]
+On this analysis, while Treasury Branches may have misled themselves, both by their failure to make reasonable independent inquiry and by their interpretation of the Scott Steel "on budget" memoranda, it does not appear that they were directly misled by Scott Steel: Treasury Branches had only to ask the proper question, not as to the budget for the vessel, but as to the cost of the vessel and the extras.
+[74]
+In
+The Galaxias
+(supra) an innocent party was unable to raise their priority over that of another claimant whose tactics the court said were akin to blackmail. In the present instance, the best that can be said for Treasury Branches is that they deluded themselves. It ought not to be for a shipbuilder to go behind his customer, the shipowner, and gratuitously explain to the lender what ought to have been obvious.
+[75]
+In this instance the loss will lie where it has fallen, for I do not see that was has occurred was either a plainly unjust result or an obvious injustice.
+[76]
+In the event that my decision goes to appeal, I will consider the alternative argued by Scott Steel and that is that Treasury Branches ought to be forced to marshal and, to the extent they are able, collect their debt from other sources, in this case the guarantors. However, there is also the issue of Damar's priority, which I will consider next.
+Priority Of Damar
+[77]
+The claim of Damar is as a supplier of goods and services to the "Edmonton Queen" while the ship was in Scott Steel's yard. In the usual scheme of priorities this would give Damar a statutory right in rem and place Damar, as a necessary supplier, or ship builder without a possessory lien, below the position of Treasury Branches and pari passu with the claims of Peter Hatfield and Wm. R. Brown, the naval architects.
+[78]
+Counsel for Damar urges that his clients have, directly or indirectly, a maritime lien, or alternately, some form of constructive or agency based possessory lien through Scott Steel, or a garageman's lien under Alberta legislation, or an equitable lien, or should be entitled to an equitable share of the sale proceeds.
+Maritime Lien
+[79]
+At one time a necessary supplier had a maritime lien under English law: see for example the comments of Lord Stowell in
+Ship Zodiac, Re
+, [1825] 1 Hag. Adm. 320; 166 E.R. 114, at 325/116. Lord Stowell points out that the doctrine of a lien for necessaries was overthrown by the House of Lords in the mid 17th Century. Now there was some doubt as to whether this was so, however, the issue was certainly settled in
+Ship Neptune, Re
+(1834), 3 Knapp 94; 12 E.R. 584, in which the Privy Council unanimously held that those who supplied necessaries had no maritime lien against a ship and thus no similar claim against the proceeds of the sale of the ship.
+[80]
+In
+Ship Comer, Re
+, [1970] Ex. C.R. 13, Mr. Justice Noël considered the position of a necessaries supplier. His reasons are an excellent examination of the underlying decisions. He reached the conclusion "... that the claimant for necessaries supplied to a ship has no maritime lien on the ship but, at the most, has a right to bring an action in rem against the ship if the ship is still in the hands of the same owner." (p. 31) and went on to say that the claimant for necessaries was in the same position as an ordinary unsecured creditor. [see footnote 3] These propositions were quoted by District Judge Keirstad in
+Comeau's Sea Foods Ltd. v. Ship Frank and Troy
+, [1971] F.C. 556, at p. 562.
+Indirect Maritime Lien
+[81]
+As an alternative, Damar says that its employees, in working aboard the "Edmonton Queen", were seamen, entitled to a maritime lien for their wages and that most of the account of Damar is for labour.
+[82]
+The claimant in these proceedings is Damar and not the seamen and for that reason, I do not have to decide whether Damar's workers fall within the category of seamen. Rather, it is conclusive that maritime liens, except to the extent of bottomry, are generally not transferable for the courts are reluctant to allow a maritime lien to be assigned. As to transferability of a maritime lien for wages, so that a person, on paying off a privileged wage claim, might stand in the shoes of the privileged claimant, see
+Ship Petone, Re
+, [1917] P. 198, at p. 208 which is a complete bar, and
+Ship Leoborg (No. 2), Re
+, [1964] 1 Lloyd's Rep. 380, at p. 383.
+The Petone
+was followed in
+Ship Sarnor, Re
+(1918), 21 Ex. C.R. 183;
+Ship Samuel Marshal, Re
+, [1923] Ex. C.R. 110 (upheld [1924] Ex. C.R. 53) and in
+Ship Aragon, Re
+, [1943] Ex. C.R. 41. Subject to the leave of the court anyone who pays off a seamen's lien for wages acquires no lien on the ship.
+Possessory Lien
+[83]
+Counsel for Damar asserts that his client has a constructive possessory lien against the "Edmonton Queen" and is therefore entitled to share pari passu with any other possessory lien holder.
+[84]
+To begin, I agree that possession need not be exclusive. Counsel refers to
+Ship Gefion, Re
+(1922), 10 Ll. L.R. 305 (C.A.), a decision of the Court of Appeal. Lord Justice Bankes, in writing the unanimous judgment, indicated that possession need not be exclusive and by way of example he could "... personally see no reason why property which has been handed over to a contractor to work on, and was by him handed over to a sub-contractor, may not by agreement be held by the sub-contractor, both for the contractor and for the sub-contractor." (pp. 309-310).
+[85]
+Certainly Damar did not itself, together with Scott Steel, have possession of the "Edmonton Queen", when they sent workers to attend at the Scott Steel yard to work on the vessel. Damar says that Scott Steel acted as their agent, in asserting a possessory lien. However, there is no evidence that Scott Steel was either appointed agent or in any way ratified a position as agent of Damar, or as submitted by Damar's counsel, acted as agent for all who worked on the vessel.
+Alberta Lien Legislation
+[86]
+Damar also refers to Alberta Legislation dealing with liens, the
+Possessory Liens Act
+, R.S.A. 1980, c. P-13, and the
+Garageman's Lien Act
+, R.S.A. 1980, c. G-1. Counsel says that Damar made the necessary filings to preserve any lien.
+[87]
+My understanding of these pieces of Alberta legislation is that they are a codification of the common law and do not grant a lien, but rather provide a means of giving up possession yet maintaining the lien for a given time. Indeed, the
+Possessory Liens Act
+provides, in s. 5, that "actual or constructive and continued possession of the property that is the subject matter of the debt is essential to the existence of the lien.".
+[88]
+Counsel for Damar argues that a garageman's lien is equivalent to a possessory lien and that may be so if it is based on a common law possessory lien and that is not inconsistent with the points that Master Funduk makes in
+Alberta (Treasury Branches) v. Don-Gar Construction (1990) Ltd.
+(1992), 128 A.R. 186; 1 Alta. L.R.(3d) 120 (Q.B. Master), when he considers the relationship between a possessory lien and a garageman's lien, however, he does not suggest that the
+Garageman's Lien Act
+goes beyond preserving an existing possessory lien, rather it is the exchange of the possessory lien for a continued right against, in the case of that
+Act
+, a vehicle, by registration. I would however add that in
+Ship Winder 4135, Re
+, [1986] 2 F.C. 154 (T.D.), at p. 161, Mr. Justice Walsh pointed out that even if a Provincially granted lien is valid, it is a statutory lien and would be postponed to a mortgage in existence at the time the ship was arrested to enforce the lien.
+[89]
+Damar says it had some form of constructive possession, to bring it within s. 5 of the Alberta
+Possessory Liens Act
+. Counsel argues that a person has constructive possession if he has the power to control and the intent to control the item in question, relying upon a definition of constructive possession in
+Black's Law Dictionary
+. Damar might have had an intention to control the "Edmonton Queen", although this could be more of an intention in hindsight. Where the argument founders is on the actual power of Damar to control the vessel. Damar may have arrested the vessel, which by Federal Court Rule 1003(9) remained in the possession of and the responsibility of Scott Steel, filed caveats and left tools on board, but that stops short of control.
+[90]
+Rather than explore these possibilities further, the short answer to a claim under provincial legislation, dealing with repairer's liens and the like, against a federally documented ship, may be found in
+Finning Ltd. v. Federal Business Development Bank
+(1989), 34 B.C.L.R.(2d) 237 (S.C.), a constitutional reference in which the Attorney General of British Columbia intervened, being a decision of Mr. Justice Cowen of the B.C. Supreme Court. Mr. Justice Cowen agreed that the Province, by referring to a "boat" in the B.C.
+Repairer's Lien Act
+, intended that it applied to ships of any size. However, he then went on to find that the provision of the
+Repairer's Lien Act
+, which purported to preserve the lien, was beyond the constitutional powers of the Province to the extent that it purported to create a national form of possessory lien not recognized by Canadian Maritime Law and thereby affecting the priorities under Canadian Maritime Law. He held that the repairer's lien filed by Finning Ltd., not being a valid possessory lien under Canadian Maritime Law, must rank behind the mortgage of the Federal Business Bank which was registered against the registered vessel, "Pacific Eagle" (see p. 243).
+Equitable Lien
+[91]
+Damar says that it has some form of equitable lien, which does not require the claimant to have had possession of the "Edmonton Queen".
+[92]
+An equitable lien is created by reasons of a special relationship between the parties, or from a course of conduct, or through an express intention to create an equitable charge. From time to time the courts have enforced equitable mortgages against vessels, not only in the sense of an unregistered mortgage being enforced against a registered vessel, but also the promise of a mortgage against a registered vessel. Indeed, maritime law admits the validity of an equitable lien.
+[93]
+In the present instance I do not see a special relationship between Damar and the then owners of the "Edmonton Queen", or a course of conduct that would give rise to an equitable lien. However, if I am wrong in this assessment, there is the question of the priority of any equitable lien that Damar might have.
+[94]
+Mr. Justice Robert Goff considered the priority of an equitable lien in
+Ship Lancaster, Re
+, [1980] 2 Lloyd's Rep. 497, at p. 503. He pointed out that legal interests stood ahead of equitable interests. In that case he gave priority to legal mortgage holders, who held assignments of insurance proceeds as part of their mortgage security, ahead of a charterer's equitable lien.
+[95]
+In the present instance, any equitable lien held by Damar would rank behind both the legal possessory lien of Scott Steel and the recorded legal builder's mortgage of Treasury Branches, which is now a registered ship's mortgage.
+[96]
+This argument, as to an equitable lien, is inventive and interesting, however, it does not assist Damar in this instance. Moreover, to deny Damar's equitable lien priority over the legal mortgage of Treasury Branches and the possessory lien of Scott Steel does not work an injustice such as that the priorities in this instance ought to be revised.
+[97]
+Counsel for Scott Steel makes the point that to allow in some doctrine of constructive possessory lien, ranking ahead of other maritime claimants, would make meaningless a whole body of jurisprudence on the ranking of maritime claims. That in itself is not necessarily a reason for excluding a new idea as to the ranking of claims. However, in this instance I cannot see that it is unjust to deny a constructive possessory lien.
+Equitable Division
+[98]
+Finally, Damar argues that equitable division, as suggested in
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean I
+, [1979] 2 F.C. 661 (T.D.), ought to be applied. However, to apply the idea of equitable distribution is also to apply the tests set out in the subsequent cases of
+The Galaxias
+(supra) and
+The Lyrma No. 2
+(supra), which require that there be either an obvious injustice or a plainly unjust result. Ship repairers and necessary suppliers have always, in modern times, had to deal with the fact that their claims ranked low, even below that of a mortgage holder, and yet the repairer or the necessaries supplier has, in many cases, enhanced the value of the vessel for that mortgage holder, or in this case, for the possessory lien holder. Moreover, on the appeal of
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean I
+, reported (1984), 52 N.R. 10; 7 D.L.R.(4th) 395, Mr. Justice Pratte denied that necessaries, as such, ought to have an enhanced priority: he was prepared to allow the expense of fuel oil, a necessary, to take an enhanced priority when the fuel oil was ordered by the Admiralty Marshal, but was not prepared to apply enhanced priorities to ordinary necessaries. In the end result, the priorities set out by the Court of Appeal were the usual, notwithstanding that there was perhaps a certain degree of unfairness.
+Marshalling
+[99]
+In the event that I am wrong in applying the usual priority as between Scott Steel and Treasury Branches, and the latter thus has priority, I should consider the submission of counsel for Scott Steel that Treasury Branches, as holders of alternate security, should be required to marshal and thereby draw first on that alternative security.
+[100]
+Tetley, on
+Maritime Liens and Claims
+, Business Law Communication, 1985, at pp. 393 and 394, describes marshalling as follows:
+"... Marshalling is the equitable process whereby the Marshal or the court orders a creditor who has a secured right on more than one res or more than one fund belonging to the debtor or security from two or more debtors for the same debt, to exercise his right on the security in a manner which will be in the best interests of all creditors. The Marshal or court must also take into consideration the best interests of third parties and even of the debtor." [see footnote 4]
+[101]
+Scott Steel refers to a number of securities held by Treasury Branches in addition to and in support of its mortgage security over the "Edmonton Queen". The list of security includes the guarantees of the principals of NSRB and the guarantee of the Province of Alberta. Treasury Branches has realized what it can against the guarantees of the principals of NSRB. Scott Steel says too little was realized. However, that is not in my view now relevant for:
+"The equitable right of marshalling has never been held to prevent a prior mortgagee from realizing his securities in such manner and order as he thinks fit:
+Manx v. Whiteley
+, [1911] 2 Ch. 448 at p. 466."
+I take this to mean that if before the marshalling issue is raised the mortgagee had already realized on a security which was at hand a court can only apply an equitable solution to the security that remains, but alternately, if the marshalling issue is raised before the mortgagee has satisfied its claim, a court can make an order compelling the mortgagee to satisfy its claim in such a way as to allow the doctrine of marshalling to apply in the most equitable way.
+[102]
+Treasury Branches says that as a creditor it cannot be forced to marshal. In answer to this concept that a party cannot be forced to marshal, Scott Steel refers to
+Falconbridge on Mortgages
+(4th Ed. 1977), at p. 314:
+"It would appear that there are cases in which a court would be justified, for the protection of the interests of the respective owners or mortgagees of separate parcels of land, in interfering with the freedom of action of the holder of the common mortgage, provided it can do so without substantially delaying or inconveniencing such mortgagee, or preventing him from obtaining payment in full of his claim or rendering his proceedings more onerous."
+for the proposition that a court may, in certain circumstances, dictate that marshalling take place.
+[103]
+While marshalling is often sought by a creditor, the holder of alternate securities, it is not limited to such instances, but may be sought by the singly secured creditor: see for example
+Brown v. Canadian Imperial Bank of Commerce
+(1985), 50 O.R.(2d) 420 (H.C.), at pp. 426-427, a decision of the Ontario High Court.
+[104]
+Treasury Branches says it has a right to the remedy which it seeks and that the court cannot use the doctrine of marshalling to force a creditor to pursue a remedy which it has not sought, referring to
+First Investors Corp. v. Veeradon Developments Ltd., Wiber and Butler Engineering Ltd.
+(1988), 84 A.R. 364 (C.A.), a decision of the Alberta Court of Appeal.
+[105]
+The
+First Investors
+case, which involved two properties, stands on its own particular facts. The singly secured creditor sought to force the doubly secured creditor to look to the property on which the singly secured creditor did not have a mortgage. The two properties were appraised at more than enough to satisfy the doubly secured creditor, but on the market did not together attract offers sufficient to pay out the doubly secured creditor. The doubly secured creditor then sought an order for final foreclosure on both properties. It was at that point that the singly secured creditor sought marshalling, saying that the foreclosure value ought to be not the apparent present market value, but rather the higher appraised value and that the doubly secured creditor ought to be forced to marshal to the extent of its windfall, that is the difference between the appraised value and the market value. The Master in Chambers and the trial judge had held that the doctrine applied, had refused a foreclosure order and had given the doubly secured creditor the option of purchasing one of the properties at its appraised value in satisfaction of its first mortgage debt. In effect, the court, at that stage, was forcing the doubly secured creditor to bid its mortgage on the full appraised value of one property, at which point the singly secured creditor would make up any shortfall and receive title to the other property on which it held a second mortgage. The result of this, the Court of Appeal found, went against the rule that the doctrine of marshalling should not be applied so as to prejudice the first mortgage holder, as it did indeed prejudice the plaintiff, First Investors. This is not analogous to the "Edmonton Queen" situation.
+[106]
+The next question is whether there can be marshalling when the doubly secured creditor, in this instance Treasury Branches, holds not the traditional two mortgages over Blackacre and Whiteacre, both given by the same owner/debtor, but rather when the two funds consist of, on the one hand, a mortgage and on the other hand, a fund made available by the Government of the Province of Alberta which I will assume, for the purpose of this analysis, to be a guarantee.
+[107]
+In applying the doctrine of marshalling there are a number of rules, for example that the claims must be against a single debtor and this is a point raised by Treasury Branches when they say that a guarantee is, by definition, an agreement to answer for the debt of another, being a separate contract requiring a third party to make good on the debt of another. Treasury Branches say that they would not have access to two funds of one debtor, but rather the right to one fund, being a fund resulting from the sale of NSRB's vessel and another fund from another debtor, the Provincial Crown.
+[108]
+The Fourth Edition of
+Halsbury's
+goes on to consider the application of the doctrine of marshalling at paragraph 877:
+"Generally, three conditions must be satisfied in order that the doctrine of marshalling may be applied as regards claims by creditors:
+(1) the claims must be against a single debtor; if one creditor has a claim against C and D, and another creditor has a claim against D only, the latter creditor may not require the former to resort to C unless the liability is such that D could throw the primary liability on C, for example where C and D are principal and surety;
+(2) the two funds must be at the debtor's disposal; if they are not, the persons interested in the fund not under the debtor's control have a right to throw his debts on the other fund which is under his control, and against them there is no marshalling;
+(3) the two funds must be in existence when the question of marshalling arises."
+All of these conditions must be satisfied and that is certain when one looks at the First Edition of
+Halsbury's
+which places the word "and" at the end of the second condition. The first of the three conditions makes it clear that marshalling may be resorted to where a guarantee is involved, so long as the guarantor might throw the primary liability back to its principal. It is however the application of these three rules which prevent Scott Steel from marshalling in the event that they might be held, on appeal, to lose their usual priority.
+[109]
+As to the first rule, it allows marshalling when the two funds are principal and guarantor. It would seem from the case law that the singly secured creditor may obtain marshalling and then as the case may be claim either against a principal where the singly secured creditor held only a claim against the doubly secured creditor's guarantor, as was the case in
+Brown v. Canadian Imperial Bank of Commerce
+(supra), or apparently against a guarantor, as in
+Stratton, Re; Ex parte Salting
+(1883), 25 Ch. D. 148 (C.A.), a decision of the Court of Appeal where, in effect, the singly secured creditor, Salting, was allowed to claim against the guarantor, Stratton. Treasury Branches say that in the present instance if they look to the Province of Alberta, the guarantor, first, that guarantor, having paid the principal debt is entitled to be subrogated to the position of Treasury Branches, but in examining the cases in which marshalling has been applied it seems not to have stopped the courts from requiring marshalling where the guarantor is subject to marshalling and can only look to an impecunious principal. Rather the courts have merely looked to see if two appropriate funds are available.
+[110]
+As to the second branch of the test, that the two funds must be at the debtor's disposal, that is also the case for, under certain circumstances, Treasury Branches may, after meeting number of conditions and taking various steps, call on the Alberta Government guarantee. However, there is a matter of timing which brings us to the third rule.
+[111]
+The third rule is that the two funds must be in existence when the question of marshalling arises, for example see,
+International Life Assurance Society, Re
+(1876), 2 Ch. D. 476 (C.A.), a decision of the Court of Appeal. In that case the trial judge, in allowing marshalling, took into account not only amounts realized on calls on shares that were initially available for distribution, but also a further call some time later. The Court of Appeal denied marshalling.
+[112]
+In the present instance there are many preconditions in the Alberta Government guarantee of the Treasury Branches' loan. There is insufficient evidence to show whether those terms have been met and the guarantee made available. Thus the requirement that the two funds be in existence when the question of marshalling arises has not been met.
+[113]
+In
+Ship Priscilla, Re
+, [1859] Lush 1; 167 E.R. 1, Dr. Lushington observed, "I am of the opinion that the principle of marshalling the assets ought to prevail in this court whenever it can be carried into effect without violating other rules entitled to preferential observance." (p. 3). In that case a creditor, the holder of a bottomry bond, as against ship, freight and cargo, sought to be paid from the proceeds of the ship and freight. The holder of the bottomry bond standing second also had a claim against ship, freight and cargo. The third place creditor, whose bottomry bond was good only against ship and freight, sought by marshalling to have the prior two bond holders satisfy their claims against cargo, so that there might be something left, of ship and freight, to satisfy the third place claimant. Dr. Lushington, in denying marshalling, pointed out that cargo, by a rule of preferential observance, might not be touched until ship and freight had been exhausted. Treasury Branches relies on this case and points to the requirement that Treasury Branches must realize on all other security before looking to the Provincial Crown as guarantor. Counsel says that the guarantor has a right to rely on its agreement and that the doctrine of marshalling does not give the court jurisdiction to alter contractual obligations. That is another reason why Scott Steel, if it lost its position in priority to Treasury Branches, cannot gain the benefit of marshalling.
+[114]
+Having decided that marshalling does not apply, I do not need to consider whether the Government of Alberta guarantee is just that, and would otherwise be subject to marshalling, or whether, as Treasury Branches contends, Treasury Branches and the Alberta Government are one and the same entity.
+Conclusion
+[115]
+In conclusion, the priorities will be as follows:
+1. The Marshal for fees and the costs of the appraisal, study of the ship and sale, and Treasury Branches to the extent they have funded these fees and costs, as already provided for or may be agreed or by taxation;
+2. Scott Steel, after the quantum of their claim for work properly done, with reference to items not appearing on the ship as designed by Wm. Brown, but added since, including those required by the Peter S. Hatfield designs, by implication from those designs, and as authorized orally or in writing by NSRB's naval architects or by NSRB, its officers, directors and employees and which shall include the bow thruster, is established by a reference;
+3. Treasury Branches, after the amount of their claim is established by reference;
+4. If any funds remain in court after the prior three claims are satisfied following the reference, to Damar, Peter Hatfield and Wm. R. Brown, pari passu;
+[116]
+In the event that the parties are not able to agree as to costs, they may be spoken to.
+[117]
+I thank counsel for the effort put into briefs and for their interesting presentations.
+Order accordingly.
+Editor: Steven C. McMinniman/saf
+Footnotes
+1. For example see Curtis on
+The Law of Shipbuilding Contracts
+, Lloyd's of London Press, 1991 at p. 110, and particularly footnote 61; Jackson on
+Enforcement of Maritime Claims
+, Lloyd's of London Press, 1985 at p. 267, Clarke on
+Shipbuilding Contracts
+, Lloyd's of London Press, 1982 at p. 31 and Goldrein on
+Ship Sale and Purchase
+, Lloyd's of London Press 1985 at p. 62. Counsel for Scott Steel also points out that the
+Sale of Goods Act
+(s. 59 in the Alberta version) specifically preserves the common law where it is not inconsistent, notes that the
+Sales of Goods Act
+codified and preserved the common law possessory lien, being ss. 40 and 41 of the Alberta
+Sales of Goods Act
+and refers to a comment by Fridman in
+The Sale of Goods in Canada
+, Carswell 1986, pp. 309-310 quoting from the
+Ontario Law Reform Commission Report
+of 1979, that most, if not all of the leading cases as to sellers remedies pre-date the
+Sales of Goods Act
+, for the statutory provisions in the
+Act
+have engendered only modest litigation (pp. 109-110).
+2. The Coopers & Lybrand commissioned appraisal, by Universal Marine Consultants (West Coast) Ltd., in addition to estimating a fair market value for the vessel in the builder's yard, also noted that the completed replacement value would be between 2.75 and 2.8 million dollars, including in that figure $350,000 to complete the vessel and $75,000 to launch the vessel, adding that the vessel could be built in a West Coast shipyard for between 3 million and 3.25 million dollars, the figure being higher because of higher wage costs on the West Coast.
+3. For another excellent consideration of the right of the necessaries supplier, see Mr. Justice Brandon's decision in
+The Monica S.
+, [1967] 2 Lloyd's Rep. 113. However, the Canadian reader should keep in mind that the English concept, that a necessaries supplier in England becomes a secured creditor on the issuance of a writ in rem, does not apply in Canada: see for example
+The Comer
+, [1970] Ex. C.R. 13, at pp. 31 and 33.
+4. William Tetley acknowledges that he has adopted the American spelling, marshaling, rather than the English spelling. However, William Tetley's description of marshalling is an easier to understand than the traditional English description, for example that set outin the Fourth Edition of
+Halsbury's
+, Vol. 16, Para. 876:
+e
+"... Where one claimant, A, has two funds, X and Y, to which he may resort for satisfaction of his claim, whether legal or equitable, and another claimant, B. may resort to only one of these funds, Y, equity interposes so as to secure that A shall not by resorting to Y disappoint B. Consequently, if the matter is under the court's control, A will be required in the first place to satisfy himself out of X, and to resort to Y in case of deficiency only; and, if A has already been paid out of Y, the court will allow B to stand in his place as against X. This is known as the doctrine of marshalling, and is adopted in order to prevent one claimant depriving another claimant of his security."
+[End of document]

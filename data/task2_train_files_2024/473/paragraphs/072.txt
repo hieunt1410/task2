@@ -1,0 +1,15 @@
+[72]
+McTague v. Canada (Attorney General)
+, [2000] 1 F.C. 647; 177 F.T.R. 5 (T.D.), shares similar facts with the instant case. That case was an application for judicial review of a Veterans Review and Appeal Board decision confirming earlier determinations that the applicant was not eligible for a disability pension under the
+Pension Act
+pursuant to paragraph 21(2)(a). The applicant was seriously injured when hit by a vehicle while crossing a road to return to the base where he was on duty, from the restaurant where he had eaten dinner because there was no mess on the base. The Veterans Review and Appeal Board found that there was an insufficient causal link between the applicant's military service and the injury to satisfy paragraph 21(2)(a). The Court carried out a pragmatic and functional analysis to determine the standard of review. As part of that analysis, Justice Evans distinguished the rights at stake as being "not of the same order" as those protected under ss. 7 and 15 of the
+Charter
+:
+"33. Second, the nature of the rights determined by the Board is also relevant. Disability pensions are doubtless of great importance to the individuals concerned, but their denial is not normally likely to consign unsuccessful claimants to destitution, nor to preclude their pursuit of other remedies such as, in this case, a claim in tort against the owner of the vehicle that hit MWO McTague, or a statutory claim under the provincial motor vehicle compensation fund.
+"34. In my opinion, the rights at stake here are not of the same order of importance as the right to be recognized as a refugee (
+Pushpanathan
+, supra), or to be free from discrimination [page 664] (
+Canada (Attorney General) v. Mossop
+, [1993] 1 S.C.R. 554). The statutory rights in question in those cases were closely linked to constitutional rights protected by ss. 7 and 15 of the
+Canadian Charter of Rights and Freedoms
+... respectively."

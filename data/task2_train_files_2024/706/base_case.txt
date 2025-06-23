@@ -1,0 +1,156 @@
+[1]
+Lafrenière, Prothonotary
+: The Third Parties, which are divided into two groups, have brought separate motions seeking an order striking the Third Party Claim filed by the Defendants, the Rural Municipalities of Rhineland and Stanley (Municipal Defendants), on the grounds that the Federal Court does not have jurisdiction over the Third Parties or the subject matter of the Third Party Claim. Alternatively, the Third Parties request that the Third Party Claim be stayed on the grounds that North Dakota is the most convenient forum for deciding the issues raised in the Third Party Claim.
+[2]
+The Municipal Defendants submit that the subject matter of the Third Party Claim falls within the Court's jurisdiction and that there is no legitimate basis for striking out or staying the third party proceeding. For the reasons that follow, I conclude that this Court is without jurisdiction to entertain the Third Party Claim and that the third party proceedings should be struck.
+Background Facts
+[3]
+The Plaintiffs, Pembina County Water Resource District and various cities and townships in North Dakota, commenced an action against the Municipal Defendants and the Province of Manitoba back in 2004. The Statement of Claim alleges that the Defendants have blocked or impeded the flow of waters in their natural channels across the international boundary resulting in flood damage on the American side of the border.
+[4]
+The Plaintiffs' action is based on section 4(1) of the
+International Boundary Waters Treaty Act
+, R.S.C. 1985, c. I-17 (
+IBWTA
+), which reads as follows:
+4.(1) Any interference with or diversion from their natural channel of any waters in Canada, which in their natural channels would flow across the boundary between Canada and the United States or into boundary waters, as defined in the Treaty, resulting in any injury on the United States side of the boundary, gives the same rights and entitles the injured parties to the same legal remedies as if the injury took place in that part of Canada where the interference or diversion occurs.
+4.(1) Toute altération, notamment par détournement, des voies navigables du Canada, dont le cours naturel coupe la frontière entre le Canada et les États-Unis ou se jette dans des eaux limitrophes, au sens du traité, qui cause un préjudice du côté de la frontière des États-Unis, confère les mêmes droits et accorde les mêmes recours judiciaires aux parties lésées que si le préjudice avait été causé dans la partie du Canada où est survenue l'altération.
+[5]
+The Municipal Defendants filed a Third Party Claim on July 26, 2010 alleging that the damage to public infrastructure and/or private lands which the Plaintiffs attribute to the Defendants' breach of the
+IBWTA
+was actually caused or exacerbated by water management activities undertaken by various entities and individuals in North Dakota. The Third Party Claim seeks contribution and indemnity from the Third Parties for alleged actions or inactions in North Dakota, relating to property in North Dakota, and causing alleged damages in North Dakota.
+Principles Applicable on a Motion to Strike
+[6]
+The Third Parties bring their present motions under Rule 221(1)(a) of the
+Federal Courts Rules
+, which provides that the Court may, at any time, order that a pleading may be struck out with or without leave to amend on the ground that it discloses no reasonable cause of action. In order to strike out a pleading on this ground, it must be plain and obvious that the claim discloses no reasonable cause of action. A pleading will only be struck in the clearest and most obvious cases, where it is so clearly futile that it has no chance of succeeding:
+Apotex Inc. v. Syntex Pharmaceuticals International Ltd.
+[2005] FCJ No 1600 at paras 30-33.
+[7]
+The "plain and obvious" test applies to the striking out of pleadings for lack of jurisdiction in the same manner as it applies to the striking of a claim on the ground that it discloses no reasonable cause of action. The only difference is that, unlike on other motions to strike under Rule 221(1)(a), affidavit evidence is admissible on a motion to strike on jurisdictional grounds:
+FRAGMENT_SUPPRESSED aff'd (2000), 267 NR 143 (FCA) at para 4.
+Analysis
+[8]
+It is well established that unlike the provincial superior courts in Canada, which have general and inherent jurisdiction, the Federal Court's jurisdiction is exceptional and statutory. Three essential requirements must be met in order for the Federal Court to take jurisdiction over a matter:
+ITO-International Terminal Operators v. Miida Electronics
+28 DLR (4th) 641 (SCC) (
+ITO-International
+). The three-part test established by the Supreme Court of Canada requires that:
+1) There must be a statutory grant of jurisdiction by the Federal Parliament.
+2) There must be an existing body of federal law which is essential to the disposition of the case and which nourishes the statutory grant of jurisdiction.
+3) The law on which the case is based must be "a law of Canada" as the phrase is used in section 101 of the
+Constitution Act
+, 1867.
+[9]
+The fundamental principle underlying the first requirement is that the jurisdiction of the Federal Court is exceptional and statutory, as opposed to general and inherent.
+[10]
+The Treaty relating to boundary waters and to questions arising along the boundary between Canada and the United States (Treaty) on which the
+IBWTA
+is based contains various positive obligations and, in combination with the
+IBWTA
+, creates a sufficiently distinct body of federal law as to validly engage the jurisdiction of the Federal Court over the main claim. Section 5 of the
+IBWTA
+expressly grants this Court jurisdiction to consider a claim made pursuant to section 4.
+[11]
+Pursuant to section 5, a party who claims to be injured in the United States as a result of interference with boundary waters in Canada is entitled to the same remedies as if the injury had taken place in Canada. Taken together, sections 4 and 5 satisfy the first requirement of the tri-partite jurisdiction test as they grant a right of action and legal remedies in Canada to entities or individuals injured in the United States, and confer jurisdiction on the Federal Court.
+[12]
+The second and third requirements of the tri-partite jurisdiction test are also met with regard to the main claim because the
+IBWTA
+creates an obligation not to interfere with boundary waters, the
+IBWTA
+confers a remedy on the plaintiffs by virtue of section 4, and Parliament has authority to enact laws in relation to international treaties signed by Canada.
+[13]
+The Municipal Defendants acknowledge that the
+IBWTA
+does not expressly confer upon the Federal Court the jurisdiction to deal with claims advanced by Canadian interests against American defendants. They contend, however, that the Federal Court possesses implied jurisdiction where necessary to fully discharge its mandate and to perform those functions expressly conferred on it by statute. They submit that the subject matter of the Third Party Claim is inextricably linked with the claim advanced by the Plaintiffs in the main action, and that the Federal Court cannot properly exercise its statutory mandate under the applicable legislation without specifically considering and deciding the issues raised by the third party claim.
+[14]
+They also caution about the practical difficulties posed by a narrow application of the three-part test in
+ITO-International
+, particularly where multiple proceedings are involved. Such problems include a multiplicity of proceedings, the possibility of different and possibly contradictory findings in different courts, potential limitation of action issues, and an increase in costs.
+[15]
+Avoiding multiple proceedings is certainly a laudable goal. It remains, however, that a court can only adjudicate matters that are within its jurisdiction.
+[16]
+The parties are agreed that in analyzing jurisdiction, the main action and third party claim have to be considered separately. Although the Federal Court has jurisdiction over the main action, that jurisdiction is not necessarily sufficient to ground jurisdiction for a third party claim. According to the decision of the Supreme Court of Canada in
+R. v. Thomas Fuller Construction Co. (1958) Ltd. et al.
+[1980] 1 SCR 695
+(Thomas Fuller)
+, a third party claim must itself be based on federal law to meet the requirements of jurisdiction in the Federal Court.
+[17]
+In
+Thomas Fuller
+, Foundation Co. of Canada Ltd. (Foundation) brought an action in the Federal Court against Her Majesty the Queen (Crown) for alleged breaches of a building contract and negligence in respect of blasting operations carried on by Thomas Fuller Construction Co. (1958) Ltd. The Crown commenced third party proceedings seeking indemnity in contract and contribution pursuant to the
+Negligence Act
+of Ontario. The Supreme Court of Canada held that the original action and subsequent third party claim were separate proceedings, both of which had to be founded on existing and applicable federal law in order for the Federal Court to have jurisdiction. The Supreme Court of Canada specifically rejected the Crown's argument that a third party proceeding for contribution and indemnity against a private party came within the Federal Court's jurisdiction because it arose from and was dependent upon the plaintiff's claim against the Crown, which by itself was founded upon federal law and was within the Federal Court's jurisdiction. The Third Party Claim was found to be based on Ontario law, and not within the Federal Court's jurisdiction.
+[18]
+Unlike the main claim, section 4 of the
+IBWTA
+does not confer a right on the Municipal Defendants to claim against the Third Parties in Federal Court. It is clear on the face of the text of the section that it only applies to acts taken or committed in Canada that have caused injury in the United States. Section 4 creates an exceptional right for injured parties who have suffered injury on the United States side of the boundary to seek legal remedies in Canada. No reciprocal right is provided to Canadian entities or individuals.
+[19]
+Although the Federal Court does have some implied jurisdiction, it is only to the extent that the exercise of such powers is necessary for the Court to exercise fully the jurisdiction expressly conferred by a statutory provision:
+R. v. 974649 Ontario Inc.
+[2001] 3 SCR 575. The Municipal Defendants plead and rely on the
+Tortfeasors and Contributory Negligence Act
+, a Manitoba statute. They also claim that the Third Parties caused damage to property in North Dakota by their negligence, and that the Third Parties' actions constitute a nuisance in law.
+[20]
+While the Federal Court may apply provincial law in reaching any particular decision, such application can only occur when the proceedings are otherwise properly founded on federal law, and are within the Federal Court's jurisdiction. The fact that multiple proceedings and inconvenience may result is simply not a justification to extend the Court's jurisdiction beyond statutory limits.
+[21]
+Absent a statutory grant of authority to form the basis of or "nourish" the Third Party Claim, I conclude that the Federal Court does not have jurisdiction to entertain the third party proceeding. The Third Party Claim will therefore be struck for want of jurisdiction.
+Forum non conveniens
+[22]
+Given the conclusion above, it is not strictly necessary to address the Third Parties' alternative argument that the Third Party Claim should be stayed on the ground of forum non conveniens. However, for the sake of completeness, I should add that I agree with the submissions of the Third Parties to the effect that a stay of proceedings would have been justified in any event, based primarily on the following factors:
+(a) the key witnesses and evidence regarding the Third Parties' actions and any damage sustained in North Dakota are located in North Dakota;
+(b) the acts of the Third Parties alleged to be actionable are alleged to have been committed in North Dakota;
+(c) there will be no juridical disadvantage to the Municipal Defendants as any claim for contribution or indemnity from the Third Parties brought in North Dakota can be brought within a year from any judgment against the Municipal Defendants in respect of which contribution or indemnity is sought;
+(d) the Third Parties' acts and their rights as agrarian North Dakota property owners are governed by substantive North Dakota law; and
+(e) the applicable law regarding contribution and indemnity claims against the third parties is North Dakota law.
+State Immunity
+[23]
+Finally, the Third Parties, Pembina County, Cavalier County Water Resource District and the North Dakota State Water Commission (State Third Parties), submit as well that, as agents or political subdivisions of a foreign state, they are immune from suit.
+[24]
+The
+State Immunity Act
+, R.S.C. 1985 c. S-18 (
+SIA
+) brings the international law principle of sovereign immunity into the domestic legislation. Section 3 of the
+SIA
+provides the initial grant of immunity:
+State immunity
+3. (1) Except as provided by this Act, a foreign state is immune from the jurisdiction of any court in Canada.
+Court to give effect to immunity
+(2) In any proceedings before a court, the court shall give effect to the immunity conferred on a foreign state by subsection (1) notwithstanding that the state has failed to take any step in the proceedings.
+Immunité de juridiction
+3. (1) Sauf exceptions prévues dans la présente loi, l'État étranger bénéficie de l'immunité de juridiction devant tout tribunal au Canada.
+Immunité reconnue d'office
+(2) Le tribunal reconnaît d'office l'immunité visée au paragraphe (1) même si l'État étranger s'est abstenu d'agir dans l'instance.
+[25]
+The definition of a "foreign state" entitled to immunity is found at section 2 of the
+SIA
+:
+"foreign state" includes
+(a) any sovereign or other head of the foreign state or of any political subdivision of the foreign state while acting as such in a public capacity,
+(b) any government of the foreign state or of any political subdivision of the foreign state, including any of its departments, and any agency of the foreign state, and
+(c) any political subdivision of the foreign state;
+. . . . .
+"political subdivision" means a province, state or other like political subdivision of a foreign state that is a federal state.
+État étranger » Sont assimilés à un État étranger:
+a) le chef ou souverain de cet État ou d'une subdivision politique de celui-ci, dans l'exercice de ses fonctions officielles;
+b) le gouvernement et les ministères de cet État ou de ses subdivisions politiques, ainsi que les organismes de cet État;
+c) les subdivisions politiques de cet État.
+. . . . .
+« subdivision politique » Toute province, tout état ou toute autre subdivision politique similaire d'un État étranger à régime fédéral.
+[26]
+Pembina County is responsible for the construction maintenance and operation of the County road system located within the county. Cavalier County Water Resource District is a governmental agency established pursuant to the laws of the State of North Dakota. The North Dakota State Water Commission is a governmental entity established pursuant to the laws of the State of North Dakota and is responsible for the conservation, management, development and control of water resources within the State of North Dakota.
+[27]
+Since the status of the State Third Parties as "political subdivisions" of the State of North Dakota is not disputed, they are prima facie immune from suit in Canada.
+[28]
+The Rural Municipalities maintain, however, that the State Third Parties have waived immunity by virtue of the fact that the named Plaintiffs include political subdivisions of the State of North Dakota. They argue that since some political subdivisions of the State of North Dakota initiated proceedings in the Federal Court, they have also waived the immunity now claimed by the State Third Parties. In my opinion, the argument rests on the false premise that any political subdivision of the State of North Dakota that commences an action in a foreign state thereby waives immunity for all other political subdivisions of the State and for the State itself.
+[29]
+Each of the State Third Parties is a separate legal entity pursuant to North Dakota law. A waiver of sovereign immunity must be clear and unequivocal, and cannot be presumed. Although certain political subdivisions of the State of North Dakota have accepted the jurisdiction of the Federal Court by commencing this proceeding as Plaintiffs, there is no indication that the State Third Parties have attorned or otherwise submitted to the Federal Court's jurisdiction over the Third Party Claim. Consequently, I conclude that the State Third Parties are entitled to state immunity and should be struck as third parties to the proceeding.
+ORDER
+[30]
+THIS COURT ORDERS that
+:
+1. The Third Party Claim is hereby struck out, without leave to amend.
+2. If the parties cannot agree on costs, they shall exchange and file brief written submissions within 14 days of the date of this Order.
+Order accordingly.
+Editor: E. Joanne Oley/vnh
+[End of document]

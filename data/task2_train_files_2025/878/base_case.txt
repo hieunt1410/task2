@@ -1,0 +1,860 @@
+[1]
+Campbell, J.
+: In 1996, as Aboriginal People, the Plaintiffs (Baptiste) brought the present Action against the Defendant to enforce its sui generis fiduciary relationship with the Federal Crown. The cause of action relates to an allegation of illegal logging on Aboriginal land in South-Western Alberta, in relation to which Baptiste says the Defendant failed to take the necessary action to protect and preserve Baptiste's rights, interests, and property, and, thus, breached its special fiduciary duty. In turn, claiming contribution or indemnity, the Defendant brought third-party proceedings (the Proceedings) against 52 individuals and companies that participated in the removal and processing of the timber.
+[2]
+The precursor event to the present motion is a decision of the Federal Court of Appeal in which it is found that this Court lacks jurisdiction over the Proceedings initiated by the Defendant. As a result, the Attorney General of Canada on behalf of the Defendant (Canada) brings the present motion for a stay of the Action pursuant to s. 50.1(1) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 (the Motion), and, if granted, Baptiste will have the option to recommence the Action in the Court of Queen's Bench of Alberta, and with respect to the recommencement, Canada will perfect its expressed desire to bring the third-party proceedings.
+[3]
+Baptise's position throughout the history of the Action is that the complexities caused by the Proceedings have interfered with the advancement and resolution of its claim against Canada. With respect to the Motion, Baptiste objects to the result of the application of s. 50.1 because this Court will be lost as the arbiter of the Action. To advance its objection, in response to the Motion, Baptiste argues that the Court should not grant the Motion because Canada lacks the legal basis to obtain a stay, and also that an order cannot be made because s. 50.1 itself is unconstitutional.
+[4]
+For the reasons which follow, I am unable to agree with either of Baptiste's arguments.
+I. A Brief History of the Action and the Proceedings
+[5]
+The decision of the Federal Court of Appeal provides a précis of the history and critical findings resulting in the determination that this Court does not have jurisdiction over Canada's claims against the third parties. The following passages from Chief Justice Richard's decision sets the stage for the Motion:
+"[3] On February 7, 1996, the plaintiffs (the Stoney Band) commenced an action against the defendant (Canada).
+"[4] The statement of claim alleged, inter alia, breaches of various fiduciary duties owed by Canada to the Stoney Band concerning the harvesting of timber on the Stoney Band Reserve in Alberta in 1994 and 1995.
+"[5] There is no dispute that this action comes within the jurisdiction of the Federal Court pursuant to s. 17(1) of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7, which provides that the Federal Court has concurrent original jurisdiction with Superior Courts 'in all cases in which relief is claimed against the Crown'.
+"[6] On January 22, 1997, Canada brought a motion before the Federal Court seeking a stay of the action pursuant to s. 50.1 of the
+Federal Courts Act
+on the grounds that it intended to issue third party notices against persons over whom the Federal Court had no jurisdiction.
+"[7] Canada filed several third party notices on April 4, 1997, prior to the hearing of its motion by Prothonotary Hargrave on April 23, 1997. The third parties did not receive notice of Canada's motion or participate in the hearing before the prothonotary.
+"[8] By Order issued on May 16, 1997, the prothonotary found that the Federal Court had jurisdiction over the proposed third party proceedings. Canada did not appeal the prothonotary's decision.
+"[9] An amended statement of claim, an amended statement of defence, and amended third party notices were served and filed in the period October 2002 to March 2003.
+"[10] The third party claims were for the most part identical, differing only in minor aspects depending on the identity of the third party. In every case, however, the relief sought by Canada was identical.
+"[11] The parties against whom Canada asserted these third party claims fall into three categories: certain members of the Stoney Band in their capacity as individuals, loggers, and saw mills operators.
+"[12] Canada framed the relief it sought from the third parties as follows:
+(a) Indemnity or contribution in respect of any judgment which may be obtained by the plaintiffs against the defendant, including any judgment for costs;
+(b) Indemnity or contribution in respect of the costs and expenses incurred by the defendant in defending the action brought by the plaintiffs;
+(c) Aggravated, punitive and exemplary damages;
+(d) Costs and expenses of the third party proceedings.
+"[13] Canada also pleaded the provisions of the
+Contributory Negligence Act
+, R.S.A. 2000, c. C-27, the
+Tort-Feasors Act
+, R.S.A. 2000, c. T-5, the
+Indian Act
+, R.S.C. 1985, c. I-5, and the
+Indian Timber Regulations
+, SOR/94-690, s. 3(F).
+"[14] The third party appellants challenged the jurisdiction of the Federal Court on April 30, 2003 and these motions were heard together by a judge of the Federal Court on October 21, 2003.
+"[15] The motion before the Federal Court judge was not supported by any affidavit material and proceeded on the basis of the pleadings and the third party notices as framed by Canada.
+"[16] Canada did not oppose the third parties' motion but took the position that, having elected not to appeal, it was bound by the prothonotary's decision.
+"[17] On May 3, 2004, the motions judge dismissed the jurisdictional challenge of the third parties on the ground that the prothonotary's decision was a bar to the relief sought on the principle of res judicata.
+"[18] The appeals before us were consolidated and heard together. None of the parties supported the motions judge's finding that the matter was res judicata. It is clear to us that the motions judge erred in law by applying the principle of res judicata in these circumstances. The third parties were not parties to the motion before the prothonotary and did not have notice of the proceedings before the prothonotary in April 1997.
+"[19] We are all of the view that the motions judge erred in dismissing the motion made by the third parties on the ground of res judicata and for this reason alone, the appeal could be allowed.
+"[20] However, the parties were unanimous in requesting that this Court make the decision on the issue of jurisdiction that should have been made by the motions judge and accordingly, I will proceed to deal with the issue of jurisdiction raised by the parties.
+"[21] The sole issue in this appeal is the jurisdiction of the Federal Court to hear and determine the third party claims as framed by Canada. This is a question of law. Although the prothonotary was very articulate in his reasons in support of his finding that the Federal Court did have subject matter jurisdiction, we are not bound by that decision or those reasons.
+. . . . .
+"[41] In the present proceedings and in the claims as framed by Canada, the provincial common laws of conversion, conspiracy and negligence cannot be characterized as 'incidentally necessary to resolve the issues presented by the parties'. They are, in fact, the very laws under which Canada asserts its entitlement to indemnity, contribution, or damages. Canada's claims are in 'pith and substance' based on provincial common law. If anything, it is the federal law component that is incidental to Canada's claims against the third parties.
+"[42] The law upon which Canada relies in bringing the claims against the third parties is the common law of trespass, conversion, conspiracy and negligence.
+"[43] This is clear from an analysis of the third party claims where Canada alleges:
+1. trespass to timber and land;
+2. conspiracy to engage in activities contrary to federal legislation;
+3. conversion of Crown timber;
+4. contributory negligence; and
+5. negligent interference with the Crown's fiduciary duty to the Stoney Band
+. . . . .
+"[49] In the present proceedings, the claims of Canada against the third parties are not sufficiently supported by federal law. To the contrary, the claims are firmly rooted in provincial common law.
+"[50] Even though the action between the Stoney Band and Canada is rightly before the Federal Court, there is no relationship between the cause of action in the third party proceedings and any applicable federal law that would be sufficient to give the Federal Court jurisdiction.
+"[51] The Supreme Court of Canada held in
+Canada v. Thomas Fuller Construction Co. (1958) Ltd.
+, [1980] 1 S.C.R. 695, that an action and a third party action are separate proceedings. Thus, an analysis of the claims of the plaintiff against the defendant in the main action will not be determinative of the nature of the claim against the third parties.
+"[52] Therefore, the fact that the Federal Court has jurisdiction over the main action between the Stoney Band and Canada cannot be considered when determining the Court's jurisdiction over the third party claims. I reach this conclusion based on the present state of the jurisprudence on this matter.
+. . . . .
+"[57] In conclusion, I find that the federal statutory framework created by the interaction of the
+Indian Act
+and the
+Indian Timber Regulations
+is insufficiently broad to encompass Canada's third party claims in this case. The
+Act
+and the
+Regulations
+relied on by Canada are not the source or the foundation of its claim against the third parties. The claims against the third parties are in 'pith and substance' based on provincial common law. I must conclude that the Federal Court does not have jurisdiction over Canada's claims against the third parties in these circumstances. [...]"
+II. The Motion
+[6]
+Section 50.1 became law in 1990 as an element of Bill C-38, the contents of which are described in detail in Section III (A)(1) and (2) below. Canada's motion for a stay of the Action pursuant to s. 50.1 is based on the ground that "the Crown desires to institute third-party proceedings in the within action against three classes of parties in respect of which the Federal Court lacks jurisdiction". With the passage of s. 50.1, the power of Judges of the Court to grant a stay of proceedings is found in two provisions of the
+Federal Courts Act
+, being s. 50 and s. 50.1:
+"
+Stay of proceedings authorized
+"50(1) The Federal Court of Appeal or the Federal Court may, in its discretion, stay proceedings in any cause or matter
+(a) on the ground that the claim is being proceeded with in another court or jurisdiction; or
+(b) where for any other reason it is in the interest of justice that the proceedings be stayed.
+"
+Stay of proceedings required
+"50(2) The Federal Court of Appeal or the Federal Court shall, on application of the Attorney General of Canada, stay proceedings in any cause or matter in respect of a claim against the Crown if it appears that the claimant has an action or a proceeding in respect of the same claim pending in another court against a person who, at the time when the cause of action alleged in the action or proceeding arose, was, in respect of that matter, acting so as to engage the liability of the Crown.
+"
+Lifting of stay
+"50(3) A court that orders a stay under this section may subsequently, in its discretion, lift the stay.
+"
+Stay of proceedings
+"50.1(1) The Federal Court shall, on application of the Attorney General of Canada, stay proceedings in any cause or matter in respect of a claim against the Crown where the Crown desires to institute a counter-claim or third-party proceedings in respect of which the Federal Court lacks jurisdiction.
+"
+Recommence in provincial court
+"50(2) If the Federal Court stays proceedings under subsection (1), the party who instituted them may recommence the proceedings in a court constituted or established by or under a law of a province and otherwise having jurisdiction with respect to the subject-matter of the proceedings.
+"
+Prescription and limitation of actions
+"50(3) If proceedings are recommenced under subsection (2) within 100 days after the proceedings are stayed in the Federal Court, the claim against the Crown in the recommenced proceedings is deemed, for the purposes of any laws relating to prescription and the limitation of actions, to have been instituted on the day the proceedings in the Federal Court were instituted."
+"
+Suspension d'instance
+"50(1) La Cour d'appel fédérale et la Cour fédérale ont le pouvoir discrétionnaire de suspendre les procédures dans toute affaire:
+a) au motif que la demande est en instance devant un autre tribunal;
+b) lorsque, pour quelque autre raison, l'intérêt de la justice l'exige.
+"
+Idem
+"50(2) Sur demande du procureur général du Canada, la Cour d'appel fédérale ou la Cour fédérale, selon le cas, suspend les procédures dans toute affaire relative à une demande contre la Couronne s'il apparaît que le demandeur a intenté, devant un autre tribunal, une procédure relative à la même demande contre une personne qui, à la survenance du fait générateur allégué dans la procédure, agissait en l'occurrence de telle façon qu'elle engageait la responsabilité de la Couronne.
+"
+Levée de la suspension
+"50(3) Le tribunal qui a ordonné la suspension peut, à son appréciation, ultérieurement la lever.
+"
+Suspension des procédures
+"50.1(1) Sur requête du procureur général du Canada, la Cour fédérale ordonne la suspension des procédures relatives à toute réclamation contre la Couronne à l'égard de laquelle cette dernière entend présenter une demande reconventionnelle ou procéder à une mise en cause pour lesquelles la Cour n'a pas compétence.
+"
+Reprise devant un tribunal provincial
+"50(2) Le demandeur dans l'action principale peut, après le prononcé de la suspension des procédures, reprendre celles-ci devant le tribunal compétent institué par loi provinciale ou sous le régime de celle-ci.
+"
+Prescription
+"50(3) Pour l'application des règles de droit en matière de prescription dans le cadre des procédures reprises conformément au paragraphe (2), est réputée être la date de l'introduction de l'action celle de son introduction devant la Cour fédérale si la reprise survient dans les cent jours qui suivent la suspension."
+[7]
+The evidence supporting the Motion is found in the Affidavit of Ms. Doris Tetrault, Project Manager of the Litigation Management and Resolution Branch of the Department of Indian Affairs and Northern Development, Vancouver, British Columbia, sworn January 10, 2006 (Motion Record of the Applicant, pp. 5-9). The Affidavit provides an outline of the steps taken in the Action and with respect to the Proceedings, and relevant pleadings are attached as Exhibits. At paragraph 20, Ms. Tetrault attests to the following:
+"Canada desires to institute third party proceedings against all of the original 52 named Third Parties, including those who chose not to challenge the jurisdiction of the Federal Court, and those who were struck from this action at the Federal Court of Appeal."
+A. What is the present state of the law with respect to s. 50.1?
+[8]
+After the passage of Bill C-38, five decisions of the Court have interpreted s. 50.1. In sequence of time of decision, they are:
+Bastien v. Canada et al.
+, [1992] F.C.J. No. 221; 53 F.T.R. 81 (T.D.) (
+Bastien
+);
+FRAGMENT_SUPPRESSED
+Fédération Franco-Ténoise et al. v. Canada (Procureur général) et al.
+, [2001] 3 F.C. 641; 274 N.R. 1 (F.C.A.) (
+Fédération
+);
+Charalambous v. The Queen
+(29 April 2004), Federal Court T-1715-03 (F.C.) (
+Charalambous
+); and
+Aussant v. Canada (Minister of Health and Welfare)
+(25 November 2005), Federal Court T-2442-98 (F.C.) (
+Aussant
+).
+[9]
+Bastien
+involved an application by the Attorney General of Canada to stay proceedings that had been pending against the Crown prior to the enactment of s. 50.1. Justice Pinard made two findings in the course of refusing to grant the stay: since s. 50.1 affected the jurisdiction of the Court, and, thus, the plaintiff's substantive rights under the action already commenced, the provision cannot be characterized as procedural in nature; and, since the application of s. 50.1 was not made retroactive, applying it to the action which was commenced before the provision came into effect would unduly affect the vested rights of the plaintiff.
+[10]
+For the reasons provided in Section IV(A)(1)(a) below, I find that
+Bastien
+is not relevant to the present Motion.
+[11]
+In the decisions subsequent to
+Bastien
+, opinions are expressed with respect to the essential evidence required to support an order under s. 50.1, and the ambit of discretion to be applied in deciding whether to issue a stay.
+[12]
+In
+Charalambous
+, Justice Dawson at pp. 4-5 cites
+Fairford
+and
+Fédération
+in coming to a conclusion on the criteria to be applied in issuing a stay:
+"The leading case to consider this provision is
+Fairford Band v. Canada (Attorney General)
+, [1995] 3 F.C. 165 (T.D.); affd. (1996), 205 N.R. 380 (F.C.A.). In
+Fairford
+Mr. Justice Rouleau indicated that he was not prepared to grant the requested stay because he was not persuaded of the sincerity of the defendant's desire to commence third party proceedings, the defendant's application was vague and there was no evidence that the Attorney General was in fact going to commence third party proceedings. Such comments were, however, obiter in light of Mr. Justice Rouleau's further conclusion that the Court had jurisdiction over the intended third party proceedings. Justice Rouleau's decision was affirmed on this latter basis.
+"Subsequently, in
+Fédération Franco-Ténoise v. Canada
+, [2001] 3 F.C. 641 (C.A.), at paragraph 87 (again in obiter) the Federal Court of Appeal suggested that a stay is, in substance, automatic where requested on motion by the Attorney General. This authority was not referred to in argument before the learned prothonotary.
+"I conclude on the basis of these authorities and the wording used in s. 50.1(1) of the
+Federal Courts Act
+that a stay should issue where the Court is satisfied on the evidence of a bona fide desire on the part of the Crown to institute third party proceedings beyond the jurisdiction of the Court."
+[13]
+In reaching the decision in
+Aussant
+, Justice Hugessen at pp. 2-3 does not refer to precedent in making the following statement:
+"[...] Since the language of [s. 50.1] is mandatory, I will be obliged to make such an order if I find that the third party claims are outside the Court's jurisdiction. In those circumstances any opinion I may have as to the possible success or failure of the third party claims, besides being an obiter dictum, could only be a source of embarrassment and mischief to the Saskatchewan courts which would then in any event be called upon to deal anew with the same questions."
+Upon deciding that the third-party claims concerned were beyond the jurisdiction of the Federal Court, Justice Hugessen granted a stay.
+[14]
+Reading
+Charalambous
+and
+Aussant
+together, I find that the present state of the law is that, not only "should" a stay be issued, as expressed by Justice Dawson, but it is "mandatory" to issue a stay under s. 50.1, as stated by Justice Hugessen, if third-party proceedings are found to be beyond the jurisdiction of the Court, and the Crown has proved a bona fide intention to institute the third-party proceedings in a Provincial court.
+III. Does the Motion Lack a Legal Basis?
+[15]
+Baptiste's concern in strongly objecting to the Motion is the ease with which a stay can be obtained merely upon two conditions precedent being proved: the Federal Court lacks jurisdiction over specified third-party proceedings, and the Crown has a bona fide desire to institute the third-party proceedings in a Provincial court. It is the total lack of discretion to decide whether it is just to issue the stay that Baptiste finds repugnant.
+[16]
+Baptiste maintains that the criteria for granting an order under s. 50.1 must be more encompassing, and in this respect argues that, before Canada can be found to have a "bona fide desire" to commence third-party proceedings, the "desire" maintained must be found to have a legal basis. That is, the correct interpretation of the term "desire" requires an evaluation of whether, given the nature of a particular action, it is permissible for Canada to bring third-party proceedings, and if it is impermissible, the motion is without a legal basis.
+[17]
+With respect to the meaning of "third-party proceedings", Baptiste argues that the Proceedings in the present case are not third-party proceedings but are independent substantive proceedings that do not, and should not, depend on the outcome of the Action. Baptiste argues that, as the Proceedings constitute a completely distinct common law cause of action in tort, it is impermissible for Canada, which is being sued in equity for breach of a fiduciary duty, to use the Proceedings to claim common law relief of indemnity, contribution, or "relief over" against persons and entities with respect to their alleged tortuous appropriation of trust property.
+[18]
+On this basis, Baptiste further argues that this Court has the equitable jurisdiction necessary to declare Canada's proposed course of action is an impermissible course of action for a party to a fiduciary relationship and that, if Canada chooses to bring proceedings against tort-feasors, it must not do so as part of the Action. According to Baptiste, the result of acceptance of this argument is a denial of a stay under s. 50.1 because, if Canada's course of action is impermissible and unavailable, the Crown does not have a bona fide desire to bring third-party proceedings over which this Court has no jurisdiction.
+[19]
+Canada's response is simple: it has met the evidentiary test for proving it has a bona fide desire, and since this Court has no jurisdiction over the Proceedings, as decided by the Federal Court of Appeal, this Court has no jurisdiction to render any decision with respect to the propriety of the Proceedings. On this basis, Canada argues that, following a stay, if Baptiste chooses to recommence the Action in Alberta, it is for the Alberta Court of Queen's Bench to decide upon the propriety of the third-party proceedings instituted by the Crown.
+[20]
+I find Canada's argument compelling, and, therefore, find that I have no jurisdiction to decide upon the substance of the Proceedings in the present case. However, to fairly consider Baptiste's argument, I find it is still necessary to decide on the correct interpretation of the word "desire" as it is used in s. 50.1(1).
+A. What is the correct meaning of "Crown desires"?
+[21]
+With respect to the meaning of "desire", the essential elements of Baptiste's argument are as follows:
+"23. The English text of s. 50.1 of the
+Federal Courts Act
+provides for a stay where 'the Crown desires to institute a counter-claim or third party proceedings in respect of which the Court lacks jurisdiction'.
+Federal Courts Act
+, R.S.C. 1985, c. F-7, Tab A1
+"24. The term 'desires' is not defined in the
+Federal Courts Act
+. It is commonly taken to mean 'to wish for' or 'to invite a course of action' though it might also be taken to mean 'to long for, covet or crave'.
+Oxford English Dictionary, 2004
+, s.v. 'desire'. Tab B3
+"25. The French text of s. 50.1 of the
+Federal Courts Act
+reads 'à l'égard de laquelle cette dernière [la Couronne] entend présenter une demande reconventionnelle ou procéder à une mise en cause pour lesquelles la Cour n'a pas compétence'.
+"26. The term 'entendre' is commonly taken to mean'avoir l'intention de [faire quelquechose]'  or 'avoir le dessein de [faire quelquechose]' as well as 'vouloir', 'désirer', 'préférer'.
+Le Nouveau Petit Robert, 1995
+, s.v. 'entendre'. Tab B4
+"27. The terms employed by Parliament in both English and French are general terms and are ambiguous. The ambiguity lies in the nature of the Crown's 'desire'. Desire is an element of volition, which refers to the making of a definite choice or decision with regard to a course of action on the basis of reasons. It is possible for a person to choose an impermissible course of action, either intentionally or inadvertently. That person would certainly 'desire' to pursue the impermissible course of action, but may nonetheless be barred from doing so.
+Oxford English Dictionary, 2004
+, s.v. 'volition'. Tab B5
+"28. There are thus two possible approaches to the interpretation of 'Crown desires' as that term is used in s. 50.1. The first approach requires merely that the requisite desire be actually present. In other words, all that must be established is a bona fide intention or desire on the part of the Crown to bring third party proceedings. The desire is 'bona fide' in the sense that the Crown demonstrably intends to pursue that course of action.
+Fairford First Nation v. Canada (A.G.)
+, 1995 Carswell Nat 687 (F.C.T.D.), at para. 11. Tab B6
+Charalambous v. Canada
+(April 29, 2004), T-1715-03 (F.C.), per Dawson, J. Applicant's Motion Record, Tab 4
+"29. The second approach would require, in addition, that the object of the Crown's 'desire' be a possible or permissible course of action. Pursuant to this approach, if there is a rule or principle of law that makes the Crown's recourse to third party proceedings impermissible, or if there is some other circumstance that makes the Crown's recourse unreasonable, then the Crown's 'desire' to bring third party proceedings would not be sufficient for the Court to stay the proceedings. Thus, a bona fide desire would be an intention to pursue a permissible or reasonable course of action.
+"30. It is submitted that the second approach is the proper approach to the interpretation of the notion of Crown 'desire' and accords with the general rule of statutory interpretation that 'the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament'.
+Re Rizzo & Rizzo Shoes Ltd.
+, 1998 Carswell Ont 1 (S.C.C.). Tab B7
+"31. Moreover, the second approach excludes the possibility of an abuse of process, which the Crown cannot 'desire' if it is to be consistent with the Crown's exercise of 'public duty ... performed with an ingrained sense of the dignity, the seriousness and the justness of judicial proceedings'.
+Re Application Under s. 83.28 of the Criminal Code
+, 2004 Carswell BC 1378 (S.C.C.), at para. 95. Tab B8.
+"32. It is submitted that this is also an application of the principle of statutory interpretation that an intention to produce an unreasonable or absurd result is not to be imputed to a statute if there is some other construction available
+P. St. J. Langan,
+Maxwell on Interpretation of Statutes
+, 12th Ed. (London: Sweet & Maxwell, 1969), at p. 199 et seq. Tab B9."
+[22]
+To answer the question, the legislative context with respect to s. 50.1 requires evaluation.
+1. Bill C-38
+[23]
+In 1990, by the passage of Bill C-38,
+An Act to amend the Federal Court Act, the Crown Liability Act, the Supreme Court Act and other Acts in consequence thereof
+, 2d Sess., 34th Parl., 1989 (1st reading 28 September 1989), put into place a comprehensive law reform package, which, by the following provisions, includes a focus on third-party proceedings initiated in litigation against the Crown: s. 50.1 of the
+Federal Courts Act
+; s. 17 of the
+Federal Courts Act
+; and s. 21 of the
+Crown Liability and Proceedings Act
+, R.S.C. 1985, c. C-50.
+The
+Federal Courts Act
+"
+Relief against the Crown
+"17(1) Except as otherwise provided in this Act or any other Act of Parliament, the Federal Court has concurrent original jurisdiction in all cases in which relief is claimed against the Crown.
+"
+Cases
+"17(2) Without restricting the generality of subsection (1), the Federal Court has concurrent original jurisdiction, except as otherwise provided, in all cases in which
+(a) the land, goods or money of any person is in the possession of the Crown;
+(b) the claim arises out of a contract entered into by or on behalf of the Crown;
+(c) there is a claim against the Crown for injurious affection; or
+(d) the claim is for damages under the Crown Liability and Proceedings Act.
+"
+Crown and subject: consent to jurisdiction
+"17(3) The Federal Court has exclusive original jurisdiction to hear and determine the following matters:
+(a) the amount to be paid if the Crown and any person have agreed in writing that the Crown or that person shall pay an amount to be determined by the Federal Court, the Federal Court - Trial Division or the Exchequer Court of Canada; and
+(b) any question of law, fact or mixed law and fact that the Crown and any person have agreed in writing shall be determined by the Federal Court, the Federal Court - Trial Division or the Exchequer Court of Canada.
+"
+Conflicting claims against Crown
+"17(4) The Federal Court has concurrent original jurisdiction to hear and determine proceedings to determine disputes in which the Crown is or may be under an obligation and in respect of which there are or may be conflicting claims.
+"
+Relief in favour of Crown or against officer
+"17(5) The Federal Court has concurrent original jurisdiction
+(a) in proceedings of a civil nature in which the Crown or the Attorney General of Canada claims relief; and
+(b) in proceedings in which relief is sought against any person for anything done or omitted to be done in the performance of the duties of that person as an officer, servant or agent of the Crown.
+"
+Federal Court has no jurisdiction
+"17(6) If an Act of Parliament confers jurisdiction in respect of a matter on a court constituted or established by or under a law of a province, the Federal Court has no jurisdiction to entertain any proceeding in respect of the same matter unless the Act expressly confers that jurisdiction on that court."
+"
+Réparation contre la Couronne
+"17(1) Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, la Cour fédérale a compétence concurrente, en première instance, dans les cas de demande de réparation contre la Couronne.
+"
+Motifs
+"17(2) Elle a notamment compétence concurrente en première instance, sauf disposition contraire, dans les cas de demande motivés par:
+a) la possession par la Couronne de terres, biens ou sommes d'argent appartenant à autrui;
+b) un contrat conclu par ou pour la Couronne;
+c) un trouble de jouissance don't la Couronne se rend coupable;
+d) une demande en dommages-intérêts formée au titre de la Loi sur la responsabilité civile de l'État et le contentieux administratif.
+"
+Conventions écrites attributives de compétence
+"17(3) Elle a compétence exclusive, en première instance, pour les questions suivantes:
+a) le paiement d'une somme dont le montant est à déterminer, aux termes d'une convention écrite à laquelle la Couronne est partie, par la Cour fédérale - ou l'ancienne Cour de l'Échiquier du Canada - ou par la Section de première instance de la Cour fédérale;
+b) toute question de droit, de fait ou mixte à trancher, aux termes d'une convention écrite à laquelle la Couronne est partie, par la Cour fédérale - ou l'ancienne Cour de l'Échiquier du Canada - ou par la Section de première instance de la Cour fédérale.
+"
+Demandes contradictoires contre la Couronne
+"17(4) Elle a compétence concurrente, en première instance, dans les procédures visant à régler les différends mettant en cause la Couronne à propos d'une obligation réelle ou éventuelle pouvant faire l'objet de demandes contradictoires.
+"
+Actions en réparation
+"17(5) Elle a compétence concurrente, en première instance, dans les actions en réparation intentées:
+a) au civil par la Couronne ou le procureur général du Canada;
+b) contre un fonctionnaire, préposé ou mandataire de la Couronne pour des faits - actes ou omissions - survenus dans le cadre de ses fonctions.
+"
+Incompétence de la Cour fédérale
+"17(6) Elle n'a pas compétence dans les cas où une loi fédérale donne compétence à un tribunal constitué ou maintenu sous le régime d'une loi provinciale sans prévoir expressément la compétence de la Cour fédérale."
+The
+Crown Liability and Proceedings Act
+"
+Concurrent jurisdiction of provincial court
+"21(1) In all cases where a claim is made against the Crown, except where the Federal Court has exclusive jurisdiction with respect to it, the superior court of the province in which the claim arises has concurrent jurisdiction with respect to the subject-matter of the claim.
+"
+Where proceedings pending in Federal Court
+"21(2) No court in a province has jurisdiction to entertain any proceedings taken by a person if proceedings taken by that person in the Federal Court in respect of the same cause of action, whether taken before or after the proceedings are taken in the court, are pending."
+"
+Compétence concurrente des tribunaux provinciaux
+"21(1) Dans les cas de réclamation visant l'État pour lesquels la Cour fédérale n'a pas compétence exclusive, a compétence concurrente en la matière la cour supérieure de la province où survient la cause d'action.
+"
+Affaires pendantes devant la Cour fédérale
+"21(2) Aucun tribunal provincial n'est compétent pour connaître d'une poursuite si une autre, intentée pour le même fait générateur par la même personne - que ce soit avant ou après le début de la première -, est pendante devant la Cour fédérale."
+2. Parliament's intention in enacting s. 50.1
+[24]
+It is agreed that evidence of Parliament's intention in presenting Bill C-38 is found in
+Hansard
+for November 1, 1989:
+"
+FEDERAL COURT ACT
+MEASURE TO AMEND
+Hon. Doug Lewis (Minister of Justice and Attorney General of Canada): moved that Bill C-38, an act to amend the
+Federal Courts Act
+, the
+Crown Liability Act
+, the
+Supreme Court Act
+and other acts in consequence thereof, be read the second time and referred to a legislative committee.
+He said: Mr. Speaker, I want to say at the outset how pleased I am to have the opportunity to bring forward this bill which contains amendments principally to the
+Federal Courts Act
+and also to the
+Crown Liability Act
+. The over-all purpose of this legislation is to give the ordinary citizens who wish to sue the federal government easier access to the Canadian courts and to reduce or eliminate the legal barriers and the inequities that a citizen now faces in such litigation.
+First, I want to deal with the
+Federal Courts Act
+proposals. It has been almost 20 years since the Federal Court was established. It was established to replace the old Exchequer Court and, although much of the jurisdiction that was conferred on this new court reflected the jurisdiction of the predecessor, there was also quite a bit that was new in this legislation. For example, the Exchequer Court at that time, as it was constituted, was only a trial level court and appeals from the decisions of the Exchequer Court were made directly to the Supreme Court of Canada. The act in 1971 established a new Federal Court of Appeal to hear the appeals from the decisions of the Court's trial division.
+Second, the Federal Court was granted an entirely new jurisdiction to supervise or review the activities and decisions of federal boards and tribunals. Generally I think it is fair to say that the establishment of the Federal Court a generation ago can be characterized as a bold and far-sighted experiment in reforming the federal civil justice system on behalf of all Canadians. It has proven itself to be invaluable to the Canadian system of justice, and it serves a number of special purposes that provincial courts cannot adequately fulfil.
+First, the Federal Court is a Canada-wide court which has national jurisdiction. As a result it is not impeded by any territorial limitations on jurisdiction and on process to which the provincial courts are necessarily subject. The nation-wide quality of the Federal Court has proven essential for example in cases of admiralty and intellectual property, patents, copyright, trademarks and industrial design.
+Second, the Federal Court is a court with specialized knowledge in a few specific areas. These include the
+Income Tax Act
+and other federal revenue laws, intellectual property and admiralty law.
+The importance of the Federal Court to the Canadian legal system is evidenced by the fact that although the court and the provincial courts both have jurisdiction with respect to matters such as intellectual property and admiralty matters, most matters of this type are brought in the federal court.
+Third, the Federal Court helps to ensure that the federal tribunals operate effectively, efficiently, and fairly throughout Canada under federal legislation that applies uniformly across the entire country.
+I think it is appropriate at this time to pay tribute to the present Leader of the Opposition who as the Minister of Justice of the day in 1970 introduced legislation that established the court. Since that time there has been an opportunity for assessing the results of that experiment. I think it is fair to say that the Federal Court has proven to be an over-all success. But our assessment - and I think it is fair to say the assessment of the bar and others - has revealed a number of areas where improvements could be usefully made to the
+Federal Courts Act
+and the related legislation.
+Mr. Speaker, the major objectives of the proposals contained in this Bill are to facilitate access by individual Canadians to the federal civil justice system, to make that justice system fairer, to improve its efficiency and effectiveness and to improve service to the public provided by that system.
+The first objective is that the Federal Court in particular and the federal justice system in general should be accessible to the ordinary citizen.
+For example, a person should be able to sue the Crown in a suitably convenient court for breach of contract to purchase goods or for negligent driving by a Crown employee that causes injuries to another motorist. At the moment, such actions can only be brought in the Federal Court. However, it is not as available as provincial courts.
+The Federal Court, only has offices in the larger centres and judges of the Court, based as most of them are in the National Capital Region, are not as readily or as frequently available throughout Canada as are judges of provincial courts.
+Moreover, for both citizen and lawyer alike, provincial courts, including their procedures and personnel, are much more familiar.
+Therefore, the Federal Court is often not the most convenient one for the private litigant. With this in mind, the Government has proposed that both the provincial courts and the Federal Court share jurisdiction with respect to such actions, thereby generally giving the plaintiff a choice of forum.
+. . . . .
+A second objective in the amendments is fairness. Fairness, with the powerful voice of the
+Canadian Charter of Rights and Freedoms
+in support, strongly suggests that distinctions between litigants should be kept to a minimum and any that exist require a rational justification.
+To illustrate this point, I would point to the present legislation which confers a number of special privileges and immunities on the Crown that no longer have quite the same justification as they once did. Of particular interest are the special notice requirements when the Crown is sued, and the immunity of the Crown from paying prejudgment interest. The bill will remove or modify these specific privileges and, on doing so, continue the trend of placing the Crown on a footing of greater equality with the ordinary citizen.
+A third objective is to improve the efficiency and the effectiveness of the federal civil justice system. As I already mentioned, there is a confusing split in the supervisory jurisdiction of the trial division and the court of appeal. The bill clarifies exactly what remedies are available, on what grounds, and where a citizen goes to obtain them, thereby reducing confusion, needless delay, duplication and expense.
+A second area of inefficiency relates to the constitutional limitation on the federal court's jurisdiction in the field of Crown proceedings. The Crown can be sued but cannot sue in tort and contract in that court. The result has been that when an action is launched against the Crown in the federal court, the Crown must bring separate proceedings against the plaintiff or some other person in a provincial court. That is known as a counter-claim in third party proceedings. Remedies to eliminate this inefficient and wasteful method of disposing of Crown litigation is also addressed in the bill.
+The fourth objective is to improve more generally service to the public by the federal civil justice system. In support of the objective to improve access to the public, the government proposes in this bill to transfer to provincial courts full responsibility for compensation appeals under a number of agriculture statutes. In addition a number of provisions, which provide for an absolute bar to a suit against the Crown if certain notice requirements are not fulfilled, will be repealed.
+Moreover, the review of decisions and activities of federal administrative bodies will be conferred on the trial division rather than the Court of Appeal. Since matters at the trial division are reviewed by a single judge as compared to the three judges when an appeal is heard, litigants will have more flexibility and improved access to the court.
+This proposal will also enable members of the Appeal Court to devote more of their time to considering cases of broad public importance.
+Proceeding to the Bill itself, Mr. Speaker, and before giving detailed consideration to its provisions, I believe it may be useful to list, briefly and generally, the reforms the Bill contains.
+First of all, whereas at present ordinary common law and civil law actions for relief against the federal Crown can only be brought in the Federal Court, as mentioned earlier, under the Bill that jurisdiction will be shared with provincial courts.
+Second, an entirely new regime for supervising the validity and legality of the activities of the federal government it being established.
+Third, the provisions of the
+Federal Courts Act
+that govern appeals from the Federal Court to the Supreme Court of Canada are being transferred to the
+Supreme Court Act
+.
+In that way, appeals from provincial courts and the Federal Court to the Supreme Court of Canada will all be dealt with together in the same statute.
+Fourth, drawing on the experiences of some of the provinces, a representative rules committee composed of Federal Court judges and representatives of the legal profession and the Attorney General is being established to make the rules of the court.
+This Committee will include judges of the Federal Court, representatives of the legal profession and the Attorney General, who will work together to improve court proceedings.
+Fifth, modifications to some of the procedural advantages now enjoyed by the Crown are being made. These include the repeal of some of the special notice requirements in the
+Crown Liability Act
+and the imposition of responsibility on the Crown to pay prejudgment interest.
+Sixth, consequent upon the increased role of provincial courts in the area of Crown proceedings, it is necessary that there be legislation dealing generally with practice and procedure when the Crown is a party to litigation. At present such matters are duplicated by the
+Federal Courts Act
+and the
+Crown Liability Act
+simply because the latter is restricted in scope to actions against the Crown in tort, that is, civil wrongs of a non-contractual nature. All such provisions are being consolidated and are retitled
+Crown Liability and Proceedings Act
+. The
+Federal Courts Act
+itself will no longer provide specifically, as it does now, for such matters.
+Seventh, a few minor changes to the admiralty provisions of the
+Federal Courts Act
+are being made. The definition of 'ship' is being updated to bring it in conformity with recent changes to the meaning of that word in the
+Canada Shipping Act
+.
+As well, authority is being conferred on the Federal Court to improve the scope of remedies available to the owner of the ship which has suffered damage.
+That, in a nutshell, is what the bill proposes to do. In summary, this proposed legislation is going to improve access by Canadians to the courts. It is going introduce [sic] greater fairness into the federal civil justice system and will enhance the efficiency and the effectiveness of that system.
+We think that this measure is a step forward and will provide Canadians with a more rational, comprehensible and open process for litigating matters with the federal government.
+Consequently, I urge Members of this House to give this Bill their full support.
+Mr. Derek Lee (Scarborough - Rouge River):
+Mr. Speaker, I am delighted to have an opportunity today to speak to this badly needed and long awaited reform to the
+Federal Courts Act
+, the
+Crown Liability Act
+, the
+Supreme Court Act
+and several other federal statutes, generally all pertaining to the federal court procedures and technical requirements which our members of the public must follow or endure as they involves themselves [sic] in litigation or contest with the federal government or federal interests.
+. . . . .
+The reforms that have been proposed now are just not for lawyers, but they are for the public as well. They remove ambiguity, they broaden jurisdiction appropriately, they remove some technical limitations, and they streamline procedures. I know those are probably the words of the hon. minister and the government, but as a practicing solicitor prior to arriving here I concur that these technical changes are long overdue and they will produce real savings and efficiencies in the cost of litigation.
+Up to now it has been common to commence litigation by issuing a filing process in both the Federal Court and the superior court of the province. Not only was it a wasteful duplication, but it also required the lawyer and the support staff to devote resources to the avoidance of technical or other obstacles on both courts. There is a veritable mine field of obstacles out there from the legal point of view. That this relatively non-controversial set of reforms remained unrectified for so long is I think a bit of an embarrassment to this Parliament.
+. . . . .
+Mr. Svend J. Robinson (Burnaby- Kingsway):
+Mr. Speaker, I am pleased to rise to participate in this debate on the proposed amendments to the provisions of the various acts, both the
+Federal Courts Act
+and the
+Crown Liability Act
+dealing with the federal court.
+. . . . .
+Turning to the provisions of the
+Federal Courts Act
+and the
+Crown Liability Act
+, I note that Bill C-38 is legislation which represents the first major change to the
+Federal Courts Act
+and the
+Crown Liability Act
+since the
+Federal Courts Act
+was introduced in 1971. For those Canadians who are not familiar with the Federal Court, perhaps it is appropriate to comment briefly on the jurisdiction of that body.
+The Federal Court, which includes both the Trial Division and the Federal Court of Appeal, was established by Parliament in 1971 to deal with, among other things, lawsuits against the federal government, cases based wholly on federal law, patents and copyright for example, maritime law, interpretation of the
+Access to Information Act
+, the
+Privacy Act
+, and challenges to decisions by federal tribunals, the Tariff Board and the Pensions Appeal Board, for instance.
+. . . . .
+There have been a number of concerns arising about the jurisdiction of the Federal Court. It is an incredibly complicated area of law. A lawsuit, for example, which involves claims against both the federal government and private individuals, corporations or other governments can be very, very complicated. In some cases, such a lawsuit cannot be disposed of in one court alone. It actually has to be taken in a number of different courts.
+One example of this was the litigation that arose from the 1978 crash at the Cranbrook airport. In that instance, the plaintiff airline brought action against the federal Ministry of Transport, various Crown servants, the city of Cranbrook, various city employees and the manufacturers of the airplane and the plane's thrust reversers. The Trial Division of the Federal Court decided that while the Ministry of Transport had to be sued in Federal Court, ministry employees, like other defendants, had to be sued separately in the B.C. Supreme Court since their liability was governed by common law.
+There are many other examples of a similar nature of the confusion in jurisdiction between the Federal Court and provincial superior courts.
+. . . . .
+I referred earlier to the two main areas of confusion about the Federal Court, the distribution of jurisdiction between the Federal Court and the existing provincial superior courts and the division of responsibility between the Trial Division and the Federal Court of Appeal. I am not going to summarize the jurisdiction of the Federal Court at this time. That has been done by the minister in his comments. To the extent that Bill C-38 attempts to resolve some of the confusion, uncertainty and difficulty that has arisen with respect to jurisdiction, those are changes that we in general terms support.
+. . . . .
+I want to emphasize again that certainly in principle we support this legislation, and the changes that have been proposed in many instances are long overdue. The bill will introduce an element of equity and fairness into a system which is too often confusing and unfair. It is legislation that will require careful study in the legislative committee which has been appointed to consider it.
+. . . . .
+Ms. Mary Clancy (Halifax):
+Mr. Speaker, I rise today with some concerns regarding this bill, but in general, I can say it certainly is an idea whose time has come. In actual fact, its time had come a number of years ago.
+. . . . .
+In cases against the Crown, these changes will make it much easier for lawyers to take the proceedings before the superior court in their own provinces where they generally have more expertise. Ultimately this will benefit people who sue the Crown." (Emphasis added)
+3. Conclusion
+[25]
+From what was said by the Minister on the second reading of Bill C-38, as emphasized in the quotation from Hansard, Parliament's intention in passing s. 50.1 is clear: issues for determination in litigation against the Crown must not be allowed to be split between the Federal Court and Provincial courts. On this basis, I agree with Justice Hugessen's statement in Aussant that prohibiting this from happening by entering a stay is mandatory.
+[26]
+As a result, I find that Baptiste's interpretation of "desire" is not correct. By reading
+Charalambous
+and
+Aussant
+together, as described in Section II above, all that Canada is required to prove to have a stay issue is a bona fide intention. I am unable to find any support for Baptiste's argument for an expansion of this established criterion to include the application of a fuller measure of discretion for granting a stay under s. 50.1. In oral argument, Counsel for Baptiste made it clear that an element in its objection to the Motion is the concern to hold Canada responsible with respect to its sui generis relationship with the Aboriginal defendants. I understand this motivation, but find it does not affect the legal determination I have made.
+[27]
+As a result, I find that Canada's Motion does not lack a legal basis.
+[28]
+Since Canada has maintained its intention to claim against third parties since 1997, and since Canada continues to express this intention in the evidence in support of the Motion, I find there is ample evidence to prove that Canada has a bona fide desire to commence third-party proceedings in the Alberta Court of Queen's Bench, and, as a result, I find that there is no impediment to granting the stay requested, if s. 50.1 is found not to be unconstitutional.
+IV. Is s. 50.1 Unconstitutional?
+[29]
+The following statement constitutes Baptiste's "Notice" pursuant to s. 57 of the
+Federal Courts Act
+that the constitutional validity of s. 50.1 is in question in the determination of the Motion:
+"
+AND FURTHER TAKE NOTICE
+that the legal basis for the constitutional questions is as follows:
+Section 50.1 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7, as amended, is constitutionally invalid and inapplicable to the proceedings herein, on the grounds that follow.
+Section 50.1 of the
+Federal Courts Act
+purports to require the Federal Court to stay proceedings at the discretion of the Attorney-General of Canada. In so providing, the section violates the principles of the separation of powers, the independence and impartiality of the judiciary and of access to justice by litigants and particularly Aboriginal litigants raising claims against the Crown on the basis of constitutionalized Treaty and Aboriginal rights.
+These constitutional principles are foundational elements of the Constitution of Canada which are incorporated by reference in the Preamble of the
+Constitution Act, 1867
+, which makes reference to a constitution that is similar in principle to that of the United Kingdom. They are also specifically entrenched in the constitution in ss. 96 to 101 of the
+Constitution Act, 1867
+as well as ss. 7 and 15 of the
+Canadian Charter of Rights and Freedoms
+,
+Constitution Act, 1982
+.
+Section 50.1 of the
+Federal Courts Act
+is therefore contrary to the Preamble and ss. 96 and 101 of the
+Constitution Act, 1867
+as well as ss. 7 and 15 of the
+Canadian Charter of Rights and Freedoms
+and is of no force or effect pursuant to s. 52 of the
+Constitution Act, 1982
+.
+Section 50.1 of the
+Federal Courts Act
+purports to establish a procedure and limitations period that applies to parties to proceedings that were commenced in the Federal Court of Canada, stayed on application of the Attorney-General of Canada, and then possibly recommenced in a provincial court of competent jurisdiction. It is therefore ultra vires the legislative competence of the Parliament of Canada. In pith and substance, s. 50.1 of the
+Federal Courts Act
+is in respect to a matter falling within exclusive provincial jurisdiction under ss. 92(13) and (14) of the
+Constitution Act, 1867
+.
+Based on the foregoing and for further clarity, the Plaintiffs state that they challenge the constitutionality of the s. 50.1 of the
+Federal Courts Act
+on the following grounds:
+a) section 50.1 of the
+Federal Courts Act
+contravenes s. 101 of the
+Constitution Act, 1867
+. Inter alia, s. 50.1 is not founded on an existing body of federal law and is not a law of Canada within the meaning of s. 101 of the
+Constitution Act, 1867
+;
+b) section 50.1 of the
+Federal Courts Act
+is in pith and substance a matter falling within exclusive provincial jurisdiction under ss. 92(13) and 92(14) of the
+Constitution Act, 1867
+. In this regard, s. 50.1 provides for a procedure and for limitation periods governed exclusively by provincial law and interferes with the independence of the Superior Courts of the provinces;
+c) section 50.1 of the
+Federal Courts Act
+violates the constitutional principle of the separation of powers;
+d) section 50.1 of the
+Federal Courts Act
+violates s. 52 of the
+Constitution Act, 1982
+by effectively reintroducing Crown immunity from suit at the desire of the Crown;
+e) section 50.1 of the
+Federal Courts Act
+contravenes the independence and impartiality of the judiciary;
+f) section 50.1 of the
+Federal Courts Act
+contravenes ss. 96 to 101 of the
+Constitution Act, 1867
+in respect to the powers and functions of Superior Court judges;
+g) section 50.1 of the
+Federal Courts Act
+contravenes the constitutional principle of access to justice and to the Courts by litigants;
+h) section 50.1 of the
+Federal Courts Act
+contravenes the access to the Courts of Aboriginal litigants with claims against the Crown on the basis of constitutionalized treaty and aboriginal rights and constitutionalized treaty, trust and fiduciary obligations of the Crown;
+i) section 50.1 of the
+Federal Courts Act
+contravenes the constitutional principle of natural justice and equality;
+j) section 50.1 of the
+Federal Courts Act
+contravenes the Preamble of the
+Constitution Act, 1867
+and the underlying values of the Constitution of Canada, including minority rights;
+k) section 50.1 of the
+Federal Courts Act
+contravenes s. 15 of the
+Canadian Charter of Rights and Freedoms
+;
+l) section 50.1 of the
+Federal Courts Act
+contravenes s. 24 of the
+Canadian Charter of Rights and Freedoms
+."
+[30]
+The arguments advanced by Baptiste on the basis of the Notice are consolidated into three questions for determination:
+A. Is s. 50.1 of the
+Federal Courts Act
+ultra vires?
+B. Does s. 50.1 offend the constitutional principles of separation of powers, judicial independence, and judicial impartiality?
+C. Does s. 50.1 offend access to justice?
+During the course of the oral hearing of the Motion, Counsel for Baptiste confirmed that questions relating to s. 7, s. 15, and s. 24 of the
+Charter
+are not being advanced in the present response to the Motion.
+A. Is s. 50.1 of the Federal Courts Act ultra vires?
+[31]
+It is agreed that the test to be applied in answering this question is expressed in
+City National Leasing Ltd. v. General Motors of Canada Ltd
+., [1989] 1 S.C.R. 641; 93 N.R. 326; 32 O.A.C. 332, as follows:
+(1) Does the impugned provision intrude into the provincial head of power, and to what extent?
+(2) If the impugned provision intrudes into a provincial head of power, is it nevertheless part of a valid federal legislative scheme?
+(3) If the impugned provision is part of a valid federal legislative scheme, is it sufficiently integrated with the scheme?
+[32]
+In determining whether a provision is ultra vires, the Supreme Court of Canada has expressed that some caution is required; for example, in
+Reference Re Industrial Relations and Disputes Investigation Act (Canada)
+, [1955] S.C.R. 529, at paragraph 161:
+"It is, I think, axiomatic that if words in a statute of Parliament (or of a legislature) are fairly susceptible of two constructions of which one will result in the statute being intra vires and the other will have the contrary result the former is to be adopted."
+And in
+General Motors
+, Chief Justice Dickson at paragraph 45 says the following:
+"In determining the proper test it should be remembered that in a federal system it is inevitable that, in pursuing valid objectives, the legislation of each level of government will impact occasionally on the sphere of power of the other level of government; overlap of legislation is to be expected and accommodated in a federal state. Thus a certain degree of judicial restraint in proposing strict tests which will result in striking down such legislation is appropriate."
+1. Does the impugned provision intrude into the provincial head of power, and to what extent?
+[33]
+Baptiste argues that s. 50.1 is wholly within Provincial constitutional authority. The focus in making this argument is s. 50.1(3). It is agreed that two questions must be answered with respect to s. 50.1
+a. "the pith and substance"
+[34]
+In applying this first element of the test, the initial task is to determine the "pith and substance" of s. 50.1, considering the purpose of Parliament with reference to intrinsic and extrinsic evidence, and the legal effects and the practical effects of the application of the provision (
+Kitkatla Indian Band et al. v. British Columbia (Minister of Small Business, Tourism and Culture) et al.
+, [2002] 2 S.C.R. 146; 286 N.R. 131; 165 B.C.A.C. 1; 270 W.A.C. 1, paragraphs 52-54).
+[35]
+Baptiste argues that s. 50.1 provides for a procedure, and for limitation periods, governed exclusively by Provincial law, and thereby, interferes with the independence of Provincial superior courts.
+[36]
+With respect to s. 50.1(2), Baptiste's argument is that this subsection is within Provincial authority because it purports to say that a litigant "may" commence an action in a Provincial court. As the argument goes, to say that a litigant is provided, by a provision, with permission to commence an action in a Province is to say that the provision is within the legislative authority of the Province, specifically with respect to property and civil rights. I do not accept this argument because I find that it disregards the Federal scheme presented by s. 50.1 considered in its entirety; that is, s. 50.1(2) and (3) do not grant permission to commence an action, they provide an option to preserve the action stayed by bringing it in a Province free from limitation problems.
+[37]
+Baptiste also relies on Justice Pinard's decision in
+Bastien
+to advance the argument that, once an action is commenced, substantive rights are created and the granting of a stay under s. 50.1 impinges upon these rights. However, I find that, as
+Bastien
+dealt with a unique transition from one legal regime to another, the decision is distinguishable from the situation in the present case. It is apparent that Justice Pinard's finding that the plaintiff's vested, and, therefore, substantive rights were negatively impacted by s. 50.1 is based on the fact that the action was commenced ten years before s. 50.1 was enacted. Since, in the present case, s. 50.1 was already law when Baptiste commenced the present Action, I find that the ratio in
+Bastien
+does not apply.
+[38]
+However, Baptiste's principal argument is with respect to a precise focus on s. 50.1(3); Baptiste argues that this subsection is substantive and within Provincial jurisdiction as follows:
+"154. Section 50.1(3) provides for a deemed date of the commencement of legal proceedings in a provincial court following the stay of proceedings in the Federal Court pursuant to subsection 50.1(1) of the
+Federal Courts Act
+.
+"155. The application of the provision is subject to the condition that the proceedings in the provincial court be commenced within 100 days of the stay of proceedings in the Federal Court.
+"156. The apparent purpose of the provision is to force a plaintiff pursuing a claim against the Crown to choose, should the Attorney-General opt to bring third party proceedings that are beyond the jurisdiction of the Court, between a recourse in a provincial court or no recourse at all, but nevertheless to protect a claimant that has brought suit against the federal Crown within an applicable limitation period from losing the benefit of the interruption of the running of time.
+"157. Section 50.1 attempts to achieve the constitutionally delicate task of transferring a suit from a court that is within exclusive federal legislative jurisdiction under s. 101, to a court that is within exclusive provincial jurisdiction under s. 92(14) with a minimum of prejudice to the interests of litigants.
+"158. Unfortunately, the provision has far more than an 'incidental effect' on matters that are within exclusive provincial jurisdiction pursuant to s. 92(13) and (14) of the
+Constitution Act, 1867
+.
+"159. The language of s. 50.1(3) is broad. It provides that 'the claim against the Crown in the recommenced proceedings shall, for the purposes of
+any
+laws relating to prescription and the limitations of actions, be deemed to have been instituted on the day the proceedings in the Court were instituted'.
+"160. The expression 'for the purposes of any laws relating to prescription and the limitations of actions' would be, on its face, applicable to a limitations provision governing the time during which a third party can be sued by a party pursuant to provincial legislation respecting contribution between tort-feasors or any other relevant statute or rule of common law.
+"161. In French, the text provides: 'Pour l'application des règles de droit en matière de prescription dans le cadre des procédures reprises conformément au paragraphe (2), est reputée être la date de l'introduction de l'action celle de son introduction devant la Cour [...].'
+"162. The French text makes no distinction between the claim against the Crown and any proceedings the Crown may institute by way of third party proceedings. The use of the phrase 'dans le cadre des procédures reprises' is broad enough to sweep all of the claims, counterclaims and third party claims in a particular action into the scope of application of s. 50.1(3). The phrase 'l'introduction de l'action' is equally broad.
+"163. Subsection 50.1(3), if given an interpretation that is consistent with the broad language employed therein, would be applicable to claims against the Crown as well as to claims by the Crown against various parties.
+"164. For the purpose of limitations, it would determine the date of interruption of the running of time in the action by a plaintiff as against the Crown. By providing for the deemed date on which an action is commenced, it permits a plaintiff to bring a claim with respect to activities which would otherwise be statute-barred by the relevant provincial legislation. Moreover, by this latter device, it allows the Crown to revive the liability of third parties for contribution.
+"165. However, it is clear that the liability to contribute is, in substantive terms, frequently founded upon a liability as between the third party and the plaintiff.
+Dean v. Kociniak
+, 2001 CarswellAlta 709 (Alta. Q.B.). Tab B84.
+Glanville Williams,
+Joint Torts and Contributory Negligence
+(London: Stevens, 1951). Tab B85
+"166. An action for contribution is a derivative action. The defendant can invoke against the third party only the claim that the plaintiff might have brought but did not bring. To the extent that the third party is immune from suit by the plaintiff, a defendant has no suit against that third party for contribution.
+Canada Deposit Insurance Corp. v. Prisco
+, 1996 Carswell Alta 237 (Alta C.A.). Tab B86
+"167.
+In pith and substance, s. 50.1 is addressed broadly to the matter of prescription and limitations of rights of action.
+" (Emphasis added) (Respondent's Written Representations)
+[39]
+In response, Canada argues that the purpose and legal effect of s. 50.1 is only procedural in nature:
+"74. The legal effect of s. 50.1, on the parties involved, is that proceedings are simplified and costs are kept to a minimum. For example, the parties appear before one court, presenting one case, with no duplication of evidence. Further, the parties have the benefit of having a full and fair hearing because all of the evidence is presented before one court, which also eliminates the possibility of inconsistent findings. Section 50.1 does not affect the substantive rights of the parties; rather, it simply ensures that proceedings take place before the proper court.
+"75. Broadly speaking, the legal effect of s. 50.1 on the public at large, such as taxpayers, is the more efficient administration of justice both from a costs and procedural perspective.
+"76. The overall effects of s. 50.1 indicate that its core is to promote efficiency and effectiveness in court proceedings. The provision is procedural, not substantive, in nature.
+House of Common Debates (Hansard)
+. Tab 3-a
+"77. The one hundred days provided under s. 50.1(3) to move the matter to a provincial superior court, is an administrative tool that affects the rules of procedure, which provides the parties with sufficient time to file their pleadings in a provincial superior court of competent jurisdiction.
+"78. Any other additional time, for example, the six months provided in the Alberta
+Rules of Court
+to file third party proceedings, on its face, appears to affect provincial limitation periods. However, typically, third party proceedings are not subject to a specified limitation period. Most provincial limitations legislation provides either a general bar to the limitations defence or is silent on this issue; a few provinces provide a bar to specific causes of action but are otherwise silent:
+Provinces with general bars to limitations defence:
+British Columbia,
+Limitation Act
+, R.S.B.C. 1996, c. 266, s. 4; Alberta,
+Limitations Act
+, R.SA. 2000, c. L -12, s. 6; Saskatchewan, the
+Limitations Act
+, S.S. 2004, c. L -16.1, s. 14; Ontario,
+Limitations Act
+, 2002, c. 24, Schedule B, s. 18; Nova Scotia,
+Limitation of Actions Act
+, R.S.N.S. 1989, c. 258, s. 3(2); Newfoundland,
+Limitations Act
+, S.N.L. 1995, c. L-16.1
+Provinces that are silent to limitations defence:
+Prince Edward of Island,
+Statute of Limitations
+, R.S.P.E.I. 1988, c. S-7; Yukon
+Limitation of Actions Act
+, R.S.Y. 2002, c. 139; Northwest Territories,
+Limitation of Actions Act
+, R.S.N.W.T. 1988, c. L-8; Nunavut,
+Limitation of Actions Act
+, R.S.N.W.T. 1988, c. L-8;
+Provinces with bars to limitations defence for specific causes of action:
+Manitoba, the
+Limitation of Actions Act
+, C.C.S.M., c. L.150; Quebec,
+Civil Code of Quebec
+, S.Q., 1991, c. 64; New Brunswick,
+Limitation of Actions Act
+, R.S.N.B. 1973, c. L-8. Tabs 1 a-m
+"79. For the reasons stated above, s. 50.1 (3) does not substantively affect provincial limitation periods; the provision simply provides the parties sufficient time to prepare the appropriate pleadings in order to move the proceedings to a provincial superior court. In other words, where a plaintiff's original statement of claim is filed within the applicable limitation period, the 'deemed date' merely preserves a plaintiff's right to a cause of action. Thus, if there is any effect at all, it is merely incidental."
+(Reply of the Applicant)
+[40]
+I agree with Canada's argument that s. 50.1 is procedural.
+[41]
+The word "proceedings" in s. 50.1(1) refers to the claim against the Crown. Therefore, the use of the word in subss. (2) and (3) has the same meaning. There is no argument that, prior to s. 50.1 being applied, the claim in the present case falls within Federal authority, independent of Provincial authority. Therefore, in my opinion, providing the option to move the claim to the Alberta Court of Queen's Bench pursuant to s. 50.1(2) is also within this Federal authority, and so is the provision in s. 50.1(3) that the date of the institution of the claim does not change if it is moved.
+[42]
+With respect to the limitation issue, I find that Provincial limitation legislation does not apply to the recommencement of the claim. Since the filing of the claim in Alberta is according to Federal authority, and not Provincial authority, the Federal authority is at liberty to state that, to protect a plaintiff's interests, the date of instituting the claim does not change by the fact that the claim has been moved. Once the "proceedings", that is, the claim, is moved to Alberta, and the Crown institutes third-party proceedings, the claim and the third-party proceedings are governed by the Alberta Court of Queen's Bench.
+[43]
+Hansard
+proves that the purpose of s. 50.1, as an element of a large scale law reform initiative, is to consolidate diverse jurisdictional litigation elements in an action in one jurisdiction, for the convenience and benefit of both parties to the action. Thus, on the basis that the substance of an action will not fundamentally change when it is "recommenced", which is the apparent intention expressed in s. 50.1(2), I find that the effect of moving an action from this Court to a Provincial court does not produce a substantive change.
+b. the head of authority
+[44]
+Canada argues that Parliament's constitutional authority to enact s. 50.1 exists in two provisions: s. 91, being the power to make laws for the peace, order, and good government of Canada, in relation to all matters not coming within the classes of subjects assigned exclusively to the Legislatures of the Provinces; and s. 101, being the power to establish Courts, in addition to the Supreme Court of Canada, for the better administration of the laws of Canada.
+[45]
+I agree with Canada's argument.
+[46]
+I find that Parliament has the authority to enact s. 50.1 under either s. 91 or s. 101. In my opinion, in enacting s. 50.1, Parliament does not intrude on Provincial authority, in particular, the authority over limitation of actions. Parliament's authority to establish concurrent jurisdiction between the Federal Court and Provincial courts is not contested. It seems to me that this authority must include the power to make the concurrent jurisdiction operationally efficient. On this basis, Parliament must have the authority to consolidate diverse jurisdictional litigation elements within a concurrent jurisdictional frame of reference. That is, Parliament's operation within this frame of reference does not infringe on a Province's authority over property and civil rights features of litigation, including the limitation of actions, it adds to the efficiency of the disposition of litigation. In my opinion, the substance of s. 50.1(3) is nothing more than a necessary feature of obtaining this result.
+[47]
+Therefore, as I find no intrusion into Provincial authority by the enactment of s. 50.1, I find that s. 50.1 is not ultra vires.
+B. Does s. 50.1 offend the constitutional principles of separation of powers, judicial independence, and judicial impartiality?
+[48]
+There is no debate about the principles governing the scope of judicial decision-making as follows:
+"31. Parliament has the authority to enact any law within its jurisdiction:
+... it is Parliament and the legislatures, not the courts, that have ultimate constitutional authority to draw the boundaries. It is the prerogative of a sovereign Parliament to make its intention known as to the role the courts are to play in interpreting, applying and enforcing its statutes. While the courts must determine the meaning of statutory provisions, they do so in the name of seeking out the intention or sovereign will of Parliament, however purposively, contextually or policy-oriented may be the interpretive methods used to attribute such meaning.
+Canada (Auditor General) v. Canada (Minister of Energy, Mines and Resources) ('Auditor General')
+, [1989] 2 S.C.R. 49, at para. 51. Tab 2- d
+. . . . .
+"46. Regardless, the principle of judicial independence must be balanced with the principle of parliamentary sovereignty:
+'The question is not whether the
+Act
+'s rules are unfair or illogical.
+'The
+primary role of the judiciary is to interpret and apply the law
+, whether procedural or substantive, to the cases brought before it. It is to hear and weigh, in accordance with the law, evidence that is relevant to the legal issues confronted by it and to award the parties before it the available remedies.
+'It follows that
+the judiciary's role is not ... to apply only the law of which it approves
+. Nor is it to decide cases with a view simply to what the judiciary (rather than the law) deems fair or pertinent.
+Nor is it to second-guess the law reform undertaken by legislators, whether that reform consists of a new cause of action or procedural rules
+to govern it.' [Emphasis added.]
+Imperial Tobacco
+, supra, at paras. 49, 50, 52. Tab 2 -c.
+Babcock
+, supra, at para. 55 Tab 2 -b"
+(Reply of the Applicant)
+[49]
+However, Baptiste maintains that s. 50.1 infringes upon an "inherent" or "implied" power that a Judge of the Federal Court possesses to decide in the interests of justice within the recognized scope of authority. It is argued that this power exists by virtue of an appointment pursuant to s. 101 of the
+Constitution
+. The details of this argument are provided as follows:
+"94. Subsection 50.1(1) provides: 'the Court shall, on application of the Attorney-General of Canada, stay proceedings in any cause or matter in respect of a claim against the Crown where the Crown desires to institute a counter-claim or third party proceedings in respect of which the Court lack jurisdiction.'
+"95. This provision juxtaposes the use of mandatory language with respect to the issuance of a stay ('shall') with the use of discretionary language with respect to the Crown application ('desires to institute a counter-claim or third party proceedings in respect of which the Court lack jurisdiction').
+"96. This provision has been interpreted by the Federal Court as permitting the Court to rely on a thin evidentiary record that the Crown generates as a basis for determining the constitutional and statutory jurisdiction of the Court over a claim.
+Charalambous v. Canada
+(April 29, 2004) T-1715-03 (F.C.), per Dawson, J. Applicant's Motion Record, Tab 4
+"97. If the Court determines that it does not have jurisdiction on the basis of this evidentiary record, it issues a binding order that effectively terminates the Plaintiffs' proceedings in the Federal Court.
+Charalambous v. Canada
+(April 29, 2004) T-1715-03 (F.C.), per Dawson, J. Applicant's Motion Record, Tab 4
+"98. This gives the Crown an unconstitutional measure of control over the determination by the Court of its jurisdiction.
+"99. It also requires the Court to issue an enforceable order on the basis of what amounts to an opinion respecting hypothetical proceedings.
+"100. A core adjudicative power, the power to hear and decide an action in [the interests of] justice, is subject to the Crown's 'desire'.
+"101. Section 50.1 of the
+Federal Courts Act
+allows the Crown to usurp a fundamental power of a court to stay proceedings in the interests of justice.
+Federal Courts Act
+, R.S.C. 1985, c. F-7, s. 50. Tab A1.
+Canada v. Tobiass
+, 1997 Carswell Nat 1385 (S.C.C.). Tab B52.
+Canada v. Tobiass
+, 1997 Carswell Nat 211 (F.C.A.). Tab B53
+. . . . .
+"104. The essence of the principle is that core constitutional functions are attributed to three distinct powers, that is, the legislative, executive and judicial powers. The core constitutional functions of each power are protected from interference by the other powers.
+"105. It is not disputed here that Parliament has the power to confer functions on the judiciary which go beyond its core adjudicative functions. The Supreme Court of Canada has said as much in respect to the jurisdiction of the Supreme Court to provide an advisory opinion. This jurisdiction is not contrary to the doctrine of the separation of powers.
+Re Secession of Québec, 1998
+"106. Nor is it disputed that Parliament and the provincial legislatures have a limited constitutional power to deprive a court of jurisdiction through the use of privative clauses, whether it be a statutory court or a provincial superior court.
+"107. Nevertheless, neither Parliament nor the provincial legislatures have the power to divest a provincial superior court of its core jurisdiction.
+Canada Labour Relations Board v. Paul L'Anglais Inc.
+, 1983 CarswellQue 101 (S.C.C.). Tab B58.
+Canada (Attorney General) v. Law Society of British Columbia
+, 1982 CarswellBC 133 (S.C.C.). Tab B59
+"108. It is submitted that Parliament cannot divest a s. 101 court of its core jurisdiction, or attribute functions to a s. 101 court that conflict with its core jurisdiction or which undermine the independence of that Court.
+. . . . .
+"117. However, a provision that allows the Attorney-General to issue a directive to a court with respect to the conduct of its action, based on a 'desire' of the Crown to bring action in a different court, is inconsistent with s. 101 which mandates that the 'court' which is established be fully independent of the executive branch of government.
+. . . . .
+"121. The Crown cannot determine or dictate the constitutional limits of the jurisdiction of the Federal Court of Canada. It is within the exclusive powers of the judiciary to determine the constitutional limits of the jurisdiction of a court, based on the constitutional principle of the separation of powers and other applicable provisions of the constitution and of constitutive statutes.
+"122. For this reason, the Federal Court cannot determine the constitutional or statutory limits of its jurisdiction purely on the basis of a meager evidentiary record that is generated wholly by the Crown.
+"123. It is submitted that the Attorney-General of Canada cannot place draft pleadings before the Federal Court for a determination of the Court's jurisdiction over hypothetical parties that might be brought before the Court on the basis of such pleadings.
+"124. It is true that the jurisdiction of the Federal Court has been so frequently litigated that questions respecting the potential jurisdiction of the Court over a hypothetical third party appear mundane and perhaps obvious. However, the Court cannot determine its constitutional jurisdiction over a hypothetical party on the basis of a proposed course of action by the Crown.
+"125. Section 50.1 permits the Crown to interfere with the core jurisdiction of the Federal Court, which is to adjudicate the rights and obligations of the parties that are properly before it, and to stay the course of proceedings only in the interests of justice. Section 50.1 therefore breaches the constitutional principle of the separation of powers and undermines the public confidence in the independence of the Federal Court. For that reason, s. 50.1 is of no force or effect." (Respondent's Written Representations)
+[50]
+In response, Canada argues that unwritten constitutional principles such as those cited are not a basis upon which to find legislation is invalid. I find I do not need to determine the correctness of this argument because of a flaw in Baptiste's argument concerning the principles.
+[51]
+In my opinion, in both written and oral argument, Baptiste has not provided sufficient statutory or constitutional authority to establish the existence of an inherent or implied "core adjudicative power", which cannot be curtailed by Parliament, available to Judges of this statutory Court to decide in the "interests of justice". In particular, I find that the decisions cited in Baptiste's written argument in support of the proposition being maintained are not on point:
+Tobiass
+decided that the Federal Court of Appeal had jurisdiction to act on the appeal of a stay granted under s. 50 of the then
+Federal Court Act
+;
+L'Anglais
+decided that Parliament lacks jurisdiction to exclude the superintending and reforming power of the Superior Court of Quebec by application of s. 18 of the then
+Federal Court Act
+;
+Canada (Attorney General) v. Law Society of British Columbia
+decided that, although Parliament might establish a court for the better administration of the laws of Canada, it lacks the constitutional authority to strip the Provincial superior courts of the power to declare a federal statute beyond Parliament's competence; and in
+Rifou
+, Justice Mahoney passed the comment cited in Baptiste's argument at paragraph 118, only with respect to his view that it is inappropriate for Parliament to assign federal administrative tribunals jurisdiction traditionally exercised by judges appointed under s. 96 of the
+Constitution
+.
+[52]
+As I cannot find a core adjudicative power exists, I cannot find that s. 50.1 acts to usurp "a fundamental power of the Court to stay proceedings in the interests of justice" or, put another way, to "divest" the Court of its "core jurisdiction".
+[53]
+Whether by a Judge deciding on evidence and argument pursuant to s. 50.1 that the Court lacks jurisdiction over third-party proceedings, or being told by the Federal Court of Appeal that it does not have such jurisdiction, Judges of the Court are bound to follow the will of Parliament and to order a stay. In my opinion, following the will of Parliament as expressed in s. 50.1 is not an affront to the principles of separation, independence, or impartiality. I cannot find that the fact that the power to decide in the interests of justice does not exist when applying s. 50.1, whereas it does exist when applying s. 50, constitutes an usurpation or divesting of jurisdiction, or interference with the authority to adjudicate. It is simply a limit on jurisdiction placed within the authority of Parliament.
+[54]
+With respect to Baptiste's argument that s. 50.1 offends the Court's institutional independence and the Judge's impartiality, the same test is to be applied:
+"... the apprehension of bias must be a reasonable one, held by
+reasonable and right minded persons
+, applying themselves to the question and obtaining thereon the required information. In the words of the Court of Appeal, that test is 'what would an
+informed person
+, viewing the matter realistically and practically - and having thought the matter through - conclude.'" (
+Lippé et autres v. Québec (Procureur général) et autres
+, [1991] 2 S.C.R. 114; 128 N.R. 1; 39 Q.A.C. 241, at para. 57.)
+In my opinion, reasonable and right minded informed persons would understand that independence and impartiality are not compromised by following the dictates of s. 50.1 because its purpose is understandable as being sound.
+[55]
+In the result, I agree with Canada's answer to the question; the constitutional principles of separation of powers, judicial independence, and judicial impartiality are not offended by s. 50.1.
+C. Does s. 50.1 offend access to justice?
+[56]
+Baptiste argues that the provision denies the right of litigants to have their case heard by any Court of their choosing, and on this basis, advances the following argument:
+"147. The principle of access to justice and the courts is a constitutional principle that has been recognized by the Supreme Court of Canada.
+B.C.G.E.U. v. British Columbia (Attorney General)
+, 1988 Carswell BC 363 (S.C.C.). Tab B80.
+"148. Dickson, C.J., writes: 'We have no doubt that the right to access to the courts is under the rule of law one of the foundational pillars protecting the rights and freedoms of our citizens.'
+B.C.G.E.U. v. British Columbia (Attorney General)
+, 1988 Carswell BC 363 (S.C.C.), at para. 32. Tab B80.
+"149. Access to justice also has an institutional dimension which can result from a statutory regime that restricts the rights of litigants in their choice of courts.
+John Carten Personal Law Corp. v. British Columbia
+, 1997 Carswell BC 2290 (B.C. C.A.), per McEachern, J., dissenting. Tab B81.
+"150. The Federal Court has the statutory jurisdiction to hear the proceedings herein. This jurisdiction is consistent with s. 101 of the
+Constitution Act, 1867
+. The Federal Court is established for the 'better administration of the laws of Canada'. By establishing a s. 101 court, it is incumbent on Parliament to ensure that access to that Court be universal and based purely on the jurisdiction attributed to that Court by statute. This is what the constitutional principle of access to justice requires.
+"151. Because it allows the Crown to employ a discretionary procedural device to bar access to specific litigants on a discretionary basis, s. 50.1 is unconstitutional."
+(Respondent's Written Representations)
+[57]
+Canada correctly points out that the Supreme Court of Canada in
+B.C.G.E.U.
+has, thus far, restricted the principle of access to justice to physical access to a court premises. And even though it was mentioned in argument that this principle has been extended by the British Columbia Court of Appeal's decision in
+Christie v. British Columbia (Attorney General) et al.
+, [2005] B.C.J. No. 2745; 220 B.C.A.C. 165; 362 W.A.C. 165 (C.A.), to include access to competent legal representation as an element of access to justice, I find that both cases are irrelevant to Baptiste's argument.
+[58]
+Baptiste argues that every Canadian citizen has a fundamental right to a judicial hearing in order to obtain protection of his or her constitutional rights, and unless the action advanced is vexatious, futile or dilatory, a citizen has a right to obtain a decision respecting the action (
+McKenzie v. Quebec
+, [1998] 3 C.N.L.R. 112 (Que. C.A.)). There is no debate about this principle. The debate with respect to the Motion arises from a different concern; it is not about whether Baptiste will have a judicial hearing, it is about which Court will conduct the hearing. Baptiste objects to the application of s. 50.1 because it will result in moving the Action from this Court to the Alberta Court of Queen's Bench. I do not find that this result is a denial of access to justice. It is a denial of Baptiste's wish, but according to law.
+[59]
+I agree with Canada that the procedure set in s. 50.1 does not offend Baptiste's access to justice.
+[60]
+Therefore I find that s. 50.1 is not unconstitutional.
+IV. Other Considerations
+A. Baptiste's Aboriginal and Treaty Rights
+[61]
+As these considerations expressed in the Notice were not argued, as is the case with the
+Charter
+issues, I consider them as not being advanced in the present response to the Motion.
+B. Abuse of process
+[62]
+Threaded through Baptiste's arguments are concerns that, in some way, the passage of s. 50.1 was intended to make Canada immune from liability, and also Canada is able to misuse the provision to gain a stay much to its advantage and the disadvantage of defendants to an action. There is no evidence to substantiate these concerns.
+[63]
+In any event, before a stay of an action can be entered on the Crown's motion following a determination that the Court lacks jurisdiction over the third-party proceedings, the intention of the Crown to institute the proceedings in a Provincial jurisdiction must be proved to be bona fide. If evidence exists to prove an abuse of process, the Court can deal with it by denying the motion for a stay.
+[64]
+I can understand how Baptiste feels that a stay being ordered pursuant to s. 50.1 on Canada's motion is unfair; it will require a recommencement of the action in Alberta for Baptiste to obtain justice which might be inhibited by cost, not to mention the time and resources that will have been wasted in bringing the Action this far. Baptiste also argues that the unfairness is compounded by the fact that the delay and cost will be at the instance of the fiduciary to the plaintiff Aboriginal People. However, I am unable to find that Canada does not have the legislative authority to cause this result.
+C. Conflict between s. 50.1 and s. 21(2) of the Crown Liability and Proceedings Act
+[65]
+In the course of oral argument, Counsel for Baptiste argued that, by virtue of s. 21(2) of the
+Crown Liability and Proceedings Act
+, a stay should not be granted because Baptiste would be prohibited from recommencing the Action in the Court of Queen's Bench of Alberta. The argument depends on the meaning of the word "pending" in s. 21(2).
+[66]
+Baptiste argues that a stay does not make a proceeding "not pending". It is important to note that there is no statutory provision allowing for the ordering of a partial stay, or for the lifting of a stay once ordered so as to breathe life into the action originally filed but stayed. Therefore, I find that, once a stay is ordered pursuant to s. 50.1, the action before the Court is effectively "dead"; that is, a stayed proceeding cannot be found to be "pending". Thus, I find that no conflict exists between s. 50.1 and s. 21(2).
+D. Costs
+[67]
+Baptiste argues that if Canada is successful on the Motion that, nevertheless, it should be awarded costs given the significant expense incurred in the prosecution of the Action to date will effectively be thrown away. As I stated during the course of the hearing, to give proper consideration to this issue, it will be the subject of separate argument following the decision on the substance of the Motion.
+ORDER
+[68]
+For the reasons provided, the Motion is granted, and, thereby, the present Action is stayed pursuant to s. 50.1(1) of the
+Federal Courts Act
+.
+[69]
+The issue of the award of costs on the Motion is reserved, and to be determined on argument to be presented as directed.
+Motion granted.
+Editor: Elizabeth M.A. Turgeon/gs
+[End of document]

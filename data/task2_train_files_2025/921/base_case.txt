@@ -1,0 +1,71 @@
+Igbinevbo v. Can. (M.C.I.), [2005] F.T.R. Uned. B64 (FC)
+MLB unedited judgment
+Rosemary Igbinevbo and Osarugue Igbinevbo, Osamudiamen Igbinevbo, Aisosa Igbinevbo and Ikponvbosa Igbinevbo, by their litigation guardian Rosemary Igbinevbo (applicants) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-10423-04; 2005 FC 1729)
+Indexed As: Igbinevbo v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2005] F.T.R. Uned. B64
+Federal Court
+von Finckenstein, J.
+December 20, 2005.
+Counsel:
+Ronald Poulton, for the applicants;
+Catherine Vasilaros, for the respondent.
+Solicitors of Record:
+Mamann & Associates, Toronto, Ontario, for the applicants;
+John H. Sims, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+von Finckenstein, J.
+: The Applicant and her four children left Nigeria in order to escape from being targeted by her husband's family, who believe in pagan rituals. They wanted the Applicant's daughter to undergo female genital mutilation and their son to undergo other abhorrent rituals for males. After suffering persecution from his family and unsuccessfully trying to find refuge in the city of Benim the Applicant and children fled to Canada but the husband stayed behind in Nigeria as he did not have the means for travel.
+[2]
+The Board found the Applicant's story not credible and implausible for several reasons. It also found she had an Internal Flight Alternative (IFA) in Lagos. Unfortunately, there is no transcript of the Board's hearing due to technical malfunction.
+[3]
+There is no question that the standard of review for credibility findings is patently unreasonable (Aguebor v. Canada (Minister of Employment and Immigration) (1993), 160 N.R. 315) and with respect to IFA's is also patently unreasonable. FRAGMENT_SUPPRESSED, 2005 FC 1413. Gil v. Canada (Minister of Citizenship and Immigration),2005 FC 1418.
+[4]
+The Applicant seeks judicial review of the decision rasing 3 issues:
+i) Does the lack of a Tribunal transcript constitute a breach of fairness or natural justice?
+ii) Was the decision patently unreasonable?
+iii) Was there a valid IFA?
+[5]
+I will address the last question first as the existence of a valid IFA renders the other issues nugatory.
+[6]
+The unavailability of a transcript does not automatically result in a reversal of the decision. As Lutfy A.C.J. (as he then was) stated in Zheng v. Canada (M.C.I.), [2000] F.C.J. No. 2002 at para 4:
+4 Even where there exists a statutory right to a recording of a tribunal hearing, the applicant must show a "serious possibility" of an error concerning which the absence of a transcript effectively removes the right of judicial review: Canadian Union of Public Employees, Local 302 v. Montreal (City).
+5 Neither the Immigration Act nor the Convention Refugee Determination Division Rules requires the recording of the refugee hearing. In the absence of a statutory right to a recording, the Court must determine whether the available record, including affidavit evidence concerning the hearing, allows a proper disposition of the application for judicial review. [footnotes deleted]
+[7]
+Although there is no transcript of the Board's proceedings in this case the Applicant's position regarding a possible IFA is known as she states in her affidavit:
+The Board has stated that I ought to have moved to Lagos in order to be safe. The Board does not record what I had said about Lagos, namely that I knew no one in that city and thus since the family had found us in Benin we believed they would find us in Lagos.
+(Applicant's Record, page 19, para. o)
+[8]
+The Board gave three reasons for not accepting her position:
+1. There is no evidence that her husbands family has the means to find her anywhere in Nigeria, a country of 100 million people.
+2. The applicant has 9 years of formal education and experience as a trader and she has the support of several male relatives. She can draw on these resources to make a living.
+3. She and her husband are Christians and the southern Nigerian states (where Lagos is located) are predominantly Christian and therefore she would not face religion based persecution there.
+[9]
+All of these reasons are eminently reasonable, and do not depend on credibility determinations making the absence of a tribunal transcript not relevant.
+[10]
+The Applicant argues that the concept of an IFA only applies where persons are able to find a safe haven in another part of the country. However, as long as the persecution persits and living in another part of the country amounts to or could be construed as 'being in hiding', there is no room for the concept of an IFA. She sees this proposition flowing as a logical extension from the words of Linden J.A. in Thirunavukkarasu v. Canada (M.E.I.), [1994] 1F.C. 589 para 14:
+An IFA cannot be speculative or theoretical only; it must be a realistic, attainable option. Essentially, this means that the alternative place of safety must be realistically accessible to the claimant. Any barriers to getting there should be reasonably surmountable. The claimant cannot be required to encounter great physical danger or to undergo undue hardship in travelling there or in staying there. For example, claimants should not be required to cross battle lines where fighting is going on at great risk to their lives in order to reach a place of safety.
+Similarly, claimants should not be compelled to hide out in an isolated region of their country, like a cave in the mountains, or in a desert or a jungle, if those are the only areas of internal safety available.
+(Underlining added)
+In this case, her husband's family actively persecuted her and found her in Benim. They also will find her in Lagos. Consequently, the concept of an IFA is not applicable.
+[11]
+I cannot accede to this proposition. The full excerpt from Thirunavukkarasu supra reads as follows:
+¶ 11 Finally, what threshold must an IFA meet before claimants will be required to avail themselves of it rather than seeking international refugee protection? The UNHCR Handbook on Procedures and Criteria for Determining Refugee Status suggests that a person will not be prohibited from claiming Convention refugee status "if under all the circumstances it would not be reasonable to expect" that person to seek internal refuge (at page 22). However, the reasonableness standard suggested by the Handbook is very brief and it does not seem to me to express clearly enough the basis of the IFA. Professor Hathaway, in The Law of Refugee Status, at page 134 has suggested the following:
+The logic of the internal protection principle must, however, be recognized to flow from the absence of a need for asylum abroad. It should be restricted in its application to persons who can genuinely access domestic protection, and for whom the reality of protection is meaningful. In situations where, for example, financial, logistical, or other barriers prevent the claimant from reaching internal safety; where the quality of internal protection fails to meet basic norms of civil, political, and socio-economic human rights; or where internal safety is otherwise illusory or unpredictable, state accountability for the harm is established and refugee status is appropriately recognized Professor Hathaway's explanation is helpful but it does not quite achieve the appropriate balance between the purposes of international protection for refugees and the availability of an internal flight alternative.
+¶ 12 Mahoney J.A. expressed the position more accurately in Rasaratnam, supra, at page 711:
+In my opinion, in finding the IFA, the Board was required to be satisfied, on a balance of probabilities, that there was no serious possibility of the appellant being persecuted in Colombo and that, in all the circumstances including circumstances particular to him, conditions in Colombo were such that it would not be unreasonable for the appellant to seek refuge there.
+Thus, IFA must be sought, if it is not unreasonable to do so, in the circumstances of the individual claimant. This test is a flexible one, that takes into account the particular situation of the claimant and the particular country involved. This is an objective test and the onus of proof rests on the claimant on this issue, just as it does with all the other aspects of a refugee claim. Consequently, if there is a safe haven for claimants in their own country, where they would be free of persecution, they are expected to avail themselves of it unless they can show that it is objectively unreasonable for them to do so.
+¶ 13 Let me elaborate. It is not a question of whether in normal times the refugee claimant would, on balance, choose to move to a different, safer part of the country after balancing the pros and cons of such a move to see if it is reasonable. Nor is it a matter of whether the other, safer part of the country is more or less appealing to the claimant than a new country. Rather, the question is whether, given the persecution in the claimant's part of the country, it is objectively reasonable to expect him or her to seek safety in a different part of that country before seeking a haven in Canada or elsewhere. Stated another way for clarity, the question to be answered is, would it be unduly harsh to expect this person, who is being persecuted in one part of his country, to move to another less hostile part of the country before seeking refugee status abroad?
+¶ 14 An IFA cannot be speculative or theoretical only; it must be a realistic, attainable option. Essentially, this means that the alternative place of safety must be realistically accessible to the claimant. Any barriers to getting there should be reasonably surmountable. The claimant cannot be required to encounter great physical danger or to undergo undue hardship in travelling there or in staying there. For example, claimants should not be required to cross battle lines where fighting is going on at great risk to their lives in order to reach a place of safety. Similarly, claimants should not be compelled to hide out in an isolated region of their country, like a cave in the mountains, or in a desert or a jungle, if those are the only areas of internal safety available. But neither is it enough for refugee claimants to say that they do not like the weather in a safe area, or that they have no friends or relatives there, or that they may not be able to find suitable work there. If it is objectively reasonable in these latter cases to live in these places, without fear of persecution, then IFA exists and the claimant is not a refugee.
+¶ 15 In conclusion, it is not a matter of a claimant`s convenience or the attractiveness of the IFA, but whether one should be expected to make do in that location, before travelling half-way around the world to seek a safe haven, in another country. Thus, the objective standard of reasonableness which I have suggested for an IFA is the one that best conforms to the definition of Convention refugee. That definition requires claimants to be unable or unwilling by reason of fear of persecution to claim the protection of their home country in any part of that country. The prerequisites of that definition can only be met if it is not reasonable for the claimant to seek and obtain safety from persecution elsewhere in the country.
+[12]
+The key question thus is whether it is reasonable to expect the Applicant to seek safety from persecution elsewhere in the country, not whether she is persecuted and in effect trying to hide from her persecutors. For the reasons stated by the Board and summarized in paragraph 8 above, no case has been made out why 'if it is not reasonable for her to seek and obtain safety from persecution elsewhere in the country', to wit Lagos.
+[13]
+Accordingly, as this Applicant has an IFA, this application cannot succeed.
+ORDER
+[14]
+THIS COURT ORDERS
+that this application be dismissed.
+[End of document]

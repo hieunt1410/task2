@@ -1,0 +1,5 @@
+[64]
+The case law is clear that the section 40/41 stage is for screening. Accordingly, the focus of the Commission is whether there is sufficient evidence before it to refer the complaint for further inquiry. It is not the role of the Commission at the section 40/41 stage to look behind the facts and to determine if a complaint is made out. As the Supreme Court held in
+Cooper v Canada (Canadian Human Rights Commission),
+[1996] 3 SCR 854 at para 53, 140 DLR (4th) 193:
+53 The Commission is not an adjudicative body; that is the role of a tribunal appointed under the Act. When deciding whether a complaint should proceed to be inquired into by a tribunal, the Commission fulfills a screening analysis somewhat analogous to that of a judge at a preliminary inquiry. It is not the job of the Commission to determine if the complaint is made out. Rather its duty is to decide if, under the provisions of the Act, an inquiry is warranted having regard to all the facts. The central component of the Commission's role, then, is that of assessing the sufficiency of the evidence before it.

@@ -1,0 +1,2 @@
+[5]
+In the result, I draw the following adverse inference: if the respondent had testified, he would have had to acknowledge that his statement was voluntarily given, that he understood it and that he signed it.

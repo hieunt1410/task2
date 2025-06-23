@@ -1,0 +1,8 @@
+ [6] 
+  The leading case on the tension between public interest in litigation and Rule 151 is the decision of Supreme Court of Canada in  
+ Sierra Club of Canada v. Canada (Minister of Finance) et al. 
+ , [2002] 2 S.C.R. 523; 287 N.R. 203. Iacobucci, J., speaking for the Court, took note of the test used in patent litigation. He said at paragraph 14: 
+ 
+ 
+ 
+ "The granting of such an order requires the appellant to show a subjective belief that the information is confidential and that its interests would be harmed by disclosure. In addition, if the order is challenged, then the person claiming the benefit of the order must demonstrate objectively that the order is required. This objective element requires the party to show that the information has been treated as confidential, and that it is reasonable to believe that its proprietary, commercial and scientific interests could be harmed by the disclosure of the information."

@@ -1,0 +1,17 @@
+[37]
+The Canadian connections were that the plaintiff cargo owner was Canadian, which is not one of the Canadian factors listed under s. 46(1), and that the intended port of discharge was Canadian. The Bill of Lading was issued in Japan and called for Japanese law and jurisdiction. Both I, as the motion judge, who dismissed the carrier's motion for a stay, and the Federal Court of Appeal which came to a different conclusion (perhaps to some extent based on additional evidence of Japanese law which was not before me) considered non-exhaustive forum non conveniens factors recognized by the Supreme Court of Canada, as well as other factors. As Mr. Justice Linden noted at para. 11:
+"The trial Judge correctly understood these principles and sought to apply them, taking into account the established law governing the issue of forum non conveniens derived from
+Spar Aerospace Ltd. v. American Mobile Satellite Corp.
+, [2002] 4 S.C.R. 205 (relying on the Quebec Court of Appeal decision
+Lexus Maritime Inc. c. Oppenheim Forfait GmbH
+, [1998] A.Q. No. 2059 (QL)). That case set out a non-exhaustive list of 10 factors to be weighed by the Court in making this determination [at paragraph 18]:
+(1) the parties' residence, and that of witnesses and experts;
+(2) the location of the material evidence;
+(3) the place where the contract was negotiated and executed;
+(4) the existence of proceedings pending between the parties in another jurisdiction;
+(5) the location of the defendants' assets;
+(6) the applicable law;
+(7) advantages conferred upon the plaintiff by its choice of forum, if any;
+(8) the interests of justice;
+(9) the interests of the parties;
+(10) the need to have the judgment recognized in another jurisdiction."

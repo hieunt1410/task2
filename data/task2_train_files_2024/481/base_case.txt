@@ -1,0 +1,138 @@
+[1]
+McKeown, J.
+: The applicants, Procter & Gamble ("P & G") seek an order of prohibition preventing the Minister of Health from issuing a Notice of Compliance (NOC) to the Respondent Genpharm Inc. ("GenPharm") for the product GEN-ETIDRONATE which are 200 and 400 mg tablets containing etidronate disodium.
+Issues:
+[2]
+The first issue is whether Genpharm's Notice of Allegation (NOA) and Detailed Statement is sufficient to allow P & G to address the allegation of non-infringement. The second alternative issue is whether P & G has demonstrated that Genpharm's production and sale of GEN-ETIDRONATE will infringe P & G's Canadian Patent No. 1,338,376 ("the `376 Patent"), or, to put it another way, does Genpharm's allegation give rise in law to the conclusion that the `376 Patent would not be directly or indirectly infringed by the making, constructing, using or selling of GEN-ETIDRONATE?
+Facts:
+[3]
+This case concerns a patent that claims a new way to use an existing drug. Under a regime for treating osteoporosis in P & G's `376 Patent, the abstract states:
+"A method for treating or preventing osteoporosis utilizing a cyclic regimen comprising alternating for two or more cycles the administration of a bone resorption inhibiting polyphosphonate and a no treatment (rest) period. Further disclosed is a kit for use in implementing this method of treatment."
+[4]
+The summary of the invention reads as follows:
+"The present invention relates to a method of treating or preventing osteoporosis, in humans or lower animals afflicted with or at risk to osteoporosis, utilizing a regimen comprising two or more cycles, whereby each cycle comprises a period of from about 1 day to about 90 days during which a bone resorption inhibiting polyphosphonate is administered daily in a limited and effective amount, and a rest period of from about 50 days to about 120 days during which no bone resorption inhibiting agent is administered.
+"The present invention further relates to a kit for use in the above-described cyclic regimen, said kit containing the following components: from about 1 to about 90 daily doses, with each daily dose containing a limited and effective amount of a bone resorption inhibiting polyphosphonate; from about 50 to about 120 daily doses of a placebo or a nutrient supplement; and a means for having the components arranged in a way as to facilitate compliance with the regimen."
+P & G's product for the treatment of osteoporosis is called Didrocal.
+[5]
+Didrocal comes in the form of a kit that contains 400 mg of etidronate disodium. It is blister-packed in strips of 14, because one takes 14 days of etidronate and then one takes 76 days of calcium carbonate. It is an intermittent cyclical therapy (ICT) regimen and this is because the medical evidence shows that the cyclical regimen allows the etidronate to build the bone that is damaged by the osteoporosis.
+[6]
+It is also known that if one took the etidronate continuously this would cause harm. Therefore, if one takes etidronate for osteoporosis the only approved way by Health Canada is to follow this intermittent cyclical therapy or this ICT regimen.
+[7]
+In support of its allegation of non-infringement, Genpharm provided the following detailed factual and legal statement:
+"Canadian Patent No. 1,338,376 (the `376 patent) is directed to a pharmaceutical regimen used in the treatment of osteoporosis. The regimen consists of a kit containing etidronate or its pharmaceutical salts (i.e. etidronate disodium) and a nutrient supplement (i.e. calcium bicarbonate). Genpharm's product will not be packaged as a kit in combination with any other active ingredient or nutrient supplement. Genpharm is seeking approval for a product containing etidronate disodium as the only active ingredient. Therefore, the medicine [sic] would not be infringed by the making, constructing, using or selling by Genpharm of the drug for which the submission for Notice of Compliance is filed."
+[8]
+On April 17, 2000, Pelletier, J., issued reasons and an order in this matter (
+Procter & Gamble Pharmaceuticals Canada, Inc. v. Canada (Minister of Health)
+, [2000] F.C.J. Nos. 510 and 511 (Q.L.)), [see 188 F.T.R. 97 and [2000] F.T.R. Uned. 363] in which he held that Genpharm's claim that its product did not infringe could not be disposed of merely on its statement that GEN-ETIDRONATE would not be sold as part of a kit. This was so because the `376 Patent contains a number of claims that deal with the treatment of osteoporosis without the use of a kit. Pelletier, J., found that Genpharm's NOA did not adequately address the claims in the Patent and therefore would not enable P & G to adequately address the issue of infringement. He then ordered disclosure of two of the three documents from the Abbreviated New Drug Submission (ANDS) requested by P & G, namely: Part 3: Comprehensive Summary: Bioequivalence and Part 4.6: Sectional Report: Test and Reference Drug Products. He also ordered production of any changes to the disclosed portions of the ANDS as they are made.
+[9]
+The respondent made some changes to the ANDS on November 22, 2000, but did not disclose these changes to the applicants until two days prior to the commencement of this hearing.
+Analysis
+[10]
+In order to determine the sufficiency of Genpharm's NOA I must review section 5 of the
+Patented Medicines (Notice of Compliance Regulations)
+, SOR/93-133 (the "
+Regulations
+"):
+"5(1) Where a person files or has filed a submission for a notice of compliance in respect of a drug and compares that drug with, or makes reference to, another drug for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics and that other drug has been marketed in Canada pursuant to a notice of compliance issued to a first person and in respect of which a patent list has been submitted, the person shall, in the submission, with respect to each patent on the register in respect of the other drug,
+. . . . .
+(b) allege that
+. . . . .
+(iv) no claim for the medicine itself and no claim for the use of the medicine would be infringed by the making, constructing, using or selling by that person of the drug for which the submission for the notice of compliance is filed.
+. . . . .
+"(3) Where a person makes an allegation pursuant to paragraph (1)(b) or (1.1)(b) or subsection (2), the person shall
+(a) provide a detailed statement of the legal and factual basis for the allegation;
+"5(1) Lorsqu'une personne dépose ou a déposé une demande d'avis de conformité pour une drogue et la compare, ou fait référence, à une autre drogue pour en démontrer la bioéquivalence d'après les caractéristiques pharmaceutiques et, le cas échéant, les caractéristiques en matière de biodisponibilité, cette autre drogue ayant été commercialisée au Canada aux termes d'un avis de conformité délivré à la première personne et à l'égard de laquelle une liste de brevets a été soumise, elle doit inclure dans la demande, à l'égard de chaque brevet inscrit au registre qui se rapporte à cette autre drogue:
+. . . . .
+b) soit une allégation portant que, selon le cas:
+. . . . .
+(iv) aucune revendication pour le médicament en soi ni aucune revendication pour l'utilisation du médicament ne seraient contrefaites advenant l'utilisation, la fabrication, la construction ou la vente par elle de la drogue faisant l'objet de la demande d'avis de conformité.
+. . . . .
+"(3) Lorsqu'une personne fait une allégation visée aux alinéas (1)b) ou (1.1)b) ou au paragraphe (2), elle doit:
+a) fournir un énoncé détaillé du droit et des faits sur lesquels elle se fonde;"
+[11]
+P & G submits that Genpharm has an obligation to advance facts justifying its allegation that its production of GEN-ETIDRONATE in the forms described in its Abbreviated New Drug Submission and Form Vs, will not infringe the `376 Patent.
+[12]
+Since Genpharm cannot say that it is marketing its etidronate disodium in order that it be used in the treatment of osteoporosis because that would be an admission that it is causing an infringement of the `376 Patent, it states it wants to market etidronate for treatment of two rare diseases, Paget's Disease and Hypercalcemia of Malignancy. Genpharm admits that these diseases have a small and declining market. Genpharm states that it is copying P & G's other product, Didronel, which product is sold in 200 mg strength only. It is not blister-packed, is not in 14-day strips but is loose and is for those two other rare diseases.
+[13]
+I will now review the issue as to whether the Notice of Allegation and Detailed Statement is fatally flawed. If it is not fatally flawed I will proceed to deal with the evidence as to whether infringement would result if the NOC is issued. In the language of the
+Regulations
+the question is whether P & G can show that Genpharm's allegation of non-infringement is not justified.
+[14]
+The Detailed Statement must make the patentee fully aware of the grounds of non-infringement.
+[15]
+The NOA does not allege, as required by section 5(1)(b)(iv), that no claims will be infringed. The Detailed Statement required under subsection 5(3) does not raise sufficient facts to show that all claims are not infringed. In the case before me the patent contains two claims. The first claim, which includes claims 1 to 16, deals with the kit. The second claim relates to the use of the medicine, starting at claim 17 which states that it is for the use of a bone resorption inhibiting polyphosphate for the treatment and prevention of osteoporosis wherein the polyphosphate is used in two or more cycles. In the first claim, it is for a regimen comprising two or more cycles. The first is a period of from 1 to 90 days and the period that is selected is 14 days for the etidronate and then the second is the rest period from 50 to 120 days and in fact it is the 76-day rest period where you take the nutrient supplement of calcium. That is the kit claim. Again, in the second claim, claim 17 and following, we see the 1 to 90 days followed by the rest 50 to 120. Accordingly, there are kit claims and use claims. The use claim is for this intermittent cyclical therapy which is crucial for safety and efficacy.
+[16]
+The respondent Genpharm is trying to combine the use claim into the kit claim, saying that the intermittent cyclical regime is through a kit, and that the use claim is not infringed because Genpharm's product does not involve a kit. However, these are two different claims. Even without a kit, one can still use blister-packed tablets for the same use, the intermittent cyclical regime.
+[17]
+Genpharm admitted on cross-examination of Dr. Pike, Senior Vice-President, Research and Development and Regulatory Affairs of Genpharm, that it believes that Didrocal's intermittent therapy is the only approved therapy for the treatment of osteoporosis in Canada. Therefore, any use of the etidronate disodium in the intermittent cyclical regime would be covered by the claimed elements of the `376 Patent. Genpharm submitted the same NOA and Detailed Statement for both the 200 mg tablet and the 400 mg tablet. Pelletier, J., in the motion eighteen months ago stated:
+"In my view, the Notice of Allegation served by Genpharm does not adequately address the claims in the patent and would not enable P & G to address the issue of infringement adequately."
+[18]
+In summary, the Notice of Allegation is fatally flawed because it does not allege that no claim under the patent will be infringed as is required by section 5(1)(b)(iv). The Detailed Statement under 5(3)(a) of the
+Regulations
+does not raise sufficient facts to support an allegation that all claims would not be infringed. The only reference in the Notice of Allegation is that the GEN-ETIDRONATE will not be sold as a kit. It does not say that it will not be used in intermittent cyclical treatment. The basic purpose of the
+Regulations
+is to prevent patent infringement. See:
+FRAGMENT_SUPPRESSED, McGillis, J. The NOA fails to allege that use of the medicine in the intermittent cyclical therapy regime, as claimed, will not occur. It is not saved by Dr. Pike stating that the medicine will not be used for anything other than the two rare diseases.
+[19]
+Genpharm submits that the applicants should wait until the respondent Genpharm does infringe its patent and that the applicants cannot prevent companies from entering the market. However, this is not the way I read the law under the
+Regulations
+. Stone, J.A., in
+Hoffman-LaRoche Ltd. et al. v. Canada (Minister of National Health and Welfare)
+(1996), 205 N.R. 331; 70 C.P.R.(3d) 206 (F.C.A.), at pages 210-212 [C.P.R.], summarizes the requirements of the law under the
+Patent Medicines Notice of Compliance Regulations
+. In particular, the following paragraph is on point in the case before me:
+"6. The Minister's decision of whether to issue a notice of compliance must turn on whether the allegations of the second person are 'sufficiently substantiated to support a conclusion for administrative purposes ... that the applicant's patent would not be infringed if the generic's product is put on the market'.
+Pharmacia
+, (Court File No. A-332-94 supra, per Strayer, J.A., at page 216;"
+In the case before me the second person is Genpharm. He then goes on to say:
+"7. Where second persons fail to file notices of allegation or
+adequate notices of allegation
+they 'must assume their own risk when it comes to attacks on the adequacy of such allegations once prohibition proceedings are commenced'.
+Bayer AG
+, (Court File No. A-669-93) supra, per Strayer, J.A., at page 134) [Emphasis mine]
+"8. The requirement in paragraph 5(3)(a) of the
+Regulations
+that a second person provide a detailed statement 'seems intended ... [to make] the patentee ... fully aware of the grounds on which the applicant seeks issuance of a NOC [that will not lead to infringement of the patent] before the patentee decides whether or not to apply to a court for a determination. Such disclosure would define the issues at a very early stage.'
+Bayer AG
+, (Court File No. A-389-93) supra, per Mahoney, J.A., at pages 337-338;
+"9. A bald statement of non-infringement in a detailed statement without any factual assertion in support thereof does not meet the requirements of subparagraph 5(1)(b)(iv) of the
+Regulations
+.
+Nu-Pharm
+, supra, per Stone, J.A., at pages 41-42 [pp. 19-20];"
+In the case before me I have such a bald statement without any factual assertion and support.
+[20]
+I also note that I have no jurisdiction to strike out the Notice of Allegation or to amend it. See:
+Bayer A.G. et al. v. Canada (Minister of National Health and Welfare) and Apotex Inc.
+(1995), 179 N.R. 122; 60 C.P.R.(3d) 129 (F.C.A.), at page 134 [C.P.R.] where Strayer, J.A., states:
+"This clearly means that the court has no jurisdiction to make orders concerning the filing of notices of allegation or requiring them to be perfected in some way. The principle is that, by the scheme of the
+Regulations
+, the notice of allegation precedes the institution of prohibition proceedings in this court. It forms part of the background to that proceeding, perhaps what one might loosely refer to as part of the 'cause of action'. A court cannot order that a cause of action be created, or that it be created at a certain time, or in a certain way. It can only deal with it after it is created or allegedly created. Those who fail to file notices of allegation, or adequate notices of allegation, must assume their own risks when it comes to attacks on the adequacy of such allegations once prohibition proceedings are commenced before the court."
+[21]
+This has been found in many cases including
+AB Hassle et al. v. Canada (Minister of National Health and Welfare) et al.
+(2000), 256 N.R. 172 (F.C.A.) where Stone, J.A., states at paragraph 17:
+"Indeed, this Court has recognized that the detailed statement must be such as to make the patentee fully aware of the grounds for claiming that the issuance of an NOC would not lead to infringement of a listed patent for, otherwise, the patentee would be unable to decide whether or not to initiate a section 6 proceeding."
+In the case before me it was only two days prior to the hearing when Genpharm produced certain factual material pursuant to the Order of Pelletier, J., eighteen months ago. Production at this late date does not constitute compliance with Pelletier J's Order. As Stone, J.A., stated in
+AB Hassle
+, supra at paragraph 23:
+"The intent appears to be that the entire factual basis be set forth in the statement rather than be revealed piecemeal when some need happens to arise in a section 6 proceeding."
+This point was again reiterated earlier this year by Stone, J.A., in
+Merck Frosst Canada Inc. et al. v. Canada (Minister of Health) et al.
+(2001), 274 N.R. 297 (F.C.A.), where he stated at paragraph 19:
+"... the authorities in this Court are to the clear effect that a second person must not, in a section 6 proceeding, rely on facts that exceed those laid out in the detailed statement."
+[22]
+In any event, there is nothing in the material Genpharm filed just prior to the commencement of this hearing that answers P & G's use claims. Accordingly, if there are no detailed facts in the statement about the use or non-use for osteoporosis or nothing about the use that might be made of the GEN-ETIDRONATE for the treatment of osteoporosis whether it be a kit or in the cyclical regime use claim, that is fatal. Thus, if the first person, the brand name pharmaceutical applicant in the prohibition proceedings, can demonstrate an inadequacy in the Notice of Allegation and Detailed Statement, that is sufficient to discharge its legal burden on the application and one need not go beyond that to look at the facts. See Noël, J., in
+Syntex (U.S.A.) Inc. et al. v. Novopharm Ltd. et al.
+(1996), 106 F.T.R. 196; 65 C.P.R.(3d) 499 (T.D.). Pelletier, J.'s, reasons on the production motion 18 months ago do not change the law as expressed by Stone, J.A., and Noël, J., above. Furthermore, his reasons are obiter.
+[23]
+The applicants P & G have discharged their legal burden by demonstrating the Notice of Allegation and detailed statement of facts are fatally flawed in not referring to the use claims as a patent and not referring to the use or treatment as meant for the GEN-ETIDRONATE product that is the subject of this lawsuit.
+[24]
+In light of my finding on the first issue, there is no need for me to deal with the second issue.
+[25]
+The application is allowed and an order of prohibition shall be issued preventing the Minister of Health from issuing a Notice of Compliance to Genpharm in connection with its tablets containing 200 mg and 400 mg of the drug etidronate disodium until after the expiration of reissued Canadian Letters Patent number 1,338,376.
+[26]
+If the parties cannot agree on costs they may make written submissions to me.
+Application allowed.
+Editor: David Weir/ve
+[End of document]

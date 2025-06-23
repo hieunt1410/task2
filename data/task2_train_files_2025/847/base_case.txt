@@ -1,0 +1,145 @@
+Al-Rifai v. Can. (M.C.I.), [2002] F.T.R. Uned. 816 (TD)
+MLB unedited judgment
+Mouaz Al-Rifai (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-4424-01; 2002 FCT 1236)
+Indexed As: Al-Rifai v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2002] F.T.R. Uned. 816
+Federal Court of Canada
+Trial Division
+Beaudry, J.
+December 2, 2002.
+Counsel:
+Vonnie E. Rochester, for the applicant;
+Michèle Joubert, for the respondent.
+Solicitors of Record:
+Vonnie E. Rochester, Montreal, Quebec, for the applicant;
+Morris Rosenberg, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Beaudry, J.
+: This is an application for judicial review of the decision of Visa Officer Julia Montgomery (the "VO") at the Canadian High Commission in London, England refusing the application of the applicant for landed immigrant status in Canada.
+ISSUE
+[2]
+Did the VO render a decision based on an erroneous finding of fact, fail to observe a principle of natural justice, exercise her discretion in an arbitrary manner, or commit any other reviewable error?
+[3]
+This application for judicial review shall be dismissed for the following reasons.
+BACKGROUND
+[4]
+The applicant was born in Syria, and currently resides in Saudi Arabia, where he works as an Archivist at the Islamic Development Bank, an international financial institution. The applicant filed his application for permanent residence in Canada with the Canadian High Commission in London. The Applicant stated that his intended occupation in Canada was that of "Archive Assistant", an occupation listed in the National Occupational Classification ("NOC") as number NOC 5211.0.
+[5]
+At the interview, his education, experience and ability in English were evaluated. The VO asked the applicant to take the evaluation offered by the International English Language Testing System ("IELTS"), as she had concerns regarding the ability of the applicant in the English language.
+[6]
+The VO also evaluated the personal suitability of the applicant. His prospects for employment in Canada and his ability to sufficiently establish himself in Canada were being evaluated.
+DECISION AT ISSUE
+[7]
+The VO communicated her decision to the applicant on July 23, 2001. The applicant was awarded the following units of assessment ("units") in determining his suitability in his chosen profession, Archivist Technician:
+Age
+10
+Occupational Factor
+01
+Specific Vocational Preparation/Education and Training Factor
+15
+Experience
+06
+Arranged Employment
+00
+Demographic Factor
+08
+Education
+15
+English
+07
+French
+00
+Bonus (Close relative in Canada)
+00
+Personal Suitability
+06
+TOTAL
+68
+[8]
+Immediately following the presentation of this breakdown of the unit total, the VO stated in her letter:
+You were asked to provide the results of an International English language (sic) Testing System examination as I had concerns about your level of English. The test report shows that although you write with some fluency, the overall band score was just 5.5, which is between a "modest" and "competent" user. You therefore receive seven units of English.
+[9]
+The VO concluded the letter by informing the applicant that he had received insufficient units of assessment in this occupation to qualify for immigration to Canada. He was required to obtain 70 units of assessment.
+RELEVANT STATUTORY PROVISIONS
+[10]
+The following provisions are pertinent for our discussion:
+a) Paragraph 19(2)d of the Immigration Act, R.S.C. 1985, c. I-2 (the "Act"); and
+b) Subsections 8(1), 9(1), 11(1), 11(2) and 11(3) of the Immigration Regulations, 1978, SOR/78-172 (the "Regulations").
+SUBMISSIONS
+Applicant
+[11]
+The applicant took issue with the units awarded for language, the determination of personal suitability, an alleged lack of procedural fairness and an allegedly arbitrary exercise of discretion on the part of the VO.
+[12]
+The VO erred in assessing the reading and comprehension activities as "well", rather than the higher rating, "fluent". In the applicant's view, it was incongruous that the ability to write would be graded lower than the ability to read. The applicant notes that his language skills are enhanced by the time that he spent living in the United Kingdom and by the software which he uses at work, which operates in English.
+[13]
+The personal suitability assessment was in error. The applicant possesses the required skills, training and language ability described in the NOC profile. The conclusion of the VO that the applicant would not be able to earn sufficient income to support himself and his family from the employment that he had been offered at an elementary school in British Columbia is tenuous. The VO does not know what this job was paying, as she did not ask. By not seeking clarification, she committed a procedural error.
+[14]
+The decision goes against the remark in the Computer Assisted Immigrant Processing System ("CAIPS") notes of the applicant that the finances of the applicant were sufficient for a large family.
+[15]
+The applicant had a job lined up for himself in Canada, but was simply unable to have results of his employment search available in time for the deadline for submitting such results to the VO. She then erroneously concluded that the job search of the applicant was not resourceful.
+[16]
+The applicant is entitled to additional units of assessment for personal suitability on account of his command of English and his financial resources. He cites Chen v. Canada (Minister of Citizenship and Immigration), [1995] 1 S.C.R. 725. In Chen, supra, the Supreme Court of Canada upheld the view of Strayer J. (as he then was) that reasons leading a visa officer to believe that an immigrant cannot be successfully established must be defined in the economic sense.
+[17]
+The VO breached procedural fairness by speculating on the salary that the applicant would earn in Canada without seeking input in this regard. It is not mandatory under the Act to have employment arranged prior to arrival in Canada. The VO also refused to exercise the discretion which she can exercise under ss. 11(3) of the Regulations on the ground that she was not asked to do so, despite the fact that a colleague of the VO, in a decision issued in December 1999, made reference to a request for exercise of discretion. That decision appears at page 27 of the set of documents released by the Canadian High Commission pursuant to Rule 317.
+[18]
+The concluding submission of the applicant is essentially that the decision of the VO not to exercise her discretion in favour of the applicant was arbitrary because it "lacks logic". The applicant reiterated factors which, in his view, should have led to a more favourable finding with respect to his English language skills.
+Respondent
+[19]
+As a preliminary remark, the respondent notes that the documents attached to the affidavit of the applicant were not before the VO and are not in the Tribunal Record. They should therefore not be considered, because the jurisprudence clearly states that material that was not before the decision maker cannot be taken into consideration.
+[20]
+On the substance of the case, the respondent submits that the VO did not commit any reviewable error and that her finding was not unreasonable. The jurisprudence provides only limited possibilities for judicial intervention into administrative decisions.
+[21]
+With respect to the units awarded for the command of English demonstrated by the applicant, the respondent notes that the VO had valid concerns about that ability, since the applicant had been working in Arabic for the past 17 years. It is for that reason that she asked him to take the IELTS test. The VO gave the applicant the benefit of the doubt by assessing his writing ability as "fluent", based on his IELTS results.
+[22]
+The VO correctly followed the language assessment guidelines set out in Schedule I of the Regulations and did not therefore commit an error. The applicant is seeking to have the Court reassess the quality of his English. The difference of opinion between the applicant and the VO with respect to the assessment does not constitute a reviewable error.
+[23]
+Regarding personal suitability, the respondent points out that this Court held in Gill v. Canada (Minister of Citizenship and Immigration) (1996), 34 Imm. L.R. (2d) 127 (F.C.T.D.) that a visa officer has a broad discretion in the appreciation of the personal suitability factor. The factors considered by the VO were relevant and related to the ability of the applicant to establish himself in Canada.
+[24]
+The consideration given by the VO to the ability of the applicant to function in English in determining his prospects of economic success in Canada was not unreasonable. Personal suitability is an economic factor and success in one's chosen field of work is a major factor in determining economic self-sufficiency.
+[25]
+The applicant had the onus of demonstrating that he could support his family in Canada; the respondent notes that the applicant has a large family. The applicant cannot fault the VO for the inability of the applicant to demonstrate that he could provide for his family once settled in Canada. The letter regarding the offer of employment from a B.C. school was sent after the interview. This indicated that the applicant was aware that the VO officer required that evidence in order to assess personal suitability.
+[26]
+The VO did not violate procedural fairness by not requesting details regarding the salary of the applicant, as the VO had no obligation to do so; the onus was on the applicant to demonstrate the economic viability of establishing himself in Canada.
+ANALYSIS
+[27]
+With respect to the preliminary remark, it is not necessary to go into great detail. The materials, consisting of photocopies from the staff manual of the Islamic Development Bank and a letter indicating that the applicant was being reclassified along the scale published in the manual, were not before the VO. The exhibits accompanying the affidavit of the applicant will therefore not be considered.
+Standard of Review
+[28]
+The applicant submits that the standard review of the VO's decision should be reasonableness simpliciter as opposed to the respondent's view of patently unreasonableness.
+[29]
+I adopt the principles in Maple Lodge Farms Ltd. v. Government of Canada, [1982] 2 S.C.R. 2, To v. Canada (Minister of Employment and Immigration), [1996] F.C.J. No. 696 (F.C.A.) (QL) and Suresh v. Canada (Minister of Citizenship and Immigration), 2002 SCC 1, of patently unreasonableness in discretionary decisions from the VO.
+[30]
+Turning to the substantive submissions of the applicant, it is important to note that the ability of the Court to intervene in the decisions of visa officers is very limited. The Court has so stated on several occasions. In Skoruk v. Canada (Minister of Citizenship and Immigration), 2001 FCT 1220, Nadon J. (as he then was) notes that the standard of review with respect to administrative decisions involving the exercise of statutory discretion is that laid out in Maple Lodge Farms Ltd., supra. If the discretion is exercised in good faith and in accordance with the principles of natural justice, a court will not interfere. That standard applies to the decisions of visa officers.
+[31]
+The decisions of visa officers are largely factual in nature, and are exercised pursuant to the broad discretion granted to them by the Act and the Regulations. It is not the role of this Court to substitute its evaluation of an applicant on each of the factors to be considered for the evaluation already carried out by the visa officer. Bad faith or erroneous reasoning must be shown.
+[32]
+With respect to the evaluation of the English language skills of the applicant, the VO took all possible steps to ensure that her evaluation of the ability of the applicant in this regard reflected as faithfully as possible the true capacity of the applicant. It is on this basis that she asked the applicant to take the IELTS evaluation. Furthermore, where the score of the applicant on the writing evaluation was between "well" and "fluent", she gave him the benefit of the doubt and considered him "fluent" for that portion of his skills. The applicant simply fell short overall.
+[33]
+The applicant would like this Court to consider the time that he spent in the United Kingdom as well as other indicia of his ability to function in English, such as the use of English in his workplace, as evidence that more units of assessment should have been awarded for English. I appreciate the difficulties that are inherent in any attempts to quantify something as subjective as one's ability to speak, read, write and listen in a given language. However, as Lemieux J. stated in Mehrabani v. Canada (Minister of Citizenship and Immigration), [2000] F.C.J. No. 345, paragraph 16, (F.C.T.D.) (QL), IMM-4410-98, March 2, 2000:
+I cannot simply substitute my views on what the applicant wrote for that of the visa officer. The applicant must show the assessment is flawed. Several decisions of this Court have recognized the visa officer is in a much better position to assess the quality of the language of an applicant than the Court is (See, Ali v. Canada (M.C.I.), [1998] F.C.J. No. 1080, IMM-4873-97, July 22nd, 1998; Ashraf v. Canada (M.C.I.), [1998] F.C.J. 1561).
+[34]
+It may be noted that in that case, the applicant received a total of 69 units, one short of the number required for a visa to be issued. As Muldoon J. noted in Saggu v. Canada (Minister of Citizenship and Immigration) (1994), 87 F.T.R. 137, paragraph 2, (F.C.T.D.), where he dismissed the application for judicial review of an applicant who had received 68 points, two points less than the number required:
+This is a sad and disappointing case for the applicant because it illustrates the old adage: "so near and yet, so far". [...]
+[35]
+Courts must, and do, resist the temptation to supply the missing points. Either a visa applicant meets the requirements or he does not. That decision is for the visa officer to make, and it is not a decision for courts to replace whimsically with their own decision, whether the applicant missed the required minimum by a slim margin or by the proverbial country mile.
+[36]
+The applicant has also failed to provide any grounds upon which decision of the VO regarding personal suitability could be called into question. It is the VO, not the Court, who has the applicant physically in front of her, along with evidence assembled by the applicant himself in support of his claim. To the extent that the applicant failed to discharge his evidentiary burden, the VO cannot be held to have made an unreasonable decision.
+[37]
+The applicant cites the decision of the Supreme Court of Canada in Chen, which essentially adopted the reasons of Strayer J. (as he then was) in his Trial Division judgment in this case, [1991] 3 F.C. 350, in support of his claims that the VO denied him procedural fairness for not fully explaining his concerns with respect to personal suitability. However, in Chen, the visa officer in that case was held to have breached procedural fairness by not informing the applicant of suspicions regarding a serious offence. Strayer J. (as he then was) in Chen suggested that the visa officer made a determination that was not open to him.
+[38]
+No such erroneous determination is present in this case. It takes an error of the gravity evinced in Chen to lead to the quashing of a decision on that basis. This Court noted in Gill, supra, that the visa officer has a broad discretion in assessing personal suitability. That assessment will not be the subject of judicial interference unless the opinion is unreasonable, arbitrary or capricious. None of those adjectives can describe the opinion in this case.
+[39]
+In addition, the exercise of positive discretion permitted by ss. 11(3) of the Regulations is another matter with which courts will not interfere unless the exercise of that discretion is capricious or unreasonable. The applicant made reference to a mention by a colleague of a VO of the request for the exercise of positive discretion. However, it was not mentioned to the VO whose decision is at issue here. Furthermore, nothing in the record or in the statements of the applicant indicated that the burden that the applicant had to meet in order to merit consideration for such discretion was met. FRAGMENT_SUPPRESSED
+[40]
+The decision of the VO was reasonable and was made with due consideration to the elements of proof of the skills, qualifications and suitability of the applicant for admission to Canada as of the time at which the decision was made. This is therefore not a decision with which this Court should interfere.
+[41]
+Accordingly, this application for judicial review is dismissed. Counsel did not propose any question for certification. No question will be certified.
+ORDER
+[42]
+THIS COURT ORDERS that:
+1. The application for judicial review is dismissed.
+2. No question will be certified.
+[End of document]

@@ -1,0 +1,19 @@
+[63]
+From this jurisprudence, I take the following principles:
+(1) The perspective of the jeopardy collection provision goes to the matter of collection jeopardy by reason of delay normally attributable to the appeal process. The wording of the provision indicates that it is necessary to show that because of the passage of time involved in an appeal, the taxpayer would become less able to pay the amount assessed. In other words, the issue is not whether the collection per se is in jeopardy but rather whether the actual jeopardy arises from the likely delay in the collection.
+(2) In terms of burden, an applicant under s. 225.2(8) has the initial burden to show that there are reasonable grounds to doubt that the test required by s. 225.2(2) has been met, that is, the collection of all or any part of the amounts assessed would be jeopardized by the delay in the collection. However, the ultimate burden is on the Crown to justify the jeopardy collection order granted on an ex parte basis.
+(3) The evidence must show, on a balance of probability, that it is more likely than not that collection would be jeopardized by delay. The test is not whether the evidence shows beyond all reasonable doubt that the time allowed to the taxpayer would jeopardize the Minister's debt.
+(4) The Minister may certainly act not only in cases of fraud or situations amounting to fraud, but also in cases where the taxpayer may waste, liquidate or otherwise transfer his property to escape the tax authorities: in short, to meet any situation in which the taxpayer's assets may vanish in thin air because of the passage of time. However, the mere suspicion or concern that delay may jeopardize collection is not sufficient per se. As Rouleau, J., put it in
+1853-9049 Quebec Inc.
+, supra, the question is whether the Minister had reasonable grounds for believing that the taxpayer would waste, liquidate or otherwise transfer its assets, so jeopardizing the Minister's debt. What the Minister has to show is whether the taxpayer's assets can be liquidated in the meantime or be seized by other creditors and so not available to him.
+(5) An ex parte collection order is an extraordinary remedy. Revenue Canada must exercise utmost good faith and insure full and frank disclosure. On this point, Joyal, J., in
+Laframboise v. Canada
+, [1986] 3 F.C. 521; 5 F.T.R. 161 (T.D.), at 528 [F.C.] said this:
+"The taxpayer's counsel might have an arguable point were the evidence before me limited exclusively to that particular affidavit. As Counsel for the Crown reminded me, however, I am entitled to look at all the evidence contained in the other affidavits. These affidavits might also be submitted to theological dissection by anyone who is dialectically inclined but I find on the whole that those essential elements in these affidavits and in the evidence which they contain pass the well-known tests and are sufficiently demonstrated to justify the Minister's action."
+In
+Duncan
+, supra, Jerome, A.C.J., after quoting Joyal, J., in
+Laframboise
+, supra, viewed the level of disclosure required by the Minister as one of adequate (reasonable) disclosure.
+Application Of These Principles To
+The Case At Hand And Conclusions

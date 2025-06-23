@@ -1,0 +1,211 @@
+Warsame v. Can. (M.C.I.), [2016] F.T.R. Uned. 222 (FC)
+MLB unedited judgment
+Farhan Hassan Warsame (applicant) v. The Minister of Citizenship and Immigration (defendant)
+(IMM-4394-15; 2016 FC 596)
+Indexed As: Warsame v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2016] F.T.R. Uned. 222
+Federal Court
+Roy, J.
+May 30, 2016.
+Counsel:
+Odaro Omonuwa, for the applicant;
+Nalini Reddy, for the defendant.
+Solicitors of Record:
+Odaro Omonuwa, Winnipeg, Manitoba, for the applicant;
+William F. Pentney, Deputy Attorney General of Canada, Winnipeg, Manitoba, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Roy, J.
+: The applicant in this case, Mr. Farhan Hassan Warsame, brings an application for the judicial review of a decision of the Refugee Protection Division [RPD] denying his claim for refugee protection. The judicial review application is brought pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 [IRPA].
+[2]
+Not only did the RPD deny the refugee claim, it found that the claim for refugee protection is manifestly unfounded, pursuant to section 107.1 of the IRPA:
+107.1 If the Refugee Protection Division rejects a claim for refugee protection, it must state in its reasons for the decision that the claim is manifestly unfounded if it is of the opinion that the claim is clearly fraudulent.
+107.1 La Section de la protection des réfugiés fait état dans sa décision du fait que la demande est manifestement infondée si elle estime que celle-ci est clairement frauduleuse.
+Once a finding of manifestly unfounded is made, no appeal lies before the Refugee Appeal Division, as provided for at paragraph 110(2)(c) of the IRPA. That will explain why a judicial review application was undertaken from the decision of the RPD. Furthermore, that refugee claimant does not benefit from a stay of removal by operation of law while he would be challenging the RPD decision and Counsel complained that there would not have been a risk assessment in case the applicant were to be deported to the country of reference.
+[3]
+In this case, Counsel for the applicant announced at the hearing of the case that his focus was on the finding of the RPD according to which the claim is clearly fraudulent, thereby resulting in the decision to find the claim manifestly unfounded. He did not challenge that the RPD would have been justified in finding that his client is not a Convention refugee or a person in need of protection. Counsel's contention is rather that the claim is not clearly fraudulent.
+[4]
+Counsel seemed to have been under the misapprehension that had his client been denied his refugee claim simpliciter without a finding of "manifestly unfounded", his appeal to the Refugee Appeal Division (RAD) would have allowed him to supplement the record. However, the appeal to the RAD is not an appeal
+de novo
+where witnesses are heard and new evidence can be led (
+Huruglica v Canada (Minister of Citizenship and Immigration)
+, 2016 FCA 93). Rather, only evidence that qualifies under subsection 110(4) could be added to the record. Having conceded that the RPD had evidence before it to deny the refugee claim, but not enough to find the claim to be manifestly unfounded, it becomes a tad difficult to fathom how an appeal could be successful and how an application for judicial review of a RAD disposition could be arguable and have some likelihood of success. Put another way, is this judicial review application moot in view of the concession made?
+[5]
+Counsel for the Minister chose to refrain from arguing that there could a disposition other than returning the matter for complete redetermination before a different RPD panel if the Court were to conclude that the "manifestly unfounded" finding was unreasonable despite the concession by the applicant that the dismissal of his refugee claim was reasonable. Given the conclusion reached that the finding of "manifestly unfounded" is not unreasonable, the matter of the appropriate disposition does not require further consideration.
+I.
+Facts
+[6]
+The applicant claims to be a native of Somalia. However, beyond that, the RPD was unable to establish the identity of the applicant. In the view of the decision-maker, the applicant, who bears the burden, did not establish his identity with evidence that can be trustworthy.
+[7]
+According to the version of the applicant, his problems in Somalia started in 2010 when he would have married a member of another clan. While his parents were aware of the marriage, that would not have been the case for the parents of the bride. In the applicant's basis of claim form (BOC), he states that his wife's parents did not know of the marriage; however, at the hearing before the RPD, the story changed and it was rather only the bride's father who did not know while the mother and an uncle of the bride would have been aware.
+[8]
+After learning about the marriage, it is claimed that the bride's father and two of his brothers kidnapped the applicant for some two and a half months. The applicant alleged that he was tortured during that period. It is only after the applicant's father paid some money that he was finally released, one of the conditions of his release being that the couple divorce. Furthermore, the applicant had to allow for his wife to receive an abortion as she had become pregnant.
+[9]
+The applicant alleged that he and his family left their home as a result of civil war in Somalia and when they returned, in 2011, they found their house occupied by another family belonging to a clan different from theirs. That family would have killed the applicant's father and his older brother as a result of legal action taken to recoup their house.
+[10]
+It seems that the applicant would continue to seek to obtain redress, which resulted in two further attacks where, in both cases, he was able to escape.
+[11]
+In August 2013, the applicant left Somalia out of fear for his life. He traveled to the neighbouring country, Ethiopia, and, with some financial assistance from relatives, was able to leave Ethiopia and travel through Brazil, Columbia and various countries in Central America before arriving in the Unites States. His claim for asylum in the United States was denied and he arrived in Canada on April 27, 2015.
+[12]
+The applicant claims that he cannot return to Somalia, as he believes he would be killed by members of the opposing clan. In fact, members of that clan have allegedly visited his home on two occasions since he left, beating up his mother when she refused to give them information about his whereabouts. He cannot find a safe haven anywhere in Somalia as the clan threatening him controls the central government.
+II.
+Decision under review
+[13]
+The decision under review was rendered on August 13, 2015. Fundamentally, the RPD did not believe the applicant. The decision rendered orally goes through a number of issues identified as being problematic and showing, in the view of the decision-maker, the absence of credibility of the applicant.
+[14]
+The RPD addresses the credibility issues in three different parts. First, the applicant himself is considered not to be a trustworthy witness and many elements are offered in support of that conclusion:
+• While the applicant claims that he left Somalia three days after the second attack where he was able to escape, the applicant is unable to give precise or even approximate dates of those attacks or, for that matter, how many days there was between the two. Given the importance of those dates which, according to the applicant, caused him to leave Somalia, one would have expected approximate dates, at the very least;
+• The applicant claims to have not been in contact with his family members in Somalia since his departure. The RPD found that surprising. Indeed, the member states that "I find it very difficult to believe that you cannot get a hold of your wife or your brothers or your wife or her family." That is especially so given that some $8,500 were gathered by the applicant's network of relatives in order to allow him to go to North America. I note that the journey to North America would have taken the applicant through numerous countries, including Brazil, Columbia and Central American countries. The money came from relatives in Europe and, now, the applicant is unable through that network to get in touch with his family. Evidently, the RPD did not find that credible and even found that the applicant was trying to hide information from the panel;
+• Then there is the episode of the asylum sought in the United States. The applicant claims that he was not told why his claim was denied and, when pressed, answered that he did not remember;
+• The RPD also noted "an ongoing pattern of the documents that you are able to keep and the documents that you lose." The member found that it is not reasonable to believe that most documents would have been lost and only one form would have been kept;
+• The member found that there is no such thing as a hidden marriage in Somalia unless the couple runs away which, usually, would mean being at least a hundred kilometers from where the marriage took place or the family resided. In this case, the married couple would have stayed in Mogadishu, the capital of Somalia. In support of that contention the RPD relied on written documentation (National Documentation Package, OECD document and Land Info document from the Danish government), all concluding that hidden marriage is something that is not prevalent in Somalia where the guardians' permission is required in order for the wife to be able to marry. Furthermore, the applicant's story seems to have evolved since, at the time of the hearing, the applicant conceded that his wife's mother and uncle would have known about the marriage;
+• The RPD was also expressing qualms about the divorce that the applicant claimed was a condition of his release from detention following his kidnapping. The issue is in the timeline. According to the applicant, he got married on March 5, 2010, and he divorced his wife on June 1, 2010. The difficulty encountered by the RPD is that the applicant also claimed that he was married for three months before the father of the bride, returning home, found out about his daughter's wedding and started to persecute the applicant, going so far as kidnapping him and detaining him for two and a half months. If one condition for the release of the applicant was that there be a divorce, that makes the timeline difficult to reconcile given that the divorce would have had to take place close to six months after the marriage and not on June 1, 2010. Given that the discrepancy comes from a generic form that would have been filled out by the applicant, there should have been an explanation for such a different version. The RPD was not satisfied with the explanation which was to the effect that either someone else wrote the information down or the applicant simply did not remember what he wrote. That did not satisfy the RPD;
+• Then, there was the applicant's version to the effect that he had been beaten with sticks and chains. Yet, the doctor's report submitted by the applicant concluded that he was attacked with a knife. The explanation given by the applicant at the hearing was that "a knife was put on the end of a stick". That did not enhance the applicant's credibility;
+• Finally, the applicant did not include in his narrative that his first wife had to submit to an abortion as part of the conditions for his release. The RPD simply did not accept that such an omission from the narrative was reasonable.
+[15]
+The RPD then looked into the birth certificate and marriage certificate that were supplied by the applicant. The panel took issue with these documents because, among other things, they appeared to have the same official signature on them. The birth certificate is said to be written in Somali; the marriage certificate would be written in Somali and in Arabic and both of them have translations. The applicant was not able to say when the translations were done and he could not explain how the birth certificate and the marriage certificate, 20 to 25 years apart, would have been signed by the same person. The explanation that was given was judged to be insufficient and not credible. Furthermore, the RPD noted that the documentation about country conditions would tend to show that Somalia does not issue marriage certificates from government office. It seems that Sharia Courts might issue these certificates, but not other government offices. Again, the explanation offered by the applicant did not satisfy the RPD.
+[16]
+In the view of the Board, this was an attempt by the applicant to mislead it by presenting fraudulent birth and marriage certificates.
+[17]
+The third issue identified by the RPD is the testimony of a person now residing in Edmonton, who left Somalia in 1991, who pretended to be able to identify the applicant. It appears that the applicant would have been at the time, in 1991, two or three years old. In the view of the RPD, this evidence, even if it were to be believed, is not sufficient to overcome the negative credibility findings that stem from the testimony of the applicant.
+III.
+Parties' positions
+[18]
+The applicant concedes that the standard of review is reasonableness.
+[19]
+Seeking to find support on the
+UNHCR's Position on Manifestly Unfounded Applications for Asylum
+, the applicant argues that it is in only the clearest of cases of fraudulent claims that it can be said that a claim is manifestly unfounded. In order to reach that conclusion, the applicant relies on the following paragraphs taken from the guidance document:
+The Office has stated that the notion of "clearly fraudulent" could reasonably cover situations where the applicant deliberately attempts to deceive the authorities determining refugee status. The mere fact of having made false statements to the authorities does not, however, necessarily exclude a well-founded fear of persecution and vitiate the need for asylum, thus making the claim "clearly fraudulent". Only if the applicant makes what appear to be false allegations of a material or substantive nature relevant for the determination of his or her status could the claim be considered "clearly fraudulent".
+As to the use of forged or counterfeit documents, it is not the use of such documents which raises the presumption of an abusive application, but the applicant's insistence that the documents are genuine. It should be borne in mind in this regard that asylum-seekers who have been compelled to use forged travel documents will often insist on their genuineness until the time they are admitted into the country and their application examined.
+[20]
+The applicant also took issue with the findings about credibility in the context of the identity of the applicant. Given the difficulty in obtaining identification documents from Somalia, the Board had to rely on other evidence which was submitted in this case. The applicant argues that that evidence was sufficient because, he says, it was uncontradicted.
+[21]
+The applicant tried to draw a distinction between personal identity and national identity. Relying on the case of
+Elmi v Canada (Minister of Citizenship and Immigration)
+, 2008 FC 773, the applicant submits that the claimant's national identity as a citizen of Somalia would have, if I understand the argument, a different importance. The applicant seems to argue that being a citizen of Somalia would be sufficient in order to trigger a further examination pursuant to sections 96 and in particular section 97, that is that the person is a convention refugee or a person in need of protection.
+[22]
+As for the respondent, we have again the general claim that the decision was reasonable and should not be disturbed.
+IV.
+Analysis
+[23]
+The mechanism created by section 107.1 of the IRPA requires that, first, the RPD be of the opinion that the claim is clearly fraudulent. Once that conclusion has been reached, it must then state that the refugee claim is manifestly unfounded and give its reasons for it. The law provides that consequences flow from such a finding. Paragraph 110(2)(c) provides that there is no appeal to the Refugee Appeal Division if such a finding is made. The paragraph reads as follows:
+110(2) No appeal may be made in respect of any of the following:
+...
+(c) a decision of the Refugee Protection Division rejecting a claim for refugee protection that states that the claim has no credible basis or is manifestly unfounded;
+110(2) Ne sont pas susceptibles d'appel:
+...
+c) la décision de la Section de la protection des réfugiés rejetant la demande d'asile en faisant état de l'absence de minimum de fondement de la demande d'asile ou du fait que celle-ci est manifestement infondée;
+In this case, there is no dispute that the RPD came to the conclusion that the claim is manifestly unfounded. However, the applicant argues that the conclusion is not reasonable.
+[24]
+It follows that there must have been evidence showing that the claim is clearly fraudulent. I have listed the numerous findings made by the RPD in my reasons for judgment to show how extensive the discrepancies and difficulties there were with the evidence presented by the applicant. In fact, it is the applicant's narrative for protection that was deficient to the point of being fraudulent. I have concluded that the decision of the RPD is indeed reasonable.
+[25]
+There is no doubt that the standard of review in a matter like this is reasonableness. What is in play in this case is the decision-maker's assessment of the credibility of the evidence offered in support of the identity of the claimant, including of course the birth and marriage certificates, and evidently its probative value, such that the conclusion that the claim is clearly fraudulent is reasonable. Even questions of law, other than those falling in the four categories described in
+Dunsmuir v New Brunswick
+, 2008 SCC 9 [
+Dunsmuir
+], are presumptively subject to the standard of review of reasonableness. That is even more so in a case where the Court is faced with a question of fact or a question of mixed facts and law. (
+Dunsmuir
+at para 51, and more particularly
+Teweldebrhan v Canada (Minister of Citizenship and Immigration)
+, 2015 FC 418, where the issue under review is the identity of the applicant. See also
+Elhassan v Canada (Minister of Citizenship and Immigration)
+, 2013 FC 1247,
+Moriom v Canada (Minister of Citizenship and Immigration)
+, 2015 FC 588, and
+Aytac v Canada (Minister of Citizenship and Immigration)
+, 2016 FC 195).
+[26]
+The issue of the identity of the claimant is in this case subsumed, for all intents and purposes, in the decision made by the RPD to find that the claim for refugee protection is clearly fraudulent. The RPD found that section 106 of IRPA had not been satisfied on its way to concluding that the claim was manifestly unfounded. To put it another way, the claim is clearly fraudulent because the RPD came to the conclusion that false allegations, including the identity of the applicant, have been made about issues that go to the very heart of the claim for refugee protection, including of course the identity of the claimant.
+[27]
+Parliament chose to require that the claim be "clearly fraudulent" for particular consequences to flow. That would entail that it is the claim itself that is assessed as being fraudulent, and not the fact that the applicant would have used, for instance, fraudulent documents to get out of the country of origin or to gain access to Canada. However, once making a claim for refugee protection, the applicant would have to operate with clean hands and statements in support of the claim have to be accurate or they could be held against the claimant. In other words, the claimant would be attempting to gain refugee protection through falsehoods that may make the claim fraudulent. It is the claim that must be fraudulent.
+[28]
+The classic definition of fraud was stated in London & Globe Finance Corp. Ltd, [1903] 1 Ch. 728:
+To defraud is to deprive by deceit: it is by deceit to induce a man to act to his injury. More tersely it may be put, that to deceive is by falsehood to induce a state of mind; to defraud is by deceit to induce a course of action.
+[29]
+However, it would appear that there is not a need to even deceive. In
+R. v Scott
+, [1975] AC 819, the House of Lords distanced itself, concluding that deceit is not an essential element. Rather, the essential element is dishonesty (p. 839). The Supreme Court of Canada followed the same path in
+R. v Olan
+, [1978] 2 SCR 1175, concluding that "[t]o succeed, the Crown must establish dishonest deprivation." (p. 1182). The gravamen of fraud is dishonesty. Of course, dishonesty may manifest itself in deceit or falsehood, "all that need be determined is whether the accused, as a matter of fact, represent that a situation was of a certain character, when, in reality, it was not." (
+R. v Théroux
+, [1993] 2 SCR 5).
+[30]
+For a claim to be fraudulent, it would be required that a situation be represented of being of a certain character when it is not. But not any misstatement or falsehood would make a refugee claim fraudulent. It must be that the dishonest representations, the deceit, the falsehood, go to an important part of the refugee claim for the claim to be fraudulent, such that the determination of the claim would be influenced in a material way. It seems to me that a claim cannot be fraudulent if the dishonesty is not material concerning the determination of the claim.
+[31]
+If the word "fraudulent" signals the need for a misrepresentation of the truth or a concealment of a material fact for the purpose of getting another party to act to its detriment, I would have thought that the word "clearly" would go to how firm the finding is. For instance, Black's Law Dictionary (West Group, 7th Ed) defines "clearly erroneous standard" as "a judgment is reversible if the appellate court is left with the
+firm conviction
+that an error has been committed." Similarly, clearly fraudulent would in my view signal the requirement that the decision maker has the firm conviction that refugee protection is sought through fraudulent means, such as falsehoods or dishonest conduct that go to the determination of whether or not refugee protection will be granted. Falsehoods that are merely marginal or are antecedent to the refugee claim would not qualify.
+[32]
+Without being binding on this Court, the
+UNHCR's Position on Manifestly Unfounded Applications for Asylum
+would offer some guidance given that the language used is similar to that found in s 107.1 IRPA. The applicant argues that the passage establishes that only in the clearest of cases can there be a conclusion that the claim for refugee status is clearly fraudulent. The relevant passage is reproduced at paragraph 19 of these reasons for judgment. The guidance is however of limited assistance to the applicant. It supports the contention that to be clearly fraudulent, there must be an attempt to deceive in a substantial or material manner with respect to the determination of the status. Though the use of forged documents to gain access to a country of refuge may be acceptable, that is not the case when relying on forged documents to obtain refugee status. The argument that only in the clearest of cases can a finding of "clearly fraudulent" be made is not supported by the very authority offered by the applicant.
+[33]
+In this case, the applicant relied among other things on birth and marriage certificates that were, in the view of the RPD, forged documents. That finding by the RPD had an impact on the credibility of the applicant is required by section 106 of the IRPA:
+106 The Refugee Protection Division must take into account, with respect to the credibility of a claimant, whether the claimant possesses acceptable documentation establishing identity, and if not, whether they have provided a reasonable explanation for the lack of documentation or have taken reasonable steps to obtain the documentation.
+106 La Section de la protection des réfugiés prend en compte, s'agissant de crédibilité, le fait que, n'étant pas muni de papiers d'identité acceptables, le demandeur ne peut raisonnablement en justifier la raison et n'a pas pris les mesures voulues pour s'en procurer.
+The documentation was found to be unacceptable. The section speaks in terms of "must take into account" the fact that the claimant did not possess acceptable documentation. Was that finding unreasonable? I do not think so. The applicant's arguments fell short, far short.
+[34]
+The applicant tried initially to suggest that findings about false documents require "corroborative independent evidence." That is not the state of the law and the matter was not pursued. The applicant then argued in a supplementary factum that the standard cannot be "prima facie evidence of irregular or allegedly "fraudulent documents" which can be refuted" (applicant's further memorandum of fact and law, para. 7).
+[35]
+There was no finding of "prima facie evidence of irregular documents", whatever that may mean. As said in The Law of Evidence in Canada (Sopinka, Lederman and Bryant, Lexis Nexis, 3rd Ed):
+The terms "prima facie evidence", "prima facie proof", and "prima facie case" are meaningless unless the writer explains the sense in which the terms are used.
+Black's Law Dictionary defines
+prima facie
+evidence as"(e)vidence that will establish a fact or sustain judgment unless contradictory evidence is produced." The decision of the RPD was conclusive. Contrary assertions that are not credible and are not believed do not constitute contrary evidence. There was no evidence to the contrary because the applicant's evidence was not believed. There is no doubt that the panel concluded that the certificates were fraudulent in spite of the applicant arguing that they were genuine.
+[36]
+Here, this applicant was actively trying to portray himself as a refugee by dishonest means, including deceit, going so far as using birth and marriage certificates that were in the reasonable view of the RPD manifestly forged. Not every case where a story is not believed could be reasonably said to be clearly fraudulent. On the facts of this case, it was certainly reasonable for the RPD to reach that conclusion in view of a narrative that could reasonably be found to be deceitful in order to induce a course of action, and the use of forged documents. It was reasonable in this regard to have the firm conviction that fraudulent means were being used.
+[37]
+For a reason that escapes me, the applicant speaks in terms of "prima facie fraudulent claims" not being the appropriate standard under section 107.1. But no one is arguing the opposite. There is no indication that the RPD made a finding that the claim was prima facie fraudulent. And the applicant has not shown how that finding of clearly fraudulent, leading the panel to the conclusion that the claim is manifestly unfounded is not reasonable on the totality of the evidence, including that the applicant relied on evidence that was not acceptable documentation establishing his identity. The numerous elements in this case, and not only the two certificates, supported the conclusion reached under s. 107.1. The totality of the evidence submitted to the RPD amply justifies the conclusion reached. The decision is reasonable as per paragraph 47 of
+Dunsmuir
+:
+47 Reasonableness is a deferential standard animated by the principle that underlies the development of the two previous standards of reasonableness: certain questions that come before administrative tribunals do not lend themselves to one specific, particular result. Instead, they may give rise to a number of possible, reasonable conclusions. Tribunals have a margin of appreciation within the range of acceptable and rational solutions. A court conducting a review for reasonableness inquires into the qualities that make a decision reasonable, referring both to the process of articulating the reasons and to outcomes. In judicial review, reasonableness is concerned mostly with the existence of [page221] justification, transparency and intelligibility within the decision-making process. But it is also concerned with whether the decision falls within a range of possible, acceptable outcomes which are defensible in respect of the facts and law.
+[38]
+Finally, the applicant sought to challenge the finding of identity by drawing a distinction between personal identity and national identity. He sought to rely on the case of
+Elmi v Canada (Minister of Citizenship and Immigration)
+, 2008 FC 773 [
+Elmi
+], for some difference between personal and national identity.
+[39]
+Although it is true that
+Elmi
+speaks of "national identity," it is much less clear that the Court intended that there be some differences with "personal identity." In effect, the
+Elmi
+Court simply found that if the Board did not afford other means of proving the national identity, that does constitute reviewable error; that was enough to quash the decision without having to rule on the otherwise lack of credibility of the applicant. However, the
+Elmi
+Court did not indicate any meaningful differences between personal and national identity. In fact, the Court appears to use interchangeably "identity" and "national identity." The one paragraph from
+Elmi
+cited by the applicant is in my view the clear manifestation that the Court did not see a difference between the two:
+[4] Identity is of central importance to a refugee claim and failure to prove identity is fatal to a claim (
+Najam v. Canada (Minister of Citizenship and Immigration)
+, [2004] F.C.J. No. 516 [hereinafter
+Najam
+];
+FRAGMENT_SUPPRESSED). Where the Board finds a refugee
+claimant fails to prove their national identity
+, their analysis need not go any further (
+Najam
+, supra). That is, there is no need to assess subjective fear of persecution and clearly no basis upon which to assess a claimant's objective risk or persecution.
+It follows that where a Board errs in assessing a claimant's identity and therefore does not undertake an objective risk assessment, that error alone may constitute sufficient grounds for having an applicant's refugee claim reassessed.
+I find this to have been the case here. For the reasons that follow,
+I find the Board's conclusion that the Applicants are not from Somalia was not reasonably open to it as a matter of fact and law and must, therefore, order that the Applicants' claim be sent back to be decided by a different Board member.
+Because establishing identity is so fundamental to properly assessing a claim for protection, and because the Board's reasons clearly state identity to have been the determinative issue, there is no need to consider the Board's other credibility findings, which may or may not have been reasonably open to the Board.
+[Emphasis added]
+[40]
+The applicant would want that it be sufficient to suggest that he is a citizen of Somalia, without being able to identify who he is, to establish reviewable error. No authority supports such contention. One is hard pressed to assess risk if the identity and the personal history of an applicant cannot be established. The mere fact that someone may hail from Somalia is relevant but will not suffice, without more (
+Xiang v Canada (Minister of Citizenship and Immigration)
+, 2013 FC 256 at paras 22-23).
+V.
+Conclusion
+[41]
+The narrow issue that must be decided in this case is whether the finding of "manifestly unfounded" is reasonable. The evidence in this case is so overwhelming that it does not test the limits of the meaning of "clearly fraudulent". It was reasonable for the RPD to conclude that the applicant actively sought to obtain refugee status by fraudulent means, including falsehoods that go to the determination of the status. It was open to the RPD to find the narrative in support of the claim to be false. The arguments on behalf of the applicant concerning what was found to be forged documents, in spite of the best efforts of counsel, cannot succeed. Finally, the distinction between "identity" and "national identity" does not arise on the basis of the only authority cited. At any rate, I know of no authority, and none was brought to the attention of the Court, for the bold proposition that it is sufficient to establish some nationality to be entitled to the remedy of sections 96 and 97 of the IRPA.
+[42]
+As a result, the application for judicial review is dismissed.
+JUDGMENT
+[43]
+THIS COURT'S JUDGMENT is that
+the judicial review application is dismissed. There is no question for certification.
+[End of document]

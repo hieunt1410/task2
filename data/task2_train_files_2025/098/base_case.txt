@@ -1,0 +1,777 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lundbeck Can. Inc. v. Can. (2008), 338 F.T.R. 145 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2009] F.T.R. TBEd. JA.010 
+ 
+ 
+ 
+ Lundbeck Canada Inc. (applicant) v. The Minister of Health, The Attorney General of Canada and Ratiopharm Inc. (respondents) 
+ 
+ (T-296-08) 
+ 
+ 
+ 
+ Lundbeck Canada Inc. (applicant) v. The Minister of Health and Cobalt Pharmaceuticals Inc. (respondents) and H. Lundbeck A/S (respondent/patentee) 
+ 
+ (T-1143-08; 2008 FC 1379) 
+ 
+ 
+ 
+ Indexed As: Lundbeck Canada Inc. v. Canada (Minister of Health) et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Lemieux, J. 
+ 
+ December 16, 2008. 
+ 
+ 
+ 
+ Summary: 
+ 
+ Lundbeck Canada Inc. received a Notice of Compliance with conditions (NOC/c) for its product EBIXA. Two generic drug manufacturers, ratiopharm Inc. and Cobalt Pharmaceuticals Inc., moved to strike judicial review applications in which Lundbeck sought to review the decision of the Minister of Health to accept the submission of and to review the abbreviated new drug submission (ANDS) of ratiopharm and of Cobalt, identifying EBIXA as an alleged Canadian Reference Product. The relief sought by Lundbeck included an order quashing the decision to accept each submission, directing the Minister not to review both ANDS, and prohibiting the Minister from issuing an NOC until EBIXA was issued an NOC. Lundbeck also sought a declaration that EBIXA was an "innovative drug" under the Food and Drug Regulations, entitling it to a six year prohibition from examining both ANDS. 
+ 
+ 
+ 
+ The Federal Court granted the motions to strike and dismissed the judicial review applications, on three grounds: (1) Lundbeck's lack of standing; (2) inability of Lundbeck to pursue an interlocutory decision; and (3) on the merits, the applications were futile. 
+ 
+ 
+ 
+ Administrative Law - Topic 3314 
+ 
+ Judicial review - General - Bars - Impracticality or no useful purpose - Lundbeck Canada Inc. received a Notice of Compliance with conditions (NOC/c) for EBIXA - Two generic drug manufacturers moved to strike judicial review applications in which Lundbeck sought to review the decision of the Minister of Health to accept the drug manufacturers' abbreviated new drug submission, identifying EBIXA as an alleged Canadian Reference Product - The Federal Court held that the applications were bereft of merit - "The argument that an NOC with conditions labelled an NOC/c is not an NOC for all purposes of the Food and Drugs Act including its linkage to the NOC Regulations is one which, if given credence, would have form trump substance" - Lundbeck could not be issued something other than an NOC if it was to be authorized to market EBIXA because that was what the Act and the Regulations required - A Canadian Reference Product was keyed to the issuance of a NOC - The NOC/c Policy fit with the exercise of the Minister's discretionary authority - Similar reasoning applied to the relief sought with respect to the data protection provisions of the Regulations which were amended effective October 5, 2006, abolishing the old regime's examination and reliance requirements and establishing a register of drugs - The new regime did not apply to Lundbeck for two reasons - Lundbeck did not show EBIXA was on the register - More important, the transitional clause provided that the old regime continued to apply to a drug in respect of which a NOC was issued before June 17, 2006, which was the case for EBIXA - See paragraphs 33 to 46. 
+ 
+ 
+ 
+ Administrative Law - Topic 3347 
+ 
+ Judicial review - General - Practice - Parties (incl. standing) - [See both  
+ Food and Drug Control - Topic 1111.1 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 3357 
+ 
+ Judicial review - General - Practice - Interlocutory proceedings (incl. application to strike) - The Federal Court stated that "[i]t is settled law, save in exceptional circumstances, decisions of an interlocutory nature are not to be pursued on judicial review" and noted the reaffirmation of that jurisprudence - In the present case, the Minister of Health was processing the abbreviated new drug submissions (ANDS) of two generic drug manufacturers and was in the review stage - Under the Food and Drugs Regulations (FDR), it was the mandate of the Minister not to issue an NOC, authorizing the marketing of a drug in Canada, unless satisfied as to its safety and efficiency - On the facts, the Minister's decision, after screening the ANDS, was an interlocutory decision and not a final one because the final outcome involved the Minister's determination whether to issue an NOC under the FDR subject to the applicability of the NOC Regulations - There were no exceptional circumstances in this case to override the general rule - Further, no jurisdictional question arose - See paragraphs 27 to 32. 
+ 
+ 
+ 
+ Food and Drug Control - Topic 1104 
+ 
+ Drugs - New drugs - Notice of compliance - General - The Federal Court discussed the Policy known as "Notice of Compliance with conditions (NOC/c)", adopted by Health Canada in 2002 - "The application of the Policy is restricted to drug products indicated for serious, life-threatening and severely debilitating illnesses or conditions for which no drug is presently marketed in Canada. The purpose of the Policy is to facilitate early access by physicians and patients to drugs which Health Canada believes have promising evidence of clinical effectiveness. For such drugs, the Policy allows for the filing of a New Drug Submission (NDS) or a Supplementary New Drug Submission (SNDS) which, if approved, leads to the issuance of a Notice of Compliance with conditions labelled (NOC/c) rather than the normal Notice of Compliance (NOC)" - The Policy was designed to be integrated within the regulatory framework of the Food and Drug Regulations - "In this perspective, NOC/c is simply a coined term for administrative convenience. This term has no legal effect and could not have unless the FDR was modified" - See paragraphs 2, 41. 
+ 
+ 
+ 
+ Food and Drug Control - Topic 1108.9 
+ 
+ Drugs - New drugs - Notice of compliance - Abbreviated new drug submission - [See  
+ Administrative Law - Topic 3314 
+ ]. 
+ 
+ 
+ 
+ Food and Drug Control - Topic 1111.1 
+ 
+ Drugs - New drugs - Notice of compliance - Practice - In the context of a judicial review application, the Federal Court summarized the jurisprudence with respect to the criteria to be met in dealing with standing on a motion to strike, including that lack of standing should only be made in the clearest cases - "Since 1986, the Federal Court of Appeal and this Court have held an innovative drug manufacturer has no standing to launch a judicial review application under section 18 of the Federal Courts Act, i.e. is not directly affected, by a decision of the Minister of Health in the administration of the Food and Drugs Act and Regulations when examining a submission of a generic drug company for an authorization to market its product - an NOC" - The court considered the case law building on that jurisprudence, including that it was not lack of standing or justiciability in the strict sense of those words which prevented raising non-compliance, but that no private interest arose from the Minister's alleged failure to perform his duties with respect to other persons - The case law also made it clear that the enactment of the NOC Regulations did not create an opportunity for innovative drug companies to challenge the Minister's administration of the Food and Drugs Act and Regulations - See paragraphs 20 to 24. 
+ 
+ 
+ 
+ Food and Drug Control - Topic 1111.1 
+ 
+ Drugs - New drugs - Notice of compliance - Practice - Lundbeck Canada Inc. received a Notice of Compliance with conditions (NOC/c) for its product EBIXA - Lundbeck sought to review the decision of the Minister of Health to accept the submission of and to review the abbreviated new drug submission (ANDS) of two generic drug manufacturers, identifying EBIXA as an alleged Canadian Reference Product - The drug manufacturers moved to strike the judicial review applications - The Federal Court granted the motions - When Lundbeck's notice of application was examined, it was evident that all of the relief sought related to the Minister's administration of the Food and Drugs Act in relation to the ANDSs - The purpose behind the judicial review application was to block the Minister's consideration of those submissions and if cleared by the Minister on health and safety grounds, the issuance of a NOC - This, Lundbeck had no standing to do - See paragraphs 25 and 26. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ Sanofi-Aventis Canada Inc. v. Canada (Minister of Health) et al., [2008] F.T.R. Uned. 981; 2008 FC 129, refd to. [para. 20]. 
+ 
+ Pfizer Canada Inc. v. Canada (Minister of Health and Welfare) (1986), 12 C.P.R.(3d) 438 (F.C.A.), refd to. [para. 21]. 
+ 
+ Glaxo Canada Inc. v. Canada (Minister of National Health and Welfare) and Apotex Inc. et al. (No. 5) (1990), 107 N.R. 195; 31 C.P.R.(3d) 29 (F.C.A.), refd to. [para. 21]. 
+ 
+ Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al. (1997), 146 F.T.R. 249 (T.D.), affd. (1999), 249 N.R. 15 (F.C.A.), refd to. [paras. 22, 23]. 
+ 
+ Ferring Inc. v. Canada (Minister of Health) et al. (2007), 370 N.R. 263; 2007 FCA 276, refd to. [para. 24]. 
+ 
+ Sanofi-Aventis Canada Inc. v. Canada (Minister of Health) et al. (2008), 335 F.T.R. 148; 2008 FC 1062, refd to. [para. 26]. 
+ 
+ Prince Rupert Grain Ltd. v. Grain Workers' Union, Local 333 et al., [2005] N.R. Uned. 193; 2005 FCA 401, refd to. [para. 27]. 
+ 
+ Fairmont Hotels Inc. et al. v. Director Corporations Canada et al. (2007), 308 F.T.R. 163; 2007 FC 95, refd to. [para. 27]. 
+ 
+ CHC Global Operations v. Global Helicopter Pilots Association, [2008] N.R. Uned. 142; 2008 FCA 344, refd to. [para. 28]. 
+ 
+ LJP Sales Agency Inc. v. Minister of National Revenue, [2007] N.R. Uned. 57; 2007 FCA 114, refd to. [para. 34]. 
+ 
+ Apotex Inc. v. Governor-in-Council et al. (2007), 370 N.R. 336; 2007 FCA 374, refd to. [para. 34]. 
+ 
+ Sanofi-Aventis Canada Inc. v. Novopharm Ltd. et al. (2007), 364 N.R. 325; 2007 FCA 163, refd to. [para. 34]. 
+ 
+ Bayer Inc. v. Canada (Attorney General) et al. (1998), 155 F.T.R. 184; 84 C.P.R.(3d) 129 (T.D.), affd. (1999), 243 N.R. 170; 87 C.P.R.(3d) 293 (F.C.A.), refd to. [para. 44]. 
+ 
+ 
+ 
+ Statutes Noticed: 
+ 
+ Federal Courts Act, R.S.C. 1985, c. F-7, sect. 18 [para. 21]. 
+ 
+ Food and Drugs Act Regulations (Can.), Food and Drug Regulations, C.R.C. 1978, c. 870, sect. C.08.002 [para. 38]; sect. C.08.004.1(1) [para. 25]. 
+ 
+ Food and Drug Regulations - see Food and Drugs Act Regulations (Can.). 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Jean-Philippe Mikus and Marek Nitoslawski, for the applicant; 
+ 
+ Arthur B. Renaud, for the respondent, ratiopharm Inc.; 
+ 
+ F.B. (Rick) Woyiwada, for the respondent, Minister of Health; 
+ 
+ Tim Gilbert and Shonagh Mcvean, for the respondent, Cobalt Pharmaceuticals Inc. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Fasken Martineau DuMoulin, LLP, Montreal, Quebec, for the applicant; 
+ 
+ Bennett Jones, LLP, Toronto, Ontario, for the respondent, ratiopharm Inc.; 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent, Minister of Health; 
+ 
+ Gilbert's, LLP, Toronto, Ontario, for the respondent, Cobalt Pharmaceuticals Inc. 
+ 
+ 
+ 
+ These motions were heard at Ottawa, Ontario, on October 21, 2008, by Lemieux, J., of the Federal Court, who delivered the following judgment and reasons for judgment on December 16, 2008. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ Introduction 
+ 
+ 
+ 
+ [1] 
+   
+ Lemieux, J. 
+ : In this proceeding, two generic drug manufacturers, ratiopharm Inc. (ratiopharm) and Cobalt Pharmaceuticals Inc. (Cobalt), seek to strike judicial review applications initiated by Lundbeck Canada Inc. (Lundbeck) pursuant to s. 18.1 of the  
+ Federal Courts  
+ Act 
+  against each of them in which Lundbeck seeks to review "the decision or act of the Minister of Health (the Minister) to accept the submission of and to review the abbreviated new drug submission (ANDS) of [ratiopharm and of Cobalt] identifying as an alleged Canadian Reference Product (CRP) EBIXA, the applicant's brand of Memantine". Amongst the relief sought by Lundbeck is an order quashing the Minister's decision to accept each submission and to each ANDS identifying EBIXA as an alleged CRP as well as directing the Minister not to review both ANDS and prohibiting the Minister from issuing an NOC or NOC/c until EBIXA is issued an NOC. Lundbeck also seeks a declaration that EBIXA is an "innovative drug" under the relevant provision of the  
+ Food and Drug Regulations 
+  (FDR) entitling it to a six year prohibition from examining both ANDS after the issuance of an NOC to EBIXA. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ [2] 
+  In 2002, Health Canada adopted a Policy known as "Notice of Compliance with conditions (NOC/c)". The application of the Policy is restricted to drug products indicated for serious, life-threatening and severely debilitating illnesses or conditions for which no drug is presently marketed in Canada. The purpose of the Policy is to facilitate early access by physicians and patients to drugs which Health Canada believes have promising evidence of clinical effectiveness. For such drugs, the Policy allows for the filing of a New Drug Submission (NDS) or a Supplementary New Drug Submission (SNDS) which, if approved, leads to the issuance of a Notice of Compliance with conditions labelled (NOC/c) rather than the normal Notice of Compliance (NOC). 
+ 
+ 
+ 
+ [3] 
+  On  
+ December 8, 2004 
+ , Lundbeck Canada Inc. (Lundbeck) received from the Minister of Health (the Minister) a Notice of Compliance with conditions (NOC/c) for its product EBIXA pursuant to section C.08.004 of the  
+ Food and Drug Regulations 
+  (the  
+ Regulations 
+ ). The conditions attached to the NOC/c were those outlined in the Policy. EBIXA is indicated for the treatment of moderate to severe dementia of the Alzheimer's type. Its medicinal ingredient is Memantine. 
+ 
+ 
+ 
+ [4] 
+  On  
+ December 24, 2007 
+ , ratiopharm filed with the Minister an ANDS for the purpose of obtaining an NOC enabling it to market its ratio-Memantine product. In its ANDS, ratiopharm compared its product to EBIXA (the Canadian Reference Product or CRP). 
+ 
+ 
+ 
+ [5] 
+  On  
+ June 2, 2008 
+ , Cobalt filed an ANDS with the Minister for an NOC enabling it to market its co-Memantine product. Cobalt's CRP was also EBIXA. 
+ 
+ 
+ 
+ [6] 
+  Lundbeck commenced judicial review proceedings against the Minister and against ratiopharm in Court file T-296-08 and against the Minister and Cobalt in Court file T-1143-08. In both cases, as noted, Lundbeck seeks to review "the decision or act of the Minister of Health (the Minister) to accept the submission of and to review the abbreviated new drug submission" of ratiopharm and Cobalt " 
+ identifying as an alleged CRP EBIXA, the applicant's brand of Memantine 
+ ". 
+ 
+ 
+ 
+ [7] 
+  In both judicial review applications, Lundbeck seeks the following relief: 
+ 
+ 
+ 
+ 1.(a) A declaration that EBIXA  
+ is not a CRP 
+  pursuant to the  
+ Food and Drug Regulations 
+ , C.R.C., c. 870 (" 
+ FDR 
+ "), and  
+ will not acquire such status until the issuance of a Notice of Compliance 
+  ("NOC")  
+ in respect of such product 
+ . 
+ 
+ 
+ 
+ (b) A declaration that the decision or act of the Minister  
+ to accept the submission of and to 
+   
+ review 
+  [the] ANDS ... identifying EBIXA as an alleged CRP, is unlawful and invalid. 
+ 
+ 
+ 
+ (c) An order quashing and setting aside the decision or act of the Minister to accept the submission of and to review the ANDS ... identifying EBIXA as an alleged CRP, and directing the Minister to not review and to reject the ANDS. 
+ 
+ 
+ 
+ (d) An order prohibiting the Minister from issuing  
+ a NOC or NOC/c 
+  to ... with respect to [the] ANDS ... identifying EBIXA as an alleged CRP, until such time as the Minister issues a NOC (as distinct from a NOC/c) for EBIXA. 
+ 
+ 
+ 
+ 2. (a) A declaration that EBIXA is an "innovative drug" pursuant to Section C.04.004.1 of the  
+ FDR 
+ , as amended by the  
+ Regulations Amending the Food and Drug Regulations (Data Protection) 
+ , SOR/2006-241, Oct. 5, 2006. 
+ 
+ 
+ 
+ (b) An order prohibiting the Minister from, and/or a declaration that the Minister is prohibited  
+ from, accepting and reviewing the ANDS 
+  ... identifying EBIXA as an alleged CRP, and directing the Minister to reject the submission of said ANDS ..., until six (6) years after the issuance  
+ of a NOC 
+  in respect of EBIXA. 
+ 
+ 
+ 
+ 3. In the alternative to the relief requested in paragraph 2 above, an order prohibiting the Minister from, and/or a declaration that the Minister is prohibited from, issuing a NOC in respect the ANDS ... identifying EBIXA as an alleged CRP, until five (5) years after the issuance of a NOC in respect of EBIXA. 
+ 
+ 
+ 
+ [8] 
+  In the interest of completeness, I describe the conditions which were attached to Lundbeck's NOC/c. These conditions were incorporated in a letter of undertaking provided by Lundbeck to the Minister prior to the issuance of the NOC/c and included obligations by Lundbeck (1) to conduct a controlled study for a period between six months to a year on patients with moderate to severe Alzheimer's disease whose purpose  
+ is to confirm efficacy results in two previous studies 
+ ; (2) to provide Periodic Safety Update on a quarterly basis for the first two years and at lesser intervals in subsequent years; (3) to report to the Minister all serious adverse drug reactions; (4) to provide for acceptance by the Minister a draft of a Dear Healthcare Professional Letter; (5) to provide a draft Fact Sheet outlining in lay language the potential risks, benefits and side effects for EBIXA for the indication of the symptomatic treatment of moderate to severe dementia of the Alzheimer's type; and (6) to provide for acceptance by the Minister a draft of the Product Monograph consistent with the requirements of the Policy. 
+ 
+ 
+ 
+ [9] 
+  Having obtained its NOC/c, Lundbeck proceeded to apply to the Minister to list two patents on the Patent Register, maintained by the Minister, pursuant to the  
+ Patented Medicines (Notice of Compliance) Regulations 
+  (the  
+ NOC Regulations 
+ ). Canadian Patent No. 2,426,492 ('492) and Canadian Patent No. 2,014,453 ('453) are maintained on the Register for Lundbeck's EBIXA brand of 10 mg Memantine tablets. 
+ 
+ 
+ 
+ [10] 
+  When both ratiopharm and Cobalt submitted their respected ANDS to Health Canada, they each served, as required by the  
+ NOC Regulations 
+ , a Notice of Allegation (NOA) pursuant to the  
+ NOC Regulations 
+  which if controverted by Lundbeck entitles the innovator to commence a prohibition proceeding in the Federal Court against the two generic drug manufacturers. The  
+ NOC Regulations 
+  provide Lundbeck with an automatic statutory stay of 24 months during which the Minister cannot issue an NOC to either ratiopharm or Cobalt. Lundbeck's proceedings against ratiopharm were commenced on March 13, 2008 in Court file T-414-08 and against Cobalt on August 8, 2008 in Court file T-1226-08. 
+ 
+ 
+ 
+ Position of the parties 
+ 
+ 
+ 
+ [11] 
+  By way of preliminary separate motions heard together, ratiopharm and Cobalt, as respondents, seek to strike Lundbeck's judicial review applications for the following reasons: 
+ 
+ 
+ 
+ 1.  
+ Lack of standing 
+  to bring the applications for judicial review because Lundbeck not a person directly affected by the Minister's action or decision; 
+ 
+ 
+ 
+ 2. The judicial review applications  
+ are premature 
+  in that the Minister has yet to make a decision on their individual ANDS; 
+ 
+ 
+ 
+ 3. The judicial review applications  
+ are bereft of any chance of success on the merits 
+ ; 
+ 
+ 
+ 
+ 4. The judicial review applications are  
+ an abuse of process 
+  because Ludbeck is marketing Memantine, has listed patents on the Patent Register and has commenced a proceeding under the  
+ Patented Medicines (Notice of Compliance) Regulations 
+  in respect of those patents. 
+ 
+ 
+ 
+ [12] 
+  Counsel for the Minister appeared at the motions but did not file a memorandum of fact and law. He submitted a letter dated October 20, 2008 to the Court to the effect that the Minister "supports and consents to the motions brought by the respondents ratiopharm Inc. and Cobalt Pharmaceuticals Inc." 
+ 
+ 
+ 
+ [13] 
+  ratiopharm adds a further ground to strike. Its counsel argues that the Minister made no "decision" within the meaning of that term as legislated in s. 18.1 of the  
+ Federal Courts  
+ Act 
+ . 
+ 
+ 
+ 
+ [14] 
+  Lundbeck, in its written representations, expressed the view that on December 8, 2004, the Minister granted Lundbeck conditional marketing authorization referred to as a Notice of Compliance with conditions for its EBIXA brand. It indicates Lundbeck's marketing is subject to the conduct of further studies to verify the safety and the efficacy of its drug and indicates that these studies are not yet completed and "Lundbeck still has only an NOC/c rather than an NOC". 
+ 
+ 
+ 
+ [15] 
+  Lundbeck submits that it filed its judicial review application " 
+ to resolve whether a generic pharmaceutical company is entitled, in order to obtain an NOC, to compare its product to an innovative product which has only received an NOC/c 
+ " adding that it is asking the Court " 
+ to determine whether EBIXA, which is the object of an NOC/c can be a Canadian Reference Product (CRP) in accordance with section C.08.001.1 of the  
+ FDR 
+ ". (Emphasis mine) 
+ 
+ 
+ 
+ [16] 
+  Lundbeck also states that another purpose of its judicial review application is to resolve whether data protection is available to innovative drug companies required pursuant to their NOC/c to provide additional data on the safety and efficiency of its drug and, if so, from what date and for how long. 
+ 
+ 
+ 
+ [17] 
+  Lundbeck asserts, based on information received from the Minister on a consent order, the ANDS of both ratiopharm and Cobalt have been accepted at screening. It also says NOC/c's have never been the subject of legal proceedings in Canada and, as such, the judicial proceedings "are indeed raising novel and controversial issues". 
+ 
+ 
+ 
+ [18] 
+  In terms of its legal submissions, Lundbeck submits: 
+ 
+ 
+ 
+ - Based on the jurisprudence of this Court to strike a judicial review application at a preliminary stage requires exceptional circumstances and should succeed only if the judicial review application is "bereft of any chance of success". Lundbeck asserts neither ratiopharm nor Cobalt meet the test for striking out the judicial review application in which they are respondents. 
+ 
+ 
+ 
+ - As to standing, Lundbeck submits the generic manufacturers have the onus of demonstrating such is the case and that it has standing because it is directly affected by the Minister's decision or act and there is no other remedy available to it. It says its legal rights are affected, the decision imposes legal obligations and prejudicially affects it. It points to s. 5(1) of the  
+ NOC Regulations 
+  and the requirement that a second person such as ratiopharm and Cobalt are obligated to send an NOA if it files an ANDS for an NOC and compares its drug with another drug marketed in Canada under an NOC. This has happened in each case and the result is that the validity and non-infringement of Lundbeck patent on the Register for EBIXA is in issue with the result that the Minister's acceptance for review of the ANDS has affected its legal rights and has imposed legal obligations on it. It also points to the data protection provision of the  
+ FDR 
+  and argues the mere fact of accepting the filing of the ANDS is a breach of the legal protection granted to it. It argues the fact that Lundbeck, an innovative drug company, will be less inclined to develop innovative drugs if it knows the Minister will carry out a comparison study and deny it data protection strongly militates in favour of a finding that it has standing. It submits, even if the Court finds that Lundbeck only has a commercial interest, such interest is sufficient to challenge the Minister is acting without jurisprudence. 
+ 
+ 
+ 
+ - Lundbeck argues it has no other remedy than to seek judicial review of the Minister's decision or act to accept the ANDSs for filing and that the current NOC proceedings do not afford it any remedy because their basis is fundamentally different. Moreover, Lundbeck has no available judicial means to enforce a data protection breach. 
+ 
+ 
+ 
+ - Lundbeck submits the judicial review application is not premature and says that the argument there was no decision and if there was a decision it is interlocutory and has no merit. Lundbeck argues this Court's jurisdiction in judicial review extends beyond decisions. 
+ 
+ 
+ 
+ - It argues the decision is not an interlocutory one because by accepting the ANDS from ratiopharm and Cobalt, the Minister has made a final determination that EBIXA is a CRP and that Lundbeck cannot benefit from the specific form of data protection granted by the  
+ FDR 
+  which, in its view, prohibits the mere filing of the ANDS until the expiry of six years from the issuance of an NOC. It adds that if an NOC is not issued to ratiopharm or Cobalt, it will not be because EBIXA is not a CRP or because it (Lundbeck) is not entitled to data protection but because the generics have not demonstrated bioequivalence. In any event, it submits interlocutory decisions can be reviewed in special circumstances namely jurisdiction. The point Lundbeck makes here is that if EBIXA is not a CRP, the Minister has no jurisdiction to review the ANDSs. Moreover, if EBIXA is entitled to data protection, the Minister is prohibited from accepting for filing the ANDS. Lundbeck submits its data can only be protected if the Minister does  
+ not process 
+  both ANDS filed and forcing Lundbeck to wait until an NOC is issued is tantamount to completely negating this form of protection. It concludes its argument on the point by stating the interlocutory decision case law is limited to tribunals which the Minister is not a tribunal arguing "he is exercising  
+ discretionary authority granted to him by the  
+ Food and Drugs  
+ Act 
+  and its regulations 
+ ". (My emphasis) 
+ 
+ 
+ 
+ - Lundbeck submits its judicial review application is not on its face bereft of any chance of success taking issue with the contention that as a matter of law the market authorization granted by the Minister must be an NOC because it is the only form of marketing known to the  
+ FDR 
+ . Lundbeck argues its judicial review application seeks to resolve a novel question of law that has never been decided by the Courts; it is an important question with far reaching implications since 40 products have been approved by way of NOC/c in Canada. Lundbeck points to section C.08.004(1) of the  
+ FDR 
+  and states that section provides "that the Minister may either issue an NOC or notify the manufacturer that the submission is not in compliance". It then writes "the Minister has gone beyond this and imposed conditions to the marketing authorization. This is not contested by ..., yet it would want the Court to overlook the way in which the Minister choose to exercise his powers for the purposes of other sections of the  
+ FDR 
+ ". It states these conditions have a profound impact on the marketing authorization by (1) preventing patent holders from securing reimbursement of the cost of the drug from public health plans; (2) forcing Lundbeck to incur considerable time, effort and expense to carry out confirmatory studies "while the generic manufacturer may simultaneously be flooding the market with generic products". It points to section C.08.002.1(d) of the  
+ FDR 
+  which require that the conditions of use of the generic drug fall within the conditions of use for the CRP which is impossible to attain in respect of a NOC/c drug since use in Lundbeck's case is tied to the performance of additional clinical trials and the submission of results to the Minister which neither ratiopharm nor Cobalt is not in a position to perform. On data protection, Lundbeck submits its EBIXA brand should qualify under the new version of C.08.04.1 because clearly on October 6, 2006 when it came into force, Lundbeck had not submitted all of the data required by the Minister and considerable investment is required to complete the data. It submits the Minister requires additional data which should lead this Court to rule in these circumstances that the section prevents ratiopharm and Cobalt from even filing its ANDS. 
+ 
+ 
+ 
+ - Finally, Lundbeck refutes the allegation its proceeding is an abuse of process by claiming that an NOC/c is not an NOC in this judicial review application and contemporaneously filing a prohibition application under the  
+ NOC Regulations 
+  which presumes the existence of an NOC to list patents on the Register which triggers the application of the whole scheme under those  
+ Regulations 
+ . Lundbeck argues the nature of its judicial review application and its prohibition application, under the  
+ NOC Regulations 
+  are fundamentally different. It submits the within proceedings question the validity of the ANDS pursuant to the  
+ FDR 
+  whereas those under the  
+ NOC Regulations 
+  seek to contest patent-related claims made in the NOA served on Lundbeck by each of the drug manufacturers. Moreover, it adds this is not a case of re-litigation which was at the basis of the cases cited by ratiopharm and Cobalt. 
+ 
+ 
+ 
+ Analysis and Conclusions 
+ 
+ 
+ 
+ [19] 
+  For the reasons that follow, the motions to strike Lundbeck's applications for judicial review launched by ratiopharm and Cobalt must succeed on three grounds (1) lack of standing on the part of Lundbeck; (2) inability of Lundbeck to pursue an interlocutory decision; and (3) on the merits, Lundbeck's application for judicial review is futile and bereft of any chance of success. 
+ 
+ 
+ 
+ (1) Standing 
+ 
+ 
+ 
+ [20] 
+  The jurisprudence teaches: 
+ 
+ 
+ 
+ 1) It is permissible to deal with standing on a motion to strike but in order to do an assessment must be made whether there is sufficient material before the Court in terms of facts, law and arguments for a proper understanding as to the nature of the Lundbeck's interests. This criteria is met: the material facts are not in dispute and the law is settled. 
+ 
+ 
+ 
+ 2) Lack of a standing on a motion to strike should only be made in the clearest cases: the Court should not have any doubt Lundbeck has no standing to pursue its judicial review application ( 
+ Sanofi-Aventis Canada Inc. v. Canada (Minister of Health) et al. 
+ , [2008] F.T.R. Uned. 981; 2008 FC 129, at paragraph 19). That test is also met here. 
+ 
+ 
+ 
+ [21] 
+  Since 1986, the Federal Court of Appeal and this Court have held an innovative drug manufacturer has no standing to launch a judicial review application under s. 18 of the  
+ Federal Courts  
+ Act 
+ , i.e. is not directly affected, by a decision of the Minister of Health in the administration of the  
+ Food and Drugs  
+ Act 
+  and  
+ Regulations 
+  when examining a submission of a generic drug company for an authorization to market its product - an NOC. (See  
+ Pfizer Canada Inc. v. Canada (Minister of Health and Welfare) 
+  (1986), 12 C.P.R.(3d) 438 (F.C.A.) and  
+ Glaxo Canada Inc. v. Canada (Minister of National Health and Welfare) and Apotex Inc. et al. (No. 5) 
+  (1990), 107 N.R. 195; 31 C.P.R.(3d) 29 (F.C.A.)). 
+ 
+ 
+ 
+ [22] 
+  Building on that jurisprudence, Justice Hugessen put it admirably as follows in  
+ Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al. 
+ , [1997] F.C.J. No. 1847; 146 F.T.R. 249 (T.D.), affd. (1999), 249 N.R. 15 (F.C.A.): 
+ 
+ 
+ 
+ "11  
+ Some of the cases have used concepts such as absence of standing and non-justiciability as a convenient shorthand to describe this limitation on the patentee's rights. 
+  Seizing on this the applicants argue, based on such cases as  
+ Canada v. Finlay 
+ , [1986] 2 S.C.R. 607,  
+ Canada v. Borowski 
+ , [1981] 2 S.C.R. 575 and  
+ Operation Dismantle v. Canada 
+ , [1985] 1 S.C.R. 441, that they do indeed have standing and that the issues that they raise are, in fact, justiciable.  
+ The argument mistakes the form for the substance. It is not lack of standing or justiciability in the strict sense of those words which prevents the applicants from raising non-compliance with the health and safety concerns of the  
+ Food and Drug  
+ Act 
+ , and  
+ Regulations 
+ ; it is simply that those matters are of no concern to them and cannot be raised by them in an attack on a decision of the Minister to issue an NOC. It is the Minister himself who is charged with the protection of the public health and safety and no private interest of the applicants arises from his alleged failure to perform his duties with respect to other persons. 
+  [My emphasis.] 
+ 
+ 
+ 
+ "12 As an exception to the foregoing, however, the  
+ Patented Medicine (Notice of Compliance) Regulations 
+  - the 'linkage'  
+ Regulations 
+  - do give the Merck applicants a right, at the very least by implication, to enforce compliance by both Apotex and the Minister with those  
+ Regulations 
+  and to object to the issuance of an NOC on the grounds of non-compliance therewith. The linkage Regulations, however, do not have the effect of incorporating into themselves the whole of the  
+ Food and Drug  
+ Act 
+  and  
+ Regulations 
+  so as to create any right for the applicants to enforce the latter. Their clear and evident purpose is to provide an additional patent protection to the patentee in respect of his intellectual property rights and they have absolutely nothing whatever to do with public health and safety." 
+ 
+ 
+ 
+ [23] 
+  His decision was sustained by the Federal Court of Appeal at [1999] F.C.J. No. 1536. 
+ 
+ 
+ 
+ [24] 
+  The enactment of the  
+ NOC Regulations 
+  has not created an opportunity for innovative drug companies to challenge the Minister of Health's administration of the  
+ Food and Drugs  
+ Act 
+  and  
+ Regulations 
+ . This was made clear by the Federal Court of Appeal in  
+ Ferring Inc. v. Canada (Minister of Health) et al. 
+  (2007), 370 N.R. 263; 2007 FCA 276, which held in that case an innovative drug company had standing to challenge the Minister's decision because it was made in the course of administering the  
+ NOC Regulations 
+ . 
+ 
+ 
+ 
+ [25] 
+  When Lundbeck's notice of application is examined, it is evident, in my view, that all of the relief sought by it relates to the Minister's administration of the  
+ Food and Drugs  
+ Act 
+  in relation to the ANDSs submitted by ratiopharm and Cobalt. There is no other purpose behind Lundbeck's judicial review application but to block the Minister's consideration of those submissions and if cleared by the Minister on health and safety grounds, the issuance of an NOC to them. This, Lundbeck has no standing to do and that includes its challenges under the data protection provisions (both new and old) which are contained in section C.08.004.1(1) of the  
+ FDR 
+ . 
+ 
+ 
+ 
+ [26] 
+  For two recent applications of an innovative drug company's lack of standing to challenge the Minister's decision in matters involving a generic company's submissions for an NOC and the  
+ Food and Drugs  
+ Act 
+  and  
+ Regulations 
+  (see  
+ Sanofi-Aventis Canada Inc. v. Canada (Minister of Health) et al. 
+  (2008), 335 F.T.R. 148; 2008 FC 1062 and  
+ GlaxoSmithKline Inc. v. Attorney General of Canada 
+ , Docket T-000-07, December 21, 2007). 
+ 
+ 
+ 
+ (2) Judicial Review of Interlocutory Decisions 
+ 
+ 
+ 
+ [27] 
+  It is settled law, save in exceptional circumstances, decisions of an interlocutory nature are not to be pursued on judicial review ( 
+ Prince Rupert Grain Ltd. v. Grain Workers' Union, Local 333 et al. 
+ , [2005] N.R. Uned. 193; 2005 FCA 401, at paragraph 2) and as put by Justice O'Reilly in  
+ FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [28] 
+  The Federal Court of Appeal recently reaffirmed this jurisprudence in  
+ CHC Global Operations v. Global Helicopter Pilots Association 
+ , [2008] N.R. Uned. 142; 2008 FCA 344. 
+ 
+ 
+ 
+ [29] 
+  The Court was informed that in, both present cases, the Minister is processing the ANDS submissions of ratiopharm and Cobalt. He is in the review stage of the process which involves the application of section C.08.002.1 and provides that a generic drug manufacturer of a new drug may file an ANDS for the new drug where "in comparison with a Canadian reference produce (a) the new drug is the pharmaceutical equivalent of the Canadian reference product" that term having been defined in section C.08.001.1 as " 
+ Canadian reference product means a drug in respect of which a Notice of Compliance is issued pursuant to section C.08.004 and which is marketed in Canada by the innovator of the drug 
+ ." 
+ 
+ 
+ 
+ [30] 
+  Under the FDR, it is the mandate of the Minister, whether it be on the submission of NDS by an innovator or an ANDS by a generic, not to issue an NOC - an authorization to market a drug in Canada unless satisfied as to the safety and efficiency of that drug (see s. C.08.004). 
+ 
+ 
+ 
+ [31] 
+  Clearly on the facts of this case, the Minister's decision, after screening the ANDS of ratiopharm and Cobalt, is an interlocutory decision and not a final one because the final outcome involves the Minister's determination whether to issue an NOC under the FDR subject to the applicability of the  
+ NOC Regulations 
+ . 
+ 
+ 
+ 
+ [32] 
+  I am not convinced by Lundbeck's arguments there are any exceptional circumstances in this case to override the general rule. Lundbeck's counsel attempted to frame the issue of the EBIXA as a CRP under an NOC/c as a jurisdictional question. In my view, no jurisdictional question arises here - whether EBIXA is a CRP is a determination made by the Minister in the ordinary course of the administration of the  
+ Food and Drugs  
+ Act 
+  and  
+ Regulations 
+ . As Justice Pelletier put it in  
+ Prince Rupert Grain Inc. 
+ , the Court should be cautious in easily characterizing a legal question as one of jurisdiction. 
+ 
+ 
+ 
+ (3) Lundbeck's applications bereft of merit 
+ 
+ 
+ 
+ [33] 
+  The nub of Lundbeck's argument on the merits is that the market authorization it received in December 2004 is a conditional market authorization. It is not a full NOC because Lundbeck must conduct confirmatory studies on EBIXA, educate physicians, submit safety reports and its labels and product monograph contain cautionary language all matters which ratiopharm and Cobalt will not be constrained if they obtain their NOC and which, in any event, makes their product not comparable to EBIXA i.e. not a CRP. On this last point as to what conditions the Minister may attach to ratiopharm or Cobalt product, Lundbeck's argument is purely speculative as is evident from the Minister's decision dated March 31, 2008, confirmed on April 2, 2008, as well as a proposed Notice to the Policy to be issued dated April 2, 2008 on the kinds of conditions which the Minister may attach to generics such as ratiopharm and Cobalt's NOC if one is to be issued, a matter which has yet to be determined. 
+ 
+ 
+ 
+ [34] 
+  The law is clear that a judicial review application should only be struck on the merits only if the application is bereft of all possibility of success (see  
+ LJP Sales Agency Inc. v. Minister of National Revenue 
+ , [2007] N.R. Uned. 57; 2007 FCA 114,  
+ Apotex Inc. v. Governor-in-Council et al. 
+  (2007), 370 N.R. 336; 2007 FCA 374 and  
+ Sanofi-Aventis Canada Inc. v. Novopharm Ltd. et al. 
+  (2007), 364 N.R. 325; 2007 FCA 163). In my opinion, Lundbeck's application for judicial review in these two cases cannot possibly succeed. They are futile. 
+ 
+ 
+ 
+ [35] 
+  The argument that an NOC with conditions labelled an NOC/c is not an NOC for all purposes of the  
+ Food and Drugs  
+ Act 
+  including its linkage to the  
+ NOC Regulations 
+  is one which, if given credence, would have form trump substance. 
+ 
+ 
+ 
+ [36] 
+  The plain fact is that Lundbeck, on December 8, 2004, was issued an NOC (and nothing else) for EBIXA in these terms: 
+ 
+ 
+ 
+ "This is to notify you that, pursuant to section C.08.004 of the  
+ Food and Drug Regulations 
+ , the above new drug submission complies with the requirements of ss. C.08.002 and C.08.005.1 of the  
+ Regulations 
+ . As a manufacturer, you are further reminded of your obligations under C.08.002(1)(d), C.08.007 and C.08.008. These obligations are detailed on the reverse of this notice. 
+ 
+ 
+ 
+ "You have undertaken to conduct timely, well designed studies to verify the clinical benefit of this drug. You have also undertaken to provide appropriate educational material and comply with any post-market surveillance commitments and advertising, labelling and distribution requirements placed on the drug. Failure to comply with any one or all of these undertakings may be interpreted as suggesting, inter alia, the possibility of insufficient evidence, at that time, to establish the effectiveness of the drug for the purposes recommended. Accordingly, consideration will be given to regulatory action, removing the product from the market under the authority of the  
+ Food and Drug Regulations 
+ ." 
+ 
+ 
+ 
+ [37] 
+  On the face of the statute, Lundbeck could not be issued something other than an NOC if it was to be authorized to market EBIXA because that is what the statute and the regulations require. 
+ 
+ 
+ 
+ [38] 
+  Section C.08.002 of the  
+ FDR 
+  provides that "no person shall sell or advertise a new drug unless the Minister has pursuant to section C.08.004, issued  
+ a Notice of Compliance to the manufacturer 
+  and that Notice of Compliance has not been suspended". 
+ 
+ 
+ 
+ [39] 
+  Section C.08.004 provides if the Minister is satisfied about an NDS or an ANDS or a supplementary submission to either complies with the stated provisions of the FDR, he shall issue  
+ a Notice of Compliance 
+ . 
+ 
+ 
+ 
+ [40] 
+  As previously noted, a CRP is keyed to the issuance of a Notice of Compliance. 
+ 
+ 
+ 
+ [41] 
+  When the Minister's Policy labelled "Notice of Compliance with conditions (NOC/c) Policy and Guidance" is examined, it is plain to appreciate that this Policy is designed to be integrated within the regulatory framework of the FDR and not to be an exception to it. In this perspective, NOC/c is simply a coined term for administrative convenience. This term has no legal effect and could not have unless the FDR was modified. In contrast, when the Minister wishes to authorize the sale of a drug other than through an NOC, the Minister would have recourse to section C.08.010 and issue a letter of authorization for Special Access Programmes which is not the case here. 
+ 
+ 
+ 
+ [42] 
+  The validity of the Notice of Compliance with conditions (NOC/c) Policy was not challenged by any of the parties before me. As I have stated, examining the FDR as a whole, lead me to conclude that this Policy fits comfortably with the exercise of the Minister's discretionary authority as mandated in the FDR to be satisfied about the safety and efficacy of drugs sold on the Canadian market and to attach appropriate conditions in the circumstances such as is the case here. I note that under the provisions related to NDS and ANDS, the Minister may require any additional information or material respecting the safety and efficacy of the new drug. See also section C.08.008. 
+ 
+ 
+ 
+ [43] 
+  Similar reasoning applies to the relief sought by Lundbeck with respect to the data protection provisions of the FDR which were amended effective October 5, 2006 (the new regime). These amendments considerably enhanced the protection for innovative drugs that contain a medicinal ingredient, not previously approved by the Minister and is not a variation thereof as defined. 
+ 
+ 
+ 
+ [44] 
+  The old regime contained in C.08.004.1 had been the subject of judicial interpretation (see the judgment of Justice Evans, then a member of the Trial Division, in  
+ Bayer Inc. v. Canada (Attorney General) et al. 
+  (1998), 155 F.T.R. 184; 84 C.P.R.(3d) 129 (T.D.), sustained on appeal in (1999), 243 N.R. 170; 87 C.P.R.(3d) 293 (F.C.A.)). 
+ 
+ 
+ 
+ [45] 
+  Under the old data protection regime, the protection was not triggered unless the Minister examined any information or material filed with the Minister in a new drug submission by the innovator that contains a chemical or biological substance not previously approved for sale in Canada as a drug and relies on that data for the purpose of establishing the safety and efficacy of the generic manufacturer's ANDS. As pointed out by the Federal Court of Appeal, the administration of this provision was subject to a Policy of the Minister whereby he would notify the generic drug manufacturer of his intent to rely on the innovator's information in order to provide the generic with an opportunity to supply his own information so as not to trigger the data protection provision which prohibited the Minister from issuing an NOC to the generic for a period of five years from the date of the innovator's NOC. The new regime abolishes the examination and reliance requirements of the old regime and establishes a Register of drugs to which the new provision applies. 
+ 
+ 
+ 
+ [46] 
+  I have no doubt the new regime does not apply to Lundbeck and this for two reasons. Lundbeck did not show EBIXA was on the register maintained by the Minister. More important, s. 2 of the amended regulations provide a transitional clause to the effect that the old regime continues to apply to a drug in respect of which a Notice of Compliance was issued before June 17, 2006 which is the case for EBIXA. 
+ 
+ 
+ 
+ [47] 
+  In view of these findings, I need not deal with the other grounds raised by ratiopharm or Cobalt, particularly, the abuse of process argument. 
+ 
+ 
+ 
+ JUDGMENT 
+ 
+ 
+ 
+ [48] 
+   
+ THIS COURT ORDERS AND ADJUDGES 
+  that the judicial review applications initiated by Lundbeck Canada Inc. in Court files T-296-08 and T-1143-08 are dismissed with separate costs to each respondent generic company in each file. If the matter of costs cannot be settled between the parties, anyone of them may approach the Court to schedule cost submissions. A copy of these reasons for judgment and judgment shall be placed on each file. 
+ 
+ 
+ 
+ Motions granted; 
+ 
+ applications for judicial review dismissed. 
+ 
+ 
+ 
+ Editor: E. Joanne Oley/gs 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

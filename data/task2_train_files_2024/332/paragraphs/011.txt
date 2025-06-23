@@ -1,0 +1,13 @@
+[11]
+At the same time as restrictions were introduced on collection procedures, in 1985, provision was made under a new s. 225.2 for exceptional action, initiated by the Minister subject to review by a court, where "it may reasonably be considered that collection of an amount assessed would be jeopardized by delay". Section 225.2 as enacted by S.C. 1985, c. 45, s. 116(1), provided, in part:
+"225.2(1) Notwithstanding s. 225.1, where it may reasonably be considered that collection of an amount assessed in respect of a taxpayer would be jeopardized by a delay in the collection thereof, and the Minister has, by notice served personally or by registered letter addressed to the taxpayer at his latest known address, so advised the taxpayer and directed the taxpayer to pay forthwith the amount assessed or any part thereof, the Minister may forthwith take any of the actions described in paragraphs 225.1(1)(a) to (g) with respect to that amount or that part thereof.
+"(2) Where the Minister has under subs. (1) directed a taxpayer to pay an amount forthwith, the taxpayer may
+(a) upon three days notice of motion to the Deputy Attorney General of Canada, apply to a judge of a superior court having jurisdiction in the province in which the taxpayer resides or to a judge of the Federal Court of Canada for an order fixing a day (not earlier than 14 days nor later than 28 days after the date of the order) and place for the determination of the question whether the direction was justified in the circumstances;
+(b) serve a copy of the order on the Deputy Attorney General of Canada, within six days after the day on which it was made; and
+(c) if he has proceeded as authorized by paragraph (b), apply at the appointed time and place for an order determining the question.
+. . . . .
+"(5) On the hearing of an application under paragraph (2)(c) the burden of justifying the direction is on the Minister.
+"(6) On an application under paragraph (2)(c), the judge shall determine the question summarily and may confirm, vacate or vary the direction and make such other order as he considers appropriate.
+. . . . .
+"(8) Cost shall not be awarded upon the disposition of an application under subs. (2)."
+In the circumstances of this case, it is not clear whether the action of the Minister in May 1988, in filing a certificate of the amount owing by Satellite and obtaining a writ of fieri facias under which an aircraft was seized, was by virtue of this version of s. 225.2 which was then in force. That section would have authorized this if authorization were deemed necessary some five months after the company's tax liability had been reassessed, without objection filed.

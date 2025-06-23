@@ -1,0 +1,9 @@
+[31]
+In Cheshire, Fifoot and Furmston's Law of Contract (11th Ed., 1986) it is said at page 518:
+"The courts, in their desire to do justice between contracting parties, have developed what is called the doctrine of substantial performance, which in effect has somewhat relaxed the requirement of exact and precise performance of entire contracts. According to this doctrine, ... if there has been a substantial though not an exact and literal performance by the promisor, the promisee cannot treat himself as discharged. Despite a minute and trifling variation from the exact terms by which he is bound, the promisor is permitted to sue on the contract, though he is of course liable in damages for his partial nonperformance."
+Further, it is said, at page 521:
+"A breach of contract, no matter what form it may take, always entitles the innocent party to maintain an action for damages, but the rule established by a long line of authorities is that the right of a party to treat a contract as discharged arises in only two types of case
+"Firstly, where the party in default has repudiated the contract before performance is due or before it has been fully performed.
+"Secondly, where the party in default has committed what in modern judicial parlance is called a
+fundamental
+breach. A breach is of this nature if, having regard to the contract as a whole, the promise that has been violated is of major as distinct from minor importance."

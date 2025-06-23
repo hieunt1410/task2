@@ -1,0 +1,11 @@
+[3]
+The statutory provisions relevant to this application are ss. 2, 17 and 56(1) of the Federal Court Act and rule 2300(1) of the Federal Court Rules.
+"2. In this Act
+'Crown' means Her Majesty in right of Canada;
+"17(1) The Trial Division has original jurisdiction in all cases where relief is claimed against the Crown and, except where otherwise provided, the Trial Division has exclusive original jurisdiction in all such cases.
+"17(2) Without restricting the generality of subsection (1), the Trial Division has exclusive original jurisdiction, except where otherwise provided, in all cases in which the land, goods or money of any person are in the possession of the Crown or in which the claim arises out of a contract entered into by or on behalf of the Crown, and in all cases in which there is a claim against the Crown for injurious affection.
+"56(1) In addition to any writs of execution or other process that are prescribed by the Rules for enforcement of its judgments or orders, the court may issue process against the person or the property of any party, of the same tenor and effect as those that may be issued out of any of the superior courts of the province in which any judgment or order is to be executed; and where, by the law of that province, an order of a judge is required for the issue of any process, a judge of the court may make a similar order, as regards like process to issue out of the court.
+"Rule 2300(1) The court upon the ex parte application of a judgment creditor, on affidavit showing that the judgment is unsatisfied and
+(a) that there is a debt owing or accruing from some person in Canada to the judgment debtor, or
+(b) that there is a debt owing or accruing from some person not in Canada to the judgment debtor and that such debt is one for which such person might be sued in Canada by the judgment debtor,
+may order that all debts owing or accruing from such third person (hereinafter called 'the garnishee') to the judgment debtor shall be attached to answer the judgment debt and that the garnishee do at a time and place named show cause why he should not pay to the judgment creditor the debt due from him to the judgment debtor or so much thereof as may be sufficient to satisfy the judgment. (Form 64)"

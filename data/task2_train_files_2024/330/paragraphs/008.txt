@@ -1,0 +1,5 @@
+[8]
+In this regard, the plaintiff asks the court to apply the case law with respect to the granting of a Mareva injunction. That jurisprudence establishes that the court has jurisdiction to grant such a remedy if the circumstances indicate there is a danger of the defendant absconding or of the assets being removed from the jurisdiction or disposed of or otherwise dealt with in such a manner that, if the plaintiff obtains judgment at trial, it would not be able to have it satisfied. This was the principle stated by Lord Denning in
+Mareva Compania Naviera S.A. v. International Bulkcarriers S.A.; The Mareva
+, [1980] 1 All E.R. 213, at p. 215:
+"... that principle applies to a creditor who has a right to be paid the debt owing to him, even before he has established his right by getting judgment for it. If it appears that the debt is due and owing, and there is a danger that the debtor may dispose of his assets so as to defeat it before judgment, the court has jurisdiction in a proper case to grant an interlocutory judgment so as to prevent him disposing of those assets."

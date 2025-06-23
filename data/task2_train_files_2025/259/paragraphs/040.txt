@@ -1,0 +1,23 @@
+[40]
+The Supreme Court of Canada has on more than one occasion, considered s. 55.2 and the
+PMNOC Regulations
+. In
+Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al.
+, [1998] 2 S.C.R. 193; 227 N.R. 299; 80 C.P.R.(3d) 368, Iacobucci, J., for the Court referred to as "draconian" the fact that, merely by filing a Notice of Application with the Court, an innovator (first person) could put the application by a generic for a Notice of Compliance (NOC) on hold for up to 30 (now 24) months.
+At paragraph 30, he said that the purpose of the
+Regulations
+is simply to prevent patent infringement by delaying the issuance of an NOC to a generic until such time as there would be no such infringement. At paragraphs 32 and 33 he wrote:
+"32. Even if there were such a requirement, however, I would not find that the date of assessment is properly the 46th day following the issuance of the NOA. Considering the nature of the pharmaceutical industry, this seems an unduly restrictive approach, somewhat out of step with commercial reality. As Muldoon, J., astutely observed in
+Merck Frosst Canada Inc.
+, supra, the notion that a NOC might be granted on the 46th day after the issuance of a NOA is indeed, as Simpson, J., described it, little more than 'theoretical'. The
+Regulations
+provide for what is, in effect, a statutory prohibition on, or injunction against, the granting of a NOC, commencing immediately upon the filing by a 'first person' of an application for a court-imposed prohibition order and concluding only upon the earlier of the judicial determination of the application or the passage of 30 months. This prohibition takes effect automatically, without any consideration of the merits of the application; not even the ordinary requirements for an interlocutory injunction must be complied with. Under these conditions, and absent some prior indication to the contrary, I think it would be permissible for a generic producer to predict that either the patentee, the holder of a prior NOC, or both, is likely to attempt to protect or prolong their as-yet exclusive rights for as long as possible by taking advantage of the procedure set out in the
+Regulations
+.
+"33. There may be good policy reasons for the operation of the regulatory scheme in this fashion. However, it would be manifestly unjust to subject generic drug producers to such a draconian regime without at least permitting them to protect themselves and reduce the length of the presumptive injunction by initiating the NOC process as early as possible. As I have already said, this is not inconsistent with s. 6(2) of the
+Regulations
+, which provides only that the court shall make an order of prohibition 'if it finds that none of those allegations is justified' a finding which can only be made, at the earliest, on the date of hearing. Thus, an application could properly be rejected by the Federal Court as premature if the allegation made in its support is not justified at that time. This is sufficient, in my view, to discourage inappropriately premature applications. On the other hand, to interpret the
+Regulations
+in the manner urged by the respondents would effectively be to require generic drug producers to satisfy all requirements in s. 5 and then to wait up to an additional 30 months before marketing the desired product. This cannot be what was intended by the
+Regulations
+."

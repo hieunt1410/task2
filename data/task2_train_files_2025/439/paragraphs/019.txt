@@ -1,0 +1,8 @@
+[19]
+I turn then, to the argument that motions to strike are not within the ambit of the judicial review procedure. The jurisprudence seems clear in this regard. The Federal Court of Appeal stated in
+Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al.
+(1995), 176 N.R. 48; 58 C.P.R.(3d) 209 (F.C.A.), that the remedy of striking out an originating notice of motion was not available in such proceedings:
+"The basic explanation for the lack of a provision in the
+Federal Court Rules
+for striking out notices of motion can be found in the differences between actions and other proceedings. An action involves, once the pleadings are filed, discovery of documents, examinations for discovery, and then trials with viva voce evidence. It is obviously important that parties not be put to the delay and expense involved in taking a matter to trial if it is 'plain and obvious' (the test for striking out pleadings) that the pleading in question cannot amount to a cause of action or a defence to a cause of action. ....
+... the direct and proper way to contest an originating notice of motion which the respondent thinks to be without merit is to appear and argue at the hearing of the motion itself. This case well illustrates the waste of resources and time in adding on to what is supposed to be a summary judicial review proceeding the process of an interlocutory motion to strike."

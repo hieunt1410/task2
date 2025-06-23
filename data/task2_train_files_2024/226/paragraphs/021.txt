@@ -1,0 +1,31 @@
+[21]
+The majority of the Supreme Court of Canada in the recent decision
+Bristol-Myers Squibb Co. et al. v. Canada (Attorney General) et al.
+(2005), 334 N.R. 55; 39 C.P.R.(4th) 449; 2005 SCC 26, emphasizes that a statute must be read not just literally, but within its context of the scheme of the
+Act
+as a whole. At paragraphs 37 and 38, Binnie, J., for the majority said:
+"37 BMS argues that once it is established that paclitaxel is present in the Biolyse product, s. 5(1.1) bars the issuance of a NOC. Biolyse responds that the BMS approach is too simplistic. Biolyse invokes the modern approach to statutory interpretation, which it says is equally applicable to regulations, as set out in
+Rizzo & Rizzo Shoes Ltd. (Re)
+, [1998] 1 S.C.R. 27; 154 D.L.R.(4th) 193. In that case, the
+Ontario Employment Standards Act
+provided for termination pay and severance pay for workers where their employment was terminated by an employer. Rizzo Shoes went bankrupt. The trustee disallowed the workers' claims because their jobs had been [page 470] terminated by the bankruptcy, not by the employer. The Ontario courts agreed with the trustee. This Court reversed, Iacobucci, J., observing as follows:
+'At the heart of this conflict is an issue of statutory interpretation. Consistent with the findings of the Court of Appeal, the plain meaning of the words of the provisions here in question appears to restrict the obligation to pay termination and severance pay to those employers who have actively terminated the employment of their employees. At first blush, bankruptcy does not fit comfortably into this interpretation. However, with respect, I believe this analysis is incomplete.
+'... Elmer Driedger in
+Construction of Statutes
+(2nd Ed. 1983), best encapsulates the approach upon which I prefer to rely. He recognizes that statutory interpretation cannot be founded on the wording of the legislation alone. At p. 87 he states:
+"Today there is only one principle or approach, namely, the words of an
+Act
+are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the
+Act
+, the object of the
+Act
+, and the intention of Parliament."
+'Although the Court of Appeal looked to the plain meaning of the specific provisions in question in the present case, with respect, I believe that the court did not pay sufficient attention to the scheme of the
+ESA
+, its object or the intention of the legislature; nor was the context of the words in issue appropriately recognized. I now turn to a discussion of these issues. [Emphasis added; paras. 20, 21 and 23.]'
+"38 The same edition of Driedger adds that in the case of regulations, attention must be paid to the terms of the enabling statute:
+'It is not enough to ascertain the meaning of a regulation when read in light of its own object and the facts surrounding its making; it is also necessary to read the words conferring the power in the whole context of the authorizing statute. The intent of the statute transcends and governs the intent of the regulation.'
+(Elmer A. Driedger,
+Construction of Statutes
+(2nd Ed. 1983), at p. 247)
+"This point is significant. The scope of the regulation is constrained by its enabling legislation. Thus, one cannot simply interpret a regulation the same way one would a statutory provision. In this case, the distinction is crucial, for when viewed in that light the impugned regulation cannot take on the meaning suggested by BMS. Moreover, while the respondents' argument draws some support from the language of s. 5(1.1) isolated from its context, it overlooks a number of significant aspects of the 'modern approach'. [page 471]"

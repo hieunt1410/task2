@@ -1,0 +1,8 @@
+[187]
+Apotex misconstrues the promise of the '080 patent and the utility of the invention. Apotex states in its NOA that the "reported in vitro antimicrobial testing was but a single test relied upon in an attempt to predict levofloxacin's utility - that it would be a very useful pharmaceutical agent as compared with ofloxacin"; however, the '080 patent merely states that it is "expected" that levofloxacin will be a very useful pharmaceutical agent as compared to ofloxacin. Justice Hughes eloquently summarized the utility of claim 4 in the
+Novopharm
+Trial:
+"[126] ... What the Patent asserts, at the end of the day, is set out at page 2. The S(-) form of Ofloxacin has increased antimicrobial activity, reduced toxicity and markedly high water solubility, giving it an expectation to be a very useful pharmaceutical agent. This statement is correct. To even find this distribution of attributes, namely, more of the beneficial properties and at least no more of the detrimental, was itself remarkable."
+D. Is the '080 patent void pursuant to paragraphs 40(1)(a) and (c) of the Patent
+Act
+?

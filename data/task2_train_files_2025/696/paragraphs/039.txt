@@ -1,0 +1,5 @@
+[39]
+Jager is of the view that the patent did not intend to exclude nonoverhead hoppers from the scope of the invention because:
+1) the function of the hopper is to collect the logs and assemble those logs into a pile and a nonoverhead hopper carries out that function;
+2) it is not necessary to the functioning of the invention, as a whole, that the hopper be an overhead hopper;
+3) in claim 1, the inventor sought protection for a "hopper" that "places" the log pile into the feed compartment. However, in claim 2 (a subset of claim 1) the inventor sought protection for a more limited embodiment of the invention where the hopper "dropped" the log pile into the feed compartment. Therefore claim 1 is broader than claim 2. In Jager's opinion, if the inventor had intended to limit the subject matter of claim 2 to hoppers that "drop" the pile, the hopper of claim 2 would be limited to an overhead hopper. However, as the inventor used the term "placed" the inventor intended that the hopper as claimed in claim 1 not be limited to an overhead hopper.

@@ -1,0 +1,87 @@
+Apotex Inc. v. Servier Can. Inc., [2009] F.T.R. Uned. 198 (FC)
+MLB unedited judgment
+Apotex Inc. (plaintiff) v. Servier Canada Inc. (defendant)
+(T-1783-08; 2009 FC 319)
+Indexed As: Apotex Inc. v. Servier Canada Inc.
+Cite As: [2009] F.T.R. Uned. 198
+Federal Court
+Mactavish, J.
+March 25, 2009.
+Counsel:
+David Lederman, for the plaintiff;
+Daniel A. Artola and Laetitia Caporicci, for the defendant;
+Solicitors of Record:
+Goodmans, LLP, Toronto, Ontario, for the plaintiff;
+Ogilvy Renault, LLP, Toronto, Ontario, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+[1]
+Mactavish, J.
+: In response to Notices of Allegation served upon it by Apotex Inc., Servier Canada Inc. commenced prohibition proceedings in this Court in accordance with provisions of the
+Patented Medicines (Notice of Compliance) Regulations ("PM(NOC) Regulations")
+. After these proceedings were subsequently discontinued by Servier, this action was commenced by Apotex Inc.
+[2]
+Servier seeks to strike portions of Apotex's statement of claim pursuant to Rule 221 of the
+Federal Courts Rules
+. Servier says that to the extent that Apotex seeks the disgorgement of revenues earned by Servier in relation to its Gliclazide product as a remedy under section 8 of the
+PM(NOC) Regulations
+, it is plain and obvious that such a remedy is not available to it.
+[3]
+Servier further argues that a number of paragraphs in Apotex's statement of claim are improper, as they amount to "arguments and emotion", as opposed to a statement of material facts.
+[4]
+For the reasons that follow, Servier's motion will be granted in part.
+The Claim for Disgorgement of Revenues
+[5]
+Servier acknowledges that there has in the past been some confusion as to the remedies that will be available in claims under the previous version of section 8(4) of the
+PM(NOC) Regulations
+. That uncertainty was resolved, Servier says, with FRAGMENT_SUPPRESSED a plaintiff generic seeking relief under section 8(4) of the Regulations was limited to compensation for its losses, and was not entitled to the disgorgement of any profits that may have been earned by the originator company.
+[6]
+Servier further submits that any residual doubt that may have remained as to the scope of the remedies available to generic manufacturers in relation to claims under section 8(4) of the Regulations was eliminated by the 2006 amendments to the Regulations. While the pre-amendment Regulations allowed the Court to grant a remedy "by way of damages
+or profits
+", the version of the
+PM(NOC) Regulations
+governing this action provides that the Court may "make any order for relief by way of damages".
+[7]
+According to Servier, by eliminating the words "or profits" from the Regulation, it is now clear that a successful generic in a claim under section 8(4) of the Regulations will be limited to compensation for its own losses. That this was Parliament's intent in enacting the amendment is demonstrated, Servier says, by a review of the Regulatory Impact Analysis Statement (or "RIAS") issued in relation to the amendments.
+[8]
+That is, referring to the ongoing debate as to the ability of a generic to obtain an accounting of an originator's profits under the earlier version of section 8(4) of the Regulations, the RIAS states "the Government believes that this line of argument should no longer be open to generic companies that invoke section 8".
+[9]
+Apotex concedes that the effect of both Justice Hughes' decision and the amendments to section 8(4) is that it can no longer advance a claim in unjust enrichment under section 8(4) of the Regulations. Apotex argues, however, that what has not thus far been determined is whether a request for equitable relief of this nature can be advanced by a generic in cases such as this under subsection 20(2) of the
+Federal Courts Act
+, independently of any claim by a generic under section 8(4) of the Regulations.
+[10]
+As a result, Apotex submits that it is not plain and obvious that its claim in unjust enrichment cannot succeed, and the paragraphs in the statement of claim in issue should not be struck.
+[11]
+Whether or not a claim for unjust enrichment could ever be advanced by a generic in circumstances such as this under subsection 20(2) of the
+Federal Courts Act
+, independently of a claim under section 8(4) of the Regulations, is an issue that I do not need to resolve for the purposes of this motion and will leave for another day.
+[12]
+This is because the basis for Apotex's argument is not reflective of the way in which the statement of claim is actually drafted in this case.
+[13]
+What is evident from a fair reading of Apotex's statement of claim, as it currently stands, is that the company's claims for the disgorgement of revenues and unjust enrichment are framed entirely in terms of section 8(4) of the Regulations. There is no mention of section 20(2) of the
+Federal Courts Act
+in the pleading, and indeed Servier was not even aware of the legal basis now being asserted for this aspect of Apotex's claim until such time as it received Apotex's memorandum of fact and law filed in relation to this motion.
+[14]
+As was noted earlier, Apotex has conceded that it cannot advance a claim in unjust enrichment under section 8(4) of the Regulations. In these circumstances, it is plain and obvious that Apotex's claims for disgorgement of revenues and unjust enrichment, as they are currently pleaded, disclose no reasonable cause of action. As a consequence, Servier's motion to strike paragraphs 1(b), 20, 21, 22, 23, 24 and 25 of Apotex's statement of claim is granted, without prejudice to Apotex's right to amend its statement of claim to properly plead reliance on section 20(2) of the
+Federal Courts Act
+.
+The "Background Pleadings"
+[15]
+Servier also seeks to strike paragraphs 6 to 13 of Apotex's statement of claim, arguing that they are not statements of material facts but are instead Apotex's interpretation as to the legal effect of the
+PM(NOC) Regulations
+, the
+Food and Drugs Act
+, and the Regulations thereunder. As such, Servier says, they are wholly immaterial and should be struck.
+[16]
+A review of the disputed paragraphs confirms that they essentially explain the regulatory regime underlying the action. As such, I am satisfied that the pleadings properly provide background to the claim and are neither immaterial nor redundant, nor are they scandalous, frivolous or vexations. Moreover, it is not alleged that any prejudice to Servier will result if the paragraphs are left in, and it is clear that Servier understood the paragraphs sufficiently as to be able to respond to them, as it has already delivered its statement of defence in this matter.
+[17]
+As a consequence, this aspect of Servier's motion is dismissed. Given that success in this matter was divided, there will be no order as to costs.
+ORDER
+[18]
+THIS COURT ORDERS that
+:
+1. Servier's motion is granted in part. Paragraphs 1(b), 20, 21, 22, 23, 24 and 25 of Apotex's statement of claim are struck, without prejudice to Apotex's right to amend its statement of claim to properly plead reliance on section 20(2) of the
+Federal Courts Act
+. In all other respects, the motion is dismissed.
+2. Each party shall bear its own costs.
+[End of document]

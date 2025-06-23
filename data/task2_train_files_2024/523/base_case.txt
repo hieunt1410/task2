@@ -1,0 +1,129 @@
+[1]
+Tabib, Prothonotary
+: The principal issue before the Court on this motion is whether a counterclaim in the nature of a quia timet action on infringement, which would admittedly be improper and subject to be struck if brought as an independent action, can nevertheless be saved and allowed to proceed when brought in response to an action seeking a declaration of non-infringement.
+[2]
+If the counterclaim is not struck, the second issue is whether the Plaintiff-by-Counterclaim should, in the circumstances of this case, post security for costs, and if so, in what amount.
+Pleadings and Procedural History
+:
+[3]
+The Defendant and Plaintiff-by-Counterclaim, H. Lundbeck A/S ("Lundbeck"), is the owner of Canadian Patent No. 1,339,452, which covers the antidepressant escitalopram. Wishing to sell its generic version of escitalopram in Canada, the Plaintiff, Apotex, Inc. ("Apotex"), filed an application for a notice of compliance ("NOC") pursuant to the
+Patented Medicine (Notice of Compliance) Regulations
+SOR/93-133 (the "
+Regulations
+"). The ensuing application for a prohibition order brought by Lundbeck and its Canadian subsidiary was granted on March 9, 2009, and this Court issued an Order prohibiting the Minister of Health from issuing an NOC to Apotex in respect of its escitalopram product until after the expiration of the '452 patent. It is to be noted that the absence of an NOC effectively prevents Apotex from selling the drug in Canada, but not to manufacture, import or use the drug in Canada. The Judgement granting the prohibition order has been appealed and the appeal is scheduled to be heard on September 14, 2010.
+[4]
+Notwithstanding the appeal, Apotex filed the present action on August 21, 2009, seeking not only a declaration that each of the claims of the '452 Patent is invalid and void pursuant to section 60(1) of the
+Patent
+Act
+, but also a declaration pursuant to section 60(2) of the
+Patent
+Act
+that its making, using or selling of escitalopram in Canada will not infringe the '452 Patent. While specific invalidity allegations are made in respect of each claim of the patent, specific non-infringement allegations are only made in respect of claims 2, 4, 5 (as it depends on claim 4) and 6 to 11 of the patent. There are no allegations of non-infringement specific to claims 1, 3 and 5 (as it depends on claim 3).
+[5]
+In response to this Statement of Claim, Lundbeck filed a Statement of Defence and Counterclaim, by which it denies all Apotex's allegations and further, by counterclaim, seeks the following principal remedies:
+"(a) A declaration that the 452 patent has been infringed by Apotex.
+"(b) An interim, an interlocutory and a permanent injunction restraining Apotex, its directors, officers, employees, agents, and all those acting in privity with or under the control of Apotex, from:
+(i) Manufacturing, using, selling or offering for sale the Apotex product in Canada.
+(ii) Manufacturing, using, selling or offering for sale escitalopram in Canada.
+(iii) Manufacturing, using, selling or offering for sale the (-) enantiomer of the intermediate diol in Canada.
+(iv) Using the processes described in claims 7 to 11.
+(v) Manufacturing, selling or offering for sale a product made according to those processes.
+(vi) Otherwise infringing the 452 patent.
+"(c) An order directing the delivery up to Apotex, or destruction upon oath, of any and all Apotex product covered by one or more claims of the 452 patent, and any and all advertising, marketing and promotional materials related thereto.
+"(d) Damages for patent infringement, or an accounting of profits made by Apotex by reason of its infringement of the 452 patent, whichever Lundbeck may elect, in an amount to be determined by this Court. [...]"
+[6]
+Although paragraph 192 of the Statement of Defence and Counterclaim specifically alleges that Apotex "has or had manufactured for it and imported or had imported for it escitalopram or pharmaceutical compositions containing escitalopram in commercial quantities", the very generality of the allegation and lack of particulars provided show - and it was readily admitted by counsel for Lundbeck at the hearing before me - that Lundbeck currently has knowledge of no material facts which would show that Apotex has actually begun infringing activities. As a result, Lundbeck conceded at the hearing that paragraph 192 of its Statement of Defence and Counterclaim and those paragraphs seeking damages, an accounting of profits, delivery up or destruction of product (sub-paragraphs 186(c) and (d)) should be struck. The Court further noted that the declaration sought, at paragraph 186(a), is to the effect that the '452 Patent
+has
+been infringed by Apotex, even though the remaining allegations of the counterclaim clearly cover acts of infringement in the future. Counsel for Lundbeck indicated that the declaratory relief sought should have read "that the '452 Patent has and will be infringed" and that should the counterclaim be allowed to stand, the relevant paragraph should be amended to read "will be infringed" only.
+[7]
+As for the material facts showing that Apotex intends to manufacture, use, import or sell escitalopram in Canada, Lundbeck relies solely on the fact that Apotex has expressed that wish in the pleadings themselves and on the steps that Apotex has taken to further that wish, in filing an Abbreviated New Drug Submission with the Minister, serving a notice of allegation, defending the resulting application for a prohibition order, appealing same, and instituting the present action. The allegations of the counterclaim are consistent with this.
+Motion to strike
+:
+[8]
+It has consistently been held by this Court that the actions of a "second person" in pursuing the mechanism set out in the
+Regulations
+do not, by themselves, justify the bringing of a quia timet proceeding by the patent owner (see, inter alia,
+Connaught Laboratories Ltd. v. SmithKline Beecham Pharma Inc.
+(1998), 158 F.T.R. 194; 86 C.P.R.(3d) 36 (T.D.),
+AstraZeneca Canada Inc. et al. v. Novopharm Ltd.
+(2009), 359 F.T.R. 279; 2009 FC 1209, affd. (2010), 402 N.R. 95; 2010 FCA 112 and
+Pfizer Research and Development Co. N.V./S.A. et al. v. Lily ICOS LLC et al.
+, [2003] F.T.R. Uned. 416; 27 C.P.R.(4th) 86 (T.D.)). Lundbeck recognizes this, and even concedes that, had its counterclaim been filed as an independent action, in the absence of Apotex's action for a declaration of non-infringement, it should be struck in accordance with these authorities.
+[9]
+Lundbeck however argues that the circumstances herein are materially different from the circumstances in the above-mentioned cases in the crucial fact that Apotex, in its action, specifically seeks a declaration to the effect that its proposed escitalopram product will not infringe the '452 Patent. I agree.
+[10]
+The decision in
+Connaught Laboratories
+, supra, sets out three criteria to be met for a valid quia timet proceeding, including that the apprehended activity be "imminent". While these jurisprudential criteria have been consistently accepted and applied, to both patent actions and counterclaims, I cannot think that circumstances like those that exist here were within the contemplation of the Court when the criteria were enunciated. Indeed, in
+Connaught Laboratories
+and in all but three of the cases brought to my attention by Apotex, the pleading at issue was the principal action. In the three cases where the criteria were applied to strike counterclaims, the counterclaim was brought in response to a simple impeachment action, where no declaration of non-infringement was sought (See
+Pfizer
+, supra,
+GlaxoSmithKline Biologicals S.A. v. Novartis Vaccines and Diagnostics Inc.
+, [2007] F.T.R. Uned. 550; 2007 FC 833 and
+Faulding Canada Inc. v. Pharmacia S.p.A.
+(1998), 154 F.T.R. 209; 82 C.P.R.(3d) 435 (T.D.)).
+[11]
+Further, a review of the authorities indicate that the fundamental concern in regulating the use of quia timet proceedings is preventing abuses of process and ensuring that judicial resources are not wasted in determining matters that will have no practical effect. In the field of injunctions for patent infringement, the concept of abuse of process looms particularly large. Most of the quia timet proceedings struck by this Court have foundered primarily on the inability of the claimant to provide sufficient particulars as to what exactly the Defendant proposed to do, and the claimant's obvious intent to rely on the discovery process to make up for its lack of knowledge. A pleading which fails to set out sufficient material facts and relies on discovery to provide the needed particulars is an abuse of process. This was, in fact, the first reason given by Justice Rothstein for striking the proceedings in
+Merck & Co. et al. v. Apotex Inc.
+, [1997] F.T.R. Uned. 114; 72 C.P.R.(3d) 515 (T.D.), at p. 516. See also
+AstraZeneca Canada Inc. v. Novopharm Ltd.
+, supra, at para. 16 to 18,
+Glaxosmithkline
+, supra, and
+Faulding
+, supra.
+[12]
+In the present case, there can be no suggestion of abuse of process or of the counterclaim being improperly used to launch a fishing expedition on discovery. In seeking a declaration of non-infringement, Apotex is itself proposing to put before the Court for determination of whether or not it infringes the '452 Patent a precise and definite product and formulation and the specific manner in which it is to be manufactured, as it must do if the Court is not to be asked to rule in a vacuum or on hypothetical facts (see
+Lammli v. Cousins
+, [2002] F.T.R. Uned. 319; 2002 FCT 437). It is that very same formulation, product and process which Lundbeck seeks to be declared infringing and enjoined. It surely cannot be said to be improper or abusive for Lundbeck to seek from the Court, on the very same factual matrix as has been put in issue by Apotex, the conclusions, declarations and remedies opposite to what Apotex is seeking, or for it to benefit to that end from the discovery on these facts which Apotex has itself invited.
+[13]
+It is of further particular concern that Apotex's action does not seek a declaration of non-infringement in respect of three of the patent's claims. This could lead to a situation where any or all of these three claims are found to be valid, but without any determination as to whether they will be infringed by Apotex's proposed product or process. Lundbeck's counterclaim addresses that gap. To prevent Lundbeck's counterclaim from proceeding and finally resolving all issues between the parties on Apotex's proposed activities would lead to a situation where, having engaged the Court's process and expended the Court's and the parties' resources to scrutinize Apotex's proposed product in light of the patent's claims, Apotex could come to market only for a new infringement action being launched, on the same patent, product and process, in order to resolve the infringement issues on these outstanding three claims. Surely, such waste of the Court's process cannot be the intended result of the application of the principles governing quia timet proceedings.
+[14]
+I am therefore satisfied that it is at least arguable that the criteria set out in
+Connaught Laboratories
+should be applied with more flexibility where a quia timet proceeding is brought in response to an action for a declaration of non-infringement. That is enough to dismiss Apotex's motion to strike.
+Security for Costs
+[15]
+Having determined that Lundbeck's counterclaim should not be struck, I now turn to that part of Apotex's motion seeking security for costs.
+[16]
+It is common ground between parties that Lundbeck is not ordinarily resident in Canada and that the provisions of Rule 416(1)(a) apply to plaintiffs by counterclaim, such that Apotex is prima facie entitled to an order that Lundbeck provide security for its costs. Lundbeck, however, argues that the amount of security requested by Apotex is excessive and that in any event, because of Lundbeck's considerable assets, Apotex is at no real risk of recovering any award of costs made in its favour, such that the Court should exercise its discretion to dispense it from the requirement of posting security.
+[17]
+Lundbeck has adduced evidence showing that it does have very substantial assets as well as revenues of several million dollars annually. The evidence, however, falls short of showing that any of these assets are located in Canada, apart from Lundbeck's shareholding in Lundbeck Canada Inc., an apparent license agreement with Lundbeck Canada to distribute escitalopram (see paragraph 4 of the statement of claim, as admitted) and the Canadian patent which is the subject of these proceedings. Nor does the evidence provide a value for any of these Canadian assets.
+[18]
+As it applies to foreign residents, the requirement to post security for costs ensures that a defendant impleaded in Canada can enforce in Canada any award of costs made in its favour, and is not put upon to institute foreign proceedings in order to recover its due. As such, the case law has generally required that the foreign plaintiff show sufficient assets in Canada to satisfy a likely award of costs in order to be dispensed with the requirement of posting security. (
+K-Tel International Ltd. et al. v. Benoît et al.
+(1995), 92 F.T.R. 157 (T.D.),
+Structural Instrumentation Inc. v. Balance Electronique de Camion R.T. Inc.
+(1993), 68 F.T.R. 133 (T.D.)). A plaintiff's foreign assets will not, of themselves, justify exempting a foreign plaintiff from providing security for costs. Lundbeck's reliance on the case of
+Pembina County Water Resource District et al. v. Manitoba et al.
+, [2005] F.T.R. Uned. A76; 2005 FC 1226 is misplaced. While the plaintiffs' ability to pay an award of costs with assets located outside of Canada was considered in that case, it was considered as one of several factors; further, it is clear that one of the main factors justifying the Court's exercise of its discretion in that case was the plaintiffs' special status before the Court, as having brought the action pursuant to the
+International Boundary Waters Treaty
+Act
+, R.S. 1985, c. I-17.
+[19]
+That said, Lundbeck's demonstrated ability to pay an award of costs - albeit from assets located in numerous other countries - as well as the fact that it does have some assets in Canada, even if their value is not established, may still be taken into consideration, along with any other relevant factor.
+[20]
+One such relevant factor is the particular nature of Lundbeck's counterclaim. As discussed above, the counterclaim cannot succeed as an independent action. Its validity is predicated on it being a direct response and counterpoint to Apotex's action for a declaration of non-infringement, seeking, on the same facts as advanced by Apotex, the opposite conclusions and remedies. Even though a counterclaim may, in principle, proceed independently of the main action, this particular counterclaim is indissociable from the main action: Should Apotex discontinue or abandon its action for a declaration of non-infringement, Lundbeck's counterclaim, as it stands, will necessarily be dismissed.
+[21]
+It has been held, in
+FRAGMENT_SUPPRESSED, that security for costs are referable to the costs of the plaintiff's claim and not to the defendant's counterclaim. In this instance, security for Apotex's costs must thus be referable to its costs of defending Lundbeck's counterclaim - not to its costs of pursuing its action. As Apotex is the instigator of the main action for a declaration of non-infringement, and as Lundbeck's counterclaim is dependent upon that action and relies on the same facts, ordering Lundbeck to post security for Apotex's full costs of defending the counterclaim would be tantamount to ordering it to pay security for Apotex's costs of pursuing its action. If Apotex's expected costs of defending the counterclaim can be shown to exceed its costs of pursuing the action, however, security should be given, but only for the excess.
+[22]
+On this motion, Apotex has not attempted to establish or distinguish what portions of the anticipated costs would be attributable to its action, and what portions to the counterclaim. Indeed, the draft bill of costs includes items that can only be referable to the impeachment portion of the action, such as conducting discovery of the inventors, including all motions, letters rogatory and motions to compel relating thereto, and searches for prior art. The draft bill of costs also fails to particularize any of the "disbursements", including air travel, hotel expenses and experts' fees, even though they are estimated to exceed $200,000. Finally, the draft bill of costs anticipates a 25 day trial, such as to lead one to conclude that it covers a trial on all issues of the action and counterclaim.
+[23]
+If there is any indication provided in this draft bill of costs or anywhere else in the record that the costs of defending the counterclaim would be even marginally more than the costs of pursuing Apotex's action, it is for the steps of preparing and filing a defense to counterclaim, making a motion for particulars and security for costs (even though no motion for particulars has been announced) and making a motion for bifurcation (which is no longer necessary as Lundbeck has conceded that its claim for damages should be struck). There again, the amounts claimed for these steps are clearly excessive as they are based on solicitor and client costs, even though no circumstances have been pleaded or alluded to that might conceivably give rise to such an award. The costs of preparing a defense to counterclaim and of a hypothetical motion for particulars, assessed at the middle of Column III of the Tariff as would be a reasonably likely award, would be but a few thousand dollars.
+[24]
+Taking into consideration the presence in Canada of some assets, however minimal, the substantial worldwide revenues and assets of Lundbeck, the dependent nature of its counterclaim and the minimal incremental costs to Apotex of defending Lundbeck's counterclaim, as opposed to pursuing its own action, I am satisfied that Lundbeck should be exempted from the requirement to post security for costs.
+Costs
+[25]
+At the outset of the hearing, the parties agreed that the appropriate dollar value for this motion was of $1,500.00. Lundbeck having been substantially successful on both aspects of the motion, it will have its costs of the motion, fixed at the agreed amount of $1,500.00.
+ORDER
+[26]
+IT IS ORDERED THAT
+:
+1. Paragraph 192 and sub-paragraphs 186(c) and (d) of Lundbeck's counterclaim are struck.
+2. Sub-paragraph 186(a) of Lundbeck's counterclaim is amended so that the words "has been" are replaced by the words "will be".
+3. Apotex's motion is otherwise dismissed, with costs to Lundbeck in the fixed amount of $1,500.00.
+Motion dismissed.
+Editor: Gary W. McLaughlin/vnh
+[End of document]

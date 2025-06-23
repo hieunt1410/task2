@@ -1,0 +1,253 @@
+[1]
+Joyal, J.
+: The applicants, Pfizer Canada Inc. and Pfizer Corporation seek an order pursuant to s. 6(1) of the
+Patented Medicines (Notice of Compliance) Regulations
+, SOR/93-133 (the "
+Regulations
+"), prohibiting the Minister of National Health and Welfare from issuing a Notice of Compliance to the respondent, Nu-Pharm Inc., for fluconazole tablets and capsules until the expiration of Canadian Letters Patent 1,181,076 (the "076 patent").
+[2]
+Pfizer Corporation is the owner of the '076 patent, and Pfizer Canada Inc. is its licensee. The patent was included in four patent lists submitted by Pfizer Canada Inc., pursuant to s. 4(1) of the
+Regulations
+.
+[3]
+As part of the procedure to market its own version of fluconazole in Canada, the respondent, known as a generic drug manufacturer, submitted to the Minister an application for a Notice of Compliance ("NOC") alleging that the applicants' '076 patent would not be infringed by making, constructing, using or selling fluconazole tablets or capsules. Notice of this allegation ("NOA") was given to the applicants in a letter dated June 23, 1995, which stated that the fluconazole to be marketed by Nu-Pharm would be manufactured by a process which did not infringe the '076 patent. The process referred to by the respondent is the one used by its supplier, Apotex Inc. (the "Apotex process").
+[4]
+It is well established that in order to grant a prohibition order, the court must find that the patentee has established, on a balance of probabilities, that the second person's allegations are
+not
+justified. In determining the nature of the burden to be met by the applicants, it is important to remember that the proceeding under s. 6(2) is not an ordinary infringement action. Rather, it is a summary proceeding intended to allow a patent owner to protect its patent rights where the generic's allegations of noninfringement or invalidity have no merit. Accordingly, if a patent owner cannot establish that the generic's allegations have no merit, the prohibition application should be dismissed and the issue left to be resolved by more conventional measures.
+I.
+PRELIMINARY ISSUES
+[5]
+Before delving into the heart of the matter, three preliminary issues must first be addressed.
+[6]
+Firstly, it is argued by the applicants that the respondent's allegation of noninfringement is invalid on the grounds that the Apotex process involved is not contained in the respondent's New Drug Submission ("NDS") at the date of the service of the respondent's Notice of Allegation ("NOA"). The applicants allege that under the
+Regulations
+, the NDS, the NOA and the detailed statement of fact behind the allegation are "inextricably linked" and cannot be amended. The applicants, in this respect, rely on
+Hoffmann-La Roche Ltd. et al. v. Canada (Minister of National Health and Welfare)
+(1996), 70 C.P.R.(3d) 206 (F.C.A.).
+[7]
+Secondly, the applicants argue that since the Apotex process is not in the respondent's NDS, there is no basis for any allegation respecting its noninfringing process.
+[8]
+Thirdly, it is argued by the applicants that the respondent never complied with the requirement of s. 5(3) of the
+Regulations
+and never produced a detailed statement of the legal and factual basis for the allegation, even after the protective order assuring confidentiality had issued.
+[9]
+In response, the respondent submits that a NOA does not initiate a judicial proceeding or carry an independent legal significance; it only serves to define and limit the scope of any subsequent inquiry whenever a prohibition proceeding is initiated by a patentee.
+[10]
+Further, says the respondent, a NDS, unlike a NOA, does not form part of the judicial record in prohibition proceedings, but is simply directed to the Minister to initiate the administration process required by the
+Regulations
+. In any event, a NDS is irrelevant in any prohibition proceeding which is commenced with the particular merits of the allegations at issue. The provisions of s. 6(1) and 6(2) of the
+Regulations
+make no reference at all to a NDS, but simply require the patentee to demonstrate that an allegation is unjustified.
+[11]
+The respondent also suggests that the only requirement in the
+Regulations
+which relates to a NDS is s. 5, pursuant to which the respondent must include the allegations set out in s. 5(1)(b)(i) to (iv).
+[12]
+I find it a bit difficult to deal realistically with these preliminary issues raised by the applicants. I have before me the Applicants' Motion Record containing some 1345 full-scap pages as well as a Memorandum of Argument containing some 55 full-scap pages. Furthermore, the court file refers to some 20 judicial interventions over the three-year period from the institution of the prohibition motion until June 22, 1998, when the four-day hearing on the Motion began. I can only conclude that for purposes of pharmaceutical patent challenges, "summary proceedings" may have become an oxymoron.
+[13]
+These remarks are not intended to be critical of counsel, whose inventiveness in structuring argument might well qualify for patent protection. As a result, the situation to date is that every nook and cranny of the
+Regulations
+have been touched by the judicialization process. The court has often to be reminded that a NOC issued under the
+Regulations
+in no way prejudices the patentee from instituting any infringement proceedings. Nevertheless, the adversarial proceedings which the
+Regulations
+create sometimes appear prodigal and over-indulgent.
+[14]
+Be that as it may, I should find that these preliminary issues raised by the applicant do not have very much merit. I take judicial notice, first of all, that counsel for the parties have locked horns on the issue of the fluconazole patent in two previous cases, namely in:
+1.
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(1998), 77 C.P.R.(3d) 547 (F.C.T.D.), where Richard, J. (as he then was), ruled in favour of the patentee and declared that the so-called "acetate" process advanced by Apotex Inc. infringed on the '076 patent of the patentee; and
+2.
+FRAGMENT_SUPPRESSED, where Madame Justice Reed ruled in favour of the respondent Apotex Inc., finding that the allegation of noninfringement in the use of the olefin process had not been rebutted, and accordingly dismissed the applicants' motion.
+[15]
+I should conclude that the issues between the parties before me have become quite familiar. In the court file is evidence of many tactical moves, but nowhere can I find that well-briefed and articulate counsel did not know what was going on. I do find no prejudice to applicants' full and proper conduct of their case. A six-volume applicants' Record and four days of argument are fairly good evidence of that.
+[16]
+In any event, whatever the alleged original shortcomings in the proceedings, it is in June 1996 that the respondent amended its NDS to outline an "alternative" process, identified as the "olefin" process, as a source of fluconazole, which the respondent would obtain from Apotex, i.e., the same process found by Reed, J., to be noninfringing. The fairness of this whole truckage might find support in
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(1997), 134 F.T.R. 201 (T.D.), where faced with the same parties and the same drug fluconazole, Wetston, J., found that the
+Regulations
+do not require a respondent to provide evidence that the process in the NDS and in the NOA is the same, and further, that in accordance with
+Merck Frosst Canada Inc. v. Canada
+(1994), 55 C.P.R.(3d) 302 (F.C.T.D.), the summary procedure character of the
+Regulations
+precludes discovery of documents.
+[17]
+To conclude, I should find little merit in the preliminary issues raised by the applicants. As far as I am concerned, the proceedings to date, although made more complex by many peripheral challenges, offer no evidence of illegality, no breach of the rules, no element of unfairness or prejudice visited upon the applicants by the respondent and no valid reason why the issue before me should not be decided on the merits.
+[18]
+I must nonetheless deal with a more recent decision of the Supreme Court of Canada dated July 9, 1998, in the case of
+Apotex Inc. v. Merck Frosst Canada Inc. et al.
+(1998), 227 N.R. 201 (S.C.C.). In that decision, Iacobucci, J., speaking for the court, ruled that any noninfringement allegation in a NOA is to be assessed as of the date of the hearing. His Lordship refused to accept the argument that the allegation must be justified at an earlier date or the Minister can grant a NOC on the 46th day if an application has not been commenced. He recognized that the
+Regulations
+do not oblige the Minister to issue a NOC on a particular date. They simply
+prevent
+him from issuing one until the regulatory requirements have been satisfied.
+[19]
+The applicants, in written submissions filed after issuance of the above decision, argued forcefully that the decision should apply to them, that the NOA should be struck down and that an order of Prohibition should issue.
+[20]
+I am not certain that the Supreme Court ruling goes that far. It seems to me that it is the
+merits
+of an allegation that require determination as of the date of the hearing. The Supreme Court did not determine that an applicant for a NOC must meet all regulatory requirements on the date of the hearing. There is no obligation on the Minister to issue a NOC, no matter what the court decides on the patentee's application. In my respectful view, the
+Regulations
+need purposeful interpretation, and any ruling on any particular issue requires respect for the scheme itself and for what can be gleaned from what has already become a mass if not a mess of jurisprudence.
+[21]
+In a more extensive observation by Iacobucci, J., in
+Eli Lilly and Co. et al. v. Novopharm Ltd.
+(1998), 227 N.R. 201 (S.C.C.), in a decision also dated July 9, 1998, it is stated at p. 51:
+"... I am of the view that it would be inappropriate for this court to grant the requested relief in light of the nature of these proceedings. As McGillis, J., correctly observed, the summary judicial review that is to be conducted on an application for a prohibition order under the
+Regulations
+is highly fact-specific and is generally considered to be binding only on the parties in the specific litigation ...
+"In
+Merck Frosst Canada Inc. v. Canada (Minister of National Health and Welfare)
+(1994), 55 C.P.R.(3d) 302 (F.C.A.), at pp. 319-320, Hugessen, J.A., made the point in the following terms, with which I agree:
+'... Those proceedings, after all, are instituted by the patentee and seek a prohibition against the Minister; since they take the form of a summary application for judicial review, it is impossible to conceive of them giving rise to a counterclaim by the respondent seeking such a declaration. Patent invalidity, like patent infringement, cannot be litigated in this kind of proceeding.'
+"This point was reinforced more recently by Strayer, J.A., in
+David Bull Laboratories (Canada) Inc. v. Pharmacia Inc.
+, [1995] 1 F.C. 588 at p. 600:
+'If the Governor-in-Council had intended by these
+Regulations
+to provide for a final determination of the issues of validity or infringement, a determination which would be binding on all private parties and preclude future litigation of the same issues, it surely would have said so. This court is not prepared to accept that patentees and generic companies alike have been forced to make their sole assertion of their private rights through the summary procedure of a judicial review application. As the
+Regulations
+direct that such issues as may be adjudicated at this time must be addressed through such a process, this is fairly clear indication that these issues must be of a limited or preliminary nature. If a full trial of validity or infringement issues is required this can be obtained in the usual way by commencing an action.'"
+[22]
+Also relevant to this issue are the very recent comments of my colleague, Wetston, J., in court file T-2152-97, Judgment dated July 22, 1998, [See
+Reference Re Patented Medicine
+(1998), 152 F.T.R. 262 (T.D.)] in dealing with a reference pursuant to s. 18(3)(1) of the
+Federal Court Act
+and involving Merck Frosst Canada Inc. and Apotex Inc. His Lordship was invited to rule on "... whether in law [the Minister] is precluded by s. 7(1)(b) of the
+Regulations
+from issuing a NOC to Apotex for the new claims in the absence of a fresh service of a NOA on Merck, the first person in respect of which a patent has been submitted". In endorsing the authority of the Minister in this respect, Wetston, J., said at para. 21:
+"In my opinion, my decision in T-1273-97 does squarely address the issue raised in this reference. The Court of Appeal has held that the purpose of the
+NOC Regulations
+is to ensure that a NOC is not issued without a patent-holder having had the opportunity to defend its patent:
+Apotex Inc. v. Canada (Minister of National Health and Welfare)
+(1997), 153 D.L.R.(4th) 68 at 78-79. In this case, it is clear that Merck received notice of Apotex's allegation that no claims concerning use within Merck's patents would be infringed by, among other things, the use of Apo-lovastatin."
+[23]
+At para. 23, Wetston further stated:
+"As I stated in my decision in T-1273-97, the NDS review process is separate and distinct from the prohibition proceedings provided for under s. 6 of the
+NOC Regulations
+. It is the NOA, not a NDS or SANDS, that underpins prohibition proceedings under the
+NOC Regulations
+. While an allegation must be attached to a NDS or SANDS, the validity of an allegation with respect to a claim for the medicine itself or a claim for the use of a medicine only needs to be linked to the proposed method of manufacture or, as the case may be, use of the medicine specified in the NDS, prior to the issuance of a NOC:
+Smithkline Beecham-Pharma Inc. v. The Minister of Health and Welfare et al.
+(T-2528-96, 24 November 1997, F.C.T.D.)."
+[24]
+And finally, at para. 24, Wetston, J., observed as follows:
+"Recently, the Supreme Court of Canada, in
+Merck Frosst Canada Inc. v. Canada (Minister of National Health and Welfare)
+, [1998] S.C.J. No. 58 (Q.L.) approved of the approach to the
+NOC Regulations
+adopted in
+Smithkline Beecham
+, supra. While the issues before the Supreme Court were different from the issues in this reference, nevertheless Mr. Justice Iacobucci, writing for the court, noted that
+Smithkline Beecham
+, supra, represents a correct statement of the law with respect to the timing of a NOA."
+[25]
+I should therefore conclude that the case before me cannot, and in any event, should not, be resolved on technical or interlocutory grounds, but rather, consonant with the basic temper of the scheme, it should be resolved on the merits of the allegation, which, as noted before, have been the subject of meticulous attention by the parties.
+II. Infringement
+[26]
+Now I turn to the main issue before the court: whether the applicants have met their burden of proving that the respondent's allegation is not justified.
+[27]
+In order to determine whether the Apotex process infringes the '076 patent, the latter must first be construed. Construction of a patent's claims is made on a purposive basis. In other words, the text of the claims and the state of the art at the time of the filing of the application of the patent are examined to determine the intention of the inventor. Once this is done, the alleged infringing process must be examined to assess whether it falls within the scope of the patent's claims as construed.
+(a) The '076 Patent:
+[28]
+The '076 patent is stated to relate to a "novel bis-triazole derivative which has antifungal activity and is useful in the treatment of fungal infections in animals, including humans". This derivative is know as fluconazole.
+[29]
+Fluconazole has a chemical name of 2-(2, 4 - difluorphenyl-1-1,3-bis (1H-1, 2, 4 triazole-1-yl)-propan-2-ol. Structurally, its molecule is composed of four different groups or units; a central 3-carbon alkyl group, two triazole groups situated on each end of the alkyl group, and a hydroxyl group and difluorophenyl group on the middle carbon.
+[30]
+The fluconazole molecule is represented as follows:
+[31]
+The '076 contains 11 claims, all of which are dependent on claim 1. Claim 1 discloses the final steps of a process for preparing fluconazole by three alternate routes. These three routes may be found in the flow-chart represented at page 20 of the Reed, J., judgment:
+[32]
+The first route is identified as "Process 1a" and refers to claim 1(a) of the patent. The starting compound in this reaction is an epoxide of formula II [see footnote 1]. This compound consists of an alkyl unit which already has the difluorophenyl group and one of the triazole groups attached to the appropriate carbons. The oxygen necessary to the hydroxyl unit is also present, but in the form of an epoxide. An "epoxide" is a chemical compound the molecules of which contain an oxygen atom attached to two carbon atoms bonded to one another.
+[33]
+To produce fluconazole, the second triazole is attached by ring opening of the epoxide and the oxygen is converted into the hydroxyl.
+[34]
+The second route is described in claim 1(b). It starts with the compound of formula IV [see footnote 2]. In this compound, the alkyl unit has already the hydroxyl and the difluorophenyl units attached to the appropriate carbon. It also bears two "Q groups" or facile-leaving groups on each end carbon. The first reaction that occurs when this compound is treated with triazole is epoxide ring formation. It is this epoxide, compound V, that reacts with the first equivalent triazole. This reaction results in a compound still bearing one leaving Q. This also reacts by epoxide ring formation, resulting in the compound II. A second epoxide ring opening results in fluconazole.
+[35]
+Finally, the process described in claim 1(c) starts with the compound of formula V and follows the same scheme, the two triazoles being introduced by epoxide ring opening.
+[36]
+Claim 1(c) describes the reaction of the compound of formula V with triazole. Formula V consists of an alkyl unit which has the difluorophenyl unit attached on the appropriate carbon and the oxygen required for the formation of the alcohol unit is provided in the form of an epoxide. The two leaving groups (specified to be a halogen atom) will be substituted by two molecules of triazole as required to obtain fluconazole.
+[37]
+As for the remaining claims, claims 2 to 5 specify the nature of some of the reagents involved in the process of claim 1. It is also important to note that claims 10 and 11 are product-by-process claims that claim fluconazole when prepared by a process of claim 1, 2 or 3 or an obvious chemical equivalent (claim 10) or when prepared by a process of claims 6, 7 or 8 or an obvious chemical equivalent (claim 11).
+[38]
+What is the essence of the '076 patent? The applicants argue that it is the product fluconazole and its properties. For this proposition, they rely on
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(1998), 77 C.P.R. (3d) 547. Dealing with the '076 patent, Richard, J. (as he then was), found that its essential feature was the product itself. The processes, he said, were included to satisfy the requirements of s. 41(1) of the former
+Patent Act
+which governed patents at the time the '076 patent was issued. Section 41(1) did not allow product per se claims unless they were in process dependent form.
+[39]
+A similar argument was made before Reed, J., in
+Pfizer Canada Inc. et al. v. Apotex Inc. et al.
+(1998), 142 F.T.R. 1; 78 C.P.R.(3d) 3. Although respectful of her colleague's opinion, Reed, J., was not very enthusiastic about it. She preferred to find that the essential feature of the patent was the opening of an epoxide ring to add the triazole(s).
+[40]
+I should, at first blush, be respectful of both opinions involving the same patent. It is evident to me that in respect of the Richard, J., opinion, the essential feature of the '076 patent is the product fluconazole, in the sense that it is the product itself which enjoys patent protection. I should observe, nonetheless, that its claims are limited by statute to its disclosed processes or to obvious chemical equivalents.
+[41]
+In this other respect, the opinion expressed by Reed, J., merits equal stature, as it is in complete conformity with the statute.
+[42]
+In any event, I should find that in their findings, both of my colleagues relied on the issue of equivalence, Richard, J., finding that the ACIC or acetone pathway before him was an obvious and very well-known chemical equivalent of the epoxide group in the '076 patent, and Reed, J., finding that the Apotex or olefin process was not an obvious chemical equivalent, the individual steps described therein respecting actions and functions different from those found in the '076 patent.
+(b) The Apotex Or Fluconazole (Olefin)
+Process:
+[43]
+The Apotex process may be represented by the following pathway, against which the pathway in the '076 patent is set out in parallel form, to indicate claim 7, process 1(a), 1(b) and 1(c):
+[44]
+The preparation of the olefins (compounds 4 and 5) in the pathway was developed by ACIC (Canada) Inc. and is within the scope of Canadian Letters Patent 2,106,032 (the "032 patent").
+[45]
+The respondent's evidence is that one of the key reactions used in the Apotex process is the allylic nucleophilic displacement reaction to produce compounds 4 and 5 (the olefins). This enables the introduction of the two triazole units onto the structure.
+[46]
+According to the expert witness, Dr. George Olah, the novelty of the Apotex process stems from the production of the olefins and their subsequent hydration, introducing in the last step of the process, the 2-hydroxyl group (See Applicants' Record, Vol. III, Tab 32, p. 365).
+[47]
+Dr. Olah further states as follows at p. 366:
+"The hydration of the bistriazolated olefin is difficult as under usual conditions of hydration side reactions predominate. After a considerable research effort involving many possible methods Apotex scientists discovered a suitable solution using reductive epoxidation. The epoxide prepared from the olefin:
+(1) is a way to oxyfunctionalize the double bond of the olefin, and
+(2) allows for subsequent ready reduction to the alcohol which is the end product, i.e., fluconazole."
+[48]
+The evidence of Dr. Tam, who is Research and Development Manager of Fine Chemicals Division at Apotex and one of the persons who developed the olefin process, states at p. 89 of the Applicants' Record (Vol. II, Tab. 17):
+"One of the key reactions used in Apotex process is the allylic nucleophilic displacement reactions to produce compounds 4 and 5. It enables the introduction of the two triazole units [2] onto the structure [4] + [1] ..."
+[49]
+The respondent's pathway is said to utilize new processes and new intermediates which are in fact covered by the ACIC '032 patent and covered by a patent application filed on behalf of Apotex Inc. The compounds 4 and 5, which are alleged to be central to these proceedings, are embodied in the '032 patent. The final steps in the process as developed by Apotex are said to be novel and the subject matter of its own patent application.
+[50]
+In more graphic terms, with a caveat as to which particular shorthand is used, the following are considered to be the several steps in the Apotex process:
+1) 1,3 difluorobenzene, which is reacted to produce step 2 compound;
+2) 2 = 2,4 difluorocumine, to which is added
++ propyl unit
++ difluorophenyl unit = brominates three times to create step 3 compound
+3) compound 3 is reacted in an organic nonaqueous solvent; then triazole carbon 1 and 3 are substituted and hydrogen bromine eliminated = steps 4 and 5 compounds which is olefin mixture
+4) and 5) olefin mixture = 1,3-bis-triazole olefin + geometric isomers - isomers are separated and one is converted to an epoxide
+6) to the epoxide is added + peroxy compound =
+7) the compound fluconazole.
+(c) The Issue
+[51]
+From the foregoing descriptions, it appears to me that the court is faced with two different processes. The opening of the epoxide ring to add the triazole and complete the fluconazole molecule by the formation of the hydroxyl is not present in the Apotex process. However, the analysis does not end here for the purposes of determining whether there is infringement. Claims 10 and 11 of the '076 patent, as well as s. 41 of the former
+Patent Act
+, supra, cast a wider net. They extend patent protection to "obvious chemical equivalents". I must, therefore, consider whether the respondent's process is an obvious chemical equivalent of the applicants'.
+[52]
+The issue of chemical equivalency was argued at length before me during a four-day hearing. The parties submitted extensive, highly technical and complex evidence. Expert affidavits by Dr. Crawford and Dr. Fallis were filed on behalf of the applicants, and the respondent filed those of Dr. McClelland, Dr. Tam and Dr. Olah.
+[53]
+It is not my intention here to repeat everything that was said during those four days, nor to go through the evidence in every minute detail. Suffice it to broadly say that, as is often the case, the evidence and positions of the parties are diametrically opposed. The applicants describe the steps of the Apotex process as the functional equivalent of those disclosed in the '076 patent with some reordering of them. The respondent's position is that the compounds used in the different processes do not operate chemically in the same way. In reply, the applicants argue that the respondent's approach is too mechanistic and focussed on the details.
+[54]
+I have already referred to a prior decision of this court in which the same issue of equivalency was argued. That was Reed, J.'s, decision in the case of
+Pfizer Canada Inc. v. Apotex Inc.
+, supra [see footnote 3], where the same applicants as before me requested an order prohibiting the Minister from issuing a NOC to Apotex with respect to the drug fluconazole, which was intended to be manufactured by the same process at issue in the present proceedings, i.e., the Apotex process. Reed, J., dismissed the application, concluding that there was no chemical equivalency. Six reasons were given.
+[55]
+First, the starting compounds are said to operate chemically in a different way. Second, the triazoles are attached differently. In the Pfizer patent, the triazoles are attached by way of nucleophilic ring opening, whereas in the Apotex process, they are attached by allylic nucleophilic displacement. Third, the fact that first one triazole is added and then the other in both processes is not sufficient to show chemical equivalence. Fourth, the attachment of the triazole leads directly to the formation of the fluconazole molecule in the Pfizer patent, which is not the case in the Apotex process. Fifth, the function of the epoxide in the '076 patent is different from that in the Apotex process. In the '076 patent, the epoxide provides the reactivity to add the triazole. In the Apotex process, it is used by way of a two-step process to convert a double bond into a hydroxyl group after the triazole attachments have been made. Sixth, the Apotex process cannot be described as a mere reordering of the Pfizer steps. To describe it that way would be to hide any kind of chemical differences that might exist.
+[56]
+That decision is currently under appeal.
+[57]
+The respondent urged me to give great consideration to my colleague's decision. While I am not bound by it, I do not find any reasons justifying a departure from its conclusions. After having attentively examined and considered the evidence, I am satisfied on a balance of probabilities that the Apotex process is not a chemical equivalent (and certainly not an obvious one) of the processes described in the Pfizer patent.
+[58]
+In addition to the reasons cited by Reed, J., with which I am in agreement, I would simply state that while the final result is the same, the processes operate in totally different manners. Generally speaking, the starting compounds are different; they are used to produce different intermediates; and the steps used to produce the intermediates are different and perform different functions.
+III. Conclusion
+[59]
+For the reasons stated, I should find that the applicants have failed to discharge their burden of establishing on a balance of probabilities that the respondent's allegations are not justified. The application is therefore dismissed.
+[60]
+There remains the issue of costs and that of the continuing application of the Confidentiality Order dated March 14, 1996. I leave it to counsel to agree on these items or otherwise speak to me. In the meantime, the within Reasons are issued subject to the Confidentiality Order and I remain seized of the case.
+Application Dismissed.
+Editor: Janette Blue/slm
+Footnotes
+1. Formula II is obtained through processes described in claims 6 and 7 of the '076 patent. The reaction disclosed in claim 7 leads to the formation of a ketone formula III. This ketone is then transformed into an epoxide of formula II through a process described in claim 6.
+2. Formula IV is prepared by a process set out in claim 8. Claim 9 limits the nature of the group Q in claim 8 to chlorine or bromine.
+3. Richard, J.'s, decision in
+Pfizer Canada Inc. v. Apotex Inc.
+also relates to the '076 patent. However, the allegedly infringing process was not the Apotex process (or "olefin process") as defined herein, but the ACIC process or the "acetate process".
+[End of document]

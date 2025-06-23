@@ -1,0 +1,138 @@
+Date: 20191015
+Docket: T-1991-18
+Citation: 2019 FC 1293
+Ottawa, Ontario, October 15, 2019
+PRESENT:  The Honourable Mr. Justice Brown
+BETWEEN:
+BEIJING JINGDONG
+360 DU E-COMMERCE LTD.
+Applicant
+and
+YUE ZHANG
+Respondent
+JUDGMENT AND REASONS
+I.
+Nature of the matter
+[1]
+This is an application brought pursuant to sections 18 and 57 of the Trademarks Act, RSC 1985, c T-13 [the Act], for an order striking out Trademark Registration No TMA984,308 [the Respondent’s Mark] from the Register of Trademarks [the Register]. The statutory provisions relied upon are as before the amendments which came into effect June 17 and 18, 2019. The Respondent’s Mark is reproduced below:
+II.
+Facts
+[2]
+The Applicant is a large e-commerce company headquarter in Beijing, Peoples Republic of China, which operates an online retail platform through its internet domain JD.com. The Applicant announced the adoption of its JD.com domain name on March 30, 2013. On this retail internet platform, the Applicant offers a wide variety of products including electronics, home furnishings, fresh food, home appliances and clothing-related goods.
+[3]
+The Respondent owns the Respondent’s Mark. It also owns two corporations: Jeans First Clothing of Canada Inc. (incorporated in 2007) and First Group Holding Inc. (incorporated in 2014). According to the Affidavit of Stephen Rodger, an experienced investigator hired by the Applicant, the Respondent appears to have previously operated several retail clothing outlets in Canada under the names JeansFirst and Jenkdiun.
+[4]
+On July 29, 2013, which the Applicant points out is less than four months after the Applicant announced the adoption of its new JD.com domain, the Respondent filed Canadian Trademark Application No. 1636967 for registration of the Respondent’s Mark in association with “formal clothing, namely, pants, dresses and shorts”. The application claimed use in Canada since January 1, 2010. The Registrar of Trademarks granted registration of the Respondent’s Mark on November 6, 2017. A third party had opposed the application for the Respondent’s Mark prior to its registration, withdrew its opposition after the Respondent amended its application, apparently to delete a claim for services.
+[5]
+The Respondent’s Mark now poses an obstacle to several trademark applications by the Applicant, including Trademark Application No. 1843894 [the Applicant’s Mark], reproduced below:
+[6]
+On June 13, 2018, the Applicant received an Examiner’s Report from the Canadian Intellectual Property Office for the Applicant’s Mark [Examiner’s Report], which identified the Respondent’s Mark as being confusing with the Applicant’s Mark.
+[7]
+The Applicant submits the Respondent has abandoned its use of the Respondent’s Mark, and asks the Court to find a material misstatement, alleging the Respondent never used the Respondent’s Mark. The Applicant asks the Court to expunge the Respondent’s Mark from the Register.
+[8]
+I granted this Application at the close of oral argument, with reasons to follow; these are my reasons. In summary, the Applicant is entitled to the relief requested on the basis of abandonment; therefore, these reasons do not deal with material misstatement.
+III.
+Issues
+[9]
+The issues framed by the Applicant are:
+Does the Applicant have standing to bring this Application?
+Should the Respondent’s Mark be expunged pursuant to subsection 57(1) of the Act on the ground that the Respondent’s Mark has been abandoned, making it invalid under subsection 18(1) of the Act?
+IV.
+Analysis
+A.
+Does the Applicant have standing to bring this application?
+[10]
+The Applicant submits the Federal Court has jurisdiction to grant the requested relief because the Applicant is a person interested pursuant to subsection 57(1) of the Act. Section 2 of the Act defines “person interested” to include “any person who is affected or reasonably apprehends that he may be affected by any entry in the register, or by any act or omission or contemplated act or omission under or contrary to this Act, and includes the Attorney General of Canada”.
+[11]
+The term “person interested” in subsection 57(1) of the Act is very broad and has been interpreted as setting out a “de minimis” threshold for standing: FRAGMENT_SUPPRESSED
+[12]
+The Applicant submits it is a person interested for the purposes of this application because the Respondent’s Mark is blocking the registration of trademark applications filed by the Applicant. The Applicant states that it has continued to keep its applications for marks containing “JD” in good standing, and has not abandoned its application for the registration of the Applicant’s Mark. The Examiner’s Report states the Applicant’s Mark was “considered to be confusing with” five other marks including the Respondent’s Mark. The Respondent’s Mark is an obstacle to the pending applications by the Applicant.
+[13]
+In my view, the Applicant meets the de minimis threshold for “person interested” and therefore has standing to bring this application.
+B.
+Should the Respondent’s Mark be expunged?
+[14]
+The Applicant submits expungement should be granted pursuant to paragraph 18(1)(c) of the Act, because as of November 19, 2018, the date this expungement application was commenced, the Respondent’s Mark was abandoned.
+[15]
+Paragraph 18(1)(c) of the Act provides:
+When registration invalid
+Quand l’enregistrement est invalide
+18 (1) The registration of a trademark is invalid if
+…
+18 (1) L’enregistrement d’une marque de commerce est invalide dans les cas suivants:
+…
+(c) the trademark has been abandoned;
+c) la marque de commerce a été abandonnée;
+[16]
+A two part test to find abandonment of a trademark under paragraph 18(1)(c) is set out in Promafil Canada Ltee v Munsingwear Inc, [1992] FCJ No 611, 44 CPR (3d) 59 per Hugessen, MacGuigan and Desjardins JJA [Promafil], leave to appeal refused (1993), 47 CPR (3d):
+There is no dispute that in order to find abandonment of a trade mark one has to find: (1) that the mark is no longer in use in Canada and (2) an intention to abandon the mark. See J.A. & M. Côté Ltée v. B.F. Goodrich Co. (1949), 14 C.P.R. 33 at p. 58, [1950] Ex. C.R. 239, 10 Fox Pat. C. 97 (Ex. Ct.).
+[17]
+On the first step of the test in Promafil, which asks if the Respondent’s Mark was no longer in use in Canada as of November 19, 2018, the Applicant relies on considerable evidence which is uncontested and which I accept. This evidence includes that of an experienced trademark investigator who conducted extensive internet and social media investigations together with physical inspections of both the place of business the Respondent identified for his two corporations and in his trademark application (which was also his residence), and at the locations of his three identified retail outlets.
+[18]
+The investigator found no evidence of use of the Respondent’s Mark on either the internet or on social media, not only as of November 19, 2018, but indeed, going back to January 1, 2010, the date the Respondent alleged it started to use the Respondent’s Mark in Canada.
+[19]
+The Respondent’s home was abandoned and possibly being foreclosed, while his retail outlets were no longer in operation, and in one case was in a demolished mall.
+[20]
+The evidence before the Court is that despite searches the investigator was unable to locate any evidence of sales of the Respondent’s goods in association with the Respondent’s Mark, any evidence of advertising of the Respondent’s Mark, or any reference by the Respondent or third parties to the Respondent’s Mark. This is despite the investigator finding substantial evidence of a retail clothing operation carried on by the Respondent using his other trademarks.
+[21]
+I have concluded on a balance of probabilities that the Respondent’s Mark was no longer in use in Canada as of November 19, 2018, thus establishing the first test in Promafil.
+[22]
+On the second test from Promafil, the Applicant submits the Respondent has demonstrated an intention to abandon the Respondent’s Mark. I agree.
+[23]
+In this connection, the Federal Court of Appeal determined that an inference of abandonment may be drawn where a mark has not been used for a long period; Iwasaki Electric Co Ltd v Hortilux Schreder BV, 2012 FCA 321 per Blais, Sharlow and Webb JJA at para 21 [Iwasaki]:
+As noted above, abandonment of a trade-mark is not determined based solely on a person ceasing to use that trade-mark. The person must also have intended to abandon the trade-mark. I would agree that in determining whether a person has an intention to abandon a trade-mark, an inference of such intention could, in the absence of any other evidence, be drawn as a result of a failure to use the trade-mark for a long period of time.
+[24]
+While in some cases there must be non-use for a long time in able to infer the necessary intention to abandon, it is also the law that the determination of the mark holder’s intention to abandon is generally a factual determination such that abandonment may be found sooner. It is well established that a party’s intent may be determined based on an inference drawn from the evidence by the Court that people intend the natural and probable consequences of their actions. This is a rule of evidence and a matter of common sense as stated by Cory J for the Supreme Court of Canada in R v Seymour, [1996] 2 SCR 252 at para 19:
+[19]  When charging with respect to an offence which requires proof of a specific intent it will always be necessary to explain that, in determining the accused's state of mind at the time the offence was committed, jurors may draw the inference that sane and sober persons intend the natural and probable consequences of their actions. Common sense dictates that people are usually able to foresee the consequences of their actions. Therefore, if a person acts in a manner which is likely to produce a certain result it generally will be reasonable to infer that the person foresaw the probable consequences of the act. In other words, if a person acted so as to produce certain predictable consequences, it may be inferred that the person intended those consequences.
+[Emphasis added.]
+[25]
+The Applicant lists the following uncontested evidence, which I accept, to support the inference that the Respondent intended to abandon his, some of which overlaps with evidence of non-use:
+•  the Respondent has not actively operated a clothing business (or any other business) in Canada since mid-2017;
+•  the Respondent has failed to file corporate annual reports in 2017 and 2018 in respect of either of the two companies he previously operated in Canada, namely Jeans First Clothing Canada Inc. and First Group Holding Inc.;
+•  the Respondent apparently failed to make mortgage payments falling due in 2017 on his primary residence, which is the registered business address of his two companies and is also the owner address on his trademark registrations including that for the Respondent’s Mark;
+•  the Respondent’s registered business address and only known residence is uninhabited, in a state of disrepair, subject to a construction lien, and appears also to have been in the preliminary stage of foreclosure;
+•  quite materially, the Respondent has completely abandoned his internet business domain names for both of his two companies – at the time of the application they were both  available to sale;
+•  the Respondent has been inactive on social media since 2016, indicating he has had no ongoing communication with former customers; and
+•  the Respondent’s three stores have ceased operations, one being in a demolished mall.
+[26]
+My review of this evidence, together with the evidence of non-use previously cited, leads me to conclude the Applicant has met its burden of proving, on a balance of probabilities, that the Respondent intended to abandon the Respondent’s Mark as of November 19, 2018 and I so find.
+[27]
+Having met both parts of the Promafil test, the application to expunge the Respondent’s Mark from the Register will be granted.
+C.
+Costs
+[28]
+There is no reason to depart from the normal rule that costs follow the event. The Applicant requested all-inclusive costs in the aggregate of $500.00 for pleadings, $1,000.00 for evidence, and $1,000.00 for written and oral argument. In my view, these amounts are reasonable., Therefore the Respondent will be ordered to pay the Applicant $2,500.00 in costs.
+V.
+Conclusion
+[29]
+The Applicant has standing to pursue expungement as a person interested in the matter. The test for abandonment is satisfied because the evidence supports the Court’s finding that the Respondent’s Mark is no longer in use and that the Respondent intended to abandon the Respondent’s Mark. The application should be allowed and the Respondent’s Mark should be expunged because of abandonment pursuant to sections 18 and 57 of the Act. The Respondent shall pay all-inclusive costs to the Applicant in the amount of $2,500.00.
+JUDGMENT in T-1991-18
+THIS COURT’S JUDGMENT is that:
+The application under section 57 of the Trademarks Act is allowed.
+The Respondent’s Trademark Registration No. TMA984, 308 is hereby struck from the Register of Trademarks under section 57 of the Trademarks Act.
+The Respondent shall pay all-inclusive costs to the Applicant in the amount of $2,500.00.
+“Henry S. Brown”
+Judge
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET:
+T-1991-18
+STYLE OF CAUSE:
+BEIJING JINGDONG 360 DU E-COMMERCE LTD. v YUE ZHANG
+PLACE OF HEARING:
+OTTAWA, Ontario
+DATE OF HEARING:
+OCTOBER 7, 2019
+JUDGMENT AND REASONS:
+BROWN J.
+DATED:
+OCTOBER 15, 2019
+APPEARANCES:
+Daniel Anthony
+Jamie-Lynn Kraft
+For The applicant
+SOLICITORS OF RECORD:
+SMART & BIGGAR
+Barristers & Solicitors
+Ottawa, Ontario
+For The applicant

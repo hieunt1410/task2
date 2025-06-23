@@ -1,0 +1,88 @@
+AstraZeneca Can. Inc. v. Apotex Inc., [2005] F.T.R. Uned. 35 (FC)
+MLB unedited judgment
+AstraZeneca Canada Inc., and Aktiebolaget Hassle (plaintiffs/responding parties) v. Apotex Inc. (defendant/moving party)
+(T-1409-04; 2005 FC 43)
+Indexed As: AstraZeneca Canada Inc. et al. v. Apotex Inc.
+Cite As: [2005] F.T.R. Uned. 35
+Federal Court
+Kelen, J.
+January 18, 2005.
+Counsel:
+John Morrissey and Heather Tonner, for the plaintiffs;
+Julie Rosenthal, for the defendant.
+Solicitors of Record:
+Smart & Biggar, Toronto, Ontario, for the plaintiffs;
+Goodmans LLP, Toronto, Ontario, for the defendant.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Kelen, J.
+: This is an appeal by Apotex Inc. from the order of Prothonotary Milczynski dated September 29, 2004. In that Order, the Prothonotary dismissed Apotex's motion for an order striking out all or portions of the plaintiffs' statement of claim or, alternatively, for particulars.
+[2]
+The background to this proceeding can be described briefly. In 1989, AstraZeneca began marketing omeprazole, a medicine used to treat certain stomach conditions related to hyperacidity. Apotex, a manufacturer of generic pharmaceutical products, has been attempting to introduce a generic version of omeprazole capsules into the Canadian market for over eleven years. In January 2004, the Minister of Health issued a Notice of Compliance to Apotex for its omeprazole capsules. AstraZeneca unsuccessfully sought judicial review of the Minister's decision, and, consequently, commenced this action against Apotex in which it seeks a declaration that Apotex has infringed two of its omeprazole patents.
+[3]
+In response to the action, Apotex brought a motion before Prothonotary Milczynski requesting that:
+1. the entire Statement of Claim be struck on the basis that the pleading of patent infringement fails to include the necessary elements of the cause of action;
+2. paragraphs 35 through 37 be struck because they contain confidential information obtained by the plaintiffs in other proceedings pursuant to protective orders;
+3. paragraph 34 be struck because it pleads evidence and not fact; and
+4. the plaintiffs provide particulars concerning the allegation of infringement and the deceptive acts described in paragraphs 35 through 37.
+[4]
+The Prothonotary dismissed the motion in its entirety.
+STANDARD OF REVIEW
+[5]
+The standard of review to be applied on an appeal from a prothonotary's order was set out in The Queen v. Aqua-Gem Investments [1993] 2 F.C. 425. This test was modified by the Federal Court of Appeal in Merck & Co. v. Apotex Inc., (2003), 315 N.R. 175 per Decary J.A. at paragraph 19:
+Discretionary orders of Prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) the questions raised in the motion are vital to the final issue of the case, or
+(b) the orders are clearly wrong, in the sense that the exercise of discretion by the Prothonotary was based upon a wrong principle or upon a misapprehension of facts.
+[6]
+Consequently, the Court should not intervene with the Prothonotary's decision simply because it would have come to a different conclusion. If, however, the decision is clearly wrong or the questions are vital to the final issue of the case, then the Court must consider the issues de novo.
+ANALYSIS
+Striking the Statement of Claim
+[7]
+Prothonotary Milczynski concluded that the statement of claim should not be struck because the "claim taken in its entirety pleads the relevant elements and material facts of a cause of action for patent infringement". As the decision to strike a statement of claim is a matter vital to the case, the Court must review this question on a de novo basis. FRAGMENT_SUPPRESSED[8]
+The most recent jurisprudence establishes a high threshold for striking out a statement of claim. As discussed by Justice Layden-Stevenson in Pharmaceutical Partners of Canada Inc. V. Faulding (Canada) Inc. [2002] F.C.J. No. 1305 at para. 13:
+... As a result (of Hunt v. Carey Canada Inc. , [1990] 2 S.C.R. 95), and notwithstanding the desirability of proper pleading, the standard or test for striking out a pleading has been determined. It was recently described by the Federal Court of Appeal in Shubenacadie Indian Band v. Canada (Minister of Fisheries and Oceans), 2002 FCA 255, [2002] F.C.J. No. 882. Mr. Justice Sexton, speaking for the Court, determined that although a pleading may be very broad and encompassed in general terms, it should not be struck out so long as a cause of action, however tenuous, can be gleaned from a perusal of the statement of claim. The onus, on the party moving to strike, is heavy and it must be shown that it is beyond doubt that the case cannot possibly succeed at trial. Similarly, in Sweet v. Canada (1999), 249 N.R. 17 (F.C.A.), Mr. Justice Décary, speaking for the Court, stated that although some elements may be missing and others incomplete, if the pleading contains enough information to allow the opposing party to know with some certainty the case to be met, the pleading will not be struck. ...
+[9]
+The basic requirements for pleading a cause of action for patent infringement were outlined in Dow Chemical Co. v. Kayson Plastics & Chemicals Ltd. (1966), 47 C.P.R. 1 (Ex. Ct.) at 11 as follows:
+In general, under our system of pleading, a statement of claim for an infringement of a right should clearly show:
+(a) facts by virtue of which the law recognizes a defined right as belonging to the plaintiff, and
+(b) facts that constitute an encroachment by the defendant on that defined right of the plaintiff.
+[10]
+In the present case, the statement of claim sets out the two patents relied on by the plaintiffs and summarizes, at some length, the various claims of each patent. However, the statement of claim does not set out the material facts which demonstrate that the defendant has allegedly infringed the plaintiffs' patents. At the hearing, the parties agreed that paragraph 38 of the statement of claim can be amended to add the particular manner in which the defendant's drug infringes the plaintiffs' patent claims. Accordingly, I will allow the appeal in part, and order that these particulars be provided as an amendment to paragraph 38 of the statement of claim.
+Striking Paragraphs 35 through 37
+[11]
+A motion to strike a paragraph from a statement of claim should be reviewed on a de novo basis if removing the paragraph would dispose of the cause of action. In this case, I am satisfied that the removal of paragraphs 35 through 37 from the statement of claim would not dispose of the cause of action as these paragraphs do not relate directly to the elements of infringement.(These paragraphs concern an allegation that Apotex obtained its notice of compliance by deceit). Accordingly, the Court will only interfere with the Prothonotary's decision if it is based upon a wrong principle or a misapprehension of facts.
+[12]
+Before the Prothonotary, Apotex submitted that paragraphs 35 through 37 should be struck because they contain information obtained by the plaintiffs in other proceedings pursuant to protective orders. Prothonotary Milczynski found that the plaintiffs were not in breach of the protective orders because the information in question related to "the reasons of Justice Kelen in his decision in Court Files T-261-04 and T-262-04 released on September 20, 2004" Apotex submits that the Prothonotary erred because my judgment was released almost two months after the plaintiffs' statement of claim was issued. Therefore, the plaintiffs' misuse of confidential information cannot be cured by the subsequent release of a judicial decision.
+[13]
+The plaintiffs submit that the information contained in paragraphs 35 through 37 was public long before my decision was released on September 20, 2004. In that regard, they point to the decision of Justice Russell in AB Hassle v. Canada (Minister of National Health and Welfare), [2004] F.C.J. No. 455 at paragraphs 24-28 as well as a number of other public documents including an affidavit (the "Kang Affidavit").
+[14]
+First, I have not been persuaded that the plaintiffs are relying on information obtained from any protective order. Second, in any event, I have not been persuaded that the Prothonotary's finding was clearly wrong such that the Court should allow the appeal in this respect.
+Particulars
+[15]
+The Prothonotary dismissed Apotex's alternative request for particulars of the allegation of the deceptive acts set out in paragraphs 35 through 37. The Prothonotary concluded that:
+With respect to the Defendant's motion for particulars in respect of paragraphs 35, 36 and 37 and the references to "deception and misleading information", I accept the Plaintiff's submissions that they are not pursuing a claim for damages in tort for deceit, but that the impugned paragraphs have been pleaded in the aid of the Plaintiff's claim for punitive damages and solicitor-client costs in respect of the Defendant's alleged infringing activity. In any event, I find that paragraphs 35 and 36 set out with sufficient particulars for the defendant to plead the material facts relating to the composition of the Defendant's Apo-Omeprazole capsules, and what information was provided by the Defendant to the Minister...
+[16]
+Apotex submits that the Prothonotary applied the wrong legal test in coming to this conclusion. It states that the correct legal test is whether the particulars are needed to inform the other side of the nature of the case to be met and to facilitate an intelligent reply to the statement of claim.
+[17]
+The plaintiffs submit that the Prothonotary applied the correct legal test and that particulars are not required in order for Apotex to deliver an adequate response to the claim. It notes that the parties have been involved in litigation over the same patents since 1993 and that Apotex knows precisely what the action concerns. It further notes that Apotex has never made a formal demand for particulars.
+[18]
+Rule 181 of the Federal Court Rules, 1998 provide that a pleading must contain particulars of any alleged misrepresentation or fraud. Paragraph 36 of the Statement of Claim sets out three particular instances of Apotex' alleged deception and misleading information. However, paragraph 36 does not limit the particulars to these three examples, it uses the word "includes" as a preface which leaves Apotex guessing what other particular allegations the plaintiffs will be relying upon. This "open-ended" pleading is improper. However, the parties acknowledge that the plaintiffs will be able to explore at discovery other types of information submitted by Apotex to the Minister of Health, and categorize them as deceptive or misleading at the trial to support the plaintiffs' claim for punitive damages. For this reason, I am satisfied that paragraph 36 does plead sufficient particulars to support the claim and that the word "includes" is not material. Accordingly, I find that the Prothonotary was not clearly wrong in this respect.
+Striking Paragraph 34
+[19]
+Paragraph 34 of the statement of claim reads as follows:
+Apotex has indicated that each Apo-Omeprazole capsule contains omeprazole, eudragit, gelatin, magnesium hydroxide, mannitol, povidone, red iron dioxide, titanium dioxide and triethyl citrate.
+[20]
+Apotex challenges this paragraph on the basis that by using the word "indicated", the plaintiffs are pleading evidence rather than fact and are in contravention of Rule 174 of the Federal Court Rules. In these circumstances, I am unable to conclude that the Prothonotary's decision not to strike paragraph 34 was clearly wrong. While Apotex contends that a pleading of evidence is readily discernable from one of fact, in my view, the line between fact and evidence is often blurred. As discussed by Justice Reed in Liebmann v. Canada (1993), 69 F.T.R. 81 at para. 20:
+If there is doubt whether a pleading is fact or evidence, leave it in the pleading.
+[21]
+Accordingly, the Court will not interfere with the Prothonotary's decision on this issue.
+ORDER
+[22]
+THE COURT ORDERS THAT:
+1. The appeal from the Order of Prothonotary Milczynski dated September 29, 2004 is allowed in part, in that the statement of claim fails to set out the material facts which support the allegation that Apotex has infringed the plaintiffs' patents;
+2. The plaintiffs shall amend paragraph 38 of the statement of claim to add the particular manner in which the defendant's drug allegedly infringes the plaintiffs' patent claims;
+3. The Prothonotary's Order with respect to an alleged breach of Protective Orders and the failure to plead the particulars of the alleged deceit and misrepresentation, is not clearly wrong such that the appeal with respect to these issues is dismissed;
+4. The Prothonotary's decision not to strike paragraph 34 of the statement of claim is not clearly wrong, and the appeal with respect to this issue is dismissed; and
+5. The costs of this appeal will be in the cause.
+[End of document]

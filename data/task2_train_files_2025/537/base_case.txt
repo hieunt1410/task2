@@ -1,0 +1,72 @@
+Capra v. Can. (M.C.I.), [2005] F.T.R. Uned. 782 (FC)
+MLB unedited judgment
+Gheorghe Capra (applicant) v. The Minister of Citizenship and Immigration (respondent)
+(IMM-1333-05; 2005 FC 1324)
+Indexed As: Capra v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2005] F.T.R. Uned. 782
+Federal Court
+Blais, J.
+September 27, 2005.
+Counsel:
+Ethan A. Friedman, for the applicant;
+Thi My Dung Tran, for the respondent.
+Solicitors of Record:
+Ethan A. Friedman, Montreal, Quebec, for the applicant;
+John H. Sims, Deputy Attorney General of Canada, Montreal, Quebec, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Blais, J.
+: This is an application for judicial review of a decision of the Immigration Appeal Division of the Immigration and Refugee Board (the Board), dated February 9, 2005, dismissing Mr. Gheorghe Capra's (the applicant) appeal under subsection 63(3) of the Immigration and Refugee Protection Act, S.C. 2001, c. 27 (the Act) with respect to a removal order for criminal inadmissibility issued against him on September 9, 2004.
+FACTS
+[2]
+The applicant is a citizen of Romania. He arrived in Canada in 1991 and was granted refugee status on March 12, 1992 and permanent residency on December 2, 1992. He is also the father of a 10 year old boy who was born in Canada.
+[3]
+On September 9, 2003, a removal order was issued against the applicant following an admissibility hearing during which he was found to be a person described at paragraph 36(1) of the Act. The applicant has pleaded guilty to 80 charges of fraud in connection with credit cards and automatic bank teller machines and was convicted for a period of two years less a day of imprisonment. He was also imposed a number of conditions upon his release, many of which were not respected.
+[4]
+At the hearing before the Board, the applicant did not challenge the validity of the removal order. Rather, he attempted to convince the Board to exercise its equitable jurisdiction to grant discretionary relief in the form of a stay. After hearing his testimony over two days, the Board denied his appeal.
+ISSUES
+[5]
+Did the Board err in any way in its dismissal of the applicant's appeal concerning his removal order for criminal inadmissibility?
+ANALYSIS
+[6]
+The applicant, by his own account, is unsatisfied with the method in which the Board weighed the relevant evidence and attributed its weight. In cases such as these, the applicable standard of review is that of patent unreasonableness. As was stated in Qiu v. Canada (Minister of Citizenship and Immigration), 2003 FCT 15, [2003] F.C.J. No. 24 at paragraph 37:
+It is not the role of this Court to second-guess the decisions of the Member with respect to the weight assigned to the various factors that he had to consider. In Hoang v. Canada (Minister of Employment and Immigration) (1990), 13 Imm L.R. (2d) 35 (F.C.A.), McGuigan [sic] J. (as he then was) succinctly stated the applicable rule with respect to the weight given to evidence by the IAD (then known as the "Immigration Appeal Board"):
+The assessment of the weight of the evidence is a proper matter for decision by the Board and is not subject to review by this Court.
+[7]
+That being said, I now turn to the factors which the Board examined in determining whether to accept or dismiss the applicant's appeal. In the Ribic v. Canada (Minister of Employment and Immigration), [1985] I.A.B.D. No. 4, decision, several factors were set out which should be considered. These factors were subsequently confirmed in the Supreme Court of Canada decision of Chieu v. Canada (Minister of Citizenship and Immigration), [2002] 1 S.C.R. 84, [2002] S.C.J. No. 1 at paragraph 40 and are as follows:
+- The seriousness of the offence or offences leading to the deportation;
+- The possibility of rehabilitation or in the alternative, the circumstances surrounding the failure to meet the conditions of admission which led to the deportation order;
+- The length of time spent in Canada and the degree to which the appellant is established;
+- Family in Canada and the dislocation to that family that deportation of the appellant would cause;
+- The support available for the appellant not only within the family but also within the community and the degree of hardship that would be caused to the appellant by his return to his country nationality; and
+- Any other relevant factors particular to the case.
+[8]
+Although the applicant claims that the Board erred in not properly balancing all of the aforementioned criteria, upon a review of the decision, I find that the reasons of the Board reflect the fact that all of the relevant factors, both favouring and mitigating against the applicant, were properly considered by it.
+[9]
+The Board found that the infractions leading to the removal of the applicant were serious and supported that finding with a sound and thorough reasoning which included the fact that:
+- The applicant had been warned in 1993 that any further criminal actions on his behalf could result in sanctions being taken against him;
+- The applicant was convicted of 80 charges of frauds in October 2001, most of those infractions being punishable by a term of imprisonment of ten years;
+- Although no physical violence was used, the victims were old and vulnerable persons;
+- That the applicant had to pay more than $57,000 in restitution to the many victims of his crimes;
+- The applicant was sentenced to a term of two years less a day of imprisonment with "sursis" and conditions, but that he failed to respect these conditions;
+- The applicant was arrested in January 2002 when found in possession of a device used to read information on bank cards, contrary to the conditions of the applicant's "sursis". The applicant was therefore detained for a three-month period.
+[10]
+Based on these findings, the Board could have determined that the first two criteria of the Ribic, supra, decision were not met, and that the appeal must therefore fail. Nonetheless, it continued with its analysis of the totality of the evidence before it and examined the degree of establishment, the best interest of the applicant's child and family presence of the applicant in Canada.
+[11]
+The Board found that between his arrival in 1991 and 1998, the applicant did not look for a job, but collected welfare. Although the Board accepted that the applicant did work for Mr. Hossen sometime in 1998, it also found many lacunae in the applicant's evidence, such as his hours of work, his income and the persons with whom he worked.
+[12]
+Furthermore, the presence of the applicant's brother and other family members in Canada did not prevent the applicant from committing numerous crimes over a long period of time.
+[13]
+As for the best interests of the child, the Board found many inconsistencies between the applicant and Mrs. Lazo, the mother of his child. For example, the two had differing stories concerning their reunion and how the applicant's child discovered who his father was. Furthermore, when asked questions about Mrs. Lazo's family members, the applicant was unable to answer many of them. The Board concluded that the applicant's relation with his child and Mrs. Lazo were positive factors in his life, but that this relation was relatively recent and that when the applicant had left Mrs. Lazo many years ago, she had been able to raise a child as a single mother and organize her life quite well in the applicant's absence.
+[14]
+Although the applicant alleges that the best interests of the child are the primordial factor in determining whether to stay a removal and that the Board did not attribute the proper weight to this criterion, I do not find that the Board committed any error in its analysis on this point. In the case of FRAGMENT_SUPPRESSED that the best interest of the child was not the deciding factor, but one of many factors to which the Board was entitled to accord whatever weight it thought relevant:
+FRAGMENT_SUPPRESSED
+[15]
+I am therefore of the opinion that the Board properly considered all the relevant evidence before it and properly applied the factors enumerated in the Ribic, supra, decision. After weighing all of those factors, the Board found that the decision to remove the applicant from Canada should not be overturned. I find no fault in that decision. For that reason, this application for judicial review is dismissed.
+ORDER
+[16]
+THIS COURT ORDERS that:
+1. The application for judicial review be dismissed;
+2. No question for certification.
+[End of document]

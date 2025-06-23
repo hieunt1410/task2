@@ -1,0 +1,181 @@
+Jarvis v. Can. (A.G.), [2011] F.T.R. Uned. 934 (FC)
+MLB unedited judgment
+Joseph C. Jarvis (applicant) v. Attorney General of Canada and Veterans Review and Appeal Board (respondents)
+(T-1786-10; 2011 FC 944)
+Indexed As: Jarvis v. Canada (Attorney General) et al.
+Cite As: [2011] F.T.R. Uned. 934
+Federal Court
+Snider, J.
+July 27, 2011.
+Counsel:
+Joseph C. Jarvis, on his own behalf, for the applicant;
+Melissa A. Grant, for the respondents.
+Solicitors of Record:
+Myles J. Kirvan, Deputy Attorney General of Canada, Halifax, Nova Scotia, for the respondents.
+Summary:
+This case is unedited, therefore contains no summary. Any footnotes found in this case will appear below end of document.
+I.
+Background
+[1]
+Snider, J.
+: The Applicant, Joseph Clifford Jarvis, is a member of Canada's armed forces - in the Reserve Force from 1979 to 1999 and in the Regular Force from 1999 to the present. Between 2001 and 2006, the Applicant worked in the K-14 tool crib (a repair shop) at CFB Gagetown, during which time he began to exhibit symptoms of right and left lower extremity polyneuropathy. The Applicant claims that this condition was caused by exposure to the many chemicals in that workplace and has applied for a disability award pursuant to the
+Canadian Forces Members and Veterans Re-establishment and Compensation Act
+, SC 2005, c 21 (the
+Act
+). A panel of the Veterans Review and Appeal Board (the Appeal Board), in a decision dated September 28, 2010, refused his claim. The Applicant seeks to overturn the decision of the Appeal Board.
+[2]
+The Applicant's claim was refused first by the Minister of Veterans Affairs (the Minister), in a decision dated February 16, 2009. He appealed the Minister's decision to the Veterans Review and Appeal Board (the Entitlement Review Board), which refused his claim in a decision dated August 13, 2009. The Applicant appealed the Entitlement Review Board's decision to the Appeal Board. In its decision dated September 28, 2010, the Appeal Board dismissed the Applicant's appeal. At every level, the decision maker accepted the medical diagnosis of polyneuropathy but declined to award a disability award on the basis that the Applicant had not demonstrated that his condition was caused by his military service. In other words, it was not accepted - by the Minister, the Entitlement Review Board or the Appeal Board - that exposure to toxic chemicals during the Applicant's time working in the tool crib caused his polyneuropathy.
+II.
+Issues and Standard of Review
+[3]
+This application for judicial review raises the following issues:
+1. Was the Appeal Board's decision unreasonable because it failed to recognize a link between the Applicant's medical condition and his exposure to toxic chemicals, based on:
+a. the medical opinion of Dr. Muhammad Shafiq, a neurologist who has seen and treated the Applicant;
+b. the medical opinion of Dr. Roy A. Fox and decision of the Entitlement Review Board in respect of another individual whose claim had been accepted; and
+c. the totality of the evidence before the Appeal Board?
+2. Did the Board err by failing to consult another specialist on toxic neuropathy?
+[4]
+Decisions of the Appeal Board, on such questions as the weight to be given to evidence, are reviewable on a standard of reasonableness (see, for example,
+Robertson Estate v Canada
+2010 FC 233 at para 32;
+Ladouceur v Canada (Attorney General)
+, 2010 FC 233 at para 6). On the standard of reasonableness, the decision should stand unless the reasoning process was flawed and the resulting decision falls outside the range of possible, acceptable outcomes which are defensible in respect of the facts and the law (
+Dunsmuir v New Brunswick
+, 2008 SCC 9, [2008] SCJ No 9, at para 47).
+[5]
+However, the Applicant's second issue is a question of procedural fairness. Questions of procedural fairness are reviewable on a correctness standard (see
+Canada (Citizenship and Immigration) v Khosa
+, 2009 SCC 12, [2009] 1 SCR 339 at para 43).
+III.
+Statutory Scheme
+[6]
+Pursuant to s. 45(1) of the
+Act
+, the Minister may pay a disability award to a member of the forces who establishes that he suffers from a disability resulting from a service-related injury or disease.
+Eligibility
+45. (1) The Minister may, on application, pay a disability award to a member or a veteran who establishes that they are suffering from a disability resulting from
+(a) a service-related injury or disease; or
+(b) a non-service-related injury or disease that was aggravated by service.
+Admissibilité
+45. (1) Le ministre peut, sur demande, verser une indemnité d'invalidité au militaire ou vétéran qui démontre qu'il souffre d'une invalidité causée:
+a) soit par une blessure ou maladie liée au service;
+b) soit par une blessure ou maladie non liée au service dont l'aggravation est due au service.
+[7]
+In considering the claim of a member of the forces, the Entitlement Review Board and the Appeal Board are guided by s. 39 of the
+Veterans Review and Appeal Board Act
+, SC 1995, c 18 ( the
+VRAB Act
+), which provides that:
+Rules of evidence
+39. In all proceedings under this Act, the Board shall
+(a) draw from all the circumstances of the case and all the evidence presented to it every reasonable inference in favour of the applicant or appellant;
+(b) accept any uncontradicted evidence presented to it by the applicant or appellant that it considers to be credible in the circumstances; and
+(c) resolve in favour of the applicant or appellant any doubt, in the weighing of evidence, as to whether the applicant or appellant has established a case.
+Règles régissant la preuve
+39. Le Tribunal applique, à l'égard du demandeur ou de l'appelant, les règles suivantes en matière de preuve:
+a) il tire des circonstances et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible à celui-ci;
+b) il accepte tout élément de preuve non contredit que lui présente celui-ci et qui lui semble vraisemblable en l'occurrence;
+c) il tranche en sa faveur toute incertitude quant au bien-fondé de la demande.
+[8]
+I should note that a disability award under s. 45(1) of the
+Act
+is different than a pension under the
+Pension Act
+, RSC 1985 c P-6. Pursuant to s. 21 of the
+Pension Act
+, a member of the forces may be entitled to a pension for a disability caused by or aggravated by his or her military service. However, as provided for in s. 56(1) of the
+Act
+:
+No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the Pension Act and the Minister has rendered a decision in respect of the application.
+Aucune indemnité d'invalidité n'est accordée à l'égard d'une blessure ou maladie ou de l'aggravation d'une blessure ou maladie qui a déjà fait l'objet d'une décision du ministre relativement à l'attribution d'une pension au titre de la Loi sur les pensions.
+[9]
+For the purposes of this application for judicial review, I have assumed that the Applicant has not been the subject of an application for a pension under the
+Pension Act
+and, accordingly, is eligible to make an application for a disability award under the
+Act
+.
+[10]
+The fact that this application is made under the
+Act
+rather than under the
+Pension Act
+, has little effect on this judicial review. This is because, whether the underlying application is for a pension or for a disability award, the applicable provisions of the
+VRAB Act
+(specifically, s. 39) are equally applicable. Moreover, the statutory requirement that the injury or disease be a consequence of or aggravated by the military service is the same under both pieces of legislation. As a result, although most of the jurisprudence cited herein relates to matters that were commenced under the
+Pension Act
+, it is instructive to me in this matter.
+IV.
+Analysis
+A.
+Evidence before the Appeal Board
+[11]
+At each level of the review of his case, the Applicant added to the evidentiary record. With his application to the Minister, the Applicant provided a detailed description of his medical condition and the work environment of the tool crib. In particular, he described the problems with the ventilation system and provided a list of the types of chemicals to which he was exposed. Prior to working at the tool crib, the Applicant claims that he had "no previous history of any type of nerve or muscle pain, cramping, spasms, or nerve damage problems". He expressed the view that his medical condition "was caused by an exposure to gas/diesel fumes and chemicals over a lengthy period of time". He also provided documentary evidence of the link between certain neurological diseases and toxic chemical exposure.
+[12]
+At the Entitlement Review Board hearing, the Applicant presented, as new evidence, a copy of an e-mail dated August 10, 2009, from Jodi Schnare (the HAZMAT Officer). The HAZMAT Officer found an online list of chemicals, of which 27 of which were in use at K14 between 2003 and 2006 and which, according to the online source, "have been documented as affecting central nervous systems". The HAZMAT Officer provides no source for her information.
+[13]
+For purposes of the appeal to the Appeal Board, the Applicant supplemented his record with a medical report from a neurologist, Dr. Muhammad Shafiq and evidence of an opinion of Dr. Roy A. Fox in another decision of the Appeal Board.
+B.
+Issue #1: Reasonableness of the decision
+[14]
+The Applicant submits that the Appeal Board erred in not accepting Dr. Shafiq's opinion of the possible link between his neuropathy and the hazardous chemicals to which he was exposed.
+[15]
+Dr. Shafiq's medical report reads as follows:
+[...]
+The exact etiology of the neuropathy remains unclear
+.
+He has had investigations on two different occasions but no etiology was found.
+There is a question of whether the neuropathy may have been triggered or caused by his exposure to chemicals while he was serving in the Canadian Armed Forces. I understand that he was in charge of a tool crib. The tool crib was located at the end of large maintenance building that was used to repair all types of wheeled and tacked military vehicles. I gather that the windows in the tool crib were a non-opening type and, even with the exhaust systems the building was equipped with, the presence of gas and diesel fumes was sometimes overpowering. In addition, he had been subjected to numerous other chemicals in the workplace. Some of the products he used there contained Xylene, Toluene, Trichloroethylene and n-Hexane. By reviewing the literature, all of the chemicals have the potential to cause neuropathy.
+In my opinion, the neuropathy may have been caused by toxic exposure. I have come to this conclusion because there is no other identifiable cause of neuropathy despite extensive blood work which has been done twice
+. If there were another cause of neuropathy, i.e., autoimmune disorder, neoplasia or paraproteinemia, it would have manifested itself by now. [...]
+[Emphasis added]
+[16]
+As it was held in
+FRAGMENT_SUPPRESSED the Board's decision must provide sufficient reasons for not accepting medical evidence as credible. In the case at bar, the Appeal Board found that Dr. Shafiq's opinion was not credible because it was inconclusive as to a link between the Applicant's disability and his work in the tool crib of the CFB Gagetown.
+Dr. Shafiq's report speaks of a mere possibility that the conditions were caused by the Appellant's military service. Dr. Shafiq's opinion of exclusion is not of significant probative value. It is not supported with any persuasive analysis or insight into the reasoning process which could lead to his conclusion.
+[17]
+In my view, the Appeal Board was not unreasonable in giving little weight to Dr. Shafiq's opinion. Dr. Shafiq's medical opinion was not conclusive with regards to the relation between toxic exposure and the Applicant's medical condition. As the Respondent points out, Dr. Shafiq's medical opinion was based upon what the Applicant told him about his medical history and his time spent in the tool crib. There was no information on the details or nature of the alleged exposure. Dr. Shafiq's opinion was based on a diagnosis of exclusion and is not based on any scientific research. It was not unreasonable for the Appeal Board to find that this opinion did not establish causation.
+[18]
+The Applicant also provided to the Appeal Board a copy of a medical report of Dr. Roy A. Fox and a decision related to an appellant whose claim for disability was accepted by a panel of the Appeal Board in a 1996 decision. In respect of the appellant in that case, Dr. Fox opined that his multiple sclerosis "has at least been significantly aggravated by his solvent exposure". Based on Dr. Fox's opinion, the credible testimony of the appellant and "other Consultants", in that case, the Appeal Board accepted that the appellant's disability was aggravated during his military service. The Applicant, before the Appeal Board and this Court, submits Dr. Fox's opinion and the earlier decision was a "precedent in linking chemical exposure in the workplace to a medical condition". The Applicant argues that the Appeal Board failed to consider this evidence.
+[19]
+It is clear that the Appeal Board had the information related to Dr. Fox before it; it is listed in the decision as documentary evidence considered by the Appeal Board. The evidence was not ignored. However, beyond a listing of the earlier decision and opinion of Dr. Fox, the Appeal Board makes no explicit reference to this evidence. Did the Appeal Board commit a reviewable error by not providing any specific analysis of this evidence? Given the nature and content of this additional evidence, I do not think that it did.
+[20]
+Each decision of the Appeal Board is unique to its facts. Similarly, the opinion of a physician is applicable only to the individual to whom it is given. In general, an earlier Entitlement Review Board or Appeal Board decision cannot be relied on to support another person's appeal or case before this court; each case must be assessed by the Appeal Board based on its individual facts. Simply because a medical doctor and a panel of the Appeal Board found a link between the specific chemical exposure of one individual and his medical condition does not mean that this is a "precedent" that must be followed in every case. In the decision involving the opinion of Dr. Fox, we have little information on the evidence that was presented to the Appeal Board. Dr. Fox's opinion simply cannot be extrapolated to the facts of this case.
+[21]
+Thus, while it would have been preferable for the Appeal Board to explain why it was not according any weight to the Dr. Fox opinion and related decision, its failure to do so is not a reviewable error.
+[22]
+Finally, the Applicant submits that the cumulative effect of the evidence before the Appeal Board should have resulted in a decision in his favour. Of particular relevance, in the view of the Applicant, is the HAZMAT Officer's e-mail. The first problem with the e-mail is that is unsupported by any independent expert evidence. The second problem with it is that the mere listing of chemicals to which the Applicant was exposed does not establish that exposure to the chemicals caused or contributed to his polyneuropathy.
+[23]
+The Applicant is asking me to reweigh the evidence that was before the Appeal Board to come to a different conclusion. Unfortunately for the Applicant, this is not the role of the Court. The Board, as far as I can see, made no reviewable error. There are no grounds for the intervention of this Court.
+C.
+Issue #2: Failure to obtain independent medical advice
+[24]
+The Applicant asserts that the Appeal Board, in this case, should have obtained independent medical advice to ascertain the link between the toxic chemicals to which the Applicant was exposed and his neuropathy. Section 38(1) of the
+VRAB Act
+provides as follows:
+Medical opinion
+38. (1) The Board may obtain independent medical advice for the purposes of any proceeding under this Act and may require an applicant or appellant to undergo any medical examination that the Board may direct.
+Avis d'expert médical
+38. (1) Pour toute demande de révision ou tout appel interjeté devant lui, le Tribunal peut requérir l'avis d'un expert médical indépendant et soumettre le demandeur ou l'appelant à des examens médicaux spécifiques.
+[25]
+Pursuant to s. 38(1) of the
+VRAB Act
+, the Appeal Board
+may
+obtain independent medical advice. The provision permits the Appeal Board to seek medical advice; it does not obligate it to do so. In this case, three separate medical opinions failed to disclose anything beyond a speculative link between the disease of the Applicant and his exposure to chemicals. Thus, the Board did not act unfairly in failing to seek further medical advice.
+V.
+Conclusion
+[26]
+As noted by a number of judges considering questions of entitlement to a military pension or disability award, the lower standard provided for in s. 39 of the
+VRAB Act
+, does not relieve an applicant of the ultimate burden of proof (see, for example,
+Dumas
+, above, at para 28).
+[27]
+In the matter before me, quite simply, the Applicant failed to discharge his burden of proof. The Board acted reasonably and fairly in its assessment of the evidence that led it to conclude that the Applicant had not established that his condition was caused by his military service.
+JUDGMENT
+[28]
+THIS COURT ORDERS AND ADJUDGES that
+:
+1. the application for judicial review is dismissed; and
+2. no costs are awarded.
+[End of document]

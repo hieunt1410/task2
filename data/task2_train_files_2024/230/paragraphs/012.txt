@@ -1,0 +1,2 @@
+[12]
+The fourth factor is the nature of the question, whether it is one of law, fact, or mixed law and fact. The Court will accord greater deference to the Board's factual findings, and less deference on questions of legal principle or interpretation. Having regard to the above factors, the Court concludes the Board's decision will be reviewed on the standard of patent unreasonableness for questions of fact. Pure legal questions will be assessed on the correctness standard. Questions of mixed law and fact will be reviewed on the standard of reasonableness simpliciter.

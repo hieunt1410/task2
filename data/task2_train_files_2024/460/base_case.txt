@@ -1,0 +1,137 @@
+[1]
+Mosley, J.
+: The applicants are a family from Puebla State, Mexico who seek judicial review pursuant to subsection 72(1) of the
+Immigration and Refugee Protection Act
+, S.C. 2001, c. 27 ("IRPA") of the decision made on September 10, 2010, wherein their pre-removal risk assessment ("PRRA") application was rejected.
+BACKGROUND
+[2]
+The applicants came to Canada as tourists in October 2008 and sought refugee protection to remain here based on a fear of three judicial police officers in Puebla State. The male applicant had allegedly been in a car accident with the three officers, who then began to harass, assault and threaten him and his family, despite multiple attempts at seeking state protection from local police. The family's refugee claim was rejected on October 29, 2009 and leave to seek judicial review of that decision was denied in February 2010. The applicants filed their PRRA application on June 11, 2010, alleging the same fear.
+DECISION UNDER REVIEW
+[3]
+The PRRA officer noted that the Refugee Protection Division dismissed the applicants' refugee claim because of a viable internal flight alternative ("IFA") in Guadalajara. The officer then considered the evidence presented by the applicants, including: (i) the 2009 US Department of State report on Human Rights Practices; (ii) the Federal Court decision in
+Barajas v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 21; (iii) reports from the Procuraduria General De Justicia Del Estado De Puebla and Procuraduria General De Justicia Del Distrito Federal; and (iv) letters from friends and family.
+[4]
+The officer found that the 2009 US DOS report and the 2008 version before the RPD were consistent regarding the conditions in Guadalajara, and did not represent new risk developments. The officer also found that
+Barajas
+, above, was not sufficiently similar to the present case to persuade her that Guadalajara is not a reasonable IFA or that state protection would not be reasonably available to the applicants. The officer held that the reports from the Procuraduria Generals were not accompanied by a translation and, in any event, they should be afforded little weight because the complainants were not disinterested parties, the evidence did not reflect a continuum of documented problems or harassment since the applicants left Mexico, the documenting of problems coincided with the initiation of removal arrangements, the information is vague, and the evidence did not address the issue of an IFA in Guadalajara.
+[5]
+Finally, the officer held that the letters from friends and family should be given little weight because they were not sworn statements, the applicants did not seek this information in their attempts to secure protection from the authorities, and the letters do not speak to the availability of state protection in the IFA of Guadalajara. Thus, the officer concluded that there was insufficient new evidence to displace the decision of the RPD.
+ISSUES
+[6]
+This application raises the following issues:
+a. Did the officer err by failing to assess the subjective component of the applicants' claim before considering the existence of an IFA?
+b. Did the officer err in assessing the documentary evidence, including letters from friends and family and police reports?
+c. Did the officer err in distinguishing
+Barajas
+, above?
+ANALYSIS
+Standard of Review
+[7]
+The decision of a PRRA officer relating to the issue of an IFA involves the weight assigned to evidence, the interpretation and assessment of that evidence, and whether the officer had proper regard to all the evidence when rendering a decision. It is well-established that such issues are reviewable on a standard of reasonableness:
+Dunsmuir v. New Brunswick
+, 2008 SCC 9 at para. 53;
+Perea v. Canada (Minister of Citizenship and Immigration)
+, 2009 FC 1173 at para. 23. As a result, the reviewing court may not interfere unless the decision falls outside the range of possible, acceptable outcomes defensible in respect of the facts and law, or the decision is not properly justified, transparent or intelligible:
+Dunsmuir
+, above at para. 47.
+a. Did the officer err by failing to assess the subjective component of the applicants' claims before considering the existence of an IFA?
+[8]
+The applicants submitted that the officer erred by failing to first make a clear determination on the subjective component of the claim before assessing the existence of state protection and the availability of an IFA. The applicants relied on Justice Mainville's decision in
+Flores v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 503, where he stated at para. 31 that "save in exceptional cases, the analysis of the availability of state protection should not be carried out without first establishing the existence of a subjective fear of persecution."
+[9]
+However, Justice Mainville's statements were made in the context of a judicial review of a decision of the Refugee Protection Division ("RPD"), not a PRRA officer. This is an important distinction in light of the fact that a PRRA officer is limited to analyzing new evidence under section 113(a) of the IRPA. Also, subsequent references to
+Flores
+, above, indicate that the crux of Justice Mainville's decision was the total lack of analysis of the particular circumstances of the applicant, which resulted in a state protection analysis that was conducted in a "factual vacuum" (
+Cho v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 1299 at para. 30;
+Pikulin v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 979 at para. 13;
+Jimenez v. Canada (Minister of Citizenship and Immigration)
+, 2010 FC 727 at para. 4).
+[10]
+This is not the case here. The RPD found that the applicants' refugee claim should be rejected because the applicants had a viable IFA in Guadalajara. The scope of the officer's assessment was limited to a review of new evidence of risk that may have affected the outcome of the decision of the RPD. As a result, the officer was only required to consider any new evidence indicating that Guadalajara was not a viable IFA. Thus, Justice Mainville's statements in
+Flores
+, above, do not demonstrate that the officer committed a reviewable error.
+2) Did the officer err in assessing the documentary evidence, including letters from friends and family and police reports?
+[11]
+The applicants asserted that the officer erred by dismissing the letters from the applicants' friends and family on the basis that the authors had an interest in the outcome of the proceedings, and that the officer's treatment of the police reports suffered from the same errors. However, the officer provided a number of reasons as to why the letters should be given little weight, including that the letters: (i) were not sworn statements; (ii) were written to support the applicants' PRRA application and were not used to assist in securing protection from the authorities; and (iii) do not speak to the availability of an IFA in Guadalajara. The officer was entitled to give the information contained in the letters little weight in these circumstances and the weight to be given to that evidence is within the officer's discretionary decision-making power. In such circumstances, the Court should not intervene:
+Ray v. Canada (Minister of Citizenship and Immigration)
+, 2006 FC 731 at para. 38;
+Yazdi v. Canada (Minister of Citizenship and Immigration)
+, 2007 FC 886 at para. 11.
+[12]
+Regarding the police reports, the officer again provided a number of reasons as to why they should not be accepted, only one of which was that the complainants were not disinterested parties. The officer noted: (i) there were no official translations of the documents provided; (ii) the evidence did not reflect a continuum of documented problems or harassment; (iii) the documenting of problems did not begin until the initiation of arrangements for the applicants' removal from Canada; (iv) the information provided was vague; and (v) the evidence did not address the availability of state protection in the identified IFA. This last point is particularly relevant, as the fact that the applicants' family was attacked in Puebla and the fact that the family suspected that they had been located after they fled to Mexico City is not evidence that could have affected the RPD's conclusion that the applicants could seek state protection in Guadalajara. In light of these findings, it is clear that the officer's decision falls within a range of possible, acceptable outcomes.
+[13]
+The applicants further submit that the officer's dismissal of the letters amounted to a disguised credibility finding, and as a result, the officer erred by denying them an opportunity to respond to her concerns in an interview in accordance with section 113(b) of IRPA and section 167 of the
+Immigration and Refugee Protection Regulations
+, SOR/2002-227.
+[14]
+Under section 113(a) of the IRPA, the officer is limited to considering new evidence that has arisen since the decision of the RPD. In
+Raza v. Canada (Minister of Citizenship and Immigration)
+, 2007 FCA 385, the Court of Appeal stated at para. 13:
+As I read paragraph 113(a), it is based on the premise that a negative refugee determination by the RPD must be respected by the PRRA officer, unless there is new evidence
+of facts that might have affected the outcome of the RPD hearing if the evidence had been provided to the RPD
+. [Emphasis added]
+[15]
+In this case, the officer explicitly considered whether the evidence in the letters could have affected the outcome of the RPD hearing, and found that because they did not address the issue of whether the applicants had a viable IFA in Guadalaraja, they should be afforded little weight on the PRRA application. The same can be said of the police reports. I cannot conclude that this was unreasonable, nor can I conclude that this finding is related to the credibility of the documents themselves. As noted by the Court in
+FRAGMENT_SUPPRESSED
+[16]
+The same can be said in the present case. The officer found that the police reports and the letters were from witnesses with a personal interest in the matter, and thus the officer proceeded to examine the documents to determine their weight before considering whether they were credible. The officer made a few other findings, but most importantly, the officer found that it did not address the finding of the RPD that the applicants had an IFA in Guadalajara. Since this meant that the evidence would have insufficient probative value, the officer was entitled to afford it little weight with holding a hearing. As a result, I reject the applicants' submissions that the findings of the officer were veiled credibility findings and that the officer was obliged to hold a hearing as a result.
+3) Did the officer err in distinguishing Barajas, above?
+[17]
+The applicants asserted that the officer erred in distinguishing
+Barajas
+, above, on three grounds. First, the officer found that the case was distinguishable because in
+Barajas
+, the agents of persecution were in Guadalajara, whereas in the present case, the applicants were in Puebla and the IFA was found to be in Guadalajara. The applicants submitted that this analysis ignores the fact that the applicants had provided letters indicating that their persecutors were able to reach beyond the limits of Puebla state borders, and thus, the question was whether, if Puebla-based officers located him in Guadalajara, the officers there would be able to protect him. The applicants asserted that
+Barajas
+suggests that such protection is not available.
+[18]
+I do not agree. An analysis of state protection (and, by extension, an IFA) must be fact-specific and take into consideration the personal circumstances of the applicant. The fact that the police in Guadalajara could not protect Barajas from persecutors in their own area does not necessarily mean that the Guadalajara authorities could not protect the applicants if they were hunted down in Guadalajara. Also, even if the officer accepted the letters submitted by the applicants, there is no basis to conclude that the officer should rely on the decision in
+Barajas
+. The letters only indicate that the applicants' family had experienced harassment because the applicants left, and that they moved in order to get away from these officers, but they were located in Mexico City.
+[19]
+These letters do not demonstrate that: (i) the officers would be able to find the applicants in Guadalajara, rather than Mexico City; or (ii) the applicants' family sought state protection in Mexico City and were denied such protection. Thus, the facts of
+Barajas
+are distinguishable, as noted by the officer, and the evidence contained in the letters, even if accepted, would not have affected the officer's determination in this regard.
+[20]
+Second, the applicants asserted that it was nonsensical for the officer to conclude that
+Barajas
+was distinguishable because the officers in that case had been involved in a drug-trafficking ring while the officers in this case acted "for selfish reasons," as there is nothing to indicate that the officers in
+Barajas
+were acting for reasons other than selfish ones. The applicants also maintain that there is no explanation as to how the motivation of the corrupt officers relates to state protection.
+[21]
+I agree that the officer has failed to elaborate on this point. However, even if this particular finding of the officer is questionable or made in error, I believe that it is not material and that the difference in the facts of the cases, as noted above, is sufficient on its own to conclude that
+Barajas
+is of no help to the applicants. And as a general principle, I do not think it is appropriate to rely on the IFA findings in another case unless the facts of that case are indistinguishable.
+[22]
+Finally, the applicants submitted that the officer's finding that the Court upheld the IFA assessment of the RPD because leave to seek judicial review was denied is unreasonable and incorrect in law. I agree. The Court of Appeal has clearly stated that a decision to grant or deny leave cannot be said to be a decision on the merits of any given issue:
+Krishnapillai v. Canada (Minister of Citizenship and Immigration)
+, 2001 FCA 378 at para. 11.
+[23]
+However, I do not find that this error is a sufficient basis upon which to grant the application for judicial review. First, as I have previously indicated, the difference in the facts in
+Barajas
+, above, as compared with the facts of the present case, suggest that this decision does not aid the applicants in overcoming the findings of the RPD. Second, in light of my conclusion regarding the officer's treatment of the documentary evidence, the decision in
+Barajas
+, which was based on different facts, is not by itself evidence that may have affected the outcome of the RPD's decision.
+CERTIFICATION
+[24]
+The parties were given an opportunity to propose serious questions of general importance for certification. The respondent proposed the following question:
+Is a PRRA officer required to assess an applicant's subjective fear of persecution prior to making a finding of internal flight alternative and/or state protection?
+[25]
+In
+Zazai v. Canada (Minister of Citizenship and Immigration)
+, 2004 FCA 89; 318 N.R. 365 (Zazai), the threshold for certification was articulated as: "is there a serious question of general importance which would be dispositive of an appeal" (paragraph 11).
+[26]
+In my view, for the reasons given above with respect to the applicability of Justice Mainville's analysis in
+Flores
+, and the subsequent decisions interpreting that analysis, the proposed question would not be dispositive of an appeal in this matter. This case turned on its own particular facts.
+JUDGMENT
+[27]
+THIS COURT'S JUDGMENT is that
+the application for judicial review is dismissed. No questions are certified.
+Application dismissed.
+Editor: Anick Ouellette-Levesque/vnh
+[End of document]

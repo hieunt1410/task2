@@ -1,0 +1,10 @@
+[58]
+Prior to January 1, 1994, s. 41(1) of the
+Patent Act
+prevented the issuance of patents for substances used as medicines except insofar as they were produced by a particular process of manufacture:
+"41. (1) In the case of inventions relating to substances prepared or produced by chemical processes and intended for food or medicine, the specification shall not include claims for the substance itself,
+except when prepared or produced by the methods or processes of manufacture particularly described and claimed or by their obvious chemical equivalents
+."
+"41. (1) Lorsqu'il s'agit d'inventions couvrant des substances préparées ou produites par des procédés chimiques et destinées à l'alimentation ou à la médication, le mémoire descriptif ne doit pas comprendre les revendications pour la substance même,
+excepté lorsque la substance est préparée ou produite par les modes ou procédés de fabrication décrits en detail et revendiqués, ou par leurs équivalents chimiques manifestes
+." (emphasis added)

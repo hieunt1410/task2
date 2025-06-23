@@ -1,0 +1,13 @@
+[38]
+Subsection 18(1) of the
+Federal Courts Act
+provides the Federal Court with exclusive original jurisdiction to grant injunctive and prerogative remedies, including declaratory relief, against any federal board.
+"18(1) Subject to section 28, the Federal Court has exclusive original jurisdiction
+(a) to issue an injunction, writ of certiorari, writ of prohibition, writ of mandamus or writ of quo warranto, or grant declaratory relief, against any federal board, commission or other tribunal; and
+(b) to hear and determine any application or other proceeding for relief in the nature of relief contemplated by paragraph (a), including any proceeding brought against the Attorney General of Canada, to obtain relief against a federal board, commission or other tribunal."
+"18(1) Sous réserve de l'article 28, la Cour fédérale a compétence exclusive, en première instance, pour:
+a) décerner une injonction, un bref de certiorari, de mandamus, de prohibition ou de quo warranto, ou pour rendre un jugement déclaratoire contre tout office fédéral;
+b) connaître de toute demande de réparation de la nature visée par l'alinéa a), et notamment de toute procédure engagée contre le procureur général du Canada afin d'obtenir réparation de la part d'un office fédéral."
+Subsection 18(3) stipulates that the remedies provided for in subsection 18(1) may only be obtained through an application for judicial review.
+"18(3) The remedies provided for in subsections (1) and (2) may be obtained only on an application for judicial review made under section 18.1."
+"18(3) Les recours prévus aux paragraphes (1) ou (2) sont exercés par présentation d'une demande de contrôle judiciaire."

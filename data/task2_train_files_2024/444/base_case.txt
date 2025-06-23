@@ -1,0 +1,81 @@
+[1]
+Hargrave, Prothonotary
+: In May of 1999, following an initial segment of a pretrial conference held by telephone on 5 May, 1999, the trial in this matter was set for four days beginning 6 March 2000. Now at issue, raised at a final pretrial conference, is the propriety of a last minute motion to strike out the statement of claim on the basis of an argument which was pleaded two years ago as a defence.
+[2]
+The present continuation of the pretrial conference procedure arises out of a pretrial conference requisition of 25 March 1999. However, the whole is a continuation of case management which began with an early neutral evaluation, ordered 29 September 1998, by Mr. Justice Lutfy, as he then was. The early neutral evaluation was held 17 March 1999. It concluded with an oral critique of the strengths and weaknesses of each side's case, followed by an extensive memorandum in aid of settlement.
+[3]
+More recently there was a segment of pretrial conference on 6 December 1999, by telephone. The focus of that portion of the pretrial conference was to force the defendants to deal with discovery undertakings, for the counsel then acting for the defendants, as an officer of the court, advised that he had sought instructions, but seemed to have been ignored by his clients. At the conclusion of the 6 December 1999 segment of the pretrial conference and in preparation for the 8 February 2000 continuation, the defendants' counsel agreed to consider admissions of facts, based on facts admitted for the early neutral evaluation and to consider more closely the number of witnesses the Crown would call.
+[4]
+The present pretrial conference, 8 February 2000, was attended by counsel for the plaintiff, with two representatives of the plaintiff attending in person and two counsel for the defendants. However, there was no representative of the defendants present, contrary to rule 260 which provides:
+"Unless the court directs otherwise, the solicitors of record for the parties and the parties or their authorized representatives shall participate in a pretrial conference."
+Representatives of the defendants were, apparently, available by telephone if instructions were required. This is satisfactory in some instances, but leave should be obtained beforehand for such a departure from the rules. In the present instance this nonattendance by the defendants' representatives initially seemed excusable as this final segment of the pretrial conference was to have dealt with routine procedural matters.
+[5]
+Instead of beginning with routine procedural matters, it turned out that the defendants had instructed their new counsel to bring a heavy duty motion, only four weeks from the trial date, to strike out the statement of claim on some type of jurisdictional, or res judicata, or issue estoppel argument, perhaps to the effect that there had been an alternative remedy which the plaintiff ought to have utilized. Clients issuing such last minute instructions, which would clearly disrupt a hearing, a hearing date which had taken a year to obtain, should have the intestinal fortitude to come to the pretrial conference and explain such a last minute change of instructions, instructions which smack of delay. Indeed, the sort of issues to be raised in the motion were pleaded in the defence, filed nearly two years ago. Those issues, particularly issue estoppel, res judicata and their necessary elements, were fully covered and dismissed, as of little interest, at the early neutral evaluation of a year ago. The purposeful thwarting of the pretrial conference procedure, by a party, is a reckless step. Counsel and the defendants are referred to
+Moscone v. Minister of National Revenue
+, [1999] F.T.R. Uned. 438 (T.D.), in T-1904-96, touching upon the seriousness of nonattendance and to
+Nygren v. The Queen
+, unreported 17 December 1999 reasons in action T-853-96, in which costs were awarded against a nonattending party.
+[6]
+The defendants have prepared their motion to strike out, seemed to have served it on counsel for the plaintiff, but have not filed it. Counsel for the defendants indicated it would take a day to hear, were the motion put over to trial, but that it was intended to be a motion in writing. Even if done as a straight forward motion in writing, by the time the response was filed and reasons given, let alone any appeal pursued, there would be an adjournment of the trial. However, counsel for the defendants believes the motion, if successful, could dispose of the action entirely. Counsel for the plaintiff expected the substance of the motion to be a variation on a portion of the defence and indicated he would wish not only to file affidavits in response, but also to cross-examine on affidavits, all of which would most certainly require an adjournment of the 6 March trial date. Counsel for the defendants indicated that, were the motion heard by the trial judge, the four days of trial, previously agreed by counsel, one day for the plaintiff's case, one and a half or two days for the defendants' case and argument on the final day, would be insufficient. Given the clear and numerous admissions made by the defendants' witness on discovery, one might question the rationale of going to trial as opposed to accepting the compromise negotiated at the early neutral evaluation.
+[7]
+All of this points, at best, to much confusion and inconvenience and, more likely, to prejudice to the plaintiff, who has brought somewhat recalcitrant defendants up to a trial date, even when it has taken an order that:
+"Outstanding discovery undertakings of the defendants shall be provided on or before close of business 14 January 2000, failing which the defendants' representative shall appear in person at the Edmonton Registry at 8:30 a.m. on Tuesday 25th of January, 2000, to explain the default;
+"Costs to the plaintiff in the amount of $400 payable forthwith."
+to get the defendants to the present position.
+[8]
+If the present trial date is lost, here assuming that the defendants do not succeed on their proposed motion, it will set the plaintiff back a year while it waits for a new trial date. However the court has always had the ability to control its own process.
+[9]
+A motion to strike out, for want of a cause of action, or for want of jurisdiction, may be brought at any time. Similarly where, as here, an estoppel, or res judicata, are pleaded in a defence, the filing of a defence is not a bar to such a motion. However, to plan to bring such a motion at a late date may be a bar in itself and particularly where a party not only pleads the substance of the motion in its defence, but also covers it on an early neutral evaluation and explores it on examination for discovery.
+[10]
+As I pointed out in
+FRAGMENT_SUPPRESSED an elaborate motion to strike out at the last minute, there some six weeks before trial, is improper:
+FRAGMENT_SUPPRESSED (pages 248-249)
+In
+Lower Similkameen
+I decided that the issue raised in the motion to strike out was one which was at the heart of the case, just as the motion of the defendants in the present instance is a legitimate defence. It is a situation parallel to that in
+Lower Similkameen
+, an issue on which the trial judge ought to hear and observe witnesses at trial.
+[11]
+In
+Lower Similkameen
+, as in the present instance, I was concerned not only with the proximity of the trial date, but also with the delay in bringing the motion. Moreover, to strike out the motion at that stage would deny the plaintiffs the chance of going to a trial judge where the relief at issue might well be within the trial judge's discretion and thus ought to be heard by the trial judge. This is the line of reasoning which the Federal Court of Appeal set out in
+Procter & Gamble Co. v. Nabisco Brands Inc.
+(1985), 62 N.R. 364 (F.C.A.), where Mr. Justice Urie commented on rule 419(1), which then dealt with striking out:
+"As to clause (a) of the rule, it would appear that the stricture applicable to the other clauses of the rule to which we have just alluded, does not necessarily establish a bar to the motion. However, in this case, the appellant asserted in its Statement of Defence that 'the allegations of paragraph 14 do not raise any cause of action within the jurisdiction of this court', ... without amplifying the allegation as to jurisdiction in such a way as to enable the Motions Judge to determine whether or not the alleged want of jurisdiction really negated the cause of action. This fact, together with a lengthy delay of over six months in bringing a motion to strike after pleading to the Statement of Claim, undoubtedly were among the factors which led her to deny the motion. We do not believe that this exercise of her discretion should be interfered with by this court."
+[12]
+The issues which the present defendants apparently wish to raise, res judicata, estoppel, and a failure to utilize some other remedial procedure, are really defences upon which, in this instance, a trial judge ought to hear and observe witnesses. It is an issue that ought to be allowed to go to trial. This is a point made by the Federal Court of Appeal in
+Canadian Pacific Ltd. v. United Transportation Union
+(1978), 21 N.R. 33 (F.C.A.), in which the Court of Appeal quoted a passage from
+Boar v. The Queen
+, an unreported 1969 Exchequer Court decision:
+"An application to strike out a statement of claim or a pleading whereby a claim for relief is pleaded should only be granted where it can be clearly seen that the claim is on the face of it 'obviously unsustainable.' (Compare
+Attorney General of the Duchy of Lancaster v. London and Northwestern Railway
+, [1892] 3 Ch. 274) If there is a point of law that requires serious discussion, an objection should be taken on the pleadings and the point of law set down for hearing and for disposal before trial under rule 149, or the matter should be allowed to go to trial, according to the circumstances." (Compare
+Hubbuck & Sons Ltd. v. Wilkinson, Heywood & Clark Ltd.
+, [1899] 1 Q.B. 86 (C.A.)).
+Certainly in
+Boar v. The Queen
+there were options open, but here time forecloses the option of dealing with the issues before trial.
+[13]
+These cases are all applicable in the present instance. Here there has been great delay, at least a year, and perhaps two years, in getting around to serving a motion to strike out the statement of claim on a substantial point, a point pleaded two years ago as a defence. The point ought to go to the trial judge, who can hear evidence and observe witnesses. To have the point dealt with as an interlocutory motion will mean only modest cost saving and substantial cost in delay.
+[14]
+In reaching this conclusion, I am fully aware of the elements for issue estoppel, for example, as set out in
+Carl Zeiss Stiftong v. Rayner & Keeler Ltd. (No. 2)
+, [1967] 1 A.C. 853, at 935, as approved by the Supreme Court in
+Angle v. Minister of National Revenue
+, [1975] 2 S.C.R. 248; 2 N.R. 397, at 254. However, I do not purport to decide the motion, for I have only had counsels' views as to the substance of the motion. To hear the motion at this juncture would clearly be a delay, which ought not to be countenanced, and an abuse.
+[15]
+Counsel for the defendants questioned the jurisdiction of the court to prevent the bringing of such motion. Section 50 of the
+Federal Court Act
+allows for a stay of proceedings in any matter where it is in the interests of justice. I have doubts whether section 50 is applicable, for the stay that might be called for is neither of a proceeding in total nor of even a real present part of a proceeding, for it relates to an intended motion, served but not filed. Yet the court has always had an implied jurisdiction available to make its procedure work. Here I am aware that the approach to implying jurisdiction ought to be a conservative one, with the test being that of necessity: See for example
+Canada v. Canadian Liberty Net
+, [1991] S.C.R. 626, at 639-644 and particularly at 642, the court there referring to
+New Brunswick Electric Power Commission v. Maritime Electric Co. and National Energy Board
+, [1985] 2 F.C. 13; 60 N.R. 203.
+[16]
+In the present instance, I have in mind the necessity to enjoin the defendants from bringing a disruptive and delaying striking out motion at such a late date, a date which will, in all likelihood, deprive the plaintiff of having its case heard for at least another year. The defendants are enjoined from bringing such a motion. Rather, an extra day of trial has now been added to the 6 March 2000 trial date so that the defendants may argue their issues of res judicata, issue estoppel, and alternative remedy, as set out, or as may be set out in an amended defence. In taking this approach, the defendants may rely on existing discovery and viva voce evidence, but not on the intended motion or any of the affidavit material forming part of the motion record. The time for any amendments to the Defence and to the statement of claim are set out in an order of even date.
+[17]
+Finally, I should make it clear that I do not fault either former counsel for the defendants, or present counsel for the defendants, for any of this present confusion and attempt to delay. They have acted properly as officers of the court, and also, I believe, as counsel, although perhaps unheeded counsel, to their clients.
+Order accordingly.
+Editor: Sharon J. McLaughlin/pdk
+[End of document]

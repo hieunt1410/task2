@@ -1,0 +1,99 @@
+A. Introduction
+[1]
+Evans, J.
+: Iqbal Singh is a citizen of India and a Sikh from Jammu. In 1998 he was recognized as a refugee by the Convention Refugee Determination Division of the Immigration and Refugee Board. However, the Minister of Citizenship and Immigration refused to grant him permanent residence status because there were reasonable grounds for believing that he was a member of a terrorist organisation and thus within an inadmissible class by virtue of ss. 19(1)(e) and (f) of the
+Immigration Act
+, R.S.C. 1985, c. I-2.
+[2]
+In March 1998 the applicant became aware that he would be deported on this ground. He was issued with a security certificate under s. 40.1(1) of the
+Act
+stating that, on the basis of security or criminal intelligence received, the Minister and the Solicitor General of Canada were of the opinion that the applicant was a person described in ss. 19(1)(e) and (f). The validity of this certificate was considered by Rothstein, J., under s. 40.1(4), and upheld.
+[3]
+In August 1998 a deportation order was issued against the applicant. Late in October the applicant served and filed a statement of claim challenging the constitutionality of the provisions of the
+Immigration Act
+governing his deportation and removal from Canada, in particular ss. 19(1)(e) and (f) and s. 53.
+[4]
+Section 53 provides that a person who has been recognized as a refugee in Canada shall not be removed to a country where the person's life or freedom would be threatened for reasons of race, religion, nationality, membership of a particular social group or political opinion. However, there are some exceptions to this general prohibition on removal, and the one relevant to this case is that the person is a member of an inadmissible class by virtue of ss. 19(1)(e) or (f),
+and
+the Minister is of the opinion that the person constitutes a danger to the security of Canada.
+[5]
+The applicant made submissions to the Minister under s. 53 and provided documentary evidence to show that he would be at risk of detention, torture or death at the hands of the Indian police or military authorities if he were returned there. In submissions to the Minister made on behalf of the applicant counsel maintained that, because of these apprehended risks, it would be a breach of the applicant's rights under ss. 7 and 12 of the
+Canadian Charter
+of Rights and Freedoms
+to remove him to India.
+[6]
+The applicant then brought a motion for an interim injunction to restrain the Minister from removing him to India prior to the determination of the constitutional issues raised in his statement of claim. At this point, the Minister had not yet rendered her decision under s. 53 and no order of removal had been made against Mr. Singh.
+[7]
+Consequently, in the memorandum of law and fact filed as part of the respondent's motion record counsel for the Minister argued that the motion was premature. However, before the motion was heard the Minister formed an opinion under s. 53(1)(b) that the applicant constitutes a danger to the security of Canada, and arrangements were made for his removal from Canada to India on December 21, 1998.
+[8]
+Finally, I should add, the applicant was arrested in April 1998 and has remained in custody ever since, pending the execution of the deportation order.
+B. Issues And Analysis
+[9]
+It was agreed by counsel for both parties that the exercise of the court's discretion to grant an interim injunction in this case is governed by the tripartite test established in
+RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général)
+, [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241; 111 D.L.R.(4th) 385; 54 C.P.R.(3d) 114, each element of which must be satisfied before relief may be granted.
+(i) Serious Issue
+[10]
+Counsel for the Minister conceded at the hearing of the motion that the applicant's statement of claim raises a serious issue with respect to the constitutional validity of decisions made pursuant to s. 53 of the
+Immigration Act
+. The applicant has submitted that s. 53 violates ss. 7 and 12 of the
+Charter
+by permitting the removal of a person to a country where the person faces a significant risk of torture. In addition, it is argued, s. 53 does not comply with the principles of fundamental justice: first, because the decision-making procedure is neither impartial, nor allows an adequate opportunity for the person concerned to participate; and, second, because removal depends on the subjective opinion of the Minister as to the threat posed by the individual to the security of Canada.
+[11]
+Counsel for the applicant also argued that the statement of claim raised serious issues with respect to ss. 19(1)(e) and (f) of the
+Act
+, including the over-breadth of the term "terrorism", and the absence of any meaningful standard imported by the requirement of "reasonable grounds to believe". Counsel for the respondent, on the other hand, maintained that it has already been held in
+FRAGMENT_SUPPRESSED that "terrorism" is not unconstitutionally vague, and denies that there is a serious issue about the validity of these paragraphs.
+(ii) Irreparable Harm
+(a) The Applicant's Concerns
+[12]
+Counsel for the applicant argued that the affidavits and other documentary materials submitted in the motion record established that, if the applicant were returned to India, he would face a substantial risk of detention, interrogation, torture or even death as a result of his suspected connection with Sikh militants. This, counsel contended, was clearly irreparable harm for the purpose of the
+RJR-MacDonald
+test.
+[13]
+Counsel also argued that removal from Canada would deprive the applicant of the opportunity to obtain a remedy for the violation of the
+Charter
+rights that he alleged in his statement of claim. This, too, would constitute irreparable harm.
+(b) Prematurity
+[14]
+In addition to disputing these points, counsel for the Minister raised a more fundamental objection to the grant of relief. He argued that, since the applicant has an opportunity to raise the constitutional issues in the context of an application for judicial review of the Minister's s. 53 decision and, if necessary, to seek a stay of the applicant's removal pending its determination, he would not suffer irreparable harm if the present motion for an interim injunction were refused. In other words, counsel argued that the prematurity objection that had been raised in the respondent's memorandum prior to the Minister's s. 53 decision and the issue of an order for removal was still applicable.
+[15]
+As I understand it, the rationale that counsel advanced for this position was as follows. First, an application for judicial review of the Minister's s. 53 decision provides a more appropriate remedial context than a statement of claim for a court to consider the issues raised by the applicant, because the court will have before it all the materials on which the Minister based her decision and whatever reasons that the Minister has given for her decision.
+[16]
+Second, counsel suggested that I should refuse to grant an interim injunction because by instituting an action the applicant was simply attempting to obtain two opportunities to challenge the validity of his removal, namely through the statement of claim and the subsequent application for judicial review of the Minister's s. 53 decision. However, the court's power to manage related proceedings and bring them on at the same time (see, for example,
+Ahani v. Canada et al.
+, [1998] F.T.R. Uned. 580 (T.D.)), and the doctrine of res judicata, will enable it to avoid unnecessary duplication of litigation.
+[17]
+Counsel for the applicant submitted that an application for judicial review of the Minister's s. 53 decision was not an adequate alternative remedy because the applicant would not be able to raise the constitutionality of the relevant provisions of the
+Immigration Act
+. Counsel referred to
+Tétreault-Gadoury v. Canada Employment and Immigration Commission
+, [1991] 2 S.C.R. 22; 126 N.R. 1; 81 D.L.R.(4th) 358 for the proposition that on an application for judicial review a court may not review a decision on a ground on which the decision-maker under review had no jurisdiction to base the decision.
+[18]
+Even if counsel is correct that the Minister has no jurisdiction to determine
+Charter
+challenges to the validity of the
+Act
+, and I think that she probably is, the Minister is nonetheless obliged to interpret and apply the provisions of the
+Immigration Act
+, and to exercise any discretion that it may confer, in a manner that is consistent with the
+Charter
+:
+Davidson v. Slaight Communications Inc.
+, [1989] 1 S.C.R. 1038; 93 N.R. 183; 59 D.L.R.(4th) 416; 26 C.C.E.L. 85; 89 C.L.L.C. 14,031; 40 C.R.R. 100.
+[19]
+Hence, on an application for judicial review of the Minister's decision the applicant may, for example, challenge the constitutionality of the decision-making process by arguing that it did not comply with the principles of fundamental justice, or argue that the Minister's application of s. 53 to the material before her violates the applicant's right to life, liberty and security of the person, or constitutes cruel and unusual punishment or treatment contrary to s. 12 because it exposes him to a very real risk of torture or death if he is returned to India.
+[20]
+On the other hand, in the course of a s. 53 determination the Minister is not called upon to interpret or apply ss. 19(1)(e) and (f), which the applicant says are also unconstitutional. Therefore, this issue cannot be raised on an application for judicial review of the Minister's decision.
+[21]
+However, I was not persuaded that there is a serious question about the validity of the relevant provisions of s. 19(1), especially in light of the decision in
+McAllister
+, supra. Moreover, the applicant waited seven months from the time when the security certificate was issued under s. 40.1(1), and the applicant became aware of the Minister's decision to deport him under the statutory provisions that he is now seeking to impugn. If he has lost an opportunity to raise another constitutional argument it is as a result of his delay.
+C. Conclusion
+[22]
+Accordingly, I am not satisfied that the applicant will suffer irreparable harm if I do not grant an interim injunction. I would also add that this conclusion is consistent with the principle that the court should, wherever feasible, encourage parties to challenge the legality of governmental action on an application for judicial review, rather than by a statement of claim, whether or not the grounds of review include constitutional questions. The application for judicial review is specifically designed for this purpose and its procedure is calculated to ensure that matters come on expeditiously without the need for the pre-trial steps of an action.
+[23]
+In order to ensure that the applicant has a reasonable opportunity to raise the constitutionality of the application to him of s. 53, and of the exercise of any statutory discretion conferred by that section, I order that the applicant not be removed for a period of 14 days from the date of this order. This should enable counsel to file an application for judicial review and to re-file with it the material submitted for this motion, if they have not already done so and, if necessary, to seek a further stay of the applicant's removal pending the disposition of the application for judicial review.
+Order accordingly.
+Editor: Sharon J. McLaughlin/kaw
+[End of document]

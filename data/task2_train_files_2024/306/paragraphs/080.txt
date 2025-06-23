@@ -1,0 +1,4 @@
+[80]
+The man basket or cherry picker unit of the Brock patent (Exhibit D-1) is sometimes used in mining where scaling is necessary (i.e., removing loose rocks from roof of mine). The movement of 2-men baskets is in a transverse direction, i.e., across the carrier and also a fore-and-aft direction on the carrier. "This movement - this transverse movement in Figure 1 and the fore and aft movement shown in figure 4 would, of course, correspond to the XY movement of a drill boom." At page 1004 of the evidence:
+"Q.	Does that have any relevance to the claims in suit?
+A.	Yes, Claim one refers to movement in one direction and claim two refers to control of movement in the other direction of the drill boom. Brock also uses the automatic parallel system."

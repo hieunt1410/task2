@@ -1,0 +1,110 @@
+[1]
+Heald, D.J.
+: This is an application for judicial review of the decision of Post Claims Determination Officer R. Klagsbrun dated June 27, 1997 in which it was determined that the applicants herein were not members of the Post Determination Refugee Claimants in Canada Class ("PDRCC").
+Facts
+[2]
+Officer Klagsbrun (the "Officer") advised the applicants by letter that the subject class "-- is limited to persons who will be subjected to a personal, objectively identifiable risk to their life, of extreme sanctions or of inhumane treatment if required to leave Canada. -- It has been determined that you would not be subjected to any of the above risks. Therefore, you are not a member of the PDRCC Class".
+Issues
+[3]
+In her written memorandum of argument, counsel for the applicants raises three issues:
+(1) Did the Officer deny fundamental justice by failing to grant the applicants an interview concerning this application?
+(2) Did the Officer deny fundamental justice by reaching speculative conclusions based on a misinterpretation of the documentary evidence?
+(3) Since the Officer's decision was not made in accordance with the principles of fundamental justice, are the applicants' rights pursuant to s. 7 of the
+Charter
+violated?
+[4]
+In her submissions at the hearing before me, counsel raised two additional issues:
+(4) Counsel submits that the Officer copied verbatim portions of the reasons for decision of the Immigration and Refugee Board (IRB) and incorporated these reasons as part of her own reasons for decision. In her submission, such a practice amounts to reviewable error since the officer, when considering PDRCC claims, is mandated to conduct an independent risk assessment based on the evidence before that officer.
+(5) Counsel submits that the Officer relied on documentary evidence which was before the IRB but not before her. I refer to Exhibit R3.
+Analysis
+Issue 1
+Failure To Grant An Interview
+[5]
+This issue must be answered in the negative. Section 11.4(3) of the
+Immigration Regulations
+reads:
+"11.4(3) A person, other than a person referred to in any of subparagraphs a(i) to (vii) of the definition 'member of the post-determination refugee claimants in Canada class' in s. 2(1),
+may make written submissions to an immigration officer
+respecting any of the matters referred to in paragraph (c) of that definition." (The underlining is mine)
+[6]
+Since this regulation clearly contemplates written submissions rather than a personal interview, there can be no breach of fundamental justice on this basis. It should also be noted that this court has decided that the lack of a personal interview does not violate s. 7 of the
+Charter
+FRAGMENT_SUPPRESSED.
+Issue 2
+Misinterpretation Of
+The Documentary Evidence
+[7]
+The applicants contend that they would be at risk because their father was a member of the security forces under the Mengistu regime and was also a member of the Mengistu run Workers' Party of Ethiopia. Additionally, there was evidence of more than 20 extra-judicial killings in 1994. It was also noted, however, that "these practices do not appear to be widespread". [see footnote 1] Furthermore, there is nothing on the record to establish the motivation for these killings on Convention grounds.
+[8]
+The applicants also refer to a document entitled:
+Ethiopia: Court Jails Government Opponents
+which indicates that members of the All-Amhara Peoples Organization (the "AAPO") have been sentenced to imprisonment by the court administered by the TGE ("Transitional Government of Ethiopia"). The AAPO has also reported numerous incidents of detention, disappearances, alleged torture and extra-judicial executions of AAPO supporters and Amharas by government troops. This evidence only refers to specific instances where members of the AAPO appear to have been wrongfully accused, convicted and sentenced to imprisonment for two years. In my view, this documentary evidence does not assist the applicants. These applicants were not politically active in Ethiopia nor were they members of the AAPO. There is no evidence indicating that they would be at risk simply because they were members of the Amhara tribe or because they are family members of those who were detained.
+[9]
+Counsel also suggests that the Officer ignored the evidence relating to the risk faced by women in Ethiopia. However, there is no evidence on this record that these applicants were exposed to violence because of their gender.
+[10]
+For all of the foregoing reasons, I am unable to conclude that the Officer erred in misinterpreting the documentary evidence in this application.
+Issue 3
+Section 7 Of The Charter
+[11]
+The applicants, while seeking refugee status, have benefited from the entire panoply of procedural rights. Particularly cogent to this issue is the judgment of Madame Justice McGillis in
+Sinnappu v. Canada (Minister of Citizenship and Immigration)
+(1997), 126 F.T.R. 29 (T.D.), where she stated:
+"In applying those principles to the present case, it must be recalled that the legislative scheme provides extensive safeguards and various avenues of recourse to a refugee claimant. At the outset, such a claimant has a right to a hearing before a quasi-judicial body and a right to apply to this court for leave and for judicial review of a negative Board decision. Furthermore, under the post-claim review scheme, an unsuccessful refugee claimant is automatically deemed to apply for landing in Canada as a member of the PDRCC class. He is entitled to make submissions in writing in support of that application in order to establish that he meets the criteria for risk outlined in the
+Regulations
+. In the event that the conditions in his country of origin change, he may make additional submissions in writing at any time prior to the making of the decision. He may institute legal proceedings to challenge a negative decision. Furthermore, as a matter of stated ministerial policy, he will not be deported from the country until a negative decision has been made on the application for membership in the PDRCC class. The unsuccessful refugee claimant may also, at any time, make an application under s. 114(2) of the
+Act
+, on the basis of risk or any other factors, to facilitate his landing in Canada on humanitarian or compassionate grounds. Indeed, he may make more than one application for admission on humanitarian or compassionate grounds. In the event that he receives a negative decision on any such application, he may institute legal proceedings to challenge it. An application for membership in the PDRCC class and an application for admission on humanitarian or compassionate grounds are separate, complementary processes. As a result, the legislative scheme provides two separate mechanisms for reviewing evidence of changes in country conditions and for assessing any attendant risks to the unsuccessful refugee claimant.
+(...)
+"... it must be recognized that, at some point in the system, there has to be finality. In my opinion, the two separate avenues of post-claim review available to an unsuccessful refugee claimant conform to the requirements of fundamental justice.
+"Following my review of the substantive content and the procedural aspects of the legislation, I have concluded that the applicants have failed to establish any breach of their s. 7
+Charter
+rights."
+Issue 4
+Failure To Conduct An Independent
+Risk Assessment Of The Applicant
+[12]
+As I indicated at the oral hearing, I am not persuaded, on this record, that the Officer's use of similar or identical language to that employed by the IRB would suggest that the Officer had not conducted an independent study of the applicant's PDRCC claim, had not made a separate analysis and drawn independent conclusions. Accordingly, this ground of appeal is without merit.
+Issue 5
+The Immigration Officer Relied On
+Exhibit R3 Which Was Before
+The IRB But Not Before Her
+[13]
+I do not find this submission persuasive. The Immigration Officer concluded based on information drawn from Exhibit R3 that:
+"Documentary evidence provided at the CRDD hearing indicates that there are no reports that family members of those in detention have been detained, mistreated, or deprived of civil rights by the transitional government."
+[14]
+However, the Immigration Officer was in the possession
+of other evidence
+at the time of making her decision which entitled her to reach her decision. I refer to Response to Information Report ETH23101-E-11 March 1996 which states:
+"There is no evidence to suggest that the government is systematically putting pressure on family members, or targeting family members of those detained."
+[15]
+On this basis, I conclude that the oversight with respect to Exhibit R3 does not vitiate these proceedings. [see footnote 2]
+Conclusion
+[16]
+Accordingly, and for the above reasons, the within application for judicial review is dismissed.
+Certification
+[17]
+Counsel for the applicant submits the following question for certification pursuant to s. 83 of the
+Immigration Act
+.
+"In the Post-Determination Refugee Claimants in Canada (PDRCC) assessment conducted under s. 2(1) of the
+Immigration Regulations
+by a Post-Claim Determination Officer (PCDO), is the PCDO entitled to rely on documentary evidence which was before the Immigration and Refugee Board (IRB), but which was not before the PCDO him/herself, in rendering a negative PDRCC assessment?"
+[18]
+The Federal Court of Appeal has decided that the question submitted for certification must be determinative of the appeal. [see footnote 3]
+[19]
+On the record, I am not persuaded that the suggested question would be determinative of the appeal.
+[20]
+Accordingly, the request for certification herein is declined.
+Application dismissed.
+Editor: Angela E. McKay/saf
+Footnotes
+1.	Applicants' record, p. 51. State Department Report on Human Rights in Ethiopia (1995).
+2.	Compare
+Yassine v. Minister of Employment and Immigration
+(1994), 172 N.R. 308 (F.C.A.).
+3.	See
+M.C.I. v. Khatib
+(20 June 1996), A-592-94 (C.A.) and
+Canada (Minister of Citizenship and Immigration) v. Oppong
+(1996), 193 N.R. 306 (F.C.A.).
+[End of document]

@@ -1,0 +1,5 @@
+[33]
+The Federal Court of Appeal addressed the issues a Court must consider in determining whether a particular regulation is ultra vires the enabling statute in
+Jafari v. Minister of Employment and Immigration
+, [1995] 2 F.C. 595; 180 N.R. 330 (F.C.A.). Strayer, J.A., stated at paragraph 14:
+"It goes without saying that it is not for a court to determine the wisdom of delegated legislation or to assess its validity on the basis of the court's policy preferences. The essential question for the court always is: does the statutory grant of authority permit this particular delegated legislation? In looking at the statutory source of authority one must seek all possible indicia as to the purpose and scope of permitted delegated legislation. Any limitations, express or implied, on the exercise of that power must be taken into account. One must then look to the regulation itself to see whether it conforms and where it is argued that the regulation was not made for the purposes authorized by the statute one must try to identify one or more of those purposes for which the regulation was adopted."

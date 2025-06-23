@@ -1,0 +1,7 @@
+[40]
+A more interesting and apt analogy was relied upon by Dubé, J., in Noel, supra, where he applied the test for a confidential record which was adopted in Slavutych v. Baker et al., [1976] 1 S.C.R. 254, at 260; 3 N.R. 587; 55 D.L.R.(3d) 224. There, drawing upon Wigmore on Evidence (3rd Ed., McNaughton Revision, 1961) at para 2285, the court adopted as principles necessary to establish a privilege against the disclosure or unauthorized use of communications, at least for evidence against the party providing them that;
+1) they originate in a confidence that they will not be disclosed,
+2) the element of confidentiality must be essential to the full and satisfactory maintenance of the relation between the parties,
+3) the relation be one which in the opinion of the community ought to be sedulously fostered, and
+4) the injury which would inure to the relation by the disclosure of the communications must be greater than the benefit thereby gained for the correct disposal of the litigation.
+Like other tests referred to, I find this one helpful though the last of the principles relates particularly to the use of communications as evidence in judicial or quasi-judicial proceedings.

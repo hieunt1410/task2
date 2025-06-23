@@ -1,0 +1,47 @@
+[5]
+The detailed provisions of s. 44 are herein set out:
+"44(1) Where at any time in a taxation year (in this subsection referred to as the 'initial year') an amount has become receivable by a taxpayer as proceeds of disposition of a capital property (in this section referred to as his "former property") that is either
+(a) property the proceeds of disposition of which are described in subparagraph 13(21)(d)(ii), (iii) or (iv) or 54(h)(ii), (iii) or (iv), or
+(b) a property that was, immediately before the disposition, a former business property of the taxpayer,
+and the taxpayer has
+(c) where the former property is described in paragraph (a), before the end of the second taxation year following the initial year, and
+(d) in any other case, before the end of the first taxation year following the initial year,
+acquired a capital property (in this section referred to as his "replacement property") as a replacement for his former property and his replacement property has not been disposed of by him prior to the time he disposed of his former property, notwithstanding subsection 40(1), if he so elects under this subsection in his return of income under this Part for the year in which he acquired the replacement property,
+(e) the gain for a particular taxation year from the disposition of his former property shall be deemed to be the amount, if any, by which
+(i) where the particular year is the initial year, the lesser of
+(A) the amount, if any, by which the proceeds of disposition of the former property exceed the aggregate of its adjusted cost base to him immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by him for the purpose of making the disposition, and
+(B) the amount, if any, by which the proceeds of disposition of the former property exceed the aggregate of the cost to him, or in the case of depreciable property, the capital cost to him, determined without reference to paragraph (f), of his replacement property and any outlays and expenses to the extent that they were made or incurred by him for the purpose of making the disposition, or
+(ii) where the particular year is subsequent to the initial year, the amount, if any, claimed by him under subparagraph (iii) in computing his gain for the immediately preceding year from the disposition of the former property,
+exceeds
+(iii) such amount as he may claim, not exceeding a reasonable amount, as a reserve in respect of such of the proceeds of disposition of the former property that are not due to him until after the end of the particular year as may reasonably be regarded as a portion of the amount determined under subparagraph (i) in respect of the property, and
+(f) the cost to him or, in the case of depreciable property, the capital cost to him of his replacement property at any time after the time he disposed of his former property, shall be deemed to be
+(i) the cost to him or, in the case of depreciable property, the capital cost to him of his replacement property otherwise determined,
+minus
+(ii) the amount, if any, by which the amount determined under clause (e)(i)(A) exceeds the amount determined under clause (e)(i)(B).
+"44(2) For the purposes of this Act, the time at which a taxpayer has disposed of a property for which there are proceeds of disposition as described in subparagraph 13(21)(d)(ii), (iii) or (iv) or 54(h)(ii), (iii) or (iv), and the time at which an amount, in respect of those proceeds of disposition has become receivable by the taxpayer shall be deemed to be the earliest of
+(a) the day the taxpayer has agreed to an amount as full compensation to him for the property lost, destroyed, taken or sold,
+(b) where a claim, suit, appeal or other proceeding has been taken before one or more tribunals or courts of competent jurisdiction, the day on which the taxpayer's compensation for the property is finally determined by such tribunals or courts,
+(c) where a claim, suit, appeal or other proceeding referred to in paragraph (b) has not been taken before a tribunal or court of competent jurisdiction within two years of the loss, destruction or taking of the property, the day that is two years following the day of the loss, destruction or taking,
+(d) the time at which the taxpayer is deemed by s. 48 or 70 to have disposed of the property, and
+(e) where the taxpayer is a corporation other than a subsidiary corporation referred to in subs. 88(1), the time immediately before the winding-up of the corporation,
+and he shall be deemed to have owned the property continuously until the time so determined.
+"44(3) Subs. 70(3) does not apply to compensation referred to in subparagraph 13(21)(d)(ii), (iii) or (iv) or 54(h)(ii), (iii) or (iv) that has been transferred or distributed to beneficiaries or other persons beneficially interested in an estate or trust.
+"44(4) Where a former property of a taxpayer was a depreciable property of the taxpayer
+(a) if he has elected in respect thereof under subs. (1), he shall be deemed to have elected in respect thereof under subs. 13(4); and
+(b) if he has elected in respect thereof under subs. 13(4), he shall be deemed to have elected in respect thereof under subs. (1).
+"44(5) For the purposes of his section, a particular capital property of a taxpayer is a replacement property for a former property of the taxpayer, if
+(a) it was acquired by the taxpayer for the same or a similar use as the use to which he put the former property;
+(b) where the former property was used by the taxpayer for the purpose of gaining or producing income from a business, the particular capital property was acquired for the purpose of gaining or producing income from that or a similar business; and
+(c) where the taxpayer was not resident in Canada at the time he acquired the particular capital property, in addition to the requirements in paragraphs (a) and (b), the particular capital property was taxable Canadian property.
+"44(6) Where a taxpayer has disposed of property that was a former business property and was in part a building and in part the land, or an interest therein, subjacent to or necessary for the use of the builidng, for the purposes of subss. (1) and 13(4), the amount, if any, by which
+(a) the proceeds of disposition of one such part determined without regard to this subsection
+exceed
+(b) the cost to him or, in the case of depreciable property, the capital cost to him of a replacement property for that part
+shall, to the extent that the taxpayer so elects in his return of income under this Part for the year in which he acquired the replacement property, be deemed not to be proceeds of disposition of that part and to be proceeds of disposition of the other part.
+"4(7) Subparagraph (1)(e)(iii) does not apply to permit a taxpayer to claim any amount thereunder in computing a gain for a taxation year where
+(a) the taxpayer, at the end of the year or at any time in the immediately following year, was not resident in Canada or was exempt from tax under any provision of this Part; or
+(b) the person to whom the former property of the taxpayer was disposed of was a corporation that, immediately after the disposition,
+(i) was controlled directly or indirectly by the taxpayer,
+(ii) was controlled directly or indirectly by a person or group of persons by whom the taxpayer was controlled directly or indirectly, or
+(iii) controlled the taxpayer directly or indirectly where the taxpayer is a corporation."
+THE ISSUES:

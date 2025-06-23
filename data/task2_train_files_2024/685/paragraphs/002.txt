@@ -1,0 +1,9 @@
+[2]
+Section 247(2) of the Act reads as follows:
+"247(2)
+Associated corporations
+.
+Where, in the case of two or more corporations, the Minister is satisfied
+(a) that the separate existence of those corporations in a taxation year is not solely for the purpose of carrying out the business of those corporations in the most effective manner, and
+(b) that one of the main reasons for such separate existence in the year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the refundable investment tax credit under section 127.1
+the two or more corporations shall, if the Minister so directs, be deemed to be associated with each other in the year."

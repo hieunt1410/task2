@@ -1,0 +1,7 @@
+[13]
+From a review of this jurisprudence, I gather the following broad (and likely over-simplified) principles in respect of decisions of an adjudicator acting under Part III of the Canada Labour Code:
+- A finding of fact is reviewable on a standard of patent unreasonableness;
+- A finding related to a collective agreement or other document establishing the relationship between the employer and employee is a question of mixed fact and law reviewable on a standard of reasonableness simpliciter;
+- A finding requiring an adjudicator to interpret provisions of the Canada Labour Code is reviewable on a standard of reasonableness simpliciter; and
+- A finding on the applicability of common law principles is reviewable on a standard of correctness, although the manner in which those principles are applied to the facts is reviewable on the standard of reasonableness simpliciter.
+Application to this Judicial Review

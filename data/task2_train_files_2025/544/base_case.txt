@@ -1,0 +1,102 @@
+[1]
+Gibson, J.
+: These reasons arise out of an application for judicial review of a decision of Daniel Rousseau, at the relevant time Second Secretary at the Canadian High Commission in New Delhi, India, exercising authority as a visa officer (the "visa officer"), wherein he determined that the applicant did not meet the immigrant selection criteria and therefore rejected the applicant's application for permanent residence in Canada. The decision in question is dated September 1, 1994 and was apparently communicated to the applicant on October 25, 1994.
+[2]
+At all relevant times, the applicant was a citizen of India. He was born there in December, 1947. He was married with two children. He applied for admission to Canada as a permanent resident for himself and his family in April of 1991 and was supported by an undertaking of assistance from a brother-in-law in Canada. He had been employed in the chemical industry in India since 1977 under the title "Production Engineer" although his university degree was not in engineering.
+[3]
+A preliminary issue was argued before me at the opening of the judicial review hearing. The sole affidavit filed in support of the applicant's application for judicial review was that of his solicitor of record. The affidavit attested to the filing of the applicant's application for permanent residence in Canada under the category "assisted relative" as members of the family class and annexed his application as an exhibit. It further attested to the submission of the undertaking of assistance, annexed that document, and attested to the acknowledgment of receipt of the undertaking of assistance, also annexed. It attested to the fact that the applicant was invited to a personal interview and annexed a copy of the invitation letter. It attested to the fact that the applicant attended the interview and that he thereafter informed his solicitor that the visa officer " ... was fully satisfied with the applicant's answers, and congratulated him." The applicant's letter to his solicitor in this regard, setting out the applicant's report of the interview, was also annexed as an exhibit. Finally, the affidavit attested to the rejection of the applicant's application and annexed a copy of the rejection letter. The paragraph referring to the applicant's report of his interview was numbered six in the affidavit and the related copy of a written report was exhibit E to the affidavit. I will refer to these elements of the affidavit and exhibits as "paragraph 6 and exhibit E".
+[4]
+Counsel for the respondent sought to strike the applicant's affidavit as improper and, in consequence, to strike the application for judicial review as being unsupported by an affidavit verifying the facts relied on by the applicant (see
+Federal Court Rule
+1603(1)). In the alternative, counsel sought the striking out of certain portions of the supporting affidavit.
+[5]
+Federal Court Rule 332(1) provides as follows:
+"332(1) Affidavits shall be confined to such facts as the witness is able of his own knowledge to prove, except on interlocutory motions on which statements as to his belief with the grounds thereof may be admitted."
+While some elements of the affidavit in support were clearly such that the affiant was able of his own knowledge to prove the facts therein, since he acted for the applicant in the submission of his application for permanent residence in Canada and in the pursuit of that application, as well as in the initiation of the application for judicial review, the content of paragraph 6 and exhibit E was clearly based on information and belief arising from the applicant's report to the affiant and was not within the affiant's personal knowledge. As such, it was clearly beyond reach on an examination for discovery and therefore potentially prejudiced the respondent although no effort was made by the respondent to cross-examine the affiant.
+[6]
+In considering the respondent's submissions, I had reference to rule 2(2) which reads as follows:
+"(2) These Rules are intended to render effective the substantive law and to ensure that it is carried out; and they are to be so interpreted and applied as to facilitate rather than to delay or to end prematurely the normal advancement of cases."
+[7]
+In
+Bell Canada v. Canadian Human Rights Commission et al.
+([1991] 1 F.C. 356; 39 F.T.R. 97 (T.D.)) Muldoon, J., after citing rule 332(1) concluded:
+"Accordingly, affidavits based on information and belief are insufficient."
+In light of more recent jurisprudence, I do not regard that as the end of the matter. In
+Ethier v. Royal Canadian Mounted Police (Commissioner)
+, [1993] 2 F.C. 659; 151 N.R. 374 (F.C.A.), Hugessen, J.A., speaking for the court, and after referring to
+R. v. Khan (A.)
+, [1990] 2 S.C.R. 531; 113 N.R. 53; 41 O.A.C. 353; 59 C.C.C.(3d) 92; 79 C.R.(3d) 1, and
+R. v. Smith (A.L.)
+, [1992] 2 S.C.R. 915; 139 N.R. 323; 55 O.A.C. 321; 75 C.C.C.(3d) 257; 94 D.L.R.(4th) 590 stated:
+"As we read them, those two decisions dramatically clarified and simplified the law of hearsay in this country. As Lamer, C.J., said in
+Smith
+, they 'signalled an end to the old categorical approach to the admission of hearsay evidence. Hearsay evidence is now admissible on a principled basis, the governing principles being the reliability of the evidence, and its necessity.' (At page 933.)"
+Paragraph 6 is clearly hearsay. Exhibit E is its sole support. The reliability of paragraph 6, based on exhibit E, is clearly brought into question by the divergencies between the substance of exhibit E, the applicant's recollections of his interview with the visa officer, and the substance of the affidavit of the visa officer, filed by the respondent, which is clearly based on the visa officer's personal knowledge.
+[8]
+Whatever the merits, counsel for the applicant argued that the respondent was simply too late in raising this matter having himself filed the defendant's affidavit in reply after the filing of the application for judicial review and the impugned affidavit. Counsel cited
+Binepal v. The Minister of Citizenship and Immigration
+(Court file Imm-6506-93, August 29, 1995 (unreported) (F.C.T.D.)) where the respondent had raised two preliminary motions at the outset of the hearing of a judicial review application in respect of an immigration matter. McKeown, J., stated:
+"I am of the opinion that the motions should not be granted. Counsel for the applicant correctly pointed out rule 302(c) of the
+Federal Court Rules
+, and I am in agreement that the above matters should have been raised much earlier than now. The respondent had ample time prior to the hearing to address the issues raised in his motions. Rule 302(c) reads:
+'302. The following provisions apply with reference to formal objections and failures to comply with the requirements of these rules: ...'
+(c) no application to set aside any proceeding for irregularity shall be allowed unless made within a reasonable time, nor if the party applying has taken any fresh step after knowledge of the irregularity;'"
+By contrast, in this matter, on an application on behalf of the applicant for an order extending the time in which the applicant would be allowed to file his supplementary application record and allowing the applicant to file a further affidavit to support his application as part of the supplementary application record, Rothstein J., on the 4th day of April 1995, denied the motion and stated:
+"The filing of material on behalf of the applicant (presumably the supporting affidavit here impugned) was by counsel who should be familiar with the
+Rules of Court
+.
+"The argument as to the propriety or otherwise of the affidavit in question will be argued before the judicial review judge."
+Clearly Rothstein, J., contemplated the preliminary consideration which came before me and did not regard it as a matter that should have been disposed of in advance of the judicial review hearing. This would appear to accord with the position enunciated by Strayer, J.A., in
+Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al.
+(1994), 176 N.R. 48; 58 C.P.R.(3d) 209, at pp. 214-215, where he stated:
+"Thus the direct and proper way to contest an originating notice of motion which the respondent thinks to be without merit is to appear and argue at the hearing of the motion itself."
+The same could be said here where the challenge to the affidavit in support of the applicant's application for judicial review is in fact a challenge to the application itself since, if the affidavit is struck, the application is without a supporting factual basis.
+[9]
+In the result, I struck paragraph 6 and exhibit E from the affidavit in support of the applicant's application for judicial review and proceeded to consider the merits of the application on the basis of the material remaining before the court.
+[10]
+The substance of the affidavit of the visa officer filed on behalf of the respondent reads as follows:
+"5. After an initial screening, the applicant's file was placed in the interview queue.
+"6. Since the applicant had indicated on his application form that he was working and intended to work in Canada as a 'production engineer', he was asked by letter dated August 31, 1993 to have his qualifications assessed by the Canadian Council of Professional Engineers. ...
+"7. By letter dated September 27, 1993, the applicant responded that he did not have an engineering degree, though he was designated as a 'production engineer' by his current employer. ...
+"8. By letter dated October 21, 1993, applicant's counsel requested that the applicant be assessed as a 'Production Co-ordinator' as described in the Canadian Classification and Dictionary of Occupations ('CCDO') category 4151-110.
+"9. As the applicant did not have any experience as a production co-ordinator, he was advised by letter dated November 11, 1993, that his application could not be approved. However, he would be granted a personal interview if he wished. ...
+"10. By facsimile dated December 10, 1993, counsel for the applicant notified the High Commission the applicant wished to be interviewed and that his intended occupation in Canada is as a Production Co-ordinator, CCDO 4151-110.
+"11. I interviewed the applicant on August 23, 1994, during an area trip to Bombay. I discussed with the applicant his education, training and work experience in order to determine if there is a demand for his skills in Canada. I explained to the applicant that even if he was the most qualified person in his field, it would not be possible for me to approve his application if there was no demand in Canada for someone with these skills and experience. During the interview, I gave the applicant the opportunity to discuss at length the duties he had performed and the responsibilities he had assumed with his current and previous employers. At the conclusion of the interview, I advised the applicant that I would review his application upon return to New Delhi to determine if there is a demand in Canada for persons with his skills and experience.
+"12. On August 30, 1994, I reviewed the information contained in the documents provided by the applicant and the information provided by the Applicant during the interview, in relation to various occupational categories contained in the Canadian Classification and Dictionary of Occupations. My review confirmed the previous assessment that the applicant does not have any experience as a Production Co-ordinator in (CCDO 4151-110),
+as he has not been involved with co-ordinating work between different units but was rather supervising the work within the single production unit
+." (underlining added by me for emphasis)
+The affiant went on to indicate that he had also assessed the applicant under three other employment categories, Chemist, Textile Technologist and Foreman, Synthetic Textile Mixing. He commented:
+"Though the applicant is very knowledgable in his field, his experience is limited in scope. He has worked in only two organizations in the twenty-three years since he entered the labour market. Although he moved ahead within the organizations, it is always in the context of a similar type of work."
+With regard to the comment, while breadth of experience is clearly a factor to be considered by those assessing applications for permanent residence in Canada, it would seem unfortunate if dedication to a particular employer resulting in progress through the ranks in employment over a considerable number of years with the same employer and depth rather than breadth of experience were assessed negatively.
+[11]
+In
+Li v. Minister of Employment and Immigration
+(1990), 31 F.T.R. 290; 9 Imm. L.R.(2d) 263 (T.D.), the Associate Chief Justice clearly set out the role of a visa officer in assessing an applicant such as the applicant in this matter against various occupations. He stated:
+FRAGMENT_SUPPRESSED
+[12]
+In guidance to those such as the visa officer in this matter who are required to use the Canadian Classification and Dictionary of Occupations ("CCDO") in assessing applications for landed immigrant status, the following is provided:
+"(4)
+The Lead Statement
+(of an occupation description) is a concise description of the nature and purpose of the occupation. It describes the principal duties of the worker, and gives a general indication of how the occupation differs from other occupations.
+"(5)
+The Statement of Duties
+is necessarily a broad description of the nature and scope of the work involved. This description will not always coincide exactly with the duties required in every job situation, but it does indicate, either directly or by inference, what the workers normally do, how, and why they do it."
+The description "Production Co-ordinator (clerical); production expediter; production scheduler", reads as follows:
+"Co-ordinates and expedites flow of work
+within
+or between departments of manufacturing plant according to production schedule:
+Reviews production schedule and work orders and reschedules processes to eliminate duplicate machine setups. Distributes work orders to departments denoting number, type and proposed completion date of units to be produced. Confers with department supervisors to determine progress of work and completion and delivery dates. Suggests assembly and disassembly of stock parts or assemblies to provide spare parts during component shortages or production delays. Compiles reports on progress of work and machine, tool and equipment failures, using typewriter, to inform production planning department of production delays. Informs department supervisor of changes in processing methods received from engineering departments."
+Having turned to the CCDO for guidance in this matter, the visa officer was obliged to take the whole of the occupation description into account and to interpret it appropriately. Here, the lead statement of the occupation description clearly indicates that a production co-ordinator may co-ordinate and expedite flow of work
+within
+a department of a manufacturing plant even though the statement of duties that follows seems to reflect an interdepartmental co-ordination which is only partially consistent with the lead statement. The visa officer rejected consideration of the applicant against the occupational description because the applicant had not been involved with co-ordinating work between "... different units but was rather supervising the work within a single production unit". In so concluding, I am satisfied that the visa officer misinterpreted the occupation description on the facts of the applicant's situation and in so doing erred in law.
+[13]
+Based upon the foregoing analysis, I will allow this application and refer this matter back to the respondent for reconsideration.
+[14]
+Counsel for the applicant did not recommend certification of a question in this matter. Counsel for the respondent recommended that I consider certification of a question in the following terms:
+"Can an application for judicial review proceed in the absence of evidence in the affidavit filed in support of the originating motion that the impugned decision was based on an incorrect finding of fact, contained an error at law or otherwise discloses no ground for judicial review?"
+I am not satisfied that the affidavit filed in support of this application for judicial review, with paragraph 6 of that affidavit and the related exhibit E to the affidavit struck out, discloses a complete absence of evidence that the impugned decision was based on an incorrect finding of fact, contained an error of law or otherwise discloses a ground for judicial review. In the circumstances, taking into account the decision of the Federal Court of Appeal in
+Liyanagamage v. Canada (Minister of Citizenship and Immigration)
+(1994), 176 N.R. 4 (F.C.A.), the question proposed could not properly be certified. In the result, no question will be certified.
+Application allowed.
+Editor: David Weir/sg
+[End of document]

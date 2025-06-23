@@ -1,0 +1,27 @@
+[50]
+In
+AB Hassle et al. v. Canada (Minister of National Health and Welfare) et al.
+(2000), 256 N.R. 172; 7 C.P.R.(4th) 272 (F.C.A.), Stone, J.A., for the Court mentioned section 8 at paragraph 27 of his reasons stating that such provision served as an incentive to the patentee not to delay proceedings:
+"27. I would mention a few additional considerations. The fact that the section 6 proceeding is generally to be completed within 24 months and that an award of damages awaits an unsuccessful patentee at the end of that process, should not be ignored. If a second person is always free to supplement its detailed statement in a section 6 proceeding, the proceeding itself is bound to be delayed, which could only redound to the detriment of the first person. That a longer period than the period of 24 months specified in paragraph 7(1)(e) [reduced from 30 months] may be allowed in a particular case seems to be contemplated in paragraph 7(5)(b). This Court has recognized, however, that a section 6 proceeding should be dealt with under the Rules of the Court as expeditiously as possible in order that both sides to the dispute will have their rights determined sooner rather than later. Thus in
+Bayer AG
+, supra, Mahoney, J.A., stated, at 337:
+'The court has a clear duty to deal with an application expeditiously. Given that, in the scheme of the
+Regulations
+, it is the patentee who has both the carriage of the proceeding and the interest in its dilatory prosecution, departures from the schedule imposed by the Part V.1 rules [now Part 5 of the
+1998 Rules
+] ought not to be routine.'
+"The ability of the Court to order payment of damages for which an unsuccessful patentee is rendered liable under section 8 of the
+Regulations
+suggests, however, that the patentee no longer has an exclusive interest in delaying the progress of a section 6 proceeding. Moreover, the relatively short time period specified in paragraph 7(1)(e) of the
+Regulations
+and the language contained in subsection 7(5) of the
+Regulations
+, has been rightly viewed as a further indication that a section 6 proceeding should proceed expeditiously to final determination by the Court. The point was made clear in
+Pharmacia Inc.
+, supra, at 215, where Strayer, J.A., stated:
+'The
+Patented Medicines (Notice of Compliance) Regulations
+further indicate an intention that this particular kind of application for judicial review should be disposed of expeditiously. Section 7(1) of the regulations provides that normally a notice of compliance should not be issued until 30 months have elapsed from the filing of the application for prohibition, unless the court has in the meantime dismissed the application. Section 7(5), however, authorizes the court to abbreviate or extend the 30-month period where it has not yet reached a decision on the application but where it finds that a party to the application "failed to reasonably cooperate in expediting the application". Thus if, for example, the applicant unduly delays in bringing the matter on for hearing on the merits, the respondent can move to have the court shorten the time-limit for the issue of a notice of compliance.'
+"It is be noted as well that not only will an unsuccessful patentee in a section 6 proceeding be visited with a Court order to compensate the second person, but the patentee may also be required to pay legal costs pursuant to subsection 6(9) of the
+Regulations
+including costs 'on a solicitor-and-client basis'. Indeed, as provided in subsection 6(10), a factor which the Court may consider in its order as to costs is 'the diligence with which the parties pursued the application'. This again suggests that a section 6 proceeding was intended to be proceeded with as expeditiously as possible and not be unduly delayed by a party."

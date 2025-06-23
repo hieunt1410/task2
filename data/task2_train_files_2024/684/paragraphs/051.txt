@@ -1,0 +1,13 @@
+[51]
+Section 242(4) of the
+Code
+is clear in its application; it is designed to fully compensate an employee who is unjustly dismissed. It is not limited to the amount of severance pay to which the employee is entitled. It is not calculated by determining the notice period which should have been given to the employee. In
+Davidson v. Slaight Communications Inc.
+, [1985] 1 F.C. 253; 58 N.R. 150 (F.C.A.), affd. [1989] 1 S.C.R. 1038; 93 N.R. 183, Mahoney, J.A., stated at p. 260:
+"The intent of s. 61.5(9) (now 242(4)) is to empower the adjudicator, as near as may be, to put the wronged employee in the position of not suffering an employment related disadvantage as a result of his unjustified dismissal."
+Although the section places a ceiling on the amount of damages that may be awarded, the amount is not linked to the amount of severance pay awarded to the employee. Limiting the amount of damages for unjust dismissal to the amount of severance pay or on the basis of the common law is clearly an error. Support for this proposition is found in
+Canadian Imperial Bank of Commerce v. Boisvert
+, [1986] 2 F.C. 431; 68 N.R. 355 (F.C.A.), where Marceau, J.A., stated at p. 439:
+"It is commonplace that the introduction of the remedy pursuant to s. 61.5 of the
+Code
+in 1978 was a very major step in the transformation undergone by labour law applicable to federal undertakings since [at] the time it was still founded on purely liberal concepts based on the theory of freedom of contract. Certainly the employer's right to terminate the contract of an employee was already far from being unfettered (prior notice, severance pay) and the common law courts no longer hesitated to apply the theory of abuse of right to penalize the excessive use of the right of dismissal by an employer. However, once the s. 61.5 remedy was in place it was no longer possible, as it had been formerly, to treat the right of dismissal as being of the very essence of an indefinite contract of employment; it also was no longer possible to speak of freedom of contract in this connection, as the new legislation was said to be a matter of public policy and as such unaffected by the language of the contract of employment."

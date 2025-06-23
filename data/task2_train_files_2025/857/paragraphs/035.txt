@@ -1,0 +1,27 @@
+[35]
+Finally, if the defendants really could be blamed for any delay, the Federal Court of Appeal in
+James v. Minister of National Revenue
+, [2000] F.C.J. No. 2135; 266 N.R. 104 (F.C.A.), had to rule on a motion filed by the plaintiff at trial to vacate the assessments on the ground that the Minister had not acted as promptly as possible in reviewing the notices of objection. In that case the court noted its position, at pp. 3 and 4 as follows, namely that the Minister's inaction cannot lead to vacating of the assessments as a remedy:
+"12 The
+Income Tax Act
+does not stipulate any consequence for a failure on the part of the minister to deal with a notice of objection with all due dispatch. On that question, the leading authority in this court is
+Bolton v. The Queen
+(1996), 200 N.R. 303; 96 D.T.C. 6413; [1996] 3 C.T.C. 3 (F.C.A.). In that case Mr. Justice Hugessen, speaking for the court, said this (at page 304, N.R.):
+'Parliament clearly did not intend that the minister's failure to reconsider an assessment with all due dispatch should have the effect of vacating such assessment. If the minister does not act, the taxpayer's recourse is to appeal pursuant to s. 169.'
+. . . . .
+"15 If
+Bolton
+stands, than regardless of the reason for the ten year delay in dealing with the objections, Mr. James cannot obtain the remedy he seeks.
+. . . . .
+"20 It was argued on behalf of Mr. James that the
+Bolton
+interpretation of paragraph 165(3)(b) imposes a statutory duty on the minister but gives no effective weapon to taxpayers by which they can compel the minister to comply. It is true that under
+Bolton
+, a taxpayer cannot claim the right to have a reassessment vacated because it is under objection for an unduly long period of time. However, it does not follow that the taxpayer has no effective remedy. The taxpayer may appeal to the Tax Court under paragraph 169(1)(b), or commence proceedings in the Federal Court to compel the minister to consider the objection and deal with it. There is jurisprudence relating to such applications in the context of other income tax provisions imposing an obligation on the minister to act with all due dispatch:
+Burnet v. Canada
+, 98 D.T.C. 6205; [1999] 3 C.T.C. 60; [1998] F.C.J. No. 364 (QL) (F.C.A.);
+Merlis Investments Ltd. v. Canada
+, [2000] F.C.J. No. 1746 (QL) (F.C.T.D.).
+"21 We conclude that there is no basis for departing from the decision of this court in
+Bolton
+, and that the Trial judge was correct to dismiss the motion to set aside or vary the notices of reassessments."

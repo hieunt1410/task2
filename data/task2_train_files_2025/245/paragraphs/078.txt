@@ -1,0 +1,20 @@
+[78]
+Where there is a breach of a human rights statute within a labour relations context,
+Parry Sound
+stands for the proposition that an arbitrator has jurisdiction to adjudicate the grievance raising the violation of such rights even if these rights run counter to the terms of a collective agreement governing the employee-employer relationship. In
+Parry Sound
+, a probationary employee had filed a grievance with respect to her discharge on the basis of an alleged violation of her human rights under the Ontario
+Human Rights
+Code
+even though the applicable collective agreement recognized management's unfettered right to discharge probationary employees. Iacobucci, J., held, on the basis of
+McLeod v. Egan
+, supra, that the statutory human rights at issue had been implicitly incorporated into the collective agreement so as to confer jurisdiction on the arbitrator to decide the grievance (
+Parry Sound
+at paras. 28 and 32):
+"As a practical matter, this means that the substantive rights and obligations of employment-related statutes are implicit in each collective agreement over which an arbitrator has jurisdiction. A collective agreement might extend to an employer a broad right to manage the enterprise as it sees fit, but this right is circumscribed by the employee's statutory rights. The absence of an express provision that prohibits the violation of a particular statutory right is insufficient to conclude that a violation of that right does not constitute a violation of the collective agreement. Rather, human rights and other employment-related statutes establish a floor beneath which an employer and union cannot contract.
+. . . . .
+"Under
+McLeod
+, a collective agreement cannot extend to an employer the right to violate the statutory rights of its employees. On the contrary, the broad power of the appellant to manage operations and direct employees is subject not only to the express provisions of the agreement, but also to the statutory rights of its employees. Just as the collective agreement in
+McLeod
+could not extend to the employer the right to require overtime in excess of 48 hours, the collective agreement in the current appeal cannot extend to the appellant the right to discharge an employee for discriminatory reasons. Under a collective agreement, as under laws of general application, the right to direct the work force does not include the right to discharge a probationary employee for discriminatory reasons. The obligation of an employer to manage the enterprise and direct the work force is subject not only to express provisions of the collective agreement, but also to the statutory rights of its employees, including the right to equal treatment in employment without discrimination."

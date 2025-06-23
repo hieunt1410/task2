@@ -1,0 +1,18 @@
+[93]
+Apotex alleges that the '840 patent should, in light of what the person skilled in the art at the time with respect to the known methods for separating racemates into enantiomers, and considering the 1985 Gerster poster , assist this Court to arrive at a finding of anticipation. Similarly, in the
+Novopharm
+Trial, Novopharm argued an anticipation analysis should be based on the '840 patent in light of these teachings.
+Justice Hughes rejected this assertion, relying on the Supreme Court of Canada decision in
+Free World Trust
+, above:
+"[107] The Defendant argues that the phrases 'purely by mechanical skill' and 'produce the claimed invention without the exercise of any inventive skill' mean that if an ordinary person skilled in the art could bring to bear on the publication the understanding of the day and routine techniques of the day, from which the invention as claimed would result, there is anticipation. This is not the correct interpretation of the test for anticipation as set out by the Supreme Court of Canada.
+"[108] The Supreme Court test requires that the 'flag' be planted at the point of the claimed invention and that the direction as to how to arrive at that point must be so clear such
+that an ordinary person skilled in the art would in every case, without possibility of error, be led to that point. No such flag is planted and no such direction is given in either the '840 patent or the Daiichi publication. There is no anticipation of what is claimed in claim 4 of the Patent
+." (Emphasis added)
+(NOA p. 31; Klibanov Affidavit Ex. B, AR, v. 12, Tab 17, p. 3519; reference is also made to
+Free World Trust
+, above at paras. 25-26,
+Beloit
+, above at 297 [C.P.R.],
+General Tire
+, above.)

@@ -1,0 +1,96 @@
+[1]
+Denault, J.
+: The judgment creditor, Kimberly Young, a former employee of the judgment debtor, the Wolf Lake Band, was awarded $18,539.48 by an arbitrator under the
+Canada Labour Code
+[see footnote 1] for having been unjustly dismissed. On judicial review in this court, the decision and amount of damages were upheld. [see foot­note 2] The award remaining unpaid for over a year, enforcement was sought and on June 18, 1998, the funds in the judgment debtor's account at the Caisse populaire de Témis­caming were charged by order of Hugessen, J. In compliance, the funds were frozen by the Caisse populaire in the amount of the award. The judgment debtor now seeks to have the charging order set aside on the ground that the funds in the account are protected from execution by virtue of the operation of ss. 89(1) and 90(1) of the
+In­dian Act
+. [see footnote 3]
+[2]
+Section 89(1) exempts from charge, levy, seizure or execution personal property of a band (which includes funds held in a bank account)
+situated on reserve
+:
+"89(1) Subject to this Act, the real and personal property of an Indian or a band situated on a reserve is not subject to charge, pledge, mortgage, attachment, levy, seizure, distress or execution in favour or at the instance of any person other than an Indian or a band."
+"89(1) Sous réserve des autres dispositions de la présente loi, les biens d'un Indien ou d'une bande situés sur une réserve ne peuvent pas faire l'objet d'un privilège, d'un nantissement, d'une hypothèque, d'une opposition, d'une réquisition, d'une saisie ou d'une exécution en faveur ou à la demande d'une personne autre qu'un In­dien ou une bande."
+[3]
+Personal property situated off reserve may be deemed in certain specific cir­cumstances prescribed in s. 90(1) to be situated on reserve and thus exempt from execution:
+"90(1) For the purposes of ss. 87 and 89, personal property that was
+(a) ...
+(b) given to Indians or to a band under a treaty or agreement between a band and Her Majesty,
+shall be deemed always to be situated on a reserve."
+"90(1) Pour l'application des arts. 87 et 89, les biens meubles qui ont été
+a) ...
+b) soit donnés aux Indiens ou à une bande en vertu d'un traité ou accord entre une bande et Sa Majesté,
+sont toujours réputés situés sur une ré­serve."
+[4]
+In the instance, the judgment debtor claims the funds come from an agreement signed between the federal government and the Indian band and thus, are deemed to be situated on the reserve. The affidavit of Harry Saint-Denis, chief of the Wolf Lake Band, testifies accordingly. In paragraph 9, Mr. Saint-Denis states that the funds in the account "consist entirely of monies paid to the band by the Government of Canada under an agreement between the band and Her Majesty". He adds in paragraph 10 that "there are no other funds or income which are deposited ... into the account". Appended to the affidavit is a copy of the "Compre­hensive Funding Arrangement". No other records were produced.
+[5]
+Counsel for the judgment debtor also referred to a number of cases where funds paid to an Indian band by the provincial or federal governments were not subject to a garnishing order by virtue of s. 90(1) of the
+Indian Act
+. [see FRAGMENT_SUPPRESSED]
+[6]
+Only one objection to this argument was raised by the opposing party. Relying on arts. 2860 and 2862 of the
+Civil Code of Québec
+, [see footnote 5] the judgment creditor submits that affidavit evidence is inadmissible to establish the source of the account funds. Rather, bank statements or other records should have been produced.
+[7]
+Provincial rules of evidence are ap­plicable to the present proceedings by virtue of s. 40 of the
+Canada Evidence Act
+, [see footnote 6] on condition that they are not in conflict with the
+Act
+or other federal pro­visions:
+"40. In all proceedings over which Par­liament has legislative authority, the laws of evidence in force in the province in which those proceedings are taken, in­cluding the laws of proof of service of any warrant, summons, subpoena or other document, subject to this Act and other Acts of Parliament apply to those pro­ceedings."
+"40. Dans toutes les procédures qui relèvent de l'autorité législative du Parlement du Canada, les lois sur la preuve qui sont en vigueur dans la province où ces procédures sont exercées, y compris les lois relatives à la preuve de la signification d'un mandat, d'une sommation, d'une assignation ou d'une autre pièce s'appli­quent à ces procédures, sauf la présente loi et les autres lois fédérales."
+[8]
+However, arts. 2860 and 2862 have been erroneously relied on by the judgment creditor. The articles pertain to the ad­missibility of means of proof of
+juridical acts
+, which must generally be proven by a writing and not by testimony barring certain exceptions. A juridical act is defined as the expression of the will to create, modify or extinguish a right. [see footnote 7] Contracts, wills, waiver of rights are all examples of such acts.
+[9]
+In the case at bar, the judgment debtor is required to prove that funds in the account come exclusively from an agreement between Her Majesty and the Indian band. This is not a juridical act, but rather a fact, which according to art. 2811 of the
+Civil Code
+can be proven by any means including testimonial evidence:
+"Art. 2811. Proof of a fact or juridical act may be made by a writing, by testimony, by presumption, by admission or by the production of material things, according to the rules set forth in this Book and in the manner provided in the Code of Civil Procedure or in any other Act."
+"Art. 2811. La preuve d'un acte juridique ou d'un fait peut être établie par écrit, par témoignage, par présomption, par aveu ou par la présentation d'un élément matériel, conformément aux règles énoncées dans le présent livre et de la manière indiquée par le Code de procédure civile ou par quelque autre loi."
+[10]
+The affiant's evidence is therefore admissible. But, the court must still deter­mine what weight to afford such evidence in the absence of corroborating documents. Corroboration of testimonial evidence is not mandatory, except in very particular cir­cumstances where it is imposed by statute or by case law. There are no such cir­cumstances here. However, as Thurlow, J., indicated in
+Weinberger v. Minister of National Revenue
+, [see footnote 8] in the absence of corroboration, the evidence must be carefully weighed:
+"While the onus is on the appellant in proceedings of this nature to establish the facts upon which his right to relief depends and the evidence of an appellant when unsupported is I think to be weighed with care, because of the temptation sometimes experienced by taxpayers to shape facts to suit their own purposes, it must not be forgotten that there is no rule of law re­quiring corroboration of the testimony of an appellant to support a finding and that the standard of proof required is that ap­plicable in civil cases, that is to say, proof by a preponderance of evidence." [see footnote 9]
+[11]
+Given the fact that the judgment debtor did not produce any bank statement or other record in its possession to support an al­legation so central to its motion, little weight can be afforded to the affiant's testimony. However, the court is also faced with a dearth of evidence. None was adduced by the judgment creditor. Her counsel simply raised the possibility that the account might contain funds other than those received under the agreement. Thus, in the absence of evidence to the contrary, the court has no choice but to rely on the evidence of the chief of the Wolf Lake Band and accept that the account at the Caisse populaire contains exclusively funds from an agreement between the federal government and the Indian band.
+[12]
+It follows that under s. 90(1) of the
+Indian Act
+, those funds are deemed to be situated on reserve and by virtue of s. 89(1), not to be subject to levy, execution or garnishment in favour of any person other than an Indian or a band.
+[13]
+The motion is granted. The charging order absolute of Hugessen, J., is set aside and the funds frozen by the Caisse populaire de Témiscaming ordered released. There will be no order as to costs.
+Application allowed.
+Editor: Giovanni A. Merlini/kaw
+Footnotes
+1.	R.S.C. 1985, c. L-2.
+2.	See
+Wolf Lake First Nation v. Young
+(1997), 130 F.T.R. 115 (T.D.), per Nadon, J.,
+3.	R.S.C. 1985, c. I-5.
+4.
+Fayerman Brothers Ltd. v. Ballantyne (Peter) Indian Band et al.
+, [1986] 1 C.N.L.R. 6; 36 Sask.R. 76 (Q.B.);
+Fricke v. Michell
+, [1986] 1 C.N.L.R. 11 (B.C.S.C.);
+Webtech Controls Inc. v. Cross Lake Indian Band and Peace Hill Trust Co.
+, [1991] 3 C.N.L.R. 182 (Man. Q.B.);
+Westbank Indian Band v. Robertson et al.
+(1990), 36 F.T.R. 286 (T.D.).
+5.		"Art. 2860. A juridical act set forth in a writing or the content of a writing shall be proved by the production of the original or a copy which legally replaces it.
+"However, where a party acting in good faith and with dispatch is unable to produce the original of a writing or a copy which legally replaces it, proof may be made by any other means.
+"Art. 2862. Proof of a juridical act may not be made, between the parties, by testimony where the value in dispute exceeds $1,500.
+"However, failing proof in writing and regardless of the value in dispute, proof may be made by testimony of any juridical act where there is a com­mencement of proof; proof may also be made by testimony, against a person, of a juridical act carried out by him in the ordinary course of business of an enter­prise."
+"Art. 2860. L'acte juridique constaté dans un écrit ou le contenu d'un écrit doit être prouvé par la production de l'original ou d'une copie qui légalement en tient lieu.
+"Toutefois, lorsqu'une partie ne peut, malgré sa bonne foi et sa diligence, produire l'original de l'écrit ou la copie qui légalement en tient lieu, la preuve peut être faite par tous moyens.
+"Art.2862. La preuve d'un acte juridique ne peut, entre les parties, se faire par témoignage lorsque la valeur du litige excède 1 500 $.
+"Néanmoins, en l'absence d'une preuve écrite et quelle que soit la valeur du litige, on peut prouver par témoignage tout acte juridique dès lors qu'il y a commencement de preuve; on peut aussi prouver par témoignage, contre une personne, tout acte juridique passé par elle dans le cours des activités d'une entreprise."
+6.	R.S.C. 1985, c. C-5.
+7.	The definition paraphrases that given by Jean-Claude Royer,
+La preuve civile
+(Cowansville: Yvon Blais, 1987) at 464: "L'acte juridique est une manifestation de la volonté individuelle, bilatérale ou unilatérale, dans le but direct et immédiat de créer, modifier, éteindre, transférer, confirmer ou reconnaître un droit."
+8.	(1964), 43 C.P.R. 10 (Ex. Ct.).
+9.	Ibid. at p. 14.
+[End of document]

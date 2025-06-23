@@ -1,0 +1,214 @@
+Date: 20190204
+Docket: T-1663-16
+Citation: 2019 FC 146
+Ottawa, Ontario, February 4, 2019
+PRESENT:  The Honourable Madam Justice Heneghan
+BETWEEN:
+THE ADMINISTRATOR OF THE
+SHIP-SOURCE OIL POLLUTION FUND
+Plaintiff
+and
+TRACY DONALD DODDS
+Defendant
+JUDGMENT AND REASONS
+I.
+INTRODUCTION
+[1]
+The Administrator (the “Administrator”) of the Ship Source Oil Pollution Fund (the “Fund” or the “Plaintiff”) seeks summary judgment, pursuant to the Federal Courts Rules, SOR/98-106 (the “Rules”), against Tracy Donald Dodds (the “Defendant”).
+[2]
+By statement of claim issued on October 4, 2016 the Plaintiff commenced an action against the Defendant seeking judgment in the amount of $839,863.02, together with interest at the Admiralty rate and costs. The claim relates to the costs of repairing, remedying, minimizing and preventing pollution damage resulting from the sinking of and discharge of oil from the Ship “FARLEY MOWAT”, sometimes known as the “FARLEY MOWATT” (the “Involved Ship”).
+II.
+BACKGROUND
+[3]
+The Plaintiff alleges that, for the purposes of Part 6, Division 2 of the Marine Liability Act, S.C. 2001, c. 6, (the “Act”), and of the International Convention on Civil Liability for Bunker Oil Pollution Damage, the (“BC”), the Defendant is and was, at all material times, the unregistered owner of the Involved Ship.
+[4]
+The Plaintiff further alleges that between June 24 and 25, 2015, the Involved Ship sank and discharged oil into the waters of the Shelburne Harbour, Nova Scotia. It also alleges that the Involved Ship was subsequently refloated and re-secured to her berth at the Port of Shelburne on or about August 2, 2015. Work continued from June until about August 5, 2015 to prevent further discharge of oil.
+[5]
+The Plaintiff commenced this action to recover the costs associated with the sinking of the Involved Ship and the costs associated with remediation of the escape of oil.
+[6]
+The Defendant filed a statement of defence on November 28, 2016, denying all the allegations set out in the statement of claim. Paragraph 4 of the statement of defence provides as follows:
+4. The defendant was denied access to the wharf and the vessel leaving the possession of the boat in the care and control of Port Authority Town of Shelburne without legal documentation authorizing the action taken. The defendant had third parties attend the site and they were also denied access and were threatened with police action, leaving the port authority responsible for the boat. They were the last persons in immediate possession and control of the vessel.
+[7]
+The motion record filed by the Plaintiff in support of the motion for summary judgment includes the affidavit of Anne Legars, currently the Administrator of the Fund, setting out the evidentiary basis of the Plaintiff’s claim. Her affidavit is found at pages 3 to 407 of the motion record and includes 19 exhibits. The exhibits outline clean-up steps and related work undertaken by the Canadian Coast Guard (the “CCG”), as well as invoices related to the costs of those undertakings.
+[8]
+The Plaintiff also filed a memorandum of fact and law, setting out its legal arguments with reference to the Act and the BC. The BC has the force of law in Canada pursuant to sections 69 and 70 of the Act.
+[9]
+The Defendant participated in the hearing of the Plaintiff’s motion for summary judgment and made oral submissions. However, he did not file any evidence by way of affidavit.
+III.
+SUBMISSIONS
+[10]
+Ms. Legars deposed in her affidavit that the ownership of the Involved Ship is not recorded in the Register of Shipping, but a bill of sale was found in Federal Court file T-506-11, showing that the Involved Ship had been sold to the Defendant on March 4, 2013.
+[11]
+The Plaintiff also relies on an Order filed in another proceeding in the Federal Court, that is cause number T-624-15, an action taken by the Town of Shelburne, in which the Defendant was named as the “owner” of the Involved Ship, to support its claim that the Defendant is the owner for the purposes of this present proceeding.
+[12]
+The Plaintiff notes that section 105 of the Act authorizes payment by the Fund of the “reasonable” costs of cleaning up oil pollution damage. It claims recovery of clean-up costs and related expenses in the amount of $839,863.02, together with interest at the Admiralty rate, pre-judgment interest, and costs.
+[13]
+According to the affidavit of the Administrator, the accounts presented by the CCG were carefully reviewed first by a Mr. George Legge, a consultant for the Fund, for the purpose of assessing the reasonableness of the claim. In a report dated February 10, 2016, Mr. Legge expressed an opinion as to what elements of the claim required further proof and which could be accepted.
+[14]
+Ms. Legars subsequently asked a third party, that is Mr. M.J. Fegan, surveyor with Fulcrum Marine Consultancy Ltd., to review the reasonableness of the amounts claimed by the CCG. Mr. Fegan provided a report dated June 20, 2016.
+[15]
+Ms. Legars deposed in her affidavit that she reviewed the available reports and concluded that the amount of $813,316.15, plus applicable interest calculated pursuant to section 116 of the Act, was reasonable compensation. An offer to pay the amount of $839,863.02 was made to the CCG on June 27, 2016 and the offer was accepted by letter of July 4, 2016.
+[16]
+In his Statement of Defence, the Defendant makes a blanket denial of all allegations in the statement of claim.
+[17]
+In his oral submissions made at the hearing of the motion, the Defendant said that he was not allowed access to the Involved Ship at the times in question since the Ship was under seizure and he was not responsible for the Involved Ship. He said that the party who had made the seizure was “responsible for the care and control of the boat”.
+IV.
+ISSUES
+[18]
+The Plaintiff seeks summary judgment. This Court may dispose of an action summarily where there is “no genuine issue for trial”, pursuant to Rule 215 of the Rules.
+[19]
+In this matter, the question is whether there is a genuine issue for trial relating the status of the Defendant as the “owner” of the Involved Ship and his liability for the amount claimed by the Plaintiff.
+V.
+DISCUSSION
+[20]
+A motion for summary judgment in the Federal Court is governed by Rules 213 to 218 of the Rules. Rule 214 is important and provides as follows:
+Summary Judgment
+Jugement sommaire
+Facts and evidence required
+Faits et éléments de preuve nécessaires
+214 A response to a motion for summary judgment shall not rely on what might be adduced as evidence at a later stage in the proceedings. It must set out specific facts and adduce the evidence showing that there is a genuine issue for trial.
+214 La réponse à une requête en jugement sommaire ne peut être fondée sur un élément qui pourrait être produit ultérieurement en preuve dans l’instance. Elle doit énoncer les faits précis et produire les éléments de preuve démontrant l’existence d’une véritable question litigieuse.
+[21]
+Rule 215 spells out the circumstances when a motion for summary judgment will be granted and provides as follows :
+If no genuine issue for trial
+Absence de véritable question litigieuse
+215 (1) If on a motion for summary judgment the Court is satisfied that there is no genuine issue for trial with respect to a claim or defence, the Court shall grant summary judgment accordingly.
+215 (1) Si, par suite d’une requête en jugement sommaire, la Cour est convaincue qu’il n’existe pas de véritable question litigieuse quant à une déclaration ou à une défense, elle rend un jugement sommaire en conséquence.
+Genuine issue of amount or question of law
+Somme d’argent ou point de droit
+(2) If the Court is satisfied that the only genuine issue is
+(2) Si la Cour est convaincue que la seule véritable question litigieuse est :
+(a) the amount to which the moving party is entitled, the Court may order a trial of that issue or grant summary judgment with a reference under rule 153 to determine the amount; or
+a) la somme à laquelle le requérant a droit, elle peut ordonner l’instruction de cette question ou rendre un jugement sommaire assorti d’un renvoi pour détermination de la somme conformément à la règle 153;
+(b) a question of law, the Court may determine the question and grant summary judgment accordingly.
+b) un point de droit, elle peut statuer sur celui-ci et rendre un jugement sommaire en conséquence.
+Powers of Court
+Pouvoirs de la Cour
+(3) If the Court is satisfied that there is a genuine issue of fact or law for trial with respect to a claim or a defence, the Court may
+(3) Si la Cour est convaincue qu’il existe une véritable question de fait ou de droit litigieuse à l’égard d’une déclaration ou d’une défense, elle peut :
+(a) nevertheless determine that issue by way of summary trial and make any order necessary for the conduct of the summary trial; or
+a) néanmoins trancher cette question par voie de procès sommaire et rendre toute ordonnance nécessaire pour le déroulement de ce procès;
+(b) dismiss the motion in whole or in part and order that the action, or the issues in the action not disposed of by summary judgment, proceed to trial or that the action be conducted as a specially managed proceeding.
+b) rejeter la requête en tout ou en partie et ordonner que l’action ou toute question litigieuse non tranchée par jugement sommaire soit instruite ou que l’action se poursuive à titre d’instance à gestion spéciale.
+[22]
+FRAGMENT_SUPPRESSED in a motion for summary judgment each party bears the burden of putting their “best foot forward”.
+[23]
+In this case, the only evidence before the Court has been filed by the Plaintiff. Evidence on a motion can only be submitted by way of an affidavit; see Rule 363 which provides as follows :
+Evidence on motion
+Preuve
+363 A party to a motion shall set out in an affidavit any facts to be relied on by that party in the motion that do not appear on the Court file.
+363 Une partie présente sa preuve par affidavit, relatant tous les faits sur lesquels elle fonde sa requête qui ne figurent pas au dossier de la Cour.
+[24]
+The statement of defence filed by the Defendant is a pleading; it is not evidence. His oral submissions are oral argument and not evidence. The Defendant has not filed any evidence on the issue of ownership.
+[25]
+Rather, he argues that since the Involved Ship was under “seizure”, that is arrest, he was not responsible for the egress of oil or the subsequent clean-up and remooring efforts.
+[26]
+The submissions of the Defendant are not sound. According to Rule 483 of the Rules, arrest of a vessel does not affect an owner’s responsibility for the ship nor possession of the ship. Rule 483 provides as follows:
+Possession and responsibility
+Possession et responsabilité des biens
+483 (1) Subject to subsection (2), possession of, and responsibility for, property arrested under subsection 482(1) does not vest in the sheriff but continues in the person in possession of the property immediately before the arrest.
+483 (1) Sous réserve du paragraphe (2), la possession et la responsabilité des biens saisis aux termes du paragraphe 482(1) ne reviennent pas au shérif mais à la personne qui était en possession des biens immédiatement avant la saisie.
+Order for possession of arrested property
+Ordonnance de prise de possession
+(2) The Court may order a sheriff to take possession of arrested property on condition that a party assume responsibility for any costs or fees incurred or payable in carrying out the order and give security satisfactory to the Court for the payment thereof.
+(2) La Cour peut ordonner au shérif de prendre possession des biens saisis à la condition qu’une partie assume les frais ou honoraires afférents à l’exécution de l’ordonnance et fournisse le cautionnement qu’elle juge suffisant pour en assurer le paiement.
+[27]
+The burden of proof in this matter is the civil burden of proof on the balance of probabilities.
+[28]
+The first question is whether a genuine issue for trial arises with respect to the Defendant’s ownership of the Involved Ship.
+[29]
+There is no evidence from the Defendant to answer the claim that he is the owner of the Involved Ship, whether pursuant to the Act or under the BC.
+[30]
+Section 91 of the Act defines “owner” as follows:
+owner
+propriétaire
+(a) in relation to a ship subject to the Civil Liability Convention, has the same meaning as in Article I of that Convention;
+a) S’agissant d’un navire assujetti à la Convention sur la responsabilité civile, s’entend au sens de l’article premier de cette convention;
+(b) in relation to a ship subject to the Bunkers Convention, has the same meaning as the definition Shipowner in Article 1 of that Convention; and
+b) s’agissant d’un navire assujetti à la Convention sur les hydrocarbures de soute, s’entend au sens de propriétaire du navire à l’article 1 de cette convention;
+(c) in relation to any other ship, means the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use. (propriétaire)
+c) s’agissant de tout autre navire, s’entend de la personne qui a, au moment considéré, en vertu de la loi ou d’un contrat, les droits du propriétaire du navire en ce qui a trait à la possession et à l’usage de celui-ci. (owner)
+[31]
+There is no evidence from either party about an Order vesting possession of the Involved Ship in a Sheriff.
+[32]
+The bill of sale issued in cause number T-506-11, attached as exhibit Q to the affidavit of Ms. Legars, refers to the Defendant as the owner of the Involved Ship.
+[33]
+The Order of December 31, 2015 issued in cause number T-624-15, attached as exhibit T to the affidavit of Ms. Legars, describes the Defendant as the owner of the Involved Ship.
+[34]
+On the basis of the evidence submitted, I am satisfied that there is no genuine issue for trial arising about the ownership of the Involved Ship and that the Defendant is the “owner” for the purposes of this proceeding.
+[35]
+The next question is whether a genuine issue for trial arises with respect to the amount claimed by the Plaintiff.
+[36]
+The Fund is created pursuant to Part 7 of the Act. The Act authorizes the CCG to respond to pending or actual pollution incidents and to present a claim to the Fund for repayment of the costs incurred in doing so.
+[37]
+Paragraphs 77(1)(a) and (b) and subsection 77(2) of the Act are relevant and provide as follows:
+Liability for pollution and related costs
+Responsabilité en matière de pollution et frais connexes
+77 (1) The owner of a ship is liable
+77 (1) Le propriétaire d’un navire est responsable :
+(a) for oil pollution damage from the ship;
+a) des dommages dus à la pollution par les hydrocarbures causée par le navire;
+(b) for the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the Canada Shipping Act, 2001 or any other person in Canada in respect of measures taken to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+b) des frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la Loi de 2001 sur la marine marchande du Canada ou toute autre personne au Canada pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution par les hydrocarbures causée par le navire, y compris des mesures en prévision de rejets d’hydrocarbures causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que des pertes ou dommages causés par ces mesures;
+Liability for environmental damage
+Responsabilité: dommage à l’environnement
+(2) If oil pollution damage from a ship results in impairment to the environment, the owner of the ship is liable for the costs of reasonable measures of reinstatement undertaken or to be undertaken.
+(2) Lorsque des dommages dus à la pollution par les hydrocarbures causée par un navire ont des conséquences néfastes pour l’environnement, le propriétaire du navire est responsable des frais occasionnés par les mesures raisonnables de remise en état qui sont prises ou qui le seront.
+[38]
+Subsection 71(a) and paragraph 71(b)(i) of the Act are also relevant and provide as follows:
+Liability for pollution and related costs
+Responsabilité en matière de pollution et frais connexes
+71 The liability of the owner of a ship in relation to preventive measures, for the purposes of the Bunkers Convention, also includes
+71 La responsabilité du propriétaire d’un navire à l’égard des mesures de sauvegarde prévue par la Convention sur les hydrocarbures de soute vise également :
+(a) the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the Canada Shipping Act, 2001, any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of bunker oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+a) les frais supportés par le ministre des Pêches et des Océans, un organisme d’intervention au sens de l’article 165 de la Loi de 2001 sur la marine marchande du Canada, toute autre personne au Canada ou toute personne d’un État étranger partie à cette convention pour la prise de mesures visant à prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution causée par le navire, y compris les mesures en prévision de rejets d’hydrocarbures de soute causés par le navire, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures;
+(b) in relation to bunker oil, the costs and expenses incurred by
+b) s’agissant des hydrocarbures de soute, les frais supportés par le ministre des Pêches et des Océans à l’égard des mesures visées à l’alinéa 180(1)a) de la Loi de 2001 sur la marine marchande du Canada, de la surveillance prévue à l’alinéa 180(1)b) de cette loi ou des ordres visés à l’alinéa 180(1)c) de la même loi et les frais supportés par toute autre personne à l’égard des mesures qu’il lui a été ordonné ou interdit de prendre aux termes de ce même alinéa, pour autant que ces frais et ces mesures soient raisonnables, de même que les pertes ou dommages causés par ces mesures.
+(i) the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the Canada Shipping Act, 2001, in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+[…]
+[39]
+The Defendant did not respond to this motion for summary judgment, with the exception of his appearance at the hearing and the presentation of oral submissions. He did not challenge the amount claimed by the Plaintiff but said that he was not responsible for the Involved Ship at the times when the sinking occurred and the remedial work was carried out.
+[40]
+The Act allows the Fund to recover the “reasonable” costs that it has paid out relative to oil pollution incidents. There is evidence before me that the Administrator considered the amount of $839,863.02 to be reasonable, in respect of the March 2014 incidents from June to August 2015, together with interest in the amount of $26, 546.87.
+[41]
+The Act mandates the Court to assess the reasonableness of the amounts paid out by the Plaintiff.
+[42]
+The Defendant did not provide any evidence to oppose the amounts claimed by the Plaintiff. He did not cross-examine Ms. Legars nor question any of the exhibits attached to her affidavit, including invoices.
+[43]
+In these circumstances, I am satisfied that the Plaintiff has shown that there is no genuine issue for trial with respect to the amount claimed and judgment will issue accordingly.
+VI.
+CONCLUSION
+[44]
+There is no genuine issue for trial as to the ownership neither of the Involved Ship nor with respect to the amounts claimed. The motion will be allowed, with costs to the Plaintiff, brief submissions on costs to be made by February 28, 2019.
+JUDGMENT in T-1663-16
+THIS COURT’S JUDGMENT is that
+Summary judgment is granted in favour of the Plaintiff, The Administrator of the Ship-Source Oil Pollution Fund, against the Defendant, Tracy Donald Dodds.
+The Defendant, Tracy Donald Dodds, shall forthwith pay to the Plaintiff, The Administrator of the Ship-Source Oil Pollution Fund, damages in the amount of $839,863.02, plus pre-judgment interest in the amount of $27,295.55, for a total sum of $867,158.57.
+The Plaintiff shall have its taxed costs, brief submissions on costs to be made by February 28, 2019.
+“E. Heneghan”
+Judge
+FEDERAL COURT
+SOLICITORS OF RECORD
+DOCKET:
+t-1663-16
+STYLE OF CAUSE:
+THE ADMINISTRATOR OF THE SHIP-SOURCE OIL POLLUTION FUND v. TRACY DONALD DODDS
+PLACE OF HEARING:
+Vancouver, British coloumbia
+DATE OF HEARING:
+december 20, 2017
+JUDGMENT AND REASONS:
+HENEGHAN J.
+DATED:
+february 4, 2019
+APPEARANCES:
+A. William Moreira
+Michael J.E. MacIssac
+For The plaintiff
+Tracey Donald Dodds
+For The defendant
+(ON HER OWN BEHALF)
+SOLICITORS OF RECORD:
+Stewart McKelvey
+Halifax, Nova Scotia
+For The PLAINTIFF

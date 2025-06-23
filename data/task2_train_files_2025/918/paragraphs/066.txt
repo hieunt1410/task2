@@ -1,0 +1,6 @@
+[66]
+In Information Commissioner of Canada v. Solicitor General of Canada, [1988] 3 F.C. 551 (F.C.T.D.), Jerome, A.C.J., referred to the matter of severance under this Act and the Privacy Act in these terms (at pp. 558-9):
+"... Parliament seems to have intended that severance of exempt and nonexempt portions be attempted only when the result is a reasonable fulfillment of the purposes of these statutes. ...
+. . . . .
+"... Disconnected snippets of releasable information taken from otherwise exempt passages are not, in my view, reasonably severable."
+In that case information relating to opinion about individuals and their training, personality, experience or competence was held to be personal information exempt from disclosure and the record there in question was ordered to be disclosed subject to severance and deletion from it of entire passages including such personal information in order to protect the privacy of individuals.

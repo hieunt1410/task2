@@ -1,0 +1,64 @@
+[1]
+Hargrave, Prothonotary
+: The defendant and the plaintiffs each set down motions for March 13, 1995. The defendant's motion, pursuant to rule 419(1)(a), is to strike out the statement of claim on the grounds that it relates to the Queen in Right of the Province of British Columbia, not the Federal Crown to whom it is nominally addressed in the style of cause.
+[2]
+The plaintiffs' motion, which is for directions, consists of five and a half single-spaced pages of material. The motion only becomes relevant if the Federal Crown does not succeed in its motion to strike out the underlying statement of claim.
+Background
+[3]
+By way of background, this action was commenced December 29, 1994. The defendants in the proposed style of cause were "Her Majesty the Queen in Right of Canada and Her Majesty the Queen in Right of the Province of British Columbia, co-defendants - Jointly and Severally". The statement of claim was accepted by the Registry with the reference to the Provincial Crown obliterated.
+[4]
+On February 13, 1995, the plaintiffs brought on a motion for judgment in default of defence. The motion was premature in that the Federal Crown had already filed their defence, within the time allowed for filing the defence following service. I dismissed the motion.
+[5]
+The present motion, filed by the Crown on February 15, 1995, is for an order that the statement of claim be struck out as disclosing no reasonable cause of action, the grounds being that the relief sought by the plaintiffs is not against Her Majesty the Queen in Right of Canada, but rather against Her Majesty the Queen in Right of the Province of British Columbia, over whom the Federal Court lacks jurisdiction.
+The Statement Of Claim
+[6]
+Leaving aside irrelevant material in the statement of claim and giving it a generous reading, the plaintiffs say that Her Majesty and Her Majesty's agents, whom they define as being employed by the Ministry of Social Services for the Province of British Columbia, together with the Ministry, have failed in providing social services to the plaintiffs and have conspired to cause them losses, stress, harm and humiliation.
+[7]
+The plaintiffs seek various declaratory and injunctive relief, including that their Constitutional and Charter Rights have been violated, that they be reimbursed for various losses and expenses by Her Majesty's agents in the employ of the British Columbia Ministry of Social Services, that these same agents provide various appliances and cease their harassment of the plaintiffs' doctors, and that the plaintiffs be provided with copies of the plaintiffs' files which Her Majesty and Her Majesty's agents may have.
+[8]
+On this aspect, the relief claimed, the plaintiffs encounter their first difficulty with jurisdiction. The Federal Court does not, subject to certain inapplicable exceptions in s. 19 of the
+Federal Court Act
+, have the jurisdiction to make an order against the Province of British Columbia: see for example
+FRAGMENT_SUPPRESSED. However, leaving remedies aside, I should look at the statement of claim as a whole.
+Analysis
+[9]
+Beyond the style of cause the statement of claim does not refer to Her Majesty the Queen in Right of Canada. It refers to the Ministry of Social Services, which is a provincial ministry; to Her Majesty's agents, employed by the Ministry of Social Services of the Province of British Columbia; and to Her Majesty's Policy Manuals regarding benefits to handicapped persons, which is an area of provincial jurisdiction.
+[10]
+The jurisdiction of the Federal Court, with respect to the Provincial Crown, is neatly summed up by Mr. Justice Thurlow of the Federal Court of Appeal in
+Union Oil Co. of Canada Ltd. v. Canada et al.
+, [1976] 1 F.C. 74 (F.C.A.), affd. (1976), 16 N.R. 425 (S.C.C.), at 75:
+"The jurisdiction of the Federal Court is entirely statutory and, accepting that it lies within the powers of the Parliament of Canada, when legislating in a field within its competence, to give the Federal Court jurisdiction to implead the Crown in right of a province, we do not think any of the statutory provisions to which we were referred, or any others of which we are aware, authorize the Court to entertain a proceeding at the suit of a subject against the Crown in right of a province."
+This view of the jurisdiction of the Federal Court was upheld by the Supreme Court of Canada (1976), 16 N.R. 425 (S.C.C.).
+[11]
+The only federal references in the statement of claim are related to the "Canada Assistance Program", which I take to mean the
+Canada Assistance Plan
+, R.S.C. 1985, c. C-1, and to the plaintiffs' repayment of an overpayment to the Provincial Crown, the plaintiffs complaining that they had never received a receipt from those employed by the Federal Government indicating receipt of their portion of that repayment. If I understand this correctly, the plaintiffs are saying that the provincial agencies, in providing services to the plaintiffs, were funded in part by the Federal Government, under the
+Canada Assistance Plan
+, and therefore the Federal Government should have received, and given a receipt for, part of the money repaid by the plaintiffs.
+[12]
+The plaintiffs, in their statement of claim, in paragraph 32, also refer to the joint sharing of costs of the provincial agents of the Crown, by "both defendants", which I presume includes the intended defendant, the Provincial Crown, which was dropped from the style of cause. This federal contributory funding, under the
+Canada Assistance Plan
+, seems to be the connection on which the plaintiffs rely in order to bring their action against the provincial authorities in this court.
+[13]
+This funding argument is not valid. There is no alleged delegation of any federal authority under the
+Canada Assistance Plan
+to the provinces and, indeed, the
+Canada Assistance Plan
+is merely a sharing of costs of programmes which lie within the legislative authority of the provinces under s. 92 of the
+Constitution Act, 1867
+.
+[14]
+The provision of funding by the Federal Government, in the form of payments to provinces, in respect of the cost to provinces and municipalities of assistance provided by, or at the request of, provincially approved agencies, pursuant to provincial law, and the provision of welfare services provided in a province by provincially approved agencies, pursuant to provincial law, all so that a province may provide financial aid or other assistance to persons in need, does not make the Federal Crown liable to the plaintiffs for perceived individual injustices at the hands of British Columbia Provincial agents and authorities.
+[15]
+The Crown did not argue that the present action is an abuse of process on the grounds that the statement of claim is inconcise to the extent that it might be difficult for a court to regulate the proceedings. I do not have to decide this point, but mention it in the event that the plaintiffs feel they need their day in court and decide to bring their proceeding in a court that has the appropriate jurisdiction.
+[16]
+If the plaintiffs believe they have legitimate claims against the Ministry of Social Services and their employees, or against independent non-government agencies, they should, notwithstanding that some of the funding for the Ministry of Social Services or for independent agencies may be provided under the
+Canada Assistance Plan
+, clearly set out their claims in proceedings in the British Columbia court system, which has jurisdiction.
+[17]
+The statement of claim is stuck out in that the Federal Court does not have jurisdiction over provincial matters which, in this instance, are being dealt with by the British Columbia Ministry of Social Services.
+[18]
+The Crown, in its motion, has not asked for costs. Thus, none are awarded. In that the action is struck out the plaintiffs' motion, for directions, is no longer relevant and is dismissed without costs.
+Crown's application allowed.
+Editor: Kelli A. Simmonds/slm
+[End of document]

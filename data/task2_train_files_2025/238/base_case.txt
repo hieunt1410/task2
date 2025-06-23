@@ -1,0 +1,122 @@
+[1]
+Heald, D.J.
+: This is an appeal pursuant to s. 56(1) of the
+Trade-marks Act
+, R.S.C. 1985, c. T-13 (the
+Act
+) from a decision of the respondent, Registrar of Trademarks (the Registrar) wherein he rejected the appellant's opposition to application No. 641,088, for the trademark "Impact" which had been filed by the respondent Du Pont.
+[2]
+The respondent Du Pont advised the court, through counsel, that it was taking no position on the appeal and would not be represented at the hearing. The respondent Registrar also advised the court that he was taking no position on the appeal and would not be represented at the hearing.
+Facts:
+[3]
+On September 20, 1989, the respondent Du Pont filed an application to register its trademark "Impact" in respect of "chemicals for treating swimming pool and spa water" based on use and registration of the mark in the U.S.A.. The application was given preliminary approval by the Registrar. It was published in the May 2, 1990, issue of the Trade Marks Journal. The appellant filed a statement of opposition. The respondent Du Pont filed a counter-statement. Both parties filed an affidavit but neither party crossexamined on those affidavits. The parties submitted written arguments to the respondent Registrar. Since neither party requested an oral hearing, the Registrar proceeded to deal with the matter without such a hearing.
+[4]
+The appellant's opposition to Du Pont's application is based on the appellant's ownership of the identical trademark "Impact", which had been previously registered and used in Canada by the predecessor-in-title to the appellant, American Cyanamid Company, in association with wares described as "insecticide".
+The Decision Of The Registrar
+[5]
+The Registrar was of the view that the central issue herein was the issue of confusion between the two trademarks. He concluded, correctly in my view, that the onus was on Du Pont to show that there would be no reasonable likelihood of confusion within the meaning of s. 6(2) of the
+Act
+[see footnote 1] between Du Pont's mark "Impact" relating to chemicals for treating swimming pool and spa water and Clorox's mark "Impact" used in association with insecticide. He added, also correctly in my view, that in deciding whether there would be a reasonable likelihood of confusion, he was required to consider all of the surrounding circumstances including those set out in s. 6(5) of the
+Act
+[see footnote 2].
+Analysis:
+a) The Role Of The Court And The Standard Of Review:
+[6]
+The role of the court on an appeal in opposition proceedings in this court is wellstated by Strayer, J. (as he then was), in the case of
+McDonald's Corp. v. Silcorp Ltd.
+"It seems clear that in opposition proceedings where the issue is essentially one of fact concerning confusion or distinctiveness the decision of the registrar or the Board represents a finding of fact and not the exercise of discretion. Therefore, the court should not impose upon itself the same degree of restraint, in reviewing that decision, as it would if the decision were essentially an exercise of discretion. It is thus free to review the facts to determine whether the decision of the registrar or Board was correct, but that decision should not be set aside lightly considering the expertise of those who regularly make such determinations ..." ((1989), 25 F.T.R. 151; 24 C.P.R.(3d) 207 (T.D.), at p. 210; affd. (1992), 139 N.R. 319; 41 C.P.R.(3d) 67 (F.C.A.).)
+[7]
+FRAGMENT_SUPPRESSED
+[8]
+I accordingly conclude that the appellant carries the onus of establishing that the Registrar erred in a determination of fact or in his interpretation of the law. I am of the opinion that the Registrar was correct in his view that the central issue herein is the issue of confusion between the two trademarks. A determination in relation to the issue of confusion has been characterized by the court as a finding of fact, and it is within the ambit of the court on appeal to satisfy itself the finding with respect to confusion was correct.
+b) Confusion Between The Trademarks:
+[9]
+The Registrar correctly observed that the test for confusion is a matter of first impression and imperfect recollection for an average consumer. As stated by Cattanach, J., in
+Canadian Schenley Distilleries Ltd. v. Canada's Manitoba Distillery Ltd.
+:
+"It is the probability of the average person endowed with average intelligence acting with ordinary caution being deceived that is the criterion and to measure that probability of confusion the Registrar of Trademarks or the Judge must assess the normal attitudes and reactions of such persons." ((1975), 25 C.P.R.(2d) 1 (F.C.T.D.), at p. 5, per Cattanach, J.)
+[10]
+In respect of the opposition application decided by the Registrar, the respondent Du Pont carried the onus of establishing that the trademark sought to be registered was not likely to be confused with a trademark presently registered (See
+Conde Nast Publications Inc. v. Gozlan Brothers Ltd.
+(1980), 49 C.P.R.(2d) 250 (F.C.T.D.), per Cattanach, J.). It is clear from the Registrar's reasons that he properly concluded that the onus was on Du Pont to satisfy the Registrar that the proposed mark "Impact" in association with chemicals for treating swimming pool and spa water was not likely to be confused with Clorox's trademark "Impact" in association with insecticides [see footnote 3]. However, as will later be seen, I am not persuaded that the Registrar came to the correct conclusion with respect to onus, based on the evidence in this case.
+[11]
+In determining whether the two marks in issue are likely to lead to the inference that the wares are manufactured, sold etc. by the same person, whether or not they are of the same general class, the Registrar or court must have regard to all the surrounding circumstances including the five factors listed in s. 6(5) supra.
+[12]
+I now proceed to an analysis of those factors:
+"S. 6(5)(a): The inherent distinctiveness of the trademarks or trade-names and the extent to which they have become known;"
+[13]
+The Registrar found that both marks suggest that the product "will produce the desired effect or intended outcome". From this he concluded that both marks "... possess a low degree of inherent distinctiveness because of their laudatory connotations". In essence, he concluded that both marks were "weak" marks. In my view, such a finding was reasonably open to the Registrar on this record. As noted by Dr. Fox in his text
+The Canadian Law of Trade Marks and Unfair Competition
+, (3rd Ed) (Toronto: Carswell, 1972), at p. 173:
+"When it is contended that two words are confusing by reason of the fact that they suggest the same idea regard should be had to the nature of the words. If the words are distinctive, in the sense of being invented words, small differences will not be sufficient to distinguish them,
+whereas if the words are common or descriptive in meaning, they must be taken with their disadvantages. No person is entitled to fence in the common of the English language and words of a general nature cannot be appropriated over a wide area
+." (Emphasis added)
+[14]
+Upon a review of the evidence, the Registrar concluded that Du Pont had "not acquired any reputation in Canada at the material date". However, insofar as Clorox was concerned he concluded that its mark for insecticide had " ... achieved some reputation in Canada by the material date as a result of sales and advertising from 1987 on". Accordingly, as the appellant's trademark had become known to a greater extent than the respondent's trademark, this factor favours the appellant Clorox.
+"S. 6(5)(b): The length of time the trademarks have been in use in Canada;"
+[15]
+The Registrar found, correctly in my view, that this factor favoured the appellant Clorox because its use in Canada preceded that of the respondent Du Pont by approximately three years.
+"S. 6(5)(c): The nature of the wares, services or business;"
+[16]
+The Registrar found that the nature of the parties wares differed intrinsically and that those wares were used for different purposes. He had before him an affidavit by Tim D. Moore, the Marketing Director of a Registered User of the appellant's mark. Mr. Moore deposed that he had personally visited five retail outfits in Metro Toronto where he noted that insecticides and pool chemicals were sold in close proximity. The Registrar dismissed this evidence because, in his view, it was not "representative of the general marketplace". Nevertheless, I do not think that the appellant's insecticides and the respondent's pool products are "intrinsically different". The fact that the wares here in issue are marketed in close proximity may be some evidence of their
+similarity
+rather than of their
+intrinsic difference
+.
+"S. 6(5)(d): Nature of the trade;"
+[17]
+While the Registrar did not agree that the parties wares were similar, he did, nevertheless, accept Mr. Moore's evidence as being "... credible evidence that there is likely to be at least some overlap in the parties' channels of trade".
+[18]
+It should be noted that the respondent Du Pont does not, presently, distribute its product through retail outlets. It is sold through a distributor who sells to retail and commercial pool dealers as well as to municipalities and hotels etc. However, the issue is not whether there is actual confusion but whether there is a reasonable likelihood of confusion. In my view, on the evidence here, there is "a reasonable likelihood" that the respondent's distribution program will be expanded to include retail outlets. As noted by Dubé, J., in
+Cartier Men's Shops Ltd. v. Cartier Inc.
+: "And to establish the likelihood of confusion it is not necessary to prove that the wares are effectively sold in the same place as long as the parties are entitled to do so." ((1981), 58 C.P.R.(2d) 68 (F.C.T.D.), at p. 72) For these reasons I conclude that this factor also favours the appellant Clorox.
+"S. 6(5)(e): The degree of resemblance between the trademarks or trade-names in appearance or sound or in the ideas suggested by them;"
+[19]
+I agree with the Registrar that the trademarks of the appellant Clorox and the respondent Du Pont are identical in appearance, in sounding and in the ideas they suggest. Accordingly, this factor favours the appellant Clorox.
+Surrounding Circumstances:
+[20]
+As noted supra, s. 6(5) of the
+Act
+also requires the court or Registrar to "... have regard to all the surrounding circumstances ..." in addition to those set out in ss. 6(5)(a) to 6(5)(e) of the
+Act
+. In this connection, the Registrar commented as follows at p. 3 of his reasons: "The opponent's evidence suggests that there is a likelihood that the parties' products will be sold in close proximity or in the same areas of retail outlets so that consumers will be viewing both products (and, presumably, both marks) at the same time." Also, on page 3 he stated: "I have also kept in mind the specialized nature of the parties' wares and that the average consumer would not purchase the wares in a hurried manner without some attention to the nature of the wares, their specific purpose, and the manner of their use."
+[21]
+With deference I disagree with the inferences drawn by the Registrar. The Federal Court of Appeal has held that the price of a product is a relevant factor since it has an effect on the way in which the product is purchased. In the case of
+Bagagerie S.A. v. Bagagerie Willy Ltée
+, Desjardins, J.A., stated:
+"The more the purchase of goods leads the consumer to examine and reflect, the less risk there is of confusion. ... The lower the price, the less likely there is to be prolonged consideration." ((1992), 148 N.R. 125; 45 C.P.R.(3d) 503 (F.C.A.), at p. 510, per Desjardins, J.A.)
+[22]
+Both of the items here in issue are relatively inexpensive. I do not agree that they are items which the average consumer would refrain from purchasing in a "hurried manner".
+Onus:
+[23]
+In their supporting submissions to the Registrar dated October 5, 1993, Du Pont stated: "In view of the foregoing, applicant [Du Pont] believes that the opponent [Clorox] has not presented any convincing evidence of any likelihood of confusion between the two marks".
+[24]
+This is a misstatement of the proper test. There is no onus on the opponent (Clorox) to establish a reasonable likelihood of confusion. The onus is on
+Du Pont
+to establish that there was
+no
+reasonable likelihood of confusion between the two trademarks. The affidavit of Ian Waid, a marketing manager for Du Pont was submitted to meet this onus. On this issue Mr. Waid said that he was not aware of any instances of Du Pont's "Impact" product being mistaken for Clorox's "Impact" product and visa versa. (Affidavit of Ian R. Waid sworn April 2, 1992 at paragraph 13.) Likewise his affidavit provides no details of the nature and extent of his investigation. In my view this evidence falls far short of establishing that there was
+no
+reasonable likelihood of confusion between the appellant's trademark and the respondent's trademark.
+Conclusion:
+[25]
+For the foregoing reasons I have concluded that the respondent Du Pont has failed to establish on this record, that there was no likelihood of confusion between appellant's trademark and the respondent's trademark and that the Registrar erred in so finding. The appeal is allowed and the decision of the Registrar dated the 28th day of July, 1994, is set aside. The matter is referred back to the Registrar of Trademarks on the basis that application No. 641,088 for registration of the trademark "Impact", by the respondent Du Pont, be refused. Since the appellant has not asked for costs against either respondent, no costs are given.
+Appeal allowed.
+Editor: Gary W. McLaughlin/sg
+Footnotes
+1.	Section 6(2) of the
+Trade-marks Act
+reads as follows:
+"6(2) The use of a trademark causes confusion with another trademark if the use of both trademarks in the same area would be likely to lead to the inference that the wares or services associated with those trademarks are manufactured, sold, leased, hired or performed by the same person, whether or not the wares or services are of the same general class."
+2.	Section 6(5) of the
+Trade-marks Act
+reads as follows:
+"6(5) In determining whether trademarks or trade-names are confusing, the court or the Registrar, as the case may be, shall have regard to all the surrounding circumstances including
+(a) the inherent distinctiveness of the trademarks or trade-names and the extent to which they have become known;
+(b) the length of time the trademarks or trade-names have been in use;
+(c) the nature of the wares, services or business;
+(d) the nature of the trade; and
+(e) the degree of resemblance between the trademarks or tradenames in appearance or sound or in the ideas suggested by them."
+3.	I so conclude because of the Registrar's statement at p. 2 of his reasons wherein he stated:
+"The legal burden is on the applicant [Du Pont] to show that there would be no reasonable likelihood of confusion within the meaning of subsection 6(2) ...".
+[End of document]

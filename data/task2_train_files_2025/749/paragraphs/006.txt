@@ -1,0 +1,10 @@
+[6]
+Rule 408(1) provides that every pleading must contain a precise statement of the material facts on which the party pleading relies. Rule 415 reads in part:
+"(1) Subject to para. (2), every pleading shall contain the necessary particulars of any allegation including, without prejudice to the generality of the foregoing words,
+(a) particulars of any misrepresentation, fraud, breach of trust, wilful default or undue influence on which the party relies; and
+(b) where a party pleading alleges any condition of the mind of any person, whether any disorder or disability of mind or any malice, fraudulent intention or other condition of mind except knowledge, particulars of the facts on which the party relies.
+"(2) Where in any case it seems more convenient to do so, particulars may be set out in a separate document attached as a schedule to the pleadings.
+"(3) The court may order a party to file and serve on any party further and better particulars of any allegation in his pleading, or a further and better statement of the nature of the case on which he relies, and the order may be made on such terms as seem just.
+"(4) Without limiting the generality of para. (3), where a party alleges as a fact that a person had knowledge or notice of some fact, matter or thing, the court may, on such terms as seem just, order that party to file and serve on any other party
+(a) where he alleges knowledge, particulars of the facts on which he relies on, and
+(b) where he alleges notice, particulars on the notice."

@@ -1,0 +1,17 @@
+[10]
+The third case, the one which deals with appeals from prothonotaries, is
+Canada v. Aqua-Gem Investments Ltd.
+(1993), 149 N.R. 273. McGuigan, J.A., writing for the majority, spoke of the standard of review to be applied by a motions judge in reviewing a discretionary decision of a prothonotary in the following terms at pp. 295 and 296:
+"I also agree with the Chief Justice in part as to the standard of review to be applied by a motions judge to a discretionary decision of a prothonotary. Following in particular Lord Wright in
+Evans v. Bartlam
+, [1937] A.C. 473, at p. 484, and Lacourcière, J.A., in
+Stoicevski v. Casement
+(1983), 43 O.R.(2d) 436, discretionary orders of prothonotaries ought not to be disturbed on appeal to a judge unless:
+(a) they are clearly wrong, in the sense that the exercise of discretion by the prothonotary was based upon a wrong principle or upon a misapprehension of the facts, or
+(b) they raise questions vital to the final issue of the case. [See footnote 5]
+"Where such discretionary orders are clearly wrong in that the prothonotary has fallen into error of law (a concept in which I include a discretion based upon a wrong principle or upon a misapprehension of the facts), or where they raise questions vital to the final issue of the case, a judge ought to exercise his own discretion de novo.
+"In
+Ship 'Jala Godavari' et al. v. Canada et al.
+(1991), 135 N.R. 316; 40 C.P.R.(3d) 127, this court in an obiter dictum stated the rule the other way around, seeking to emphasize the necessity for the exercise of the judge's discretion de novo, in contradistinction to the view that was at that time gaining acceptance in the Trial Division that the prothonotary's discretion should be followed unless he had committed error of law.
+Jala Godavari
+should not, I think, be read as meaning that the prothonotary's discretion should never be respected, but rather that it is subject to an overriding discretion by a judge where the question involved is vital to the final issue of the case. (Error of law is, of course, always a reason for intervention by a judge, and is not in any way in controversy)."

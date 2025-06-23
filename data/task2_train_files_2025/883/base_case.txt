@@ -1,0 +1,207 @@
+[1]
+O'Keefe, J.
+: The following two motions were heard together.
+[2]
+The first motion was brought by the Honourable William D. Parker for:
+1. An order to quash a subpoena to the Honourable William Dickens Parker requiring his testimony at the trial of this action;
+2. The costs of this motion; and
+3. Such further and other relief as to this Honourable Court may seem just.
+[3]
+The second motion was brought by David W. Scott, Q.C., Marlys Edwardh and Edward Belobaba for:
+1. An order quashing the subpoenas to David W. Scott, Q.C., Marlys Edwardh and Edward Belobaba requiring their testimony at the trial of this action;
+2. The costs of this motion; and
+3. Such further and other relief as to this Honourable Court may seem just.
+[4]
+The Honourable William Dickens Parker ("Commissioner Parker") conducted a Commission of Inquiry into the facts of allegations of conflicts of interest concerning the plaintiff.
+[5]
+David Scott, Q.C. ("Scott"), Marlys Edwardh ("Edwardh") and Edward Belobaba ("Belobaba") were legal counsel to Commissioner Parker at the Commission of Inquiry.
+[6]
+The plaintiff had subpoenas issued to compel the attendance of Commissioner Parker, Scott, Edwardh and Belobaba to testify at the hearing of this matter.
+[7]
+Commissioner Parker has moved for an order quashing the subpoena served on him as the evidence sought would breach the principle of deliberative secrecy and judicial immunity to be accorded to the Commissioner. In addition, Commissioner Parker submits the subpoena should be quashed as the evidence would necessarily result in a breach of privilege between Commissioner Parker and his legal counsel.
+[8]
+Scott, Edwardh and Belobaba seek to have their subpoenas quashed on the basis that the plaintiff is seeking evidence on the same matters which are protected by solicitor-client privilege and the principle of deliberative secrecy asserted by Commissioner Parker.
+[9]
+Commissioner Parker submits that the question of his compellability to testify has already been decided by this court in a decision dated January 3, 2002, whereby Madam Justice Heneghan dismissed an application by the plaintiff to examine the Commissioner either under Rule 238 or Rule 271.
+[10]
+Scott, Edwardh and Belobaba submit that the plaintiff ought not be permitted to relitigate the decisions of this Court and the Federal Court of Appeal relating to these issues.
+[11]
+The motion is made in a proceeding in which the plaintiff issued a statement of claim, in connection with the report of Commissioner Parker, which claimed:
+"... a declaration that the Report be set aside and declared to be of no force and effect by reason of the matters set out in paragraph 5 of the Declaration;
+"an order removing to this Court the said Report and all records, proceedings, papers and transcript of evidence relating to the Inquiry; ..."
+Issues
+[12]
+1. Should the subpoena issued to Commissioner Parker be quashed?
+2. Should the subpoenas issued to Scott, Edwardh and Belobaba be quashed?
+[13]
+Issue 1
+Should the subpoena issued to Commissioner Parker be quashed?
+In the plaintiff's written representations at paragraph 3, the plaintiff states the following:
+"Mr. Stevens seeks to examine Commissioner Parker and Commission counsel with respect to the key issues in this action, including:
+i) facts associated with the prosecutorial role Commission counsel adopted during the Parker Commission public hearings;
+ii) facts associated with reasons why proper notice was not given to Mr. Stevens prior to or during the public hearings and why the notice was not sufficiently specific;
+iii) facts associated with a meeting with by [sic] Commissioner Parker after February 20, 1987, in which counsel for certain parties requested and received an assurance that Commission counsel would not have any substantive or consultative role in the deliberative process;
+iv) facts associated with the adjudicative and deliberative process by which the Parker Commission report was produced, including the role Commission counsel played in writing the report;
+v) comments made by David Scott to W.P.D. Elcock in June 1986 about Commission counsel writing the report and comments made in November 1987 to counsel by Mr. Scott;
+vi) facts relating to the acts of Commission counsel during the 1700 hours docketed by them after February 20, 1987, during the period that the report was being prepared;
+vii) facts relating to the observation that the commission report seems to indicate distinctly different writing styles."
+[14]
+At the beginning of his argument at the hearing of the motion, the plaintiff's counsel indicated through oral argument that he wanted to cover the following evidence:
+1. Who wrote the report?
+2. If not admitted - The standard of conflict of interest that was to be applied to the plaintiff was not specified prior to the release of Commissioner Parker's report.
+3. What acts did Commission counsel perform with respect to the writing and preparation of the report or drafts of the report between February 20, 1987 and December 3, 1987 after the close of public hearings? Did they (counsel) make drafts? Did counsel send drafts to the Commissioner? (Transcript page 159)
+[15]
+The plaintiff stated later in the hearing of the motion that what was requested was the right to examine Commissioner Parker and Commission counsel with respect to paragraphs 3(iv) of the plaintiff's written representations. Mr. Jervis stated at page 59 of the transcript and Mr. Lax replied:
+"MR. JERVIS: If I could just interrupt, and I think it's appropriate because when I, as counsel, say something, I mean it. And I said, 'This is what I want to ask you to permit me to do and confine it to that.' I guess I should have said, 'Oh, by the way, when we drafted a memorandum last January, we had a longer list.' I was very specific. It's 3(iv). I didn't say that I apologize but I was very specific.
+MR. LAX: You drafted a Supplemental Memorandum within the last week.
+MR. JERVIS: That's what I'm asking to do.
+MR. LAX: All right.
+MR. JERVIS: And I was very clear that that's what I want, and I said I would be subject to whatever direction the Court limits the questions to. That's my submission."
+[16]
+Commissioner Parker claims that he is not compellable to give evidence by reasons of the principles of deliberative secrecy and solicitor-client privilege. The plaintiff, on the other hand, argues that:
+1. The information sought by Mr. Stevens does not breach the principle of deliberative secrecy as the information does not infringe upon the substance of Commissioner Parker's deliberations.
+2. Commissioner Parker was not entitled to deliberative secrecy as there are valid reasons to believe that the rules of natural justice were not met.
+3. He waived deliberative secrecy when he discussed with the Parliamentary Committee the substance of his decision-making and its process.
+[17]
+It is first in order to determine whether or not the principle of deliberative secrecy applies to a Commission of Inquiry.
+[18]
+In
+FRAGMENT_SUPPRESSED The Federal Court of Appeal has ruled that the former Rule 1402 does not provide a discovery procedure, nor is it intended to authorize a fishing expedition. The analysis and opinion in staff memoranda are irrelevant to the ascertainment of the tribunal's reasons for decision because they cannot be assumed to have been adopted by it as its reasons. It would have to be shown that they amounted to additional evidence (
+Trans Quebec & Maritimes Pipeline
+, supra).
+"In the result, I have reached the conclusion that the Commissioner's objection to the production of written material passing between the Commissioner and his counsel which consists of legal advice or analysis is valid. However, if legal counsel has provided written material to the Commissioner containing new facts or information, that is to say, evidentiary material not previously disclosed, on which the Commissioner based his decision to issue [page 580] the notices, then such written material should properly be produced pursuant to Rule 1613 and included in the record. There is nothing in the record before me indicating that such is the case."
+[19]
+FRAGMENT_SUPPRESSED[20]
+Based on the above, I reject the defendant's argument that deliberative secrecy applies to judges and quasi-judicial administrative decision-makers but not commissioners of inquiry. The reasoning that underlies the principle of deliberative secrecy logically extends to commissioners of inquiry, as held in
+Krever
+, supra. In addition, Heneghan, J., in
+Stevens v. Canada (Attorney General)
+(2002), 215 F.T.R. 228; 2002 FCT 2 (T.D.), upheld Prothonotary Lafrenière's ruling that Commissioner Parker is protected by deliberative secrecy. I agree.
+[21]
+The plaintiff submits that the information he seeks does not breach the principle of deliberative secrecy. As reproduced earlier in this decision but repeated here for ease of reference, the area which the plaintiff wishes to question on is:
+"... facts associated with the adjudicative and deliberative process by which the Parker Commission report was produced, including the role Commission counsel played in writing the report;"
+It would seem to me that "facts associated with the adjudicative and deliberative process by which the Parker Commission Report was produced" is at the very heart of deliberative secrecy. This would seem to deal with how the Commissioner produced his report. The
+Oxford English Dictionary
+, 2nd Edition, gives the following meaning to the words "adjudicate", "adjudicative", "deliberation" and "deliberative":
+"
+Adjudicate
+v. 1. trans. To adjudge; to award; 'to give something controverted to one of the litigants, by a sentence or decision.' J. Obs. 2. trans. To try and determine judicially; to pronounce by sentence of court. 3. intr. To sit in judgment and pronounce sentence; to act as a judge, or court of judgment.
+"
+Adjudicative
+a. Having the character or attribute of adjudicating.
+"
+Deliberation
+1. The action of deliberating, or weighing a thing in the mind; careful consideration with a view to decision. 2. The consideration and discussion of the reasons for and against a measure by a number of councillors (e.g. in a legislative assembly). b. A consultation, conference. Obs. 3. A resolution or determination. Obs. b. The written record of a resolution (of a deliberating body). Obs. 4. As a quality: Deliberateness of action. b. Absence of hurry; slowness in action or movement; leisureliness.
+"
+Deliberation
+Obs. rare Liberation, setting free.
+"
+Deliberative
+A. adj. 1. Pertaining to deliberation; having the function of deliberating. 2. a. Characterized by deliberation, or careful consideration in order to decision. b. Habitually deliberate; not hasty. Obs. 3. Gram. Expressing deliberation or doubt. B. n. A discussion of some question with a view to settlement; a deliberative discourse; a matter for deliberation. Obs."
+In my view, what the plaintiff wishes to examine Commissioner Parker about is the very nature of his decision-making process, which is how he came to the conclusions he did in his report. There is no process separate from the facts associated with his decision-making. The Commissioner coming to a conclusion and how and why he came to the conclusion is protected by deliberative secrecy. The information sought does impinge upon the substance of Commissioner Parker's deliberations.
+[22]
+The plaintiff also argued that if there are valid reasons for believing that the process followed by Commissioner Parker did not comply with the rules of natural justice, then deliberative secrecy may be lifted. In paragraph 51 of the plaintiff's written representations, he itemizes why there are valid reasons to believe that the rules of natural justice were not met in this case. These reasons have all been canvassed in earlier decisions of this Court, the Court of Appeal and by the Prothonotary and were not found to be sufficient to lift deliberative secrecy. The Commissioner has consistently claimed privilege in relation to his legal accounts and other requested information. The plaintiff's reasons for wanting to lift the deliberative secrecy of the Commissioner do not satisfy me in this case.
+[23]
+The plaintiff submitted in paragraph 51(v) of his written representations that Commission counsel contacted a witness after the close of the public hearings. The plaintiff was not advised that this had occurred, offered an opportunity to be present or to ask any questions. I would note that this information came from a telephone charge slip disclosed in the Access to Information disclosure. Counsel for Commissioner Parker submitted in reply argument that no waiver of solicitor-client privilege or deliberative secrecy has ever been found by any other court. A reading of the cases appears to support this position.
+[24]
+The plaintiff argued that the adversarial role adopted by Commission counsel at the inquiry and the possibility that Commission counsel assisted in the writing of the final report constituted a denial of natural justice. In
+Stevens
+, supra, a decision of an appeal of a Prothonotary's order, Madam Justice Heneghan stated at paragraphs 68 and 69:
+"Second, I am not convinced that the participation of Commission counsel in the writing of a report is necessarily a violation of procedural fairness, particularly if the Commissioner reviewed the report, signed it and adopted it as his own. Justice Décary made the following comments about the role of Commission counsel in
+Canada (Attorney General) v. Canada (Commission of Inquiry on the Blood System)
+, supra, at page 80:
+'We must be careful not to impose too strict standards on a commissioner who is conducting a public inquiry of the nature and scope of this Inquiry, in terms of the role he may assign to his counsel once the actual hearings have concluded. A final report is not a decision and the case law that may have developed in relation to decisions made by administrative tribunals, particularly in disciplinary matters, does not apply. We must be realistic and pragmatic. The Commissioner will not likely be able to write all of his report himself, or verify the accuracy of the facts set out in it on his own, any more than he could reasonably have asked all the questions during the examination of witnesses or sift through the hundreds of documents that were introduced. What is important is that the findings he makes in his report be his own. If, in order to make those findings, he considers it advisable to seek the assistance of one or more of his counsel, including those who conducted the examination of witnesses, in relation to questions of fact, evidence of law, he must have broad latitude to do so.'
+"The words of Justice Décary are instructive. It is clear that the Commissioner is entitled to establish his method of proceeding in the discharge of his mandate. This liberty must mean that he is authorized to engage and instruct counsel, and to utilize their services as he sees fit. He is entitled to the benefit of the presumption that he will act properly in the discharge of his duty as a Commissioner; the maxim omnia praesumuntur legitime facta donec probetur in contrarium applies to this case."
+In this case, Commissioner Parker stated in his report that it was his report. I would adopt the reasoning of Madam Justice Heneghan.
+[25]
+The plaintiff also submitted that Commissioner Parker waived any deliberative privilege by appearing before the Joint Committee of the Senate and House of Commons on Conflicts of Interest. The plaintiff's counsel stated at paragraphs 5 and 6 of the plaintiff's supplemental motion record:
+"In his testimony before the Joint Committee, Commissioner Parker articulated the very substance of the deliberative process he employed. For example, Commissioner Parker related that many different definitions of the standard of 'conflict of interest' were put forward by different counsel and that he ultimately chose the definition he felt to be 'fair and reasonable':
+'During the Inquiry, various counsels submitted what they believed the recommendations should be. I think you have to consider that, too ... lawyers appreciate that in an argument you put forward the best views for your client. You don't suggest a standard that is contrary to your client's interest. So you have counsel there putting forth various types of definitions. As the commissioner, I picked one definition - from among the numerous ones put forward - which I thought was fair and reasonable.'
+Reference:
+Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on Conflict of Interests
+at p. 3:6, Joint Brief of Documents vol. 14 at Tab 104.
+"Commissioner Parker further waived his deliberative privilege by explaining to the Joint Committee his reasons for his choice of standard. To this end, Commissioner Parker offers reasons in support of his choice of standard. Commissioner Parker conveyed that there were several factors which impacted upon his decision making, indicated that the process involved a balancing of interests, and described the difficulty this task posed:
+'I should say in part, I was guided by the conflict of interest guidelines available, the code that was available, and also by the recommendations in the Starr-Sharp report. There were points in there that set out some general principles.
+'But I was approaching it, had to approach it, from the view of an inquiry as to what the public perception would be. By that time, the media was having a field day. They were pointing out the attitudes of the public.
+'So you have to consider a mixture of factors. You don't have a very easy task. You have to reconcile all the various views and try to come up with one that is reasonable.'"
+Reference:
+Minutes of Proceedings and Evidence of the Special Joint Committee of the Senate and of the House of Commons on Conflict of Interests
+at p. 3:6-3:7, Joint Brief of Documents vol. 14 at Tab 104.
+[26]
+The plaintiff referred me to the decision of McLachlin, J. (as she then was), in
+S. & K. Processors Ltd. v. Campbell Ave. Herring Producers Ltd.
+(1983), 35 C.P.C. 146 (B.C.S.C.). In that case, the defendants delivered an expert's report relating to certain administration expenses and the plaintiff (S & K Processors Ltd.) wished to obtain (at paragraph 3):
+"... (1) correspondence between their solicitors and Laventhol & Horwath for the purpose of preparing the accounting report, (2) notes of meetings between Laventhol & Horwath and representatives of the defendants and the defendants' solicitors; (3) drafts and working papers of representatives of the defendants, and, (4) drafts and working papers of Laventhol & Horwath ..."
+The report itself had to be produced pursuant to the
+Evidence Act
+. The Court held that privilege in relation to the four sets of items had not been waived by filing the report and that privilege with respect to the report and the facts upon which it was based were abrogated by the
+Evidence Act
+.
+[27]
+I have reviewed the comments of Commissioner Parker before the Joint Committee and I cannot agree with the plaintiff that the Commissioner waived privilege. With respect to the discussion of different definitions of the standard of "conflict of interest", this is exactly what transpired at the Inquiry. Various counsel put forward proposed standards on behalf of their clients and Commissioner Parker determined which definition was fair and reasonable. This is precisely what you would expect the Commissioner to do. He did not discuss the evidence or facts he considered in coming to a conclusion as to which standard to accept. Although I agree with the statement of the law contained in
+S & K Processors Ltd.
+, supra, the Commissioner did not disclose any privileged information in the present case so as to constitute an implied waiver of privilege.
+[28]
+Again, with respect to paragraph 6 of the plaintiff's supplementary brief, I have reviewed these comments and the further comments referred to by Commissioner Parker's counsel and I am satisfied that the Commissioner did not waive his deliberative secrecy by these statements. Again, this was what you would expect the Commissioner to do, that is, consider what was before him and make a decision. He stated that he had to consider a mixture of factors. The conflict of interest guidelines and the Starr-Sharp Report were before the Commission and it would be expected that the Commissioner would consult these items. Again, he did not discuss what evidence was looked at in coming to his conclusions.
+[29]
+The plaintiff also submitted that Commissioner Parker waived deliberative secrecy when he met with counsel for the parties in chambers and assured them he would personally write the report, or words to that effect. Commissioner Parker says he cannot be called to testify on the basis of the decision in
+Edwards v. Canada (Attorney General)
+(1999), 182 D.L.R.(4th) 736 (Ont. Sup. Ct.), where Lax, J., stated at page 738:
+"From my review of the pleadings and from submissions made on the motion, it appears that the crux of the dispute in this trial is: (1) were the plaintiffs promised protection as a condition of Ms. Edwards' testimony before the Supreme Court of Canada?; (2) if so, what was the nature of the protection that was promised? And, (3) was it provided?
+"The crux of this motion is whether Chief Justice Lamer is immune from testifying about what took place in his chambers on that day."
+And at page 747:
+"Judges do not enjoy absolute testimonial immunity in all circumstances, but they must be free to perform their judicial duties without concern that decisions made in 'the bona fide exercise of [their] office' are subject to subsequent scrutiny or elaboration: Friedland, supra, at p. 34. An independent judiciary is central to a free and democratic society, and judicial immunity is one of its safeguards. For the reasons I have given, it is my conclusion that the Chief Justice was engaged in his judicial function when he initiated and held the chambers conference on behalf of the Court and when he later responded through the Court to the concerns of Ms. Edwards. As a result, he cannot be compelled to testify about the events that occurred in chambers. The motion is granted and the subpoena is quashed. ..."
+I would apply the same reasoning to Commissioner Parker's meeting with counsel in his chambers. As a result, the Commissioner cannot be compelled to testify about this meeting. Further, I am of the view that the Commissioner telling counsel that the report would be his or that he would write the report does not amount to a waiver of deliberative secrecy.
+[30]
+In summary, I find that there has not been any waiver by Commissioner Parker of judicial immunity.
+[31]
+I would emphasize that nothing in these reasons should be read as to broaden the principles of deliberative secrecy or solicitor-client privilege beyond their well-established borders. In a proper case, where a litigant presented facts for believing a commission of inquiry did not comply with the rules of natural justice, the veil of deliberative secrecy should be lifted. In such a case, lifting deliberative secrecy would be necessary to ensure that natural justice had not been denied. As is evident from these reasons, I have concluded that the facts properly before me are not such a case.
+[32]
+Commissioner Parker also claims that the privilege attaching to solicitor-client communications applies so as to preclude him from testifying about the conduct of the Inquiry, including the preparation of his report. The plaintiff submits that solicitor-client privilege does not apply to the facts contained in communications between a solicitor and a client nor to the acts performed by the solicitor which are the facts themselves. The application of solicitor-client privilege in this case was the subject matter of a decision by the Federal Court of Appeal in
+Stevens v. Prime Minister (Can.)
+, [1998] 4 F.C. 89; 228 N.R. 142 (C.A.), an access to information case. Linden, J.A., stated at page 100:
+"The doctrine has evolved over the years. Nowadays any communication between a lawyer and a client in the course of obtaining, formulating or giving legal advice is privileged and may not be disclosed without the client's consent. The great Dean Wigmore has explained the privilege as follows:
+'Where legal advice of any kind is sought from a professional legal adviser in his capacity as such, the communications relating to the purpose, made in confidence by the client, are at his instance permanently protected from disclosure by himself or by the legal adviser, except the protection be waived.'"
+And at page 102:
+"It will be seen that Canadian law has sought to strike an appropriate balance between openness and secrecy by creating two exceptions to the privilege. One exception, which will be discussed later, is for communications which are themselves criminal or which counsel a criminal act (e.g. where a lawyer advises a client to conceal evidence). The second exception, which will be analysed in depth later, relates to that information which is not a communication but is rather evidence of an act done by counsel or is a mere statement of fact. This prevents a stifling of the discovery process which would take place if a client could, by merely communicating a fact to his or her lawyer, prevent the discovery of that fact. Similarly, a person is not immune from discovery with regard to certain transactions merely because they were performed by counsel. Both exceptions acknowledge the tension involved in his area of the law, and both accept that justice is better served by lifting the privilege in those cases."
+Justice Linden was discussing solicitor-client privilege as it related to lawyers' statements of account. In referring to acts of counsel, Justice Linden stated at pages 119 to 120:
+"In the case at bar, though the appellant contends that the information which he seeks relates only to acts of counsel and therefore should not be privileged, I am satisfied that the narrative portions of the bills of account are indeed communications. This is not analogous to a situation where a lawyer sells a piece of property for the client or otherwise acts on the client's behalf. The research of a subject or the writing of an opinion or any other matter of that type are directly related to the giving of advice. Despite the fact that the appellant is content to have the specific topic of research remain privileged, those other portions of the bills of account still constitute communications for the purpose of obtaining legal advice. In those circumstances the lawyer is not merely a witness to an objective state of affairs, but is in the process of forming a legal opinion. This is true whether the lawyer is conducting research (either academic or empirical), interviewing witnesses or other third parties, drafting letters or memoranda, or any of the other myriad tasks that a lawyer performs in the course of his or her job. It is true that interviewing a witness is an act of counsel, and that a statement to that effect on a bill of account is a statement of fact, but these are all acts and statements of fact that relate directly to the seeking, formulating or giving of legal advice. And when these facts or acts are communicated to the client they are privileged. This is so whether they are communicated verbally, by written correspondence, or by statement of account."
+[33]
+According to paragraph 35 of the plaintiff's written submissions, he wishes to examine Commissioner Parker in the following areas:
+"Mr. Stevens seeks to examine Commissioner Parker in respect of the acts undertaken by Commission counsel and other factors relating to the Commission proceedings. Such factual information is not protected from disclosure by the privilege which protects solicitor-client communications."
+[34]
+The acts undertaken by Commission counsel are part and parcel of the role that they occupied as counsel to Commissioner Parker. To allow questioning about these acts would be to allow questioning as to what Commissioner Parker requested counsel to do for him. Accordingly, following the jurisprudence of the Federal Court of Appeal in
+Stevens
+, supra, I find that the information sought by the plaintiff is protected by the solicitor-client privilege of Commissioner Parker.
+[35]
+As a final point, I would like to deal with the plaintiff's argument that the subpoena issued for Commissioner Parker should not be quashed because the Federal Court of Appeal has already held that he is a proper and necessary witness at trial.
+[36]
+The plaintiff's argument in this regard is based on obiter statements in
+Stevens v. Parker, J., et al.
+, [1998] 4 F.C. 125; 228 N.R. 133 (F.C.A.), an earlier decision in the course of this litigation. The Attorney General of Canada had brought a motion to strike Commissioner Parker as a party defendant, which was denied by the motions judge (reported at (1997), 128 F.T.R. 194 (T.D.)), but granted on appeal. Stone, J.A., for the Court of Appeal stated at paragraph 22:
+"... It may well be that the evidence of the appellant Parker will be needed at trial but that, by itself, is not a sufficient reason for requiring him to remain as a party defendant."
+Further, at paragraph 24:
+"Moreover, the respondent would be entitled to subpoena the appellant Parker to testify at trial and, for the same purpose, to subpoena other persons who were present at the meeting [held by Commissioner Parker] ..."
+[37]
+The plaintiff's reliance on these statements is mis-founded for a number of reasons. First, the question of whether a subpoena can be issued is separate and distinct from whether such a subpoena can survive a motion to be quashed. Second, the defendant and non-parties' arguments regarding solicitor-client privilege and deliberative secrecy were not before the Court of Appeal for consideration as they are before this Court. In this regard, the comments are merely obiter.
+[38]
+As I read the statements quoted above, the Court of Appeal simply stated that even if a person is not personally named as a defendant, they may (in the proper case) be subpoenaed as a witness. Impliedly, the body of law regarding grounds for quashing a subpoena, such as I have applied in these reasons, still operates. As such, I see no merit in the plaintiff's argument on this point.
+[39]
+Because my findings in relation to deliberative secrecy and solicitor-client privilege decide the outcome of this motion, I will not deal with the issue of estoppel.
+[40]
+The motion of Commissioner Parker is hereby granted and the subpoena issued to Commissioner Parker is hereby quashed.
+[41]
+The Commissioner shall have his costs of the motion.
+[42]
+Issue 2
+Should the subpoenas issued to Scott, Edwardh and Belobaba be quashed?
+Scott, Edwardh and Belobaba have also sought to have the subpoenas issued to them quashed on the basis of deliberative secrecy and solicitor-client privilege. I have not accepted the plaintiff's arguments with respect to Commissioner Parker's claim for solicitor-client privilege. I would repeat my reasons for upholding solicitor-client privilege for Commissioner Parker and apply it to Scott, Edwardh and Belobaba's motion. Accordingly, I find that solicitor-client privilege applies to the testimony sought to be obtained from Commission's counsel.
+[43]
+Accordingly, I would grant the solicitor's motion and the subpoenas issued to David Scott, Q.C., Marlys Edwardh and Edward Belobaba are quashed.
+[44]
+Because my finding with respect to deliberative secrecy and solicitor-client privilege decide the outcome of the motion, I decline to deal with the issue of estoppel.
+[45]
+David Scott, Q.C., Marlys Edwardh and Edward Belobaba will have their costs of the motion.
+Motions allowed.
+Editor: Anick Ouellette-Levesque/klf
+[End of document]

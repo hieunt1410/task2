@@ -1,0 +1,25 @@
+[178]
+Returning now to the issue of whether the usual priority granted to a mortgagee ought to be set aside in the case of ABN-Amro. Counsel for Fraser Shipyard submits that equitable considerations should come into play. This concept was touched upon by Mr. Justice Rouleau in
+Metaxas v. Ship Galaxias
+, [1989] 1 F.C. 386; 19 F.T.R. 308, at 422-423:
+"I am satisfied that equitable considerations can play an important role in the ranking of claims as was evident in the
+Montreal Dry Docks
+case (supra). These cases appear to be founded on the doctrine of unjust enrichment (
+Montreal Dry Docks
+) or laches and acquiescence,
+Can. Steamship Lines v. The 'Rival'
+, [1937] 3 D.L.R. 148 (Ex. Ct.)
+"As Mr. Justice Walsh stated in
+Osborn Refrigeration Sales and Service Inc. v. Ship Atlantean et al.
+, [1979] 2 F.C. 661 (T.D.), at page 686:
+'While fundamental rules as to priorities should not be ignored there is some authority for the proposition that equity should be done to the parties in the circumstances of each particular case.'
+"Counsel for the crew has also provided a British textual reference namely
+British Shipping Laws
+(1980), D.R. Thomas, vol. 14, at page 281 on the same topic:
+'The Court of Admiralty, in harmony with the courts of law and equity, has long recognized the dangers of "stale claims" and therefore insisted that claims be advanced with reasonable expedition. A lienee who sleeps on his claim may well discover the judicial forum to be unsympathetic and unwilling to offer a remedy, particularly if the delay has been coupled with a want of due diligence or proved prejudicial to third parties. Given the nature of a maritime lien it is patently transparent that inactivity on the part of the lienee is capable of working substantial harm on the innocent and unsuspecting. This danger was recognized as early as
+The Bold Buccleugh
+where the Privy Council combined the cautious restraint of the doctrine of laches with their exposition of the newly coined maritime lien. Sir John Jervis observed:
+"It is not necessary to say that the lien is indelible, and may not be lost by negligence or delay, where the rights of third parties may be compromised; but where reasonable diligence is used, and the proceedings are had in good faith, the lien may be enforced into whosesoever possession the thing may come."'"
+The point here is that a maritime lien holder, who is dilatory in enforcement, may lose both the court's sympathy and the favourable ranking accorded a maritime lien. (This passage also deals with unjust enrichment, an aspect I touch upon shortly when considering priorities from the viewpoint of Fraser Shipyard.) Now there is no reason why this concept ought not, in an appropriate instance, apply against a mortgage holder if the mortgage holder in fact stood by, knowing full well that repairs to a ship were being undertaken, repairs for which the owner could not pay and the value of which would fall into the pocket of the mortgagee on a forced sale of the ship. This was the situation in
+The Pickaninny
+, [1960] 1 Lloyd's Rep. 533, a decision of Mr. Justice Hewson.

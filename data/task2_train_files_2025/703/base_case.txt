@@ -1,0 +1,819 @@
+Coldwater Indian Band v. Can. [2016] F.T.R. TBEd. JN.002,
+MLB being edited
+Currently being edited for F.T.R. - judgment temporarily in rough form.
+Coldwater Indian Band and Chief Lee Spahan in his capacity as Chief on behalf of all members of the Coldwater Band (applicants) v. Minister of Indian Affairs and Northern Development and Kinder Morgan Canada Inc. (respondents)
+(T-133-15; 2016 FC 595)
+Indexed As: Coldwater Indian Band et al. v. Canada (Minister of Indian Affairs and Northern Development) et al.
+Temp. Cite: [2016] F.T.R. TBEd. JN.002
+Federal Court
+Heneghan, J.
+May 30, 2016.
+Counsel:
+Matthew Kirchner and Michelle Bradley, for the applicants;
+Maureen Killoran, Q.C. and Thomas Gelbman, for the respondent (Kinder Morgan);
+James Mackenzie and Ronald Lauenstein, for the respondent (Minister of Indian Affairs and Northern Development).
+Solicitors of Record:
+Ratcliff & Company, LLP, Vancouver British Columbia, for the applicant;
+Osler Hoskin & Harcourt, LLP, for the respondent (Kinder Morgan);
+William F. Pentney, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent (Minister of Indian Affairs and Northern Development).
+Summary:
+The headnote and the decision for this document are in preparation. Any footnotes found in this case will appear below end of document.
+I.
+INTRODUCTION
+[1]
+Heneghan, J.
+: The Coldwater Indian Band ("Coldwater") and Chief Lee Spahan (collectively, the "Applicants") seek judicial review pursuant to section 18.1 of the
+Federal Courts Act
+, R.S.C. 1985, c. F-7 (the "Federal Courts Act") of a decision of the Minister of Indian Affairs and Northern Development (the "Minister"). In that decision, dated December 19, 2014, the Minister consented to the assignment to Kinder Morgan Canada Inc. ("Kinder Morgan") of an Indenture dated May 4, 1955 (the "1955 Indenture") by which a pipeline right-of-way through Coldwater Indian Reserve No. 1 (the "Reserve") was granted to Trans Mountain Oil Pipe Line Company ("Trans Mountain"). The Reserve is located approximately 13 km south of Merritt, British Columbia.
+[2]
+The Minister's consent to the assignment of the 1955 Indenture was executed through an Assignment Consent Agreement, which was registered in the Indian Land Registry under the No. 6083518.
+[3]
+On August 3, 1958 another Indenture, granting a pipeline right-of-way through the Reserve (the "1958 Indenture"), was issued to Trans Mountain. That Indenture, registered in the Indian Land Registry under the No. R10906, is not at issue in this proceeding.
+II.
+THE PARTIES
+[4]
+Coldwater is a Band as defined by the
+Indian Act
+, R.S.C. 1985, c. I-5 (the "Act"). Chief Lee Spahan is the elected chief of Coldwater.
+[5]
+The Minister is a Minister of the Crown responsible for the administration of the Act; see section 4(1).
+[6]
+The Minister who made the December 2014 decision was the Honourable Mr. Bernard Valcourt. The Honourable Dr. Carolyn Bennett is currently the Minister.
+[7]
+Kinder Morgan is a body corporate incorporated under the laws of Alberta. Kinder Morgan, through related companies, owns and operates a pipeline between Sherwood Park, Alberta and Burnaby, British Columbia (the "Pipeline"). The Pipeline crosses the Reserve.
+III.
+PROCEDURAL HISTORY
+[8]
+Coldwater and former Chief Harold Aljam filed a judicial review application in March 2013 in cause number T-491-13, seeking declaratory relief, prohibition and an injunction. More specifically, the relief sought in cause T-491-13 was an order prohibiting the Minister from consenting to the assignment of the 1955 Indenture and the 1958 Indenture (collectively, the "Indentures"), together with a declaration that the Minister was legally bound to follow Coldwater's instructions about the assignment of the Indentures.
+[9]
+The 2013 application for judicial review was initially granted, in part, by a judgment recorded as
+Coldwater Indian Band v. Canada (Indian Affairs and Northern Development)
+(2013), 442 F.T.R. 136. However, upon appeal the application was dismissed by the Federal Court of Appeal on the basis that that the application was premature; see the decision in
+Coldwater Indian Band v. Canada (Indian Affairs and Northern Development)
+(2014), 466 N.R. 145.
+[10]
+Since the Federal Court of Appeal set aside the decision of the Federal Court in cause T-491-13, and in light of the different facts and arguments presented in the present proceeding, I have not taken into account the Federal Court's disposition in T-491-13.
+[11]
+The Applicants commenced the present proceeding on January 27, 2015.
+[12]
+Prothonotary Lafrenière issued an Order dated April 28, 2015, that the Robert Love Affidavit, sworn March 27, 2015 be treated as confidential and filed on a confidential basis. By Order dated June 1, 2015, Prothonotary Lafrenière ordered that the transcript of the cross-examination on the affidavit of Chief Spahan also be treated as confidential.
+[13]
+On November 4, 2015, Prothonotary Lafrenière granted Kinder Morgan leave to file a motion pursuant to Rules 81 and 369 of the
+Federal Courts Rules
+, SOR/98-106 (the "Rules") to strike out certain paragraphs of the affidavits of Chief Spahan and Mr. Harold Aljam filed on behalf of the Applicants. This motion was heard during the hearing of the proceeding.
+IV.
+EVIDENCE
+[14]
+In support of this application, the Applicants filed the affidavit of Chief Spahan, sworn February 25, 2015; the affidavit of Mr. Harold Aljam, sworn February 26, 2015, former Chief of Coldwater; and the affidavit of Chelsea Craighead, sworn March 26, 2015, paralegal for the Applicants' Counsel.
+[15]
+Chief Spahan's affidavit provided background information about Coldwater, the Reserve and the history of the right-of-ways and Indentures. His affidavit also described Kinder Morgan's proposed expansion for the Pipeline and his concerns over the failure of the Minister to require Kinder Morgan to modernize the Indentures.
+[16]
+Mr. Aljam's affidavit detailed consultation which took place between himself and representatives of the Minister and Kinder Morgan. These discussions were related both to an attempt to modernize the Indentures and the request to consent to the assignment of the Indentures.
+[17]
+Ms. Craighead's affidavit was filed for the purpose of attaching as an exhibit correspondence dated July 16, 2015 between Mr. Kuldip Gill and Counsel for Kinder Morgan.
+[18]
+In response, the Minister filed the affidavit of Mr. Kuldip Gill, sworn March 27, 2015, Lands Management and Leasing Officer for the Department of Indian Affairs and Northern Development ("IAND"). He also filed the transcript of the cross-examination of Chief Spahan on his affidavit conducted on April 14, 2015 and the transcript of the cross-examination of Mr. Aljam on his affidavit conducted on April 16, 2015.
+[19]
+Mr. Gill addressed the history of the creation of the Indentures, the communications between IAND and Coldwater, and the Indenture Modernization Process. He also gave evidence about the prior litigation in the Federal Court.
+[20]
+Kinder Morgan filed the affidavit of Mr. Robert Love, sworn March 27, 2015, Manager, Land and Rights-of-way for Kinder Morgan; the confidential affidavit of Mr. Love, also sworn March 27, 2015; and the confidential transcript of the cross-examination of Chief Spahan conducted on April 14, 2015.
+[21]
+In his affidavit, Mr. Love provided a detailed account of the creation of the Indentures, the restructurings of Trans Mountain between 1958 and 2007, the Indenture Modernization Process, and Kinder Morgan's engagement efforts with Coldwater. Exhibits to Mr. Love's confidential affidavit include the Asset Transfer Agreement between Terasen Inc. and Trans Mountain Pipeline ULC, and the Protocol and Capacity Agreement between Kinder Morgan, Trans Mountain Pipeline L.P. and Coldwater.
+V.
+FACTS
+[22]
+The following facts are taken from the evidence. That evidence consists of the affidavits, including the exhibits, filed by the parties, the transcripts of the cross-examinations
+,
+as well as the Tribunal Record.
+[23]
+Trans Mountain began to construct the Pipeline in 1952.
+[24]
+In April 1952, Canadian Bechtel Ltd. applied on behalf of Trans Mountain to the Department of Indian Affairs for a 60 foot wide right-of-way through the Reserve. Trans Mountain offered compensation of $1.00 per lineal rod of the right-of-way and promised payment at the time "easements granting said right of way are executed."
+[25]
+By Band Council Resolution dated April 22, 1952, Coldwater resolved that the right-of-way be granted to Trans Mountain on the terms set out in the application.
+[26]
+By Order-in-Council dated March 19, 1953, the Governor-in-Council authorized the granting of an easement on the Reserve pursuant to section 35 of the
+Indian Act
+, R.S.C. 1952, c. 149, (the "1952 Act") for "pipe line purposes for so long as same are required for that purpose upon such terms, conditions, and provisions as the Minister of Citizenship and Immigration may deem necessary and advisable." The Minister of Citizenship and Immigration was the minister responsible for the Department of Indian Affairs at the time.
+[27]
+In the fall of 1953 Trans Mountain paid the Department of Indian Affairs $1292.00 for the acquisition of the right-of-way through the Reserve, and $1125.09 as compensation for Coldwater's damages and loss of timber.
+[28]
+By the 1955 Indenture Her Majesty the Queen in Right of Canada granted a right-of-way in the Reserve to Trans Mountain. The offer of $1.00 per lineal rod was accepted, and additional compensation was paid for removal of timber and impacts on residents. The 1955 Indenture was registered in the Indian Lands Registry under No. R10848.
+[29]
+Clause 2 of the 1955 Indenture is relevant to this proceeding and provides as follows:
+2. That the Grantee shall not assign the right hereby granted without written consent of the Minister.
+[30]
+In May 1958, Trans Mountain made a second application for a right-of-way through the Reserve to allow a looping line.
+[31]
+By Order in Council P.C. 1958-611, the Governor General in Council consented to the grant of a second easement in May 1958. This easement was formalized by the 1958 Indenture on the same terms as the 1955 Indenture.
+[32]
+The parties amended the 1955 Indenture in 1970 by deleting an area and relocating the right-of-way. A second amendment was made in 1975 by further deletion of part of the right-of-way and the addition of an area of 0.17 acre to the right-of-way. Both these amendments affected portions of the right-of-way on the Reserve.
+A.
+Corporate History
+[33]
+Between 1955 and 2007, Trans Mountain underwent a series of name changes, amalgamations, and continuations. The Minister's consent was not sought in relation to any of these changes.
+[34]
+On November 11, 1994, the shares of Trans Mountain Pipe Line Company Ltd., a successor of Trans Mountain, were purchased by BC Gas Inc. On December 31, 2002, Trans Mountain Pipe Line Company Ltd. changed its name to Terasen Pipelines (Trans Mountain) Inc.
+[35]
+In April 2003, BC Gas Inc. changed its name to Terasen Inc. On December 1, 2005, Terasen Inc, parent company of Terasen Pipelines (Trans Mountain) Inc., was acquired by Kinder Morgan Inc. through its Canadian subsidiary, 0731297 B.C. Ltd.
+[36]
+As of January 2007, Terasen Pipelines (Trans Mountain) Inc. owned the Pipeline. Terasen Pipelines (Trans Mountain) Inc. was a subsidiary of Terasen Inc., which in turn was owned by the US-based Kinder Morgan and its Canadian subsidiary, 0731297 B.C. Ltd.
+[37]
+On February 15, 2007, 0731297 B.C. Ltd. was continued as 4371330 Canada Inc. The following day, Terasen Pipelines (Trans Mountain) Inc. amalgamated with 4371330 Canada Inc. and Terasen Inc., both of which were subsidiaries of Kinder Morgan, and continued under the name Terasen Inc. Terasen Inc. became the owner and operator of the Pipeline.
+[38]
+On April 30, 2007, the Pipeline was transferred to Trans Mountain Pipeline ULC, a subsidiary of Terasen Inc., through an Asset Transfer Agreement. The same day, the Pipeline was transferred to Trans Mountain Pipeline L.P. through a partnership contribution agreement. Trans Mountain Pipeline L.P. was a subsidiary of Trans Mountain Pipeline ULC.
+[39]
+On May 1, 2007 Trans Mountain Pipeline ULC amalgamated with KMEP Canada ULC and continued under the name KMEP Canada ULC. KMEP Canada ULC is a Canadian subsidiary of Kinder Morgan Energy Partners. These transactions were part of a larger transaction by which Fortis Inc. purchased Terasen Inc.'s natural gas assets
+,
+excluding the Pipeline, through an acquisition agreement.
+[40]
+Both the National Energy Board ("N.E.B.") and the Governor-in-Council approved the 2007 corporate transactions. Those approvals were acknowledged by the transfers of Certificates of Public Convenience and Necessity, as required by sections 21(2), 21.1(1) and 30 of the
+National Energy Board Act
+, R.S.C. 1985, c. N-7.
+B.
+Request and Consultation
+[41]
+By letter dated April 25, 2012, Coldwater wrote to the Minister expressing its concerns that Kinder Morgan would be seeking his consent to an assignment of the Indentures. Mr. Gill met with Mr. Aljam and Counsel for Coldwater on May 17, 2012. However, Mr. Aljam and Mr. Gill decided that the meeting was premature as no formal request for consent to the assignment of the Indentures had been made.
+[42]
+On June 12, 2012, the Minister received a request by letter from Kinder Morgan, Fortis and FortisBC seeking his consent to the assignment of the Indentures.
+[43]
+On July 16, 2012, a representative of IAND informed the Applicants of the request. IAND also provided the Applicants with the opportunity to present information relating to Kinder Morgan's legal capacity, corporate record, operational record, financial capacity and overall capacity to fulfill the terms of the Indentures.
+[44]
+Between November 14, 2012 and December 3, 2014, IAND and Coldwater exchanged correspondence. IAND invited Coldwater to provide submissions and information about the June 2012 request.
+[45]
+By letter dated February 20, 2013, Coldwater informed IAND that it had determined the assignment was not in its best interests and "instructed" the Minister to withhold his consent.
+[46]
+Beginning in January 2014, IAND, Kinder Morgan and representatives of several First Nations, including the Applicants, discussed an Indenture Modernization Process. The purpose of the process was to improve the terms of the Indentures to better "delineate the roles and responsibilities of the parties under the Indentures". However, new legal rights would not be created nor existing rights diminished through the modernization process.
+[47]
+The Applicants withdrew from the Indenture Modernization Process citing Canada's failure to consider its recommendations about this process, as the reason. One of Coldwater's recommendations, set out in a letter dated May 30, 2014, was that the process provide for new consideration because "the consideration received by each First Nation for the lands in the 1950s was wholly inadequate ...". The remaining First Nations approved an Indenture Modernization Agreement in June 2014.
+[48]
+Kinder Morgan consulted with Coldwater beginning in July 2010 to address its concerns regarding the Pipeline. The Applicants expressed concerns about the safety of the Pipeline, specifically, drinking water contamination, risks of spills, and irrigation problems. Kinder Morgan asserts that all these issues have been adequately addressed.
+[49]
+In 2013, Kinder Morgan applied to the N.E.B. for a Certificate of Public Convenience and Necessity as well as related approvals to build and operate the proposed expansion of the Pipeline. The proposed expansion would increase the Pipeline's capacity approximately threefold. The N.E.B. regulatory process is distinct from the Minister's decision to approve the assignment of the 1955 Indenture. However, concerns over the proposed Pipeline expansion were central to Coldwater's opposition to the Minister's consent to the assignment of the 1955 Indenture.
+[50]
+During the course of consultations, Coldwater stated Kinder Morgan was trespassing on Band lands, and demanded a fee for a "unauthorized use of reserve lands". The Applicants threatened to deny Kinder Morgan entry to the Reserve if the fee was not paid. Coldwater also stated it would take all actions necessary to stop unauthorized operation of the Pipeline.
+[51]
+Due to the threats against the operation of the Pipeline, the RCMP was dispatched to the Reserve at the request of Kinder Morgan. This event is referenced in a letter dated August 1, 2012 from Coldwater to Kinder Morgan, where Coldwater wrote "We authorized our lawyer to invite you to meet with us to consider an interim permit upon payment of $20,000. Instead, you sent the RCMP onto our Reserve."
+[52]
+Efforts to address concerns about the existence and operation of the Pipeline culminated in a Protocol and Capacity Agreement (the "Protocol Agreement") dated October 1, 2014 executed by Kinder Morgan and Coldwater. The Protocol Agreement established a process, including funding, to address Legacy Issues and Operational Issues. Kinder Morgan says that it made substantial payments to Coldwater to resolve the Legacy Issues. The payment amounts were redacted from the Protocol Agreement attached as an exhibit to the Confidential Love affidavit.
+[53]
+The Protocol Agreement defined Legacy Issues as,
+all issues relating to the legal entitlement of the Trans Mountain Pipeline System to be located on the Reserve, including in respect of KMC's rights under the Indenture, the Indenture generally, and any inconvenience, costs and damages related to settling all issues related thereto.
+[54]
+The Protocol Agreement defined Operational Issues as "any issues relating to the current operations of the Trans Mountain Pipeline System on, under or upon the Reserve, including access roads on the Reserve."
+[55]
+Kinder Morgan also agreed to provide funding to conduct a Traditional Land Use and Traditional Knowledge Study for on and off reserve territory, and compensation for Past Use.
+[56]
+As part of the Protocol Agreement, Coldwater agreed to refrain from taking any action to challenge the Indentures for the term of the Agreement. The Protocol Agreement was not disclosed to the Minister until cross-examination of the Applicants' affiants on their affidavits.
+[57]
+Coldwater Band Council, by Resolution dated August 3, 2015, directed Kinder Morgan to remove the Pipeline as soon as practicable and fixed a fee of $30,000 per month for unauthorized use.
+[58]
+The Coldwater Band Council receives annual property tax from Kinder Morgan, in excess of $100,000 a year.
+C.
+Decision Under Review
+[59]
+On December 19, 2014, the Minister consented to the assignment of the 1955 Indenture without conditions. He deferred his decision on the 1958 Indenture, pending further information to be provided by Kinder Morgan. The Minister, by his delegate, executed the Assignment Consent Agreement on December 19, 2014.
+[60]
+Coldwater was informed of the Minister's decision by letter dated December 29, 2014. According to that letter, the consent was given on the basis that Kinder Morgan had demonstrated the "legal capacity, corporate track record, operational track record, financial capacity and overall capacity to fulfill the terms of the easement".
+VI.
+ISSUES
+[61]
+This application for judicial review raises a number of issues, beginning with the motion filed by Kinder Morgan pursuant to Rules 81 and 369 of the Rules to strike out certain paragraphs of the affidavits of Chief Spahan and Mr. Aljam.
+[62]
+The next issue is the applicable standard of review.
+[63]
+The third issue is the content of the fiduciary duty owed by the Minister when consenting to an assignment of the 1955 Indenture and whether he discharged that duty.
+[64]
+The fourth issue is whether the Minister breached procedural fairness by failing to provide Coldwater with all the material before him in making his decision.
+[65]
+The fifth issue concerns the effect of the failure of Kinder Morgan to obtain the Minister's consent in 2007 upon the continued legality of the 1955 Indenture.
+[66]
+Finally, if the application for judicial review is granted, should the relief sought by the Applicants should be granted.
+VII.
+PRELIMINARY MATTER
+A.
+Kinder Morgan's Motion to Strike
+(1) Kinder Morgan's Submissions
+[67]
+Kinder Morgan seeks an order pursuant to Rules 81 and 369 of the Rules striking out paragraphs 9, 15, 16, 27, 32 to 42 and 44 to 46 of the affidavit of Chief Spahan and paragraphs 12 to 15 of the affidavit of Mr. Aljam. In the alternative, Kinder Morgan asks that the paragraphs be given no weight.
+[68]
+Kinder Morgan submits paragraphs 9, 37, 44, and 46 of the Spahan affidavit contain legal argument about the legality of its ownership of the Pipeline and the Minister's obligations as a fiduciary.
+[69]
+Kinder Morgan argues that paragraph 15 of the Spahan affidavit contains speculation and information beyond the personal knowledge of the affiant.
+[70]
+Kinder Morgan submits that paragraph 16 of the Spahan affidavit contains improper evidence that is irrelevant and speculative. Similarly, it argues that paragraphs 32 to 36, 41, and 44 to 45 are irrelevant as they concern the proposed expansion of the Pipeline which is not at issue in this proceeding.
+[71]
+Kinder Morgan argues paragraphs 38 to 42 are hearsay evidence. It submits that these paragraphs are contradicted by other evidence. These paragraphs address harm caused to the Reserve by the Pipeline in the past.
+[72]
+With respect to the Aljam affidavit, Kinder Morgan submits that the impugned paragraphs ought to be struck as they contain legal argument and opinion evidence.
+(2) The Applicants' Submissions
+[73]
+The Applicants submit that the Court should cautiously exercise its discretion to strike parts of an affidavit in judicial review proceedings; see the decisions in
+Z.(Y.) v. Canada (Minister of Citizenship and Immigration)
+(2015), 387 D.L.R. (4th) 676 (F.C.) at para. 91 and
+Armstrong v. Canada (Attorney General)
+, 2005 FC 1013 at para 40.
+[74]
+The Applicants argue that paragraphs 9, 15, 37 and 45 to 46 of Chief Spahan's affidavit contain relevant facts within the affiant's knowledge. They also submit that Kinder Morgan has not identified any prejudice it would suffer if these paragraphs are considered.
+[75]
+The Applicants further argue that paragraphs 9, 15, 37, and 45 to 47 of the Spahan affidavit contain facts, not legal argument, as asserted by Kinder Morgan. They submit paragraphs 32 to 36, 41, and 44 to 45, which address the proposed expansion of the Pipeline, are relevant to the determination of whether the Minister discharged his fiduciary duty.
+[76]
+The Applicants argue that paragraphs 38 to 42 of the Spahan Affidavit describe concerns with the Pipeline and were within the affiant's knowledge. To the extent that Kinder Morgan argues these facts are contradicted by other evidence, the Applicants say that argument goes to the weight to be placed on the evidence, not its admissibility.
+[77]
+In response to the objections about Mr. Aljam's affidavit, the Applicants submit that paragraphs 12 to 15 contain a summary of correspondence between them and the Department of Justice, and do not constitute impermissible legal argument.
+[78]
+In response to the motion as a whole, the Applicants argue that Kinder Morgan had the opportunity to cross-examine Chief Spahan on these issues but elected not to do so.
+(3) The Minister's Submissions
+[79]
+The Minister neither consented to nor opposed the motion.
+VIII.
+SUBMISSIONS
+A.
+The Applicants' Submissions
+(1) The Applicable Standard of Review
+[80]
+The Applicants submit that in consenting to the assignment contrary to his fiduciary obligations, the Minister was acting unlawfully and
+ultra vires
+. They argue, accordingly, that the standard of review is not in issue, relying on the decisions in
+Tzeachten First Nation v. Canada (Attorney General)
+(2007), 281 D.L.R. (4th) 752 (B.C.C.A.), and
+Inuit Tapirisat of Canada et al. v. Canada (Attorney General)
+, [1980] 2 S.C.R. 735.
+[81]
+In oral submissions, the Applicants relied upon the decision in
+White Bear First Nations v. Canada (Minister of Indian Affairs and Northern Development)et al.
+(2012), 434 N.R. 185 (F.C.A.) at para. 16, to submit that the extent of the Minister's obligations as a fiduciary is a question of law reviewable on the standard of correctness.
+(2) What is the content of the fiduciary duty owed by the Minister in administering the terms of a section 35 grant?
+[82]
+The Applicants submit that a fiduciary duty arises where the Crown has discretionary control over a specific band interest. The extent of the Minister's fiduciary duty is informed by the importance of the interest in Reserve land to Coldwater.
+[83]
+The Applicants argue that in consenting to the assignment the Minister was not exercising "ordinary government powers" but powers arising out of the 1955 Indenture. As such the power must be exercised in accordance with his fiduciary duty to Coldwater; see the decision in
+Wewaykum Indian Band v. Canada
+, [2002] 4 S.C.R. 245 at paras. 98-104.
+[84]
+According to the Applicants, the Minister is under a continuing obligation to act in Coldwater's best interests regarding transactions under the 1955 Indenture. This obligation endures for the life of the 1955 Indenture. The Applicants here rely upon the decisions in
+Osoyoos Indian Band v. Oliver (Town)
+, [2001] 3 S.C.R. 746 and
+Semiahmoo Indian Band v. Canada
+(1998), 148 D.L.R. (4th) 523 (F.C.A.).
+[85]
+The Applicants submit that
+Osoyoos
+,
+supra
+provides guidance as to how reconcile the Crown's use of band land in the public interest and the Crown's fiduciary duty in the context of an expropriation under section 35 of the Act. The process requires first, that the Crown determine whether use of the land is in the public interest, and if it is, then the Minister has a fiduciary duty to ensure a minimal impairment of the use and enjoyment of Indian land.
+[86]
+The Applicants argue that the Minister's fiduciary duty obliged him to refuse to consent to the assignment unless he was satisfied the assignment was in the best interests of Coldwater, including ongoing compensation for Coldwater.
+[87]
+In the alternative, the Applicants submit that the Minister was required to abide by the informed direction of Coldwater. They argue fiduciaries are generally required to adhere to beneficiaries' instructions.
+[88]
+The Applicants refer to the
+First Nations Land Management Act
+, S.C. 1999, c. 24 ("FNLMA"), a statute that allows First Nations to exert control over reserve lands through the adoption of a Land Code.
+[89]
+Coldwater has not adopted a Land Code. However, two other First Nations, which are subject to the Indentures, did adopt a Land Code. According to the Applicants, in those cases, the bands have the authority to consent to an assignment of the 1955 Indenture.
+[90]
+The Applicants submit that this power to consent shows that the purpose of the requirement in the 1955 Indenture, for ministerial consent to an assignment of that Indenture, is for the benefit of First Nations.
+(3) Did the Minister Discharge His Fiduciary Duty?
+[91]
+The Applicants submit the Minister breached his fiduciary duty in consenting to the assignment. They argue the terms of the 1955 Indenture are highly unfavourable to Coldwater because the 1955 Indenture does not provide adequate protections or compensation. They submit that the compensation given to Coldwater in 1952 is plainly inadequate.
+[92]
+The Applicants submit that the Minister's fiduciary duty obliged him to take the opportunity to renegotiate the terms of the 1955 Indenture in Coldwater's best interests, specifically the compensation paid to Coldwater; see the decision in
+Semiahmoo
+,
+supra
+at page 543. In that case, the Federal Court of Appeal held that the Crown was required to correct an error which had resulted in an unconditional surrender of band land.
+[93]
+The Applicants repeatedly characterized the 1955 Indenture as a contract and argue that transactions involving indentures are subject to ordinary principles of contract law.
+[94]
+In response to the Minister's submissions that he is bound to negotiate in good faith, they argue that requiring fresh consideration before an assignment is "perfectly acceptable" in the commercial world.
+[95]
+The Applicants contend that renegotiation of the 1955 Indenture would not breach the contractual duty of good faith owed by the Minister to Kinder Morgan.
+[96]
+They further submit that Kinder Morgan is a stranger to the contract, that is the 1955 Indenture. In these circumstances, it was reasonable for the Minister to require Kinder Morgan to negotiate new terms with Coldwater as a pre-condition for consent to the assignment of the 1955 Indenture.
+[97]
+According to the Applicants, Coldwater's interests could only be met by modernization of the 1955 Indenture. The Applicants argue that the Minister should have withheld his consent until better terms were agreed to. By failing to renegotiate the 1955 Indenture, the Minister failed to meet his fiduciary duty.
+[98]
+The Applicants argue that the fact that a project may be necessary for the public interest does not diminish the Minister's obligations as a fiduciary; see the decision in
+Wewaykum
+,
+supra
+at para. 104 and
+Osoyoos
+,
+supra
+at paras. 52-55. They also argue that requiring a modernized indenture would not diminish the public interest in the Pipeline.
+[99]
+The Applicants submit that the Minister was not bound by the Indenture Modernization Process. He had the discretion to require updated terms that would minimally impair Coldwater's interest.
+[100]
+In the alternative, the Applicants submit the Minister's fiduciary obligations required him to abide by Coldwater's informed direction. Fiduciaries are generally required to fully disclose all material facts and adhere to the beneficiaries' instructions. The Applicants argue that in failing to follow Coldwater's instructions, the Minister breached his fiduciary duty.
+[101]
+The Applicants argue that the purpose of the consent requirement was to prevent exploitation; see the decision in
+Blueberry River Indian Band v. Canada (Department of Indian Affairs and Northern Development)
+, [1995] 4 S.C.R. 344 at para 35. In that case, the Supreme Court found that the Crown's use of the consent clause was limited to refusing consent where surrender would amount to an exploitative bargain. The Applicants submit that the requirement in that case is analogous to the requirement in the 1955 Indenture for ministerial consent to an assignment of that Indenture.
+(4) Did the Minister breach procedural fairness by failing to provide Coldwater with all the materials before him?
+[102]
+The Applicants submit that the Minister's failure to disclose an internal memorandum from IAND staff, recommending that he consent to the assignment of the 1955 Indenture, amounted to a breach of procedural fairness.
+[103]
+The principle of
+audi alteram partem
+requires that decision makers provide adequate opportunities to know and respond to the case to be met. Furthermore, a fiduciary is required to disclose all material facts to his beneficiary.
+[104]
+The Applicants argue that they are entitled to a high degree of procedural fairness since the decision affected property interests, that is the easement; the property interest at stake is in reserve land; the decision engaged the honour of the Crown; and Coldwater had a legitimate expectation of a continuing high degree of participation; see the decision in
+Baker v. Canada (Minister of Citizenship and Immigration)
+, [1999] 2 S.C.R. 817.
+[105]
+The Applicants argue the Minister should have provided all the materials on which his decision was based, thereby allowing Coldwater to comment on them before the decision was made.
+(5) Is the 1955 Indenture void because Kinder Morgan failed to obtain the Minister's consent in 2007 and the easement is not needed for pipeline purposes?
+[106]
+Contrary to the express terms of the 1955 Indenture, the Minister's consent was not sought until June 2012. The Applicants submit that, as a result, the 2007 assignment was legally ineffective.
+[107]
+The Applicants submit that, since April 30, 2007, Terasen Inc., the owner of the 1955 Indenture, has not operated the Pipeline. Accordingly, they contend that the easement is not needed for "pipeline purposes" and as such, the easement is void.
+[108]
+In oral submissions, the Applicants said they are not challenging the validity of the 1955 Indenture. They submit that, while Kinder Morgan did not have legal entitlement to the easement, the 1955 Indenture itself is valid.
+(6) If this Application is granted, what is the appropriate remedy?
+[109]
+The Applicants seek a declaration that the Minister has an obligation to act in Coldwater's best interests in exercising his authority to grant or refuse to consent to the assignment of the 1955 Indenture; a declaration that the Minister had a legal obligation, which he failed to fulfill, to consult and accommodate Coldwater's interest in respect of the assignment of the 1955 Indenture; and a declaration that the Minister's consent to the assignment of the 1955 Indenture is unlawful.
+[110]
+In the alternative, the Applicants seek a declaration that the Minister had an obligation to seek and follow Coldwater's instructions and that the Minister's consent to the assignment of the 1955 Indenture is unlawful as it is contrary to his obligation to act in accordance with Coldwater's instructions. They also seek a declaration that the Minister had a legal obligation to share with Coldwater all the information available for his consideration in respect of the assignment of the 1955 Indenture and that the Minister failed to fulfill that obligation.
+[111]
+In their Memorandum of Fact and Law, the Applicants also requested an order quashing or setting aside the Minister's decision to consent to the assignment of the 1955 Indenture.
+B.
+Kinder Morgan's Submissions
+(1) The Applicable Standard of Review
+[112]
+Kinder Morgan submits that the question of whether a fiduciary duty exists at law is reviewable on a correctness standard; see the decision in
+Nunavut Tunngavik Incorporated v. Canada (Attorney General)
+, [2014] 3 C.N.L.R. 193 at paras. 24-26 (N.U.C.A.). The question of whether the fiduciary duty was discharged in these circumstances is heavily informed by the facts. This issue should be reviewed on a standard of reasonableness; see the decision in
+Brokenhead Ojibway Nation et al. v. Canada (Attorney General) et al.
+(2009), 345 F.T.R. 119 (F.C.) at para. 17.
+[113]
+Kinder Morgan argues that the standard of review for breach of procedural fairness is correctness; see
+FRAGMENT_SUPPRESSED.
+(2) What is the content of the fiduciary duty owed by the Minister in administering the terms of a section 35 grant?
+[114]
+Kinder Morgan concedes that the Minister owes Coldwater a fiduciary duty. However, it submits that in exercising that duty the Minister must balance the Crown's obligations to the public purpose of the initial expropriation and her fiduciary duty to ensure minimal impairment of the enjoyment and use of the Reserve.
+[115]
+Kinder Morgan argues that the Applicants have fundamentally mischaracterised the fiduciary duty owed in the present circumstances through reliance upon jurisprudence dealing with section 37 of the Act, the surrender provision.
+[116]
+Under section 35 of the 1952 Act, expropriation was effected through a combination of the 1952 Act and other statutes which ordinarily authorize the taking of land, in this case section 28 of the
+Pipe Lines Act
+, R.S.C. 1952, c. 211 (the "Pipe Lines Act").
+[117]
+Section 35 of the 1952 Act provided as follows:
+35 (1) Where by an Act of Parliament or a provincial legislature Her Majesty in right of a province, a municipal or local authority or a corporation is empowered to take or to use lands or any interest therein without the consent of the owner, the power may, with the consent of the Governor in Council and subject to any terms that may be prescribed by the Governor in Council, be exercised in relation to lands in a reserve or any interest therein.
+(2) Unless the Governor in Council otherwise directs, all matters relating to compulsory taking or using of lands in a reserve under subsection (1) are governed by the statute by which the powers are conferred.
+(3) Whenever the Governor in Council has consented to the exercise by a province, authority or a corporation of the powers referred to in subsection (1), the Governor in Council may, in lieu of the province, authority or corporation taking or using the lands without the consent of the owner, authorize a transfer or grant of the lands to the province, authority or corporation, subject to any terms that may be prescribed by the Governor in Council.
+(4) Any amount that is agreed on or awarded in respect of the compulsory taking or using of land under this section or that is paid for a transfer or grant of land pursuant to this section shall be paid to the Receiver General for the use and benefit of the band or for the use and benefit of any Indian who is entitled to compensation or payment as a result of the exercise of the powers referred to in subsection (1).
+35 (1) Lorsque, par une loi fédérale ou provinciale, Sa Majesté du chef d'une province, une autorité municipale ou locale, ou une personne morale, a le pouvoir de prendre ou d'utiliser des terres ou tout droit sur celles-ci sans le consentement du propriétaire, ce pouvoir peut, avec le consentement du gouverneur en conseil et aux conditions qu'il peut prescrire, être exercé relativement aux terres dans une réserve ou à tout droit sur celles-ci.
+(2) À moins que le gouverneur en conseil n'en ordonne autrement, toutes les questions concernant la prise ou l'utilisation obligatoire de terres dans une réserve, aux termes du paragraphe (1), doivent être régies par la loi qui confère les pouvoirs.
+(3) Lorsque le gouverneur en conseil a consenti à l'exercice des pouvoirs mentionnés au paragraphe (1) par une province, une autorité ou une personne morale, il peut, au lieu que la province, l'autorité ou la personne morale prenne ou utilise les terres sans le consentement du propriétaire, permettre un transfert ou octroi de ces terres à la province, autorité ou personne morale, sous réserve des conditions qu'il fixe.
+(4) Tout montant dont il est convenu ou qui est accordé à l'égard de la prise ou de l'utilisation obligatoire de terrains sous le régime du présent article ou qui est payé pour un transfert ou octroi de terre selon le présent article, doit être versé au receveur général à l'usage et au profit de la bande ou à l'usage et au profit de tout Indien qui a droit à l'indemnité ou au paiement du fait de l'exercice des pouvoirs mentionnés au paragraphe (1).
+[118]
+Kinder Morgan submits the approach used in a section 35 expropriation should apply to an assignment of an interest arising from a section 35 expropriation. It argues that Supreme Court has set out a two-step process for the fiduciary duty arising out of a section 35 expropriation. The Crown must determine the expropriation is in the public interest, having found so, the Crown then must expropriate only the minimum interest required to fulfill that public interest; see
+Osoyoos
+,
+supra
+at paras. 52-53.
+[119]
+Kinder Morgan argues that Coldwater is presently seeking a higher duty than was owed to it in respect of the original expropriations. It submits that the content of the duty owed to the Applicants is determined on a sliding scale, by reference to the facts.
+[120]
+According to Kinder Morgan, the consent requirement exists to allow the Minister to ensure that the prospective assignee can continue to serve the public purpose for which the 1955 Indenture was granted.
+[121]
+Kinder Morgan argues that the assignment of the 1955 Indenture does not affect Coldwater's use and enjoyment of the Reserve. It submits that because there is no impairment to protect against there is no substance to the duty owed to Coldwater.
+[122]
+Kinder Morgan also submits that the content of the duty owed is reduced by the fact that Coldwater has negotiated its own deal with Kinder Morgan. Vulnerability is the hallmark of the fiduciary relationship, but Coldwater has demonstrated it is not vulnerable through the negotiation of the Protocol Agreement.
+[123]
+Finally, Kinder Morgan submits the Applicants' reliance on FNLMA is misplaced. That statute does not apply to Coldwater. Furthermore, the FNLMA sets out that powers conferred under the statute are not intended to be used to frustrate the public purpose of a prior expropriation of an interest in reserve land; see FNLMA,
+supra
+, sections 4, 6-16, 28(2), and 32(1).
+(3) Did the Minister discharge his fiduciary duty?
+[124]
+Kinder Morgan argues that there is nothing in the jurisprudence, the 1952 Act or the 1955 Indenture to support the Applicants' argument that the Crown was obliged to follow Coldwater's directions.
+[125]
+Kinder Morgan submits that the Minister met his obligations by considering the capacity of Kinder Morgan to continue to serve the public interest. The original expropriation was for pipeline purposes, and there is nothing to suggest that the easement granted by the 1955 Indenture is not needed for the Pipeline. The continued use of the Pipeline for public convenience and necessity is affirmed by the N.E.B. Certificates of Public Convenience and Necessity.
+[126]
+Kinder Morgan argues that the Minister reasonably determined that Coldwater's interests would not be impaired by consenting to the assignment of the 1955 Indenture. The duty to minimally impair its use and enjoyment of the reserve land was met.
+[127]
+It also submits that reopening the 1955 Indenture would cause harm to the public interest as it would create instability in the commercial relations between the Government of Canada and builders of pipelines.
+[128]
+Kinder Morgan also argues that there is no evidence that the compensation offered in 1952 was unfair or inadequate. Merely providing amount in 2014 dollars is insufficient.
+[129]
+Finally, Kinder Morgan submits that, contrary to the submissions of the Applicants, it is not a stranger to the 1955 Indenture because it acquired Terasen Inc. in 2005.
+(4) Did the Minister breach procedural fairness by failing to provide Coldwater with all the materials before him?
+[130]
+Kinder Morgan submits there was no breach of procedural fairness, on the basis that the recommendation contained no information that was unknown to Coldwater.
+[131]
+Kinder Morgan further argues that adequate disclosure was made, taking into account the nature of the decision, the source of the Minister's decision making authority, the selected decision making process, the interests at stake and the legitimate expectations of the parties.
+[132]
+Complete disclosure was not owed since the Minister was balancing competing interests; see
+Baker
+,
+supra
+at para. 23. Kinder Morgan also submits that the Minister, in accepting the recommendation, was acting in an administrative capacity. The process undertaken by the Minister allowed the Applicants to receive extensive information and make submissions.
+[133]
+Kinder Morgan submits that Coldwater was not entitled to review the final recommendation of the IAND staff and in any event, the failure to review the recommendation had no substantive impact.
+(5) Is the 1955 Indenture void because Kinder Morgan failed to obtain the Minister's consent in 2007 and the easement is not needed for pipeline purposes?
+[134]
+Kinder Morgan argues that the 1955 Indenture is not void for failure to receive consent prior to December 2014. Pursuant to the Acquisition Agreement and Asset Transfer Agreement between Terasen Inc. and Kinder Morgan, the 1955 Indenture was held in trust by the assignor, Terasen Inc. Articles 8.1(a) and (b) of the Asset Transfer Agreement set out that Terasen Inc. holds title to the 1955 Indenture in trust until Terasen Inc. provides an assignment, novation agreement and other conveyance necessary to transfer title.
+[135]
+In the alternative, should this Court determine that no express trust exists, Kinder Morgan argues that Terasen Inc. holds the 1955 Indenture in a constructive trust.
+(6) If this Application is granted, what is the appropriate remedy?
+[136]
+Kinder Morgan did not make written or oral submissions on this issue.
+C.
+The Minister's Submissions
+(1) The Applicable Standard of Review
+[137]
+The Minister submits the decision is entitled to deference and must be reviewed on a reasonableness standard; see the decision in
+Halifax (Regional Municipality) v. Canada (Public Works and Government Services)
+, [2012] 2 S.C.R. 108 at paras. 37, 43, and 44.
+(2) What is the content of the fiduciary duty owed by the Minister in administering the terms of a section 35 grant?
+[138]
+The Minister acknowledges that she had a fiduciary duty to the Applicants in deciding whether or not to consent to the assignment of the Indentures. However, she submits that she is no "ordinary fiduciary" and that the content of the fiduciary duty owed to Coldwater must be balanced against the Crown's other obligations.
+[139]
+The Minister argues that when contemplating section 35 grants, the Crown has a duty to reconcile the public purpose for an expropriation and ensure the minimal impairment of the First Nations' use and enjoyment of their reserve; see the decision in
+Osoyoos
+,
+supra
+at para. 52. She submits that minimal impairment means understanding the interests and concerns of Coldwater.
+[140]
+The Minister proposes that the content of the fiduciary duty at the time of expropriation is higher than at the time of administering the 1955 Indenture. She argues that the content of that duty was highest when the First Nation property interest was expropriated.
+[141]
+The Minister submits that her consent to an assignment enables the Crown to ensure any assignee is technically competent, and fully qualified to operate the Pipeline thereby both ensuring the interests of Coldwater and the public are met.
+[142]
+The fiduciary duty arises under section 35 of the 1952 Act and requires the Crown engage with the First Nation to understand its interests.
+[143]
+The Minister argues that there is no authority to justify the position that she ought to have renegotiated the 1955 Indenture in order to meet her fiduciary duty. Similarly, she submits that there is no authority to support the position that the Crown must obey the Applicants' directions. The Applicants rely upon the decision in
+Blueberry River Indian Band
+,
+supra
+, for this position. The Minister argues that case concerns the surrender of reserve land pursuant to section 37 of the Act and is not relevant here.
+[144]
+The Minister also submits that in determining the content of the duty owed to Coldwater, the Crown was also bound to act in good faith pursuant to the standards of conduct applied to contractual parties; see the decisions in
+Bhasin v. Hrynew
+, [2014] 3 S.C.R. 494 at paras. 92-93 and
+Potter v. New Brunswick Legal Aid Services Commission
+, [2015] 1 S.C.R. 500.
+[145]
+Finally, the Minister argues the FNLMA has no relevance to this proceeding.
+(3) Did the Minister discharge his fiduciary duty?
+[146]
+The Minister argues that the fiduciary duty was properly discharged by the reconciliation of the public interest and the Applicants' interest.
+[147]
+The Minister submits that there is no evidence of any defect in the 1955 Indenture that would oblige the Crown to reopen the terms of the 1955 Indenture. She argues the alleged inadequate compensation is not a reason to alter the Indenture's terms.
+[148]
+The Minister submits that the compensation was reasonable by the standards of the time, and other landowners received comparable compensation; see the decision in
+Kruger v. R.
+(1985), 17 D.L.R. (4th) 591 (F.C.A.). Furthermore, she argues that the Applicants have not acknowledged additional financial benefits accruing from the 1955 Indenture, namely the property taxes and Protocol Agreement payments.
+[149]
+The Minister argues that imposing new consideration goes beyond minimal impairment of the use and enjoyment of the Reserve.
+[150]
+The Minister submits that the assignment does not alter the impairment of the Applicants' Reserve interests.
+[151]
+She argues that the Applicants rely upon the impacts of a potential Pipeline expansion. These concerns are speculative and not related to the decision being reviewed here.
+[152]
+There has only been one leak in the 60 years of Pipeline operation; that leak was so minor as to not amount to a reportable spill. The Applicants have also expressed concern about the impact of the Pipeline on irrigation. Kinder Morgan has asserted the Pipeline is not the cause of the irrigation issues.
+[153]
+The Minister argues that in meeting her fiduciary duty, IAND attempted to meet with Coldwater and discuss the request on numerous occasions over a two year period. She submits the Applicants frustrated the engagement process by refusing to meet and imposing unreasonable conditions.
+(4) Did the Minister breach procedural fairness by failing to provide Coldwater with all the materials before him?
+[154]
+The Minister submits that there was no breach of procedural fairness in this case.
+[155]
+The Applicants' only complaint is that they did not receive the internal departmental memorandum. The memorandum only contained a summary of material facts and a recommendation. The Minister argues that there is nothing contained within the memorandum that had not already been disclosed by July 2013.
+[156]
+Further, the Minister argues that the Applicants have not specified how they would have responded differently should they have received the memorandum; see the decision in
+Farwaha v. Canada (Minister of Transport, Infrastructure and Communities)
+, 2014 FCA 56 at paras. 116-118.
+[157]
+The Minister submits that the Applicants did not have any legitimate expectations of a high degree of participation. She argues there was no legal requirement that Coldwater consent to either the initial expropriation or the assignment. The Applicants' agreement in 1955 only referred to the compensation offered by Trans Mountain.
+[158]
+In the alternative, the Minister submits that the appropriate remedy if the doctrine of legitimate expectations applies is a right to make representations. This right was accorded to the Applicants.
+(5) Is the 1955 Indenture void because Kinder Morgan failed to obtain the Minister's consent in 2007 and the easement is not needed for pipeline purposes?
+[159]
+The Minister submits that at all material times the 1955 Indenture continued in force. She argues that none of the corporate restructuring transactions prior to 2007 constitute assignments. The Asset Transfer Agreement required Terasen Inc. hold the 1955 Indenture in trust for Trans Mountain Pipeline ULC, pending perfection which occurred when the Minister consented to the assignment.
+(6) If this Application is granted, what is the appropriate remedy?
+[160]
+The Minister argues that the remedy of quashing is only available against a public official whose act is
+ultra vires
+or otherwise illegal, or where there is a jurisdictional error on the face of the record; see David Jones and Anne de Villars,
+Principles of Administrative Law
+, 6th ed (Toronto: Carswell, 2014) at pages 668-669.
+[161]
+The Minister submits none of these circumstances arise here. She also argues it is unnecessary to go beyond the issuing of a declaration as the Crown will comply with the declaration.
+[162]
+The Court may deny the relief of quashing the decision even where the applicants have otherwise established their case; see section 18.1(3) of the Federal Courts Act. Discretionary relief should be denied where the applicant's conduct disentitles him to relief and where an effective alternative remedy exists; see the decisions in
+Athabasca Chipewyan First Nation v. Alberta (Minster of Energy)
+, 2009 ABQB 576 at para. 33, and
+LeBar v. Canada
+, [1989] 1 F.C. 603.
+[163]
+The Minister submits that the Applicants' conduct disentitled them to quashing relief. They threatened self-help and refused to participate substantively in the engagement process. Furthermore, a declaration is an effective alternate remedy.
+IX.
+DISCUSSION
+A.
+The Motion to Strike
+[164]
+The first issue to be addressed is the motion by Kinder Morgan to strike certain paragraphs in the affidavits of Chief Spahan and Mr. Aljam.
+[165]
+Kinder Morgan, in challenging the paragraphs referred to above of the affidavits of Chief Spahan and Mr. Aljam, seeks an order striking them out or, alternatively, according them no weight.
+[166]
+Kinder Morgan argues that paragraphs 9, 15, 16, 27, 32 to 42, and 44 to 46 of the Spahan affidavit are objectionable on the grounds that they contain legal arguments, speculation, improper opinion evidence, inadmissible hearsay evidence and contradictory evidence.
+[167]
+In response, the Applicants submit that the questioned paragraphs of both the Spahan and Aljam affidavits constitute proper and relevant evidence. If the paragraphs contain any hearsay evidence, it can be admitted as long as it does not address a controversial issue and, in any event, the impugned evidence was not challenged when the deponents were cross-examined. They argue that Kinder Morgan has failed to show that it has suffered any prejudice resulting from the admission of this evidence.
+[168]
+Rule 81 of the Rules sets out the criteria to be met for affidavit evidence, as follows:
+81 (1) Affidavits shall be confined to facts within the deponent's personal knowledge except on motions, other than motions for summary judgment or summary trial, in which statements as to the deponent's belief, with the grounds for it, may be included.
+(2) Where an affidavit is made on belief, an adverse inference may be drawn from the failure of a party to provide evidence of persons having personal knowledge of material facts.
+81 (1) Les affidavits se limitent aux faits dont le déclarant a une connaissance personnelle, sauf s'ils sont présentés à l'appui d'une requête - autre qu'une requête en jugement sommaire ou en procès sommaire - auquel cas ils peuvent contenir des déclarations fondées sur ce que le déclarant croit être les faits, avec motifs à l'appui.
+(2) Lorsqu'un affidavit contient des déclarations fondées sur ce que croit le déclarant, le fait de ne pas offrir le témoignage de personnes ayant une connaissance personnelle des faits substantiels peut donner lieu à des conclusions défavorables.
+[169]
+I agree with the submissions of Kinder Morgan that paragraphs 9 and 15 of the Spahan affidavit contain improper opinion evidence. I also agree that paragraph 16 is opinion evidence and speculative, addressing as it does the value of compensation given to Coldwater in 1953 in 2014 dollars.
+[170]
+Kinder Morgan has not identified the basis of its challenge to paragraph 27 of Chief Spahan's affidavit. In my opinion, that paragraph relates facts that were within the affiant's knowledge.
+[171]
+Paragraphs 32 to 36 set out Chief Spahan's understanding about Kinder Morgan's plans for the Pipeline. Paragraphs 37 to 46 set out Coldwater's concerns about the duration of the 1955 Indenture and the safety of the Pipeline and the failure of the Government of Canada to update the terms of that Indenture.
+[172]
+In my opinion, the views expressed in paragraphs 32 to 36 are irrelevant to this proceeding and should be given little to no weight. I agree with Kinder Morgan that paragraphs 37 to 46 are speculative and contain improper opinion evidence.
+[173]
+Kinder Morgan objects to paragraphs 12 to 15 of the Aljam affidavit, on the basis that these paragraphs also contain impermissible opinion evidence, legal argument and facts beyond the knowledge of the deponent.
+[174]
+I agree that paragraphs 12 to 15 of the Aljam affidavit contain impermissible legal argument.
+[175]
+While the timing of this motion is questionable, considering that Kinder Morgan cross-examined Chief Spahan and Mr. Aljam without raising these issues, the objections raised by the motion to strike are well founded, for the most part. In the exercise of my discretion, the offending paragraphs identified above will not be struck but will be given no weight.
+B.
+The Standard of Review
+[176]
+The next issue for consideration is the applicable standard of review. This application for judicial review involves the existence, recognition and discharge of a fiduciary duty on the part of the Minister.
+[177]
+The existence and content of a fiduciary duty are questions of law, reviewable on the standard of correctness; see the decision in
+Nunavut Tunnagavik Inc.
+,
+supra
+at para. 24.
+[178]
+The discharge of such duty by the Crown is reviewable on the standard of reasonableness; see the decision in
+Brokenhead Ojibway
+,
+supra
+at paras. 17-18.
+[179]
+The reasonableness standard requires that the decision must be justifiable, transparent, intelligible and fall within a range of possible, acceptable outcomes; see the decision in
+Dunsmuir v. New Brunswick
+, [2008] 1 S.C.R. 190 at para. 47. The range of acceptable outcomes depends on the context of the particular type of decision making involved and all relevant factors; see the decision in
+Halifax (Regional Municipality) v. Nova Scotia (Human Rights Commission)
+, [2012] 1 S.C.R. 364 at para. 44.
+[180]
+Questions of procedural fairness are reviewable on the standard of correctness; see the decision in
+Canada (Citizenship and Immigration) v. Khosa
+, [2009] 1 S.C.R. 339 at para. 43.
+C.
+What is the content of the fiduciary duty owed by the Minister in administering the terms of a section 35 grant?
+[181]
+All parties acknowledge that the Minister owes a fiduciary duty to the Applicants in deciding whether to consent to the assignment of the 1955 Indenture.
+[182]
+In
+Lameman v. Alberta
+(2013), 553 A.R. 44, the Alberta Court of Appeal commented on the existence of a fiduciary duty owed by the Crown to Aboriginal peoples at paragraph 51 as follows:
+Fiduciary duties do not automatically arise simply because the Crown is dealing with Aboriginals. While there is no question that the relationship between the Crown and First Nations has fiduciary aspects (
+Guerin v. R.
+, [1984] 2 S.C.R. 335 (S.C.C.), at 385, (1984), 13 D.L.R. (4th) 321 (S.C.C.)), not all dealings between the Crown and First Nations will give rise to a fiduciary duty:
+Roberts v. R.
+, 2002 SCC 79 (S.C.C.) at para 83, [2002] 4 S.C.R. 245 (S.C.C.). As
+Wewaykum
+noted at para 81, "the fiduciary duty imposed on the Crown does not exist at large but in relation to specific Aboriginal interests".
+[183]
+A fiduciary duty may arise where the Crown assumes discretionary control over specific Aboriginal interests; see the decision in
+Haida Nation v. British Columbia (Minister of Forests)
+, [2004] 3 S.C.R. 511 at para. 18. In my opinion, the Minister had discretionary control over assignment of the 1955 Indenture. Coldwater has a specific interest in the 1955 Indenture as it grants a property interest in the Reserve.
+[184]
+In
+Manitoba Métis Federation Inc.
+v. Canada (Attorney General)
+, [2013] 1 S.C.R. 623 at paragraph 47, the Supreme Court of Canada said the following about the nature of fiduciary duty:
+Fiduciary duty is an equitable doctrine originating in trust. Generally speaking, a fiduciary is required to act in the best interests of the person on whose behalf he is acting, to avoid all conflicts of interest, and to strictly account for all property held or administered on behalf of that person. ...
+[185]
+I note also the comments of the Supreme Court of Canada in
+G.(E.D.) v. Hammer
+, [2003] 2 S.C.R. 459 at paragraph 24 about the duties of a fiduciary, generally, as follow:
+... Fiduciary obligations are not obligations to guarantee a certain outcome for the vulnerable party, regardless of fault. They do not hold the fiduciary to a certain type of outcome, exposing the fiduciary to liability whenever the vulnerable party is harmed by one of the fiduciary's employees. Rather, they hold the fiduciary to a certain type of conduct. As Ryan J.A. held in
+A. (C.) v. C. (J.W.)
+(1998), 60 B.C.L.R. (3d) 92 (C.A.), at para. 154, "A fiduciary is not a guarantor." A fiduciary "does not breach his or her duties by simply failing to obtain the best result for the beneficiary".
+[186]
+In their submissions about the content of the fiduciary duty owed by the Minister in the present circumstances, the Applicants and the Minister referred to the principles of contract law.
+[187]
+The 1955 Indenture recognized the interest in land, that is the right-of-way easement, created by the 1953 Order-in-Council. A right-of-way is a type of easement; see
+Osoyoos
+,
+supra
+at para. 82. The 1955 Indenture is a contract between the Minister and Trans Mountain, by which the right-of-way was conveyed to Trans Mountain, and imposed obligations on the company that are set out in that Indenture.
+[188]
+The Minister submits that the content of his fiduciary duty may vary to take into account other Crown obligations, including the contractual duty to act in good faith in administering the terms of the 1955 Indenture. This duty requires parties to a contract be honest, reasonable, candid, and forthright; see the decision in
+Potter
+,
+supra
+at para. 99.
+[189]
+I acknowledge the tension between the Minister's fiduciary duty owed to Coldwater and the duty of good faith, arising under the 1955 Indenture, owed to Kinder Morgan. The Minister must respect the duty of good faith owed to Kinder Morgan but that duty is subordinate to the fiduciary duty owed to Coldwater.
+[190]
+In
+Osoyoos
+,
+supra
+, the Supreme Court set out at paragraph 52 two-step process for the determination of the scope of the fiduciary duty when the Minister contemplates an expropriation pursuant to section 35 of the Act:
+In my view, the fiduciary duty of the Crown is not restricted to instances of surrender. Section 35 clearly permits the Governor in Council to allow the use of reserve land for public purposes. However, once it has been determined that an expropriation of Indian lands is in the public interest, a fiduciary duty arises on the part of the Crown to expropriate or grant only the minimum interest required in order to fulfill that public purpose, thus ensuring a minimal impairment of the use and enjoyment of Indian lands by the band. This is consistent with the provisions of s. 35 which give the Governor in Council the absolute discretion to prescribe the terms to which the expropriation or transfer is to be subject. In this way, instead of having the public interest trump the Indian interests, the approach I advocate attempts to reconcile the two interests involved.
+[191]
+I agree with the Respondents that the approach used in a section 35 expropriation should apply to the assignment of an interest which arises from such an expropriation. In the present case, that interest is the property interest in the right-of-way, arising from the 1953 expropriation and formalized the 1955 Indenture.
+[192]
+I turn now to the application of the test in
+Osoyoos
+to the present matter. That test, created and applied in relation to the expropriation power under the Act, is to be applied in the present case by way of analogy since the action under review here was not an expropriation but ministerial consent to the assignment of the 1955 Indenture, an instrument created as a result of the expropriation in 1953.
+[193]
+In determining whether to consent to the assignment of the 1955 Indenture the Minister first must determine that the assignment of that instrument is in the public interest. Then, having found that the assignment is in the public interest, the Minister must ensure that Coldwater's interest in the Reserve is only minimally impaired, recognizing the public interest.
+[194]
+The Crown does not have a fiduciary duty until the second stage of the analysis; see
+Osoyoos
+,
+supra
+at para. 52. The Minister's assessment at the first stage is made only with reference to the public interest. There is no need to consider the impact of an assignment upon Coldwater until the Minister has concluded that the assignment is in the public interest.
+[195]
+At the second stage, the Minister's fiduciary duty requires consultation with Coldwater to determine its interest in the Reserve and the minimal impairment of that interest.
+[196]
+The Minister was under no duty to accept the informed direction of the Applicants. Although the Applicants rely upon the decision in
+Blueberry River Indian Band
+,
+supra
+, that case can be distinguished from the present case.
+[197]
+In
+Blueberry River
+,
+supra
+there was a surrender of land pursuant to section 37 of the Act which required the consent of the band and of the Governor in Council. The Court found that the purpose of Crown consent was for the prevention of exploitative bargains; see
+Blueberry River
+,
+supra
+at para. 35.
+[198]
+Section 35 of the 1952 Act did not require band consent. In my opinion, the fiduciary duty as discussed in
+Blueberry River
+,
+supra
+does not apply to the present circumstances. That decision concerned section 37 of the Act, the surrender provision. Different principles apply under section 35 of the Act and the decision in
+Blueberry River
+,
+supra
+is not relevant here.
+D.
+Did the Minister discharge his fiduciary duty?
+[199]
+The first part to the test requires the Minister to consider whether consent to the assignment of the 1955 Indenture is in the public interest. There is no evidence on the record before me at any challenge was taken against the expropriation in 1953. In the absence of any evidence to the contrary, I find that the expropriation was done in the public interest, relying on the presumption
+omnia praesumuntur legitime facta donec probetur in contrarium
+, that the expropriation was made in a proper manner for a lawful purpose.
+[200]
+The issuance of the Certificates of Public Convenience and Necessity demonstrate that indeed the expropriation was lawful and for the public purpose.
+[201]
+Pursuant to section 35 of the Act, expropriation of an interest in reserve land is accomplished through the combined effect of the Act and other statutes which authorize the taking of land. The purpose of the expropriation is to be found in the empowering legislation, in this case the Pipe Lines Act. Section 28 of that statue provides that the purpose of expropriation is "for the right of way of a company pipe line".
+[202]
+The evidence before me shows that the expropriation was made for the construction of the Pipeline and that such construction was in the public interest, not least the economic interest of both the Pipeline proponents and the citizens of Canada. The 1955 Indenture was executed to give effect to the easement that was needed to allow the construction of the pipeline.
+[203]
+Insofar as the assignment of the 1955 Indenture was for the purpose of facilitating the operation of that Pipeline, I am satisfied that the Minister's consent to that assignment was a continuation of the initial recognition of the public interest, arising from the expropriation in 1953.
+[204]
+The second part of the
+Osoyoos
+test requires that the Crown must affect only the "minimum interest required in order to fulfil that public purpose", thereby causing only "minimal impairment of the use and enjoyment of Indian lands by the band".
+[205]
+In assessing the application of this part of the test, again I refer to the fact that, according to the record before me, the expropriation itself has not been successfully challenged. The expropriation lead to the 1955 Indenture by which Trans Mountain, the predecessor in title to Kinder Morgan, was granted an easement. The terms of that instrument specifically and clearly contemplate assignment of the easement, upon the consent of the Minister.
+[206]
+I am satisfied, and so find, that the Minister's consent to the assignment, embodied in his decision of December 19, 2014, is a minimal impairment of Coldwater's use and enjoyment of its land.
+[207]
+In my opinion, the Minister discharged the fiduciary duty owed to the Applicants. The assignment of the 1955 Indenture did not increase the impairment of the Applicants' use of the Reserve land. The Minister reasonably determined that the public need for the easement continued to exist. The public need for the easement was acknowledged by the N.E.B. and Governor-in-Council through the approval of the transfer of the Certificates of Public Convenience and Necessity in 2007.
+[208]
+The Minister then considered whether Kinder Morgan was able to fulfil the terms of the 1955 Indenture. In my opinion, he reasonably concluded that it could do so. The material before the Minister included information about Kinder Morgan's environmental record, its financial standing and its insurance.
+[209]
+The record shows that the Minister engaged with Coldwater many times during the administrative proceeding that followed the 2012 request for consent to the assignment of the 1955 Indenture and the Indenture Modernization Process. The Minister was aware of Coldwater's concerns prior to making his decision.
+[210]
+The Tribunal Record contains numerous submissions by the Applicants to the Minister including letters dated April 25, 2012, May 25, 2015, July 3, 2012, January 9, 2013 and February 20, 2013.
+[211]
+The Minister also had before him correspondence between Coldwater and Kinder Morgan including letters dated April 24, 2012, April 27, 2012, May 2, 2012, July 5, 2012, July 12, 2012 and August 1, 2012.
+[212]
+The Minister was aware that Coldwater was seeking more compensation in addition to that paid in 1953. This demand was referenced in the letter to Mr. Gill dated January 9, 2013, the letter from Coldwater to the Department of Justice dated May 30, 2014, as well as correspondence between Coldwater and Kinder Morgan dated August 1, 2012 and the Band Council Resolution dated August 3, 2012.
+[213]
+The Applicants submit that the Minister breached his fiduciary duty when he failed to negotiate "fresh consideration that is more suitable and appropriate in a 21st Century context". I reject this argument.
+[214]
+The Applicants rely on the decision in
+Lower Kootenay Indian Band v. Canada
+, [1992] 2 C.N.L.R. 54 to support their position that the Minister's fiduciary duty obligated him to renegotiate the compensation paid under the 1955 Indenture. In that decision, the Federal Court found that the Crown had breached its fiduciary duty by failing to take steps to terminate a lease where the lease rentals were inadequate.
+[215]
+The decision in
+Lower Kootenay
+,
+supra
+is distinguishable from the present circumstances. In that case, the Minister was aware that the band was dissatisfied with the terms of the lease at the time the lease was executed in 1934. By 1974, the tenant had breached several conditions of the lease and there were grounds to terminate the lease. However, the Minister did not do so and breached his fiduciary duty.
+[216]
+In the present case, the evidence in the record shows that Coldwater was satisfied with the amount of compensation paid in 1953. As well, there is no evidence that Kinder Morgan breached any terms of the 1955 Indenture. In my opinion, the 1955 Indenture was not defective and the Minister's fiduciary duty did not require him to renegotiate its terms, including those that relate to compensation.
+[217]
+In my opinion, the discharge of his fiduciary duty required the Minister ensure minimal impairment of Coldwater's interest in the Reserve. In discharging his duty, the Minister was not obliged to reopen the 1955 Indenture to alter its terms for the purpose of increasing the compensation paid to Coldwater. His decision not to do so without imposing conditions on Kinder Morgan is reasonable.
+[218]
+The Applicants argued that the Minister should have considered the proposed Pipeline expansion in making his decision. I reject those submissions.
+[219]
+In order to expand the Pipeline, Kinder Morgan needs to obtain a Certificate of Public Convenience and Necessity as well as other approvals, from the N.E.B., to permit the construction and operation of the expanded Pipeline.
+[220]
+The proposed Pipeline expansion is the subject of other administrative proceedings. There is evidence in the record about the proposed expansion including a project application by Kinder Morgan made to the N.E.B. There is also evidence of Coldwater's participation in the N.E.B. process.
+[221]
+As well, Kinder Morgan has indicated that the proposed expansion will not take place on the Reserve without Coldwater's consent.
+[222]
+In my opinion, the Minister's decision to consent to the assignment of the 1955 Indenture is justifiable, transparent and intelligible, and meets the standard of reasonableness set out in the decision in
+Dunsmuir
+,
+supra
+.
+E.
+Did the Minister breach procedural fairness by failing to provide Coldwater with all the materials before him?
+[223]
+Procedural fairness is a flexible principle, the content of which is to be decided in the specific context of each case; see the decision in
+Knight v. Indian Head School Division No. 19
+, [1990] 1 S.C.R. 653 at pages 682-684.
+[224]
+The choice of procedure is beyond review by the Court, as long as the Applicants were accorded procedural fairness.
+[225]
+Procedural fairness, in this case, includes the basic rights to know the case to be met and to make submissions. The Applicants were provided with all the information before the Minister, with the exception of the IAND staff recommendation, and exercised their rights to make submissions. As well, they participated in meetings and discussions in the lead up to the Minister's decision.
+[226]
+In
+Baker
+,
+supra
+Justice L'Heureux-Dubé identified non-exhaustive factors to be considered when assessing the requirements of procedural fairness in a given case, including the nature of the decision and the decision-making process; the relevant statutory scheme; and the importance of the decision to the person concerned.
+[227]
+The decision in question here was a discretionary, administrative decision. It arose in the administration of a section 35 expropriation grant. Coldwater's consent was not required to assign the 1955 Indenture. The decision is important to the Applicants, since the assignment means that the Pipeline will continue to operate in the manner as originally carried out by Trans Mountain.
+[228]
+I acknowledge that the decision is important to the Applicants. However, that significance must be weighed against the other factors referenced in
+Baker
+,
+supra
+.
+[229]
+Coldwater argues that its participation in the initial grant of the easement gave rise to legitimate expectations of participation in the process by which the Minister made his decision.
+[230]
+The doctrine of legitimate expectations relates only to procedural rights, not to a particular result; see
+Baker
+,
+supra
+at para. 26. I am not persuaded that the doctrine applies in this case.
+[231]
+Considering the factors set out in
+Baker
+,
+supra
+, Coldwater was entitled to know the information collected by the Minister prior to making his decision. It was also entitled to an opportunity to respond to that information. It exercised that right when it made submissions about Kinder Morgan's request for ministerial consent to assignment of the 1955 Indenture.
+[232]
+In my opinion, the duty of procedural fairness was satisfied despite the fact that the internal memo was not given to the Applicants. The memo did not contain any information not already known to the Applicants. Further, the Applicants had been given an opportunity to make submissions.
+[233]
+The Applicants have failed to show that any breach of procedural fairness occurred, and their arguments on this ground cannot succeed.
+F.
+Is the 1955 Indenture void because Kinder Morgan failed to obtain the Minister's consent in 2007 and the easement is not needed for pipeline purposes?
+[234]
+In the Notice of Application, the Applicants alleged that the Indenture was void, however during oral submissions they stated that they were not challenging the validity of the 1955 Indenture in this proceeding.
+[235]
+There is no evidence that non-compliance with the ministerial consent requirement affected the validity of the 1955 Indenture. At most, this failure was a technical breach that was remedied when consent was granted in 2014. It is not necessary to further discuss this issue.
+[236]
+I acknowledge the submissions made by Kinder Morgan about its trust relationship with Terasen Inc., as referred to above. In my opinion, issues of a trust or a constructive trust are not relevant to the disposition of this application and will not be discussed.
+G.
+If this Application is granted, what is the appropriate remedy?
+[237]
+Remedies pursuant to the Federal Courts Act are discretionary and available when an applicant has shown a reviewable error; see the decision in
+Strickland v. Canada (Attorney General)
+, [2015] 2 S.C.R. 713 at paras. 37-39.
+[238]
+The issue of remedy cannot arise in an application for judicial review unless some reviewable error is found in the decision under scrutiny. In my opinion, the question of remedy is academic in this case because I am not persuaded that the Applicants have shown any reviewable error in either the decision of the Minister or the process that was followed in reaching that decision.
+X.
+CONCLUSION
+[239]
+The Applicants and the Respondents canvassed several issues in this application for judicial review. The critical question is whether the Minister made a reviewable error.
+[240]
+Two of the issues raised by the Applicants are reviewable on the standard of correctness, that is the existence and content of a fiduciary duty, and whether any breach of procedural fairness occurred in the decision-making process.
+[241]
+The remaining substantive issue is the discharge by the Minister of his fiduciary duty, an issue that is reviewable on the standard of reasonableness.
+[242]
+For the reasons given above, I am satisfied that the Minister correctly recognized and discharged his fiduciary duty.
+[243]
+I am also satisfied that there was no breach of procedural fairness resulting from the Minister's decision not to provide Coldwater with a copy of the staff recommendation in favour of the positive exercise of the ministerial discretion to consent to the assignment of the 1955 Indenture.
+[244]
+In light of the relevant facts and circumstances, as set out in the materials filed, including the Certified Tribunal Record, and the admissible affidavit evidence and attached exhibits, I find that the Minister reasonably exercised his undoubted discretion to consent to the assignment
+,
+without conditions for the payment of increased compensation to Coldwater.
+[245]
+I find that there is no basis for judicial intervention and the application for judicial review is dismissed.
+XI.
+COSTS
+[246]
+The Applicants asked that, if unsuccessful in this application, each party should bear their own costs.
+[247]
+The Respondents oppose this disposition and seek costs themselves, Kinder Morgan on a full indemnity basis.
+[248]
+In the exercise of my discretion pursuant to Rule 400 of the Rules, the parties are invited to seek resolution of costs and if unable to agree, brief submissions can be made in accordance with a direction to be issued.
+JUDGMENT
+[249]
+THIS COURT'S JUDGMENT is that
+this application for judicial review is dismissed with costs, if the parties are unable to agree on costs, brief submissions may be filed.
+[End of document]

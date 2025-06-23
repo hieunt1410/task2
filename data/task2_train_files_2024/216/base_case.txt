@@ -1,0 +1,730 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AgustaWestland v. Can. (2006), 303 F.T.R. 209 (FC) 
+ 
+ 
+ 
+ MLB headnote and full text 
+ 
+ 
+ 
+ Temp. Cite: [2006] F.T.R. TBEd. NO.064 
+ 
+ 
+ 
+ AgustaWestland International Limited (plaintiff) v. The Minister of Public Works and Government Services Canada and Her Majesty the Queen (defendants) 
+ 
+ (T-1605-04; 2006 FC 1371) 
+ 
+ 
+ 
+ Indexed As: AgustaWestland International Ltd. v. Canada (Minister of Public Works and Government Services) et al. 
+ 
+ 
+ 
+ Federal Court 
+ 
+ Kelen, J. 
+ 
+ November 10, 2006. 
+ 
+ 
+ 
+ Summary: 
+ 
+ The defendant Minister posted a request for proposals for production and servicing of helicopters. Only the plaintiff and Sikorsky passed a pre-qualification screening process. The contract was awarded to Sikorsky. Alleging bias and bad faith, the plaintiff applied for judicial review. The application was converted to an action. At issue on the plaintiff's request for document production was the admissibility of affidavits sworn by the defendants' lawyer, the relevance of documents relating to the pre-qualification stage of the procurement process and to events after the contract decision was made and the production of database material generated through proposal evaluation software. 
+ 
+ 
+ 
+ The Federal Court held that the lawyer's affidavits were admissible and that the pre-qualification and post-decision documents were relevant. The court also ordered the defendants to produce backup CDs of the database material. 
+ 
+ 
+ 
+ Editor's note: there are a number of decisions related to this action indexed under the same name. 
+ 
+ 
+ 
+ Administrative Law - Topic 3308 
+ 
+ Judicial review - General - Bars - Collateral attack - [See second  
+ Practice - Topic 4573 
+ ]. 
+ 
+ 
+ 
+ Administrative Law - Topic 3345.1 
+ 
+ Judicial review - General - Practice - Evidence (incl. new evidence) - [See first and third  
+ Practice - Topic 4573 
+ ]. 
+ 
+ 
+ 
+ Practice - Topic 3683 
+ 
+ Evidence - Affidavits - Use of - Affidavits by lawyer - Limitations - At issue on a plaintiff's request for document disclosure was the admissibility of two affidavits sworn by the defendants' lawyer describing the process by which a team of lawyers and law clerks had searched for and reviewed documents for production purposes - The affidavits supported the defendants' assertions regarding their efforts to comply with production obligations - Relying on rule 82 of the Federal Courts Rules, the plaintiff argued that the affidavits were hearsay and largely irrelevant - The Federal Court held that the affidavits were admissible - The lawyer had personal knowledge of the facts because he was personally responsible for management of the production process - It was not improper for him to depose as to those facts - Rule 82 only applied to prohibit the use of a solicitor's affidavit where the solicitor both deposed to an affidavit and presented argument based on the affidavit - Here, a different lawyer was retained to argue the motion - See paragraphs 13 to 18. 
+ 
+ 
+ 
+ Practice - Topic 4573 
+ 
+ Discovery - What documents must be produced - Documents related to or relevant and material to matters in issue - Alleging bias and bad faith, the plaintiff sought judicial review of the defendants' decision awarding a marine helicopter contract to Sikorsky - The judicial review application was subsequently converted to an action - The defendants resisted the plaintiff's request for documents pertaining to events after the contract decision was made, asserting that, notwithstanding the judicial review's conversion to an action, the only evidence that would be relevant at trial was material that was before the decision-maker when the decision was made - The Federal Court held that the documents were relevant - Post-decision evidence was admissible in cases where bad faith or bias was alleged - The plaintiffs alleged that the defendants knew or ought to have known that Sikorsky could not have met the delivery date requirements in the request for proposals - It would be wrong and absurd not to produce ex post facto documents that might be probative of those allegations - See paragraphs 19 to 24. 
+ 
+ 
+ 
+ Practice - Topic 4573 
+ 
+ Discovery - What documents must be produced - Documents related to or relevant and material to matters in issue - Alleging bias and bad faith, the plaintiff sought judicial review of the defendants' decision awarding a marine helicopter contract to Sikorsky - The judicial review application was subsequently converted to an action - The defendants resisted the plaintiff's request for documents pertaining to events after the contract decision was made - Arguing that Grenier v. Canada (F.C.A.) required that judicial review of a ministerial decision had to precede any action for damages arising out of that decision, the defendants asserted that the scope of production was limited to documents relevant to the grounds of judicial review - The Federal Court held that the documents were admissible on the judicial review application but indicated, alternatively, that Grenier did not apply - The court disagreed with the defendants' assertion that Grenier prohibited an action in damages from proceeding concurrently with a judicial review - The policy reasons for prohibiting collateral attacks did not apply here where the public interest in efficient court processes and timely dispute resolution supported the combined procedure pursued by the plaintiff - See paragraphs 25 to 34. 
+ 
+ 
+ 
+ Practice - Topic 4573 
+ 
+ Discovery - What documents must be produced - Documents related to or relevant and material to matters in issue - The defendant Minister posted a request for proposals for production and servicing of helicopters - Only the plaintiff and Sikorsky passed a pre-qualification screening process - The contract was awarded to Sikorsky - Alleging bias and bad faith, the plaintiff applied for judicial review - The application was converted to an action - The defendants resisted the plaintiff's request for documents from the pre-qualification stage of the procurement, asserting that they were irrelevant - The Federal Court held that the documents were relevant to the plaintiff's allegation that the defendants knew that Sikorsky could not undertake the work within the delivery date in the request for proposals - Moreover, the material was before the Minister when the decision awarding the contract was made - See paragraphs 35 to 37. 
+ 
+ 
+ 
+ Practice - Topic 4573.3 
+ 
+ Discovery - What documents must be produced - Computerized documents or electronic data - The defendant Minister posted a request for proposals (RFP) for production and servicing of helicopters - Only the plaintiff and Sikorsky passed a pre-qualification screening process - The contract was awarded to Sikorsky - Alleging bias and bad faith, the plaintiff applied for judicial review - The application was converted to an action - At issue on the plaintiff's request for document disclosure was the production of database material generated through proposal evaluation software - The defendants submitted that data consisting of RFP final reports for the plaintiff and Sikorsky was provided - The database no longer existed in the form it had during the evaluation of bids, but backup CDs were available - The only information contained in the backup CDs that had not been provided was irrelevant and would require hundreds of hours to produce - The Federal Court ordered the defendants to produce the backup CDs - This would obviate the need for the defendants to extract information - The plaintiff was required to undertake to limit its use of the information to the litigation's purposes - See paragraphs 38 to 40. 
+ 
+ 
+ 
+ Cases Noticed: 
+ 
+ AgustaWestland International Ltd. v. Canada (Minister of Public Works and Government Services) et al. (2006), 307 F.T.R. 62; 2006 FC 767, refd to. [para. 2]. 
+ 
+ Ontario Association of Architects v. Association of Architectural Technologists of Ontario, [2003] 1 F.C. 331; 291 N.R. 61 (F.C.A.), leave to appeal denied (2003), 313 N.R. 195 (S.C.C.), refd to. [para. 21]. 
+ 
+ Schwarz Hospitality Group Ltd. v. Canada (Attorney General) (2002), 231 F.T.R. 1; 2002 FCT 961, refd to. [para. 22]. 
+ 
+ Grenier v. Canada, [2006] 2 F.C.R. 287; 344 N.R. 102; 262 D.L.R.(4th) 337; 2005 FCA 348, consd. [para. 25]. 
+ 
+ AgustaWestland International Ltd. v. Canada (Minister of Public Works and Government Services) et al. (2004), 263 F.T.R. 54; 2004 FC 1545, refd to. [para. 31]. 
+ 
+ Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd. (1993), 69 F.T.R. 173 (T.D.), refd to. [para. 40]. 
+ 
+ 
+ 
+ Counsel: 
+ 
+ Gordon Cameron, for the applicant; 
+ 
+ Jan Brongers, for the respondents. 
+ 
+ 
+ 
+ Solicitors of Record: 
+ 
+ Blake, Cassels & Graydon, Ottawa, Ontario, for the applicant; 
+ 
+ John H. Sims, Q.C., Deputy Attorney General of Canada, Ottawa, Ontario, for the respondents. 
+ 
+ 
+ 
+ This motion was heard at Ottawa, Ontario, on November 2, 2006, by Kelen, J., of the Federal Court, who delivered the following reasons for order on November 10, 2006. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ [1] 
+   
+ Kelen, J. 
+ : This is a motion by the plaintiff for an Order directing the defendants to produce a better affidavit of documents and to provide information concerning documents in respect of which they have asserted claims of privilege. 
+ 
+ 
+ 
+ Background 
+ 
+ 
+ 
+ The underlying proceeding 
+ 
+ 
+ 
+ [2] 
+  This proceeding was commenced on September 1, 2004 by way of an application for judicial review. This Court ordered on December 2, 2005 that the proceeding be converted to an action. The background to the underlying action is set out at paragraphs 4 to 9 of my Reasons for Order dismissing a motion for summary judgment in  
+ AgustaWestland International Ltd. v. Canada (Minister of Public Works and Government Services) et al. 
+  (2006), 307 F.T.R.62; 2006 FC 767. 
+ 
+ 
+ 
+ The document disclosure process 
+ 
+ 
+ 
+ [3] 
+  On February 14, 2006, the Court issued an Order on consent (the "February Order") reflecting the agreement reached between the parties concerning documentary disclosure. In particular, the Court ordered that the plaintiff serve its affidavit of documents by March 20, 2006 and that the defendants serve their affidavit by May 1, 2006. The plaintiff was also ordered to serve, concurrent with its affidavit, two lists of relevant documents which it believed to be in the possession of the defendants. The first list (List A) was to refer to requests made under the  
+ Access to Information Act 
+  (the  
+ Access Act 
+ ), and the second list was to provide a list of all other specific documents and categories of documents (List B). 
+ 
+ 
+ 
+ [4] 
+  The plaintiff delivered to the defendants its two lists on February 10, 2006. The plaintiff also delivered to the defendants supplementary lists on March 3, 2006 (Supplementary List A and Supplementary List B). The plaintiff did not, however, serve its affidavit of documents by March 20, 2006 as ordered. Instead, the plaintiff sought and obtained an order extending the period of time for it to serve the affidavit of documents to March 29, 2006. 
+ 
+ 
+ 
+ [5] 
+  On May 1, 2006, the defendants served their affidavit of documents sworn by Michel Lapointe on April 12, 2006 (the First Affidavit). The First Affidavit was found to be deficient, and, in an Order dated May 12, 2006 (the May Order), this Court found that the defendant had not complied with the February Order. The Court then ordered that: 
+ 
+ 
+ 
+ 1. The defendants deliver a supplementary affidavit by July 31, 2006, encompassing relevant, non-privileged documents listed in the plaintiff's List A, List B, Supplemental List A, and Supplemental List B; 
+ 
+ 
+ 
+ 2. The defendants deliver documents to the plaintiff on a progressive basis as they become available to counsel for the defendants; 
+ 
+ 
+ 
+ 3. The defendants communicate to counsel for the plaintiff any determination that a document identified in the plaintiff's list is irrelevant or privileged when such determination is made so that the matter may be resolved or determined on motion; and 
+ 
+ 
+ 
+ 4. The parties proceed with examination for discovery on dates in July and August 2006 to be agreed upon by counsel for the parties, commencing first with discoveries concerning the evaluation of the bids. 
+ 
+ 
+ 
+ [6] 
+  The defendants provided a supplementary affidavit of documents sworn on August 2, 2006 (the Second Affidavit). Between the issuance of the May Order and the delivery of the Second Affidavit, the defendants produced 92,088 pages of documents over the course of 13 production dates. The defendant also delivered a second supplementary affidavit of documents, sworn October 5, 2006, comprising a further 11,789 pages of documents (the Third Affidavit). The defendant also said it would provide a third supplementary affidavit of documents on or before November 2, 2006 (the Fourth Affidavit), the date set for this motion. 
+ 
+ 
+ 
+ [7] 
+  Since the defendants began to produce documents, counsel for the plaintiff has sent several letters to counsel for the defendants alleging deficiencies in the affidavits and the documents produced therein. Since the plaintiff brought this motion, originally aimed at compelling the production of a better affidavit of documents, the parties have resolved some of these complaints and have agreed to address certain alleged deficiencies out of court. 
+ 
+ 
+ 
+ The documents in dispute 
+ 
+ 
+ 
+ [8] 
+  The plaintiff has categorized the alleged deficiencies in the defendants' production under 4 schedules: A to D: 
+ 
+ 
+ 
+ Schedule A 
+ 
+ 
+ 
+ "Patent deficiencies" in the documents produced, which are further divided into the following subcategories: 
+ 
+ 
+ 
+ 1.1 Patent deficiencies discovered in non-confidential documents; 
+ 
+ 
+ 
+ 1.2  
+ Access Act 
+  documents produced with improper severances; and 
+ 
+ 
+ 
+ 1.3 Patent deficiencies in confidential documents; 
+ 
+ 
+ 
+ Schedule B 
+ 
+ 
+ 
+ Relevant documents which the defendants have failed or refused to produce, which are further divided into the following subcategories: 
+ 
+ 
+ 
+ 1.1  
+ Access Act 
+  documents identified in List A and Supplementary List A which the defendants have failed or refused to produce; 
+ 
+ 
+ 
+ 1.2 Non-confidential documents identified in List B and Supplementary List B which the defendants have failed or refused to produce; and 
+ 
+ 
+ 
+ 1.3 Confidential documents identified in List B and Supplementary List B which the defendants have failed or refused to produce. 
+ 
+ 
+ 
+ Schedule C 
+ 
+ 
+ 
+ Missing documents: 
+ 
+ 
+ 
+ 1.1 Missing documents identified in List B and Supplementary List B, including: 
+ 
+ 
+ 
+ A. Contract versions of certain Proposal Plans; 
+ 
+ 
+ 
+ B. Status documents; and 
+ 
+ 
+ 
+ Schedule D 
+ 
+ 
+ 
+ Key officials from whom little if any documents have been produced. 
+ 
+ 
+ 
+ [9] 
+  The defendants submit that they and their counsel have made diligent and extensive efforts to provide the plaintiff with copies of all relevant documents on a timely basis. In particular, the defendants contend that every relevant, non-privileged document in the possession, power or control of the defendants will have been collected and produced by November 2, 2006. The only documents which may not be produced are those subject to review by the Privy Council Office for Cabinet privilege, and documents requiring U.S.  
+ International Traffic in Arms Regulations 
+  ( 
+ ITAR 
+ ) clearance. 
+ 
+ 
+ 
+ [10] 
+  While the plaintiff originally sought an order compelling the production of the documents identified in the Schedules to its motion, the defendants have produced several of these documents, including those in the Fourth Affidavit filed for the hearing date of this motion. Accordingly, the parties have advised that it is only necessary for the Court to address the defendants' following objections to production based on irrelevance. 
+ 
+ 
+ 
+ Objections on the basis of irrelevance 
+ 
+ 
+ 
+ [11] 
+  The three categories of documents in respect of which the defendants have resisted disclosure on the basis of irrelevancy are: 
+ 
+ 
+ 
+ 1. documents created after the contract award was announced by the Minister on July 23, 2004; 
+ 
+ 
+ 
+ 2. documents which originated from the pre-qualification stage of the procurement; and 
+ 
+ 
+ 
+ 3. the Proposal Evaluation Software and data base used for this procurement. 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ 
+ [12] 
+  With the parties agreeing since the plaintiff brought this motion to resolve between themselves many of the issued raised in the motion, there are only four issues which the Court is asked to decide on this motion: 
+ 
+ 
+ 
+ 1. the preliminary issue concerning the admissibility of affidavits sworn by Mr. Alan, J., Lenczner, Q.C., the lead counsel for the defendants in this action; 
+ 
+ 
+ 
+ 2. are documents created after the contract award was announced by the Minister on July 23, 2004 relevant with respect to the action for judicial review of the decision dated July 23, 2004; i.e., are documents created after the decision properly the subject of judicial review by the Court?; 
+ 
+ 
+ 
+ 3. are documents which originated from the pre-qualification stage of the procurement relevant?; and 
+ 
+ 
+ 
+ 4. is the Proposal Evaluation Software and data base used for this procurement relevant? 
+ 
+ 
+ 
+ Analysis 
+ 
+ 
+ 
+ Issue No. 1 
+ : Admissibility of the Lenczner Affidavits 
+ 
+ 
+ 
+ [13] 
+  The defendants have provided in their motion record two affidavits of Alan, J., Lenczner, Q.C, In the Affidavits, Mr. Lenczner describes in detail the process by which the defendants have searched for and reviewed documents for the purposes of producing them to the plaintiff. Mr. Lenczner has personally had carriage of the defence of this action on behalf of the defendants since April 25, 2006. Mr. Lenczner has managed the team of lawyers and law clerks responsible for collecting, scanning and coding the over 120,000 pages of documents related to this litigation. Mr. Lenczner has further described the defendants' production efforts and its response to several of the plaintiff's alleged deficiencies in an affidavit provided in the defendants' supplementary motion record. This description generally supports the defendants' assertion that they have committed extensive time and resources to comply in good faith with their production obligations. 
+ 
+ 
+ 
+ [14] 
+  The plaintiff objects to the admissibility of the Lenczner Affidavits. The plaintiff argues that, as a solicitor's affidavit, each of the Lenczner Affidavits is largely composed of hearsay and that much of it is irrelevant. The plaintiff relies on Rule 82 of the  
+ Federal Courts Rules 
+ , which states: 
+ 
+ 
+ 
+ "Use of solicitor's affidavit 
+ 
+ 
+ 
+ "82. Except with leave of the Court, a solicitor shall not both depose to an affidavit and present argument to the Court based on that affidavit." 
+ 
+ 
+ 
+                                                                                                      
+ 
+ 
+ 
+ "Utilisation de l'affidavit d'un avocat 
+ 
+ 
+ 
+ "82. Sauf avec l'autorisation de la Cour, un avocat ne peut à la fois être l'auteur d'un affidavit et présenter à la Cour des arguments fondés sur cet affidavit." 
+ 
+ 
+ 
+ [15] 
+  In my view, it is not improper in the circumstances for Mr. Lenczner to depose as to the facts contained in the Lenczner Affidavits. As noted above, Mr. Lenczner has personal knowledge of the facts contained within the Lenczner Affidavits since he is personally responsible for the management of the production process. I accept Mr. Lenczner's submission that there is no person in government who is more familiar with the production process engaged by this litigation than he is. Quite simply, there is likely no other person who could more appropriately provide the evidence contained within the Lenczner Affidavits. 
+ 
+ 
+ 
+ [16] 
+  With respect to Rule 82, the prohibition against use of a solicitor's affidavit only applies when a solicitor deposes to an affidavit  
+ and 
+  presents argument to the Court based on that affidavit. Mr. Lenczner has not presented argument to the Court based on the Lenczner Affidavits. He retained Mr. Brongers to argue the motion, and his co-counsel Ms. Fuerst provided written submissions in the responding motion record. 
+ 
+ 
+ 
+ [17] 
+  The plaintiff further argues that, by deposing to the Lenczner Affidavits, Mr. Lenczner has shielded the defendants from cross-examination on the affidavits. I cannot agree. Mr. Lenczner has made clear to the plaintiff his availability and willingness to be cross-examined on his affidavits. Indeed, to the extent that the plaintiff challenges the defendants' process of production itself, it may be to the plaintiff's benefit to avail itself of this opportunity, or seek leave to cross-examine one of the deponents of the affidavits of documents. 
+ 
+ 
+ 
+ [18] 
+  For the foregoing reasons, I conclude that the Lenczner Affidavits are admissible in the circumstances. 
+ 
+ 
+ 
+ Issue No. 2 
+ : Documents created after the contract award was announced on July 23, 2004 
+ 
+ 
+ 
+ [19] 
+  The defendants have resisted disclosure of the documents identified in Schedule C to the plaintiff's motion on the basis that documents relating to events after July 23, 2004 are irrelevant to the proceedings. 
+ 
+ 
+ 
+ [20] 
+  The plaintiff argues that these documents are relevant as they pertain to the performance of the contract which the plaintiff alleges cannot be performed by Sikorsky within the terms set out in the RFP. The April 2005 Order was issued before this proceeding was converted into an action and, as such, the disclosure obligations are broader than they were previously when this proceeding took the form of an application for judicial review. 
+ 
+ 
+ 
+ [21] 
+  The defendants argue that, notwithstanding the conversion of these proceedings from an application to an action, the only relevant evidence at trial are those documents which were before the decision-maker before the announcement that Sikorsky would be awarded the contract. I do not agree. While it is well established that judicial review of a decision is to be conducted on the basis of the material that was before the decision-maker when it made its decision, an exception exists where it is alleged that the decision-maker breached procedural fairness or committed jurisdictional error:  
+ Ontario Association of Architects v. Association of Architectural Technologists of Ontario 
+ , [2003] 1 F.C. 331; 291 N.R. 61 (F.C.A.) at para. 30; leave to appeal to S.C.C. refused (2003), 313 N.R. 195 (S.C.C.); see also Rule 306,  
+ Federal Courts Rules 
+ . 
+ 
+ 
+ 
+ [22] 
+  The exception to the general rule above was applied by Mr. Justice Campbell in  
+ FRAGMENT_SUPPRESSED he confirmed the admissibility of post-decision evidence in cases where bad faith or bias is alleged: 
+ 
+ 
+ 
+ FRAGMENT_SUPPRESSED
+ 
+ 
+ 
+ [23] 
+  The plaintiff alleges in its statement of claim that Sikorsky could not have met the delivery date requirements following the terms of the model contract in the RFP, and that the defendants knew or ought to have known this. The plaintiff alleges bias and bad faith in the defendants' decision to award the contract to Sikorsky. The plaintiff also makes other allegations relevant to bias which the court need not detail for the purpose of this Order. 
+ 
+ 
+ 
+ [24] 
+  This proceeding for judicial review was commenced before the contract was awarded to Sikorsky in November 2004. Since then, there exists a body of documents created after the decision to award the contract to Sikorsky and which the plaintiff claims prove bias and bad faith. These documents include a progression of contract versions proposed by Sikorsky and status reports. Of course, the allegation that Sikorsky could not deliver the helicopter within the 48 month deadline may soon be resolved at the rate with which this action is progressing. The 48 month deadline is November 2008. The Court has no hesitation in finding that the ex post facto documents relevant to proving the allegations of bias and bad faith on the part of the defendants are relevant to these proceedings. It would be wrong and absurd to not produce ex post facto documents which may be probative of bias and bad faith. 
+ 
+ 
+ 
+ [25] 
+  The defendants argued during the hearing of this motion that the scope of production in this proceeding is limited to documents relevant to the grounds of judicial review pleaded by the plaintiff and specifically excludes documents relevant only to the causes of action pleaded in the plaintiff's statement of claim. This is because, as the defendants argue, the Federal Court of Appeal's judgment in  
+ Grenier v. Canada 
+ , [2006] 2 F.C.R. 287; 344 N.R. 102; 262 D.L.R.(4th) 337; 2005 FCA 348, requires that the judicial review of a ministerial decision precede any action in damages arising out of that decision. As noted above, I am of the view that the documents sought by the plaintiff in this motion properly fall within the scope of the judicial review aspect of these proceedings. It is therefore unnecessary to consider separately the scope of documents relevant to the causes of action pleaded by the plaintiff. If I am wrong in this conclusion, however, I would conclude in the alternative that  
+ Grenier 
+  does not apply in these proceedings. 
+ 
+ 
+ 
+ [26] 
+  In my Reasons for Order dated June 15, 2006, 2006 FC 767, I stated the following at paragraph 47: 
+ 
+ 
+ 
+ "In  
+ Grenier v. Canada 
+ , the Federal Court of Appeal held that a person cannot indirectly challenge the lawfulness of a decision, by way of an action for damages, that is subject to judicial review within 30 days after the decision is made pursuant to subsection 18.1(2) of the  
+ Federal Courts Act 
+ . I would add that subsection 18(3) of the  
+ Federal Courts Act 
+  provides that the remedies of judicial review may be obtained only on an application for judicial review under section 18.1. The  
+ Grenier 
+  case applies to administrative decisions which are generally subject to judicial review, not to acts by the Crown which are normally subject to legal actions for breach of contract or tort. For this reason, the plaintiff's action in this case for breach of contract and for tort would not be barred if the plaintiff had not, as the plaintiff has, also commenced applications for judicial review over the same subject matter." (Footnotes omitted) 
+ 
+ 
+ 
+ [27] 
+  I shall elaborate.  
+ Grenier 
+  provides that an action in damages arising out of a ministerial decision cannot precede the judicial review of the decision at issue. However, I disagree with the defendants' submission that  
+ Grenier 
+  has the far-reaching effect of prohibiting an action in damages from proceeding  
+ concurrently 
+  with a judicial review. A review of the Court of Appeal's policy reasons in  
+ Grenier 
+  for prohibiting collateral attacks leads me to conclude that the ratio of that judgment does not extend to the facts of this case. 
+ 
+ 
+ 
+ [28] 
+  The Court of Appeal in  
+ Grenier 
+  cited three general policy grounds for prohibiting attacks on a ministerial decision by way of an action in damages before challenging the decision by way of judicial review: the division of jurisdictions between the Federal Court and the provincial courts; the need for finality of decisions; and the discouragement of indirect challenges. As I will discuss below, none of these policy concerns are engaged in this proceeding. 
+ 
+ 
+ 
+ [29] 
+  The Court of Appeal stated at paragraph 26 that a plaintiff's ability to indirectly challenge a ministerial decision through an action in damages would run afoul of the Federal Court's exclusive jurisdiction provided in section 18 of the  
+ Federal Courts Act 
+ : 
+ 
+ 
+ 
+ " 
+ It would also judicially reintroduce the division of jurisdictions between the Federal Court and the provincial courts 
+ . It would revive in fact an old problem that Parliament remedied through the enactment of section 18 and the granting of exclusive jurisdiction to the Federal Court and, in the section 28 cases, the Federal Court of Appeal. It is precisely this legislative intention that the Quebec Court of Appeal recognized in [ 
+ Canada v. Capobianco 
+ , 2005 QCCA 209] in order to preclude the action in damages filed in the Superior Court of Quebec attacking the lawfulness of the decisions of federal boards, commissions or other tribunals from leading, in fact and in law, to a dysfunctional dismemberment of federal administrative law." (Emphasis added) 
+ 
+ 
+ 
+ In this case, there is no risk of any "dysfunctional dismemberment" since the plaintiff has not pursued its action in damages through separate proceedings in a provincial superior court. Indeed, the plaintiff is pursuing its administrative law and common law relief within a single action in the Federal Court. The division of jurisdictions referred to in  
+ Grenier 
+  is not a concern in this case. 
+ 
+ 
+ 
+ [30] 
+  The Court of Appeal also expressed concern at paragraphs 27 to 30 regarding the need for finality of decisions, which would be undermined if plaintiffs could indirectly challenge decisions after the 30 day time limit for commencing an application for judicial review provided in subsection 18.1(2) of the  
+ Federal Courts Act 
+ : 
+ 
+ 
+ 
+ "To allow a proceeding under section 17, whether in the Federal Court or in the provincial courts, in order to have decisions of federal agencies declared invalid, is also to allow an infringement of the principle of finality of decisions and the legal security that this entails. 
+ 
+ 
+ 
+ "I need not expound at length on the importance of the principles of res judicata and the finality of decisions. Similarly, I need not say much about the abundant case law that recognizes and promotes these principles. I will confine myself to saying that these principles exist in the public interest and that Parliament's intention to protect that interest is illustrated by the short time limit allowed for challenging an administrative decision. 
+ 
+ 
+ 
+ "Parliament has provided, in subsection 18.1(2), that the time for filing an application for judicial review is 30 days from the time the impugned decision of the federal agency was communicated to the applicant (subject to any extension of the periods allowed by the Court). Concerning this time limit, this Court writes in [ 
+ Canada v. Berhad 
+ , 2005 FCA 267], at paragraph 60: 
+ 
+ 
+ 
+ 'In my view, the most important reason why a shipowner who is aggrieved by the result of a ship safety inspect ought to exhaust the statutory remedies before asserting a tort claim is the public interest in the finality of inspection decisions. The importance of that public interest in the relatively short time limits for the commencement of challenges to administrative decisions - within 30 days from the date on which the decision is communicated, or such further time as the Court may allow on a motion for an extension of time. That time limit is not whimsical. […] In this case, the decision of the Chairman was not challenged until, a year and half after it was made, the respondents filed their claim for damages.' 
+ 
+ 
+ 
+ " 
+ In the present case, I note that the claim for damages was brought about three years to the day after the impugned decision was rendered 
+ . Apart from the fact that the respondent, without explanation or justification, overlooks the time limit provided in subsection 18.1(3), the proceeding he used creates inappropriate and detrimental legal uncertainty as to the finality of the decision and its execution." 
+ 
+ 
+ 
+ [31] 
+  The time limit under subsection 18.1(2) is not at issue in this case. The plaintiff filed its notice of application for judicial review on September 1, 2004, which was 10 days after the statutory time limit. The plaintiff sought an extension of time. In my order dated November 3, 2004, I granted the extension of time-the issue, incidentally, now being res judicata:  
+ AgustaWestland International Ltd. v. Canada (Minister of Public Works and Government Services) et al. 
+  (2004), 263 F.T.R. 54; 2004 FC 1545, at paras. 56-65. Unlike the case in  
+ Grenier 
+ , the plaintiff's action in damages does not represent an indirect attack of the administrative decision that was foreclosed by the expiry of the statutory time limit. Indeed, the plaintiff's action in damages  
+ followed 
+  the conversion of this proceeding from an application to an action, before which the plaintiff was seeking only administrative law remedies. Since the Minister's decision to award the contract to Sikorsky was challenged on a timely basis, the principle of finality of decisions is not engaged in these proceedings as it was in  
+ Grenier 
+ . 
+ 
+ 
+ 
+ [32] 
+  The third concern expressed by the Court of Appeal in  
+ Grenier 
+  related to the promotion of indirect challenges. At paragraph 31, the Court stated: 
+ 
+ 
+ 
+ "The principle of the finality of decisions likewise requires that in the public interest, the possibilities for indirect challenges of an administrative decision be limited and circumscribed, especially when Parliament has opted for a procedure for direct challenge of the decision within defined parameters." 
+ 
+ 
+ 
+ The Court went on to review the principles of administrative law applicable to judicial review proceedings which would be undermined by permitting collateral attacks on administrative decisions. At paragraph 33, the Court concluded that section 17 proceedings ought not be permitted to allow plaintiffs to perform an end-run around the requirements of subsection 18(3): 
+ 
+ 
+ 
+ "It is especially important not to allow a section 17 proceeding as a mechanism for reviewing the lawfulness of a federal agency's decision  
+ when this indirect challenge to the decision is used to obviate the mandatory provisions of subsection 18(3) of the  
+ Federal Courts Act 
+ ." (Emphasis added) 
+ 
+ 
+ 
+ [33] 
+  As noted above, the plaintiff is proceeding concurrently by way of judicial review and by way of an action in damages. With respect to the plaintiff's allegation that the Minister's decision is unlawful on administrative law grounds, the standard of review and relief applicable will be determined in accordance with the relevant administrative law principles. Similarly, the Court will apply the appropriate standard of proof and remedial principles in respect of the causes of action pleaded by the plaintiff. In my view, nothing in this manner of proceeding offends the mandatory provisions of the  
+ Federal Courts Act 
+ . Nor has the plaintiff opted for a more favourable procedure. By pleading both administrative law errors and distinct causes of action in its statement of claim, the plaintiff has embraced the direct procedure contemplated by Parliament in respect of judicial review proceedings while streamlining the consideration of its closely related but nevertheless distinct claims for damages for breach of contract and other wrongs. Given the complexity of these proceedings and the extensive delays already experienced in proceeding to trial, the public interest in efficient court processes and timely resolution of disputes overwhelmingly supports the combined procedure pursued by the plaintiff. The alternative, if the defendants' interpretation of  
+ Grenier 
+  is adopted, would be to subject the parties to an extra round of delays by postponing consideration of the plaintiff's civil claims until after the Court disposes of its judicial review of the ministerial decision giving rise to those claims. 
+ 
+ 
+ 
+ [34] 
+  For these reasons, I cannot agree that  
+ Grenier 
+  stands for the preposition posited by the defendants that the judicial review of the Minister's decision must precede the action in damages. In my view, nothing in  
+ Grenier 
+  precludes the procedure adopted here wherein the plaintiffs proceed concurrently with judicial review proceedings and an action in damages. 
+ 
+ 
+ 
+ Issue No. 3 
+ : Documents originating from the pre-qualification stage of the procurement 
+ 
+ 
+ 
+ [35] 
+  Items 21 through 29 of the plaintiff's List B refer to documents from the pre-qualification stage of the Maritime Helicopter Procurement. The plaintiff argues that the scope of this documentation is limited and pertains directly to Sikorsky's alleged inability to meet the mandatory delivery schedule and the defendants' knowledge thereof. The documents refer to helicopter performance in shipboard operations, the development required to create the Mission Data Management System (MDMS), and specific items for the self-defence suite. The plaintiff argues that each of these topics relates to Sikorsky's need to perform significant work on the development of its existing helicopter to convert it to a helicopter meeting the defendants' specifications for the Maritime Helicopter. The pre-qualification documents pertaining to this work will, it is argued, provide evidence relevant to the plaintiff's allegations in this regard. 
+ 
+ 
+ 
+ [36] 
+  I am satisfied that the prequalification documents sought to be produced are relevant to how Sikorsky proposed to build the helicopter to meet the defendant's specifications. Moreover, these documents were incorporated into the Sikorsky proposal submitted in response to the RFP. The plaintiff bases this action, inter alia, on the allegation that the defendants knew that Sikorsky could not undertake this work within the 48 month deadline to build a compliant maritime helicopter. Moreover, this material was before the Minister when the decision was made on July 23, 2004 to award the contract to Sikorsky. 
+ 
+ 
+ 
+ [37] 
+  I conclude that the defendants cannot refuse production of the pre-qualification documents identified by the plaintiff in items 21 to 29 of its List B on grounds of irrelevancy. 
+ 
+ 
+ 
+ Issue No. 4 
+ : Proposal Evaluation Software and Database 
+ 
+ 
+ 
+ [38] 
+  The defendants have not produced all of the requested database material generated through the Proposal Evaluation Software. The plaintiff argues that the software was used as a tool for the evaluation of the Maritime Helicopter Part 3 Technical Proposals. The software was designed to ensure the integrity of the Part 3 evaluation process. In particular, the plaintiff contends that the software was supposed to have certain built-in features that would control the evaluation process by ensuring that evaluators followed the prescribed evaluation methodology. The plaintiff alleges that the software did not work in the manner prescribed or that the evaluators found ways to defeat its fairness protections and audit functions. The plaintiff therefore seeks a complete review of the software and database, including the daily status reports, to determine the extent and significance of the non-compliance including how and when the integrity was comprised by the evaluators. 
+ 
+ 
+ 
+ [39] 
+  The defendants state that data in the Proposal Evaluation Software consisting of RFP Final Reports for the plaintiff and Sikorsky were printed out and included in the defendants' First Affidavit as items 34 to 45. The database no longer exists in the same form as it did at the time of the evaluation of the bids, although backup data on CDs still exists. The defendants assert that they have spent considerable time producing, from the backup CDs, additional documents consisting of PES references provided by the bidders, and the evaluators' clarification requests. The only information contained in the backup CDs that has not been produced consists of information indicating the status of the evaluation on a daily basis. The defendants argue that the progress of each evaluator on each day is not relevant to these proceedings, and that it would require hundreds of hours of work to produce this information. 
+ 
+ 
+ 
+ [40] 
+  I agree with the plaintiff that the information sought through the Proposal Evaluation Software and its database is relevant to the allegations of bias and impropriety in the evaluation process. It is well established that the purpose of full disclosure in advance of trial is to assist in determining the truth of matters in issue, to narrow the issues, and to expedite the trial of the real issues outstanding:  
+ Apotex Inc. and Novopharm Ltd. v. Wellcome Foundation Ltd. 
+ , [1993] F.C.J. No. 1119; 69 F.T.R. 173 (T.D.). To this end, the parties are broadly entitled to access all documents that may advance their case or damage the opposing party's case. The daily status reports in the proposal evaluation software database are relevant to showing whether the evaluators used the software or, as alleged by the plaintiff, found ways to avoid it, therefore defeating its fairness protections and audit functions. Consistent with the principle of full disclosure in the discovery process, I consider it appropriate in the circumstances to order the defendant to produce the backup CDs on which the Proposal Evaluation Software data is maintained. This will obviate the need for the defendants to dedicate hundreds of hours of work to extract information for production. To the extent that the backup CDs contain information extraneous to these proceedings, the plaintiff will be required to undertake to limit its use of such information to the purposes of this litigation. 
+ 
+ 
+ 
+ Conclusion 
+ 
+ 
+ 
+ [41] 
+  For the foregoing reasons, the Court concludes: 
+ 
+ 
+ 
+ 1. the Lenczner Affidavits are admissible. However, Mr. Lenczner cannot present argument on the motion for which he has sworn the affidavit. Moreover, the plaintiff may seek leave to cross-examine any deponents of the affidavits of documents; 
+ 
+ 
+ 
+ 2. documents created after the contract award was announced on July 23, 2004 are subject to production to the extent they are relevant to the allegations in the statement of claim including bias and bad faith; 
+ 
+ 
+ 
+ 3. documents originating from the pre-qualification stage of the procurement are relevant to how Sikorsky proposed to build the helicopter to meet the defendants' specifications and 48 month deadline; and 
+ 
+ 
+ 
+ 4. the Proposal Evaluation Software and database material generated through the software are relevant to showing whether the evaluators used the software or, as alleged by the plaintiff, found ways to circumvent it, thereby defeating the fairness protections and audit functions intended by the software. 
+ 
+ 
+ 
+ ORDER 
+ 
+ 
+ 
+ [42] 
+   
+ THIS COURT ORDERS that: 
+ 
+ 
+ 
+ 1. This motion is allowed in that the following three categories of documents are relevant: 
+ 
+ 
+ 
+ a. documents created after the contract award was announced on July 23, 2004 are subject to production to the extent they are relevant to the allegations in the statement of claim including bias and bad faith; 
+ 
+ 
+ 
+ b. documents originating from the pre-qualification stage of the procurement are relevant to how Sikorsky proposed to build the helicopter to meet the defendants' specifications and 48 month deadline; and 
+ 
+ 
+ 
+ c. the Proposal Evaluation Software and database material generated through the software are relevant to showing whether the evaluators used the software or, as alleged by the plaintiff, found ways to circumvent it, thereby defeating the fairness protections and audit functions intended by the software. 
+ 
+ 
+ 
+ 2. the Lenczner Affidavits are admissible; and 
+ 
+ 
+ 
+ 3. the plaintiff is entitled to its costs of this motion in the cause. 
+ 
+ 
+ 
+ Order accordingly. 
+ 
+ 
+ 
+ Editor: Sharon McCartney/clh 
+ 
+ 
+ 
+ [End of document] 
+ 
+ 
+ 
+
+
+
+

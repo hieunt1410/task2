@@ -1,0 +1,8 @@
+[21]
+The issue is whether the sister ship provision of the
+Federal Court Act
+should be construed to allow for an interpretation that would give maritime lien holders with a claim against one ship the same priority as a maritime lien in relation to a sister ship arrested in Canada, regardless of whether the claims originated in Canada or abroad. In the absence of legislation, I cannot conclude that the special priority accorded to maritime liens is portable to sister ships. I agree with Prothonotary Hargrave when he concludes at paragraph 92 of the
+Atlantis Two
+:
+"... the substantive American maritime lien does not fit into the sister ship provision, section 43(8) of the Act, which merely refers to the jurisdiction conferred on the Court by section 22 of the Act, an in per­sonam jurisdiction, as being enforceable against a sister ship, not a right or privi­lege against one ship being enforced against another ship. If American lien holders wished to use sister ship procedure here in Canada they would need sister ship legislation in the United States to enable them to bring into Canada a full blown maritime lien against the sister ship.
+"Of course, a lien holder, assuming that he or she also has an in personam right against a shipowner and assuming that shipowner was the owner of not only the wrongdoing or debtor ship, but also the sister ship or ships at the relevant time, might bring that in personam right into Canada and enforce it, procedurally, against one or more of the sister ships. However the priority of such a claim would then only be that of a statutory right in rem, of no assistance here, given the limited sale proceeds involved."

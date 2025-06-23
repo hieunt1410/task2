@@ -1,0 +1,28 @@
+[8]
+The Federal Court has, from time to time, struck out an application for judicial review where the Court did not have the jurisdiction to hear the application: see for example
+Garcia v. Canada (Attorney General)
+(1997), 129 F.T.R. 174 (T.D.) and, here most pertinent,
+Gauthier et al. v. Canada (Minister of Consumer and Corporate Affairs)
+(1992), 58 F.T.R. 161, in which an application for review of a decision under the
+Privacy Act
+was struck out because there had been no refusal of access to personal information. In
+Gauthier
+Madame Justice Reed referred to
+X. v. Canada (Minister of National Defence)
+(1990), 41 F.T.R. 73 (T.D.) in which Mr. Justice Strayer, as he then was, dealt with the respondent's contention that the only role of the Federal Court, under section 41 of the
+Access to Information Act
+, was to hear applications by those who had actually been refused access. In that instance, there had been no refusal of access. Mr. Justice Strayer noted that:
+"The Court has power to entertain an application by a private party in support of access only under s. 41 and under that section only by a 'person who has been refused access to a record ...'." [p. 76]
+Mr. Justice Strayer went on to set out the rationale for the limited scope of review:
+"It is amply clear from looking at the
+Act
+as a whole that not every decision taken thereunder by heads of institutions is subject to judicial review. This is readily understandable when one considers that prior to this statute there was no common law or statutory right of access to records held by the Government of Canada and no right of action in respect thereto [loc.cit.]"
+He went on to again note both the narrow scope of the new jurisdiction given to the Federal Court under section 41 of the
+Act
+and that there must be a refusal of access, not mere delay, otherwise the Court had no remedial power and specifically, referring to sections 41, 42, 44, 49 and 50 of the
+Access to Information Act
+that:
+"Refusal of access is a condition precedent to an application under those sections and the only matter to be remedied by the Court where it finds for the applicant." [p. 77]
+In
+X. v. Canada
+Mr. Justice Strayer struck out the application as frivolous and vexatious, there being no jurisdiction and went on to castigate the applicant for bringing the proceeding when there had been no failure to disclose.

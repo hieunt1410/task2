@@ -1,0 +1,18 @@
+[12]
+The leading case on the doctrine of mootness is
+Borowski v. Canada (Attorney General)
+, [1989] 1 S.C.R. 342; 92 N.R. 110; 75 Sask.R. 82; 38 C.R.R. 232; 57 D.L.R.(4th) 231; 47 C.C.C.(3d) 1; 33 C.P.C.(2d) 105; [1989] 3 W.R.R. 9. Sopinka, J., for the court explained the doctrine as follows at p. 353 [S.C.R.]:
+"The doctrine of mootness is an aspect of a general policy or practice that a court may decline to decide a case which raises merely a hypothetical or abstract question. The general principle applies when the decision of the court will not have the effect of resolving some controversy which affects or may affect the rights of the parties. If the decision of the court will have no practical effect on such rights, the court will decline to decide the case. This essential ingredient must be present not only when the action or proceeding is commenced
+but at the time when
+the court is called upon to reach a decision.
+"Accordingly, if, subsequent to the initiation of the action or proceeding, events occur which affect the relationship of the parties so that no present live controversy exists which affects the rights of the parties, the case is said to be moot. The general policy or practice is enforced in moot cases unless the court exercises its discretion to depart from its policy or practice. The relevant factors relating to the exercise of the court's discretion are discussed hereinafter.
+"The approach in recent cases involves a two-step analysis. First it is necessary to determine whether the required tangible and concrete dispute has disappeared and the issues have become academic. Second, if the response to the first question is affirmative, it is necessary to decide if the court should exercise its discretion to hear the case." (emphasis added)
+Sopinka, J., then went on to discuss, at p. 354, the first stage in the analysis that
+"requires a consideration of whether there remains a live controversy. The controversy may disappear rendering an issue moot due to a variety of reasons, some of which are discussed below."
+Sopinka, J., went on to find "there is no longer a live controversy or concrete dispute as the substratum of Mr. Borowski's appeal has disappeared". In that case Mr. Borowski's action was a constitutional challenge to certain subsections of s. 251 of the
+Criminal Code
+. In the meantime s. 251 of the
+Criminal Code
+was struck down by the Supreme Court in
+R. v. Morgentaler
+, [1988] 1 S.C.R. 30; 82 N.R. 1; 26 O.A.C. 1; 44 D.L.R.(4th) 385; 31 C.R.R. 1; 37 C.C.C.(3d) 449; 62 C.R.(3d) 1.

@@ -1,0 +1,225 @@
+[1]
+Pinard, J.
+[Translation]: In case no. T-3460-90, the plaintiff Coopérative fédérée de Québec (the "C.F.Q.") is appealing the judgment of the Tax Court of Canada dated November 30, 1990, dismissing its appeal of the assessments made against it by the Minister of National Revenue on November 6, 1987, concerning its taxation years ending in 1982 and 1983. In case no. T-3461-90, the C.F.Q. is appealing the judgment of the Tax Court of Canada dated November 30, 1990, dismissing its appeal of the assessments made against it by the Minister of National Revenue on September 10, 1987, concerning its taxation years ending in 1978, 1979, 1980 and 1981. By consent of the parties, the two cases were heard together and will be decided on the same evidence.
+[2]
+The plaintiff is a cooperative, duly registered under the
+Act to revise the Charter of the Société Coopérative Fédérée des Agriculteurs de la Province de Québec
+, S.Q. 1968, c. 116, as amended, and a corporation within the meaning of the
+Civil Code of Lower Canada
+. On February 8, 1985, it objected to the notices of assessment made against it for its taxation years ending in 1978, 1979, 1980 and 1981. On July 10, 1987, it also objected to the notices of assessment made against it for its taxation years ending in 1982 and 1983. The grounds set out in the notices of objection related, inter alia, to the refusal of the Minister of National Revenue to allow a deduction for inventory relating to the cheese it had on hand on the first day of each of its taxation years. It is that refusal that is essentially the subject of these proceedings.
+[3]
+The relevant provisions of the
+Income Tax Act
+as it applies to this case are as follows:
+"20(1) Notwithstanding paragraphs 18(1) (a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(gg) an amount in respect of any business carried on by the taxpayer in the year, equal to that portion of 3% of the cost amount to the taxpayer, at the commencement of the year, of the tangible property (other than real property or an interest therein) that was
+(i) described in the taxpayer's inventory in respect of the business, and
+(ii) held by him for sale or for the purpose of being processed, fabricated, manufactured, incorporated into, attached to, or otherwise converted into or used in the packaging of, property for sale in the ordinary course of the business
+that the number of days in the year is of 365;
+"10(1) For the purpose of computing income from a business, the property described in an inventory shall be valued at its cost to the taxpayer or its fair market value, whichever is lower, or in such other manner as may be permitted by regulation.
+"(2) Notwithstanding subsection (1), for the purpose of computing income for a taxation year from a business, the property described in an inventory at the commencement of the year shall be valued at the same amount as the amount at which it was valued at the end of the immediately preceding year for the purpose of computing income for that preceding year.
+"248(1) In this Act,
+'cost amount' to a taxpayer of any property at any time means, except as expressly otherwise provided in this Act,
+(a) where the property was depreciable property of the taxpayer of a prescribed class, that proportion of the undepreciated capital cost to him of property of that class at that time that the capital cost to him of the property is of the capital cost to him of all property of that class,
+(b) where the property was capital property (other than depreciable property) of the taxpayer, its adjusted cost base to him at that time,
+(c) where the property was property described in an inventory of the taxpayer, its value at that time as determined for the purpose of computing his income,
+(d) where the property was eligible capital property of the taxpayer in respect of a business, the cumulative eligible capital of the taxpayer in respect of the business at that time,
+(e) where the property was a debt owing to the taxpayer (other than a debt the amount of which was deducted under paragraph 20(1)(p) in computing the taxpayer's income for a taxation year ending before that time) or any other right of the taxpayer to receive an amount, the amount of the debt or other right that was outstanding at that time, and
+(f) in any other case, the cost to the taxpayer of the property as determined for the purpose of computing his income, except to the extent that such cost has been deducted in computing his income for any taxation year ending before that time;
+. . . . .
+'inventory' means a description of property the cost or value of which is relevant in computing a taxpayer's income from a business for a taxation year;"
+[4]
+It is important to note that the inventory allowance provided for in paragraph 20(1)(gg) was added to the
+Income Tax Act
+in the year preceding the first of the six consecutive taxation years in issue. As Hugessen, J.A., noted in
+Saskatchewan Wheat Pool v. Canada
+, [1985] 1 C.T.C. 31; 56 N.R. 149 (F.C.A.), p. 33 [C.T.C.]:
+"The inventory allowance permitted by paragraph 20(1)(gg) was introduced into the
+Income Tax Act
+in 1977. Its obvious purpose was to allow some relief to businesses from the increased tax liability due to 'false' profits created by the effect of high inflation on year-end inventories."
+[5]
+Later in his reasons for judgment (ibid., at page 35), Hugessen, J.A., pointed out that paragraph 20(1)(gg) provides for an exception to the general rule relating to computing income for tax purposes; for a taxpayer who wishes to benefit from it, this implies a duty to clearly establish that the provision in question applies to him:
+"Paragraph 20(1)(gg) provides for an exception from the general rule for computing income for the purposes of taxation. A taxpayer seeking to benefit from such exception must bring himself clearly within the language of the legislation."
+[6]
+The conditions that a taxpayer must meet in order to benefit from the inventory allowance provided for in paragraph 20(1)(gg) of the
+Act
+were clearly laid down by my colleague Joyal, J., in
+Burrard Yarrows Corp. v. Minister of National Revenue
+, [1986] 2 C.T.C. 313; 5 F.T.R. 101 (T.D.), at p. 316 [C.T.C.], affd. [1988] 2 C.T.C. 90 (F.C.A.):
+"Before a taxpayer is eligible to claim a paragraph 20(1)(gg) inventory allowance, four preconditions must be met. First, the allowance must be claimed on the cost amount of the property in question at the beginning of each taxation year in question. Next, the property against which it is claimed must be tangible property other than real estate or an interest therein. Thirdly, it must be established that the property was described in the taxpayer's inventory in respect of his business, and finally, that it was held for sale or to be processed, manufactured, incorporated into, attached to, or otherwise converted into property for sale in the ordinary course of that business. Failure to establish the existence of any one of these elements results in a disentitlement to a reserve under that paragraph."
+[7]
+The subsequent decision in
+Dresden Farm Equipment Ltd. v. Minister of National Revenue
+(1989), 2 F.T.R. 92; 89 D.T.C. 5019, at p. 5023 D.T.C., specified that a taxpayer who wishes to benefit from this inventory allowance must be the owner of the property that he wishes to have considered as part of that inventory:
+FRAGMENT_SUPPRESSED
+[8]
+It is obviously because of these last comments by Urie, J.A., of the Federal Court of Appeal that, having regard to the circumstances in the case at bar, counsel for the parties acknowledged that the answer to the following question was conclusive in resolving the issue between them:
+[Translation] "In law, who was the owner of the cheese that the plaintiff wanted to be considered as property in its inventory, and against whom were the assessments made by the Minister of National Revenue for the taxation years in issue?"
+[9]
+The evidence establishes that at the time in question the plaintiff required that its principal customers, the wholesale companies J.M. Schneider Inc., Balderson Cheese Limited, Koffman Foods Limited and Crescent Cheese Storage of Woodstock Limited, inform it of the quantities of cheese that they intended to purchase monthly for a twelve month period. Apparently, this enabled the plaintiff to procure adequate supplies from other cooperatives which were located in the countryside, and which manufactured cheese. It was these written agreements between the plaintiff and each of these wholesalers which governed the parties in this respect, having regard to the large quantities of cheese involved.
+[10]
+A standard form agreement relating to each of the four wholesalers was produced. These four agreements essentially contain the same clauses and therefore, for the purposes of deciding these proceedings, have the same effects in terms of the parties' rights and obligations. It therefore seems to me to be appropriate to quote the entire text of one of these standard form agreements: the one between the plaintiff and Balderson Cheese Limited, the only wholesaler for which a representative was called to testify at trial:
+"Montreal, February 12th, 1980
+Balderson Cheese Ltd.
+Balderson, Ontario
+K0F 1AG
+Attention Mr. Yves Leroux
+Dear Sir:
+In accordance with our telephone conversation with you, we, COOPERATIVE FEDEREE DE QUEBEC agree to sell to BALDERSON CHEESE LIMITED and BALDERSON CHEESE LIMITED agree to purchase the following:
+PRODUCT
+: Canadian cheddar cheese colored, heat treated
+QUALITY
+: Canada first grade
+QUANTITY
+: Approx. 1,000,000 pounds to be manufactured as follows:
+MONTHS	QUANTITIES
+April 1980	85,000 lbs.
+May	"	95,000 lbs.
+June	"	95,000 lbs.
+July	"	95,000 lbs.
+August	"	95,000 lbs.
+Sept.	"	80,000 lbs.
+Oct.	"	75,000 lbs.
+Nov.	"	80,000 lbs.
+Dec.	"	70,000 lbs.
+Jan. 1981	75,000 lbs.
+Feb.	"	75,000 lbs.
+March	"	80,000 lbs.
+CONDITIONS
+: 1. Commencing with the month of April 1980, COOPERATIVE FEDEREE DE QUEBEC shall place in storage at Montreal on behalf of BALDERSON CHEESE LIMITED such type and quantities of Canadian cheddar cheese as described above.
+2. COOPERATIVE FEDEREE DE QUEBEC shall give BALDERSON CHEESE LIMITED written notice of the amount of cheese, the base market price plus $0.035 at the time of grading and the date of manufacturing of each lot placed into storage hereunder during the preceding month.
+3. The purchase price to be paid by BALDERSON CHEESE LIMITED for the cheese shall be based on the average price at which the colored or white cheese shall be sold at the Belleville Auction the week the cheese is graded.
+4. The carrying charge covering storage, interest and insurance shall commence at the date of grading and shall be added to the base price plus $0.035 at the rate of $0.0235 per pound per month or per part of month.
+5. The cheese to be stored and delivered hereunder shall be Canada first grade at the time it is put into storage and shall be re-examined for BALDERSON CHEESE LIMITED protection by COOPERATIVE FEDEREE'S grader after five months. Should a representative of BALDERSON CHEESE LIMITED wish to attend this inspection, COOPERATIVE FEDEREE will advise BALDERSON CHEESE LIMITED of the date of each inspection.
+6. Any cheese stored beyond twelve months from the date of grading shall be invoiced to BALDERSON CHEESE LIMITED and all storage charges shall be paid by BALDERSON CHEESE LIMITED from then on.
+7. Should COOPERATIVE FEDEREE DE QUEBEC not be in a position to place into storage the total quantity required for one specific month, it is understood that the COOPERATIVE FEDEREE will give additional quantities during the following months to cover shortage.
+8. Neither party shall be held responsible in any way for failure to perform this contract on its part caused by strikes, accidents, riots, government orders, decreases in milk quota, damage to or destruction or other causes beyond the control of such party. When the execution is delayed for such a cause, the other party may, at its option, cancel the contract by a registered mail notice to the other party or delay the execution of the contract for the same length of time.
+9. Payment will be according to the policies of the COOPERATIVE FEDEREE DE QUEBEC.
+10. The selling price will be F.O.B. Montreal.
+11. Our Order No. 4003.
+Trusting this will be to your entire satisfaction and thanking you for this business, we remain,
+Yours very truly,
+COOPERATIVE FEDEREE DE QUEBEC
+Fernand MORIN
+Director of Marketing
+Dairy Products Division
+FM/jp
+ACCEPTED BY ... (G. Leroux)................
+TITLE ... (President) .................................
+FOR ... (Balderson Cheese) ........................
+DATE ... (March 14, 1980) .........................
+ACCEPTED BY ... (Philippe Desmarais).
+TITLE ... (Director) ..................................
+FOR ... (Coopérative Fédérée de Québec).
+DATE ...(February 14th, 1980)................."
+[11]
+After the cheese, which is a heat treated type of cheese, was manufactured by the cooperatives in the countryside and before it was delivered to the wholesalers in question, it was first delivered to the plaintiff for storage, although samples were retained by the manufacturers for the purposes of the classification that had to be done by Agriculture Canada. The cheese was generally classified within 60 days of the date it was manufactured.
+[12]
+The cheese could be stored either at the plaintiff's premises or in public storage facilities, until it had been aged for the desired length of time. Immediately after Agriculture Canada issued the certificate attesting to the quality of the cheese on the day it was classified, the cooperatives in the countryside invoiced the plaintiff. The plaintiff then sent each of its wholesaler customers a monthly confirmation in writing of the precise quantity of cheese that had been manufactured, retained, classified and stored on the wholesaler's behalf during the preceding month. The document further stated the base market price of the cheese at the time it was classified, the date each lot stored was manufactured and the financing charges associated therewith; a schedule even stated specific details relating to the number of each vat, the number of boxes, the weight of each and the classification level. Lastly, the document stated that the cheese was insured by the plaintiff against loss or damage by fire and that its agreement to store the cheese was subject to terms and conditions, including any additions or amendments set out in the usual sale contract between the storage facility and the wholesale customer. The wholesaler incurred no expense upon receipt of this written confirmation. An invoice was issued to it by the plaintiff only when the cheese was delivered.
+[13]
+First, the plaintiff contended that it was still the owner of the cheese until it was delivered to the wholesaler in Montreal, when an invoice was issued [translation] "as proof of sale". The defendant argued, on the other hand, that when the plaintiff delivered the written monthly confirmation document to the wholesaler this caused the immediate transfer of the ownership of the cheese described therein to that wholesaler. We would note that if the second argument is accepted, given that the quantities of cheese and amounts of money in issue are not otherwise in dispute, the plaintiff then acknowledges that the Minister's assessments which are the subject of these proceedings are valid. On the other hand, if the first argument is accepted, the plaintiff's actions must succeed. As the parties also acknowledge, given that all the relevant facts in this case arose in Quebec, the nature and effects of the real contract between the plaintiff and the wholesaler must be determined having regard to the
+Civil Code of Lower Canada
+, and not the new
+Civil Code of Québec
+, since this case had already been commenced when the new
+Civil Code of Québec
+came into force (s. 9 of the
+Act respecting the implementation of the reform of the Civil Code
+).
+[14]
+Thus, by its own terms, the initial written agreement between the plaintiff and its wholesaler is clearly a sale. In the standard form agreement reproduced supra, the plaintiff clearly states that "we agree to sell" to its wholesaler, which "agree to purchase [sic]" [see footnote 1], cheese ("Canadian cheddar cheese colored, heat treated"), at the price set out in clauses 3 and 4.
+[15]
+Given that the consent of the parties to the agreement and their legal capacity to contract were not disputed, it therefore appears that the other elements that are essential to the formation of the contract of sale - object and price - are present. On this point, Michel Pourcelet wrote in his book
+La Vente
+(5th Edition, Montréal, Les Editions Thémis Inc.), at page 5:
+[Translation] "Sale is subject to the conditions set out in articles 984 et seq. of the
+Civil Code
+relating to the validity of agreements: the consent of the parties, the legal capacity to contract, the object and lawful cause or consideration. Article 1472 reiterates the requirement that these conditions be met:
+'
+Sale is a contract by which one party gives a thing to the other for a price in money which the latter obliges himself to pay for it.
+...'
+"Article 1482 provides:
+'
+The capacity to buy or sell is governed by the general rules, relating to the capacity to contract, contained in chapter first, of the title
+Of Obligations.'
+"There are therefore four elements that are essential to the formation of a contract of sale: if one of the first three elements is missing (consent, object, price), the contract of sale cannot be formed. As well, if one of the contractors lacks capacity, annulment of the contract entered into may be sought."
+[16]
+The fact that the object of the sale entered into was cheese that was not yet manufactured and that the sale therefore had as its object a future thing cannot vitiate the contract; the sole effect of this is to delay transfer of ownership of the cheese until it is individualized, as Pourcelet wrote in the book referred to supra, at page 89:
+[Translation]
+"(B)
+The sale of future things
+"Article 1061, para. 1 of the
+Civil Code
+lays down the principle that 'future things may be the object of an obligation'. Accordingly, a contract of sale may have as its object a thing that does not yet exist but that will exist in the future. It may be a contract for the sale of natural fruits (crops to be harvested in future), for a thing yet to be fabricated (a ship, piece of furniture, house, apartment) or for a work of art (painting) yet to be created.
+"The fact that the thing does not exist at the time the contract is made makes it impossible to transfer ownership: the buyer cannot be the owner on the day the contract is made since the thing does not exist. Ownership will be transferred only on the day when the thing is individualized, or has identity."
+[17]
+We also know that it is not necessary for the price to be definitely determined in order for a contract of sale to be formed; it is sufficient if, as here, it is capable of being determined. This is confirmed by Pourcelet, again, in
+La Vente
+, supra, at page 80:
+[Translation]
+"
+Section 1. Determination of price
+"Price may be determined by the parties themselves or may be fixed by a third party (an expert), inter alia, when the parties do not agree as to the amount of the transaction. It is not necessary for the price to be definitely determined in order for the contract to be formed. It is sufficient for it to be capable of being determined.
+'
+A price which is of the essence of the contract of sale must be a certain and determined price. It is not necessary that it be absolutely determined; it is sufficient that it be such that it must become determined.
+'
+"Thus it is not important that the price be expressly determined in the offer, but there must be elements in the offer that make it possible to establish the price subsequently."
+[18]
+Since, in addition, this sale refers to a particular sort of cheese, with a specified quality, and to be manufactured in precise monthly quantities for twelve months to come, I am of the opinion that it is apparent that we have here a sale of nonindividualized goods, of the "by weight, number or measure" type contemplated in art. 1474 of the
+Civil Code of Lower Canada
+:
+"Art. 1474. When things moveable are sold by weight, number or measure, and not in the lump, the sale is not perfect until they have been weighed, counted or measured; but the buyer may demand the delivery of them or damages according to circumstances."
+[19]
+As an exception to art. 1472 of the
+Civil Code of Lower Canada
+, which provides that the sale is perfected by the consent alone of the parties, although the thing sold be not then delivered, art. 1474 delays the transfer of ownership of the goods sold until the time when they are individualized by being weighed, counted or measured. On this point, Pourcelet wrote, at page 87 of his book, supra:
+[Translation]
+"1.
+Sales by weight, number and measure
+"Ownership may apply only to an individualized thing. A thing is said to be individualized when it is identified. This is the Roman
+species
+, that is, the set of traits that characterize an object and make it recognizable. Ownership is transferred only at the time when the thing is determinate, that is, when it becomes an ascertained object. The terms of Article 1026 are absolute, and buttress the effect of Article 1474:
+'
+If the thing to be delivered be uncertain or indeterminate, the creditor does not become the owner of it until it is made certain and determinate, and he has been legally notified that it is so.
+'
+"In a sale by weight, number or measure, individualization is effected by weighing, counting or measuring, which must be done in accordance with the intention expressed by the parties. ...
+"The essential effect of individualization by the procedures referred to above is to transfer ownership to the buyer immediately."
+[20]
+In his book
+Les obligations
+(Cowansville, Les Editions Yvon Blais Inc.), Jean-Louis Baudouin stated the same opinion, at page 280:
+[Translation]
+"(b)
+Sale of a thing belonging to a class
+"486.
+Non-individualized object
+. Since ownership passes by simple consent, the intention of the parties must relate to a precise object. The physical object of the obligation to deliver must therefore have been individualized, that is, identified precisely. The sale of a thing belonging to a class, which is more accurately called a sale by weight, number or measure, is a sale in which weighing, counting or measuring is necessary not to determine the price, but to identify the actual object of the obligation to deliver. ...
+"In a sale by weight, number or measure, ownership is therefore transferred only when the object sold is individualized and identified and the buyer is so notified."
+[21]
+Not only do the other clauses, terms and conditions and details included in the initial written agreement and the confirming document not operate to alter the specific nature of the contract of sale, but on the contrary, they provide confirmation of that fact, on the whole. On this point, we need only refer to clauses 1, 5 and 6 of the standard form agreement reproduced supra: clause 1 provides that the cheese must be stored "on behalf of BALDERSON CHEESE LIMITED", the wholesaler; clause 5 provides for additional examinations of the quality of the cheese while it is in storage, for the wholesaler's benefit; and clause 6 provides that after the cheese has been stored for twelve months the wholesaler is required to pay the sale price, including storage charges, and shall pay all storage charges from then on. It is quite clear, on the facts as a whole, that once the monthly written confirmation was delivered, the plaintiff no longer had the attributes which are exclusively attached to ownership of the cheese described therein, such as the right to use the property as it wished and for its own personal advantage, and consume, destroy or dispose of it (see
+Saskatchewan Wheat Pool
+, supra, at page 36 [C.T.C.]).
+[22]
+In the circumstances, therefore, I am satisfied that in each case, the delivery of the written monthly confirmation by the plaintiff to its wholesaler relating to their prior written agreement operated to confirm the individualization of part of the cheese that was the object of the sale made under that agreement and to bring about the immediate transfer of ownership of the cheese thus individualized to the wholesaler.
+[23]
+The testimony offered by the plaintiff, which was that in some cases, inter alia, that of Balderson Cheese Limited, it sometimes permitted the wholesaler not to take delivery of the total quantity of cheese stored for it under their written agreement, without any obligation or penalty, changes nothing in respect of the ownership of the cheese in question. First, the evidence on that point was extremely vague; it did not refer to any precise case, involving any particular quantity of cheese for any specific period of time. In addition, this sort of occasional waiver of its rights by the plaintiff certainly did not operate generally to change the nature of the rights and obligations clearly resulting from the terms of the original written agreement between the plaintiff and its wholesaler, and from the monthly written confirmations relating thereto. In my view, the probative effect of written agreements made by businesspeople worthy of the name must prevail.
+[24]
+Lastly, the plaintiff's alternative argument, based on s. B.08.044. of the
+Food and Drug Regulations
+, which was that no person may sell any cheese that is not made from a pasteurized source, unless the cheese has been stored, must be rejected. If, by reason of that provision, the cheese in question had to be considered to be something that was not an object of commerce and that could therefore not, under art. 1059 of the
+Civil Code of Lower Canada
+, be the object of a sale or become the property of the wholesalers, then nor could it be the object of a sale by the manufacturers to the plaintiff, or be part of the plaintiff's inventory within the meaning of the
+Income Tax Act
+. In any event, the facts in evidence in this case would justify applying the exception set out in s. B.08.045. of the
+Food and Drug Regulations
+, the relevant provisions of which are as follows:
+"B.08.045. Notwithstanding B.08.044., cheese that has not been manufactured from a pasteurized source and has not been stored
+but is marked or branded with the date of the beginning of the manufacturing process
+, may be sold to
+(a) a wholesaler; ..." (Emphasis added)
+[25]
+For all these reasons, I must conclude that the plaintiff was not the owner of the cheese which it sought to have considered as part of its inventory, and which is the subject of the Minister's assessments in issue. Accordingly, both of the plaintiff's actions must be dismissed with costs.
+Appeals dismissed.
+Editor: Jean Merlini/nmg
+Footnotes
+1.	In the case of the wholesaler Koffman Foods Limited alone, the agreement states, rather, that the plaintiff is "pleased to confirm our sale of CHEDDAR cheese", and the document also contains the wholesaler's written agreement.

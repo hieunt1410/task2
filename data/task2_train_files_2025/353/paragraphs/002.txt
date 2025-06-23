@@ -1,0 +1,31 @@
+[2]
+The following provisions of the
+Yukon Quartz Mining Act
+are the most relevant to this case.
+"12. Any individual eighteen years of age or over may enter, locate, prospect and mine for minerals on
+(a) any vacant territorial lands in the Territory, and
+(b) any lands in the Territory in respect of which the right to enter, prospect and mine for minerals is reserved to the Crown.
+. . . . .
+"16(1) Any person who desires to locate a mineral claim shall, subject to the provisions of this Act with respect to land that may be located for that purpose, enter on the land and locate a rectangular plot of ground not exceeding one thousand five hundred feet in length by one thousand five hundred feet in breadth.
+"16(2) Priority of location shall be deemed to convey priority of rights to mineral claims located, but no locator of a claim has any prior rights unless and until he has located his claim in accordance with this Act.
+"16(3) Priority of right is in all cases subject to the mineral claim being recorded within the times specified in this Act and subsequently maintained in good standing.
+"16(4) All angles of a mineral claim shall be right angles, except in cases where a boundary line of a previously located claim is adopted as common to both locations.
+"16(5) In defining the size of a mineral claim, it shall be measured horizontally, irrespective of the inequalities of the surface of the ground.
+"17. Any person of the prescribed age who desires to locate a fractional mineral claim shall, subject to the provisions of this Act with respect to land that may be located for that purpose, enter on the land and locate any plot of ground lying between and bounded on opposite sides by previously located mineral claims and measuring less than one thousand five hundred feet in length by one thousand five hundred feet in breadth as a fractional mineral claim, which claim need not be rectangular in form and the angles need not be right angles, and the lines of the previously located mineral claims, whether surveyed or not, between which the fractional mineral claim is located, may be adopted as the boundaries of the fractional mineral claim.
+. . . . .
+"39(1) Every person who locates a mineral claim shall record it with the mining recorder for the district in which the claim is situated within fifteen days after the location thereof if it is located within ten miles of the officer of the mining recorder.
+"39(2) One additional day shall be allowed for every additional ten miles or fraction thereof for recording a claim under subs. (1).
+"39(3) The record of a mineral claim shall be made in a book to be kept for the purpose in the office of the mining recorder in which shall be inserted the name of the claim, the name of the locator, the locality, the direction and length of the line from post No. 1 to post No. 2, the date of the location and the date of record.
+"39(4) The record of a mineral claim shall be, as nearly as may be possible, in Form 3 of Schedule I, which form, duly completed and signed, shall be given by the mining recorder to the locator or his agent.
+"39(5) A mineral claim that has not been recorded within the prescribed period shall be deemed to have been abandoned and forfeited without any declaration of cancellation or abandonment on the part of the Crown.
+. . . . .
+"42(1) No mineral claim shall be recorded unless the application therefor is accompanied by an affidavit or solemn declaration made by the applicant in Form 1 of Schedule I, or, if it is a fractional mineral claim, in Form 2 of that Schedule.
+"42(2) Each application for a mineral claim shall be filed in duplicate with a mining recorder.
+"43(1) Failure on the part of the locator of a mineral claim to comply in every respect with the provisions of ss. 39 to 42 shall not be deemed to invalidate the location, if on the facts it appears to the satisfaction of a mining recorder that the locator has staked out the location as nearly as possible in the manner prescribed, that there has been on the part of the locator an honest attempt to comply with all the provisions of this Act and that the nonobservance of any of the formalities referred to in ss. 39 to 42 is not of a character calculated to mislead other persons who desire to locate claims in the vicinity.
+"43(2) A mining recorder may, before granting entry, require the locator of a mineral claim to immediately remedy any material defaults committed in the observance of the formalities required by this Act in respect of the location of the mineral claim, and if the defaults are not remedied within a period to be fixed by the mining recorder, and to his satisfaction, entry may be refused."
+It will be noted that s. 42(1) requires the applicant for recording to provide an affidavit in Form 1 in respect of a full claim (as described in s. 16) and an affidavit in Form 2 in respect of a fractional claim (as described in s. 17). Paragraph 6 of the affidavit prescribed by Form 1 requires the applicant to swear the following statement:
+"6. To the best of my knowledge and belief the ground comprised within the boundaries of the said claim is unoccupied and unrecorded by any other person as a mineral claim and it is not occupied by any building or any land falling within the curtilage of any dwelling-house, any land under cultivation or any land reserved from entry under the
+Yukon Quartz Mining Act
+."
+Paragraph 8 of Form 2 is for present purposes essentially to the same effect although making reference to a fractional claim.
+Facts

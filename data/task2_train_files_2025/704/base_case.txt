@@ -1,0 +1,549 @@
+[1]
+MacKay, J.
+: This is an action heard in Saskatoon, against the defendants, pursuant to the
+Patent Act
+, R.S.C. 1985, c. P-4 (the "
+Act
+"), for alleged infringement of the plaintiffs' Canadian Letters Patent No. 1,313,830. The infringement alleged is by the defendants using, reproducing and creating genes, cells and canola seeds and plants containing genes and cells claimed in the plaintiffs' patent, and by selling the canola seed they harvested, all without the consent or licence of the plaintiffs. The commercial product resulting from the plaintiffs' development, from its patent and licensing agreements, is known as "Roundup Ready Canola", a canola seed that is tolerant of glyphosate herbicides including the plaintiffs' "Roundup".
+[2]
+On consideration of the evidence adduced, and the submissions, oral and written, on behalf of the parties I conclude that the plaintiffs' action is allowed and some of the remedies they seek should be granted. These reasons set out the bases for my conclusions, in particular my finding that, on the balance of probabilities, the defendants infringed a number of the claims under the plaintiffs' Canadian patent number 1,313,830 by planting, in 1998, without leave or licence by the plaintiffs, canola fields with seed saved from the 1997 crop which seed was known, or ought to have been known by the defendants to be Roundup tolerant and when tested was found to contain the gene and cells claimed under the plaintiffs' patent. By selling the seed harvested in 1998 the defendants further infringed the plaintiffs' patent.
+[3]
+The Reasons are lengthy. For reference the paragraphs here numbered indicate the principal topics, as follows.
+Paragraph
+Topic
+[4]
+Introduction
+[15]
+The plaintiffs' patent and its licensing
+[29]
+Mr. Schmeiser's farming practice
+[36]
+Testing of Mr. Schmeiser's canola
+[60]
+The issues
+[62]
+Admissibility of evidence of tests conducted on samples
+[77]
+The validity of the plaintiffs' patent
+[91]
+Loss of waiver of the plaintiffs' patent rights
+[101]
+Infringement of the patent
+[128]
+Remedies for infrongement
+[146]
+Conclusions
+Introduction
+[4]
+The plaintiff Monsanto Canada Inc. ("Monsanto Canada") is incorporated under the laws of Canada, and has its principal place of business in Mississauga, Ontario. The plaintiff Monsanto Company ("Monsanto US") is incorporated under the laws of the state of Delaware, U.S.A., and has its principal place of business in St. Louis, Missouri, U.S.A. Reference to both corporations in these reasons is made by the terms "Monsanto" or "the plaintiffs."
+[5]
+On February 23, 1993, Monsanto US was issued Canadian Letters Patent No. 1,313,830 ("the '830 patent") for an invention termed "Glyphosate-Resistant Plants." The '830 patent grants Monsanto US the exclusive right, privilege and liberty of making, constructing, using and selling the invention for the full term of the patent. The patent term ends on February 23, 2010. Monsanto Canada is a licensee under the '830 patent.
+[6]
+The defendant, Percy Schmeiser ("Mr. Schmeiser"), is an individual who resides near Bruno, Saskatchewan, and who has farmed in that region for more than 50 years.
+The defendant, Schmeiser Enterprises Ltd., is a corporation organized under the laws of Saskatchewan. It has existed since 1960 in relation to a number of other businesses operated by Mr. Schmeiser, and it was assigned control of his farming business in 1996. The only shareholders and directors of the corporation are Mr. Schmeiser and his wife. Reference to both defendants in these reasons is made by the terms "Schmeiser" or "the defendants."
+[7]
+Mr. Schmeiser has been farming near Bruno in the Rural Municipality of Bayne, Saskatchewan, for approximately 50 years. He has grown canola since the 1950's. There, in 1998, the year giving rise to the plaintiffs' claim, his corporation farmed nine fields, in which 1030 acres were devoted exclusively to growing canola. In addition to his farming, Mr. Schmeiser has an extensive history in municipal and provincial politics, and as a businessman and an adventurer.
+[8]
+The plaintiffs' claim alleges that in 1998 the defendants planted glyphosate-resistant seeds to grow a crop of canola, for harvest, having a gene or cell that is the subject of the plaintiffs' patent. By so doing the defendants are said to use, reproduce and create genes, cells, plants and seeds containing the genes and cells claimed in the plaintiffs' patent. The parties agree that the defendants did not at any time sign a Technology Use Agreement ("TUA"), the plaintiffs' form of license for growers of the seed containing the patented gene.
+[9]
+This action, initiated on August 6, 1998, by amended Statement of Claim, dated August 27, 1999, seeks the following relief:
+"(a) An injunction restraining the defendants including all agents, employees, servants, persons under the control of or acting in concert with the defendants from:
+(i) using, growing, cultivating or harvesting any and all quantities of seeds and crop grown from said seeds containing genes or cells in accordance with any of claims 1, 2, 5, 6, 7, 22, 23, 26, 27, 28 and 45 of Canadian Letters Patent No. 1,313,830.
+. . . . .
+(iii) offering for sale, selling, marketing, advertising, distributing or otherwise in Canada by any means any and all quantities of seed and crop grown from said seed containing genes or cells in accordance with any of claims 1, 2, 5, 6, 7, 22, 23, 26, 27, 28 and 45 of Canadian Letters Patent No. 1,313,830.
+"(b) Delivery up by the defendants of any and all of the seeds or crop in the possession, care, custody or control of the defendants or for which the defendants have title to, in Canada, containing said patented genes or cells or produced according to said patented method or which in any way offend against such Orders as may be made herein;
+"(c) General damages exclusive of interest and costs; or an accounting of profits of the defendants, whichever the plaintiffs may elect after discovery in a reference as to both or either as the plaintiffs may elect;
+"(d) Punitive and exemplary damages;
+"(e) Pre and post judgment interest on all monetary awards at a rate of at least 1% more than the prime banking lending rates;
+"(f) The plaintiffs' costs of this action on a solicitor and client basis; ..."
+[10]
+The claim for damages or an accounting of profits was modified at trial with counsel for the plaintiffs then asking, on behalf of Monsanto Canada, for damages of $15 per acre of land seeded for canola in 1998 (1,030 acres), yielding $15,450.00 in general damages, the equivalent of a license fee for growing the plaintiffs' seed containing the patented gene. In addition, on behalf of Monsanto US, as the patent owner, an accounting of profits is elected, in the amount of $105,000.00. If this Court does not find that the individual plaintiffs are entitled to elect different heads of damage, the plaintiffs jointly claim for profits in the amount of $105,000.00. At trial, counsel for the plaintiffs also requested the amount of $25,000.00 for punitive and exemplary damages, claimed in the amended Statement of Claim, to deter others from actions similar to those of the defendants.
+[11]
+The defendants do not deny the presence of Roundup Ready canola in their fields in 1998, but they urged at trial that neither Mr. Schmeiser nor Schmeiser Enterprises Ltd. have ever deliberately planted, or caused to be planted, any seeds licensed by the plaintiffs containing the patented gene. The defendants further asserted that substantial damage and loss has been suffered by them because of the herbicide-resistant plants. It is said for them that it is not possible to control the growth of the Roundup Ready canola with normal herbicides, it interferes with crop selection, making it difficult to plant anything other than canola, and it requires the adoption of new farming practices. I note that despite this claim no counterclaim by the defendants is before the Court. They do urge that, even if the plaintiffs' patented gene is present in the canola grown by the defendants, that gene must be used, in the sense that the crop must be sprayed with the herbicide Roundup, before any infringement of the patent can be found.
+[12]
+The defendants urged at trial that by the unconfined release of the gene into the environment the plaintiffs have not controlled its spread, and did not intend to do so, and they have thus lost or waived their right to exercise an exclusive patent over the gene.
+[13]
+The defendants further asserted at trial that Canadian Patent No. 1,313,830 is, and always has been, invalid and void because:
+"(a) the alleged invention is a life form intended for human consumption and is not the proper subject matter for a patent; it is self-propagating and can spread without human intervention;
+"(b) the patent was obtained for an illicit purpose of creating a noxious plant that would spread by natural means to the lands of innocent parties so as to entrap them with nuisance patent infringement claims. I note that no evidence was adduced and no argument was directed at trial to the alleged illicit purpose;
+"(c) if infringement is found the plaintiffs would in effect obtain a patent for a plant, which it is urged is not possible in Canada in light of the
+Plant Breeders' Rights Act
+which provides for protection of new varieties of plants."
+[14]
+At trial, the defendants submitted that Mr. Schmeiser is entitled to the protection of the corporate defendant, and if infringement be found, liability should be limited to the company and not extended to him personally. The defendants also maintain that exemplary and punitive damages are not warranted and would be excessive in a situation such as this where the defendants are already facing financial ruin should this Court find against them. Finally, they oppose the award of separate relief to each of the plaintiffs here claimed, i.e. they oppose general damages for Monsanto Canada and an accounting of profits for Monsanto US.
+The plaintiffs' patent and its licensing
+[15]
+The patent in issue, entitled "Glyphosate-Resistant Plants", concerns man-made genetically-engineered genes, and cells containing those genes which, when inserted in plants, in this case canola, make those plants resistant to glyphosate herbicides such as Monsanto's product sold under the trade-mark Roundup. Glyphosate herbicides inhibit the enzyme known as EPSPS, required to produce a particular amino acid essential for the growth and survival of a very broad range of plants. The herbicide so inhibits the enzyme EPSPS that most plants sprayed with Roundup or other glyphosates do not survive.
+[16]
+By laboratory developments scientists of Monsanto US created a genetic insert, known as RT73, which, when introduced into the DNA of canola cells by a transformation vector, produces a variety of canola with a high level of tolerance to glyphosate. Once the modified gene is inserted in the DNA of the plant cells, the plant, its stem, leaves, seeds, etc., contain the modified gene. The plant's progeny, growing from seed with the patented gene and cells, will largely be comprised of cells with the modified gene. Thus the offspring or seeds of Roundup Ready canola, which is mainly self-germinating, contain the modified gene so that they too are glyphosate-tolerant.
+[17]
+Glyphosate herbicides such as Roundup have been widely used in Canada for many years. Canola tolerant to glyphosate first became available commercially in Canada in 1996. It has been marketed under licensing arrangements through Monsanto Canada under Monsanto's trade-mark Roundup Ready Canola. In 1996 approximately 600 farmers in Canada planted Roundup Ready canola, on some 50,000 acres. By 2000, approximately 4.5 to 5 million acres of Roundup Ready canola were planted in Canada, by about 20,000 farmers, producing nearly 40% of canola grown in Canada.
+[18]
+Canola growing in western Canada is a great Canadian success story. Rape seed was grown on a relatively small scale for many years. Now with the development, largely by Canadian scientists, of high yield seed, now called canola, crops for oil for human consumption and meal for animal feed, provide the greatest annual value of all grain crops in Canada.
+[19]
+The advantage of Roundup Ready canola is that it is tolerant to the glyphosate herbicide Roundup which can be sprayed after the desired crop has emerged, killing other plants. This procedure is said to avoid any need to delay seeding for early weed spraying, to avoid the use of other special types of herbicides, and to eliminate the need for extensive tillage of the land, thus preserving moisture in the ground.
+[20]
+Monsanto's '830 patent includes in its disclosure a statement of the objective, and a summary, of the invention. These provide in part:
+"... The object of this invention is to provide a method of genetically transforming plant cells which causes the cells and plants regenerated therefrom to become resistant to glyphosate and the herbicidal salts thereof.
+. . . . .
+"This invention involves a cloning or expression vector comprising a gene which encodes 5-enolpyruvylshikimate-3-phospate synthase (EPSPS) polypeptide which, when expressed in a plant cell contains a chloroplast transit peptide which allows the polypeptide, or an enzymatically active portion thereof, to be transported from the cytoplasm of the plant cell into a chloroplast in the plant cell, and confers a substantial degree of glyphosate resistance upon the plant cell and plants regenerated therefrom."
+[21]
+The claims of the invention which in this action are said to be infringed include the following:
+"1. A chimeric plant gene which comprises:
+(a) a promoter sequence which functions in plant cells;
+(b) a coding sequence which causes the production of RNA, encoding a chloroplast transit peptide/5-enolpyruvylshikimate-3-phosphate synthase (EPSPS) fusion polypeptide, which chloroplast transit peptide permits the fusion polypeptide to be imported into a chloroplast of a plant cell; and
+(c) a 3' non-translated region which encodes a polyadenylation signal which functions in plant cells to cause the addition to polyadenylate nucleotides to the 3' end of the RNA;
+the promoter being heterologous with respect to the coding sequence and adapted to cause sufficient expression of the fusion polypeptide to enhance the glyphosate resistance of a plant cell transformed with the gene.
+"2. A chimeric gene of Claim 1 in which the promoter sequence is a plant virus promoter sequence.
+. . . . .
+"5. A chimeric gene of Claim 1 in which the coding sequence encodes a mutant 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS).
+"6. A chimeric gene of Claim 1 in which the EPSPS coding sequence encodes an EPSPS from an organism selected from the group consisting of bacteria, fungi and plants.
+"7. A chimeric gene of Claim 1 in which the chloroplast transit peptide is from a plant EPSPS gene.
+. . . . .
+"22. A glyphosate-resistant plant cell comprising a chimeric plant gene of Claim 1.
+"23. A glyphosate-resistant plant cell of Claim 22 in which the promoter sequence is a plant virus promoter sequence.
+. . . . .
+"26. A glyphosate-resistant plant cell of Claim 22 in which the coding sequence encodes a mutant 5-enolpyruvylshikimate-3-phosphate synthase.
+"27. A glyphosate-resistant plant cell of Claim 22 in which the coding sequence encodes an EPSPS from an organism selected from the group consisting of bacteria, fungi and plants.
+"28. A glyphosate-resistant plant cell of Claim 22 in which the chloroplast transit peptide is from a plant EPSPS gene.
+. . . . .
+"45. A glyphosate-resistant oil seed rape cell of Claim 22."
+[22]
+The "chimeric" plant gene is a gene (i.e. DNA) that was molecularly engineered using multiple sources including plant, viral and bacterial DNA. Claim 1 of the patent sets out the basic claim to a chimeric plant gene. Claims 2, 5, 6, and 7 are claims dependant upon claim 1. Claim 22, also dependant upon claim 1, is for a glyphosate-resistant plant cell comprising a chimeric plant gene of claim 1, and claims 23, 26, 27 and 28, are dependant upon claim 22. Claim 45 is a glyphosate-resistant oil seed rape cell of claim 22.
+[23]
+In interpreting the claims of a patent the Court takes a purposive approach not one unduly technical or
+Catnic Components Ltd. et al. v. Hill & Smith Ltd.
+, [1982] R.P.C. 183 (H.L.)). The interpretation should be fair and reasonable to both the patentee and the public (
+Burton Parsons Chemicals Inc. et al. v. Hewlett-Packard (Canada) Ltd. et al.
+, [1976] 1 S.C.R. 555; 3 N.R. 553; 17 C.P.R.(2d) 97. If the words of the claim are clear and unambiguous it is not necessary to look any further to discover the nature of an invention.
+[24]
+Evidence of the development and the nature of the patent was presented on behalf of the plaintiffs by Dr. Robert B. Horsch, an employee of Monsanto US and one of the inventors of the patent, and by Ms. Doris Dixon, a microbiologist employed by Monsanto, responsible for the testing undertaken by the plaintiffs in regard to some of the samples of Schmeiser's canola crop in 1998. None of their evidence about the nature of the patent was contested.
+[25]
+Moreover, in my opinion, the construction of the patent, in relation to the claims in issue, is not contested except in relation to the claim for infringement. There the scope of the patent is in issue by the defence that since the defendants did not spray their 1998 crop of canola with Roundup herbicide, after it had emerged, they did not use the plaintiffs' invention. That issue I return to; here I propose simply to construe the patent.
+[26]
+In my opinion the claims in issue are clearly expressed and it is unnecessary to consider the description or disclosure to understand them. Claims 1, 2, 5, 6 and 7 each claim a chimeric plant gene with characteristics as specified in the claim. Claims 22, 23, 26, 27, and 28, each concern a glyphosate-resistant plant cell comprising a chimeric plant gene of claim 1, with other specified characteristics of the cell specified for claims other than claim 22. Finally, claim 45 claims simply a glyphosate-resistant oil seed rape cell of claim 22. The presence of the chimeric plant gene described in claim 1 is essential for all of the claims. The claims relate to genes and cells which are glyphosate-resistant. Obviously the invention has utility in resistance to glyphosate, but none of the claims specifies this utility nor does it require the use of glyphosate, such as Roundup herbicide, for the invention claimed.
+[27]
+Because the progeny of glyphosate-resistant canola will contain the modified gene and will also be glyphosate-resistant, Monsanto developed a licensing arrangement to protect its patent, and its market, by limiting the opportunity of a grower, under licence, to sell or give seed to another or to retain it for his own use.
+[28]
+All of the plaintiffs' licensing arrangements in Canada are made by or on behalf of Monsanto Canada. It licenses commercial seed growers to grow Roundup Ready canola for seed purposes. Farmers are required to attend a Grower Enrollment Meeting conducted by Monsanto representatives who describe the gene technology and the licensing terms for its use. A grower must be certified to use the gene technology by signing a Roundup Ready grower agreement. This entitles a farmer to purchase Roundup Ready canola seed from an authorized Monsanto agent, but to acquire seed the farmer must also sign a Technology Use Agreement provided by the retail seed agent acting for Monsanto Canada. Under the latter agreement, the farmer can use the seed for planting only one crop, to be sold for consumption to a commercial purchaser authorized by Monsanto. The farmer undertakes not to sell or give seed to any other third party and not to save seed for his own replanting or inventory. Under the TUA Monsanto has the right to inspect the fields of the contracting farmer and to take samples to verify compliance with the agreement.
+Mr. Schmeiser's farming practices
+[29]
+As is apparently common practice for a number of canola farmers in the Bruno area, Mr. Schmeiser routinely saved a portion of the canola harvested on his property to serve as seed for the next generation of crops. Through this procedure, Mr. Schmeiser was able to avoid purchasing canola seed after 1993, until 1999, and over the years he believes he was able to develop his own strain of canola that was relatively resistant to various forms of diseases that tend to attack canola.
+[30]
+It is the defendants' usual practice to grow a conventional variety of canola known as Argentine canola. They also grow wheat and peas, and in addition portions of his land are subject to summer fallow from time to time. For a number of years, Mr. Schmeiser has chosen to grow canola crops back-to-back in the same fields for a period of up to four years. At trial, he asserted that the advantage to such a farming practice is that one may then utilize the benefits of the fertilizer applied the year before, thereby using less and often creating a greater crop yield in the subsequent years. It is also the general practice of Mr. Schmeiser to time the cultivation of his land so as to avoid tilling potentially diseased plant remains into the soil and thereby reducing the possibility of certain diseases developing in new crops. Through this practice over the long-term the defendants say Mr. Schmeiser has been able to grow canola crops that are relatively free of weeds and the common diseases of blackleg and sclerotinia that plague canola. He claims his crops have been better-than-average yields in the Bruno, Saskatchewan area.
+[31]
+Mr. Schmeiser testified that it is his general practice to use chemical herbicides as little as possible. However, he does use them when necessary for weed control. He prefers to utilize herbicides that can be incorporated into the soil, unlike Roundup, or those that can be applied in the spring, as these kill weeds when they germinate, thereby preventing the substantial loss of soil moisture that is suffered with the growth of weeds. He believes herbicide incorporated in the soil will be effective up to three years. Mr. Schmeiser also testified that he has used Roundup, particularly to burn off his fields before planting, or to "chem fallow" fields, and also for spraying for weeds and volunteer plants around power poles and in road ditches. He does not like to use it on a growing canola crop. He finds that when sprayed on a growing crop it leaves a residue that kills a substantial amount of bacteria in the soil which affects the yield from back-to-back planting and increases the possibility of root diseases, such as blackleg and sclerotinia, in canola.
+[32]
+In 1998 the defendants planted canola seed in all or part of each of eight quarter sections (containing nine fields), all within the Rural Municipality of Bayne No. 371, a total of 1,030 acres of canola. That crop was planted from seed said to have been saved from his 1997 crop, from his field number 2. In 1997 six of the same fields as in 1998, i.e. fields other than those identified at trial as fields 4, 7 and 9, were planted wholly or partly in canola, a total of 780 acres of canola. The 1997 crop was planted from seed said to have been saved from the 1996 crop, from field 1, when a total of 370 acres of canola was planted in all or parts of fields 1, 4, 6 and 7.
+[33]
+In the 1996 crop year, from which Mr. Schmeiser's 1998 seed was said to be derived through the 1997 crop, there were five other growers with farms in the Rural Municipality of Bayne No. 371 who grew Roundup Ready canola. It is the evidence of Aaron Mitchell, Biotechnology Manager, Research Development Department of Monsanto, at Saskatoon, that of the farms licensed to grown Roundup Ready canola in 1996 the closest field to the defendants' field number 2, from which seed was saved in 1997, was approximately five miles.
+[34]
+I note that in 1996 one of the licensed farmers, Mr. Huber, a neighbour of Mr. Schmeiser, grew seed under license from Monsanto on a quarter section just north and west of, and diagonally adjacent to, Mr. Schmeiser's field No. 6. It was the evidence at trial of Mr. Schmeiser's hired man, Carlysle Moritz, that at the end of the 1996 crop year, a substantial swath of canola had blown from Mr. Huber's land onto field No. 6. There was no evidence that seed from Schmeiser's field No. 6 was saved in 1996 to be used as seed for his 1997 crop.
+[35]
+The evidence of Mr. Mitchell for Monsanto is that after both the 1996 and 1997 crop years, the crop was collected from licensed growers by commercial truckers who delivered all of the canola to crushing plants in trucks with tight tarpaulins. In the case of the Bruno crop area, the crushing plants were located at Nipawin or Clavet.
+Testing of Mr. Schmeiser's canola
+[36]
+Despite inconsistencies in the recollections of witnesses for the plaintiffs on the one hand, and for the defendants on the other, the chronology of events leading to the commencement of this action can be generally described.
+[37]
+In the summer of 1997, the plaintiffs, through Robinson Investigations, a private agency in Saskatoon, undertook random audits of canola crops growing in Saskatchewan. The farms were identified by Monsanto from among their licensed farmers, or from leads or tips suggesting that Roundup Ready seed might be growing on property of an unlicensed farmer, or from random inspections undertaken to audit a farming area. The defendants' farm was included in this audit process after an anonymous tip was received indicating that Roundup Ready canola was being grown in Schmeiser's fields, where it was not licensed.
+[38]
+As we have noted Mr. Schmeiser testified that in 1997 he planted his canola crop with seed saved from 1996 which he believed came mainly from field number 1. Roundup-resistant canola was first noticed in his crop in 1997, when Mr. Schmeiser and his hired hand, Carlysle Moritz, hand-sprayed Roundup around the power poles and in ditches along the road bordering fields 1, 2, 3 and 4. These fields are adjacent to one another and are located along the east side of the main paved grid road that leads south to Bruno from these fields. This spraying was part of the regular farming practices of the defendants, to kill weeds and volunteer plants around power poles and in ditches. Several days after the spraying, Mr. Schmeiser noticed that a large portion of the plants earlier sprayed by hand had survived the spraying with the Roundup herbicide.
+[39]
+In an attempt to determine why the plants had survived the herbicide spraying, Mr. Schmeiser conducted a test in field 2. Using his sprayer, he sprayed, with Roundup herbicide, a section of that field in a strip along the road. He made two passes with his sprayer set to spray 40 feet, the first weaving between and around the power poles, and the second beyond but adjacent to the first pass in the field, and parallel to the power poles. This was said by him to be some three to four acres in all, or "a good three acres". After some days, approximately 60% of the plants earlier sprayed had persisted and continued to grow. Mr. Schmeiser testified that these plants grew in clumps which were thickest near the road and began to thin as one moved farther into the field.
+[40]
+Despite this result Mr. Schmeiser continued to work field 2, and, at harvest, Carlysle Moritz, on instruction from Mr. Schmeiser, swathed and combined field 2. He included swaths from the surviving canola seed along the roadside in the first load of seed in the combine which he emptied into an old Ford truck located in the field. That truck was covered with a tarp and later it was towed to one of Mr. Schmeiser's outbuildings at Bruno. In the spring of 1998 the seed from the old Ford truck was taken by Mr. Schmeiser in another truck to the Humboldt Flour Mill ("HFM") for treatment. After that, Mr. Schmeiser's testimony is that the treated seed was mixed with some bin-run seed and fertilizer and then used for planting his 1998 canola crop.
+Derbyshire samples, 1997 crop
+[41]
+Before the 1997 crop was harvested, acting for Robinson Investigations, on August 18, 1997, Mr. Wayne Derbyshire, after trying unsuccessfully to speak with Mr. Schmeiser at his garage and at his residence, took pod samples of canola from the west side, along the road allowance, beside field 2 and from the south and east sides along the road allowances bordering field 5. He testified he did not trespass on Schmeiser's land, taking his samples from the crop apparently planted, as Mr. Schmeiser does and many other farmers do, in the road allowance bordering his fields. Mr. Derbyshire placed the samples of pods from three or four plants in separate bags, marking them for identification by Mr. Schmeiser's name, the date, his own file number and the number of the sample. The location of the sample gathering was described by Mr. Derbyshire in a document dated August 21, 1997, which, with the samples, was delivered to Robinson Investigations in Saskatoon on August 27, by courier. Until then the samples had been retained, sealed, in Mr. Derbyshire's car until his work in the Bruno area was completed on August 19. Thereafter he returned home to Regina after one further crop auditing by samples taken near North Battleford. At Regina, the samples from the borders of Schmeiser's fields were retained in Mr. Derbyshire's freezer until they were sent to Saskatoon.
+[42]
+After these samples were received by Mr. Mike Robinson, president of Robinson Investigations, he forwarded them on September 2, 1997 to Aaron Mitchell, who was accepted at trial as an expert on weed control and agronomy, including the use of Roundup and canola. Mr. Mitchell air-dried the samples, removed seeds from the pods and resealed the seeds in envelopes. He delivered these in the fall of 1997 to the Phytoton Manager at the Crop Science Department of the University of Saskatchewan. Four seeds from each sample were planted for a grow out test. The remaining seed samples were returned to Mr. Mitchell, who retained those samples until they were delivered to Dr. Keith Downey on January 24, 2000 for the purpose of undertaking a further grow-out test of the remaining samples taken originally in 1997.
+[43]
+At the University of Saskatchewan in the fall of 1997, four seeds of each sample were planted and two, three or four of the seeds germinated from each sample. When these reached the two or three leaf stage they were sprayed with Roundup herbicide. More than three weeks later all plants from five of these samples had survived the spraying. One of the samples from the border of field 5, from which only one seed germinated, did not contain any plant tolerant to Roundup. Mr. Mitchell believes this demonstrated that Roundup Ready canola was growing on Mr. Schmeiser's fields.
+[44]
+In early 2000 Dr. Downey arranged for a grow-out test of the sample provided by Mr. Mitchell from seeds retained from the 1997 sample. Mr. Schmeiser and his counsel were invited to be present at commencement of the test. There were differences in the testimony of Dr. Downey and Mr. Schmeiser about the presence of cleaver seeds among the sample seeds. All seeds in the sample provided to Dr. Downey were planted. The grow-out test of the seeds resulted in about 50% of the seeds germinating. The subsequent application of Roundup herbicide left surviving all of the plants which germinated from the seed, demonstrating they were glyphosate tolerant. This led Dr. Downey to conclude that the seeds provided to him from the 1997 sample taken of plants growing along the road allowances of fields 2 and 5, demonstrated that the canola plants growing there were not the result of pollen movement into those fields, or out crossing between glyphosate-resistant and susceptible plants. Rather, in his view, the high percentage of glyphosate-tolerant plants, among those which had germinated, indicated they were grown from commercial Roundup Ready canola seed.
+[45]
+As a result of the 1997 test on samples of Schmeiser's canola, in March 1998, Mr. Robinson, on instruction from Monsanto, visited Mr. Schmeiser in Bruno, and advised him that it was believed that Schmeiser had grown Roundup Ready canola the previous summer. Mr. Robinson testified he told Mr. Schmeiser that he was representing Monsanto and that samples had been taken the previous summer. Mr. Schmeiser denies this was said. His version of their conversation differs from that of Mr. Robinson, but nothing turns on this. It did provide notice to Schmeiser that Monsanto believed he had grown their product without a license. Mr. Schmeiser claimed that Mr. Robinson declined to permit their conversation to be tape recorded, a claim Robinson denies. Ultimately, Mr. Schmeiser says he did not treat seriously the concern raised by Mr. Robinson.
+Samples from Humboldt Flour Mills
+[46]
+Later in the spring of 1998, Monsanto representatives learned that the defendants had seed treated at the HFM and that HFM had retained samples of his seed for its own purposes. They requested a sample of the seed withheld from Mr. Schmeiser by HFM. Mr. Schmeiser had not previously used HFM for seed-treating purposes, and he was not aware that samples were regularly taken from the seed provided by farmers. As was done for all others whose seed was treated, HFM did take samples of the seed brought in by the defendants and of the seed after treatment and before delivery to Schmeiser. HFM provided a portion of both samples to Monsanto without informing Mr. Schmeiser that this had been done.
+[47]
+With respect to the specimens taken by HFM in April 1998, the portions not provided to a Monsanto representative were kept in the possession of HFM, and turned over to its successor, when control of the business was assumed by the Saskatchewan Wheat Pool. When the samples were provided in April 1998 to the Monsanto representative, Mr. Robert Chomyn, he forwarded them to Mr. Aaron Mitchell on April 28, 1998. Mitchell subsequently divided the samples. Half of them he sent, on January 18, 1999, to Mr. Leon Perehudoff of Prairie Plant Systems, to conduct further grow-out tests. From those tests leaf samples were sent to Ms. Doris Dixon of Monsanto US for genetic testing in March, 1999. The other half of the sample held by Mr. Mitchell was sent by him to Schmeiser's counsel on April 23, 1999. It was later delivered by counsel to Mr. Lyle Freisen of the University of Manitoba on August 26, 1999, for the purpose of conducting grow-out tests on behalf of the defendants.
+Sample in July 1998
+[48]
+In late July, 1998, Mr. E. L. Shwydiuk, a representative of Robinson Investigations, acting for Monsanto, collected random samples of leaves from several canola plants growing in the rights of way near the boundary of each of Schmeiser's nine fields. These were subjected by Mr. Shwydiuk to a "quick test", developed and used by Monsanto for detecting the presence of a protein found within Roundup Ready canola as a result of the inserted patented gene and cell. Each sample, from all the locations, tested positive for the presence of the tell-tale protein. The samples were sent to Robinson Investigations in September and thence forwarded to Ms. Dixon of Monsanto US in St. Louis for molecular analysis. As a result of tests by Monsanto all of these samples were positive for the presence of the patented gene.
+Samples under Court Order, August 1998
+[49]
+On July 30, 1998, a representative of Monsanto requested permission from Mr. Schmeiser to enter his fields to take samples from the current canola crop. Mr. Schmeiser denied the request.
+[50]
+Following this failed attempt to gain further samples, Monsanto obtained a court order to allow its representatives to take samples from the defendants' crops. Mr. Schmeiser consented to the order on the understanding that he was to be present when those samples were taken. While the order did not specify an opportunity for him to be present, counsel for the plaintiffs did undertake by letter to advise the defendants' counsel a day before the plaintiffs' representatives proposed to collect samples, in order to facilitate arrangements by the defendants to attend the sampling.
+[51]
+On August 13, 1998, Messrs. Don Todd and James Vancha, representing Robinson Investigations and Monsanto respectively, arrived at the defendants' farm to take samples under the court order. Apparently the defendants had not received earlier notice of their arrival. When Mrs. Schmeiser received them at home they were directed to the field where Mr. Schmeiser was working. They then met him in one of his fields. The recollections of Messrs. Todd and Vancha differ from those of Mr. Schmeiser as to what transpired between them. The representatives testified that Mr. Schmeiser refused to accompany them while they collected samples, though Mr. Schmeiser's evidence is that Messrs. Todd and Vancha would not allow him to accompany them in the sample-taking. Ultimately samples were taken from all of the defendants' nine fields, three samples from each field, all in the absence of Mr. Schmeiser.
+[52]
+On completion of the sampling Messrs. Todd and Vancha met with Mr. Schmeiser again in one of his fields, and delivered to him a collection of 27 labelled bags containing pod samples, said to be half of the total sample taken in each location, the other half being retained for Monsanto. As each sample was collected one-half was put in each of two bags, one for Mr. Schmeiser and one for Monsanto.
+[53]
+The samples taken in August 1998 and held for Monsanto were divided by Mr. Vancha so as to provide two separate samples for Mr. Aaron Mitchell. The first sample was delivered to Mitchell on September 8, 1998, and it was forwarded by Mitchell to Ms. Dixon of Monsanto US, for the purpose of genetic testing. The second sample, originally retained by Mr. Vancha, was given to Mr. Mitchell on January 14, 1999. He used this half to conduct a grow-out test, and to provide a sample to Mr. Leon Perehudoff of Prairie Plant Systems on January 19, 1999, who also conducted a grow-out test. After that test by Mr. Perehudoff, the tissue of 30 surviving plants was subsequently delivered to Ms. Dixon of Monsanto US at St. Louis to conduct further genetic testing. The results of these tests show the presence of the patented gene in a range of 95-98% of the canola sampled.
+[54]
+The samples that Mr. Schmeiser received in August from Mr. Vancha following the sample collection on August 13, 1998, were kept in the vegetable storage area in the basement of Mr. Schmeiser's residence. In July 1999 he conducted his own grow-out test of seeds in the sample and he turned over the balance of the sample to his counsel in August 1999, to be sent to Mr. Freisen at University of Manitoba for testing.
+[55]
+In 1999, Mr. Schmeiser learned of the samples of his seed that had been held by the HFM. The defendants obtained a portion of those samples on July 9, 1999, and Mr. Schmeiser retained some of this sample for his own test, and the balance he delivered to defendants' counsel in August 1999, to be forwarded to Mr. Freisen for testing.
+[56]
+In July 1999, Mr. Schmeiser conducted his own grow-out test using a portion of the seeds in the samples provided by Messrs. Todd and Vancha and those obtained from the HFM. On completion of his own grow-out test, Mr. Schmeiser observed that, of the seven rows of canola he had planted for the test, the sample of his 1997-produced untreated seed obtained from HFM showed approximately 40-50% of the plants that germinated had survived after being sprayed with Roundup, with the exception of one row where 104 of the 105 plants that had germinated, died. The HFM treated sample had a Roundup survival rate of some 32%.
+[57]
+The remainder of Mr. Schmeiser's stored sample from his 1998 crop earlier provided by Mr. Vancha, was delivered to the defendants' counsel who forwarded it to Mr. Freisen at the University of Manitoba on August 26, 1999, with the remainder of the sample provided to Mr. Schmeiser by HFM, for the purpose of conducting controlled grow-out tests.
+[58]
+Mr. Freisen obtained further seed samples of Mr. Schmeiser's 1997 seed directly from the Saskatchewan Wheat Pool (which had taken over the former HFM) in April 2000, to complete the grow-out tests prepared for the preparation of expert evidence at trial. After testing all of the samples provided to him by both the defendants and HFM, Mr. Freisen obtained a variety of results that ranged from 0% Roundup-tolerant to 98% Roundup-tolerant canola. At trial, he testified that while he could determine an average percentage of glyphosate-tolerant canola for the 17 samples he tested, there was little point in doing so because of the drastic differences in the level of Roundup tolerancee noted. His evidence did reveal that of the seeds grown from samples provided by HFM, before and after treatment, both those received from the defendants after they were obtained by Mr. Schmeiser in 1999 and those received directly from Saskatchewan Wheat Pool at Humboldt in April 2000, the survival rate of germinating plants after spraying with Roundup ranged from 95 to 98%. That range is evidence of the presence of commercial Roundup Ready canola. This evidence is supportive of the plaintiffs' claim.
+[59]
+As earlier noted, the defendants did not purchase canola seed from 1993 until 1999. In 1999, because this action had been initiated, on the advice of their counsel the defendants destroyed all canola seed held from previous crops and purchased an entirely new inventory of seed for the planting of their 1999 canola crop, the source of which would be unquestioned. However, volunteer plants of Roundup Ready canola were said to be found within the 1999 canola fields grown by the defendants.
+The issues
+[60]
+The issues arising in this action concern
+-	the admissibility of evidence of the tests conducted on samples of Schmeiser's canola,
+-	the validity of the plaintiffs' patent,
+-	possible waiver of patent rights by the plaintiffs,
+-	infringement of the patent,
+-	the remedies applicable if there be infringement,
+-	costs.
+[61]
+These issues are dealt with in turn, except costs, on which both parties requested opportunity to make submissions following filing of these Reasons.
+Admissibility of evidence of tests conducted on samples
+[62]
+The defendants submit that evidence of most of the tests conducted on various samples should not be admitted or considered by the Court, for several reasons. This submission is made despite the defendants' acknowledgment that under the common law relevant evidence, however obtained, is generally admissible.
+[63]
+The evidence of tests performed from sampling done in August 1998 by Messrs. Todd and Vancha, acting under the Court's order, ought to be excluded, it is urged by the defendants, on the ground that an undertaking by counsel for the plaintiffs, given when the order was approved, was not met when counsel for the defendants was not advised a day in advance of the expected day for samples to be taken. It is urged that the order in question is akin to, and just as intrusive as, an Anton Piller order, about which courts insist on scrupulously fair processes if materials are to be taken under such an order.
+[64]
+In my view, that analogy is not apt. Here the order in question, issued by Mr. Giles, Associate Senior Prothonotary of the Court, was issued on consent of the defendants. It was not issued ex parte and without notice, as is typically done for an Anton Piller order. Here Mr. Schmeiser had notice of the plaintiffs' motion and of the order to which he consented. Moreover, the order was directed to obtaining samples only of a substantial crop, not to seizure of the entire crop suspected of infringing the plaintiffs' interests, as is the usual objective of an Anton Piller order.
+[65]
+It is unfortunate, whatever the explanation, if any, that an undertaking by plaintiffs' counsel was not met, if that be the case, but where the order providing for samples to be taken is granted on consent and without any stipulation about further notice before samples are to be taken, or about the defendants' right to be represented and present during the sampling process, there was no breach of the Court's order. Mr. Schmeiser was present on his farm field before, and after the samples were taken and on both occasions Messrs. Todd and Vancha spoke with him. Their evidence is that he declined to accompany them while they collected samples, referring to a sore leg that he apparently had recently injured. It is surprising, if Mr. Schmeiser was refused the opportunity to accompany the samplers, as he claims, that he subsequently made no objection to the sampling by Messrs. Todd and Vancha to the Court, and no mention was made at trial of any objection that may have been made to counsel for plaintiffs following the sampling.
+[66]
+I conclude that the samples taken under Court order in August 1998 were obtained in accord with the law. Evidence of tests using those samples is relevant to the issues before the Court and is admissible.
+[67]
+As for the samples taken in 1997 by Mr. Derbyshire, in the road allowances of fields 2 and 5, and the samples obtained by the plaintiffs from HFM, it is urged that these were samples of the defendants' products, of their property, taken without their knowledge or approval. The same could be said of the nine leaf samples taken on July 30, 1998 by Mr. Shwydiuk, for the Robinson firm, which he selected from the public rights of way or road allowances bordering the nine fields on which Mr. Schmeiser's canola was growing. Taking the samples in all these cases is said to be unlawful, a conversion of the defendants' property, without permission. Even if the samples were taken from the public rights of way it is urged the plants were still the property of the defendants. It is urged that property in the samples taken by Messrs. Derbyshire and Shwydiuk, and the samples provided by HFM, originally withheld from Schmeiser for HFM's own purposes, was vested in the defendant corporation, and results of tests based on those samples should be excluded if the principle of s. 24(2) of the
+Canadian Charter of Rights and Freedoms
+is to be reflected in this civil dispute between the parties. This the defendants urge.
+[68]
+Section 24 of the
+Charter
+provides:
+"24(1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+"24(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute."
+"24(1) Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s'adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.
+"24(2) Lorsque, dans une instance visée au paragraphe (1), le tribunal a conclu que des éléments de preuve ont été obtenus dans des conditions qui portent atteinte aux droits ou libertés garantis par la présente charte, ces éléments de preuve sont écartés s'il est établi, eu égard aux circonstances, que leur utilisation est susceptible de déconsidérer l'administration de la justice."
+[69]
+In my opinion s. 24 of the
+Charter
+has no application in this case. As I read s. 24(2), it provides for the exclusion of evidence obtained in a manner that infringes or denies rights or freedoms guaranteed by the
+Charter
+in proceedings initiated under s. 24(1) to seek relief from infringement or denial of
+Charter
+rights. This is not such a proceeding; it is not a proceeding contemplated by s. 24(1). It is not a proceeding in which any agency of government is a party or has any involvement.
+[70]
+It seems clear that in disputes between private parties in which no agency of government is a party the
+Charter
+does not apply. (See
+Dolphin Delivery Ltd. v. Retail, Wholesale and Department Store Union, Local 580, Peterson and Alexander
+, [1986] 2 S.C.R. 573; 71 N.R. 83; 33 D.L.R.(4th) 174;
+Houle v. Mascouche (Ville)
+(1999), 179 D.L.R.(4th) 90 (Que. C.A.)). Moreover, in my opinion this is not a case in which the Court should move to evolve principles of the common law in a manner consistent with the principle expressed in the
+Charter
+in s. 24(2), to exclude evidence in particular circumstances. Even where the
+Charter
+is clearly applicable, in criminal proceedings where an individual's rights and liberties may be directly affected by state action, a determination for exclusion of evidence under s. 24(2) would be made in light of the decision of the Supreme Court of Canada in
+R. v. Collins
+, [1987] 1 S.C.R. 265; 74 N.R. 276; 33 C.C.C.(3d) 1. In light of various factors there outlined, the ultimate issue for the Court in considering the admissibility of evidence illegally or improperly obtained is whether its admission would be likely to bring the administration of justice into disrepute.
+[71]
+Considering this case in light of the factors outlined in
+Collins
+, in my opinion, even if the evidence for the tests could be said to be improperly obtained by conversion of the defendants' property without consent, a matter I decline to determine, Mr. Schmeiser has civil remedies to address that issue. The evidence, samples of Schmeiser's 1997 and 1998 canola crops, is of conditions independent from and existing before this action was commenced. The evidence is relevant to the plaintiffs' case. It is not otherwise obtainable. Its introduction is not prejudicial to the defendants' case.
+[72]
+In my opinion, the evidence of tests conducted on all of the samples taken of the 1997 and 1998 canola crops of the corporate defendant is admissible. It is clearly relevant to the issues. It was not obtained illegally. I conclude that its admission would not bring the administration of justice into disrepute.
+[73]
+The defendants urge that if admitted this evidence should be disregarded because its reliability is questionable since the Court cannot be satisfied about the integrity of the samples. The testing on the 1997 samples by Mr. Mitchell is said to be of limited value. There is no explanation of the discrepancy in size or the nature of the original sample of pods delivered to Mr. Mitchell in September 1997 and the seeds, the balance of the 1997 sample, delivered by him to Dr. Downey for a further grow-out test in early 2000. The samples from HFM provided to the plaintiffs, and by HFM's successor, the Saskatchewan Wheat Pool, to Mr. Schmeiser and Mr. Freisen, both of untreated seed as received from Mr. Schmeiser and of treated seed before its return to him, were all said to be of cleaned canola seed. Mr. Schmeiser's evidence is that he had delivered "bin run" seed from the old Ford truck as it had been unloaded by Mr. Moritz when he harvested the 1997 crop of field 2. Seed from cut plants swathed and then run through Schmeiser's combine, it is urged, would contain more chaff than seed that is identified as "cleaned".
+[74]
+So far as the HFM samples are concerned, I accept the evidence of Mr. Pattenfoot, former manager of HFM plant in Humboldt at the time Mr. Schmeiser brought seed to be treated in the spring of 1998, and of Mr. Hoffman and Mr. Murray, both of Saskatchewan Wheat Pool, which took over operations of HFM in 1998. Collectively their evidence is that a "load sample" of the seed as delivered at HFM and a sample of the treated seed before its delivery to Mr. Schmeiser was the source of samples of each given to Monsanto in 1998, to Mr. Schmeiser in 1999, and later sent in 2000 to Mr. Freisen at the University of Manitoba on instructions from Schmeiser's counsel.
+[75]
+It is also urged that the sampling procedures were not designed to support scientific grow-out tests that could be accepted as indicating the extent of Roundup tolerant canola grown by the defendants in 1998, or in 1997. Moreover, the sampling was done by Robinson's investigators with police backgrounds and experience, but no reputed scientific qualifications, and the integrity of the samples, once collected, was in some cases said to be questionable.
+[76]
+These concerns require that the Court carefully weigh the evidence from any of the tests but, in my opinion, there is no basis, in this case, for disregarding all of the evidence from various tests. Particularly is this so where the evidence of more than one or two tests points to the same conclusions. I consider conclusions of fact that, in my opinion, may be drawn from evidence of the various tests, when I come to consider the issue of infringement, after considering argument concerning the validity of the plaintiffs' patent and concerning the loss or waiver of the plaintiffs' rights.
+Validity of the plaintiffs' patent
+[77]
+The defendants question the validity of the plaintiffs' patent on the ground that the subject matter of the patent is not patentable. Further, it is urged that the enactment of the
+Plant Breeders' Rights Act
+, S.C. 1990, c. 20 (the "
+PBRA
+") is a clear indication of Parliament's intent "that intellectual property rights pertaining to new plant varieties are to be governed by legislation other than the
+Patent Act
+and only to the extent permitted under the former
+Act
+". The
+PBRA
+preserves the right of a farmer to save and reuse seed. Monsanto does not deny that it seeks protection under the
+Patent Act
+for its intellectual property rights, to promote its commercial interests, including its interest to preclude by licensing agreements the saving of seed for use by farmers licensed to grow Roundup Ready canola.
+[78]
+Finally, the defendants say that the gene Monsanto claims protection for has been inserted in many different registered varieties of canola and each canola plant is potentially different from others. At least within a particular variety those plants with the gene cannot be distinguished visually from those without, unless both are sprayed with Roundup herbicide. Moreover, the replication of the gene is not caused by human intervention but by natural means and it cannot be contained or controlled. For these reasons it is urged it is not the proper subject matter of a patent, and the patent should be declared invalid.
+[79]
+The defendants refer to the Patent Manual which describes Patent Office practice to regard as not patentable "subject matter for a process for producing a new genetic strain or variety of plant or animal, or the production thereof ..." (s. 12.03.01(a)). That same reference is made, in referring to the decision of the Patent Office Examiner by Mr. Justice Lamer, as he then was, speaking for the Supreme Court of Canada in
+Pioneer Hi-Bred v. Canada (Commissioner of Patents)
+, [1989] 1 S.C.R. 1623; 97 N.R. 185; 25 C.P.R.(3d) 257. It is not a statement, under the section number referred to, in the March 1998 Manual of Patent Office Practice. But even if it were included, that Manual in its Foreword makes its purpose clear.
+"This manual is to be considered solely as a guide and should not be quoted as an authority. Authority must be found in the
+Patent Act
+, the
+Patent Rules
+, and in decisions of the Courts interpreting them."
+[80]
+The
+PBRA
+was intended to create a new form of intellectual property right in new plant varieties, as defined, for registered plant breeders. These are more limited in scope than the rights of a registered patent holder, but they apply to new registered varieties of plants resulting from breeding, even if the result or the process giving rise to the result is not patentable. Nothing in the
+PBRA
+precludes an inventor from seeking registration under the
+Patent Act
+. In 1989 proceedings of the Parliamentary Committee considering Bill C-15 (which became the
+PBRA
+), the Minister of Agriculture of the day commented, inter alia,
+"... Bill C-15, will enable plant breeders to collect reasonable royalties for their varieties, thus encouraging greater private and public-sector investment.
+. . . . .
+"... Bill C-15 ... provides for certain rights for plant breeders and outlines their application, and further details restrictions that will apply to these rights to better protect the public interest. The legislation is designed to deal with the complexities of the issue and that is why we have chosen this route rather than to amend the
+Patent Act
+.
+. . . . .
+"... this is not patent legislation. This is plant breeders' rights... The patent legislation will be more encompassing than what is outlined here ..."
+[81]
+In my opinion the
+PBRA
+was not intended to, and by its terms it does not, preclude registration under the
+Patent Act
+of inventions that relate to plants, and that may lead to new varieties or characteristics of plants. The plaintiffs point to a similar issue raised under United States' statutes of the same general nature which was resolved in an analogous manner. The Court there concerned found no conflict in the application of the patent and plant breeders' legislation in that country. (See
+Pioneer Hi-Bred International Inc. v. J.E.M. Ag Supply Inc.
+(2000), 53 USPQ(2d) 1440 (C.A. Fed. Ct.)).
+[82]
+The fact that the plaintiffs may have inserted the patented gene in a number of varieties of canola, each of which is different from the others, in my opinion, does not render the subject matter of the patent an improper subject for a patent. The patent is not granted in relation to any claim for a particular variety of canola, or indeed for canola plants exclusively. The subject matter is thus probably inappropriate, it seems to me, for registration under the
+PBRA
+, but not inappropriate for registration under the
+Patent Act
+.
+[83]
+Moreover, the fact that replication of the gene may occur in the natural course of events, without human intervention after insertion of the gene in the original plant cells, and plants, produced for seed, and that this may result in differences between individual canola plants does not in itself preclude registration, under the
+Patent Act
+, of the invention, that is, creation of the gene and the process for inserting the gene. Not all progeny from pollen of Roundup Ready plants will be Roundup tolerant if outcrossing with Roundup susceptible plants occurs, but only use of those plants containing the gene can be subject to Monsanto's claims as patent holder.
+[84]
+In this case the Patent Office issued a patent to Monsanto US as owner of the patent. That patent is "valid in the absence of any evidence to the contrary" (the
+Act
+, s. 45).
+[85]
+The grant of the patent is consistent with the implications of the decision of Mr. Justice Lamer, as he then was, for the Supreme Court of Canada in
+Pioneer Hi-Bred
+, supra, para. 79). In that case he dismissed an appeal from a decision of the Federal Court of Appeal that a new variety of soybean produced by cross-breeding (hybridization) was not patentable under the
+Patent Act
+. He found that the description of the plant was insufficient to qualify under that
+Act
+. In the course of that decision he distinguished between a product resulting from hybridization and a product resulting from a process for change in genetic material caused by human intervention within a gene. As I read his decision Lamer, J., was careful to restrict his comments to the facts of the case, a product resulting from hybridization. The processes of genetic engineering, properly described, were not excluded from patent protection by implication of that decision.
+[86]
+In
+President and Fellows of Harvard College v. Canada (Commissioner of Patents)
+, [1998] 3 F.C. 510 (T.D.), Mr. Justice Nadon dismissed an appeal from a decision of the Commissioner of Patents denying an application for a patent for a transgenic mouse, which contained a gene artificially introduced into the chromosomes of the mammal at the embryonic stage. That decision was reversed by a majority decision of the Court of Appeal in
+Harvard College v. Commissioner of Patents
+, [2000] 4 F.C. 528 (F.C.A.). Mr. Justice Rothstein for the majority of the Court found that the
+Patent Act
+provides, in broad terms, arrangements intended to promote invention and its definition of invention, by s. 2 of the
+Act
+, as
+"... any new and useful art, process, machine, manufacture or composition of matter, or any new and useful improvement in any art, process, machine, manufacture or composition of matter,"
+is sufficiently broad to include the oncomouse here claimed as patentable. The
+Act
+did not exclude a patent, in an appropriate case, for a higher life form that was not human.
+[87]
+The
+Harvard Mouse
+case is not of direct use in resolution of the matter before the Court. There the issue concerned patentability under the
+Act
+of a mammal, a higher life form, the oncomouse resulting from reproduction of mice, one of whom bears the gene introduced by invention to affect its susceptibility to cancerous growth. No question was raised at the trial level, or before the Court of Appeal, concerning the decision of the Commissioner to allow the patent application in respect of other claims advanced. Those claims concerned a genetically engineered plasmid and transgenic unicellular material produced under full control of the inventor and reproducible. The claims to these were accepted by the Commissioner as concerning a "manufacture" or a "composition of matter" within the definition of "invention" under s. 2, and were entitled to patent registration. It was the claim to the mouse containing the genetically engineered material that the Commissioner had rejected but the Court of Appeal allowed.
+[88]
+It is essentially matters similar to those recognized by the patent granted originally to the applicant for the patent of the mouse that are the subjects of the claims patented in this case. Here it is the gene and the process for its insertion which can be reproduced and controlled by the inventor, and the cell derived from that process, that is the subject of the invention. The decision of the Trial Judge and of the Court of Appeal in the
+Harvard Mouse
+case implicitly support the grant of the patent to Monsanto.
+[89]
+The patent granted in this case would not appear to be revolutionary in recognizing, by the Patent Office, that certain life forms may be patentable. (See
+Application of Abitibi Co., Re
+(1982), 62 C.P.R.(2d) 81 (Pat. App. Bd. & Pat. Commr.), which determined that a yeast culture used to digest spent sulfite liquor, a waste product of pulp mills, was patentable subject matter. See also,
+Application for Patent of Connaught Laboratories, Re
+(1982), 82 C.P.R.(2d) 32 (Pat. App. Bd. & Pat. Commr.), which found a new bovine cell line patentable).
+[90]
+I sum up my conclusions in regard to the defendants' arguments concerning validity of the plaintiffs' patent. I am not persuaded on any of the grounds urged that the patent in issue is invalid. In the absence of evidence or persuasive argument to the contrary, the patent by virtue of s. 43 of the
+Patent Act
+is valid and, as s. 45 provides, it "avails the grantee", Monsanto US, and its licensee, Monsanto Canada, for the term provided in the patent, in this case 17 years from the date the patent was granted, to February 23, 2010. By s. 42 of the
+Act
+the patentee has "the exclusive right, privilege and liberty of making, constructing and using the invention and selling it to others to be used ..." for the term of the patent.
+Loss or waiver of the plaintiffs' patent rights
+[91]
+For the defendants it is urged Monsanto has no property interest in its gene, only intellectual property rights. While I acknowledge that the seed or plant containing the plaintiffs' patented gene and cell may be owned in a legal sense by the farmer who has acquired the seed or plant, that "owner's" interest in the seed or plant is subject to the plaintiffs' patent rights, including the exclusive right to use or sell its gene or cell, and they alone may license others to use the invention.
+[92]
+Thus a farmer whose field contains seed or plants originating from seed spilled into them, or blown as seed, in swaths from a neighbour's land or even growing from germination by pollen carried into his field from elsewhere by insects, birds, or by the wind, may own the seed or plants on his land even if he did not set about to plant them. He does not, however, own the right to the use of the patented gene, or of the seed or plant containing the patented gene or cell.
+[93]
+I do not agree that the situation is comparable to the "stray bull" cases that recognize that the progeny of stray bulls impregnating cows of another belong to that other, and that the owner of the straying bull may be liable in damages that may be caused to the owner of the cows. Further, the circumstances here are not akin to those cases that the defendants urge are part of the larger law of admixture, where property of A introduced by A without B's intervention to similar property of B from which it is indistinguishable, becomes the property of B. Monsanto does have ownership in its patented gene and cell and pursuant to the
+Act
+it has the exclusive use of its invention. That is an important factor which distinguishes this case from the others on which the defendants rely.
+[94]
+Here the defendants urge that having introduced its invention for unconfined release into the environment without control over its dispersion, the plaintiffs, as inventor and licensee have lost any claim to enforcement of their rights to exclusive use. It is said for the defendants that Monsanto obtained regulatory approval for the "unconfined release" into the environment of the patented gene pursuant to the
+Seeds Regulations
+, C.R.C. c. 1400. Whether that is so is not significant in my view.
+[95]
+On the basis of the evidence of pictures adduced by Mr. Schmeiser, of stray plants and of plants in fields, in Bruno and its environs, it is urged that unconfined release and lack of control of Monsanto over the replication of the plants containing their patented gene clearly demonstrates extensive uncontrolled release of the plaintiffs' invention. Indeed it is urged this is so extensive that the spread of the invention cannot be controlled and Monsanto cannot claim the exclusive right to possess and use the invention. It is further urged that it was the plaintiffs' obligation to control its technology to ensure it did not spread and that Monsanto has not attempted to do so.
+[96]
+That assessment places much weight on photographs of stray plants in Bruno, said to have survived spraying with Roundup, in addition to photographs of canola in fields which is said to be of canola, some with the potential gene incorporated. With respect, the conclusion the defendants urge would ignore the evidence of the licensing arrangements developed by Monsanto in a thorough and determined manner to limit the spread of the gene. Those arrangements require agreement of growers not to sell the product derived from seed provided under a TUA except to authorized dealers, not to give it away and not to keep it for their own use even for reseeding. It ignores evidence of the plaintiffs' efforts to monitor the authorized growers, and any who might be considered to be growing the product without authorization. It ignores the determined efforts to sample and test the crops of the defendants who were believed to be growing Roundup Ready canola without authorization. It ignores also the evidence of Monsanto's efforts to remove plants from fields of other farmers who complained of undesired spread of Roundup Ready canola to their fields.
+[97]
+Indeed the weight of evidence in this case supports the conclusion that the plaintiffs undertook a variety of measures designed to control the unwanted spread of canola containing their patented gene and cell.
+[98]
+I am not persuaded that the plaintiffs have lost the right to claim exclusive use of their invention, or that they have waived any such claim. There clearly is no expressed waiver, and none can be implied from the conduct of the plaintiffs so far as that is a matter of record before the Court.
+[99]
+Again, it is urged by defendants in support of their submissions about waiver of the plaintiffs' rights that by proceeding to patent their invention and ignoring the processes provided under the
+Plant Breeders' Rights Act
+, which it is said "was intended to delineate the rights as between those who develop such technology and those who use it", the plaintiffs have impliedly waived their right to claim exclusive use. I have already concluded that the
+Plant Breeders' Rights Act
+does not preclude the patenting of an invention, relating to a plant, that meets requirements under the
+Patent Act.
+[100]
+In my opinion the conduct of the plaintiffs does not support a conclusion that it has lost or waived its exclusive rights arising by statute as a result of the grant of its patent.
+Infringement of the patent
+[101]
+The plaintiffs claim that the defendants infringed Monsanto's '830 patent by growing, in 1998, seed that Mr. Schmeiser knew was from his 1997 crop and was from plants that were Roundup resistant. By so doing the defendants reproduced the patented gene and cells. The canola crop so grown in 1998 was harvested and sold by the defendants.
+[102]
+The evidence of Mr. Schmeiser is that seed for his 1998 crop was saved from seed harvested in 1997 in field number 2 by his hired man Mr. Moritz. That seed was placed by Mr. Moritz in the old Ford truck, then located in field number 2, directly from the combine after it was harvested from the area of that field previously sprayed with Roundup by Mr. Schmeiser. That "testing" by him resulted, by his estimate, supported by Mr. Moritz, of about 60% of the sprayed canola plants surviving in the "good three acres" that he sprayed. The surviving plants were Roundup resistant and their seed constituted the source of seed stored in the old Ford truck.
+[103]
+Knowledge of the nature of that seed by Moritz, the hired hand, is attributable to Mr. Schmeiser and to the corporate defendant. Mr. Schmeiser must be presumed to know the nature of the seed stored in the truck by Mr. Moritz who acted under Schmeiser's general instructions in harvesting the crop.
+[104]
+In spring 1998 the seed from the old Ford truck was treated by HFM, then mixed with bin run seed and fertilizer and used to seed the whole of 1,030 acres of canola grown by Schmeiser in nine fields in 1998.
+[105]
+A variety of tests were conducted on samples of canola from the defendants' field or from beside those fields. The evidence of these tests of Mr. Schmeiser's 1997 and 1998 canola crops may be summarized as follows.
+[106]
+The 1997 samples, taken by Mr. Derbyshire from road allowances bordering fields number 2 and 5, were used for two grow-out tests, in 1997 at the University of Saskatchewan for Mr. Mitchell, and in 2000 at the university for Dr. Downey. In both tests, with the exception of one of six samples, of the seeds that germinated 100% of the plants survived spraying with Roundup herbicide, i.e., they were Roundup tolerant.
+[107]
+The HFM samples of untreated and treated seed withheld from Mr. Schmeiser were provided
+1) to Mr. Mitchell for Monsanto in 1998 and by him
+a) were subject to a "quick test" which indicated to him that both samples tested were positive for the presence of the patented gene;
+b) were subject to a grow-out test by Prairie Plant Systems in January, 1999 with germinating seed sprayed with Roundup and 30 samples of leaf tissue from surviving plants, tested by Monsanto US, proved positive for the presence of the patented gene in the DNA of the leaf tissue; and
+c) a subsample was sent to counsel for Schmeiser in April 1999 and by him to Mr. Freisen at Winnipeg for a grow-out test, in which 95 to 98% of germinating plants survived spraying with Roundup;
+2) to Mr. Schmeiser in July 1999 which he
+a) used in part for a grow-out test in his yard, results of which showed 63 to 65% germinating plants survived spraying with Roundup; and
+b) forwarded to University of Manitoba for testing by Mr. Freisen who recorded results generally similar to those of Mr. Schmeiser;
+3) to Mr. Freisen directly from Saskatchewan Wheat Pool in April 2000 for grow-out test from which a very high portion, 95-98%, of germinating seed survived spraying with Roundup.
+[108]
+The July 1998 leaf samples, by Mr. Shwydiuk, from the road allowance borders of Schmeiser's nine fields, were subject to a "quick test" by him which indicated positively that the patented gene was present in all samples. The samples were sent to Monsanto US for genetic testing, and ultimately they tested positive for the presence of the patented gene in the DNA of the leaf samples.
+[109]
+The August 1998 samples collected under Court Order by Messrs. Todd and Vancha were
+1) one-half provided to Mr. Schmeiser in August 1998 and by him retained in his home until July 1999 when
+a) he used some seed for his own grow-out test from which less than 70% of germinating plants survived spraying with Roundup; and
+b) in August 1999 he sent the balance to his counsel for onward shipment to Mr. Freisen at Winnipeg, whose grow-out test from this sample was consistent in results with those obtained by Mr. Schmeiser himself.
+2) the second half of the sample for Monsanto was divided and
+a) one-half of it was sent to Mr. Mitchell and by him to Monsanto US where a grow-out test resulted in seed from 17 of 27 samples germinating; subsequent testing of samples from these plants by two separate and sophisticated tests demonstrated the presence of the patented gene in the DNA of the plants surviving; and
+b) the second half of the Monsanto sample was sent to Mr. Mitchell in January 1999 and by him to Prairie Plant Systems for a grow-out test, spraying with Roundup the plants that germinated, and taking leaf samples of the surviving plants, which samples, when forwarded to Monsanto US for testing, demonstrated the presence of the patented gene in the DNA of the leaf samples.
+[110]
+The grow-out tests conducted for Monsanto at the University of Saskatchewan on the 1997 crop samples in the fall of 1997 and in early 2000, and the tests on the HFM samples at Prairie Plant Systems in January 1999, and Mr. Freisen's tests for the defendants at the University of Manitoba on samples forwarded by Mr. Mitchell and by Saskatchewan Wheat Pool, all indicated, after the plants which germinated were sprayed with Roundup, a survival rate that is consistent with the presence of the glyphosate-tolerant gene, patented by Monsanto, present in the surviving plants. Only the grow-out test in July of 1999 by Mr. Schmeiser in his yard, using seed from the August 1998 samples which he had stored at home for nearly a year and seed he obtained in 1999 from HFM, and the grow-out test on these samples passed on by Mr. Schmeiser to Mr. Freisen, yielded results that did not support a conclusion that the samples were of glyphosate-tolerant, i.e. Roundup tolerant, canola.
+[111]
+More significant are the results of genetic testing by staff of Monsanto US at St. Louis. Two tests were upon plant and leaf tissue from seed samples resulting from the August 1998 Court Order, another upon leaf tissue provided from the samples taken by Mr. Shwydiuk in July 1998 along the rights of way bordering Schmeiser's nine fields of canola, and another upon leaf tissue sent from surviving plants in 1999 following the grow-out test at Prairie Plant Systems. All these tests demonstrated the presence of the patented gene within the DNA of the plant material tested and its presence in the cells of that plant material.
+[112]
+It is the opinion of Dr. Downey given at trial that the high rate of survival, after spraying with Roundup, of plants that had germinated in the grow-out test in 2000 of 1997 samples, was consistent only with the presence in field number 2 of canola grown from commercial Roundup tolerant seed, particularly in view of the concentration of Roundup tolerant canola observed by Mr. Schmeiser in that field.
+[113]
+Also significant, in my opinion, is the report of Ms. Doris Dixon, who was responsible for the thorough testing conducted by Monsanto US at St. Louis. Based on the four tests there conducted, on her understanding of the patent and her assumption that the seed and leaf samples tested were from canola crops growing on lands farmed or adjacent to lands farmed by the defendants, it is her opinion that the defendants' samples contain the DNA sequences claimed in claims 1, 2, 5, and 6 of the patent and the plant cell claimed in claims 22, 23, 27, 28 and 45 of the patent.
+[114]
+That opinion is not contested. Despite questions raised about particular aspects of the sampling and the handling of samples of the defendants' 1998 canola crop, subject to consideration of any defence raised, the balance of probabilities supports a conclusion that the growing and sale of Roundup tolerant canola by the defendants infringed the exclusive rights of the plaintiffs to use the patented gene and cell. I reach that tentative conclusion having also concluded on a balance of probabilities that the samples taken from the borders of nine fields in July 1998 and three samples taken at random from within each field in August 1998 are representative of the entire crop, bearing in mind that all of the nine fields were planted with seed that was saved in 1997 in field number 2, which seed was known to be Roundup tolerant.
+[115]
+I turn to submissions of the defendants in reply to the claim for infringement. First, the defendants urge that there was no intention to infringe the patent. However, it is well settled that infringement is any act which interferes with the full enjoyment of the monopoly rights of the patentee as Mr. Justice Rothstein notes in
+FRAGMENT_SUPPRESSED. Further, intention is immaterial, for "infringement occurs when the essence of an invention is taken", regardless of the intention of the infringer. (See
+Computalog Ltd. v. Comtech Logging Ltd.
+(1992), 142 N.R. 216; 44 C.P.R.(3d) 77 (F.C.A.), at 88.)
+[116]
+In the course of their defence, it was urged by defendants that the source of contamination by Roundup resistant canola of their 1996 crop, from which seed was saved for 1997, was uncertain. Indeed so was the source of contamination in the 1997 crop.
+[117]
+A variety of possible sources were suggested, including cross field breeding by wind or insects, seed blown from passing trucks, or dropping from farm equipment, or swaths blown from neighbours' fields. All of these sources, it is urged, could be potential contributors to cross-breeding of Schmeiser's own canola or to deposit of seeds on his land without his consent. Mr. Borstmayer, who farmed on the same grid road but further north from Bruno than Mr. Schmeiser's fields numbers 1, 2, 3 and 4, testified that in the winter of 1996-97 a bag of Roundup Ready canola seed had fallen from his truck in Bruno and broken open, and some seed was lost before he put the broken bag back on his truck to be hauled past Schmeiser's fields to his own. Further, after harvesting his 1997 crop he trucked it to the elevator on the grid road to Bruno, past Schmeiser's fields, with at least two loads in an old truck with a loose tarp. He believes that on those journeys he lost some seed.
+[118]
+It may be that some Roundup Ready seed was carried to Mr. Schmeiser's field without his knowledge. Some such seed might have survived the winter to germinate in the spring of 1998. However, I am persuaded by evidence of Dr. Keith Downey, an expert witness appearing for the plaintiffs, that none of the suggested sources could reasonably explain the concentration or extent of Roundup Ready canola of a commercial quality evident from the results of tests on Schmeiser's crop. His view was supported in part by evidence of Dr. Barry Hertz, a mechanical engineer, whose evidence scientifically demonstrated the limited distance that canola seed blown from trucks in the road way could be expected to spread. I am persuaded on the basis of Dr. Downey's evidence that on a balance of probabilities none of the suggested possible sources of contamination of Schmeiser's crop was the basis for the substantial level of Roundup Ready canola growing in field number 2 in 1997.
+[119]
+Yet the source of the Roundup resistant canola in the defendants' 1997 crop is really not significant for the resolution of the issue of infringement which relates to the 1998 crop. It is clear from Mr. Schmeiser himself that he retained seed grown in 1996 in field number 1 to be his seed for the 1997 crop. In 1997 he was aware that the crop in field number 2 showed a very high level of tolerance to Roundup herbicide and seed from that field was harvested, and retained for seed for 1998.
+[120]
+I find that in 1998 Mr. Schmeiser planted canola seed saved from his 1997 crop in his field number 2 which seed he knew or ought to have known was Roundup tolerant, and that seed was the primary source for seeding and for the defendants' crops in all nine fields of canola in 1998.
+[121]
+The principal defence raised by the defendants is that they did not use the patent because they did not spray their 1998 canola crop with Roundup after it had commenced growing. Thus they say they did not make use of the invention as the inventor intended and so, did not use the patented gene or cell.
+[122]
+It is accepted, as the defendants urge, that the claims of a patent are to be construed purposefully. That does not mean that the utility of a patent defines or confines its purpose or its possible uses. It is the taking of the essence of the invention without leave or licence of the owner that constitutes infringement. Here the essence of the claims at issue in this case concerns the patented gene invented by Monsanto and the patented plant cells in which the gene may be found. The claims make no specific direction for or reliance upon the use, after germination of the plant containing the patented gene, of Roundup or other glyphosate herbicide as a part of the invention. The invention does improve glyphosate resistance of the plant that includes the patented gene and the cell, but that characteristic is unaffected by use or lack of use of glyphosate herbicides upon the plant once the seed germinates and the plant begins to grow.
+[123]
+Here the defendants grew canola in 1998 in nine fields, from seed saved from their 1997 crop, which seed Mr. Schmeiser knew or can be taken to have known was Roundup tolerant. That seed was grown and ultimately the crop was harvested and sold. In my opinion, whether or not that crop was sprayed with Roundup during its growing period is not important. Growth of the seed, reproducing the patented gene and cell, and sale of the harvested crop constitutes taking the essence of the plaintiffs' invention, using it, without permission. In so doing the defendants infringed upon the patent interests of the plaintiffs.
+[124]
+For the defendants it is urged that a finding of infringement will adversely affect the longstanding right of a farmer to save his own seed for use for another crop. In particular it is urged that those who do not purchase Roundup Ready canola seed but find the plant invading their land would be precluded from saving their own seed for use another year since their crop may be contaminated without action by the farmer on whose land plants containing the patented gene are found.
+[125]
+That clearly is not Mr. Schmeiser's case in relation to his 1998 crop. I have found that he seeded that crop from seed saved in 1997 which he knew or ought to have known was Roundup tolerant, and samples of plants from that seed were found to contain the plaintiffs' patented claims for genes and cells. His infringement arises not simply from occasional or limited contamination of his Roundup susceptible canola by plants that are Roundup resistant. He planted his crop for 1998 with seed that he knew or ought to have known was Roundup tolerant.
+[126]
+Other farmers who found volunteer Roundup tolerant plants in their fields, two of whom testified at trial, called Monsanto and the undesired plants were thereafter removed by Monsanto at its expense.
+[127]
+In the result, I find on a balance of probabilities, and taking into account the evidence of Ms. Dixon about the results of genetic testing of the samples of the defendants' 1998 canola crop, that by growing seed known to be Roundup tolerant and selling the harvested seed, the defendants made use of the invention without permission of the plaintiffs and infringed claims 1, 2, 5 and 6 of the patent, respecting the plant gene and claims 22, 23, 27, 28 and 45 respecting the plant cells claimed under the patent.
+Remedies for infringement
+[128]
+The plaintiffs claim the following relief for the infringement by the defendants: an injunction; delivery up of any canola remaining from Schmeiser's 1998 crop; profits of $105,000.00 for Monsanto US; damages of $15,450.00 for Monsanto Canada; exemplary damages of $25,000.00 and pre-judgment and post-judgment interest.
+A declaration of validity of the patent
+[129]
+In the plaintiffs' closing submissions it is also requested that to the extent the Statement of Defence can be construed to raise an attack on the validity of the patent, the Court should by declaration affirm the validity of the claims in issue. The usual bases for alleging invalidity are not raised in this case. Nevertheless, insofar as the defendants challenge validity of the patent, the Court is prepared to issue such a declaration without foreclosing any possible claim on grounds not here considered, that the patent is invalid.
+An injunction
+[130]
+While discretion to grant an injunction restraining further use or sale of the subject matter of the patent is expressly vested in the Court under s. 57 of the
+Act
+, the defendants here submit such relief, if it be to restrain the growing of Roundup Ready canola, would be impossible to comply with in light of the uncontrollable spread of the patented gene.
+[131]
+In my opinion, the plaintiffs are entitled to an injunction restraining action of the sort here found to constitute infringement. With this judgment the Court orders that pending settlement of the terms of judgment concerning an appropriate injunction, the defendants are enjoined from planting seed retained from their 1997 or 1998 canola crops, or any seed saved from plants which are known or ought to be known to be Roundup tolerant, and from selling or otherwise depriving the plaintiffs of their exclusive right to use plants which the defendants know or ought to know are Roundup tolerant, or using the seeds from such plants.
+An Order for delivery up
+[132]
+The plaintiffs are also entitled to an order for delivery up of any plants or seeds from the 1997 and 1998 crops, or other plants or seeds known, or which ought to be known, by the defendants to be Roundup tolerant.
+Damages or an accounting of profits
+[133]
+Together the plaintiffs by their Amended Statement of Claim seek relief in the form of general damages or an accounting of profits as they may elect after discovery in a reference. In their opening statement at trial they ask for damages of $15.00 per acre for the 1998 canola crops containing the patented gene grown by the defendants, or in the alternative, the defendants' profits. In closing argument at trial counsel requested relief for Monsanto US in the form of profits earned by defendants from their 1998 canola crop, said by plaintiffs to be $105,000.00, and for Monsanto Canada general damages in the amount of $15,450.00, equivalent to $15.00 per acre for the defendants' 1998 canola crop, the price in that year for use of the patented technology under a TUA. If both are not possible the plaintiffs together claim, in the alternative, profits of $105,000.00
+[134]
+I am not persuaded that the two plaintiffs may, at a very late stage in this dispute, each seek a different remedy. Even if it were permitted I am not persuaded, and there is no basis for determining, that the two remedies should be available in the circumstances here independently of one another simply because there are two plaintiffs. In my view a single plaintiff could not reasonably claim both. Moreover, if both remedies were to be available any recovery by one plaintiff by way of damages, in my opinion as a matter of impression without argument, would have to be deducted from defendants' profits, if plaintiffs' claims were to avoid double-counting and unjust enrichment to the plaintiffs collectively. These issues have not been argued, and I decline to award both forms of monetary relief to the respective claimants.
+[135]
+For the defendants it is urged there were no measurable profits earned from sale of the 1998 crop even if it did include the plaintiffs' patented gene. The argument is based on the assumption that the defendants would have earned the same profits on sale of a canola crop that did not contain the gene. That is no answer to the issue of profits from sale of the crop which I have found contained the plaintiffs' patented gene and cells. It is the profit from sale of that crop that plaintiffs may claim, not the difference between sale of that crop and sale of an alternative crop that was not grown.
+[136]
+An accounting of profits is an equitable remedy, the purpose of which is to preclude unjust enrichment of one who, without leave or licence, uses property of another for his own benefit. It is a remedy the Court may order pursuant to s. 57(1) of the
+Act
+, within the Court's discretion.
+[137]
+In this case I decline to exercise my discretion to order an accounting of profits in the amount requested by the plaintiffs. That amount, $105,000.00 was derived in cross-examination of Donald R. Kunaman, the accountant for Schmeiser Enterprises, based upon a calculation he did at Mr. Schmeiser's direction to derive a statement of 1998 canola production and costs of production. His review was based upon discussion with Mr. Schmeiser of revenues and costs of production to be allocated to the 1998 canola crop. While it is not a figure disputed at trial by the defendants and it is accepted by the plaintiffs as quantifying the defendants' profits I am not satisfied that it is a figure that the Court should accept as one based on appropriate allocations of allowable fixed and variable costs properly attributable to the 1998 canola crop. In my opinion it includes no allowance for costs of labour of Mr. Schmeiser who was not paid salary for his work in farming, though he may have been paid dividends if there were earnings from the farm operation. Clearly he worked at farming and his labour should be recognized in accounting of profits.
+[138]
+Appropriate allocations can only be settled after a reference concerning profits. The accounting requires allocations of income and expenses, ordinarily charged to the corporation's annual operations, to the crop year which varies from the corporation's year.
+[139]
+A reference can be a time-consuming, difficult, costly process. Assuming the $105,000.00 figure is acceptable to the plaintiffs is about the maximum profit that might ultimately be ordered paid, a reference of the matter could result in legal and accounting costs beyond that figure, unless counsel could agree on a figure acceptable to both parties as representing the profits earned by the defendants.
+[140]
+I am prepared to order that the plaintiffs together are entitled to profits earned by the defendants in an amount that counsel for the parties may agree upon within 21 days of the filing of these Reasons. Failing agreement on the quantum of profits judgment will provide for general damages in an amount of $15,450.00 plus an amount of damages, if any, that may be established by Monsanto US as loss to it arising from the defendants' infringement of its patent. That amount, not yet determined, would be assessed on the basis of written submissions, or, if either party requests it, by oral submissions, to be heard by telephone or by personal appearance. If the parties do not agree on a quantum of profits, written submissions on general damages claimed by Monsanto US shall be filed within 30 days of the filing of these Reasons and any response by the defendants shall be filed within ten days of service of plaintiffs' submissions. If either counsel desires that damages be dealt with by oral submissions he shall arrange with the Court Registry, within 40 days of filing of these Reasons, for a telephone conference to confirm arrangements for that.
+Exemplary damages
+[141]
+The plaintiffs also claim exemplary damages. In my opinion this is not a case for exemplary damages. Neither the corporate defendant nor Mr. Schmeiser acted in a manner that would warrant punishment or that would deserve condemnation by the Court. Only conduct of that order would warrant exemplary damages. (
+Lubrizol Corp. et al. v. Imperial Oil Ltd. et al.
+, [1996] 3 F.C. 40; 197 N.R. 241; 67 C.P.R.(3d) 1 (F.C.A.)).
+Interest
+[142]
+The plaintiffs are entitled to pre-judgment interest on profits as may be agreed upon or on damages that may be awarded, in accord with s. 36(1) of the
+Federal Court Act
+, R.S.C. 1985, c. F-7 as amended and the
+Pre-judgment Interest Act
+, S. Sask., 1984-85-86, c. P-22.2, from the date of commencement of the action, August 6, 1998, to the date that judgment is filed herein. Post-judgment interest shall be in accord with s. 37(1) of the
+Federal Court Act
+.
+Personal liability of Mr. Schmeiser
+[143]
+While Mr. Schmeiser is a defendant in this action it is urged for the defendants that since the farming operations were legally those of the corporate defendant, it alone should be liable in any relief awarded and Mr. Schmeiser should not be personally liable. For the plaintiffs it is urged that payments for the canola from the 1998 crop were made to and in the name of Percy Schmeiser, not to the company. Further, the plaintiffs rely upon authorities which deal with the issue of the personal liability of a director for infringing acts done in the name of a corporation.
+[144]
+My reading of those cases is that it is exceptional when a director is held personally liable, at least in damages or monetary awards in these circumstances. In
+Mentmore Manufacturing Co. and Rotary Pen Corp. v. National Merchandise Manufacturing Co.
+(1978), 22 N.R. 161; 40 C.P.R.(2d) 164; 89 D.L.R.(3d) 195 (F.C.A.), at 169-174, Le Dain, J.A., for the Court of Appeal, upheld a decision to assign no personal liability to a director whose conduct could not reasonably be said to be outside the normal relationship of the director to his company, and otherwise so deliberate as to cause, or entirely indifferent to the risk of, infringement. In
+Lishman
+, supra, para. 115), Mr. Justice Rothstein, then of this Court, held a director personally liable where his conduct exhibited dishonesty and an attempt to strip the corporate party of assets that might otherwise satisfy any judgment that might be rendered.
+[145]
+I am not persuaded that Mr. Schmeiser's conduct, though deliberate and however uncooperative it appeared to the plaintiffs, was such that personal liability in regard to damages or interest is here warranted. Of course any claim to profits could only be in relation to the corporate defendant. As for the other orders here authorized, i.e. the injunction, the order for delivery up, should be directed to both defendants. Mr. Schmeiser is the directing mind and the active director of Schmeiser Enterprises. He may be made responsible for carrying out those orders. Judgment for damages or recovery of profits will be awarded against Schmeiser Enterprises only.
+Conclusions
+[146]
+I find on a balance of probabilities that the growing by the defendants in 1998 of canola on nine fields, from seed saved in 1997 which was known or ought to have been known by them to be Roundup tolerant, and the harvesting and sale of that canola crop, infringed upon the plaintiffs' exclusive rights under Canadian patent number 1, 313, 830 in particular claims 1, 2, 5, 6, 22, 23, 27, 28 and 45 of the patent.
+[147]
+The plaintiffs' action for infringement is allowed and will be confirmed by Judgment to be filed after opportunity for counsel to consult, and, if appropriate, to make further submissions about the terms of Judgment to give effect to these Reasons and, in particular, to the relief which these Reasons provide are to be ordered to protect the plaintiffs' patent interests and to compensate them for the defendants' infringement of those interests.
+[148]
+Both parties request the opportunity to make submissions on costs. The plaintiffs are entitled to costs, but the Court will consider any submissions on costs, by either party, with or following submissions to be made on the terms of Judgment.
+[149]
+Counsel for the plaintiffs is directed to prepare a draft judgment, to be supplemented later if necessary with additional terms to be settled, and to circulate the draft(s) to counsel for defendants for comment, within 31 days of the filing of these Reasons. If the terms so proposed are not agreed upon by the defendants, the Court would consider written submissions or would hear counsel, if necessary by telephone, on the terms of Judgment.
+Action allowed.
+Editor: Elizabeth M.A. Turgeon/slm
+[End of document]

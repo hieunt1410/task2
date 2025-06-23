@@ -1,0 +1,22 @@
+[8]
+The issue on this application is:
+1.
+In exercising its H&C discretion, did the IAD make an erroneous finding of fact by ignoring or misconstruing evidence before it?
+IV.
+Relevant Statutory Provisions
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation
+(a) for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act; [...]
+(2) The following provisions govern subsection (1):
+(a) the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of two years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; [...]
+67. (1) To allow an appeal, the Immigration Appeal Division must be satisfied that, at the time that the appeal is disposed of,
+[. . . . .]
+(c) other than in the case of an appeal by the Minister, taking into account the best interests of a child directly affected by the decision, sufficient humanitarian and compassionate considerations warrant special relief in light of all the circumstances of the case.
+40. (1) Emportent interdiction de territoire pour fausses déclarations les faits suivants:
+a) directement ou indirectement, faire une présentation erronée sur un fait important quant à un objet pertinent, ou une réticence sur ce fait, ce qui entraîne ou risque d'entraîner une erreur dans l'application de la présente loi; [...]
+(2) Les dispositions suivantes s'appliquent au paragraphe (1):
+a) l'interdiction de territoire court pour les deux ans suivant la décision la constatant en dernier ressort, si le résident permanent ou l'étranger n'est pas au pays, ou suivant l'exécution de la mesure de renvoi; [...]
+67. (1) Il est fait droit à l'appel sur preuve qu'au moment où il en est disposé:
+[. . . . .]
+c) sauf dans le cas de l'appel du ministre, il y a - compte tenu de l'intérêt supérieur de l'enfant directement touché - des motifs d'ordre humanitaire justifiant, vu les autres circonstances de l'affaire, la prise de mesures spéciales.
+V. Analysis
+Standard of Review

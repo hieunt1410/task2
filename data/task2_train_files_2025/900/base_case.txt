@@ -1,0 +1,224 @@
+[1]
+Walsh, J.
+: Defendant Canarctic Shipping Limited moves for an order referring the parties to arbitration as against the defendant Canarctic, or in the alternative granting leave to Canarctic to file a conditional appearance in order that it may object to the jurisdiction of the court and staying the proceedings in order to allow such objection to be raised and disposed of.
+[2]
+The grounds of the motion are that the matter which is the subject of the pro­ceed­ings as against Canarctic arises out of a contract of affreightment between Canarctic and plaintiff Nanisivik Mines Ltd. and a bill of lading incorporating the terms of the contract of affreightment issued thereunder (the charter party) which requires that all disputes of law and fact arising under the charter party be referred to arbitration. Ref­erence is made to the
+Commercial Arbitra­tion Act
+, R.S.C. 1985 (2nd Supp.), c. 17, and the Schedules thereto (the
+Code
+), the
+Federal Court Act
+, R.S.C. 1985, c. F-7, s. 50, and
+Federal Court Rules
+, rules 319, 1026 and 401.
+[3]
+It is necessary for an understanding of this motion to look into the facts. Plaintiff Nanisivik Mines Ltd. is a Canadian corpor­ation in the mining business and at all material times was the seller, shipper and owner of a cargo of 11,996 metric tonnes of zinc concentrate shipped on board the vessel Finnpolaris under a Bill of Lading issued at Nanisivik, Northwest Territories on August 9, 1991.
+[4]
+Plaintiff Zinc Corporation of America with offices in Louisiana engaged in the production of zinc was the buyer, consignee and owner of the cargo. (It will be noted that the Statement of Claim describes both plain­tiffs as "owner of the cargo" but nothing turns on this in connection with the present motion.)
+[5]
+Defendants F.C.R.S. Shipping Ltd., Finnlines O.Y. A/B, Finnlines Group O.Y. A/B, Finncarriers O.Y. A/B and F.G. Ship­ping O.Y. A/B all have offices in Finland and are engaged in the international shipping business. At all material times F.C.R.S. Shipping Limited was the owner of the vessel which was demise-chartered to Finncarriers O.Y. A/B. At all material times F.G. Shipping O.Y. A/B acted as manager of the vessel on behalf of said defendants.
+[6]
+Defendant Canarctic Shipping Company Limited, a corporation with offices in Ottawa was voyage charterer of the vessel. Plaintiffs allege that all defendants named were "car­riers" of the cargo. Defendants F.C.R.S. Shipping Ltd. and Finncarriers O.Y. A/B who have filed a Statement of Defence deny this.
+[7]
+Defendants Matti Pulli, Kari K.J. Lautamies, and Jouni Kalvi, all residents of Finland were at all material times respec­tively Captain, responsible for management and navigation of the vessel, Chief Engineer, responsible for its mechanical and structural condition, and First Mate, responsible for management and navigation. Defendant Kari Manninen, who was later added as a defend­ant, was Second Mate, responsible for navi­gation of the vessel.
+[8]
+Pursuant to the bill of lading signed by defendant Matti Pulli, carriers acknowledged receipt of the cargo in good order and con­dition on board the vessel at Nanisivik on or about August 9, 1991 for delivery to plaintiff Zinc Corporation at Darrow, Louisiana. Two days after sailing she sank in what plaintiffs allege were "usual and foreseeable weather and ice conditions", losing the cargo and causing plaintiffs damage of $5,000,000 U.S. Those defendants who have pleaded claim the vessel was classed + 100 A-1 (ice-class 1A Super in Lloyd's Register).
+[9]
+Plaintiffs sue in both contract and tort against the carriers, and alternatively, in tort against the four named ship's officers for whom the carriers are vicariously liable.
+[10]
+The defendants who have pleaded refer to the bareboat charter in the "Barecom A" form dated January 2, 1990 at Helsinki, Finland which was assigned to defendant Finncarriers Ltd. as sub-demise charterer, who voyage-chartered the vessel to Canarctic by time-charter in the New York Produce Exchange form dated May 6, 1991 at Gothenburg, Sweden. The Bill of Lading referred to by plaintiffs comprised the con­tract of carriage between them and Finncarriers who rely on all the conditions and exceptions therein, alleging that under its terms defendant Finncarriers is not re­sponsible for the loss or damage claimed by plaintiffs. It is also pleaded that there is no relationship whatsoever contractual or other­wise between plaintiffs and defendant F.R.C.S. Shipping.
+[11]
+As may be expected, said pleading defendants deny any negligence of officers or crew, plead perils of the sea, latent defects not discernible by due diligence and invoke the immunities, exceptions and limi­tations of the
+Carriage of Goods by Water Act
+, R.S.C. 1985, c. C-27, as being appli­cable to the shipment. They reserve the right, if held liable, to limitation of liability pursuant to s. 574 of the
+Canada Shipping Act
+, R.S.C. 1985, c. S-9.
+[12]
+Much of this, including the relationship between the various Finnish corporate de­fendants is not pertinent in the present motion, but it is evident that arbitration between plaintiffs and defendant Canarctic Shipping Company Limited in London, England, if it takes place, will not settle all the issues in this complex action. Aside from the contractual relationship between plain­tiffs and the various defendants it is apparent that the cause of the sinking will be highly pertinent and, if not settled, involve exten­sive litigation to determine whether there is a claim in tort, and the applicability of the limitations of the
+Carriage of Goods by Water Act
+and the
+Canada Shipping Act
+. Plaintiffs contend that most of the witnesses will be in Canada and none in the United Kingdom - none of the witnesses have any connection there.
+[13]
+Canarctic in support of its motion states that any obligation which it has to plaintiffs arises under a Contract of Affreightment between it and Nanisivik Mines Ltd. dated December 31, 1988 and the Bills of Lading issued thereunder. It neither owned nor operated the Finnpolaris but it was chartered by time-charter for the purpose of carrying the cargo in question by Time-Charter dated May 6, 1991, which provided for arbitration in London, England of any dispute between Canarctic and the shipowners. The ship­owners themselves have given Canarctic notice that they will rely upon arbitration in London should Canarctic make any claim against them. All the terms, conditions, liberties and exceptions of the charter party are incorporated in the Bill of Lading.
+[14]
+In answer to this plaintiffs submit that the allegations of negligence (tort) are made against all defendants two of whom (F.C.R.S. Shipping Ltd. and Finncarriers O.Y. A/B) have already attorned to the jurisdiction of the court, that the arbitration clause in the charter party between Canarctic and Nanisivik does not apply to any of the other defendants who are not parties to it, and neither is plaintiff Zinc Corporation a party, being merely the consignee, and that the Bill of Lading makes no specific refer­ence to the arbitration clause in the charter party.
+[15]
+The principal issue is the relationship between s. 50(1) of the
+Federal Court Act
+and art. 8 of the Schedule under the
+Com­mercial Arbitration Act
+. Plaintiffs contend that article 8 does not require that proceed­ings be stayed and is not operative in the circumstances of this case, and in any event that despite it the court retains discre­tion under s. 50 of the
+Federal Court Act
+to stay proceedings, which discretion on the facts of this case should be exercised against a stay.
+[16]
+Article 8 of the Schedule under the
+Commercial Arbitration Act
+reads as follows:
+"(1) A court before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative or incapable of being performed.
+"(2) Where an action referred to in para­graph (1) of this article has been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court."
+[17]
+Section 50(1) of the
+Federal Court Act
+provides:
+"The Court may, in its discretion, stay proceedings in any cause or matter,
+(a) on the ground that the claim is being proceeded with in another court or juris­diction; or
+(b) where for any other reason it is in the interest of justice that the proceed­ings be stayed."
+[18]
+Paragraph 32 of the charter party between Nanisivik and Canarctic reads as follows:
+"Any dispute of law or fact arising under this charter party shall be referred to the arbitration of three persons, one to be appointed by the Owners, one to be appointed by the Charterers, and the third by the two so chosen. They shall meet in the city of London and shall proceed in a manner determined by themselves accord­ing to English Law, and their award or that of any two of them shall be final, and a decree or judgment on the award rendered may be entered in the Court having juris­diction thereof. Any claim must be made in writing and Claimants' Arbitrator appointed within one year of the events giving rise to the claim, and where this provision is not complied with the claim shall be deemed to be waived and abso­lutely barred."
+[19]
+The time charter from F. Ships Pool, Helsinki to Canarctic states in para. 17:
+"Should any dispute arise between Owners and the Charterers, the matter in dispute shall be referred to three persons at Lon­don, one to be appointed by each of the parties hereto, and the third by the two so chosen; their decision, or that of any two of them, shall be final and for the purpose of enforcing any award this agreement may be made a rule of the Court. The arbitrators shall be commercial men con­versant with shipping matters. This charter to be governed by and construed in ac­cordance with English law."
+[20]
+The Bill of Lading states:
+"All the terms, conditions, liberties, and exceptions of the charter party are hereby incorporated."
+Canarctic, referring to art. 8 of the Schedule to the
+Commercial Arbitration Act
+states that it has not yet "submitted its first state­ment on the substance of the dis­pute", so can still seek arbitration. While plaintiffs dispute this they rely only on one letter dated Feb­ruary 16, 1992 from Canarctic's solicitors before said defendant had even received instructions to accept service which states the statement of defence will be filed subse­quent thereto. Later on April 16, 1992 after accepting service they state they are discuss­ing the case with sol­icitors for the other defendants and are consulting with their client in order to respond to the statement of claim. This is certainly not "submitting a first statement to the substance of the dis­pute" so Canarctic is entitled to seek arbitra­tion.
+[21]
+Counsel refers to the fact that the article uses the word "shall", making arbitration mandatory "unless the agreements is null and void, inoperative or incapable of being performed" which is not the case here.
+[22]
+Plaintiffs however, counter this with jurisprudence to the effect that a contractual agreement to submit to a foreign court can­not deprive the Federal Court of its jurisdic­tion. In
+Ship M/V Seapearls and Patmos Navigation Co. v. Seven Seas Dry Cargo Shipping Corp.
+, [1983] 2 F.C. 161; 43 N.R. 517; 139 D.L.R.(3d) 669 (F.C.A.), Pratte, J., stated at p. 680:
+"Contractual undertakings whereby parties agree to submit their disputes to a foreign court, or to arbitration, do not deprive the Federal Court of its jurisdiction. However, when proceedings are commenced in defiance of such an undertaking the court has the discretion to order that proceedings be stayed. Para. 50(1)(b) of the
+Fed­eral Court Act
+confers on the court the discre­tionary power to stay proceedings where 'it is in the interest of parties that the pro­ceedings be stayed'. As a rule it is certain­ly in the interest of justice that contractual undertakings be honoured."
+[23]
+As Canarctic points out, however, this case was decided before the
+Commercial Arbitration Act
+of 1986 so there was no issue with respect to art. 8 of the Sched­ule thereto. Canarctic makes the same argu­ment with respect to the applicability of such judgments as
+Agro Company of Canada et al. v. Ship Regal Scout and Argonaut Marine Inc.
+, [1984] 2 F.C. 851, stating that this jurisprudence is no longer applicable.
+[24]
+The issue has been considered subsequently in several cases. In
+FRAGMENT_SUPPRESSED a statement of claim was filed in Federal Court and Flota was forced to file a state­ment of defence to avoid being noted in default. Flota however applied for a stay pending arbitration pursuant to art. 8 of the
+Code
+. At p. 151, Joyal, J., states:
+"The only logical conclusion from the foregoing text is that art. 8 should be given a fairly strict interpretation. Further­more, I should also apply a strict construc­tion approach on the grounds that its im­perative provision is an exceptional depar­ture from the court's inherent jurisdiction and from its traditional discretion in deal­ing with any application to stay proceed­ings."
+He states however, at p. 153:
+"I should find first of all that art. 8 of the
+Code
+, which makes stay mandatory, in no way affects or impinges upon the per­miss­ive jurisdiction of the Court under s. 50."
+[25]
+In his conclusion granting the stay he avoids the issue, stating: "At the risk, there­fore of appearing to shirk the issue as it were, I should establish the case for the defendant on the basis of s. 50(1)(b) of the
+Federal Court Act
+."
+[26]
+A similar conclusion was reached by Denault, J., in
+B.C. Navigation S.A. (Bank­rupt) v. Canpotex Shipping Services Ltd.
+(1987), 16 F.T.R. 79 (F.C.T.D.). At p. 80 of the judgment states:
+"In the present case, involving an admiral­ty matter, there exists an arbitration agree­ment and the defendant, on the first given occasion, requests a transfer before the arbitration tribunal. Parliament imposes an imperative duty upon the court to refer the parties to arbitration, unless the agreement is found to be 'null and void, inoperative or incapable of being performed'. No evidence of this sort has been shown in the present case, except the fact that the right to proceed to arbitration could be time-barred; but this is 'no reason for regarding arbitration as inoperative and refusing a stay'. (Walton,
+Russel on Arbitration
+(18th Ed., 1970), p. 166). This arbitration tribunal is therefore the forum where this issue will have to be debated, and the court must refer the parties to arbitration.
+"This finding disposes of this application, but even if I had decided otherwise, I would still, in the exercise of my discre­tion, have granted a stay of all proceed­ings, according to s. 50 of the
+Federal Court Act
+, in view of this rule expressed by the majority in the
+Ship M/V 'Seapearl' et al. v. Seven Seas Dry Cargo Shipping Corporation of Santiago, Chile
+, [1983] 2 F.C. 161; 43 N.R. 517:
+'The prima facie rule is that a court must grant a stay of proceedings commenced in defiance of a contractual undertaking. Before a court may depart from this general rule there must be sufficiently strong reasons to support the conclusion that it would not be reasonable or just in the circumstances to keep the plaintiff to his promise and enforce the contract.'"
+[27]
+Plaintiffs refer to a recent decision of the Court of Appeal in
+Ruhrkohle Handel Inter GmbH et al. v. Fednav Ltd. et al.
+(1992), 144 N.R. 70 (F.C.A.), A-674-91 - judgment May 29, 1992, F.C.J. No. 473. Appellants had contended that art. 8 of the
+Code
+entitled them to a stay as a matter of right, the court having no discretion to refuse to refer the parties to arbitration. Appellants failed because the request was not made in timely fashion. At p. 74 the statement is made:
+"The
+Code
+, as a matter of law and con­venience for the international community, has established in art. 8(1) a time frame which is beyond and above procedural subtleties of the courts of the participating states. For the
+Code
+to be effective, parties must know that in whatever court they make a request for reference to arbitration, such request shall be made in order to deprive that court of any discretion, before or at the very precise moment they submit in that court their first statement on the substance of the dispute."
+[28]
+In
+Miramichi Pulp & Paper Inc. et al. v. Canadian Pacific Bulk Ship Services Ltd. et al.
+(1992), 58 F.T.R. 81, Joyal, J., after again referring to the desirability of giving a strict interpretation to Schedule 8 states at p. 84:
+"I would like to add that this Court, in the exercise of its discretion, has jurisdiction to grant a stay of proceedings when the interest of justice so dictates -
+Federal Court Act
+, R.S. 1985, c. F-17, s. 50(1)(b)."
+[29]
+I conclude that even an agreement to arbitrate in a Bill of Lading cannot remove all discretion from the court to continue proceedings before it, and to decide whether or not a stay of such proceedings will be granted.
+[30]
+Certain peripheral issues were argued which I do not consider need be nor should be definitively decided on this motion. I do not accept plaintiffs' argument that art. 8 of the
+Code
+is "inoperative" as the parties could not have intended it to be in circum­stances involving multiple parties where their rights could only be effectively deter­mined through the presence of all parties. Their intentions are not the issue, but merely what was agreed upon. Neither do I believe that arbitration should not take place because the issues are not strictly speaking disputes under the charter-party as plaintiff Nanisivik contends. The words "any disputes of law or fact" in para. 32 of the charter party (supra) are very broad and I do not think should be restricted to disputes such as demurrage, dispatch disputes or disputes concerning quantities and prices as said plaintiff sug­gests.
+[31]
+Plaintiffs argue that plaintiff Zinc Corp. is not a party to the charter-party but merely a holder of the Bill of Lading by virtue of which the goods were shipped and therefore not bound by the arbitration clause in the charter party unless it has been specifically included in the Bill of Lading. The Bill of Lading to which plaintiff Zinc Corp. is a party merely provided that "all the terms, conditions, liberties and exceptions of the charter-party are hereby incorporate". No specific mention was made of the arbitration clause. It is submitted therefore that a stay of proceedings on the basis of the arbitration clause as against this plaintiff should be refused.
+[32]
+In
+Miramichi Pulp & Paper Inc. et al. v. Cana­dian Pacific Bulk Ship Services
+, supra, Joyal, J., stated at p. 83:
+"It appears to be an accepted rule of con­struction that in order to incorporate into the bill of lading an arbitration clause, clear and precise language such as 'in­cluding the arbitration clause' is necessary. General wording such as 'incorporating the general terms and conditions of a charter-party' is insufficient. See:
+The 'Rena K'
+, [1978] 1 Lloyd's Rep. 545 (at p. 551); and
+T.W. Thomas & Co. Ltd. v. Portsea Steamship Co. Ltd.
+, [1912] A.C. 1 (at p. 6)."
+[33]
+This was discussed at some length in the case of
+Agro-Canada
+, (supra). The headnote at p. 851 reads in part:
+"Although there has been no decision in Canada on the incorporation of arbitration clauses in Bills of Lading by general terms, it would be wrongful not to adopt what has been consistent practice in Brit­ain in recent years. According to that practice, the general clause in the endorse­ment on the bill of lading incorporating all the terms, conditions and exceptions of the charter-party does not have the effect of specifically incorporating the arbitration clause which is therefore neither specifi­cally incorporating by the terms of the charter-party itself, nor by the bill of lad­ing."
+[34]
+It would appeal therefore that Zinc Corp. of America may not be bound by the arbitration clause in the Contract of Affreightment between Canarctic and Nanisivik Mines Ltd.
+[35]
+The Time-Charter from the Owners F. Ships Pool and Canarctic also provides for the same type of arbitration and F. Ships Pool has indicated that they will insist on arbitration in the event of a claim by Canarctic against them. This would be another arbitration.
+[36]
+An issue was raised as to whether Nanisivik or Zinc Corp., the consignees, are owners of the cargo. Both are so described in the Statement of Claim.
+[37]
+Section 2 of the
+Bills of Lading Act
+, R.S.C. 1985, c. B-6, reads as follows:
+"Every consignee of goods named in a bill of lading, and every endorsee of a bill of lading to whom the property in the goods therein mentioned passes on or by reason of the consignment or endorsement, has and is vested with all rights of action and is subject to all liabilities in respect of those goods as if the contract contained in the bill of lading had been made with himself."
+[38]
+Clause 13 however provides that Z.C.A. (Zinc) shall pay 85% of the estimated value of the shipment on the 30th day, following the vessel's date of arrival (which of course never took place) as Z.C.A. did not have title. Looking at the Agreement of Sale between Nanisivik and Zinc Corp., clause 6 reads: "The risk of loss of the material shall pass to Z.C.A. when the material shall have effectively passed the ship's sail at the load­ing port. Title to the material shall pass simultaneously with the first provisional payment.
+[39]
+See also
+Paterson Steamships Ltd. v. Aluminum Co. of Canada
+, [1951] S.C.R. 852, which held, inter alia, that respondent as owner and consignee of the goods was entitled to sue on the bill of lading.
+[40]
+Zinc Corp. has a valid reason to be co-plaintiff, but that does not mean that it is subject to the arbitration clause between Nanisivik and Canarctic.
+[41]
+Another issue which was raised is how Canarctic could be held liable in tort, even vicariously. They had only a time-charter, the officers and crew being provided by the owners of the vessel, the other defendants. Here again, this is not an issue to be dealt with here.
+[42]
+In the case of
+Iberfreight S.A. et al. v. Ocean Star Container Line A.G. et al.
+(1989), 104 N.R. 164 (F.C.A.), Hugessen, J.A., held at p. 165 in reference to an arbi­tration clause:
+"Insofar as appellant Ocean Star is con­cerned, this clause is clearly binding on the plaintiffs. We do not read it as being limited to cases where the goods are actually delivered or discharged and hence inapplicable to a case such as this, where the cargo is said to have been lost over­board. The appeal of Ocean Star should therefore succeed, the case should be stayed and the matter referred to arbitra­tion subject to the condition mentioned below."
+[43]
+Plaintiffs lay great stress on the danger of conflicting decisions if arbitration is held with respect to the claim against Canarctic, while claims against other defendants remain to be decided by the court. This is a specu­lative risk, however, and, in any event, as already stated, should the court make a decision which would give Canarctic a claim against the shipowners, the latter have already indicated they would insist on arbi­tration of it. While it might be more con­venient to deal with all issues in the court, the possibility of conflicting decisions is not a valid basis on which to refuse to exercise discretion to grant a stay.
+[44]
+See in this connection,
+Ship W/V Seapearl and Patmos Navigation Co. v. Seven Seas Dry Cargo Shipping Corp.
+(supra) at p. 681 where Pratte, J., states:
+"On what basis or according to what prin­ciple did the motion judge exercise his discretion in this case? As I read his order, it was made on the basis that the proceed­ings commenced in the Trial Division had to be stayed unless it appeared more con­venient that the issues between the parties be decided by the court in Canada rather than by arbitration in London. In other words, the judge decided on a mere bal­ance of convenience. In so doing, the learned judge applied what I consider to be a wrong principle. Prima facie, an applica­tion to stay proceedings commenced in the Federal Court in defiance of an undertak­ing to submit a dispute to arbitration or to a foreign court must succeed because, as a rule, contractual undertakings must be honoured. In order to depart from that prima facie rule, 'strong reasons' are needed, that is to say, reasons that are sufficient to support the conclusion that it would not be reasonable or just, in the circumstances, to keep the plaintiff to his promise and enforce the contract he made with the defendant. This is the principle which is now applied in England."
+After quoting the British jurisprudence, he adds: "that is also, in my opinion, the prin­ciple that should be applied in this Court".
+[45]
+This was also referred to in the
+Agro Co. of Canada Ltd. v. Ship Regal Scout
+case (supra) at p. 851. While both of these cases were decided on the basis of s. 50 of the
+Federal Court Act
+before the
+Com­mercial Arbitration Code
+was adopted, the presence of article 8 in the latter if not perhaps by itself wholly decisive certainly strengthens the desirability of staying the proceedings so as to proceed to arbitration with respect to the claim against Canarctic.
+[46]
+That a stay may be ordered with respect to proceedings against one defendant and refused against others was decided in the
+Iberfreight
+case (supra). After ordering arbitration with respect to one defendant Ocean Star, Hugessen, J.A., states at p. 165:
+"That is not the case, however, with regard to the appellant Lunstedt. It has produced no material whatever to show the nature of its relationship with Ocean Star so as to entitle it to benefit from any of the clauses of the Bill of Lading; such material should have been produced in support of the application to stay in the Trial Division and the oral request to make such evidence at the hearing of the appeal comes too late. We are simply not in a position to say that there is any agreement to arbitrate the claim which plaintiffs assert against Lunstedt and which seems to sound pri­marily in tort. Accordingly Lunstedt's appeal must fail."
+[47]
+Subsection (2) of article 8 of the
+Com­mercial Arbitration Act
+(supra) makes it clear that arbitral proceedings may be com­menced or continued and an award made while the issue is pending before the court.
+[48]
+While counsel for Canarctic argued that in this case the court should make a decision that article 8 of the
+Code
+must be applied, and this may well be so, I prefer as some other judges of the court have done, to rely on the discretion of the court pursuant to s. 50 of the
+Federal Court Act
+in granting a stay against Canarctic.
+[49]
+If I have gone at some length into the various arguments invoked bearing on whether discretion for the stay sought should be exercised, it is not because all issues can be decided on the present motion. The court cannot and should not give any instructions to the arbitrators as to who should partici­pate in the arbitration and what legal or factual issues they may raise before the arbitrators.
+[50]
+While counsel for applicant argued that if the reference to arbitration is granted this would automatically operate a stay in pro­ceedings against Canarctic, and that a stay order is only necessary if the alternate con­clusion of filing on objection to the jurisdic­tion of the court and staying the proceedings until such objection is raised and disposed of is made, I do not conclude that the alternate conclusion is viable. I do not conclude that this court has no jurisdiction over Canarctic merely because I have concluded that arbi­tration should take place. It is therefore desirable that in ordering a reference to arbitration, a stay of proceedings against Canarctic only, until the arbitration has been concluded, should be granted.
+Order accordingly.
+Editor: Reginald W. Curtis/sg
+[End of document]

@@ -1,0 +1,23 @@
+[113]
+In
+Penner,
+supra
+at paras 28-31, the majority canvassed the legal framework governing issue estoppel:
+[28] Relitigation of an issue wastes resources, makes it risky for parties to rely on the results of their prior litigation, unfairly exposes parties to additional costs, raises the spectre of inconsistent adjudicative determinations and, where the initial decision maker is in the administrative law field, may undermine the legislature's intent in setting up the administrative scheme. For these reasons, the law has adopted a number of doctrines to limit relitigation.
+[29] The one relevant on this appeal is the doctrine of issue estoppel. It balances judicial finality and economy and other considerations of fairness to the parties
+.
+It holds that a party may not relitigate an issue that was finally decided in prior judicial proceedings between the same parties or those who stand in their place. However, even if these elements are present, the court retains discretion to not apply issue estoppel when its application would work an injustice.
+[30] The principle underpinning this discretion is that "[a] judicial doctrine developed to serve the ends of justice should not be applied mechanically to work an injustice":
+Danyluk
+, at para. 1; see also
+Toronto (City) v. C.U.P.E., Local 79
+, 2003 SCC 63, [2003] 3 S.C.R. 77, at paras. 52-53.
+[31] Issue estoppel, with its residual discretion, applies to administrative tribunal decisions. The legal framework governing the exercise of this discretion is set out in
+Danyluk
+. In our view, this framework has not been overtaken by this Court's subsequent jurisprudence. The discretion requires the courts to take into account the range and diversity of structures, mandates and procedures of administrative decision makers however, the discretion must not be exercised so as to, in effect, sanction collateral attack, or to undermine the integrity of the administrative scheme. As highlighted in this Court's jurisprudence, particularly since
+Dunsmuir v. New Brunswick
+, 2008 SCC 9, [2008] 1 S.C.R. 190, legislation establishing administrative tribunals reflects the policy choices of the legislators and administrative decision making must be treated with respect by the courts. However, as this Court said in
+Danyluk
+, at para. 67:
+"
+The objective is to ensure that the operation of issue estoppel promotes the orderly administration of justice but not at the cost of real injustice in the particular case."

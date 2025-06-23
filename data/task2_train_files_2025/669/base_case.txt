@@ -1,0 +1,138 @@
+I.
+INTRODUCTION
+[1]
+Phelen, J.
+: Parfums de Coeur, Ltd. (PDC) seeks an order, pursuant to s. 57 of the
+Trade-marks
+Act
+, removing Registration No. TMA 604,943 (Registration) from the Trademarks Register. The Registration is in the name of Christopher Asta (Asta) carrying on business as Asta Hairstyling School.
+[2]
+The grounds of this application are that the Registration is void or invalid because it was obtained by means of a Declaration of Use which contained either a fraudulent misrepresentation or a materially false statement that was fundamental to the Registration.
+II.
+BACKGROUND
+[3]
+Asta filed a trademark application on November 23, 1999 for the trademark BOD on the basis of proposed use. The wares in association with the proposed use of the mark were:
+"
+Hair care
+, namely shampoo, conditioner, treatment, styling aids, hairsprays, hairpolish, perms, colours, lighteners, brushes;
+skin care
+, namely, bar soap, makeup removers, lotions, moisturizers, treatments, creme, toners, exfoliating scrub, masques, eye treatments and pads, essential oils;
+cosmetics
+, namely, makeup, eye shadow, powder, blush, concealer, neutralizer, mascara, colours, pencil, lip colour, nail colour, prime, finish, treatment;
+body care
+, namely, moisturizers, bars, exfoliators, body wash, bath oil, bath crystals, bubble bath, body sprays, perfumes (the 'Original Wares')." (Emphasis added)
+[4]
+In his Declaration of Use signed February 12, 2004, Asta declared that by himself or through a licensee he had commenced use of the trademark in Canada in association with the same Original Wares.
+[5]
+Based on this Declaration of Use, the Registration for the trademark BOD was issued on March 11, 2004 covering these Original Wares.
+[6]
+The Applicant, PDC, is a U.S. corporation which began selling products bearing the BOD MAN trademark in Canada as early as October 2002. PDC had sold body sprays bearing the BOD MAN trademark in the U.S. since the spring of 2000.
+[7]
+PDC wrote to Asta giving notice of its intention to commence a proceeding to cancel the Registration. As a consequence, Asta filed an amendment to his trademark to reflect his actual use in respect of wares. The wares in use were "hair care, namely shampoo, conditioner." The remaining wares were deleted from the list of Original Wares.
+[8]
+On October 13, 2006, the Trademarks Office confirmed that the BOD Registration had been amended to reflect the amended use (Amended Registration).
+[9]
+PDC seeks to strike out the Amended Registration. This Amended Registration has been cited by the Trademarks Office as a bar to the registration of PDC's trademark for BOD MAN in association with "men's fragrances, namely, cologne, eau de toilette, aftershave, scented body sprays and personal deodorants."
+III.
+ISSUE
+[10]
+The issue in this application is whether, pursuant to s. 57, this Court should strike the Amended Registration.
+IV.
+ANALYSIS
+[11]
+Section 57 of the
+Trade-marks
+Act
+gives the Court the power, but not the obligation, to strike out or amend an entry from the trademark register where the registration does not "accurately express or define the existing rights of the person appearing to be the registered owner of the mark."
+"57(1) The Federal Court has exclusive original jurisdiction, on the application of the Registrar or of any person interested, to order that any entry in the register be struck out or amended on the ground that at the date of the application the entry as it appears on the register does not accurately express or define the existing rights of the person appearing to be the registered owner of the mark.
+"57(2) No person is entitled to institute under this section any proceeding calling into question any decision given by the Registrar of which that person had express notice and from which he had a right to appeal."
+"57(1) La Cour fédérale a une compétence initiale exclusive, sur demande du registraire ou de toute personne intéressée, pour ordonner qu'une inscription dans le registre soit biffée ou modifiée, parce que, à la date de cette demande, l'inscription figurant au registre n'exprime ou ne définit pas exactement les droits existants de la personne paraissant être le propriétaire inscrit de la marque.
+"57(2) Personne n'a le droit d'intenter, en vertu du présent article, des procédures mettant en question une décision rendue par le registraire, de laquelle cette personne avait reçu un avis formel et don't elle avait le droit d'interjeter appel."
+[12]
+The law in Canada has been summarized by Dr. Fox as follows:
+"It is provided, in s. 18(1), and the registration of a trademark is invalid if (a) the trademark was not registrable at the date of registration; (b) the trade mark is not distinctive at the time proceedings bringing the validity of the registration into question are commenced; or (c) the trade mark has been abandoned; and subject to s. 17, it is invalid if the applicant for registration was not the person entitled to secure the registration.
+There is, however, no provision in the
+Act
+under which mis-statements in an application for registration or extension of wares become grounds for invalidating the registration unless the mis-statement had the effect of making the trade mark not registrable under s. 12 of the
+Act
+or unless there was a fraudulent misrepresentation.
+" (Emphasis added in
+WCC
+, below)
+Harold Fox,
+Canadian Law of Trademarks and Unfair Competition
+, 3rd Ed. (Toronto: Carswell, 1972) at 252-3, cited with approval in
+FRAGMENT_SUPPRESSED.
+[13]
+Further, the term "date of the application" in s. 57 refers not to the date of the original application to the Trademarks Office, which would include the Original Wares, but to the date of the application for expungement in this Court (
+MacKenzie v. Busy Bee Enterprises International Ltd.
+, [1977] 2 F.C. 124 (T.D.));
+Tommy Hilfiger Licensing Inc. et al. v. Quality Goods I.M.D. Inc. et al.
+(2005), 267 F.T.R. 259; 37 C.P.R.(4th) 1; 2005 FC 10). On that date Asta had the Amended Registration, which was limited to shampoo and conditioner only.
+[14]
+Asta has admitted that the original Declaration of Use contained a critical misstatement arising from his lack of understanding of the trademark system. He said that he believed that as long as he had used the mark BOD in relation to just one of the wares in the list of Original Wares, then he could file the Declaration of Use.
+[15]
+The Applicant did not push the issue of fraudulent statement that it originally claimed, and it was appropriate for the Applicant to refrain from pursuing this avenue. In this case, there is a misstatement, whether innocent or negligent, but it is not fraudulent.
+[16]
+In
+General Motors du Canada et al. v. Décarie Motors Inc. et al.
+, [2001] 1 F.C. 665; 264 N.R. 69; 9 C.P.R.(4th) 368 (F.C.A.), that Court confirmed that a registration could be invalidated by two types of misstatements: (i) fraudulent, intentional misstatements, and (ii) innocent misstatements that are material in the sense that without them the section 12 barriers to registration would have been insurmountable.
+[17]
+There is no question that the identification of the wares was fundamental to the Registration and the Amended Registration. Likewise, there is no question that the Registration contained material misstatements. However, if the claim of use as to shampoo and conditioner is accurate, it supports the registration as reflected in the Amended Registration.
+[18]
+On the basis of the jurisprudence referred to in paragraph 13 of these Reasons, for PDC to succeed it must show that the Amended Registration was secured by material misstatement.
+[19]
+The Applicant, in its submissions, attempted to import the U.S. doctrine of fraud on the Trademarks Office, which does not require real fraud. In that doctrine, material misstatement is sufficient and any material misstatement in the processing of a registration renders the entire resulting registration void. Applied to the current case, the misstatement of use of the Original Wares would render the Amended Registration void.
+[20]
+However, the law in Canada (in particular s. 57 of the
+Trade-marks
+Act
+) and the jurisprudence referred to in these Reasons, does not go as far as the U.S. While there is something initially attractive in the notion that a material misstatement in the trademark process renders the monopoly granted in the registration void, Parliament has not embraced that principle and, absent an amendment to the
+Trade-marks
+Act
+, this Court will not do so.
+[21]
+The Applicant does allege a misstatement that would affect the Amended Registration if it carries weight. The Applicant says that Asta was not carrying on business as Asta Hairstyling School and therefore there is no evidence of use by the registrant.
+[22]
+While the evidence of use by Asta is somewhat equivocal, the Court is satisfied that Asta meets the requirements for use of the mark. The legal entity at issue is Asta personally - the reference to the trade name Asta Hairstyling does not negate the fact that the legal owner of the mark is Asta himself.
+[23]
+In addition, while Asta's ownership in Asta Hairstyling School is not well documented, it is a family business in which his father, the original owner of the business, confirmed to Asta that he was one of the owners. In a family-run concern, the absence of rigid legal structures is not unusual and I am prepared to accept Asta's evidence on this issue.
+[24]
+Asta has provided evidence that he began using the shampoo and conditioner in early 2001. This evidence included the purchase of 4,941 bottles of shampoo and conditioner bearing the BOD mark. However, the invoice for the products is to BOD at an address that is not Asta's.
+[25]
+While the evidence of the invoice for the products to Asta is confusing, the product packaging bears the legend of the mark BOD and an address which is Asta's. In addition, Asta provided evidence of direct sales by himself and others to Asta's clients at the hairstyling salon in which he had some type of interest.
+[26]
+While the evidence of use contains numerous flaws and deficiencies, on balance it is sufficient to show first use of BOD in relation to shampoo and conditioner in early 2001.
+[27]
+Asta's excuse for his overly broad Declaration of Use is that he believed that having used some of the Original Wares - the shampoo and conditioner - he was entitled to file a Declaration in respect of all the Original Wares. While clearly wrong, this was an innocent (or potentially negligent) misstatement, and was not sufficient to make the mark unregistrable in relation to shampoo and conditioner (see
+General Motors of Canada
+, above).
+[28]
+In this situation, as in
+WCC
+, the overbroad misstatement is not sufficient to render the mark unregistrable. In
+WCC
+, above, the misstatement as to the number of years of use was not sufficient to deem the mark unregistrable. Similarly, here the misstatement as to the scope of use does not render the mark unregistrable in relation to the Original Wares actually put into use. It is significant to this case that Asta amended his registration prior to the filing of this application by PDC.
+[29]
+The case of
+Unitel Communications Inc. v. Bell Canada
+(1995), 92 F.T.R. 161; 61 C.P.R.(3d) 12 (T.D.), is distinguishable in that the flaw was that there was no use by the owner at all. In that case, a subsequent change to the registration could not cure the fundamental defect in the Declaration of Use. In contrast, in this current situation, the registrant has used the mark but not as broadly as claimed. The Amended Registration covers only the wares that were put into use.
+[30]
+The Applicant has advanced a policy basis for its claim for expungement - that there must be an incentive to tell the truth. The Applicant relies on the U.S. model of draconian results for even an innocent mistake.
+[31]
+Canadian law is more nuanced and balanced. Canadian law looks to substance - an intentional misstatement should and would void a registration. However, where the misstatement is innocent and in good faith, there is an opportunity to amend the registration as provided in s. 45 of the
+Act
+.
+[32]
+The Respondent having availed himself of this opportunity to amend, the Court is not prepared to exercise its powers under s. 57 to deprive the Respondent of the trademark in respect of shampoo and conditioner to which he otherwise has a legitimate basis of right.
+V.
+CONCLUSION
+[33]
+Therefore, this application will be dismissed with costs.
+JUDGMENT
+[34]
+THIS COURT ORDERS AND ADJUDGES that
+this application is dismissed with costs.
+Application dismissed.
+Editor: E. Joanne Oley/vnh
+[End of document]

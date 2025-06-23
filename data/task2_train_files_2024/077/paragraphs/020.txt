@@ -1,0 +1,8 @@
+ [20] 
+  In every proceeding, whether judicial or administrative, one party has the burden of proof. Where the existence of a particular fact is at issue, uncertainty is resolved by asking whether or not the burden has been discharged with respect to that fact . This was eloquently stated by Lord Hoffmann in  
+ In re B (Children) (FC) 
+ , [2008] UKHL 35 at paragraph 2: 
+ 
+ 
+ 
+ If a legal rule requires a fact to be proved (a "fact in issue"), a judge or jury must decide whether or not it happened. There is no room for a finding that it might have happened. The law operates a binary system in which the only values are 0 and 1. The fact either happened or it did not. If the tribunal is left in doubt, the doubt is resolved by a rule that one party or the other carries the burden of proof. If the party who bears the burden of proof fails to discharge it, a value of 0 is returned and the fact is treated as not having happened. If he does discharge it, a value of 1 is returned and the fact is treated as having happened. 

@@ -1,0 +1,73 @@
+Hajos v. Can. (M.C.I.), [2003] F.T.R. Uned. 400 (TD)
+MLB unedited judgment
+Laszlone Hajos (applicant) and The Minister of Citizenship & Immigration (respondent)
+Indexed As: Hajos v. Canada (Minister of Citizenship and Immigration)
+Cite As: [2003] F.T.R. Uned. 400
+Federal Court of Canada
+Trial Division
+Pinard, J.
+June 13, 2003.
+(IMM-3151-01; 2003 FCT 729)
+Counsel:
+M. Max Chaudhary, for the applicant;
+Michael Butterfield, for the respondent.
+Solicitors of Record:
+M. Max Chaudhary, North York, Ontario, for the applicant;
+Morris Rosenberg, Deputy Attorney General of Canada, Ottawa, Ontario, for the respondent.
+Summary:
+This case is unedited, therefore contains no summary.
+[1]
+Pinard, J.
+: This is an application for judicial review with respect to the decision of Visa Officer Moira Escott (the "officer") of the Canadian Consulate General in Detroit, Michigan dated May 31, 2001, in which she refused the applicant's application for permanent residence in Canada because she did not meet the requirements for immigration to Canada under subsection 8(1) of the Immigration Regulations, 1978, SOR/78-172 (the "Regulations").
+[2]
+The applicant is a citizen of Hungary. On April 6, 2000, her application for permanent residence was received at the Canadian Consulate in Detroit. She applied under the independent category and asked to be assessed as a "make-up artist".
+[3]
+The applicant was given an interview in Detroit on May 31, 2001, and was awarded only 59 points under the occupation of make-up artist (National Occupational Classification 5226.5). Her application was rejected the same day. The applicant was awarded the following units of assessment:
+Factor
+Units
+Age
+10
+Occupational Factor
+01
+ETF/SVP
+15
+Experience
+06
+Arranged Employment
+00
+Demographic Factor
+08
+Education
+13
+English
+02
+French
+00
+Bonus
+00
+Personal Suitability
+04
+Total
+59
+[4]
+The applicant submits that the officer's finding regarding her language ability is irrelevant to personal suitability, and that taking it into consideration under that criterion constitutes double counting. Assuming that this argument is well-founded, such an error, in my view, was not material to the outcome of the applicant's application for permanent residence.
+[5]
+Indeed, even if the applicant were awarded the full ten points for personal suitability, which would be improbable given her present score, her total number of points would still only amount to 65. This would be five points short of the 70 required to qualify for immigration to Canada.
+[6]
+My colleague Martineau J. has correctly summarized the law in this area in Qin v. Minister of Citizenship and Immigration (November 8, 2002), IMM-1471-02, 2002 FCT 1154, as follows:
+[26] When on an application for judicial review of a visa officer's refusal to issue a visa, the Court concludes that the officer committed a reviewable error and awarded the applicant too few units of assessment, the Court may, in its discretion, refuse to set aside the decision, if in its view, the error could have made no difference to the visa officer's decision because, even after the error was corrected, the applicant still had insufficient points to be issued a visa. However, this Court and the Federal Court of Appeal have been hesitant to exercise their discretion to refuse to set aside a decision where the applicant is short of only one or two units (see Hameed v. Canada (Minister of Citizenship and Immigration) (2001), 268 N.R. 185 (F.C.A.), at paras. 23-24; FRAGMENT_SUPPRESSED; Patel v. Canada (Minister of Citizenship and Immigration) (2002), 288 N.R. 48 (F.C.A.), at para. 4; and Bawa v. Canada (Minister of Citizenship and Immigration) (2002), 19 Imm. L.R. (3d) 320 (F.C.T.D.), at paras. 9 to 13). In the case at bar, the respondent's counsel has failed to convince me that the Court should, in its discretion, refuse to set aside the decision.
+[7]
+The reviewing judge's discretion has been exercised where the applicant is short of several points, and where it is clear that the visa officer would not or could not have made up the difference by an exercise of discretion under subsection 11(3) of the Regulations (see Patel v. Minister of Citizenship and Immigration (February 6, 2002), A-223-00, 2002 FCA 55; Ye v. Minister of Citizenship and Immigration (August 17, 2001), IMM-3906-00, 2001 FCT 912; Zhang v. Minister of Citizenship and Immigration (April 27, 2001), 2001 FCT 399 and Kazi v. Minister of Citizenship and Immigration (June 28, 2002), IMM-3959-00, 2002 FCT 733).
+[8]
+Thus, it appears that the deciding factors are the number of points by which the applicant would have fallen short, and the likelihood that the visa officer would have made up the difference by exercising the discretion in subsection 11(3) of the Regulations. In this case, the applicant received 59 points, 11 points below the 70 required before the visa officer could grant her landed immigrant status. The visa officer incorrectly considered the applicant's English language ability under personal suitability, and awarded her four points in that category as a result. Given the visa officer's comments concerning personal suitability and the other factors which she took into consideration in that category, it is unlikely that she would have awarded her the full ten points possible under personal suitability even without taking into account the applicant's language ability. However, if she had, as I pointed out earlier, the applicant would still have been five points short of the required 70.
+[9]
+I also consider that the situation in the case at bar is similar to that in Patel, supra, where the Federal Court of Appeal upheld a visa officer's decision despite an error in the assessment of points:
+[6] We are of the view that the error made by the visa officer was not material to the outcome of the visa application because, even after the correction of the mistake on the educational factor, Dr. Patel was still two points short of the number normally required for a successful visa application. We also note that, in her refusal letter, the visa officer stated that she had decided not to exercise her discretion to issue a visa under subsection 11(3) of the Regulations, because she was of the view that the 66 units of assessment that she had awarded to Dr. Patel accurately reflected his ability to become successfully established in Canada.
+[7] In our opinion, the Applications Judge erred in not considering whether this was a suitable case for declining to quash the visa officer's decision. Rather than sending the matter back to the Trial Division, we are prepared to exercise the discretion that the Applications Judge ought to have exercised: the Trial Judge's decision will be reversed and the visa officer's refusal restored.
+[10]
+Here, the visa officer does not explicitly mention subsection 11(3) of the Regulations, however, she echoes its content when she states that she is of the opinion that the points awarded to the applicant accurately reflect her chances for successful settlement in Canada. Given that statement and the visa officer's discussion of the applicant's ability to settle in Canada, she would not have exercised her discretion to make up the significant shortfall of points in order to bring the applicant up to the acceptable level for entry into Canada.
+[11]
+Under the circumstances, the alleged error resulting from double counting would not be material to the outcome of the visa application, and therefore, this is an appropriate case for this Court to exercise its discretion and refuse the relief sought by the applicant.
+[12]
+Consequently, the application for judicial review is dismissed.
+[End of document]

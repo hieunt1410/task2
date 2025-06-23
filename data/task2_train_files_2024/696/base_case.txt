@@ -1,0 +1,236 @@
+[1]
+Teitelbaum, J.
+: In the present motion hearing, I am asked to address two separate questions. First, the applicant (plaintiff) seeks an interlocutory injunction to prevent the exhibition, offer for sale, sale and distribution of the respondents' (defendants') TORNADO 2000 whistle. The applicant claims that the respondents' whistle infringes its patent and will therefore cause it irreparable harm. Second, the respondents have filed a motion for a summary judgment to dismiss the applicant's statement of claim for patent infringement and declare that its "ACME TORNADO 2000" whistle does not infringe the patent in question.
+[2]
+The respondents have also submitted a counterclaim in which they allege that the applicant acted contrary to s. 7(a) of the
+Trademarks Act
+when it issued a press release trumpeting the launching of its lawsuit against the respondents. (Section 7 (a) states that "no person shall make a false or misleading statement tending to discredit the business, wares or services of a competitor".)
+Facts And Background
+The Parties
+[3]
+The applicant Fox 40 International (hereinafter "Fox 40") is a Canadian company whose sole business is the manufacture of whistles (Paragraph 12, 1st Foxcroft affidavit). It is the largest manufacturer of whistles in Canada (Paragraph 15, 1st Foxcroft affidavit). The President of Fox 40, Ronald L. Foxcroft, was a professional basketball referee dissatisfied with the whistles then in use in sports events. He decided, in 1984, to invent a whistle that would beat the existing state of the art and could always be heard over crowd noises (Paragraph 5, 1st Foxcroft affidavit).
+[4]
+The respondent J. Hudson & Co. (Whistles) Ltd. (hereinafter "Hudson") is an English corporation that primarily markets and sells whistles although whistles are not its sole product (Paragraph 36, 1st Foxcroft affidavit).
+[5]
+The respondent A. Conway Beacham Ltd. (hereinafter "Conway") is the Canadian agent for Hudson overseeing the various distributors of Hudson's whistles.
+The Patent
+[6]
+On November 27, 1990, Fox 40 was granted Canadian Patent No. 1, 276,822 ("'822 Patent"). The applicant also owns American and European patents for the same invention. The patent claimed a three-chamber pea-less whistle as the invention. Whistles used for sporting events typically make sound by the passage of air through peas or small balls in the whistle chamber. The peas, however, can get stuck by being overblown or dirty, thus diminishing the effectiveness of the whistle (Paragraph 5, 1st Foxcroft affidavit). The '822 Patent described a whistle of enhanced reliability and superior sound quality with a penetrating trill that dispensed with the need for peas (Paragraphs 24-26, 1st Foxcroft affidavit). Instead, the air passed through "three fipple [see footnote 1]-type whistle elements " or chambers in a single whistle body with a common mouthpiece to produce sound (Claim 1 of the '822 Patent). The patent explained that because the Fox 40 whistle was pea-less, it would emit a sharper sound, be more durable and easier to clean.
+[7]
+Fox 40 has manufactured and sold whistles that embody the '822 Patent under the name and mark "CLASSIC FOX 40" and "MINI FOX 40" since 1987 (Paragraph 8, statement of claim; paragraph 13, 1st Foxcroft affidavit). The "FOX 40 " Whistle became the standard whistle used in major sports leagues around the world, including the 1996 Olympic Games in Atlanta (Paragraph 8, statement of claim; paragraph 27, 1st Foxcroft affidavit). "FOX 40" has also been recommended and used by the Canadian Coast Guard and other types of search and rescue organizations. In fact, Ronald Foxcroft, co-inventor of the patent, president and namesake of Fox 40, was featured on the cover of a magazine devoted to Canadian entrepreneurs (Paragraph 32, 1st Foxcroft affidavit).
+The September Sports Convention Show
+[8]
+All was going well for Fox 40 until the September 28, 1996 Canadian Sporting Goods Association Show in Mississauga. Fox 40 had rented a table at the Show to promote its cutting edge pea-less whistles. At the same venue, Fox 40 became aware of Hudson's efforts to promote its own prototype for a pea-less whistle called the "ACME TORNADO 2000" Whistle. Fox 40 actually obtained a prototype sample of such a Hudson whistle, although no "ACME TORNADO 2000" whistles are currently available for sale and delivery [see footnote 2].
+Procedural History
+[9]
+On October 1, 1996, Fox 40 filed its statement of claim alleging that the "ACME TORNADO 2000" whistle infringed the '822 Patent for a pea-less whistle. The applicant alleged infringement because the "ACME TORNADO 2000" had the same three air Chambers or fipples of various specific dimensions and proximities (Paragraphs 9-30, statement of claim) as the "FOX 40" whistle. In the statement of claim, the applicant primarily sought:
+(1) a declaration that its patent had been infringed;
+(2) interim, interlocutory and permanent injunctions to stop the defendants from exhibiting, promoting, manufacturing, importing, distributing, vending, offering for sale or selling the "ACME TORNADO 2000" whistles;
+(3) an order requiring the defendants to hand over the "ACME TORNADO 2000" whistles; and
+(4) damages or an accounting of profits.
+[10]
+On October 3, 1996, Fox 40 filed its current motion for:
+(1) an interim and interlocutory injunction,
+(2) an order requiring the defendants to hand over the "ACME TORNADO 2000" whistles; and
+(3) an order under rule 485 fixing the date for trial.
+[11]
+In support of its motion, the applicant filed an affidavit from Ronald L. Foxcroft, the co-inventor and President of Fox 40.
+[12]
+On October 24, 1996, the respondents filed its counterclaim alleging unfair competition. On the same day, Hudson filed its current motion for a summary judgment against the applicant's claim for patent infringement.
+Affidavits Of Evidence
+[13]
+In the present case, the following affidavits of evidence were filed:
+a) Affidavit of Ronald L. Foxcroft dated October 3, 1996, President of Fox 40;
+b) Affidavit of Simon Topman dated October 29, 1996, Managing Director of Hudson;
+c) Affidavits in reply from Charles Shepherd, an industrial designer who is named as a co-inventor and a second affidavit from Ronald L. Foxcroft, both dated November 1st, 1996.
+Issues
+A. The Applicant's Motion for an Interlocutory Injunction
+B. The Respondents' Motion for a Summary Judgment
+C. The Applicant's Motion for Fixing the Date of Trial
+Statutory Provisions
+A. Interlocutory Injunction
+(a) Rule 469 of the
+Federal Court Rules
+:
+"469(1) An application for an interlocutory injunction may be made by any party before or after the commencement of the trial of the action whether or not a claim for an injunction was included in that party's statement of claim or declaration, counterclaim or cross-demand, or third party notice, as the case may be; and any such application shall be supported by an affidavit establishing the facts that render the injunction necessary and shall be made by motion upon notice to all other parties." [see footnote 3]
+[14]
+The House of Lords in
+American Cyanamid Co. v. Ethicon Ltd.
+, [1975] A.C. 396, announced a three part test for the granting of interlocutory injunctions. This analysis has been adopted by Canadian Courts on numerous occasions (see the recent decision of
+RJR-MacDonald Inc. et Imperial Tobacco Ltd. v. Canada (Procureur général)
+, [1994] 1 S.C.R. 311; 164 N.R. 1; 60 Q.A.C. 241). The first and threshold branch of the test is whether the case raises a "serious issue to be tried". In
+Turbo Resources Ltd. v. Petro Canada Inc.
+, [1989] 2 F.C. 451; 91 N.R. 341 (F.C.A.), the court rejected the notion that the applicant must make a "strong prima facie case" under the first element. It is sufficient if there is a "serious issue to be tried". The second question is whether the applicant will suffer "irreparable harm" if the injunction is not granted. In effect, a party suffers "irreparable harm" if its losses cannot be adequately compensated by monetary damages. On the third element, the court weighs the "balance of convenience". The applicant must convince the court that the benefits it stands to gain from the granting of an injunction outweigh the negative effects for the respondents.
+B. Summary Judgment
+(a) Rules 432.1(2) and 432.3(1) of the
+Federal Court Rules:
+"432.1(2) A defendant may, after filing and serving a defence and at any time prior to the fixing of the time and date for trial, make a motion to a judge, with supporting affidavit material or other evidence, for summary judgment dismissing all or part of the claim in the statement of claim.
+"432.3(1) Where a judge is satisfied that there is no genuine issue for trial with respect to a claim or defence, the judge shall grant summary judgment accordingly."
+C. Fixing a Trial Date
+Rule 485 of the
+Federal Court Rules
+:
+"485(1) Before making an application for an order fixing a date and place for trial or setting a case down for trial at a General Sittings, a party shall,
+(a) unless the pleadings sufficiently define the issues of fact in dispute between the parties as of that time, file an agreement of all parties stating such issues; and
+(b) unless there are special reasons for fixing the date for trial a substantial time in advance of trial,
+(i) have had examination for discovery or have waived such examination,
+(ii) have the production of documents or have waived such production, and
+(iii) have served such notices to admit under rule 468 as may be appropriate."
+Submissions
+1.
+Applicant's Submissions
+A. Interlocutory Injunction
+[15]
+The applicant submits that it meets the three criteria for an interlocutory injunction: (i) there is a serious issue to be tried because the respondents are infringing or threatening to infringe its patent rights, (ii) it will suffer irreparable harm and (iii) the balance of convenience is in its favour.
+(i) Serious Issue to be Tried
+[16]
+First, on the serious issue to be tried branch of the interlocutory injunction test, the applicant argues that the respondents' "ACME TORNADO 2000" pea-less three chamber whistle clearly infringes claim 1 of the '822 Patent, unlike earlier attempts of the respondents to create three-chamber pea-less whistles under the name "ACME TORNADO" (paragraph 39-40, 1st Foxcroft affidavit). What is different about the "ACME TORNADO 2000" that brings it within the protected and exclusive zone of the '822 Patent? The applicant submits that the "ACME TORNADO 2000" has key features of the '822 Patent, including a mandolin shape, different length of air columns, and lateral displacement of a column (Paragraphs 41, 51, 1st Foxcroft affidavit). The applicant suggests that Hudson is determined to infringe the '822 Patent. The respondents have yet to deliver and distribute its "ACME TORNADO 2000" whistles but there remains some urgency to the injunction. The applicant is advised by a customer of the respondents that Hudson's goal is to introduce its own pea-less whistles in Canada "very quickly" (paragraph 47, 1st Foxcroft affidavit).
+[17]
+The applicant further submits that time is of the essence in the case. The applicant emphasizes the fact that it makes 60% of its annual sales at Trade Shows. If Hudson is able to continue to promote its wares at upcoming trade shows, including a major event set for Montreal in the new year, the applicant will lose a substantial portion of its business (paragraph 53, 1st Foxcroft affidavit).
+(ii) Irreparable harm
+[18]
+On the "irreparable harm" second branch of the test, the applicant offers a host of arguments that indicate why only an injunction will suffice since monetary damages are inadequate. Specifically, the applicant cites: (i) disrupted marketing plans (paragraphs 55-57, 1st Foxcroft affidavit); (ii) permanent loss of market share (paragraphs 58-66); (iii) depreciation of goodwill (paragraphs 67-68); (iv) damaged reputation (paragraphs 69-71) and (v) loss of sales in Canada (paragraphs 72-73).
+[19]
+First, on the disrupted marketing plans element, the applicant argues that the entry of the respondents' infringing whistle onto the Canadian market will compromise its plans
+to license
+the "FOX 40". The applicant contends that its bargaining position as a licensor will be seriously compromised if the exclusivity of the '822 Patent is cast in doubt by the respondents' actions. The applicant further submits that the sale of the "ACME TORNADO 2000" will force the applicant to take a defensive marketing stance rather than pursue its original aggressive goal. All of these factors are impossible to quantify by money.
+[20]
+Second, on the permanent loss of market share element, the applicant submits that it is currently the leader in the sale of pea-less whistles but the entry of the "ACME TORNADO 2000" on the Canadian scene will cause it to permanently lose that position not only to the respondents but also to other infringers. Specifically, Hudson has produced a whistle with the same distinctive trill as the FOX 40 whistle but it has only been able to do so by infringing the applicant's '822 Patent. The applicant contends that its permanent loss of the market boils down to a question of perception. Consumers are only starting to replace conventional whistles with the pea-less variety so if they are faced with a host of pea-less whistles to choose from, including whistles like the "ACME TORNADO 2000" that infringe the applicant's patent, these customers will not be buying the "FOX 40" brand. As well, the applicant has been able to hold off foreign rivals until now but these cut-rate competitors will scent blood if the applicant is perceived as being unable to protect its exclusive '822 Patent in its own backyard. In fact, in his second reply affidavit, Foxcroft details the speedy action of infringers, riding on the coattails of the "ACME TORNADO 2000" who have started to market "direct knock-offs" of the Fox 40 whistle (paragraph 25).
+[21]
+The third and fourth elements, the depreciation of goodwill and damaged reputation, are linked. The applicant submits that the "ACME TORNADO 2000" poses a fatal challenge to its goodwill and reputation. This hard won reputation as a maker of superior and innovative whistles will be jeopardized by the introduction of the "ACME TORNADO 2000". The respondents' infringing whistle is similar in its aesthetics and structure to the "FOX 40
+but it is also inferior even as it promotes itself as "technically better" (paragraph 68, 1st Foxcroft affidavit). Dissatisfied consumers of the respondents' pea-less whistle may be soured on all pea-less whistles and confuse the applicant's superior make with its infringing but confusingly similar rival.
+(iii) Balance of Convenience
+[22]
+The applicant focuses on the relative strengths of the parties in arguing that the balance of convenience favours the granting of an injunction (paragraphs 74-77, 1st Foxcroft affidavit). For the applicant, the pea-less three chamber whistle embodying the '822 Patent accounts for 90% of its sales. In contrast, the respondents have a full line of whistle products besides its nascent forays into the pea-less market.
+[23]
+Finally, the applicant agrees to pay all of the respondents' damages if it is awarded an injunction in the present case and this decision is subsequently overturned at trial or on appeal (paragraph 78, 1st Foxcroft affidavit).
+B. Summary Judgment
+[24]
+The applicant offers no explicit arguments to contest the respondents' motion for a summary judgment. By implication, the applicant's submissions on why the claim for patent infringement raises "a serious issue to be tried" must also serve to address the question of whether there is no "genuine issue raised", the test under rule 432.3(1).
+C. Fixing The Date Of Trial
+[25]
+No submission was made by the applicant concerning this issue.
+2. Respondent's Submissions
+A. Interlocutory Injunction
+[26]
+The respondents submit that the applicant should not be granted an interlocutory injunction because it has failed to prove: (i) that there is a serious issue to be tried; (ii) that it will suffer irreparable harm; and (iii) that the balance of convenience is in its favour.
+(i) Serious Issue to be Tried
+[27]
+The respondents submit that there is no serious issue to be tried because the "ACME TORNADO 2000" does not infringe the "FOX 40" pea-less whistle. In paragraphs 5-14 of the statement of defence and counterclaim and paragraph 40 of the Topman affidavit, the respondents argue that there are key differences between the two whistles. The "ACME TORNADO 2000" has a different, parallel and co-planar structural alignment of its three fipple-type whistle chambers in contrast to the lateral design and arrangement of the applicant. As well, the "ACME TORNADO 2000" has side panels for gripping that are missing from the applicant's product and is formed of two plastic model parts, not three
+as in the Fox 40 whistle.
+To bolster its claim that the "ACME TORNADO 2000" pea-less whistle does not infringe the '822 Patent, the respondents point to the long history of making pea-less whistles, including the first whistles of the Hudson family firm at the end of the nineteenth century (paragraphs 8, 18, 22-29 Topman affidavit). In other words, the respondents are intent on diminishing the supposed uniqueness of the FOX 40 patented pea-less whistle. The applicant was not the first to craft a pea-less whistle even if it did create a more compact version. The respondents detail Hudson's attempts to first create a three-chambered, mandolin shaped pea-less whistle, the"ACME TORNADO", predecessor of the "ACME TORNADO 2000" (paragraphs 35-49, Topman affidavit). The "TORNADO 2000" has a higher pitch and more compact design than the original "TORNADO" model (paragraph 43, Topman affidavit). In both instances, Hudson verified with a British patent agent that its products did not infringe the applicant's '822 Patent (paragraphs 38-40, 47, Topman affidavit).
+(ii) Irreparable Harm and Balance of Convenience
+[28]
+In the Topman affidavit, the respondents do not specifically argue that the applicant will not suffer irreparable harm. Rather, the respondents highlight the harms to its reputation and future business plan if an interlocutory injunction is granted (paragraphs 97-109, Topman affidavit). For instance, the respondents point out that Hudson's sterling reputation in the whistle trade will be jeopardized by an injunction since even the launching of the present lawsuit and the applicant's press release trumpeting that fact have had a negative impact on Hudson's sales and reputation (paragraphs 98-106, Topman affidavit). The respondent cites cancelled orders and inquiries from around the world as evidence that it is already feeling the pinch. The actual granting of an interlocutory injunction will only ensure that the die is cast. The respondent also urges the court to consider how the granting of an interlocutory injunction restraining it from exhibiting, offering for sale, etc, of the "ACME TORNADO 2000" will greatly impede Hudson's efforts to promote its pea-less whistle trade, the "fastest growing whistle market in the world at present" (paragraph 109, Topman affidavit). The Canadian context is especially important since hockey referees who still use the conventional pea-whistles of the respondent are expected to soon switch allegiance to pea-less whistles. The respondent argues that it must be allowed to compete fairly at this critical stage in the rapid evolution of the whistle market.
+[29]
+At the hearing, counsel for the respondents made a strong submission that the applicant will not suffer irreparable harm.
+[30]
+Finally, the respondents submit that an interlocutory injunction is not necessary because they will keep a detailed account for the manufacture and sale of the "ACME TORNADO 2000". With the existence of such an account, the applicant will be able to recoup all of its damages if a court ultimately determines that the respondents have infringed the '822 Patent.
+B. Summary Judgment
+[31]
+The respondents make strong submissions that this case is one where summary judgment can and should be granted. Counsel submits that since only Claim 1 of the Fox 40 patent is in issue, it should be relatively simple for the court, after an analysis of Claim 1, to find no infringement. The submissions of respondents on the infringement of the '822 Patent are applicable to the summary judgment question. In effect, the respondents argue that because there has been no infringement, the applicant has not raised "a serious issue" to be tried. By implication, therefore, there is no "genuine issue for trial", the litmus test for an award of summary judgment.
+C. Fixing The Date Of Trial
+[32]
+The respondents have not made any submissions on this issue.
+Discussion
+A. Interlocutory Injunction
+:
+I. Application Of The Legal Test
+(a) Serious Issue to be Tried
+[33]
+The court should not take an overly rigorous stance in determining whether the applicant has passed the first branch of the test for an interlocutory injunction or "raised a serious issue to be tried". Earlier case law has provided some guidance. (see
+RJR MacDonald
+). As a motions judge, I must take a common sense approach to the "serious issue" question and perform an extremely limited review of the merits of the case.
+Thus, I respectfully submit that the applicant has proven that the alleged infringement of the '822 Patent is a "serious issue to be tried". It is obvious to me that the applicant's action for infringement is neither frivolous nor vexatious.
+[34]
+The various affidavits contain very different opinions on the question of infringement. Although the affiants for the applicant have some experience in the whistle business to flesh out their opinions on the question of infringement (see paragraphs 16-19 of the first Foxcroft affidavit, paragraphs 3-9 of Shepherd), Topman for the respondents certainly has the most storied and colourful background with the old family firm of whistle magnates. The question of whether or not the applicant has raised a serious issue to be tried is not to be settled by reference to Hudson's consultations with a British patent agent who decided that the "ACME TORNADO 2000" had safely skirted the exclusive zone of the '822 Patent (paragraphs 39, 47 Topman affidavit). If one reads between the lines of the Topman affidavit, I believe it becomes apparent that Hudson felt compelled to compete with the applicant because the "FOX 40" whistle, compact and in the familiar mandolin shape of conventional whistles, marked an advance over previously bulky pea-less whistles (paragraphs 29 and 33, Topman affidavit). However, it is too difficult at this point to state which opinion is the most credible since Foxcroft, Shepherd and Topman are all hardly disinterested parties.
+[35]
+And in any event, I need not conclusively determine whether the "ACME TORNADO 2000" does actually infringe the '822 Patent. Although they may be accused of being self-serving, the affidavits and cross-examination of Foxcroft and Shepherd for the applicant provide ample material that points to an arguable case for infringement. It is sufficient that the applicant has drawn the court's attention to such potential common features of the "CLASSIC FOX 40" three chamber pea-less whistle and the "ACME TORNADO 2000" as the structural alignment of the chambers and the distinctive trill (paragraphs 45-56 Shepherd). In the Topman affidavit, much attention is devoted to disputing the notion that the three chambers in the "ACME TORNADO 2000" are aptly characterized as being in a "lateral" arrangement, the same arrangement claimed in the '822 Patent (paragraphs 74-96, Topman affidavit). Shepherd's reply affidavit for the respondent is equally detailed in arguing this structural point of what constitutes "side-by-side" as opposed to the "lateral" arrangement of whistle chambers (paragraphs 14-22, 36-41 Shepherd). This furious and complex exchange on such a technically difficult point only strengthens the claim that the applicant has raised a serious issue. In addition, the most "expert" of Topman, Foxcroft and Shepherd, is, in my opinion, Mr. Shepherd and he is of the belief that the TORNADO 2000 is a "copy" of the Fox 40 whistle.
+(b) Irreparable Harm
+[36]
+The key question on the second element of the interlocutory injunction test is whether the applicant can be adequately compensated by monetary damages or, put another way, has the applicant shown that it will suffer irreparable harm, harm not compensable by monetary damages.
+[37]
+I am unable, from the evidence before me, to conclude that the applicant will suffer irreparable harm.
+[38]
+The applicant speaks of the loss of
+possible
+license agreements. It states that the applicant's main asset is its patent which includes its potential licensing value. That if an injunction is denied, this potential licensing value will be eroded, causing irreparable harm to the applicant.
+[39]
+From the evidence before me, I cannot accept the applicant's submission. I am satisfied that the issue of loss of potential licensing agreements in this instance is pure speculation on the part of the applicant. The Fox 40 whistle has been on the market since 1988. From that date to the present, I have no evidence
+before me
+to show that the applicant has entered into a single licensing agreement. Furthermore, I have no evidence
+before me
+of anyone showing an interest in a licensing agreement. To now state that the applicant will now have more difficulty to negotiate potential license agreements is nothing more than pure speculation.
+[40]
+The applicant also submits that it will suffer a permanent loss of market share if the respondents are allowed to bring onto the market its TORNADO 2000 whistle. The applicant makes the rather tenuous and speculative argument that the introduction of the "ACME TORNADO 2000" whistle is the spark for a downward and permanent spiral in its market share because opportunity infringers besides the actual respondents will flood the Canadian market with inferior infringing pea-less whistles.
+[41]
+I have no evidence before me of the flooding of the Canadian market with infringing pea-less whistles, whether of a superior or inferior quality.
+[42]
+The applicant did file, as exhibits, four whistles only two of which can be considered as possibly infringing the Fox 40 patent. Not one of these whistles is on the Canadian market. In
+Imperial Chemical Industries plc. et al. v. Apotex Inc.
+, [1990] 1 F.C. 221; 101 N.R. 147 (F.C.A.), the Federal Court of Appeal held that while loss of market share, reputation and goodwill may, in certain circumstances, not be compensable, the evidence as to irreparable harm must be demonstrable.
+[43]
+Furthermore, I also reject the applicant's submission when it contends that since pea-less whistles are more durable, a lost customer is permanently lost since he or she will not be replacing its pea-less whistle any time soon. If pea-less whistles are popular items because they are more durable, the applicant must accept the negative consequences of this same durability. The applicant would have to contend with the same challenges even if the "ACME TORNADO 2000" did not infringe the '822 Patent but was simply a rival pea-less whistle such as respondents' TORNADO 622 AND 623 pea-less whistle.
+[44]
+As well, the applicant speaks of the similarities and differences between its product and the respondents'. It submits that the "ACME TORNADO 2000" embodies key elements of the '822 Patent but is also so inferior that its sale will tarnish the reputation of all pea-less whistles, including the applicant's. The applicant invokes very slight evidence to support its claim for the inferiority of the "ACME TORNADO 2000". It rather weakly argues that the "ACME TORNADO 2000" is too big to comfortably put in the mouth and too bulky to be carried as a spare (paragraph 69, 1st Foxcroft affidavit). In paragraph 97 of the Topman affidavit, Topman argues that the respondents consciously made this "size penalty" in order not to infringe the applicant's patent. Besides size, the only significant point of inferiority that the applicant can invoke is that the "ACME TORNADO 2000" does not provide a complete seal for the lips. However, the applicant fails to credibly argue how this lack of a complete seal somehow makes the "ACME TORNADO 2000" inferior.
+[45]
+For all the above reasons, I am unable to conclude that the applicant will suffer any irreparable harm.
+(c) Balance of Convenience
+[46]
+I am satisfied that the balance of convenience element of the interlocutory injunction test is in the applicant's favour for two main reasons. First, it is important to note that the applicant's sole business is the manufacture of whistles and whistle accessories (paragraph 22, 1st Foxcroft affidavit). The applicant does not have an extensive product line to fall back on if the "ACME TORNADO 2000" whistle is introduced and sold in Canada. On the other hand, Hudson sells a wide variety of wares besides pea-less whistles, including bird and game calls and conventional pea whistles (paragraphs 36 and 39, 1st Foxcroft affidavit). It is true that Hudson has seen that pea-less whistles are the wave of the future and is anxious to secure a toehold in this market, especially since the conventional whistle market in which it is the leader is suffering as a result (paragraph 109, Topman affidavit). The granting of an injunction will prove a temporary set-back for Hudson's efforts to diversify its product line. But Hudson will not be economically devastated if it is barred from selling the "ACME TORNADO 2000" pea-less whistle. Of course, Hudson has spent about $300,000 in Canadian dollars to bring the "ACME TORNADO 2000" prototype up to par (paragraph 52, 108 Topman affidavit). Hudson's expenditures in developing the "ACME TORNADO 2000" prototype, while not inconsiderable, are certainly less than if its pea-less product was already a hallmark on the Canadian whistle scene that had to be abruptly withdrawn because of the granting of an injunction.
+[47]
+Second, the respondents' "ACME TORNADO 2000" is still in the prototype stage. It has yet to be truly launched on the Canadian market since Hudson was only
+exhibiting
+its pea-less three chamber whistle at the Sports Show. Indeed, the prototype was not even in the final stages since Hudson had intentions of modifying the product to improve the sound quality and comply with patent specifications. Hudson cannot credibly argue that the injunction will cause it to lose its place in the market for pea-less whistles. In paragraph 13 of the respondents' Topman affidavit, Topman describes his whistle line that includes both pea-less whistles like the "ACME TORNADO" (622 and 623 whistles) that do not infringe the '822 Patent and conventional pea whistles. Fox 40, on the other hand, has made its name in only the pea-less market since 1987. On the convenience scale, the benefits of an injunction barring Hudson from exhibiting, offering for sale, etc. the "ACME TORNADO 2000" in order to protect Fox 40's existing and entrenched share of the pea-less whistle market outweigh the harms of curtailing Hudson's introduction of its pea-less prototype.
+[48]
+On the other hand, the evidence given by Mr. Topman is that, as a result of an inflammatory press release and notice to distributors, which notice was received by respondents' distributors, Hudson lost three orders for its "ACME TORNADO 2000" whistles. Mr. Topman was not cross-examined on this statement. I thus must take it as a given that this is so. I only ask how it is that such orders would have been given had the applicant's action not been commenced and had the applicant not sent out its press release when Mr. Topman states that he only had a prototype of the "ACME TORNADO 2000" whistle and that work was still required to perfect the said "2000" whistle.
+Conclusion
+[49]
+In that the applicant has failed to convince me, from the evidence filed, that it will suffer irreparable harm, the Application for an interlocutory injunction is denied.
+[50]
+As I have stated, I am satisfied that the applicant's action is neither frivolous nor vexatious and that I am satisfied the applicant has shown that a serious issue as to patent infringement exists.
+B. Summary Judgment
+I. Application of the Legal Test
+(a) Genuine Issue Raised
+[51]
+The purpose of rule 432.3(1) is to allow the court to summarily dispense with cases which ought not to proceed to trial because there is no genuine issue to be tried: (see Jerome, A.C.J.'s, decision in
+Old Fish Market Restaurants Ltd. v. 10000357 Ontario Inc. et al.
+(1994)). In
+FRAGMENT_SUPPRESSED
+[52]
+There is symmetry in the actions for an interlocutory injunction and a summary judgment since the threshold question in both instances is strikingly similar. The resolution of both actions should accordingly be consistent. In the foregoing analysis of the applicant's motion for an interlocutory injunction, the applicant had passed the first hurdle of proving that there is a "serious issue to be tried".
+[53]
+As I have stated, I am satisfied from the evidence that the applicant has shown it has a "genuine issue" of infringement to be resolved. I am also of the belief that this issue, from the facts put before me, can only be decided by having a full trial. The affidavits and cross-examinations of Foxcroft and Shepherd for the applicant and Topman for the respondents are at such odds on the essential questions of whether the "ACME TORNADO 2000" infringed the '822 Patent that this issue cannot be summarily dispensed with at the preliminary level. The parties dispute the points of similarity and difference between the two whistles and the prior art of pea-less whistles before the advent of the Fox 40 whistle.
+[54]
+As I have often stated, summary judgments are generally not the preferred means of resolving cases of patent infringement and this, I believe, is especially pertinent in this case. Experts will have to be called to help the judge hearing this case determine the meaning of technical words used in the patent, for example "lateral" in order to determine the issue of infringement.
+[55]
+Therefore, whether the "ACME TORNADO 2000" infringes the '822 Patent is a question which should be canvassed in the forum of a trial, especially taking into account Mr. Shepherd's belief that the TORNADO 2000 whistle with minor differences is a "copy" of the Fox 40 whistle.
+Clean-Hands Issue
+[56]
+Counsel for the respondents has raised the issue of "Clean Hands" as an equity defense for the not granting of an interlocutory injunction.
+[57]
+In that I have decided not to grant applicant's request for an interlocutory injunction, I need not make any comment as it relates to the respondents' submission.
+[58]
+I will only state that had the applicant been able to satisfy me that it would suffer irreparable harm, I would not have refused the injunction on this issue.
+[59]
+In the circumstances of this case, I am satisfied that this issue was raised as a "red herring".
+Decision
+[60]
+The application for summary judgment is denied.
+[61]
+In that the applicant has failed to convince me that it will suffer irreparable harm not compensable by monetary damages, I must deny the applicant an interlocutory injunction.
+[62]
+The respondents are hereby ordered to keep complete records of any and all sales made of the "ACME TORNADO 2000" whistle, which records shall show the sale price of each whistle sold.
+[63]
+The parties should request an expedited hearing date when the case is ready for trial.
+[64]
+No costs will be awarded as neither party has been completely successful.
+Applications dismissed.
+Editor: Jocelyne M. Caissie/saf
+Footnotes
+1.	"Fipple" is defined in the
+Shorter Oxford English Dictionary
+(1980 Revised Edition) as "the plug at the mouth of some wind-instruments, diverting the flow of air toward the sounding edge".
+2.	The dispute over how Fox 40 obtained Hudson's whistle is not a very relevant topic for the two motions. Suffice it to say that the respondent intimates that competitors could only have obtained a prototype by illegally making off with a sample of the "ACME 2000" from the trade show. (see paragraphs 62 and 71 of the Topman affidavit). In his supplementary affidavit dated November 1, 1996, Foxcroft strenuously denies the suggestion that FOX 40 was party to any theft (see paragraphs 2-11 of the Second Foxcroft affidavit). Instead, Foxcroft claims that an unnamed but patriotic Canadian client of Hudson gave the "ACME 2000" to Fox 40.
+3.	Subsections (2) - (5) of rule 469 are not directly applicable to the current proceedings. They address the case of urgent motions for an interlocutory injunction (469(2)-(3)), the form for rejecting a motion for an interlocutory injunction (Form 25 - 469)(4)) and the nature of the court's discretion to vary the terms of the injunction once it is granted (469(5)).
+[End of document]

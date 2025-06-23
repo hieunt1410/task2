@@ -1,0 +1,13 @@
+[108]
+Given the divergent powers and duties of administrative tribunals, Lamer, C.J., provided the following guidance at pages 51-52 concerning the application of the test:
+"Therefore, while administrative tribunals are subject to the
+Valente
+principles, the test for institutional independence must be applied in light of the functions being performed by the particular tribunal at issue. The requisite level of institutional independence (i.e., security of tenure, financial security and administrative control) will depend on the nature of the tribunal, the interests at stake, and other indices of independence such as oaths of office.
+"In some cases, a high level of independence will be required. For example, where the decisions of a tribunal affect the security of the person of a party (such as the Immigration Adjudicators in
+Mohammad
+, supra), a more strict application of the
+Valente
+principles may be warranted. In this case, we are dealing with an administrative tribunal adjudicating disputes relating to the assessment of property taxes. In my view, this is a case where more flexible approach is clearly warranted.
+"I would therefore apply this approach to the question of whether the members of the appellants' appeal tribunals are sufficiently independent. The
+Valente
+principles must be considered in light of the nature of the appeal tribunals themselves, the interests at stake, and other indices of independence, in order to determine whether a reasonable and right-minded person, viewing the whole procedure as set out in the assessment bylaws, would have a reasonable apprehension of bias on the basis that the members of the appeal tribunals are not independent."

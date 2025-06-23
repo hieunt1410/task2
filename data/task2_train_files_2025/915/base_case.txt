@@ -1,0 +1,278 @@
+Peerless Ltd. v. Aspen Custom Trailers, [2010] F.T.R. Uned. 671 (FC)
+MLB unedited judgment
+Peerless Limited (plaintiff) v. Aspen Custom Trailers Inc. and Aspen Trailer Company Ltd. (defendants)
+(T-444-08; 2010 FC 618)
+Indexed As: Peerless Ltd. v. Aspen Custom Trailers Inc. et al.
+Cite As: [2010] F.T.R. Uned. 671
+Federal Court
+Stinson, Assessment Officer
+June 8, 2010.
+Counsel:
+Terrance J. Mcmanus, for the plaintiff;
+Lawrence Chan, for the defendants.
+Solicitors of Record:
+Miltons IP, Ottawa, Ontario, for the plaintiff;
+Smiths IP, Vancouver, British Columbia, for the defendants.
+Summary:
+This case is unedited, therefore contains no summary. This case was originally cited as [2010] F.T.R. TBEd. JN.016.
+[1]
+Stinson, Assessment Officer
+: The Plaintiff commenced this action on March 18, 2008, for patent infringement (suspension system for heavy-haul trailers). A Statement of Defence and Counterclaim was filed on June 19, 2008. The Plaintiff filed a Reply and Defence to Counterclaim on July 15, 2008. The Defendants' motion for particulars was dismissed on August 19, 2008 with costs in the cause. The Plaintiff discontinued its action on March 4, 2009. The Defendants presented their bill of costs for assessment further to Rule 402 which provides that unless "otherwise ordered by the Court ..., a party against whom an action ... has been discontinued ... is entitled to costs forthwith, which may be assessed ...." I issued a timetable for written disposition of the assessment of the Defendants' bill of costs.
+[2]
+The Plaintiff requested an adjournment on the basis that the counterclaim was ongoing and it was therefore premature to determine costs on only a portion of this proceeding. Although the Plaintiff discontinued the main action, the Defendants refused to discontinue their counterclaim to invalidate the asserted patent. The Defendants did not take the Plaintiff's offer of full written release of all liability. The Plaintiff dedicated the patent to the public, notice of said dedication having been published in the October 20, 2009 issue of the Canadian Patent Office Record. The Plaintiff argued that it would be more efficient for the Court and the parties to await disposition of the counterclaim so that all issues of costs could be addressed in a single assessment of costs.
+[3]
+The Defendants argued that an adjournment would defeat the forthwith provision of Rule 402 entitling them to proceed immediately. As well, Rule 190 provides that a counterclaim survives independently of the main action. The counterclaim here was in its early stages, examinations for discovery not yet having occurred. It has been held that an assessment officer is not the Court for the purpose of ordering an adjournment under Rule 402: para. 9 of
+Cape Cod Fishing Co. v. Canada (Minister of Fisheries and Oceans)
+, [2008] F.C.J. No. 1383 (A.O.) (
+Cape Cod Fishing
+). The Plaintiff's asserted bases for adjournment, i.e. efficiency and patent dedication, are irrelevant.
+[4]
+On February 11, 2010, I issued directions stating that I was "very aware of the potential issues of assessments of costs associated with a main action and a counterclaim in intellectual property litigation", that "the Plaintiff's submission that an adjournment pending disposition of the counterclaim is compelling and well reasoned: see
+Halford v. Seed Hawk Inc.
+(2009) 69 C.P.R. (4th) 1, [2006] F.C.J. No. 629 (A.O.)" (
+Halford
+), that "the Defendants are correct that an assessment officer does not fall within the definition of 'Court'", that as "the Defendants do not agree to an adjournment within the exception provided in Rule 402", I could not "ignore or set aside the 'forthwith' provision in said Rule" and that I found "in these circumstances that the assertion of efficiency of process is not sufficient to warrant an adjournment." Accordingly, I adjusted the timetable to permit both sides to perfect materials on the assessment of costs of the main action.
+I.
+Counsel Fees
+:
+Item 2 (preparation of statement of defence and counterclaim claimed at 6 units / available range = 4-7 units; hereafter, the numbers following the description of the fee item represent the available Column III range of units in the Tariff); item 5 (preparation of Defendants' contested motion for particulars claimed at 5 units / 3-7 units); item 6 (appearance on motion claimed at 2 units per hour / 1-3 units per hour); item 7 (discovery of documents including listing, affidavit and inspection claimed at 4 units / 2-5 units); item 25 (services after judgment claimed at 1 unit / 1 unit); item 26 (assessment of costs claimed at 4 units / 2-6 units) and item 27 (such other services as the assessment officer may allow claimed at 3 units for consultation with expert witnesses / 1-3 units); double fees claimed for items 5, 6, 7, 25, 26 and 27 further to Rule 420(2)(
+b
+).
+A.
+The Defendants' Position on Counsel Fees
+[5]
+Rule 420(2)(
+b
+) provides that if "the plaintiff fails to obtain judgment, the defendant is entitled to party-and-party costs to the date of service of the offer and to costs calculated at double that rate, but not double disbursements, from that date to the date of judgment." The Defendants made this settlement offer on June 9, 2008:
+...
+As you know, and on grounds already discussed, should this action proceed, the Defendants intend to assert a counterclaim for invalidity of the patent in issue.
+The Defendant offers to settle this action on the following terms:
+1. The action and the counterclaim will be dismissed without costs.
+2. Peerless undertakes not to pursue Aspen, its related entities, or their customers, for infringement of the '741 patent or any other Canadian or U.S. patent based on the same disclosure.
+3. Aspen undertakes not to challenge or assist others in challenging the validity of the '741 patent or any other Canadian or U.S. patent based on the same disclosure.
+4. Peerless shall pay to Aspen the following sum by way of combined compensation for costs, for the dismissal of the counterclaim and the undertaking in item 3:
+a) If this offer is accepted before the delivery of a Statement of Defence and Counterclaim, $20,000;
+b) If this offer is accepted after the delivery of a Statement of Defence and Counterclaim but before the delivery of affidavits of documents by each of the parties, $40,000;
+c) If this offer is accepted after the delivery of affidavits of documents by each of the parties but before the commencement of the first examination for discovery, $60,000;
+d) If this offer is accepted after the commencement of the first examination for discovery but before the commencement of the pre-trial conference, $80,000;
+e) If this offer is accepted after the commencement of the pre-trial conference but before the first minute after the commencement of the trial, $140,000.
+The offer shall remain open for acceptance despite any intervening offers, unless expressly revoked in writing.
+The Defendants did not revoke it. The Plaintiff did not formally respond to it. Paragraph 17 of
+Early Recovered Resources Inc. v. Gulf Log Salvage Co-Operative Association
+, [2001] F.C.J. No. 1666 (A.O.) held that this phrase in Rule 420(2)(
+b
+) - plaintiff fails to obtain judgment - "is not restrictive in that it does not, on a plain reading, preclude a discontinuance from triggering double costs."
+[6]
+The Defendants noted the Plaintiff's assertion that discoveries confirmed the Defendants' allegation that prior disclosure had invalidated the patent. Said assertion failed to mention that several years before the patent issued, the Defendants had provided the Plaintiff with full particulars of the prior disclosure, including relevant technical drawings, and had put the Plaintiff on notice of the invalidating effect of the disclosure. However, the Plaintiff still commenced this action and must therefore bear the associated Rule 420(2)(
+b
+) consequences of double costs. As the Plaintiff acknowledged, Rule 420(2)(
+b
+) does not contemplate a comparison of a settlement offer with a judgment, which would be illogical given a discontinuance precludes any judgment, and instead requires only a written offer followed by a failure to obtain judgment.
+[7]
+The Defendants argued that the settlement offer was a genuine attempt at compromise because it ensured that the Plaintiff's patent would remain in force to be asserted against others. The unilateral dedication of the patent to the public is irrelevant for this assessment of costs because it occurred well after the settlement offer. The reference in the offer to possible U.S. patents does not preclude the effect of Rule 420(2)(
+b
+) because jurisprudence such as
+M.K. Plastics Corporation v. Plasticair Inc
+, [2007] F.C.J. No. 1348 (F.C.) held that the double costs rule is triggered if the offer is clear and unequivocal in that the opposite party need only decide whether to accept or reject it, it contains an element of compromise, it is presented in a timely fashion and it brings the dispute between the parties to an end. The reference to U.S. patents, although moot because there are not any, ensured complete resolution between the parties. As paragraph 9 of
+Cape Cod Fishing
+held that an assessment officer is not the "Court", the former cannot exercise the otherwise provision of Rule 420(2) to deviate from the double costs provision of Rule 420(2)(
+b
+). The Defendants emphasized that costs subsequent to the discontinuance are not claimed in the bill of costs.
+[8]
+The Defendants argued, in response to the Plaintiff's position that consultations with expert witnesses as an ordinary part of litigation are not specified in the Tariff, that just as the Tariff recognizes and has fee items for essential services in the course of litigation such as pleadings, discovery of documents, examinations for discovery etc., fee item 27 should address an essential part of the defence in a patent infringement action, i.e. work with expert witnesses.
+B.
+The Plaintiff's Position on Counsel Fees
+[9]
+The Plaintiff noted that it first disclosed its invention to the public on September 13, 2001 upon the sale of a trailer incorporating the patented suspension system in Canada. The
+Patent Act
+, R.S.C. 1985, c. P-4 as amended, provided a grace period of one year to file for a patent, which the Plaintiff did on September 10, 2002. In January 2002, the Defendant sold a trailer with the subject suspension and therefore had disclosed the invention to the public prior to the Canadian filing date of the patent.
+[10]
+The Plaintiff referred to the
+Patent Act
+:
+... 28.2(1) The subject matter defined by a claim in an application for a patent in Canada (the "pending application") must not have been disclosed:
+(a) more than one year before the filing date by the applicant or by a person who obtained knowledge directly or indirectly from the applicant in such a manner that the subject matter became available to the public in Canada or elsewhere;
+(b) before the claim date by a person not mentioned in paragraph (a) in such a manner that the subject matter became available to the public in Canada or elsewhere; ...
+and noted the Defendants had relied on section 28(1)(
+b
+) to allege the patent was invalid due to their disclosure of the invention prior to the claim or application date. The Plaintiff's Reply asserted that the "knowledge" referenced in s. 28.2(1)(
+a
+) did not require that the Defendants had derived the invention or were "taught" it by the Plaintiff's disclosure as occurred under the old first-to-invent system. Instead, the Plaintiff asserted, to its knowledge a novel argument in law, that to give meaning to the one-year grace period to file, any knowledge acquired by the Defendants of the Plaintiff's disclosure before they themselves disclosed the invention would have required their disclosure to be more than one year before the actual filing date to invalidate. The Plaintiff's theory required that it be able to demonstrate knowledge by the Defendants of the Plaintiff's disclosure of the invention prior to the Defendants' public disclosure thereof.
+[11]
+The Plaintiff initially felt there was evidence that representatives of the Defendants had examined its earliest trailer demonstrating the invention, but after the Defendants' production of documents, no such evidence was found. The Defendants then rebuffed overtures to settle. Having learned that the Defendants would advance a summary judgment motion once their expert testimony was amassed, the Plaintiff unilaterally discontinued the main action and subsequently dedicated its patent to the public thereby leaving the counterclaim for a declaration of invalidity active but moot.
+[12]
+The Plaintiff argued that the settlement offer was not straightforward requiring as it did that the Plaintiff not pursue patent litigation. This put it outside the parameters of Rule 420(2)(
+b
+). Acceptance at the time of the offer would have required the Plaintiff to pay $20,000 in costs, an amount considerably more than that actually incurred according to the claimed disbursements.
+[13]
+The Plaintiff argued that Rule 420(2) does not expressly contemplate more or less favourable outcomes as do the other provisions of Rule 420. The discontinuance with its associated costs consequences was much more advantageous to the Plaintiff than accepting the settlement offer. The Court should, further to a test of reasonableness, override Rule 420(2)(
+b
+) in these circumstances of an unrealistic and disproportionate settlement offer. The Court has found, i.e.
+McCain Foods Ltd. v. CM McLean Limited
+, [1981] 1 F.C. 534 (F.C.A.) that a party who promptly discontinues an action when it becomes apparent that it has little chance of success should not be discouraged from doing so by an apprehension of onerous costs. The Plaintiff has thus acted reasonably, but the Defendants have not in asserting a counterclaim rendered moot by the public dedication of the patent.
+C.
+Assessment of Counsel Fees
+[14]
+I concluded in paragraph 7 of
+Starlight v. Canada
+, [2001] F.C.J. No. 1376 (A.O.) that the same point in the ranges throughout the Tariff need not be used as each fee item for the services of counsel is discrete and must be considered in its own circumstances. As well, broad distinctions may be required between an upper versus lower allowance from available ranges.
+[15]
+The Defendants claimed in the middle to upper available ranges, which I find reasonable and allow as presented, except for fee item 27. The Plaintiff's submissions requested that I reserve on fee item 26 pending possible settlement of costs between the parties, but as there has not been anything further on that, I allow fee item 26 as presented.
+[16]
+The time taken with preparation of experts is often subsumed in fee item 13 (preparation for trial) and in the case of Notice of Compliance matters in fee items 1 or 2 (Applicant's and Respondents' records respectively). I am not persuaded that the circumstances here warrant departure from that practice. I think that assessable work did occur. I allow fee item 13(a) at the minimum 2 units, instead of fee item 27.
+[17]
+My findings in
+Halford
+above required an awareness of the distinction between a main action and a counterclaim in circumstances of costs awarded in one but not the other. I kept that in mind in my allowances here given that there has been no award of or right to costs of the counterclaim.
+[18]
+I am not the "Court" as that term is used in Rule 420(2): see
+Sander Holdings Ltd. v. Canada (Minister of Agriculture)
+, [2009] F.C.J. No. 720 (A.O.) and
+Marshall v. Canada
+, [2006] F.C.J. No. 1282 (A.O.). Therefore, I cannot exercise the otherwise jurisdiction of the Court in Rule 420(2) to negate or vary its application.
+[19]
+Paragraphs 14 to 16 inclusive of
+Biovail Corp. v. Canada (Minister of National Health and Welfare
+), 61 C.P.R. (4th) 33, [2007] F.C.J. No. 1018 (A.O.) (
+Biovail
+), aff'd (2008), 64 C.P.R. (4th) 475, [2008] F.C.J. No. 342 (F.C.) outlined my concerns with Rule 420 in certain circumstances. I doubt that the potential costs ($2,470 based on the claimed fees before assessment, i.e. 19 units x $130 per unit) available to the Defendants further to Rule 420 doubling were an incentive for the Plaintiff to seriously consider the settlement offer. As this matter did not get set down for trial, the $2,470 could be compared to the $80,000 figure in the settlement offer. As in
+Biovail
+above, I find that the settlement offer meets the technical parameters of Rule 420(2)(
+b
+) and I therefore allow the doubling of assessed fee items 5, 6, 7 and 13(a). As the work for fee items 25 and 26 would occur after a judgment, Rule 420(2) doubling cannot be applied to them. I allow fee item 25 above in these circumstances of a discontinuance because I think that counsel would have to brief the client on its implications just as a client would be briefed on the implication of a judgment further to a trial. The Defendants inadvertently claimed GST and PST on the doubled portion of fees. As costs are an indemnity and the Defendants would not have been out of pocket for GST and PST on the doubled portion of fees per Rule 420(2)(
+b
+), they cannot claim GST and PST on fees because costs are not a windfall or source of profit.
+II.
+Disbursements
+:
+Photocopies at $0.25 per page ($160); Binding of motion record ($30.19); Filing of Statement of Defence and Counterclaim ($17.85); Facsimiles ($72); Online searches ($633.62); Couriers ($119); Long distance phone ($298.84); Return airfare same day Vancouver-Edmonton April 1, 2008 by supervising counsel to inspect the suspension systems at issue ($287); May 13, 2008 for settlement meeting ($381.50) and January 27, 2009 to meet with the Defendants' two experts and to examine and disassemble a prior art trailer ($314.30); Patent validity search by agent ($1,174.64); Legal opinion by Oyen Wiggs Green & Mutala LLP ($4,434.82) and expert witness fees of Gary Teichrob ($7,369.56) and Duncan Cook ($1,600)
+A.
+The Defendants' Position on Disbursements
+[20]
+The Defendants asserted that they should not be penalized because their solicitor of record does not have an in-house binding system as in larger law firms. The various disbursements for facsimiles, computer research, couriers and long distance were confirmed by evidence and are reasonable given that opposing counsel practice in Ottawa and Vancouver respectively.
+[21]
+The Defendants argued in support of the April 1, 2008 trip that although photographs of various components of the suspension system might have been available, they would have been by their nature impractical for full analysis of the workings of a sophisticated suspension system relative to the merits of the Plaintiff's case. As for the May 13, 2008 meeting, the Plaintiff did not give any reason for objecting to it other than it related to settlement. This reasonable expense should be allowed given that settlement discussions are a mandatory requirement within 60 days of the close of pleadings per Rule 257.
+[22]
+The Defendants argued that the novel interpretation of the
+Patent Act
+, s. 28.2(1)(
+b
+) advanced by the Plaintiff necessitated the independent legal opinion from the law firm of Oyen, Wiggs & Mutala LLP [Oyen]. The Defendants argued that they necessarily incurred consulting fees and related expenses for potential expert witnesses, rendered unnecessary by the Plaintiff's unilateral discontinuance but which, as the Plaintiff acknowledged, are essential and accepted components of patent litigation involving claims construction. The assessment officer in
+Mercury Launch & Tug Ltd. v. Texada Quarrying Ltd.
+, [2009] F.C.J. No. 390 (A.O.) [
+Mercury Launch
+] allowed witness fees for an expert not called at trial. Here, the expert evidence assembled by the Defendants was a factor in the Plaintiff's early decision to discontinue and would have been essential at trial. The retention of two experts in patent matters is simply good practice.
+B.
+The Plaintiff's Position on Disbursements
+[23]
+The Plaintiff conceded photocopies and the January 27, 2009 trip. The Plaintiff argued that it should not have to pay for the Defendants' choice to use a third party for binding, a service ordinarily part of a solicitor's overhead. The same argument applies to the agent fee for the filing of the Statement of Defence and Counterclaim. The charge for facsimiles should be disallowed given the absence of evidence of details and unit cost per facsimile. Similarly, there is no evidence supporting the costs of computer research and therefore this charge should be disallowed or substantially reduced. The claim for couriers should be disallowed or substantially reduced given the absence of evidence of details and actual cost for each charge. Similarly, long distance charges, a service ordinarily subsumed in a solicitor's overhead, should be disallowed or substantially reduced. The Plaintiff should not have to pay for the Defendants' use of a third party to search on validity, a service ordinarily subsumed in counsel's trial preparation.
+[24]
+The Plaintiff argued that the April 1, 2008 trip was not reasonably necessary because the components and nature of the suspension system in issue were readily identifiable by photographs or drawings. The return airfare (May 13, 2008) for a without prejudice settlement meeting is inappropriate and should be disallowed.
+[25]
+The Plaintiff argued further to
+Asbjorn Horgard A/S v. Gibbs/Nortac Industries Ltd
+. [1989] 1 F.C.R. D-32 (taxation dated 3/11/88 in Federal Court of Appeal file A-304-86) (T.O.) that third party legal opinions are not assessable as a disbursement because such services are subsumed in counsel's trial preparation. Further, the Oyen account does not break down the time or charges for each service, all of which involve redundant research, i.e. the on-line computer research claimed elsewhere. Litigants need not indemnify their opponent's lawyers to educate themselves on the law.
+[26]
+The Plaintiff argued that there was no evidence of reasonable necessity for the expert, Gary Teichrob. His charge should be disallowed or substantially reduced given no proof of his credentials to justify his hourly rate ($250), purpose, scope of his retainer and reasonableness of the 25.5 hours charged. The charges of 4 hours to review the patent, 4.5 hours to review the instructions from counsel and 12 hours to prepare for the disassembly of the trailer are excessive. Similarly, the account of the expert, Duncan Cook, should be disallowed or substantially reduced. In this instance of an additional expert retained out of an excess of caution, one or both accounts should be disallowed or substantially reduced.
+C.
+Assessment of Disbursements
+[27]
+My findings in
+Halford
+above,
+Biovail
+above and
+Abbott Laboratories v. Canada (Minister of Health)
+(2008), 66 C.P.R. (4th) 301, [2008] F.C.J. No. 870 (A.O.) [
+Abbott
+] set out my views on the threshold of proof for categories of costs and approach to their assessment. Paragraphs 68 to 72 inclusive of
+Abbott
+above summarize the subjective elements and the notion of rough justice in assessments of costs. In paragraphs 38 to 40 of
+Aventis Pharma Inc. v. Apotex Inc.
+, [2009] F.C.J. No. 56 (A.O.) [
+Aventis
+2009], I reinforced my view that an assessment of costs should reflect the reality of the demands of litigation. Paragraph 14 of
+Merck & Co. v. Apotex Inc.
+(2009), 73 C.P.R. (4th) 423, [2008] F.C.J. No. 1656 (F.C.A.) held that "in view of the limited material available to assessment officers, determining what expenses are "reasonable" is often likely to do no more than rough justice between the parties and inevitably involves the exercise of a substantial degree of discretion on the part of assessment officers."
+[28]
+It can be argued that items such as binding and computer research are services purchased from a disinterested third party supplier and which can be directly linked to or isolated with a particular litigant unlike items such as rental payments for a law firm's space which could be labelled an administrative overhead cost not easily, if at all, directly linked to a specific litigant: see para. 184 of
+Halford
+above for a brief discussion. I allow the binding claim as presented.
+[29]
+I endorse the practical approach in paragraph 69 of
+Merck & Co. v. Canada (Minister of Health)
+, [2007] F.C.J. No. 428 (A.O.) aff'd on this point and others, but varied on others [2007] F.C.J. No. 1337 (F.C.). There, the Assessment Officer asserted that, having considered "the factors to advance litigation such as the case at bar which includes the various city and country locations for many of its expert witnesses, the efforts required to assemble and forward pertinent information for the experts' respective consideration, the various methods required to have the pertinent material before the experts, researching materials and evidence from various sources, the necessary meetings, preliminary and follow-up phone calls and related correspondence", he found reasonable and allowed the disbursements claimed for "computer searches, computer time charges, courier/postage, court reporter/transcripts, meetings, telephone charges and telecopy charges" as part of the ordinary course of litigation. This manner of rough justice does not however require an assessment officer to approve any and all claimed items of costs without question. Disallowances or reductions often occur. I have generally held that a paucity of evidence may result in conservative allowances.
+[30]
+In
+Greater Moncton International Airport Authority v. Public Service Alliance of Canada
+, [2009] F.C.J. No. 308 (A.O.), I considered the circumstances of a litigant instructing counsel remote from the hearing venue. Section 15(1) of the
+Federal Courts Act
+provides that the Court may sit any place in Canada. Paragraph 8 of
+Canada (A.G.) v. Hennelly
+, [1995] F.C.J. No. 320 (F.C.T.D.) indicated that the Court is itinerant. In
+Halford v. Seed Hawk Inc.
+, [2005] F.C.J. No. 600 (A.O.), the dispute over venue of the assessment of costs occurred relative to litigation which had unfolded over at least five cities and four provinces. These references are not directly determinative of the issues before me, but I make them to illustrate that the national elements of Federal Court practice require real expenditures such as long distance tolls and travel. Paragraphs 104 and 135 of
+Halford
+above reinforce this notion.
+[31]
+The use of the agent, Dye & Durham Corporation, for filing of the Statement of Defence and Counterclaim reflects common practice in the Lower Mainland. The charges claimed were not so outrageous as to indicate that supervising counsel did not subject them to close scrutiny as a filter for reasonableness and clarity. I allow the associated charge ($17.85) as presented. I find the charges of $72 and $298.84 respectively for facsimiles and long distance tolls reasonable in the circumstances and allow them as presented. Paragraph 111 of
+Abbott
+above outlined my usual concerns with computer research. The proof here was less than absolute, i.e. para. 16 of the affidavit of Paul Smith sworn November 26, 2009 (the Smith Affidavit) asserting purpose as "accessing case law and statutes" and "research and preparation." I allow a reduced amount of $525. The courier charges included service of documents between Vancouver and Ottawa, the locations of the respective solicitors of record. I allow them as presented.
+[32]
+The evidence in the Smith Affidavit supporting the agent search on patent validity is essentially that it was done. The breakdown in the invoice ($1,174.64) is labour ($765); office consultation ($70); patent copies ($81.50); computer access time ($186.21); courier ($16) and GST ($55.93). The Defendants' solicitor of record is an experienced intellectual property practitioner. I am not certain that all or some of this work could not have been done by supervising counsel. In litigation such as Notice of Compliance matters, this work is essential, sometimes does require an out-of-town agent and usually involves payment for copies of prior art. Part of my analysis below on the Oyen opinion addresses charges which effectively sidestep the partial indemnity limits of the Tariff. I allow a reduced amount of $775.
+[33]
+Paragraph 104 of
+Halford
+above and paragraph 38 of
+Mercury Launch
+above addressed travel by supervising counsel to assess face to face the evidence of potential witnesses. That was not the issue here, but I think that an assessment in person of the suspension system in issue by supervising counsel in the company of experts as opposed to attempting to do so by drawings or photographs should receive comparable consideration. The evidence indicates that supervising counsel flew to Edmonton and back on April 1, 2008, and did not charge for ground transportation or meals. That was more than reasonable practice. I allow the $287 claimed.
+[34]
+I find it at odds with the scheme of the Rules requiring mandatory settlement activity, i.e. Rules 257 and 258(2), to reject further to the Plaintiff's position a disbursement aligned with that philosophy. Again, as for the earlier trip, supervising counsel flew to Edmonton and returned the same day without claiming for ground transportation or meals. I allow the $381.50 as claimed.
+[35]
+I noted in paragraph 60 of
+Aventis
+2009 above the limits in the Tariff on counsel fees posed by the principle of partial indemnity relative to a disbursement at a full solicitor-client rate for work assigned by the supervising solicitor of record to an independent solicitor. I allowed such a disbursement in FRAGMENT_SUPPRESSED in the circumstances there of supervising counsel disbursing $113.55 to an independent solicitor to execute an affidavit versus the higher travel cost to bring the affiant to Vancouver. I found based on the material available in the record in
+FRAGMENT_SUPPRESSED that the subject there of Mr. Oyen's expert opinion, i.e. patent prosecution practice, warranted an allowance for him. The Court in
+AstraZeneca AB v. Apotex Inc.
+, [2007] F.C.J. No. 1125 (F.C.) held that although his expert evidence was of no ultimate assistance and ventured into areas reserved to the Court, a limited amount of $5,000 would be allowed for his fees because the other side chose to cross-examine him. The Court has accepted him as an expert on patent prosecution practice and deemed abandonment in cases such as
+Jannssen-Ortho Inc. v. Apotex Inc.
+, [2008] F.C.J. No. 936 (F.C.).
+[36]
+Here, I do not have material comparable to that in
+Aventis
+2009 above for analysis. There is an assertion in paragraph 23 of the Smith Affidavit that the novelty of the interpretation of the
+Patent Act
+, s. 28.2(1)(
+b
+) advanced in paragraphs 2 to 4 of the Plaintiff's Reply and Defence to Counterclaim made the Oyen opinion a necessity. The invoices indicate about five days' work plus some modest disbursements. Although I think this was very likely a prudent disbursement to make with particular regard to the best possible assistance to the Court in its disposition of the issues, I am not satisfied on my reading of the record that this work fell outside the expertise of supervising counsel, himself an experienced intellectual property practitioner. I disallow the $4,434.82 claimed.
+[37]
+In paragraph 41 of
+Mercury Launch
+above, I confirmed that costs for experts not ultimately called at trial (apart from those clearly superfluous) are assessable. I do not have here the extent of evidence in
+Mercury Launch
+above or in the cases referred to therein. The evidence here in support of the experts' roles was essentially that they provided a technical resource for supervising counsel. Although I do not have the range of materials such as those found in Notice of Compliance (NOC) matters, I am satisfied that the circumstances here permit recovery of costs for the experts. In
+Abbott
+above, I addressed experts with similar mandates and did not restrict recovery to a single expert as I think it prudent, as the Respondent, Apotex Inc., put it in paragraph 22 of
+Biovail
+above "to have some overlap in expert testimony in case a given expert experiences difficulties in cross-examinations and another expert must bolster the evidence."
+[38]
+In NOC matters such as
+Abbott
+above,
+Fournier Pharma Inc. v. Canada (Minister of Health)
+, [2008] F.C.J. No. 1151 (A.O.),
+Aventis Pharma Inc. v. Apotex Inc.
+, [2008] F.C.J. No. 1238 (A.O.) and
+Aventis
+2009 above, I had access to materials such as the Notice of Allegation, the respective memoranda of fact and law and expert reports of the parties and the associated cross-examinations of affiants and as well reasons for judgment after trial to gauge the effort demanded of counsel and the appropriate amounts of counsel fees and disbursements. The discontinuance here precluded such a range of materials.
+[39]
+Rule 190 provides that a counterclaim survives judgment in or discontinuance of the main action. In paragraph 17 above, I noted the analysis in
+Halford
+of the need for an awareness of costs of the main action versus those of the counterclaim. I think that the Plaintiff's submissions before me that the Defendants' assessed costs of the main action must be minimal given the latter's unreasonable prosecution of the counterclaim are misplaced in that they should be directed to an exercise of the Court's Rule 400(1) jurisdiction for punitive costs after resolution of the counterclaim whether by way of judgment or discontinuance.
+[40]
+Duncan Cook's invoice for 16 hours at $100 per hour for review of the patent, attendance at the January 2009 disassembly of the prior art trailer and drafting of his affidavit is reasonable on its face and I allow it as presented.
+[41]
+Gary Teichrob's invoice broke down his 25.5 hours charged at $250 per hour as: review patent December 2008 (4 hours); review instructions January 6, 2009 (4.5 hours); prepare for disassembly prior art trailer January 27, 2009 (1 hour); further preparation for disassembly and review of claims chart (2.5 hours); travel for and attendance at disassembly and evaluate patent claims (9 hours); review claims chart and prepare opinion (1.5 hours); review materials provided February 24, 2009 (1.5 hours) and complete all document filing (1.5 hours). In the absence of evidence otherwise, the January 6, 2009 reference to instructions could address one or both of the December 2008 patent review or the January 2009 disassembly attendance, although it likely addressed the latter. I reduce Mr. Teichrob's account by 2.5 hours in the area of review of instructions, but otherwise allow it as presented for a total of $6,713.31.
+[42]
+The Defendants' bill of costs for the main action, presented at $23,299.72, is assessed and allowed at $16, 478.39.
+[End of document]

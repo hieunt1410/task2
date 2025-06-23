@@ -1,0 +1,95 @@
+[1]
+Morneau, Prothonotary
+[Translation]: These are two motions the subject of both of which is certain documents included by the applicants in their record under rule 1606 of the
+Federal Court Rules
+(the "
+Rules
+") which was filed in an application for judicial review brought by the applicants on November 22, 1996, against a requirement to provide documents which the respondent served on the applicants' accountant on October 25, 1996, under s. 231.2 of the
+Income Tax Act
+, R.S.C. 1985 (5th Supp.), c. 1, as amended.
+[2]
+In chronological order, the first of these motions was filed by the respondent, seeking to have documents struck from the applicant's record on the ground, first, that the documents were placed in the record without affidavits in support, and second, that the applicants had not to date submitted any allegation in evidence that could demonstrate the relevance or usefulness of the documents to the argument that will take place on the merits of the applicants' application for review.
+[3]
+The second motion before me was made by the applicants and seeks to introduce into their record, by filing two affidavits, the same two documents that the respondent is seeking to have struck out.
+[4]
+It seems to me that the applicants' motion is a reaction to the respondent's motion and there is nothing in the court's record to indicate that they would have tried to correct their error had it not been for the respondent's motion.
+[5]
+The documents which are the subject of the dispute are described by the respondent as follows:
+[Translation] "- at pages 68 to 85 of the Applicants' Record, a passage from the Operations Manual of the special investigations division of the Department of National Revenue;
+"- at pages 86 to 135, an undated memorandum of fact and law, apparently filed int he Ontario Court of Justice (General Division), Region of Peel, in the case entitled
+Her Majesty the Queen v. Javed Ahmad and Naheed Ahmad
+;
+"- at pages 136 and 137, a summons addressed to Javed Ahmad in his capacity as director of the company Importations Madni Inc.;
+"- at pages 138 to 157, passages from testimony apparently given in the Ontario Court (General Division) on November 16, 1995, in Brampton, Ontario, in the case entitled
+Her Majesty the Queen v. Javed Ahmad and Naheed Ahmad
+;"
+Analysis
+[6]
+It seems to me that both of the motions before me must be dismissed.
+[7]
+Even though the respondent's motion was not made under the inherent jurisdiction of this court, it seems to me that it must be addressed under that jurisdiction, as applied by Strayer, J.A., in
+Bull (David) Laboratories (Canada) Inc. v. Pharmacia Inc. et al.
+(1994), 176 N.R. 48 (F.C.A.), at pp. 54-55 ("
+Pharmacia
+"). I believe that the principles stated therein apply to this case, even though here the respondent is seeking to have the applicants' record struck out only in part, and not to have the entire application for review struck out. I would even say that
+Pharmacia
+applies here particularly, and therefore a fortiori, since the motion seeks to strike out only a few documents.
+[8]
+In
+Pharmacia
+, Strayer, J.A., allowed a motion to strike out to be made in a judicial review proceeding only in exceptional cases. At pages 54-55, the court said:
+"This is not to say that there is no jurisdiction in this court inherent or through rule 5 by analogy to other rules, to dismiss in summary manner a notice of motion which is
+so clearly improper
+as to be bereft of any possibility of success. (See e.g.,
+Cyanamid Agricultural de Puerto Rico Inc. v. Commissioner of Patents
+(1983), 74 C.P.R.(2d) 133 (F.C.T.D.); and the discussion in
+Vancouver Island Peace Society et al. v. Canada (Minister of National Defence) et al.
+, [1994] 1 F.C. 102; 64 F.T.R. 127, at 120-121 F.C. (T.D.)).
+Such cases must be very exceptional
+and cannot include cases such as the present where there is simply a debatable issue as to the adequacy of the allegation in the notice of motion." (emphasis added)
+[9]
+The same reasoning was followed by Nadon, J., of this court in
+Tom Pac Inc. v. Kem-A-Trix (Lubricants) Inc. et al.
+(1996), 118 F.T.R. 109 (T.D.).
+[10]
+In the instant case, the aspects that the Minister of National Revenue is seeking to have corrected by making this motion are not, in the circumstances, aspects that, even in the vent that the Minister of National Revenue might be correct, may be seen as so incorrect or unacceptable that we should intervene in the process of an application for judicial review (see the comments of Strayer, J.A., in
+Pharmacia
+, supra, at pages 54-55). Any motion to strike out that is made in the course of an application for judicial review must be an exception, so that one of the primary objectives of such an application, which is to hear the application on the merits as quickly as possible, may be met.
+[11]
+As Strayer, J.A., stated in
+Pharmacia
+:
+"... [T]he focus in judicial review is on moving the application along to the hearing stage as quickly as possible. This ensures that objections to the originating notice can be dealt with promptly in the context of consideration of the merits of the case."
+[12]
+(See also the decisions in
+Merck Frosst Canada Inc. et al. v. Canada (Minister of National Health and Welfare) et al.
+(1994), 88 F.T.R. 31; 58 C.P.R.(3d) 245 (T.D.), at p. 248 C.P.R., and
+FRAGMENT_SUPPRESSED
+[13]
+The respondent filed his record under rule 1607 on February 18, 1997. I believe that the respondent should have simply raised the points identified in his motion in his memorandum in that record. He did not do so and I believe that this is a plain sign that the merits of the case may be argued without stopping along the way to eliminate certain documents.
+[14]
+With respect to the applicants' motion, certainly when they filed their application for judicial review they were aware of the existence of the documents they are now seeking to submit by affidavit. Their present counsel argued that the fact that those documents were not submitted by affidavit when the application for review was filed, as required by rule 1603, should be attributed to a mere oversight on the part of the applicants' former counsel.
+[15]
+The applicants' delay in acting now forces them to make their motion under rule 303, which allows the court to grant leave for the amendment sought if it is of the view that the amendment is, in short, relevant or useful for the purpose of determining the real questions in controversy.
+[16]
+In this case, I do not believe that the documents whose presence the applicants are seeking to legitimize are so useful that unless their presence in the record is secure and recognized the court that hears the matter on the merits will be limited in analyzing the substantive questions raised by the applicants.
+[17]
+The applicants are primarily seeking, on the merits, to have the court declare that the requirement to provide documents served by the respondent is, because of parallel criminal proceedings in which some of the applicants are currently involved, a violation of their right to silence as guaranteed by the
+Charter
+. That right to silence allegedly also applies in the future. Counsel for the applicants argued on this point that the applicants could be liable to criminal prosecutions even under the
+Income Tax Act
+, supra.
+[18]
+On the question of the parallel criminal proceedings, the affidavit submitted by the applicants in support of their application for review already makes ample reference to that situation (see paragraphs 3, 4 and 21 of the affidavit of Sydney Feldhammer filed on November 22, 1996), and the respondent has made no attempt to disprove that situation. Any additional document on that point is, in my view, superfluous.
+[19]
+On the question of the possibility of prosecutions under the
+Income Tax Act
+, the evidence in the record at present, in my view, makes this possibility merely hypothetical.
+[20]
+In any event, the documents that the applicants have in mind on this point, a summons and one of the respondent's internal manuals, do nothing to assist in determining the real questions in controversy.
+[21]
+Lastly, we must distinguish the situation here from the one that arose in
+Tyler v. Minister of National Revenue
+(1990), 120 N.R. 140; 91 D.T.C. 5022 (F.C.A.), in which it was established, based on the recent past, that the police and the tax authorities were likely to exchange information obtained from the taxpayer. There was no such evidence in this case.
+Motions dismissed.
+Editor: Jana A. Andersen/clh

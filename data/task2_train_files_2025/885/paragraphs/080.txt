@@ -1,0 +1,13 @@
+[80]
+There is a requirement, under American law, that necessaries must be furnished to a ship. The requirement does not mean, for example, that putting bunkers aboard a third party's barge and then delivering them to a ship in an American port insulates a ship from a maritime lien merely because a middleman was involved. Rather, this American rule, of having to actually furnish the necessary to the ship, is based upon the wording of s. 971 of the
+United States Code
+, requiring necessaries to be furnished to a vessel, wording which has not changed appreciably in its current version. This is summed up in
+Tetley on Maritime Liens and Claims
+(supra), at page 595:
+"Section 971 used the phrase 'furnishing ... to any vessel', which meant that the goods or services must have actually been furnished to a vessel, if not a specific vessel. In the leading case of
+Piedmont Coal v. Seaboard Fisheries
+(1920), 254 U.S. 1, at page 8, the U.S. Supreme Court ruled that coal, delivered to bins on shore owned by the owner of several ships, was not 'necessaries' The coal was to be distributed to those ships and in fact some or all of it was eventually loaded on board. Yet this did not comply with the term 'furnishing to any vessel', because the necessariesmen were furnishing coal to the shipowner, and not directly to the ships."
+Piedmont Coal
+, referred to by Mr. Tetley, is still good law: see for example
+Foss Launch & Tug v. Char Ching Shipping USA
+, [1987] A.M.C. 913.

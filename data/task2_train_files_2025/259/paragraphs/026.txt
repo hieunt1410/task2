@@ -1,0 +1,18 @@
+[26]
+In this action, were are concerned with section 8 of the
+PMNOC Regulations
+in the form in which that section stood as of the date this action was filed, July 5, 2005. As of that date, section 8 read as follows:
+"8(1) If an application made under subsection 6(1) is withdrawn or discontinued by the first person or is dismissed by the court hearing the application or if an order preventing the Minister from issuing a notice of compliance, made pursuant to that subsection, is reversed on appeal, the first person is liable to the second person for any loss suffered during the period:
+(a) beginning on the date, as certified by the Minister, on which a notice of compliance would have been issued in the absence of these Regulations, unless the court is satisfied on the evidence that another date is more appropriate; and
+(b) ending on the date of the withdrawl, the discontinuance, the dismissal or the reversal.
+"8(2) A second person may, by action against a first person, apply to the court for an order requiring the first person to compensate the second person for the loss referred to in subsection (1).
+"8(3) The court may make an order under this section without regard to whether the first person has commenced an action for the infringement of a patent that is the subject matter of the application.
+"8(4) The court may make such order for relief by way of damages or profits as the circumstances require in respect of any loss referred to in subsection (1).
+"8(5) In assessing the amount of compensation the court shall take into account all matters that it considers relevant to the assessment of the amount, including any conduct of the first or second person which contributed to delay the disposition of the application under subsection 6(1)."
+"8(1) Si la demande présentée aux termes du paragraphe 6(1) est retirée ou fait l'objet d'un désistement par la première personne ou est rejetée par le tribunal qui en est saisi, ou si l'ordonnance interdisant au ministre de délivrer un avis de conformité, rendue aux termes de ce paragraphe, est annulée lors d'un appel, la première personne est responsable envers la seconde personne de toute perte subie au cours de la période:
+a) débutant à la date, attestée par le ministre, à laquelle un avis de conformité aurait été délivré en l'absence du présent règlement, sauf si le tribunal estime d'après la preuve qu'une autre date est plus appropriée;
+(b) se terminant à la date du retrait, du désistement ou du rejet de la demande ou de l'annulation de l'ordonnance.
+"8(2) La seconde personne peut, par voie d'action contre la première personne, demander au tribunal de rendre une ordonnance enjoignant à cette dernière de lui verser une indemnité pour la perte visée au paragraphe (1).
+"8(3) Le tribunal peut rendre une ordonnance aux termes du présent article sans tenir compte du fait que la première personne a institué ou non une action pour contrefaçon du brevet visé par la demande.
+"8(4) Le tribunal peut rendre l'ordonnance qu'il juge indiquée pour accorder réparation par recouvrement de dommages-intérêts ou de profits à l'égard de la perte visée au paragraphe (1).
+"8(5) Pour déterminer le montant de l'indemnité à accorder, le tribunal tient compte des facteurs qu'il juge pertinents à cette fin, y compris, le cas échéant, la conduite de la première personne ou de la seconde personne qui a contribué à retarder le règlement de la demande visée au paragraphe 6(1)."
