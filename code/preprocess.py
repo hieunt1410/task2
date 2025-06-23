@@ -90,13 +90,12 @@ def extract_negative_samples(args, segment="train"):
     save_json(save_path, sample_dict)
     
     
-def build_dataset(args):
-    data_path = f"{args.data_dir}/task2_train_files_{args.year}"
-    corpus_dir, cases_dir, label_data = get_data(data_path, year=args.year, segment="train")
+def build_dataset(dataset_path, year, training_samples_file=None):
+    corpus_dir, cases_dir, label_data = get_data(dataset_path, year=year, segment="train")
 
     training_samples = {}
-    if args.training_samples_file:
-        training_samples = load_json(args.training_samples_file)
+    if training_samples_file:
+        training_samples = load_json(training_samples_file)
     
     dataset = []
     for case in cases_dir:

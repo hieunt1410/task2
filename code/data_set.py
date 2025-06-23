@@ -36,10 +36,11 @@ class SiameseProcessor:
 
 class MyDataSet(Dataset):
     def __init__(
-        self, tokenizer, dataset_path, num_pairs_per_batch, ns_strategy
+        self, tokenizer, dataset_path, num_pairs_per_batch, ns_strategy, 
+        year, training_samples_file=None
     ) -> None:
         super().__init__()
-        self.data = build_dataset(dataset_path, ns_strategy)
+        self.data = build_dataset(dataset_path, year, training_samples_file)
         self.processor = SiameseProcessor(tokenizer)
         self.num_pairs_per_batch = num_pairs_per_batch
         self.ns_strategy = ns_strategy

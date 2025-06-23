@@ -39,6 +39,7 @@ evaluation_mode = "dev"
 # sent_eval_data_path = "../SentEval/data"
 
 # we use DDP to train our model
+os.environ["LOCAL_RANK"] = "0"
 local_rank = int(os.environ["LOCAL_RANK"])
 dist.init_process_group(backend="nccl")
 torch.cuda.set_device(local_rank)
@@ -61,6 +62,8 @@ def main():
         dataset_path=dataset_path,
         num_pairs_per_batch=10,
         ns_strategy="hard",
+        year=2025,
+        training_samples_file="./data/task2_train_files_2025/task2_train_negatives.json",
     )
 
     train_sampler = DistributedSampler(train_data_set)
