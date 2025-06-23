@@ -56,7 +56,7 @@ class MyDataSet(Dataset):
         }
         self.ns_iter = copy.deepcopy(self.ns)
         
-        self.create_training_dataset()
+        self.training_data = self.create_training_dataset()
 
     def __len__(self):
         return len(self.training_data)
@@ -72,8 +72,7 @@ class MyDataSet(Dataset):
             raise ValueError(f"Invalid negative sampling strategy: {self.ns_strategy}")
         
     def create_hard_training_dataset(self):
-        self.training_data = []
-
+        training_data = []
         for sample in self.data:
             batch = []
             for cand in sample["pos_candidates"]:
@@ -83,4 +82,6 @@ class MyDataSet(Dataset):
             for cand in sample["neg_candidates"][:num_neg_pairs]:
                 batch.append((sample["text"], cand["text"], 0, 1.0))
 
-            self.training_data.append(batch)
+            training_data.append(batch)
+        return training_data
+            
