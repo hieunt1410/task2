@@ -63,7 +63,7 @@ def main():
         num_pairs_per_batch=10,
         ns_strategy="hard",
         year='2025',
-        training_samples_file="./data/task2_train_files_2025/task2_train_negatives.json",
+        training_samples_file="../data/task2_train_files_2025/task2_train_negatives.json",
     )
 
     train_sampler = DistributedSampler(train_data_set)
