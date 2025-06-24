@@ -67,7 +67,7 @@ class MyDataSet(Dataset):
 
     def create_training_dataset(self):
         if self.ns_strategy == "hard":
-            self.create_hard_training_dataset()
+            return self.create_hard_training_dataset()
         else:
             raise ValueError(f"Invalid negative sampling strategy: {self.ns_strategy}")
         
