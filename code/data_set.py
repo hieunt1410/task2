@@ -41,7 +41,6 @@ class MyDataSet(Dataset):
     ) -> None:
         super().__init__()
         self.data = build_dataset(dataset_path, year, training_samples_file)
-        self.processor = SiameseProcessor(tokenizer)
         self.num_pairs_per_batch = num_pairs_per_batch
         self.ns_strategy = ns_strategy
 
@@ -62,8 +61,7 @@ class MyDataSet(Dataset):
         return len(self.training_data)
 
     def __getitem__(self, index):
-        data = self.training_data[index]
-        return self.processor(data)
+        return self.training_data[index]
 
     def create_training_dataset(self):
         if self.ns_strategy == "hard":
@@ -84,4 +82,28 @@ class MyDataSet(Dataset):
 
             training_data.append(batch)
         return training_data
+    
+class BatchCollator:
+    def __init__(self, tokenizer, device, max_length):
+        self.tokenizer = tokenizer
+        self.device = device
+        self.max_length = max_length
+
+    def __call__(self, batch):
+        queries = [sample[0] for b in batch for sample in b]
+        paragraphs = [sample[1] for b in batch for sample in b]
+        labels = [sample[2] for b in batch for sample in b]
+        
+        encoded_queries = self.tokenizer(queries, padding="max_length", truncation=True, max_length=self.max_length)
+        encoded_paragraphs = self.tokenizer(paragraphs, padding="max_length", truncation=True, max_length=self.max_length)
+        
+        query_tensors = {
+            "input_ids": torch.LongTensor(encoded_queries["input_ids"]).to(self.device),
+            "attention_mask": torch.LongTensor(encoded_queries["attention_mask"]).to(self.device),
+        }
+        paragraph_tensors = {
+            "input_ids": torch.LongTensor(encoded_paragraphs["input_ids"]).to(self.device),
+            "attention_mask": torch.LongTensor(encoded_paragraphs["attention_mask"]).to(self.device),
+        }
+        return query_tensors, paragraph_tensors, labels
             

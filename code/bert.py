@@ -98,7 +98,7 @@ def predict_all_bert(
             ).to(device)
 
             with torch.no_grad():
-                outputs = model(**inputs)
+                outputs = model.bert(**inputs)
             scores[cand_case] = outputs.logits[0][1].item()
         bert_scores[case] = scores
 
@@ -111,9 +111,9 @@ def eval_end_model_ranking(
     year,
     dataset_path,
     eval_segment="dev",
-    topk=None,
-    margin=None,
-    alpha=None,
+    topk=1,
+    margin=0,
+    alpha=0.5,
 ):
     print(f"\n[{eval_segment}] k: {topk} - margin: {margin} - alpha: {alpha}")
 
@@ -164,7 +164,7 @@ def eval_end_model_ranking(
 
 
 def eval_end_model(
-    bert_scores, bm25_scores, year, dataset_path, eval_segment="dev", topk=None
+    bert_scores, bm25_scores, year, dataset_path, eval_segment="dev", topk=1
 ):
     if topk is None:
         list_k = [1, 2, 3]
