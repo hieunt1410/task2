@@ -1,3 +1,5 @@
+python -m venv env
+source env/bin/activate
 pip install -r requirements.txt
 
 sudo apt install -y libsqlite3-dev openjdk-21-jdk
