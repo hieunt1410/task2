@@ -64,14 +64,14 @@ def main():
 
     model = Dual_Tower(model_path=model_path)
 
-    if os.path.exists(best_model_path):
-        check_point = torch.load(best_model_path, map_location=device)
-        model.load_state_dict(check_point['model'])  # corresponding to torch.save in train.py
-        logger.info(f'load best model with epoch: {check_point["epoch"]}')
+    # if os.path.exists(best_model_path):
+    #     check_point = torch.load(best_model_path, map_location=device)
+    #     model.load_state_dict(check_point['model'])  # corresponding to torch.save in train.py
+    #     logger.info(f'load best model with epoch: {check_point["epoch"]}')
 
-        best_score = check_point['score']
-    else:
-        raise ValueError(f'fail to load {best_model_path}')
+    #     best_score = check_point['score']
+    # else:
+        # raise ValueError(f'fail to load {best_model_path}')
 
     layer_learning_rate = {}
     base_learning_rate = BERT_LEARNING_RATE

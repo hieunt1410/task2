@@ -27,6 +27,7 @@ save_path = "./save"
 model_path = "FacebookAI/roberta-base"
 dataset_path = "./data/task2_train_files_2025"
 bm25_index_path = "./data/bm25_index_2025"
+best_model_path = './save/roberta_best_model.pth'
 # '../../models/bert-base-uncased' # '../../models/roberta-base'
 
 # we need this to import senteval
@@ -78,6 +79,15 @@ def main():
     )
 
     model = Average_BERT(bert_path=model_path)
+
+    if os.path.exists(best_model_path):
+        check_point = torch.load(best_model_path, map_location=device)
+        model.load_state_dict(check_point['model'])  # corresponding to torch.save in train.py
+        logger.info(f'load best model with epoch: {check_point["epoch"]}')
+
+        best_score = check_point['score']
+    else:
+        raise ValueError(f'fail to load {best_model_path}')
 
     layer_learning_rate = {}
     base_learning_rate = BERT_LEARNING_RATE
@@ -188,7 +198,7 @@ def main():
                     best_metric = metrics
                     best_k = k
                     
-                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, open(os.path.join(save_path, 'best_model.pth'), 'wb'))
+                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, best_model_path)
 
                     logger.info(f"Best metric: {best_metric} with k: {best_k}")
         
