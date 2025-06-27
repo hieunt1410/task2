@@ -145,7 +145,7 @@ def main():
             model.train()
 
             query_tensors, paragraph_tensors, labels = batch
-            label = torch.tensor(list(map(int, labels)), dtype=torch.float32).cuda()
+            label = torch.FloatTensor(list(map(int, labels))).cuda()
             label = label.reshape(label.shape[0], 1)
             
             prediction = model(query_tensors, paragraph_tensors)
