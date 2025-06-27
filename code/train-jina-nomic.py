@@ -24,6 +24,9 @@ from tqdm import tqdm
 # path
 save_path = './save'
 model_path = 'jinaai/jina-embeddings-v3'
+dataset_path = "./data/task2_train_files_2025"
+bm25_index_path = "./data/bm25_index_2025"
+
 
 # we use DDP to train our model
 local_rank = int(os.environ['LOCAL_RANK'])
