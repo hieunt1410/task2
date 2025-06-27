@@ -164,9 +164,9 @@ def main():
         model.eval()
         
         print("Evaluating epoch", e_i)
-        bert_scores = predict_all_bert(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
-        bm25_scores = predict_all_bm25(dataset_path, year='2025', bm25_index_path=bm25_index_path, eval_segment="dev")
-        eval_end_model(bert_scores, bm25_scores, year='2025', dataset_path=dataset_path, eval_segment="dev")
+        predictions = predict_all_bert(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
+        # bm25_scores = predict_all_bm25(dataset_path, year='2025', bm25_index_path=bm25_index_path, eval_segment="dev")
+        eval_end_model(predictions, year='2025', dataset_path=dataset_path, eval_segment="dev")
         
         
 if __name__ == "__main__":

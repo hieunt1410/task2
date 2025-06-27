@@ -1,5 +1,6 @@
 from collections import defaultdict
 from pyserini.search.lucene import LuceneSearcher
+from settings import MAX_SEQUENCE_LENGTH
 from utils import get_data, preprocess_case_data, segment_document
 import os
 import torch
@@ -76,7 +77,7 @@ def predict_all_bert(
 ):
     corpus_dir, cases_dir, _ = get_data(dataset_path, year=year, segment=eval_segment)
 
-    bert_scores = {}
+    predictions = {}
     for case in cases_dir:
         base_case_data = preprocess_case_data(
             corpus_dir / case / "entailed_fragment.txt"
@@ -85,37 +86,29 @@ def predict_all_bert(
         candidate_dir = corpus_dir / case / "paragraphs"
         candidate_cases = sorted(os.listdir(candidate_dir))
 
-        scores = defaultdict(lambda: 0)
+        predictions[case] = []
         for cand_case in candidate_cases:
             cand_case_data = preprocess_case_data(candidate_dir / cand_case)
 
-            inputs = tokenizer(
-                base_case_data,
-                cand_case_data,
-                return_tensors="pt",
-                padding=True,
-                truncation=True,
-            ).to(device)
+            encoded_query = tokenizer(base_case_data, return_tensors="pt", padding=True, truncation=True, max_length=MAX_SEQUENCE_LENGTH).to(device)
+            encoded_paragraph = tokenizer(cand_case_data, return_tensors="pt", padding=True, truncation=True, max_length=MAX_SEQUENCE_LENGTH).to(device)
 
             with torch.no_grad():
-                outputs = model.bert(**inputs)
-            scores[cand_case] = outputs.logits[0][1].item()
-        bert_scores[case] = scores
+                outputs = model(encoded_query, encoded_paragraph)
 
-    return bert_scores
+            predictions[case].append(outputs)
+
+    return predictions
 
 
-def eval_end_model_ranking(
-    bert_scores,
-    bm25_scores,
+def get_metrics(
+    predictions,
     year,
     dataset_path,
     eval_segment="dev",
     topk=1,
-    margin=0,
-    alpha=0.5,
 ):
-    print(f"\n[{eval_segment}] k: {topk} - margin: {margin} - alpha: {alpha}")
+    print(f"\n[{eval_segment}] k: {topk}")
 
     corpus_dir, cases_dir, label_data = get_data(
         dataset_path, year=year, segment=eval_segment
@@ -123,33 +116,11 @@ def eval_end_model_ranking(
 
     tp, fp, fn = 0, 0, 0
     for case in cases_dir:
-        bm25_score = bm25_scores[case]
-        bert_score = bert_scores[case]
-
         candidate_dir = corpus_dir / case / "paragraphs"
         candidate_cases = sorted(os.listdir(candidate_dir))
 
-        final_score = []
-        for cand_case in candidate_cases:
-            if alpha == 1:
-                if cand_case not in bm25_score:
-                    final_score.append(0)
-                else:
-                    final_score.append(bert_score[cand_case])
-            else:
-                final_score.append(
-                    alpha * bert_score[cand_case]
-                    + (1 - alpha) * bm25_score.get(cand_case, 0)
-                )
-
         label = [1 if f in label_data[case] else 0 for f in candidate_cases]
-        top_ind = np.argsort(final_score)[-topk:]
-        pred_ind = [top_ind[-1]]
-        for i in top_ind[:-1]:
-            if final_score[top_ind[-1]] - final_score[i] < margin:
-                pred_ind.append(i)
-        pred = np.zeros_like(label)
-        pred[pred_ind] = 1
+        pred = predictions[case]
 
         tp += np.sum([1 if a == b and a == 1 else 0 for a, b in zip(pred, label)])
         fp += np.sum([1 if a != b and a == 1 else 0 for a, b in zip(pred, label)])
@@ -159,43 +130,34 @@ def eval_end_model_ranking(
     r = tp / (tp + fn)
     f1 = 2 * ((p * r) / (p + r))
 
-    print(f"[{eval_segment}] Metrics: {[f1, p, r]} - {[topk, margin, alpha]}")
+    print(f"[{eval_segment}] Metrics: {[f1, p, r]} - {[topk]}")
     return [f1, p, r]
 
 
-def eval_end_model(
-    bert_scores, bm25_scores, year, dataset_path, eval_segment="dev", topk=1
-):
+def eval_end_model(predictions, year, dataset_path, eval_segment="dev", topk=1):
     if topk is None:
         list_k = [1, 2, 3]
-        list_margin = [0, 1, 2, 3, 4, 5]
-        list_alpha = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
 
         best_metric = [0, 0, 0]
         best_config = []
 
         for k in list_k:
-            for margin in list_margin:
-                for alpha in list_alpha:
-                    res = eval_end_model_ranking(
-                        bert_scores,
-                        bm25_scores,
-                        year,
-                        dataset_path,
-                        eval_segment,
-                        topk,
-                        margin,
-                        alpha,
-                    )
-                    if res > best_metric:
-                        best_metric = res
-                        best_config = [k, margin, alpha]
+            res = get_metrics(
+                predictions,
+                year,
+                dataset_path,
+                eval_segment,
+                topk,
+            )
+            if res > best_metric:
+                best_metric = res
+                best_config = [k]
 
-                        with open("./save/best_config.txt", "w") as f:
-                            f.write(f"k: {k}, margin: {margin}, alpha: {alpha}")
+                with open("./save/best_config.txt", "w") as f:
+                    f.write(f"k: {k}")
         print(f"Best metric: {best_metric} with config: {best_config}")
     else:
-        res = eval_end_model_ranking(
-            bert_scores, bm25_scores, year, dataset_path, eval_segment, topk
+        res = get_metrics(
+            predictions, year, dataset_path, eval_segment, topk
         )
         print(f"Result: {res}")
