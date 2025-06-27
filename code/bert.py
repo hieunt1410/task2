@@ -5,7 +5,8 @@ from utils import get_data, preprocess_case_data, segment_document
 import os
 import torch
 import numpy as np
-
+from tqdm import tqdm
+from logger import logger
 
 def evaluate(predictions, golds):
     preds = [set(p["pred"]) for p in predictions]
@@ -72,13 +73,13 @@ def predict_all_bm25(
     return bm25_scores
 
 
-def predict_all_bert(
+def make_predictions(
     model, tokenizer, dataset_path, year, eval_segment="test", device=None
 ):
     corpus_dir, cases_dir, _ = get_data(dataset_path, year=year, segment=eval_segment)
 
     predictions = {}
-    for case in cases_dir:
+    for case in tqdm(cases_dir):
         base_case_data = preprocess_case_data(
             corpus_dir / case / "entailed_fragment.txt"
         )
@@ -96,7 +97,9 @@ def predict_all_bert(
             with torch.no_grad():
                 outputs = model(encoded_query, encoded_paragraph)
 
-            predictions[case].append(outputs)
+            predictions[case].append(outputs.item())
+            
+    predictions = {k: np.array(v) for k, v in predictions.items()}
 
     return predictions
 
@@ -108,8 +111,6 @@ def get_metrics(
     eval_segment="dev",
     topk=1,
 ):
-    print(f"\n[{eval_segment}] k: {topk}")
-
     corpus_dir, cases_dir, label_data = get_data(
         dataset_path, year=year, segment=eval_segment
     )
@@ -130,16 +131,16 @@ def get_metrics(
     r = tp / (tp + fn)
     f1 = 2 * ((p * r) / (p + r))
 
-    print(f"[{eval_segment}] Metrics: {[f1, p, r]} - {[topk]}")
+    logger.info(f"[Evaluating {eval_segment}] Metrics: {[f1, p, r]} - {[topk]}")
     return [f1, p, r]
 
 
-def eval_end_model(predictions, year, dataset_path, eval_segment="dev", topk=1):
+def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev", topk=1):
     if topk is None:
         list_k = [1, 2, 3]
 
         best_metric = [0, 0, 0]
-        best_config = []
+        best_k = 0
 
         for k in list_k:
             res = get_metrics(
@@ -150,14 +151,16 @@ def eval_end_model(predictions, year, dataset_path, eval_segment="dev", topk=1):
                 topk,
             )
             if res > best_metric:
+                torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, 'roberta_best_model.pth'), 'wb'))
+                
                 best_metric = res
-                best_config = [k]
+                best_k = k
 
-                with open("./save/best_config.txt", "w") as f:
-                    f.write(f"k: {k}")
-        print(f"Best metric: {best_metric} with config: {best_config}")
+                with open(os.path.join(save_path, 'best_k.txt'), "w") as f:
+                    f.write(f"k: {best_k}")
+        logger.info(f"Best metric: {best_metric} with k: {best_k}")
     else:
         res = get_metrics(
             predictions, year, dataset_path, eval_segment, topk
         )
-        print(f"Result: {res}")
+        logger.info(f"Result: {res}")

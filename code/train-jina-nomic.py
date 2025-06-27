@@ -1,16 +1,15 @@
 import os
 os.environ['NUMEXPR_MAX_THREADS'] = '88'
-os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 from model import *
 from logger import *
-from data_set import *
+from data_set import MyDataSet, BatchCollator
 from loss import TranslatedReLU, SmoothK2Loss
+from bert import make_predictions, eval_end_model
 
-import sys
 import random
 import numpy as np
-from datasets import load_dataset
 
 from torch.optim import AdamW
 import torch.distributed as dist
@@ -19,20 +18,12 @@ from torch.utils.data import DataLoader, DistributedSampler
 
 from transformers import AutoTokenizer
 from transformers import get_linear_schedule_with_warmup
+from tqdm import tqdm
 
 
 # path
 save_path = './save'
-model_path = 'jinaai/jina-embeddings-v2-base-en'
-# 'jinaai/jina-embeddings-v2-base-en' # '../../models/nomic-embed-text-v1'
-
-# we need this to import senteval
-sys.path.insert(0, '../SentEval')
-import senteval
-
-evaluation_mode = 'dev'
-evaluation_tasks = ['STSBenchmark']
-sent_eval_data_path = '../SentEval/data'
+model_path = 'jinaai/jina-embeddings-v3'
 
 # we use DDP to train our model
 local_rank = int(os.environ['LOCAL_RANK'])
@@ -51,17 +42,26 @@ def set_seed(seed=777):
 def main():
     set_seed()
     
-    BATCH_SIZE = 8
-    EVALUATION_PER_STEP = 10000
-
-    # {'train': ['gold_label', 'sentence1', 'sentence2']}
-    train_data = load_dataset('csv', data_dir='../data', data_files='nli_012.csv', cache_dir='./cache')
+    BATCH_SIZE = 2
+    EVALUATION_PER_STEP = 1000
     
     tokenizer = AutoTokenizer.from_pretrained(model_path)
-    train_data_set = MyDataSet(tokenizer=tokenizer, data_set=train_data['train'])
+    train_data_set = MyDataSet(
+        tokenizer=tokenizer,
+        dataset_path=dataset_path,
+        num_pairs_per_batch=10,
+        ns_strategy="hard",
+        year='2025',
+        training_samples_file="./data/task2_train_negatives.json",
+    )
 
     train_sampler = DistributedSampler(train_data_set)
-    train_data_loader = DataLoader(dataset=train_data_set, batch_size=BATCH_SIZE * dist.get_world_size(), sampler=train_sampler)
+    train_data_loader = DataLoader(
+        dataset=train_data_set,
+        batch_size=BATCH_SIZE * dist.get_world_size(),
+        sampler=train_sampler,
+        collate_fn=BatchCollator(tokenizer, device, MAX_SEQUENCE_LENGTH)
+    )
 
     model = Dual_Tower(model_path=model_path)
     
@@ -90,21 +90,21 @@ def main():
         logger.info(f'total steps: {total_steps}, with warm up steps: {warm_up_steps} and decay rate: {RATE_DECAY_FACTOR}')
 
     steps = 0
-    best_score = 0
     current_steps = 0
     for e_i in range(EPOCH):
-        for batch in train_data_loader:
+        pbar = tqdm(train_data_loader)
+        for batch in pbar:
             dist.barrier()
             model.train()
 
-            encoded_1, encoded_2 = batch[:2]
-            prediction = model(encoded_1, encoded_2)
+            query_tensors, paragraph_tensors, labels = batch
+            prediction = model(query_tensors, paragraph_tensors)
 
             # special treatment for the left critical point
             mask = (prediction >= 0).type(prediction.dtype)
             prediction = prediction * mask
             
-            label = torch.FloatTensor(list(map(int, batch[-1]))).cuda()
+            label = torch.FloatTensor(list(map(int, labels))).cuda()
             label = label.reshape(label.shape[0], 1)
             
             if 'jina' in model_path:
@@ -123,6 +123,9 @@ def main():
             model.zero_grad()
 
             dist.barrier()
+            pbar.update(1)
+            pbar.set_postfix(proportion=current_steps / total_steps, loss=loss.item(), lr=scheduler.get_last_lr()[0])
+
             current_steps += dist.get_world_size()
             steps += dist.get_world_size()
 
@@ -133,15 +136,16 @@ def main():
             model.eval()
             
             if local_rank == 0:
-                logger.info(f'save new dense layer !!!')
-                logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}')
+                logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, loss: {loss.item()}')
                 
-                if 'jina' in model_path:
-                    torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, f'jina_frozen_train.pth'), 'wb'))
-                elif 'nomic' in model_path:
-                    torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, f'nomic_frozen_train.pth'), 'wb'))
-                else:
-                    raise ValueError('unknown model path')
+                # if 'jina' in model_path:
+                #     torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, f'jina_frozen_train.pth'), 'wb'))
+                # elif 'nomic' in model_path:
+                #     torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, f'nomic_frozen_train.pth'), 'wb'))
+                # else:
+                #     raise ValueError('unknown model path')
+                predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
+                eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
 
 
 if __name__ == '__main__':

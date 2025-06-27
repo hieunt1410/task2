@@ -7,7 +7,7 @@ from model import *
 from logger import *
 from data_set import MyDataSet, BatchCollator
 from loss import TranslatedReLU, SmoothK2Loss
-from bert import predict_all_bert, predict_all_bm25, eval_end_model
+from bert import make_predictions, eval_end_model
 
 import random
 import numpy as np
@@ -55,6 +55,9 @@ def set_seed(seed=777):
 def main():
     set_seed()
 
+    EVALUATION_PER_STEP = 300
+    current_steps = 0
+    
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     train_data_set = MyDataSet(
         tokenizer=tokenizer,
@@ -133,6 +136,8 @@ def main():
             f"total steps: {total_steps}, with warm up steps: {warm_up_steps} and decay rate: {RATE_DECAY_FACTOR}"
         )
 
+    steps = 0
+    current_steps = 0
     for e_i in tqdm(range(EPOCH)):
         pbar = tqdm(train_data_loader)
         for batch in pbar:
@@ -160,14 +165,21 @@ def main():
 
             dist.barrier()
             pbar.update(1)
+            pbar.set_postfix(proportion=current_steps / total_steps, loss=loss.item(), lr=scheduler.get_last_lr()[0])
+            current_steps += dist.get_world_size()
+            steps += dist.get_world_size()
 
-        model.eval()
-        
-        print("Evaluating epoch", e_i)
-        predictions = predict_all_bert(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
-        # bm25_scores = predict_all_bm25(dataset_path, year='2025', bm25_index_path=bm25_index_path, eval_segment="dev")
-        eval_end_model(predictions, year='2025', dataset_path=dataset_path, eval_segment="dev")
-        
+            if steps < EVALUATION_PER_STEP:
+                continue
+
+            steps = 0
+            model.eval()
+            
+            if local_rank == 0:
+                logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, loss: {loss.item()}')
+                predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
+                # bm25_scores = predict_all_bm25(dataset_path, year='2025', bm25_index_path=bm25_index_path, eval_segment="dev")
+                eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev") 
         
 if __name__ == "__main__":
     main()
