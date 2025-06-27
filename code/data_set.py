@@ -98,12 +98,12 @@ class BatchCollator:
         encoded_paragraphs = self.tokenizer(paragraphs, padding="max_length", truncation=True, max_length=self.max_length)
         
         query_tensors = {
-            "input_ids": torch.FloatTensor(encoded_queries["input_ids"]).to(self.device),
-            "attention_mask": torch.FloatTensor(encoded_queries["attention_mask"]).to(self.device),
+            "input_ids": torch.LongTensor(encoded_queries["input_ids"]).to(self.device),
+            "attention_mask": torch.LongTensor(encoded_queries["attention_mask"]).to(self.device),
         }
         paragraph_tensors = {
-            "input_ids": torch.FloatTensor(encoded_paragraphs["input_ids"]).to(self.device),
-            "attention_mask": torch.FloatTensor(encoded_paragraphs["attention_mask"]).to(self.device),
+            "input_ids": torch.LongTensor(encoded_paragraphs["input_ids"]).to(self.device),
+            "attention_mask": torch.LongTensor(encoded_paragraphs["attention_mask"]).to(self.device),
         }
         return query_tensors, paragraph_tensors, labels
             
