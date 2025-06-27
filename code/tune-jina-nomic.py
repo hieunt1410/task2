@@ -1,6 +1,6 @@
 import os
 os.environ['NUMEXPR_MAX_THREADS'] = '88'
-os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5' # A6000 x 2
+os.environ['CUDA_VISIBLE_DEVICES'] = '0, 1' # A6000 x 2
 
 from model import *
 from logger import *
@@ -22,7 +22,7 @@ from transformers import get_linear_schedule_with_warmup
 
 # path
 save_path = "./save"
-model_path = "FacebookAI/roberta-base"
+model_path = "jinaai/jina-embeddings-v2-base-en"
 dataset_path = "./data/task2_train_files_2025"
 bm25_index_path = "./data/bm25_index_2025"
 # 'jinaai/jina-embeddings-v2-base-en' # '../../models/nomic-embed-text-v1' 
