@@ -185,7 +185,7 @@ def main():
                 logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, loss: {loss.item()}')
                 predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
                 # bm25_scores = predict_all_bm25(dataset_path, year='2025', bm25_index_path=bm25_index_path, eval_segment="dev")
-                metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
+                metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, eval_segment="dev")
                 
                 if metrics[0] > best_metric[0]:
                     best_metric = metrics
@@ -194,7 +194,7 @@ def main():
                     
                     torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k, 'threshold': best_threshold}, best_model_path)
 
-                    logger.info(f"Best metric: {best_metric} with k: {best_k}")
+                logger.info(f"Best metric: {best_metric} with k: {best_k}")
         
 if __name__ == "__main__":
     main()

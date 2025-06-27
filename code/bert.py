@@ -136,7 +136,7 @@ def get_metrics(
     return [f1, p, r]
 
 
-def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev"):
+def eval_end_model(predictions, year, dataset_path, eval_segment="dev"):
     best_metric = [0, 0, 0]
     best_k = 0
     best_threshold = 0.7

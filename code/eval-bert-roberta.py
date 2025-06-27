@@ -1,20 +1,20 @@
 from model import *
 from logger import *
+from bert import *
 
 import os
-# os.environ['CUDA_VISIBLE_DEVICES'] = '0, 1, 2, 3'
-os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+# os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5'
 
 import sys
 from prettytable import PrettyTable
 from transformers import AutoTokenizer
 
-eval_mode = 'dev'
+eval_mode = 'test'
 
-# './save/tune-roberta-sk2.pth' => 83.23  './save/tune-bert-sk2.pth' => 82.93
-best_model_path = './save/bert_train.pth'
-bert_path = './ckpts/bert-base-uncased'
-#'../../models/roberta-base' # '../../models/bert-base-uncased'
+best_model_path = './save/roberta_best_model.pth'
+bert_path = 'FacebookAI/roberta-base'
+dataset_path = "./data/task2_train_files_2025"
 
 
 def show_table(task_names, scores):
@@ -26,149 +26,33 @@ def show_table(task_names, scores):
 
 def main():
     model = Average_BERT(bert_path=bert_path)
-
+    model = torch.nn.DataParallel(model)
+    
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     if os.path.exists(best_model_path):
-        check_point = torch.load(best_model_path)
-        model.load_state_dict(check_point['model'])  # corresponding to torch.save in train.py
+        check_point = torch.load(best_model_path, weights_only=False, map_location=device)
+        state_dict = check_point['model']
+        # if any(key.startswith('module.') for key in state_dict.keys()):
+        #     # Remove 'module.' prefix from keys
+        #     new_state_dict = {}
+        #     for key, value in state_dict.items():
+        #         new_key = key.replace('module.', '')
+        #         new_state_dict[new_key] = value
+        #     state_dict = new_state_dict
+        
+        model.load_state_dict(state_dict)
         logger.info(f'load best model with epoch: {check_point["epoch"]} and dev score: {check_point["score"]}')
     else:
         raise ValueError(f'fail to load {best_model_path}')
 
     tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path=bert_path)
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
     model.eval()
 
-    if sent_eval_mode == 'test':
-        params = {
-            'task_path': data_path,
-            'usepytorch': True,
-            'kfold': 10,
-            'classifier': {
-                'nhid': 0,
-                'optim': 'adam',
-                'batch_size': 64,
-                'tenacity': 5,
-                'epoch_size': 4,
-            },
-        }
-    elif sent_eval_mode in ['dev', 'fasttest']:
-        params = {
-            'task_path': data_path,
-            'usepytorch': True,
-            'kfold': 5,
-            'classifier': {
-                'nhid': 0,
-                'optim': 'rmsprop',
-                'batch_size': 128,
-                'tenacity': 3,
-                'epoch_size': 2,
-            },
-        }
-    else:
-        raise ValueError(f'unknown {sent_eval_mode}')
+    predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment=eval_mode, device=device)
 
-    def prepare(params, samples):
-        params.max_length = MAX_SEQUENCE_LENGTH
-        return
-
-    def batcher(params, batch):
-        # Handle rare token encoding issues in the dataset
-        if len(batch) >= 1 and len(batch[0]) >= 1 and isinstance(batch[0][0], bytes):
-            batch = [[word.decode('utf-8') for word in sentence] for sentence in batch]
-
-        # batch is divided by token. we need to form sentences
-        sentences = [' '.join(sentence) for sentence in batch]
-        
-        batch = tokenizer.batch_encode_plus(
-            sentences,
-            padding='max_length',
-            truncation=True,
-            max_length=params.max_length,
-            return_tensors='pt',
-        )
-
-        for i in batch:
-            batch[i] = batch[i].to(device)
-
-        with torch.no_grad():
-            output = model.text2embedding(batch)
-
-        return output.cpu()
-
-    results = {}
-    for task in tasks:
-        se = senteval.engine.SE(params, batcher, prepare)
-        result = se.eval(task)
-        results[task] = result
-
-    if sent_eval_mode == 'dev':
-        print(f'------ {sent_eval_mode} ------')
-
-        # STS
-        scores = []
-        task_names = []
-        for task in ['STSBenchmark', 'SICKRelatedness']:
-            task_names.append(task)
-
-            if task in results:
-                scores.append("%.2f" % (results[task]['dev']['spearman'][0] * 100))
-            else:
-                scores.append('0.00')      
-
-        show_table(task_names=task_names, scores=scores)
-
-        # Transfer
-        # scores = []
-        # task_names = []
-        # for task in ['MR', 'CR', 'SUBJ', 'MPQA', 'SST2', 'TREC', 'MRPC']:
-        #     task_names.append(task)
-            
-        #     if task in results:
-        #         scores.append("%.2f" % (results[task]['acc']))
-        #     else:
-        #         scores.append('0.00')
-
-        # task_names.append('Avg.')
-        # scores.append("%.2f" % (sum(float(score) for score in scores) / len(scores)))
-        # show_table(task_names=task_names, scores=scores)
-
-    elif sent_eval_mode in ['test', 'fasttest']:
-        print(f'------ {sent_eval_mode} ------')
-
-        # STS
-        scores = []
-        task_names = []
-        for task in ['STS12', 'STS13', 'STS14', 'STS15', 'STS16', 'STSBenchmark', 'SICKRelatedness']:
-            task_names.append(task)
-
-            if task in results:
-                if task in ['STS12', 'STS13', 'STS14', 'STS15', 'STS16']:
-                    scores.append("%.2f" % (results[task]['all']['spearman']['all'] * 100))
-                else:
-                    scores.append("%.2f" % (results[task]['test']['spearman'].correlation * 100))
-            else:
-                scores.append('0.00')      
-
-        task_names.append('Avg.')
-        scores.append("%.2f" % (sum(float(score) for score in scores) / len(scores)))
-        show_table(task_names=task_names, scores=scores)
-
-        # Transfer
-        # scores = []
-        # task_names = []
-        # for task in ['MR', 'CR', 'SUBJ', 'MPQA', 'SST2', 'TREC', 'MRPC']:
-        #     task_names.append(task)
-            
-        #     if task in results:
-        #         scores.append("%.2f" % (results[task]['acc']))
-        #     else:
-        #         scores.append('0.00')
-
-        # task_names.append('Avg.')
-        # scores.append("%.2f" % (sum(float(score) for score in scores) / len(scores)))
-        # show_table(task_names=task_names, scores=scores)
-
+    metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, eval_segment=eval_mode)
+    logger.info(f"Best metric: {metrics} with k: {k} and threshold: {threshold}")
     
 if __name__ == '__main__':
     main()
