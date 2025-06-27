@@ -123,7 +123,9 @@ def main():
     steps = 0
     best_metric = [0, 0, 0]
     best_k = 0
+    best_threshold = 0
     current_steps = 0
+    
     for e_i in range(EPOCH):
         for batch in train_data_loader:
             dist.barrier()
@@ -167,13 +169,14 @@ def main():
 
             if local_rank == 0:
                 predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
-                metrics, k = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
+                metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
                 
                 if metrics[0] > best_metric[0]:
                     best_metric = metrics
                     best_k = k
+                    best_threshold = threshold
                     
-                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, best_model_path)
+                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k, 'threshold': best_threshold}, best_model_path)
 
 
 if __name__ == '__main__':
