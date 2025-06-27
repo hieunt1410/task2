@@ -1,6 +1,6 @@
 import os
 os.environ['NUMEXPR_MAX_THREADS'] = '88'
-os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 from model import *
 from logger import *
@@ -138,6 +138,9 @@ def main():
             steps = 0
             model.eval()
             
+            best_metric = [0, 0, 0]
+            best_k = 0
+            
             if local_rank == 0:
                 logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, loss: {loss.item()}')
                 
@@ -148,8 +151,11 @@ def main():
                 # else:
                 #     raise ValueError('unknown model path')
                 predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
-                eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
-
+                metrics, k = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
+                
+                if metrics[0] > best_metric[0]:
+                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': metrics, 'k': k}, open(os.path.join(save_path, 'best_model.pth'), 'wb'))
+                    logger.info(f"Best metric: {metrics} with k: {k}")
 
 if __name__ == '__main__':
     main()

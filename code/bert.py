@@ -135,32 +135,28 @@ def get_metrics(
     return [f1, p, r]
 
 
-def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev", topk=1):
-    if topk is None:
-        list_k = [1, 2, 3]
+def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev"):
+    best_metric = [0, 0, 0]
+    best_k = 0
+    
+    list_k = [1, 2, 3]
 
-        best_metric = [0, 0, 0]
-        best_k = 0
-
-        for k in list_k:
-            res = get_metrics(
-                predictions,
-                year,
-                dataset_path,
-                eval_segment,
-                topk,
-            )
-            if res[0] > best_metric[0]:
-                torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, 'roberta_best_model.pth'), 'wb'))
-                
-                best_metric = res
-                best_k = k
-
-                with open(os.path.join(save_path, 'best_k.txt'), "w") as f:
-                    f.write(f"k: {best_k}")
-        logger.info(f"Best metric: {best_metric} with k: {best_k}")
-    else:
+    for k in list_k:
         res = get_metrics(
-            predictions, year, dataset_path, eval_segment, topk
+            predictions,
+            year,
+            dataset_path,
+            eval_segment,
+            k,
         )
-        logger.info(f"Result: {res}")
+        if res[0] > best_metric[0]:
+            torch.save(model.state_dict(), os.path.join(save_path, 'best_model.pth'))
+            
+            best_metric = res
+            best_k = k
+
+            with open(os.path.join(save_path, 'best_k.txt'), "w") as f:
+                f.write(f"k: {best_k}")
+    
+    return best_metric, best_k
+
