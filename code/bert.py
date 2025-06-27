@@ -123,7 +123,9 @@ def get_metrics(
 
         label = [1 if f in label_data[case] else 0 for f in candidate_cases]
         pred = (predictions[case] > threshold).astype(int)
-
+        print(label)
+        print(predictions[case])
+        
         tp += np.sum([1 if a == b and a == 1 else 0 for a, b in zip(pred, label)])
         fp += np.sum([1 if a != b and a == 1 else 0 for a, b in zip(pred, label)])
         fn += np.sum([1 if a != b and a == 0 else 0 for a, b in zip(pred, label)])
@@ -153,9 +155,10 @@ def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev
                 k,
                 threshold,
             )
-        if res[0] > best_metric[0]:
-            best_metric = res
-            best_k = k
-            best_threshold = threshold
+            if res[0] > best_metric[0]:
+                best_metric = res
+                best_k = k
+                best_threshold = threshold
+                
     return best_metric, best_k, best_threshold
 
