@@ -64,7 +64,7 @@ def main():
         year='2025',
         training_samples_file="./data/task2_train_negatives.json",
     )
-    train_data_set = train_data_set[:10]
+    # train_data_set = train_data_set[:10]
     
     train_sampler = DistributedSampler(train_data_set)
     train_data_loader = DataLoader(
