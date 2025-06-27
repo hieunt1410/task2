@@ -6,8 +6,8 @@ from model import *
 from logger import *
 from data_set import *
 from loss import TranslatedReLU, SmoothK2Loss
+from bert import make_predictions, eval_end_model
 
-import sys
 import random
 import numpy as np
 from data_set import MyDataSet, BatchCollator

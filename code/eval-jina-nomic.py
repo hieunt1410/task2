@@ -44,4 +44,4 @@ def main():
     metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=data_path, eval_segment=eval_mode)
     logger.info(f"Best metric: {metrics} with k: {k} and threshold: {threshold}")
 if __name__ == '__main__':
-    main()    
+    main()
