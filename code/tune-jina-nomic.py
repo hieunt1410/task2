@@ -36,7 +36,7 @@ torch.cuda.set_device(local_rank)
 device = torch.device('cuda', local_rank)
 
 BERT_LEARNING_RATE = 5e-5
-EPOCH, BATCH_SIZE = 10, 1
+EPOCH, BATCH_SIZE = 10, 4
 EVALUATION_PER_STEP = 300
 MAX_SEQUENCE_LENGTH = 1536
 
