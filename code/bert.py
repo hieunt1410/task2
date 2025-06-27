@@ -110,6 +110,7 @@ def get_metrics(
     dataset_path,
     eval_segment="dev",
     topk=1,
+    threshold=0.7,
 ):
     corpus_dir, cases_dir, label_data = get_data(
         dataset_path, year=year, segment=eval_segment
@@ -121,7 +122,7 @@ def get_metrics(
         candidate_cases = sorted(os.listdir(candidate_dir))
 
         label = [1 if f in label_data[case] else 0 for f in candidate_cases]
-        pred = (predictions[case] > 0.7).astype(int)
+        pred = (predictions[case] > threshold).astype(int)
 
         tp += np.sum([1 if a == b and a == 1 else 0 for a, b in zip(pred, label)])
         fp += np.sum([1 if a != b and a == 1 else 0 for a, b in zip(pred, label)])
@@ -138,20 +139,23 @@ def get_metrics(
 def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev"):
     best_metric = [0, 0, 0]
     best_k = 0
+    best_threshold = 0.7
     
     list_k = [1, 2, 3]
-
+    thresholds = [0.6, 0.7, 0.8]
     for k in list_k:
-        res = get_metrics(
-            predictions,
-            year,
-            dataset_path,
-            eval_segment,
-            k,
-        )
+        for threshold in thresholds:
+            res = get_metrics(
+                predictions,
+                year,
+                dataset_path,
+                eval_segment,
+                k,
+                threshold,
+            )
         if res[0] > best_metric[0]:
             best_metric = res
             best_k = k
-    
-    return best_metric, best_k
+            best_threshold = threshold
+    return best_metric, best_k, best_threshold
 
