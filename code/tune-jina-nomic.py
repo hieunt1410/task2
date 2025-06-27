@@ -21,18 +21,11 @@ from transformers import AutoTokenizer
 from transformers import get_linear_schedule_with_warmup
 
 # path
-save_path = './save'
-best_model_path = f'./save/jina_frozen_train.pth'
-model_path = 'jinaai/jina-embeddings-v2-base-en' 
+save_path = "./save"
+model_path = "FacebookAI/roberta-base"
+dataset_path = "./data/task2_train_files_2025"
+bm25_index_path = "./data/bm25_index_2025"
 # 'jinaai/jina-embeddings-v2-base-en' # '../../models/nomic-embed-text-v1' 
-
-# we need this to import senteval
-sys.path.insert(0, '../SentEval')
-import senteval
-
-evaluation_mode = 'dev'
-evaluation_tasks = ['STSBenchmark']
-sent_eval_data_path = '../SentEval/data'
 
 # we use DDP to train our model
 local_rank = int(os.environ['LOCAL_RANK'])
