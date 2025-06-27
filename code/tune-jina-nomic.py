@@ -38,7 +38,7 @@ device = torch.device('cuda', local_rank)
 BERT_LEARNING_RATE = 5e-5
 EPOCH, BATCH_SIZE = 10, 1
 EVALUATION_PER_STEP = 300
-MAX_SEQUENCE_LENGTH = 1536
+MAX_SEQUENCE_LENGTH = 1792
 
 def set_seed(seed=777):
     random.seed(seed)
@@ -128,7 +128,8 @@ def main():
     current_steps = 0
     
     for e_i in tqdm(range(EPOCH), desc='Epoch'):
-        for batch in tqdm(train_data_loader, desc=f'Epoch {e_i}', total=len(train_data_loader)):
+        pbar = tqdm(train_data_loader)
+        for batch in pbar:
             dist.barrier()
             model.train()
 
