@@ -34,8 +34,8 @@ torch.cuda.set_device(local_rank)
 device = torch.device('cuda', local_rank)
 
 BERT_LEARNING_RATE = 5e-5
-EPOCH, BATCH_SIZE = 4, 8
-EVALUATION_PER_STEP = 50
+EPOCH, BATCH_SIZE = 10, 2
+EVALUATION_PER_STEP = 300
 
 def set_seed(seed=777):
     random.seed(seed)
