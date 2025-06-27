@@ -121,7 +121,7 @@ def get_metrics(
         candidate_cases = sorted(os.listdir(candidate_dir))
 
         label = [1 if f in label_data[case] else 0 for f in candidate_cases]
-        pred = (predictions[case] > 0.6).astype(int)
+        pred = (predictions[case] > 0.7).astype(int)
 
         tp += np.sum([1 if a == b and a == 1 else 0 for a, b in zip(pred, label)])
         fp += np.sum([1 if a != b and a == 1 else 0 for a, b in zip(pred, label)])

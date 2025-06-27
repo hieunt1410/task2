@@ -1,6 +1,6 @@
 import os
 os.environ['NUMEXPR_MAX_THREADS'] = '88'
-os.environ['CUDA_VISIBLE_DEVICES'] = '0, 1' # A6000 x 2
+os.environ['CUDA_VISIBLE_DEVICES'] = '0' # A6000 x 2
 
 from model import *
 from logger import *
@@ -35,7 +35,7 @@ torch.cuda.set_device(local_rank)
 device = torch.device('cuda', local_rank)
 
 BERT_LEARNING_RATE = 5e-5
-EPOCH, BATCH_SIZE = 10, 2
+EPOCH, BATCH_SIZE = 10, 1
 EVALUATION_PER_STEP = 300
 MAX_SEQUENCE_LENGTH = 8192
 
