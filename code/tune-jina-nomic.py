@@ -173,7 +173,7 @@ def main():
 
             if local_rank == 0:
                 predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
-                metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
+                metrics, k, threshold = eval_end_model(predictions, year='2025', dataset_path=dataset_path, eval_segment="dev")
                 
                 if metrics[0] > best_metric[0]:
                     best_metric = metrics
