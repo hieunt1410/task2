@@ -138,6 +138,9 @@ def main():
 
     steps = 0
     current_steps = 0
+    best_metric = [0, 0, 0]
+    best_k = 0
+    
     for e_i in tqdm(range(EPOCH)):
         pbar = tqdm(train_data_loader)
         for batch in pbar:
@@ -175,8 +178,6 @@ def main():
             steps = 0
             model.eval()
             
-            best_metric = [0, 0, 0]
-            best_k = 0
             if local_rank == 0:
                 logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, loss: {loss.item()}')
                 predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)

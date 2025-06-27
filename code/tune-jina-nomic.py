@@ -54,10 +54,15 @@ def set_seed(seed=777):
 def main():
     set_seed()
 
-    train_data = load_dataset('json', data_dir='../data', data_files='merged-SICK-STS-B-train.jsonl', cache_dir=None)
-    
     tokenizer = AutoTokenizer.from_pretrained(model_path)
-    train_data_set = MyDataSet(tokenizer=tokenizer, data_set=train_data['train'])
+    train_data_set = MyDataSet(
+        tokenizer=tokenizer,
+        dataset_path=dataset_path,
+        num_pairs_per_batch=10,
+        ns_strategy="hard",
+        year='2025',
+        training_samples_file="./data/task2_train_negatives.json",
+    )
 
     train_sampler = DistributedSampler(train_data_set)
     train_data_loader = DataLoader(dataset=train_data_set, batch_size=BATCH_SIZE * dist.get_world_size(), sampler=train_sampler)
@@ -116,21 +121,22 @@ def main():
         logger.info(f'total steps: {total_steps}, with warm up steps: {warm_up_steps} and decay rate: {RATE_DECAY_FACTOR}')
 
     steps = 0
-    best_score = 0
+    best_metric = [0, 0, 0]
+    best_k = 0
     current_steps = 0
     for e_i in range(EPOCH):
         for batch in train_data_loader:
             dist.barrier()
             model.train()
 
-            encoded_1, encoded_2 = batch[:2]
-            prediction = model(encoded_1, encoded_2)
+            query_tensors, paragraph_tensors, labels = batch
+            prediction = model(query_tensors, paragraph_tensors)
 
             # special treatment for the left critical point
             mask = (prediction >= 0).type(prediction.dtype)
             prediction = prediction * mask
             
-            label = torch.FloatTensor(list(map(int, batch[-1]))).cuda()
+            label = torch.FloatTensor(list(map(int, labels))).cuda()
             label = label.reshape(label.shape[0], 1)
             
             if 'jina' in model_path:
@@ -157,84 +163,17 @@ def main():
 
             steps = 0
             model.eval()
-
-            def prepare(params, samples):
-                params.max_length = MAX_SEQUENCE_LENGTH
-                return
-
-            def batcher(params, batch):
-                # Handle rare token encoding issues in the dataset
-                if len(batch) >= 1 and len(batch[0]) >= 1 and isinstance(batch[0][0], bytes):
-                    batch = [[word.decode('utf-8') for word in sentence] for sentence in batch]
-
-                # batch is divided by token. we need to form sentences
-                sentences = [' '.join(sentence) for sentence in batch]
-
-                batch = tokenizer.batch_encode_plus(
-                    sentences,
-                    padding='max_length',
-                    truncation=True,
-                    max_length=params.max_length,
-                    return_tensors='pt',
-                )
-
-                for j in batch: 
-                    batch[j] = batch[j].to(device)
-
-                with torch.no_grad():
-                    outputs = model.module.text2embedding(batch)
-
-                return outputs.cpu()
             
-            if evaluation_mode in ['dev', 'fasttest']:
-                params = {
-                    'task_path': sent_eval_data_path,
-                    'usepytorch': True,
-                    'kfold': 5,
-                    'classifier': {
-                        'nhid': 0,
-                        'optim': 'rmsprop',
-                        'batch_size': 128,
-                        'tenacity': 3,
-                        'epoch_size': 2,
-                    },
-                }
-            elif evaluation_mode == 'test':
-                params = {
-                    'task_path': sent_eval_data_path,
-                    'usepytorch': True,
-                    'kfold': 10,
-                    'classifier': {
-                        'nhid': 0,
-                        'optim': 'adam',
-                        'batch_size': 64,
-                        'tenacity': 5,
-                        'epoch_size': 4,
-                    },
-                }
-            else:
-                raise ValueError(f'unknown {evaluation_mode}') 
-            
+
             if local_rank == 0:
-                total_score = 0
-                for task in evaluation_tasks:
-                    se = senteval.engine.SE(params, batcher, prepare)
-                    result = se.eval(task)
-                    total_score += result['dev']['spearman'][0] * 100
+                predictions = make_predictions(model, tokenizer, dataset_path, year='2025', eval_segment="dev", device=device)
+                metrics, k = eval_end_model(predictions, year='2025', dataset_path=dataset_path, save_path=save_path, eval_segment="dev")
                 
-                average_score = total_score / len(evaluation_tasks)
-                logger.info(f'epoch: {e_i}, steps: {current_steps}, proportion: {current_steps / total_steps}, score: {average_score}')
-                
-                if average_score > best_score:
-                    best_score = average_score
-                    logger.info(f'new best model, epoch: {e_i}, score: {best_score} !!!')
+                if metrics[0] > best_metric[0]:
+                    best_metric = metrics
+                    best_k = k
                     
-                    if 'jina' in model_path:
-                        torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, 'j_best_model.pth'), 'wb'))
-                    elif 'nomic' in model_path:
-                        torch.save({'model': model.module.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, 'n_best_model.pth'), 'wb'))
-                    else:
-                        raise ValueError('unknown model path')
+                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, open(os.path.join(save_path, 'best_model.pth'), 'wb'))
 
 
 if __name__ == '__main__':

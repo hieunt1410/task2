@@ -46,7 +46,7 @@ def main():
     set_seed()
     
     BATCH_SIZE = 2
-    EVALUATION_PER_STEP = 1000
+    EVALUATION_PER_STEP = 300
     
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     train_data_set = MyDataSet(
