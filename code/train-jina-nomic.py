@@ -23,7 +23,7 @@ from tqdm import tqdm
 
 # path
 save_path = './save'
-model_path = 'jinaai/jina-embeddings-v3'
+model_path = 'jinaai/jina-embeddings-v2-base-en'
 dataset_path = "./data/task2_train_files_2025"
 bm25_index_path = "./data/bm25_index_2025"
 

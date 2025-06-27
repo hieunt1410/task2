@@ -150,7 +150,7 @@ def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev
                 eval_segment,
                 topk,
             )
-            if res > best_metric:
+            if res[0] > best_metric[0]:
                 torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_score}, open(os.path.join(save_path, 'roberta_best_model.pth'), 'wb'))
                 
                 best_metric = res
