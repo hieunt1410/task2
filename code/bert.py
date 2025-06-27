@@ -123,8 +123,6 @@ def get_metrics(
 
         label = [1 if f in label_data[case] else 0 for f in candidate_cases]
         pred = (predictions[case] > threshold).astype(int)
-        print(label)
-        print(predictions[case])
         
         tp += np.sum([1 if a == b and a == 1 else 0 for a, b in zip(pred, label)])
         fp += np.sum([1 if a != b and a == 1 else 0 for a, b in zip(pred, label)])
