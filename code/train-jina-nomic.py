@@ -1,6 +1,6 @@
 import os
 os.environ['NUMEXPR_MAX_THREADS'] = '88'
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
 
 from model import *
 from logger import *
