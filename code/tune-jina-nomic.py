@@ -10,7 +10,7 @@ from loss import TranslatedReLU, SmoothK2Loss
 import sys
 import random
 import numpy as np
-from datasets import load_dataset
+from data_set import MyDataSet, BatchCollator
 
 from torch.optim import AdamW
 import torch.distributed as dist
@@ -59,7 +59,12 @@ def main():
     )
 
     train_sampler = DistributedSampler(train_data_set)
-    train_data_loader = DataLoader(dataset=train_data_set, batch_size=BATCH_SIZE * dist.get_world_size(), sampler=train_sampler)
+        train_data_loader = DataLoader(
+        dataset=train_data_set,
+        batch_size=BATCH_SIZE * dist.get_world_size(),
+        sampler=train_sampler,
+        collate_fn=BatchCollator(tokenizer, device, MAX_SEQUENCE_LENGTH)
+    )
     
 
     model = Dual_Tower(model_path=model_path)
