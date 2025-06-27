@@ -195,6 +195,8 @@ def main():
                     torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k, 'threshold': best_threshold}, best_model_path)
 
                 logger.info(f"Best metric: {best_metric} with k: {best_k}")
+                
+    dist.destroy_process_group()
         
 if __name__ == "__main__":
     main()
