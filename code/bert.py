@@ -150,13 +150,8 @@ def eval_end_model(predictions, year, dataset_path, save_path, eval_segment="dev
             k,
         )
         if res[0] > best_metric[0]:
-            torch.save(model.state_dict(), os.path.join(save_path, 'best_model.pth'))
-            
             best_metric = res
             best_k = k
-
-            with open(os.path.join(save_path, 'best_k.txt'), "w") as f:
-                f.write(f"k: {best_k}")
     
     return best_metric, best_k
 
