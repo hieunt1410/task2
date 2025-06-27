@@ -1,31 +1,20 @@
-import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5'
-os.environ['http_proxy'] = 'http://127.0.0.1:2345'
-os.environ['https_proxy'] = 'http://127.0.0.1:2345'
-os.environ['no_proxy'] = '127.0.0.1,localhost'
-
 from model import *
 from logger import *
+from bert import *
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+# os.environ['CUDA_VISIBLE_DEVICES'] = '4, 5'
 
 import sys
-import torch
 from prettytable import PrettyTable
 from transformers import AutoTokenizer
 
-# we need this to import senteval
-sys.path.insert(0, '../SentEval')
-import senteval
+eval_mode = 'test'
 
-sent_eval_mode = 'test'
-tasks = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16', 'STSBenchmark', 'SICKRelatedness']
-
-data_path = '../SentEval/data'
-best_model_path = './save/j_best_model.pth'
+best_model_path = './save/jina_frozen_train.pth'
 model_path = 'jinaai/jina-embeddings-v2-base-en'
-# 'jinaai/jina-embeddings-v2-base-en' # '../../models/nomic-embed-text-v1'
+data_path = './data/task2_train_files_2025'
 
-# n_cse_best_model.pth: 82.32
-# j_cse_best_model.pth: 82.44
 
 def show_table(task_names, scores):
     table = PrettyTable()
@@ -34,17 +23,16 @@ def show_table(task_names, scores):
     print(table)
 
 def main():
-    if 'bert' in model_path:
-        model = Average_BERT(bert_path=model_path)
-    else:
-        model = Dual_Tower(model_path=model_path)
-    
+    model = Dual_Tower(model_path=model_path)
+    model = torch.nn.DataParallel(model)
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     if os.path.exists(best_model_path):
-        check_point = torch.load(best_model_path)
-        model.load_state_dict(check_point['model'])  # corresponding to torch.save in train.py
+        check_point = torch.load(best_model_path, weights_only=False, map_location=device)
+        state_dict = check_point['model']
+        model.load_state_dict(state_dict)
         logger.info(f'load best model with epoch: {check_point["epoch"]} and dev score: {check_point["score"]}')
     else:
-        raise ValueError(f'fail to load {best_model_path}')    
+        raise ValueError(f'fail to load {best_model_path}')
     
     tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path=model_path)
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

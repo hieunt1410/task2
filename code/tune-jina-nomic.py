@@ -37,7 +37,7 @@ device = torch.device('cuda', local_rank)
 BERT_LEARNING_RATE = 5e-5
 EPOCH, BATCH_SIZE = 10, 1
 EVALUATION_PER_STEP = 300
-MAX_SEQUENCE_LENGTH = 2048
+MAX_SEQUENCE_LENGTH = 1536
 
 def set_seed(seed=777):
     random.seed(seed)
