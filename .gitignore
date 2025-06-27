@@ -1,3 +1,4 @@
 env/
 code/__pycache__/
 *.log
+save/
