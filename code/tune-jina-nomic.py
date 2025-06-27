@@ -59,7 +59,7 @@ def main():
     )
 
     train_sampler = DistributedSampler(train_data_set)
-        train_data_loader = DataLoader(
+    train_data_loader = DataLoader(
         dataset=train_data_set,
         batch_size=BATCH_SIZE * dist.get_world_size(),
         sampler=train_sampler,
