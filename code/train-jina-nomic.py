@@ -48,6 +48,7 @@ def main():
     EPOCH = 3
     BATCH_SIZE = 1
     EVALUATION_PER_STEP = 300
+    MAX_SEQUENCE_LENGTH = 1792
     
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     train_data_set = MyDataSet(

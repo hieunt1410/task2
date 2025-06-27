@@ -26,7 +26,7 @@ save_path = "./save"
 model_path = "jinaai/jina-embeddings-v2-base-en"
 dataset_path = "./data/task2_train_files_2025"
 bm25_index_path = "./data/bm25_index_2025"
-best_model_path = './save/jina_frozen_train.pth'
+best_model_path = './save/jina_nomic_train.pth'
 # 'jinaai/jina-embeddings-v2-base-en' # '../../models/nomic-embed-text-v1' 
 
 # we use DDP to train our model
