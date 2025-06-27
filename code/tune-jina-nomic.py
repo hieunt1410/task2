@@ -167,7 +167,7 @@ def main():
                     best_metric = metrics
                     best_k = k
                     
-                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, open(best_model_path), 'wb'))
+                    torch.save({'model': model.state_dict(), 'epoch': e_i, 'score': best_metric, 'k': best_k}, best_model_path)
 
 
 if __name__ == '__main__':
