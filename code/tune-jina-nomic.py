@@ -7,6 +7,7 @@ from logger import *
 from data_set import *
 from loss import TranslatedReLU, SmoothK2Loss
 from bert import make_predictions, eval_end_model
+from tqdm import tqdm
 
 import random
 import numpy as np
@@ -95,7 +96,7 @@ def main():
             'params': [parameter],
             'lr': BERT_LEARNING_RATE,
             'weight_decay': 0.0 if any(item in name for item in no_decay) else ADAM_WEIGHT_DECAY
-        }   
+        }
 
         for layer_name, learning_rate in layer_learning_rate.items():
             if layer_name in name:
@@ -126,8 +127,8 @@ def main():
     best_threshold = 0
     current_steps = 0
     
-    for e_i in range(EPOCH):
-        for batch in train_data_loader:
+    for e_i in tqdm(range(EPOCH), desc='Epoch'):
+        for batch in tqdm(train_data_loader, desc=f'Epoch {e_i}', total=len(train_data_loader)):
             dist.barrier()
             model.train()
 
@@ -157,6 +158,8 @@ def main():
             model.zero_grad()
 
             dist.barrier()
+            pbar.update(1)
+            pbar.set_postfix(proportion=current_steps / total_steps, loss=loss.item(), lr=scheduler.get_last_lr()[0])
             current_steps += dist.get_world_size()
             steps += dist.get_world_size()
 
