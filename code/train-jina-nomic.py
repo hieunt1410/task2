@@ -45,7 +45,8 @@ def set_seed(seed=777):
 def main():
     set_seed()
     
-    BATCH_SIZE = 2
+    EPOCH = 3
+    BATCH_SIZE = 1
     EVALUATION_PER_STEP = 300
     
     tokenizer = AutoTokenizer.from_pretrained(model_path)
